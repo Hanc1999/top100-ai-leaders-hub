@@ -1,0 +1,918 @@
+{
+ "rank": 34,
+ "id": "peak-ji",
+ "name": {
+  "en": "Peak Ji",
+  "zh": "季逸超"
+ },
+ "role": {
+  "en": "Co-founder & Chief Scientist, Manus (Butterfly Effect)",
+  "zh": "Manus（蝴蝶效应）联合创始人兼首席科学家"
+ },
+ "org": "Manus",
+ "region": {
+  "en": "China / Singapore",
+  "zh": "中国/新加坡"
+ },
+ "tags": [
+  "Manus",
+  "Context Engineering",
+  "Agents",
+  "Butterfly Effect",
+  "Magi"
+ ],
+ "why": {
+  "en": "Technical lead of Manus. His 'Context Engineering for AI Agents' systematised six principles that became the most widely cited engineering text in the agent field. Earlier known for the Magi search engine and Mammoth browser.",
+  "zh": "Manus 的技术负责人。其《Context Engineering for AI Agents》系统化了 Agent 上下文工程的六条原则，是该领域被引用最广的工程实践文本。早年以 Magi 搜索引擎与猛犸浏览器成名。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@peakji",
+   "url": "https://x.com/peakji",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — @peakji",
+   "url": "https://medium.com/@peakji",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Personal site",
+   "url": "https://peakji.com/",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @peakji",
+   "url": "https://github.com/peakji",
+   "t": 1
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face @peakji",
+   "url": "https://huggingface.co/peakji",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Manus Blog",
+   "url": "https://manus.im/blog",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Manus",
+   "url": "https://manus.im/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Peak+Ji",
+   "t": 3
+  },
+  {
+   "kind": "weibo",
+   "label": "微博 — 搜索",
+   "url": "https://s.weibo.com/user?q=%E5%AD%A3%E9%80%B8%E8%B6%85",
+   "t": 3
+  },
+  {
+   "kind": "zhihu",
+   "label": "知乎 — 搜索",
+   "url": "https://www.zhihu.com/search?type=people&q=%E5%AD%A3%E9%80%B8%E8%B6%85",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "微信公众号 — 搜索",
+   "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%AD%A3%E9%80%B8%E8%B6%85",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "B 站 — 搜索",
+   "url": "https://search.bilibili.com/all?keyword=%E5%AD%A3%E9%80%B8%E8%B6%85",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Peak+Ji",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Peak+Ji",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Peak+Ji&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Peak+Ji&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=%E5%AD%A3%E9%80%B8%E8%B6%85",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Peak+Ji",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Peak+Ji",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Peak+Ji",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Peak+Ji",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Peak+Ji",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Peak+Ji",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Peak+Ji",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Peak+Ji&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "中文报道 — 最新",
+   "url": "https://www.google.com/search?q=%E5%AD%A3%E9%80%B8%E8%B6%85+AI&tbm=nws&hl=zh-CN",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Manus_(AI_agent)",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2025-07-18",
+   "kind": "blog",
+   "title": {
+    "en": "Context Engineering for AI Agents: Lessons from Building Manus",
+    "zh": "为 AI Agent 做上下文工程：构建 Manus 的经验"
+   },
+   "source": "Manus / Medium",
+   "url": "https://medium.com/@peakji/context-engineering-for-ai-agents-lessons-from-building-manus-71883f0a67f2",
+   "note": {
+    "en": "The six principles. The biggest gains came from removing things — complex tool definitions replaced by general shell execution, management agents replaced by structured handoffs.",
+    "zh": "六条原则。最大的收益来自「做减法」—— 用通用 shell 执行取代复杂工具定义，用结构化交接取代管理型 agent。"
+   }
+  },
+  {
+   "date": "2025-07-23",
+   "kind": "x",
+   "title": {
+    "en": "Errata: context engineering itself can overfit",
+    "zh": "勘误：上下文工程本身也会过拟合"
+   },
+   "source": "X",
+   "url": "https://x.com/peakji/status/1948060791636410404",
+   "note": {
+    "en": "Not just to model families, but to today's model limitations via premature optimization. Read alongside the original post.",
+    "zh": "不只对特定模型家族过拟合，还会通过过早优化对当下的模型局限过拟合。应与原文对照阅读。"
+   }
+  },
+  {
+   "date": "2025-10-15",
+   "kind": "interview",
+   "title": {
+    "en": "Context engineering in Manus — LangChain webinar writeup",
+    "zh": "Manus 的上下文工程 —— LangChain webinar 会后整理"
+   },
+   "source": "Lance Martin",
+   "url": "https://rlancemartin.github.io/2025/10/15/manus/",
+   "note": {
+    "en": "Second-hand notes on a first-hand talk; covers context rot, multi-agent coordination and action-space management.",
+    "zh": "一手演讲的二手整理；涉及 context rot、多智能体协同与动作空间管理。"
+   }
+  },
+  {
+   "date": "2026-02-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Well, I think I need to clarify this: Manus personal agent mode is not based on @openclaw. It is still built entirely on Manus's in-house architecture. That sai",
+    "zh": "Well, I think I need to clarify this: Manus personal agent mode is not based on @openclaw. It is still built entirely on Manus's in-house architecture. That sai"
+   },
+   "source": "@peakji",
+   "url": "https://x.com/peakji/status/2023698858287730870",
+   "note": {
+    "en": "Ji clarifies that Manus's personal agent mode is built entirely on in-house architecture, not on the openclaw project.",
+    "zh": "季逸超澄清Manus的个人智能体模式完全基于自研架构构建，并非基于openclaw项目。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-30",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "128. Manus决定出售前最后的访谈：啊，这奇幻的2025年漂流啊…",
+    "zh": "128. Manus决定出售前最后的访谈：啊，这奇幻的2025年漂流啊…"
+   },
+   "source": "张小珺Jùn｜商业访谈录",
+   "url": "https://podcasts.apple.com/us/podcast/128-manus%E5%86%B3%E5%AE%9A%E5%87%BA%E5%94%AE%E5%89%8D%E6%9C%80%E5%90%8E%E7%9A%84%E8%AE%BF%E8%B0%88-%E5%95%8A-%E8%BF%99%E5%A5%87%E5%B9%BB%E7%9A%842025%E5%B9%B4%E6%BC%82%E6%B5%81%E5%95%8A/id1634356920?i=1000743131736&uo=4",
+   "note": {
+    "en": "Peak Ji's final interview as Manus co-founder before Meta's acquisition of the company was announced, recorded just before the deal closed.",
+    "zh": "季逸超作为Manus联合创始人的最后一次访谈，录制于Meta宣布全资收购Manus之前。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcast_show"
+  },
+  {
+   "date": "2025-10-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Happy to see Manus hitting SOTA in @scale_AI &amp; @cais' new benchmark, but that 2.5% on the Y-axis says we've still got a loooong way to go😅",
+    "zh": "Happy to see Manus hitting SOTA in @scale_AI &amp; @cais' new benchmark, but that 2.5% on the Y-axis says we've still got a loooong way to go😅"
+   },
+   "source": "@peakji",
+   "url": "https://x.com/peakji/status/1983761829605339379",
+   "note": {
+    "en": "Reports Manus topping Scale AI and CAIS's new agent benchmark while pointing out the leading score is only 2.5% — a public reminder of how early the field still is.",
+    "zh": "他公布 Manus 在 Scale AI 与 CAIS 的新基准上取得最好成绩，同时指出最高分只有 2.5%，提醒外界这一领域仍处于早期。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-10-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The all new web dev experience are now fully rolled out and available to all users. Behind it is still a unified general agent architecture, where every capabil",
+    "zh": "The all new web dev experience are now fully rolled out and available to all users. Behind it is still a unified general agent architecture, where every capabil"
+   },
+   "source": "@peakji",
+   "url": "https://x.com/peakji/status/1979430468660662442",
+   "note": {
+    "en": "Announces the full rollout of Manus's new web development experience, built on one unified general-agent architecture rather than a separate coding mode.",
+    "zh": "宣布 Manus 全新的网页开发功能面向所有用户开放，其底层仍是统一的通用智能体架构，而不是单独的编程模式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-09-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Grateful to be named in this year's MIT TR35 at 33. Fourteen years ago, I was fortunate to be on Forbes 30 Under 30 at 19. The past 14 years have been about lea",
+    "zh": "Grateful to be named in this year's MIT TR35 at 33. Fourteen years ago, I was fortunate to be on Forbes 30 Under 30 at 19. The past 14 years have been about lea"
+   },
+   "source": "@peakji",
+   "url": "https://x.com/peakji/status/1965974007238533411",
+   "note": {
+    "en": "Notes his selection for MIT Technology Review's Innovators Under 35 at the age of 33, fourteen years after making Forbes 30 Under 30 at 19.",
+    "zh": "他表示自己在 33 岁入选《麻省理工科技评论》35 岁以下创新者，距 19 岁登上福布斯 30 Under 30 已过去十四年。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-08-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Today a16z released the latest AI Top 50 list. As a small startup, it's truly an honor that we made it with not just one, but two products. The company is charg",
+    "zh": "Today a16z released the latest AI Top 50 list. As a small startup, it's truly an honor that we made it with not just one, but two products. The company is charg"
+   },
+   "source": "@peakji",
+   "url": "https://x.com/peakji/status/1961082747084234929",
+   "note": {
+    "en": "Notes that two Manus products made a16z's AI Top 50 list and that the company is approaching a $100M revenue milestone.",
+    "zh": "他提到 Manus 有两款产品入选 a16z 的 AI Top 50 榜单，公司营收也正逼近 1 亿美元关口。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-08-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Just had a great conversation with @paulharapin at Stripe Tour Singapore. It's amazing to see Manus grow from launch in March to a $90M revenue run rate, with $",
+    "zh": "Just had a great conversation with @paulharapin at Stripe Tour Singapore. It's amazing to see Manus grow from launch in March to a $90M revenue run rate, with $"
+   },
+   "source": "@peakji",
+   "url": "https://x.com/peakji/status/1958014724135625211",
+   "note": {
+    "en": "Puts Manus at a $90M revenue run rate about five months after its March launch, in a conversation with Stripe at its Singapore tour.",
+    "zh": "他在 Stripe 新加坡站的对谈中透露，Manus 在 3 月上线约五个月后年化营收已达 9000 万美元。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-31",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Wide Research is our latest exploration in agent-agent collaboration. Built on our large-scale virtualization infrastructure, Manus can now autonomously dispatc",
+    "zh": "Wide Research is our latest exploration in agent-agent collaboration. Built on our large-scale virtualization infrastructure, Manus can now autonomously dispatc"
+   },
+   "source": "@peakji",
+   "url": "https://x.com/peakji/status/1950953265669214694",
+   "note": {
+    "en": "Introduces Wide Research, Manus's agent-to-agent feature that dispatches a team of parallel agents on the company's own virtualization infrastructure.",
+    "zh": "介绍 Manus 的 Wide Research 功能：在自建的大规模虚拟化基础设施上自动调度一组同构智能体并行协作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Choose the system architecture that benefits the most from switching to a stronger model, instead of comparing design choices using the same model. I treat it a",
+    "zh": "Choose the system architecture that benefits the most from switching to a stronger model, instead of comparing design choices using the same model. I treat it a"
+   },
+   "source": "@peakji",
+   "url": "https://x.com/peakji/status/1948235806394769758",
+   "note": {
+    "en": "Argues agent architectures should be judged by how much they gain from switching to a stronger model, treating that as a regularizer against overfitting to today's models.",
+    "zh": "他主张评价智能体架构应当看它换用更强模型后能获得多少提升，并把这一点当作防止针对当前模型过拟合的正则项。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "After four overhauls and millions of real-world sessions, here are the lessons we learned about context engineering for AI agents: https://t.co/Ql014rEzBQ",
+    "zh": "After four overhauls and millions of real-world sessions, here are the lessons we learned about context engineering for AI agents: https://t.co/Ql014rEzBQ"
+   },
+   "source": "@peakji",
+   "url": "https://x.com/peakji/status/1946240739178164246",
+   "note": {
+    "en": "Publishes 'Context Engineering for AI Agents', the lessons from four rebuilds of Manus that became the most widely cited engineering write-up in the agent field.",
+    "zh": "他发布《面向 AI 智能体的上下文工程》，总结 Manus 四次重构积累的经验，成为智能体领域被引用最多的工程文章。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-03-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The Jevons Paradox in AI is absolutely real. Over the past two years, we've been building chatbots and have witnessed the inference costs of models with the sam",
+    "zh": "The Jevons Paradox in AI is absolutely real. Over the past two years, we've been building chatbots and have witnessed the inference costs of models with the sam"
+   },
+   "source": "@peakji",
+   "url": "https://x.com/peakji/status/1901794685385068575",
+   "note": {
+    "en": "Argues the Jevons paradox holds in AI, citing a 50- to 100-fold fall over two years in the inference cost of models at the same level of capability.",
+    "zh": "他认为杰文斯悖论在 AI 领域确实成立，并举例称同等智能水平模型的推理成本在两年内下降了 50 到 100 倍。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-03-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "@jianxliao @browser_use Hi! I'm Peak from Manus AI. Actually, it's not that complicated - the sandbox is directly accessible to each user (see screenshot for me",
+    "zh": "@jianxliao @browser_use Hi! I'm Peak from Manus AI. Actually, it's not that complicated - the sandbox is directly accessible to each user (see screenshot for me"
+   },
+   "source": "@peakji",
+   "url": "https://x.com/peakji/status/1898994802194346408",
+   "note": {
+    "en": "Answers the claim that Manus's sandbox had been leaked by explaining that each session's sandbox is deliberately open to its own user.",
+    "zh": "针对 Manus 沙箱被“泄露”的说法，他解释每个会话的沙箱本就对该用户开放，属于有意的设计。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-03-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Actually, Manus doesn't use MCP. We were more inspired by my friend @xingyaow_ 's work: https://t.co/EHrKdTphdB. While we haven't fully adopted CodeAct, this wo",
+    "zh": "Actually, Manus doesn't use MCP. We were more inspired by my friend @xingyaow_ 's work: https://t.co/EHrKdTphdB. While we haven't fully adopted CodeAct, this wo"
+   },
+   "source": "@peakji",
+   "url": "https://x.com/peakji/status/1899005201778086166",
+   "note": {
+    "en": "States that Manus does not use MCP and was instead shaped by CodeAct, one of the clearest public accounts of how the agent executes actions.",
+    "zh": "他说明 Manus 并未使用 MCP，而是受 CodeAct 启发，这是外界了解其动作执行方式最清晰的一次公开说明。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-03-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "@TenzinTheCyber @jianxliao @browser_use We use Claude and different Qwen-finetunes. Back when we started building Manus, we only got Claude 3.5 Sonnet v1 (not l",
+    "zh": "@TenzinTheCyber @jianxliao @browser_use We use Claude and different Qwen-finetunes. Back when we started building Manus, we only got Claude 3.5 Sonnet v1 (not l"
+   },
+   "source": "@peakji",
+   "url": "https://x.com/peakji/status/1898997311646437487",
+   "note": {
+    "en": "Discloses that Manus runs on Claude plus in-house Qwen fine-tunes, the first public account of the model stack behind the agent.",
+    "zh": "他披露 Manus 基于 Claude 与自研的 Qwen 微调模型运行，这是其模型栈的首次公开说明。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-03-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "@xennygrimmato_ @xingyaow_ Relying on text alone loses a lot of information, here are two examples: 1. Interacting with web apps requires understanding of layou",
+    "zh": "@xennygrimmato_ @xingyaow_ Relying on text alone loses a lot of information, here are two examples: 1. Interacting with web apps requires understanding of layou"
+   },
+   "source": "@peakji",
+   "url": "https://x.com/peakji/status/1899023218087796791",
+   "note": {
+    "en": "Explains why a Manus agent reads pages visually rather than as plain text: page layout and merged table cells carry information that text alone loses.",
+    "zh": "他解释 Manus 智能体为何以视觉方式读取网页：页面布局和表格合并单元格所携带的信息在纯文本中会丢失。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-03-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We are back! This is the ONLY official account of Manus ⬇️ Just to be clear: - Manus has never been involved with cryptocurrency projects, token issuance, or bl",
+    "zh": "We are back! This is the ONLY official account of Manus ⬇️ Just to be clear: - Manus has never been involved with cryptocurrency projects, token issuance, or bl"
+   },
+   "source": "@peakji",
+   "url": "https://x.com/peakji/status/1898201832440447201",
+   "note": {
+    "en": "Ji states on Manus's sole official account that the company has never been involved in any cryptocurrency or token projects, warning against impostor accounts.",
+    "zh": "季逸超在Manus唯一官方账号上声明公司从未涉及任何加密货币或代币项目，并提醒警惕冒充账号。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-03-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Important Notice Regarding Manus's X Account Suspension Our official X account (@manusai) was unexpectedly suspended yesterday. We're actively working with X's",
+    "zh": "Important Notice Regarding Manus's X Account Suspension Our official X account (@manusai) was unexpectedly suspended yesterday. We're actively working with X's"
+   },
+   "source": "@peakji",
+   "url": "https://x.com/peakji/status/1897881648152379652",
+   "note": {
+    "en": "Ji announces that Manus's official X account was unexpectedly suspended and says the team is working with X support to resolve it.",
+    "zh": "季逸超宣布Manus官方X账号被意外封禁，并表示团队正与X客服协调解决。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-10-21",
+   "ts": null,
+   "kind": "report",
+   "title": {
+    "en": "peakji/steiner-32b-preview-awq",
+    "zh": "peakji/steiner-32b-preview-awq"
+   },
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/peakji/steiner-32b-preview-awq",
+   "note": {
+    "en": "An AWQ-quantised release of Steiner-32B-preview, the open reasoning model he published under his own Hugging Face account.",
+    "zh": "他在个人 Hugging Face 账号下发布的开源推理模型 Steiner-32B-preview 的 AWQ 量化版本。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "huggingface",
+   "connector": "huggingface"
+  },
+  {
+   "date": "2024-10-21",
+   "ts": null,
+   "kind": "report",
+   "title": {
+    "en": "peakji/steiner-32b-preview",
+    "zh": "peakji/steiner-32b-preview"
+   },
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/peakji/steiner-32b-preview",
+   "note": {
+    "en": "Steiner-32B-preview, the open reasoning model he trained and released before Manus; its planning approach later fed into the Manus agent.",
+    "zh": "Steiner-32B-preview，他在 Manus 之前训练并开源的推理模型，其规划思路后来被用到 Manus 智能体中。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "huggingface",
+   "connector": "huggingface"
+  },
+  {
+   "date": "2024-10-21",
+   "ts": null,
+   "kind": "report",
+   "title": {
+    "en": "peakji/peak-reasoning-7b",
+    "zh": "peakji/peak-reasoning-7b"
+   },
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/peakji/peak-reasoning-7b",
+   "note": {
+    "en": "An openly released 7B reasoning model on his Hugging Face account, published days before the Steiner preview.",
+    "zh": "他在 Hugging Face 上公开发布的 7B 推理模型，发布时间比 Steiner 预览版早几天。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "huggingface",
+   "connector": "huggingface"
+  },
+  {
+   "date": "2024-10-21",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "A Small Step Towards Reproducing OpenAI o1",
+    "zh": "A Small Step Towards Reproducing OpenAI o1"
+   },
+   "source": "Stories by Yichao &#39;Peak&#39; Ji on…",
+   "url": "https://medium.com/@peakji/a-small-step-towards-reproducing-openai-o1-b9a756a00855?source=rss-3b3a3455ad78------2",
+   "note": {
+    "en": "Progress report on Steiner, the open-source reasoning models Ji trained in his spare time to reproduce OpenAI o1, written up so others need not repeat the compute.",
+    "zh": "季逸超利用业余时间复现 OpenAI o1 所训练的开源推理模型 Steiner 的阶段性进展报告，把经验公开以免他人重复消耗算力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2024-09-17",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "季逸超发表了文章: 山寨版 OpenAI o1 实验记录",
+    "zh": "季逸超发表了文章: 山寨版 OpenAI o1 实验记录"
+   },
+   "source": "季逸超的知乎动态",
+   "url": "https://zhuanlan.zhihu.com/p/720575010",
+   "note": {
+    "en": "Ji's earlier experiment log for a 7B home-made o1 replica, including the inference-time evidence that first led him to try it.",
+    "zh": "季逸超更早的实验记录：他自制的 7B 版 o1 复现模型，以及最初促使他动手尝试的推理阶段线索。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "zhihu",
+   "connector": "zhihu"
+  },
+  {
+   "date": "2024-03-11",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "60. 与戴雨森和季逸超聊，一幅Sora的信息拼图和大模型淘汰赛",
+    "zh": "60. 与戴雨森和季逸超聊，一幅Sora的信息拼图和大模型淘汰赛"
+   },
+   "source": "张小珺Jùn｜商业访谈录",
+   "url": "https://podcasts.apple.com/us/podcast/60-%E4%B8%8E%E6%88%B4%E9%9B%A8%E6%A3%AE%E5%92%8C%E5%AD%A3%E9%80%B8%E8%B6%85%E8%81%8A-%E4%B8%80%E5%B9%85sora%E7%9A%84%E4%BF%A1%E6%81%AF%E6%8B%BC%E5%9B%BE%E5%92%8C%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B7%98%E6%B1%B0%E8%B5%9B/id1634356920?i=1000648709585&uo=4",
+   "note": {
+    "en": "Peak Ji joins a discussion piecing together what's known about Sora and the shakeout among large model makers, alongside investor Dai Yusen.",
+    "zh": "季逸超与投资人戴雨森一同参与访谈，拼凑关于Sora的信息并讨论大模型行业的淘汰赛。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
+   "date": "2022-07-16",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "季逸超回答了问题: 如何评价米哈游虚拟偶像「鹿鸣」的首次直播?",
+    "zh": "季逸超回答了问题: 如何评价米哈游虚拟偶像「鹿鸣」的首次直播?"
+   },
+   "source": "季逸超的知乎动态",
+   "url": "https://www.zhihu.com/question/543498890/answer/2576907662",
+   "note": {
+    "en": "Ji's technical read of a virtual-idol livestream, reasoning from the recording about how the speech synthesis and motion capture were done.",
+    "zh": "季逸超对一场虚拟偶像直播的技术解读，从录像出发推测其语音合成与动作捕捉的实现方式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "zhihu",
+   "connector": "zhihu"
+  },
+  {
+   "date": "2022-01-13",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "季逸超回答了问题: 知识图谱是否是 NLP 的未来？",
+    "zh": "季逸超回答了问题: 知识图谱是否是 NLP 的未来？"
+   },
+   "source": "季逸超的知乎动态",
+   "url": "https://www.zhihu.com/question/267242467/answer/2308965409",
+   "note": {
+    "en": "Ji's answer on whether knowledge graphs are NLP's future, arguing from what a network can and cannot store that the two are complements rather than rivals.",
+    "zh": "季逸超回答知识图谱是否是 NLP 的未来，从神经网络能存与不能存什么出发，论证二者是互补而非替代关系。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "zhihu",
+   "connector": "zhihu"
+  },
+  {
+   "date": "2021-12-21",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "季逸超回答了问题: 如何评价 2021 年 12 月新改版的知识引擎 magi.com？",
+    "zh": "季逸超回答了问题: 如何评价 2021 年 12 月新改版的知识引擎 magi.com？"
+   },
+   "source": "季逸超的知乎动态",
+   "url": "https://www.zhihu.com/question/507509831/answer/2280443782",
+   "note": {
+    "en": "As Magi's developer, Ji reviews two years of work on the knowledge engine at its December 2021 relaunch, setting out both what it achieved and where it fell short.",
+    "zh": "作为 Magi 的开发者，季逸超在 2021 年 12 月改版之际回顾这两年的工作，既讲成果也讲不足。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "zhihu",
+   "connector": "zhihu"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-04-27",
+   "level": "major",
+   "title": {
+    "en": "China blocks Meta's $2B acquisition of Manus",
+    "zh": "中国否决 Meta 对 Manus 的 20 亿美元收购"
+   },
+   "body": {
+    "en": "The NDRC prohibited the foreign acquisition and required all parties to withdraw, after a months-long probe into national security and export-control concerns — noting Manus still relied on Chinese talent and technology.",
+    "zh": "国家发改委在历时数月的国家安全与出口管制审查后禁止该外资收购并要求各方退出，指出 Manus 仍依赖中国的人才与技术。"
+   },
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/"
+  },
+  {
+   "date": "2026-06-18",
+   "level": "notable",
+   "title": {
+    "en": "Early Chinese backers reported to be buying Manus back from Meta",
+    "zh": "早期中国投资方据报正从 Meta 回购 Manus"
+   },
+   "body": {
+    "en": "At roughly the same $2B valuation Meta paid.",
+    "zh": "估值约为 Meta 当初支付的同一 20 亿美元水平。"
+   },
+   "source": "The Information",
+   "url": "https://restofworld.org/2026/meta-manus-singapore/"
+  },
+  {
+   "date": "2026-09-01",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Manus官宣\"独立运营\"，创始团队回来了！9月1日，通用AI智能体公司Manus宣布即日起正式恢复独立运营，创始人肖弘、首席科学家季逸超和联合创始人张涛组成的创始团队将继续掌舵公司。Manus方面表示，作为独立的通用AI智能体实验室，公司将坚定不移地推进产",
+    "zh": "Manus官宣\"独立运营\"，创始团队回来了！9月1日，通用AI智能体公司Manus宣布即日起正式恢复独立运营，创始人肖弘、首席科学家季逸超和联合创始人张涛组成的创始团队将继续掌舵公司。Manus方面表示，作为独立的通用AI智能体实验室，公司将坚定不移地推进产"
+   },
+   "body": {
+    "en": "Manus announced it has resumed fully independent operations, with founders Xiao Hong, chief scientist Peak Ji and co-founder Zhang Tao continuing to lead the company after its earlier acquisition-and-buyback saga.",
+    "zh": "Manus宣布即日起正式恢复独立运营，创始人肖弘、首席科学家季逸超与联合创始人张涛将继续执掌公司，此前公司经历过被收购又回购的波折。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUjdIZkJ0eVBwa1BKWk9kdWxMNU5pT3ZOYnZ1cC05V1lIMFNiMkJtTG52akRIdm51Uk1ldnVhZXd3VTdsVEM1OVUtRmxycllHX20yUHlNUmJYbzNRNGVNaTJtTDNKZGVyaFFMTzRjSnMwY2Y4cFU3cnpYYlpnTk9OekNlRTFqLW5Gc0h1OA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-01",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "刚刚！Manus宣布恢复独立运营，肖弘张涛季逸超继续领导公司",
+    "zh": "刚刚！Manus宣布恢复独立运营，肖弘张涛季逸超继续领导公司"
+   },
+   "body": {
+    "en": "Manus announced it is resuming independent operations, with Peak Ji continuing to lead the company alongside Xiao Hong and Zhang Tao.",
+    "zh": "Manus 宣布恢复独立运营，季逸超将与肖弘、张涛继续共同领导公司。"
+   },
+   "source": "t.cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZVGJmby1IS2lYdGZYU1lwRV9DYWVIWEFKdmRuNlBhQVhFQXFhbDlWc2JMVmx6dEdKbW9zenVtdkZZLXJ5NlloVXdQdXh5Ui1SSmZsbHhyN0hGblFWMW1PVjIwQUZ6azFmSThqT1Q1RDhqQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-22",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "消息称 Manus 创始人肖弘、季逸超、张涛考虑融资 10 亿美元回购公司，后续或赴港 IPO",
+    "zh": "消息称 Manus 创始人肖弘、季逸超、张涛考虑融资 10 亿美元回购公司，后续或赴港 IPO"
+   },
+   "body": {
+    "en": "Reports said Manus founders including Peak Ji were seeking about $1 billion to buy the company back, with a possible Hong Kong listing to follow.",
+    "zh": "有消息称，包括季逸超在内的 Manus 创始人正筹集约10亿美元回购公司，后续可能赴港上市。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zdUV0VVI1VVlLOXI0SnVWdkRjWWN4eGQ0VkotNXJ0S0k0bE1WZzFTZ0VrYmJvcGlxWENTZkxQMnlSd0hob1hMdHdZYkZreXNNRENoUy1mcXFJM1dneDJDYmZSZktVLVU4XzE1Wm1VS0hGWTFYQkZRd2JEb2hjbjQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-22",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "消息称Manus创始人肖弘、季逸超、张涛考虑融资10亿美元回购公司，后续或赴港IPO",
+    "zh": "消息称Manus创始人肖弘、季逸超、张涛考虑融资10亿美元回购公司，后续或赴港IPO"
+   },
+   "body": {
+    "en": "Reports that Manus founders Xiao Hong, Peak Ji and Zhang Tao are weighing a $1B raise to buy the company back, with a Hong Kong listing to follow.",
+    "zh": "报道称 Manus 创始人肖弘、季逸超、张涛正考虑融资 10 亿美元回购公司，后续或赴港上市。"
+   },
+   "source": "TMT观察网",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kNnViYm1KYnJ6c09jdlJaMHlQeXlPRmtqWWJ5aWV2TmlvMnpvdUthSHprXzktWkZhbWc3U3FCSDE5cnZlaGhQUUhFOXdkZklwZTVFS3J1RFBZZndt?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-22",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "消息称 Manus 创始人肖弘、季逸超、张涛考虑融资 10 亿美元回购公司，后续或赴港 IPO",
+    "zh": "消息称 Manus 创始人肖弘、季逸超、张涛考虑融资 10 亿美元回购公司，后续或赴港 IPO"
+   },
+   "body": {
+    "en": "Reports say Manus's founders, including Peak Ji, are considering a $1 billion buyback financing round with an eye toward a future Hong Kong IPO.",
+    "zh": "有消息称，包括季逸超在内的 Manus 创始人正在考虑以 10 亿美元融资回购公司股份，并可能为日后赴港上市做准备。"
+   },
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMisARBVV95cUxPZ003Mk5ZTzZOUVZpVmxETmRqdHJOcTZNUnV2MjFvZ3hqTVVTbHUtNmxfWlV3NjN6RmNYQ3FfbGlYOWd6eHhna3VIeU9NUTUxRDNLTmtaZTVXRkl2U3RmeDNrc1RGbS1MRS1VSmN0dVl1R3pXOEJUT1NHTlVzU1l0azk3dDNYN2o4UkJyVVItSnVLRXpQaXpHZTJJeThBNjU5ZmZMczRUdjJfYVhHaEltbzRUVkhiaVFlUnZqZ2ZiaHVCOTJIejhuNXBCdU1hUVd4TDJBMWtGb25fRWNodnEwV2tCNWFrQzg3TkpYQ0RqNHRBOVdCRldrVjN3NVJFMDlpWG9WYzM2Rm1zU3drUWQ3em5XUHJPY0VGc09ONzZmWm9iY2plX29CTDVYdTVncmJSU2wxUVl0RG8tdFZjTFMxazI2a2U4am55bGRDVTlWcVdtXzYzLXR5V3Z4ZTE1QmlwdUs0aE1SNFdibFJtaXBrVm1DVTE2b2R3SXhjVGE5ZDN0SWFDZlBPckFkMHRTTTlieXhBbmgza2Y5M1JrMHl5Nl8tWC1CVmswdnVPN0JtbmNlNE9EVElEbk1UcS1ycTRyRGlXaG9XUkFkcko5d0UxRDM3UGhCS0hpdG5fdXhWUXU4eW5nS3l0MUJ3RFV3X2pzUEhfV1BQQUtTWDNLUjl4UWUzaUF6REtGNGhiYnM3Y014cVJSY3FOdVJOZVJTOHRNcEtRU25nMldPX21fRTFwMw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-22",
+   "ts": "2026-05-22T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "消息称 Manus 创始人肖弘、季逸超、张涛考虑融资 10 亿美元回购公司，后续或赴港 IPO",
+    "zh": "消息称 Manus 创始人肖弘、季逸超、张涛考虑融资 10 亿美元回购公司，后续或赴港 IPO"
+   },
+   "body": {
+    "en": "Manus founders, including Ji, are reportedly considering a $1B buyback of the company ahead of a possible Hong Kong IPO.",
+    "zh": "据报道，包括季逸超在内的Manus创始人正考虑以10亿美元回购公司股份，为后续赴港IPO铺路。"
+   },
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMijgVBVV95cUxNNlNOYTJRWmNzTzcwNkZfMEE1dFAzN1Jxa2NVdC1yNmhLZlo5aFVwNHpMcS1KcEJ4X01UdmVDb2tsTm9IUkhXcG5yRm41cnFVWkFNTUZoUWZYUjBIRlZCRjFwejJlUVphNEhsdVdBTkVlRHZydWxsNU5Nc1B3Z1ViV3ZlRkxNeW1TamdyUDM2eEdnRi1sNXA2a0taQVhneFNuRk4yREJEVzkzN1JvTkhwQVlVUkdiY09nQkVubWNwVEJEdDE0V0pzVTBaNzhHZER1VDdYNUdudjB2V3BTeWVVXzVoMi13S3dNM3V2RTJzeHMzY01UdVVSRjA4amgyNHJ6bTFwSWF6aVFnZXk5eDh6TGNEaVFnU0lyaDhnT0NESHRJcUdWeUU4WXkwa1ZOc2daTDNOeDVJbVZiRXJLZ3ZxcjhZVGd4RGY0ZWNOSHdtRFNiNWFXRGkzdDRnZEQxVkU1TFhLeTdzWUd3VVB1RjNRWG1EaDdiTGF2cU1vOHQ0bGwtc0xJc0tpU3ZCYU5uVEVnazNQU3FaYnNxQk9NTnYxczB6R2k4a2RESmdqNVlLQW5qY0w2NkRwcXdGSUN5YXFJMmg5SG9yQ2oxS2ktZWNaTlN1V2hCWlRFUWw3d05ESnJINWNpb1NNTTdrRmFNRDBxUm15V1RoQ0pjdVRrc19IODNBbW9qN2JMaWhMak8yb3ZfUTZhU2lUQ2s3c3JOQ3lTT25maGJJVW1hZjQxdEVMdFdtWURsSWhHczNBOVNlcEJFQlM5Ry1DLUlCZHBfTlU1VTlxTHdqWmJlYjZMNW9UbzJmYnZVYnl5VFU4QUF0aW9KVDEzMURFbFZ1REFYdE15dzFmNC1SdEhHa3g3Y0E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-01-06",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Manus季逸超：很多美国创业者失去了做ToC业务的勇气和心气",
+    "zh": "Manus季逸超：很多美国创业者失去了做ToC业务的勇气和心气"
+   },
+   "body": {
+    "en": "Ji argues many US founders have lost their appetite for consumer-facing (ToC) products, a view informed by Manus's own bet on a consumer agent.",
+    "zh": "季逸超认为许多美国创业者已失去做ToC(消费者)业务的勇气,这一观点源自Manus自身押注消费级智能体产品的经验。"
+   },
+   "source": "thepaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oTmNRQm9oRlF1cm9OM3FwLXdselFsM2ZERVZMa1VsRmQ3M2MxUHF6WlNQNmFaVXlITEFDR2JLeEpoOWJQMlBJQ1pDUmdUWlpOU1hwVEdnTmVGa3gwRVE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-01-05",
+   "ts": "2026-01-05T09:16:18Z",
+   "level": "notable",
+   "title": {
+    "en": "Manus季逸超：用得不够多是大众恐惧AI的核心原因",
+    "zh": "Manus季逸超：用得不够多是大众恐惧AI的核心原因"
+   },
+   "body": {
+    "en": "Manus chief scientist Peak Ji argued that insufficient everyday use of AI, not the technology itself, is the main reason the public still fears it.",
+    "zh": "Manus首席科学家季逸超表示，公众对AI的恐惧主要源于使用不足，而非技术本身的问题。"
+   },
+   "source": "财经号",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jaV9vYnVhWXFlT3NiT3pGRER2d3ZEcDFuRXM3LXE5d0lGRXkyblcwVW5tYW1vblRuUDIxWkFzcWtCZS1nTm9VRnZSZWtDRTJoT3Raa21GN3RvOERMTXQ4eWRlTTNOYXU5aWlr?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "product",
+ "score": {
+  "total": 58.8,
+  "attention": 74,
+  "centrality": 52,
+  "momentum": 37,
+  "stature": null,
+  "pageviews": 422825,
+  "citations": 25,
+  "hIndex": 1,
+  "events": 10,
+  "posts": 29,
+  "wikiEn": "Manus (AI agent)",
+  "wikiZh": "Manus"
+ },
+ "seedRank": 53,
+ "tier": "t3"
+}

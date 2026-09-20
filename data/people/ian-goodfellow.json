@@ -1,0 +1,1147 @@
+{
+ "rank": 68,
+ "id": "ian-goodfellow",
+ "name": {
+  "en": "Ian Goodfellow",
+  "zh": "Ian Goodfellow"
+ },
+ "role": {
+  "en": "Research Scientist, Google DeepMind",
+  "zh": "Google DeepMind 研究科学家"
+ },
+ "org": "Google DeepMind",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "Google DeepMind",
+  "GAN",
+  "Deep Learning book",
+  "Fusion",
+  "Factuality"
+ ],
+ "why": {
+  "en": "Invented generative adversarial networks and opened the first golden age of generative models; principal author of the standard deep learning textbook. Now works on fusion power generation and LLM factuality.",
+  "zh": "生成对抗网络 GAN 的发明者，开启了生成式模型的第一个黄金时代，也是深度学习经典教材的主要作者。现从事聚变发电与 LLM 事实性研究。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@goodfellow_ian",
+   "url": "https://x.com/goodfellow_ian",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Deep Learning book",
+   "url": "https://www.deeplearningbook.org/",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @goodfeli",
+   "url": "https://github.com/goodfeli",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Google DeepMind Blog",
+   "url": "https://deepmind.google/discover/blog/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Ian+Goodfellow",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Ian+Goodfellow",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Ian+Goodfellow",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Ian+Goodfellow&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Ian+Goodfellow&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Ian+Goodfellow",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Ian+Goodfellow",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?user=iYN86KEAAAAJ&hl=en",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Ian+Goodfellow",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Ian+Goodfellow",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Ian+Goodfellow",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Ian+Goodfellow",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Ian+Goodfellow",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Ian+Goodfellow&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ian_Goodfellow",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2014-06-10",
+   "kind": "paper",
+   "title": {
+    "en": "Generative Adversarial Networks",
+    "zh": "生成对抗网络"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1406.2661",
+   "note": {
+    "en": "The paper that opened the first golden age of generative models.",
+    "zh": "开启生成式模型第一个黄金时代的论文。"
+   }
+  },
+  {
+   "date": "2016-01-01",
+   "kind": "report",
+   "title": {
+    "en": "Deep Learning (the textbook)",
+    "zh": "《深度学习》教科书"
+   },
+   "source": "deeplearningbook.org",
+   "url": "https://www.deeplearningbook.org/",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-08-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I'm excited for the launch of @224ventureshq . I'm one of their LPs, helping to identify exceptional founders early",
+    "zh": "I'm excited for the launch of @224ventureshq . I'm one of their LPs, helping to identify exceptional founders early"
+   },
+   "source": "@goodfellow_ian",
+   "url": "https://x.com/goodfellow_ian/status/2085050047583182968",
+   "note": {
+    "en": "Goodfellow announced he is a limited partner in newly launched venture fund 224 Ventures, helping identify early-stage founders.",
+    "zh": "Goodfellow宣布他是新成立的224 Ventures风投基金的有限合伙人，负责协助发掘早期创业者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "While Mythos has popularized the idea of finding vulnerabilities with LLMs, Aisle was doing it earlier. From an engineering point of view, it's interesting to s",
+    "zh": "While Mythos has popularized the idea of finding vulnerabilities with LLMs, Aisle was doing it earlier. From an engineering point of view, it's interesting to s"
+   },
+   "source": "@goodfellow_ian",
+   "url": "https://x.com/goodfellow_ian/status/2069524601852612708",
+   "note": {
+    "en": "Commenting on LLM-based vulnerability discovery tools, Goodfellow noted that Aisle was doing this work before Mythos popularized the idea, offering an engineering-level view on small open-weight models finding exploits.",
+    "zh": "Goodfellow评论基于大语言模型的漏洞挖掘工具，指出Aisle早于Mythos就在做这类工作，并从工程角度分析了小型开源模型发现漏洞的能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "My former Brain colleague @AndrewDai just launched @ElorianAI",
+    "zh": "My former Brain colleague @AndrewDai just launched @ElorianAI"
+   },
+   "source": "@goodfellow_ian",
+   "url": "https://x.com/goodfellow_ian/status/2042316300660375816",
+   "note": {
+    "en": "Goodfellow flagged the launch of Elorian AI by his former Google Brain colleague Andrew Dai.",
+    "zh": "Goodfellow宣传了他在谷歌Brain的前同事Andrew Dai新创立的Elorian AI公司。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "An article from Moonlake about why they’re building what they’re building. (I’m an advisor)",
+    "zh": "An article from Moonlake about why they’re building what they’re building. (I’m an advisor)"
+   },
+   "source": "@goodfellow_ian",
+   "url": "https://x.com/goodfellow_ian/status/2029985456579039678",
+   "note": {
+    "en": "Goodfellow, an advisor to startup Moonlake, shared the company's explanation of its mission; the post drew unusually high engagement for his account.",
+    "zh": "作为初创公司Moonlake的顾问，Goodfellow分享了该公司关于其使命的文章，该推文获得了远高于其账号平常水平的互动量。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I'd like to thank @daniel_rossett for his help in my recovery from the POTS version of Long COVID. Daniel was key in bringing me back from highly disabled and s",
+    "zh": "I'd like to thank @daniel_rossett for his help in my recovery from the POTS version of Long COVID. Daniel was key in bringing me back from highly disabled and s"
+   },
+   "source": "@goodfellow_ian",
+   "url": "https://x.com/goodfellow_ian/status/2026004471957094910",
+   "note": {
+    "en": "Goodfellow publicly thanked the person who helped him recover from POTS-related Long COVID disability; the post drew exceptional engagement, including 170 replies, the most of any item in this review.",
+    "zh": "Goodfellow公开感谢帮助他从POTS长新冠致残状态中恢复的人士，该推文获得了异常高的互动量，包括170条回复，为本批次中最多。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-11-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Amazing test of Gemini 3’s multimodal reasoning capabilities: try generating a threejs voxel art scene using only an image as input Prompt: I have provided an i",
+    "zh": "Amazing test of Gemini 3’s multimodal reasoning capabilities: try generating a threejs voxel art scene using only an image as input Prompt: I have provided an i"
+   },
+   "source": "@goodfellow_ian",
+   "url": "https://x.com/goodfellow_ian/status/1990839056331337797",
+   "note": {
+    "en": "Goodfellow highlighted an impressive test of Gemini 3's multimodal reasoning, generating a Three.js voxel art scene from an image prompt; his highest-engagement post reviewed here.",
+    "zh": "Goodfellow分享了对Gemini 3多模态推理能力的一个出色测试案例：仅凭图像提示生成Three.js体素艺术场景，这是本批次中互动量最高的一条推文。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-11-06",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "31: Ian Goodfellow on Inventing GANs with Peter Bauman (Deep Learning Series 02)",
+    "zh": "31: Ian Goodfellow on Inventing GANs with Peter Bauman (Deep Learning Series 02)"
+   },
+   "source": "Le Random",
+   "url": "https://podcasts.apple.com/us/podcast/31-ian-goodfellow-on-inventing-gans-with-peter-bauman/id1726153340?i=1000735635188&uo=4",
+   "note": {
+    "en": "A long-form interview in which he retells the origins of GANs and how the idea was received.",
+    "zh": "长篇访谈，他回顾了 GAN 的诞生经过以及这一想法当年的接受过程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-10-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "More of what my colleagues and I have been working on in AI for fusion is public now",
+    "zh": "More of what my colleagues and I have been working on in AI for fusion is public now"
+   },
+   "source": "@goodfellow_ian",
+   "url": "https://x.com/goodfellow_ian/status/1978917232580452787",
+   "note": {
+    "en": "He points to newly public work from the Google DeepMind team on applying AI to nuclear fusion, his current research focus.",
+    "zh": "他介绍 Google DeepMind 团队将 AI 用于核聚变的最新公开成果，这是他目前的研究重点。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-10-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Moonlake is launching publicly today, focused on generating simulations and games. Simulations are an important application of generative models that I’ve advoc",
+    "zh": "Moonlake is launching publicly today, focused on generating simulations and games. Simulations are an important application of generative models that I’ve advoc"
+   },
+   "source": "@goodfellow_ian",
+   "url": "https://x.com/goodfellow_ian/status/1973446434897936612",
+   "note": {
+    "en": "He marks the public launch of Moonlake, which generates simulations and games, tying it to the use of generative models for simulation he has argued for since 2014.",
+    "zh": "他提到主打生成模拟与游戏的 Moonlake 正式发布，并称这正是他自 2014 年起主张的生成模型模拟应用方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-08-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Check out @snowglobe_so , the new simulation engine for testing chatbots from @guardrails_ai",
+    "zh": "Check out @snowglobe_so , the new simulation engine for testing chatbots from @guardrails_ai"
+   },
+   "source": "@goodfellow_ian",
+   "url": "https://x.com/goodfellow_ian/status/1956040393361121540",
+   "note": {
+    "en": "Goodfellow recommended Snowglobe, a new chatbot-testing simulation engine from Guardrails AI.",
+    "zh": "Goodfellow推荐了Guardrails AI推出的新聊天机器人测试模拟引擎Snowglobe。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-02-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Benchmarks are both difficult and important. Great to see these thoughtful, open reproducible benchmarks for LLM guardrails.",
+    "zh": "Benchmarks are both difficult and important. Great to see these thoughtful, open reproducible benchmarks for LLM guardrails."
+   },
+   "source": "@goodfellow_ian",
+   "url": "https://x.com/goodfellow_ian/status/1889873365642649994",
+   "note": {
+    "en": "Goodfellow praised a new set of open, reproducible benchmarks for LLM guardrails, calling benchmarking in this space both difficult and important.",
+    "zh": "Goodfellow称赞了一套新的开放、可复现的大语言模型护栏基准测试，并指出这一领域的基准测试既困难又重要。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-01-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The recording of the GAN test of time talk by @dwf is now publicly available: https://t.co/qus4NnTyKW",
+    "zh": "The recording of the GAN test of time talk by @dwf is now publicly available: https://t.co/qus4NnTyKW"
+   },
+   "source": "@goodfellow_ian",
+   "url": "https://x.com/goodfellow_ian/status/1884058617562947861",
+   "note": {
+    "en": "Goodfellow shared the newly public recording of the GAN 'test of time' award talk, marking recognition of his foundational 2014 work.",
+    "zh": "Goodfellow分享了GAN获得“时间检验奖”演讲录像的公开发布，标志着对其2014年开创性工作的认可。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-01-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "My co-authors have completed one of the projects I was working on with them before I went on disability leave. Check out this great explainer thread from @davli",
+    "zh": "My co-authors have completed one of the projects I was working on with them before I went on disability leave. Check out this great explainer thread from @davli"
+   },
+   "source": "@goodfellow_ian",
+   "url": "https://x.com/goodfellow_ian/status/1882575671727439908",
+   "note": {
+    "en": "Goodfellow noted his co-authors completed a research project he had been working on before going on disability leave, and pointed to an explainer thread on the results.",
+    "zh": "Goodfellow提到他的合著者完成了他在因病休假前一直参与的一项研究项目，并分享了介绍研究结果的推文串。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-01-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "MONA: Myopic Optimization with Non-myopic Approval Can Mitigate Multi-step Reward Hacking",
+    "zh": "MONA: Myopic Optimization with Non-myopic Approval Can Mitigate Multi-step Reward Hacking"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2501.13011v2",
+   "note": {
+    "en": "A DeepMind safety paper he co-authored proposing myopic optimization with non-myopic approval, a training method that stops agents learning multi-step reward-hacking strategies humans cannot evaluate.",
+    "zh": "他与 DeepMind 安全团队合著的论文，提出短视优化加远视批准的训练方法，使智能体不会学到人类无法评估的多步奖励套利策略。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-12-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "When Schmidhuber interrupted my talk on GANs in 2016, he did so at the time I was giving credit to relevant prior work: noise contrastive estimation. Schmidhube",
+    "zh": "When Schmidhuber interrupted my talk on GANs in 2016, he did so at the time I was giving credit to relevant prior work: noise contrastive estimation. Schmidhube"
+   },
+   "source": "@goodfellow_ian",
+   "url": "https://x.com/goodfellow_ian/status/1867767959864954955",
+   "note": {
+    "en": "He gives his own account of Schmidhuber interrupting his 2016 GAN talk and of the citation dispute around the original paper.",
+    "zh": "他讲述 Schmidhuber 在 2016 年打断其 GAN 报告的经过，以及围绕原始论文的引用归属争议。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-12-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Today GANs got 1 of 2 test of time awards at @NeurIPSConf . Many thanks to my co-author @dwf for preparing and presenting the talk. It’s no easy task to summari",
+    "zh": "Today GANs got 1 of 2 test of time awards at @NeurIPSConf . Many thanks to my co-author @dwf for preparing and presenting the talk. It’s no easy task to summari"
+   },
+   "source": "@goodfellow_ian",
+   "url": "https://x.com/goodfellow_ian/status/1867697210466709814",
+   "note": {
+    "en": "He notes that the GAN paper received one of the two NeurIPS 2024 Test of Time awards.",
+    "zh": "他表示 GAN 论文获得 NeurIPS 2024 两项时间检验奖之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-11-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "This year I unfortunately got POTS from COVID. POTS is a failure of the body to regulate blood flow correctly, the heart has to beat extra fast to get blood to",
+    "zh": "This year I unfortunately got POTS from COVID. POTS is a failure of the body to regulate blood flow correctly, the heart has to beat extra fast to get blood to"
+   },
+   "source": "@goodfellow_ian",
+   "url": "https://x.com/goodfellow_ian/status/1860725434650083718",
+   "note": {
+    "en": "He discloses publicly that he developed POTS after a COVID infection, and explains the condition and its effect on him.",
+    "zh": "他公开说明自己因感染新冠而患上体位性心动过速综合征（POTS），并解释了这一病症及其对他的影响。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-08-27",
+   "ts": "2024-08-27T17:50:02Z",
+   "kind": "x",
+   "title": {
+    "en": "It’s always good to temper one’s optimism for empirically validated defenses against adversarial examples, but this is the most promising one I’ve heard of in s",
+    "zh": "It’s always good to temper one’s optimism for empirically validated defenses against adversarial examples, but this is the most promising one I’ve heard of in s"
+   },
+   "source": "@goodfellow_ian",
+   "url": "https://x.com/goodfellow_ian/status/1828490168296448430",
+   "note": {
+    "en": "Goodfellow calls a newly reported defense against adversarial examples the most promising he has seen in years, while cautioning that empirical defenses deserve tempered optimism.",
+    "zh": "Goodfellow称一项针对对抗样本的新防御方法是他多年来见过最有希望的,但同时提醒对经验性防御方法应保持审慎乐观。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-06-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "In the Google DeepMind fusion team, we're working with external collaborators to solve nuclear fusion power generation. Check out the team's 2022 Nature paper i",
+    "zh": "In the Google DeepMind fusion team, we're working with external collaborators to solve nuclear fusion power generation. Check out the team's 2022 Nature paper i"
+   },
+   "source": "@goodfellow_ian",
+   "url": "https://x.com/goodfellow_ian/status/1800902333716730181",
+   "note": {
+    "en": "He describes his work on the Google DeepMind fusion team and its collaboration with EPFL on tokamak control.",
+    "zh": "他介绍自己在 Google DeepMind 核聚变团队的工作，以及该团队与 EPFL 在托卡马克控制上的合作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-06-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "TORAX: A Fast and Differentiable Tokamak Transport Simulator in JAX",
+    "zh": "TORAX: A Fast and Differentiable Tokamak Transport Simulator in JAX"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2406.06718v4",
+   "note": {
+    "en": "Introduces TORAX, an open-source differentiable tokamak core transport simulator written in JAX, from the Google DeepMind fusion team he works on.",
+    "zh": "介绍 TORAX：用 JAX 实现的开源可微分托卡马克堆芯输运模拟器，出自他所在的 Google DeepMind 核聚变团队。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-05-08",
+   "ts": "2024-05-08T16:30:02Z",
+   "kind": "x",
+   "title": {
+    "en": "Congratulations to @ChrSzegedy on the test of time award for discovering adversarial examples! Christian actually first told Yoshua, others at LISA lab, and me",
+    "zh": "Congratulations to @ChrSzegedy on the test of time award for discovering adversarial examples! Christian actually first told Yoshua, others at LISA lab, and me"
+   },
+   "source": "@goodfellow_ian",
+   "url": "https://x.com/goodfellow_ian/status/1788244984103407953",
+   "note": {
+    "en": "Goodfellow recounts the history of the discovery of adversarial examples, congratulating Christian Szegedy on a test-of-time award and noting Szegedy privately shared the finding with Bengio, others at the LISA lab, and Goodfellow himself first.",
+    "zh": "Goodfellow回顾了对抗样本发现的历史,祝贺Christian Szegedy获得时间检验奖,并提到Szegedy最初曾私下将这一发现告知Bengio、LISA实验室的其他人以及他本人。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-04-16",
+   "ts": "2024-04-16T16:16:17Z",
+   "kind": "x",
+   "title": {
+    "en": "Startups usually don’t say a lot about how their stack works (or it’s just a wrapper around another company’s LLM) so it’s great to get this detailed deep dive",
+    "zh": "Startups usually don’t say a lot about how their stack works (or it’s just a wrapper around another company’s LLM) so it’s great to get this detailed deep dive"
+   },
+   "source": "@goodfellow_ian",
+   "url": "https://x.com/goodfellow_ian/status/1780268988238594189",
+   "note": {
+    "en": "Goodfellow praises a detailed technical deep dive into how a startup's AI stack works, noting most startups rarely disclose such details.",
+    "zh": "Goodfellow称赞一篇详细剖析某创业公司AI技术栈的深度文章,指出大多数创业公司很少披露此类细节。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-01-02",
+   "ts": "2024-01-02T17:31:39Z",
+   "kind": "x",
+   "title": {
+    "en": "Exciting news from my friend and GAN co-author, I’m looking forward to trying this out on my own GPU at home",
+    "zh": "Exciting news from my friend and GAN co-author, I’m looking forward to trying this out on my own GPU at home"
+   },
+   "source": "@goodfellow_ian",
+   "url": "https://x.com/goodfellow_ian/status/1742237229123272795",
+   "note": {
+    "en": "Goodfellow shares excitement about a new release from a friend and fellow GAN co-author, saying he looks forward to trying it on his own GPU.",
+    "zh": "Goodfellow对他的朋友兼GAN论文合著者发布的新成果表示期待,并称打算在自己的GPU上试用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2023-05-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I've spent several years studying machine learning security with the goal of making ML reliable before it is used in more and more important contexts. Unfortuna",
+    "zh": "I've spent several years studying machine learning security with the goal of making ML reliable before it is used in more and more important contexts. Unfortuna"
+   },
+   "source": "@goodfellow_ian",
+   "url": "https://x.com/goodfellow_ian/status/1663571618323640320",
+   "note": {
+    "en": "He states publicly that machine learning capability and adoption are outrunning the security work needed to make these systems reliable.",
+    "zh": "他公开表示机器学习的能力与应用速度已经超过了让这些系统变得可靠所需的安全研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2022-07-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I'm excited to announce that I've joined DeepMind! I'll be a research scientist in @OriolVinyalsML 's Deep Learning team.",
+    "zh": "I'm excited to announce that I've joined DeepMind! I'll be a research scientist in @OriolVinyalsML 's Deep Learning team."
+   },
+   "source": "@goodfellow_ian",
+   "url": "https://x.com/goodfellow_ian/status/1544638709039091717",
+   "note": {
+    "en": "He announces that he has joined DeepMind as a research scientist in Oriol Vinyals deep learning team, after leaving Apple.",
+    "zh": "他宣布加入 DeepMind，在 Oriol Vinyals 的深度学习团队担任研究科学家，此前他从 Apple 离职。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2020-10-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Enabling certification of verification-agnostic networks via memory-efficient semidefinite programming",
+    "zh": "Enabling certification of verification-agnostic networks via memory-efficient semidefinite programming"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2010.11645v2",
+   "note": {
+    "en": "Presents a memory-efficient semidefinite programming method that can certify robustness for networks never designed to be verified.",
+    "zh": "提出一种省内存的半正定规划方法，可为并非为验证而设计的网络提供鲁棒性认证。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-03-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Creating High Resolution Images with a Latent Adversarial Generator",
+    "zh": "Creating High Resolution Images with a Latent Adversarial Generator"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2003.02365v1",
+   "note": {
+    "en": "Proposes a latent adversarial generator that produces high-resolution images from low-resolution inputs, continuing his work on generative models.",
+    "zh": "提出潜在对抗生成器，从低分辨率输入生成高分辨率图像，延续他在生成模型方向的研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-05-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "MixMatch: A Holistic Approach to Semi-Supervised Learning",
+    "zh": "MixMatch: A Holistic Approach to Semi-Supervised Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1905.02249v2",
+   "note": {
+    "en": "MixMatch unifies the dominant semi-supervised learning approaches into a single algorithm; a heavily cited result he co-authored at Google.",
+    "zh": "MixMatch 将主流半监督学习方法统一为单一算法，是他在 Google 期间合著的高引用成果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-04-18",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ian Goodfellow: Generative Adversarial Networks (GANs)",
+    "zh": "Ian Goodfellow: Generative Adversarial Networks (GANs)"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/ian-goodfellow-generative-adversarial-networks-gans/id1434243584?i=1000435253246&uo=4",
+   "note": {
+    "en": "His Lex Fridman Podcast interview on generative adversarial networks, deep learning and where the field is heading.",
+    "zh": "他做客 Lex Fridman 播客，谈生成对抗网络、深度学习以及该领域的走向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2019-03-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Imperceptible, Robust, and Targeted Adversarial Examples for Automatic Speech Recognition",
+    "zh": "Imperceptible, Robust, and Targeted Adversarial Examples for Automatic Speech Recognition"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1903.10346v2",
+   "note": {
+    "en": "Shows that imperceptible, robust and targeted adversarial examples can be built against automatic speech recognition, extending adversarial-example research beyond images.",
+    "zh": "证明可以针对自动语音识别构造不可察觉、稳健且定向的对抗样本，将对抗样本研究从图像扩展到语音。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-03-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Research Agenda: Dynamic Models to Defend Against Correlated Attacks",
+    "zh": "A Research Agenda: Dynamic Models to Defend Against Correlated Attacks"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1903.06293v1",
+   "note": {
+    "en": "A single-author research agenda setting out how to defend machine learning models against correlated adversarial inputs at test time.",
+    "zh": "他独著的研究议程，提出在测试阶段防御机器学习模型免受相关性对抗输入攻击的方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-02-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "On Evaluating Adversarial Robustness",
+    "zh": "On Evaluating Adversarial Robustness"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1902.06705v2",
+   "note": {
+    "en": "A community checklist, written with Carlini, Madry and others, for correctly evaluating defences against adversarial examples.",
+    "zh": "他与 Carlini、Madry 等人合写的社区检查清单，用于正确评估对抗样本的防御方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-11-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A domain agnostic measure for monitoring and evaluating GANs",
+    "zh": "A domain agnostic measure for monitoring and evaluating GANs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1811.05512v2",
+   "note": {
+    "en": "Proposes a domain-agnostic measure for monitoring and evaluating GAN training, addressing a long-standing evaluation gap in the models he invented.",
+    "zh": "提出与领域无关的 GAN 训练监控与评估指标，针对他所发明模型长期存在的评估难题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-11-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "New CleverHans Feature: Better Adversarial Robustness Evaluations with Attack Bundling",
+    "zh": "New CleverHans Feature: Better Adversarial Robustness Evaluations with Attack Bundling"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1811.03685v1",
+   "note": {
+    "en": "A technical report on attack bundling, a new feature of CleverHans, the adversarial-example library he founded.",
+    "zh": "技术报告，介绍他创建的对抗样本库 CleverHans 新增的攻击打包功能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-10-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Discriminator Rejection Sampling",
+    "zh": "Discriminator Rejection Sampling"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1810.06758v3",
+   "note": {
+    "en": "Uses a GAN discriminator as a rejection sampler to correct errors in the generator distribution.",
+    "zh": "利用 GAN 判别器做拒绝采样，以修正生成器分布中的偏差。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-10-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Local Explanation Methods for Deep Neural Networks Lack Sensitivity to Parameter Values",
+    "zh": "Local Explanation Methods for Deep Neural Networks Lack Sensitivity to Parameter Values"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1810.03307v1",
+   "note": {
+    "en": "Shows that several popular local explanation methods for deep networks barely respond to the model parameters, questioning what they actually explain.",
+    "zh": "指出多种流行的深度网络局部解释方法对模型参数几乎不敏感，质疑它们到底解释了什么。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-10-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Sanity Checks for Saliency Maps",
+    "zh": "Sanity Checks for Saliency Maps"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1810.03292v3",
+   "note": {
+    "en": "Introduces randomization tests showing that several widely used saliency methods are independent of both the model and the training data.",
+    "zh": "提出随机化检验，表明若干被广泛使用的显著图方法与模型和训练数据无关。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-09-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Unrestricted Adversarial Examples",
+    "zh": "Unrestricted Adversarial Examples"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1809.08352v1",
+   "note": {
+    "en": "Launches a two-player contest on unrestricted adversarial examples, pushing robustness evaluation beyond norm-bounded perturbations.",
+    "zh": "发起关于无限制对抗样本的双方竞赛，将鲁棒性评估推出范数受限扰动的框架。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-08-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Skill Rating for Generative Models",
+    "zh": "Skill Rating for Generative Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1808.04888v1",
+   "note": {
+    "en": "Evaluates generative models by holding tournaments between generators and discriminators and rating them like competing players.",
+    "zh": "通过让生成器与判别器相互对局并按选手评分的方式来评估生成模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-07-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing",
+    "zh": "TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1807.10875v1",
+   "note": {
+    "en": "Brings coverage-guided fuzzing from software testing to neural networks, finding numerical errors and disagreements between models.",
+    "zh": "将软件测试中的覆盖引导模糊测试引入神经网络，用于发现数值错误和模型之间的不一致。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-07-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer",
+    "zh": "Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1807.07543v2",
+   "note": {
+    "en": "Improves interpolation in autoencoder latent spaces with an adversarial regularizer, and shows better representations follow.",
+    "zh": "用对抗正则项改善自编码器隐空间的插值质量，并表明由此学到更好的表征。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-07-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Motivating the Rules of the Game for Adversarial Example Research",
+    "zh": "Motivating the Rules of the Game for Adversarial Example Research"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1807.06732v2",
+   "note": {
+    "en": "Argues that the standard threat model in adversarial-example research does not match real security settings, and proposes better rules for the field.",
+    "zh": "指出对抗样本研究常用的威胁模型与真实安全场景不符，并为该领域提出更合理的研究规则。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-06-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Adversarial Reprogramming of Neural Networks",
+    "zh": "Adversarial Reprogramming of Neural Networks"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1806.11146v2",
+   "note": {
+    "en": "Shows an attacker can reprogram a trained neural network to perform a task of the attacker choosing, a new class of attack he co-authored.",
+    "zh": "证明攻击者可将已训练的神经网络重新编程去执行攻击者选定的任务，是他合著提出的一类新攻击。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-06-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Defense Against the Dark Arts: An overview of adversarial example security research and future research directions",
+    "zh": "Defense Against the Dark Arts: An overview of adversarial example security research and future research directions"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1806.04169v1",
+   "note": {
+    "en": "His keynote summary of the state of adversarial-example defences and the research directions he thinks matter next.",
+    "zh": "他的主旨报告总结，梳理对抗样本防御的现状以及他认为下一步值得推进的研究方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-05-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Self-Attention Generative Adversarial Networks",
+    "zh": "Self-Attention Generative Adversarial Networks"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1805.08318v2",
+   "note": {
+    "en": "Self-Attention GAN adds attention to image generation so it can model long-range dependencies, and became a standard architecture in the field he started.",
+    "zh": "自注意力 GAN 为图像生成引入注意力机制以建模长程依赖，成为他所开创领域中的标准架构之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-04-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Realistic Evaluation of Deep Semi-Supervised Learning Algorithms",
+    "zh": "Realistic Evaluation of Deep Semi-Supervised Learning Algorithms"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1804.09170v4",
+   "note": {
+    "en": "Shows that common semi-supervised learning benchmarks overstate the gains of new methods, and proposes a fairer evaluation protocol.",
+    "zh": "指出常见半监督学习基准高估了新方法的收益，并提出更公平的评估流程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-04-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gradient Masking Causes CLEVER to Overestimate Adversarial Perturbation Size",
+    "zh": "Gradient Masking Causes CLEVER to Overestimate Adversarial Perturbation Size"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1804.07870v1",
+   "note": {
+    "en": "Shows that gradient masking makes the CLEVER metric overestimate how large a perturbation is needed to fool a model.",
+    "zh": "指出梯度掩蔽会使 CLEVER 指标高估欺骗模型所需的扰动大小。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-03-31",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Adversarial Attacks and Defences Competition",
+    "zh": "Adversarial Attacks and Defences Competition"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1804.00097v1",
+   "note": {
+    "en": "Reports the NIPS 2017 competition he helped organise at Google Brain on attacking and defending image classifiers.",
+    "zh": "总结他在 Google Brain 参与组织的 NIPS 2017 对抗攻击与防御竞赛。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-03-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Adversarial Logit Pairing",
+    "zh": "Adversarial Logit Pairing"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1803.06373v1",
+   "note": {
+    "en": "Scales adversarial training to ImageNet and adds logit pairing as a cheaper way to improve robustness.",
+    "zh": "将对抗训练扩展到 ImageNet 规模，并提出以 logit 配对作为更廉价的鲁棒性提升方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2017-06-07",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ep. 25: Google's Ian Goodfellow on How an Argument in a Bar Led to Generative Adversarial Networks",
+    "zh": "Ep. 25: Google's Ian Goodfellow on How an Argument in a Bar Led to Generative Adversarial Networks"
+   },
+   "source": "NVIDIA AI Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/ep-25-googles-ian-goodfellow-on-how-an-argument-in/id1186480811?i=1000386274483&uo=4",
+   "note": {
+    "en": "He tells the NVIDIA AI Podcast how an argument in a bar led him to invent generative adversarial networks.",
+    "zh": "他在 NVIDIA AI 播客中讲述一场酒吧争论如何促成他发明生成对抗网络。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "lab",
+ "score": {
+  "total": 33.2,
+  "attention": 40,
+  "centrality": 30,
+  "momentum": 5,
+  "stature": 75,
+  "pageviews": 57015,
+  "citations": 84073,
+  "hIndex": 63,
+  "events": 0,
+  "posts": 52,
+  "wikiEn": "Ian Goodfellow",
+  "wikiZh": "伊恩·古德费洛"
+ },
+ "seedRank": 88,
+ "tier": "t4"
+}

@@ -1,0 +1,1134 @@
+{
+ "rank": 69,
+ "id": "pieter-abbeel",
+ "name": {
+  "en": "Pieter Abbeel",
+  "zh": "Pieter Abbeel"
+ },
+ "role": {
+  "en": "Head of Frontier Model Research, Amazon; Professor, UC Berkeley",
+  "zh": "Amazon 前沿模型研究负责人；UC Berkeley 教授"
+ },
+ "org": "Amazon / UC Berkeley",
+ "region": {
+  "en": "United States / Belgium",
+  "zh": "美国/比利时"
+ },
+ "tags": [
+  "Amazon FMR",
+  "Covariant",
+  "Deep RL",
+  "Robotics",
+  "Berkeley"
+ ],
+ "why": {
+  "en": "One of the originators of deep reinforcement learning and robot manipulation, and the teacher of a large share of OpenAI's and the robotics industry's core people. Now runs the research org Amazon has made its top internal priority.",
+  "zh": "深度强化学习与机器人操作的开创者之一，培养了大批 OpenAI 与机器人创业公司的核心人才。现主持已被亚马逊列为内部最高优先级的研究组织。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@pabbeel",
+   "url": "https://x.com/pabbeel",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Berkeley page",
+   "url": "https://people.eecs.berkeley.edu/~pabbeel/",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "Berkeley Robot Learning Lab",
+   "url": "https://rll.berkeley.edu/",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "Amazon Science Blog",
+   "url": "https://www.amazon.science/blog",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Amazon Science author page",
+   "url": "https://www.amazon.science/author/pieter-abbeel",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Pieter+Abbeel",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Pieter+Abbeel",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Pieter+Abbeel",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Pieter+Abbeel&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Pieter+Abbeel&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Pieter+Abbeel",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Pieter+Abbeel&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Pieter+Abbeel",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Pieter+Abbeel",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Pieter+Abbeel",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Pieter+Abbeel",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Pieter+Abbeel",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Pieter+Abbeel",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Pieter+Abbeel",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Pieter+Abbeel&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pieter_Abbeel",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2024-01-01",
+   "kind": "podcast",
+   "title": {
+    "en": "The Robot Brains Podcast",
+    "zh": "The Robot Brains 播客"
+   },
+   "source": "Robot Brains",
+   "url": "https://www.therobotbrains.ai/",
+   "note": {
+    "en": "His long-running interview series with the people building embodied AI.",
+    "zh": "他长期主持的访谈系列，对象是正在建造具身智能的人。"
+   }
+  },
+  {
+   "date": "2017-03-01",
+   "kind": "paper",
+   "title": {
+    "en": "Domain randomization / Sim-to-real transfer",
+    "zh": "域随机化与仿真到现实迁移"
+   },
+   "source": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Pieter+Abbeel",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-09-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Humanoid Safe Stop via Learned Stoppability Value",
+    "zh": "Humanoid Safe Stop via Learned Stoppability Value"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.02358v1",
+   "note": {
+    "en": "Co-authored a paper proposing a learned 'stoppability value' so humanoid robots can judge whether an emergency stop is actually safe from their current state.",
+    "zh": "合著论文提出一种可学习的“可停止性价值”，使人形机器人能够判断当前状态下紧急停止是否真正安全。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes",
+    "zh": "VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.30645v1",
+   "note": {
+    "en": "VLK learns humanoid loco-manipulation by generating synthetic human-object interactions inside 3D-reconstructed real scenes, so egocentric vision maps to whole-body motion without teleoperation data.",
+    "zh": "VLK 在三维重建的真实场景中合成人与物体的交互数据，让人形机器人学会移动加操作，无需遥操作数据即可把第一人称视觉映射到全身动作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scalable Behavior Cloning with Open Data, Training, and Evaluation",
+    "zh": "Scalable Behavior Cloning with Open Data, Training, and Evaluation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.27375v1",
+   "note": {
+    "en": "ABC releases a fully open behavior-cloning stack for manipulation, including ABC-130K, a 3,500-hour teleoperation dataset that is the largest open one to date.",
+    "zh": "ABC 开源了一整套面向操作任务的行为克隆技术栈，其中 ABC-130K 是迄今最大的开源遥操作数据集，含 3500 小时数据。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Do as I Do: Dexterous Manipulation Data from Everyday Human Videos",
+    "zh": "Do as I Do: Dexterous Manipulation Data from Everyday Human Videos"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.19333v1",
+   "note": {
+    "en": "A method for turning ordinary human videos into training data for dexterous multi-fingered hands, attacking the data bottleneck in manipulation.",
+    "zh": "提出把日常人类视频转化为灵巧多指手训练数据的方法，针对操作学习中的数据瓶颈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "T-Rex: Tactile-Reactive Dexterous Manipulation",
+    "zh": "T-Rex: Tactile-Reactive Dexterous Manipulation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.17055v2",
+   "note": {
+    "en": "T-Rex adds tactile reactivity to vision-language-action models, letting a dexterous hand respond to contact signals rather than vision alone.",
+    "zh": "T-Rex 为视觉-语言-动作模型加入触觉反应能力，使灵巧手能够依据接触信号而不仅仅是视觉做出反应。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DiPOD: Diffusion Policy Optimization without Drifting Apart",
+    "zh": "DiPOD: Diffusion Policy Optimization without Drifting Apart"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.13795v2",
+   "note": {
+    "en": "DiPOD makes reinforcement-learning post-training of diffusion policies stable, addressing the unreliable policy improvement of existing diffusion policy-gradient methods.",
+    "zh": "DiPOD 让扩散策略的强化学习后训练变得稳定，解决现有扩散策略梯度方法难以可靠提升策略的问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Mana: Dexterous Manipulation of Articulated Tools",
+    "zh": "Mana: Dexterous Manipulation of Articulated Tools"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.13677v1",
+   "note": {
+    "en": "Mana tackles dexterous manipulation of articulated tools, where the robot must coordinate a tool's own moving parts through contact-rich interaction.",
+    "zh": "Mana 研究对铰接工具的灵巧操作——机器人需要在富接触的交互中协调工具自身的活动部件。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SARM2: Multi-Task Stage Aware Reward Modeling for Self Improving Robotic Manipulation",
+    "zh": "SARM2: Multi-Task Stage Aware Reward Modeling for Self Improving Robotic Manipulation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.10305v1",
+   "note": {
+    "en": "SARM2 replaces costly demonstrations with stage-aware multi-task reward models so vision-language-action policies can improve themselves on long-horizon manipulation.",
+    "zh": "SARM2 用阶段感知的多任务奖励模型替代昂贵的示范数据，使视觉-语言-动作策略能在长时序操作任务上自我改进。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "LadderMan: Learning Humanoid Perceptive Ladder Climbing",
+    "zh": "LadderMan: Learning Humanoid Perceptive Ladder Climbing"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.05873v1",
+   "note": {
+    "en": "LadderMan trains a humanoid to climb ladders from perception, one of the hardest whole-body tasks because footholds and handholds are sparse.",
+    "zh": "LadderMan 训练人形机器人依靠感知攀爬梯子——由于落脚点和抓握点稀疏，这是最困难的全身控制任务之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Multi-Objective Learning for Diffusion Models: A Statistical Theory under Semi-Supervised Learning",
+    "zh": "Multi-Objective Learning for Diffusion Models: A Statistical Theory under Semi-Supervised Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.25210v1",
+   "note": {
+    "en": "A statistical theory for training diffusion models against several target distributions at once under semi-supervised data.",
+    "zh": "为半监督数据下同时面向多个目标分布训练扩散模型建立统计理论。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "When Does Non-Uniform Replay Matter in Reinforcement Learning?",
+    "zh": "When Does Non-Uniform Replay Matter in Reinforcement Learning?"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.10236v3",
+   "note": {
+    "en": "An empirical study of when non-uniform replay sampling actually beats plain uniform replay in off-policy reinforcement learning.",
+    "zh": "实证研究离策略强化学习中非均匀回放采样究竟在什么条件下能胜过简单的均匀回放。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "World Model for Robot Learning: A Comprehensive Survey",
+    "zh": "World Model for Robot Learning: A Comprehensive Survey"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.00080v1",
+   "note": {
+    "en": "A comprehensive survey of world models in robot learning, covering their use in policy learning, planning, simulation and evaluation.",
+    "zh": "关于机器人学习中世界模型的综述，涵盖其在策略学习、规划、仿真与评估中的应用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Cross-Hand Latent Representation for Vision-Language-Action Models",
+    "zh": "Cross-Hand Latent Representation for Vision-Language-Action Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.10158v1",
+   "note": {
+    "en": "A shared latent representation that lets one vision-language-action model transfer across different robot hands.",
+    "zh": "提出跨手型的共享隐空间表示，使同一个视觉-语言-动作模型能够迁移到不同的机器人手上。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Offline Materials Optimization with CliqueFlowmer",
+    "zh": "Offline Materials Optimization with CliqueFlowmer"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.06082v4",
+   "note": {
+    "en": "Paper applying an offline model-based optimization method, CliqueFlowmer, to computational materials discovery.",
+    "zh": "论文提出 CliqueFlowmer，用离线基于模型的优化方法做计算材料发现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Reward-Conditioned Reinforcement Learning",
+    "zh": "Reward-Conditioned Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.05066v3",
+   "note": {
+    "en": "Reward-conditioned RL trains a single agent across reward functions instead of one fixed reward, improving robustness to reward misspecification and shifting preferences.",
+    "zh": "奖励条件化强化学习让单个智能体在多种奖励函数下训练，而非固定于一个奖励，从而对奖励设定错误和偏好变化更鲁棒。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference",
+    "zh": "How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.03280v1",
+   "note": {
+    "en": "Aligns fine-grained, force-sensitive manipulation such as peeling with a knife to human preference, targeting tasks robots still cannot do.",
+    "zh": "将用刀削皮这类精细、对力敏感的操作与人类偏好对齐，瞄准机器人目前仍无法胜任的任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "D-REX: Differentiable Real-to-Sim-to-Real Engine for Learning Dexterous Grasping",
+    "zh": "D-REX: Differentiable Real-to-Sim-to-Real Engine for Learning Dexterous Grasping"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.01151v1",
+   "note": {
+    "en": "D-REX is a differentiable real-to-sim-to-real engine that narrows the simulation gap for learning dexterous grasping.",
+    "zh": "D-REX 是一个可微分的真实-仿真-真实引擎，用于缩小灵巧抓取学习中的仿真与现实差距。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching",
+    "zh": "Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.15827v2",
+   "note": {
+    "en": "Chains dynamic human skills through motion matching to give a humanoid perceptive parkour, going beyond stable walking to highly agile motion.",
+    "zh": "通过动作匹配将人类的动态技能串联起来，让人形机器人具备感知式跑酷能力，从稳定行走进阶到高度敏捷的运动。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos",
+    "zh": "DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.06949v1",
+   "note": {
+    "en": "DreamDojo trains a generalist robot world model from large-scale human video, so agents can simulate the outcomes of their actions across varied environments.",
+    "zh": "DreamDojo 利用大规模人类视频训练通用机器人世界模型，使智能体能在多样环境中预演自身动作的结果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "RPL: Learning Robust Humanoid Perceptive Locomotion on Challenging Terrains",
+    "zh": "RPL: Learning Robust Humanoid Perceptive Locomotion on Challenging Terrains"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.03002v1",
+   "note": {
+    "en": "RPL trains robust multi-directional perceptive locomotion for humanoids on challenging terrain.",
+    "zh": "RPL 训练人形机器人在复杂地形上实现鲁棒的全方向感知式运动。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Flow Policy Gradients for Robot Control",
+    "zh": "Flow Policy Gradients for Robot Control"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.02481v1",
+   "note": {
+    "en": "Flow policy gradients drop the requirement for differentiable action likelihoods, freeing robot control policies from the constraints that likelihood-based methods impose.",
+    "zh": "流策略梯度取消了对可微动作似然的依赖，使机器人控制策略摆脱基于似然的方法所施加的限制。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "mjlab: A Lightweight Framework for GPU-Accelerated Robot Learning",
+    "zh": "mjlab: A Lightweight Framework for GPU-Accelerated Robot Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2601.22074v2",
+   "note": {
+    "en": "mjlab is an open-source, GPU-accelerated robot learning framework built for composable environments and minimal setup.",
+    "zh": "mjlab 是一个开源的 GPU 加速机器人学习框架，强调环境可组合与极低的配置成本。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Contact-Aware Neural Dynamics",
+    "zh": "Contact-Aware Neural Dynamics"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2601.12796v1",
+   "note": {
+    "en": "Contact-aware neural dynamics models the discontinuous physics of contact, aiming to close the sim-to-real gap on dynamic interaction tasks.",
+    "zh": "接触感知神经动力学建模接触过程中的不连续物理，旨在缩小动态交互任务上的仿真到现实差距。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Large Video Planner Enables Generalizable Robot Control",
+    "zh": "Large Video Planner Enables Generalizable Robot Control"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.15840v2",
+   "note": {
+    "en": "A large video planner used as a robot decision-making model, generalising control across tasks and environments.",
+    "zh": "将大型视频规划器用作机器人决策模型，实现跨任务、跨环境的通用控制。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SEMDICE: Off-policy State Entropy Maximization via Stationary Distribution Correction Estimation",
+    "zh": "SEMDICE: Off-policy State Entropy Maximization via Stationary Distribution Correction Estimation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.10042v1",
+   "note": {
+    "en": "SEMDICE maximises state entropy off-policy via stationary distribution correction, for unsupervised reinforcement-learning pre-training without task rewards.",
+    "zh": "SEMDICE 通过平稳分布校正在离策略设定下最大化状态熵，用于无需任务奖励的强化学习无监督预训练。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Learning Sim-to-Real Humanoid Locomotion in 15 Minutes",
+    "zh": "Learning Sim-to-Real Humanoid Locomotion in 15 Minutes"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.01996v1",
+   "note": {
+    "en": "Cuts sim-to-real reinforcement learning for humanoid locomotion down to fifteen minutes of training.",
+    "zh": "把人形机器人运动控制的仿真到现实强化学习训练时间压缩到 15 分钟。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-06-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DexterityGen: Foundation Controller for Unprecedented Dexterity",
+    "zh": "DexterityGen: Foundation Controller for Unprecedented Dexterity"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.15607/rss.2025.xxi.103",
+   "note": {
+    "en": "Abbeel co-authors DexterityGen, a foundation controller that pretrains large-scale dexterous motion primitives with RL and stabilizes in-hand manipulation 10-100x, enabling tool use like pens and screwdrivers.",
+    "zh": "Abbeel参与的DexterityGen是一个基础控制器，通过强化学习预训练大规模灵巧运动基元，将手内操作稳定性提升10到100倍，实现了握笔、拧螺丝刀等工具使用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-05-29",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "FastTD3: \"Minimum innovation, maximum results\" Not the paper we had planned to write, but one of the works I am most proud of. We wanted to make sure our baseli",
+    "zh": "FastTD3: \"Minimum innovation, maximum results\" Not the paper we had planned to write, but one of the works I am most proud of. We wanted to make sure our baseli"
+   },
+   "source": "@pabbeel",
+   "url": "https://x.com/pabbeel/status/1928221480342671457",
+   "note": {
+    "en": "Abbeel introduces FastTD3, a work he describes as minimum innovation and maximum results, built from making TD3 a genuinely strong baseline.",
+    "zh": "Abbeel 介绍 FastTD3，他称之为\"最小创新、最大效果\"的工作，源于把 TD3 做成一个真正扎实的基线。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-03-31",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I'm thrilled to share our first release as the AGI SF Lab. Meet Nova Act -- the most effortless way to build agents that can reliably use browsers, giving agent",
+    "zh": "I'm thrilled to share our first release as the AGI SF Lab. Meet Nova Act -- the most effortless way to build agents that can reliably use browsers, giving agent"
+   },
+   "source": "@pabbeel",
+   "url": "https://x.com/pabbeel/status/1906812188968563003",
+   "note": {
+    "en": "Abbeel announces Nova Act, the first release from Amazon's AGI SF Lab, a model for building agents that reliably operate web browsers.",
+    "zh": "Abbeel 发布 Nova Act，这是亚马逊 AGI SF Lab 的首个产品，用于构建能可靠操作浏览器的智能体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-02-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Gave a lecture on Diffusion Models yesterday with @wilson1yan and @kvfrans https://t.co/JX3zkWxY9v Thanks to it being Lecture 6 into the semester (rather than L",
+    "zh": "Gave a lecture on Diffusion Models yesterday with @wilson1yan and @kvfrans https://t.co/JX3zkWxY9v Thanks to it being Lecture 6 into the semester (rather than L"
+   },
+   "source": "@pabbeel",
+   "url": "https://x.com/pabbeel/status/1761107766796792164",
+   "note": {
+    "en": "Abbeel shares the diffusion-models lecture he gave in his Berkeley deep generative models course, updated to cover Sora.",
+    "zh": "Abbeel 分享他在伯克利深度生成模型课程上讲授的扩散模型一课，内容已更新到涵盖 Sora。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-02-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Current works are restricted to short sequences of texts and images, limiting their ability to model the world. Presenting Large World Model (LWM): capable of p",
+    "zh": "Current works are restricted to short sequences of texts and images, limiting their ability to model the world. Presenting Large World Model (LWM): capable of p"
+   },
+   "source": "@pabbeel",
+   "url": "https://x.com/pabbeel/status/1757894435340472462",
+   "note": {
+    "en": "Abbeel presents Large World Model (LWM), which extends multimodal modelling from short text and image sequences to long text, images and video.",
+    "zh": "Abbeel 发布 Large World Model（LWM），将多模态建模从短文本和图像序列扩展到长文本、图像与视频。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-08-17",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Jitendra Malik: Building AI from the ground-up, sensorimotor before language",
+    "zh": "Jitendra Malik: Building AI from the ground-up, sensorimotor before language"
+   },
+   "source": "The Robot Brains Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/jitendra-malik-building-ai-from-the-ground-up/id1559275284?i=1000624716171&uo=4",
+   "note": {
+    "en": "As host of The Robot Brains Podcast, Abbeel talks with Jitendra Malik about building AI from the ground up, sensorimotor learning before language.",
+    "zh": "作为《Robot Brains》播客主持人，Abbeel与Jitendra Malik探讨了自下而上构建AI、感知运动先于语言的研究思路。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-08-11",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Seb Boyer of Farmwise: AI that helps feed the world",
+    "zh": "Seb Boyer of Farmwise: AI that helps feed the world"
+   },
+   "source": "The Robot Brains Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/seb-boyer-of-farmwise-ai-that-helps-feed-the-world/id1559275284?i=1000624113014&uo=4",
+   "note": {
+    "en": "Abbeel hosts Farmwise's Seb Boyer to discuss applying AI to agricultural robotics to help feed the world.",
+    "zh": "Abbeel主持本期节目，邀请Farmwise的Seb Boyer探讨如何用农业机器人技术运用AI助力全球粮食生产。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-08-03",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "John Schulman of OpenAI on ChatGPT: invention, capabilities and limitations",
+    "zh": "John Schulman of OpenAI on ChatGPT: invention, capabilities and limitations"
+   },
+   "source": "The Robot Brains Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/john-schulman-of-openai-on-chatgpt-invention/id1559275284?i=1000623331688&uo=4",
+   "note": {
+    "en": "Abbeel hosts OpenAI co-founder John Schulman to discuss ChatGPT's invention, capabilities, and limitations.",
+    "zh": "Abbeel主持本期节目，邀请OpenAI联合创始人John Schulman探讨ChatGPT的发明、能力与局限。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-07-06",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Jesse Levinson of Zoox: reinventing personal transportation from the ground up",
+    "zh": "Jesse Levinson of Zoox: reinventing personal transportation from the ground up"
+   },
+   "source": "The Robot Brains Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/jesse-levinson-of-zoox-reinventing-personal/id1559275284?i=1000619480180&uo=4",
+   "note": {
+    "en": "Abbeel hosts Zoox co-founder and CTO Jesse Levinson to discuss reinventing personal transportation.",
+    "zh": "Abbeel主持本期节目，邀请Zoox联合创始人兼CTO Jesse Levinson探讨重塑个人出行方式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-06-07",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Rocky Duan: from OpenAI to Covariant and building foundation models for robotic automation",
+    "zh": "Rocky Duan: from OpenAI to Covariant and building foundation models for robotic automation"
+   },
+   "source": "The Robot Brains Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/rocky-duan-from-openai-to-covariant-and-building/id1559275284?i=1000616022922&uo=4",
+   "note": {
+    "en": "Abbeel hosts Covariant CTO Rocky Duan on his path from OpenAI to building foundation models for robotic automation.",
+    "zh": "Abbeel主持本期节目，邀请Covariant CTO Rocky Duan讲述从OpenAI到为机器人自动化构建基础模型的历程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-05-17",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Yejin Choi: teaching AI common sense and morality",
+    "zh": "Yejin Choi: teaching AI common sense and morality"
+   },
+   "source": "The Robot Brains Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/yejin-choi-teaching-ai-common-sense-and-morality/id1559275284?i=1000613364179&uo=4",
+   "note": {
+    "en": "Abbeel hosts Yejin Choi to discuss teaching AI common sense and morality.",
+    "zh": "Abbeel主持本期节目，邀请Yejin Choi探讨如何教会AI常识与道德判断。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-03-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Super-excited to kick off S3 of @therobotbrains podcast with Yoshua Bengio. We discuss LLMs, Higher-Level Cognition, Causality, GFlow Nets, Responsible AI, Huma",
+    "zh": "Super-excited to kick off S3 of @therobotbrains podcast with Yoshua Bengio. We discuss LLMs, Higher-Level Cognition, Causality, GFlow Nets, Responsible AI, Huma"
+   },
+   "source": "@pabbeel",
+   "url": "https://x.com/pabbeel/status/1636026257497550851",
+   "note": {
+    "en": "Abbeel opens season three of his podcast The Robot Brains with Yoshua Bengio, on LLMs, higher-level cognition, causality and GFlowNets.",
+    "zh": "Abbeel 以与 Yoshua Bengio 的对谈开启其播客 The Robot Brains 第三季，话题涵盖大语言模型、高阶认知、因果性与 GFlowNets。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2022-06-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Chatting with @geoffreyhinton was really inspiring, so excited to get to share our conversation: Apple: https://t.co/FMZbI1AbkI Spotify: https://t.co/Kl40l59WA9",
+    "zh": "Chatting with @geoffreyhinton was really inspiring, so excited to get to share our conversation: Apple: https://t.co/FMZbI1AbkI Spotify: https://t.co/Kl40l59WA9"
+   },
+   "source": "@pabbeel",
+   "url": "https://x.com/pabbeel/status/1532029062390001664",
+   "note": {
+    "en": "Abbeel releases his Robot Brains conversation with Geoffrey Hinton.",
+    "zh": "Abbeel 发布他在 The Robot Brains 中与 Geoffrey Hinton 的对谈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2022-01-05",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Sergey Levine explains the challenges of real world robotics",
+    "zh": "Sergey Levine explains the challenges of real world robotics"
+   },
+   "source": "The Robot Brains Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/sergey-levine-explains-the-challenges-of-real/id1559275284?i=1000547022251&uo=4",
+   "note": {
+    "en": "Abbeel hosts close collaborator Sergey Levine to discuss the challenges of real-world robotics.",
+    "zh": "Abbeel主持本期节目，邀请长期合作者Sergey Levine探讨现实世界机器人技术面临的挑战。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2021-08-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Excited to share the epic Season 1 finale of @therobotbrains with the amazing @ilyasut Co-Founder/Chief Scientist @OpenAI! His breakthroughs include AlexNet, se",
+    "zh": "Excited to share the epic Season 1 finale of @therobotbrains with the amazing @ilyasut Co-Founder/Chief Scientist @OpenAI! His breakthroughs include AlexNet, se"
+   },
+   "source": "@pabbeel",
+   "url": "https://x.com/pabbeel/status/1430568993849413636",
+   "note": {
+    "en": "Abbeel closes season one of The Robot Brains with Ilya Sutskever, covering the run of breakthroughs from AlexNet through GPT and CLIP.",
+    "zh": "Abbeel 以与 Ilya Sutskever 的对谈收官 The Robot Brains 第一季，回顾从 AlexNet 到 GPT、CLIP 的一系列突破。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2021-08-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I believe ultimately most of the challenges towards value creation will be in the AI. But setting that aside, what's the hardest R&amp;D ahead for hardware? I a",
+    "zh": "I believe ultimately most of the challenges towards value creation will be in the AI. But setting that aside, what's the hardest R&amp;D ahead for hardware? I a"
+   },
+   "source": "@pabbeel",
+   "url": "https://x.com/pabbeel/status/1428577692308234242",
+   "note": {
+    "en": "Abbeel argues that most of the value in robotics will be unlocked by AI rather than hardware, and names human-level hands as the hardest hardware problem remaining.",
+    "zh": "Abbeel 认为机器人领域的价值主要将由 AI 而非硬件释放，并指出剩下最难的硬件问题是\"达到人类水平的手\"。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2021-08-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "On Ep20 of @therobotbrains , I sit down with the amazing @drfeifei, Co-Director of @StanfordHAI, Member of Nat'l Acad. of Medicine She shares ImageNet origin st",
+    "zh": "On Ep20 of @therobotbrains , I sit down with the amazing @drfeifei, Co-Director of @StanfordHAI, Member of Nat'l Acad. of Medicine She shares ImageNet origin st"
+   },
+   "source": "@pabbeel",
+   "url": "https://x.com/pabbeel/status/1425509891460927488",
+   "note": {
+    "en": "Abbeel interviews Fei-Fei Li on The Robot Brains, where she recounts the origins of ImageNet.",
+    "zh": "Abbeel 在 The Robot Brains 中访谈李飞飞，她讲述了 ImageNet 的缘起。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2021-08-11",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Fei-Fei Li on revolutionizing AI for the real world",
+    "zh": "Fei-Fei Li on revolutionizing AI for the real world"
+   },
+   "source": "The Robot Brains Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/fei-fei-li-on-revolutionizing-ai-for-the-real-world/id1559275284?i=1000531714234&uo=4",
+   "note": {
+    "en": "Abbeel hosts Fei-Fei Li on his Robot Brains podcast, discussing her work bringing AI into the physical world.",
+    "zh": "Abbeel在其主持的The Robot Brains Podcast节目中对谈李飞飞,探讨她将AI引入现实物理世界的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2021-05-19",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Peter Chen on building brains for robots in the real world",
+    "zh": "Peter Chen on building brains for robots in the real world"
+   },
+   "source": "The Robot Brains Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/peter-chen-on-building-brains-for-robots-in-the-real-world/id1559275284?i=1000522377511&uo=4",
+   "note": {
+    "en": "Abbeel hosts close collaborator Peter Chen, Covariant's CEO and co-founder, on building brains for real-world robots.",
+    "zh": "Abbeel主持本期节目，邀请其密切合作者、Covariant联合创始人兼CEO Peter Chen，探讨为现实世界机器人打造智能核心。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2021-03-22",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Andrej Karpathy on the visionary AI in Tesla's autonomous driving",
+    "zh": "Andrej Karpathy on the visionary AI in Tesla's autonomous driving"
+   },
+   "source": "The Robot Brains Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/andrej-karpathy-on-the-visionary-ai-in-teslas/id1559275284?i=1000513993723&uo=4",
+   "note": {
+    "en": "In the podcast's first-ever episode, Abbeel hosts Andrej Karpathy to discuss the AI behind Tesla's autonomous driving.",
+    "zh": "在播客首期节目中，Abbeel邀请Andrej Karpathy探讨特斯拉自动驾驶背后的AI技术。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2018-12-16",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Pieter Abbeel: Deep Reinforcement Learning",
+    "zh": "Pieter Abbeel: Deep Reinforcement Learning"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/pieter-abbeel-deep-reinforcement-learning/id1434243584?i=1000425908641&uo=4",
+   "note": {
+    "en": "Abbeel is the guest on the Lex Fridman Podcast, discussing deep reinforcement learning and how robots learn to act in the physical world.",
+    "zh": "Abbeel 做客 Lex Fridman 播客，谈深度强化学习以及机器人如何学习在物理世界中行动。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-07-30",
+   "level": "major",
+   "title": {
+    "en": "Frontier Model Research becomes Amazon's top AI priority",
+    "zh": "前沿模型研究成为亚马逊 AI 的最高优先级"
+   },
+   "body": {
+    "en": "Amazon wound down active development of Nova Premier, Nova Omni, Reel and Canvas, keeping Nova 2 Lite, Nova 2 Sonic, Nova Forge and Nova Act. Resources shifted to FMR, whose new flagship foundation model is expected at re:Invent in autumn 2026. Amazon also laid off staff in the AGI unit in July.",
+    "zh": "亚马逊停止 Nova Premier、Nova Omni、Reel 与 Canvas 的active开发，保留 Nova 2 Lite、Nova 2 Sonic、Nova Forge 与 Nova Act。资源转向 FMR，其新旗舰基础模型预计在 2026 年秋季 re:Invent 亮相。7 月亚马逊亦在 AGI 部门裁员。"
+   },
+   "source": "TheNextWeb",
+   "url": "https://thenextweb.com/news/amazon-winds-down-nova-ai-models-frontier-model-research"
+  },
+  {
+   "date": "2026-07-28",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Amazon retires most Nova AI models as Pieter Abbeel leads",
+    "zh": "Amazon retires most Nova AI models as Pieter Abbeel leads"
+   },
+   "body": {
+    "en": "Amazon retires most of its self-built Nova models, including Premier, Omni, Reel and Canvas, and redirects staff and funding into the Frontier Model Research effort Abbeel leads, with a single flagship model due at re:Invent.",
+    "zh": "亚马逊下线自研 Nova 系列中的大部分模型（含 Premier、Omni、Reel 和 Canvas），把人力与资金转向 Abbeel 领导的 Frontier Model Research，计划在 re:Invent 上推出单一旗舰模型。"
+   },
+   "source": "NewsBytes",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdlJGbG40ck5TT3o0M05jekdWb0otbDNvbTB6enZzMkxKelJhcHRQTml1cUREb1Nna1FKMF9NUUxGWHo2SzBNcDJKcXFwMDVSaDd1bllVSnJZY2h5eW9Rb3c2UjNJalNGUzluWW4tMGpEZ21hZmpPX05KZU4yZWJhM0thaUVlbk9keEIxZ1l6UlBBRThMZXNNNDY3VzdhZjNFWUxTTDJFYw?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": true,
+ "was": {
+  "en": "Professor, UC Berkeley; Amazon (ex-Covariant)",
+  "zh": "UC Berkeley 教授；Amazon（原 Covariant）"
+ },
+ "cat": "embodied",
+ "score": {
+  "total": 33.1,
+  "attention": 29,
+  "centrality": 22,
+  "momentum": 35,
+  "stature": 73,
+  "pageviews": 37345,
+  "citations": 79473,
+  "hIndex": 123,
+  "events": 2,
+  "posts": 49,
+  "wikiEn": "Pieter Abbeel",
+  "wikiZh": "彼得·阿比爾"
+ },
+ "seedRank": 78,
+ "tier": "t4"
+}

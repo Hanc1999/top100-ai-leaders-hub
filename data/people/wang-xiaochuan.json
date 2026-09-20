@@ -1,0 +1,681 @@
+{
+ "rank": 83,
+ "id": "wang-xiaochuan",
+ "name": {
+  "en": "Wang Xiaochuan",
+  "zh": "王小川"
+ },
+ "role": {
+  "en": "Founder & CEO, Baichuan Intelligence",
+  "zh": "百川智能创始人兼 CEO"
+ },
+ "org": "Baichuan",
+ "region": {
+  "en": "China",
+  "zh": "中国"
+ },
+ "tags": [
+  "Baichuan",
+  "Medical AI",
+  "HealthBench",
+  "M4",
+  "Sogou"
+ ],
+ "why": {
+  "en": "Sogou's founder. Baichuan's early open releases were an important starting point for China's open ecosystem; he has since narrowed the entire company onto medicine, and it now tops the major medical benchmarks.",
+  "zh": "搜狗创始人。百川早期开源版本是中国开源生态的重要起点；此后他将整家公司收窄到医疗方向，现已在主要医疗基准上登顶。"
+ },
+ "links": [
+  {
+   "kind": "company",
+   "label": "Baichuan",
+   "url": "https://www.baichuan-ai.com/",
+   "t": 2
+  },
+  {
+   "kind": "hf",
+   "label": "Baichuan on Hugging Face",
+   "url": "https://huggingface.co/baichuan-inc",
+   "t": 2
+  },
+  {
+   "kind": "x",
+   "label": "X — search",
+   "url": "https://x.com/search?q=%22Wang+Xiaochuan%22&f=live",
+   "t": 3
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Wang+Xiaochuan",
+   "t": 3
+  },
+  {
+   "kind": "weibo",
+   "label": "微博 — 搜索",
+   "url": "https://s.weibo.com/user?q=%E7%8E%8B%E5%B0%8F%E5%B7%9D",
+   "t": 3
+  },
+  {
+   "kind": "zhihu",
+   "label": "知乎 — 搜索",
+   "url": "https://www.zhihu.com/search?type=people&q=%E7%8E%8B%E5%B0%8F%E5%B7%9D",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "微信公众号 — 搜索",
+   "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%8E%8B%E5%B0%8F%E5%B7%9D",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "B 站 — 搜索",
+   "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%B0%8F%E5%B7%9D",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Wang+Xiaochuan",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Wang+Xiaochuan",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Wang+Xiaochuan&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Wang+Xiaochuan&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=%E7%8E%8B%E5%B0%8F%E5%B7%9D",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Wang+Xiaochuan&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Wang+Xiaochuan",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Wang+Xiaochuan&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "中文报道 — 最新",
+   "url": "https://www.google.com/search?q=%E7%8E%8B%E5%B0%8F%E5%B7%9D+AI&tbm=nws&hl=zh-CN",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-05-28",
+   "kind": "talk",
+   "title": {
+    "en": "Beware of 'looks right': three hard thresholds AI must cross to enter medicine",
+    "zh": "警惕「看似对」：AI 进入医疗必须跨越的三道刚性门槛"
+   },
+   "source": "Sina Finance",
+   "url": "https://finance.sina.com.cn/jjxw/2026-05-28/doc-inhzmpqp1078879.shtml",
+   "note": {
+    "en": "Argues general models cannot meet clinical requirements — only medically augmented models can.",
+    "zh": "主张通用模型达不到临床要求，只有医疗增强大模型可以。"
+   }
+  },
+  {
+   "date": "2026-06-18",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Vol.29 对话王小川：造医生，战豆包，与无尽的 AI 非共识。",
+    "zh": "Vol.29 对话王小川：造医生，战豆包，与无尽的 AI 非共识。"
+   },
+   "source": "硅基立场",
+   "url": "https://podcasts.apple.com/us/podcast/vol-29-%E5%AF%B9%E8%AF%9D%E7%8E%8B%E5%B0%8F%E5%B7%9D-%E9%80%A0%E5%8C%BB%E7%94%9F-%E6%88%98%E8%B1%86%E5%8C%85-%E4%B8%8E%E6%97%A0%E5%B0%BD%E7%9A%84-ai-%E9%9D%9E%E5%85%B1%E8%AF%86/id1762774314?i=1000773208255&uo=4",
+   "note": {
+    "en": "In an interview on 硅基立场, Wang Xiaochuan argued AI healthcare's end goal is a genuinely independent AI doctor, not just an efficiency tool, and defended Baichuan's contrarian focus on medical models over the industry's rush into general models and coding.",
+    "zh": "在“硅基立场”节目专访中，王小川提出AI医疗的终极方向是打造真正独立的AI医生，而非单纯的效率工具，并阐释百川智能为何在行业扎堆通用模型与代码赛道时坚持医疗这一非共识路线。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
+   "date": "2026-01-08",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Vol.95｜对话王小川：专注 AI 医疗后，我的内心越来越平静",
+    "zh": "Vol.95｜对话王小川：专注 AI 医疗后，我的内心越来越平静"
+   },
+   "source": "开始连接 LinkStart",
+   "url": "https://podcasts.apple.com/us/podcast/vol-95-%E5%AF%B9%E8%AF%9D%E7%8E%8B%E5%B0%8F%E5%B7%9D-%E4%B8%93%E6%B3%A8-ai-%E5%8C%BB%E7%96%97%E5%90%8E-%E6%88%91%E7%9A%84%E5%86%85%E5%BF%83%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B9%B3%E9%9D%99/id1693180879?i=1000744243221&uo=4",
+   "note": {
+    "en": "Wang Xiaochuan reflected on a year focused entirely on AI medicine at Baichuan, saying the narrower bet has left him calmer even as skepticism about AI healthcare persists.",
+    "zh": "王小川在专访中回顾了百川智能全力聚焦AI医疗的一年，表示尽管外界对AI医疗仍有质疑，但这一更聚焦的选择让他内心愈发平静。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
+   "date": "2025-05-15",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Vol10 对话赫拉利x王小川：人类如何与AI共存？",
+    "zh": "Vol10 对话赫拉利x王小川：人类如何与AI共存？"
+   },
+   "source": "赛博对话",
+   "url": "https://podcasts.apple.com/us/podcast/vol10-%E5%AF%B9%E8%AF%9D%E8%B5%AB%E6%8B%89%E5%88%A9x%E7%8E%8B%E5%B0%8F%E5%B7%9D-%E4%BA%BA%E7%B1%BB%E5%A6%82%E4%BD%95%E4%B8%8Eai%E5%85%B1%E5%AD%98/id1806276336?i=1000708538030&uo=4",
+   "note": {
+    "en": "Wang Xiaochuan joined historian Yuval Noah Harari for a conversation on how humans and AI can coexist.",
+    "zh": "王小川与历史学家尤瓦尔·赫拉利对谈，探讨人类如何与AI共存。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
+   "date": "2025-02-11",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "与王小川聊AI✖️医疗：通向“生命科学的数学原理”",
+    "zh": "与王小川聊AI✖️医疗：通向“生命科学的数学原理”"
+   },
+   "source": "晚点聊 LateTalk",
+   "url": "https://podcasts.apple.com/us/podcast/%E4%B8%8E%E7%8E%8B%E5%B0%8F%E5%B7%9D%E8%81%8Aai-%E5%8C%BB%E7%96%97-%E9%80%9A%E5%90%91-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E7%9A%84%E6%95%B0%E5%AD%A6%E5%8E%9F%E7%90%86/id1564877433?i=1000691022676&uo=4",
+   "note": {
+    "en": "In this LateTalk interview, Wang Xiaochuan discusses Baichuan's pivot to AI-driven medicine, calling it a search for 'the mathematical principles of life,' shortly after the company shipped its Baichuan-M1-Preview reasoning model.",
+    "zh": "在这期《晚点聊》访谈中，王小川谈到百川转向AI医疗方向，称之为寻找“生命科学的数学原理”，此前不久公司刚发布了推理模型Baichuan-M1-Preview。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcast_show"
+  },
+  {
+   "date": "2025-01-16",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Vol.35｜对话王小川：AI 医疗，代表了 AGI 之后更大的世界",
+    "zh": "Vol.35｜对话王小川：AI 医疗，代表了 AGI 之后更大的世界"
+   },
+   "source": "开始连接 LinkStart",
+   "url": "https://podcasts.apple.com/us/podcast/vol-35-%E5%AF%B9%E8%AF%9D%E7%8E%8B%E5%B0%8F%E5%B7%9D-ai-%E5%8C%BB%E7%96%97-%E4%BB%A3%E8%A1%A8%E4%BA%86-agi-%E4%B9%8B%E5%90%8E%E6%9B%B4%E5%A4%A7%E7%9A%84%E4%B8%96%E7%95%8C/id1693180879?i=1000684189877&uo=4",
+   "note": {
+    "en": "Wang discussed Baichuan's pivot into AI medicine and why he sees it as a bigger opportunity than general AGI, in a LinkStart interview.",
+    "zh": "王小川在\"开始连接 LinkStart\"访谈中谈及百川智能转向AI医疗的战略，并阐述了他认为这比通用AGI蕴含更大机会的原因。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
+   "date": "2024-09-25",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "76. 王小川返场谈o1与强化学习：摸到了一条从快思考走向慢思考的路",
+    "zh": "76. 王小川返场谈o1与强化学习：摸到了一条从快思考走向慢思考的路"
+   },
+   "source": "张小珺Jùn｜商业访谈录",
+   "url": "https://podcasts.apple.com/us/podcast/76-%E7%8E%8B%E5%B0%8F%E5%B7%9D%E8%BF%94%E5%9C%BA%E8%B0%88o1%E4%B8%8E%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0-%E6%91%B8%E5%88%B0%E4%BA%86%E4%B8%80%E6%9D%A1%E4%BB%8E%E5%BF%AB%E6%80%9D%E8%80%83%E8%B5%B0%E5%90%91%E6%85%A2%E6%80%9D%E8%80%83%E7%9A%84%E8%B7%AF/id1634356920?i=1000670640450&uo=4",
+   "note": {
+    "en": "Wang Xiaochuan returned to 张小珺Jùn's interview series to discuss OpenAI's o1 and reinforcement learning, describing it as a path from 'fast thinking' toward 'slow thinking' in AI.",
+    "zh": "王小川在张小珺Jùn的访谈节目中再次做客，谈OpenAI o1与强化学习，称这标志着AI从“快思考”走向“慢思考”的路径。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
+   "date": "2024-03-17",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "61. 和王小川聊再创业这一年：回应朱啸虎与中国AGI第三种可能",
+    "zh": "61. 和王小川聊再创业这一年：回应朱啸虎与中国AGI第三种可能"
+   },
+   "source": "张小珺Jùn｜商业访谈录",
+   "url": "https://podcasts.apple.com/us/podcast/61-%E5%92%8C%E7%8E%8B%E5%B0%8F%E5%B7%9D%E8%81%8A%E5%86%8D%E5%88%9B%E4%B8%9A%E8%BF%99%E4%B8%80%E5%B9%B4-%E5%9B%9E%E5%BA%94%E6%9C%B1%E5%95%B8%E8%99%8E%E4%B8%8E%E4%B8%AD%E5%9B%BDagi%E7%AC%AC%E4%B8%89%E7%A7%8D%E5%8F%AF%E8%83%BD/id1634356920?i=1000649513747&uo=4",
+   "note": {
+    "en": "In this interview, Wang Xiaochuan responded to investor Zhu Xiaohu's public skepticism about Baichuan and laid out what he called a third possible path for China's pursuit of AGI, beyond pure idealism or pure market pragmatism.",
+    "zh": "在此次访谈中，王小川回应了投资人朱啸虎对百川智能的公开质疑，提出了中国追求AGI的“第三种可能”，介于理想主义与市场现实主义之间。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
+   "date": "2023-07-28",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Vol.10 百川智能王小川：大模型创业100天的思考",
+    "zh": "Vol.10 百川智能王小川：大模型创业100天的思考"
+   },
+   "source": "AI局内人 | AGI Insider",
+   "url": "https://podcasts.apple.com/us/podcast/vol-10-%E7%99%BE%E5%B7%9D%E6%99%BA%E8%83%BD%E7%8E%8B%E5%B0%8F%E5%B7%9D-%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%88%9B%E4%B8%9A100%E5%A4%A9%E7%9A%84%E6%80%9D%E8%80%83/id1693183193?i=1000622624362&uo=4",
+   "note": {
+    "en": "Wang Xiaochuan reflected on Baichuan's first 100 days as a large-model startup in this interview, shortly after releasing the open Baichuan-7B and Baichuan-13B models.",
+    "zh": "在这次专访中，王小川回顾了百川智能作为大模型创业公司的头100天，彼时公司刚发布开源的Baichuan-7B与Baichuan-13B模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
+   "date": "2023-04-21",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "S3E04｜对话王小川：通用人工智能是一次文艺复兴",
+    "zh": "S3E04｜对话王小川：通用人工智能是一次文艺复兴"
+   },
+   "source": "商业WHY酱",
+   "url": "https://podcasts.apple.com/us/podcast/s3e04-%E5%AF%B9%E8%AF%9D%E7%8E%8B%E5%B0%8F%E5%B7%9D-%E9%80%9A%E7%94%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%98%AF%E4%B8%80%E6%AC%A1%E6%96%87%E8%89%BA%E5%A4%8D%E5%85%B4/id1584252224?i=1000610068766&uo=4",
+   "note": {
+    "en": "Wang Xiaochuan discussed why he came out of his post-Sogou stint in life sciences to found Baichuan, calling the arrival of general AI 'a renaissance.'",
+    "zh": "王小川在专访中谈及为何结束在生命科学领域的探索期、重新出山创立百川智能，称通用人工智能的到来是“一次文艺复兴”。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
+   "date": "2017-10-19",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "艾问·王小川：搜狗熬到上市，不服李彦宏的王小川能挑战百度吗？",
+    "zh": "艾问·王小川：搜狗熬到上市，不服李彦宏的王小川能挑战百度吗？"
+   },
+   "source": "艾问人物iAsk Leaders",
+   "url": "https://podcasts.apple.com/us/podcast/%E8%89%BE%E9%97%AE-%E7%8E%8B%E5%B0%8F%E5%B7%9D-%E6%90%9C%E7%8B%97%E7%86%AC%E5%88%B0%E4%B8%8A%E5%B8%82-%E4%B8%8D%E6%9C%8D%E6%9D%8E%E5%BD%A6%E5%AE%8F%E7%9A%84%E7%8E%8B%E5%B0%8F%E5%B7%9D%E8%83%BD%E6%8C%91%E6%88%98%E7%99%BE%E5%BA%A6%E5%90%97/id961916599?i=1000667100710&uo=4",
+   "note": {
+    "en": "In this 2017 interview, then-Sogou CEO Wang Xiaochuan discussed Sogou's long road to its IPO and whether the company could challenge Baidu.",
+    "zh": "在这次2017年的专访中，时任搜狗CEO的王小川谈及搜狗艰难上市的历程，以及公司能否挑战百度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
+   "date": "2016-07-29",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "王小川-中国互联网创业的机会在哪里",
+    "zh": "王小川-中国互联网创业的机会在哪里"
+   },
+   "source": "名人演讲",
+   "url": "https://podcasts.apple.com/us/podcast/%E7%8E%8B%E5%B0%8F%E5%B7%9D-%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E5%88%9B%E4%B8%9A%E7%9A%84%E6%9C%BA%E4%BC%9A%E5%9C%A8%E5%93%AA%E9%87%8C/id1027205497?i=1000665324658&uo=4",
+   "note": {
+    "en": "A recorded talk by Wang Xiaochuan on where China's internet entrepreneurship opportunities lie, from his time leading Sogou.",
+    "zh": "王小川关于中国互联网创业机会的一次演讲录音，来自他执掌搜狗时期。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-05-26",
+   "level": "major",
+   "title": {
+    "en": "Baichuan-M4 and AI family doctor '百小医' launched",
+    "zh": "发布 Baichuan-M4 与 AI 家庭医生「百小医」"
+   },
+   "body": {
+    "en": "Ranks first simultaneously on HealthBench, HealthBench Hard and HealthBench Professional, ahead of GPT-5.5, Opus 4.7 and DeepSeek-V4-Pro; factual hallucination rate down to 3.3%. Joint clinical research underway with Beijing Children's Hospital, CAMS Cancer Hospital and Ruijin Hospital.",
+    "zh": "在 HealthBench、HealthBench Hard 与 HealthBench Professional 三项同时登顶，超越 GPT-5.5、Opus 4.7 与 DeepSeek-V4-Pro；事实性幻觉率降至 3.3%。已与北京儿童医院、中国医学科学院肿瘤医院、瑞金医院开展联合临床研究。"
+   },
+   "source": "Sina Finance",
+   "url": "https://finance.sina.com.cn/tech/2026-05-26/doc-inhzezks9075156.shtml"
+  },
+  {
+   "date": "2026-01-01",
+   "level": "notable",
+   "title": {
+    "en": "~RMB 3B cash on hand; IPO targeted for 2027",
+    "zh": "手握约 30 亿元现金，目标 2027 年 IPO"
+   },
+   "body": {
+    "en": "",
+    "zh": ""
+   },
+   "source": "QbitAI",
+   "url": "https://www.qbitai.com/2026/01/369332.html"
+  },
+  {
+   "date": "2026-09-19",
+   "ts": "2026-09-19T01:12:22Z",
+   "level": "notable",
+   "title": {
+    "en": "王小川引入原搜狗负责人董璐为合伙人，老团队集结杀入AI赛道",
+    "zh": "王小川引入原搜狗负责人董璐为合伙人，老团队集结杀入AI赛道"
+   },
+   "body": {
+    "en": "Wang brought in former Sogou executive Dong Lu as a partner at Baichuan, regrouping his old Sogou team as the company pushes further into AI.",
+    "zh": "王小川引入原搜狗高管董璐担任合伙人，让老搜狗团队重新集结，助力百川进一步发力AI领域。"
+   },
+   "source": "微博",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBWE05WFM2aFQwcmNsWDk4dWM2OXNNdUFmOVJTSjI1RTF5eWhXRHdJWGlKeV8yb3MxX05JNjNWWWNkVktkS2Fxb1djZE53S0JXOWU3R0tB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-01",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "王小川引入新合伙人，前搜狗市场负责人董璐加盟",
+    "zh": "王小川引入新合伙人，前搜狗市场负责人董璐加盟"
+   },
+   "body": {
+    "en": "Wang Xiaochuan brought on a new partner at Baichuan: Dong Lu, former head of marketing at Sogou.",
+    "zh": "王小川为百川智能引入新合伙人——前搜狗市场负责人董璐加盟。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUzZ2WHNWbXpseVpGNXdqSDRla1BMR25QeWNEU0lsR21yTVA3cnUxVXNQeVlIVHVDNEMyZm9LWms3R1RockdkbDRRSUxlTkNNSDhmWDNpTXcyZ3Vxa015TWd5aXAtbFpiS2hOeF9odTJjMEUyUzJLX0sxX1BhMnBUTXVIS2w2Sm0y?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-01",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "王小川引入新合伙人，前搜狗市场负责人董璐加盟",
+    "zh": "王小川引入新合伙人，前搜狗市场负责人董璐加盟"
+   },
+   "body": {
+    "en": "Wang Xiaochuan brought on Dong Lu, Sogou's former head of marketing, as a new partner at Baichuan.",
+    "zh": "王小川引入前搜狗市场负责人董璐作为百川智能的新合伙人。"
+   },
+   "source": "鞭牛士",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwZzhNN2FZV0xxTzliSDF2MEdZSi01LVBQT1dKZFoxR0ZnSm1YQkN4SG5BcW8xbXRoTXExalJfVHViWVZSazJYRGJDWTdJTEtHZElHazRaT2NSZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-27",
+   "ts": "2026-07-27T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "AI医生还未落地，联合创始人先走完了，百川智能只剩王小川",
+    "zh": "AI医生还未落地，联合创始人先走完了，百川智能只剩王小川"
+   },
+   "body": {
+    "en": "Report that Baichuan's other co-founders have all departed, leaving Wang Xiaochuan as the company's sole remaining founder even as its AI-doctor product has yet to ship.",
+    "zh": "报道称百川智能的其他联合创始人已相继离职，如今只剩王小川一人，而其AI医生产品尚未落地。"
+   },
+   "source": "jiemian.com",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYcFhoajY1NEEyZHBNZnpVZEo3ZGFFRm9qcUNibV9OWktJTkxITUJ1TEVwakQ0dEJ4S2FwTjdIV2JGMkl5b2lqeG1qMVpLMmdfQkFtN0ZNUGw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-24",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "最后一个联合创始人离开，王小川身后空无一人",
+    "zh": "最后一个联合创始人离开，王小川身后空无一人"
+   },
+   "body": {
+    "en": "Baichuan's last remaining co-founder has left, leaving Wang as the only founder still at the company.",
+    "zh": "百川智能最后一位联合创始人离职，创始团队只剩王小川一人。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45X2dZeXp5OHF1cng2ZExvMjJ5UGxmdkhrMEJEZU1OWEtROUp3b0FPTlBTSXZFczhDNUpxV2VpUHZac3V0UC1wQUtCWk5QRmZsZjI3Qkh3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-24",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "百川智能联创全员出走，王小川孤军奋战",
+    "zh": "百川智能联创全员出走，王小川孤军奋战"
+   },
+   "body": {
+    "en": "Baichuan Intelligence's co-founders have all left the company, leaving Wang Xiaochuan as the only founder still running it.",
+    "zh": "百川智能的联合创始人已全部离职，只剩王小川一人独自执掌公司。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObVZoc0h3VUlHek5qcE9MQ2JDZXVsbXFkR1FjeTBSdThtZUNvZjM2bGhBcy1aUHBya0dPSmZ6TGl3ZlBPMEhPU0RDTUYweHY0cU52VFlEbkJCUVVQLUpGdHUya2llX0dVTkoySWdXRXFmMFVoOEZDVXBSTFNxZnZDZ0k4bDE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-24",
+   "ts": "2026-07-24T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "百川智能联创全员出走，王小川孤军奋战",
+    "zh": "百川智能联创全员出走，王小川孤军奋战"
+   },
+   "body": {
+    "en": "All of Baichuan's co-founders have departed, leaving Wang Xiaochuan to run the company alone — a major shakeup at the top of the firm.",
+    "zh": "百川智能的联合创始人已全部离职，王小川独自支撑公司运营，公司高层发生重大变动。"
+   },
+   "source": "t.cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tbzJsdDVqYUpsTThlSWpBclFncncwVXNFVmVYSUxSeTNscjltcWo5WGFnVzE5VnFOLXJlMVVCYUhhNUJhZXN2dHZmeHpjMTdvWWY4UG55T0stWWpIQWUyRy0tMkNhM2dDcWtzR2RSbGJfQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-28",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "王小川：医疗行业对大模型有三大刚性要求，但通用模型一条都不达标",
+    "zh": "王小川：医疗行业对大模型有三大刚性要求，但通用模型一条都不达标"
+   },
+   "body": {
+    "en": "Wang Xiaochuan argues that healthcare places three hard requirements on large models that no general-purpose model currently meets, the reasoning behind Baichuan's pivot to medicine.",
+    "zh": "王小川提出医疗行业对大模型有三大刚性要求，而通用模型一条都不达标，这正是百川智能转向医疗的理由。"
+   },
+   "source": "智源社区",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZRG55SkdzQWZOUEpqMjhzUGhDelBRMU5Ia092dlI4VzQyTXZiZVQ0OWNudkRST1ZVVUJBUDJVa0NqeDNrak9oSQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-01-22",
+   "ts": "2026-01-22T05:27:02Z",
+   "level": "notable",
+   "title": {
+    "en": "王小川隔空回应张文宏：医生成长不能以患者为成本",
+    "zh": "王小川隔空回应张文宏：医生成长不能以患者为成本"
+   },
+   "body": {
+    "en": "Wang publicly responded to physician Zhang Wenhong, arguing doctors' growth should not come at patients' expense — a stance tied to Baichuan's medical AI focus.",
+    "zh": "王小川公开回应医生张文宏，认为医生的成长不应以患者为代价，这一立场与百川专注医疗AI的方向相关。"
+   },
+   "source": "第一财经",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HZW9zQXZmMWF5aG16cVYxVEZtY2dOSjBvYm82MnhTWFZHMm9sVXVsUU8zR3hHNHdBaEpqQUQ0dU5IU1oyeUgtQ0hia1dyNGhTY0Nz?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-01-22",
+   "ts": "2026-01-22T13:35:26Z",
+   "level": "notable",
+   "title": {
+    "en": "张文宏拒绝将AI引入病历系统，王小川回应：医生成长不能以患者为成本，一些场景AI+医生已经优于单个医生。#一财情报局",
+    "zh": "张文宏拒绝将AI引入病历系统，王小川回应：医生成长不能以患者为成本，一些场景AI+医生已经优于单个医生。#一财情报局"
+   },
+   "body": {
+    "en": "Responding to a doctor's rejection of AI in medical records, Wang Xiaochuan argued that in some scenarios AI-plus-doctor already outperforms a solo doctor, defending Baichuan's medical-AI focus.",
+    "zh": "针对某医生拒绝将AI引入病历系统的说法,王小川回应称在部分场景下AI+医生已优于单个医生,为百川的医疗AI方向辩护。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IdHZZUV9RSlhQZVVHMDVLZWtqd1FnUFJMamtJOTNITkhxbEwwc2lmZjg1a0FOQ2h0V1ludHhmN2ZEdDJfTGlSelloQk1DeU1zVGp4VlpJdWJpemZjODYtSGE1eEtUdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-01-19",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "从AI六小虎，到被误解的逃兵，王小川带领百川智能回牌桌？",
+    "zh": "从AI六小虎，到被误解的逃兵，王小川带领百川智能回牌桌？"
+   },
+   "body": {
+    "en": "A profile examines whether Wang Xiaochuan is steering Baichuan back into serious AI competition after the company was written off as a straggler among China's 'AI six tigers'.",
+    "zh": "一篇报道分析王小川能否带领曾被视为“AI六小虎”掉队者的百川智能重返竞争牌桌。"
+   },
+   "source": "t.cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2S3VudFRPUklvc2hFX0tKODIwOWMxbXlYbWY0NUhkVG5GOTh3NkNCMExzTHZ2Nl9XOWs1RXdQc2xPUW9PRUJnMTBiY0FyY25JUFFMRjJBWUducE94Q1I3Tjk0WEQ1THpXbm9iZVZhbERCZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-01-14",
+   "ts": "2026-01-14T08:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "王小川押注严肃医疗，AI能比普通医生强吗？",
+    "zh": "王小川押注严肃医疗，AI能比普通医生强吗？"
+   },
+   "body": {
+    "en": "Coverage of Wang Xiaochuan's strategic bet on rigorous medical AI, asking whether Baichuan's models can outperform average physicians — reflecting the company's full pivot to medicine.",
+    "zh": "报道王小川押注严肃医疗AI，探讨百川的模型能否超越普通医生，反映了公司全面转向医疗领域的战略。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55eEtOblA3WUYybVQtQWNidkxVUzJxNUdWM2hhUS13YVR4WEFYcnpxVDhuWllqLVRFUDRNTVpiMmp1QzdtSGJISThaajN2UGR0ZncxM3N3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-01-13",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "王小川重整旗鼓：百川智能有机会在2027年上市",
+    "zh": "王小川重整旗鼓：百川智能有机会在2027年上市"
+   },
+   "body": {
+    "en": "Wang Xiaochuan said Baichuan Intelligence now has a chance to go public as soon as 2027.",
+    "zh": "王小川表示百川智能有望最快于2027年实现上市。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNYTNzU2NJOWIzdWNER2lFbGh6ZUxoem81LWpIem8yMUx0YV9KZnl5b095UzRYUU9GWUZLN29QSWRaV2s0NEdiYWJ5M1RmdkRPbHJrelZMT2ktQVNhUUpXRWFIWXFndk5kSDByTHpOOUxzQUh6X21qc1ZuWTMtcVNWNUQxMGNHS1BjSEdXTHhQQXBTaWMwTXpMUkRDNkFraTlDLVVzdGxxU25COW9ZdmkyS2ZmeVA4TTFNcW03MVhwcTVEVklnc1ZwdFhsZlNCWUI3ekNJZ0tlZmVfUGpBcndORE9RSzNnbFFkbGszZ2JHa3lyNTE3WnY3QUlaWlBUaW9vVl9Vb21lSQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-01-13",
+   "ts": "2026-01-13T08:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "王小川重整旗鼓：百川智能有机会在2027年上市",
+    "zh": "王小川重整旗鼓：百川智能有机会在2027年上市"
+   },
+   "body": {
+    "en": "Wang Xiaochuan said Baichuan is regrouping and could have a shot at an IPO in 2027.",
+    "zh": "王小川表示百川智能正在重整旗鼓，有机会在2027年实现上市。"
+   },
+   "source": "i.ifeng.com",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBmNjhzU2s0aDJ5Wmg5Nm02UXFHY21OOGZrNDJDNDYtVmFqLW41Y2tHYUh1QTZJc1RFeW9LU2dhVEU2UWNvNnVXMA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-01-13",
+   "ts": "2026-01-13T08:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "“就是想做医疗的”王小川，与他的30亿资金和2027年IPO计划",
+    "zh": "“就是想做医疗的”王小川，与他的30亿资金和2027年IPO计划"
+   },
+   "body": {
+    "en": "A profile details Wang Xiaochuan's full pivot of Baichuan to medicine, backed by roughly ¥3 billion in funding and a targeted 2027 IPO.",
+    "zh": "报道披露王小川已将百川智能全面转向医疗方向，获约30亿元资金支持，并计划于2027年上市。"
+   },
+   "source": "Jiemian.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LdU1pX0I2Yk9reDgtd3d4QThjSU5MbVZpRks0SmFxRTdDMlNQUVV6V2FqTzlXQ2Rmb2hOUHRaSnc2ODNiY2V4V1MyMjRUSkx3bFEzYlRB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-01-13",
+   "ts": "2026-01-13T08:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "对话百川智能王小川：争取2027年上市 我们账上趴着30亿 完全足够烧",
+    "zh": "对话百川智能王小川：争取2027年上市 我们账上趴着30亿 完全足够烧"
+   },
+   "body": {
+    "en": "Wang Xiaochuan said Baichuan is aiming for an IPO by 2027 and has roughly RMB 3 billion in cash on hand, enough to fund operations.",
+    "zh": "王小川表示百川智能争取在2027年上市，公司账上约有30亿元现金，足以支撑运营。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNm9zVE9MbS11UGVETGRITVZPNERJdDNIcG5tNUhWd09yUmVtcjlvSXNMWEd1S1Eta3FsVE9JZV9VU2M4bFJ6X0dqMHN6dFhNQkNlU3FnaVRoeDBIR1hwOXFWMW5YbTBLT19rR3Y0N1gzb2V1TXZUaUpsdmU3RjgzTkVlM3M?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "product",
+ "score": {
+  "total": 26.9,
+  "attention": 15,
+  "centrality": 30,
+  "momentum": 56,
+  "stature": 5,
+  "pageviews": 8841,
+  "citations": 6754,
+  "hIndex": 46,
+  "events": 18,
+  "posts": 12,
+  "wikiEn": "Wang Xiaochuan",
+  "wikiZh": "王小川"
+ },
+ "seedRank": 42,
+ "tier": "t5"
+}

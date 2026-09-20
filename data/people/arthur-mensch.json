@@ -1,0 +1,1438 @@
+{
+ "rank": 39,
+ "id": "arthur-mensch",
+ "name": {
+  "en": "Arthur Mensch",
+  "zh": "Arthur Mensch"
+ },
+ "role": {
+  "en": "Co-founder & CEO, Mistral AI",
+  "zh": "Mistral AI 联合创始人兼 CEO"
+ },
+ "org": "Mistral AI",
+ "region": {
+  "en": "France",
+  "zh": "法国"
+ },
+ "tags": [
+  "Mistral",
+  "Open weights",
+  "Sovereign AI",
+  "Europe",
+  "Chips"
+ ],
+ "why": {
+  "en": "Former DeepMind researcher. Built Europe's sovereign-AI anchor on efficient small models and open weights — the core representative of the non-US, non-China route.",
+  "zh": "前 DeepMind 研究员。以高效小模型与开放权重策略建立欧洲的主权 AI 支点，是非美非中路线的核心代表。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@arthurmensch",
+   "url": "https://x.com/arthurmensch",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @arthurmensch",
+   "url": "https://github.com/arthurmensch",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Mistral News",
+   "url": "https://mistral.ai/news",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Mistral AI",
+   "url": "https://mistral.ai/",
+   "t": 2
+  },
+  {
+   "kind": "hf",
+   "label": "Mistral on Hugging Face",
+   "url": "https://huggingface.co/mistralai",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Arthur+Mensch",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Arthur+Mensch",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Arthur+Mensch",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Arthur+Mensch&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Arthur+Mensch&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Arthur+Mensch",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Arthur+Mensch",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Arthur+Mensch",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Arthur+Mensch",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Arthur+Mensch",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Arthur+Mensch",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Arthur+Mensch",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Arthur+Mensch",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Arthur+Mensch&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mistral_AI",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-06-12",
+   "kind": "interview",
+   "title": {
+    "en": "On agentic AI, chips and enterprise adoption",
+    "zh": "关于 agentic AI、芯片与企业采用"
+   },
+   "source": "CNBC The Tech Download",
+   "url": "https://www.cnbc.com/2026/06/12/tech-download-mistral-mensch-agentic-ai-chips.html",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-05-28",
+   "kind": "interview",
+   "title": {
+    "en": "Mistral will explore designing its own chips",
+    "zh": "Mistral 将探索自研芯片"
+   },
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/05/28/mistral-arthur-mensch-design-chips-ai-data-centers.html",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T15:48:23Z",
+   "kind": "x",
+   "title": {
+    "en": "Don’t pace building and owning your own AI models and systems as an enterprise, and there will be no doomsday for you",
+    "zh": "Don’t pace building and owning your own AI models and systems as an enterprise, and there will be no doomsday for you"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/2099525678097948945",
+   "note": {
+    "en": "Mensch argues enterprises that build and own their own AI models and systems won't face a business 'doomsday,' a stance on AI self-reliance.",
+    "zh": "Mensch 主张，企业只要自主构建并拥有自己的AI模型与系统，就不会面临业务上的\"末日\"，这是他对企业AI自主可控的立场表达。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T19:24:05Z",
+   "kind": "x",
+   "title": {
+    "en": "We’re a continent of strategists",
+    "zh": "We’re a continent of strategists"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/2099579960155390063",
+   "note": {
+    "en": "Mensch pushed back on the narrative that Europe lacks strategic vision in AI, part of his ongoing case for a sovereign European AI industry built around Mistral.",
+    "zh": "Mensch反驳了欧洲在AI领域缺乏战略眼光的说法，延续他围绕Mistral构建欧洲主权AI产业的一贯主张。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We've just raised 3B€ to scale our training and inference compute, and make open and sovereign AI the technology frontier. Grateful to everyone who got us there",
+    "zh": "We've just raised 3B€ to scale our training and inference compute, and make open and sovereign AI the technology frontier. Grateful to everyone who got us there"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/2097232588490379686",
+   "note": {
+    "en": "Mensch confirms Mistral's €3B raise, saying the funds will scale training and inference compute.",
+    "zh": "Mensch确认Mistral完成30亿欧元融资，资金将用于扩展训练与推理算力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "My cofounder Tim, whom you will not find on X, shares some of the strategic thinking behind our latest updates https://t.co/NlS1wE9XX5",
+    "zh": "My cofounder Tim, whom you will not find on X, shares some of the strategic thinking behind our latest updates https://t.co/NlS1wE9XX5"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/2088000058910199921",
+   "note": {
+    "en": "Mensch highlighted cofounder Timothée Lacroix's strategic thinking behind Mistral's latest product updates.",
+    "zh": "Mensch介绍了联合创始人Timothée Lacroix对Mistral最新产品更新背后战略思路的分享。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We've joined the alliance. Open-weight models will ensure that we live in a safer digital world, and that America does not get left behind",
+    "zh": "We've joined the alliance. Open-weight models will ensure that we live in a safer digital world, and that America does not get left behind"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/2081866384959578221",
+   "note": {
+    "en": "Mensch announced Mistral joined an alliance backing open-weight models, framing it as key to a safer AI ecosystem and US competitiveness.",
+    "zh": "Mensch宣布Mistral加入了支持开放权重模型的联盟，认为这有助于打造更安全的AI生态并保持美国的竞争力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Open weight models will ensure that the entire world benefits from AI growth, and that America does not get left behind",
+    "zh": "Open weight models will ensure that the entire world benefits from AI growth, and that America does not get left behind"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/2080789494370848924",
+   "note": {
+    "en": "Mensch reiterated that open-weight models help ensure the whole world benefits from AI's growth.",
+    "zh": "Mensch重申开放权重模型有助于确保全世界都能从AI的增长中受益。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We’re super excited to announce an expanded global strategic partnership with Microsoft to give enterprises and regulated industries frontier AI they can contro",
+    "zh": "We’re super excited to announce an expanded global strategic partnership with Microsoft to give enterprises and regulated industries frontier AI they can contro"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/2079719167188406550",
+   "note": {
+    "en": "Mensch announced an expanded global strategic partnership with Microsoft to bring controllable frontier AI to regulated enterprises.",
+    "zh": "Mensch宣布与微软扩大全球战略合作伙伴关系，为受监管企业提供可控的前沿AI。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We somehow got put in the spotlight the last few days! First we'd like to thank the organizers of the AI show for that, we can't get enough of this stuff. I'll",
+    "zh": "We somehow got put in the spotlight the last few days! First we'd like to thank the organizers of the AI show for that, we can't get enough of this stuff. I'll"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/2066913353860018596",
+   "note": {
+    "en": "Mensch reflected on Mistral's sudden spotlight after a high-profile AI event, previewing more updates on where the company stands.",
+    "zh": "Mensch谈到Mistral在一场备受瞩目的AI活动后突然成为焦点，并预告将进一步说明公司的最新进展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-23",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN",
+    "zh": "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN"
+   },
+   "source": "All-In with Chamath, Jason, Sacks & Fr…",
+   "url": "https://podcasts.apple.com/us/podcast/four-ceos-on-the-future-of-ai-coreweave/id1502871393?i=1000756826015&uo=4",
+   "note": {
+    "en": "Mensch joined the CEOs of CoreWeave, Perplexity and IREN on the All-In podcast at Nvidia GTC to discuss AI infrastructure and competition.",
+    "zh": "Mensch在英伟达GTC大会现场与CoreWeave、Perplexity、IREN的CEO一同做客All-In播客,讨论AI基础设施与竞争格局。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-03-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Looking forward to building frontier open source AI models together with @Nvidia as we join the Nemotron Coalition and start training the first base models. htt",
+    "zh": "Looking forward to building frontier open source AI models together with @Nvidia as we join the Nemotron Coalition and start training the first base models. htt"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/2033685747769774121",
+   "note": {
+    "en": "Mensch announced Mistral joined Nvidia's Nemotron Coalition to co-train frontier open-source base models.",
+    "zh": "Mensch宣布Mistral加入英伟达的Nemotron联盟，共同训练前沿开源基础模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-08",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Arthur Mensch - Europa braucht eigene KI-Systeme",
+    "zh": "Arthur Mensch - Europa braucht eigene KI-Systeme"
+   },
+   "source": "Interview der Woche",
+   "url": "https://podcasts.apple.com/us/podcast/arthur-mensch-europa-braucht-eigene-ki-systeme/id473194195?i=1000753634082&uo=4",
+   "note": {
+    "en": "Mensch tells the German podcast Interview der Woche that Europe needs its own sovereign AI systems rather than depending on US providers.",
+    "zh": "Mensch在德国播客《Interview der Woche》上表示，欧洲需要拥有自主可控的AI系统，而不能依赖美国厂商。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-12-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "SOTA open-source vibe coding from your home.",
+    "zh": "SOTA open-source vibe coding from your home."
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/1998412280732746098",
+   "note": {
+    "en": "Mensch teased a state-of-the-art open-source coding assistant usable from home.",
+    "zh": "Mensch预告了一款可在家中使用的顶尖开源编程辅助工具。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-11-20",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Why data is the biggest AI bottleneck (feat. Arthur Mensch of Mistral AI) | E2212",
+    "zh": "Why data is the biggest AI bottleneck (feat. Arthur Mensch of Mistral AI) | E2212"
+   },
+   "source": "This Week in Startups",
+   "url": "https://podcasts.apple.com/us/podcast/why-data-is-the-biggest-ai-bottleneck-feat-arthur/id315114957?i=1000737523115&uo=4",
+   "note": {
+    "en": "This Week in Startups interview in which Mensch argues that data, not compute, is the real bottleneck for AI progress.",
+    "zh": "做客 This Week in Startups，Mensch 提出数据而非算力才是 AI 进展的真正瓶颈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-09-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We're back to school! Very proud of our team accomplishments, and honored to partner with @ASMLcompany in our next phase. We're very excited to push frontier AI",
+    "zh": "We're back to school! Very proud of our team accomplishments, and honored to partner with @ASMLcompany in our next phase. We're very excited to push frontier AI"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/1965317560439898352",
+   "note": {
+    "en": "Mensch announces Mistral's partnership with ASML as the company enters its next phase of frontier AI work in science and technology.",
+    "zh": "Mensch 宣布 Mistral 与 ASML 建立合作，公司进入下一阶段的科学与技术前沿 AI 研发。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-08-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Devstral: Fine-tuning Language Models for Coding Agent Applications",
+    "zh": "Devstral: Fine-tuning Language Models for Coding Agent Applications"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2509.25193v1",
+   "note": {
+    "en": "Mistral technical report on Devstral-Small, an open-source coding-agent model that leads its size class below 100B parameters; Mensch is a co-author.",
+    "zh": "Mistral 关于 Devstral-Small 的技术报告，这是一款面向代码智能体的开源模型，在 100B 以下规模中表现领先，Mensch 是共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-07-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Our first shot at audio",
+    "zh": "Our first shot at audio"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/1946288259711090841",
+   "note": {
+    "en": "Mensch marks Mistral's first move into audio models.",
+    "zh": "Mensch 宣布 Mistral 首次进军音频模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Mistral is proud to provide the text LLM powering Unmute, the open-source voice AI from @kyutai_labs!",
+    "zh": "Mistral is proud to provide the text LLM powering Unmute, the open-source voice AI from @kyutai_labs!"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/1940781536112165315",
+   "note": {
+    "en": "Mensch notes that Mistral's text LLM powers Unmute, the open-source voice AI from Kyutai Labs.",
+    "zh": "Mensch 指出 Kyutai Labs 的开源语音 AI Unmute 由 Mistral 的文本大模型驱动。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-06-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Magistral",
+    "zh": "Magistral"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2506.10910v1",
+   "note": {
+    "en": "Magistral, Mistral's first reasoning model, built on an RL pipeline written from scratch rather than distilled from other models; Mensch is a co-author.",
+    "zh": "Magistral 是 Mistral 的首个推理模型，采用自研的强化学习流程而非蒸馏他人模型，Mensch 是共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-06-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Reasoning with latency-optimized models is quite a UX game changer. Super proud of what the team has accomplished with this Magistral release! https://t.co/qRLM",
+    "zh": "Reasoning with latency-optimized models is quite a UX game changer. Super proud of what the team has accomplished with this Magistral release! https://t.co/qRLM"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/1932451932406415531",
+   "note": {
+    "en": "Mensch announces Magistral, Mistral's latency-optimised reasoning model, arguing that fast reasoning changes the user experience.",
+    "zh": "Mensch 宣布 Mistral 延迟优化推理模型 Magistral 发布，认为低延迟推理显著改变了使用体验。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-05-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We shipped higher level apis for agent orchestration - MCP compatible, all server-side logic deployable privately.",
+    "zh": "We shipped higher level apis for agent orchestration - MCP compatible, all server-side logic deployable privately."
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/1927388755129667831",
+   "note": {
+    "en": "Mensch announces higher-level, MCP-compatible agent orchestration APIs whose server-side logic can be deployed privately.",
+    "zh": "Mensch 宣布推出更高层、兼容 MCP 的智能体编排 API，其服务端逻辑可私有化部署。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-05-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "https://t.co/Od4fB0truR we’ve released an open-source model which is great at agentic coding tasks - by far Pareto optimal and a good prelude to what’s coming n",
+    "zh": "https://t.co/Od4fB0truR we’ve released an open-source model which is great at agentic coding tasks - by far Pareto optimal and a good prelude to what’s coming n"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/1925259298126360677",
+   "note": {
+    "en": "Mensch announces an open-source Mistral model aimed at agentic coding tasks.",
+    "zh": "Mensch 宣布发布一款面向智能体编程任务的 Mistral 开源模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-05-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We’re bringing le Chat and our AI Platform to Dell’s hardware for on-prem deployment https://t.co/iBvZ6OvkGT",
+    "zh": "We’re bringing le Chat and our AI Platform to Dell’s hardware for on-prem deployment https://t.co/iBvZ6OvkGT"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/1924566567112605911",
+   "note": {
+    "en": "Mensch announces that le Chat and Mistral's AI platform will run on Dell hardware for on-premise deployment.",
+    "zh": "Mensch 宣布 le Chat 与 Mistral AI 平台将运行于戴尔硬件，支持本地部署。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-04-13",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ce que personne n’ose vous dire sur l’IA (feat. le CEO de Mistral AI, Arthur Mensch)",
+    "zh": "Ce que personne n’ose vous dire sur l’IA (feat. le CEO de Mistral AI, Arthur Mensch)"
+   },
+   "source": "HugoDécrypte - Actus et interviews",
+   "url": "https://podcasts.apple.com/us/podcast/ce-que-personne-nose-vous-dire-sur-lia-feat-le-ceo/id1552365367?i=1000703361732&uo=4",
+   "note": {
+    "en": "French-language HugoDecrypte interview in which Mensch lays out what he thinks goes unsaid about AI and Europe's position in it.",
+    "zh": "接受法语媒体 HugoDecrypte 专访，Mensch 讲述他认为外界避而不谈的 AI 现实以及欧洲的处境。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-03-21",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Jensen Huang and Arthur Mensch on Winning the Global AI Race",
+    "zh": "Jensen Huang and Arthur Mensch on Winning the Global AI Race"
+   },
+   "source": "The a16z Show",
+   "url": "https://podcasts.apple.com/us/podcast/jensen-huang-and-arthur-mensch-on-winning-the-global-ai-race/id842818711?i=1000700252317&uo=4",
+   "note": {
+    "en": "Joint a16z conversation with NVIDIA's Jensen Huang on national AI strategy and what it takes for a country to compete in AI.",
+    "zh": "在 a16z 节目中与英伟达黄仁勋对谈，讨论国家层面的 AI 战略以及一国参与 AI 竞争所需的条件。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-03-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I had the great pleasure to talk about sovereignty in AI with Jensen and @AnjneyMidha. We explain why every nation state needs an AI strategy and what matters f",
+    "zh": "I had the great pleasure to talk about sovereignty in AI with Jensen and @AnjneyMidha. We explain why every nation state needs an AI strategy and what matters f"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/1903005494337277983",
+   "note": {
+    "en": "Mensch discusses AI sovereignty with Jensen Huang and Anjney Midha, arguing every nation state needs its own AI strategy.",
+    "zh": "Mensch 与黄仁勋、Anjney Midha 讨论 AI 主权，主张每个国家都需要自己的 AI 战略。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-03-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Our new OCR model is available through our public API and as a self-deployable solution. In use on le Chat, and part of our specialist model family that is gett",
+    "zh": "Our new OCR model is available through our public API and as a self-deployable solution. In use on le Chat, and part of our specialist model family that is gett"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/1897782123576053890",
+   "note": {
+    "en": "Mensch announces Mistral's OCR model, available through the public API and as a self-deployable solution within its growing specialist model family.",
+    "zh": "Mensch 宣布 Mistral OCR 模型上线，可通过公开 API 调用或自行部署，属于其不断扩展的专用模型系列。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-01-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "A new model to hasten AI progress. 24B, 81% MMLU, no RL for now! We're super excited to see the latest development in international open-source AI (kudos to Dee",
+    "zh": "A new model to hasten AI progress. 24B, 81% MMLU, no RL for now! We're super excited to see the latest development in international open-source AI (kudos to Dee"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/1884972984202338450",
+   "note": {
+    "en": "Mensch announces a 24B Mistral model reaching 81% MMLU without reinforcement learning, and credits DeepSeek for pushing international open-source AI forward.",
+    "zh": "Mensch 宣布发布 240 亿参数、MMLU 达 81% 且暂未使用强化学习的 Mistral 模型，并肯定 DeepSeek 对国际开源 AI 的推动。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-01-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Codestral 25.01 is not only on top of the Copilot Arena leaderboard, it's also 2x faster than the first Codestral -- that matters a lot for code completion",
+    "zh": "Codestral 25.01 is not only on top of the Copilot Arena leaderboard, it's also 2x faster than the first Codestral -- that matters a lot for code completion"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/1878947879953502486",
+   "note": {
+    "en": "Mensch announces Codestral 25.01, which tops the Copilot Arena leaderboard and runs twice as fast as the first Codestral for code completion.",
+    "zh": "Mensch 宣布 Codestral 25.01 登顶 Copilot Arena 榜单，代码补全速度是初代 Codestral 的两倍。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-11-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Expanding from a science company to a science and product company was no easy task, and that release is a very significant milestone in our journey. We're looki",
+    "zh": "Expanding from a science company to a science and product company was no easy task, and that release is a very significant milestone in our journey. We're looki"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/1858567024609276372",
+   "note": {
+    "en": "Mensch reflects on Mistral's shift from a science company to a science-and-product company, marked by the le Chat release.",
+    "zh": "Mensch 回顾 Mistral 从科研公司转型为科研加产品公司的过程，并以 le Chat 的发布作为标志。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-11-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "At Mistral, we've grown aware that to create the best AI experience, one needs to co-design models and product interfaces. Pixtral was trained with high-impact",
+    "zh": "At Mistral, we've grown aware that to create the best AI experience, one needs to co-design models and product interfaces. Pixtral was trained with high-impact"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/1858568631358988691",
+   "note": {
+    "en": "Mensch argues that models and product interfaces must be co-designed, citing Pixtral's training for front-end applications.",
+    "zh": "Mensch 提出模型与产品界面必须协同设计，并以面向前端应用训练的 Pixtral 为例。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-10-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Introducing the world's best edge models. https://t.co/nAExVy0fPZ",
+    "zh": "Introducing the world's best edge models. https://t.co/nAExVy0fPZ"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/1846565876046201289",
+   "note": {
+    "en": "Mensch introduces Mistral's edge model family for on-device deployment.",
+    "zh": "Mensch 发布 Mistral 面向端侧部署的边缘模型系列。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-10-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Pixtral 12B",
+    "zh": "Pixtral 12B"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2410.07073v2",
+   "note": {
+    "en": "Pixtral 12B, Mistral's first multimodal model, which reads images and documents without giving up text performance; Mensch is a co-author.",
+    "zh": "Pixtral 12B 是 Mistral 的首个多模态模型，在不牺牲文本能力的前提下理解图像与文档，Mensch 是共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-09-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Moving forward with a new Small, Pixtral on le Chat and la Plateforme, reduced prices across the board, and an API free tier!",
+    "zh": "Moving forward with a new Small, Pixtral on le Chat and la Plateforme, reduced prices across the board, and an API free tier!"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/1836084488549384569",
+   "note": {
+    "en": "Mensch announced a new Mistral Small model, Pixtral availability on Le Chat and La Plateforme, lower prices, and a free API tier.",
+    "zh": "Mensch宣布推出新的Mistral Small模型、Pixtral登陆Le Chat与La Plateforme、全面降价，并推出免费API层级。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-08-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "New steps towards faster model customisation and application building",
+    "zh": "New steps towards faster model customisation and application building"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/1821252147297861663",
+   "note": {
+    "en": "Mensch announced new features for faster model customization and application building on Mistral's platform.",
+    "zh": "Mensch宣布Mistral平台推出新功能，加快模型定制和应用构建速度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-07-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Largement sur le Pareto",
+    "zh": "Largement sur le Pareto"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/1816135621276229983",
+   "note": {
+    "en": "Mensch claimed one of Mistral's models sits well ahead on the performance-efficiency Pareto frontier.",
+    "zh": "Mensch表示Mistral的一款模型在性能-效率的帕累托前沿上大幅领先。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-03-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "IA : Notre Ambition Pour La France: Commission De L'intelligence Artificielle",
+    "zh": "IA : Notre Ambition Pour La France: Commission De L'intelligence Artificielle"
+   },
+   "source": "HAL (Le Centre pour la Communication S…",
+   "url": "https://hal.science/hal-04825691",
+   "note": {
+    "en": "Contribution to the French government's national AI commission report on the country's AI ambitions.",
+    "zh": "为法国政府人工智能委员会报告（阐述法国AI发展目标）所做的贡献。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2024-01-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Mixtral of Experts",
+    "zh": "Mixtral of Experts"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2401.04088v1",
+   "note": {
+    "en": "Mixtral 8x7B, the sparse mixture-of-experts model that made MoE a mainstream open-weights architecture; Mensch is a co-author.",
+    "zh": "Mixtral 8x7B 稀疏混合专家模型，使 MoE 成为开放权重模型的主流架构，Mensch 是共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-12-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemini: A Family of Highly Capable Multimodal Models",
+    "zh": "Gemini: A Family of Highly Capable Multimodal Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2312.11805v5",
+   "note": {
+    "en": "Google DeepMind's Gemini technical report, on which Mensch is credited among the authors for work done before he left to found Mistral.",
+    "zh": "谷歌 DeepMind 的 Gemini 技术报告，Mensch 因离职创办 Mistral 之前的工作而位列作者名单。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-12-11",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Safety in Numbers: Keeping AI Open",
+    "zh": "Safety in Numbers: Keeping AI Open"
+   },
+   "source": "The a16z Show",
+   "url": "https://podcasts.apple.com/us/podcast/safety-in-numbers-keeping-ai-open/id842818711?i=1000638213575&uo=4",
+   "note": {
+    "en": "Mensch discussed Mistral's founding, the Chinchilla paper he co-authored at DeepMind, and the case for keeping AI open, on the a16z podcast.",
+    "zh": "Mensch在a16z播客中谈及创立Mistral的经过、他在DeepMind合著的Chinchilla论文,以及保持AI开放的理由。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-11-09",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Mistral 7B and the Open Source Revolution With Arthur Mensch, CEO Mistral AI",
+    "zh": "Mistral 7B and the Open Source Revolution With Arthur Mensch, CEO Mistral AI"
+   },
+   "source": "No Priors: Artificial Intelligence | T…",
+   "url": "https://podcasts.apple.com/us/podcast/mistral-7b-and-the-open-source-revolution-with/id1668002688?i=1000634247985&uo=4",
+   "note": {
+    "en": "Arthur Mensch appeared on the No Priors podcast to discuss Mistral 7B and Mistral AI's open-source strategy.",
+    "zh": "Arthur Mensch 做客 No Priors 播客，谈 Mistral 7B 与 Mistral AI 的开源策略。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-10-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Mistral 7B",
+    "zh": "Mistral 7B"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2310.06825v1",
+   "note": {
+    "en": "Mistral 7B, the open-weights model that launched the company and outperformed Llama 2 13B across benchmarks; Mensch is a co-author.",
+    "zh": "Mistral 7B 是让公司一举成名的开放权重模型，在各项基准上超过 Llama 2 13B，Mensch 是共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-03-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Three ways to improve feature alignment for open vocabulary detection",
+    "zh": "Three ways to improve feature alignment for open vocabulary detection"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2303.13518v1",
+   "note": {
+    "en": "DeepMind paper on aligning visual and text features so open-vocabulary detectors generalise to unseen classes, co-authored with Arandjelovic, Henaff and Zisserman.",
+    "zh": "DeepMind 论文，研究如何对齐视觉与文本特征，使开放词表检测器能泛化到未见类别，与 Arandjelovic、Henaff、Zisserman 等合作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-11-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Self-conditioned Embedding Diffusion for Text Generation",
+    "zh": "Self-conditioned Embedding Diffusion for Text Generation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2211.04236v1",
+   "note": {
+    "en": "DeepMind study of continuous diffusion over token embeddings as a route to text generation, co-authored by Mensch.",
+    "zh": "DeepMind 研究，探索在词元嵌入上做连续扩散以生成文本，Mensch 是共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-10-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Dissecting adaptive methods in GANs",
+    "zh": "Dissecting adaptive methods in GANs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2210.04319v1",
+   "note": {
+    "en": "Analysis of why adaptive optimisers matter so much for GAN training, co-authored with Jelassi, Gidel and Li.",
+    "zh": "分析自适应优化方法为何对 GAN 训练如此关键，与 Jelassi、Gidel、Li 合作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-04-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Flamingo: a Visual Language Model for Few-Shot Learning",
+    "zh": "Flamingo: a Visual Language Model for Few-Shot Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2204.14198v2",
+   "note": {
+    "en": "Flamingo, DeepMind's few-shot visual language model and a reference point for later multimodal systems; Mensch is a co-author.",
+    "zh": "DeepMind 的少样本视觉语言模型 Flamingo，是后续多模态系统的重要参照，Mensch 是共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-03-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Training Compute-Optimal Large Language Models",
+    "zh": "Training Compute-Optimal Large Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2203.15556v1",
+   "note": {
+    "en": "The Chinchilla paper, which showed large language models were badly undertrained for their compute budget and reset how the field allocates data and parameters; Mensch is a co-author.",
+    "zh": "即 Chinchilla 论文，指出大语言模型在既定算力下训练数据严重不足，改变了业界在数据与参数之间的分配方式，Mensch 是共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-02-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Unified Scaling Laws for Routed Language Models",
+    "zh": "Unified Scaling Laws for Routed Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2202.01169v2",
+   "note": {
+    "en": "Scaling laws for routed (mixture-of-experts) language models, groundwork for the sparse architectures he later shipped at Mistral.",
+    "zh": "研究路由式（混合专家）语言模型的扩展规律，为他日后在 Mistral 推出的稀疏架构打下基础。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-12-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scaling Language Models: Methods, Analysis & Insights from Training Gopher",
+    "zh": "Scaling Language Models: Methods, Analysis & Insights from Training Gopher"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2112.11446v2",
+   "note": {
+    "en": "DeepMind's Gopher report, training a 280B-parameter language model and analysing where scale helps across 152 tasks; Mensch is a co-author.",
+    "zh": "DeepMind 的 Gopher 报告，训练 2800 亿参数语言模型并在 152 项任务上分析规模的作用，Mensch 是共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-12-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Improving language models by retrieving from trillions of tokens",
+    "zh": "Improving language models by retrieving from trillions of tokens"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2112.04426v3",
+   "note": {
+    "en": "RETRO, which improves language models by retrieving from a two-trillion-token database instead of growing parameters; Mensch is a co-author.",
+    "zh": "RETRO 通过从 2 万亿词元的数据库中检索来提升语言模型，而非一味增加参数，Mensch 是共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-10-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Differentiable Divergences Between Time Series",
+    "zh": "Differentiable Divergences Between Time Series"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2010.08354v3",
+   "note": {
+    "en": "A differentiable divergence for comparing time series of different lengths, replacing non-differentiable dynamic time warping; with Blondel and Vert.",
+    "zh": "提出可微的时间序列差异度量，替代不可微的动态时间规整，与 Blondel、Vert 合作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-03-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Fine-grain atlases of functional modes for fMRI analysis",
+    "zh": "Fine-grain atlases of functional modes for fMRI analysis"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2003.05405v1",
+   "note": {
+    "en": "DiFuMo, fine-grained atlases of functional brain modes for large-scale fMRI analysis, from Mensch's neuroimaging period.",
+    "zh": "DiFuMo 细粒度脑功能模式图谱，用于大规模 fMRI 分析，出自 Mensch 的神经影像研究阶段。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-03-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Online Sinkhorn: Optimal Transport distances from sample streams",
+    "zh": "Online Sinkhorn: Optimal Transport distances from sample streams"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2003.01415v2",
+   "note": {
+    "en": "Online Sinkhorn, an algorithm for computing optimal-transport distances from streaming samples rather than fixed discrete distributions; with Gabriel Peyre.",
+    "zh": "Online Sinkhorn 算法，可从样本流而非固定离散分布计算最优传输距离，与 Gabriel Peyre 合作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-02-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A mean-field analysis of two-player zero-sum games",
+    "zh": "A mean-field analysis of two-player zero-sum games"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2002.06277v4",
+   "note": {
+    "en": "Mean-field analysis of finding Nash equilibria in two-player zero-sum continuous games, the setting behind GAN and robust training.",
+    "zh": "用平均场方法分析双人零和连续博弈中的纳什均衡求解，这正是 GAN 与鲁棒训练背后的问题设定。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-05-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Extragradient with player sampling for faster Nash equilibrium finding",
+    "zh": "Extragradient with player sampling for faster Nash equilibrium finding"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1905.12363v5",
+   "note": {
+    "en": "An extragradient method with player sampling that finds Nash equilibria faster in many-player games such as GAN training.",
+    "zh": "提出带玩家采样的外推梯度方法，在 GAN 训练等多方博弈中更快找到纳什均衡。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-05-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Geometric Losses for Distributional Learning",
+    "zh": "Geometric Losses for Distributional Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1905.06005v1",
+   "note": {
+    "en": "Mensch's first-authored generalisation of the logistic loss using entropy-regularised optimal transport for distributional learning.",
+    "zh": "Mensch 作为第一作者，用熵正则化最优传输推广逻辑损失，用于分布式标签学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-09-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Extracting representations of cognition across neuroimaging studies improves brain decoding",
+    "zh": "Extracting representations of cognition across neuroimaging studies improves brain decoding"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1809.06035v3",
+   "note": {
+    "en": "First-authored work pooling many neuroimaging studies into shared representations of cognition to improve brain decoding.",
+    "zh": "Mensch 第一作者的工作，将大量神经影像研究汇聚成共享的认知表征，以提升脑解码效果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-02-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Differentiable Dynamic Programming for Structured Prediction and Attention",
+    "zh": "Differentiable Dynamic Programming for Structured Prediction and Attention"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1802.03676v2",
+   "note": {
+    "en": "Makes dynamic programming differentiable so it can be used inside structured prediction and attention layers; his most-cited methods paper, with Blondel.",
+    "zh": "让动态规划变得可微，从而能嵌入结构化预测与注意力层，是他与 Blondel 合作、被引最多的方法论文。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2017-10-31",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Learning Neural Representations of Human Cognition across Many fMRI Studies",
+    "zh": "Learning Neural Representations of Human Cognition across Many fMRI Studies"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1710.11438v2",
+   "note": {
+    "en": "First-authored model learning neural representations of human cognition across many fMRI studies at once.",
+    "zh": "Mensch 第一作者的研究，跨多项 fMRI 研究同时学习人类认知的神经表征。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2017-01-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Stochastic Subsampling for Factorizing Huge Matrices",
+    "zh": "Stochastic Subsampling for Factorizing Huge Matrices"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1701.05363v3",
+   "note": {
+    "en": "Matrix-factorisation algorithm that scales to matrices huge in both rows and columns, from his PhD work with Mairal, Thirion and Varoquaux.",
+    "zh": "可扩展到行列均极大的矩阵分解算法，出自他与 Mairal、Thirion、Varoquaux 合作的博士研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-07-06",
+   "level": "notable",
+   "title": {
+    "en": "New open-weight MoE family enters early access",
+    "zh": "新的开放权重 MoE 模型家族进入早期访问"
+   },
+   "body": {
+    "en": "Mensch describes it as 'fat but sparse'; parameter count, benchmarks and license terms not yet disclosed.",
+    "zh": "Mensch 形容其为「肥胖但稀疏」；参数量、基准与许可条款尚未披露。"
+   },
+   "source": "TechTimes",
+   "url": "https://www.techtimes.com/articles/319798/20260706/mistral-ai-targets-frontier-gap-open-weight-model-entering-july-early-access.htm"
+  },
+  {
+   "date": "2026-02-01",
+   "level": "notable",
+   "title": {
+    "en": "ARR passes $400M; Koyeb acquired; €4B datacenter build committed",
+    "zh": "ARR 突破 4 亿美元；收购 Koyeb；承诺 40 亿欧元数据中心"
+   },
+   "body": {
+    "en": "Up from roughly $20M a year earlier. Datacenters across France and Sweden.",
+    "zh": "较一年前约 2000 万美元大幅增长。数据中心分布于法国与瑞典。"
+   },
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/05/28/mistral-arthur-mensch-design-chips-ai-data-centers.html"
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T06:03:21Z",
+   "level": "notable",
+   "title": {
+    "en": "Mistral's Arthur Mensch: model commoditisation is here — value moves downstream",
+    "zh": "Mistral's Arthur Mensch: model commoditisation is here — value moves downstream"
+   },
+   "body": {
+    "en": "In an interview, Mensch argued AI model capabilities are commoditizing and that value is shifting to the application layer above the model.",
+    "zh": "在采访中，Mensch表示AI模型能力正在商品化，价值正转移到模型之上的应用层。"
+   },
+   "source": "Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWTlHNWpCMjhfLWxoa1RrYWNJeEtjdEtUVHRyd3hWSTZNYVNQQTNUSm1uWGpmR1JpaGhnRlU1U2N0QzNlcF90TGdzMlZ4NU9wM1pKUUFTLUlCTHFaSlBiTE85QnhnRVRDREtzTW41cmt6MkpjREZLOFpmM2hYZFpTQWNkcl91OG5HNXBJUzZqNmZYLWwwZTZuTFZCQXdESTNmWXFwNENUZ0JTLXFkZEtn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-23",
+   "ts": "2026-06-23T06:36:25Z",
+   "level": "notable",
+   "title": {
+    "en": "Arthur Mensch tells French parliament Europe has ~2 years to build sovereign AI",
+    "zh": "Arthur Mensch tells French parliament Europe has ~2 years to build sovereign AI"
+   },
+   "body": {
+    "en": "Mensch tells the French parliament Europe has roughly two years left to build sovereign AI capacity.",
+    "zh": "Mensch向法国议会表示，欧洲建立主权AI能力的窗口期大约只剩两年。"
+   },
+   "source": "Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWlhqUExaMkliSVlaQ2NpT3F6REhjNGlOazlOdmoxZTZfRUFFdWJkdE5iWFV5dVlWalVzS2NoUmhEVU5hWUlCQlcydWZhTC1pRHI5ak5uQVM1MWxkZ3BoMmxCV2pGSHg3cjVHMVd1S0dWb1Rzcl9sdjFDdEtDckpIaXBDMmEzRHlVMmpUWTJPTktmM0Y1MUxjNmxaUEJvbnpsRG5MLVZGLUwxVkRYaURzc1Fn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-18",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "PM exchanges views with Mistral AI CEO Arthur Mensch on trusted AI, innovation and international cooperation",
+    "zh": "PM exchanges views with Mistral AI CEO Arthur Mensch on trusted AI, innovation and international cooperation"
+   },
+   "body": {
+    "en": "The Indian government's own readout of Prime Minister Modi's Paris meeting with Mensch on trusted AI, open-weight models and international cooperation.",
+    "zh": "印度政府发布的通报：莫迪总理在巴黎会见 Mensch，双方就可信 AI、开源权重模型与国际合作交换意见。"
+   },
+   "source": "PM India",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPak1xUHh3S2diMkdPVkV4V1kybnF6Y3N5UXN4UWtYel9IOG9jaHRWSFlwd1dPSDEzZldJd3V2a2V4SlpWR2M4Z3EtOXBrQjNqendwSGUwTkZUQkhJM2xhNDRYQUFocnk1cDNvTnU5YjcyN2pYOWwyRURfUm1uQzBfcTE3S3g2aWlSTlBCTk1CZVY1bHBVbEpJOWhxMXFpR3AtUUZNRjFNMTlxTGpjQlhWMGdIMUE2S3hnam9PVU5ZSWU2WHJlUkFxR2dXbUJrMnVsNWdPVXNqclp5dGhXMHZsRnU2WVNfdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-18",
+   "ts": "2026-06-18T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Mistral AI CEO Arthur Mensch discusses sovereign AI partnership with PM Modi",
+    "zh": "Mistral AI CEO Arthur Mensch discusses sovereign AI partnership with PM Modi"
+   },
+   "body": {
+    "en": "Mensch discussed a sovereign-AI partnership with Indian PM Modi, extending Mistral's push into government AI deals.",
+    "zh": "门施与印度总理莫迪讨论了主权AI合作事宜，延续了Mistral在政府AI合作方面的布局。"
+   },
+   "source": "The Tribune",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNUpyY2swTDZKbnNhWnRjQ2RQSnZnYjU0d0FzUkFpa2F4dGhfSEk3cS01dTh3YkJxLXM3ejNLNElFRXAxWXdONngybnBFTVEzYUloOERNcWp4RlVjSXJsb3hjeVh0TjRqdG44ekhhZHA4c0d2dTdmUVEzUHFMTWl0U1FhcHlyMDVVUjRJS2d4T2RHM2tOVmFxUHA5eVBlX1E1cmFZWFFWSmQxemhPMlJtUWxaWUpTc252MklORtIBwAFBVV95cUxPS3RlNF9ZUXJWRjdtVEhETTV2bloxSTZlcGxyaGlaTGxvN0E4MWZzT3RINTFXUDlaNE9yaFZkV3NIX0xjdElaQTlobENKQThCUlFMSHZfMngtakhEcVdSSVAteE9Xcjc1aGtrelkwMmlIRGt4c1VMU05oSS0tcTgtQ0FFNEtobDNKamg3aWppRXRTTy1teFVwLWZ5TzlsNER6cUR5V3BjUDRxbFN4ZGNBNVRqa3hXRGpLVnVUbDl2X3I?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-16",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Mistral's Arthur Mensch warns Europe has two years to stop AI dependence",
+    "zh": "Mistral's Arthur Mensch warns Europe has two years to stop AI dependence"
+   },
+   "body": {
+    "en": "Mensch publicly warned that Europe has roughly two years to build its own AI capacity or remain dependent on US and Chinese providers.",
+    "zh": "Arthur Mensch 公开警告，欧洲大约只有两年时间建立自主的人工智能能力，否则将持续依赖美中厂商。"
+   },
+   "source": "Startup Fortune",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMXlmWkE2dEhuZ3Bpc0VDV2tyS0I5eDdEREt2YzgwbjJuVkV0YzNEWldCeUJ3NnFORlNrWDFpbWhyWk8wcHVWTUxaVXhBeG01VEplUEExYXYxa0RSNWl0ajRGV2JQS1d3QWl2V1k2Y0M1R1Btb0dLM1k0WWllY0xoUURaWjluZEhGNEpFbmlqYlFiMzRHYmM3bmM4TDNOZGQ0?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "lab",
+ "score": {
+  "total": 56.3,
+  "attention": 53,
+  "centrality": 79,
+  "momentum": 36,
+  "stature": null,
+  "pageviews": 103916,
+  "citations": 3847,
+  "hIndex": 10,
+  "events": 7,
+  "posts": 61,
+  "wikiEn": "Arthur Mensch",
+  "wikiZh": null
+ },
+ "seedRank": 57,
+ "tier": "t3"
+}

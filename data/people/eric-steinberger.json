@@ -1,0 +1,356 @@
+{
+ "rank": 97,
+ "id": "eric-steinberger",
+ "name": {
+  "en": "Eric Steinberger",
+  "zh": "Eric Steinberger"
+ },
+ "role": {
+  "en": "Co-founder & CEO, Magic.dev",
+  "zh": "Magic.dev 联合创始人兼 CEO"
+ },
+ "org": "Magic.dev",
+ "region": {
+  "en": "United States / Austria",
+  "zh": "美国/奥地利"
+ },
+ "tags": [
+  "Magic.dev",
+  "Ultra-long context",
+  "Code generation",
+  "LTM"
+ ],
+ "why": {
+  "en": "Working on ultra-long context and code generation, and drew attention for research aimed at context windows measured in hundreds of millions of tokens.",
+  "zh": "主攻超长上下文与代码生成，以亿级 token 上下文窗口的研究方向获得关注。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@EricSteinb",
+   "url": "https://x.com/EricSteinb",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @EricSteinberger",
+   "url": "https://github.com/EricSteinberger",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "Magic.dev",
+   "url": "https://magic.dev/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Eric+Steinberger",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Eric+Steinberger",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Eric+Steinberger",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Eric+Steinberger&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Eric+Steinberger&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Eric+Steinberger",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Eric+Steinberger",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?user=KVpCbW0AAAAJ&hl=en",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Eric+Steinberger",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Eric+Steinberger",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Eric+Steinberger",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Eric+Steinberger",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Eric+Steinberger",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Eric+Steinberger&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2024-01-01",
+   "kind": "podcast",
+   "title": {
+    "en": "Magic's counterintuitive approach to pursuing AGI",
+    "zh": "Magic 追求 AGI 的反直觉路径"
+   },
+   "source": "Sequoia Training Data",
+   "url": "https://sequoiacap.com/podcast/training-data-eric-steinberger/",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2025-07-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety",
+    "zh": "Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2507.11473v2",
+   "note": {
+    "en": "Cross-lab position paper arguing that chain-of-thought monitoring is a real but fragile safety opportunity; he is one of 43 authors alongside researchers from OpenAI, Google DeepMind, Anthropic and Apollo.",
+    "zh": "跨实验室的立场论文，论证思维链监控是一个真实但脆弱的安全机会；他是 43 位作者之一，合著者来自 OpenAI、Google DeepMind、Anthropic 与 Apollo 等机构。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-09-10",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Founder Eric Steinberger on Magic’s Counterintuitive Approach to Pursuing AGI",
+    "zh": "Founder Eric Steinberger on Magic’s Counterintuitive Approach to Pursuing AGI"
+   },
+   "source": "Training Data",
+   "url": "https://podcasts.apple.com/us/podcast/founder-eric-steinberger-on-magics-counterintuitive/id1750736528?i=1000668996344&uo=4",
+   "note": {
+    "en": "Sequoia interview on Magic's deliberately counterintuitive route to AGI, built around very long context rather than larger training runs.",
+    "zh": "接受红杉资本访谈，谈 Magic 刻意反直觉的通用人工智能路线——押注超长上下文而非更大规模的训练。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-08-30",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Building toward a bright post-AGI future with Eric Steinberger from Magic.dev",
+    "zh": "Building toward a bright post-AGI future with Eric Steinberger from Magic.dev"
+   },
+   "source": "No Priors: Artificial Intelligence | T…",
+   "url": "https://podcasts.apple.com/us/podcast/building-toward-a-bright-post-agi-future-with/id1668002688?i=1000667305208&uo=4",
+   "note": {
+    "en": "No Priors interview on building a coding model that behaves like a colleague rather than an autocomplete, and on his optimism about a post-AGI world.",
+    "zh": "做客 No Priors，谈如何打造一个像同事而非自动补全的编程模型，以及他对后通用人工智能世界的乐观看法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Single Deep CFR",
+    "zh": "Single Deep CFR"
+   },
+   "source": "TIB Data Manager",
+   "url": "https://doi.org/10.57702/l67evw6a",
+   "note": {
+    "en": "His well-known pre-Magic.dev work on Single Deep CFR, a scalable counterfactual-regret-minimization algorithm for imperfect-information games like poker.",
+    "zh": "他在创立Magic.dev之前的知名研究——Single Deep CFR,一种可扩展的反事实遗憾最小化算法,用于扑克等不完全信息博弈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2023-05-17",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Magic.dev CEO Eric Steinberger on making developers bionic | E1744",
+    "zh": "Magic.dev CEO Eric Steinberger on making developers bionic | E1744"
+   },
+   "source": "This Week in Startups",
+   "url": "https://podcasts.apple.com/us/podcast/magic-dev-ceo-eric-steinberger-on-making-developers/id315114957?i=1000613441518&uo=4",
+   "note": {
+    "en": "A This Week in Startups interview in which he explains Magic.dev's approach to making developers 'bionic' with code-generating models.",
+    "zh": "他在This Week in Startups的访谈中，讲解了Magic.dev如何用代码生成模型让开发者“仿生化”。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-05-03",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Free Online Learning For Climate Education: Eric Steinberger",
+    "zh": "Free Online Learning For Climate Education: Eric Steinberger"
+   },
+   "source": "The Energy Talk - Storytellers of Afri…",
+   "url": "https://podcasts.apple.com/us/podcast/free-online-learning-for-climate-education-eric-steinberger/id1467655589?i=1000559419418&uo=4",
+   "note": {
+    "en": "Interview about ClimateScience, the free climate-education platform he co-founded before Magic.",
+    "zh": "访谈介绍他在创办 Magic 之前联合创立的免费气候教育平台 ClimateScience。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2020-11-27",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Eric Steinberger und die Mission Weltrettung",
+    "zh": "Eric Steinberger und die Mission Weltrettung"
+   },
+   "source": "Trending Topics Tech Talk",
+   "url": "https://podcasts.apple.com/us/podcast/eric-steinberger-und-die-mission-weltrettung/id1533084242?i=1000500422163&uo=4",
+   "note": {
+    "en": "German-language Austrian tech interview from his ClimateScience years, including his contrarian case for nuclear power.",
+    "zh": "他在 ClimateScience 时期接受的奥地利科技媒体德语访谈，其中包括他支持核能的非主流立场。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2020-06-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DREAM: Deep Regret minimization with Advantage baselines and Model-free learning",
+    "zh": "DREAM: Deep Regret minimization with Advantage baselines and Model-free learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2006.10410v2",
+   "note": {
+    "en": "DREAM, a model-free deep reinforcement learning algorithm that converges to Nash equilibrium in two-player zero-sum imperfect-information games.",
+    "zh": "提出 DREAM，一种无模型的深度强化学习算法，可在两人零和不完全信息博弈中收敛到纳什均衡。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-01-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Single Deep Counterfactual Regret Minimization",
+    "zh": "Single Deep Counterfactual Regret Minimization"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1901.07621v4",
+   "note": {
+    "en": "Single Deep CFR, his solo paper removing the need for full game-tree traversals in counterfactual regret minimization.",
+    "zh": "独著论文 Single Deep CFR，去除了反事实遗憾最小化中对完整博弈树遍历的依赖。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-04-01",
+   "level": "minor",
+   "title": {
+    "en": "Series C company; $466M raised across four rounds",
+    "zh": "C 轮公司；四轮累计融资 4.66 亿美元"
+   },
+   "body": {
+    "en": "Roughly 109 employees as of April 2026. Founded 2022 with Sebastian De Ro.",
+    "zh": "截至 2026 年 4 月约 109 名员工。2022 年与 Sebastian De Ro 共同创立。"
+   },
+   "source": "Tracxn",
+   "url": "https://tracxn.com/d/companies/magicai/__Y_4iQlpPq65_ZP9qNeWGuLLPBlVaGm7gJxWQH5i6arA"
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "product",
+ "score": {
+  "total": 13.1,
+  "attention": null,
+  "centrality": 24,
+  "momentum": 0,
+  "stature": null,
+  "pageviews": 0,
+  "citations": 61,
+  "hIndex": 3,
+  "events": 1,
+  "posts": 10,
+  "wikiEn": null,
+  "wikiZh": null
+ },
+ "seedRank": 67,
+ "tier": "t6"
+}

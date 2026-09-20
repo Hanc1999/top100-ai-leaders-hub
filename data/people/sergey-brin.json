@@ -1,0 +1,718 @@
+{
+ "rank": 14,
+ "id": "sergey-brin",
+ "name": {
+  "en": "Sergey Brin",
+  "zh": "Sergey Brin"
+ },
+ "role": {
+  "en": "Co-founder, Google",
+  "zh": "Google 联合创始人"
+ },
+ "org": "Google",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "Google",
+  "Gemini",
+  "Recursive self-improvement",
+  "Founder return"
+ ],
+ "why": {
+  "en": "A founder-level technical return with no modern precedent. He is in the office three to four days a week, pushing the Gemini team on agentic coding and recursive self-improvement without formally running anything.",
+  "zh": "没有现代先例的创始人级技术回归。每周到岗三到四天，在不担任任何正式职务的情况下推动 Gemini 团队补课 agentic coding 与递归自我改进。"
+ },
+ "links": [
+  {
+   "kind": "blog",
+   "label": "Personal site",
+   "url": "https://too.blogspot.com/",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "The Keyword",
+   "url": "https://blog.google/",
+   "t": 2
+  },
+  {
+   "kind": "x",
+   "label": "X — search",
+   "url": "https://x.com/search?q=%22Sergey+Brin%22&f=live",
+   "t": 3
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Sergey+Brin",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Sergey+Brin",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Sergey+Brin",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Sergey+Brin&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Sergey+Brin&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Sergey+Brin",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Sergey+Brin&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Sergey+Brin",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Sergey+Brin",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Sergey+Brin",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Sergey+Brin",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Sergey+Brin",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Sergey+Brin",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Sergey+Brin",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Sergey+Brin&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sergey_Brin",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-04-01",
+   "kind": "talk",
+   "title": {
+    "en": "Town hall remarks to Google DeepMind: the final sprint has begun",
+    "zh": "对 Google DeepMind 全员讲话：最后冲刺已经开始"
+   },
+   "source": "Storyboard18",
+   "url": "https://www.storyboard18.com/how-it-works/whats-behind-googles-gemini-reset-sergey-brin-pushes-ai-team-to-move-faster-107647.htm",
+   "note": {
+    "en": "Presses on agentic coding and recursive self-improvement. He holds no formal AI role — this is how he exerts influence.",
+    "zh": "聚焦 agentic coding 与递归自我改进。他没有任何正式的 AI 职务 —— 这就是他施加影响的方式。"
+   }
+  },
+  {
+   "date": "2026-09-05",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Sergey Brin: Don’t Let The World You Inherit Become The only World You Imagine",
+    "zh": "Sergey Brin: Don’t Let The World You Inherit Become The only World You Imagine"
+   },
+   "source": "Made Of.",
+   "url": "https://podcasts.apple.com/us/podcast/sergey-brin-dont-let-the-world-you-inherit-become/id6801744065?i=1000787946317&uo=4",
+   "note": {
+    "en": "Brin discussed his family's emigration from the Soviet Union and his early meeting with Larry Page in a personal-history interview.",
+    "zh": "布林在一次个人历史访谈中谈到家人从苏联移民的经历，以及他与拉里·佩奇的早期相遇。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-12-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Sergey Brin (Google & Alphabet) - Google Origins and AI Futures",
+    "zh": "Sergey Brin (Google & Alphabet) - Google Origins and AI Futures"
+   },
+   "source": "Entrepreneurial Thought Leaders (ETL)",
+   "url": "https://podcasts.apple.com/us/podcast/sergey-brin-google-alphabet-google-origins-and-ai-futures/id80867514?i=1000741058059&uo=4",
+   "note": {
+    "en": "Stanford ETL interview in which Brin talks through Google's origins and where he thinks AI is heading.",
+    "zh": "斯坦福 ETL 对谈，布林回顾谷歌创业历程并谈他对 AI 走向的判断。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-07-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+    "zh": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2507.06261v6",
+   "note": {
+    "en": "The Gemini 2.5 technical report, describing the reasoning, long-context, multimodal and agentic capabilities of Gemini 2.5 Pro and Flash; Brin is credited in the contributor list, as on the earlier Gemini reports.",
+    "zh": "Gemini 2.5 技术报告，介绍 Gemini 2.5 Pro 与 Flash 在推理、长上下文、多模态和智能体方面的能力；与此前几份 Gemini 报告一样，Brin 名列贡献者名单。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-05-21",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Google DeepMind CEO Demis Hassabis + Google Co-Founder Sergey Brin: Scaling AI, AGI Timeline, Simulation Theory",
+    "zh": "Google DeepMind CEO Demis Hassabis + Google Co-Founder Sergey Brin: Scaling AI, AGI Timeline, Simulation Theory"
+   },
+   "source": "Big Technology Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/google-deepmind-ceo-demis-hassabis-google-co-founder/id1522960417?i=1000709250044&uo=4",
+   "note": {
+    "en": "A live interview at Google I/O in which Brin appears alongside Demis Hassabis to discuss scaling, AGI timelines and his return to hands-on work on Gemini.",
+    "zh": "在 Google I/O 现场接受的访谈，Brin 与 Demis Hassabis 同台，谈规模化、通用人工智能时间表以及他重回 Gemini 一线的经历。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-05-20",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Sergey Brin, Google Co-Founder | All-In Live from Miami",
+    "zh": "Sergey Brin, Google Co-Founder | All-In Live from Miami"
+   },
+   "source": "All-In with Chamath, Jason, Sacks & Fr…",
+   "url": "https://podcasts.apple.com/us/podcast/sergey-brin-google-co-founder-all-in-live-from-miami/id1502871393?i=1000709149574&uo=4",
+   "note": {
+    "en": "Brin's live All-In appearance in Miami, where he explains why he came back to Google and where he expects the next jump in AI capability and robotics.",
+    "zh": "Brin 在迈阿密 All-In 现场的对谈，讲述自己重返 Google 的原因，以及他认为人工智能与机器人下一次能力跃升会出现在哪里。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-03-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context",
+    "zh": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2403.05530v5",
+   "note": {
+    "en": "The Gemini 1.5 report, introducing compute-efficient multimodal models that recall and reason over millions of tokens of context; Brin is listed among the authors.",
+    "zh": "Gemini 1.5 技术报告，提出可在数百万 token 上下文中检索与推理的高效多模态模型；Brin 名列作者之中。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-12-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemini: A Family of Highly Capable Multimodal Models",
+    "zh": "Gemini: A Family of Highly Capable Multimodal Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2312.11805v5",
+   "note": {
+    "en": "The original Gemini report introducing the Ultra, Pro and Nano multimodal models across image, audio, video and text; Brin is listed among the authors.",
+    "zh": "最初的 Gemini 报告，提出覆盖图像、音频、视频与文本的 Ultra、Pro、Nano 多模态模型；Brin 名列作者之中。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2012-10-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Reprint of: The anatomy of a large-scale hypertextual web search engine",
+    "zh": "Reprint of: The anatomy of a large-scale hypertextual web search engine"
+   },
+   "source": "Computer Networks",
+   "url": "https://doi.org/10.1016/j.comnet.2012.10.007",
+   "note": {
+    "en": "Reprint of Brin and Page's foundational paper describing the original Google search engine architecture.",
+    "zh": "布林与佩奇关于谷歌搜索引擎原始架构的奠基性论文的再版。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2005-02-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Query-Free News Search",
+    "zh": "Query-Free News Search"
+   },
+   "source": "World Wide Web",
+   "url": "https://doi.org/10.1007/s11280-004-4870-6",
+   "note": {
+    "en": "Google research paper on matching relevant news to a webpage without an explicit query, co-authored by Brin.",
+    "zh": "谷歌研究论文,探讨无需明确查询即可为网页匹配相关新闻的方法,布林为合著者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2003-03-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Mining optimized gain rules for numeric attributes",
+    "zh": "Mining optimized gain rules for numeric attributes"
+   },
+   "source": "IEEE Transactions on Knowledge and Dat…",
+   "url": "https://doi.org/10.1109/tkde.2003.1185837",
+   "note": {
+    "en": "Data-mining paper on optimized association rules for numeric attributes, from Brin's Stanford-era research.",
+    "zh": "关于数值属性优化关联规则挖掘的论文,出自布林在斯坦福时期的研究工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2000-07-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scalable Techniques for Mining Causal Structures",
+    "zh": "Scalable Techniques for Mining Causal Structures"
+   },
+   "source": "Data Mining and Knowledge Discovery",
+   "url": "https://doi.org/10.1023/a:1009891813863",
+   "note": {
+    "en": "Paper on scalable algorithms for mining causal relationships in data, from Brin's Stanford data-mining research group.",
+    "zh": "关于数据中因果关系可扩展挖掘算法的论文,出自布林在斯坦福数据挖掘研究团队的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "1999-11-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Dynamic Data Mining: Exploring Large Rule Spaces by Sampling.",
+    "zh": "Dynamic Data Mining: Exploring Large Rule Spaces by Sampling."
+   },
+   "source": "OpenAlex",
+   "url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.51.7763",
+   "note": {
+    "en": "Stanford-era paper on sampling-based methods for exploring large association-rule spaces, co-authored by Brin.",
+    "zh": "斯坦福时期论文,探讨基于抽样方法探索大规模关联规则空间,布林为合著者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "1999-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Extracting Patterns and Relations from the World Wide Web",
+    "zh": "Extracting Patterns and Relations from the World Wide Web"
+   },
+   "source": "Lecture notes in computer science",
+   "url": "https://doi.org/10.1007/10704656_11",
+   "note": {
+    "en": "Brin's paper describing an early system for extracting structured relations from web pages, a precursor to his search work.",
+    "zh": "布林撰写的论文,描述了一个从网页中提取结构化关系的早期系统,是其搜索研究的前身。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "1998-04-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The anatomy of a large-scale hypertextual Web search engine",
+    "zh": "The anatomy of a large-scale hypertextual Web search engine"
+   },
+   "source": "Computer Networks and ISDN Systems",
+   "url": "https://doi.org/10.1016/s0169-7552(98)00110-x",
+   "note": {
+    "en": "The original Brin and Page paper introducing Google's search engine architecture and the PageRank algorithm.",
+    "zh": "布林与佩奇撰写的原始论文,介绍了谷歌搜索引擎架构与PageRank算法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-04-01",
+   "level": "notable",
+   "title": {
+    "en": "Presses DeepMind engineers at a town hall: the final sprint has begun",
+    "zh": "在全员会上向 DeepMind 工程师施压：最后冲刺已经开始"
+   },
+   "body": {
+    "en": "Called for faster progress as Anthropic advanced, and pushed work on recursive self-improvement and Gemini's agentic-coding gap.",
+    "zh": "在 Anthropic 快速推进之际要求加速，并推动递归自我改进与 Gemini agentic coding 的补课。"
+   },
+   "source": "Storyboard18",
+   "url": "https://www.storyboard18.com/how-it-works/whats-behind-googles-gemini-reset-sergey-brin-pushes-ai-team-to-move-faster-107647.htm"
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T10:05:01Z",
+   "level": "notable",
+   "title": {
+    "en": "Sergey Brin urged Google engineers to prioritize Gemini, reports say",
+    "zh": "Sergey Brin urged Google engineers to prioritize Gemini, reports say"
+   },
+   "body": {
+    "en": "Reports say Brin has been personally urging Google engineers to prioritize Gemini, underscoring his unusually hands-on technical involvement.",
+    "zh": "报道称布林一直在亲自敦促谷歌工程师优先推进Gemini项目，凸显了他罕见的深度技术参与。"
+   },
+   "source": "eciks.org",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92YjJoZVhfMzRVSEpLbFN5ZFpPdXVaSUlpUmdJS3ZvZnpRMDVjUmZ3QUVvTl9FNkdyd1hEeFBTUEN0UTRBUk9PRk1yVU11T1NBRVRaWjNtbTZMY3BSN2o4?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T09:00:13Z",
+   "level": "notable",
+   "title": {
+    "en": "Sergey Brin is gaining power over Google's AI future from an unlikely command center",
+    "zh": "Sergey Brin is gaining power over Google's AI future from an unlikely command center"
+   },
+   "body": {
+    "en": "A Business Insider feature detailed Sergey Brin's growing informal influence over Google's AI direction, working from a low-profile team pushing agentic coding and self-improvement research.",
+    "zh": "《商业内幕》的一篇特稿详细描述了Sergey Brin对谷歌AI方向日益增长的非正式影响力，他从一个低调的团队推动智能体编程和自我改进研究。"
+   },
+   "source": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS09zSVJwa2d1YnVKcnR5UzdUV3dZWDE2Wms1dWc5UlBJR1B0MllTZHZhUnlrZUNGSVRpY3BaUmFCTzg0REYtcVhmRlY5d2tpblo2UGhTVGpyUXFzbXlLNjRYaHJSeVVac1BFVXZGUVl3Mk85ZktUZ1lBQXVpYmZUeFA0LUM1VDg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T18:16:02Z",
+   "level": "major",
+   "title": {
+    "en": "Sergey Brin Takes Bigger Role as Google Fights to Regain AI Lead—From a ‘Microkitchen’",
+    "zh": "Sergey Brin Takes Bigger Role as Google Fights to Regain AI Lead—From a ‘Microkitchen’"
+   },
+   "body": {
+    "en": "Brin has taken on a more hands-on, day-to-day role at Google as the company pushes to regain its lead in AI.",
+    "zh": "随着谷歌力图重夺AI领先地位，布林在公司中的角色变得更加深入和日常化。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSkNYSHRVZG5FOFZKcWVla0xtdllVTTEwWTJzNlZINFZiUHNDaDJNMW5VUmQ2WTBud2dyN3lvSlJ5aXV5aEltcWI0c2hPNE93SEVlYndMOUVKSm9pelFFS1ozQWx4U3VVZGlwa1NpX0RyLWM0eXd5ZE50THluRzFXU1NQM3MyQ3ZHR21aVGJISVZMTWdWNEtmTQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "UCSF gets $46 million autism research grant from Sergey Brin-backed foundation",
+    "zh": "UCSF gets $46 million autism research grant from Sergey Brin-backed foundation"
+   },
+   "body": {
+    "en": "A foundation backed by Brin gave UCSF a $46 million grant to study the genetics of autism, his largest recent research commitment outside AI.",
+    "zh": "由 Brin 资助的基金会向加州大学旧金山分校拨款 4600 万美元研究自闭症的遗传机制，是他近期在人工智能之外最大的一笔科研投入。"
+   },
+   "source": "San Francisco Chronicle",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcWZyZjNtbWlpQ2M2M0FPbjQtaFptZ05PcXFxdDBsRFcyalRQeWk0cVVjUzFfVUNsU2dfMnA4U2tLS3dnTTNXN0U5TXUzNEU1ajRIY3ZQRHlMeThjZ003ZG9lUXZDUzdDMUlFQmZldUFodUsyMGlkQ2UzVERuQk9tcVY2OWJhUkZELXZoZ1J3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-26",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Bernie Sanders Says Sergey Brin 'Leading' Campaign to Stop California's 5% Billionaire Tax: 'Greed is a S",
+    "zh": "Bernie Sanders Says Sergey Brin 'Leading' Campaign to Stop California's 5% Billionaire Tax: 'Greed is a S"
+   },
+   "body": {
+    "en": "Bernie Sanders publicly named Brin as the person leading the campaign against California's proposed 5% billionaire tax, placing him at the centre of a state tax fight.",
+    "zh": "伯尼·桑德斯公开点名 Brin 是反对加州 5% 亿万富翁税提案运动的牵头人，使他成为该州税收之争的焦点人物。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdUpLMXFacnhrTTVRVDNiTlE3bTUzN2ZIbURfVWFMOEtwbnVqcl90dnBWUklGTDBlMkgtamlmdGsybjMzeFRBX2w2TlZSd2ROWTJ3dW96blFOdmZIMmlIcGNBdDF4emt4TFdrNTVCdFlTcWZYVl9MSVgzMldSa181MWJnaXJCNmdtTUtweUg2S0FMYThMTUlIREtrX2lXbmVvNUlQcTZQcW83b2V1RURRN09sU0pRY3Mt?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-13",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Google co-founder Sergey Brin spends more than $100 million fighting California wealth tax",
+    "zh": "Google co-founder Sergey Brin spends more than $100 million fighting California wealth tax"
+   },
+   "body": {
+    "en": "Brin has spent more than $100 million opposing a California wealth tax.",
+    "zh": "布林已投入超过1亿美元反对加州的财富税提案。"
+   },
+   "source": "The Guam Daily Post",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOc1pIaTNQRDV2ZHNmeW9nTG5JbWRXeE5lQnJsTTJBeWpxR21HTTJQYTZzRkZxQVpidEdWZTgtZGNWVUl0c0ZEczIzeGVoaVl1cTk3TjhBNl8xdFUwb1pKVEF6Ul9zSHdIdEphTklWM3ZiWGdFUk56SS1lLXpkLUhCZlZQLUlPY3Z3b0JlT0lpWHVkMjhRUVFsdUoyVC1tdkl4S1djT3Fhb3R3Vld0d0ZicEJENnRzNVp3Q1FabU53U3hzdGFWZlNEUnZlaUo0dFQ2dmFNdkFxcFdacUlBY3lONXBnOGJTeGZFMlhzYWxkYjJKUmx1dXZIcV9FMFJkR3E5MzNHOFEwRW1xRnc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-11",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Google Co-Founder Sergey Brin Donates Another $20 Million to Fight California Billionaire Tax - Межа. Новини України.",
+    "zh": "Google Co-Founder Sergey Brin Donates Another $20 Million to Fight California Billionaire Tax - Межа. Новини України."
+   },
+   "body": {
+    "en": "Brin adds another $20 million to his campaign against California's proposed one-time billionaire tax, bringing his total to about $102 million.",
+    "zh": "布林再向反对加州拟议的一次性亿万富豪税的活动捐款2000万美元，累计投入约1.02亿美元。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtZlVoWWlpTTlMaG1aVFJEUVdXM1NGLXNaU3cxbjlYdWpLbWVLN21xNUtyVEd1elU0UzMwVW1FSG15Rk5YU1ZaTTcyWFFoNlg5c1o4UnplNmdINE5ZcGxmVk9EejgwSHRuaG5idExJUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-11",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Sergey Brin Spends $100 Million To Fight Billionaire Tax",
+    "zh": "Sergey Brin Spends $100 Million To Fight Billionaire Tax"
+   },
+   "body": {
+    "en": "Spent $100 million funding opposition to a proposed billionaire tax.",
+    "zh": "斥资1亿美元资助反对拟议中的亿万富翁税的行动。"
+   },
+   "source": "Newsradio WOOD 1300 and 106.9 FM",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWVRhUkh6Wjh3Zi1Yay1yLXFUdW9LU3RMRjZrdTQ1OFBSazI4ejZGZndtbmVWZ2hxMFNxSkJOOFBCSjJRMW9Mak15RUdoOGJOUzV3WVc5V0d1M2VIai10YTlGWWE1Ykd6N0k2empKejBaZld2TnRYMDRVTDNUMHdPZWRfVzZyaHF1VTlBSW82b3oxcU1qdmY1WFlyMHB2TW1BYmE1VV9pUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-11",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Sergey Brin Spends $100 Million To Fight Billionaire Tax",
+    "zh": "Sergey Brin Spends $100 Million To Fight Billionaire Tax"
+   },
+   "body": {
+    "en": "Brin is spending $100 million to oppose a California billionaire tax, a rare public political intervention.",
+    "zh": "Brin斥资1亿美元反对加州“亿万富翁税”,是他罕见的公开政治行动。"
+   },
+   "source": "country.iheart.com",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMUFBbFNfTkw3RUN6RXFBclVLem9JVW00NzJMVzVxY2FpX01EcnNldFNUSFR1Si1RT0FUdGZjLTctX2ZyOUpVbkRrM0oxWnpaN2lOdUV4dFNOakxiNlprNlFaWVoxVUxhSUFtMF9rQlF0YnhVeV9JeWc2X3l5NkljRzBHS05mRm9QWWJfVm5MeHY3TUxSV0dkRXFMTlBZNWRaYnc0bA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-11",
+   "ts": "2026-08-11T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Google cofounder Sergey Brin has now spent $100 million to fight California’s proposed billionaire tax—he could owe $13 billion if he loses",
+    "zh": "Google cofounder Sergey Brin has now spent $100 million to fight California’s proposed billionaire tax—he could owe $13 billion if he loses"
+   },
+   "body": {
+    "en": "Brin has spent $100 million opposing California's proposed billionaire tax, a fight in which he could personally owe $13 billion if it passes.",
+    "zh": "布林已投入1亿美元反对加州拟议的“亿万富翁税”，若该税最终通过，他个人可能需缴纳130亿美元。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNkdiNVhIbVJkZklOOGZoNmdVQ1FyNXF2TlNEYmFXUkJKYWlWMTd4bGQzWFM3NFlEbHp5SWttdm9aSlNURUc5bjNWbHFuVktldlhpanV3OTFUMHRrMzFyU0gyZHBiaS03aGRGYzJFVkYwN1lrSlBtajRCeDdDa1RSckp3a1Rsb25XWWJDYW50U21GNHJZOWZlLTZoVE5DQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-10",
+   "ts": "2026-08-10T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
+    "zh": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax"
+   },
+   "body": {
+    "en": "Brin has now spent $100 million opposing a proposed billionaire tax.",
+    "zh": "布林目前已投入1亿美元反对拟议中的亿万富翁税。"
+   },
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNODVia21WQTFEeW5KMExYTUhyRGE2bDJLTWVlN1FwOVdPY1hsaVpqbGRnc0dhQUxaY1dTY0RhUU1xemxzdmNzeklYU0JuZlpLMk9acVZSRHVHR3Z2M3FudHQ2U1oxdTM5b1IyRE1iaE9GNXNnRHF6RlBISW1ySmxiZVNCSmZaT2hkVzIzeDVXb1lPUkk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-28",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "When Google founder Sergey Brin said on giving billions to research on Parkinson's disease: This work is",
+    "zh": "When Google founder Sergey Brin said on giving billions to research on Parkinson's disease: This work is"
+   },
+   "body": {
+    "en": "Brin discussed his family's multi-billion-dollar funding of Parkinson's research, motivated by his mother's diagnosis.",
+    "zh": "布林谈及因母亲确诊帕金森病，他的家族向帕金森病研究投入数十亿美元资金。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQNjJvVXhsOFZxRmFoRXZaejVJVzJweTU3THEtTk5wa3E0MkV6cHVidDRaeFRxVTQ0aVBaNGZpajdPWUdZbjVtNXl4cFJ1Rk5yVFNJWnNCSC15TFYzOHFFU2xVT1lHWGdldFhzWVFqcEg3aHFWRHZnODkwaUNmZlo1TmlUNHhZOXdwcVlEMXVSUUR2TlRXRVFCY1k2OUtZVTBwTThtaTlUTVFFVmYzdVMxWDBkMjZhZUhrQ1lBdklrRWdyT3hzTUs4VThXemRFcFZjOGJwVGxhRXU2MWlUdG54dWpmLXh1MUd2OEljeEdHb21YaXQyekNKdWRWRENzdTJZQUtDdFh4NDdTVTRkb1JNZ01qQURBSUYxbkpFU0pSV1dnQXBTQkZ0LVFDSGtZWHRlZnM4OHkwNVF6b0dZVjB0MnF3eURjMHRTUVliLWZ3UG9na1lIQlM2TWpfYzBZZXhsV3dkZUUxNDRfYVQ2MFoyaEpR0gH3AkFVX3lxTFBReU1xUGw4UUdFMUNkT2FIY0NnNkgtM2ttb3R2bkM2T3dKRkZlcHo1dHg2QWRZZEExOU80RlRmWGpmci1zckUyeUxWNkN0dTltTUd1a0JUUUtQdXpCcWRhd0hSakJKcTllRlJHenh3dHdCaU5aZUNIbHM1ZlJOZnBRSzRZLS1ZdUQ2bmpYM1FkSjlyaFkzS09hV3FmSVZ1QjZwRGRYSURCLS1sVktYY1IteFdIYkpzQUduZXk1eHRzLWdWMWJIWlZhZFNaT1VHNjdBZlZsaVJJM3BZamc5MG9fWjdJVHItRXVOcURUb3ZOM2NRRVJZX1BGQzdBODh3M215UnRfRGpkek5hVjBLT04wM2dRU0dVRTR2VkRreENXYmZncEktd2t5ZUxScVFUdDVpWWJFNkV1UElvZ29NaUlUdGZYVEpxbE5MVzVMemxQNmNYdUt6OVJ3VTd1QlotZkdud1ZzdnhXN1NYWFUyYWZOSjlQY01fMA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-26",
+   "ts": null,
+   "level": "minor",
+   "title": {
+    "en": "Google co-founder Sergey Brin says Gemini was once on Google's internal coding 'no list'",
+    "zh": "Google co-founder Sergey Brin says Gemini was once on Google's internal coding 'no list'"
+   },
+   "body": {
+    "en": "Brin said Gemini was once on Google's internal list of coding tools employees were told not to use.",
+    "zh": "布林透露Gemini曾一度被列入谷歌内部员工禁止使用的编程工具名单。"
+   },
+   "source": "Storyboard18",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSTExaDBjVm83SlZJdmx1LU1Rek50dGNfMThZV3Q0cmo0d2VEbDc4eWFNUWsyNjJLOUxwWlJSSnlkcFpaY1ZHODgyOFVVZGhRajlWTVRSUzZDUzBTVjFXdjJpWUt3SDVGR09HcEpDVzR6bkdTcG1qM3ZIZHZhT0d1LXVGT0RJcGdVNEtIamRkb3NsbmlJQ0tocl8wal9GcC1EX0wtT194NGc4RFg4dDQ4Q3VrLWVMYzVadGFHYlBFQmdtejcwTHVSRUoyd2VrZ9IB0wFBVV95cUxPXzRFVEFiVmdlWjhvQU5taThyVmtGNVVNandpZlFOa2VPbDV0eVJzNHJzMUhBd2h6ZXB4RTVVWHFRNkU1S28xc1hIVk9LaDF4dlFQM1VVTlJ5WjB5azBwcDdSSjR5am40ZkFISlphZEZFZ0ZkNEd6MHNyZGcxSHBOMXhOaG02ZUowWGpsVmJBZDJmV0YyZjlWRmhLeE9NYUExODZLTmp4Wl9kZTQyZHVTNnZXUTNNd3hqUE14V2NOakVUVTNUelRxUDZDQ1NDcTJxekdv?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-21",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Sergey Brin funds opposition to San Francisco ‘overpaid’ CEO tax",
+    "zh": "Sergey Brin funds opposition to San Francisco ‘overpaid’ CEO tax"
+   },
+   "body": {
+    "en": "Brin is funding opposition to San Francisco's proposed tax on 'overpaid' CEOs.",
+    "zh": "布林正出资资助反对旧金山拟议中的“高管超额薪酬税”。"
+   },
+   "source": "SiliconValley.com",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ1ZRdGhhTkxob3BFVlZrdTZuTVdTQTdZWXpHVEZfcEJEVm5EYnhhMUxwcjZjUjRJN1ZjeU56b2xVTEpFVU1lMy1RRXJVRHc0eFl0NjVvR3pWTFNRVlIxNV9sYjdyUVlzTkFxS2lPZmYydDNWMkV6WnR2ZkpJVFVIWVFJenRjSW1wR29KV3FvZ1o4amtOX0FWbGJPNnZVcFVfZ25LZnBKQdIBrAFBVV95cUxNTlJYUjdXaExfZlBVeTJCd2FwV2E2akJzNjNjakw5SnZmeDFhWUE4Y0FVb25OX1JXVnlidlVpaTY0STQ0cE5qd0w5Y0FrSEZ1Tnk4M3dvTnZnSFJvbXBZUkZBalZrMUkzd2lUeUJtQTlGV2xSSnVBUk5ydHFmN3k1a0Z1cjFrRkI0a05faUdSTGdFd2drbUlCc19UNDNVc0FHajdjWVRTekpSZmNv?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-04-28",
+   "ts": "2026-04-28T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Sergey Brin opens up about harrowing Soviet past — says California lost its way",
+    "zh": "Sergey Brin opens up about harrowing Soviet past — says California lost its way"
+   },
+   "body": {
+    "en": "Sergey Brin spoke about his family's Soviet past and criticized the direction of California politics, a rare personal and political statement from him.",
+    "zh": "Sergey Brin谈及其家族在苏联时期的经历，并批评加州政治的走向，这是他罕见的个人化政治表态。"
+   },
+   "source": "New York Post",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVN3Y2oza1BkQzd3VENvblljVklTaWxsb1lVa1VfX1Q3bkt2dE5YdFZ4Mld4ZEI0VkdIamxOZTVaMENrRHNIR1l4VTQ2OXY0STY3TTl1Vl9wTFUxeVFtaXNwb1Z0NjJ1bnp4V3NvQ1VNS3JvMUNYbXZNS1pRZ3ozbHZaODdvdTRxSTdwZ1dfMXNobVVKeENNclZWOWhPQnYwMy1xMm1YdEs5ZWdnVHU3aWRaOA?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "platform",
+ "score": {
+  "total": 77.5,
+  "attention": 93,
+  "centrality": 87,
+  "momentum": 49,
+  "stature": 49,
+  "pageviews": 1423098,
+  "citations": 38377,
+  "hIndex": 23,
+  "events": 16,
+  "posts": 15,
+  "wikiEn": "Sergey Brin",
+  "wikiZh": "谢尔盖·布林"
+ },
+ "seedRank": 29,
+ "tier": "t1"
+}

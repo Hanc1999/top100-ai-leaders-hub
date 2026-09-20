@@ -1,0 +1,2254 @@
+{
+ "rank": 8,
+ "id": "satya-nadella",
+ "name": {
+  "en": "Satya Nadella",
+  "zh": "Satya Nadella"
+ },
+ "role": {
+  "en": "Chairman & CEO, Microsoft",
+  "zh": "Microsoft 董事长兼 CEO"
+ },
+ "org": "Microsoft",
+ "region": {
+  "en": "United States / India",
+  "zh": "美国/印度"
+ },
+ "tags": [
+  "Microsoft",
+  "Azure",
+  "Copilot",
+  "MAI",
+  "OpenAI stake",
+  "Maia"
+ ],
+ "why": {
+  "en": "Opened this round of the race with the OpenAI investment, and has since built the most hedged position in the industry: an OpenAI stake, an Anthropic stake, a Mistral deal, and an in-house MAI model family running on custom silicon.",
+  "zh": "以对 OpenAI 的投资开启了这一轮竞赛，此后建立了业内最对冲的持仓结构：OpenAI 股权、Anthropic 股权、Mistral 协议，以及跑在自研芯片上的 MAI 自研模型家族。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@satyanadella",
+   "url": "https://x.com/satyanadella",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "Microsoft Source",
+   "url": "https://news.microsoft.com/source/",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Microsoft AI",
+   "url": "https://microsoft.ai/news/",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "Microsoft Research Blog",
+   "url": "https://www.microsoft.com/en-us/research/blog/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Satya+Nadella",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Satya+Nadella",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Satya+Nadella",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Satya+Nadella&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Satya+Nadella&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Satya+Nadella",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Satya+Nadella&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Satya+Nadella",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Satya+Nadella&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Satya_Nadella",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-07-27",
+   "kind": "interview",
+   "title": {
+    "en": "Companies that trust one AI for everything may not survive",
+    "zh": "把一切押在单一 AI 上的公司可能活不下来"
+   },
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-01-01",
+   "kind": "blog",
+   "title": {
+    "en": "Looking Ahead to 2026",
+    "zh": "展望 2026"
+   },
+   "source": "LinkedIn",
+   "url": "https://www.linkedin.com/posts/satyanadella_looking-ahead-to-2026-activity-7411490079984250880-Vb5v",
+   "note": {
+    "en": "'We have moved past the initial phase of discovery and are entering a phase of widespread diffusion.' Argues the win in 2026 is not the biggest model in a datacenter but how AI shows up in daily life — and calls for moving from the 'brain' phase to the 'nervous system' phase.",
+    "zh": "「我们已经越过最初的发现阶段，正在进入广泛扩散阶段。」主张 2026 年的胜负不在于数据中心里最大的模型，而在于 AI 如何进入日常生活 —— 并呼吁从「大脑」阶段走向「神经系统」阶段。"
+   }
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T19:03:03Z",
+   "kind": "x",
+   "title": {
+    "en": "Great conversation with @chamath, @jason, @davidsacks, and @friedberg on all the work ahead when it comes to diffusing benefits of AI broadly, earning permissio",
+    "zh": "Great conversation with @chamath, @jason, @davidsacks, and @friedberg on all the work ahead when it comes to diffusing benefits of AI broadly, earning permissio"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2099937054503391632",
+   "note": {
+    "en": "Nadella discussed diffusing AI's benefits broadly, earning communities' trust, and AI safety in a conversation with the All-In podcast hosts.",
+    "zh": "Nadella在与All-In播客主持人的对谈中，讨论了如何广泛普及AI红利、赢得社区信任以及AI安全问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-15",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI",
+    "zh": "Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI"
+   },
+   "source": "All-In with Chamath, Jason, Sacks & Fr…",
+   "url": "https://podcasts.apple.com/us/podcast/satya-nadella-on-the-ai-doomer-slowdown-microsofts/id1502871393?i=1000789821241&uo=4",
+   "note": {
+    "en": "Nadella joined the All-In podcast to discuss the AI doomer slowdown debate and lay out Microsoft's AI strategy.",
+    "zh": "纳德拉做客All-In播客，谈论AI末日减速之争，并阐述了微软的AI战略规划。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T01:27:30Z",
+   "kind": "x",
+   "title": {
+    "en": "Great example from @jeffhollan showing how Foundry makes long-running agents enterprise-ready, starting with business outcomes and building security, safety gua",
+    "zh": "Great example from @jeffhollan showing how Foundry makes long-running agents enterprise-ready, starting with business outcomes and building security, safety gua"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2099309030816813378",
+   "note": {
+    "en": "Nadella highlighted a Microsoft Foundry example of long-running enterprise agents built with security, safety guardrails, auditability and FinOps from the start.",
+    "zh": "纳德拉展示了微软Foundry的一个案例：从一开始就将安全防护、可审计性和FinOps融入企业级长时运行智能体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T19:36:34Z",
+   "kind": "x",
+   "title": {
+    "en": "Any pursuit of superintelligence has to be grounded in the core principle that if the AI we build is not helping humanity and under human control, it's not wort",
+    "zh": "Any pursuit of superintelligence has to be grounded in the core principle that if the AI we build is not helping humanity and under human control, it's not wort"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2099220712024408084",
+   "note": {
+    "en": "Nadella argued that any pursuit of superintelligence must stay grounded in human control and benefit to humanity, a stance that drew strong engagement (84k views).",
+    "zh": "纳德拉表示，对超级智能的追求必须始终以人类控制和人类福祉为前提，这一立场获得了很高的关注度（8.4万次浏览）。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T22:53:02Z",
+   "kind": "x",
+   "title": {
+    "en": "Quincy, Washington shows what’s possible when you build datacenters with communities, and grow together over time.",
+    "zh": "Quincy, Washington shows what’s possible when you build datacenters with communities, and grow together over time."
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2099270157105537374",
+   "note": {
+    "en": "Nadella pointed to Microsoft's Quincy, Washington datacenter as a model for building AI infrastructure in partnership with local communities.",
+    "zh": "纳德拉以微软位于华盛顿州昆西的数据中心为例，阐述与当地社区合作共建AI基础设施的模式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T15:26:40Z",
+   "kind": "x",
+   "title": {
+    "en": "More model choice coming to Copilot. Welcome Grok!",
+    "zh": "More model choice coming to Copilot. Welcome Grok!"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2098795435582488889",
+   "note": {
+    "en": "Nadella announced that Grok is joining Copilot's model lineup, adding a rival lab's model to Microsoft's AI product.",
+    "zh": "纳德拉宣布Grok加入Copilot的模型阵容，将一家竞争对手实验室的模型纳入微软的AI产品中。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T17:10:03Z",
+   "kind": "x",
+   "title": {
+    "en": "This first-of-a-kind agreement will set a new standard for safe and responsible AI use in schools. We are making these protections available to every school dis",
+    "zh": "This first-of-a-kind agreement will set a new standard for safe and responsible AI use in schools. We are making these protections available to every school dis"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2097734292063617213",
+   "note": {
+    "en": "Nadella announced a new agreement setting AI safety standards for schools, with the protections extended to every school district in the US.",
+    "zh": "Nadella宣布了一项为学校设立AI安全标准的新协议，相关保护措施将推广至美国所有学区。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "It was a great week for innovation across the model ecosystem. We're bringing these new models into Copilot, enabling it to take on increasingly complex work, f",
+    "zh": "It was a great week for innovation across the model ecosystem. We're bringing these new models into Copilot, enabling it to take on increasingly complex work, f"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2096633944099942713",
+   "note": {
+    "en": "Nadella touts a strong week of model releases, saying Microsoft is bringing the new models into Copilot for increasingly complex, delegated work.",
+    "zh": "Nadella称本周模型发布成果丰硕,微软正将新模型引入Copilot,使其能承担更复杂、可委托的任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Super excited about HydraFusion in GitHub Copilot, and what it shows about the shift from model selection to model orchestration. By bringing together multiple",
+    "zh": "Super excited about HydraFusion in GitHub Copilot, and what it shows about the shift from model selection to model orchestration. By bringing together multiple"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2095912050535059918",
+   "note": {
+    "en": "Highlighted HydraFusion in GitHub Copilot as a shift from model selection to model orchestration across multiple models working together.",
+    "zh": "强调GitHub Copilot中的HydraFusion标志着从单一模型选择转向多模型协同编排。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Excited to see early customers already using Astra on Azure! https://t.co/BeaR66ZL0G",
+    "zh": "Excited to see early customers already using Astra on Azure! https://t.co/BeaR66ZL0G"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2095713765446840591",
+   "note": {
+    "en": "Said early customers are already using OpenAI's Astra model on Azure.",
+    "zh": "表示已有早期客户在Azure上使用OpenAI的Astra模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and Hugging Face, and the continued partnership. Congrats @Jensen",
+    "zh": "Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and Hugging Face, and the continued partnership. Congrats @Jensen"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2095587182039969861",
+   "note": {
+    "en": "Congratulated Jensen Huang and Clement Delangue, saying he's looking forward to the open-model ecosystem continuing to flourish through Microsoft's partnerships with NVIDIA and Hugging Face.",
+    "zh": "他向黄仁勋和 Clement Delangue 表示祝贺，并称期待微软与英伟达、Hugging Face 的合作持续推动开源模型生态繁荣发展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Delivery day at our Microsoft DCs as the first production Vera Rubins arrive. A huge thank you to our partners at @nvidia and our Azure hardware and datacenter",
+    "zh": "Delivery day at our Microsoft DCs as the first production Vera Rubins arrive. A huge thank you to our partners at @nvidia and our Azure hardware and datacenter"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2090929770779521310",
+   "note": {
+    "en": "Nadella marked the arrival of the first production NVIDIA Vera Rubin systems at Microsoft data centers, thanking NVIDIA and Azure hardware teams.",
+    "zh": "纳德拉宣布首批量产NVIDIA Vera Rubin系统抵达微软数据中心,并感谢英伟达和Azure硬件团队。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Some more detail on the ROIC Intelligence App I built yesterday and mentioned on today's earnings call. I took the PDF that Brian Nowak at Morgan Stanley put to",
+    "zh": "Some more detail on the ROIC Intelligence App I built yesterday and mentioned on today's earnings call. I took the PDF that Brian Nowak at Morgan Stanley put to"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2082640036949008570",
+   "note": {
+    "en": "Nadella detailed the ROIC Intelligence App he built using a Morgan Stanley analyst's hyperscaler ROIC data, which he had mentioned on Microsoft's earnings call.",
+    "zh": "纳德拉详细介绍了他利用摩根士丹利分析师的超大规模云厂商ROIC数据构建的ROIC Intelligence应用,此前他曾在财报电话会议中提及此事。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-29",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Just wrapped our earnings call. It was a very strong close to what was a record fiscal year for Microsoft. · Annual revenue: $331B, +18% · MS Cloud: $214B, + 27",
+    "zh": "Just wrapped our earnings call. It was a very strong close to what was a record fiscal year for Microsoft. · Annual revenue: $331B, +18% · MS Cloud: $214B, + 27"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2082601790768599074",
+   "note": {
+    "en": "Nadella summarized Microsoft's FY2026 earnings call, citing $331B annual revenue (+18%), $214B Microsoft Cloud revenue (+27%) and $100B Azure revenue (+41%).",
+    "zh": "纳德拉总结了微软2026财年财报电话会议,称年收入达3310亿美元(+18%)、微软云收入2140亿美元(+27%)、Azure收入1000亿美元(+41%)。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-07-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "A good read from Mark. Establishing a frontier ecosystem that empowers people and orgs everywhere is what we collectively need to build together.",
+    "zh": "A good read from Mark. Establishing a frontier ecosystem that empowers people and orgs everywhere is what we collectively need to build together."
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2082177964675133931",
+   "note": {
+    "en": "Nadella endorsed Mark Zuckerberg's essay, agreeing the industry needs to collectively build a frontier AI ecosystem that empowers people and organizations.",
+    "zh": "纳德拉认可马克·扎克伯格的文章,赞同业界需要共同构建一个赋能个人与组织的前沿AI生态系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Today, we are announcing a series of updates that give customers frontier-grade security at half the cost. MAI-Cyber-1-Flash is our first cybersecurity model, b",
+    "zh": "Today, we are announcing a series of updates that give customers frontier-grade security at half the cost. MAI-Cyber-1-Flash is our first cybersecurity model, b"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2081779755146482153",
+   "note": {
+    "en": "Nadella announced MAI-Cyber-1-Flash, Microsoft's first in-house cybersecurity model, alongside updates giving customers frontier-grade security at lower cost.",
+    "zh": "纳德拉宣布推出微软首个自研网络安全模型MAI-Cyber-1-Flash,并公布了以更低成本提供顶尖安全能力的相关更新。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry, we are outlining a path for open-weight models to strength",
+    "zh": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry, we are outlining a path for open-weight models to strength"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2080646162483417097",
+   "note": {
+    "en": "Nadella argued open-weight models are essential to a healthy AI ecosystem and outlined a path for them to strengthen U.S. competitiveness.",
+    "zh": "纳德拉表示开放权重模型对健康的AI生态系统至关重要,并提出了借助开放权重模型增强美国竞争力的路径。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Really excited about our expanded partnership with @MistralAI, which is all about bringing customers more choice in how and where they deploy AI!",
+    "zh": "Really excited about our expanded partnership with @MistralAI, which is all about bringing customers more choice in how and where they deploy AI!"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2079602597565280691",
+   "note": {
+    "en": "Nadella announced an expanded partnership with Mistral AI aimed at giving customers more choice in how and where they deploy AI.",
+    "zh": "纳德拉宣布与Mistral AI扩大合作,旨在为客户提供更多AI部署方式和位置上的选择。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "An important piece from Demis. We need more of this kind of thinking. A good reminder that the goal is a frontier ecosystem that promotes innovation and choice,",
+    "zh": "An important piece from Demis. We need more of this kind of thinking. A good reminder that the goal is a frontier ecosystem that promotes innovation and choice,"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2077063479232795024",
+   "note": {
+    "en": "Nadella endorsed a piece by Demis Hassabis, agreeing the goal should be a frontier AI ecosystem that promotes innovation and choice rather than one model dominating.",
+    "zh": "纳德拉认可戴米斯·哈萨比斯的文章,赞同目标应是促进创新与选择的前沿AI生态,而非由单一模型主导。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Love this end-to-end example from @jeffhollan of what is now possible when you build long-running agents with Foundry. All now GA.",
+    "zh": "Love this end-to-end example from @jeffhollan of what is now possible when you build long-running agents with Foundry. All now GA."
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2075616733503853044",
+   "note": {
+    "en": "Nadella praised a demo by Microsoft's Jeff Hollan showing long-running agents built with Foundry, now generally available.",
+    "zh": "纳德拉称赞微软员工Jeff Hollan展示的基于Foundry构建的长时运行智能体演示,该功能现已全面上线。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Super to see GPT-5.6 with Work IQ come to Copilot Chat, Cowork, M365 apps, GitHub, and Foundry today. From multi-step agentic work to analysis and content creat",
+    "zh": "Super to see GPT-5.6 with Work IQ come to Copilot Chat, Cowork, M365 apps, GitHub, and Foundry today. From multi-step agentic work to analysis and content creat"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2075318015063925053",
+   "note": {
+    "en": "Nadella announced GPT-5.6 with Work IQ rolling out across Copilot Chat, Cowork, M365 apps, GitHub and Foundry.",
+    "zh": "纳德拉宣布搭载Work IQ的GPT-5.6已在Copilot Chat、Cowork、M365应用、GitHub和Foundry上线。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The future of the firm is a learning loop in which human capital and token capital compound. With our new Frontier Co., our ambition is to help every enterprise",
+    "zh": "The future of the firm is a learning loop in which human capital and token capital compound. With our new Frontier Co., our ambition is to help every enterprise"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2072708957077176563",
+   "note": {
+    "en": "Nadella described Microsoft's new 'Frontier Co.' initiative to help every enterprise build its own AI capability as human and 'token' capital compound.",
+    "zh": "纳德拉介绍了微软新推出的\"Frontier Co.\"计划,旨在帮助每家企业在人力资本与\"token资本\"叠加增长中建立自身AI能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Today we’re bringing skills to Copilot for Excel, giving teams a new way to scale their expertise across every workbook. https://t.co/DfD1nfPEO3",
+    "zh": "Today we’re bringing skills to Copilot for Excel, giving teams a new way to scale their expertise across every workbook. https://t.co/DfD1nfPEO3"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2070180313654063255",
+   "note": {
+    "en": "Nadella announced Copilot skills coming to Excel, letting teams scale expertise across workbooks.",
+    "zh": "纳德拉宣布Copilot技能功能登陆Excel,帮助团队在各个工作簿中扩展专业能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "New Azure milestone. The fastest time to train yet at the largest reported scale for this leading AI training benchmark. A great example of what is possible whe",
+    "zh": "New Azure milestone. The fastest time to train yet at the largest reported scale for this leading AI training benchmark. A great example of what is possible whe"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2067020073408368664",
+   "note": {
+    "en": "Nadella announced a new Azure milestone: the fastest training time yet at the largest reported scale on a leading AI training benchmark.",
+    "zh": "纳德拉宣布Azure新里程碑:在一项主流AI训练基准测试中,以目前报告过的最大规模实现最快训练时间。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Copilot Cowork is now generally available worldwide, now with multi-model support! Every organization can put long-running agents to work on complex, multi-step",
+    "zh": "Copilot Cowork is now generally available worldwide, now with multi-model support! Every organization can put long-running agents to work on complex, multi-step"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2066911399494963335",
+   "note": {
+    "en": "Nadella announced Copilot Cowork's general availability worldwide with new multi-model support for long-running agent tasks.",
+    "zh": "纳德拉宣布Copilot Cowork在全球正式上线,新增多模型支持,可处理长时间运行的智能体任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Today in @naturemethods, we shared research on how AI can help us better understand cell behavior, offering new insights into why cancer medicines do not work t",
+    "zh": "Today in @naturemethods, we shared research on how AI can help us better understand cell behavior, offering new insights into why cancer medicines do not work t"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2064395257148834152",
+   "note": {
+    "en": "Nadella shared Microsoft research published in Nature Methods on using AI to better understand why cancer drugs work differently across patients.",
+    "zh": "纳德拉分享了微软发表于《自然·方法》的研究成果,利用AI探究癌症药物在不同患者身上疗效差异的原因。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Great to see NHS England scaling Microsoft 365 Copilot to more than 500,000 staff. In early trials, staff saved an average of 43 minutes per day, helping put mo",
+    "zh": "Great to see NHS England scaling Microsoft 365 Copilot to more than 500,000 staff. In early trials, staff saved an average of 43 minutes per day, helping put mo"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2063633495302533158",
+   "note": {
+    "en": "Nadella highlighted NHS England scaling Microsoft 365 Copilot to more than 500,000 staff, with early trials showing 43 minutes saved per person per day.",
+    "zh": "纳德拉介绍英国国家医疗服务体系(NHS)将Microsoft 365 Copilot推广至超过50万名员工,早期试点显示人均每天节省43分钟。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-05",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Satya Nadella on making human and token capital compound",
+    "zh": "Satya Nadella on making human and token capital compound"
+   },
+   "source": "Possible",
+   "url": "https://podcasts.apple.com/us/podcast/satya-nadella-on-making-human-and-token-capital-compound/id1677184070?i=1000771328115&uo=4",
+   "note": {
+    "en": "Long-form interview with Reid Hoffman on Possible, recorded just after Microsoft Build 2026, in which Nadella argues that human capital and token capital have to compound together.",
+    "zh": "在 Reid Hoffman 的 Possible 播客中的长访谈，录制于 2026 年 Microsoft Build 之后，他在其中论述人力资本与算力（token）资本必须共同复利增长。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-06-03",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "⚡️Satya Nadella: No Priors x Latent Space Crossover Special at Microsoft Build",
+    "zh": "⚡️Satya Nadella: No Priors x Latent Space Crossover Special at Microsoft Build"
+   },
+   "source": "Latent Space: The AI Engineer Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/satya-nadella-no-priors-x-latent-space-crossover-special/id1674008350?i=1000771003814&uo=4",
+   "note": {
+    "en": "Live conversation at Microsoft Build 2026 recorded jointly by Latent Space and No Priors, covering Microsoft's agent platform and model strategy.",
+    "zh": "在 2026 年 Microsoft Build 现场，由 Latent Space 与 No Priors 联合录制的对谈，讨论微软的智能体平台与模型策略。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-06-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Building a frontier intelligence ecosystem together. Highlights from my keynote at Microsoft Build this morning. https://t.co/40jxw0J7uE",
+    "zh": "Building a frontier intelligence ecosystem together. Highlights from my keynote at Microsoft Build this morning. https://t.co/40jxw0J7uE"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2062022060176801826",
+   "note": {
+    "en": "Nadella shared highlights from his Microsoft Build keynote on building a 'frontier intelligence ecosystem' together with partners.",
+    "zh": "纳德拉分享了他在微软Build大会主题演讲中的精彩内容,主题为与合作伙伴共同构建\"前沿智能生态系统\"。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "With the new MAI models and Frontier Tuning capabilities we announced today, we're focused on helping every company move from just consuming a frontier model to",
+    "zh": "With the new MAI models and Frontier Tuning capabilities we announced today, we're focused on helping every company move from just consuming a frontier model to"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2061993322072469649",
+   "note": {
+    "en": "Nadella announced new MAI models and Frontier Tuning capabilities to help companies move from consuming frontier models to fully participating at the frontier.",
+    "zh": "纳德拉宣布推出新的MAI模型和Frontier Tuning能力,帮助企业从单纯使用前沿模型转向全面参与前沿技术开发。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "With Project Solara, we are building a new platform purpose-built for agent-first devices. Excited to work with @cristianoamon and @Qualcomm on this!",
+    "zh": "With Project Solara, we are building a new platform purpose-built for agent-first devices. Excited to work with @cristianoamon and @Qualcomm on this!"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2061942751860769094",
+   "note": {
+    "en": "Nadella announced Project Solara, a new platform for agent-first devices, built with Qualcomm.",
+    "zh": "纳德拉宣布与高通合作推出Project Solara,这是一个面向智能体优先设备的新平台。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Great to be back at Microsoft Build today. For us, it is not about any one piece of technology or even the platform. It is about how we can build a frontier int",
+    "zh": "Great to be back at Microsoft Build today. For us, it is not about any one piece of technology or even the platform. It is about how we can build a frontier int"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2061896503304806521",
+   "note": {
+    "en": "At Microsoft Build, Nadella said the company's focus is building a shared 'frontier intelligence ecosystem' rather than any single piece of technology.",
+    "zh": "在微软Build大会上,纳德拉表示公司的重点是共同构建\"前沿智能生态系统\",而非某一项单独技术。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Our goal is to deliver unmetered intelligence to every home and every desk with Windows. NVIDIA RTX Spark marks a real breakthrough toward that vision. Looking",
+    "zh": "Our goal is to deliver unmetered intelligence to every home and every desk with Windows. NVIDIA RTX Spark marks a real breakthrough toward that vision. Looking"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2061315017589600699",
+   "note": {
+    "en": "Nadella framed NVIDIA's RTX Spark as a breakthrough toward delivering 'unmetered intelligence' to every home and desk via Windows.",
+    "zh": "纳德拉认为英伟达RTX Spark是通过Windows向千家万户和每张办公桌提供\"无限量智能\"愿景的一次突破。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We've redesigned Copilot to be simpler, faster, and more intuitive, to help keep you in the flow of your work. Try it out: https://t.co/iBuMPZ6L4b",
+    "zh": "We've redesigned Copilot to be simpler, faster, and more intuitive, to help keep you in the flow of your work. Try it out: https://t.co/iBuMPZ6L4b"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2060050593474093065",
+   "note": {
+    "en": "Nadella announced a redesigned Copilot aimed at being simpler, faster and more intuitive.",
+    "zh": "纳德拉宣布Copilot完成重新设计,变得更简洁、更快速、更直观。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Our new multi-model agentic security system brings together more than 100 specialized agents across frontier and custom models to find exploitable bugs, deliver",
+    "zh": "Our new multi-model agentic security system brings together more than 100 specialized agents across frontier and custom models to find exploitable bugs, deliver"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2054351354156794163",
+   "note": {
+    "en": "Nadella announced a new multi-model agentic security system combining over 100 specialized agents to find exploitable bugs, achieving top results on the CyberGym benchmark.",
+    "zh": "纳德拉宣布推出新的多模型智能体安全系统,集合逾100个专用智能体寻找可利用漏洞,并在CyberGym基准测试中取得领先成绩。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Excel has quietly been Turing complete for a long time. Nice to see it now edging toward \"AI complete\"—SGD, attention, next-token prediction… all in cells.",
+    "zh": "Excel has quietly been Turing complete for a long time. Nice to see it now edging toward \"AI complete\"—SGD, attention, next-token prediction… all in cells."
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2053334532666081624",
+   "note": {
+    "en": "Nadella observed that Excel has long been Turing complete and is now edging toward 'AI complete,' citing SGD, attention and next-token prediction running in cells.",
+    "zh": "纳德拉指出Excel长期以来一直是图灵完备的,如今正逐渐迈向\"AI完备\",称随机梯度下降、注意力机制、下一个词预测等都能在单元格中运行。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Great to bring GPT 5.5 Instant to M365 Copilot today. With quicker, clearer, and more accurate responses, you can get to useful answers with less back and forth",
+    "zh": "Great to bring GPT 5.5 Instant to M365 Copilot today. With quicker, clearer, and more accurate responses, you can get to useful answers with less back and forth"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2052465911832171001",
+   "note": {
+    "en": "Nadella announced GPT-5.5 Instant coming to Microsoft 365 Copilot for quicker, more accurate responses.",
+    "zh": "纳德拉宣布GPT-5.5 Instant接入Microsoft 365 Copilot,带来更快更准确的响应。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Every firm will need to reconceptualize work as they build agentic systems. As AI and agents take on more of the execution, the opportunity is to expand human a",
+    "zh": "Every firm will need to reconceptualize work as they build agentic systems. As AI and agents take on more of the execution, the opportunity is to expand human a"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2051787232043020719",
+   "note": {
+    "en": "Nadella argued every firm will need to reconceptualize work as agentic systems take on more execution, expanding human agency rather than replacing it.",
+    "zh": "纳德拉认为,随着智能体系统承担更多执行工作,每家企业都需要重新构想工作方式,以扩展而非取代人的能动性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "New in Copilot Cowork: mobile, skills, and plugins. Now available on iOS and Android, so you can delegate work from your phone, pick it back up on your desktop,",
+    "zh": "New in Copilot Cowork: mobile, skills, and plugins. Now available on iOS and Android, so you can delegate work from your phone, pick it back up on your desktop,"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2051712533174931707",
+   "note": {
+    "en": "Nadella announced new Copilot Cowork features including mobile apps for iOS and Android, skills and plugins.",
+    "zh": "纳德拉宣布Copilot Cowork新增功能,包括iOS和Android移动应用、技能和插件。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Agent 365 is now generally available! We’re extending the systems customers already use for identity, security, governance, and management to every AI agent and",
+    "zh": "Agent 365 is now generally available! We’re extending the systems customers already use for identity, security, governance, and management to every AI agent and"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2050251014691840015",
+   "note": {
+    "en": "Nadella announced the general availability of Agent 365, extending identity, security and governance systems to AI agents across the enterprise.",
+    "zh": "纳德拉宣布Agent 365正式全面上线,将企业现有的身份、安全和治理体系扩展至各类AI智能体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-29",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Just wrapped our quarterly earnings call. We are focused on delivering AI infrastructure and solutions that empower every business to eval-max their outcomes in",
+    "zh": "Just wrapped our quarterly earnings call. We are focused on delivering AI infrastructure and solutions that empower every business to eval-max their outcomes in"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2049622812680409373",
+   "note": {
+    "en": "Nadella summarized Microsoft's quarterly earnings call, emphasizing AI infrastructure investment for the agentic computing era.",
+    "zh": "纳德拉总结微软季度财报电话会议,强调面向智能体计算时代的AI基础设施投入。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Great example of what Foundry enables: durable, stateful agents that run across time boundaries, orchestrate tools and models, and close the loop with evaluatio",
+    "zh": "Great example of what Foundry enables: durable, stateful agents that run across time boundaries, orchestrate tools and models, and close the loop with evaluatio"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2048966332876828859",
+   "note": {
+    "en": "Nadella highlighted a Foundry example of durable, stateful agents that run across time boundaries and close the loop with evaluation.",
+    "zh": "纳德拉展示了一个Foundry案例:可跨时间持续运行的有状态智能体,并能通过评估形成闭环。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Agent Mode is here in Outlook! Copilot can now help run your inbox and calendar, triaging emails, rescheduling meetings, and helping you stay on top of what mat",
+    "zh": "Agent Mode is here in Outlook! Copilot can now help run your inbox and calendar, triaging emails, rescheduling meetings, and helping you stay on top of what mat"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2048882283164389661",
+   "note": {
+    "en": "Nadella announced Agent Mode in Outlook, letting Copilot triage emails and reschedule meetings automatically.",
+    "zh": "纳德拉宣布Outlook推出智能体模式,Copilot可自动分类邮件并调整会议安排。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Super to see Accenture roll out 740,000+ M365 Copilot seats—our largest deployment to date! https://t.co/4sIMBwcRAV",
+    "zh": "Super to see Accenture roll out 740,000+ M365 Copilot seats—our largest deployment to date! https://t.co/4sIMBwcRAV"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2048829906478682304",
+   "note": {
+    "en": "Nadella highlighted Accenture's rollout of over 740,000 Microsoft 365 Copilot seats, Microsoft's largest deployment to date.",
+    "zh": "纳德拉介绍埃森哲部署超过74万个Microsoft 365 Copilot席位,这是微软迄今最大规模的部署案例。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Really fun to try this app while in Sydney this week, which uses our tools to help fans deep dive into cricket matches, players, and history. https://t.co/D1wgp",
+    "zh": "Really fun to try this app while in Sydney this week, which uses our tools to help fans deep dive into cricket matches, players, and history. https://t.co/D1wgp"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2048194324391936364",
+   "note": {
+    "en": "Nadella tried an app using Microsoft's AI tools to help cricket fans explore match and player history during a trip to Sydney.",
+    "zh": "纳德拉在悉尼出差期间试用了一款利用微软AI工具帮助板球迷查阅赛事和球员历史的应用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-01-21",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Microsoft CEO Satya Nadella on AI's Business Revolution: What Happens to SaaS, OpenAI, and Microsoft? | LIVE from Davos",
+    "zh": "Microsoft CEO Satya Nadella on AI's Business Revolution: What Happens to SaaS, OpenAI, and Microsoft? | LIVE from Davos"
+   },
+   "source": "All-In with Chamath, Jason, Sacks & Fr…",
+   "url": "https://podcasts.apple.com/us/podcast/microsoft-ceo-satya-nadella-on-ais-business-revolution/id1502871393?i=1000746115714&uo=4",
+   "note": {
+    "en": "Live All-In interview from Davos on what agents do to the SaaS business model and how Microsoft's OpenAI relationship fits its own model plans.",
+    "zh": "在达沃斯录制的 All-In 现场访谈，谈智能体对 SaaS 商业模式的冲击，以及微软与 OpenAI 的关系如何与自研模型规划相衔接。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-11-18",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Satya Nadella describes how lessons from Microsoft’s history apply to today’s boom",
+    "zh": "Satya Nadella describes how lessons from Microsoft’s history apply to today’s boom"
+   },
+   "source": "Cheeky Pint",
+   "url": "https://podcasts.apple.com/us/podcast/satya-nadella-describes-how-lessons-from-microsofts/id1821055332?i=1000737222031&uo=4",
+   "note": {
+    "en": "Satya Nadella sat down on the Cheeky Pint podcast to discuss how lessons from Microsoft's history apply to the current AI boom.",
+    "zh": "Satya Nadella做客Cheeky Pint播客，探讨微软历史上的经验教训如何应用于当下的AI热潮。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-11-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I’ve been thinking a lot about what the net benefit of the AI platform wave is. The real question is how to empower every company out there to get more out of t",
+    "zh": "I’ve been thinking a lot about what the net benefit of the AI platform wave is. The real question is how to empower every company out there to get more out of t"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/1989755076353921404",
+   "note": {
+    "en": "Nadella argued the real test of the AI platform wave is whether it empowers every company to build its own AI capability, not just adopt a vendor's.",
+    "zh": "纳德拉认为,AI平台浪潮的真正考验在于能否让每家公司都具备自建AI能力,而不只是采购别人的产品。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-11-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Satya Nadella — How Microsoft is preparing for AGI",
+    "zh": "Satya Nadella — How Microsoft is preparing for AGI"
+   },
+   "source": "Dwarkesh Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/satya-nadella-how-microsoft-is-preparing-for-agi/id1516093381?i=1000736461892&uo=4",
+   "note": {
+    "en": "Dwarkesh Patel interview built around a first look at the Fairwater 2 datacenter, laying out how Microsoft is provisioning compute for AGI-scale training.",
+    "zh": "Dwarkesh Patel 的访谈，以首次探访 Fairwater 2 数据中心为线索，说明微软如何为 AGI 规模的训练部署算力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-10-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Clippy is back!! https://t.co/0wBUeDrzch",
+    "zh": "Clippy is back!! https://t.co/0wBUeDrzch"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/1981466897557196837",
+   "note": {
+    "en": "Nadella announced the return of Clippy as a feature within Microsoft's AI products.",
+    "zh": "纳德拉宣布Clippy作为微软AI产品的功能重新回归。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-10-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Another first for our AI fleet... a supercomputing cluster of NVIDIA GB300s with 4600+ GPUs and featuring next gen InfiniBand. First of many as we scale to hund",
+    "zh": "Another first for our AI fleet... a supercomputing cluster of NVIDIA GB300s with 4600+ GPUs and featuring next gen InfiniBand. First of many as we scale to hund"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/1976322455288545343",
+   "note": {
+    "en": "Nadella highlighted a new Azure supercomputing cluster with over 4,600 NVIDIA GB300 GPUs and next-gen InfiniBand, part of a planned scale-up to hundreds of thousands of GB300s.",
+    "zh": "纳德拉介绍了Azure新建的超算集群,搭载4600多颗NVIDIA GB300 GPU及新一代InfiniBand网络,并计划扩展到数十万颗GB300。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-09-29",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Welcome Grok 4 to Azure AI Foundry!",
+    "zh": "Welcome Grok 4 to Azure AI Foundry!"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/1972707360662757796",
+   "note": {
+    "en": "Nadella announced Grok 4's availability on Azure AI Foundry.",
+    "zh": "纳德拉宣布Grok 4已上线Azure AI Foundry。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-09-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "If intelligence is the log of compute… it starts with a lot of compute! And that’s why we’re scaling our GPU fleet faster than anyone else. Just last year, we a",
+    "zh": "If intelligence is the log of compute… it starts with a lot of compute! And that’s why we’re scaling our GPU fleet faster than anyone else. Just last year, we a"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/1968677244861379012",
+   "note": {
+    "en": "Nadella framed intelligence as a function of compute and said Microsoft added over 2 gigawatts of new data center capacity in the past year to scale its GPU fleet faster than competitors.",
+    "zh": "纳德拉将智能视为算力的函数,称微软去年新增超过2吉瓦数据中心容量,以比对手更快的速度扩充GPU集群。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-09-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "AI is the defining technology of our time, and how we empower people to use it will shape our nation's future. Thank you to @realDonaldTrump and @FLOTUS for mak",
+    "zh": "AI is the defining technology of our time, and how we empower people to use it will shape our nation's future. Thank you to @realDonaldTrump and @FLOTUS for mak"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/1963666553427435854",
+   "note": {
+    "en": "Nadella called AI the defining technology of the era and thanked the Trump administration for prioritizing AI education nationally.",
+    "zh": "纳德拉称AI是这个时代的决定性技术,并感谢特朗普政府将AI教育列为国家优先事项。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-08-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "It’s been a few weeks since we brought GPT-5 to Microsoft 365 Copilot, and it’s quickly become part of my everyday workflow, adding a new layer of intelligence",
+    "zh": "It’s been a few weeks since we brought GPT-5 to Microsoft 365 Copilot, and it’s quickly become part of my everyday workflow, adding a new layer of intelligence"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/1960789348133298359",
+   "note": {
+    "en": "Nadella described how GPT-5 in Microsoft 365 Copilot became part of his daily workflow and shared prompt examples.",
+    "zh": "纳德拉分享了GPT-5接入Microsoft 365 Copilot后如何融入他的日常工作,并给出了具体的提示词示例。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-06-25",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Satya Nadella: Microsoft's AI Bets, Hyperscaling, Quantum Computing Breakthroughs",
+    "zh": "Satya Nadella: Microsoft's AI Bets, Hyperscaling, Quantum Computing Breakthroughs"
+   },
+   "source": "Y Combinator Startup Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/satya-nadella-microsofts-ai-bets-hyperscaling-quantum/id1236907421?i=1000714561522&uo=4",
+   "note": {
+    "en": "Fireside at Y Combinator's AI Startup School covering Microsoft's AI bets, hyperscale buildout and the topological qubit work.",
+    "zh": "在 Y Combinator 的 AI Startup School 上的炉边对谈，涵盖微软的 AI 押注、超大规模基建扩张与拓扑量子比特的进展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-04-04",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Satya Nadella: Microsoft 50th Anniversary + Copilot Event",
+    "zh": "Satya Nadella: Microsoft 50th Anniversary + Copilot Event"
+   },
+   "source": "Speeches - Stories",
+   "url": "https://pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev/2025/04/04042025-Microsoft-50th-Anniversary-Copilot-Broadcast-Event.pdf",
+   "note": {
+    "en": "Transcript of Nadella's remarks at Microsoft's 50th anniversary and Copilot event, framing the company's next phase around AI assistants.",
+    "zh": "纳德拉在微软五十周年暨Copilot发布活动上的演讲实录，将公司的下一阶段定位在AI助手之上。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2025-02-19",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Satya Nadella — Microsoft’s AGI plan & quantum breakthrough",
+    "zh": "Satya Nadella — Microsoft’s AGI plan & quantum breakthrough"
+   },
+   "source": "Dwarkesh Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/satya-nadella-microsofts-agi-plan-quantum-breakthrough/id1516093381?i=1000694050135&uo=4",
+   "note": {
+    "en": "Dwarkesh Patel interview in which Nadella rejects AGI as a milestone and argues for 10% economic growth as the real test, alongside Microsoft's quantum announcement.",
+    "zh": "Dwarkesh Patel 的访谈：他不以 AGI 作为衡量标准，而主张 10% 的经济增长才是真正的检验，同时谈及微软的量子计算进展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-01-07",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Satya Nadella: AI Tour in Bangalore, India",
+    "zh": "Satya Nadella: AI Tour in Bangalore, India"
+   },
+   "source": "Speeches - Stories",
+   "url": "https://pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev/2025/01/01072025-Bangalore-AI-Tour-Keynote-Satya-Nadella.pdf",
+   "note": {
+    "en": "Nadella's Bangalore AI Tour keynote, setting out Microsoft's AI infrastructure and skilling commitments in India.",
+    "zh": "纳德拉在班加罗尔AI Tour上的主题演讲，阐述了微软在印度的AI基础设施与技能培训投入。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2024-11-19",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Satya Nadella: Microsoft Ignite 2024",
+    "zh": "Satya Nadella: Microsoft Ignite 2024"
+   },
+   "source": "Speeches - Stories",
+   "url": "https://pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev/2024/11/11192024-Ignite-KEY01-Satya-Nadella2.pdf",
+   "note": {
+    "en": "Nadella's Ignite 2024 keynote, laying out Microsoft's agent-centred Copilot stack for enterprise customers.",
+    "zh": "纳德拉在Ignite 2024上的主题演讲，向企业客户展示了微软以智能体为核心的Copilot技术栈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2024-10-25",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Satya Nadella, Microsoft's Chairman and Chief Executive",
+    "zh": "Satya Nadella, Microsoft's Chairman and Chief Executive"
+   },
+   "source": "The Times Tech Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/satya-nadella-microsofts-chairman-and-chief-executive/id1233991021?i=1000674428656&uo=4",
+   "note": {
+    "en": "Times Tech Podcast interview on how he repositioned Microsoft around AI and on the partnership strategy that began with OpenAI.",
+    "zh": "《泰晤士报》科技播客访谈，谈他如何将微软重新定位到 AI 之上，以及自 OpenAI 开始的合作策略。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-10-24",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Satya Nadella and Jared Spataro: AI Tour Keynote in Berlin",
+    "zh": "Satya Nadella and Jared Spataro: AI Tour Keynote in Berlin"
+   },
+   "source": "Speeches - Stories",
+   "url": "https://pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev/2024/10/10242024-Berlin-Germany-AI-Tour-Keynote-Satya-Nadella.pdf",
+   "note": {
+    "en": "Nadella and Jared Spataro's Berlin AI Tour keynote on deploying Copilot and agents across European enterprises.",
+    "zh": "纳德拉与Jared Spataro在柏林AI Tour上的主题演讲，主题是在欧洲企业中部署Copilot与智能体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2024-10-21",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Satya Nadella and Jared Spataro: AI Tour Keynote in London",
+    "zh": "Satya Nadella and Jared Spataro: AI Tour Keynote in London"
+   },
+   "source": "Speeches - Stories",
+   "url": "https://pub-c2c1d9230f0b4abb9b0d2d95e06fd4ef.r2.dev/2024/10/10212024-London-UK-AI-Tour-Keynote-Satya-Nadella.pdf",
+   "note": {
+    "en": "Nadella and Jared Spataro's London AI Tour keynote, pitching Microsoft's agent tooling to UK business and public-sector customers.",
+    "zh": "纳德拉与Jared Spataro在伦敦AI Tour上的主题演讲，向英国企业与公共部门客户推介微软的智能体工具。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2024-09-25",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Satya Nadella: AI Tour in Latin America",
+    "zh": "Satya Nadella: AI Tour in Latin America"
+   },
+   "source": "Speeches - Stories",
+   "url": "https://news.microsoft.com/wp-content/uploads/prod/2024/09/09232024-Mexico-City-AI-Tour-Keynote-Satya-Nadella.pdf",
+   "note": {
+    "en": "Nadella's Mexico City keynote on Microsoft's AI investment and cloud expansion across Latin America.",
+    "zh": "纳德拉在墨西哥城的主题演讲，介绍微软在拉丁美洲的AI投资与云业务扩张。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2022-05-24",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "ReThinking: Satya Nadella is building the future",
+    "zh": "ReThinking: Satya Nadella is building the future"
+   },
+   "source": "Worklife with Molly Graham",
+   "url": "https://podcasts.apple.com/us/podcast/rethinking-satya-nadella-is-building-the-future/id1346314086?i=1000563435670&uo=4",
+   "note": {
+    "en": "Adam Grant's ReThinking interview on leadership, culture change and the mindset shift he pushed through at Microsoft.",
+    "zh": "Adam Grant 的 ReThinking 访谈，谈领导力、文化变革，以及他在微软推动的思维模式转变。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2018-05-09",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Satya Nadella, Microsoft CEO",
+    "zh": "Satya Nadella, Microsoft CEO"
+   },
+   "source": "Finding Mastery with Dr. Michael Gervais",
+   "url": "https://podcasts.apple.com/us/podcast/satya-nadella-microsoft-ceo/id1025326955?i=1000411003360&uo=4",
+   "note": {
+    "en": "Nadella appeared as the guest on the \"Finding Mastery\" podcast with Dr. Michael Gervais, discussing leadership and mindset as Microsoft's CEO.",
+    "zh": "纳德拉作为嘉宾出现在迈克尔·格尔维斯博士主持的播客节目《Finding Mastery》中，谈论作为微软CEO的领导力与心态。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2018-03-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "324. Extra: Satya Nadella Full Interview",
+    "zh": "324. Extra: Satya Nadella Full Interview"
+   },
+   "source": "Freakonomics Radio",
+   "url": "https://podcasts.apple.com/us/podcast/324-extra-satya-nadella-full-interview/id354668519?i=1000405924620&uo=4",
+   "note": {
+    "en": "Full unedited Freakonomics Radio interview with Stephen Dubner, an early and unusually complete account of how he thinks about running Microsoft.",
+    "zh": "与 Stephen Dubner 的 Freakonomics Radio 完整未删减访谈，较早且罕见完整地呈现了他执掌微软的思路。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-08-07",
+   "level": "notable",
+   "title": {
+    "en": "'Every model is substitutable'; MAI on custom chips gains 40% perf/watt",
+    "zh": "「每个模型都是可替代的」；MAI 跑在自研芯片上性能功耗比提升 40%"
+   },
+   "body": {
+    "en": "Stated on the fiscal Q4 earnings call. Azure grew 43% YoY.",
+    "zh": "在第四财季电话会上表述。Azure 同比增长 43%。"
+   },
+   "source": "The Motley Fool",
+   "url": "https://www.fool.com/investing/2026/08/07/satya-nadella-said-microsofts-own-ai-chips-are-dri/"
+  },
+  {
+   "date": "2026-07-01",
+   "level": "notable",
+   "title": {
+    "en": "Multibillion-dollar infrastructure agreement with Mistral",
+    "zh": "与 Mistral 签署数十亿美元基础设施协议"
+   },
+   "body": {
+    "en": "Part of a four-way portfolio: ~27% of OpenAI (~$228B on paper), a $5B Anthropic co-investment, the Mistral deal, and in-house MAI.",
+    "zh": "四路布局的一环：约 27% OpenAI 股权（账面约 2280 亿美元）、50 亿美元 Anthropic 共同投资、Mistral 协议，以及自研 MAI。"
+   },
+   "source": "StartupHub",
+   "url": "https://www.startuphub.ai/ai-news/ai-figures/2026/figure-satya-nadella-venture-portfolio-breakdown-2026-08-13"
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T05:55:08Z",
+   "level": "notable",
+   "title": {
+    "en": "AI must stay under human control: Satya Nadella",
+    "zh": "AI must stay under human control: Satya Nadella"
+   },
+   "body": {
+    "en": "Nadella said AI must remain under human control, adding Microsoft's voice to the industry debate over AI safety and oversight.",
+    "zh": "纳德拉表示AI必须始终处于人类掌控之下，为行业关于AI安全与监管的讨论加入了微软的声音。"
+   },
+   "source": "MorungExpress",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ObWN2TWNPVnk0YmJTb3ZsQkx3dXNobzJma3hpRndsSzdLOFNuWVJJa3pNSHA4b2loaXhlSHZZMDlkelFabTVjYVBnZnRZQ202S0h4LVhXc3luWlUtNzFzV2N4bzhoOVBnTUFNTzZRaWFSbzE5N1hFT180c2I?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T13:25:00Z",
+   "level": "major",
+   "title": {
+    "en": "Microsoft CEO Satya Nadella may have just announced ‘freedom’ from OpenAI: ‘Full independence is the goal",
+    "zh": "Microsoft CEO Satya Nadella may have just announced ‘freedom’ from OpenAI: ‘Full independence is the goal"
+   },
+   "body": {
+    "en": "Nadella signaled Microsoft is aiming for full independence from OpenAI, a significant shift in the relationship underpinning much of Microsoft's AI strategy.",
+    "zh": "纳德拉表示微软正寻求彻底摆脱对OpenAI的依赖，这是其AI战略所依赖的合作关系的重大转变。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxORlN4Z2xFbGZSNlhCWWRJM3lyNFRNbG91UlJ4MVFSWGtWWWZSeVVzdElRRGV2NGxBbHBkNGtNRWE3NnRYdVNJTmN5VEFJUkl0X0VkTGpVOS1YWTg3b2luYUp1cFFyVHlKcnFWNFhNWFZXNFAzMEdKX0s2NjlYelFveHk3WVVMZzVwTlFuSUVrSkxzSno5SjNNdWNRN3BsS1RmTnRHbEVJSWVGcHk3YWxRaklOZXgtM3dsYnI0RTdjOHRxVlVXWjZnRFA3QzBZWTJQTk5rR1phaEZOMWRrS25obERUREl4dlRhUHc2S2ZRUjBJTEU1NzdZd1NRR3Q0MHJMQ1FNVjVUTHFOc0NBdU40d3lB0gGXAkFVX3lxTE9Lb0w3S3NYbVJwMmI2SG9fUHRpMF9ZNFN2cU5JcFM5c3pLek5zR0NZTmw4UlFmRE8xYllIZGtLd1N1YlhVc09EUUo0bkY0bmdGLTNNS1Z5cGN6NFRMU01qeTI3RDU2NFpSUTNibjZSN2FjZ1d5WVlCdXdyMHFQbTRvRzhNTUdZU1lVN1ExUlRkdGZXV0hOcjlWSENuOU1scTZPa0tSTEM3NWdzQ3F2V0d6Z1ZXMzctUDhfQTZBMlVGaTM0ZmZJNzVYUTlkSnFZU1MyRC1tenVyX1VzOHJsMUdkRk1BMWxKNThsdjRiUU56QlBDX2habGpMeWVib1BObUFwTkliaGpVMnNtNFM2WEZCN1pJeGhWWQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T11:31:09Z",
+   "level": "notable",
+   "title": {
+    "en": "Satya Nadella Says Xi Jinping ‘Should Also Deeply Care’ About AI Safety — ‘It Doesn’t Make Sense’ for Risks to Concern Only Americans",
+    "zh": "Satya Nadella Says Xi Jinping ‘Should Also Deeply Care’ About AI Safety — ‘It Doesn’t Make Sense’ for Risks to Concern Only Americans"
+   },
+   "body": {
+    "en": "Satya Nadella said Xi Jinping should also deeply care about AI safety, arguing the risks should not concern only Americans.",
+    "zh": "萨提亚·纳德拉表示习近平也应高度重视AI安全，认为相关风险不应只由美国人担忧。"
+   },
+   "source": "Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnpxUk1UWnhOVW9jU3FrX2xzVmhTcGtZN1hqcW1XT1pJdHpXMU83VElPaHFiVzZ3RExYbmJuNjNybnVVcWlnYnlEX0xCN1ZJdEVnaHNBTzdScHB1bGpBZkpab0l2RXhCZUJxRzBsZVQzUWhVZ29NR2I2dWV2b04zUWx1Nm5YZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T19:30:11Z",
+   "level": "notable",
+   "title": {
+    "en": "Satya Nadella Warns AI Could 'Fake My Books' — Says Companies Need More Control, Testing and Transparency as Agents Take on More Tasks",
+    "zh": "Satya Nadella Warns AI Could 'Fake My Books' — Says Companies Need More Control, Testing and Transparency as Agents Take on More Tasks"
+   },
+   "body": {
+    "en": "Nadella warned that AI could misrepresent people's work (\"fake my books\") and said companies need stronger controls, testing and transparency as AI agents take on more autonomous tasks.",
+    "zh": "纳德拉警告称AI可能伪造他人作品（“伪造我的书”），并表示随着AI智能体承担更多自主任务，企业需要更强的控制、测试和透明度。"
+   },
+   "source": "Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMEJKUlFvTEhIcjlKekMtV0J1UTFYdTgxWVNOMGstWUVMbG1TdWNQY2o5ME4xVVEtbV9hS2V2WEtnbVM3M3pHNWtRb0JwdjlWS0kyaHU5VVFyZkZ4OGdPVC1aaEhScXJnc2VndG14dW1zRW1aZWZXZnRRNlU5aXFFUE9hV20?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T02:00:28Z",
+   "level": "major",
+   "title": {
+    "en": "Satya Nadella on Microsoft's $175 Billion AI Bet: Strategy Focuses on \"Orchestration Layer\" Over Standalone AI Models",
+    "zh": "Satya Nadella on Microsoft's $175 Billion AI Bet: Strategy Focuses on \"Orchestration Layer\" Over Standalone AI Models"
+   },
+   "body": {
+    "en": "Nadella detailed Microsoft's $175 billion AI investment, saying the company's strategy centers on building an 'orchestration layer' rather than competing on standalone models.",
+    "zh": "纳德拉详细阐述了微软1750亿美元的AI投资，表示公司战略重点在于打造“编排层”，而非专注于打造独立模型。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaclRGM2NsRWtyX0JGRkhrU2Rha2tCRUJyNlFoVVRPNnRqaF9JN19za2hCUmtwWGNRYWN6eGx4TDk2aVhKUkVES1hzYWZxUXU2d3pj?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T07:18:08Z",
+   "level": "notable",
+   "title": {
+    "en": "Satya Nadella Says Xi Jinping ‘Should Also Deeply Care’ About AI Safety — ‘It Doesn’t Make Sense’ for Ris",
+    "zh": "Satya Nadella Says Xi Jinping ‘Should Also Deeply Care’ About AI Safety — ‘It Doesn’t Make Sense’ for Ris"
+   },
+   "body": {
+    "en": "Nadella said Xi Jinping \"should also deeply care\" about AI safety, extending the safety debate into geopolitics.",
+    "zh": "纳德拉表示习近平\"也应该深切关注\"AI安全问题，将安全议题延伸至地缘政治层面。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQUnc5cFZhSXdVTGU3WkIyc2dZYVpjY0VZUXl0ajluaDR5enh0THV5MlBrTThWOXd0c0l0bzdVY0psUUNVYlFORTJQQ20wR1NYQXFFa3BNeUZlMV9Nc0NEbFQ3N1NZVFpnMGRkLW9GU0tyS2d2SE0td1huakNPTjMzN01xOENjTUhzUW1QT19uMUZvanpHV2FxOGJaNktvWGdTY3k0T0hSTFZzWmxEY2ZqTUpVcGFRYmhBV0ttMWtvUFFRekRJbTVZMnVLOWEwMHFmY2xfQy1vTk9CUWFqNVFkR1dUZndpY2N4S0NWRWVoZkVmMFJtMm1PaGJiVl9Ib252M3FwWXd1RWU1cHc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T10:45:30Z",
+   "level": "notable",
+   "title": {
+    "en": "Satya Nadella Warns AI Could 'Fake My Books' — Says Companies Need More Control, Testing and Transparency",
+    "zh": "Satya Nadella Warns AI Could 'Fake My Books' — Says Companies Need More Control, Testing and Transparency"
+   },
+   "body": {
+    "en": "Satya Nadella warned that AI could be used to fabricate content like his own books, and said companies need more control, testing and transparency.",
+    "zh": "萨提亚·纳德拉警告称AI可能被用来伪造内容，甚至包括他自己的书，呼吁企业加强控制、测试和透明度。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQRUh0VUV0Z3ZNZXBVcVhOeHFGcUEtZTRnSUxvdGppQnBndTJqV3owdnlQU2dNV3N3UDNVSWh4bGtpaHE2ajNrLVBBVTU3WDhFd2dhejY3eXRHUm5pcFQxTXhyS0NRaFl6WDk2WlVSZDh4QmdxdV83am9lMi16S21oMFptWWN3OWJjMk51NHJkMTNvUVNqaFNTbnM1T0tzSWJCVC1NY09wWVppVkM5OW4xYVloTVZ0T1BPelVybk41MEY4QkZ4ZXNnNEZSY0J5bW5mbFR4alFvSTA0M3pPTWl2eFJ3UzJUc1FVZmFpZnFpSlFIV3A5cWlVLUNBT3hkal96TldtV05BYjRGelBiSlpN?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T13:55:20Z",
+   "level": "notable",
+   "title": {
+    "en": "Zuckerberg toes the Trump line on AI; sets aside slowdown calls by Satya Nadella, Dario Amodei",
+    "zh": "Zuckerberg toes the Trump line on AI; sets aside slowdown calls by Satya Nadella, Dario Amodei"
+   },
+   "body": {
+    "en": "Coverage of the AI-pacing debate noted that Zuckerberg is setting aside earlier slowdown calls made by Nadella and Amodei.",
+    "zh": "报道AI发展节奏之争时提到，扎克伯格搁置了纳德拉与阿莫迪此前提出的放缓呼吁。"
+   },
+   "source": "Fortune India",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS1EzVFF2OHJOM1Ztbmg0VE5kNkVYNF9OWlRrM3VxLXktX0J5eVJsdnM5SEl2NG1UZkhnbUR2WEIwNWhhUGRSNDlDcjlrNlRqbVpGMGx1ZTJUU2haYnd0QUVQMU9tbHR5NkNQQnRsSVdOMUxrMldzaF9mUm82SW5saGlsdWxmem14T2VORXNEd1VSaE1Vd01VRWpmRXNPUHpnYzBmNlpGU0NYdkZ5VlR4U0xjZzk4N2JrTFBtdjFvcm9VWENncU1FUFh3WnhBc0p2Y05XYVVR0gHjAUFVX3lxTE9rd2ZmSjQtTlhKSXByZjZGTHBnY1h4Unl1YXBZXzZPeC1tRy0tcGRaNDRRY1hnckFQNTBnb0dlS3RGQzR3OXNJM29DSmpGd2VpdWNMVzJDbVBlaXhZdDdtVG9WWjN1WnR4VTktS2NhVzNORTM1SVh4T3pLMkdLbGlqVXNFUG1EZndOVmVlbVcwUWtUTUh5Y2paVjlpeTExZU1MVXlhM29WZzc5UFZGOHFVMmRDRklxa2ZtMTZrYVNUUnYwb0VxM1VVY0Q1TVAzRnZ2UmhuakpFaURJYTZmQ0xWWVVJ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T14:16:14Z",
+   "level": "notable",
+   "title": {
+    "en": "’AI Not Worth Pursuing’ If It’s Not ‘Helping Humanity.’ Microsoft’s Satya Nadella Pushes Back on Anthropic’s Control Framing and Offers a Practical Way Out.",
+    "zh": "’AI Not Worth Pursuing’ If It’s Not ‘Helping Humanity.’ Microsoft’s Satya Nadella Pushes Back on Anthropic’s Control Framing and Offers a Practical Way Out."
+   },
+   "body": {
+    "en": "Nadella pushed back on Anthropic's AI-control framing, arguing AI is only worth pursuing if it demonstrably helps humanity.",
+    "zh": "纳德拉对Anthropic的AI控制论调提出异议，认为AI只有在切实造福人类的前提下才值得追求。"
+   },
+   "source": "Barchart.com",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQNnp5VVM4MkNac3FHck9xYS1fSXR5VzF1VHhzMWx4ZHNLQmhMNkNYMUZnUVYwLWdHLTJrcnUtb1docno3VkdYU3g4U21mZWRWLUJpdnVjM2kyVXljalJZOWdUekU3Rm53QXNTN0M0OFRIOVVuMDBrUGZYSFJTbGlUbEZ4WFhjVzA3Nms1dUhreFRUMjlpeGgybVdNWlhNYWVHV0JTMDl2VDhHTUFlQlFnbVBaRlFZZTk1WFdqWmNNMEtFdEVIWUdKUTV6eC1VX1FEeUdJZ2oxRUlUUm96SWZoaFJCb3otTVZwcU8wVGhYS0gwbzlxMHoxaExuUUhjX3ptMUlpOTdvVUlJMHlOc0loMUFHcU1RU2JDNUpn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T17:40:19Z",
+   "level": "notable",
+   "title": {
+    "en": "Microsoft CEO Satya Nadella: AI companies should serve “humanity first”",
+    "zh": "Microsoft CEO Satya Nadella: AI companies should serve “humanity first”"
+   },
+   "body": {
+    "en": "Nadella said AI companies should put 'humanity first,' a public stance in the industry's ongoing debate over AI safety and pace.",
+    "zh": "纳德拉表示AI公司应将「人类利益放在首位」，这是他在行业当前关于AI安全与发展速度辩论中的公开立场。"
+   },
+   "source": "Fast Company",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRjlVZDF4SnNabkZuSGVuRlA3ZTMyUDJyc1ZsRjZrSlZfTUVGWE4xOHlHbGdwQ1ZmMncyMDlHX29sZEtlZld4Y1l4Q1YyZGl1eXhkOUdMN2lGYjBZVC01N2QyRW1RazkxZVFzZWdYclR0cEhLMDBIR0diN21qc2JrXy1FeXdycFIzMWlqajhsLWswQTI1ZmpQY0Z2czRfbmtBUmFISXZ3VmM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T18:06:14Z",
+   "level": "notable",
+   "title": {
+    "en": "Satya Nadella at All-In: AI’s Slowdown Debate Is Really About Control",
+    "zh": "Satya Nadella at All-In: AI’s Slowdown Debate Is Really About Control"
+   },
+   "body": {
+    "en": "Nadella framed the debate over an AI slowdown as fundamentally about who controls the technology, speaking at the All-In Summit.",
+    "zh": "纳德拉在All-In峰会上表示，关于AI是否应放缓的争论，实质上是关于控制权之争。"
+   },
+   "source": "app.dealroom.co",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcnZpbHhRZGV5eTBDZXBhT2V4dG5QeGp3bXN6V0R2ekx5TDZIV3U2OHptdW16QVlBalVKb0RPdkh6cjgwaHF2NThCUWRJWWZHM2R3aElMOUdfSjZQQm1VZjNnYTRfUDF4bU94Slkwek1XZDZ6S3BzMTRuQUY0TGIzajVtZVNZWFFWQ01fcGZKMGhDSTAzZWpTNjlSNWhXZWpHc2JmWQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T14:16:14Z",
+   "level": "major",
+   "title": {
+    "en": "’AI Not Worth Pursuing’ If It’s Not ‘Helping Humanity.’ Microsoft’s Satya Nadella Pushes Back on Anthropic’s Control Framing and Offers a Practical Way Out.",
+    "zh": "’AI Not Worth Pursuing’ If It’s Not ‘Helping Humanity.’ Microsoft’s Satya Nadella Pushes Back on Anthropic’s Control Framing and Offers a Practical Way Out."
+   },
+   "body": {
+    "en": "Nadella pushed back on Anthropic's \"AI control\" framing, arguing AI is only worth pursuing if it helps humanity — a notable stance in the industry's safety debate.",
+    "zh": "纳德拉反驳了Anthropic提出的\"AI控制\"论调，主张只有在有助于人类的前提下才值得推进AI，这是他在行业安全辩论中的一次重要表态。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSS1vcVJrVldaUGJNMUQ5a3FZSVNfbnF1U2hnOHZMbUsxNFB3bEFUYXFjcXJvS2VqNGRLTGR4R0VxTXFDZ0taZE1GVWVfZmg4VlJBdGFpYkI1ekpqc0dzWTViakRBWldSdVR5V1EyOEl1ZWNTRWhQXzI1VXUxUGtnTE9fQVV6ZVJFaDF4WTRTWmFFbW8?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T00:32:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Satya Nadella's Microsoft Disclosed Azure Topped $100 Billion in Annual Sales for the First Time -- but MSFT Has Trailed the Market All Year. Is the Stock Still a Buy?",
+    "zh": "Satya Nadella's Microsoft Disclosed Azure Topped $100 Billion in Annual Sales for the First Time -- but MSFT Has Trailed the Market All Year. Is the Stock Still a Buy?"
+   },
+   "body": {
+    "en": "Microsoft disclosed that Azure's annual sales topped $100 billion for the first time, a milestone underscoring the scale of the cloud infrastructure funding its AI buildout under Nadella.",
+    "zh": "微软披露Azure年度销售额首次突破1000亿美元，这一里程碑凸显了纳德拉主导的AI基础设施建设所依托的云业务规模。"
+   },
+   "source": "\"Satya Nadella\" - BingNews",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/satya-nadellas-microsoft-disclosed-azure-073200316.html",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T00:01:46Z",
+   "level": "notable",
+   "title": {
+    "en": "Microsoft CEO Satya Nadella posts an internal warning to employees about AI safety",
+    "zh": "Microsoft CEO Satya Nadella posts an internal warning to employees about AI safety"
+   },
+   "body": {
+    "en": "Satya Nadella posted an internal message to Microsoft employees warning about AI safety and urging the industry to keep humans in control.",
+    "zh": "萨提亚·纳德拉向微软员工发布内部警示，呼吁AI行业保持人类对技术的控制。"
+   },
+   "source": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLWFqOExIRHN4NFJyTlhrV0JFZmVJdXI1Tm8tbHh5NzFSc3dFZkFSZFNBczNFbnUxR0FiV0lsQUhicDUwUzE1aXN2N2pramNjOW52SXBQRXppaUJ4UGVoSmZldUpNZ2hUTHVZdUZRbS1Edzl5QzdyTTFNcjJfX29ma1FXemNWbXdoR1VrT1dPQmZSNkFmeGlxR0Fzcy0?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T06:08:33Z",
+   "level": "notable",
+   "title": {
+    "en": "Satya Nadella warns AI must stay under human control in internal memo",
+    "zh": "Satya Nadella warns AI must stay under human control in internal memo"
+   },
+   "body": {
+    "en": "Satya Nadella told staff in an internal memo that AI must remain under human control, a rare explicit caution from a CEO operating at this scale.",
+    "zh": "萨提亚·纳德拉在内部备忘录中告诉员工，AI必须始终处于人类控制之下，这是如此规模的公司CEO罕见的明确警示。"
+   },
+   "source": "Business Standard",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb1A5MGtpWFdBRWJ4cHhGcUtPWXlLMlpVWWxoODkwOTlraXNQTmx0azU0LXp4bWpBTkNzQWlLOG85T2NPemt6TUhVcHo3X0Y5QlNVcUVESXJmV0IzRnlnc0Fua1ctNjR1clBQNm9ZUldUWUI0SzV6UkZfc2ZPSEdvaGZUZVA0dmJlVDlkY2pacG00Vk1UYWFpOHZpUm9iU2hfNy1LSTFjQ2ZndGkwZU9maGRvZHFVa3lXUkd6NXpBb3pfTWIzLUFsV3RUcWNkMkHSAdQBQVVfeXFMTzA5TVk5Yy1TdGdidm5DVUZKSDZuTk5fMllTVGJiOVRfcDE2SVg5M2MtR21KY2Zvb3NIMU1ZOEJjZGktQUlQRzRfRGd3aXZPQXNpekxTa0JwMk00OVBPN2RXM2UxSDg1MFpjYnpZcnp2WTBQSjc0VUwyS3VVUk4zNVk5VUl1b3RTeFVKM2dUbnlwTWw1Mkkxa0VSSUhxTWZ6aWNrYVhqTFpCQ01OYW1QQXRja2l6MTFYd2pjbUpfcTdtd0NpajEtdVdMRmRkVUc2Tk53cUg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T19:08:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Satya Nadella on the $175 Billion Bet: Microsoft's AI Play Is the Harness, Not the Model",
+    "zh": "Satya Nadella on the $175 Billion Bet: Microsoft's AI Play Is the Harness, Not the Model"
+   },
+   "body": {
+    "en": "Nadella framed Microsoft's $175 billion AI bet as building the 'harness' around models rather than the model itself, laying out his strategic position versus rivals racing on frontier models.",
+    "zh": "纳德拉将微软1750亿美元的AI投入定位为打造模型之外的'挽具'（生态系统），阐明了微软有别于其他公司专注前沿模型竞赛的战略立场。"
+   },
+   "source": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZTFRvcUFLU3BGdlUzaW5HZFF6OENhTkE3M3pFaEoxMHlFRkhBOV9sWWhrZ3ZkX3pFMVlZdkpmTG9OU2RsakJHdVpQQWpGQlJ2MUp4VUtNTXZIWDg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T22:17:41Z",
+   "level": "notable",
+   "title": {
+    "en": "Satya Nadella says there’s one ‘common sense’ rule AI companies need to follow",
+    "zh": "Satya Nadella says there’s one ‘common sense’ rule AI companies need to follow"
+   },
+   "body": {
+    "en": "Satya Nadella called for a \"common sense\" rule he says all AI companies should follow, adding Microsoft's voice to the industry debate over AI governance norms.",
+    "zh": "萨提亚·纳德拉呼吁所有AI公司都应遵循一项“常识性”规则，为行业关于AI治理规范的讨论加入了微软的声音。"
+   },
+   "source": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYVFrUnlWS2NjSkxLb1hOcWRLNGtrTXQ3T1hoR3pSTmVyR094aWZnYV9wd2NCMXhkVXBhV0dnazJJdWFBQ2tPTERsUWE4REZMXzVnd0hiRGNYUktST294emRHdUlGa0UtOHU5ZzQxZnhsN0J0SF9MaDZTWmNzUWFfaXN0UmdGY0VVZGRjLUNWU3RmVTVIQXI3ZVVB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T22:30:06Z",
+   "level": "notable",
+   "title": {
+    "en": "Trump Pushes Back on AI Slowdown, Says 'Whoever Wins With AI Wins,' Microsoft CEO Satya Nadella Says Tech Must Stay 'Under Human Control'",
+    "zh": "Trump Pushes Back on AI Slowdown, Says 'Whoever Wins With AI Wins,' Microsoft CEO Satya Nadella Says Tech Must Stay 'Under Human Control'"
+   },
+   "body": {
+    "en": "Nadella said AI must stay under human control, responding to Trump's pushback against slowing AI development.",
+    "zh": "针对特朗普反对放缓AI发展的言论，纳德拉回应称AI技术必须始终处于人类控制之下。"
+   },
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX1d3MlZZRDduYm8tVDFzejR6aHFGRktXWlBGbUNnWWc0SldxUnlBSzFDWTFTOEQ3bnk0RlltQWFjdkI5NDZQQzZGNTVEVTV3ekY5eUxDYjloN0UzcUhsRVBMNzVrYTZHTE1iZktXSDgxa0UxZnJHVXJOU2JRR0U1cWZzM0JldUg4X0ZDeWVXek1LdlE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T17:29:15Z",
+   "level": "notable",
+   "title": {
+    "en": "Satya Nadella on the AI Doomer Slowdown, Microsoft’s Master Plan & Who Wins AI",
+    "zh": "Satya Nadella on the AI Doomer Slowdown, Microsoft’s Master Plan & Who Wins AI"
+   },
+   "body": {
+    "en": "Nadella discussed the AI-doomer slowdown debate and Microsoft's strategy for winning the AI race, a notable public statement of position.",
+    "zh": "纳德拉谈及AI悲观论引发的放缓争论以及微软赢得AI竞赛的战略，这是一次重要的公开表态。"
+   },
+   "source": "YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HX04xcWJaaTV0dlFQN1Q3UHZVTXNFRDk0bFBzc2dMZS11Z3JCckk5dzA3aXBCOS1ta2tiRzRKeVNrWlB6SWg2dzR4b0FmWHFaTjd1bG5kNU1pRjFK?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T00:01:46Z",
+   "level": "notable",
+   "title": {
+    "en": "Microsoft CEO Satya Nadella posts an internal warning to employees about AI safety",
+    "zh": "Microsoft CEO Satya Nadella posts an internal warning to employees about AI safety"
+   },
+   "body": {
+    "en": "Nadella sent Microsoft employees an internal message warning about AI safety.",
+    "zh": "纳德拉向微软员工发送内部信息，就AI安全问题发出警示。"
+   },
+   "source": "insider.com",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQnAzejE3b0dsSnpzSlJzZVd0MlRfMVNhRjJ1R096Q21KTFY4RE1BQ2FNaDQ4NV9VZ2tnYi1Cb0I3UnowMzFMMFZHWTVXeVFZVUJ1UFl6aG15RGFobVFZbERPSlJhQTlYcmVHZTF5OVpIV0VoaDVSSlRDVWJ6TjZ4V1VxbTVMMnU4ZlNHQVJ3TDFXdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T22:17:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Satya Nadella says there’s one ‘common sense’ rule AI companies need to follow",
+    "zh": "Satya Nadella says there’s one ‘common sense’ rule AI companies need to follow"
+   },
+   "body": {
+    "en": "Satya Nadella stated a 'common sense' rule he believes all AI companies need to follow.",
+    "zh": "萨提亚·纳德拉阐述了他认为所有AI公司都应遵循的一条“常识性”规则。"
+   },
+   "source": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0RIQmRQM1JaQ2RjU3I1Wmh1bzUyU0FVTmY5MnRxZk1DZzhSaXEzemlHUmlqQ2hfNDFxVXJsX1ZaS2VMdGJfaVo3M3E3Z1dzT21USGVfWGdkVXpza0lweTd4amhxU3dKQ2cwRERoanZzdnVscUJQVVpzb1p2a1FBcEI0dUdFUng4RUdnaE93QQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T00:56:38Z",
+   "level": "notable",
+   "title": {
+    "en": "‘It’s not worth pursuing if...’: Satya Nadella joins AI leaders’ call for responsible AI",
+    "zh": "‘It’s not worth pursuing if...’: Satya Nadella joins AI leaders’ call for responsible AI"
+   },
+   "body": {
+    "en": "Nadella joined a coalition of AI leaders publicly calling for responsible AI development, a stance on industry self-governance.",
+    "zh": "纳德拉加入AI业界领袖联合呼吁，公开表态支持负责任的AI发展，就行业自律问题表明立场。"
+   },
+   "source": "Firstpost",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONFViNEtmXzZ0cU1jTUZoODNNN2lrMmUtYjhSYml4dDU0SE9XVnN5cjQ0ODNqZEJNNnVpem96em9fS241M0NOaURJMlpuQVhWVElRbDNvZGdPSmhWODlhUy1ZMS1idE4ySktiZUNlOWRPdTRNVElHRl80ZWN2WU0za2t5c0prcEp0SUlMU3FB0gGTAUFVX3lxTE9BTkxtbHk1S1dzOGxIaThPZ1F1VTZIWmZudWNCUFZlVlhYN0pkZkZUWU93MnVacTJsRjNFU1lpWU5qNVJfNVVnR0VBOXNpbDZob3hDd0hZeDdtcTRHYTc5RXNzT0NQRFlVTXNSWHNPeEJ6Z18zZzRRWjdoNmNEN25JTWVfS2E3NE84SkVjdUZ2X3BTaw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T01:28:44Z",
+   "level": "notable",
+   "title": {
+    "en": "'Not Worth Pursuing If...': Satya Nadella Joins AI Slowdown Debate",
+    "zh": "'Not Worth Pursuing If...': Satya Nadella Joins AI Slowdown Debate"
+   },
+   "body": {
+    "en": "Nadella joined the AI-slowdown debate, saying AI development 'isn't worth pursuing' if it can't remain under human control.",
+    "zh": "纳德拉加入AI放缓辩论，表示如果AI发展无法保持在人类控制之下，那就“不值得推进”。"
+   },
+   "source": "ndtv.com",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNzJnaFRuOXFTNUItaXZRbERHQjNIU3NPVV9ER1Zvbk9WaWFyNDNISW5QdmUwUHdnbkUtSUdOZy1ZZmFYd0F6R2R1MFR2VFFGcU9nQ1p2enpDNXUxREs2cll2SzZBSldlNGpIMUFUdDY5Tk5YWFJVWGRUcHhJdXl6V3RLaVdXNnhIcnpDUEpkOVFrQ1ZFZ2JPSkhhUF81amZzVmJBRUJWUzNEM2hNaUxpU1pDY1ptWHM1MkhHRUhiazZMWjVKYWt0SNIB0AFBVV95cUxQanZha3N3U1FwTFJjNm03dFFPY0FLNGhaa09teG9tZkZrMGdTOG5Tc2l5eDJ3UE9FY3piZTRhaWM5ZzktM1d2OHpJV2M4QkhHUFVrdF9sTGxkZVpJSEtneUVZNURxVmZJcE80c3M2RWtndVFZTHBIYmlrY1RNNXliTWhOQzdxMXp2ZV9ycWJPbzEyWU9HQUdMdWh5N3NfS0h5dEVYcDRpSm83bDd1NGg2Y01IS2s0MWpONWRydnRyWTBLQ1dzYnFVUkpGUU4xVG9Q?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T05:55:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Microsoft CEO Satya Nadella agrees on slowing AI development, but also has 'wake-up message' for Dario Am",
+    "zh": "Microsoft CEO Satya Nadella agrees on slowing AI development, but also has 'wake-up message' for Dario Am"
+   },
+   "body": {
+    "en": "Nadella agreed AI development should slow down but also delivered a pointed rebuttal to Dario Amodei in the ongoing CEO debate over AI safety.",
+    "zh": "Nadella认同AI发展应当放缓，但也在这场CEO间的AI安全辩论中对Dario Amodei做出了针对性的回应。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNMkwxdURlY0VtN0RncHdxMkF3OUNKZmRTdHZBTDdxaHJJa0NKNml2OXN1OTV1RjBVVks1YlJQZTlDTHJkZC1LTWl2UFFGd3RXN3FzV2s4WXBmZkVkaXVheDRleEwzakJLTmxlNUVEY0lVeFk4UjFiNGhUdFhsM0pHRk9XQ0VFeE5GUFY1Zm1QemlLYUVZZU1mbDBUVjJhbnlBdHZ3ZS1oSFFPYmt5X20yUnFaYXhaYno3V0RfUTh1aEFoX08wRUgtNVNmZmRmUXRUSlY2ZktyTDd2cG05X1JMdzl2TDl1dHplX3dBWXhRamNoWXRaUWtqdHFKYjVYU3BYMlRjdjMweTlObGNrc2VnSk1SRGFseExnZjl0YWFnd29EamxMSy1tSTNqSDhiNGwyanlMSzhHMFJPZmhCT01lRTJkclNRYk54bFk4dUpuY1lmTnZFUm00aUhybS1OR2pqVmtuQnlsdlnSAe4CQVVfeXFMTkRGampWRmdsRXJ1dUZUOEZGTE5nWlItTFlTei0wY0Rxc0hKamxESnBnOVA5ZDBfbkdDS3N1YVllZE5JMDI5T2h3RU4tX2NieXVyOHZWbHJ0VUp3cHc3Q3Y2YTZ0T2RjR3g0djZIb09VV2ZHWnFDcGIyNlVGQ1l6SmxZZzI5QXFSdkZodkRWcldnbkJwM3V1bUZlODVIYlFvZ3BlS3hIejllTHlaUjE4N3djMmtHRzd3akREeTJzUUVCMVNvMmk5Q2diTEdlN0pMYnRtRVRYaGMtSmpyN2pBZ2J2SzBUOElwbjlOdkMydXBwVEF6Y21iNVJhRmgtNHV4alJlWDhkTGgyXzRSa1BTdzZ3Mk1MZnREejcwdnFjc2NWeVQ4bnFOLUpFY3FtQ2M2ZTNjS0xnZFhXZHlDN0poYTZYak5kOGNMQS1QYnFXVHlSS0RSUWtWNXRWVUV6Vm9DQmZkY0xSYzdaeDNKU2lR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T06:39:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Microsoft CEO Satya Nadella Sounds AI Alarm: Human Control Is Non-Negotiable | AI Jobs | News18",
+    "zh": "Microsoft CEO Satya Nadella Sounds AI Alarm: Human Control Is Non-Negotiable | AI Jobs | News18"
+   },
+   "body": {
+    "en": "Nadella said keeping humans in control of AI systems is non-negotiable, a public stance on AI safety as Microsoft expands its AI investments.",
+    "zh": "纳德拉表示让人类掌控AI系统是不可妥协的底线，这是微软扩大AI投资之际他对AI安全问题的公开表态。"
+   },
+   "source": "News18",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYlB4MENHNmhyMVI3U2RZRXMxQWhPS2xrQjEwLW50cVg1em11UzFCQnp6Ujh0M0RJTFBVVTEyNnFTR1pmdnRiU19hazNHTUJpWjV4Z3lqN1YzVFZPVHRuRENSUXhTN0NnamZZeTdIdklaeHQ4REFPaERMcXFaT1RIblZLY01GX3pvWFFOU25jWTFRdXoxY3ZHbVBuenZndWlxNzlXWm5OZXdXTmlJbXJlTVEzU1A3Yi0yV3puVHNJRVFtb05TaFNRS1dTY0RqYmdjTU8yYzN6V2Ewa3IxTHZfeTJR0gHnAUFVX3lxTFAzR0RpeXBUcmRybGpwLXppQlY3eXA5ZzMxVk0xX0NjLTRiVWRCRlk0NUtjM2RIUlpzXzBIcEVGZHZDNVZrTUdHSkEwN3VwZlJNVzM4dXd0OVVKT1QxY1JlUU9pd0RHejZ1QjlLbmNLRVV1RFpRTi1JZDVfdnliVHJMYWg3XzAtMXBNWDdHQU9kNk1RWFc3bFNIUFZOV3MxQTNOdEs1LXJrYWZvYll2cWozNldWNGxVMDl6V251Z1RNZ2VVQUIzWUFmd3RGVGdaRGNmbnFqOXNaTGY5UElrVjNleEZSeGtwVQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T08:51:20Z",
+   "level": "notable",
+   "title": {
+    "en": "AI Not Worth Pursuing Unless It Helps Humanity: Satya Nadella",
+    "zh": "AI Not Worth Pursuing Unless It Helps Humanity: Satya Nadella"
+   },
+   "body": {
+    "en": "Nadella said AI is not worth pursuing unless it helps humanity, a public framing of Microsoft's AI priorities.",
+    "zh": "纳德拉表示，除非AI能造福人类，否则就不值得追求，这是对微软AI优先事项的公开表态。"
+   },
+   "source": "ETV Bharat",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNnhfeklsbGY3NFZsOTVIMzJ1MmlSSmk2ZWxRNWROZXJWSmdMVEFKSXQ5SGo3US1MLTRCVy1nRHVMdUpmQkstM3NmVzhJN2F6UWtpX2hrWERhLWtraHBPbFBObHV4RXdGc1VfRDJDdHA1dzlsWmZ4UWZkc25mZUthbW9LYnJVV19UYXVBdF9xVXNZeDFtV09VazRzak9nR1o5Rlc0VDZJbHdNdDJ0Y1BvdG5n0gG3AUFVX3lxTE5SbTlKV0dPS21zN29pUVNXNWJJX3N5b2dXNTZoODRBWFhIcE00V3Jta3hjbTN3Nzk1bDlfYlZjdjl6YWpsRUZVdllScW1WUVh2VmJSWkJad0hKdzNfekdZaXBDVndZU2ZuV3I2VGd5V3NJM0h1NkZnaGRLeHE5R0ZadVc1dGNrTmtvUHFHYVhxdU5oM0dOS3M1cE5wcEctbVhCd3hld29ySUJqMEU0NWxVTTZQQ0ZOaw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T08:23:00Z",
+   "level": "major",
+   "title": {
+    "en": "‘AI must remain under human control’: Microsoft CEO Satya Nadella backs slower development",
+    "zh": "‘AI must remain under human control’: Microsoft CEO Satya Nadella backs slower development"
+   },
+   "body": {
+    "en": "Nadella said AI must remain under human control and backed slower development, joining Amodei and Altman in publicly favoring a more cautious industry pace.",
+    "zh": "Nadella表示AI必须保持在人类控制之下，并支持放缓开发节奏，与Amodei、Altman一同公开支持行业采取更谨慎的发展步伐。"
+   },
+   "source": "WION",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQi1mc2dFU0hTWHZHTXI5QWJpUGxKOW1DWXFMb20xTFVjY0VzU1ktVzhZdi1Nczg5bjJyN2ZvYVZOWUwxNllQRnBUQVQwNzRtNTBQQWdEM0haOFd0WENhV090MnZvWWF5WTg1U3N5M2pSSEx5dDR6bHRrTF9DVHg1VlgzekhvYVJVTlFSVzFabmFiSXZzTVJMWk1SamdSNjFCMlBTaGkyWXBna0JlSkV6V0ZOU09TTzB6ZUZzc3FCYnRQVmNxMW5UaVZsZi1id3pkTFHSAdcBQVVfeXFMT0MwM1RFcDg3WG4xcHAtUGZYa1JrdllRU3NMZ0R1UFVGU0w5czNFLWl6bkR4WGFOcmVIV25oLV9KbHVVOTM5VVFkTHl1OHFScVhIS21DYTlySE55ckNPYjN4X2FqUHlIZGc4Z0VfTVJhSkplNjZmeXFYejJ4SU1vdEpSbzNHUlliV1BTam9ReGVnSlhjeUpsSGV5NnhsOVk4X0kwSFZUaldUNk8tOTMzVEpyX0tZbXFLcW9ZNWFzcUNfNjZOWHE5LTJJSV85czlQMXZyZlZVNDg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T10:08:57Z",
+   "level": "major",
+   "title": {
+    "en": "Satya Nadella Says Superintelligence Must Remain Human-controlled",
+    "zh": "Satya Nadella Says Superintelligence Must Remain Human-controlled"
+   },
+   "body": {
+    "en": "Satya Nadella said superintelligence must remain human-controlled, joining other industry leaders in publicly framing AI oversight as a priority.",
+    "zh": "Satya Nadella表示超级智能必须保持人类可控，与其他行业领袖一同将AI监管公开列为优先事项。"
+   },
+   "source": "dataconomy.com",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLXBvaFc3NDRiUlhhMXNUWWYtOEljbHdFLUlYdkNaUlR0WWFtMVI4Y2NsRldnOENheUtraTBZYURTVzhZRGwyVGszX3ZVTWswWnNDS2dzeHVvenk0Q3dibE0wY2tjZU1oVUNNMS1wcG85N3ZqM2dlRmxHZjhDQmxCSkhqRzZvRVhlWUxYOWxSUHJBR3RNZW91QlRZallKbTNuYVE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T06:51:53Z",
+   "level": "major",
+   "title": {
+    "en": "Microsoft CEO Satya Nadella backs ‘slowing down' the pace of AI development; calls for measured approach",
+    "zh": "Microsoft CEO Satya Nadella backs ‘slowing down' the pace of AI development; calls for measured approach"
+   },
+   "body": {
+    "en": "Nadella publicly backed slowing the pace of AI development, aligning with Amodei's call amid this week's industry safety debate.",
+    "zh": "纳德拉公开支持放慢AI开发速度，呼应阿莫代伊的呼吁，加入本周行业安全大辩论。"
+   },
+   "source": "Livemint",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPWS1qZmVFdUc3WW1PWmdtOXVtUFhDNDhWVHJpX3VGR0FrZEFNUTdjcGRKdUM2Vk1zcUJFei1mTDRua2puUWpySU1MRFBGRXYzTjlZbVM1eWtIR1B0aU8ySTY4QWZkek91VXY2R1dfV3FXRVBEcTNrSjdxQ0d1T1QwMG1KZWgyR3dUVmx3SEFZb2FiNVlQeHM4Yk5aN3MzMGpGbzZtNjZpYzNhN0dqVkpLUnlXNXlnN2dtMzd4bG9SMUg0TXRHUUlGQzFCQXpmVTNKT0lXd3pjYkttVUxvdkNsd0FxcF9LdEt1ZDBPRkQta0d2Z0dYbFcyTS11YnpObkxZaHlJ0gGIAkFVX3lxTE9aUy1HYUtxV1Y2WmRvQXA4V0ZLZWlwSllZc0VTR0E5dkM5U2p5X2g4bzhmcGhWSmpqd0R3Z1VsY05XVEZ1eDNRRnlLVXQxbHRHcGZ1em5NUGV3d1BxMXNKYlp6MDZ4S09CRzdkQkd5MUZXamFsNmJHdFdLWk90eHJIdUpGYWppWEhKMGtibk8zVVd5UFFtWl9FSjI5SHl1enpoOWVvLWpwbHhrY011bXVLTjhSNG1CTTItdE5qbkZJeXFJZzQ4OUNGVmhzUkdUOThMVmN2cmJGRmYxUTNIRjRWS3RDYlBiSEdpM2tXbEUzRDV5WUlMY2NSMms4M3BrRjRXcDBhQ0NtNQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T16:55:07Z",
+   "level": "notable",
+   "title": {
+    "en": "Satya Nadella Says AI Must Help Humanity and Remain Under Human Control",
+    "zh": "Satya Nadella Says AI Must Help Humanity and Remain Under Human Control"
+   },
+   "body": {
+    "en": "Satya Nadella stated that AI must help humanity while remaining under human control.",
+    "zh": "Satya Nadella表示，AI必须造福人类，并始终保持在人类可控范围内。"
+   },
+   "source": "INDIA New England News",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYXJlZUo5WXp3dFI4dy0zMUt5bHlqaWE3emhKQzlxQ1NEeE9hTVBLdjlXMy11Um42bmpQeTQxeWNDQUUwbkxUamRidlFRSWN1TExodGxON2lzdV9JSXNQOTNtdWcxaVZaMDhqaTE0Q3pMN2h0ZHRMdW5Ta0UwMHlIQmJkN2xnaW14M04yU0pTMDFvWENqUzVrQ0wzZDNHUUd3RUE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T17:52:39Z",
+   "level": "major",
+   "title": {
+    "en": "Microsoft CEO Satya Nadella Backs Artificial Intelligence Slowdown as Beijing Rejects Calls to Curb Chinese AI",
+    "zh": "Microsoft CEO Satya Nadella Backs Artificial Intelligence Slowdown as Beijing Rejects Calls to Curb Chinese AI"
+   },
+   "body": {
+    "en": "Nadella publicly backed a slowdown in AI development even as Beijing rejected calls to curb Chinese AI, a notable stance from a major-lab-adjacent CEO on the pace of the race.",
+    "zh": "纳德拉公开支持放缓AI发展步伐，而与此同时北京拒绝了遏制中国AI的呼吁——作为身处AI竞赛核心的CEO，这一立场颇为引人注目。"
+   },
+   "source": "Brave New Coin",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU3pYNWJiQm5oWkw1UzZDYUhUNlA1WVBXUkM2SGFVYkVOY2JlR1FpcHNmMlM4N1Z5a3B5SjJFa09rMUJ0RG9kVDFJRG1Kdl9SWWxIbEl2eWo0cktTb1VDbEpoZ3NBbE4xUDdfRktjQmFhc2xpOThUTDRBbWM2UVV4Tld6aHE4MGhNcGROdHBONnVDMVlrOS0yVXJaem5XRlNsZWozSHJUc0E4YU5XSm5fT2ZjX1NPZS1qLXdDZkdobk9DczN5WW9CaTZQaGs5Ny1STjZOM2xyVTMzTlBh?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T04:29:56Z",
+   "level": "major",
+   "title": {
+    "en": "‘AI not worth pursuing if...’: Microsoft CEO Satya Nadella warns against AI slipping beyond human control",
+    "zh": "‘AI not worth pursuing if...’: Microsoft CEO Satya Nadella warns against AI slipping beyond human control"
+   },
+   "body": {
+    "en": "Satya Nadella warned that AI is not worth pursuing if it slips beyond human control, joining the industry-wide debate over slowing AI development.",
+    "zh": "Satya Nadella警告称，如果AI失去人类控制，那么追求它将不再有意义，加入了业界关于放缓AI发展的争论。"
+   },
+   "source": "The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNMm41NXEzYXR0ODlEWkFST0ZrejBQUEpGSWhFSlVCcnJuX3RZZjFxZE1ib2dMSWRmV0NuV25lWEE2Y3pYckpoSXZ1S2lqUkd0Y1J4b3pMeXN3Y2dwc0RxbDdudHJCSjBtaTFZcXNsb2pVN1M2OFh6M3NFcmVRV3ExS3JVV0hwajFtMGVENm1lLUFtNlhUNDhXVjZxaFNuN2Q3b0kydnJBaThJM09vSFVONENkX2xDXzJ4eVBDX2l6TnJjd216VW9VR0FQT2pnUmpqZEY4a0c3alRGSlhRdFlmT3ljWVBoeUs5QUM4bnZURFFueS11MTBPc2tNZ2p4NXdwUkdIZm9CNnkxVUI0RzkyWG5QcErSAZoCQVVfeXFMTlEzS1V6SWJDempUZzVmWUZvTG9tYlNJbTM1d1NDQWN3d2k4b1JrU0Itc2dGWG03QVZkRkVuSXVWM25BbklteVltendmQ2FuUjYyZXg2UkdZTzJQUnNWZy1yUjFEd21rWTBXQ3QzSWZVVmh1NWdMTGVkelI2NXVUdEk1RmpISVVfZno1Q2lzQVZ0TFBYQjdBWjNkTVdjTzROUHdUcTFGYUZ0a3NLTEFfVVZxcXN2U3k3RFd1UzlWMjdUSmJPMnZ3TEFMaGg5OFRJdTdUbG9ZNlQ4MHRCN1VvYlpVVTZoMTMyemptMVhKdENDS3JfLTQ4NHBtbVZldnM2MlA4d1BEbC15QVdLT01FS1BkTktrWTJ6ZmNB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T16:59:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Nadella Calls for Deliberate AI Safety Testing",
+    "zh": "Nadella Calls for Deliberate AI Safety Testing"
+   },
+   "body": {
+    "en": "In an internal memo, Nadella told Microsoft employees to keep AI development under human control, pace alignment work deliberately, and expand third-party safety testing.",
+    "zh": "萨蒂亚·纳德拉在一份内部备忘录中，要求微软员工保持对AI开发的人为掌控，审慎推进对齐工作，并扩大第三方安全测试。"
+   },
+   "source": "\"Satya Nadella\" - BingNews",
+   "url": "https://letsdatascience.com/news/nadella-calls-for-deliberate-ai-safety-testing-7e7b7372",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T12:10:50Z",
+   "level": "notable",
+   "title": {
+    "en": "Microsoft CEO Satya Nadella’s big AI warning: ‘It’s not worth pursuing’ without human control",
+    "zh": "Microsoft CEO Satya Nadella’s big AI warning: ‘It’s not worth pursuing’ without human control"
+   },
+   "body": {
+    "en": "Satya Nadella warned that pursuing AI 'is not worth it' without maintaining human control, a public stance on AI safety guardrails.",
+    "zh": "萨提亚·纳德拉警告称，若不能保持人类对AI的控制，追求AI发展\"并不值得\"，这是他在AI安全护栏问题上的公开表态。"
+   },
+   "source": "indiablooms.com",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ0twb2Uzd3E0bVpEWVFwUVhIM3A0M1pZMWlsMy01WmdtNEM4THRrZC1EYVdiaFZCTTNWWTZfV3BWZG5IbUNOcU9fd0tkWFFoQ2Q5T3dyeXA1cGt2bFRxaGtUMU9vd1FvVTNVLTJfSEszYWRrOFdlcThJMXdnOU9rWklnWnpxa2JkaWc2UUtwVklLSlVBYUhiQVBXT0drZWJvRzZIQ2cwYW9SWFNBNHV2WENtS2dBREQxLVZqM0VoRUFxU19YRVJVaQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T01:54:49Z",
+   "level": "notable",
+   "title": {
+    "en": "‘If it’s not under human control, it’s not worth pursuing’: Satya Nadella's warning on AI",
+    "zh": "‘If it’s not under human control, it’s not worth pursuing’: Satya Nadella's warning on AI"
+   },
+   "body": {
+    "en": "Nadella warned that AI development is only worth pursuing if it remains under human control.",
+    "zh": "纳德拉警告称，只有在人类可控的前提下，AI的发展才值得推进。"
+   },
+   "source": "Business Today",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNLXlFYVRWUkUwU25jZExkTm54cGVudk4xekViTEh2THVPQ1F6RTVVTHdOM0RpUjRtY2hnM2VnYnpIMGd3Z3NfSFRXQTlIMGZPY3ZOWnhrS1REQmk2aC1zQ0dhVjA3Y2djOTQ3aTh5SENSb3RjSlJVcVlaS2NTQkJHenRHU2YxRnJWMVBQWGNuLWlCTk1ldEpmYUJjYTlRaExxOE40TFFWQUVaZFo0YkkzYXhIcHlrRDZjU3RFVXE4SU5CNWtabmthLUd3b3pGcHctOEk0SkVHLWVjczRZYkxfWWlYblI1cnNmSi1JQ0dsYXV6WlViS2MtV3ItaWdBQk0?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T23:46:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Microsoft CEO Satya Nadella backs need for evaluators for AI systems amid 'slowdown' debate",
+    "zh": "Microsoft CEO Satya Nadella backs need for evaluators for AI systems amid 'slowdown' debate"
+   },
+   "body": {
+    "en": "Nadella publicly backed the need for independent evaluators of AI systems amid the ongoing debate over whether AI development should slow down.",
+    "zh": "在关于AI发展是否应放缓的争论中，纳德拉公开支持为AI系统建立独立评估机制的必要性。"
+   },
+   "source": "ANI News",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQnVRMmJQd0g0V3A4TXU5dUQ3Zm4yWU5WNkhYOEtPRF9pQThLVFp3Ml8wREx4OXUzanY2ZjhTMnBBN1FBZXBoNjdIeDM5cmhTUTcyLV8yTnlNaERIaFBoQk5iYUkzNV9Gbm5WSXlJTFNOUFZGUnRDQWtsdGpmc2dEOVUyb2N3aF82QVl5cnF5N3E3bG1YcWxVZVJKUVRRUlZwTk01a2JjSFdHazF6U180WElzcEJodnMxVkVvZXE5NUJycWh0OWh0cFBNblYxZjlxeldVY0Mybw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T17:28:46Z",
+   "level": "major",
+   "title": {
+    "en": "Satya Nadella announces Grok rollout to Copilot, expanding Microsoft’s AI offering",
+    "zh": "Satya Nadella announces Grok rollout to Copilot, expanding Microsoft’s AI offering"
+   },
+   "body": {
+    "en": "Nadella announces the rollout of xAI's Grok model within Microsoft Copilot, expanding Microsoft's multi-model AI strategy to include a rival lab's frontier model.",
+    "zh": "纳德拉宣布将xAI的Grok模型接入Microsoft Copilot，将竞争对手实验室的前沿模型纳入微软的多模型AI战略。"
+   },
+   "source": "Firstpost",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWRybU5TQ0ZqYnVGWFFGMk5wbS1kQlRpVHJ6d3pqQnE3MmRMZmFUT3kxbmhhTnVQdy1YQVVXSFJOQWdUVGFoSVc4cC1qWmp1cElETGZaYWxyanp0ZzdSUzBUUDNNRzB2cXZLZWJSVG9qZGhTcnFnbW1JNWc1Ulo1czdVU2dzN01pQ19oTGtPU21SbDVVWF9ZM3h5WU5sQlgtS0VJZnlSMVBnODlKV0k3NmhEX29BRXBtejJuc20xbW15LTjSAcgBQVVfeXFMTWEwX0VUbmdJdEM5YjNzSGpWc0NpTkYweGdEOVk0b2s2RHBwbkJyQzI0a25VSE9mLWhTVWtsLXN3NUExVXdkd0lMdGhYOWdYRHprN2tYUzBIZU9aTUFZV1JuM0ZEbEJRMW5QZDU2NTUtaUNzWmZSZFNJRDlJeDc0ZjZuQVVsT2ZnaDZLUjdlOGVzdDQzd3hyX1FSVlhhMlVVMEE3dzRuZVhnRzFuc2UwNFU0TGlabGlFOFlJMVFBSTRITTdISFpZZEM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-07",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Microsoft’s Satya Nadella Unveils New AI Push for Copilot",
+    "zh": "Microsoft’s Satya Nadella Unveils New AI Push for Copilot"
+   },
+   "body": {
+    "en": "Nadella unveiled a new AI push for Microsoft Copilot.",
+    "zh": "纳德拉公布了针对微软Copilot的新一轮AI功能推进计划。"
+   },
+   "source": "Dainik Jagran MP CG",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNUxoUk5SVkRpVlVlSFg2bXM4aVRkUUZaMDR2dGZWWm50SndjaFN0RkZzQ3dSN2QzT1dIdE9xcW0wdEcwTnBoSS1sMzlvWDN6RkRkVjJBaHBUb2JXU3ExUDRpUkxlYVU4dHRBUFduMnpSQWRLZUZFUTJPc25jYVVJWHJKQndXMlJKY3Y1eUdKc0lNclhLMHVWenFtbmV6a0xkWTVubjdGbnY5Nkh0WlM4WkhXZkFwcTYxbXdubnpxOF9aYXRxX2c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-06",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Microsoft CEO Satya Nadella announces new AI models for Copilot, powered by Opal frontier",
+    "zh": "Microsoft CEO Satya Nadella announces new AI models for Copilot, powered by Opal frontier"
+   },
+   "body": {
+    "en": "Nadella announced new AI models being added to Copilot, powered by what the coverage calls the 'Opal frontier.'",
+    "zh": "Nadella宣布为Copilot引入新的AI模型,报道称由所谓的“Opal frontier”提供支持。"
+   },
+   "source": "Firstpost",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOXdZa0lKUDBIR2J1aGY3eVZrR3U2YjJsSXMwUVVKcGJmeGpKbFFDRGQ1Y2hSNmZZQlIyU0Q4ZDVtZmw5VHo4Q1FYZ1NGeERGcXlwYmdOTC1UMFA0bG1DWll1MERkdkV0dzRINURsMnRtaFZ4TG5KNUV0M0UxcW4wMnVaSHhLM3VaNkhRV01wb25Ia1lDZHFXMHFxcFZiR2hMbWtyR2xXNEtWdnoxNkdrcnV2T0x0UTJ2cUFFMXJiRzBENW5pU1NPN2xYZjdod9IB0wFBVV95cUxOYlBrZTFhMllDWjZuOUtmNGNEU1BGOFhKMWszaXJwTDdQa2JKaTRKVTNRdE5uZzdRYUk0SGpPVjZ1T1UzVkdsTi04ZXNPWFluOTVua0lhWFBOSWlGaEhpMGIyV3dRcVA3LVNEWHNqTVE3NWhvMXgyR1FkTnNXMzFyQXpxUkN2aWk4UjBtT3hTbnRmMzM2U3ZiRlNwUlc1NGZINlotQjQzYjdfQ3ByeFY3ODAxVEptRWt2MUpVbGszZ1J0cE9yMDZ4YlI5Q3htY0RHd1NF?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-02",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Microsoft CEO Satya Nadella Says 'Every Model Is Substitutable' — What That Means For OpenAI",
+    "zh": "Microsoft CEO Satya Nadella Says 'Every Model Is Substitutable' — What That Means For OpenAI"
+   },
+   "body": {
+    "en": "Nadella publicly states that every model is substitutable, signalling Microsoft's intent to reduce dependence on any single supplier including OpenAI.",
+    "zh": "纳德拉公开表示“任何模型都是可替代的”，释放出微软要降低对包括 OpenAI 在内的单一供应商依赖的信号。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOW9vdW5XLUVRbFFEYjVCWHJqRGlWUzU5U1Rac2dManZIOVBZTDRFcUNDVFNJWi1sUU43WXZYZGxMR1VxM2ZiY2p0NmE1R2hDZ0tnRWNHRFFDLWQ0bVNMZ3RuRE44akktT2lQQmFwczc2QVFjaEt1c3MzZ0pRc0ZKdmZnNDFoMDNhbU1sVVZVOE9GSnYzdDZDSHBqYlg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-30",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Microsoft posts record revenue, CEO Satya Nadella says AI super app is next",
+    "zh": "Microsoft posts record revenue, CEO Satya Nadella says AI super app is next"
+   },
+   "body": {
+    "en": "Microsoft posted record revenue, and Nadella said an 'AI super app' is the company's next move.",
+    "zh": "微软公布创纪录营收，纳德拉表示公司下一步将推出“AI超级应用”。"
+   },
+   "source": "India Today",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQd3g0aUtRd1FOZ3NNQXJCamhsdWExY1QxT2Y3eWdqSlJ0V1UydDRELU9uSFRUdTA4OTh3MVhRUU5xVUtpdzNzMGMzQTZBQk42a3YwdkhiQXFUelhZUm1pQmpacXNFZ0NSdWxEZkJQQXRtbUI5RFU0VEZqNjh3a1RTd1QxLVZLY0ptR291MGdoNHdURXdqMmRZZm42MnJjRUxNSnBiUnZmN0k5TlhMUU9UMVRtSXVOUGJnSWtPSjVzdFFuQWd4TDZvazFBbFJCZHdXbS03MENGNmV3czktWmRScWwtcjYwY19PTW9J0gHwAUFVX3lxTE10ZkkwYjN3aHdHSU82ckEweGxiNWUxWWFkOEJ1VUxQaV9GRzNkajMtcG5oQ3I0aThZblNGSjBDQ09BMVo1NzlCUXQ4eUNHNndCQVl4cmJmbFd6U0R5dHlOS0tIa2JNYi1XblZTclpINDVqanFkLWhYSjljM080V0VFM195bWdxSVMtNEpoYWtzUXBPTXEzanJhU2FyRGJqaFoyX2JvSEFWMUJLeC1GR1hYRVRCYWNDMkFhaExRdnJaRC01VEZSZzVIdlVfb2hsdUxGYVRtZzFNYjlodF9pUWFYdF9kbFRDNXNpSzQwanFwVA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-16",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Microsoft CEO Satya Nadella Warns of Enterprise AI Data Risks",
+    "zh": "Microsoft CEO Satya Nadella Warns of Enterprise AI Data Risks"
+   },
+   "body": {
+    "en": "Nadella publicly warned enterprises about AI data risks, a notable cautionary stance from Microsoft's CEO on enterprise AI adoption.",
+    "zh": "纳德拉公开警示企业AI数据风险，这是微软CEO在企业AI应用问题上发出的一个值得关注的警示性表态。"
+   },
+   "source": "The National CIO Review",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUEVrbUlVcXpmaEZ5bDdUTFY3RWlxdTR3c1VyVzZIT3RqQWlfVzVUd2c2U1hjcjVDcjNDLWtnTUZaZ3ZyYTY2TFNDVzAyZ1FfNWxtcmJoa2RjRk5PNWxjcjE3SUwweVFyQ3AtR3pxWHVUdjAtam1tU1RBZkt5UlBDX2I1VDdzc1p4eEwxdl9CTHZhYmszc0s2d1pUMVpSbHhjMVNkS1FFbVNTdnI2dU55cFBCNHFYbjNObEgwanVnYw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-13",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Microsoft’s Satya Nadella says companies are ‘paying for their own IP,’ offers fix",
+    "zh": "Microsoft’s Satya Nadella says companies are ‘paying for their own IP,’ offers fix"
+   },
+   "body": {
+    "en": "Nadella argues companies adopting AI are effectively 'paying for their own IP' and proposes a fix to that dynamic.",
+    "zh": "Nadella认为企业采用AI实际上是在“为自己的知识产权买单”,并就此提出解决方案。"
+   },
+   "source": "americanbazaaronline.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWVlwVGhBWmpjVmpGN3U4Y283MTR0elFyY0ltRXdWd0hZcTl3dktoT21QOG94dWxHd0ZtMW9Eb2VEbmhYdzJRSXJCWGEyczYzQkJSNWxrMVRHVmhVZjI5Z3BYblpVdmN5TzR1bFAtQTlzVEtGa01pa3VDQzVMbURQQVIwaURGaTJSVlNGR09YaFdXMWhBT0pDUnVqeF9NRzdLbnk2aXNjUFNIZlZtZ3V0NkJDdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-13",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Microsoft CEO Satya Nadella Says Businesses 'Pay for Intelligence Twice,' Warns AI Can Cost Companies Pro",
+    "zh": "Microsoft CEO Satya Nadella Says Businesses 'Pay for Intelligence Twice,' Warns AI Can Cost Companies Pro"
+   },
+   "body": {
+    "en": "Satya Nadella warned that businesses effectively 'pay for intelligence twice,' cautioning that poorly deployed AI can hurt company profitability.",
+    "zh": "Satya Nadella警告企业实际上是在\"为智能支付两次\"，提醒部署不当的AI可能损害公司盈利能力。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPeXpPd2xKWklwZnRsNUhKTU51aEJObVBJWExlYmxkQmFVMHJTWGl4ZzV4dXZTZTVZT0FtNDREUjJub3NGcTUyUmNEZG5ELW85Z0Rub2RPSDgwekdPUHZvS2EwSHNyLUhwM0tkU2JKVGx4cE5ZTnlGV2VFLVk5NTdxVDc2M1BXOHNpTXBIWjhZT2t6N3lSVTg2Tll3SVRPZ0hOZm5IWHlhUGE0dWk5SlVHOHd3cHplQzdPc3BBQTg3WGFDNTZzVmYyN0thU0F6dFpib0FfbzBFMG5WTjM3Q2hEeGQ1eHJtdjVKY3h4ZHg1U2RCZVZqS0ZjSFFaaHF1S2pGOWpZ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-15",
+   "ts": "2026-06-15T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Microsoft CEO Satya Nadella warns AI dominance could 'hollow out entire industries'",
+    "zh": "Microsoft CEO Satya Nadella warns AI dominance could 'hollow out entire industries'"
+   },
+   "body": {
+    "en": "Nadella warned that AI dominance could \"hollow out entire industries,\" a notable public caution about AI's economic disruption.",
+    "zh": "纳德拉警告称，AI领域的主导地位可能\"掏空整个行业\"，这是他就AI经济颠覆性影响发出的重要公开警示。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS3JkSzM4c293UUxfRHoyTGRqdVNWRF9EU25hMWJXQ0Zxd2JWMXRXeVNRZ2pPamF4cE83aVRTTjlRaHRMU28tOTRvSnVtaHJseVE2Q204QnVyR2REMEV1bm1NWkozYzVDR1VCZ1kxZkhuLVlnNktlWTJaWkl5YjBfMjFrN0g5azhXSXNlTFBHTE95MmxVS19wRWVxM0pOZw?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "platform",
+ "score": {
+  "total": 85.5,
+  "attention": 83,
+  "centrality": 87,
+  "momentum": 88,
+  "stature": null,
+  "pageviews": 828227,
+  "citations": 231,
+  "hIndex": 3,
+  "events": 47,
+  "posts": 70,
+  "wikiEn": "Satya Nadella",
+  "wikiZh": "薩蒂亞·納德拉"
+ },
+ "seedRank": 10,
+ "tier": "t1"
+}

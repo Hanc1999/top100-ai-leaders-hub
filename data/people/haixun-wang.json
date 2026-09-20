@@ -1,0 +1,1082 @@
+{
+ "rank": 99,
+ "id": "haixun-wang",
+ "name": {
+  "en": "Haixun Wang",
+  "zh": "王海勋"
+ },
+ "role": {
+  "en": "VP of Engineering & Head of AI, EvenUp; Affiliate Professor, University of Washington",
+  "zh": "EvenUp 工程副总裁兼 AI 负责人；华盛顿大学兼职教授"
+ },
+ "org": "EvenUp / UW",
+ "region": {
+  "en": "United States / China",
+  "zh": "美国/中国"
+ },
+ "tags": [
+  "EvenUp",
+  "Probase",
+  "Knowledge graphs",
+  "IEEE Data Eng. Bulletin",
+  "VLDB"
+ ],
+ "why": {
+  "en": "A major researcher in knowledge graphs and semantic understanding who drove Microsoft's Probase concept graph, then ran search and recommendation at Facebook, WeWork and Instacart. ACM and IEEE Fellow; editor-in-chief of the IEEE Data Engineering Bulletin.",
+  "zh": "知识图谱与语义理解领域的重要研究者，微软 Probase 概念图谱的主导者，此后在 Facebook、WeWork、Instacart 负责搜索与推荐系统。ACM 与 IEEE Fellow，IEEE Data Engineering Bulletin 主编。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@haixunwang",
+   "url": "https://x.com/haixunwang",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "UW ECE profile",
+   "url": "https://www.ece.uw.edu/people/haixun-wang/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Medium",
+   "url": "https://medium.com/@haixun",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Personal site",
+   "url": "https://haixun.github.io/",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @haixun",
+   "url": "https://github.com/haixun",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "ACM Distinguished Speaker",
+   "url": "https://speakers.acm.org/speakers/wang_22329",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "EvenUp",
+   "url": "https://www.evenuplaw.com/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Haixun+Wang",
+   "t": 3
+  },
+  {
+   "kind": "weibo",
+   "label": "微博 — 搜索",
+   "url": "https://s.weibo.com/user?q=%E7%8E%8B%E6%B5%B7%E5%8B%8B",
+   "t": 3
+  },
+  {
+   "kind": "zhihu",
+   "label": "知乎 — 搜索",
+   "url": "https://www.zhihu.com/search?type=people&q=%E7%8E%8B%E6%B5%B7%E5%8B%8B",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "微信公众号 — 搜索",
+   "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%8E%8B%E6%B5%B7%E5%8B%8B",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "B 站 — 搜索",
+   "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%B5%B7%E5%8B%8B",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Haixun+Wang",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Haixun+Wang",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Haixun+Wang&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Haixun+Wang&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=%E7%8E%8B%E6%B5%B7%E5%8B%8B",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Haixun+Wang",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Haixun+Wang",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Haixun+Wang",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Haixun+Wang",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Haixun+Wang",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Haixun+Wang",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Haixun+Wang",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ACL Anthology",
+   "url": "https://aclanthology.org/search/?q=Haixun+Wang",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Haixun+Wang&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "中文报道 — 最新",
+   "url": "https://www.google.com/search?q=%E7%8E%8B%E6%B5%B7%E5%8B%8B+AI&tbm=nws&hl=zh-CN",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2012-05-20",
+   "kind": "paper",
+   "title": {
+    "en": "Probase: a probabilistic taxonomy for text understanding",
+    "zh": "Probase：面向文本理解的概率化概念图谱"
+   },
+   "source": "Microsoft Research",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Haixun+Wang",
+   "note": {
+    "en": "The concept graph behind a generation of semantic-understanding systems.",
+    "zh": "支撑了一代语义理解系统的概念图谱。"
+   }
+  },
+  {
+   "date": "2026-09-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Pre-retrieval Query Clustering for Adaptive Top-k Document Retrieval in RAG Systems",
+    "zh": "Pre-retrieval Query Clustering for Adaptive Top-k Document Retrieval in RAG Systems"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.13489v1",
+   "note": {
+    "en": "Haixun Wang co-authored a paper on adaptive top-k document retrieval for RAG systems, clustering queries before retrieval to cut noise and cost.",
+    "zh": "王海勋合著了一篇关于RAG系统自适应top-k文档检索的论文，通过检索前的查询聚类来降低噪声和成本。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-28",
+   "ts": "2026-07-28T05:07:41Z",
+   "kind": "x",
+   "title": {
+    "en": "Generative AI may be an engineering disaster in two different ways. https://t.co/fawapjBuvD",
+    "zh": "Generative AI may be an engineering disaster in two different ways. https://t.co/fawapjBuvD"
+   },
+   "source": "@haixunwang",
+   "url": "https://x.com/haixunwang/status/2081969822880215352",
+   "note": {
+    "en": "Wang argues generative AI may constitute an engineering disaster in two distinct ways.",
+    "zh": "王海勋认为生成式AI可能在两个不同方面构成一场工程灾难。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-06-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
+    "zh": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.24764v1",
+   "note": {
+    "en": "Applies LLMs to grocery category recommendation, continuing his line of e-commerce search and recommendation work.",
+    "zh": "把大模型用于生鲜品类推荐，延续他在电商搜索与推荐方向上的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "NBQ: Next-Best-Question for Dynamic Profiling",
+    "zh": "NBQ: Next-Best-Question for Dynamic Profiling"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.00809v2",
+   "note": {
+    "en": "Formulates Next-Best-Question, selecting the question that most efficiently builds a purpose-driven profile of a person in conversation.",
+    "zh": "提出 Next-Best-Question 问题：在对话中挑选最能高效构建目标导向用户画像的下一个问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-31",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Long-Document QA with Chain-of-Structured-Thought and Fine-Tuned SLMs",
+    "zh": "Long-Document QA with Chain-of-Structured-Thought and Fine-Tuned SLMs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.29232v1",
+   "note": {
+    "en": "Uses chain-of-structured-thought with fine-tuned small models for question answering over long, noisy documents.",
+    "zh": "用结构化思维链搭配微调的小模型，处理长文档、噪声文档上的问答任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-22",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "One Billion Lobsters and a File Called SOUL.md",
+    "zh": "One Billion Lobsters and a File Called SOUL.md"
+   },
+   "source": "Stories by Haixun Wang on Medium",
+   "url": "https://medium.com/swlh/one-billion-lobsters-and-a-file-called-soul-md-438d757fe833?source=rss-ea8c5af70e3------2",
+   "note": {
+    "en": "An essay on the pace of AI adoption, using a lobster-themed agent and its SOUL.md persona file to ask what we are handing over to machines.",
+    "zh": "一篇关于 AI 普及速度的随笔，借一个以龙虾为主题的智能体及其 SOUL.md 人格文件，追问我们究竟把什么交给了机器。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2025-11-24",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "An Improv Chef in a Perfect Kitchen",
+    "zh": "An Improv Chef in a Perfect Kitchen"
+   },
+   "source": "Stories by Haixun Wang on Medium",
+   "url": "https://haixun.medium.com/an-improv-chef-in-a-perfect-kitchen-6c27a80ab07b?source=rss-ea8c5af70e3------2",
+   "note": {
+    "en": "Argues that autonomous agents excel at planning and tool use but still fall short of what we expect from a reliable end-to-end system.",
+    "zh": "文章指出，自主智能体擅长规划与调用工具，但离一个真正可靠的端到端系统仍有距离。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2025-10-11",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Summaries Are Cheap, Totals Are Hard",
+    "zh": "Summaries Are Cheap, Totals Are Hard"
+   },
+   "source": "Stories by Haixun Wang on Medium",
+   "url": "https://haixun.medium.com/summaries-are-cheap-totals-are-hard-44e62bd76897?source=rss-ea8c5af70e3------2",
+   "note": {
+    "en": "His Editor-in-Chief letter for the IEEE Data Engineering Bulletin, on why turning narrative text into auditable, queryable totals is much harder than summarising it.",
+    "zh": "他为《IEEE 数据工程通报》撰写的主编致辞，论述为何把叙述性文本转化为可审计、可查询的汇总数据，远难于生成摘要。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2025-08-02",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Social Computing in the Era of Synthetic Experience",
+    "zh": "Social Computing in the Era of Synthetic Experience"
+   },
+   "source": "Stories by Haixun Wang on Medium",
+   "url": "https://haixun.medium.com/the-collapse-of-relevance-social-computing-in-the-era-of-synthetic-experience-9249eb6039c9?source=rss-ea8c5af70e3------2",
+   "note": {
+    "en": "Editor-in-Chief letter arguing that social computing's core problem is no longer technical, as human data alone stops being sufficient in an era of synthetic experience.",
+    "zh": "主编致辞提出，在合成体验的时代，仅靠人类数据已不再足够，社会计算面临的核心难题不再是技术问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2025-04-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "You Are What You Bought: Generating Customer Personas for E-commerce Applications",
+    "zh": "You Are What You Bought: Generating Customer Personas for E-commerce Applications"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2504.17304v1",
+   "note": {
+    "en": "Generates interpretable natural-language customer personas from purchase histories as an alternative to opaque behavioural embeddings.",
+    "zh": "从购买记录生成可解释的自然语言客户画像，替代难以解释的行为向量表示。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-09-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Thrilled to share our latest blog on e-commerce search & discovery, showcasing how LLMs are reshaping the landscape. Huge thanks to the team for the outstanding",
+    "zh": "Thrilled to share our latest blog on e-commerce search & discovery, showcasing how LLMs are reshaping the landscape. Huge thanks to the team for the outstanding"
+   },
+   "source": "@haixunwang",
+   "url": "https://x.com/haixunwang/status/1839328071830372392",
+   "note": {
+    "en": "Haixun Wang shared his team's analysis of how LLMs are reshaping e-commerce search and discovery.",
+    "zh": "王海勋分享了其团队关于大语言模型如何重塑电商搜索与发现的分析。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-08-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Lately, there’s been a growing chorus claiming Generative AI is the next overhyped tech darling. Critics are lining up to call it just another bubble waiting to",
+    "zh": "Lately, there’s been a growing chorus claiming Generative AI is the next overhyped tech darling. Critics are lining up to call it just another bubble waiting to"
+   },
+   "source": "@haixunwang",
+   "url": "https://x.com/haixunwang/status/1825031058380963914",
+   "note": {
+    "en": "Haixun Wang pushed back on claims that generative AI is just an overhyped bubble, arguing real enterprise value exists despite adoption struggles.",
+    "zh": "王海勋反驳了生成式AI只是炒作泡沫的说法，认为尽管企业采用面临困难，但其价值是真实的。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-06-24",
+   "ts": "2024-06-24T03:28:42Z",
+   "kind": "x",
+   "title": {
+    "en": "No. It won't work. Real intelligence & creativity hinge on creating surprises. A good story captivates because it delivers believable surprises. Does the story",
+    "zh": "No. It won't work. Real intelligence & creativity hinge on creating surprises. A good story captivates because it delivers believable surprises. Does the story"
+   },
+   "source": "@haixunwang",
+   "url": "https://x.com/haixunwang/status/1805080584831787486",
+   "note": {
+    "en": "Wang argues real intelligence and creativity depend on generating believable surprises, questioning whether AI-generated stories can achieve this through logic alone.",
+    "zh": "王海勋认为真正的智能与创造力依赖于制造可信的\"意外\",并质疑仅靠逻辑推理的AI生成故事能否做到这一点。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-04-22",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "The Homogenization of Language: How AI Could Flatten Our Words and Thoughts",
+    "zh": "The Homogenization of Language: How AI Could Flatten Our Words and Thoughts"
+   },
+   "source": "Stories by Haixun Wang on Medium",
+   "url": "https://haixun.medium.com/the-homogenization-of-language-how-ai-could-flatten-our-words-and-thoughts-c6526804c746?source=rss-ea8c5af70e3------2",
+   "note": {
+    "en": "A personal essay on language homogenisation, drawing on his Shanghainese childhood to warn that AI writing tools may flatten how we express and think.",
+    "zh": "一篇个人随笔，从他讲上海话的童年谈起，警示 AI 写作工具可能让我们的表达与思维趋于同质化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2024-04-22",
+   "ts": "2024-04-22T04:32:39Z",
+   "kind": "x",
+   "title": {
+    "en": "The dominance of AI generated text is akin to a culinary landscape where there are fewer surprising dishes created by imaginative, eccentric, or accidentally in",
+    "zh": "The dominance of AI generated text is akin to a culinary landscape where there are fewer surprising dishes created by imaginative, eccentric, or accidentally in"
+   },
+   "source": "@haixunwang",
+   "url": "https://x.com/haixunwang/status/1782266241895592437",
+   "note": {
+    "en": "Wang argues the dominance of AI-generated text is narrowing the range of surprising, idiosyncratic writing, comparing it to a culinary landscape losing its eccentric chefs.",
+    "zh": "王海勋认为AI生成文本的主导地位正在减少令人惊喜、风格独特的写作,并将其比作失去了古怪厨师的美食界。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-04-13",
+   "ts": "2024-04-13T15:24:48Z",
+   "kind": "x",
+   "title": {
+    "en": "Highly unlikely. Real-life SQL queries are often too complex to convert into English, let alone conversion from English. Practically speaking, English doesn't h",
+    "zh": "Highly unlikely. Real-life SQL queries are often too complex to convert into English, let alone conversion from English. Practically speaking, English doesn't h"
+   },
+   "source": "@haixunwang",
+   "url": "https://x.com/haixunwang/status/1779168869766373388",
+   "note": {
+    "en": "Wang argues natural-language-to-SQL conversion is unlikely to fully succeed because real SQL queries are often too complex for English to express with equivalent precision.",
+    "zh": "王海勋认为自然语言转SQL很难完全成功,因为真实的SQL查询往往过于复杂,英语难以具备同等的表达精度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-03-16",
+   "ts": "2024-03-16T13:34:35Z",
+   "kind": "x",
+   "title": {
+    "en": "Indeed, humans are the funny part in the rise of AI. But so long as they are in the loop, machines are serving humanity. More amusing is AI agents using human l",
+    "zh": "Indeed, humans are the funny part in the rise of AI. But so long as they are in the loop, machines are serving humanity. More amusing is AI agents using human l"
+   },
+   "source": "@haixunwang",
+   "url": "https://x.com/haixunwang/status/1768994273964212572",
+   "note": {
+    "en": "Wang argues humans remain essential to keeping AI systems serving humanity, noting the irony of AI agents adopting human language to communicate with each other.",
+    "zh": "王海勋认为人类对于确保AI系统服务于人类仍然至关重要,并指出AI智能体之间用人类语言交流这一现象颇具讽刺意味。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-02-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "[1/3] E-commerce is on the brink of long overdue transformation, with generative AI playing a pivotal role. In this blog series, I will dive into the unique cha",
+    "zh": "[1/3] E-commerce is on the brink of long overdue transformation, with generative AI playing a pivotal role. In this blog series, I will dive into the unique cha"
+   },
+   "source": "@haixunwang",
+   "url": "https://x.com/haixunwang/status/1753811772065358111",
+   "note": {
+    "en": "Haixun Wang began a blog series on how generative AI is driving overdue transformation in e-commerce.",
+    "zh": "王海勋开启系列博客，探讨生成式AI如何推动电商行业迟来的变革。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-01-29",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "The Present: The Gradual Evolution of E-Commerce Systems",
+    "zh": "The Present: The Gradual Evolution of E-Commerce Systems"
+   },
+   "source": "Stories by Haixun Wang on Medium",
+   "url": "https://medium.com/gobeyond-ai/generative-ai-for-ecommerce-present-a3a1e418d400?source=rss-ea8c5af70e3------2",
+   "note": {
+    "en": "Part I of his generative-AI e-commerce series, surveying how relevance and discovery work in today's e-commerce systems.",
+    "zh": "他的生成式 AI 电商系列第一篇，梳理当下电商系统中相关性与商品发现的运作方式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2024-01-29",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "The Future: Generative AI’s Transformative Potential",
+    "zh": "The Future: Generative AI’s Transformative Potential"
+   },
+   "source": "Stories by Haixun Wang on Medium",
+   "url": "https://medium.com/gobeyond-ai/generative-ai-for-e-commerce-future-3182bb483de1?source=rss-ea8c5af70e3------2",
+   "note": {
+    "en": "Part II of the series, on how multimodal generative models could lift e-commerce beyond basic keyword search and filtering.",
+    "zh": "系列第二篇，论述多模态生成模型如何让电商摆脱基础的关键词搜索与筛选。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2024-01-29",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "The Roadmap: Embracing Generative AI in E-Commerce",
+    "zh": "The Roadmap: Embracing Generative AI in E-Commerce"
+   },
+   "source": "Stories by Haixun Wang on Medium",
+   "url": "https://medium.com/gobeyond-ai/generative-ai-for-ecommerce-roadmap-5849657116bd?source=rss-ea8c5af70e3------2",
+   "note": {
+    "en": "Part III of the series, asking which players — incumbent platforms or newcomers — are positioned to lead generative-AI e-commerce.",
+    "zh": "系列第三篇，探讨在生成式 AI 电商的竞争中，是既有平台还是新入局者更有望胜出。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2024-01-29",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Embracing Generative AI: The Dawn of a New E-commerce Experience",
+    "zh": "Embracing Generative AI: The Dawn of a New E-commerce Experience"
+   },
+   "source": "Stories by Haixun Wang on Medium",
+   "url": "https://medium.com/gobeyond-ai/generative-ai-for-ecommerce-9fc1a9a7237e?source=rss-ea8c5af70e3------2",
+   "note": {
+    "en": "The opening piece of the series, revisiting his earlier critique of stagnant e-commerce search and setting out what generative AI changes.",
+    "zh": "该系列的开篇之作，回顾他早年对电商搜索停滞不前的批评，并阐述生成式 AI 带来的改变。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2023-12-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Rethinking E-Commerce Search",
+    "zh": "Rethinking E-Commerce Search"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2312.03217v1",
+   "note": {
+    "en": "Position paper arguing e-commerce search should move from catalog and taxonomy matching to language-model-based understanding.",
+    "zh": "观点论文，主张电商搜索应从目录与分类体系匹配转向基于语言模型的理解。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-11-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "It's difficult to believe that the current transformer architecture, which merely engages in collective reasoning, or groupthink, could be the key to achieving",
+    "zh": "It's difficult to believe that the current transformer architecture, which merely engages in collective reasoning, or groupthink, could be the key to achieving"
+   },
+   "source": "@haixunwang",
+   "url": "https://x.com/haixunwang/status/1726283446404980787",
+   "note": {
+    "en": "Haixun Wang argued that current transformer architectures, which he described as mere collective reasoning, are unlikely to be the key to AGI.",
+    "zh": "王海勋认为当前的Transformer架构本质上只是一种集体推理（群体思维），未必是通向AGI的关键。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-11-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Mitigating Pooling Bias in E-commerce Search via False Negative Estimation",
+    "zh": "Mitigating Pooling Bias in E-commerce Search via False Negative Estimation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2311.06444v3",
+   "note": {
+    "en": "Addresses pooling bias in e-commerce relevance training by estimating false negatives in sampled query-product pairs.",
+    "zh": "通过估计采样查询-商品对中的假负例，缓解电商相关性训练中的候选池偏差。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-09-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The new paper \"Large Language Models as Optimizers\" by Google DeepMind is intriguing in several ways. https://t.co/qQe3c0rDqh 1/8",
+    "zh": "The new paper \"Large Language Models as Optimizers\" by Google DeepMind is intriguing in several ways. https://t.co/qQe3c0rDqh 1/8"
+   },
+   "source": "@haixunwang",
+   "url": "https://x.com/haixunwang/status/1700970467811893406",
+   "note": {
+    "en": "Haixun Wang broke down the paper \"Large Language Models as Optimizers\" from Google DeepMind in an eight-part thread.",
+    "zh": "王海勋以8条推文串详细解读了Google DeepMind的论文《大语言模型作为优化器》。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-08-15",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Supercharging ML/AI Foundations at Instacart",
+    "zh": "Supercharging ML/AI Foundations at Instacart"
+   },
+   "source": "Stories by Haixun Wang on Medium",
+   "url": "https://tech.instacart.com/supercharging-ml-ai-foundations-at-instacart-d48214a2b511?source=rss-ea8c5af70e3------2",
+   "note": {
+    "en": "Co-authored engineering post describing how he rebuilt Instacart's shared ML/AI platform foundations while leading the team there.",
+    "zh": "他在 Instacart 带队期间与人合写的工程文章，介绍如何重建公司共享的机器学习/AI 平台底座。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2022-09-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "An Embedding-Based Grocery Search Model at Instacart",
+    "zh": "An Embedding-Based Grocery Search Model at Instacart"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2209.05555v1",
+   "note": {
+    "en": "Describes the embedding-based grocery search system deployed at Instacart, where he led search and machine learning.",
+    "zh": "介绍他在 Instacart 主管搜索与机器学习期间上线的基于向量检索的生鲜搜索系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-10-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "From Intrinsic to Counterfactual: On the Explainability of Contextualized Recommender Systems",
+    "zh": "From Intrinsic to Counterfactual: On the Explainability of Contextualized Recommender Systems"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2110.14844v1",
+   "note": {
+    "en": "Studies explainability of contextualized recommender systems, from intrinsic explanations to counterfactual ones.",
+    "zh": "研究上下文感知推荐系统的可解释性，从内在解释延伸到反事实解释。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-06-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Ultra-Fine Entity Typing with Weak Supervision from a Masked Language Model",
+    "zh": "Ultra-Fine Entity Typing with Weak Supervision from a Masked Language Model"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2106.04098v1",
+   "note": {
+    "en": "Uses a masked language model as weak supervision for ultra-fine entity typing, continuing his concept and taxonomy research.",
+    "zh": "用掩码语言模型为超细粒度实体类型标注提供弱监督，延续他的概念与分类体系研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-01-02",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Haixun Wang, VP and AI Distinguished Scientist at Instacart, shares insights from 20 years of innovating at IBM, Google, Microsoft, Facebook, and Amazon",
+    "zh": "Haixun Wang, VP and AI Distinguished Scientist at Instacart, shares insights from 20 years of innovating at IBM, Google, Microsoft, Facebook, and Amazon"
+   },
+   "source": "AI and the Future of Work: Artificial…",
+   "url": "https://podcasts.apple.com/us/podcast/haixun-wang-vp-and-ai-distinguished-scientist-at/id1476885647?i=1000504108839&uo=4",
+   "note": {
+    "en": "A long-form interview in which he draws on two decades of applied AI work at IBM, Google, Microsoft, Facebook and Instacart.",
+    "zh": "一场长篇访谈，他结合在 IBM、谷歌、微软、Facebook 与 Instacart 二十年的应用 AI 经历分享心得。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2019-08-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SpatialNLI: A Spatial Domain Natural Language Interface to Databases Using Spatial Comprehension",
+    "zh": "SpatialNLI: A Spatial Domain Natural Language Interface to Databases Using Spatial Comprehension"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1908.10917v1",
+   "note": {
+    "en": "Builds SpatialNLI, a natural-language interface that translates spatial questions into executable database queries.",
+    "zh": "构建 SpatialNLI，把空间类自然语言问题翻译成可执行的数据库查询。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-03-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "KBQA: Learning Question Answering over QA Corpora and Knowledge Bases",
+    "zh": "KBQA: Learning Question Answering over QA Corpora and Knowledge Bases"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1903.02419v1",
+   "note": {
+    "en": "Learns question answering over large knowledge bases from QA corpora, part of his long-running knowledge-graph QA work.",
+    "zh": "从问答语料中学习面向大规模知识库的问答方法，属于他长期的知识图谱问答工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-09-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Transfer-Learnable Natural Language Interface for Databases",
+    "zh": "A Transfer-Learnable Natural Language Interface for Databases"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1809.02649v1",
+   "note": {
+    "en": "Proposes a transfer-learnable natural language interface that can be adapted across different databases.",
+    "zh": "提出可迁移的数据库自然语言接口，能够适配到不同的数据库上。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2017-10-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Verb Pattern: A Probabilistic Semantic Representation on Verbs",
+    "zh": "Verb Pattern: A Probabilistic Semantic Representation on Verbs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1710.07695v1",
+   "note": {
+    "en": "Introduces verb patterns, a probabilistic semantic representation of verbs built on his concept-graph line of work.",
+    "zh": "提出动词模式这一概率语义表示，建立在他的概念图谱工作之上。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2015-11-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Entity Suggestion by Example using a Conceptual Taxonomy",
+    "zh": "Entity Suggestion by Example using a Conceptual Taxonomy"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1511.08996v1",
+   "note": {
+    "en": "Answers entity-suggestion-by-example queries using a conceptual taxonomy, a direct application of the Probase concept graph.",
+    "zh": "利用概念分类体系回答“按示例推荐实体”查询，是 Probase 概念图谱的直接应用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2014-06-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The Links Have It: Infobox Generation by Summarization over Linked Entities",
+    "zh": "The Links Have It: Infobox Generation by Summarization over Linked Entities"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1406.6449v1",
+   "note": {
+    "en": "Generates Wikipedia infoboxes by summarizing over linked entities, from his Microsoft Research Asia knowledge-base period.",
+    "zh": "通过对链接实体做摘要来自动生成维基百科信息框，出自他在微软亚洲研究院的知识库时期。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2014-01-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Distance Landmarks Revisited for Road Graphs",
+    "zh": "Distance Landmarks Revisited for Road Graphs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1401.2690v1",
+   "note": {
+    "en": "Revisits distance-landmark indexing for shortest-path queries on road graphs.",
+    "zh": "重新审视用于路网图最短路径查询的距离地标索引方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2013-05-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Hub-Accelerator: Fast and Exact Shortest Path Computation in Large Social Networks",
+    "zh": "Hub-Accelerator: Fast and Exact Shortest Path Computation in Large Social Networks"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1305.0507v1",
+   "note": {
+    "en": "Presents Hub-Accelerator for exact shortest-path computation on large social networks.",
+    "zh": "提出 Hub-Accelerator，在大规模社交网络上做精确最短路径计算。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2012-08-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "K-Reach: Who is in Your Small World",
+    "zh": "K-Reach: Who is in Your Small World"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1208.0090v1",
+   "note": {
+    "en": "Introduces K-Reach, an index for answering k-hop reachability queries on large directed graphs.",
+    "zh": "提出 K-Reach 索引，用于在大规模有向图上回答 k 跳可达性查询。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2012-05-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Efficient Subgraph Similarity Search on Large Probabilistic Graph Databases",
+    "zh": "Efficient Subgraph Similarity Search on Large Probabilistic Graph Databases"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1205.6692v1",
+   "note": {
+    "en": "Presents an efficient method for subgraph similarity search over large probabilistic graph databases.",
+    "zh": "提出在大规模概率图数据库上进行子图相似性搜索的高效方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2012-05-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Efficient Subgraph Matching on Billion Node Graphs",
+    "zh": "Efficient Subgraph Matching on Billion Node Graphs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1205.6691v1",
+   "note": {
+    "en": "Presents subgraph matching at billion-node scale, from his Microsoft Research Asia graph-systems work.",
+    "zh": "提出十亿节点规模的子图匹配方法，出自他在微软亚洲研究院的图系统工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2011-08-18",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Microsoft Research: Trinity is a Graph Database and a Distributed Parallel Platform for Graph Data",
+    "zh": "Microsoft Research: Trinity is a Graph Database and a Distributed Parallel Platform for Graph Data"
+   },
+   "source": "Hanselminutes with Scott Hanselman",
+   "url": "https://podcasts.apple.com/us/podcast/microsoft-research-trinity-is-a-graph-database/id117488860?i=1000405695842&uo=4",
+   "note": {
+    "en": "Wang discusses Trinity, Microsoft Research's distributed graph database and parallel computing platform, in an interview on Hanselminutes.",
+    "zh": "王海勋在Hanselminutes播客访谈中介绍了微软研究院的分布式图数据库与并行计算平台Trinity。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2002-02-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The Deductive Database System LDL++",
+    "zh": "The Deductive Database System LDL++"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/cs/0202001v1",
+   "note": {
+    "en": "Describes the LDL++ deductive database system, from his early UCLA database research.",
+    "zh": "介绍 LDL++ 演绎数据库系统，属于他在 UCLA 时期的早期数据库研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-01-01",
+   "level": "notable",
+   "title": {
+    "en": "Now VP of Engineering and Head of AI at EvenUp",
+    "zh": "现任 EvenUp 工程副总裁兼 AI 负责人"
+   },
+   "body": {
+    "en": "Focused on applying LLMs and generative AI to legal and medical document understanding and generation. Also a trustee on the VLDB board.",
+    "zh": "专注于将 LLM 与生成式 AI 应用于法律与医疗文档的理解与生成。同时担任 VLDB 董事会受托人。"
+   },
+   "source": "Research.com",
+   "url": "https://research.com/u/haixun-wang"
+  }
+ ],
+ "changed": true,
+ "was": {
+  "en": "VP & Distinguished Scientist, Instacart",
+  "zh": "Instacart 副总裁兼杰出科学家"
+ },
+ "cat": "product",
+ "score": {
+  "total": 8.3,
+  "attention": null,
+  "centrality": 5,
+  "momentum": 12,
+  "stature": null,
+  "pageviews": 0,
+  "citations": 0,
+  "hIndex": 0,
+  "events": 1,
+  "posts": 45,
+  "wikiEn": null,
+  "wikiZh": null
+ },
+ "seedRank": 99,
+ "tier": "t6"
+}

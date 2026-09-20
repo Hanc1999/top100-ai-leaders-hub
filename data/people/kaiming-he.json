@@ -1,0 +1,1015 @@
+{
+ "rank": 64,
+ "id": "kaiming-he",
+ "name": {
+  "en": "Kaiming He",
+  "zh": "何恺明"
+ },
+ "role": {
+  "en": "Associate Professor, MIT EECS",
+  "zh": "MIT 电子工程与计算机科学系副教授"
+ },
+ "org": "MIT",
+ "region": {
+  "en": "United States / China",
+  "zh": "美国/中国"
+ },
+ "tags": [
+  "MIT",
+  "ResNet",
+  "Mask R-CNN",
+  "MAE",
+  "MoCo",
+  "Computer vision"
+ ],
+ "why": {
+  "en": "First author of ResNet — among the most cited papers in the history of deep learning — which made training very deep networks possible at all. Faster R-CNN, Mask R-CNN, MoCo and MAE are also his; arguably the most productive researcher computer vision has had.",
+  "zh": "ResNet 第一作者，是深度学习史上被引用次数最高的论文之一，使超深网络训练成为可能。Faster R-CNN、Mask R-CNN、MoCo、MAE 均出自其手，堪称计算机视觉领域最高产的研究者。"
+ },
+ "links": [
+  {
+   "kind": "blog",
+   "label": "MIT CSAIL page",
+   "url": "https://people.csail.mit.edu/kaiming/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Publications",
+   "url": "https://people.csail.mit.edu/kaiming/publications.html",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @KaimingHe",
+   "url": "https://github.com/KaimingHe",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "MIT News",
+   "url": "https://news.mit.edu/rss",
+   "t": 2
+  },
+  {
+   "kind": "x",
+   "label": "X — search",
+   "url": "https://x.com/search?q=%22Kaiming+He%22&f=live",
+   "t": 3
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Kaiming+He",
+   "t": 3
+  },
+  {
+   "kind": "weibo",
+   "label": "微博 — 搜索",
+   "url": "https://s.weibo.com/user?q=%E4%BD%95%E6%81%BA%E6%98%8E",
+   "t": 3
+  },
+  {
+   "kind": "zhihu",
+   "label": "知乎 — 搜索",
+   "url": "https://www.zhihu.com/search?type=people&q=%E4%BD%95%E6%81%BA%E6%98%8E",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "微信公众号 — 搜索",
+   "url": "https://weixin.sogou.com/weixin?type=2&query=%E4%BD%95%E6%81%BA%E6%98%8E",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "B 站 — 搜索",
+   "url": "https://search.bilibili.com/all?keyword=%E4%BD%95%E6%81%BA%E6%98%8E",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Kaiming+He",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Kaiming+He",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Kaiming+He&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Kaiming+He&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=%E4%BD%95%E6%81%BA%E6%98%8E",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Kaiming+He",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Kaiming+He",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Kaiming+He",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Kaiming+He",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Kaiming+He",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Kaiming+He",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Kaiming+He",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Kaiming+He&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "中文报道 — 最新",
+   "url": "https://www.google.com/search?q=%E4%BD%95%E6%81%BA%E6%98%8E+AI&tbm=nws&hl=zh-CN",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kaiming_He",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-07-01",
+   "kind": "paper",
+   "title": {
+    "en": "GenCeption: large-scale text-to-video generation as a pre-training paradigm for vision",
+    "zh": "GenCeption：大规模文本到视频生成作为视觉预训练范式"
+   },
+   "source": "arXiv",
+   "url": "https://people.csail.mit.edu/kaiming/publications.html",
+   "note": {
+    "en": "Uses a pre-trained video diffusion backbone to define a feed-forward perception model steered by text instructions.",
+    "zh": "以预训练视频扩散骨干定义一个由文本指令引导的前馈感知模型。"
+   }
+  },
+  {
+   "date": "2026-08-11",
+   "kind": "paper",
+   "title": {
+    "en": "GeoPT: teaching models the basics of physics",
+    "zh": "GeoPT：让模型掌握物理基础"
+   },
+   "source": "MIT",
+   "url": "https://people.csail.mit.edu/kaiming/publications.html",
+   "note": {
+    "en": "So they can simulate how objects respond to wind and water more efficiently and accurately.",
+    "zh": "以便更高效准确地模拟物体对风与水的响应。"
+   }
+  },
+  {
+   "date": "2026-07-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Video Generation Models are General-Purpose Vision Learners",
+    "zh": "Video Generation Models are General-Purpose Vision Learners"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.09024v1",
+   "note": {
+    "en": "Argues video generation models can serve as general-purpose vision learners, continuing his line on generation as representation learning.",
+    "zh": "论证视频生成模型可以作为通用视觉学习器，延续他“生成即表征学习”的研究主线。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "ELF: Embedded Language Flows",
+    "zh": "ELF: Embedded Language Flows"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.10938v2",
+   "note": {
+    "en": "ELF (Embedded Language Flows) applies flow-based generative modeling to language, a result widely picked up by Chinese labs building continuous diffusion language models.",
+    "zh": "ELF 把流式生成建模用于语言，引发国内多家团队跟进连续扩散语言模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Image Generators are Generalist Vision Learners",
+    "zh": "Image Generators are Generalist Vision Learners"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.20329v3",
+   "note": {
+    "en": "Shows image generators exhibit generalist visual understanding, a Google-MIT collaboration he co-authored.",
+    "zh": "一项谷歌与 MIT 的合作研究，表明图像生成模型本身具备通用视觉理解能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GeoPT: Scaling Physics Simulation via Lifted Geometric Pre-Training",
+    "zh": "GeoPT: Scaling Physics Simulation via Lifted Geometric Pre-Training"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.20399v2",
+   "note": {
+    "en": "GeoPT pre-trains neural physics simulators on cheap geometry data to sidestep the cost of high-fidelity simulation data.",
+    "zh": "GeoPT 用低成本几何数据预训练神经物理仿真器，绕开高精度仿真数据昂贵的问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Generative Modeling via Drifting",
+    "zh": "Generative Modeling via Drifting"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.04770v2",
+   "note": {
+    "en": "Reformulates generative modeling as an iterative drifting process toward the data distribution.",
+    "zh": "把生成建模重新表述为向数据分布逐步漂移的迭代过程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "One-step Latent-free Image Generation with Pixel Mean Flows",
+    "zh": "One-step Latent-free Image Generation with Pixel Mean Flows"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2601.22158v3",
+   "note": {
+    "en": "One-step image generation directly in pixel space without a latent VAE, reaching strong text-to-image quality at small model size.",
+    "zh": "在像素空间直接做一步生成、无需隐空间 VAE，用很小的参数量达到不错的文生图效果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Natural Image Pretraining Improves Abstract Reasoning",
+    "zh": "Natural Image Pretraining Improves Abstract Reasoning"
+   },
+   "source": "Lecture notes in computer science",
+   "url": "https://doi.org/10.1007/978-3-032-37517-9_6",
+   "note": {
+    "en": "He is senior author on a paper (confirmed via OpenAlex, MIT affiliation) showing that pretraining on natural images improves models' abstract visual reasoning.",
+    "zh": "经OpenAlex核实作者及MIT单位信息，何恺明是这篇论文的通讯作者，该研究证明在自然图像上进行预训练可以提升模型的抽象视觉推理能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-12-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Bidirectional Normalizing Flow: From Data to Noise and Back",
+    "zh": "Bidirectional Normalizing Flow: From Data to Noise and Back"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.10953v1",
+   "note": {
+    "en": "A normalizing flow formulation in which forward and reverse processes are learned bidirectionally.",
+    "zh": "提出双向归一化流，让数据到噪声与噪声到数据的过程同时被学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Improved Mean Flows: On the Challenges of Fastforward Generative Models",
+    "zh": "Improved Mean Flows: On the Challenges of Fastforward Generative Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.02012v2",
+   "note": {
+    "en": "A follow-up that fixes training-objective and guidance problems in his MeanFlow one-step generative framework.",
+    "zh": "对其 MeanFlow 一步生成框架的改进，修正了训练目标与引导机制上的问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-11-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "ARC Is a Vision Problem!",
+    "zh": "ARC Is a Vision Problem!"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2511.14761v1",
+   "note": {
+    "en": "Recasts the ARC abstract-reasoning benchmark as a vision problem rather than a language one.",
+    "zh": "把 ARC 抽象推理基准重新定义为视觉问题，而非语言问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-11-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Back to Basics: Let Denoising Generative Models Denoise",
+    "zh": "Back to Basics: Let Denoising Generative Models Denoise"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2511.13720v2",
+   "note": {
+    "en": "Argues denoising generative models should predict clean images directly, enabling generation in pixel space without a latent tokenizer.",
+    "zh": "主张去噪生成模型应直接预测干净图像，从而可以在像素空间生成、无需隐空间分词器。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-06-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Diffuse and Disperse: Image Generation with Representation Regularization",
+    "zh": "Diffuse and Disperse: Image Generation with Representation Regularization"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2506.09027v2",
+   "note": {
+    "en": "Introduces a dispersive representation regularizer that improves diffusion generation without extra representation-learning machinery.",
+    "zh": "提出 Dispersive 表征正则项，无需额外表征学习模块即可提升扩散生成质量。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-05-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Mean Flows for One-step Generative Modeling",
+    "zh": "Mean Flows for One-step Generative Modeling"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2505.13447v1",
+   "note": {
+    "en": "MeanFlow, his one-step generative modeling framework based on average rather than instantaneous velocity; widely adopted afterwards.",
+    "zh": "MeanFlow：以平均速度而非瞬时速度刻画流场的一步生成框架，此后被广泛采用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-03-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Transformers without Normalization",
+    "zh": "Transformers without Normalization"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2503.10622v2",
+   "note": {
+    "en": "Shows Transformers can drop normalization layers entirely by replacing them with a dynamic tanh, co-authored with Yann LeCun.",
+    "zh": "与 Yann LeCun 等合作，证明用 Dynamic Tanh 替代归一化层后 Transformer 依然能达到同等甚至更好性能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-03-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Denoising Hamiltonian Network for Physical Reasoning",
+    "zh": "Denoising Hamiltonian Network for Physical Reasoning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2503.07596v1",
+   "note": {
+    "en": "A denoising Hamiltonian network that builds physical structure into learned dynamics, part of his MIT physics collaborations.",
+    "zh": "提出去噪哈密顿网络，把物理结构嵌入学习到的动力学中，属于他在 MIT 的物理方向合作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-02-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Fractal Generative Models",
+    "zh": "Fractal Generative Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2502.17437v2",
+   "note": {
+    "en": "Fractal Generative Models: generative models built recursively out of generative modules as atomic units.",
+    "zh": "分形生成模型：把生成模块作为原子单元递归组合，构建新的生成模型范式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-02-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Is Noise Conditioning Necessary for Denoising Generative Models?",
+    "zh": "Is Noise Conditioning Necessary for Denoising Generative Models?"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2502.13129v2",
+   "note": {
+    "en": "Challenges the assumption that noise conditioning is required for denoising diffusion models to work.",
+    "zh": "挑战“去噪扩散模型必须依赖噪声条件输入”这一普遍认知。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-10-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens",
+    "zh": "Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2410.13863v1",
+   "note": {
+    "en": "Fluid scales autoregressive text-to-image models using continuous rather than discrete tokens.",
+    "zh": "Fluid 用连续 token 替代离散 token，研究自回归文生图模型的扩展规律。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-09-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers",
+    "zh": "Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2409.20537v1",
+   "note": {
+    "en": "Heterogeneous Pre-trained Transformers, a robot-learning approach that trains across different embodiments and sensors.",
+    "zh": "异构预训练 Transformer：一种跨不同机器人本体与传感器统一训练的机器人学习方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-06-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Autoregressive Image Generation without Vector Quantization",
+    "zh": "Autoregressive Image Generation without Vector Quantization"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2406.11838v3",
+   "note": {
+    "en": "MAR shows autoregressive image generation works without vector quantization, using continuous-valued tokens.",
+    "zh": "MAR 证明自回归图像生成无需向量量化，用连续值 token 同样可行。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-05-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Physically Compatible 3D Object Modeling from a Single Image",
+    "zh": "Physically Compatible 3D Object Modeling from a Single Image"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2405.20510v3",
+   "note": {
+    "en": "Reconstructs 3D objects from a single image under physical compatibility constraints, an MIT collaboration.",
+    "zh": "MIT 合作工作：在物理可行性约束下从单张图像重建可制造的三维物体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-05-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes",
+    "zh": "TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2405.20283v4",
+   "note": {
+    "en": "TetSphere Splatting, a Lagrangian volumetric-mesh representation for high-quality 3D geometry.",
+    "zh": "TetSphere Splatting：用拉格朗日体网格表示高质量三维几何。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-05-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Dynamic Inhomogeneous Quantum Resource Scheduling with Reinforcement Learning",
+    "zh": "Dynamic Inhomogeneous Quantum Resource Scheduling with Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2405.16380v1",
+   "note": {
+    "en": "An unusual cross-domain collaboration with MIT's quantum photonics group applying reinforcement learning to real-time quantum resource scheduling.",
+    "zh": "与 MIT 量子光子学团队的跨领域合作，用强化学习做量子资源的实时调度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-03-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Decade's Battle on Dataset Bias: Are We There Yet?",
+    "zh": "A Decade's Battle on Dataset Bias: Are We There Yet?"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2403.08632v2",
+   "note": {
+    "en": "Revisits the classic dataset-bias experiment and finds modern networks still classify which dataset an image came from.",
+    "zh": "重做经典的数据集偏差实验，发现现代网络依然能轻易分辨图像来自哪个数据集。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-01-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Deconstructing Denoising Diffusion Models for Self-Supervised Learning",
+    "zh": "Deconstructing Denoising Diffusion Models for Self-Supervised Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2401.14404v1",
+   "note": {
+    "en": "Deconstructs denoising diffusion models step by step to isolate what actually gives them self-supervised representation ability.",
+    "zh": "逐步拆解去噪扩散模型，找出它们自监督表征能力的真正来源。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-12-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Return of Unconditional Generation: A Self-supervised Representation Generation Method",
+    "zh": "Return of Unconditional Generation: A Self-supervised Representation Generation Method"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2312.03701v4",
+   "note": {
+    "en": "Revives unconditional generation by first generating self-supervised representations, then images conditioned on them.",
+    "zh": "先生成自监督表征、再据此生成图像，让无条件生成重新变得可行。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-06-01",
+   "level": "notable",
+   "title": {
+    "en": "Receives the CVPR Test of Time Award (Longuet-Higgins Prize)",
+    "zh": "获 CVPR Test of Time 奖（Longuet-Higgins 奖）"
+   },
+   "body": {
+    "en": "",
+    "zh": ""
+   },
+   "source": "MIT EECS",
+   "url": "https://www.eecs.mit.edu/people/kaiming-he/"
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T01:50:58Z",
+   "level": "notable",
+   "title": {
+    "en": "视觉版「下一个token预测」找到了？何恺明等押注视频生成",
+    "zh": "视觉版「下一个token预测」找到了？何恺明等押注视频生成"
+   },
+   "body": {
+    "en": "Coverage of Kaiming He and collaborators betting on video generation as the vision-domain analogue of next-token prediction.",
+    "zh": "报道称何恺明与合作者押注视频生成，将其作为视觉领域的「下一个token预测」路线。"
+   },
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQblJrRERzNVlPN3E1ck1kMTVSZXJxWUQ2UFA3YTVmT1RiTGVNOWpxMXNXd3pXWGJ0QzRfYmJEUmJ2R2VDRWxvY0RqckFlWHFLODlxWVlTeTg5bVY5SS1oYkRQcGFHc1lfTUhEQk5mclg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-21",
+   "ts": "2026-06-21T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "沿着何恺明团队「漂移模型」再走一步：奖励只需排名，单步文生图偏好优化提速3.51倍",
+    "zh": "沿着何恺明团队「漂移模型」再走一步：奖励只需排名，单步文生图偏好优化提速3.51倍"
+   },
+   "body": {
+    "en": "Kaiming He's team extended their 'drift model' work, showing rank-only reward preference optimization that speeds up single-step text-to-image generation by 3.51x.",
+    "zh": "何恺明团队在其\"漂移模型\"研究基础上再进一步，提出仅需排名的奖励机制进行偏好优化，使单步文生图速度提升3.51倍。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTDRDanZENHl3cmZ6aFByQlFaSHhxWlNzNUktaGdKNF9mdWF0cy0yekNYX1pjdFdCNmphclRoalNJbGZBT3pTWmM2R2ZKTWd1UnY0YlNxcGltQ3kwVDdPeFp4SnlFZ0I3YjFJQnV6LS1jUFN3MDk0OHpqVGZfSFF6cm9YcmV6akdI?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-06",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "刚刚，何恺明ResNet、YOLO获时间检验奖！CVPR 2026奖项出炉",
+    "zh": "刚刚，何恺明ResNet、YOLO获时间检验奖！CVPR 2026奖项出炉"
+   },
+   "body": {
+    "en": "ResNet won the CVPR 2026 Longuet-Higgins Test of Time award, formal recognition of the paper that made very deep networks trainable.",
+    "zh": "ResNet 获得 CVPR 2026 时间检验奖，这是对这篇让极深网络得以训练的论文的正式认可。"
+   },
+   "source": "t.cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsQ2VnNUpfQTJNZFZFOS1Vbm9oYXpwMGI2SjlZRkU5ZzRqN2hMOHUwbThLUUlsRk91djA5RHdMQ1FSX1NXVHVTa2JMajh6Njd0RUQzdnAteHk0VjJxTENtWG5EUVdsbGNTVjdvdWxBUW4?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-06",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "今年CVPR看点是广东：何恺明再获至高大奖，广工大打破大厂名校垄断",
+    "zh": "今年CVPR看点是广东：何恺明再获至高大奖，广工大打破大厂名校垄断"
+   },
+   "body": {
+    "en": "Kaiming He won a top award at CVPR 2026, extending his run of major recognitions in computer vision.",
+    "zh": "何恺明在2026年CVPR上再次获得顶级奖项，延续了他在计算机视觉领域屡获重大认可的纪录。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsZHd2cV9UQXdiM3FhNGRJTkVyeDR2SDB5QVNNREFWX0JrWV94bHlkQmpBejBGQXUyS3JEYWs1NG15aVRnY3NoOTE4SUYxRWJRSUE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-06",
+   "ts": "2026-06-06T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "刚刚，何恺明ResNet、YOLO获时间检验奖！CVPR 2026奖项出炉",
+    "zh": "刚刚，何恺明ResNet、YOLO获时间检验奖！CVPR 2026奖项出炉"
+   },
+   "body": {
+    "en": "He Kaiming's ResNet and the YOLO line won CVPR 2026's Test of Time award, recognizing their lasting influence on computer vision.",
+    "zh": "何恺明的ResNet与YOLO系列获得CVPR 2026时间检验奖，肯定其对计算机视觉领域的持久影响。"
+   },
+   "source": "t.cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPemdjaktuaUhTMFFSUm44NHVka012Vi1WV0NrNXhLYTBwd1lmQzQ3SUtjZEFNcHltbHFPdFlzOTc4d0VCak05M09zaVJPbUJDbVdPbVVrT1J5MjBfUmpXOW5jWXlJWWdkRjNqMUgwNHp2VnIwbXpCM0lBVktNYTMtRnBXbEFMQzdZUWZQLQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-19",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "字节会师何恺明！开源连续扩散语言模型Cola DLM",
+    "zh": "字节会师何恺明！开源连续扩散语言模型Cola DLM"
+   },
+   "body": {
+    "en": "Kaiming He collaborated with a ByteDance team on Cola DLM, an open-sourced continuous diffusion language model.",
+    "zh": "何恺明与字节跳动团队合作，开源了连续扩散语言模型Cola DLM。"
+   },
+   "source": "51CTO",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKaGQ0N2VvRFlTcE8wNzBmNVAyUm4tNlYzOGxQWmZ6WmFOVnU3c3FKT3NNYlo1RW53cGhjeVR6bnFRVVhVd2VfMDQwVGpqbC1xZlI4?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-13",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "何恺明首个语言模型：105M参数，不走GPT自回归老路",
+    "zh": "何恺明首个语言模型：105M参数，不走GPT自回归老路"
+   },
+   "body": {
+    "en": "He releases his first language model, a 105M-parameter system that departs from the GPT autoregressive recipe — his first move from vision into language modelling.",
+    "zh": "何恺明发布其首个语言模型：105M 参数，不走 GPT 自回归路线，标志他从视觉转向语言建模的首次尝试。"
+   },
+   "source": "投资界",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDekltZjVQRWNzUmVKdDNOcGJkakVyNmJFYzRBTlJjQ2lOeXl3ZGdMMFZCU0FxUDZTV09CN1ZOdk52S0UwQVduV2U2OEFQLW1Cbjg5UDNR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-13",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "何恺明团队“扩散模型”新作：在“最后一公里”离散解码",
+    "zh": "何恺明团队“扩散模型”新作：在“最后一公里”离散解码"
+   },
+   "body": {
+    "en": "Kaiming He's team publishes new diffusion-model work tackling discrete decoding in the 'last mile' of generation.",
+    "zh": "何恺明团队发布扩散模型新研究，聚焦生成过程“最后一公里”的离散解码问题。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zUkNZYVoxVXdwcVR4TFpMdXdBeWpiNXA4VnBXVy1CN0RGVHdqYUg3Vy01cjZ0cGxIcE1MT0xwM2dLZV9RMlBxUlhXczFYUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-13",
+   "ts": "2026-05-13T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "何恺明首个语言模型：105M参数，不走GPT自回归老路",
+    "zh": "何恺明首个语言模型：105M参数，不走GPT自回归老路"
+   },
+   "body": {
+    "en": "Kaiming He's group released its first language model, a 105M-parameter design that departs from the standard GPT-style autoregressive approach.",
+    "zh": "何恺明团队发布了其首个语言模型，参数量为1.05亿，采用了不同于标准GPT自回归路线的架构设计。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS0ZhWXY4T1ViRVlPRG5ndURNbWtKZUFwRWxud2ZMMHJnSTF0Nlp5al9UUGVMMmlUcFRmZ0tVTGNPemJ6bkhRVTZEY21CNjQtRC0xSzRLQ0dmX1U2VXdqNm9NeXp4aXVYRHJrZDJGeGdzeWtLdFRIZXdNWjl3UHRRYnRFYkM5Y1lCd2V1Vy1oS0pheElrYkJHdFlWMGxUdDdnVm4yUWpFNTV3ZzRaRlVoN2hvRTdCelRjRmQwOQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-12",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "何恺明首个语言模型：105M参数，摒弃GPT自回归旧路",
+    "zh": "何恺明首个语言模型：105M参数，摒弃GPT自回归旧路"
+   },
+   "body": {
+    "en": "Coverage of the first language model out of Kaiming He's group — a 105M-parameter model that drops GPT-style autoregression — a marked change of direction for a researcher known for vision work.",
+    "zh": "报道何恺明团队推出的首个语言模型：1.05 亿参数、摒弃 GPT 式自回归路线，对这位以视觉研究著称的学者而言是明显的方向转变。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TX0tIcnhtWFNSTklrODRLRGxNOTJ2TDJWal9Yd3hGWG1oa0FxeEQ5eldHaTV4WWNSdFBmTnQ2QWhkSk91c25fa2lUWl9BMWExR0lF?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-12",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "刚刚，何恺明团队新作，「嵌入式语言流」ELF来了",
+    "zh": "刚刚，何恺明团队新作，「嵌入式语言流」ELF来了"
+   },
+   "body": {
+    "en": "Kaiming He's team released new work on \"Embedded Language Flow\" (ELF), extending his research program at MIT.",
+    "zh": "何恺明团队发布\"嵌入式语言流\"（ELF）新作，延续其在MIT的研究方向。"
+   },
+   "source": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54VDExZnhWTm9tRzFYc0ExVnNlYmIwYzc5MWJ4WGFJaVBmUzgxNW5SQ1dTQ0UwWWdUcEFlMmV5QTJmbmc5d2gyRXBRQ3M0dw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-12",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "何恺明首个语言模型：105M参数，不走GPT自回归老路",
+    "zh": "何恺明首个语言模型：105M参数，不走GPT自回归老路"
+   },
+   "body": {
+    "en": "Kaiming He released his first language model, a 105M-parameter design that departs from the standard GPT-style autoregressive approach.",
+    "zh": "何恺明发布了他的首个语言模型，参数量为1.05亿，采用了不同于GPT自回归范式的新架构。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZcURDcURwNU5LaWRxa29kODk1aVctb3lvT0NvNDlRU1o3VmUxMzhMN19CMzQ1U1h6ZHZZblREbUEwbzVlbFdPOXgyTmRZZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-04-24",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "谷歌这把「香蕉」太狠了，何恺明等引爆视觉Transformer时刻",
+    "zh": "谷歌这把「香蕉」太狠了，何恺明等引爆视觉Transformer时刻"
+   },
+   "body": {
+    "en": "Kaiming He co-authors Google's 'Vision Banana' paper with Saining Xie and others, proposing that visual understanding tasks be reframed as image generation rather than separate detection/segmentation heads.",
+    "zh": "何恺明与谢赛宁等人共同署名谷歌\"Vision Banana\"论文，提出将视觉理解任务统一为图像生成，而非分离的检测、分割任务头。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwd0lvMXB5WGliamt1RzllRTAzcWVlOTFVOW5LZElURGxvRWtZNGdKNjEwOVBpUlM4U2loVElTeTdhcjhScGxuTzFtdVNJdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-04-22",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "何恺明团队新作GeoPT，全新预训练范式让模型自学真实物理规律|量子|动力学|仿真|数据|标签",
+    "zh": "何恺明团队新作GeoPT，全新预训练范式让模型自学真实物理规律|量子|动力学|仿真|数据|标签"
+   },
+   "body": {
+    "en": "Kaiming He's team released GeoPT, a new pretraining paradigm that lets models learn real-world physical dynamics on their own.",
+    "zh": "何恺明团队发布新作GeoPT，提出全新预训练范式，让模型自主学习真实世界的物理动力学规律。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSlRPVU16OXhrRDVlVHpGWFcyVElXREpnUEVFNFlVXzROTV9obFlqTldTSlUxSFc1d1lwTFJQY0VxTEJVbXg4RmJCZVlrOEtqSU84UC1VaXU0amVfZDNPUE9DTlhrZHFWZldQeHh4a254ZkVOaEFuaFNlR21LeU9zQnljRzRQRGtDU1ctRTB0dEZYdlZLMWFjRUM3bE1Id2k0UzdIQjA2VHhHZFpIRmZOUmhUZjUwVUZYRU9RdzRGWU94VGhQendFVFgtcWREbkE0U1pjY1BxcF8zMURIa2NaNFBvaVVEX2pGNzdhaG5iYjBCQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-02-27",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "何恺明团队新作GeoPT，全新预训练范式让模型自学真实物理规律",
+    "zh": "何恺明团队新作GeoPT，全新预训练范式让模型自学真实物理规律"
+   },
+   "body": {
+    "en": "Kaiming He's group released GeoPT, a new pretraining paradigm that lets models learn real-world physical laws through self-supervision.",
+    "zh": "何恺明团队发布了GeoPT，一种让模型通过自监督学习真实物理规律的全新预训练范式。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdkxSWGVueEVMemQ0YmlvZ3pLMTdJd1BVeF9Xc0U4S2owQzdYaU5BVzhRZXNucTFTOE9ONUlNYTBuUGpZNnp3ZVc2QXQ0emFOZE5HS0ZDV3NHNmlUWGYtQTlLYmdmajFSTGcyajB0V1ZXUVpLRUtIaW9JRjRyY1E0WWVpc21WOUtiMHNn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-02-04",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "大道至简，何恺明团队新作pMF开启像素级「无潜、单步」生成范式",
+    "zh": "大道至简，何恺明团队新作pMF开启像素级「无潜、单步」生成范式"
+   },
+   "body": {
+    "en": "Coverage of pMF from He's group, a generative model that works directly in pixel space in a single step with no latent diffusion and no iterative sampling.",
+    "zh": "报道何恺明团队的新工作 pMF：直接在像素空间单步生成，无需潜空间与迭代采样。"
+   },
+   "source": "51CTO",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BTHpJRUFWQlE0NnVWMGZmemw5b0M0OEFXRXhsYTloZXJ5ejd2SGh1VzZXQlFTbFFYUV95LWRYNmVCTm1halBXYXhvQ2JoT0dQdWNN?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "research",
+ "score": {
+  "total": 36.1,
+  "attention": 33,
+  "centrality": 2,
+  "momentum": 53,
+  "stature": 100,
+  "pageviews": 46828,
+  "citations": 555963,
+  "hIndex": 83,
+  "events": 17,
+  "posts": 28,
+  "wikiEn": "Kaiming He",
+  "wikiZh": "何恺明"
+ },
+ "seedRank": 73,
+ "tier": "t4"
+}

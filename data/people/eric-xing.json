@@ -1,0 +1,1532 @@
+{
+ "rank": 73,
+ "id": "eric-xing",
+ "name": {
+  "en": "Eric Xing",
+  "zh": "邢波"
+ },
+ "role": {
+  "en": "President, MBZUAI; Professor, CMU",
+  "zh": "MBZUAI 校长；CMU 教授"
+ },
+ "org": "MBZUAI / CMU",
+ "region": {
+  "en": "UAE / United States",
+  "zh": "阿联酋/美国"
+ },
+ "tags": [
+  "MBZUAI",
+  "Petuum",
+  "K2 Think",
+  "Sovereign AI",
+  "Distributed ML"
+ ],
+ "why": {
+  "en": "Built the Petuum distributed machine-learning system, and now runs the Middle East's central AI research and talent play — 80% of MBZUAI graduates stay in the UAE.",
+  "zh": "分布式机器学习系统 Petuum 的建立者，现主导中东地区的 AI 研究与人才布局 —— MBZUAI 有 80% 毕业生留在阿联酋。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@ericxing",
+   "url": "https://x.com/ericxing",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "MBZUAI profile",
+   "url": "https://xing.mbzuai.ac.ae/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "CMU page",
+   "url": "https://www.cs.cmu.edu/~epxing/",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @sailing-lab",
+   "url": "https://github.com/sailing-lab",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "MBZUAI News",
+   "url": "https://mbzuai.ac.ae/news/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Eric+Xing",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Eric+Xing",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Eric+Xing",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Eric+Xing&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Eric+Xing&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=%E9%82%A2%E6%B3%A2",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Eric+Xing",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Eric+Xing",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Eric+Xing",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Eric+Xing",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Eric+Xing",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Eric+Xing",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Eric+Xing",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Eric+Xing&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Eric_Xing",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-01-01",
+   "kind": "talk",
+   "title": {
+    "en": "The next phase of intelligence",
+    "zh": "智能的下一阶段"
+   },
+   "source": "World Economic Forum, Davos",
+   "url": "https://mbzuai.ac.ae/news/eric-xing-explores-the-next-phase-of-intelligence-at-davos/",
+   "note": {
+    "en": "Argues the next phase will not come from scaling models larger but from redesigning AI to understand the world and plan within it.",
+    "zh": "主张下一阶段不来自把模型做得更大，而来自重新设计能理解世界并在其中规划的 AI。"
+   }
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T16:42:08Z",
+   "kind": "x",
+   "title": {
+    "en": "Diffusion can multiply LLM, not just add to it to work in parallel, the outcome is a lossless acceleration of any existing LLMs. Try it out!",
+    "zh": "Diffusion can multiply LLM, not just add to it to work in parallel, the outcome is a lossless acceleration of any existing LLMs. Try it out!"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2100626366659957029",
+   "note": {
+    "en": "Xing argues diffusion can multiply rather than simply add to an LLM's capability when run in parallel, giving a lossless speedup to existing models.",
+    "zh": "邢波提出扩散模型并行运行时能对LLM能力做“乘法”式提升而非简单叠加，从而为现有模型带来无损加速。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T17:42:01Z",
+   "kind": "x",
+   "title": {
+    "en": "Glad to be quoted here of my standing on AI dystopia -- an idea, a software (which AI is), a blueprint on a file (which AI generates), is NOT a physical actuati",
+    "zh": "Glad to be quoted here of my standing on AI dystopia -- an idea, a software (which AI is), a blueprint on a file (which AI generates), is NOT a physical actuati"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2100641436840436062",
+   "note": {
+    "en": "Xing argued AI itself is not physical actuation, and that closing the gap to real-world dystopian risk takes far more than software alone.",
+    "zh": "邢波指出AI本身并非物理执行，从软件到现实世界的\"AI反乌托邦\"风险之间还有很长的路要走。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T19:02:56Z",
+   "kind": "x",
+   "title": {
+    "en": "Glad to be quoted here (thank you @CNN and @TM_Brown!) of my standing on AI dystopia -- an idea, a software (which AI is), a blueprint on a file (which AI gener",
+    "zh": "Glad to be quoted here (thank you @CNN and @TM_Brown!) of my standing on AI dystopia -- an idea, a software (which AI is), a blueprint on a file (which AI gener"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2100661800933199979",
+   "note": {
+    "en": "After being quoted by CNN, Eric Xing argued that AI — as an idea, software, or design blueprint — is not itself physical actuation, pushing back on dystopian framings of AI risk.",
+    "zh": "邢波在被CNN引用后指出，AI作为一种想法、软件或设计蓝图，本身并不等同于物理执行，以此反驳对AI风险的“反乌托邦”式描述。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T18:14:50Z",
+   "kind": "x",
+   "title": {
+    "en": "We discussed fundamental issues in the definition, model architecture, computational algorithm, and meaningful evaluation/qualification of a fully steerable vir",
+    "zh": "We discussed fundamental issues in the definition, model architecture, computational algorithm, and meaningful evaluation/qualification of a fully steerable vir"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2100649695127216410",
+   "note": {
+    "en": "Eric Xing discussed open problems in defining and evaluating a fully steerable, multi-modal \"virtual cell\" model.",
+    "zh": "邢波探讨了在定义和评估一个可完全操控、多模态的“虚拟细胞”模型时存在的根本性问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T13:07:57Z",
+   "kind": "x",
+   "title": {
+    "en": "Glad to share my perspective on the recent AI-pacing and humanity risk narratives on @CNBC. AI, however powerful, is a piece of software residing inside a chip;",
+    "zh": "Glad to share my perspective on the recent AI-pacing and humanity risk narratives on @CNBC. AI, however powerful, is a piece of software residing inside a chip;"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2100210078293102858",
+   "note": {
+    "en": "Xing shared his view, given on CNBC, that AI risk should be engineered against rather than treated as an abstract existential threat, since AI is software running on a chip with no independent physical agency.",
+    "zh": "邢波分享了他在CNBC上的观点：AI风险应通过工程手段加以管控，而非视为抽象的生存威胁，因为AI本质上是运行在芯片上的软件，不具备独立的物理行动能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T07:17:22Z",
+   "kind": "x",
+   "title": {
+    "en": "Well, I’d add one more with myself, as one with a PhD in biology and another PhD in AI and now working in both, to make n=2. Generating a hypothetical genome bl",
+    "zh": "Well, I’d add one more with myself, as one with a PhD in biology and another PhD in AI and now working in both, to make n=2. Generating a hypothetical genome bl"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2099397076698423736",
+   "note": {
+    "en": "Xing, who holds PhDs in both biology and AI, weighed in on generating a virus's genome blueprint via LLMs versus wet-lab methods, offering himself as a case study in dual-domain expertise.",
+    "zh": "邢波拥有生物学和人工智能双博士学位，他就使用大语言模型生成病毒基因组蓝图与湿实验室方法的对比发表看法，并以自身为跨领域专长的案例。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "HypoEvolve: Genetic Algorithms Enable Multi-Agent LLMs to Discover Scientific Hypotheses",
+    "zh": "HypoEvolve: Genetic Algorithms Enable Multi-Agent LLMs to Discover Scientific Hypotheses"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.15938v1",
+   "note": {
+    "en": "Eric Xing co-authored HypoEvolve, a genetic-algorithm framework that lets multi-agent LLM systems generate and refine scientific hypotheses.",
+    "zh": "邢波合著了HypoEvolve，一个利用遗传算法让多智能体大语言模型系统生成并优化科学假设的框架。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T22:42:25Z",
+   "kind": "x",
+   "title": {
+    "en": "If you truly enjoy math, rather than the glory or award coming with the race, you can still work on the problem in your own way even if a brute force solution b",
+    "zh": "If you truly enjoy math, rather than the glory or award coming with the race, you can still work on the problem in your own way even if a brute force solution b"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2098905096574886393",
+   "note": {
+    "en": "Xing argued that genuinely enjoying a math problem matters more than racing to beat AI or other mathematicians to a solution.",
+    "zh": "邢波指出，真正享受数学问题本身，比急于在与AI或其他数学家的竞赛中抢先解题更重要。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T21:55:20Z",
+   "kind": "x",
+   "title": {
+    "en": "A great article by @PatrickMoorhead on what \"open source\" truly entails: an API is a hotel room you pay to stay without owning it; open weights is a house that",
+    "zh": "A great article by @PatrickMoorhead on what \"open source\" truly entails: an API is a hotel room you pay to stay without owning it; open weights is a house that"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2098530861167890841",
+   "note": {
+    "en": "Xing endorsed an argument distinguishing API access, open weights, and true open source as different degrees of openness — comparing them to a rented hotel room, a house with no blueprints, and full ownership.",
+    "zh": "邢波转发并认可了一种观点：API、开放权重与真正的开源代表不同程度的\"开放\"，如同租用的酒店房间、没有图纸的房子与完全拥有的房产，用以厘清\"开源\"一词的真正含义。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T02:55:34Z",
+   "kind": "x",
+   "title": {
+    "en": "Everyone is talking about how AI borrowed a human idea and solved a millennium prize problem ahead of the mathematician without giving him credit. To me, this i",
+    "zh": "Everyone is talking about how AI borrowed a human idea and solved a millennium prize problem ahead of the mathematician without giving him credit. To me, this i"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2097519252722872756",
+   "note": {
+    "en": "Xing weighed in on the debate over an AI system solving a Millennium Prize-level problem without crediting the mathematician whose idea it built on, framing it as a human ethics failure rather than an AI one.",
+    "zh": "针对AI在未署名致谢原创数学家的情况下解出千禧年大奖难题级问题一事，邢波表示这是人类伦理问题而非AI本身的问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T14:31:41Z",
+   "kind": "x",
+   "title": {
+    "en": "Check out \"Uno Discrete Diffusion\" embedded in our K2 Horizon release. From our 360 open-source release, you will find out how it works yourself and use it for",
+    "zh": "Check out \"Uno Discrete Diffusion\" embedded in our K2 Horizon release. From our 360 open-source release, you will find out how it works yourself and use it for"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2097332049107451954",
+   "note": {
+    "en": "Xing pointed to 'Uno Discrete Diffusion' inside the K2 Horizon release, part of a fully open-source rollout.",
+    "zh": "邢波介绍了K2 Horizon版本中的“Uno Discrete Diffusion”，这是本次全开源发布的一部分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The #1 model outside US and China, but 360-open. Meaningful AI progress depends on the ability to examine, build upon, and improve the technology, not simply ac",
+    "zh": "The #1 model outside US and China, but 360-open. Meaningful AI progress depends on the ability to examine, build upon, and improve the technology, not simply ac"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2095516226491478452",
+   "note": {
+    "en": "Xing calls K2 Horizon the top open model outside the US and China, arguing real AI progress requires the ability to examine and build on the technology, not just access it via API.",
+    "zh": "邢波称K2 Horizon是美中之外排名第一的开源模型,并强调真正的AI进步需要能够审查和基于技术本身进行改进,而不仅仅是通过API访问。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "When you consider a house, do you just want to be a pay-to-stay tenant like in a hotel, or buy it but without its blueprint and material documents, or own the h",
+    "zh": "When you consider a house, do you just want to be a pay-to-stay tenant like in a hotel, or buy it but without its blueprint and material documents, or own the h"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2095515047304839370",
+   "note": {
+    "en": "Xing uses a housing analogy to argue for full model ownership — owning a house with its blueprints, not just renting or buying without the underlying plans.",
+    "zh": "邢波用买房作类比,主张应完整拥有模型——就像拥有带图纸的房子,而不是仅仅租住或买房却拿不到设计图纸。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
+    "zh": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.04010v1",
+   "note": {
+    "en": "Xing co-authored a paper proposing discrete diffusion methods to achieve lossless inference speedups in LLMs over standard autoregressive decoding.",
+    "zh": "邢波合著论文，提出用离散扩散方法在不损失质量的前提下加速大语言模型推理，优于传统自回归解码。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-08-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "“Rebuilding” Statistics in the Age of AI: Culture, Infrastructure, and Training",
+    "zh": "“Rebuilding” Statistics in the Age of AI: Culture, Infrastructure, and Training"
+   },
+   "source": "Journal of the American Statistical As…",
+   "url": "https://doi.org/10.1080/01621459.2026.2680161",
+   "note": {
+    "en": "Xing co-authored a Journal of the American Statistical Association piece on rebuilding statistics' culture, infrastructure and training for the AI era.",
+    "zh": "邢波合著了一篇发表于《美国统计学会杂志》的文章，探讨在AI时代重建统计学的文化、基础设施与人才培养。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2026-08-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Toward a First-Principles Update Geometry for the Language-Model Head",
+    "zh": "Toward a First-Principles Update Geometry for the Language-Model Head"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.22253v2",
+   "note": {
+    "en": "Eric Xing co-authored a paper proposing a first-principles update geometry for language-model output heads, refining optimizer design for foundation-model training.",
+    "zh": "邢波合著了一篇论文，提出针对语言模型输出层的第一性原理更新几何方法，改进了基础模型训练中的优化器设计。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-08-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "You can sign up early access to #AIDO Cell —the world‘s first virtual cell, read the full technical report on system guide, and explore collaboration with us at",
+    "zh": "You can sign up early access to #AIDO Cell —the world‘s first virtual cell, read the full technical report on system guide, and explore collaboration with us at"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2089921935392014501",
+   "note": {
+    "en": "Xing announced early access sign-up for AIDO Cell, the virtual-cell model from GenBio AI, alongside its technical report.",
+    "zh": "邢波宣布GenBio AI推出的虚拟细胞模型AIDO Cell开放早期注册，并发布了配套技术报告。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We are proud to release the world's first virtual cell -- a multi-modal, multi-scale, dynamic, and stateful world model of the cell, the first step toward an AI",
+    "zh": "We are proud to release the world's first virtual cell -- a multi-modal, multi-scale, dynamic, and stateful world model of the cell, the first step toward an AI"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2089712585524605127",
+   "note": {
+    "en": "Xing announced the release of AIDO, billed as the first virtual-cell world model — a multi-modal, multi-scale, stateful model of the cell — toward an AI-driven Digital Organism.",
+    "zh": "邢波宣布发布AIDO，号称首个虚拟细胞世界模型——一个多模态、多尺度、有状态的细胞模型，迈向AI驱动的数字生命体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Our #AIDO perspective is on the cover page of @NatureMedicine !",
+    "zh": "Our #AIDO perspective is on the cover page of @NatureMedicine !"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2088123368692191356",
+   "note": {
+    "en": "Xing noted that his team's AIDO perspective piece made the cover of Nature Medicine.",
+    "zh": "邢波指出其团队关于AIDO的观点文章登上了《自然·医学》封面。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "AI is more than LLMs and agentic systems thereupon that deliver \"book intelligence\", it can help better understand nature and life by simulating it computationa",
+    "zh": "AI is more than LLMs and agentic systems thereupon that deliver \"book intelligence\", it can help better understand nature and life by simulating it computationa"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2088024054196314547",
+   "note": {
+    "en": "Xing argued AI's value extends beyond LLMs and agents to simulating nature and life computationally, pointing to his Nature Medicine paper.",
+    "zh": "邢波指出AI的价值不止于大模型和智能体，还能通过计算方式模拟自然与生命，并引用了其在《自然·医学》发表的论文。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-07-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Raven: High-Recall Sequence Modeling with Sparse Memory Routing",
+    "zh": "Raven: High-Recall Sequence Modeling with Sparse Memory Routing"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.25357v1",
+   "note": {
+    "en": "Introduces Raven, a linear-time sequence model that routes writes into a sparse memory instead of a dense state, recovering long-context recall; co-authored with Albert Gu's group.",
+    "zh": "提出 Raven：用稀疏记忆路由取代稠密状态写入的线性时间序列模型，以恢复长上下文召回能力，与 Albert Gu 团队合作完成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Context-Adaptive Inference: A Unified Statistical and Foundation-Model View",
+    "zh": "Context-Adaptive Inference: A Unified Statistical and Foundation-Model View"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.23304v1",
+   "note": {
+    "en": "Unifies classical varying-coefficient statistics and foundation-model in-context adaptation under one account of context-adaptive inference, continuing Xing's contextualized machine learning line.",
+    "zh": "将经典的变系数统计方法与基础模型的上下文内自适应统一为一套「上下文自适应推断」框架，延续邢波在情境化机器学习方向的研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "It was a pleasure to sit down with @BeckyCNN to discuss impact of AI on society and how to prepare our young generation for that — learn it, use it, and ask new",
+    "zh": "It was a pleasure to sit down with @BeckyCNN to discuss impact of AI on society and how to prepare our young generation for that — learn it, use it, and ask new"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2079936898659979660",
+   "note": {
+    "en": "Xing discussed with CNN's Becky Anderson how AI is reshaping society and how the next generation should prepare for it.",
+    "zh": "邢波在接受CNN Becky Anderson采访时探讨了AI对社会的影响，以及年轻一代应如何为此做好准备。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-07-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Retrieval-Augmented Interpretable Learning: Towards Task-Specific Zero-Shot Models in Healthcare",
+    "zh": "Retrieval-Augmented Interpretable Learning: Towards Task-Specific Zero-Shot Models in Healthcare"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.17508v2",
+   "note": {
+    "en": "Presents RAIL, a meta-learning framework that generates task-specific interpretable models for healthcare with no task-specific training data.",
+    "zh": "提出 RAIL 元学习框架，无需任务专属训练数据即可为医疗场景零样本生成可解释模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Agree. Not just in LLM-biz, industry in general, even in academia, university presidents, provosts, are better served if they themselves are down-to-earth doers",
+    "zh": "Agree. Not just in LLM-biz, industry in general, even in academia, university presidents, provosts, are better served if they themselves are down-to-earth doers"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2079112756049903797",
+   "note": {
+    "en": "Xing argued that university presidents and provosts, like industry leaders, are better served by staying hands-on practitioners rather than purely administrators.",
+    "zh": "邢波认为，大学校长和教务长与业界领袖一样，若能保持亲力亲为的实践者身份而非纯粹的管理者，会做得更好。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-06-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We discussed foundational issues underlying how to make truly “agentive” systems. https://t.co/sgO2XjDg0b",
+    "zh": "We discussed foundational issues underlying how to make truly “agentive” systems. https://t.co/sgO2XjDg0b"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2069628759758848162",
+   "note": {
+    "en": "Xing shared a discussion on the foundational issues in building truly \"agentive\" AI systems.",
+    "zh": "邢波分享了一场关于构建真正“具备能动性”的AI系统所涉及的基础性问题的讨论。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-06-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Critique of Agent Model",
+    "zh": "Critique of Agent Model"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.23991v1",
+   "note": {
+    "en": "A position paper he leads as first author arguing that current \"agentic\" LLM systems lack a coherent model of agency, and setting out what one would require.",
+    "zh": "他作为第一作者撰写的立场论文，指出当前所谓「智能体」的大模型系统缺乏连贯的能动性模型，并提出这样的模型应具备什么。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "A companion paper to the critique of agent model paper. https://t.co/4tEIM7TO3u",
+    "zh": "A companion paper to the critique of agent model paper. https://t.co/4tEIM7TO3u"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2067891957167542351",
+   "note": {
+    "en": "Xing shared a companion paper to his critique of the agent-model framing of AI systems.",
+    "zh": "邢波分享了一篇论文，作为其对“智能体模型”框架批判的姊妹篇。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-06-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Decoding the “Critique of Agent Model” Paper https://t.co/V3Ry8HVnYs",
+    "zh": "Decoding the “Critique of Agent Model” Paper https://t.co/V3Ry8HVnYs"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2067884070131102123",
+   "note": {
+    "en": "Xing shared a piece decoding his own paper critiquing the \"agent model\" framing of AI systems.",
+    "zh": "邢波分享了一篇解读其批判“智能体模型”论文的文章。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-06-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "From Reasoning Traces to Reusable Modules: Understanding Compositional Generalization in Language Model Reasoning",
+    "zh": "From Reasoning Traces to Reusable Modules: Understanding Compositional Generalization in Language Model Reasoning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.18089v2",
+   "note": {
+    "en": "Paper analysing how SFT-plus-RL post-training produces reusable reasoning modules and where compositional generalisation comes from.",
+    "zh": "论文分析 SFT 加强化学习的后训练如何形成可复用的推理模块，以及组合泛化的来源。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The outlook of an AI-driven Digital Organism (AIDO), such as a virtual cell (VC), has recently captivated much excitement and imagination from both AI and Biolo",
+    "zh": "The outlook of an AI-driven Digital Organism (AIDO), such as a virtual cell (VC), has recently captivated much excitement and imagination from both AI and Biolo"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2066831380852412610",
+   "note": {
+    "en": "Xing laid out the outlook and open problems for an AI-driven Digital Organism such as a virtual cell, a topic drawing excitement across AI and biology.",
+    "zh": "邢波阐述了AI驱动的数字生命体（如虚拟细胞）的前景与待解难题，这一话题正引发AI与生物学界的广泛关注。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-06-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "With the rise of LLM systems marketed as \"coding agents\", \"AI co-scientists\", etc. that promise to drive up productivity, and at the same time outcry of \"existe",
+    "zh": "With the rise of LLM systems marketed as \"coding agents\", \"AI co-scientists\", etc. that promise to drive up productivity, and at the same time outcry of \"existe"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2066761661201985719",
+   "note": {
+    "en": "Xing weighed in on the hype around LLM-based \"coding agents\" and \"AI co-scientists\" versus concerns about AI escaping human control.",
+    "zh": "邢波就被包装成“编程智能体”“AI联合科学家”的大模型系统所受追捧，以及AI失控等“存在性”担忧发表了看法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-05-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Uniform Diffusion Models Revisited: Leave-One-Out Denoiser and Absorbing State Reformulation",
+    "zh": "Uniform Diffusion Models Revisited: Leave-One-Out Denoiser and Absorbing State Reformulation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.22765v1",
+   "note": {
+    "en": "Revisits uniform discrete diffusion, deriving a leave-one-out denoiser and an absorbing-state reformulation of the reverse dynamics.",
+    "zh": "重新审视均匀离散扩散模型，推导出留一去噪器，并将逆向动力学重构为吸收态形式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Efficient Agentic Reasoning Through Self-Regulated Simulative Planning",
+    "zh": "Efficient Agentic Reasoning Through Self-Regulated Simulative Planning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.22138v1",
+   "note": {
+    "en": "Proposes agents that decide for themselves when to plan, using self-regulated simulative planning rather than relying on planning to emerge from end-to-end training.",
+    "zh": "提出让智能体自行决定何时规划的自调节模拟规划方法，而非指望规划能力从端到端训练中自发涌现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "CHI-Bench: Can AI Agents Automate End-to-End, Long-Horizon, Policy-Rich Healthcare Workflows?",
+    "zh": "CHI-Bench: Can AI Agents Automate End-to-End, Long-Horizon, Policy-Rich Healthcare Workflows?"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.16679v2",
+   "note": {
+    "en": "Introduces CHI-Bench, a benchmark testing whether agents can run long-horizon, policy-dense healthcare workflows end to end.",
+    "zh": "提出 CHI-Bench 基准，检验智能体能否端到端执行长周期、规则密集的医疗业务流程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GQA-μP: The maximal parameterization update for grouped query attention",
+    "zh": "GQA-μP: The maximal parameterization update for grouped query attention"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.15290v1",
+   "note": {
+    "en": "Derives the maximal update parameterization for grouped query attention, so tuned hyperparameters transfer across model scales under GQA.",
+    "zh": "推导分组查询注意力下的最大更新参数化，使调好的超参数能在 GQA 架构中跨模型规模迁移。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "EMO: Frustratingly Easy Progressive Training of Extendable MoE",
+    "zh": "EMO: Frustratingly Easy Progressive Training of Extendable MoE"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.13247v2",
+   "note": {
+    "en": "Presents EMO, a progressive training recipe that lets a sparse mixture-of-experts model be extended with more experts after training has begun.",
+    "zh": "提出 EMO 渐进式训练方法，使稀疏专家混合模型在训练开始后仍可继续扩充专家数量。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-11",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Siliconsciousness: The Great and Good Disruptive Power of World Models",
+    "zh": "Siliconsciousness: The Great and Good Disruptive Power of World Models"
+   },
+   "source": "The DSR Network",
+   "url": "https://podcasts.apple.com/us/podcast/siliconsciousness-the-great-and-good-disruptive/id1245002955?i=1000767235232&uo=4",
+   "note": {
+    "en": "Xing joined David Rothkopf on The DSR Network's Siliconsciousness podcast to discuss MBZUAI's approach to AI education, world models, and human agency in AI.",
+    "zh": "邢波在The DSR Network的Siliconsciousness播客节目中与David Rothkopf对谈，探讨了MBZUAI的AI教育方式、世界模型以及AI时代的人类能动性问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-05-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "“A university that asks students what they want and gives it to them is not educating – it is catering.” In my annual MBZUAI commencement address today, I empha",
+    "zh": "“A university that asks students what they want and gives it to them is not educating – it is catering.” In my annual MBZUAI commencement address today, I empha"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2052695285827281177",
+   "note": {
+    "en": "In his MBZUAI commencement address, Xing argued that a university that simply gives students what they ask for is catering, not educating.",
+    "zh": "邢波在MBZUAI毕业典礼致辞中提出，一所大学若只是满足学生的要求，那是在迎合而非教育。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-04-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "COPUS: Co-adaptive Parallelism and Batch Size Selection in Large Language Model Training",
+    "zh": "COPUS: Co-adaptive Parallelism and Batch Size Selection in Large Language Model Training"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.26687v1",
+   "note": {
+    "en": "Systems work from his distributed-training line: COPUS jointly selects global batch size and 3D parallelism strategy for LLM training instead of tuning them separately.",
+    "zh": "延续其分布式训练方向的系统工作：COPUS 联合选择大模型训练的全局批大小与三维并行策略，而非分别调优。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "At ⁦@genbioai⁩, we use AI to build AI, so virtual cells can be made and harnessed automatically at scale. https://t.co/A58YNZwraO",
+    "zh": "At ⁦@genbioai⁩, we use AI to build AI, so virtual cells can be made and harnessed automatically at scale. https://t.co/A58YNZwraO"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2047972576488792127",
+   "note": {
+    "en": "Xing described GenBio AI's approach of using AI to build AI, so virtual cells can be generated and deployed automatically at scale.",
+    "zh": "邢波介绍了GenBio AI“用AI构建AI”的方法，使虚拟细胞得以自动化、规模化地生成与应用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-04-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "CocoaBench: Evaluating Unified Digital Agents in the Wild",
+    "zh": "CocoaBench: Evaluating Unified Digital Agents in the Wild"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.11201v2",
+   "note": {
+    "en": "CocoaBench evaluates unified digital agents across software engineering, research and GUI automation in realistic settings.",
+    "zh": "CocoaBench 在贴近真实的场景中，横跨软件工程、深度研究与图形界面自动化评测统一型数字智能体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "World Reasoning Arena",
+    "zh": "World Reasoning Arena"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.25887v1",
+   "note": {
+    "en": "From the PAN team he co-leads: a benchmark for world models that tests reasoning about environments rather than narrow prediction tasks.",
+    "zh": "出自他共同领导的 PAN 团队：面向世界模型的基准，考察对环境的推理能力而非狭窄的预测任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "A major breakthrough that will tip the landscape of world models! The #FastVideo from Institute of Foundation Models of @mbzuai in collaboration with UC San Die",
+    "zh": "A major breakthrough that will tip the landscape of world models! The #FastVideo from Institute of Foundation Models of @mbzuai in collaboration with UC San Die"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2034880699669651576",
+   "note": {
+    "en": "Xing highlighted FastVideo, a world-model breakthrough from MBZUAI's Institute of Foundation Models with UC San Diego.",
+    "zh": "邢波介绍了FastVideo——MBZUAI基础模型研究所与加州大学圣地亚哥分校合作取得的世界模型突破。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-03-16",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#351 Will World Models Bring us AGI? with Eric Xing, President & Professor at MBZUAI",
+    "zh": "#351 Will World Models Bring us AGI? with Eric Xing, President & Professor at MBZUAI"
+   },
+   "source": "DataFramed",
+   "url": "https://podcasts.apple.com/us/podcast/351-will-world-models-bring-us-agi-with-eric-xing/id1336150688?i=1000755537913&uo=4",
+   "note": {
+    "en": "Long-form DataFramed interview in which he argues world models, not language models, are the route to general intelligence.",
+    "zh": "在 DataFramed 播客的长篇访谈中，他提出通向通用智能的路径是世界模型而非语言模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-03-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "IsoCompute Playbook: Optimally Scaling Sampling Compute for LLM RL",
+    "zh": "IsoCompute Playbook: Optimally Scaling Sampling Compute for LLM RL"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.12151v1",
+   "note": {
+    "en": "Studies how to allocate sampling compute in RL post-training of LLMs, giving iso-compute scaling prescriptions analogous to pre-training scaling laws.",
+    "zh": "研究大模型强化学习后训练中采样算力的分配方式，给出与预训练缩放律相对应的等算力扩展方案。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device",
+    "zh": "Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.20161v2",
+   "note": {
+    "en": "MBZUAI work on Mobile-O, a unified multimodal understanding-and-generation model small enough to run on edge devices.",
+    "zh": "MBZUAI 的 Mobile-O 工作：一个足够轻量、可在端侧设备运行的统一多模态理解与生成模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "CellMaster: Collaborative Cell Type Annotation in Single-Cell Analysis",
+    "zh": "CellMaster: Collaborative Cell Type Annotation in Single-Cell Analysis"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.13346v1",
+   "note": {
+    "en": "Applies multi-agent LLM collaboration to cell type annotation, a long-standing bottleneck in single-cell RNA-seq analysis.",
+    "zh": "将多智能体大模型协作用于细胞类型标注——单细胞 RNA 测序分析中长期存在的瓶颈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "scPilot: Large Language Model Reasoning Toward Automated Single-Cell Analysis and Discovery",
+    "zh": "scPilot: Large Language Model Reasoning Toward Automated Single-Cell Analysis and Discovery"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.11609v1",
+   "note": {
+    "en": "scPilot has an LLM reason directly over single-cell RNA-seq data in natural language, extending his computational-biology work to omics-native reasoning.",
+    "zh": "scPilot 让大模型以自然语言直接对单细胞 RNA 测序数据进行推理，将他的计算生物学工作扩展到组学原生推理。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Retrieval-Aware Distillation for Transformer-SSM Hybrids",
+    "zh": "Retrieval-Aware Distillation for Transformer-SSM Hybrids"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.11374v1",
+   "note": {
+    "en": "Distills retrieval-capable attention behaviour into Transformer-SSM hybrids to close the in-context retrieval gap of state-space models.",
+    "zh": "将具备检索能力的注意力行为蒸馏进 Transformer-SSM 混合架构，弥补状态空间模型在上下文内检索上的短板。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "FIRE-Bench: Evaluating AI Agents on the Rediscovery of Scientific Insights",
+    "zh": "FIRE-Bench: Evaluating AI Agents on the Rediscovery of Scientific Insights"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.02905v2",
+   "note": {
+    "en": "Paper introducing FIRE-Bench, a benchmark testing whether LLM agents can rediscover known scientific insights.",
+    "zh": "论文提出 FIRE-Bench，用于检验大模型智能体能否重新发现已知的科学结论。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "My conversation with @partickmoorhead at #Davos26 on rethinking AI ladders (book-intelligence, physical intelligence, social intelligence, and philosophical int",
+    "zh": "My conversation with @partickmoorhead at #Davos26 on rethinking AI ladders (book-intelligence, physical intelligence, social intelligence, and philosophical int"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2016262085261590924",
+   "note": {
+    "en": "Xing discussed rethinking \"AI ladders\" — book, physical, social and philosophical intelligence — plus world models and open research, in a Davos conversation with Patrick Moorhead.",
+    "zh": "邢波在达沃斯与Patrick Moorhead对谈，探讨重新审视“AI阶梯”（书本智能、物理智能、社会智能与哲学智能）、世界模型及开放研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-01-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The #K2Think V2 we released today represents a significant leap of the already-strong performance on deep reasoning over V1 (https://t.co/qiELrJOmDt), and furth",
+    "zh": "The #K2Think V2 we released today represents a significant leap of the already-strong performance on deep reasoning over V1 (https://t.co/qiELrJOmDt), and furth"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2016255402040852642",
+   "note": {
+    "en": "Xing announced K2 Think V2, a significant leap in deep-reasoning performance and reliability over V1.",
+    "zh": "邢波宣布K2 Think V2发布，在深度推理性能和可靠性上较V1有显著提升。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-01-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "\"Rebuilding\" Statistics in the Age of AI: A Town Hall Discussion on Culture, Infrastructure, and Training",
+    "zh": "\"Rebuilding\" Statistics in the Age of AI: A Town Hall Discussion on Culture, Infrastructure, and Training"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2601.17510v1",
+   "note": {
+    "en": "He is one of the panellists in this published record of the JSM town hall on how statistics should rebuild its culture, infrastructure and training for the AI era.",
+    "zh": "他是这场 JSM 圆桌讨论的与会者之一，会议记录探讨统计学应如何为人工智能时代重建其学术文化、基础设施与人才培养。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "It was a pleasure to share the stage with @Yoshua_Bengio, @YejinChoinka, @harari_yuval, and @nxthompson, at #WEF26 in Davos to discuss \"Next Phase of Intelligen",
+    "zh": "It was a pleasure to share the stage with @Yoshua_Bengio, @YejinChoinka, @harari_yuval, and @nxthompson, at #WEF26 in Davos to discuss \"Next Phase of Intelligen"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2013757256974639580",
+   "note": {
+    "en": "Xing shared his reservations on current AI trajectories at a WEF Davos panel with Yoshua Bengio, Yejin Choi and Yuval Harari on the \"Next Phase of Intelligence.\"",
+    "zh": "邢波在达沃斯世界经济论坛与Yoshua Bengio、Yejin Choi、Yuval Harari同台探讨“智能的下一阶段”，并分享了他对当前AI发展路径的保留意见。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-01-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "LAPS: A Length-Aware-Prefill LLM Serving System",
+    "zh": "LAPS: A Length-Aware-Prefill LLM Serving System"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2601.11589v2",
+   "note": {
+    "en": "LLM serving system that disaggregates requests by prompt length to cut time-to-first-token, from his systems group with Qirong Ho.",
+    "zh": "与何奇龙团队合作的大模型服务系统，按提示长度拆分请求以降低首字延迟。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "2025 has been a productive year for me as a researcher and engineering lead. I managed to spend time working on three exciting technical projects in addition to",
+    "zh": "2025 has been a productive year for me as a researcher and engineering lead. I managed to spend time working on three exciting technical projects in addition to"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2006815534487318543",
+   "note": {
+    "en": "Xing reflected on 2025 as a productive year, working on three technical research projects alongside leading MBZUAI.",
+    "zh": "邢波回顾2025年，称这是充实的一年，在领导MBZUAI的同时还推进了三个技术研究项目。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-31",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "2025 marks a year of transformation for @mbzuai. We have begun a new chapter in our development - from an AI-centric university to an AI-powered comprehensive u",
+    "zh": "2025 marks a year of transformation for @mbzuai. We have begun a new chapter in our development - from an AI-centric university to an AI-powered comprehensive u"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2006306050958573996",
+   "note": {
+    "en": "Xing described 2025 as a year of transformation for MBZUAI, shifting from an AI-centric university toward an AI-powered comprehensive university.",
+    "zh": "邢波称2025年是MBZUAI转型的一年，学校正从以AI为中心的大学向AI驱动的综合性大学迈进。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Long context LLM training made (quasi) linear via core-attention disaggregation. 👇",
+    "zh": "Long context LLM training made (quasi) linear via core-attention disaggregation. 👇"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2002327699214512320",
+   "note": {
+    "en": "Xing shared work making long-context LLM training quasi-linear via core-attention disaggregation.",
+    "zh": "邢波分享了通过核心注意力解耦实现长上下文大模型训练近线性化的研究工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "K2-V2 is a 70B parameter 360-open #LLM built from scratch as a superior base for reasoning adaptation, in addition to functions such as conversation and knowled",
+    "zh": "K2-V2 is a 70B parameter 360-open #LLM built from scratch as a superior base for reasoning adaptation, in addition to functions such as conversation and knowled"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2001862119009194179",
+   "note": {
+    "en": "Xing detailed K2-V2, a 70B-parameter fully open LLM built from scratch as a base for reasoning, conversation and knowledge retrieval.",
+    "zh": "邢波介绍了K2-V2，一个从零训练、完全开放的700亿参数大模型，可作为推理、对话与知识检索的基础模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "When you map today’s #LLMs across performance, openness, and scale, the landscape becomes unmistakable: U.S. frontier models dominate performance, but remain co",
+    "zh": "When you map today’s #LLMs across performance, openness, and scale, the landscape becomes unmistakable: U.S. frontier models dominate performance, but remain co"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2001854548860953075",
+   "note": {
+    "en": "Xing mapped the LLM landscape across performance, openness and scale, noting U.S. frontier models dominate performance but stay closed while Chinese open-weight systems close the gap.",
+    "zh": "邢波从性能、开放度与规模三个维度描绘了大模型格局，指出美国前沿模型性能领先但保持闭源，而中国开源模型正在缩小差距。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Bridging Streaming Continual Learning via In-Context Large Tabular Models",
+    "zh": "Bridging Streaming Continual Learning via In-Context Large Tabular Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.11668v1",
+   "note": {
+    "en": "Uses in-context learning in large tabular models to handle streaming continual learning, bridging concept drift adaptation and catastrophic forgetting.",
+    "zh": "利用大型表格模型的上下文内学习处理流式持续学习，将概念漂移适应与灾难性遗忘两类问题连接起来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Beyond the Black Box: Identifiable Interpretation and Control in Generative Models via Causal Minimality",
+    "zh": "Beyond the Black Box: Identifiable Interpretation and Control in Generative Models via Causal Minimality"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.10720v2",
+   "note": {
+    "en": "With Kun Zhang's causality group, shows that causal minimality yields identifiable and controllable interpretations of generative models.",
+    "zh": "与张坤的因果推断团队合作，论证因果最小性可为生成模型带来可识别、可控制的解释。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Impressive position of the 5-year old @mbzuai of UAE in this picture 😊 Congratulations to our faculty and students!",
+    "zh": "Impressive position of the 5-year old @mbzuai of UAE in this picture 😊 Congratulations to our faculty and students!"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/1997868526535643251",
+   "note": {
+    "en": "Xing celebrated MBZUAI's strong showing, at five years old, in a ranking of top AI research contributors.",
+    "zh": "邢波庆祝仅五岁的MBZUAI在AI研究贡献排名中取得优异成绩。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Now you have an alternative to the super popular but unfortunately not so transparent (you have no idea how it was trained, what data was used, is it safe …) ba",
+    "zh": "Now you have an alternative to the super popular but unfortunately not so transparent (you have no idea how it was trained, what data was used, is it safe …) ba"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/1996995024215802190",
+   "note": {
+    "en": "Xing positioned his team's model as a transparent alternative to popular but opaque base LLMs like Qwen 2.5/3, whose training data and safety are undisclosed.",
+    "zh": "邢波将其团队的模型定位为Qwen 2.5/3等热门但不透明基础大模型的透明替代方案，后者的训练数据与安全性均未公开。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-11-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "In this paper we present the first full implementation of the Generative Latent Prediction (GLP) architecture of world modeling, that brings perception, state,",
+    "zh": "In this paper we present the first full implementation of the Generative Latent Prediction (GLP) architecture of world modeling, that brings perception, state,"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/1989261296278335683",
+   "note": {
+    "en": "Xing presented the first full implementation of the Generative Latent Prediction (GLP) world-modeling architecture, unifying perception, state, action and causality.",
+    "zh": "邢波展示了生成式潜在预测（GLP）世界建模架构的首个完整实现，将感知、状态、动作与因果统一于一体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-11-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I am excited to unveil PAN, a general, interactable, and long-horizon world model that invites you to step into infinitely possible real or surreal worlds unfol",
+    "zh": "I am excited to unveil PAN, a general, interactable, and long-horizon world model that invites you to step into infinitely possible real or surreal worlds unfol"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/1989182545905480104",
+   "note": {
+    "en": "Xing unveiled PAN, a general, interactive, long-horizon world model for exploring possible real or imagined worlds.",
+    "zh": "邢波发布了PAN——一个通用、可交互、长时程的世界模型，可用于探索可能的现实或想象世界。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-11-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Great to meet @demishassabis today at @mbzuai to introduce to him our university and discuss a wide range of topics from world model to virtual cell and find lo",
+    "zh": "Great to meet @demishassabis today at @mbzuai to introduce to him our university and discuss a wide range of topics from world model to virtual cell and find lo"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/1985448397294485675",
+   "note": {
+    "en": "Xing hosted Demis Hassabis at MBZUAI, discussing world models, virtual cells and shared research directions.",
+    "zh": "邢波在MBZUAI接待了Demis Hassabis，双方就世界模型、虚拟细胞等共同研究方向进行了交流。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-09-30",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#2: Is the Path to Empowerment Paved by AI? - Eric Xing",
+    "zh": "#2: Is the Path to Empowerment Paved by AI? - Eric Xing"
+   },
+   "source": "The Deep View: Conversations",
+   "url": "https://podcasts.apple.com/us/podcast/2-is-the-path-to-empowerment-paved-by-ai-eric-xing/id1769262461?i=1000671346130&uo=4",
+   "note": {
+    "en": "Interview recorded in Abu Dhabi on his leadership of MBZUAI, the first university dedicated solely to AI.",
+    "zh": "在阿布扎比录制的访谈，谈他执掌全球首所人工智能专门大学 MBZUAI 的经历。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [
+  {
+   "date": "2025-09-01",
+   "level": "notable",
+   "title": {
+    "en": "MBZUAI's Institute of Foundation Models releases open reasoning model K2 Think",
+    "zh": "MBZUAI 基础模型研究院开源推理模型 K2 Think"
+   },
+   "body": {
+    "en": "Covered internationally as part of the UAE's sovereign-AI push.",
+    "zh": "被国际媒体视为阿联酋主权 AI 推进的一部分。"
+   },
+   "source": "MBZUAI",
+   "url": "https://mbzuai.ac.ae/news/"
+  },
+  {
+   "date": "2026-06-30",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "邢波团队发布《智能体模型批评》，质疑当前AI智能体是否真正具备能动性",
+    "zh": "邢波团队发布《智能体模型批评》，质疑当前AI智能体是否真正具备能动性"
+   },
+   "body": {
+    "en": "Xing's team published a critique of current agent models, questioning whether they possess real agency.",
+    "zh": "邢波团队发布《智能体模型批评》，质疑当前 AI 智能体是否真正具备能动性。"
+   },
+   "source": "虎嗅",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LRW10enNmUWtaTzFNcnBhai10TEdERk81LS1BQ21YejF5QTN4MEw3X3lhMUo1d3p6X1BQV1ktU2dxdGc0YWRrczNDQWFicHpfNFhrSg?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "research",
+ "score": {
+  "total": 32.1,
+  "attention": 25,
+  "centrality": 14,
+  "momentum": 58,
+  "stature": 54,
+  "pageviews": 21312,
+  "citations": 41656,
+  "hIndex": 97,
+  "events": 2,
+  "posts": 70,
+  "wikiEn": "Eric Xing",
+  "wikiZh": "邢波"
+ },
+ "seedRank": 87,
+ "tier": "t5"
+}

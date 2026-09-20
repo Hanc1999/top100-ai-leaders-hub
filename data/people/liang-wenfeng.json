@@ -1,0 +1,1682 @@
+{
+ "rank": 21,
+ "id": "liang-wenfeng",
+ "name": {
+  "en": "Liang Wenfeng",
+  "zh": "梁文锋"
+ },
+ "role": {
+  "en": "Founder & CEO, DeepSeek; Founder, High-Flyer",
+  "zh": "DeepSeek 深度求索创始人兼 CEO；幻方量化创始人"
+ },
+ "org": "DeepSeek",
+ "region": {
+  "en": "China",
+  "zh": "中国"
+ },
+ "tags": [
+  "DeepSeek",
+  "V4 Pro",
+  "Open weights",
+  "MIT License",
+  "MoE"
+ ],
+ "why": {
+  "en": "V3 and R1 did three things at once: proved frontier capability under constrained compute, released weights and methods fully open, and forced international labs to change pricing and open-source posture. No single 2025 event moved the global picture more.",
+  "zh": "V3 与 R1 同时完成了三件事：证明前沿能力可以在受限算力下达成、以完全开源方式发布权重与技术细节、并迫使国际主流实验室调整定价与开源策略。2025 年没有第二个事件对全球格局的改变幅度可与之相比。"
+ },
+ "links": [
+  {
+   "kind": "company",
+   "label": "DeepSeek",
+   "url": "https://www.deepseek.com/",
+   "t": 2
+  },
+  {
+   "kind": "github",
+   "label": "DeepSeek on GitHub",
+   "url": "https://github.com/deepseek-ai",
+   "t": 2
+  },
+  {
+   "kind": "hf",
+   "label": "DeepSeek on Hugging Face",
+   "url": "https://huggingface.co/deepseek-ai",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "DeepSeek on X",
+   "url": "https://x.com/deepseek_ai",
+   "t": 2
+  },
+  {
+   "kind": "x",
+   "label": "X — search",
+   "url": "https://x.com/search?q=%22Liang+Wenfeng%22&f=live",
+   "t": 3
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Liang+Wenfeng",
+   "t": 3
+  },
+  {
+   "kind": "weibo",
+   "label": "微博 — 搜索",
+   "url": "https://s.weibo.com/user?q=%E6%A2%81%E6%96%87%E9%94%8B",
+   "t": 3
+  },
+  {
+   "kind": "zhihu",
+   "label": "知乎 — 搜索",
+   "url": "https://www.zhihu.com/search?type=people&q=%E6%A2%81%E6%96%87%E9%94%8B",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "微信公众号 — 搜索",
+   "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%A2%81%E6%96%87%E9%94%8B",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "B 站 — 搜索",
+   "url": "https://search.bilibili.com/all?keyword=%E6%A2%81%E6%96%87%E9%94%8B",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Liang+Wenfeng",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Liang+Wenfeng",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Liang+Wenfeng&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Liang+Wenfeng&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=%E6%A2%81%E6%96%87%E9%94%8B",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Liang+Wenfeng&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Liang+Wenfeng",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Liang+Wenfeng",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Liang+Wenfeng",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Liang+Wenfeng",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Liang+Wenfeng",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Liang+Wenfeng",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Liang+Wenfeng",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Liang+Wenfeng&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "中文报道 — 最新",
+   "url": "https://www.google.com/search?q=%E6%A2%81%E6%96%87%E9%94%8B+AI&tbm=nws&hl=zh-CN",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Liang_Wenfeng",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2024-12-26",
+   "kind": "report",
+   "title": {
+    "en": "DeepSeek-V3 technical report",
+    "zh": "DeepSeek-V3 技术报告"
+   },
+   "source": "GitHub / arXiv",
+   "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+   "note": {
+    "en": "The report that made the cost argument concrete and forced the rest of the industry to respond.",
+    "zh": "这份报告把成本论证具体化，迫使行业其余部分作出回应。"
+   }
+  },
+  {
+   "date": "2025-01-22",
+   "kind": "paper",
+   "title": {
+    "en": "DeepSeek-R1: incentivizing reasoning capability in LLMs via reinforcement learning",
+    "zh": "DeepSeek-R1：通过强化学习激发大模型的推理能力"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2501.12948",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-04-24",
+   "kind": "report",
+   "title": {
+    "en": "DeepSeek V4 Pro / V4 Flash model cards",
+    "zh": "DeepSeek V4 Pro / V4 Flash 模型卡"
+   },
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/deepseek-ai",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-07-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation",
+    "zh": "DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.05147v1",
+   "note": {
+    "en": "DeepSeek paper on speculative decoding that schedules draft acceptance by confidence and generates semi-autoregressively to speed up inference; Liang is the closing author.",
+    "zh": "DeepSeek 关于推测解码的论文，按置信度调度草稿接受并采用半自回归生成来加速推理，梁文锋为末位作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
+    "zh": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.19348v1",
+   "note": {
+    "en": "Preview report for the DeepSeek-V4 series, a 1.6T-parameter MoE model plus a smaller Flash variant aimed at million-token context at low serving cost.",
+    "zh": "DeepSeek-V4 系列的预览报告，包含 1.6 万亿参数的 MoE 模型与更小的 Flash 版本，目标是以低成本支持百万级 token 上下文。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models",
+    "zh": "Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2601.07372v2",
+   "note": {
+    "en": "DeepSeek paper adding a native lookup primitive for knowledge retrieval to Transformers, proposing conditional memory as a second axis of sparsity alongside MoE.",
+    "zh": "DeepSeek 的论文为 Transformer 引入原生的知识查找机制，提出「条件记忆」作为继 MoE 之后的第二条稀疏化路径。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-31",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "mHC: Manifold-Constrained Hyper-Connections",
+    "zh": "mHC: Manifold-Constrained Hyper-Connections"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.24880v2",
+   "note": {
+    "en": "DeepSeek paper constraining Hyper-Connections to a manifold so the widened residual stream stays stable at scale; Liang is the closing author.",
+    "zh": "DeepSeek 的论文对 Hyper-Connections 施加流形约束，使加宽后的残差流在大规模训练下保持稳定，梁文锋为末位作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models",
+    "zh": "DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.02556v1",
+   "note": {
+    "en": "DeepSeek-V3.2 technical report, pairing higher compute efficiency with reasoning and agent performance.",
+    "zh": "DeepSeek-V3.2 技术报告，在提升计算效率的同时兼顾推理与智能体表现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-05-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures",
+    "zh": "Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2505.09343v2",
+   "note": {
+    "en": "DeepSeek's account of the hardware limits hit while training V3 — memory, compute efficiency and interconnect — and what it implies for future AI hardware design.",
+    "zh": "DeepSeek 复盘训练 V3 时遇到的硬件瓶颈——显存、算力效率与互联带宽——并讨论其对未来 AI 硬件设计的启示。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-02-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention",
+    "zh": "Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2502.11089v2",
+   "note": {
+    "en": "Native Sparse Attention: a hardware-aligned, end-to-end trainable sparse attention scheme for long-context models, and one of DeepSeek's most-cited method papers.",
+    "zh": "Native Sparse Attention：面向长上下文模型、对硬件友好且可端到端训练的稀疏注意力方案，是 DeepSeek 被引用最多的方法论文之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-11-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Fire-Flyer AI-HPC: A Cost-Effective Software-Hardware Co-Design for Deep Learning",
+    "zh": "Fire-Flyer AI-HPC: A Cost-Effective Software-Hardware Co-Design for Deep Learning"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.1109/sc41406.2024.00089",
+   "note": {
+    "en": "Paper on Fire-Flyer, High-Flyer/DeepSeek's cost-effective software-hardware co-designed AI supercomputing cluster.",
+    "zh": "介绍Fire-Flyer的论文，即幻方/DeepSeek成本效益优化的软硬件协同设计AI超算集群。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2024-06-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence",
+    "zh": "DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2406.11931v1",
+   "note": {
+    "en": "DeepSeek-Coder-V2, an open-source Mixture-of-Experts code model the team reports as comparable to GPT-4-Turbo on code tasks.",
+    "zh": "DeepSeek-Coder-V2：开源的混合专家代码模型，团队称其代码能力可与 GPT-4-Turbo 相当。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-05-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model",
+    "zh": "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2405.04434v5",
+   "note": {
+    "en": "DeepSeek-V2, the 236B-parameter MoE model introducing multi-head latent attention for cheap inference — the release that started the Chinese model price war.",
+    "zh": "DeepSeek-V2：2360 亿参数的 MoE 模型，提出多头潜在注意力以降低推理成本，这次发布拉开了国内大模型价格战的序幕。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-01-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence",
+    "zh": "DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2401.14196v2",
+   "note": {
+    "en": "DeepSeek-Coder, the open code-model family that gave researchers a competitive alternative to closed code LLMs.",
+    "zh": "DeepSeek-Coder 开源代码模型系列，为研究者提供了可与闭源代码大模型抗衡的选择。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-01-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models",
+    "zh": "DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2401.06066v1",
+   "note": {
+    "en": "DeepSeekMoE introduces fine-grained expert segmentation and shared experts, the mixture-of-experts design that later versions of DeepSeek's models are built on.",
+    "zh": "DeepSeekMoE 提出细粒度专家切分与共享专家机制，成为 DeepSeek 后续各代模型所沿用的混合专家架构。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-01-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DeepSeek LLM: Scaling Open-Source Language Models with Longtermism",
+    "zh": "DeepSeek LLM: Scaling Open-Source Language Models with Longtermism"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2401.02954v1",
+   "note": {
+    "en": "DeepSeek's first LLM report, revisiting scaling laws and setting out the long-term open-source stance the company has followed since.",
+    "zh": "DeepSeek 的首份大模型报告，重新审视了扩展定律，并确立了公司此后一贯坚持的长期开源路线。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-04-24",
+   "level": "major",
+   "title": {
+    "en": "DeepSeek V4 Pro released — 1.6T MoE, 1M context, open weights",
+    "zh": "DeepSeek V4 Pro 发布 —— 1.6T MoE，100 万上下文，开放权重"
+   },
+   "body": {
+    "en": "1.6T total / 49B active parameters with a 1M-token context window, alongside V4 Flash (284B / 13B active). MIT-licensed.",
+    "zh": "总参数 1.6 万亿、每 token 激活 490 亿，100 万 token 上下文；同时发布 V4 Flash（2840 亿 / 130 亿激活）。MIT 协议。"
+   },
+   "source": "SitePoint",
+   "url": "https://www.sitepoint.com/deepseek-v4-released-whats-new-in-the-latest-model-2026/"
+  },
+  {
+   "date": "2026-05-31",
+   "level": "notable",
+   "title": {
+    "en": "75% promotional pricing made permanent",
+    "zh": "75% 促销价永久化"
+   },
+   "body": {
+    "en": "V4-Pro list price settles at $0.435 / M input (cache miss) and $0.87 / M output.",
+    "zh": "V4-Pro 定价固定为每百万输入 token 0.435 美元（未命中缓存）、每百万输出 token 0.87 美元。"
+   },
+   "source": "TeamAI",
+   "url": "https://platform.teamai.com/blog/large-language-models-llms/understanding-the-different-deepseek-models/"
+  },
+  {
+   "date": "2026-06-01",
+   "level": "minor",
+   "title": {
+    "en": "R2 still unshipped",
+    "zh": "R2 仍未发布"
+   },
+   "body": {
+    "en": "No official model card; Reuters previously reported Liang was unsatisfied with its performance. Treat R2 claims as rumour.",
+    "zh": "无官方模型卡；路透此前报道梁文锋对其性能不满意。R2 相关说法应视为传闻。"
+   },
+   "source": "Decode the Future",
+   "url": "https://decodethefuture.org/en/deepseek-r2-explained/"
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T09:38:44Z",
+   "level": "notable",
+   "title": {
+    "en": "投遍梁文锋对手的男人，如今成了他的CFO",
+    "zh": "投遍梁文锋对手的男人，如今成了他的CFO"
+   },
+   "body": {
+    "en": "An investor previously backing several of DeepSeek's rivals has joined High-Flyer/DeepSeek as CFO, a notable executive hire for the company Liang founded.",
+    "zh": "一位此前投资过DeepSeek多个竞争对手的投资人已加入幻方/DeepSeek担任CFO，这是梁文锋所创公司的一次重要高管任命。"
+   },
+   "source": "财经号",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45SUlidmg5bWU3dXNlTGNobWRuMjdaVU9fbXZ5d2p2aDRxMXMwekt1M3U2Zkx2aXpUNDNqNlgxdHdBMkFmRVlzOWRxcDFJWUlQb3FwWlVhVjMzWHNxSDM3QjR4ZUE1ay1tWDBB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T20:08:36Z",
+   "level": "notable",
+   "title": {
+    "en": "梁文锋，砍下3400亿估值",
+    "zh": "梁文锋，砍下3400亿估值"
+   },
+   "body": {
+    "en": "Reports say DeepSeek's valuation has been cut sharply to roughly RMB 340 billion, a marked reset in investor expectations for Liang's company.",
+    "zh": "报道称DeepSeek估值被大幅下调至约3400亿元人民币，反映出投资者对梁文锋公司预期的明显调整。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMiyARBVV95cUxPVmMyY01xc2wzU2oyc0dYTzFvdHZiYnEyTVl4QmgzY3FCb016eHRtWWFmdkZfZzVKWWMwandUNGNqdFZlU3VWZWNES2s3WFZCMUx1ZG5Td0JoamNMYmZ0eVRIRWxKQU81cndMM1h3OW42UnVxdFVkVTRENnY1RDhhLWVmYjFVNDlfeXFqaldiZmlqaC1GMG1FS3E1aFBYckYwNW1aazFkYzFoS1ZwQWNMbERGa093Q2Qwbnc3XzB4c1F6TDkzX3FsOGlxX3NwYXNwTXM0MTAwRjlhME9KVnZEaC1ZRm9EWmtXNGpMd1BkUF9UWVV1RGtDbnR0NzluaThNQVIwaTJvazhyUkpGN2FpTWlVMFE2Y0IyWmhjWkZyUjd1ZGdLNTdMTmJEaTh3NjFOaDJlV1JPWDcwa3RERGRxVEcwN0xlTWtNeHgyTEdieXdmMTdTT1lmRzcyQjZtWDlRd0JUUTN4Mi1LWWFEeWdGUkttSENuWUd1Q3pmeUFzVXNxQm01a0thOVlwQkpSa09NNTZ3dWxDWG5tRDgyeU9VaGlHdmI4N2FCYi1Md1VndmY5WXN2d3NRdk1tVUUzUUx3YTYydFQ4eURkTzJrVVJiQ3ptMG1VMzcyeXlITGJqZ2Eza3RGSGlqLUU0b1JZNVI2TnBacktMVTU5UnNSSEhCaVhjLVVYMzd6Njd0dEVrZGI5S3pPZGN6UC1vX2ZndWVHSDg0RGp1ZzNEQ2F6alU1NnltU2c0QVlOZjZNLUJxX1lERUlMcF8tMw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T00:45:07Z",
+   "level": "notable",
+   "title": {
+    "en": "Liang Wenfeng Appointed as CFO: Former Investor in Zhipu AI and MiniMax Takes New Position",
+    "zh": "Liang Wenfeng Appointed as CFO: Former Investor in Zhipu AI and MiniMax Takes New Position"
+   },
+   "body": {
+    "en": "DeepSeek, under Liang Wenfeng, brought on a new CFO who previously invested in Zhipu AI and MiniMax, DeepSeek's first professional finance hire.",
+    "zh": "在梁文锋主导下，DeepSeek聘请了一位曾投资智谱AI和MiniMax的新任CFO，这是DeepSeek首次引入专业财务负责人。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GRk9DdEJ3TXpidF9BSTZCcV9YdG54TUluUy0yekZMQzI1bGxuVU0wVm5pdy1aWUlhWm82TENBSUN3RW5MYjhkZ0VFUDlsUEgxYU93?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T03:00:38Z",
+   "level": "notable",
+   "title": {
+    "en": "高瓴90后合伙人出任DeepSeek首任CFO，梁文锋的“资本翻译官”就位",
+    "zh": "高瓴90后合伙人出任DeepSeek首任CFO，梁文锋的“资本翻译官”就位"
+   },
+   "body": {
+    "en": "DeepSeek appointed a Hillhouse-trained partner as its first-ever CFO, a step toward professionalizing its finance and capital strategy.",
+    "zh": "DeepSeek任命一位出身高瓴的合伙人为首任CFO，是其财务与资本战略走向专业化的重要一步。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRURPOHpWVmFlSlI1SXpLMnpmODBQV2RpMTAyMld1c0VpemtnY3ZMZlM5dGJ2UmhOYVhpeVB2MGZQenJVLS1KSGUtVG84WkZObE1PVDN2Qy1UcWpodmJ4VWw1NzVVVlBhTGpVRklNaXRDN2FEQU0tSGhoSEVaTklsdmlyRy1VZTAzYXdXVg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T03:17:39Z",
+   "level": "notable",
+   "title": {
+    "en": "高瓴90后合伙人出任DeepSeek首任CFO，梁文锋的“资本翻译官”就位",
+    "zh": "高瓴90后合伙人出任DeepSeek首任CFO，梁文锋的“资本翻译官”就位"
+   },
+   "body": {
+    "en": "DeepSeek appointed its first CFO, a Hillhouse-linked capital markets veteran, signaling a move toward more formal financing operations under Liang Wenfeng.",
+    "zh": "DeepSeek迎来首任CFO，由高瓴系90后合伙人出任，被称为梁文锋的\"资本翻译官\"，显示公司正走向更正式的融资运作。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LcmRWc29waFZsTG9HeTVyRDEtNVJmUGM3dF96bTFOU2lNZ2dWaXJhVlB3Sks4ZFFnTmx1OFZCaXZmdmsybmZxbDY4bTAzOGRyQkpfV1FhQUhOSHQ0WDFHV0tDd2tvRC03UFFNQUg5WQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T15:30:00Z",
+   "level": "notable",
+   "title": {
+    "en": "梁文锋CFO到位！投过智谱MiniMax",
+    "zh": "梁文锋CFO到位！投过智谱MiniMax"
+   },
+   "body": {
+    "en": "DeepSeek brought on a CFO with a track record of investing in Zhipu and MiniMax, a sign the company is building out finance leadership as it matures beyond its research-lab origins.",
+    "zh": "DeepSeek迎来新任CFO，此人曾投资智谱和MiniMax，显示公司正从研究实验室起步阶段向成熟企业的财务管理架构过渡。"
+   },
+   "source": "hub.baai.ac.cn",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45OTlDNkY5ZlNRZy1HOXlPbUsteE1sSkJDUzJTNXBHdXU1UHlOaXR4dlZzckE0OVRmV2dGa1dBZGJvTnJWMG4wZQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T22:31:53Z",
+   "level": "notable",
+   "title": {
+    "en": "梁文锋，砍下3400亿估值",
+    "zh": "梁文锋，砍下3400亿估值"
+   },
+   "body": {
+    "en": "Reports put Liang's DeepSeek-linked valuation at roughly 340 billion yuan, a marker of the company's financial standing after its rapid rise.",
+    "zh": "报道称梁文锋相关的DeepSeek估值约为3400亿元人民币，标志着公司在迅速崛起后的财务地位。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxQVC1Fc19GRHZHSHZXeVg2RGhCRUtIQTFCSTFTdVNKYm9ycEpTTHg1UmlPQWgzaUFhSHVTMzZ2NU95aEZVUTl3bzAwTGJ5VUNuMEUtcW5PbHJoY3pkcmVIb1FhNmpRZ3lrWmRubDVaQ1R5X2Z0OFdKRGhXZ0k2dGxhTnhEV0htaF9Ib09JdWRNbzdGWHppT2RvS2FDRUstc3dxRmpTZXpVQm1oWjVPck9vRkFNVURsMmU4R0lIQjRuX2ptLVBBaUVQd3oyX2Q2eEdSQTJwRmZCSGlNODM5d2ZWSElONzBvVjlnTjJ1VGNDdlpfd3RPeXlhUlRKdEpfeFNaNjJXUThodGhHM1gtM1o4MjhmaEZiUnNzemxPdGdWMml6SHItQ1YxMHRjTVB2bGF5S21mdldBMDFodTRaY1lIcW9TeW1UWlFqcGJneGRSWlFxU3k2QUlITWtUR3B5ZW1mb0Rla0xmWE1KNTBvLVB5ZEQ4ek13UG1rUnQ0Rm9DMFhlY0g0Q21aNGw1NFROOUcxVDdyMWJkaGxJaEduUGo2S01odGlKV2R4QVZSYjB0NDRIVXl1cE1hUFJ1aFhKeWsyNENWV0dNZWI?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T19:21:00Z",
+   "level": "notable",
+   "title": {
+    "en": "投遍梁文锋对手的男人，如今成了他的CFO",
+    "zh": "投遍梁文锋对手的男人，如今成了他的CFO"
+   },
+   "body": {
+    "en": "DeepSeek brought on as CFO an investor who had previously backed several of Liang Wenfeng's rivals.",
+    "zh": "曾投资梁文锋多个竞争对手的投资人，如今出任DeepSeek的CFO。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95eWdkN1NVbVhBem15b0lPX1BLSWxUU1g0WEVUdE9GeHV3TkYyRm1kckV0X2ZJRVhBMGx3MzZUWm9wdlAwampPS2c3Tnpmdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T03:47:00Z",
+   "level": "notable",
+   "title": {
+    "en": "高瓴90后，成了梁文锋的CFO",
+    "zh": "高瓴90后，成了梁文锋的CFO"
+   },
+   "body": {
+    "en": "A young executive with Hillhouse ties was brought on as CFO for Liang Wenfeng's operation, a notable leadership hire as DeepSeek/High-Flyer scales.",
+    "zh": "一位与高瓴有渊源的年轻高管出任梁文锋旗下公司的CFO，是DeepSeek/幻方在扩张过程中的一次重要高管任命。"
+   },
+   "source": "tmtpost.com",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTMGxqeHNpRlIybDY0V25wT2hYaHBVQS12OWt0RkY5TF84TjFzRDQ4SjFPSWxlWW5sZFhuTFhadm1LYXBhWERPOWc0YnQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T00:45:00Z",
+   "level": "notable",
+   "title": {
+    "en": "投资界24h|梁文锋招到CFO，高瓴创投严文韬来了；比亚迪高管称燃油车没有未来；达晨100亿未来产业基金完成备案",
+    "zh": "投资界24h|梁文锋招到CFO，高瓴创投严文韬来了；比亚迪高管称燃油车没有未来；达晨100亿未来产业基金完成备案"
+   },
+   "body": {
+    "en": "DeepSeek founder Liang Wenfeng hired a CFO, Hillhouse's Yan Wentao, as the company builds out its leadership team.",
+    "zh": "DeepSeek创始人梁文锋招募高瓴创投的严文韬出任CFO，公司管理团队进一步扩充。"
+   },
+   "source": "投资界",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlWDdaZ0otQnJnWWlKbXlxM1EzZDN6NkNiMUQ2dURSS25XU3dYM3pNeGU5RC1NNGhaLUlyRlBfYW9OR1JxSkVWbG1XYVZXMmlGNlRzX1hn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T01:20:00Z",
+   "level": "notable",
+   "title": {
+    "en": "梁文锋招到CFO：高瓴创投合伙人严文韬或将加入DeepSeek",
+    "zh": "梁文锋招到CFO：高瓴创投合伙人严文韬或将加入DeepSeek"
+   },
+   "body": {
+    "en": "DeepSeek is reportedly bringing on Hillhouse Ventures partner Yan Wentao as CFO, a first move toward formal corporate finance leadership under founder Liang Wenfeng.",
+    "zh": "据报道，DeepSeek将聘请高瓴创投合伙人严文韬出任CFO，这是梁文锋治下DeepSeek首次设立正式财务负责人。"
+   },
+   "source": "thepaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BdkY0TnhXSFVuRXpMV3BEU2tpcXBQWHM3Zkx5X2xqa2RDSFhoN2M4emcyZzBYU0RJQ3lEZGJ2eU9pZDE2WjY1ZDB5MFRsaUV6ZXpabmR0VFkzUmtKTlE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T13:32:00Z",
+   "level": "notable",
+   "title": {
+    "en": "梁文锋CFO到位！投过智谱MiniMax",
+    "zh": "梁文锋CFO到位！投过智谱MiniMax"
+   },
+   "body": {
+    "en": "DeepSeek brought on a CFO who previously invested in rivals Zhipu and MiniMax, a notable hire as the company builds out its leadership team.",
+    "zh": "DeepSeek迎来一位曾投资智谱、MiniMax等竞争对手的CFO，这是公司完善管理团队的重要一步。"
+   },
+   "source": "t.cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WSlMyS3phV1E0MTVrSE9kUW5FcXlLMktYV2l2X2tpdFhQWmUyX3dTV3FiU1ZHVVdfVGRvUGVrcVdwc0J1dmltOHZNWDJuWkpEYWdBSHZTWGNISEdsX185VWZwdFBVemJuTEhta1JwbkJpZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T22:20:45Z",
+   "level": "notable",
+   "title": {
+    "en": "梁文锋CFO到位！投过智谱MiniMax",
+    "zh": "梁文锋CFO到位！投过智谱MiniMax"
+   },
+   "body": {
+    "en": "DeepSeek reportedly brought on Hillhouse Ventures partner Yan Wentao as CFO, a rare confirmed leadership hire for the notoriously low-profile company founded by Liang Wenfeng.",
+    "zh": "有报道称，梁文锋创办的DeepSeek已聘请高瓴创投合伙人严文韬出任CFO，这是这家一贯低调的公司少有的公开高管任命。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4wNmpWVjRLUzNGeks1cE04NS1ZakVwb0lvMFdwdWdNNUFjWVBJdnJjN1BsR2lCMFBZQTVlQVZnSmF3a1V0ck9TNTJjSzc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T09:05:00Z",
+   "level": "notable",
+   "title": {
+    "en": "梁文锋CFO到位，投过智谱MiniMax",
+    "zh": "梁文锋CFO到位，投过智谱MiniMax"
+   },
+   "body": {
+    "en": "DeepSeek installed a CFO who previously backed Zhipu AI and MiniMax, filling out the executive team as the company scales past its research-lab roots.",
+    "zh": "DeepSeek迎来一位曾投资智谱AI和MiniMax的CFO到位，为公司在从研究实验室走向规模化的过程中补齐高管团队。"
+   },
+   "source": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jMjRYSUF4XzVYQ0VYWjRFdXpERG0xLThQMXE1TUFlVndGM2F0SHo2Mk0zVFYzSVptWk1mNHo0ZG5JM3czNllBcHJDS3hnQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T13:32:00Z",
+   "level": "notable",
+   "title": {
+    "en": "梁文锋CFO到位！投过智谱MiniMax",
+    "zh": "梁文锋CFO到位！投过智谱MiniMax"
+   },
+   "body": {
+    "en": "DeepSeek brought on a CFO — former Sogou executive Dong Lu, who has also backed Zhipu and MiniMax — a notable step in building out the company's finance leadership.",
+    "zh": "DeepSeek迎来新任CFO——曾任搜狗高管、并投资过智谱与MiniMax的董璐，这是公司充实财务管理层的重要一步。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWluZS1LU1djdk9ldzRjUDlJbWc2T044VnJOcURaYTgtcFhYUE4wNHNHd0JEWjNDR0ZLazBrRGhnR1ZGUVBqX051UG9ibTFSUHp4ZWl4RUJqaXVXWVVCSDdsNmN1QWNpdHpYNU5PeC1ONlVWcGNSZkVINTFOZGRHVW51NEhYc0hNWWRB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T13:32:00Z",
+   "level": "notable",
+   "title": {
+    "en": "梁文锋CFO到位！投过智谱MiniMax",
+    "zh": "梁文锋CFO到位！投过智谱MiniMax"
+   },
+   "body": {
+    "en": "DeepSeek's new CFO has taken up the position; the hire previously invested in Zhipu AI and MiniMax, filling out DeepSeek's executive team.",
+    "zh": "DeepSeek新任CFO正式到位，此人此前曾投资智谱AI和MiniMax，补齐了DeepSeek的高管团队。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uYnJzOWgtQXo1MnhYeU1abzFteElDdnZSWUVka1hPcjBfUmJMNm8tRHdteVM3RFd0R2N0WDh2SWJVMUUyS3BkUzBiT0Jnc2FfUWc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T04:21:00Z",
+   "level": "minor",
+   "title": {
+    "en": "高瓴90后，成了梁文锋的CFO",
+    "zh": "高瓴90后，成了梁文锋的CFO"
+   },
+   "body": {
+    "en": "A Hillhouse alum in their 20s was named CFO under Liang Wenfeng, a leadership hire within his fund/company.",
+    "zh": "一位90后高瓴系人士出任梁文锋旗下公司CFO，是其团队的一项管理层任命。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwc3YweUJvQWx1eHEtel9iLXVQeFdsdVpydl9qcXZRUUV0VlJNemJ6SGdsOUZ1VWtqM3hpOGJQXzFCbmI3Y1htWFNFakhYMlBSSFY1eU1R?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T08:33:00Z",
+   "level": "notable",
+   "title": {
+    "en": "梁文锋招到CFO：高瓴创投合伙人严文韬或将加入DeepSeek",
+    "zh": "梁文锋招到CFO：高瓴创投合伙人严文韬或将加入DeepSeek"
+   },
+   "body": {
+    "en": "DeepSeek is reportedly recruiting Hillhouse Capital partner Yan Wentao as CFO, a new hire under Liang Wenfeng.",
+    "zh": "据报道，DeepSeek正在招募高瓴创投合伙人严文韬出任CFO，这是梁文锋治下的一项新任命。"
+   },
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLTFpN3lHZ2tTOFBaTjZJb2UxcDRMUXN2emU5UXR6bDJ4NV9OcHBCX1RKMFBvM0pIVU9OeVpfOXd1b21XT1FMLXh0Vlp2Ym9uWUM0cHpjTWg5c2h6RUV0Y3p3N1ZkN0JPZERFeHJQdHNpbVhoQkpKcldKbC1heDhyeWFSb3ppU1FCbG1pQ2hwUEtCdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T10:03:00Z",
+   "level": "notable",
+   "title": {
+    "en": "曝DeepSeek梁文锋招到一位90后CFO，来头不小",
+    "zh": "曝DeepSeek梁文锋招到一位90后CFO，来头不小"
+   },
+   "body": {
+    "en": "DeepSeek reportedly recruited a CFO born after 1990, a notable hire under Liang Wenfeng as the company matures.",
+    "zh": "据报道DeepSeek招募了一位90后CFO，这是梁文锋治下公司走向成熟的一项重要人事任命。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc185Rk1lU05GaVlDTnVUc1czdnpSVkc1T0NEY2hCbThIUndoZGlkRmpaQkNDdWxUdVVFV1NrMjRLRmJ0Q1lwbExudllkQUJXWU1QYmRUSi1kVWFsQ1lDZjdyTzhBNDd4bDRiOExwNVUyTEtEUlZxU00tbG9CTmxEZmdrVmhFNlI0YWJZSw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T16:23:00Z",
+   "level": "notable",
+   "title": {
+    "en": "高瓴90后，成了梁文锋的CFO",
+    "zh": "高瓴90后，成了梁文锋的CFO"
+   },
+   "body": {
+    "en": "DeepSeek brought on a young Hillhouse Capital partner as its new CFO, a notable executive hire as the company scales.",
+    "zh": "DeepSeek迎来一位来自高瓴创投的90后合伙人出任新任CFO，是公司发展壮大过程中的重要高管任命。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jYkFKdDc4ZlhjSU1ydUJ3SXA2bXhndUxsNk1YeGx0eWhtcWJDTVhWVnFDbkRFVkt1V2FQWXlJOTVlLVh2dWVYVDRPRTVYQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T16:23:00Z",
+   "level": "notable",
+   "title": {
+    "en": "高瓴90后出任梁文锋旗下企业CFO 核心财务掌舵人身份引关注",
+    "zh": "高瓴90后出任梁文锋旗下企业CFO 核心财务掌舵人身份引关注"
+   },
+   "body": {
+    "en": "Hillhouse Capital partner Yan Wentao, born in the 1990s, was named CFO of Liang's DeepSeek-linked ventures, putting a new financial lead in place as core money manager.",
+    "zh": "高瓴创投90后合伙人严文韬出任梁文锋旗下企业CFO，成为核心财务掌舵人，此举引发关注。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10LUlsMjVBaEhGOWp5WFFsMnJPN09hLTNsWFZxLW1oNUxUNnJCaWg3b3VtakswVzJkLWFWdFFMZkN4Z3A2VHU2WDZZZ2hLZ1Zyd0Y4?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T06:28:00Z",
+   "level": "notable",
+   "title": {
+    "en": "梁文锋招到CFO：高瓴创投90后合伙人严文韬",
+    "zh": "梁文锋招到CFO：高瓴创投90后合伙人严文韬"
+   },
+   "body": {
+    "en": "DeepSeek hired Yan Wentao, a 1990s-born partner at Hillhouse Capital's venture arm, as its chief financial officer.",
+    "zh": "DeepSeek聘请高瓴创投90后合伙人严文韬担任首席财务官。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYmFOQVc4TldoTGlmdF81Sld5WGNuV0JQZy1OU1AxbVA4ZHYzVE9fa0dmV1h6NVIyWGJDMU9FWGMxMmZSQmNIaEdNTGlRZzctMnplR3otY1NEY1FpQUUzcks5X1RGVXp2UDRrcDZtWHlneHExajZFeUNXVUNEcGZzcVk2a3lsSHFaY3FYdW9wdkEtbTRvbXpxdTMybnI1NEthcXFqYXBRZjlWYWxMNVpfcXhwZWFibU43OTRsMURjaVBXa01US1pibndOX09DTldmWGFKMjEyUy1zZ2RmbXc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T09:56:49Z",
+   "level": "notable",
+   "title": {
+    "en": "梁文锋招到CFO",
+    "zh": "梁文锋招到CFO"
+   },
+   "body": {
+    "en": "DeepSeek, founded by Liang Wenfeng, hired a CFO, a step toward more formal corporate structure.",
+    "zh": "梁文锋旗下DeepSeek招募首席财务官，公司治理结构进一步规范化。"
+   },
+   "source": "光通信Pro",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wTTFxZzhrQ0NHV2NlNV9WR0xSSFpWdlcyNGN6WGZFU1JiTHoyVjZpN21MY3IxVmE0N1V0VTh0WThCbUhGS1FIUmtwbG93VlFHOXBTQkstYw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T19:36:00Z",
+   "level": "major",
+   "title": {
+    "en": "Deepseek完成首轮融资：估值3500亿 梁文锋个人持股31%",
+    "zh": "Deepseek完成首轮融资：估值3500亿 梁文锋个人持股31%"
+   },
+   "body": {
+    "en": "DeepSeek closed its first external funding round at a valuation of roughly 350 billion yuan, with Liang personally holding a 31% stake — the company's first outside capital raise since its breakout.",
+    "zh": "DeepSeek完成首轮外部融资，估值约3500亿元人民币，梁文锋个人持股31%——这是公司走红以来首次引入外部资本。"
+   },
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HRF9pV1JielJXb3RWdUpUNG51XzZiSTRCejdDOVBUZjdoUmN5UmZSTmxXOS1vZ1d2Z2ZsSUdmZ3dVUDJzaHBvMzB2Nk5UTHZtVXdMSUU4YTFLc2o3cGFLRVhJMzZpTjFKRzd6eVd4RU8?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T18:01:00Z",
+   "level": "notable",
+   "title": {
+    "en": "梁文锋招到CFO",
+    "zh": "梁文锋招到CFO"
+   },
+   "body": {
+    "en": "Liang Wenfeng's High-Flyer/DeepSeek brought on a new CFO, a notable executive hire as the company scales.",
+    "zh": "梁文锋旗下的幻方/DeepSeek招募了一位新任CFO，是公司规模扩张中的一项重要高管任命。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53N1VmdkVJLVFVazc0bFFsN3BvaDJBQWtKWnVfcmZTa3A0eGpnN3dGVXp1RlNXR21VQ25DWmdyTGJIOXJnMTkwaFlYV05LZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T06:02:17Z",
+   "level": "notable",
+   "title": {
+    "en": "梁文锋成立管理咨询合伙企业、出资额仅4000元，传DeepSeek筹备科创板IPO",
+    "zh": "梁文锋成立管理咨询合伙企业、出资额仅4000元，传DeepSeek筹备科创板IPO"
+   },
+   "body": {
+    "en": "Liang Wenfeng set up a new management-consulting partnership with only token capital, amid reports that DeepSeek is preparing a listing on China's STAR Market.",
+    "zh": "梁文锋以象征性出资额成立一家管理咨询合伙企业，据传DeepSeek正在筹备在科创板上市。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnphS0Rfb0lqY0Z4d09vSEtpY1JxdXNpTzZ1cWYzRXVwWXl4WG9NVENPZ3pGNlg3ZzBGTDhnN0FpcGJFZFZOUkUyeFZ2dGtKTUtsaXAwaHdkaEtxUFN1M0ZDVUxhQU0wbEh1d3hIdFhmU0x3a1EtLWptaDQ5cDV1b3VfclZPNnIzdFNzcw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T14:47:30Z",
+   "level": "major",
+   "title": {
+    "en": "DeepSeek已聘请中信证券筹备科创板上市，梁文锋从拒绝融资转向资本市场",
+    "zh": "DeepSeek已聘请中信证券筹备科创板上市，梁文锋从拒绝融资转向资本市场"
+   },
+   "body": {
+    "en": "DeepSeek hired CITIC Securities to prepare a listing on China's STAR Market, marking Liang Wenfeng's shift from refusing outside funding to engaging capital markets.",
+    "zh": "DeepSeek已聘请中信证券筹备科创板上市，标志着梁文锋从此前拒绝融资转向拥抱资本市场。"
+   },
+   "source": "虎嗅网",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TQ2VRRUVuSXFuazZlTGUxVVo0VXhCOGN4ZzNJZzI1c250TVQxOHpQeUpScHJGbWpudEtXNGlxZ3dYY1Y5OWtRRkRDa3BYSk9wcTdORlQ0U0NCR1BWeHZr?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T14:47:30Z",
+   "level": "major",
+   "title": {
+    "en": "DeepSeek已聘请中信证券筹备科创板上市，梁文锋从拒绝融资转向资本市场",
+    "zh": "DeepSeek已聘请中信证券筹备科创板上市，梁文锋从拒绝融资转向资本市场"
+   },
+   "body": {
+    "en": "DeepSeek has reportedly hired CITIC Securities to prepare a listing on Shanghai's STAR Market, with Liang shifting from refusing outside funding to engaging capital markets.",
+    "zh": "据报道，DeepSeek已聘请中信证券筹备在上海科创板上市，梁文锋的态度也从此前拒绝融资转向拥抱资本市场。"
+   },
+   "source": "虎嗅网",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhZ2N5X2h3aWdfd3VfNEt4aEIyNDJSX2RSR2VCbzlweFhuTTZSNW9ucVdmSzByWG10SWU4b0g1eXNDUTdWNDhyRW9LM0pHZzhyal9scg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T00:40:00Z",
+   "level": "notable",
+   "title": {
+    "en": "梁文锋听劝，DeepSeek把价格降回来了",
+    "zh": "梁文锋听劝，DeepSeek把价格降回来了"
+   },
+   "body": {
+    "en": "DeepSeek reversed a recent price increase after public pushback, with reporting tying the reversal to Liang Wenfeng heeding the criticism.",
+    "zh": "DeepSeek在遭到公众反弹后撤回了近期的涨价决定，报道将这一逆转归因于梁文锋听取了外界批评。"
+   },
+   "source": "智源社区",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44TnJJZXRLbmVMbldnUExaX0ZtRDUzT1lZQU9DNlQ2emo1QjN5QTd1V0NzZDVnMXBUTS1vN0xtVnM4VWFXRzZYUg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T02:40:00Z",
+   "level": "notable",
+   "title": {
+    "en": "DeepSeek备战上海科创板IPO 留才资金成梁文锋关键布局",
+    "zh": "DeepSeek备战上海科创板IPO 留才资金成梁文锋关键布局"
+   },
+   "body": {
+    "en": "Reports say DeepSeek is preparing for a Shanghai STAR Market IPO, with talent-retention funding described as a key part of Liang Wenfeng's planning.",
+    "zh": "报道称DeepSeek正在备战上海科创板IPO，留才资金被视为梁文锋的关键布局之一。"
+   },
+   "source": "DIGITIMES",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeVZ6bEpMY3lfaTFZUGNiTThZZ09aLWFfbU4wdTIwNGJqWW1kQk52TW45Qk5fUFFPTkRlcTlVWDhvQnlKVjZPMGM4TUZKMFE4aEd6YUhMZUVZdHgxeGVoN3RRdnRUZnFrNm1ZT1dqS0N4ZHJoUnFndFV4WDFPZTdHMkV2UGJTS1l6X1AxZng4V0R6QVVodEM5UWRNZlY?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T02:49:56Z",
+   "level": "major",
+   "title": {
+    "en": "AI首富梁文锋带DeepSeek冲刺科创板，谁能共享资本盛宴？",
+    "zh": "AI首富梁文锋带DeepSeek冲刺科创板，谁能共享资本盛宴？"
+   },
+   "body": {
+    "en": "Reports say Liang Wenfeng is pushing DeepSeek toward a listing on Shanghai's STAR Market, a major step for the company he founded.",
+    "zh": "报道称梁文锋正带领DeepSeek冲刺上海科创板上市，这是他所创公司的重大进展。"
+   },
+   "source": "yemacaijing.com",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BVk1QcFRZbUkwRE9BaEY4bjgyV0NyMERSUFVJVW1SUjV4YnU4S0J0R0FLUnJNYUNCOUtKaHNDclhzOVRTaU5POUdPb3dMWTRkM0Y0X2hOVTNuak9wR3VjSm93?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T08:14:16Z",
+   "level": "minor",
+   "title": {
+    "en": "梁文锋成立企业管理咨询合伙企业",
+    "zh": "梁文锋成立企业管理咨询合伙企业"
+   },
+   "body": {
+    "en": "Liang Wenfeng registered a new enterprise management consulting partnership, a small addition to his corporate holdings alongside DeepSeek.",
+    "zh": "梁文锋新设立一家企业管理咨询合伙企业，是其在DeepSeek之外的一项小规模企业注册。"
+   },
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mQ25OZW1FOC1Ta1NqR2FPN2NlWW02SHdHZ1JPY0pUemtXcThEVWd0T2hyVldjQ2xGTVE1VG43MEtRZXBaQnVQY2RDOA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T09:02:34Z",
+   "level": "minor",
+   "title": {
+    "en": "梁文锋在杭州成立企业管理咨询合伙企业",
+    "zh": "梁文锋在杭州成立企业管理咨询合伙企业"
+   },
+   "body": {
+    "en": "Liang Wenfeng registered a new business management consulting partnership in Hangzhou, a small corporate move alongside his DeepSeek role.",
+    "zh": "梁文锋在杭州注册成立了一家企业管理咨询合伙企业，这是与其DeepSeek主业并行的一项公司层面小动作。"
+   },
+   "source": "DoNews",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wTW0zSVdSN0JvMWY1U3ZLYk5FRTlrdjJkRjdyZDIyUVEtYUNSQkp2bHV3ZHdyTTZaeEhPS3Vod0w0X2xEY0xuWkJZNU56cmdKM1IycFZkcTRFRXdNdEE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T11:19:32Z",
+   "level": "major",
+   "title": {
+    "en": "梁文锋自己掏了200亿之后，DeepSeek还是决定上市了",
+    "zh": "梁文锋自己掏了200亿之后，DeepSeek还是决定上市了"
+   },
+   "body": {
+    "en": "After personally investing roughly 20 billion yuan, Liang Wenfeng has decided to take DeepSeek public.",
+    "zh": "梁文锋在自己投入约200亿元后，决定推动DeepSeek上市。"
+   },
+   "source": "Jiemian.com",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oQ2pNaDNObTA4c1dKYjZtc29Za2hHRXZHbEloTFhVRk12ZFRGRG9XN2ZrSWNYRDZReEZPWFg1QVZ6RVJWT19SZlVfWlNMdnJpNjJWd1ZLWXRJTUtoTHpycw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T02:40:00Z",
+   "level": "major",
+   "title": {
+    "en": "DeepSeek备战上海科创板IPO 留才资金成梁文锋关键布局",
+    "zh": "DeepSeek备战上海科创板IPO 留才资金成梁文锋关键布局"
+   },
+   "body": {
+    "en": "Reports say DeepSeek is preparing for a Shanghai STAR Market IPO, with talent-retention funding cited as a key part of Liang Wenfeng's strategy.",
+    "zh": "据报道，DeepSeek正在筹备上海科创板IPO，留才资金被认为是梁文锋关键的战略布局之一。"
+   },
+   "source": "DIGITIMES",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVVFOY3NOMU9tQjZaMU5WOVZuVXl0YTZtYVZ5d1BNaW5kaVFjZ2xac3AzcU1xREtRa0t3NmJERXJDNXBEODZYcElQd09RS0xwY3RFVVFTUWtBTk9iMEpTc290OU92TUFPNlA0d3ZpWG4zcEl2X1Z4bG5mSnRlTHFTcHFDWWhRMzNwRVh3LWpoOHRRN2l4WWh0VzZhQmc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T02:49:56Z",
+   "level": "major",
+   "title": {
+    "en": "AI首富梁文锋带DeepSeek冲刺科创板，谁能共享资本盛宴？",
+    "zh": "AI首富梁文锋带DeepSeek冲刺科创板，谁能共享资本盛宴？"
+   },
+   "body": {
+    "en": "Reports say Liang Wenfeng is pushing DeepSeek toward a listing on Shanghai's STAR Market, a step that would make China's leading open-weight AI lab a public company.",
+    "zh": "报道称梁文锋正推动DeepSeek冲刺科创板上市，这将使这家中国领先的开源AI实验室成为一家上市公司。"
+   },
+   "source": "yemacaijing.com",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rLUlrWTJ4RXVISlo2N21KeUtONVBHMlBYd1p6WTlFNUVZdHB5YTBzOHBXaFZMek05TmJQLU9uVlQzd3J0RkU3eVVLajczS1hPQ2tmWjZTa0RyZkU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T00:34:42Z",
+   "level": "notable",
+   "title": {
+    "en": "梁文锋听劝，DeepSeek把价格降回来了",
+    "zh": "梁文锋听劝，DeepSeek把价格降回来了"
+   },
+   "body": {
+    "en": "DeepSeek rolled back a recent price increase after user pushback, preserving its aggressive low-cost positioning against international rivals.",
+    "zh": "DeepSeek在用户反馈后撤回了近期的涨价，继续保持相对国际同行的低价策略。"
+   },
+   "source": "sohu.com",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNenp5VFZwTlVjTnhIRXd4Z28zc1JfRlZrYWZyeFF4SWxwMUNnUG1WMW9WdkF1WjhJbGlQQjlVc053U3l2T0Q2UFZHMU04akhGaXFUVmJ0Z3BsVGdkTVZtRG9FY29jckJqUU41ZlYxdElMeGcxaXRDUmJhYzJvbWY5UXdLc0lnRkV4?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T13:57:16Z",
+   "level": "major",
+   "title": {
+    "en": "DeepSeek拟明年第二季度在上海上市，梁文锋开启新融资",
+    "zh": "DeepSeek拟明年第二季度在上海上市，梁文锋开启新融资"
+   },
+   "body": {
+    "en": "DeepSeek is reportedly planning a Shanghai listing for Q2 next year, with Liang Wenfeng opening a new financing round.",
+    "zh": "据报道，DeepSeek计划明年第二季度在上海上市，梁文锋同时开启新一轮融资。"
+   },
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc0JsTHJTWEtucVBvQnlTMUY4X1F5ellkeEpFUGNkMmRqbWpqWGlORGt4aGxlRlB0aHFIbGVZRlhlaVpzYXp1eXF0TWdFdDRqdDVrVHlSdDA2ODVROHdfdjdtSC1fZEh3WDhnalVLRG1MSzVqUG1sTVM5NkZ3NzQ5Vm5R?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T12:09:59Z",
+   "level": "major",
+   "title": {
+    "en": "AI首富梁文锋带DeepSeek冲刺科创板，谁能共享资本盛宴？",
+    "zh": "AI首富梁文锋带DeepSeek冲刺科创板，谁能共享资本盛宴？"
+   },
+   "body": {
+    "en": "Liang Wenfeng is reportedly leading DeepSeek's push toward an IPO on Shanghai's STAR Market.",
+    "zh": "据报道，梁文锋正带领DeepSeek冲刺科创板上市。"
+   },
+   "source": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE91djh0QlF0WUNqY1l5NDFzTXJ4NjdjQmlCLUhZODBPdi1GMEQ2X1g5bWdUWVloRDMycDlabXNhMXVWckx2RHhiQw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T00:34:42Z",
+   "level": "notable",
+   "title": {
+    "en": "梁文锋听劝，DeepSeek把价格降回来了",
+    "zh": "梁文锋听劝，DeepSeek把价格降回来了"
+   },
+   "body": {
+    "en": "Liang reversed course under pressure and DeepSeek lowered its pricing back down.",
+    "zh": "梁文锋顶不住各方劝说，DeepSeek把价格降了回来。"
+   },
+   "source": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAyNFNjRjhZMm45Y3hEYmF5TTVLTG5uUnJqLXEzY19mbWNyXzZ1MEFzcV9ERlNOc3pQNEVWNGtvWkFqM0VOUFVRZQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T10:26:10Z",
+   "level": "notable",
+   "title": {
+    "en": "DeepSeek一口气招150人，梁文锋又在下一盘大棋",
+    "zh": "DeepSeek一口气招150人，梁文锋又在下一盘大棋"
+   },
+   "body": {
+    "en": "DeepSeek hired around 150 people in one push, a sign Liang Wenfeng is scaling the team significantly as the company expands.",
+    "zh": "DeepSeek一口气招聘约150人，显示梁文锋正在大幅扩充团队规模。"
+   },
+   "source": "金融界",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44SG9MX3lXeFJQa01Ra2VqXzNFc3RRb1FzVmZZYkllVGNCQzdTSlFTcHBSYmtCVkNaREN6ZXd2d1dvYmNVblotMVkyVHp2dm8tdFRUd01XYzloWl9vcG1RUnEwVjhTdnlweUJWNXJKNGpHZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T12:22:26Z",
+   "level": "notable",
+   "title": {
+    "en": "V4.1 Flash内测，梁文锋又当回了梁圣",
+    "zh": "V4.1 Flash内测，梁文锋又当回了梁圣"
+   },
+   "body": {
+    "en": "DeepSeek put V4.1 Flash into internal beta testing, the company's next model iteration under Liang Wenfeng.",
+    "zh": "DeepSeek将V4.1 Flash投入内测，这是梁文锋治下公司的最新模型迭代。"
+   },
+   "source": "t.cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMjZIWS1CTUVFeGtzRHN1TmtCRngtY2hYMDdIZTVkaklTaXIxLWktWjFhN2FhMmQxcFVZbFB0a3FvMXh2U3JadmRTRzJ3RjhMRmRaNWo2bHJBOWZqT1hxWlRvUmZ5SF85eGFxdmFCa0VxeVo1TUQtYXJmOEFabG9QMnlyNWhESXdEZ3VHOXpB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T09:23:00Z",
+   "level": "notable",
+   "title": {
+    "en": "V4.1 Flash 内测，梁文锋又当回了梁圣",
+    "zh": "V4.1 Flash 内测，梁文锋又当回了梁圣"
+   },
+   "body": {
+    "en": "DeepSeek began beta testing V4.1 Flash, a new model release under Liang's leadership as the company continues rapid iteration on its lineup.",
+    "zh": "DeepSeek开始内测V4.1 Flash新模型，梁文锋领导下的公司持续快速迭代产品线。"
+   },
+   "source": "36氪",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EZkx4ckVPWm5rQVc4X3Y1U0RwVklqaVFiaGI4ektyMk9qeHpvaTBlZ0RUTi00YTRzV1R3dU0xSkkybmp4MFBBM3g2V2o4dw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T12:24:00Z",
+   "level": "notable",
+   "title": {
+    "en": "V4.1 Flash内测，梁文锋又当回了梁圣",
+    "zh": "V4.1 Flash内测，梁文锋又当回了梁圣"
+   },
+   "body": {
+    "en": "DeepSeek began internal testing of V4.1 Flash, prompting renewed attention on Liang Wenfeng as the model line keeps advancing.",
+    "zh": "DeepSeek V4.1 Flash模型进入内测阶段，梁文锋和DeepSeek模型迭代再次受到关注。"
+   },
+   "source": "qq.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlblFtVnpEdm9ENVBralE3VEg5bnQ2X3JrdHZPQUFURG5iOEZxTGVXOUZiRmhrUWJvclczTkwyT05iUjZ0ZVVSTlpDUloyQ19fSGozdnBR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-01",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "DeepSeek创始人梁文锋称不追求利润最大化 其经营思路很有特点",
+    "zh": "DeepSeek创始人梁文锋称不追求利润最大化 其经营思路很有特点"
+   },
+   "body": {
+    "en": "Liang said DeepSeek isn't chasing maximum profit, describing an unusual operating philosophy for a frontier AI lab.",
+    "zh": "梁文锋表示DeepSeek不追求利润最大化，其经营思路在头部AI实验室中颇为特别。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tdjUxaUFWaVZ5TnRIZk1PczUxYkZPUmZlM2VyeVZyTGNHdGgxczk3LWh1RHo2S1VLRUl3UXZxVGlNNDByem5DTnFmbW5kalYwSzhaaTR6UzZSN1g0QzhuZEFick54SEVTbjVJWXFuOWZtazFfdHg1cVR3bUFMc1U?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-31",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "融了500亿，梁文锋开始大搞基建了",
+    "zh": "融了500亿，梁文锋开始大搞基建了"
+   },
+   "body": {
+    "en": "DeepSeek raised roughly RMB 50 billion and Liang Wenfeng is now moving aggressively into infrastructure buildout, a major funding and compute-scaling event.",
+    "zh": "DeepSeek融资约500亿元人民币，梁文锋随后大举投入基础设施建设，这是一次重大的融资与算力扩张事件。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wYTI2WHljdk1LNzhpVnBQM1VDX2g3VWh3dllQMjAwU3MzU2V3QkRfSXFHUHNmT0tMM0JGUzdzT1p5M2tvcW9jTTN4Z25qZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-31",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "传DeepSeek启动IPO工作 目标明年上市？CEO梁文锋却曾称坚决不融资",
+    "zh": "传DeepSeek启动IPO工作 目标明年上市？CEO梁文锋却曾称坚决不融资"
+   },
+   "body": {
+    "en": "Reports emerged that DeepSeek has begun IPO preparations targeting a listing as early as next year, a notable reversal for a CEO who has repeatedly said he would not raise outside funding.",
+    "zh": "有报道称DeepSeek已启动IPO筹备工作，目标最快明年上市，这与CEO梁文锋此前多次表态坚决不融资形成鲜明反差。"
+   },
+   "source": "手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNbC1RWVhtbGpnSUViMWlwM00zYzU3OEtRcnZ5eDVGSnpOMDlpalFXUEIxTjlocU9BbU9pMk9zZjNRTkw5aWFJRXhQeGZiRW0tR2dwU0xISTJvb3NxR3NxNWdhZ3pFeXNlZnZYQURNUHdHUC16ZXhLS0dzRVdaUDhxVnN3STlsUXNXSGdmWnZWY1BCYUNfVXplUlVLbV9fTDRKN0p2ZU5KQlpsQzBfZG9UVVNsVHlNRl81VnE3UXRLLUp5ZDZ1VjZ4bXlvM1ltLXlBaG1KdTBVMGctOWxzeUJWWENEd2ViMS02bEQtbWsxNjR2a1V0ckl5VXhUaTBfajZCTmFmbQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-28",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "DeepSeek founder Liang Wenfeng's hedge fund buys pre-IPO chip stakes",
+    "zh": "DeepSeek founder Liang Wenfeng's hedge fund buys pre-IPO chip stakes"
+   },
+   "body": {
+    "en": "Liang Wenfeng's hedge fund High-Flyer took pre-IPO stakes in chip companies, a notable move beyond DeepSeek itself.",
+    "zh": "梁文锋旗下对冲基金幻方量化买入多家芯片公司的Pre-IPO股权，这是他在DeepSeek之外的一项引人注目的动作。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcXRJaGZEZlpsbXQ0MkNuV1lIS2tCY1FzWDNvZ3dfX1ZCNkgwV1dVUGhfZnNwQ250SGZVeGktZldYYjZEUXpKekZPaTMxYW53aUZySlc3TEticW05c3RWWVlOQ1FoWUxYMTR0MkZ1Mm1zUXhnV3VHM0U3b21rRkFQZmxTUnpaT28yQ0RLRnRRUmtqYVNCeGxlTG9ZZ2FNYWM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-26",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "钟睒睒投了梁文锋|DeepSeek|私募基金|九安医疗|汤臣倍健|宁德时代_手机新浪网",
+    "zh": "钟睒睒投了梁文锋|DeepSeek|私募基金|九安医疗|汤臣倍健|宁德时代_手机新浪网"
+   },
+   "body": {
+    "en": "Nongfu Spring founder Zhong Shanshan invests in Liang Wenfeng's DeepSeek through a private fund.",
+    "zh": "农夫山泉创始人钟睒睒通过私募基金投资了梁文锋的DeepSeek。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPYmpSSkN5b19xS0JnWjlaQjBYWTRSaFFSNU5kdEJ2OGFKb0c0Q1hnUHBYRFlYdG9Hd0dMRjNKdEhhMjBPTW5STE5yMGJvLTJBdmwxenFzYjVmUUpmbWkwRUxCR01WSW55N3N3ZmN3ajhhaEJkYUtaY3RiSHlfc3lfSUZRdUpKOFp2U2NkM0ZDMFA4bmUzVDE3Qm05aUZIaXhHdTJZX0tkbXYwOWxnM2pheWlNeFlFbVZER29TdlQ5by1ZVGJSbUx5ZEpRQ1Y1Um80djA0SW4tUWZwYXAzRWNZNzlHaHM2WkY5dlJudS0yNkdiN2xwYjNtQU1ibVZNV05TX2tzeXY3T2swMGxMZzd6SC1yRW9vaVZINktSRg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-26",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "不喜欢凑热闹的首富钟睒睒，为何给梁文锋送了3.5亿？",
+    "zh": "不喜欢凑热闹的首富钟睒睒，为何给梁文锋送了3.5亿？"
+   },
+   "body": {
+    "en": "China's richest man, Nongfu Spring's Zhong Shanshan — known for avoiding the spotlight — reportedly gave Liang Wenfeng ¥350 million, a notable gesture from one of China's most private tycoons.",
+    "zh": "以低调著称的中国首富、农夫山泉的钟睒睒据报向梁文锋赠予3.5亿元，这是这位中国最神秘富豪罕见的举动。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wSG5DNVJQMEtLWGFnd1N2dmZfTnE4UFpYRUg0b2hxd2NSMFBOUWVIemdIWXBUUXQ0RlhCaTRIaW5sV1lOV3hGZmZEeHBFaWdCWXNKSXRn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-25",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "说好「多模态不是主线」的梁文锋，怎么转头就发了个Vision模型？",
+    "zh": "说好「多模态不是主线」的梁文锋，怎么转头就发了个Vision模型？"
+   },
+   "body": {
+    "en": "Coverage of DeepSeek releasing a vision-language model despite Liang's earlier statement that multimodal was not the company's main line of research.",
+    "zh": "报道称尽管梁文锋此前表示多模态不是主线，DeepSeek仍转而发布了一个视觉模型。"
+   },
+   "source": "finance.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kdEF1TFBnSmo4QjhQZFZjRWxUdTZ3bG5ndUJtQmJGMlNXSEh0MlA1ZWE3WXZTM3ljX1dYbVhfV3ZMTWZOXzRaRWRWcGpraTUyM1NEaGt6ZmV0SnBiSFBNNXlhYmdVZE1JajFuUERpZDh4MGwxeGg5SA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-25",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "钟睒睒，投了梁文锋",
+    "zh": "钟睒睒，投了梁文锋"
+   },
+   "body": {
+    "en": "Nongfu Spring founder Zhong Shanshan was reported to have quietly invested in DeepSeek through a web of nested holding entities.",
+    "zh": "据报道，农夫山泉创始人钟睒睒通过多层嵌套的持股架构，悄悄投资了梁文锋的DeepSeek。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdlN4NGtGNTJUSkVoSnhpUEJDM3d4LWJLSV9pMTcxU2FaSFFaV2d6MGJqT3pURzNuOS1pOXJJbjdaaEIxRV9QbDhFS2RjYWh6UklaZDVJRGc0U3RqQVR1ZnZvM0pvcWh5eW1uanU4QjZ4elVDNk5pdjRmamJldEczbGw4dHo?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-24",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "说好“多模态不是主线”的梁文锋，怎么转头就发了个Vision模型？",
+    "zh": "说好“多模态不是主线”的梁文锋，怎么转头就发了个Vision模型？"
+   },
+   "body": {
+    "en": "DeepSeek released a vision model, a notable reversal after Liang Wenfeng had said multimodal was not the company's main focus.",
+    "zh": "DeepSeek发布了一款视觉模型，此前梁文锋曾表示多模态并非公司主线，这一转向颇受关注。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TWDQwdnJKbUNkYk0zYl9iQU1FSHU3U2Y3SThhbnppbzFTeC02ckZjMU1mczdjYjVKQWpFVUZnQWlhWjNIWFlYUnFXSng3UQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-24",
+   "ts": "2026-08-24T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "说好“多模态不是主线”的梁文锋，怎么转头就发了个Vision模型？",
+    "zh": "说好“多模态不是主线”的梁文锋，怎么转头就发了个Vision模型？"
+   },
+   "body": {
+    "en": "DeepSeek released a Vision model, a reversal for Liang Wenfeng after previously saying multimodal was not the company's main focus.",
+    "zh": "梁文锋此前曾表示多模态并非主线，但DeepSeek近期发布了Vision模型，态度出现转向。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sM0w5REQwUmsyeV84ZTNVZ0xiaWcyMF9lLThjbm85ZWlUTWdBZ3RFc3JsN2VuemNzN1U3LTRldmhaMDh4YzU3OUxFaEU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-19",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "DeepSeek涨价，“价格屠夫”梁文锋“收刀”",
+    "zh": "DeepSeek涨价，“价格屠夫”梁文锋“收刀”"
+   },
+   "body": {
+    "en": "DeepSeek raised its API prices, ending the aggressive low-cost strategy that had earned Liang the 'price butcher' nickname.",
+    "zh": "DeepSeek上调API价格，结束了此前为梁文锋赢得“价格屠夫”称号的低价策略。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XT1NNOVM3bGJaZVMyTWZMSHl6Tm1DamJZOWxNTEpQZEpPUWJJck1CY1paOGdWZk5wZVZWeHFHRk9Pb25hcXgwSDdFZ28?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-18",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Unitree Robotics August 19 Listing: 6.1B Yuan Raising, Backed by Liang Wenfeng & Tencent – First Humanoid Robot Stock on Sci-Tech Innovation Board",
+    "zh": "Unitree Robotics August 19 Listing: 6.1B Yuan Raising, Backed by Liang Wenfeng & Tencent – First Humanoid Robot Stock on Sci-Tech Innovation Board"
+   },
+   "body": {
+    "en": "Unitree Robotics lists on the STAR Market raising 6.1 billion yuan, with Liang Wenfeng's High-Flyer among its early backers.",
+    "zh": "宇树科技登陆科创板、募资61亿元，梁文锋旗下的幻方是其早期投资方之一。"
+   },
+   "source": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QWGhjS3l3MXNsZll5VTdzSmlSTmxvLWhScFA3eFZBOHhrTGJSdFZKbWczakRVVlVMZ2hLb1FnMTJZVy1WZGV4czJWQlJCM21BMmxN?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-16",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "实测DeepSeek Harness：梁文锋把智能体拼成乐高",
+    "zh": "实测DeepSeek Harness：梁文锋把智能体拼成乐高"
+   },
+   "body": {
+    "en": "Hands-on coverage of DeepSeek's Harness release, a modular framework for assembling agents on DeepSeek models.",
+    "zh": "对 DeepSeek 新发布的 Harness 的实测报道——一套可以像乐高一样拼装智能体的模块化框架。"
+   },
+   "source": "新京报",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ENGVqQTlfTXFibWgxRnFfSk1wYV9EOXBYeGRzYmRHVm4tRjJzcVJRMzJsZmJpdEwxbjJ5clA0akVXem1VeUJTekh2SFVyODBWbTFwS20xcjB2TnJhVHN6dWxvdXM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-10",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "梁文锋打新宇树，王兴兴回应",
+    "zh": "梁文锋打新宇树，王兴兴回应"
+   },
+   "body": {
+    "en": "Reports said Liang Wenfeng subscribed to Unitree Robotics' new share offering, prompting a response from Unitree founder Wang Xingxing.",
+    "zh": "有报道称梁文锋参与了宇树科技的新股认购，宇树创始人王兴兴对此作出回应。"
+   },
+   "source": "京报网",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xMnlJcjZyc3NoZTNEeWc5NDZFOFk5Qkdza3Fic0IzZWo5X3ZEM1JsZGJZMlZaTVZpNmwxRmp6RUdnNmkwbVZJN3lRNTBXTHBQZngzY09rUGJGWlpzcXc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-26",
+   "ts": "2026-07-26T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "DeepSeek founder Liang Wenfeng’s surprising philosophy revealed in leak",
+    "zh": "DeepSeek founder Liang Wenfeng’s surprising philosophy revealed in leak"
+   },
+   "body": {
+    "en": "A leaked transcript of a closed-door investor meeting revealed Liang's restraint-focused strategic philosophy and reportedly led DeepSeek to pause its fundraising round.",
+    "zh": "一份闭门投资者会议的泄露记录披露了梁文锋以克制为核心的战略理念，据报道也促使DeepSeek暂停了本轮融资。"
+   },
+   "source": "South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUjhianFTdVFTZEdSeE1wcS1BbURJekQ1SllTMzluSGhhaTQ2eWlOZk5hemxoVDNualZhTWxVaXhUUXZUZlBnY2hJUFRoMFBPZlV2RHhTUzk4LTBKSFR1SXdVaW5uejdnaGJaNzVfeFZwb1p2UmpxN2FpVXJnWEl0MzYxYlJPbDlHWnRBdTA0X0Q2XzFzeEV2VTUza3JVNGNLaUhOVHFGeW1heGR3NVRpMGVqLWd0bE83S2hvNFc0Ynp4Tlptamc4ckgwQ09CTkk1QUFDSnJzUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-23",
+   "ts": "2026-07-23T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "DeepSeek梁文锋：英伟达CUDA正自掘坟墓 华为可完全平替英伟达",
+    "zh": "DeepSeek梁文锋：英伟达CUDA正自掘坟墓 华为可完全平替英伟达"
+   },
+   "body": {
+    "en": "Liang said NVIDIA's CUDA moat is 'digging its own grave' and that Huawei chips can fully substitute for NVIDIA, a bold public stance on China's chip independence from a leading AI lab founder.",
+    "zh": "梁文锋表示英伟达的CUDA护城河\"正在自掘坟墓\"，华为芯片可以完全替代英伟达，作为头部AI实验室创始人就中国芯片自主发表强硬公开表态。"
+   },
+   "source": "驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HaU1Kc2pucDdWUklzOWwyUjlMaHVlWEtKd2hjbXNzbXBOcEp0ZDBXY3B1aFlvYnlJakt6VFFha1BhQWlHZ2YzUFBpMGFBbG45cXAzRVA5Ykc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-23",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "梁文锋的闭门会：不想做下一个字节、腾讯，“前面的都是芝麻”",
+    "zh": "梁文锋的闭门会：不想做下一个字节、腾讯，“前面的都是芝麻”"
+   },
+   "body": {
+    "en": "At a closed-door meeting, Liang Wenfeng said DeepSeek does not want to become 'the next ByteDance or Tencent,' framing its achievements so far as minor next to its ambitions.",
+    "zh": "梁文锋在一次闭门会议上表示，DeepSeek不想成为\"下一个字节跳动或腾讯\"，称此前的成绩相较其抱负都只是\"芝麻小事\"。"
+   },
+   "source": "21财经",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeVV2WGI2d0hsOVljQ3JLS2NMWlhPSExrd3JuQmRrZnFULXhCWkRRd0gzdElyWXdlR0JzWl90d085cjItRC1TSmczRTc1eHF2WmZHWHg5ZGlHdWg3MWF1X2VPME1CSlpJSFNadDU5M3hGVlpSajRoRjdJM1FCYkJ3c00tYnpoSGp5bHk3Ng?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-23",
+   "ts": "2026-07-23T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "梁文锋在投资者会上说了什么？｜万字全文总结-人工智能",
+    "zh": "梁文锋在投资者会上说了什么？｜万字全文总结-人工智能"
+   },
+   "body": {
+    "en": "A rare public appearance: DeepSeek founder Liang Wenfeng speaks at length to investors, a notable break from his usual silence on strategy.",
+    "zh": "梁文锋罕见公开露面，在投资者交流会上长篇阐述看法，打破他一贯对战略保持沉默的常态。"
+   },
+   "source": "至顶网",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ERHV0QXFLRjFGNXh2b0hvam9iZE00d2xlbDA1MWFmSGZJRXR4QUVMVlpXYWs1bDQzM2ZxaHJFVWRpa0NXRmFVSVo0UTNpVzhpM2NjV0JLM0pjRnVzNGc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-23",
+   "ts": "2026-07-23T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "DeepSeek创始人梁文锋：华为950超节点可以完全平替英伟达GB300",
+    "zh": "DeepSeek创始人梁文锋：华为950超节点可以完全平替英伟达GB300"
+   },
+   "body": {
+    "en": "Liang Wenfeng claims Huawei's 950 superchassis can fully substitute for Nvidia's GB300, a public stance on China's compute self-sufficiency.",
+    "zh": "梁文锋表示华为950超节点可以完全替代英伟达GB300，这是对中国算力自主可控问题的公开表态。"
+   },
+   "source": "C114通信网",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PMmlMb1hSZEE3dDZONV9kbjJTcUxGLXpQb01BRWZWdFE4S2w2bGl3LTdqQ2N4a29ra0V1TzhEczdmelo2WHpEWEp2TloteTg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-16",
+   "ts": "2026-07-16T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Liang Wenfeng Becomes World's Richest AI Founder with $36 Billion Fortune as DeepSeek Closes First Funding Round of 51 Billion Yuan",
+    "zh": "Liang Wenfeng Becomes World's Richest AI Founder with $36 Billion Fortune as DeepSeek Closes First Funding Round of 51 Billion Yuan"
+   },
+   "body": {
+    "en": "DeepSeek closed its first outside funding round, about 51 billion yuan, propelling Liang Wenfeng to the top of AI-founder wealth rankings with a $36B fortune.",
+    "zh": "DeepSeek完成首轮外部融资，约510亿元人民币，梁文锋因此登顶AI创始人财富榜，个人财富达360亿美元。"
+   },
+   "source": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9STTBEdU8zWmZXX2ZyNkZHQXpOUDJRUU1yRlFCakxfNkpEU28wZXlMZ2Nwbkl4R2lpZWJvVGJUSjN2RDlnYVpscm56b1d5S3lzakJJWVV1aDJsQWhNSHhDaV9MaWZlMExfZDdvQ1RfSW80Q0FBQ2c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-14",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "DeepSeek创始人梁文锋身家飙升至360亿美元，剖析全球AI大模型创始人首富的财富跃迁之路",
+    "zh": "DeepSeek创始人梁文锋身家飙升至360亿美元，剖析全球AI大模型创始人首富的财富跃迁之路"
+   },
+   "body": {
+    "en": "DeepSeek founder Liang Wenfeng's net worth reportedly surges to about $36 billion as the company pursues a new funding round at a rising valuation.",
+    "zh": "据报道，随着DeepSeek新一轮融资估值攀升，创始人梁文锋的身家飙升至约360亿美元。"
+   },
+   "source": "亮眼看财经",
+   "url": "https://podcasts.apple.com/us/podcast/deepseek%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%A2%81%E6%96%87%E9%94%8B%E8%BA%AB%E5%AE%B6%E9%A3%99%E5%8D%87%E8%87%B3360%E4%BA%BF%E7%BE%8E%E5%85%83-%E5%89%96%E6%9E%90%E5%85%A8%E7%90%83ai%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%88%9B%E5%A7%8B%E4%BA%BA%E9%A6%96%E5%AF%8C%E7%9A%84%E8%B4%A2%E5%AF%8C%E8%B7%83%E8%BF%81%E4%B9%8B%E8%B7%AF/id1886883501?i=1000776830603&uo=4",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-27",
+   "ts": "2026-06-27T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "梁文锋署名论文，DeepSeek首轮融资后大动作：生成速度大涨85%",
+    "zh": "梁文锋署名论文，DeepSeek首轮融资后大动作：生成速度大涨85%"
+   },
+   "body": {
+    "en": "After closing its first outside funding round, DeepSeek — with Liang Wenfeng credited as a paper co-author — released work boosting generation speed by 85%.",
+    "zh": "DeepSeek完成首轮外部融资后，梁文锋署名的论文显示其生成速度提升了85%。"
+   },
+   "source": "36kr.com",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wMGhOdzRkdG1hTmFrOXpEczI5ekJ0REpqVTZ6MWNYVDZDNUc3clB5RHdPYnlBa3Z1Y3RvbHk4UW8zZW9LRk81U1N2OA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-04-21",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "梁文锋，坐不住了",
+    "zh": "梁文锋，坐不住了"
+   },
+   "body": {
+    "en": "DeepSeek seeks a new funding round at roughly a $10 billion valuation, reversing Liang Wenfeng's earlier public refusal of VC investment; he reportedly meets Pony Ma and Lei Jun to discuss financing.",
+    "zh": "DeepSeek寻求以约100亿美元估值进行新一轮融资，梁文锋此前曾公开拒绝风投，如今态度反转，据传他还与马化腾、雷军会面商谈融资事宜。"
+   },
+   "source": "虎嗅·商业有味道",
+   "url": "https://podcasts.apple.com/us/podcast/%E6%A2%81%E6%96%87%E9%94%8B-%E5%9D%90%E4%B8%8D%E4%BD%8F%E4%BA%86/id1718883666?i=1000762604600&uo=4",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "lab",
+ "score": {
+  "total": 69.2,
+  "attention": 62,
+  "centrality": 87,
+  "momentum": 91,
+  "stature": 3,
+  "pageviews": 186365,
+  "citations": 5692,
+  "hIndex": 37,
+  "events": 70,
+  "posts": 16,
+  "wikiEn": "Liang Wenfeng",
+  "wikiZh": "梁文锋"
+ },
+ "seedRank": 9,
+ "tier": "t2"
+}

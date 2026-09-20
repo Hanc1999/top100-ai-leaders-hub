@@ -1,0 +1,1070 @@
+{
+ "rank": 15,
+ "id": "mira-murati",
+ "name": {
+  "en": "Mira Murati",
+  "zh": "Mira Murati"
+ },
+ "role": {
+  "en": "Founder & CEO, Thinking Machines Lab",
+  "zh": "Thinking Machines Lab 创始人兼 CEO"
+ },
+ "org": "Thinking Machines Lab",
+ "region": {
+  "en": "United States / Albania",
+  "zh": "美国/阿尔巴尼亚"
+ },
+ "tags": [
+  "Thinking Machines",
+  "Tinker",
+  "Post-training",
+  "Turmoil"
+ ],
+ "why": {
+  "en": "Former OpenAI CTO who led ChatGPT, DALL·E and the GPT-4 launch. Raised $2B in five months for a new lab, shipped Tinker — then spent 2026 losing most of her founding bench.",
+  "zh": "前 OpenAI CTO，主导 ChatGPT、DALL·E 与 GPT-4 发布。五个月内为新实验室融资 20 亿美元并发布 Tinker —— 随后在 2026 年失去了大部分创始团队。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@miramurati",
+   "url": "https://x.com/miramurati",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "Thinking Machines Lab",
+   "url": "https://thinkingmachines.ai/",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "TML Blog",
+   "url": "https://thinkingmachines.ai/blog/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Mira+Murati",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Mira+Murati",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Mira+Murati",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Mira+Murati&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Mira+Murati&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Mira+Murati",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Mira+Murati&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Mira+Murati",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Mira+Murati&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mira_Murati",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2025-10-01",
+   "kind": "report",
+   "title": {
+    "en": "Tinker — fine-tuning without distributed-systems overhead",
+    "zh": "Tinker —— 无需承担分布式系统复杂度的微调"
+   },
+   "source": "Thinking Machines Lab",
+   "url": "https://thinkingmachines.ai/",
+   "note": {
+    "en": "The lab's first product; lets developers fine-tune models without owning the cost and complexity of distributed compute.",
+    "zh": "实验室的首款产品，让开发者无需承担分布式算力的成本与复杂度即可微调模型。"
+   }
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T17:04:00Z",
+   "kind": "x",
+   "title": {
+    "en": "We’re building machine intelligence to expand human will &amp; judgement. Glad to have you on the team to help us figure out how to make this future safe.",
+    "zh": "We’re building machine intelligence to expand human will &amp; judgement. Glad to have you on the team to help us figure out how to make this future safe."
+   },
+   "source": "@miramurati",
+   "url": "https://x.com/miramurati/status/2099544707340841441",
+   "note": {
+    "en": "Mira Murati welcomed a new hire to Thinking Machines Lab, framing the company's mission as building machine intelligence to safely expand human will and judgement.",
+    "zh": "Mira Murati在X上欢迎新成员加入Thinking Machines Lab，并阐述公司使命是安全地构建能够拓展人类意志与判断力的机器智能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-07-31",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We share our approach to open-weights releases, how we assessed Inkling, why safety depends on both the model and the ecosystem it enters, and how testing, stag",
+    "zh": "We share our approach to open-weights releases, how we assessed Inkling, why safety depends on both the model and the ecosystem it enters, and how testing, stag"
+   },
+   "source": "@miramurati",
+   "url": "https://x.com/miramurati/status/2083339072987431011",
+   "note": {
+    "en": "Murati outlines Thinking Machines' approach to open-weight releases, explaining how the Inkling assessment weighed safety across both the model and its deployment ecosystem.",
+    "zh": "Murati 阐述了 Thinking Machines 开放权重发布的方法，说明在评估 Inkling 时如何兼顾模型本身与其部署生态的安全性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Inkling-Small is comparable to Inkling at a quarter the size. Weights are open, fine-tunable on Tinker today. Look forward to seeing what people make with it.",
+    "zh": "Inkling-Small is comparable to Inkling at a quarter the size. Weights are open, fine-tunable on Tinker today. Look forward to seeing what people make with it."
+   },
+   "source": "@miramurati",
+   "url": "https://x.com/miramurati/status/2082886925988598138",
+   "note": {
+    "en": "Murati announces Inkling-Small, a quarter-size open-weight model matching Inkling's performance and fine-tunable on Tinker.",
+    "zh": "Murati 宣布推出 Inkling-Small，这是一个体积仅为 Inkling 四分之一但性能相当的开放权重模型，可在 Tinker 上微调。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The knowledge that makes AI useful is diffused. It lives with scientists, engineers, clinicians, firms. For AI to benefit from distributed knowledge, it must it",
+    "zh": "The knowledge that makes AI useful is diffused. It lives with scientists, engineers, clinicians, firms. For AI to benefit from distributed knowledge, it must it"
+   },
+   "source": "@miramurati",
+   "url": "https://x.com/miramurati/status/2080715390179766646",
+   "note": {
+    "en": "Murati argues that useful AI must draw on knowledge distributed across scientists, engineers and firms, framing Thinking Machines' approach to distributed AI.",
+    "zh": "Murati 提出，有用的人工智能必须汲取分散在科学家、工程师和企业中的知识，阐明了 Thinking Machines 在分布式 AI 上的思路。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Our first model, Inkling. Trained from scratch, weights are open, fine-tunable on Tinker today.",
+    "zh": "Our first model, Inkling. Trained from scratch, weights are open, fine-tunable on Tinker today."
+   },
+   "source": "@miramurati",
+   "url": "https://x.com/miramurati/status/2077455974743593100",
+   "note": {
+    "en": "Murati announces Inkling, Thinking Machines' first model, trained from scratch with open, fine-tunable weights on Tinker.",
+    "zh": "Murati 宣布 Inkling 上线，这是 Thinking Machines 从零训练的第一个模型，权重开放并可在 Tinker 上微调。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "A year ago we set out to empower humanity with a focus on multimodal AI, custom models, and open science. We previewed interaction models that collaborate the w",
+    "zh": "A year ago we set out to empower humanity with a focus on multimodal AI, custom models, and open science. We previewed interaction models that collaborate the w"
+   },
+   "source": "@miramurati",
+   "url": "https://x.com/miramurati/status/2075621070133223455",
+   "note": {
+    "en": "Murati marks Thinking Machines' first year, recapping the multimodal and open-science focus that led to Tinker and its interaction-model previews.",
+    "zh": "Murati 回顾 Thinking Machines 成立一年来聚焦多模态与开放科学的历程，包括 Tinker 的推出与交互模型的预览。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Bridgewater used their unique financial knowledge and partnered with us on @tinkerapi to fine-tune a model that helps their analysts focus on what's important.",
+    "zh": "Bridgewater used their unique financial knowledge and partnered with us on @tinkerapi to fine-tune a model that helps their analysts focus on what's important."
+   },
+   "source": "@miramurati",
+   "url": "https://x.com/miramurati/status/2072050039317578236",
+   "note": {
+    "en": "Murati highlights Bridgewater's use of Tinker to fine-tune a model that helps its analysts focus on key information, an early enterprise use case for the product.",
+    "zh": "Murati 介绍桥水基金利用 Tinker 微调模型帮助分析师聚焦关键信息，这是该产品的一个早期企业应用案例。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Collaborative AI runs on interactivity: machines and people, working in real time, across every modality. Solving it takes a community, join us.",
+    "zh": "Collaborative AI runs on interactivity: machines and people, working in real time, across every modality. Solving it takes a community, join us."
+   },
+   "source": "@miramurati",
+   "url": "https://x.com/miramurati/status/2056797399394422918",
+   "note": {
+    "en": "Murati frames real-time, multimodal collaborative interactivity as the core problem Thinking Machines is solving, calling for people to join the effort.",
+    "zh": "Murati 将实时、多模态的协作式人机交互定义为 Thinking Machines 要解决的核心问题，并呼吁更多人加入。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Today we're sharing our work on interaction models. A new class of model trained from scratch to handle real-time interaction natively, instead of gluing it ont",
+    "zh": "Today we're sharing our work on interaction models. A new class of model trained from scratch to handle real-time interaction natively, instead of gluing it ont"
+   },
+   "source": "@miramurati",
+   "url": "https://x.com/miramurati/status/2053939069890298321",
+   "note": {
+    "en": "Murati unveils Thinking Machines' interaction models, a new model class trained from scratch for native real-time interaction rather than adapted from turn-based models.",
+    "zh": "Murati 发布 Thinking Machines 的交互模型，这是一类从零训练、专为原生实时交互设计的新模型，而非在轮流对话模型基础上改造而成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Welcome @luke_drago_ and @LRudL_ to @thinkymachines. They started Workshop Labs determined to build AI that keeps the future human. They’ll continue that missio",
+    "zh": "Welcome @luke_drago_ and @LRudL_ to @thinkymachines. They started Workshop Labs determined to build AI that keeps the future human. They’ll continue that missio"
+   },
+   "source": "@miramurati",
+   "url": "https://x.com/miramurati/status/2043740848337367488",
+   "note": {
+    "en": "Murati welcomes Workshop Labs founders Luke Drago and Rudolf Laine to Thinking Machines, folding their AI-safety-focused startup into the lab.",
+    "zh": "Murati 欢迎 Workshop Labs 的创始人 Luke Drago 和 Rudolf Laine 加入 Thinking Machines，将这家专注 AI 安全的初创公司并入实验室。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Grateful to Jensen and @nvidia team for their support. Together, we’re working to deploy at least 1GW of Vera Rubin systems, bringing adaptable collaborative AI",
+    "zh": "Grateful to Jensen and @nvidia team for their support. Together, we’re working to deploy at least 1GW of Vera Rubin systems, bringing adaptable collaborative AI"
+   },
+   "source": "@miramurati",
+   "url": "https://x.com/miramurati/status/2031355859071283377",
+   "note": {
+    "en": "Murati thanks Nvidia for backing a plan to deploy at least 1GW of Vera Rubin systems, a major infrastructure commitment for Thinking Machines.",
+    "zh": "Murati 感谢英伟达支持部署至少 1GW Vera Rubin 系统的计划，这是 Thinking Machines 的一项重大基础设施投入。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-01-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We have parted ways with Barret Zoph. Soumith Chintala will be the new CTO of Thinking Machines. He is a brilliant and seasoned leader who has made important co",
+    "zh": "We have parted ways with Barret Zoph. Soumith Chintala will be the new CTO of Thinking Machines. He is a brilliant and seasoned leader who has made important co"
+   },
+   "source": "@miramurati",
+   "url": "https://x.com/miramurati/status/2011577319295692801",
+   "note": {
+    "en": "Murati announces that co-founder Barret Zoph has parted ways with Thinking Machines and that Soumith Chintala will become the new CTO.",
+    "zh": "Murati 宣布联合创始人 Barret Zoph 已离开 Thinking Machines，Soumith Chintala 将出任新任 CTO。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We're making Tinker generally available with new models and features.",
+    "zh": "We're making Tinker generally available with new models and features."
+   },
+   "source": "@miramurati",
+   "url": "https://x.com/miramurati/status/1999546821438234937",
+   "note": {
+    "en": "Murati announces general availability of Tinker with new models and features.",
+    "zh": "Murati 宣布 Tinker 正式全面开放，并新增模型与功能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-29",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "As part of our commitment to open and collaborative science, we’re expanding free access to Tinker for researchers and instructors with our grants program.",
+    "zh": "As part of our commitment to open and collaborative science, we’re expanding free access to Tinker for researchers and instructors with our grants program."
+   },
+   "source": "@miramurati",
+   "url": "https://x.com/miramurati/status/1983584539210608900",
+   "note": {
+    "en": "Murati expands free Tinker access for researchers and instructors through a new grants program, part of Thinking Machines' open-science push.",
+    "zh": "Murati 宣布通过新的资助计划扩大科研人员和教师对 Tinker 的免费使用，这是 Thinking Machines 推动开放科学的一部分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Combining the benefits of RL and SFT with on-policy distillation, a promising approach for training small models for domain performance and continual learning.",
+    "zh": "Combining the benefits of RL and SFT with on-policy distillation, a promising approach for training small models for domain performance and continual learning."
+   },
+   "source": "@miramurati",
+   "url": "https://x.com/miramurati/status/1982856564970254772",
+   "note": {
+    "en": "Murati shares Thinking Machines' work combining RL and SFT via on-policy distillation, a method for training small models with strong domain performance and continual learning.",
+    "zh": "Murati 分享 Thinking Machines 结合强化学习与监督微调的在线策略蒸馏方法，用于训练具备良好领域表现和持续学习能力的小模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-09-29",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Today on Connectionism: establishing the conditions under which LoRA matches full fine-tuning performance, with new experimental results and a grounding in info",
+    "zh": "Today on Connectionism: establishing the conditions under which LoRA matches full fine-tuning performance, with new experimental results and a grounding in info"
+   },
+   "source": "@miramurati",
+   "url": "https://x.com/miramurati/status/1972725548494577735",
+   "note": {
+    "en": "Murati shares Thinking Machines' Connectionism research post (written by John Schulman) establishing when LoRA matches full fine-tuning performance.",
+    "zh": "Murati 分享 Thinking Machines 的 Connectionism 研究文章（作者 John Schulman），阐明 LoRA 在何种条件下可以达到全量微调的效果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-09-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Sharing our second Connectionism research post on Modular Manifolds, a mathematical approach to refining training at each layer of the neural network",
+    "zh": "Sharing our second Connectionism research post on Modular Manifolds, a mathematical approach to refining training at each layer of the neural network"
+   },
+   "source": "@miramurati",
+   "url": "https://x.com/miramurati/status/1971624309262373359",
+   "note": {
+    "en": "Murati shares Thinking Machines' second Connectionism post (written by Jeremy Bernstein) on Modular Manifolds, a mathematical approach to refining neural network training layer by layer.",
+    "zh": "Murati 分享 Thinking Machines 的第二篇 Connectionism 文章（作者 Jeremy Bernstein），介绍 Modular Manifolds——一种逐层优化神经网络训练的数学方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-12-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "OpenAI o1 System Card",
+    "zh": "OpenAI o1 System Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2412.16720v2",
+   "note": {
+    "en": "Mira Murati is a listed author on the o1 system card, documenting OpenAI's chain-of-thought reasoning model and its safety evaluation.",
+    "zh": "Mira Murati是o1系统卡的署名作者之一，该文档介绍了OpenAI的思维链推理模型及其安全评估。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-10-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GPT-4o System Card",
+    "zh": "GPT-4o System Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2410.21276v1",
+   "note": {
+    "en": "Mira Murati is a listed author on the GPT-4o system card, OpenAI's technical and safety documentation for its omni model.",
+    "zh": "Mira Murati是GPT-4o系统卡的署名作者之一，这是OpenAI为其全模态模型撰写的技术与安全文档。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-08-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Shared our GPT-4o system card today, with details of our extensive safety evaluations and mitigations implemented before deploying the model. We talk about spec",
+    "zh": "Shared our GPT-4o system card today, with details of our extensive safety evaluations and mitigations implemented before deploying the model. We talk about spec"
+   },
+   "source": "@miramurati",
+   "url": "https://x.com/miramurati/status/1821677356362412160",
+   "note": {
+    "en": "Murati shares OpenAI's GPT-4o system card, detailing safety evaluations and mitigations including protections against unauthorized voice generation.",
+    "zh": "Murati 分享 OpenAI 的 GPT-4o 系统卡，详细说明了安全评估与缓解措施，包括防止未经授权生成语音的保护机制。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-07-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Today we’re rolling out advanced Voice Mode in ChatGPT to small group of Plus users, all Plus users in fall. Richer and more natural real-time conversations mak",
+    "zh": "Today we’re rolling out advanced Voice Mode in ChatGPT to small group of Plus users, all Plus users in fall. Richer and more natural real-time conversations mak"
+   },
+   "source": "@miramurati",
+   "url": "https://x.com/miramurati/status/1818374216997314738",
+   "note": {
+    "en": "Murati announces OpenAI is rolling out advanced Voice Mode in ChatGPT, starting with a small group of Plus users.",
+    "zh": "Murati 宣布 OpenAI 在 ChatGPT 中推出高级语音模式，首先面向小范围 Plus 用户开放。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-07-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Our SearchGPT prototype is now live. We’re looking for feedback as we prepare to integrate the experience in ChatGPT",
+    "zh": "Our SearchGPT prototype is now live. We’re looking for feedback as we prepare to integrate the experience in ChatGPT"
+   },
+   "source": "@miramurati",
+   "url": "https://x.com/miramurati/status/1816549003242451056",
+   "note": {
+    "en": "Murati announces OpenAI's SearchGPT prototype is live and seeking feedback ahead of integration into ChatGPT.",
+    "zh": "Murati 宣布 OpenAI 的 SearchGPT 原型已上线并征求反馈，为整合进 ChatGPT 做准备。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-07-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "You can now fine-tune GPT-4o mini. Enjoy!",
+    "zh": "You can now fine-tune GPT-4o mini. Enjoy!"
+   },
+   "source": "@miramurati",
+   "url": "https://x.com/miramurati/status/1815890011327455399",
+   "note": {
+    "en": "Murati announces that GPT-4o mini can now be fine-tuned.",
+    "zh": "Murati 宣布 GPT-4o mini 现已支持微调。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-07-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "GPT-4o mini makes intelligence far more affordable opening up a wide range of applications. Available on API and rolling out on ChatGPT today",
+    "zh": "GPT-4o mini makes intelligence far more affordable opening up a wide range of applications. Available on API and rolling out on ChatGPT today"
+   },
+   "source": "@miramurati",
+   "url": "https://x.com/miramurati/status/1813996188229894218",
+   "note": {
+    "en": "Murati announces GPT-4o mini, making capable models far more affordable and available via API and ChatGPT.",
+    "zh": "Murati 宣布推出 GPT-4o mini，大幅降低了强大模型的使用成本，并已通过 API 和 ChatGPT 提供。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-06-13",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "OpenAI CTO Mira Murati on ScarJo Controversy, Sam Altman & Disinfo Fears",
+    "zh": "OpenAI CTO Mira Murati on ScarJo Controversy, Sam Altman & Disinfo Fears"
+   },
+   "source": "On with Kara Swisher",
+   "url": "https://podcasts.apple.com/us/podcast/openai-cto-mira-murati-on-scarjo-controversy-sam-altman/id1643307527?i=1000658881217&uo=4",
+   "note": {
+    "en": "Kara Swisher interview in which Murati, then OpenAI's CTO, answers for the Scarlett Johansson voice dispute, Sam Altman's leadership and election disinformation risk.",
+    "zh": "Kara Swisher 专访：时任 OpenAI 首席技术官的 Murati 回应 Scarlett Johansson 声音争议、Sam Altman 的领导问题以及选举虚假信息风险。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-05-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Today we introduced the Model Spec, starting a public process on shaping desired model behavior — giving stakeholders more agency over steering AI models as the",
+    "zh": "Today we introduced the Model Spec, starting a public process on shaping desired model behavior — giving stakeholders more agency over steering AI models as the"
+   },
+   "source": "@miramurati",
+   "url": "https://x.com/miramurati/status/1788357302506139664",
+   "note": {
+    "en": "Murati introduces OpenAI's Model Spec, opening a public process for shaping how models should behave.",
+    "zh": "Murati 推出 OpenAI 的 Model Spec，启动一个公开征集意见的过程，以确定模型应有的行为方式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-09-27",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AI Revolution: Where We Go From Here with OpenAI's Mira Murati",
+    "zh": "AI Revolution: Where We Go From Here with OpenAI's Mira Murati"
+   },
+   "source": "a16z Live",
+   "url": "https://podcasts.apple.com/us/podcast/ai-revolution-where-we-go-from-here-with-openais-mira-murati/id1551570777?i=1000629278522&uo=4",
+   "note": {
+    "en": "Murati tells a16z's Martin Casado the story behind shipping ChatGPT and GPT-4, and what those releases implied about where AI was heading.",
+    "zh": "Murati 向 a16z 的 Martin Casado 讲述 ChatGPT 与 GPT-4 发布背后的故事，以及这些发布对 AI 走向的意义。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-07-11",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Mira Murati, Chief Technology Officer, OpenAI",
+    "zh": "Mira Murati, Chief Technology Officer, OpenAI"
+   },
+   "source": "Behind The Tech with Kevin Scott",
+   "url": "https://podcasts.apple.com/us/podcast/mira-murati-chief-technology-officer-openai/id1381008946?i=1000620786246&uo=4",
+   "note": {
+    "en": "Long-form interview on Kevin Scott's podcast about how Murati scaled OpenAI's research and product teams through DALL·E and ChatGPT.",
+    "zh": "Kevin Scott 播客的长篇专访，谈 Murati 如何在 DALL·E 与 ChatGPT 时期带领 OpenAI 的研究与产品团队扩张。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-03-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GPT-4 Technical Report",
+    "zh": "GPT-4 Technical Report"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2303.08774v6",
+   "note": {
+    "en": "Mira Murati is a listed author on the GPT-4 technical report, which introduced OpenAI's large multimodal model.",
+    "zh": "Mira Murati是GPT-4技术报告的署名作者之一，该报告介绍了OpenAI的大型多模态模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-10-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Trevor Highlights Arizona's Ultra-MAGA Governor Candidate Kari Lake | Mira Murati & Ralph Macchio",
+    "zh": "Trevor Highlights Arizona's Ultra-MAGA Governor Candidate Kari Lake | Mira Murati & Ralph Macchio"
+   },
+   "source": "The Daily Show: Ears Edition",
+   "url": "https://podcasts.apple.com/us/podcast/trevor-highlights-arizonas-ultra-maga-governor-candidate/id1334878780?i=1000583906477&uo=4",
+   "note": {
+    "en": "Murati explains DALL·E to a mainstream television audience on The Daily Show, weeks before ChatGPT's release.",
+    "zh": "Murati 在《每日秀》上向大众电视观众解释 DALL·E，时间就在 ChatGPT 发布前几周。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2021-07-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Evaluating Large Language Models Trained on Code",
+    "zh": "Evaluating Large Language Models Trained on Code"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2107.03374v2",
+   "note": {
+    "en": "Mira Murati is a listed author on the Codex paper, which introduced the code-generation model that powers GitHub Copilot.",
+    "zh": "Mira Murati是Codex论文的署名作者之一，该论文介绍了为GitHub Copilot提供支持的代码生成模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-07-29",
+   "level": "major",
+   "title": {
+    "en": "Co-founder Lilian Weng departs for health reasons, returns to OpenAI",
+    "zh": "联合创始人翁荔因健康原因离职，回归 OpenAI"
+   },
+   "body": {
+    "en": "The latest in a run of founding-team exits.",
+    "zh": "创始团队连续出走中的最新一例。"
+   },
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/"
+  },
+  {
+   "date": "2026-01-01",
+   "level": "major",
+   "title": {
+    "en": "CTO Barret Zoph exits; Soumith Chintala named CTO",
+    "zh": "CTO Barret Zoph 离职；Soumith Chintala 出任 CTO"
+   },
+   "body": {
+    "en": "Zoph and Luke Metz returned to OpenAI; the company said Zoph was let go over 'unethical conduct'. Chintala, the creator of PyTorch, joins from Meta FAIR. Meta separately hired five founding members.",
+    "zh": "Zoph 与 Luke Metz 回归 OpenAI，公司称 Zoph 因「不当行为」被解雇。PyTorch 作者 Chintala 从 Meta FAIR 加入。Meta 另挖走五名创始成员。"
+   },
+   "source": "Neowin",
+   "url": "https://www.neowin.net/news/thinking-machines-lab-cto-barret-zoph-returns-to-openai-in-surprise-move/"
+  },
+  {
+   "date": "2026-09-07",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Nvidia Plans Up to $3 Billion Investment in Mira Murati's Startup, Valuation Soars to $40 Billion",
+    "zh": "Nvidia Plans Up to $3 Billion Investment in Mira Murati's Startup, Valuation Soars to $40 Billion"
+   },
+   "body": {
+    "en": "Nvidia is set to invest up to $3 billion in Murati's Thinking Machines Lab, pushing the startup's valuation to $40 billion.",
+    "zh": "英伟达计划向Murati创立的Thinking Machines Lab投资最高30亿美元，将该初创公司估值推高至400亿美元。"
+   },
+   "source": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBINVJCYkpGZFFoT2xXQmVZUkp4VjlUTWNzekc3NGlFcm56cTFzbFlNNjNlWUpEZy1zOHRyQkI3eU40SG1fOGZhSDk4V2t6cUZ1YzUzeERTOEJUN3dINnFoUGVRcXlNLWdrRUh1QkVSUzF3dWx1cWc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Ex-OpenAI CTO Mira Murati's Thinking Machines Seeks $1 Billion at $40 Billion Valuation",
+    "zh": "Ex-OpenAI CTO Mira Murati's Thinking Machines Seeks $1 Billion at $40 Billion Valuation"
+   },
+   "body": {
+    "en": "Thinking Machines was reported to be raising $1 billion at a $40 billion valuation, roughly doubling the lab's value within months.",
+    "zh": "据报道，Thinking Machines正以400亿美元估值筹集10亿美元资金，Murati实验室的估值在数月内大约翻倍。"
+   },
+   "source": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfSzRLaDJHWHpCNUZUYjJvY0xNWDl0MWs1cEtMR19DOHRTcDZJVVFZbjRJMzFodUhDbndKaXJPSC1ibGl3UEx4ZGV2MHFWUEhwMlZvTjNVQmZxSEF6RUpIdE5kQ2g4NFhGYmNHTjEtTmtLZ0tibUE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Nvidia Discusses $2.5 Billion Investment in Mira Murati’s Thinking Machines Lab",
+    "zh": "Nvidia Discusses $2.5 Billion Investment in Mira Murati’s Thinking Machines Lab"
+   },
+   "body": {
+    "en": "Nvidia was reported in talks to invest $2.5 billion in Murati's Thinking Machines Lab, a major strategic bet on the startup.",
+    "zh": "据报道，英伟达正洽谈向Murati的Thinking Machines Lab投资25亿美元，这是对该初创公司的一次重大战略押注。"
+   },
+   "source": "The Information",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYTBLRmhoVWZ4WVdPNTdieUJTeXpiMDNWY2M1MGZGRENBSnVxY29sa1R0VzBSd0pZby1BM0wyNko3MGh4VVBoQUJaS09WWTNzMVlIOUItamw3OHJWWjRTOEE5SzN3dHFiMElfRElacXFkM0NTdnZQT1pUQU9LNVA5R0c5ZFI3U19mWnJvZXBzbUZIQ0dtRExqM3UyM2ZXTmdaQzBaUWYwYnFGOHpxbktNUTI2VGlFZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Nvidia Is Eyeing a $2.5 Billion Bet on Mira Murati's AI Startup",
+    "zh": "Nvidia Is Eyeing a $2.5 Billion Bet on Mira Murati's AI Startup"
+   },
+   "body": {
+    "en": "Nvidia is reportedly in talks to anchor a $2.5 billion investment in Mira Murati's Thinking Machines Lab.",
+    "zh": "据报道，英伟达正在洽谈牵头对Mira Murati的Thinking Machines Lab进行25亿美元的投资。"
+   },
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZHB2SzZ4Y3MzVnBZTzF6REdZMUtBcmUxRk1KRGpadmNySEZSZ0VUeURhMHZHSm4xMWFXOVBRTDByVDJFSlNHcFh4Z0JLUkx6WTBEZmxFaGNQcjNJeThyWVFvUnlKTVlta3daWnMzOWhlQXR4QmNWbDdyd0tLN3paY0lCSXFOZlJoTXZ2dkYzV2luZElsZXhTS25RUnNGMlFO?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-31",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "'TIME' selects Mira Murati among 100 figures shaping the future of AI",
+    "zh": "'TIME' selects Mira Murati among 100 figures shaping the future of AI"
+   },
+   "body": {
+    "en": "TIME named Mira Murati to its list of 100 people shaping the future of AI.",
+    "zh": "《时代》杂志将米拉·穆拉蒂列入其“塑造人工智能未来的100人”榜单。"
+   },
+   "source": "Politiko.al",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQajlFZDBSbWsxRUoySWdiTlpRV0xwNl9MTHBVTjZHN0NfaUdxXzV4ZGVicnZHYjhqWjE4U3FPdDhjRm80ZTRQQ01qMHUxa1kyVE5SNi1OZGJDa0x4ZV95dTVoWjE4aVBZbXpDYW9sbjlTaWhXUU1yVW0zWmZGQlVSNFBUZmFpVzJ0OW9ySTVXelU0N2tKdkJ6WVRISHc5MnJNRmxUN1ctaUpnYXdVLVJzdmI0OA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Mira Murati: The 100 Most Influential People in AI 2026",
+    "zh": "Mira Murati: The 100 Most Influential People in AI 2026"
+   },
+   "body": {
+    "en": "TIME names Murati to its 100 most influential people in AI for 2026.",
+    "zh": "《时代》周刊将 Murati 列入 2026 年 AI 领域百位最具影响力人物。"
+   },
+   "source": "Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLY0xWT19YaVFVSTYzZmR0OVBjUmVBMGV5eHZxTS1jdlE4NEVDRXNkaC05MUNuRHNDVkh2TDZjZDQ3OFhOU29NWDJpV1hOYm1VUzNxVnpwUmsxbWpmdTJoYlVsNTlSc0U?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-26",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Mira Murati’s Inkling AI Model Review: Best Open-Weights Model in the West",
+    "zh": "Mira Murati’s Inkling AI Model Review: Best Open-Weights Model in the West"
+   },
+   "body": {
+    "en": "A review named Thinking Machines Lab's Inkling the best open-weights model out of the West, an early marker of the lab's product traction.",
+    "zh": "一篇评测文章将Thinking Machines Lab的Inkling评为西方最佳开源权重模型，是该实验室早期产品获得认可的标志。"
+   },
+   "source": "Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3BISDdfcnNTNDJvaF8tN29Ycml1eEZpei1GRmlhcWd2LUZsT3Aybndkc1ZoQmVrUmcxeERVTWFnQlRGd194cnJodnVDbGw0M2h2ZC1iYUd6cFpYQ0pab2NzNWxoNDJaNUFWXzVOU1hLbVBfcVQtaVRXRU9oOVh2ZVZSVHpUbGt0aG16TmpzMA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-16",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Mira Murati’s AI start-up unveils customisable model Inkling",
+    "zh": "Mira Murati’s AI start-up unveils customisable model Inkling"
+   },
+   "body": {
+    "en": "Thinking Machines Lab releases Inkling, its first open-weight customisable model, moving Murati's lab from a fine-tuning service to shipping frontier weights of its own.",
+    "zh": "Thinking Machines Lab 发布首个开放权重的可定制模型 Inkling，Murati 的实验室由此从微调服务转向发布自己的前沿模型权重。"
+   },
+   "source": "Silicon Republic",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPckhkek1Mb3prakp2Mm1kc0ZIQVhyNld3dm9rMUVwUVctZjU1MzZ3cUtnZGlSNEdQOFFKckljZUdhNG45WUUwalFIcWM5ajZGR0RsbnV0WGFWOWZZcVo5eVo0OEx0VXQwQnRxLUxHTE5WbTZhdG9ZS1RBRnNVNjdqSWl4ZTFKNWg2V25iMWYyckR1NjJCeTZPM0lXaHNrdmtkTDA0T1J0ZkYwTEZGMkdkcmVB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-16",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Mira Murati's startup Thinking Machines launches an open-weight AI model - business-standard.com",
+    "zh": "Mira Murati's startup Thinking Machines launches an open-weight AI model - business-standard.com"
+   },
+   "body": {
+    "en": "Thinking Machines Lab, Murati's startup, launched Inkling, a 975-billion-parameter open-weight model.",
+    "zh": "米拉·穆拉蒂创立的Thinking Machines Lab发布了开放权重模型Inkling，参数量达9750亿。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOLTV5bWNheUdCSHA5NjZiY2dvVGt5Wjh6MzV3OW9idXBlVDM3X2JUODN2ZG1XcGNaSXlfMUExM1JuSmkzOXJsMlVNXzVFbFFySEl6WE1fWUFZT0RISktod3VDN0RmWUdFRjh1TmM0SjYxektpeERETHpZTjNrMkNzY2ZhTzRKRXVHUVpuVWJFMnE0QVp2TFFqbzRIMzZoQmVhOGJIVlNsRlB0SHdMa3RiUE16X0pNSVFQZVoxdzIxSFY2LWNKV1lJRWpPdUtBSkZhb2NnQktxbDduT1h4Wm9kUNIB5gFBVV95cUxPMDV0clNubHcyeXdJV3dJUVFObDVvaWdyWmtSSWdhbkNGc2ZTanREcVpKUER0LXh5NkVycnA3NUdVdF9jT1paYi1MZXE0SnlIWm41UXFRZnB0OENsZjBGNE55ZHhpbUc1bXJkM05tcG5CZ2dSZjlUOFhaXy1XY1JoVS0wcEJaRUNpTDRhc0ZhT0xHZklhSEpkOXE5UGZab0ZlSkpJdlgtLUZCQXBhanh5QTJ6ckVYaERNZV9fTDh4SEpTN0VUaktQMTdNSUZLRkthSllFODg1ZDlxb0l5NGxfZlVNaGFVUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-16",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Mira Murati Drops Her First AI Model After Leaving OpenAI—And It's Fully Open Source",
+    "zh": "Mira Murati Drops Her First AI Model After Leaving OpenAI—And It's Fully Open Source"
+   },
+   "body": {
+    "en": "Mira Murati released her first AI model since leaving OpenAI, making it fully open source.",
+    "zh": "米拉·穆拉蒂发布了她离开OpenAI后的首个AI模型，并将其完全开源。"
+   },
+   "source": "Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNEZGX012Zi1tVzRRNmd3bW9aNkswMjkzTlpuLTU5TUNTTWZmTWROSENMMko0UHVOWDFyTjVTbUZkbTh3QXB4M1VXd1NKN3JNUXBNWnJkVjVYQWlNN2phYS04V3lLM21OM2xBTTBCMnpwWjBEUmYzUlhiZUIxeXAwUWFxM2JGR2ZaREh0aTVn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-15",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Mira Murati’s AI Startup Releases First Model in Bid to Loosen AI Giants’ Grip",
+    "zh": "Mira Murati’s AI Startup Releases First Model in Bid to Loosen AI Giants’ Grip"
+   },
+   "body": {
+    "en": "Thinking Machines Lab releases Inkling, Murati's first model since leaving OpenAI, shipped with open weights.",
+    "zh": "Thinking Machines Lab 发布 Inkling——Murati 离开 OpenAI 后的第一个模型，并开放权重。"
+   },
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzVTTWJDdUFUdUdTSTJzS2F0REZadUxWeV81S2s1Vlp3UEdOTWQzQ1F3RmphNmRxNFpJbmNUNFV0eVBCMHJ2djJuYzNSRThqbTdBaUdvdWdsMGIyME5nZG5VNlhUTHRsMHczNy1SWHdyaF9ySGNGNnhuNnlINWdQRXVGa095UmJxb2g5a1BJMVJJY3d2RGtJejJWM3IySk54VE1EamlVMTkwQWx1Y0Eyd1BVNA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-13",
+   "ts": null,
+   "level": "minor",
+   "title": {
+    "en": "Quote of the day by ex-OpenAI CTO, Mira Murati: \"Some creative jobs maybe will go away, but maybe they shouldn't have been there in the first place\"",
+    "zh": "Quote of the day by ex-OpenAI CTO, Mira Murati: \"Some creative jobs maybe will go away, but maybe they shouldn't have been there in the first place\""
+   },
+   "body": {
+    "en": "Mira Murati remarked that some creative jobs may disappear because of AI, but questioned whether they should have existed in the first place.",
+    "zh": "米拉·穆拉蒂表示，一些创意类工作可能会因AI而消失，但她也质疑这些工作是否本就不该存在。"
+   },
+   "source": "Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tV1RLLVRzUnpSaE5LT3MzeDBldzBoUnVKVWhlNnN0Wm5CQTQ2OUVHNU5nT21mTEh4c0NvajlGZHR3Z2VNUHpfMGJ0WEk5NWdMSjhVcUhYdU9QdGo1ZUUxb2hDSVdlVl80VTNzYnp6R2thREgtaE9tMDJHZDN5Zw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-06",
+   "ts": "2026-05-06T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "OpenAI CEO Sam Altman was dishonest, caused ‘chaos,’ ex-exec Mira Murati says in bombshell testimony",
+    "zh": "OpenAI CEO Sam Altman was dishonest, caused ‘chaos,’ ex-exec Mira Murati says in bombshell testimony"
+   },
+   "body": {
+    "en": "In bombshell testimony, former OpenAI CTO Mira Murati said Sam Altman was dishonest and caused \"chaos\" at the company.",
+    "zh": "在一份劲爆证词中，前OpenAI CTO Mira Murati称Sam Altman不诚实，并在公司内制造了“混乱”。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1hScHhST1FHeWlkRkxneF9LNWF1NTdPajd1ZXp3VnZjbF95QlQ2TzRTTWFpS1c2VEJFRHg5ZTdELUo1ckpkd2tZQ3BpdXRQcFI1UVJkZGNMUHFqdlRMNUZ0eExpemtMdHZqMXBrSERKVGVRSVpEWE5va01nVkFza2NxdzAtRmx3NVV0SmF0OVl5QkhVUGFpMWZQS3FjTGtHM0E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-06",
+   "ts": "2026-05-06T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "OpenAI CEO Sam Altman was dishonest, caused ‘chaos,’ ex-exec Mira Murati says in bombshell testimony",
+    "zh": "OpenAI CEO Sam Altman was dishonest, caused ‘chaos,’ ex-exec Mira Murati says in bombshell testimony"
+   },
+   "body": {
+    "en": "In testimony related to OpenAI litigation, Murati said Sam Altman was dishonest and caused chaos during her time as CTO.",
+    "zh": "在与OpenAI相关的诉讼证词中，Murati表示她担任CTO期间，Sam Altman行事不诚实并造成了混乱。"
+   },
+   "source": "AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMGNnVVlxc1NoY1NXZ3dUcTNrZEtUM1BHU1FpaTRSaFA0dHVzbTd6MWJhaFJ5SllEd1I4ZWpoTm1QcFYtVHJ1dDR3N0tDcnJybEFnVTByYktUSWtWUVNDSmhDQndmUjJBekt1UGFaeEtBY04wQ1NOa0RFcDdxZjR3Tw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-04-20",
+   "ts": "2026-04-20T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Meta quietly hired two more founding members from Mira Murati's Thinking Machines Lab",
+    "zh": "Meta quietly hired two more founding members from Mira Murati's Thinking Machines Lab"
+   },
+   "body": {
+    "en": "Meta quietly hired two more founding members away from Mira Murati's Thinking Machines Lab, continuing the erosion of her original founding team.",
+    "zh": "Meta悄然又从Mira Murati的Thinking Machines Lab挖走两名创始成员，其初创团队持续流失。"
+   },
+   "source": "Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV3NsdlJXNHIyWV8zNm5aTjYxYmkyTmdobFlvaTdnWDFLRjRjemIyTW12RzBjdTVFVGxVbFFSRWlrNzZ0UGVUR1Q3ZmltaGJsOW1PRDdFdjQ0cUxUQ2g0N3hYanh0eTNSSWpRWUFGY3BhN2Y0U2FFdVFjbTh6VE0tb1MteFp4YXFUY19TTzd5Ri1mS3NNYkNMMDkxZXZxbDBsUHVUNFpZamwwSnJ1TWVqa19XRWZFWE4zRHV2azNBWXB1bDBqVjBIcTBsSno?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-04-15",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Meta has snapped up a fifth founding member from Mira Murati's Thinking Machines Lab",
+    "zh": "Meta has snapped up a fifth founding member from Mira Murati's Thinking Machines Lab"
+   },
+   "body": {
+    "en": "Meta hired away a fifth founding member of Murati's Thinking Machines Lab, continuing the drain of her founding team.",
+    "zh": "Meta从Murati的Thinking Machines Lab挖走了第五位创始成员，其创始团队人才持续流失。"
+   },
+   "source": "Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWTR1UC14U3hVUmZpeXQtYS1rZWlpR2VQRmVGYmRMQk1IUWZPekw0T0hJMFRaMEVWLU5DWnpfRGNVWXFTdXNBU3I2NWlRY1ZWZnJvWlpSYTIzdXowX1QzQ2J2Vy1JQjc2Q2hOWGlSbUVTOGVORHhOWWxCV2JKNEI2SURIc0VlZlZrRmFBNzhCZ0VUU2JuOE1wU2wxYmVZVG9nWFZib0xPVTEzendoMXNYWkNSQ2dDSVhoS0FUcExfMlNHN2lPZjZqSzE1UQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-04-15",
+   "ts": "2026-04-15T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Meta has snapped up a fifth founding member from Mira Murati's Thinking Machines Lab",
+    "zh": "Meta has snapped up a fifth founding member from Mira Murati's Thinking Machines Lab"
+   },
+   "body": {
+    "en": "Meta hired away a fifth founding member of Mira Murati's Thinking Machines Lab, continuing the drain of her original team.",
+    "zh": "Meta又挖走了Mira Murati创立的Thinking Machines Lab的第五位创始成员，其初创团队持续流失。"
+   },
+   "source": "AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUWNldzRFNHAzRzg0ck1fV05WQUVfanlYWG5XM0hJdEducmI4Tlp4em1FT0VibG5RUDB2cTFER2RZZ25hSThRNzZob0NIZVVPdzg4NjF4djhUczVqT2h2MUlDX0xidUlMNzJYbXYzX1NZX0wtODBveWFaY0NvcUdmNkR4QkI?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-03-10",
+   "ts": "2026-03-10T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "NVIDIA (NVDA) makes 'significant investment' into Mira Murati's Thinking Machines Lab company",
+    "zh": "NVIDIA (NVDA) makes 'significant investment' into Mira Murati's Thinking Machines Lab company"
+   },
+   "body": {
+    "en": "NVIDIA made a significant investment in Mira Murati's Thinking Machines Lab, backing her startup with fresh capital.",
+    "zh": "英伟达对Mira Murati的Thinking Machines Lab进行了一笔重要投资，为她的初创公司注入新资金。"
+   },
+   "source": "Shacknews",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY3NLSnU1b1duT1JCejVGdk84dkUwbmJ2OThYTUtvY0wxU2xGVkhEQjhnb3JwTWdDX05hd2FLWHJGWERDU2hhOEpnRFh2YXVEUkZ0bFNZcFFha3FIVjJhRUNwSTRoTzZCUzJpRnIzbERhMHJjNzMyQ3d1ZTBOcTZfcDZVVHlMUHZyUmfSAZcBQVVfeXFMUGRfVFJRVEgtcmVoOGNEODgtUVcyUS0yMnh3WkpXYnJQVmJjWkFzODF2X3M3S3RLZncwbXVoaFoxelpZZ3l6V1lsYVFOYUZCRUNvV3JvTnNJSHI1a3hiMF9wYWdHeUtKRC1kdzdLUkwtT2NJeENnZkk2LUxtek9iNFhHXzlTVVFvSUJvZGt2SjdpdlZhR0lHUQ?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "lab",
+ "score": {
+  "total": 75.3,
+  "attention": 82,
+  "centrality": 72,
+  "momentum": 67,
+  "stature": null,
+  "pageviews": 800593,
+  "citations": 1653,
+  "hIndex": 3,
+  "events": 20,
+  "posts": 32,
+  "wikiEn": "Mira Murati",
+  "wikiZh": "米拉·穆拉蒂"
+ },
+ "seedRank": 18,
+ "tier": "t1"
+}

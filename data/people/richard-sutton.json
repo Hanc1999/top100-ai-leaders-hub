@@ -1,0 +1,1787 @@
+{
+ "rank": 59,
+ "id": "richard-sutton",
+ "name": {
+  "en": "Richard Sutton",
+  "zh": "Richard Sutton"
+ },
+ "role": {
+  "en": "Professor, University of Alberta; Chief Scientific Advisor, Amii; Research Scientist, Keen Technologies",
+  "zh": "阿尔伯塔大学教授；Amii 首席科学顾问；Keen Technologies 研究科学家"
+ },
+ "org": "U Alberta / Amii / Keen",
+ "region": {
+  "en": "Canada",
+  "zh": "加拿大"
+ },
+ "tags": [
+  "Turing Award",
+  "Reinforcement learning",
+  "Bitter Lesson",
+  "Alberta Plan",
+  "Era of Experience"
+ ],
+ "why": {
+  "en": "2024 Turing laureate and father of reinforcement learning. 'The Bitter Lesson' is the most-quoted methodological judgment of the past decade — and he now spends much of his time telling people they have misread it.",
+  "zh": "2024 年图灵奖得主，强化学习之父。《The Bitter Lesson》是过去十年被引述最多的方法论判断 —— 而他现在花大量时间告诉人们他们读错了。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@RichardSSutton",
+   "url": "https://x.com/RichardSSutton",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "incompleteideas.net",
+   "url": "http://incompleteideas.net/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "The Bitter Lesson",
+   "url": "http://www.incompleteideas.net/IncIdeas/BitterLesson.html",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "Amii",
+   "url": "https://www.amii.ca/people/richard-s-sutton",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Richard+Sutton",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Richard+Sutton",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Richard+Sutton",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Richard+Sutton&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Richard+Sutton&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Richard+Sutton",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Richard+Sutton&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Richard+Sutton",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Richard+Sutton",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Richard+Sutton",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Richard+Sutton",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Richard+Sutton",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Richard+Sutton",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Richard+Sutton",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Richard+Sutton&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Richard_S._Sutton",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2019-03-13",
+   "kind": "blog",
+   "title": {
+    "en": "The Bitter Lesson",
+    "zh": "苦涩的教训"
+   },
+   "source": "incompleteideas.net",
+   "url": "http://www.incompleteideas.net/IncIdeas/BitterLesson.html",
+   "note": {
+    "en": "Four decades of AI history in three pages: the methods that win are the general ones that scale with compute.",
+    "zh": "三页纸写完四十年 AI 史：最终胜出的是随算力扩展的通用方法。"
+   }
+  },
+  {
+   "date": "2025-09-01",
+   "kind": "podcast",
+   "title": {
+    "en": "LLMs are a dead end",
+    "zh": "LLM 是死路一条"
+   },
+   "source": "Dwarkesh Podcast",
+   "url": "https://www.dwarkesh.com/",
+   "note": {
+    "en": "Sutton rejects the standard reading of the Bitter Lesson as a justification for scaling LLMs.",
+    "zh": "Sutton 拒绝把「苦涩的教训」当作扩展 LLM 的正当性依据这一常见解读。"
+   }
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T06:05:19Z",
+   "kind": "x",
+   "title": {
+    "en": "A playful place to playfully create robots that play. #RobotKindergarten",
+    "zh": "A playful place to playfully create robots that play. #RobotKindergarten"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/2097567004874125471",
+   "note": {
+    "en": "Sutton posted about \"RobotKindergarten,\" a project concept for teaching robots to learn through open-ended play.",
+    "zh": "萨顿发帖介绍了“机器人幼儿园”（RobotKindergarten）构想，旨在通过开放式玩耍让机器人学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-08-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Kris De Asis and I are helping build a kindergarten for robots, a safe place for them to learn from experience about their bodies and the world.",
+    "zh": "Kris De Asis and I are helping build a kindergarten for robots, a safe place for them to learn from experience about their bodies and the world."
+   },
+   "source": "@RichardSSutton",
+   "url": "https://x.com/RichardSSutton/status/2091062564675580371",
+   "note": {
+    "en": "Sutton announces a new research effort with Kris De Asis to build a 'kindergarten for robots' — an environment for embodied agents to learn from experience about their own bodies and the world.",
+    "zh": "Sutton宣布与Kris De Asis共同开展一项新研究，为具身智能体打造一个“机器人幼儿园”，让它们从经验中学习认识自己的身体和世界。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Plasticity of Growing and Elastic Neural Networks in Online Continual Learning",
+    "zh": "Plasticity of Growing and Elastic Neural Networks in Online Continual Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.01475v1",
+   "note": {
+    "en": "With Jeong Min Kong, studies whether neural networks that grow or both grow and shrink retain plasticity in online continual learning — a direct continuation of Sutton's loss-of-plasticity line of work.",
+    "zh": "与 Jeong Min Kong 合作，研究在线持续学习中会生长、或既能生长又能收缩的神经网络能否保持可塑性，是 Sutton 关于可塑性衰减研究的直接延续。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I can’t say enough good things about John Carmack @ID_AA_Carmack and his Keen Technologies. But now Khurram Javed @kjaved_ and I have broken away to start our o",
+    "zh": "I can’t say enough good things about John Carmack @ID_AA_Carmack and his Keen Technologies. But now Khurram Javed @kjaved_ and I have broken away to start our o"
+   },
+   "source": "@RichardSSutton",
+   "url": "https://x.com/RichardSSutton/status/2076663628301058329",
+   "note": {
+    "en": "Sutton announces that he and Khurram Javed have left Keen Technologies to start their own venture pursuing a different research direction.",
+    "zh": "Sutton宣布他与Khurram Javed已离开Keen Technologies，创立自己的新公司，探索不同的研究方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-31",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "A new and possibly controversial perspective: In this video, I explain the sense in which generative AI trained by supervised learning is incapable of making no",
+    "zh": "A new and possibly controversial perspective: In this video, I explain the sense in which generative AI trained by supervised learning is incapable of making no"
+   },
+   "source": "@RichardSSutton",
+   "url": "https://x.com/RichardSSutton/status/2061216087744946656",
+   "note": {
+    "en": "Sutton argues that generative AI trained purely by supervised learning is incapable of making novel discoveries, a pointed critique of the dominant LLM training paradigm.",
+    "zh": "Sutton认为仅通过监督学习训练的生成式AI无法做出新颖发现，这是对当前主流大模型训练范式的尖锐批评。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Physical Atari: A Robust and Accessible Platform for Real-time Reinforcement Learning on Robots",
+    "zh": "Physical Atari: A Robust and Accessible Platform for Real-time Reinforcement Learning on Robots"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.19357v1",
+   "note": {
+    "en": "With Khurram Javed, Joseph Modayil and John Carmack, presents a robot that physically operates an Atari controller so reinforcement learning can be run in real time on real hardware — the Keen Technologies research platform.",
+    "zh": "与 Khurram Javed、Joseph Modayil 和 John Carmack 合作，提出让机器人实际操作 Atari 手柄的平台，使强化学习能在真实硬件上实时运行，即 Keen Technologies 的研究平台。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Toward Enactive Artificial Intelligence",
+    "zh": "Toward Enactive Artificial Intelligence"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.24238v1",
+   "note": {
+    "en": "With his former student Banafsheh Rafiee, argues that AI should adopt enactive views of perception as skilful engagement with the world rather than passive representation.",
+    "zh": "与其学生 Banafsheh Rafiee 合著，主张人工智能应采纳「生成认知」的观点，把感知视为与世界的主动、熟练互动，而非被动的表征。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The bitter lesson in 26 words: Don’t be distracted by human knowledge, as AI has been historically. Instead focus on methods for creating knowledge that scale w",
+    "zh": "The bitter lesson in 26 words: Don’t be distracted by human knowledge, as AI has been historically. Instead focus on methods for creating knowledge that scale w"
+   },
+   "source": "@RichardSSutton",
+   "url": "https://x.com/RichardSSutton/status/2056419165502935198",
+   "note": {
+    "en": "Sutton condenses 'The Bitter Lesson' into a 26-word summary: don't be distracted by human knowledge, focus on methods that scale with computation, like search and learning.",
+    "zh": "Sutton用26个词概括《苦涩的教训》：不要被人类知识分散注意力，应专注于能随算力扩展的方法，如搜索和学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "RL Ethics has a Predictive Semantics I would like to try to explain the view of ethics and values that arises from my research in reinforcement learning in simp",
+    "zh": "RL Ethics has a Predictive Semantics I would like to try to explain the view of ethics and values that arises from my research in reinforcement learning in simp"
+   },
+   "source": "@RichardSSutton",
+   "url": "https://x.com/RichardSSutton/status/2050340618044617211",
+   "note": {
+    "en": "Sutton lays out his view that ethics and values, as they arise from reinforcement learning research, can be understood through a predictive semantics.",
+    "zh": "Sutton阐述了他的观点：从强化学习研究中产生的伦理与价值观，可以通过一种“预测性语义”来理解。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Intentional Updates for Streaming Reinforcement Learning",
+    "zh": "Intentional Updates for Streaming Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.19033v1",
+   "note": {
+    "en": "With Sharifnassab, Elsayed, De Asis and Mahmood, proposes step sizes defined by the intended change in the function's output rather than in parameter units, to stabilise streaming reinforcement learning.",
+    "zh": "与 Sharifnassab、Elsayed、De Asis 和 Mahmood 合作，提出以函数输出的目标变化量、而非参数尺度来定义步长，以稳定流式强化学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Big world =&gt; runtime learning",
+    "zh": "Big world =&gt; runtime learning"
+   },
+   "source": "@RichardSSutton",
+   "url": "https://x.com/RichardSSutton/status/2043024355190542762",
+   "note": {
+    "en": "Sutton states his 'big world' thesis in shorthand: a world too large to fully model implies the need for learning that happens at runtime, not just during training.",
+    "zh": "Sutton用一句话概括其“大世界”论点：世界过于庞大而无法被完全建模，这意味着学习需要在运行时进行，而不仅仅在训练阶段。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The text of my speech last week at the University of Alberta convocation ceremony: Good afternoon graduating students, parents, and ladies and gentlemen of the",
+    "zh": "The text of my speech last week at the University of Alberta convocation ceremony: Good afternoon graduating students, parents, and ladies and gentlemen of the"
+   },
+   "source": "@RichardSSutton",
+   "url": "https://x.com/RichardSSutton/status/2038040449513124182",
+   "note": {
+    "en": "Sutton shares the text of his University of Alberta convocation address to graduating students.",
+    "zh": "Sutton分享了他在阿尔伯塔大学毕业典礼上对毕业生发表演讲的全文。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Reinforcement learning is and always has been the study of algorithms for learning from experience. It amazes me that people can claim to be working on learning",
+    "zh": "Reinforcement learning is and always has been the study of algorithms for learning from experience. It amazes me that people can claim to be working on learning"
+   },
+   "source": "@RichardSSutton",
+   "url": "https://x.com/RichardSSutton/status/2027053558223561109",
+   "note": {
+    "en": "Sutton restates his core definition of the field: reinforcement learning is, and always has been, the study of algorithms for learning from experience, pushing back on people who claim to work on 'learning from experience' without engaging RL.",
+    "zh": "Sutton重申他对该领域的核心定义：强化学习一直是研究从经验中学习的算法，并反驳那些声称从事“经验学习”却不涉及强化学习的说法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "David Silver's new $4bn company, Ineffable Intelligence, will fulfil the promise of the Era of Experience. https://t.co/FhanPcuIUJ https://t.co/5LGXWwGZ6M",
+    "zh": "David Silver's new $4bn company, Ineffable Intelligence, will fulfil the promise of the Era of Experience. https://t.co/FhanPcuIUJ https://t.co/5LGXWwGZ6M"
+   },
+   "source": "@RichardSSutton",
+   "url": "https://x.com/RichardSSutton/status/2024291626420752437",
+   "note": {
+    "en": "Sutton highlights David Silver's new $4bn company, Ineffable Intelligence, as a step toward realizing the 'Era of Experience' vision the two have championed.",
+    "zh": "Sutton指出David Silver创立的估值40亿美元的新公司Ineffable Intelligence，将推动他们共同倡导的“经验时代”愿景成为现实。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-01-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Yann is right about everything (except RL).",
+    "zh": "Yann is right about everything (except RL)."
+   },
+   "source": "@RichardSSutton",
+   "url": "https://x.com/RichardSSutton/status/2014875521650475416",
+   "note": {
+    "en": "Sutton offers a pointed, half-joking dig at Yann LeCun, agreeing with him broadly while dissenting sharply on reinforcement learning.",
+    "zh": "Sutton半开玩笑地评价Yann LeCun：大体上同意他的观点，但在强化学习问题上明确表示不同意。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-01-14",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Andrew Barto and Richard Sutton - Episode 80",
+    "zh": "Andrew Barto and Richard Sutton - Episode 80"
+   },
+   "source": "ACM ByteCast",
+   "url": "https://podcasts.apple.com/us/podcast/andrew-barto-and-richard-sutton-episode-80/id1510829794?i=1000745143288&uo=4",
+   "note": {
+    "en": "ACM ByteCast interview with Sutton and Andrew Barto on the work that won them the 2024 Turing Award.",
+    "zh": "ACM ByteCast 对 Sutton 与 Andrew Barto 的访谈，谈他们获得 2024 年图灵奖的研究工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-12-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Bernie Widrow was one of my heroes. I thought of him as the Obi-Wan Kenobi of artificial neural networks.",
+    "zh": "Bernie Widrow was one of my heroes. I thought of him as the Obi-Wan Kenobi of artificial neural networks."
+   },
+   "source": "@RichardSSutton",
+   "url": "https://x.com/RichardSSutton/status/2001904298574356955",
+   "note": {
+    "en": "Sutton pays tribute to Bernard Widrow, the neural-network pioneer behind ADALINE, calling him one of his heroes and 'the Obi-Wan Kenobi of artificial neural networks.'",
+    "zh": "Sutton悼念神经网络先驱、ADALINE的发明者Bernard Widrow，称他是自己心目中的英雄，是“人工神经网络界的欧比旺·克诺比”。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Average-reward reinforcement learning in semi-Markov decision processes via relative value iteration",
+    "zh": "Average-reward reinforcement learning in semi-Markov decision processes via relative value iteration"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.06218v1",
+   "note": {
+    "en": "With Huizhen Yu and Yi Wan, extends their asynchronous stochastic approximation results to average-reward semi-Markov decision processes via relative value iteration.",
+    "zh": "与 Huizhen Yu 和 Yi Wan 合作，将其异步随机逼近的结果通过相对值迭代推广到平均回报的半马尔可夫决策过程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-11-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "And the new Superintelligence Research Lab will be centered in... Edmonton!",
+    "zh": "And the new Superintelligence Research Lab will be centered in... Edmonton!"
+   },
+   "source": "@RichardSSutton",
+   "url": "https://x.com/RichardSSutton/status/1986163994084901252",
+   "note": {
+    "en": "Sutton announces a new Superintelligence Research Lab to be based in Edmonton.",
+    "zh": "Sutton宣布一个新的“超级智能研究实验室”将落户埃德蒙顿。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Learning is the derivative of knowledge.",
+    "zh": "Learning is the derivative of knowledge."
+   },
+   "source": "@RichardSSutton",
+   "url": "https://x.com/RichardSSutton/status/1981017854364570019",
+   "note": {
+    "en": "Sutton offers a compact aphorism framing learning as the rate of change of knowledge.",
+    "zh": "Sutton用一句精炼的格言将学习定义为知识变化的速率。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-09-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Richard Sutton – Father of RL thinks LLMs are a dead end",
+    "zh": "Richard Sutton – Father of RL thinks LLMs are a dead end"
+   },
+   "source": "Dwarkesh Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/richard-sutton-father-of-rl-thinks-llms-are-a-dead-end/id1516093381?i=1000728584744&uo=4",
+   "note": {
+    "en": "Long-form Dwarkesh Podcast interview in which Sutton argues that large language models are a dead end for reaching real intelligence — his most widely discussed public statement of that position.",
+    "zh": "Dwarkesh 播客的长篇访谈，Sutton 在其中主张大语言模型是通往真正智能的死路，这是他该立场传播最广的一次公开表述。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-09-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Dwarkesh and I had a frank exchange of views. I hope we moved the conversation forward. Dwarkesh is a true gentleman.",
+    "zh": "Dwarkesh and I had a frank exchange of views. I hope we moved the conversation forward. Dwarkesh is a true gentleman."
+   },
+   "source": "@RichardSSutton",
+   "url": "https://x.com/RichardSSutton/status/1971693156128510100",
+   "note": {
+    "en": "Sutton reflects on his interview with Dwarkesh Patel, describing their 'frank exchange of views' following a widely discussed conversation about the limits of LLMs.",
+    "zh": "Sutton回顾了他与Dwarkesh Patel的访谈，称二人进行了“坦诚的观点交流”——这场关于大模型局限性的对话曾引发广泛讨论。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-09-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "For those really into it, here are another 50 minutes of my views on planning and action selection in options-based AI agents (like in the Oak architecture). ht",
+    "zh": "For those really into it, here are another 50 minutes of my views on planning and action selection in options-based AI agents (like in the Oak architecture). ht"
+   },
+   "source": "@RichardSSutton",
+   "url": "https://x.com/RichardSSutton/status/1969849718164562073",
+   "note": {
+    "en": "Sutton shares an extended talk on planning and action selection in options-based AI agents, tied to his Oak architecture research program.",
+    "zh": "Sutton分享了一段关于基于选项（options）的AI智能体中规划与动作选择的长篇讲座，内容与其Oak架构研究项目相关。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-09-03",
+   "ts": "2025-09-03T16:36:44Z",
+   "kind": "x",
+   "title": {
+    "en": "The Pandemonium paper is seminal, but a little hard to find; here is a pdf: https://t.co/4wAm8jU0vt",
+    "zh": "The Pandemonium paper is seminal, but a little hard to find; here is a pdf: https://t.co/4wAm8jU0vt"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1963280009038266438",
+   "note": {
+    "en": "Recommends Selfridge's classic \"Pandemonium\" paper, calling it seminal but hard to find, with a PDF link.",
+    "zh": "他推荐塞尔弗里奇的经典论文《Pandemonium》,称其意义重大但难以找到,并附上PDF链接。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-09-03",
+   "ts": "2025-09-03T16:24:52Z",
+   "kind": "x",
+   "title": {
+    "en": "Dwarkesh Patel is 100% right on this: AI's utility is very strongly dependent on continual learning. https://t.co/YR54QlaqZK",
+    "zh": "Dwarkesh Patel is 100% right on this: AI's utility is very strongly dependent on continual learning. https://t.co/YR54QlaqZK"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1963277020894490976",
+   "note": {
+    "en": "Endorses Dwarkesh Patel's claim that AI's usefulness depends heavily on continual learning.",
+    "zh": "他支持Dwarkesh Patel的观点,认为AI的实用性高度依赖持续学习能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-09-01",
+   "ts": "2025-09-01T23:30:07Z",
+   "kind": "x",
+   "title": {
+    "en": "My acceptance speech at the Turing award ceremony: Good evening ladies and gentlemen. The main idea of reinforcement learning is that a machine might discover w",
+    "zh": "My acceptance speech at the Turing award ceremony: Good evening ladies and gentlemen. The main idea of reinforcement learning is that a machine might discover w"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1962659262276215294",
+   "note": {
+    "en": "Shares an excerpt of his 2025 ACM A.M. Turing Award acceptance speech on the core idea of reinforcement learning.",
+    "zh": "他分享了自己2025年ACM图灵奖获奖演说的节选,阐述强化学习的核心理念。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-08-18",
+   "ts": "2025-08-18T17:55:12Z",
+   "kind": "x",
+   "title": {
+    "en": "I was happy to give a more technical talk on how we might create an AI at RLC-2025 and AGI-2025 (video below). The Oak Architecture: A Vision of Super-Intellige",
+    "zh": "I was happy to give a more technical talk on how we might create an AI at RLC-2025 and AGI-2025 (video below). The Oak Architecture: A Vision of Super-Intellige"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1957501548214513897",
+   "note": {
+    "en": "Describes his RLC-2025/AGI-2025 talk \"The Oak Architecture: A Vision of Super-Intelligence from Experience.\"",
+    "zh": "他介绍了在RLC-2025和AGI-2025大会上所做的报告《Oak架构:源自经验的超级智能构想》。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-07-27",
+   "ts": "2025-07-27T21:18:18Z",
+   "kind": "x",
+   "title": {
+    "en": "My colleague Rupam Mahmood explains from first principles his groundbreaking work on Streaming Deep Reinforcement Learning: https://t.co/8dmBgy6L5G",
+    "zh": "My colleague Rupam Mahmood explains from first principles his groundbreaking work on Streaming Deep Reinforcement Learning: https://t.co/8dmBgy6L5G"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1949580126519504949",
+   "note": {
+    "en": "Promotes colleague Rupam Mahmood's work on Streaming Deep Reinforcement Learning as groundbreaking.",
+    "zh": "他称赞同事Rupam Mahmood在流式深度强化学习方面的开创性工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-07-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Swift-Sarsa: Fast and Robust Linear Control",
+    "zh": "Swift-Sarsa: Fast and Robust Linear Control"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2507.19539v1",
+   "note": {
+    "en": "With Khurram Javed, extends the SwiftTD step-size optimisation ideas to control, giving a fast and robust linear Sarsa algorithm.",
+    "zh": "与 Khurram Javed 合作，将 SwiftTD 的步长优化思想扩展到控制问题，给出快速且稳健的线性 Sarsa 算法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-07-05",
+   "ts": "2025-07-05T20:44:19Z",
+   "kind": "x",
+   "title": {
+    "en": "It turns out the Turing Award is actually a silvery bowl from Tiffanys. https://t.co/jxBdfNU6zZ",
+    "zh": "It turns out the Turing Award is actually a silvery bowl from Tiffanys. https://t.co/jxBdfNU6zZ"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1941599042095739205",
+   "note": {
+    "en": "Shares that the Turing Award trophy is a silver bowl from Tiffany's, a widely shared aside from his own award experience.",
+    "zh": "他分享了一个趣闻:图灵奖奖杯其实是蒂芙尼制作的银碗,这条推文获得了广泛关注。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-07-05",
+   "ts": "2025-07-05T20:26:42Z",
+   "kind": "x",
+   "title": {
+    "en": "In my recent talk at the Upperbound conference, I included a slide in which I tried to be a realist about the arrival of AI, setting aside what we might want to",
+    "zh": "In my recent talk at the Upperbound conference, I included a slide in which I tried to be a realist about the arrival of AI, setting aside what we might want to"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1941594608418553967",
+   "note": {
+    "en": "Recaps a slide from his Upperbound conference talk trying to give a realist take on AI's arrival.",
+    "zh": "他回顾了在Upperbound大会演讲中的一张幻灯片,试图对AI的到来给出现实主义的判断。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-06-18",
+   "ts": "2025-06-18T07:45:49Z",
+   "kind": "x",
+   "title": {
+    "en": "In war, both sides lose. That we don’t learn this is the greatest tragedy.",
+    "zh": "In war, both sides lose. That we don’t learn this is the greatest tragedy."
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1935242534479085621",
+   "note": {
+    "en": "States his view that \"in war, both sides lose,\" calling the failure to learn this the greatest tragedy.",
+    "zh": "他表达了\"战争中双方都是输家\"的观点,称未能认识到这一点是最大的悲剧。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-05-31",
+   "ts": "2025-05-31T03:25:50Z",
+   "kind": "x",
+   "title": {
+    "en": "ACM has made an excellent video introduction to reinforcement learning!",
+    "zh": "ACM has made an excellent video introduction to reinforcement learning!"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1928654123164914033",
+   "note": {
+    "en": "Recommends an ACM-produced video introduction to reinforcement learning.",
+    "zh": "他推荐了ACM制作的强化学习入门视频。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-05-13",
+   "ts": "2025-05-13T22:56:20Z",
+   "kind": "x",
+   "title": {
+    "en": "In 1993, it was looking like the internet was actually going to be a thing, so I made a homepage for myself. This is what I wrote for my personal statement: \"I",
+    "zh": "In 1993, it was looking like the internet was actually going to be a thing, so I made a homepage for myself. This is what I wrote for my personal statement: \"I"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1922425709961826541",
+   "note": {
+    "en": "Shares his 1993 personal homepage statement describing his research goal of finding general computational principles of intelligence.",
+    "zh": "他分享了1993年个人主页上的自我介绍,阐述了探索智能通用计算原理的研究目标。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-05-06",
+   "ts": "2025-05-06T18:41:52Z",
+   "kind": "x",
+   "title": {
+    "en": "The latest episode of the Derby Mill Podcast is just out and focused on the \"Era of Experience\" paper by David Silver and myself. Substack: https://t.co/7jw3PcX",
+    "zh": "The latest episode of the Derby Mill Podcast is just out and focused on the \"Era of Experience\" paper by David Silver and myself. Substack: https://t.co/7jw3PcX"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1919824956046663972",
+   "note": {
+    "en": "Announces a new Derby Mill Podcast episode covering his and David Silver's \"Era of Experience\" paper.",
+    "zh": "他宣布Derby Mill播客新一期节目聚焦他与David Silver合著的《经验时代》论文。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-04-25",
+   "ts": "2025-04-25T01:45:12Z",
+   "kind": "x",
+   "title": {
+    "en": "My nuanced views on AI alignment are still often caricatured, so perhaps its a good time to repost this 15-minute talk in which I presented them directly: https",
+    "zh": "My nuanced views on AI alignment are still often caricatured, so perhaps its a good time to repost this 15-minute talk in which I presented them directly: https"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1915582834838061150",
+   "note": {
+    "en": "Reposts a 15-minute talk directly presenting his nuanced views on AI alignment, responding to how they've been caricatured.",
+    "zh": "针对外界对他AI对齐观点的曲解,他重发了一段15分钟的演讲,直接阐述自己的细致立场。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-04-22",
+   "ts": "2025-04-22T00:21:21Z",
+   "kind": "x",
+   "title": {
+    "en": "Everything new is also old. This from my 1984 PhD thesis: \"AI is an experimental science, yet the complexity of its programs and problem domains often makes the",
+    "zh": "Everything new is also old. This from my 1984 PhD thesis: \"AI is an experimental science, yet the complexity of its programs and problem domains often makes the"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1914474571400667573",
+   "note": {
+    "en": "Quotes his own 1984 PhD thesis on AI as an experimental science, noting the idea still holds.",
+    "zh": "他引用了自己1984年博士论文中关于\"AI是一门实验科学\"的论述,称这一观点至今依然适用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-04-11",
+   "ts": "2025-04-11T18:26:43Z",
+   "kind": "x",
+   "title": {
+    "en": "David Silver really hits it out of the park in this podcast. The paper \"Welcome to the Era of Experience\" is here: https://t.co/Y6m4jLRjnh.",
+    "zh": "David Silver really hits it out of the park in this podcast. The paper \"Welcome to the Era of Experience\" is here: https://t.co/Y6m4jLRjnh."
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1910761446637719588",
+   "note": {
+    "en": "Praises David Silver's podcast appearance and links to their \"Welcome to the Era of Experience\" paper.",
+    "zh": "他称赞David Silver的播客表现出色,并附上二人合著论文《欢迎来到经验时代》的链接。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-04-07",
+   "ts": "2025-04-07T20:34:47Z",
+   "kind": "x",
+   "title": {
+    "en": "I have enjoyed advising Giri and ExperienceFlow for the last nine months. Learning from experience really is the key to strong AI, and ExperienceFlow seeks to b",
+    "zh": "I have enjoyed advising Giri and ExperienceFlow for the last nine months. Learning from experience really is the key to strong AI, and ExperienceFlow seeks to b"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1909344121061597416",
+   "note": {
+    "en": "Discusses advising startup ExperienceFlow, saying learning from experience is key to strong AI.",
+    "zh": "他谈到担任初创公司ExperienceFlow顾问的经历,称从经验中学习是通向强AI的关键。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-04-04",
+   "ts": "2025-04-04T21:57:14Z",
+   "kind": "x",
+   "title": {
+    "en": "The PhD thesis of my _first_ PhD student, Doina Precup, is at-long-last available in digital form. Title: Temporal Abstraction in Reinforcement Learning Url: ht",
+    "zh": "The PhD thesis of my _first_ PhD student, Doina Precup, is at-long-last available in digital form. Title: Temporal Abstraction in Reinforcement Learning Url: ht"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1908277706703372350",
+   "note": {
+    "en": "Announces the digital publication of his first PhD student Doina Precup's thesis on temporal abstraction in reinforcement learning.",
+    "zh": "他宣布自己第一位博士生Doina Precup关于强化学习中时序抽象的论文已发布电子版。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-03-31",
+   "ts": "2025-03-31T22:33:07Z",
+   "kind": "x",
+   "title": {
+    "en": "Rich's slogans for AI research (revised 2006): 1. Approximate the solution, not the problem (no special cases) 2. Drive from the problem 3. Take the agent’s poi",
+    "zh": "Rich's slogans for AI research (revised 2006): 1. Approximate the solution, not the problem (no special cases) 2. Drive from the problem 3. Take the agent’s poi"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1906837186319942114",
+   "note": {
+    "en": "Shares his own \"slogans for AI research\" (revised 2006), a set of methodological principles.",
+    "zh": "他分享了自己提出的\"AI研究口号\"(2006年修订版),一套方法论原则。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-03-31",
+   "ts": "2025-03-31T22:09:45Z",
+   "kind": "x",
+   "title": {
+    "en": "Neural networks already seemed old to me in 1978: “A common way to develop general theories of the brain is to theorize about the neuron as the fundamental buil",
+    "zh": "Neural networks already seemed old to me in 1978: “A common way to develop general theories of the brain is to theorize about the neuron as the fundamental buil"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1906831305385656777",
+   "note": {
+    "en": "Quotes his own 1978 writing on why neural networks already seemed old-fashioned to him even then.",
+    "zh": "他引用了自己1978年的文字,谈及当时已经觉得神经网络理论\"过时\"的看法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-03-31",
+   "ts": "2025-03-31T21:55:31Z",
+   "kind": "x",
+   "title": {
+    "en": "I’ve changed so little. From my 1978 Bachelor’s thesis: “The adult human mind is very complex, but the question remains open whether the learning processes that",
+    "zh": "I’ve changed so little. From my 1978 Bachelor’s thesis: “The adult human mind is very complex, but the question remains open whether the learning processes that"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1906827723991081101",
+   "note": {
+    "en": "Quotes his 1978 Bachelor's thesis questioning whether human learning processes can be replicated in machines.",
+    "zh": "他引用了1978年本科毕业论文中的段落,探讨人类学习过程能否在机器中复现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-03-27",
+   "ts": "2025-03-27T16:23:29Z",
+   "kind": "x",
+   "title": {
+    "en": "Modern Americans, you are not responsible for slavery. You are not responsible for stealing the land and killing almost all native Americans. Those things happe",
+    "zh": "Modern Americans, you are not responsible for slavery. You are not responsible for stealing the land and killing almost all native Americans. Those things happe"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1905294616431329751",
+   "note": {
+    "en": "Shares his stance on collective historical responsibility for slavery and the displacement of Native Americans.",
+    "zh": "他就美国历史上奴隶制与原住民迫害的集体责任问题表达了自己的立场。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-03-07",
+   "ts": "2025-03-07T18:57:45Z",
+   "kind": "x",
+   "title": {
+    "en": "Geordie Rose taking the bullet of explaining away consciousness for those who think it is a special thing. Good solid work, but not very rewarding. I salute you",
+    "zh": "Geordie Rose taking the bullet of explaining away consciousness for those who think it is a special thing. Good solid work, but not very rewarding. I salute you"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1898085680678682859",
+   "note": {
+    "en": "Comments on Geordie Rose's attempt to explain away consciousness, calling the effort solid but not very rewarding.",
+    "zh": "他点评Geordie Rose试图\"解构\"意识概念的努力,称工作扎实但意义有限。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-03-07",
+   "ts": "2025-03-07T18:45:02Z",
+   "kind": "x",
+   "title": {
+    "en": "I am pretty happy with this 30-minute summary of my views on the current state of AI and alignment. https://t.co/zWyBFGUPF7",
+    "zh": "I am pretty happy with this 30-minute summary of my views on the current state of AI and alignment. https://t.co/zWyBFGUPF7"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1898082481251008929",
+   "note": {
+    "en": "Shares a 30-minute talk summarizing his views on the current state of AI and alignment.",
+    "zh": "他分享了一段30分钟的演讲,总结自己对当前AI与对齐问题的看法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-03-05",
+   "ts": "2025-03-05T18:39:25Z",
+   "kind": "x",
+   "title": {
+    "en": "https://t.co/dW1mBPdS2f Machines that learn from experience were explored by Alan Turing almost eighty years ago, which makes it particularly gratifying and hum",
+    "zh": "https://t.co/dW1mBPdS2f Machines that learn from experience were explored by Alan Turing almost eighty years ago, which makes it particularly gratifying and hum"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1897356290474832042",
+   "note": {
+    "en": "Reflects on receiving the Turing Award, tying his \"learning from experience\" theme to Alan Turing's 1947 vision.",
+    "zh": "他在获得图灵奖之际,将\"从经验中学习\"的主题与图灵1947年的构想联系起来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-02-25",
+   "ts": "2025-02-25T21:27:51Z",
+   "kind": "x",
+   "title": {
+    "en": "\"What we want is a machine that can learn from experience.\" ---Alan Turing, 1947",
+    "zh": "\"What we want is a machine that can learn from experience.\" ---Alan Turing, 1947"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1894499574297104446",
+   "note": {
+    "en": "Shares Alan Turing's 1947 quote on machines learning from experience, echoing his own research theme.",
+    "zh": "他分享了图灵1947年关于\"机器应从经验中学习\"的名言,呼应自己的研究主题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-02-15",
+   "ts": "2025-02-15T23:45:07Z",
+   "kind": "x",
+   "title": {
+    "en": "The PhD thesis of my 14th PhD student, Khurram Javed (@KhurramJaved_96), is now available. Title: Real-time Reinforcement Learning for Achieving Goals in Big Wo",
+    "zh": "The PhD thesis of my 14th PhD student, Khurram Javed (@KhurramJaved_96), is now available. Title: Real-time Reinforcement Learning for Achieving Goals in Big Wo"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1890910241132573086",
+   "note": {
+    "en": "Announces the publication of his 14th PhD student Khurram Javed's thesis on real-time reinforcement learning in large worlds.",
+    "zh": "他宣布第14位博士生Khurram Javed关于大规模世界实时强化学习的论文已发布。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-02-02",
+   "ts": "2025-02-02T20:29:18Z",
+   "kind": "x",
+   "title": {
+    "en": "We have fun and talk about DeepSeek in the second episode of a new podcast on the frontier of AI and economic productivity organized by the great @professor_aja",
+    "zh": "We have fun and talk about DeepSeek in the second episode of a new podcast on the frontier of AI and economic productivity organized by the great @professor_aja"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1886149921310662750",
+   "note": {
+    "en": "Appears on a new podcast about AI and economic productivity, discussing DeepSeek.",
+    "zh": "他参与了一档探讨AI与经济生产力的新播客节目,谈及DeepSeek。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-01-27",
+   "ts": "2025-01-27T03:27:19Z",
+   "kind": "x",
+   "title": {
+    "en": "Free Palestine.",
+    "zh": "Free Palestine."
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1883718401597796782",
+   "note": {
+    "en": "Posts \"Free Palestine,\" which became his most-engaged post by a wide margin.",
+    "zh": "他发布\"Free Palestine\"(解放巴勒斯坦)一贴,成为他互动量最高的一条推文,远超其他内容。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-11-24",
+   "ts": "2024-11-24T22:51:53Z",
+   "kind": "x",
+   "title": {
+    "en": "The original RL algorithms, inspired by natural learning, were online and incremental—they were streaming in the sense that they learned from each increment of",
+    "zh": "The original RL algorithms, inspired by natural learning, were online and incremental—they were streaming in the sense that they learned from each increment of"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1860818651953463542",
+   "note": {
+    "en": "Explains how the original RL algorithms were inherently online, incremental and streaming, inspired by natural learning.",
+    "zh": "他阐述了最初的强化学习算法为何天生具有在线、增量、流式的特点,灵感来自自然学习过程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-11-03",
+   "ts": "2024-11-03T21:38:20Z",
+   "kind": "x",
+   "title": {
+    "en": "Fans of The Bitter Lesson may be interested in this talk from 2018 (recently re-discovered) which includes its first public presentation, at 30:40. https://t.co",
+    "zh": "Fans of The Bitter Lesson may be interested in this talk from 2018 (recently re-discovered) which includes its first public presentation, at 30:40. https://t.co"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1853189996762825211",
+   "note": {
+    "en": "Surfaces a rediscovered 2018 talk containing the first public presentation of \"The Bitter Lesson.\"",
+    "zh": "他挖出一段2018年重新发现的演讲录像,其中包含《苦涩的教训》的首次公开发表。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-09-14",
+   "ts": "2024-09-14T22:31:43Z",
+   "kind": "x",
+   "title": {
+    "en": "The PhD thesis of my 13th PhD student, Kris De Asis (@M33pinator), is now available. Title: Explorations in the Foundations of Value-based Reinforcement Learnin",
+    "zh": "The PhD thesis of my 13th PhD student, Kris De Asis (@M33pinator), is now available. Title: Explorations in the Foundations of Value-based Reinforcement Learnin"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1835084039688274196",
+   "note": {
+    "en": "Announces the publication of his 13th PhD student Kris De Asis's thesis on the foundations of value-based reinforcement learning.",
+    "zh": "他宣布第13位博士生Kris De Asis关于基于价值的强化学习基础理论的论文已发布。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-09-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Asynchronous Stochastic Approximation with Applications to Average-Reward Reinforcement Learning",
+    "zh": "Asynchronous Stochastic Approximation with Applications to Average-Reward Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2409.03915v3",
+   "note": {
+    "en": "With Huizhen Yu and Yi Wan, proves stability and convergence for asynchronous stochastic approximation and applies it to average-reward reinforcement learning.",
+    "zh": "与 Huizhen Yu 和 Yi Wan 合作，证明异步随机逼近的稳定性与收敛性，并将其应用于平均回报强化学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-08-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "On Convergence of Average-Reward Q-Learning in Weakly Communicating Markov Decision Processes",
+    "zh": "On Convergence of Average-Reward Q-Learning in Weakly Communicating Markov Decision Processes"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2408.16262v1",
+   "note": {
+    "en": "With Yi Wan and Huizhen Yu, establishes convergence of relative-value-iteration Q-learning for average-reward MDPs under weak communication.",
+    "zh": "与 Yi Wan 和 Huizhen Yu 合作，证明基于相对值迭代的 Q 学习在弱连通平均回报 MDP 上的收敛性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-08-28",
+   "ts": "2024-08-28T20:22:09Z",
+   "kind": "x",
+   "title": {
+    "en": "If you are looking to conduct research full-time on the foundations of AI, and • you have read the RL textbook and done the exercises, • you agree with the Albe",
+    "zh": "If you are looking to conduct research full-time on the foundations of AI, and • you have read the RL textbook and done the exercises, • you agree with the Albe"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1828890835884355800",
+   "note": {
+    "en": "Recruits full-time researchers aligned with the \"Alberta Plan for AI Research,\" outlining specific expectations.",
+    "zh": "他为\"阿尔伯塔AI研究计划\"招募全职研究人员,并列出具体的申请条件。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-08-25",
+   "ts": "2024-08-25T22:06:52Z",
+   "kind": "x",
+   "title": {
+    "en": "This is my interview with Dan Fagella on the future of AI. I argued for a future in which people and AIs cooperate. Cooperation means participants interacting v",
+    "zh": "This is my interview with Dan Fagella on the future of AI. I argued for a future in which people and AIs cooperate. Cooperation means participants interacting v"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1827830024856285593",
+   "note": {
+    "en": "Sutton describes his interview with Dan Fagella, framing a future built on voluntary human-AI cooperation for mutual benefit.",
+    "zh": "萨顿谈及与Dan Fagella的访谈，提出人类与AI应基于自愿合作、互惠互利的未来构想。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-08-24",
+   "ts": "2024-08-24T18:17:22Z",
+   "kind": "x",
+   "title": {
+    "en": "A year later and our work on Loss of Plasticity is finally published, in Nature no less! The Nature version is totally rewritten and has many new results: https",
+    "zh": "A year later and our work on Loss of Plasticity is finally published, in Nature no less! The Nature version is totally rewritten and has many new results: https"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1827409881890222214",
+   "note": {
+    "en": "Sutton announces the Nature publication of his Loss of Plasticity work, rewritten with new results a year after the original release.",
+    "zh": "萨顿宣布其\"可塑性丧失\"研究成果发表于《自然》杂志，该版本较原版全面重写并新增结果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-08-22",
+   "ts": "2024-08-22T19:34:22Z",
+   "kind": "x",
+   "title": {
+    "en": "Yesterday there was a completely-student-organized summit of the RLAI (Reinforcement Learning and Artificial Intelligence) research group at the University of A",
+    "zh": "Yesterday there was a completely-student-organized summit of the RLAI (Reinforcement Learning and Artificial Intelligence) research group at the University of A"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/1826704485257019709",
+   "note": {
+    "en": "Sutton recaps a student-organized RLAI research summit held at Amii's Edmonton headquarters.",
+    "zh": "萨顿回顾了在Amii埃德蒙顿总部举行的、由学生自发组织的RLAI研究峰会。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-08-09",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Richard Sutton - Humanity Never Had Control in the First Place (Worthy Successor Series, Episode 2)",
+    "zh": "Richard Sutton - Humanity Never Had Control in the First Place (Worthy Successor Series, Episode 2)"
+   },
+   "source": "The Trajectory",
+   "url": "https://podcasts.apple.com/us/podcast/richard-sutton-humanity-never-had-control-in-the/id1739255954?i=1000664854098&uo=4",
+   "note": {
+    "en": "Interview on The Trajectory in which Sutton makes the case that humanity never had control of its succession in the first place, one of his fullest statements on AI risk.",
+    "zh": "The Trajectory 播客访谈，Sutton 论证人类本来就从未掌控过自身的「继承」问题，是他关于人工智能风险最完整的表述之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-06-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "An Idiosyncrasy of Time-discretization in Reinforcement Learning",
+    "zh": "An Idiosyncrasy of Time-discretization in Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2406.14951v2",
+   "note": {
+    "en": "With Kris De Asis, shows how the assumption of fixed-duration discrete time steps distorts reinforcement learning algorithms applied to physically continuous systems.",
+    "zh": "与 Kris De Asis 合作，指出固定时长离散时间步的假设会如何扭曲应用于物理连续系统的强化学习算法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-05-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Reward Centering",
+    "zh": "Reward Centering"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2405.09999v2",
+   "note": {
+    "en": "With Naik, Wan and Tomar, shows that subtracting the empirical average reward markedly improves discounted methods on continuing problems.",
+    "zh": "与 Naik、Wan 和 Tomar 合作，表明减去经验平均回报可显著改善折扣方法在持续性问题上的表现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-02-22",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#170 Richard Sutton on Pursuing AGI Through Reinforcement Learning",
+    "zh": "#170 Richard Sutton on Pursuing AGI Through Reinforcement Learning"
+   },
+   "source": "Eye On A.I.",
+   "url": "https://podcasts.apple.com/us/podcast/170-richard-sutton-on-pursuing-agi-through-reinforcement/id1438378439?i=1000646258802&uo=4",
+   "note": {
+    "en": "Eye on A.I. interview with Craig Smith on pursuing AGI through reinforcement learning rather than scaled supervised models.",
+    "zh": "Eye on A.I. 播客中与 Craig Smith 的访谈，谈如何通过强化学习而非扩大规模的监督模型来追求通用人工智能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-02-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "MetaOptimize: A Framework for Optimizing Step Sizes and Other Meta-parameters",
+    "zh": "MetaOptimize: A Framework for Optimizing Step Sizes and Other Meta-parameters"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2402.02342v6",
+   "note": {
+    "en": "Paper proposing MetaOptimize, a framework for adapting step sizes and other meta-parameters during training.",
+    "zh": "论文提出 MetaOptimize 框架，在训练过程中自适应调整步长等元参数。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-01-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Step-size Optimization for Continual Learning",
+    "zh": "Step-size Optimization for Continual Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2401.17401v1",
+   "note": {
+    "en": "With Degris, Javed, Sharifnassab and Liu, treats the step size itself as something to be learned so a network can keep learning over its whole lifetime.",
+    "zh": "与 Degris、Javed、Sharifnassab 和 Liu 合作，将步长本身作为可学习的对象，使网络能够终身持续学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-12-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Note on Stability in Asynchronous Stochastic Approximation without Communication Delays",
+    "zh": "A Note on Stability in Asynchronous Stochastic Approximation without Communication Delays"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2312.15091v2",
+   "note": {
+    "en": "With Huizhen Yu and Yi Wan, gives a stability proof for asynchronous stochastic approximation without communication delays, extending a method of Borkar and Meyn.",
+    "zh": "与 Huizhen Yu 和 Yi Wan 合作，给出无通信延迟下异步随机逼近的稳定性证明，推广了 Borkar 与 Meyn 的方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-10-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Iterative Option Discovery for Planning, by Planning",
+    "zh": "Iterative Option Discovery for Planning, by Planning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2310.01569v2",
+   "note": {
+    "en": "With Kenny Young, discovers temporal abstractions (options) by using planning itself as the objective that judges which options are worth having.",
+    "zh": "与 Kenny Young 合作，以规划本身作为衡量哪些选项值得拥有的目标，来发现时间抽象（options）。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-06-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Value-aware Importance Weighting for Off-policy Reinforcement Learning",
+    "zh": "Value-aware Importance Weighting for Off-policy Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2306.15625v1",
+   "note": {
+    "en": "With De Asis and Graves, reweights off-policy samples according to their effect on value estimates rather than by raw importance ratios.",
+    "zh": "与 De Asis 和 Graves 合作，按样本对价值估计的影响来重新加权离策略样本，而非直接使用原始重要性比率。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-06-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Maintaining Plasticity in Deep Continual Learning",
+    "zh": "Maintaining Plasticity in Deep Continual Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2306.13812v3",
+   "note": {
+    "en": "With Dohare, Hernandez-Garcia, Rahman and Mahmood, documents how deep networks lose the ability to learn under continual training and proposes a way to preserve it — the loss-of-plasticity result.",
+    "zh": "与 Dohare、Hernandez-Garcia、Rahman 和 Mahmood 合作，记录深度网络在持续训练下丧失学习能力的现象并提出保持可塑性的方法，即「可塑性丧失」结果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-01-31",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Toward Efficient Gradient-Based Value Estimation",
+    "zh": "Toward Efficient Gradient-Based Value Estimation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2301.13757v3",
+   "note": {
+    "en": "With Arsalan Sharifnassab, narrows the speed gap between gradient-based value estimation and TD learning while keeping the stability advantages of the gradient methods.",
+    "zh": "与 Arsalan Sharifnassab 合作，在保留梯度方法稳定性优势的同时，缩小其与 TD 学习之间的速度差距。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-10-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Auxiliary task discovery through generate-and-test",
+    "zh": "Auxiliary task discovery through generate-and-test"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2210.14361v2",
+   "note": {
+    "en": "With Rafiee, Ghiassian, Jin, Luo and Adam White, discovers useful auxiliary tasks by generate-and-test rather than hand-design.",
+    "zh": "与 Rafiee、Ghiassian、Jin、Luo 和 Adam White 合作，用「生成—测试」的方式自动发现有用的辅助任务，而非人工设计。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-09-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "On Convergence of Average-Reward Off-Policy Control Algorithms in Weakly Communicating MDPs",
+    "zh": "On Convergence of Average-Reward Off-Policy Control Algorithms in Weakly Communicating MDPs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2209.15141v2",
+   "note": {
+    "en": "With Yi Wan, proves that Differential Q-learning and RVI Q-learning converge in weakly communicating MDPs under the average-reward criterion.",
+    "zh": "与 Yi Wan 合作，证明 Differential Q-learning 与 RVI Q-learning 在平均回报准则下于弱连通 MDP 中收敛。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-08-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The Alberta Plan for AI Research",
+    "zh": "The Alberta Plan for AI Research"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2208.11173v3",
+   "note": {
+    "en": "With Michael Bowling and Patrick Pilarski, sets out the Alberta Plan — the long-term research agenda for experience-based intelligence that Sutton's group works to.",
+    "zh": "与 Michael Bowling 和 Patrick Pilarski 共同提出「Alberta 计划」，即 Sutton 团队所遵循的、以经验为基础通向智能的长期研究纲领。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-07-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Doubly-Asynchronous Value Iteration: Making Value Iteration Asynchronous in Actions",
+    "zh": "Doubly-Asynchronous Value Iteration: Making Value Iteration Asynchronous in Actions"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2207.01613v2",
+   "note": {
+    "en": "With Tian Tian and Kenny Young, makes value iteration asynchronous in actions as well as states, so updates need not sweep every action.",
+    "zh": "与 Tian Tian 和 Kenny Young 合作，让值迭代不仅在状态上、也在动作上异步进行，使更新无需遍历每个动作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-05-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Toward Discovering Options that Achieve Faster Planning",
+    "zh": "Toward Discovering Options that Achieve Faster Planning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2205.12515v2",
+   "note": {
+    "en": "With Yi Wan, proposes an option-discovery objective that rewards options for making planning computationally faster.",
+    "zh": "与 Yi Wan 合作，提出以「让规划在计算上更快」为衡量标准的选项发现目标。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-02-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The Quest for a Common Model of the Intelligent Decision Maker",
+    "zh": "The Quest for a Common Model of the Intelligent Decision Maker"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2202.13252v3",
+   "note": {
+    "en": "Sole-authored essay arguing that psychology, neuroscience, economics and AI are converging on a single common model of the intelligent decision maker.",
+    "zh": "Sutton 独著的文章，主张心理学、神经科学、经济学与人工智能正汇聚到关于智能决策者的同一个共同模型上。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-02-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A History of Meta-gradient: Gradient Methods for Meta-learning",
+    "zh": "A History of Meta-gradient: Gradient Methods for Meta-learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2202.09701v1",
+   "note": {
+    "en": "Sole-authored review of the history of gradient-based meta-learning, focusing on methods that adapt the step size.",
+    "zh": "Sutton 独著的综述，回顾基于梯度的元学习发展史，重点是自适应调整步长的方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-02-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Reward-Respecting Subtasks for Model-Based Reinforcement Learning",
+    "zh": "Reward-Respecting Subtasks for Model-Based Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2202.03466v4",
+   "note": {
+    "en": "With Machado, Holland, Szepesvari, Timbers, Tanner and White, defines subtasks that respect the main reward signal so that learned options remain useful for model-based planning.",
+    "zh": "与 Machado、Holland、Szepesvari、Timbers、Tanner 和 White 合作，定义尊重主奖励信号的子任务，使学到的选项对基于模型的规划仍然有用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2025-01-01",
+   "level": "notable",
+   "title": {
+    "en": "The Alberta Plan for AI Research",
+    "zh": "Alberta Plan for AI Research"
+   },
+   "body": {
+    "en": "Advocates long-term, curiosity-driven research on agents that learn and improve across an entire lifetime.",
+    "zh": "主张以长期、好奇心驱动的方式研究能在整个生命周期中持续学习与改进的智能体。"
+   },
+   "source": "Amii",
+   "url": "https://www.amii.ca/people/richard-s-sutton"
+  },
+  {
+   "date": "2026-07-14",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "AI pioneer Richard Sutton founds new research lab",
+    "zh": "AI pioneer Richard Sutton founds new research lab"
+   },
+   "body": {
+    "en": "Sutton founded a new research lab to pursue continually learning agents rather than the LLM paradigm.",
+    "zh": "Sutton 创办新的研究实验室，主攻持续学习智能体，而非大语言模型路线。"
+   },
+   "source": "BetaKit",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBncEQyTGlZVjczN1k2VXI5cjFhS2c0LTM3bV9mLWNxdW1MVjk2THZwNWRuTkc2SjJpaGpaQ1ZhZ3Q2QTBNVVByNnZzeV9sRnV4UWt4VXQ0SUJQWWRBQzVCYzVYZWFYNkt3UXhDWXJnQ21sYVJUTjNfNTN3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-14",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Turing Award winner Richard Sutton’s new venture is a bet against today’s AI models",
+    "zh": "Turing Award winner Richard Sutton’s new venture is a bet against today’s AI models"
+   },
+   "body": {
+    "en": "Sutton left John Carmack's Keen Technologies to found Oak Lab in Toronto with Khurram Javed, a startup built on his bet that today's large models are the wrong foundation for intelligence.",
+    "zh": "Sutton 离开 John Carmack 的 Keen Technologies，与 Khurram Javed 在多伦多创办 Oak Lab；这家初创公司建立在他的判断之上：当今的大模型不是通向智能的正确基础。"
+   },
+   "source": "The Indian Express",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMWJYUXg0dU41SE1pUTBnNlZQMkVGZS1iQ01kVG9qTkZLVFFYelFxVDZZYklpQU51dmRjU29ucTJBLS1yUHMzUDg3Ri1yZ3Q0d0E0WUEtNWQ4Rm1FTThlNmY2V2luUTZpcUx1VnNzdGRnV1hEZGRXLTFiRWxJcVBqeVMwcmxCMjhDZk44cnJpVEpDUGxOU05yMXlkdDc1MWdjbmxud2w4a1A4QnFaTENzN0ppZm1xeVAtaHBfN2VfekUtWE3SAcoBQVVfeXFMUElQczM5RkpNUlZ0YlJmZHlVNFRRakZGMnpVQWRhVE1DZjhsT3o4UHFGOWhDV0xtSVR6cm90aHZSZHA4UDluY0dkTkpwNW1yckVTZW9PMWFMZGRoYnd2MFNJRi1KTG1SaUx3bW10cFlWaG1SeXBaT1lYdDlVcDMtUUF5R3pMaFFQSUlEcERhZnY2M2RhakU5b29FTWx1OGN3Z1hSdEhKQlV2VUF3MndWU2MyYkNjYUF4NHZWQTBtY01jTGI1WmZiWTh2QQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-09",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Tashan Technology Partners with Turing Award Winner Richard Sutton to Launch \"Robot Kindergarten\" – Advancing Embodied Intelligence from the Imitation Era to the Experience Era",
+    "zh": "Tashan Technology Partners with Turing Award Winner Richard Sutton to Launch \"Robot Kindergarten\" – Advancing Embodied Intelligence from the Imitation Era to the Experience Era"
+   },
+   "body": {
+    "en": "Chinese robotics firm Tashan Technology announced a partnership with Sutton to launch a \"Robot Kindergarten\" applying his experience-based learning agenda to embodied intelligence.",
+    "zh": "中国机器人公司踏山科技宣布与 Sutton 合作推出「机器人幼儿园」，将他以经验为核心的学习理念应用于具身智能。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yZmdpTDRUUGtzNnRiNXVwNDhmRVhFYVRIV3NxWHFaRzJjSU8wbjFUREZTZGdqZjkwVG5MSTZPcnRlRVF1cExlWE1BMmxXTnVzN253?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-01-29",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "AI pioneer Richard Sutton to receive honourary degree from U of A",
+    "zh": "AI pioneer Richard Sutton to receive honourary degree from U of A"
+   },
+   "body": {
+    "en": "The University of Alberta, where he has taught since 2003, announced it would award Sutton an honorary degree.",
+    "zh": "阿尔伯塔大学宣布将授予 Sutton 荣誉学位，他自 2003 年起在该校任教。"
+   },
+   "source": "BetaKit",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOUFkODlvWlRSa3htSnJyZk9GUGx4bzRXX3lpME1zZFpoSjd2b1ZWZFpMRFVta0JlSkUxaFZXWGpsQnlHVTh1RXRQZi1WN2c4cFBZTFZMZHBzWDh5SEY3ZmhnMWU1N0k3bnJLM0xVWnpQNzhVSWh4V1BwUnI4dFdwRHM1TzZlRm01WVp1bHh5WQ?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "research",
+ "score": {
+  "total": 39.9,
+  "attention": 58,
+  "centrality": 4,
+  "momentum": 34,
+  "stature": 69,
+  "pageviews": 148658,
+  "citations": 68231,
+  "hIndex": 67,
+  "events": 5,
+  "posts": 81,
+  "wikiEn": "Richard S. Sutton",
+  "wikiZh": "理查德·S·薩頓"
+ },
+ "seedRank": 75,
+ "tier": "t4"
+}

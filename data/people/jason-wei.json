@@ -1,0 +1,1877 @@
+{
+ "rank": 88,
+ "id": "jason-wei",
+ "name": {
+  "en": "Jason Wei",
+  "zh": "Jason Wei"
+ },
+ "role": {
+  "en": "Meta Superintelligence Labs",
+  "zh": "Meta 超级智能实验室"
+ },
+ "org": "Meta",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "Meta MSL",
+  "Chain-of-Thought",
+  "FLAN",
+  "Emergence",
+  "o3",
+  "Deep Research"
+ ],
+ "why": {
+  "en": "First author of chain-of-thought prompting and FLAN instruction tuning, and a main author on emergent abilities — an extraordinarily high influence density from very few papers. Left OpenAI for Meta.",
+  "zh": "思维链提示 Chain-of-Thought 与指令微调 FLAN 的第一作者，涌现能力研究的主要作者。以极少论文数量产生了极高影响密度。已从 OpenAI 转投 Meta。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@_jasonwei",
+   "url": "https://x.com/_jasonwei",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "jasonwei.net",
+   "url": "https://www.jasonwei.net/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Blog",
+   "url": "https://www.jasonwei.net/blog",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @jasonwei20",
+   "url": "https://github.com/jasonwei20",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "Meta AI Research",
+   "url": "https://ai.meta.com/research/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Jason+Wei",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Jason+Wei",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Jason+Wei",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Jason+Wei&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Jason+Wei&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Jason+Wei",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Jason+Wei",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Jason+Wei",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Jason+Wei",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Jason+Wei",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Jason+Wei",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Jason+Wei",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Jason+Wei",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ACL Anthology",
+   "url": "https://aclanthology.org/search/?q=Jason+Wei",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Jason+Wei&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2025-01-01",
+   "kind": "blog",
+   "title": {
+    "en": "Essays on research taste and scaling",
+    "zh": "关于研究品味与 scaling 的随笔"
+   },
+   "source": "jasonwei.net",
+   "url": "https://www.jasonwei.net/blog",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T17:06:24Z",
+   "kind": "x",
+   "title": {
+    "en": "very cool result showing how wet lab data enables a specialized model to beat gpt-6 astra at a task at the frontier of science! in general scaling is great and",
+    "zh": "very cool result showing how wet lab data enables a specialized model to beat gpt-6 astra at a task at the frontier of science! in general scaling is great and"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/2099907698708095210",
+   "note": {
+    "en": "Wei commented on a result showing a specialized model trained on wet-lab data beating a frontier model at a science task, reaffirming that scaling still matters even as specialized approaches show promise.",
+    "zh": "韦杰评论了一项结果：一个基于湿实验室数据训练的专用模型在前沿科学任务上超过了通用前沿模型，他借此重申即便专用方法展现出潜力，规模化仍然重要。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
+    "zh": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.05405v1",
+   "note": {
+    "en": "Jason Wei co-authors WearableQA, a benchmark testing whether AI systems can reason over real users' longitudinal wearable health data, with colleagues from Meta's wearables team.",
+    "zh": "Jason Wei与Meta可穿戴设备团队的同事共同提出WearableQA基准，用于测试AI系统能否对真实用户的长期可穿戴健康数据进行推理。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-08-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Prefix Sliding for efficient test-time scaling",
+    "zh": "Prefix Sliding for efficient test-time scaling"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.26070v1",
+   "note": {
+    "en": "Paper introducing prefix sliding, a method that drops early reasoning tokens from the KV cache to make test-time scaling cheaper; co-authored with Muennighoff, Liang, Zettlemoyer, Choi and Lewis.",
+    "zh": "论文提出 prefix sliding 方法，通过丢弃 KV 缓存中较早的推理 token 来降低测试时扩展的开销；合作者包括 Muennighoff、Percy Liang、Zettlemoyer、Yejin Choi 和 Mike Lewis。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-08-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Cognitive reward shapes in sports and career Sports are amazing environments to learn. When you play a sport for thousands of hours, you start to see the world",
+    "zh": "Cognitive reward shapes in sports and career Sports are amazing environments to learn. When you play a sport for thousands of hours, you start to see the world"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/2090154331358310667",
+   "note": {
+    "en": "Wei draws an analogy between reward shaping in sports and in careers, arguing thousands of hours in a sport reshapes how you perceive the world.",
+    "zh": "Wei将体育与职业中的\"奖励塑造\"作类比,认为在一项运动上投入数千小时会重塑一个人看待世界的方式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "When language models first started using tools well, I was sympathetic to the narrative that instead of scaling up language models, all we needed was a strong e",
+    "zh": "When language models first started using tools well, I was sympathetic to the narrative that instead of scaling up language models, all we needed was a strong e"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/2089429555371024577",
+   "note": {
+    "en": "Wei revisits his earlier sympathy for the 'small cognitive core plus strong tools' narrative for language models, and where his thinking has shifted since.",
+    "zh": "Wei回顾自己曾经认同的\"小型认知核心加强工具\"语言模型叙事,并说明此后想法的转变。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-16",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "What's left for humans?",
+    "zh": "What's left for humans?"
+   },
+   "source": "Blog - Jason Wei",
+   "url": "https://www.jasonwei.net/blog/whats-left-for-humans",
+   "note": {
+    "en": "Personal essay arguing from his experience with Tesla full self-driving about which human capabilities remain valuable as AI systems surpass people at more tasks.",
+    "zh": "个人随笔，从使用特斯拉全自动驾驶的体验出发，讨论当 AI 在越来越多任务上超过人类之后，人还剩下什么价值。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-08-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "What's left for humans in a world where machine intelligence has so many advantages? I recently got a Tesla, and using full self-driving has been a wake up call",
+    "zh": "What's left for humans in a world where machine intelligence has so many advantages? I recently got a Tesla, and using full self-driving has been a wake up call"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/2087634878699647251",
+   "note": {
+    "en": "Wei reflects on what's left for humans as machines gain more advantages, prompted by his experience using Tesla's full self-driving.",
+    "zh": "Wei借助使用特斯拉全自动驾驶的体验,反思在机器智能优势日增的世界里人类还剩下什么位置。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "On HealthBench Pro, Muse Spark 1.1 achieves similar performance with GPT-5.6 Sol (maybe slightly better) at a fraction of the cost. Affordable health superintel",
+    "zh": "On HealthBench Pro, Muse Spark 1.1 achieves similar performance with GPT-5.6 Sol (maybe slightly better) at a fraction of the cost. Affordable health superintel"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/2076826321729286596",
+   "note": {
+    "en": "Wei reports Meta's Muse Spark 1.1 matches or slightly beats GPT-5.6 Sol on HealthBench Pro at a fraction of the cost, calling affordable health superintelligence the team's north star.",
+    "zh": "Wei称Meta的Muse Spark 1.1在HealthBench Pro上以更低成本达到甚至略微超过GPT-5.6 Sol的表现,并称\"可负担的健康超级智能\"是团队的目标。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Muse Spark 1.1 outperforms GPT-5.6 Sol and Gemini 3.1 on Radiology's Last Exam. We don't beat Fable (yet). And Humans are still a lot better, but we are working",
+    "zh": "Muse Spark 1.1 outperforms GPT-5.6 Sol and Gemini 3.1 on Radiology's Last Exam. We don't beat Fable (yet). And Humans are still a lot better, but we are working"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/2076723921441988758",
+   "note": {
+    "en": "Wei reports Muse Spark 1.1 outperforms GPT-5.6 Sol and Gemini 3.1 on Radiology's Last Exam, though it still trails Fable and humans.",
+    "zh": "Wei称Muse Spark 1.1在\"放射学终极考试\"上超过GPT-5.6 Sol和Gemini 3.1,但仍落后于Fable和人类。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "In addition to agents and coding, Muse Spark 1.1 is also really strong at answering health questions, a steadily growing use case for AI. On HealthBench-Pro, Mu",
+    "zh": "In addition to agents and coding, Muse Spark 1.1 is also really strong at answering health questions, a steadily growing use case for AI. On HealthBench-Pro, Mu"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/2075265159430623334",
+   "note": {
+    "en": "Wei highlights Muse Spark 1.1's strength at answering health questions, reporting a 5% improvement over rivals on HealthBench-Pro.",
+    "zh": "Wei强调Muse Spark 1.1在回答健康问题方面的优势,称其在HealthBench-Pro上比对手高出5%。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Beautifully written piece by @FAbnousi about how AI for health might look like in the future The current data in health is limited because it only captures epis",
+    "zh": "Beautifully written piece by @FAbnousi about how AI for health might look like in the future The current data in health is limited because it only captures epis"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/2044832493157962054",
+   "note": {
+    "en": "Wei amplifies a piece by Meta's Freddy Abnousi on the future of AI in health, adding that current health data is limited to episodic clinical snapshots.",
+    "zh": "Wei转发Meta的Freddy Abnousi关于AI医疗未来的文章,并补充指出目前的健康数据仅限于零散的临床快照。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Fun nine months! My first week i remember we had a long dinner in the cafeteria daydreaming about the cool research directions to pursue, then going to back to",
+    "zh": "Fun nine months! My first week i remember we had a long dinner in the cafeteria daydreaming about the cool research directions to pursue, then going to back to"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/2041930482179567966",
+   "note": {
+    "en": "Marking nine months since his move, Wei recalls his first week — long dinners dreaming up research directions before writing early inference scripts.",
+    "zh": "在加入新团队九个月之际,Wei回忆起入职第一周——在餐厅畅想研究方向,随后回去写最初的推理脚本。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-09-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Bullish, in the coming decades majority of compute will be spent on ai for science",
+    "zh": "Bullish, in the coming decades majority of compute will be spent on ai for science"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1973056484255711244",
+   "note": {
+    "en": "Wei predicts that in the coming decades, most compute will be spent on AI for science.",
+    "zh": "Wei预测未来几十年,大部分算力将被用于\"AI用于科学\"这一方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-08-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Old friends, new lab",
+    "zh": "Old friends, new lab"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1956092763470246276",
+   "note": {
+    "en": "Jason Wei announces joining Meta Superintelligence Labs, reuniting with former OpenAI colleagues, marking his departure from OpenAI.",
+    "zh": "Jason Wei宣布加入Meta超级智能实验室,与多位前OpenAI同事重聚,标志着他离开OpenAI。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-16",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Life lessons from reinforcement learning",
+    "zh": "Life lessons from reinforcement learning"
+   },
+   "source": "Blog - Jason Wei",
+   "url": "https://www.jasonwei.net/blog/life-lessons-from-reinforcement-learning",
+   "note": {
+    "en": "Essay drawing life lessons from reinforcement learning, arguing that learning from your own experience beats imitating others' trajectories.",
+    "zh": "用强化学习的思路谈人生：从自身经验中学习，胜过模仿他人的轨迹。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2025-07-16",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Asymmetry of verification and verifier’s rule",
+    "zh": "Asymmetry of verification and verifier’s rule"
+   },
+   "source": "Blog - Jason Wei",
+   "url": "https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law",
+   "note": {
+    "en": "Proposes the \"verifier's law\": tasks that are far easier to verify than to solve are the ones RL will solve fastest, which explains where AI progress is heading.",
+    "zh": "提出「验证者法则」：验证远比求解容易的任务，正是强化学习最快攻克的任务，以此解释 AI 进展的方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2025-07-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Becoming an RL diehard in the past year and thinking about RL for most of my waking hours inadvertently taught me an important lesson about how to live my own l",
+    "zh": "Becoming an RL diehard in the past year and thinking about RL for most of my waking hours inadvertently taught me an important lesson about how to live my own l"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1945294042138599722",
+   "note": {
+    "en": "Wei reflects on how a year immersed in reinforcement learning reshaped how he thinks about setting goals in his own life.",
+    "zh": "Wei反思过去一年沉浸于强化学习的研究如何改变了他对自己人生目标设定方式的看法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "New blog post about asymmetry of verification and \"verifier's law\": https://t.co/bvS8HrX1jP Asymmetry of verification–the idea that some tasks are much easier t",
+    "zh": "New blog post about asymmetry of verification and \"verifier's law\": https://t.co/bvS8HrX1jP Asymmetry of verification–the idea that some tasks are much easier t"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1945287045251052007",
+   "note": {
+    "en": "Wei announces a blog post introducing 'verifier's law': the idea that tasks are far easier to verify than to solve, and why that asymmetry matters for AI progress.",
+    "zh": "Wei发布博客文章提出\"验证者法则\":验证任务远比解决任务容易,并阐述这种不对称性对AI进展的意义。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Bryan Johnson longevity mix is the most popular drink at ragers in SF https://t.co/zJE36CoV6V",
+    "zh": "Bryan Johnson longevity mix is the most popular drink at ragers in SF https://t.co/zJE36CoV6V"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1943883515549855942",
+   "note": {
+    "en": "Wei notes that Bryan Johnson's longevity drink mix has become a popular fixture at San Francisco parties.",
+    "zh": "Wei提到Bryan Johnson的长寿饮品配方已成为旧金山派对上颇受欢迎的饮品。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-06-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We don’t have AI self-improves yet, and when we do it will be a game-changer. With more wisdom now compared to the GPT-4 days, it's obvious that it will not be",
+    "zh": "We don’t have AI self-improves yet, and when we do it will be a game-changer. With more wisdom now compared to the GPT-4 days, it's obvious that it will not be"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1939762496757539297",
+   "note": {
+    "en": "Wei argues AI has not yet achieved self-improvement, and that when it does, progress will be fast but not an overnight 'fast takeoff'.",
+    "zh": "Wei认为AI尚未实现自我提升,一旦实现,进展会很快,但不会是一夜之间的\"快速起飞\"。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-06-29",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The most rewarding thing about working in the office on nights and weekends is not the actual work you get done, but the spontaneous conversations with other pe",
+    "zh": "The most rewarding thing about working in the office on nights and weekends is not the actual work you get done, but the spontaneous conversations with other pe"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1939432436573602152",
+   "note": {
+    "en": "Wei says the real reward of working late in the office isn't the output, but the spontaneous conversations with other people still working.",
+    "zh": "Wei表示深夜在办公室工作真正的收获不是产出本身,而是与同样在加班的人的即兴交流。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-06-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I would say that we are undoubtedly at AGI when AI can create a real, living unicorn. And no I don’t mean a $1B company you nerds, I mean a literal pink horse w",
+    "zh": "I would say that we are undoubtedly at AGI when AI can create a real, living unicorn. And no I don’t mean a $1B company you nerds, I mean a literal pink horse w"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1939066526008545280",
+   "note": {
+    "en": "Wei offers a memorable bar for AGI: not a $1B company, but AI that can literally create a living unicorn.",
+    "zh": "Wei给出一个令人印象深刻的AGI判定标准:不是十亿美元的公司,而是AI能真正创造出一只活的独角兽。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-06-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The greatest contribution of human language is bootstrapping language model training",
+    "zh": "The greatest contribution of human language is bootstrapping language model training"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1938644038372171922",
+   "note": {
+    "en": "Wei argues the greatest contribution of human language is that it bootstraps the training of language models.",
+    "zh": "Wei认为人类语言最大的贡献在于它为语言模型的训练提供了起点。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-06-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "AI research is strange in that you spend a massive amount of compute on experiments to learn simple ideas that can be expressed in just a few sentences. Literal",
+    "zh": "AI research is strange in that you spend a massive amount of compute on experiments to learn simple ideas that can be expressed in just a few sentences. Literal"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1937590298022150638",
+   "note": {
+    "en": "Wei observes that AI research often spends huge compute budgets to learn ideas that can be summarized in a few sentences.",
+    "zh": "Wei指出AI研究常常投入巨大算力,只为得出几句话就能概括的简单结论。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-06-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "My favorite thing an old OpenAI buddy of mine told me is, whenever he hears that someone is a “great AI researcher”, he just directly spends 5 minutes looking a",
+    "zh": "My favorite thing an old OpenAI buddy of mine told me is, whenever he hears that someone is a “great AI researcher”, he just directly spends 5 minutes looking a"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1936523909815542112",
+   "note": {
+    "en": "Wei shares an ex-OpenAI colleague's heuristic for judging a 'great AI researcher': spend five minutes looking at their PRs and wandb runs.",
+    "zh": "Wei分享一位前OpenAI同事判断\"优秀AI研究者\"的方法:花五分钟看这个人的PR和wandb训练记录。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-06-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "One way of thinking about what AI will automate first is via the “description-execution gap”: how much harder is it to describe the task than to actually do it?",
+    "zh": "One way of thinking about what AI will automate first is via the “description-execution gap”: how much harder is it to describe the task than to actually do it?"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1935418236872335397",
+   "note": {
+    "en": "Wei proposes the 'description-execution gap' as a lens for predicting which tasks AI will automate first: those far easier to do than to describe.",
+    "zh": "Wei提出\"描述-执行差距\"这一视角,用来预测AI会率先自动化哪些任务:即执行远比描述容易的任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-06-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "RL environment specs are among the most consequential things we can write as AI researchers. A relatively short spec (e.g., &lt;1000 words of instructions sayin",
+    "zh": "RL environment specs are among the most consequential things we can write as AI researchers. A relatively short spec (e.g., &lt;1000 words of instructions sayin"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1932878500865978859",
+   "note": {
+    "en": "Wei argues that RL environment specs — short instructions defining problems and grading criteria — are among the most consequential documents AI researchers write.",
+    "zh": "Wei认为强化学习环境规格说明——定义问题和评分标准的简短指令——是AI研究者撰写的最具影响力的文档之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-06-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "It’s actually a good thing these days to have subtle grammar errors in your writing. It sprinkles on a clear human touch. You never want your reader questioning",
+    "zh": "It’s actually a good thing these days to have subtle grammar errors in your writing. It sprinkles on a clear human touch. You never want your reader questioning"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1931467704495649165",
+   "note": {
+    "en": "Wei argues that subtle grammar errors in writing now signal authentic human authorship, as readers grow wary of AI-generated text.",
+    "zh": "Wei认为如今文字中细微的语法错误反而成了真实人类写作的标志,因为读者越来越警惕AI生成的文本。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-06-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Was attending a talk in a big lecture hall and the guy in front of me had the craziest conversation with ChatGPT for the whole hour about how to get his girlfri",
+    "zh": "Was attending a talk in a big lecture hall and the guy in front of me had the craziest conversation with ChatGPT for the whole hour about how to get his girlfri"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1930785305671671865",
+   "note": {
+    "en": "Wei recounts overhearing a stranger's hour-long ChatGPT conversation about winning back his girlfriend, an anecdote on how deeply people lean on AI for personal problems.",
+    "zh": "Wei讲述在一场讲座上无意听到陌生人用ChatGPT进行长达一小时的对话,试图挽回女友,以此说明人们已深度依赖AI处理个人问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-06-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The 80-20 rule happens often in AI research, where you get 80% of the payoff from the first 20% of the effort. But there is often also an inverse rule, where it",
+    "zh": "The 80-20 rule happens often in AI research, where you get 80% of the payoff from the first 20% of the effort. But there is often also an inverse rule, where it"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1929986444262813701",
+   "note": {
+    "en": "Wei describes how the 80-20 rule often applies in AI research, but notes an inverse effect where the final 20% of effort can yield the most payoff.",
+    "zh": "Wei描述二八法则在AI研究中的常见表现,同时指出有时会出现相反效应——最后20%的努力反而带来最大回报。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-06-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "There are traditionally two types of research: problem-driven research and method-driven research. As we’ve seen with large language models and now AlphaEvolve,",
+    "zh": "There are traditionally two types of research: problem-driven research and method-driven research. As we’ve seen with large language models and now AlphaEvolve,"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1929621539881996607",
+   "note": {
+    "en": "Wei distinguishes problem-driven from method-driven research and argues AlphaEvolve shows total compute now matters more than which camp you're in.",
+    "zh": "Wei区分了问题驱动型与方法驱动型研究,并认为AlphaEvolve表明如今总算力投入比属于哪种研究路线更重要。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-05-30",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "AI research is a max-performance domain",
+    "zh": "AI research is a max-performance domain"
+   },
+   "source": "Blog - Jason Wei",
+   "url": "https://www.jasonwei.net/blog/ai-research-is-a-max-performance-domain",
+   "note": {
+    "en": "Argues AI research is a \"max-performance domain\" where being world-class at one part of the job is enough, unlike fields that demand consistent all-round performance.",
+    "zh": "提出 AI 研究是「极值表现型领域」：只要在工作的某一环节做到世界一流即可，不同于要求全面稳定发挥的领域。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2025-05-29",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "A recent clarity that I gained is viewing AI research as a “max-performance domain”, which means that you can be world-class by being very good at only one part",
+    "zh": "A recent clarity that I gained is viewing AI research as a “max-performance domain”, which means that you can be world-class by being very good at only one part"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1928174505148698909",
+   "note": {
+    "en": "Wei describes AI research as a 'max-performance domain', where being world-class at just one part of the job can be enough.",
+    "zh": "Wei将AI研究描述为一个\"最大性能领域\",在其中只需在工作的某一环节做到世界一流即可脱颖而出。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-05-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The most impressive thing that Tesla FSD can do that I’ve never seen any human is that it stays calm and doesn’t get upset after my mom criticizes its driving f",
+    "zh": "The most impressive thing that Tesla FSD can do that I’ve never seen any human is that it stays calm and doesn’t get upset after my mom criticizes its driving f"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1927447715807641628",
+   "note": {
+    "en": "Wei jokes that Tesla's full self-driving impresses him most by staying calm despite his mom criticizing its driving the whole trip.",
+    "zh": "Wei打趣说,特斯拉全自动驾驶最让他佩服的一点,是即使他妈妈全程批评它的开车方式,它依然保持\"冷静\"。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-05-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The AI milestone that would touch my heart the most is not solving International Math Olympiad or even breakthrough scientific discovery, but if AI could animat",
+    "zh": "The AI milestone that would touch my heart the most is not solving International Math Olympiad or even breakthrough scientific discovery, but if AI could animat"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1925639677509312951",
+   "note": {
+    "en": "Wei says the AI milestone that would move him most isn't solving math olympiads or scientific discovery, but AI animating another season of Avatar: The Last Airbender.",
+    "zh": "Wei表示最能打动他的AI里程碑不是攻克数学奥赛或科学发现,而是AI能制作出《降世神通》新一季动画。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-05-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Discriminator-generator gap seems to be the most important idea in AI for scientific innovation. With compute + clever search, anything that we can measure will",
+    "zh": "Discriminator-generator gap seems to be the most important idea in AI for scientific innovation. With compute + clever search, anything that we can measure will"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1924224134135087415",
+   "note": {
+    "en": "Wei calls the discriminator-generator gap the most important idea for AI-driven scientific innovation, since anything measurable can be optimized with compute and search.",
+    "zh": "Wei认为判别器-生成器差距是AI推动科学创新中最重要的理念,因为任何可被衡量的东西都能通过算力和搜索得到优化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-05-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "AlphaEvolve is deeply disturbing for RL diehards like yours truly Maybe midtrain + good search is all you need for AI for scientific innovation And what an alph",
+    "zh": "AlphaEvolve is deeply disturbing for RL diehards like yours truly Maybe midtrain + good search is all you need for AI for scientific innovation And what an alph"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1923091260354531612",
+   "note": {
+    "en": "Wei reacts to DeepMind's AlphaEvolve, calling it unsettling evidence that mid-training plus good search may be all that's needed for AI-driven scientific discovery.",
+    "zh": "Wei评论DeepMind的AlphaEvolve,称其令人不安地证明中期训练加良好搜索或许就足以推动AI科学发现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-05-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "HealthBench: Evaluating Large Language Models Towards Improved Human Health",
+    "zh": "HealthBench: Evaluating Large Language Models Towards Improved Human Health"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2505.08775v1",
+   "note": {
+    "en": "OpenAI benchmark of 5,000 physician-graded multi-turn health conversations, co-authored by Wei.",
+    "zh": "OpenAI 发布的健康对话评测基准，包含 5000 组由医生评分的多轮对话，Wei 是共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-05-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "New HealthBench eval! Very excited we (@OpenAI) are investing in AI for health, a defining use case for AGI. Favorite plot is how the performance-cost frontier",
+    "zh": "New HealthBench eval! Very excited we (@OpenAI) are investing in AI for health, a defining use case for AGI. Favorite plot is how the performance-cost frontier"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1922002699240775994",
+   "note": {
+    "en": "Wei announces a new HealthBench evaluation from OpenAI, highlighting how the performance-cost frontier for AI in health has improved over time.",
+    "zh": "Wei宣布OpenAI推出新的HealthBench评测,展示AI在健康领域性能与成本的权衡曲线如何不断改善。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-05-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Ten binary-choice questions that reveal a lot about your taste as an AI researcher. What are your preferences? 1. ChatGPT or Claude? 2. LMSYS or math competitio",
+    "zh": "Ten binary-choice questions that reveal a lot about your taste as an AI researcher. What are your preferences? 1. ChatGPT or Claude? 2. LMSYS or math competitio"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1919824952267833419",
+   "note": {
+    "en": "Wei poses ten binary-choice questions meant to reveal an AI researcher's taste and preferences, from ChatGPT vs. Claude to training vs. test-time compute.",
+    "zh": "Wei提出十道二选一问题,用来揭示AI研究者的偏好与品味,比如ChatGPT还是Claude、训练算力还是推理算力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-05-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The longest chain-of-thought / reasoning trace I have witnessed was almost twenty minutes long and involved crazy backtracking, constraint verification, and too",
+    "zh": "The longest chain-of-thought / reasoning trace I have witnessed was almost twenty minutes long and involved crazy backtracking, constraint verification, and too"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1918376190899032225",
+   "note": {
+    "en": "Wei describes witnessing a nearly twenty-minute chain-of-thought reasoning trace involving extensive backtracking, constraint verification, and tool use.",
+    "zh": "Wei描述自己见过的最长思维链推理轨迹长达近二十分钟,涉及大量回溯、约束验证和工具调用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-05-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Beautifully written post from Shunyu connects the dots the past 10 years in AI: - Winners of the “first half” of the AI game have been methods papers, not bench",
+    "zh": "Beautifully written post from Shunyu connects the dots the past 10 years in AI: - Winners of the “first half” of the AI game have been methods papers, not bench"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1918063747756908961",
+   "note": {
+    "en": "Wei amplifies a post from Shunyu Yao tracing the last decade of AI progress, adding his own summary of how the field's 'winners' have shifted.",
+    "zh": "Wei转发姚顺雨梳理AI过去十年发展脉络的文章,并补充总结该领域\"赢家\"角色的变化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-04-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Peak AI x singapore https://t.co/EOo7CawxL4",
+    "zh": "Peak AI x singapore https://t.co/EOo7CawxL4"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1915812897080410480",
+   "note": {
+    "en": "Wei posts a photo captioned 'Peak AI x Singapore' from an AI event in Singapore.",
+    "zh": "Wei发布一张配文\"Peak AI x Singapore\"的照片,记录在新加坡参加的一场AI活动。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-04-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents",
+    "zh": "BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2504.12516v1",
+   "note": {
+    "en": "Wei is first author on BrowseComp, OpenAI's 1,266-question benchmark for web-browsing agents.",
+    "zh": "Wei 以第一作者身份提出 BrowseComp，这是 OpenAI 面向网页浏览智能体的 1266 题评测基准。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-04-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "New benchmark for deep research agents! An agent that is creative and persistent should be able to find any piece of information on the open web, even if it req",
+    "zh": "New benchmark for deep research agents! An agent that is creative and persistent should be able to find any piece of information on the open web, even if it req"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1910398763476320422",
+   "note": {
+    "en": "Wei announces a new benchmark testing whether deep research agents can find any piece of information on the open web, however obscure.",
+    "zh": "Wei发布一个新基准,测试深度研究智能体能否在开放网络上找到任何(哪怕极其冷僻的)信息。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-04-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I am super excited for AI for scientific innovation, a direction that will certainly grow in the next five years. I think there will be two flavors of it. The f",
+    "zh": "I am super excited for AI for scientific innovation, a direction that will certainly grow in the next five years. I think there will be two flavors of it. The f"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1907532120446349353",
+   "note": {
+    "en": "Wei says he's excited about AI for scientific innovation as a growth direction for the next five years, outlining two distinct approaches to it.",
+    "zh": "Wei表示对\"AI用于科学创新\"这一方向未来五年的发展感到兴奋,并概述了实现它的两种不同路径。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-03-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Recently I have taken on a more defensive style of “debugging-prioritized” model training: - Create toy datasets that are easy to understand and have highly exp",
+    "zh": "Recently I have taken on a more defensive style of “debugging-prioritized” model training: - Create toy datasets that are easy to understand and have highly exp"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1901729764592980037",
+   "note": {
+    "en": "Wei describes adopting a 'debugging-prioritized' style of model training, using toy datasets with predictable behavior as sanity checks.",
+    "zh": "Wei描述自己采用\"以调试为先\"的模型训练方式,用行为可预期的小型数据集作为健全性检查。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-02-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "In today’s competitive product landscape, scientific understanding of models often lags behind speed of model deployment. If the goal is to train a deployable m",
+    "zh": "In today’s competitive product landscape, scientific understanding of models often lags behind speed of model deployment. If the goal is to train a deployable m"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1894821797000028357",
+   "note": {
+    "en": "Wei argues scientific understanding of models often lags behind the speed of product deployment, a tension in training deployable models under compute constraints.",
+    "zh": "Wei指出对模型的科学理解常常落后于产品部署的速度,这在算力受限下训练可部署模型时形成矛盾。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-02-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Seems to be not a coincidence that what AI is good at is correlated with the backgrounds of AI researchers. Demis was a chess prodigy; Jakub (Chief Scientist) a",
+    "zh": "Seems to be not a coincidence that what AI is good at is correlated with the backgrounds of AI researchers. Demis was a chess prodigy; Jakub (Chief Scientist) a"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1892655106946212309",
+   "note": {
+    "en": "Wei observes that what AI excels at correlates with the backgrounds of its top researchers, citing Demis Hassabis's chess background as an example.",
+    "zh": "Wei观察到AI擅长的领域与顶尖研究者的背景相关,并以Demis Hassabis的国际象棋背景为例。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-02-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Made this plot for an upcoming talk---crazy how quickly benchmarks get saturated these days. Looking forward to seeing how things play out for Humanity's Last E",
+    "zh": "Made this plot for an upcoming talk---crazy how quickly benchmarks get saturated these days. Looking forward to seeing how things play out for Humanity's Last E"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1889096555254456397",
+   "note": {
+    "en": "Wei shares a chart made for an upcoming talk showing how quickly AI benchmarks get saturated, and looks ahead to Humanity's Last Exam.",
+    "zh": "Wei分享一张为演讲准备的图表,展示AI基准测试被迅速刷满的速度,并展望\"人类终极考试\"基准。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-02-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Very excited to finally share OpenAI's \"deep research\" model, which achieves twice the score of o3-mini on Humanity's Last Exam, and can even perform some tasks",
+    "zh": "Very excited to finally share OpenAI's \"deep research\" model, which achieves twice the score of o3-mini on Humanity's Last Exam, and can even perform some tasks"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1886213911906504950",
+   "note": {
+    "en": "Wei announces OpenAI's 'deep research' model, which doubles o3-mini's score on Humanity's Last Exam and can complete some tasks that would take PhD experts over ten hours.",
+    "zh": "Wei宣布OpenAI的\"深度研究\"模型上线,其在\"人类终极考试\"上的得分是o3-mini的两倍,并能完成部分需要博士专家耗时十余小时的任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-01-22",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Dopamine cycles in AI research",
+    "zh": "Dopamine cycles in AI research"
+   },
+   "source": "Blog - Jason Wei",
+   "url": "https://www.jasonwei.net/blog/e2jwko63n64ot4kkvqdd7nlejd2m3x",
+   "note": {
+    "en": "Describes the daily dopamine cycle of running experiments in AI research and how it shapes which problems researchers choose to work on.",
+    "zh": "描述 AI 研究中每天跑实验形成的多巴胺循环，以及它如何影响研究者选择做什么问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2025-01-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Somewhat meta but there is a dopamine cycle in doing AI research that is pretty interesting Every day you wake up and you think about what experiment to run. Yo",
+    "zh": "Somewhat meta but there is a dopamine cycle in doing AI research that is pretty interesting Every day you wake up and you think about what experiment to run. Yo"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1881793091486802180",
+   "note": {
+    "en": "Wei describes the daily dopamine cycle of AI research: waking up, picking an experiment, and living with the uncertainty of whether it will pan out.",
+    "zh": "Wei描述AI研究中每日的\"多巴胺循环\":醒来后决定要做什么实验,并承受实验是否成功的不确定性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-01-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Magic is what happens when an unstoppable RL optimization algorithm powered by sufficient compute meets an unhackable RL environment",
+    "zh": "Magic is what happens when an unstoppable RL optimization algorithm powered by sufficient compute meets an unhackable RL environment"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1879610551703413223",
+   "note": {
+    "en": "Wei offers a pithy definition of AI 'magic': an unstoppable RL optimization algorithm with sufficient compute meeting an unhackable RL environment.",
+    "zh": "Wei用一句话定义AI的\"魔法\":拥有充足算力、无法被攻破的强化学习优化算法遇上不可被作弊的强化学习环境。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-01-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Nice paper from Deepmind takes a fresh angle on factuality: https://t.co/3MDQlmNU9W While most existing factuality datasets focus on public world knowledge, thi",
+    "zh": "Nice paper from Deepmind takes a fresh angle on factuality: https://t.co/3MDQlmNU9W While most existing factuality datasets focus on public world knowledge, thi"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1876701085601341662",
+   "note": {
+    "en": "Wei highlights a DeepMind paper taking a new angle on factuality, evaluating whether model responses are grounded rather than just testing public world knowledge.",
+    "zh": "Wei推荐一篇DeepMind论文,从新角度研究事实性问题,评估模型回答是否有据可依,而非仅测试公共常识。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-01-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "An underrated but occasionally make-or-break skill in AI research (that didn’t really exist ten years ago) is the ability to find a dataset that actually exerci",
+    "zh": "An underrated but occasionally make-or-break skill in AI research (that didn’t really exist ten years ago) is the ability to find a dataset that actually exerci"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1875268874859344349",
+   "note": {
+    "en": "Wei argues that finding a dataset that genuinely exercises a new method — a skill barely needed a decade ago — is an underrated, make-or-break AI research skill.",
+    "zh": "Wei认为找到真正能检验新方法的数据集,是一项十年前几乎不存在、如今却常常决定成败的被低估的AI研究技能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-12-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Reflecting back, these were the biggest technical lessons for me in AI in the past five years: 2020: you can cast any language task as sequence prediction and l",
+    "zh": "Reflecting back, these were the biggest technical lessons for me in AI in the past five years: 2020: you can cast any language task as sequence prediction and l"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1873824593628275198",
+   "note": {
+    "en": "Wei recaps the biggest technical lessons he's drawn from AI research each year since 2020, from sequence prediction to scaling.",
+    "zh": "Wei回顾了自2020年以来他每年从AI研究中得到的最大技术心得,从序列预测到规模扩展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-12-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Realization: the old style of “hallucinations research” via self-calibration is probably going to die down. I used to be very excited about it but now I am skep",
+    "zh": "Realization: the old style of “hallucinations research” via self-calibration is probably going to die down. I used to be very excited about it but now I am skep"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1871285864690815053",
+   "note": {
+    "en": "Wei predicts self-calibration approaches to hallucination research will fade, now that models increasingly have internet access to check themselves against.",
+    "zh": "Wei预测基于自我校准的幻觉研究方向将逐渐式微,因为模型正越来越多地获得联网核实的能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-12-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "OpenAI o1 System Card",
+    "zh": "OpenAI o1 System Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2412.16720v2",
+   "note": {
+    "en": "OpenAI's system card for the o1 reasoning series, on which Wei is a listed contributor.",
+    "zh": "OpenAI o1 推理模型系列的系统卡，Wei 是署名贡献者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-12-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Biggest unsolved problem in artificial intelligence is what to do in the 3-5 minutes when o3 is thinking",
+    "zh": "Biggest unsolved problem in artificial intelligence is what to do in the 3-5 minutes when o3 is thinking"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/1870615990238941463",
+   "note": {
+    "en": "Wei jokes that the biggest unsolved problem in AI is what humans should do during the few minutes a reasoning model like o3 spends thinking.",
+    "zh": "Wei打趣道,AI领域最大的未解难题是:当o3这样的推理模型思考三五分钟时,人类该做什么。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-12-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Deliberative Alignment: Reasoning Enables Safer Language Models",
+    "zh": "Deliberative Alignment: Reasoning Enables Safer Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2412.16339v2",
+   "note": {
+    "en": "OpenAI paper on training models to reason explicitly over safety policies before answering; Wei is a co-author.",
+    "zh": "OpenAI 关于让模型在作答前显式推理安全规范的论文，Wei 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-11-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Measuring short-form factuality in large language models",
+    "zh": "Measuring short-form factuality in large language models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2411.04368v1",
+   "note": {
+    "en": "Wei is first author on SimpleQA, OpenAI's benchmark for short-form factuality in language models.",
+    "zh": "Wei 以第一作者身份提出 SimpleQA，用于衡量语言模型在简答事实题上的准确率。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-10-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GPT-4o System Card",
+    "zh": "GPT-4o System Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2410.21276v1",
+   "note": {
+    "en": "OpenAI's GPT-4o system card, which lists Wei among the contributors.",
+    "zh": "OpenAI GPT-4o 系统卡，Wei 位列贡献者名单。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-05-24",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Successful language model evals",
+    "zh": "Successful language model evals"
+   },
+   "source": "Blog - Jason Wei",
+   "url": "https://www.jasonwei.net/blog/evals",
+   "note": {
+    "en": "Sets out what makes a language model eval succeed and get adopted, arguing that evals act as the research community's incentive structure.",
+    "zh": "探讨什么样的语言模型评测才算成功并被广泛采用，认为评测实际上构成了研究社区的激励机制。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2023-11-24",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Six intuitions about large language models",
+    "zh": "Six intuitions about large language models"
+   },
+   "source": "Blog - Jason Wei",
+   "url": "https://www.jasonwei.net/blog/some-intuitions-about-large-language-models",
+   "note": {
+    "en": "Six intuitions for why large language models work so well, drawn largely from manually inspecting model behaviour rather than from theory.",
+    "zh": "提出关于大语言模型为何有效的六个直觉，主要来自对模型行为的人工观察而非理论推导。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2023-10-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation",
+    "zh": "FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2310.03214v2",
+   "note": {
+    "en": "Study of how language models handle fast-changing facts, with a search-augmented prompting fix; Wei is a co-author.",
+    "zh": "研究语言模型如何应对快速变化的事实，并提出结合搜索的提示方法，Wei 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-07-06",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Observations from tracking Twitter",
+    "zh": "Observations from tracking Twitter"
+   },
+   "source": "Blog - Jason Wei",
+   "url": "https://www.jasonwei.net/blog/tweet-tracking",
+   "note": {
+    "en": "Reports what he learned from systematically tracking his own Twitter activity, on research communication as part of doing research well.",
+    "zh": "记录他系统追踪自己推特数据后的发现，讨论研究传播本身也是做好研究的一部分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2023-05-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for Large Language Models",
+    "zh": "Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for Large Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2305.14705v2",
+   "note": {
+    "en": "Shows sparse mixture-of-experts models benefit disproportionately from instruction tuning; Wei is a co-author.",
+    "zh": "论文表明稀疏专家混合模型从指令微调中获益尤为明显，Wei 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-05-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Pretrainer's Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity",
+    "zh": "A Pretrainer's Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2305.13169v2",
+   "note": {
+    "en": "Empirical study of how pretraining data age, domain coverage, quality and toxicity affect language models; Wei is a co-author.",
+    "zh": "系统研究预训练数据的时效、领域覆盖、质量与毒性对语言模型的影响，Wei 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-05-03",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Common arguments regarding emergent abilities",
+    "zh": "Common arguments regarding emergent abilities"
+   },
+   "source": "Blog - Jason Wei",
+   "url": "https://www.jasonwei.net/blog/common-arguments-regarding-emergent-abilities",
+   "note": {
+    "en": "Responds to the common objections to emergent abilities in large language models, a direct follow-up to the emergence paper he co-authored.",
+    "zh": "回应外界对大语言模型「涌现能力」的常见质疑，是他参与撰写的涌现能力论文的直接后续。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2023-03-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GPT-4 Technical Report",
+    "zh": "GPT-4 Technical Report"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2303.08774v6",
+   "note": {
+    "en": "OpenAI's GPT-4 technical report, on which Wei is a listed contributor.",
+    "zh": "OpenAI GPT-4 技术报告，Wei 是署名贡献者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-03-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Foundation Models for Decision Making: Problems, Methods, and Opportunities",
+    "zh": "Foundation Models for Decision Making: Problems, Methods, and Opportunities"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2303.04129v1",
+   "note": {
+    "en": "Survey framing foundation models as agents for sequential decision making; Wei is a co-author.",
+    "zh": "把基础模型置于序贯决策场景下的综述，Wei 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-03-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Larger language models do in-context learning differently",
+    "zh": "Larger language models do in-context learning differently"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2303.03846v2",
+   "note": {
+    "en": "Finds that large models can override semantic priors and learn from flipped or arbitrary in-context labels; Wei is second author.",
+    "zh": "发现大模型能够覆盖语义先验，从翻转或任意的上下文标签中学习，Wei 为第二作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-02-07",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Practicing AI research",
+    "zh": "Practicing AI research"
+   },
+   "source": "Blog - Jason Wei",
+   "url": "https://www.jasonwei.net/blog/practicing-ai-research",
+   "note": {
+    "en": "Practical advice on how to do AI research, covering how he picks problems, runs experiments and works with collaborators.",
+    "zh": "关于如何做 AI 研究的实践建议，涵盖他如何选题、跑实验以及与合作者协作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2023-01-31",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The Flan Collection: Designing Data and Methods for Effective Instruction Tuning",
+    "zh": "The Flan Collection: Designing Data and Methods for Effective Instruction Tuning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2301.13688v2",
+   "note": {
+    "en": "Documents the data and method choices behind Flan 2022 instruction tuning, a direct continuation of Wei's FLAN work.",
+    "zh": "梳理 Flan 2022 指令微调背后的数据与方法选择，是 Wei 的 FLAN 系列工作的延续。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-12-29",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Research I enjoy",
+    "zh": "Research I enjoy"
+   },
+   "source": "Blog - Jason Wei",
+   "url": "https://www.jasonwei.net/blog/research-i-enjoy",
+   "note": {
+    "en": "On choosing research you actually enjoy, arguing that enjoyment is what sustains output over a career-length endeavour.",
+    "zh": "谈如何选择自己真正享受的研究方向，认为兴趣才是支撑数十年科研产出的动力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2022-12-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Large Language Models Encode Clinical Knowledge",
+    "zh": "Large Language Models Encode Clinical Knowledge"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2212.13138v1",
+   "note": {
+    "en": "Introduces MultiMedQA and Med-PaLM for medical question answering; Wei is a co-author.",
+    "zh": "提出 MultiMedQA 基准与 Med-PaLM 医学问答模型，Wei 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-11-14",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "137 emergent abilities of large language models",
+    "zh": "137 emergent abilities of large language models"
+   },
+   "source": "Blog - Jason Wei",
+   "url": "https://www.jasonwei.net/blog/emergence",
+   "note": {
+    "en": "His running catalogue of 137 emergent abilities observed in large language models, the reference list behind the emergent abilities work.",
+    "zh": "他持续维护的大语言模型 137 项涌现能力清单，是涌现能力研究背后的参考列表。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2022-11-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Inverse scaling can become U-shaped",
+    "zh": "Inverse scaling can become U-shaped"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2211.02011v5",
+   "note": {
+    "en": "Wei is first author on this result showing inverse-scaling tasks reverse into U-shaped curves at larger scale.",
+    "zh": "Wei 以第一作者发表的结果，指出所谓逆缩放任务在更大模型上会反转成 U 形曲线。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-10-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scaling Instruction-Finetuned Language Models",
+    "zh": "Scaling Instruction-Finetuned Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2210.11416v5",
+   "note": {
+    "en": "The Flan-T5 / Flan-PaLM paper scaling instruction finetuning across tasks and model sizes; Wei is a co-author.",
+    "zh": "Flan-T5 / Flan-PaLM 论文，把指令微调扩展到更多任务与更大模型，Wei 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-10-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Transcending Scaling Laws with 0.1% Extra Compute",
+    "zh": "Transcending Scaling Laws with 0.1% Extra Compute"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2210.11399v2",
+   "note": {
+    "en": "Shows a short extra UL2 training stage adds substantial capability for about 0.1% extra compute; Wei is second author.",
+    "zh": "论文表明用约 0.1% 的额外算力继续做一段 UL2 训练即可显著提升模型能力，Wei 为第二作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-10-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them",
+    "zh": "Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2210.09261v1",
+   "note": {
+    "en": "Isolates 23 hard BIG-Bench tasks (BBH) and shows chain-of-thought prompting solves many of them; Wei is a co-author.",
+    "zh": "从 BIG-Bench 中筛出 23 个困难任务（BBH），证明思维链提示能解决其中不少，Wei 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-10-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Mind's Eye: Grounded Language Model Reasoning through Simulation",
+    "zh": "Mind's Eye: Grounded Language Model Reasoning through Simulation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2210.05359v1",
+   "note": {
+    "en": "Grounds language-model reasoning by running a physics simulator and feeding the results back into the prompt; Wei is second author.",
+    "zh": "通过调用物理仿真器并把结果回填进提示，为语言模型推理提供物理世界依据，Wei 为第二作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-10-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Language Models are Multilingual Chain-of-Thought Reasoners",
+    "zh": "Language Models are Multilingual Chain-of-Thought Reasoners"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2210.03057v1",
+   "note": {
+    "en": "Introduces the MGSM benchmark and shows chain-of-thought reasoning transfers across languages; Wei is a co-author.",
+    "zh": "提出 MGSM 基准，证明思维链推理可以跨语言迁移，Wei 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-07-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Rationale-Augmented Ensembles in Language Models",
+    "zh": "Rationale-Augmented Ensembles in Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2207.00747v1",
+   "note": {
+    "en": "Studies ensembling over sampled rationales as a way to make chain-of-thought prompting more robust; Wei is second author.",
+    "zh": "研究对采样得到的推理链做集成，使思维链提示更稳健，Wei 为第二作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-06-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Emergent Abilities of Large Language Models",
+    "zh": "Emergent Abilities of Large Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2206.07682v2",
+   "note": {
+    "en": "Wei is first author of the paper that named emergent abilities of large language models, one of his most cited works.",
+    "zh": "Wei 以第一作者提出大语言模型的涌现能力这一概念，是他被引用最多的工作之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-05-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models",
+    "zh": "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2205.10625v3",
+   "note": {
+    "en": "Least-to-most prompting, which decomposes a problem into subproblems solved in sequence; Wei is a co-author.",
+    "zh": "提出由简至繁提示法，把问题拆成子问题依次求解，Wei 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-05-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "UL2: Unifying Language Learning Paradigms",
+    "zh": "UL2: Unifying Language Learning Paradigms"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2205.05131v3",
+   "note": {
+    "en": "The UL2 mixture-of-denoisers pretraining objective and model family; Wei is a co-author.",
+    "zh": "UL2 论文，提出混合去噪器的统一预训练目标与模型系列，Wei 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2025-07-16",
+   "level": "major",
+   "title": {
+    "en": "Joins Meta's superintelligence lab from OpenAI",
+    "zh": "从 OpenAI 加入 Meta 超级智能实验室"
+   },
+   "body": {
+    "en": "Moves alongside Hyung Won Chung, a long-time collaborator at both Google and OpenAI. At OpenAI he worked on reasoning and agents, and is best known there for o3 and deep research.",
+    "zh": "与在 Google 和 OpenAI 都长期合作的 Hyung Won Chung 一同加入。在 OpenAI 期间他从事推理与智能体研究，最知名的成果是 o3 与 deep research。"
+   },
+   "source": "TechTimes",
+   "url": "https://www.techtimes.com/articles/311364/20250716/meta-hires-jason-wei-hyung-won-chung-openai-boost-superintelligence-research.htm"
+  }
+ ],
+ "changed": true,
+ "was": {
+  "en": "Researcher, OpenAI",
+  "zh": "OpenAI 研究员"
+ },
+ "cat": "lab",
+ "score": {
+  "total": 24.8,
+  "attention": null,
+  "centrality": 34,
+  "momentum": 14,
+  "stature": null,
+  "pageviews": 0,
+  "citations": 4944,
+  "hIndex": 19,
+  "events": 1,
+  "posts": 89,
+  "wikiEn": null,
+  "wikiZh": null
+ },
+ "seedRank": 90,
+ "tier": "t5"
+}

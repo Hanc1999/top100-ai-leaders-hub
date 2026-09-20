@@ -1,0 +1,1130 @@
+{
+ "rank": 89,
+ "id": "yi-ma",
+ "name": {
+  "en": "Yi Ma",
+  "zh": "马毅"
+ },
+ "role": {
+  "en": "Director, School of Computing & Data Science, HKU; Visiting Professor, UC Berkeley",
+  "zh": "香港大学计算与数据科学学院院长；UC Berkeley EECS 访问教授"
+ },
+ "org": "HKU / UC Berkeley",
+ "region": {
+  "en": "China (Hong Kong) / United States",
+  "zh": "中国香港/美国"
+ },
+ "tags": [
+  "HKU",
+  "White-box",
+  "ReduNet",
+  "Rate reduction",
+  "Theory"
+ ],
+ "why": {
+  "en": "Builds a mathematical theory of deep learning from parsimony and self-consistency — the most systematic theoretical objection to black-box empiricism in the field.",
+  "zh": "以简约与自洽原则构建深度学习的数学理论，是对「黑箱经验主义」最系统的理论反思者。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@YiMaTweets",
+   "url": "https://x.com/YiMaTweets",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "HKU page",
+   "url": "https://www.cs.hku.hk/index.php/people/academic-staff/mayi",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Berkeley research page",
+   "url": "https://people.eecs.berkeley.edu/~yima/Research.html",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Publications",
+   "url": "https://www.ai.hku.hk/people/academic-staff/mayi/publications",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @yimaeecs",
+   "url": "https://github.com/yimaeecs",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "cds.hku.hk news",
+   "url": "https://www.cds.hku.hk/news/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Yi+Ma",
+   "t": 3
+  },
+  {
+   "kind": "weibo",
+   "label": "微博 — 搜索",
+   "url": "https://s.weibo.com/user?q=%E9%A9%AC%E6%AF%85",
+   "t": 3
+  },
+  {
+   "kind": "zhihu",
+   "label": "知乎 — 搜索",
+   "url": "https://www.zhihu.com/search?type=people&q=%E9%A9%AC%E6%AF%85",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "微信公众号 — 搜索",
+   "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%A9%AC%E6%AF%85",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "B 站 — 搜索",
+   "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%AF%85",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Yi+Ma",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Yi+Ma",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Yi+Ma&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Yi+Ma&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=%E9%A9%AC%E6%AF%85",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Yi+Ma",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?user=XqLiBQMAAAAJ&hl=en",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Yi+Ma",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Yi+Ma",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Yi+Ma",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Yi+Ma",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Yi+Ma",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Yi+Ma&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "中文报道 — 最新",
+   "url": "https://www.google.com/search?q=%E9%A9%AC%E6%AF%85+AI&tbm=nws&hl=zh-CN",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yi_Ma",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2024-01-01",
+   "kind": "paper",
+   "title": {
+    "en": "White-Box Transformers via Sparse Rate Reduction",
+    "zh": "经由稀疏率约简的白盒 Transformer"
+   },
+   "source": "JMLR",
+   "url": "https://www.ai.hku.hk/people/academic-staff/mayi/publications",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2022-01-01",
+   "kind": "paper",
+   "title": {
+    "en": "ReduNet: a white-box deep network from the principle of maximizing rate reduction",
+    "zh": "ReduNet：源于最大化率约简原理的白盒深度网络"
+   },
+   "source": "JMLR",
+   "url": "https://www.ai.hku.hk/people/academic-staff/mayi/publications",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T01:02:58Z",
+   "kind": "x",
+   "title": {
+    "en": "People keep talking about aligning AI with humans. Judging from the behaviours of the frontier labs, I wonder: Are we humans aligned among ourselves? Are people",
+    "zh": "People keep talking about aligning AI with humans. Judging from the behaviours of the frontier labs, I wonder: Are we humans aligned among ourselves? Are people"
+   },
+   "source": "@yimatweets",
+   "url": "https://x.com/YiMaTweets/status/2099665241252700668",
+   "note": {
+    "en": "Yi Ma questioned whether humans are even aligned among themselves, challenging the framing of AI-human alignment.",
+    "zh": "马毅质疑人类彼此之间是否真正“对齐”，对“AI与人类对齐”这一提法本身提出了反思。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T07:03:14Z",
+   "kind": "x",
+   "title": {
+    "en": "As I have said many times by now, there is only one type of intelligence: one that can self-learn and self-improve its own knowledge. That is *the* common chara",
+    "zh": "As I have said many times by now, there is only one type of intelligence: one that can self-learn and self-improve its own knowledge. That is *the* common chara"
+   },
+   "source": "@yimatweets",
+   "url": "https://x.com/YiMaTweets/status/2099755906926030921",
+   "note": {
+    "en": "Yi Ma restated his core thesis that intelligence is defined by the capacity to self-learn and self-improve, the same parsimony and self-consistency argument underlying his theoretical work.",
+    "zh": "马毅重申了他的核心观点：智能的本质在于能够自我学习与自我改进，这与他一直主张的简约性与自洽性理论一脉相承。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T02:58:19Z",
+   "kind": "x",
+   "title": {
+    "en": "Why people who monger fear about AI and ask the (rest of the) world to slow down are always the ones who invest enormously in AI and constantly advance it at an",
+    "zh": "Why people who monger fear about AI and ask the (rest of the) world to slow down are always the ones who invest enormously in AI and constantly advance it at an"
+   },
+   "source": "@yimatweets",
+   "url": "https://x.com/YiMaTweets/status/2098969496795164809",
+   "note": {
+    "en": "Ma argued that people who warn the world to slow down on AI are usually the same ones racing to invest in and advance it fastest.",
+    "zh": "马毅认为，那些鼓吹AI威胁论、呼吁世界放缓的人，往往正是在AI领域投入最多、推进最快的人。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T02:41:13Z",
+   "kind": "x",
+   "title": {
+    "en": "Automating mechanical programming and mathematical deduction are a good thing in a long run for the society -- More people can focus on using programs and mathe",
+    "zh": "Automating mechanical programming and mathematical deduction are a good thing in a long run for the society -- More people can focus on using programs and mathe"
+   },
+   "source": "@yimatweets",
+   "url": "https://x.com/YiMaTweets/status/2098965193795735827",
+   "note": {
+    "en": "Ma argued that automating mechanical programming and mathematical deduction is a long-run good, freeing people to focus on real scientific and technical problems.",
+    "zh": "马毅认为，将机械式编程与数学推导自动化从长远看是好事，能让人们把精力投入到真正的科学和技术问题上。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T04:11:28Z",
+   "kind": "x",
+   "title": {
+    "en": "Computer scientists discover the power of *closed loop* and *error correction*! I have advocated for many years by now that all intelligent systems would be clo",
+    "zh": "Computer scientists discover the power of *closed loop* and *error correction*! I have advocated for many years by now that all intelligent systems would be clo"
+   },
+   "source": "@yimatweets",
+   "url": "https://x.com/YiMaTweets/status/2098987904366461359",
+   "note": {
+    "en": "Ma argued that closed-loop, error-correcting design—not open-ended end-to-end systems—is the right path for intelligent systems, restating a long-standing position of his.",
+    "zh": "马毅主张智能系统应采用闭环、可纠错的设计，而非开环端到端方案，重申了他一贯坚持的观点。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T07:56:52Z",
+   "kind": "x",
+   "title": {
+    "en": "Whoever fear-mongering AI is probably trying to send three messages: one for investors, we are close to *the* end so it is now or never to be on my bandwagon; a",
+    "zh": "Whoever fear-mongering AI is probably trying to send three messages: one for investors, we are close to *the* end so it is now or never to be on my bandwagon; a"
+   },
+   "source": "@yimatweets",
+   "url": "https://x.com/YiMaTweets/status/2099044629584937389",
+   "note": {
+    "en": "Yi Ma argues on X that AI fear-mongering serves two audiences at once — investors being told to jump on the bandwagon before it's too late, and governments being nudged toward restrictive policy.",
+    "zh": "马毅在X上发文认为，渲染AI恐慌情绪同时说给两类人听：催促投资人赶紧上车的紧迫感，以及推动政府出台限制性政策的信号。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T05:23:34Z",
+   "kind": "x",
+   "title": {
+    "en": "A good final representation of high-dim real world data (distributions) will always be linear and sparse. Sparse representation is also what our brain seeks.",
+    "zh": "A good final representation of high-dim real world data (distributions) will always be linear and sparse. Sparse representation is also what our brain seeks."
+   },
+   "source": "@yimatweets",
+   "url": "https://x.com/YiMaTweets/status/2097918885098139953",
+   "note": {
+    "en": "Yi Ma argues that good final representations of high-dimensional real-world data will always be linear and sparse, echoing his parsimony-based theory of deep learning.",
+    "zh": "马毅提出，高维真实世界数据的良好最终表示总是线性且稀疏的，呼应他基于简约性的深度学习理论。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T06:19:45Z",
+   "kind": "x",
+   "title": {
+    "en": "I agree with Terence’s view from the perspective of mathematics. However, relieving humans from mediocre mechanical mathematical deductions will allow most math",
+    "zh": "I agree with Terence’s view from the perspective of mathematics. However, relieving humans from mediocre mechanical mathematical deductions will allow most math"
+   },
+   "source": "@yimatweets",
+   "url": "https://x.com/YiMaTweets/status/2097570635769905170",
+   "note": {
+    "en": "Ma weighed in on a debate sparked by Terence Tao, arguing that offloading routine mechanical math deduction to AI would free mathematicians to focus on deeper problems.",
+    "zh": "马毅就陶哲轩引发的讨论发表看法，认为将常规机械式数学推导交给AI，能让数学家专注于更深层次的问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Scientists are entitled to their personal opinions. But they should be, better than most people, know the difference between personal opinions and scientific co",
+    "zh": "Scientists are entitled to their personal opinions. But they should be, better than most people, know the difference between personal opinions and scientific co"
+   },
+   "source": "@yimatweets",
+   "url": "https://x.com/YiMaTweets/status/2096440255302049929",
+   "note": {
+    "en": "Yi Ma argued on X that scientists must clearly separate personal opinions from scientific conclusions grounded in rigorous evidence.",
+    "zh": "马毅在X上表示，科学家应比常人更清楚地区分个人观点与需要严谨证据支撑的科学结论。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "This is joint work from Hong Kong University and TranscEngram.",
+    "zh": "This is joint work from Hong Kong University and TranscEngram."
+   },
+   "source": "@YiMaTweets",
+   "url": "https://x.com/YiMaTweets/status/2095770049592328234",
+   "note": {
+    "en": "Yi Ma announced new joint research from the University of Hong Kong and TranscEngram.",
+    "zh": "马毅宣布了一项由香港大学与TranscEngram合作完成的新研究工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The Imitator Game: Benchmarking Robot Imitative Ability Beyond Action Prediction",
+    "zh": "The Imitator Game: Benchmarking Robot Imitative Ability Beyond Action Prediction"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.22301v1",
+   "note": {
+    "en": "An HKU benchmark he co-authored that tests whether robot policies imitate at the level of intent rather than merely copying the demonstrated actions.",
+    "zh": "他参与合作的港大基准测试，考察机器人策略能否在意图层面进行模仿，而不只是复制示范动作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-08-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "To visit Singapore from August 16 to 19, giving an opening keynote (and a tutorial) at the Workshop on Mathematical Foundations of AI Models organized by the In",
+    "zh": "To visit Singapore from August 16 to 19, giving an opening keynote (and a tutorial) at the Workshop on Mathematical Foundations of AI Models organized by the In"
+   },
+   "source": "@YiMaTweets",
+   "url": "https://x.com/YiMaTweets/status/2088034711952298439",
+   "note": {
+    "en": "Announced he will give the opening keynote and a tutorial at the Workshop on Mathematical Foundations of AI Models in Singapore, Aug 16-19 2026.",
+    "zh": "宣布将于2026年8月16日至19日在新加坡的人工智能模型数学基础研讨会上做开幕主题演讲并主持一场教程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Yes, almost... especially once one realizes, for high-dim data distributions with low-dim structures, Bayesian inference exactly corresponds to constrained opti",
+    "zh": "Yes, almost... especially once one realizes, for high-dim data distributions with low-dim structures, Bayesian inference exactly corresponds to constrained opti"
+   },
+   "source": "@YiMaTweets",
+   "url": "https://x.com/YiMaTweets/status/2087748474305757602",
+   "note": {
+    "en": "Argues that for high-dimensional data with low-dimensional structure, Bayesian inference is exactly equivalent to constrained optimization — a core claim of his parsimony-based theory of intelligence.",
+    "zh": "他提出，对于具有低维结构的高维数据，贝叶斯推断在数学上等价于约束优化——这是他简约性智能理论的核心论点。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Five years ago, while the entire AI industry is celebrating *end-to-end* models, we have made the rather unfavorable statement that all truly intelligent system",
+    "zh": "Five years ago, while the entire AI industry is celebrating *end-to-end* models, we have made the rather unfavorable statement that all truly intelligent system"
+   },
+   "source": "@YiMaTweets",
+   "url": "https://x.com/YiMaTweets/status/2085111251676598295",
+   "note": {
+    "en": "Argues that, contrary to the industry's embrace of end-to-end models, truly intelligent systems must learn via closed-loop feedback — a five-year-old position he says has been vindicated.",
+    "zh": "他指出，与业界追捧端到端模型相反，真正智能的系统必须通过闭环反馈来学习——这是他五年前就提出、如今认为已被验证的观点。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Now suddenly everyone in AI is talking about loops, whereas control system engineers (aka the cybernetics program) had known for a long time that all intelligen",
+    "zh": "Now suddenly everyone in AI is talking about loops, whereas control system engineers (aka the cybernetics program) had known for a long time that all intelligen"
+   },
+   "source": "@YiMaTweets",
+   "url": "https://x.com/YiMaTweets/status/2085108393744945184",
+   "note": {
+    "en": "Says the AI field is only now catching up to what control-systems engineers (cybernetics) have long known: intelligent systems learn through closed loops.",
+    "zh": "他表示，AI领域现在才意识到控制系统工程师（控制论）早已明白的道理：智能系统是通过闭环来学习的。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Well, this is also because folks in the industry are all committed to the current brute-force resource-demanding approach... as if this was the only way to real",
+    "zh": "Well, this is also because folks in the industry are all committed to the current brute-force resource-demanding approach... as if this was the only way to real"
+   },
+   "source": "@YiMaTweets",
+   "url": "https://x.com/YiMaTweets/status/2084914983754977451",
+   "note": {
+    "en": "Criticizes the AI industry's continued commitment to brute-force, resource-heavy approaches as if that were the only path to intelligence.",
+    "zh": "他批评AI行业依然执着于暴力、资源消耗型方法，仿佛那是实现智能的唯一途径。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Yes. Strictly speaking, deduction does not produce any new information or knowledge. But deducing from what requires ingenuity and creativity. Hence future math",
+    "zh": "Yes. Strictly speaking, deduction does not produce any new information or knowledge. But deducing from what requires ingenuity and creativity. Hence future math"
+   },
+   "source": "@YiMaTweets",
+   "url": "https://x.com/YiMaTweets/status/2084893938977288563",
+   "note": {
+    "en": "Argues deduction alone produces no new knowledge, so future mathematics depends on people who can generate it — a stance on creativity versus formal reasoning.",
+    "zh": "他认为演绎本身不会产生新知识，因此未来的数学要依靠能够生成新知识的人——这是他关于创造力与形式推理关系的观点。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Based on my understanding, or definition, of Intelligence, a system that can discover, create or innovate new useful information/knowledge by itself is a system",
+    "zh": "Based on my understanding, or definition, of Intelligence, a system that can discover, create or innovate new useful information/knowledge by itself is a system"
+   },
+   "source": "@YiMaTweets",
+   "url": "https://x.com/YiMaTweets/status/2084865833717964888",
+   "note": {
+    "en": "Defines intelligence as a system's ability to discover, create or innovate new useful knowledge by itself, distinguishing it from systems that merely reproduce existing knowledge.",
+    "zh": "他将智能定义为系统自主发现、创造或创新有用知识的能力，并以此将其与仅能复现已有知识的系统区分开来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I have said the same thing for years. There will be new principled architectures that support optimization/learning mechanisms that are magnitudes more power-ef",
+    "zh": "I have said the same thing for years. There will be new principled architectures that support optimization/learning mechanisms that are magnitudes more power-ef"
+   },
+   "source": "@YiMaTweets",
+   "url": "https://x.com/YiMaTweets/status/2084864939894952169",
+   "note": {
+    "en": "Reiterates his long-held view that new, principled architectures will emerge that are far more power-efficient than current practice.",
+    "zh": "他重申长期以来的观点：将出现比当前做法更加节能高效的全新原理性架构。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Whom doesn’t come for the money, including Dario himself, despite whatever he claims…",
+    "zh": "Whom doesn’t come for the money, including Dario himself, despite whatever he claims…"
+   },
+   "source": "@YiMaTweets",
+   "url": "https://x.com/YiMaTweets/status/2084783790459883803",
+   "note": {
+    "en": "Pushes back on the idea that AI researchers are purely money-driven, naming Dario Amodei as an example of someone whose stated motivations he's skeptical of.",
+    "zh": "他反驳AI研究者纯粹为钱的说法，并点名Dario Amodei，对其所宣称的动机表示怀疑。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-07-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "https://t.co/hWWDVPQ2iu Summer school at HKU CDS Shanghai campus.",
+    "zh": "https://t.co/hWWDVPQ2iu Summer school at HKU CDS Shanghai campus."
+   },
+   "source": "@YiMaTweets",
+   "url": "https://x.com/YiMaTweets/status/2082802301149053003",
+   "note": {
+    "en": "Shared photos from the summer school held at HKU CDS's Shanghai campus.",
+    "zh": "分享了在港大数据科学学院上海校区举办的暑期学校的照片。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-07-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Wait, this is very detrimental: OpenAI wants (the government) to ban open AI?",
+    "zh": "Wait, this is very detrimental: OpenAI wants (the government) to ban open AI?"
+   },
+   "source": "@YiMaTweets",
+   "url": "https://x.com/YiMaTweets/status/2080977742938644644",
+   "note": {
+    "en": "Reacts with alarm to reports that OpenAI is pushing for government restrictions on open AI models.",
+    "zh": "对有关OpenAI推动政府限制开源AI模型的报道表示担忧。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Open source is always vital for science and technology to advance, and is particularly important for the study of (artificial) Intelligence, which is still at i",
+    "zh": "Open source is always vital for science and technology to advance, and is particularly important for the study of (artificial) Intelligence, which is still at i"
+   },
+   "source": "@YiMaTweets",
+   "url": "https://x.com/YiMaTweets/status/2080845490191794199",
+   "note": {
+    "en": "Argues open source is vital to advancing science and technology, and especially important given how early-stage the study of intelligence still is.",
+    "zh": "他认为开源对科技进步至关重要，鉴于智能研究仍处于早期阶段，开源尤为重要。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "For the current AI technology, there is no duopoly, as China was forced to take the open-source position, thanks to the genius fear-mongering strategy taken byt",
+    "zh": "For the current AI technology, there is no duopoly, as China was forced to take the open-source position, thanks to the genius fear-mongering strategy taken byt"
+   },
+   "source": "@YiMaTweets",
+   "url": "https://x.com/YiMaTweets/status/2079040762457841963",
+   "note": {
+    "en": "Argues there is no US-China AI duopoly, saying US strategy pushed China toward open source, and states his own view of what constitutes true intelligence.",
+    "zh": "他认为中美AI并非双寡头格局，称中国是被美方策略逼向开源路线，并阐述了他对真正智能的看法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Why the computer industry is so suddenly obsessed with proving most of their jobs are probably the easiest to be replaced by machines that they made in the firs",
+    "zh": "Why the computer industry is so suddenly obsessed with proving most of their jobs are probably the easiest to be replaced by machines that they made in the firs"
+   },
+   "source": "@YiMaTweets",
+   "url": "https://x.com/YiMaTweets/status/2078095103047168272",
+   "note": {
+    "en": "Criticizes the computer industry for rushing to prove its own jobs are the easiest to automate, framing it as a way to charge others for the resulting disruption.",
+    "zh": "他批评计算机行业急于证明自身工作最容易被机器取代，认为这是一种借此向他人收费的方式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The new HKU CDS Shanghai Campus is hosting its first AI summer camp this week for high school students, from all over the world. I just gave an overview lecture",
+    "zh": "The new HKU CDS Shanghai Campus is hosting its first AI summer camp this week for high school students, from all over the world. I just gave an overview lecture"
+   },
+   "source": "@YiMaTweets",
+   "url": "https://x.com/YiMaTweets/status/2076536080351039765",
+   "note": {
+    "en": "Gave the opening lecture on intelligence at the first AI summer camp for high-school students at HKU CDS's new Shanghai campus.",
+    "zh": "在港大数据科学学院上海新校区举办的首届面向高中生的AI夏令营上，做了关于智能的开场讲座。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Well, try to produce and compare with a similar map of (robotics) companies in the Great Bay Area of Shenzhen/Hong Kong or the Yangzi Delta Area of Shanghai/Han",
+    "zh": "Well, try to produce and compare with a similar map of (robotics) companies in the Great Bay Area of Shenzhen/Hong Kong or the Yangzi Delta Area of Shanghai/Han"
+   },
+   "source": "@YiMaTweets",
+   "url": "https://x.com/YiMaTweets/status/2076473781464477783",
+   "note": {
+    "en": "Discusses mapping robotics companies across China's Greater Bay Area and Yangtze River Delta, noting the limited overlap between the clusters.",
+    "zh": "他探讨了绘制中国大湾区与长三角地区机器人公司分布图的问题，并指出两大产业集群之间重合有限。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "As I have advocated for many years, Information Theory should serve as the theoretical foundation for the study of Intelligence. But the community as a whole ha",
+    "zh": "As I have advocated for many years, Information Theory should serve as the theoretical foundation for the study of Intelligence. But the community as a whole ha"
+   },
+   "source": "@YiMaTweets",
+   "url": "https://x.com/YiMaTweets/status/2075652155193860150",
+   "note": {
+    "en": "Reiterates his long-standing advocacy that information theory should be the theoretical foundation for the study of intelligence, and argues the field has largely missed this.",
+    "zh": "他重申多年来的主张：信息论应作为智能研究的理论基础，并认为该领域在很大程度上错失了这一机会。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Just came back from ICML. Gave a keynote at the Foundation of Deep Generative Models Workshop, in which I stated that Intelligence should be a scientific subjec",
+    "zh": "Just came back from ICML. Gave a keynote at the Foundation of Deep Generative Models Workshop, in which I stated that Intelligence should be a scientific subjec"
+   },
+   "source": "@YiMaTweets",
+   "url": "https://x.com/YiMaTweets/status/2075645243165442074",
+   "note": {
+    "en": "Gave a keynote at ICML's Foundation of Deep Generative Models workshop arguing intelligence should be treated as a rigorous scientific subject, comparable in significance to physics.",
+    "zh": "他在ICML深度生成模型基础研讨会上做主题演讲，主张应将智能作为严谨的科学学科来研究，其重要性堪比物理学。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "All foundation models are in fact models of knowledge, mainly based on open knowledge already developed by mainkind. Obviously knowledge (models) of mankind sho",
+    "zh": "All foundation models are in fact models of knowledge, mainly based on open knowledge already developed by mainkind. Obviously knowledge (models) of mankind sho"
+   },
+   "source": "@YiMaTweets",
+   "url": "https://x.com/YiMaTweets/status/2075644501222367375",
+   "note": {
+    "en": "Argues that foundation models are essentially models of knowledge built on humanity's open knowledge, and should therefore be open-sourced.",
+    "zh": "他认为基础模型本质上是建立在人类开放知识之上的知识模型，因此理应开源。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Again, please do NOT confuse a model of knowledge with a system with intelligence, any longer. Intelligence is the ability to produce knowledge. Knowledge is ne",
+    "zh": "Again, please do NOT confuse a model of knowledge with a system with intelligence, any longer. Intelligence is the ability to produce knowledge. Knowledge is ne"
+   },
+   "source": "@YiMaTweets",
+   "url": "https://x.com/YiMaTweets/status/2075641048152547690",
+   "note": {
+    "en": "Draws a sharp line between a model of knowledge and a system with intelligence, arguing intelligence is the ability to produce knowledge rather than merely encode it.",
+    "zh": "他明确区分知识模型与具有智能的系统，主张智能是产生知识的能力，而非仅仅是对知识的编码。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "European Summer School in Artificial Intelligence in Vienna, with @qu_1006 and @ZhihuiZhu https://t.co/AdPP4wXTHp",
+    "zh": "European Summer School in Artificial Intelligence in Vienna, with @qu_1006 and @ZhihuiZhu https://t.co/AdPP4wXTHp"
+   },
+   "source": "@YiMaTweets",
+   "url": "https://x.com/YiMaTweets/status/2074755384930074996",
+   "note": {
+    "en": "Taught at the European Summer School on Artificial Intelligence in Vienna alongside collaborators Qing Qu and Zhihui Zhu.",
+    "zh": "他与合作者曲庆（Qing Qu）和朱志辉（Zhihui Zhu）一同在维也纳的欧洲人工智能暑期学校授课。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Principles and Practice of Deep Representation Learning: or a Mathematical Theory of Memory",
+    "zh": "Principles and Practice of Deep Representation Learning: or a Mathematical Theory of Memory"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.06624v2",
+   "note": {
+    "en": "Book-length treatment of his white-box program: deep representation learning framed as a mathematical theory of memory rather than black-box training.",
+    "zh": "系统阐述其白盒研究纲领：把深度表征学习理解为一套关于记忆的数学理论，而非黑箱训练。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Balancing Image Compression and Generation with Bootstrapped Tokenization",
+    "zh": "Balancing Image Compression and Generation with Bootstrapped Tokenization"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.05552v1",
+   "note": {
+    "en": "Image tokenizer that removes redundancy across tokens to balance compression against generation quality.",
+    "zh": "提出一种图像 tokenizer，消除 token 之间的冗余，在压缩率与生成质量之间取得平衡。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-13",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The Mathematical Foundations of Intelligence [Professor Yi Ma]",
+    "zh": "The Mathematical Foundations of Intelligence [Professor Yi Ma]"
+   },
+   "source": "Machine Learning Street Talk (MLST)",
+   "url": "https://podcasts.apple.com/us/podcast/the-mathematical-foundations-of-intelligence/id1510472996?i=1000741165541&uo=4",
+   "note": {
+    "en": "A long-form MLST interview in which he lays out his compression-and-parsimony account of intelligence, the core of his argument against black-box deep learning.",
+    "zh": "《Machine Learning Street Talk》的长访谈，他系统阐述以压缩与简约性解释智能的观点，这正是他反对黑箱深度学习的核心论证。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-03-17",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "与马毅聊智能史:“DNA是最早的大模型”，智能的本质是减熵",
+    "zh": "与马毅聊智能史:“DNA是最早的大模型”，智能的本质是减熵"
+   },
+   "source": "晚点聊 LateTalk",
+   "url": "https://podcasts.apple.com/us/podcast/%E4%B8%8E%E9%A9%AC%E6%AF%85%E8%81%8A%E6%99%BA%E8%83%BD%E5%8F%B2-dna%E6%98%AF%E6%9C%80%E6%97%A9%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B-%E6%99%BA%E8%83%BD%E7%9A%84%E6%9C%AC%E8%B4%A8%E6%98%AF%E5%87%8F%E7%86%B5/id1564877433?i=1000699568441&uo=4",
+   "note": {
+    "en": "HKU dean Yi Ma traces a 3.5-billion-year history of intelligence, arguing that DNA was the earliest 'large model' and that intelligence is fundamentally about reducing entropy.",
+    "zh": "港大计算与数据科学学院院长马毅回顾35亿年的智能演化史，提出DNA是最早的'大模型'，智能的本质是减熵。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
+   "date": "2024-06-11",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "“如果相信只靠 Scaling Laws 就能实现 AGI，你该改行了”，与香港大学马毅聊智能",
+    "zh": "“如果相信只靠 Scaling Laws 就能实现 AGI，你该改行了”，与香港大学马毅聊智能"
+   },
+   "source": "晚点聊 LateTalk",
+   "url": "https://podcasts.apple.com/us/podcast/%E5%A6%82%E6%9E%9C%E7%9B%B8%E4%BF%A1%E5%8F%AA%E9%9D%A0-scaling-laws-%E5%B0%B1%E8%83%BD%E5%AE%9E%E7%8E%B0-agi-%E4%BD%A0%E8%AF%A5%E6%94%B9%E8%A1%8C%E4%BA%86-%E4%B8%8E%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E9%A9%AC%E6%AF%85%E8%81%8A%E6%99%BA%E8%83%BD/id1564877433?i=1000658703377&uo=4",
+   "note": {
+    "en": "Yi Ma argues that scaling laws alone cannot achieve AGI, laying out his theoretical objections to the field's dominant empiricist, black-box approach.",
+    "zh": "马毅提出，仅靠Scaling Laws无法实现AGI，并阐述了他对当前AI领域主流经验主义、黑箱路线的理论性质疑。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T23:07:00Z",
+   "level": "notable",
+   "title": {
+    "en": "马毅：世界模型已超出三维重建与物体识别范畴 香港大学计算与数据科学学院创始院长*「世界模型已超出三维重建与物体识别的范畴，指向机器人在开放物理环境中感知、认知、学习与价值创造。」*在2026外滩大会见解论坛开幕演讲中表示",
+    "zh": "马毅：世界模型已超出三维重建与物体识别范畴 香港大学计算与数据科学学院创始院长*「世界模型已超出三维重建与物体识别的范畴，指向机器人在开放物理环境中感知、认知、学习与价值创造。」*在2026外滩大会见解论坛开幕演讲中表示"
+   },
+   "body": {
+    "en": "At the 2026 Bund Summit, Ma argued world models have moved beyond 3D reconstruction and object recognition toward perception, cognition, learning and value creation for robots in open physical environments.",
+    "zh": "马毅在2026外滩大会上表示，世界模型已超越三维重建与物体识别的范畴，正指向机器人在开放物理环境中的感知、认知、学习与价值创造。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVklnY1NrZzNSNkxpcXNnTHY4V0dsX0Z0ZXJ2REhzbkJLb0VBZWxHTmFsMUlPLXBIRk9BLW5hUWdGeUVrUl8zdkpVeTBpbEFWTmxpeVRRMUlvcHJxZ2NTNGMyZW9rV1oyME1xb004M0EtdnFER2dQU2I5QzJEakxURVlXQXpRTEQt?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T09:28:12Z",
+   "level": "notable",
+   "title": {
+    "en": "马毅外滩大会谈AI与人的价值：共性与个性之间需要新平衡 香港大学计算与数据科学学院院长*「更好的AI时代，是每个人都能在里面找到人类社会共性价值和个人价值之间的新平衡」*在2026外滩大会对话环节中表示",
+    "zh": "马毅外滩大会谈AI与人的价值：共性与个性之间需要新平衡 香港大学计算与数据科学学院院长*「更好的AI时代，是每个人都能在里面找到人类社会共性价值和个人价值之间的新平衡」*在2026外滩大会对话环节中表示"
+   },
+   "body": {
+    "en": "At the Bund Summit, Yi Ma, dean of HKU's School of Computing and Data Science, argues the AI era needs a new balance between shared human values and individual value.",
+    "zh": "在外滩大会上，香港大学计算与数据科学学院院长马毅表示，更好的AI时代需要在人类社会共性价值与个人价值之间找到新的平衡。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORVozX1RMUUpqSmtPR1hnVmhqdzNhTFNrdW1MSGNPRVVPOWVTUzAyVVZVbTNZUk9HUXNJTlpycldnS1Y5c1hPUEFKaGowcnFJMUo2U2NWUVZZalQ4NnVRbUIycDEzVU5ONFA4NDlFTTRNRVpLd1YweTF3NW9NMDRXUHkyTVZsVWdG?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T04:07:00Z",
+   "level": "notable",
+   "title": {
+    "en": "刘震云、马毅谈AI时代：机器拿走共性，人更要守住个性",
+    "zh": "刘震云、马毅谈AI时代：机器拿走共性，人更要守住个性"
+   },
+   "body": {
+    "en": "In a public dialogue with novelist Liu Zhenyun, Yi Ma argued that as machines absorb commonalities, people must hold onto their individuality.",
+    "zh": "在与作家刘震云的公开对谈中，马毅提出：机器拿走共性，人更要守住个性。"
+   },
+   "source": "紫牛新闻",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91VnFrakJZOVQtZzdIRzVMYktMa0xVVmhFT1Y0clEweWJHTmdtdk9fbGhCbWRUZ3JlM29PRzZJSUFkUE8xTThmQldKeWtYdjlxZlAwWXFfcUpnbnd3c0hZM2xtMm5COWlz?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T11:03:23Z",
+   "level": "notable",
+   "title": {
+    "en": "刘震云对话马毅：人写不出来、想不到的作品，AI 模仿不了｜附完整对话",
+    "zh": "刘震云对话马毅：人写不出来、想不到的作品，AI 模仿不了｜附完整对话"
+   },
+   "body": {
+    "en": "In a public dialogue with novelist Liu Zhenyun, HKU dean Yi Ma argues large language models can convey humanity's shared knowledge but not an individual's unique values — a boundary consistent with his theoretical critique of black-box AI.",
+    "zh": "在与作家刘震云的对话中，港大计算与数据科学学院院长马毅指出，大语言模型能传递人类共有的知识，却难以理解个体独特的价值观——这与他对黑箱式AI的理论批判一致。"
+   },
+   "source": "infoq.cn",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YNjNZVl8yeDQ2WklxX19Jd2F0dFpKREFyb3Z5UHQxOHZoakVJSWRlTUhkY3d4eF92Ynlqc2lkQzFiZnZ5aEpRbG1NUWgxMWE4dERzTHFVeG96U3lPU3c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T04:43:49Z",
+   "level": "notable",
+   "title": {
+    "en": "刘震云、马毅谈AI时代：机器拿走共性，人更要守住个性",
+    "zh": "刘震云、马毅谈AI时代：机器拿走共性，人更要守住个性"
+   },
+   "body": {
+    "en": "In a public dialogue with novelist Liu Zhenyun at the 2026 Bund Summit, Ma argued AI captures humanity's shared knowledge but cannot replace individual, personal value.",
+    "zh": "在2026外滩大会上与作家刘震云的对话中，马毅提出AI能很好地掌握人类共性知识，但难以替代个人独特的价值。"
+   },
+   "source": "cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX0RfaTh1MFJ2YlFXaG5MUjVkLWQ4djNtVHowTWV0d0c5V1V6eURON0lGQ3F2Y1hGVVFmRExpWUNzU1c3aVJjYTItUkg2Wk9TWG5pYWxCSFlsT09pdl9NMmRZZ1dNT181akxiZmI0MGk4d0MwRm1HVk1EczYwai1rNktmMA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T04:43:00Z",
+   "level": "notable",
+   "title": {
+    "en": "刘震云、马毅谈AI时代：机器拿走共性，人更要守住个性",
+    "zh": "刘震云、马毅谈AI时代：机器拿走共性，人更要守住个性"
+   },
+   "body": {
+    "en": "In a public dialogue with novelist Liu Zhenyun, Yi Ma argued that as machines absorb what is common, people must hold on to what makes them individual — a theme consistent with his parsimony-and-self-consistency view of intelligence.",
+    "zh": "马毅与作家刘震云对谈时提出，机器拿走的是共性，人更需要守住个性——这与他关于智能的简约性与自洽性理论一脉相承。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWlRVYVVpWVREWWVpXy1wNFJkYzBTR2ZlczFlS3NNZFEzeHZlSndCMzV2bm1MMnJsNXNfVzl6QWIwTk1oYzZNTVdNd2Q1MzduOVc4djBaMHBrMWZpNkVYSW9MM29UVTJiNjRFd1BtNFV4VjNFbzRKMmhCQXNsb1NwcWV3eVIxQ0U?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T10:04:00Z",
+   "level": "notable",
+   "title": {
+    "en": "刘震云、马毅谈AI时代：机器拿走共性，人更要守住个性",
+    "zh": "刘震云、马毅谈AI时代：机器拿走共性，人更要守住个性"
+   },
+   "body": {
+    "en": "In a public dialogue with novelist Liu Zhenyun, Yi Ma argued that as machines take over what is common between people, individuals need to hold onto their own individuality.",
+    "zh": "马毅与作家刘震云公开对谈，提出AI时代机器拿走了人与人之间的共性，个人更需要守住自己的个性。"
+   },
+   "source": "新浪新闻_手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52al9ORUtvM3Vqa0tEbmlxbEtjNVBpcmNnTnFYOWtndG9uX3NfR2UxYlY5N016TFh0Ml9wYUVFMkQ2cUJQSXMzWnFLMHNrLU9GaV92cGJXU2RlN05FMENxN2E3ZVd6Y3hQYU5ETUtyREM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T10:50:03Z",
+   "level": "notable",
+   "title": {
+    "en": "刘震云、马毅谈AI时代：机器拿走共性，人更要守住个性",
+    "zh": "刘震云、马毅谈AI时代：机器拿走共性，人更要守住个性"
+   },
+   "body": {
+    "en": "Yi Ma and novelist Liu Zhenyun discussed the AI era, arguing that as machines absorb what is common, people must hold onto their individuality.",
+    "zh": "马毅与作家刘震云对谈AI时代，认为机器拿走的是共性，人更需要守住自己的个性。"
+   },
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNlpNajFzVnJKSk5NR2l3M29DM3VQblptLU5XTE1WSy1EZ1JtX09kbmJteUlpLUwwbUdrTENCZUpSOEJ2OHRsaTNJMGEtWm90UW5uRVl1ME8tc1RoNmJjV05WSHhUUnd4MWdKblp3MU9hNFgtd2cwN1FZSGRBM0owRkJ5S0QtN2RDNk1TMU1HbjhJV3hwUHBPaE9VeWxKM19ucWVVOVV6RQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T10:04:29Z",
+   "level": "notable",
+   "title": {
+    "en": "当AI越来越聪明，人还剩下什么？刘震云与马毅在外滩大会给出回答",
+    "zh": "当AI越来越聪明，人还剩下什么？刘震云与马毅在外滩大会给出回答"
+   },
+   "body": {
+    "en": "At the Bund Summit, Yi Ma discussed with novelist Liu Zhenyun what remains for humans as AI grows more capable, a public airing of his stance on AI's limits.",
+    "zh": "在外滩大会上，马毅与作家刘震云探讨了当AI越来越聪明时人类还剩下什么，公开阐述了他对AI局限性的看法。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IdVpiSG1PQ09wR2dLUmt4RVl1aXhiYUpta0xSc1JiVkUzbDVGTnNTeGVvSGs5ME1RdUVqTEszMjdXWGREYlk2Y01KNXRYT0lMX29IRDM3TEdNT2diNHBGUkVNSV9HWGhDeFNHSUFuUkplc0FxM0MwaFVZMVB1UQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T10:19:28Z",
+   "level": "notable",
+   "title": {
+    "en": "刘震云、马毅谈AI时代：机器拿走共性，人更要守住个性",
+    "zh": "刘震云、马毅谈AI时代：机器拿走共性，人更要守住个性"
+   },
+   "body": {
+    "en": "In a dialogue with novelist Liu Zhenyun, Yi Ma argued that as machines absorb what is common, people must hold onto their individuality — a stance consistent with his critique of black-box AI.",
+    "zh": "马毅在与作家刘震云的对谈中提出，机器拿走了共性，人更要守住个性，这一立场与他对黑箱AI的批评一脉相承。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORGhFbzNOX2ZoSENYSjNUWlV1QUUtS0h4dDlKQWQxa1Z1WE1MTzAxNEVOMi1icDBKUWxmVnhpUTJxSjJTcVpESncwVnQwTDBJcDNEc3dtZHdZSlhxY2Q5eC1idlFsdUlIdV9FTzl0czY5dnY5QllNMzdRNldvOFhLblVWWHI?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-02",
+   "ts": "2026-07-02T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "马毅教授带队，忆生科技完成数亿元融资",
+    "zh": "马毅教授带队，忆生科技完成数亿元融资"
+   },
+   "body": {
+    "en": "Yi Ma is leading Yisheng Tech (忆生科技), a startup that just closed a funding round worth several hundred million yuan.",
+    "zh": "马毅带队的忆生科技完成数亿元人民币融资。"
+   },
+   "source": "腾讯新闻",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTTi1UYm1BMUJUYXhnbDhLeFFjVDN1SzdERjZHRk5qSTdubFB4ZldFQXBBQ3B0RlpDMWhCSGttT29iTjdDM0djSHhtbEk1S0NUemRoZjVWOA?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "research",
+ "score": {
+  "total": 24.1,
+  "attention": 7,
+  "centrality": 8,
+  "momentum": 61,
+  "stature": 58,
+  "pageviews": 2604,
+  "citations": 46806,
+  "hIndex": 81,
+  "events": 11,
+  "posts": 39,
+  "wikiEn": "Yi Ma",
+  "wikiZh": null
+ },
+ "seedRank": 86,
+ "tier": "t6"
+}

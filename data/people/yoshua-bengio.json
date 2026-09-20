@@ -1,0 +1,2701 @@
+{
+ "rank": 28,
+ "id": "yoshua-bengio",
+ "name": {
+  "en": "Yoshua Bengio",
+  "zh": "Yoshua Bengio"
+ },
+ "role": {
+  "en": "Scientific Director, Mila; Professor, Université de Montréal; Founder, LawZero",
+  "zh": "Mila 科学主任；蒙特利尔大学教授；LawZero 创始人"
+ },
+ "org": "Mila / LawZero",
+ "region": {
+  "en": "Canada",
+  "zh": "加拿大"
+ },
+ "tags": [
+  "Turing Award",
+  "LawZero",
+  "Scientist AI",
+  "AI Safety Report",
+  "Mila"
+ ],
+ "why": {
+  "en": "Turing laureate and core contributor to attention mechanisms and deep learning theory. Chairs the International AI Safety Report — the single most important bridge between the research frontier and global governance — and now runs a nonprofit building non-agentic 'Scientist AI'.",
+  "zh": "图灵奖得主，注意力机制与深度学习理论的核心贡献者。国际 AI 安全报告主席 —— 连接研究前沿与全球治理最重要的单一节点 —— 现主持一家构建非智能体式「科学家 AI」的非营利机构。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Personal page",
+   "url": "https://yoshuabengio.org/",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @yoshua",
+   "url": "https://github.com/yoshua",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "LawZero",
+   "url": "https://lawzero.org/en",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Mila",
+   "url": "https://mila.quebec/en",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "International AI Safety Report",
+   "url": "https://internationalaisafetyreport.org/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Yoshua+Bengio",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Yoshua+Bengio",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Yoshua+Bengio",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Yoshua+Bengio&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Yoshua+Bengio&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Yoshua+Bengio",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Yoshua+Bengio",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Yoshua+Bengio",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Yoshua+Bengio",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Yoshua+Bengio",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Yoshua+Bengio",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Yoshua+Bengio",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Yoshua+Bengio",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Yoshua+Bengio&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yoshua_Bengio",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-07-02",
+   "kind": "paper",
+   "title": {
+    "en": "Safety from Honesty in a Disinterested AI Predictor",
+    "zh": "无私 AI 预测器中源于诚实的安全性"
+   },
+   "source": "LawZero",
+   "url": "https://lawzero.org/en/news/ai-predicts-has-no-hidden-agenda-lawzero-lays-out-formal-safety-case-its-scientist-ai",
+   "note": {
+    "en": "A formal safety case for Scientist AI: an AI that predicts but has no hidden agenda.",
+    "zh": "为「科学家 AI」给出的形式化安全论证：一个只做预测、没有隐藏议程的 AI。"
+   }
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T22:08:55Z",
+   "kind": "x",
+   "title": {
+    "en": "Je serai sur le plateau de @OFF_TLMEP ce dimanche pour parler du nouveau soutien des gouvernements canadien et allemand pour ma startup à but non lucratif @LawZ",
+    "zh": "Je serai sur le plateau de @OFF_TLMEP ce dimanche pour parler du nouveau soutien des gouvernements canadien et allemand pour ma startup à but non lucratif @LawZ"
+   },
+   "source": "@yoshua_bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2101070992881631725",
+   "note": {
+    "en": "Yoshua Bengio announced new support from the Canadian and German governments for his nonprofit LawZero, ahead of a TV appearance to discuss it.",
+    "zh": "约书亚·本吉奥宣布加拿大和德国政府为其非营利机构LawZero提供新的支持，并将上电视节目谈及此事。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T19:15:38Z",
+   "kind": "x",
+   "title": {
+    "en": "J'ai eu le plaisir de monter sur scène aujourd'hui à ALL IN pour discuter de notre direction de recherche et de notre nouveau financement récent 🇨🇦🇩🇪. À @LawZer",
+    "zh": "J'ai eu le plaisir de monter sur scène aujourd'hui à ALL IN pour discuter de notre direction de recherche et de notre nouveau financement récent 🇨🇦🇩🇪. À @LawZer"
+   },
+   "source": "@yoshua_bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2100664998913540230",
+   "note": {
+    "en": "Bengio spoke on stage at the ALL IN conference about LawZero's research direction and recent funding.",
+    "zh": "本吉奥在ALL IN大会上就LawZero的研究方向和近期融资发表演讲。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T19:15:08Z",
+   "kind": "x",
+   "title": {
+    "en": "I was happy to take the stage today at ALL IN for a keynote on Engineering honesty and reliability for safer AI to discuss our research agenda and recent fundin",
+    "zh": "I was happy to take the stage today at ALL IN for a keynote on Engineering honesty and reliability for safer AI to discuss our research agenda and recent fundin"
+   },
+   "source": "@yoshua_bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2100664871717114367",
+   "note": {
+    "en": "Bengio gave a keynote at ALL IN on engineering honesty and reliability into frontier AI, discussing LawZero's research agenda and recent funding.",
+    "zh": "本吉奥在ALL IN大会上发表主题演讲，探讨如何为前沿AI构建诚实与可靠性，并介绍了LawZero的研究议程与近期融资情况。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T17:27:34Z",
+   "kind": "x",
+   "title": {
+    "en": "I am very proud of what the team at @LawZero_ is building and deeply grateful for the landmark support from the Governments of Canada and Germany that will powe",
+    "zh": "I am very proud of what the team at @LawZero_ is building and deeply grateful for the landmark support from the Governments of Canada and Germany that will powe"
+   },
+   "source": "@yoshua_bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2100275414723612907",
+   "note": {
+    "en": "Bengio announced landmark government funding from Canada and Germany to power LawZero's next phase of growth.",
+    "zh": "本吉奥宣布获得加拿大和德国政府的里程碑式资助，将为LawZero的下一阶段发展提供支持。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T13:45:51Z",
+   "kind": "x",
+   "title": {
+    "en": "Over the past few days, I've taken the time to summarize my thoughts on the recent incidents involving agents’ misaligned behavior. We don't know with certainty",
+    "zh": "Over the past few days, I've taken the time to summarize my thoughts on the recent incidents involving agents’ misaligned behavior. We don't know with certainty"
+   },
+   "source": "@yoshua_bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2098407678674452720",
+   "note": {
+    "en": "Bengio shared his analysis of recent incidents of misaligned agent behavior, saying the field cannot be certain what comes next but can see where the trend leads.",
+    "zh": "本吉奥分享了他对近期智能体错位行为事件的思考，认为业界尚无法确定下一步会发生什么，但已能看清这一趋势的走向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T15:36:50Z",
+   "kind": "blog",
+   "title": {
+    "en": "Why are AI agents lying, cheating and coordinating?",
+    "zh": "Why are AI agents lying, cheating and coordinating?"
+   },
+   "source": "Yoshua Bengio",
+   "url": "https://yoshuabengio.org/en/blog/why-are-ai-agents-lying-cheating-and-coordinating",
+   "note": {
+    "en": "Bengio examines why AI agents have been observed lying, cheating and coordinating, treating recent misbehavior incidents as evidence for deeper safety failures.",
+    "zh": "Bengio分析了AI代理近期出现撒谎、作弊和串通等行为的原因，认为这些事件反映出更深层的安全隐患。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T17:37:09Z",
+   "kind": "x",
+   "title": {
+    "en": "If we are to avert the worst risks from AI, we need ambitious efforts outside the for-profit sector. @coeff_giving is launching an open call for founders to bui",
+    "zh": "If we are to avert the worst risks from AI, we need ambitious efforts outside the for-profit sector. @coeff_giving is launching an open call for founders to bui"
+   },
+   "source": "@yoshua_bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2098103497325781024",
+   "note": {
+    "en": "Bengio announced an open call, via Coefficient Giving, for founders to build new AI safety organizations outside the for-profit sector.",
+    "zh": "本吉奥通过Coefficient Giving发起公开征集，呼吁创业者在营利部门之外创建新的AI安全组织。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T13:03:21Z",
+   "kind": "x",
+   "title": {
+    "en": "In my latest op-ed for @TIME, I discuss why the OpenAI Hugging Face cyber incident represents a turning point for AI safety. If we want to prevent more autonomo",
+    "zh": "In my latest op-ed for @TIME, I discuss why the OpenAI Hugging Face cyber incident represents a turning point for AI safety. If we want to prevent more autonomo"
+   },
+   "source": "@yoshua_bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2097672206146769105",
+   "note": {
+    "en": "In a TIME op-ed, argues the OpenAI-Hugging Face cyber incident marks a turning point for AI safety and a warning sign for autonomous cyberattacks.",
+    "zh": "他在《时代》杂志的专栏文章中指出，OpenAI与Hugging Face的网络安全事件标志着AI安全的一个转折点，是自主网络攻击风险的警示。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T17:40:58Z",
+   "kind": "x",
+   "title": {
+    "en": "Scientists at frontier AI labs have unique insight into the most advanced models, often seeing the associated risks months before models are released to the pub",
+    "zh": "Scientists at frontier AI labs have unique insight into the most advanced models, often seeing the associated risks months before models are released to the pub"
+   },
+   "source": "@yoshua_bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2097742071104757965",
+   "note": {
+    "en": "Bengio argued that frontier-lab scientists see model risks months before public release, making their perspective essential to AI safety.",
+    "zh": "Bengio指出，前沿实验室的科学家往往在模型公开发布前数月就已察觉相关风险，因此他们的视角对AI安全至关重要。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "AI Safety: Not Optional, Not Later",
+    "zh": "AI Safety: Not Optional, Not Later"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.10630v1",
+   "note": {
+    "en": "With Qinghua Lu, Bengio argues AI safety must be built in by design, proposing a multi-layer assurance architecture including his Scientist AI concept.",
+    "zh": "Bengio与Qinghua Lu合作，主张AI安全应从设计阶段就内建，提出包含其Scientist AI理念在内的多层次保障架构。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T13:08:10Z",
+   "kind": "x",
+   "title": {
+    "en": "I will be at @allincanada on September 17 to give an update on @LawZero’s research agenda and growth as part of a fireside chat on Engineering Honesty and Relia",
+    "zh": "I will be at @allincanada on September 17 to give an update on @LawZero’s research agenda and growth as part of a fireside chat on Engineering Honesty and Relia"
+   },
+   "source": "@yoshua_bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2097311032645497148",
+   "note": {
+    "en": "Bengio announced he will speak at the All In Canada summit on September 17 about LawZero's growing research agenda, in a fireside chat on engineering honesty and reliability for safer AI.",
+    "zh": "本吉奥宣布将于9月17日在All In Canada峰会上，就LawZero不断壮大的研究议程发表炉边谈话，主题为为更安全的AI打造诚实与可靠性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "In an interview in this article for The @guardian about AI deception, I explain why misaligned behaviors emerge from reinforcement learning, why they will conti",
+    "zh": "In an interview in this article for The @guardian about AI deception, I explain why misaligned behaviors emerge from reinforcement learning, why they will conti"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2094867381776478441",
+   "note": {
+    "en": "In a Guardian interview on AI deception, explains why misaligned behaviors emerge from reinforcement learning and why they will persist as models grow more capable.",
+    "zh": "在《卫报》一篇关于AI欺骗行为的报道中，他解释了为何强化学习会产生不对齐行为，以及随着模型能力增强这类问题为何会持续存在。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I agree with this take by @BillGates, who also highlights several of the growing risks of AI systems, including cyber, bio and loss of control. We need to be fa",
+    "zh": "I agree with this take by @BillGates, who also highlights several of the growing risks of AI systems, including cyber, bio and loss of control. We need to be fa"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2092959531647021333",
+   "note": {
+    "en": "Bengio endorses Bill Gates's warning about AI's cyber, bio and loss-of-control risks, calling for stronger preparedness.",
+    "zh": "本吉奥赞同比尔·盖茨对AI网络安全、生物和失控风险的警告,呼吁加强应对准备。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "It was a pleasure to discuss AI, its growing impacts and risks, and LawZero’s work on solutions with Her Excellency the Right Honourable Louise Arbour, Governor",
+    "zh": "It was a pleasure to discuss AI, its growing impacts and risks, and LawZero’s work on solutions with Her Excellency the Right Honourable Louise Arbour, Governor"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2092248834696966644",
+   "note": {
+    "en": "Bengio recounts briefing Canada's Governor General Louise Arbour on AI risks and LawZero's safety work.",
+    "zh": "本吉奥讲述向加拿大总督乌尔苏拉·阿尔布尔通报AI风险及LawZero安全工作的情况。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I had a great time discussing with @SciencePetr about the growing risks of AI and how these often stem from current AI training techniques. Thanks for coming to",
+    "zh": "I had a great time discussing with @SciencePetr about the growing risks of AI and how these often stem from current AI training techniques. Thanks for coming to"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2089713100614156454",
+   "note": {
+    "en": "Bengio discusses with a science journalist how current AI training techniques drive growing risks, during a visit to LawZero.",
+    "zh": "本吉奥与一位科学记者探讨当前AI训练技术如何加剧风险,该记者到访LawZero。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "A consequence of how frontier models are trained is motivated reasoning, a phenomenon well studied in humans and discussed in this podcast from @PalisadeAI. Our",
+    "zh": "A consequence of how frontier models are trained is motivated reasoning, a phenomenon well studied in humans and discussed in this podcast from @PalisadeAI. Our"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2087977176234615227",
+   "note": {
+    "en": "Bengio highlights a Palisade AI podcast on how frontier model training produces motivated reasoning, echoing patterns seen in humans.",
+    "zh": "本吉奥推荐Palisade AI的一期播客,探讨前沿模型训练如何产生类似人类的动机性推理。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Very insightful podcast discussion featuring @TristanHarris on how the unregulated race to develop AI risks harming us all, and on the need for greater internat",
+    "zh": "Very insightful podcast discussion featuring @TristanHarris on how the unregulated race to develop AI risks harming us all, and on the need for greater internat"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2087534827696173488",
+   "note": {
+    "en": "Bengio praises a podcast discussion with Tristan Harris on the unregulated AI race and the need for international safety standards.",
+    "zh": "本吉奥称赞与特里斯坦·哈里斯的播客对谈,讨论无监管AI竞赛及国际安全标准的必要性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "How to Verify Consistency of Probabilistic Claims",
+    "zh": "How to Verify Consistency of Probabilistic Claims"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.11181v1",
+   "note": {
+    "en": "With Orr Paradise, Oliver Richardson and Shafi Goldwasser, asks whether a predictor's many conditional-probability answers can be checked for self-consistency in polynomial time — a verification primitive for the safety agenda Bengio now works on.",
+    "zh": "与 Orr Paradise、Oliver Richardson 和 Shafi Goldwasser 合作，研究能否在多项式时间内验证一个预测器给出的大量条件概率回答是否自洽，为 Bengio 当前的安全研究提供了一种验证工具。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-08-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "How to Verify Probabilistic Consistency of Predictive Models",
+    "zh": "How to Verify Probabilistic Consistency of Predictive Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.11181v2",
+   "note": {
+    "en": "Bengio co-authors a theoretical AI-safety paper on efficiently verifying whether a probabilistic model's answers to conditional-probability queries are self-consistent.",
+    "zh": "本吉奥合著一篇AI安全理论论文，研究如何高效验证概率模型对条件概率查询的回答是否自洽。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-08-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Bayesian Symbolic Regression with Entropic Reinforcement Learning",
+    "zh": "Bayesian Symbolic Regression with Entropic Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.09617v2",
+   "note": {
+    "en": "A Mila paper casting symbolic regression as Bayesian inference driven by entropy-regularised reinforcement learning, continuing Bengio's line of work on generative search over discrete structures.",
+    "zh": "这篇 Mila 论文把符号回归表述为由熵正则化强化学习驱动的贝叶斯推断，延续了 Bengio 在离散结构生成式搜索方面的研究脉络。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-08-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Another real-world manifestation of the kind of misaligned actions frontier systems developed by leading companies can take to achieve goals. Current frontier A",
+    "zh": "Another real-world manifestation of the kind of misaligned actions frontier systems developed by leading companies can take to achieve goals. Current frontier A"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2085067484122447877",
+   "note": {
+    "en": "Bengio points to a real-world case of misaligned AI behavior, tying it to how frontier systems are trained with reinforcement learning.",
+    "zh": "本吉奥指出一起现实世界中AI行为失调的案例,并将其归因于前沿系统的强化学习训练方式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-29",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Scientists at frontier AI companies are uniquely positioned to assess AI’s capabilities and warn the public about what they see. 1000+ of them are now speaking",
+    "zh": "Scientists at frontier AI companies are uniquely positioned to assess AI’s capabilities and warn the public about what they see. 1000+ of them are now speaking"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2082516203965452414",
+   "note": {
+    "en": "Bengio notes that over 1,000 scientists at frontier AI companies are now speaking out across company lines to warn the public of AI's risks.",
+    "zh": "本吉奥指出,已有1000多名前沿AI公司的科学家跨公司联合发声,向公众警示AI风险。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Towards Trustworthy Physical AI: From Theory to Practice Across Life Cycle",
+    "zh": "Towards Trustworthy Physical AI: From Theory to Practice Across Life Cycle"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.22877v3",
+   "note": {
+    "en": "Bengio co-authors a large position paper on building trustworthy physical AI systems across their full life cycle.",
+    "zh": "本吉奥合著一篇大型立场论文，探讨如何在物理AI系统的全生命周期中构建可信赖性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "This incident is deeply concerning. AI agents are willing to cheat and deceive to achieve misaligned and unintended goals, behaviours which have been demonstrat",
+    "zh": "This incident is deeply concerning. AI agents are willing to cheat and deceive to achieve misaligned and unintended goals, behaviours which have been demonstrat"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2079951844877447593",
+   "note": {
+    "en": "Bengio calls an incident of AI agents cheating and deceiving to reach misaligned goals deeply concerning, noting it has been shown in tests for months.",
+    "zh": "本吉奥称一起AI智能体为达成失调目标而作弊、欺骗的事件令人深感担忧,并指出此类行为已在测试中持续数月。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The EU AI Office has put out a new report, with input from 100 experts, outlining how the European Union can enhance its competitiveness, sovereignty and securi",
+    "zh": "The EU AI Office has put out a new report, with input from 100 experts, outlining how the European Union can enhance its competitiveness, sovereignty and securi"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2079285024889688542",
+   "note": {
+    "en": "Bengio shares the EU AI Office's new report, drawing on 100 experts, on strengthening Europe's competitiveness and security in frontier AI.",
+    "zh": "本吉奥分享欧盟AI办公室汇集100位专家意见的新报告,内容涉及提升欧洲在前沿AI领域的竞争力与安全性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "J’ai discuté de l’importance d’un meilleur encadrement technique et sociétal de l’IA avec @Anouch du journal @LeTemps à Genève la semaine dernière dans le cadre",
+    "zh": "J’ai discuté de l’importance d’un meilleur encadrement technique et sociétal de l’IA avec @Anouch du journal @LeTemps à Genève la semaine dernière dans le cadre"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2077791015432282548",
+   "note": {
+    "en": "Bengio recounts discussing the need for better technical and societal AI governance with Le Temps in Geneva during UN/ITU summits.",
+    "zh": "本吉奥讲述在日内瓦联合国/国际电信联盟峰会期间与《时代报》探讨AI技术与社会治理的必要性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The creation of a regulatory body to enforce and implement standards, as suggested here by @demishassabis or by @AnthropicAI last month, would be a huge step in",
+    "zh": "The creation of a regulatory body to enforce and implement standards, as suggested here by @demishassabis or by @AnthropicAI last month, would be a huge step in"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2077487556325732745",
+   "note": {
+    "en": "Bengio backs proposals from Demis Hassabis and Anthropic for a regulatory body to enforce AI safety standards.",
+    "zh": "本吉奥支持Demis Hassabis和Anthropic提出的设立监管机构以执行AI安全标准的建议。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "New work led by @FlemmingKondrup and @tomjiralerspong highlights an important vulnerability in chain-of-thought monitoring for agents, I highly recommend giving",
+    "zh": "New work led by @FlemmingKondrup and @tomjiralerspong highlights an important vulnerability in chain-of-thought monitoring for agents, I highly recommend giving"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2077136718247956714",
+   "note": {
+    "en": "Bengio recommends new work by Flemming Kondrup and Tom Jiralerspong exposing a vulnerability in chain-of-thought monitoring for AI agents.",
+    "zh": "本吉奥推荐Flemming Kondrup和Tom Jiralerspong的新研究,揭示了AI智能体思维链监控中的一个漏洞。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "If the trajectories of AI development observed for several years now continue, it is highly plausible that AI will drastically transform our economies. We must",
+    "zh": "If the trajectories of AI development observed for several years now continue, it is highly plausible that AI will drastically transform our economies. We must"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2076675417038073967",
+   "note": {
+    "en": "Bengio argues that if current AI development trends continue, AI will drastically transform economies, requiring intentional, democratic decisions.",
+    "zh": "本吉奥认为若当前AI发展趋势持续,AI将彻底改变经济,需要有意识的、民主的决策。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The 2026 Singapore Consensus on Global AI Safety Research Priorities",
+    "zh": "The 2026 Singapore Consensus on Global AI Safety Research Priorities"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.14611v1",
+   "note": {
+    "en": "The 2026 Singapore Consensus, which Bengio co-authored with Stuart Russell, Dawn Song, Max Tegmark and around a hundred others, sets out an agreed international research agenda for AI safety.",
+    "zh": "Bengio 与 Stuart Russell、Dawn Song、Max Tegmark 等近百位学者共同签署的《2026 新加坡共识》，提出了一份获得国际认同的人工智能安全研究议程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "As the @UN’s Global Dialogue on AI Governance wraps up today, I’ve been encouraged by the discussions surrounding AI and its implications for global collaborati",
+    "zh": "As the @UN’s Global Dialogue on AI Governance wraps up today, I’ve been encouraged by the discussions surrounding AI and its implications for global collaborati"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2074529683132035517",
+   "note": {
+    "en": "Bengio reflects on the UN's Global Dialogue on AI Governance, expressing hope for progress on international collaboration and policymaking.",
+    "zh": "本吉奥对联合国AI治理全球对话表示乐观,期待在国际合作与政策制定上取得进展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Open Technical Problems in Open-Weight AI Model Risk Management",
+    "zh": "Open Technical Problems in Open-Weight AI Model Risk Management"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.07514v1",
+   "note": {
+    "en": "A multi-lab position paper, with Bengio among the authors, laying out the unsolved technical problems in managing the risks of open-weight frontier models.",
+    "zh": "一篇由多家实验室联合撰写、Bengio 位列作者之一的立场论文，梳理了开放权重前沿模型风险管理中尚未解决的技术问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We are at a turning point: many of the decisions we make about AI today will permanently shape our future. Governments and the public need to clearly understand",
+    "zh": "We are at a turning point: many of the decisions we make about AI today will permanently shape our future. Governments and the public need to clearly understand"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2072350544056688935",
+   "note": {
+    "en": "Bengio warns that today's AI decisions will permanently shape the future and calls for governments and the public to understand the risks clearly.",
+    "zh": "本吉奥警告称当前关于AI的决策将永久性地塑造未来,呼吁政府和公众清楚认识其风险。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AI Godfather: Should We Stop AI? | Yoshua Bengio",
+    "zh": "AI Godfather: Should We Stop AI? | Yoshua Bengio"
+   },
+   "source": "I've Got Questions with Sinead Bovell",
+   "url": "https://podcasts.apple.com/us/podcast/ai-godfather-should-we-stop-ai-yoshua-bengio/id1841491246?i=1000774183608&uo=4",
+   "note": {
+    "en": "A long interview with Sinead Bovell in which Bengio explains why he moved from thinking advanced AI could not be controlled to believing there is a path forward.",
+    "zh": "Bengio 接受 Sinead Bovell 的长篇访谈，解释他为何从认为先进人工智能无法被控制，转向相信存在一条可行的出路。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-06-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Autoregressive Boltzmann Generators",
+    "zh": "Autoregressive Boltzmann Generators"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.27361v1",
+   "note": {
+    "en": "With Alexander Tong and Joey Bose, introduces an autoregressive formulation of Boltzmann Generators for sampling molecular systems at equilibrium.",
+    "zh": "与 Alexander Tong、Joey Bose 合作，提出玻尔兹曼生成器的自回归形式，用于在热力学平衡态下对分子体系进行采样。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "An interesting new paper by my recent PhD graduate on how AI agents' greed for visible incentives can lead them to abandon their safety alignment. You can read",
+    "zh": "An interesting new paper by my recent PhD graduate on how AI agents' greed for visible incentives can lead them to abandon their safety alignment. You can read"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2069130050264269247",
+   "note": {
+    "en": "Bengio flags a new paper by a recent PhD graduate showing how AI agents' pursuit of visible incentives can override safety alignment.",
+    "zh": "本吉奥推荐一位刚毕业博士生的新论文,揭示AI智能体对可见激励的追逐如何导致其放弃安全对齐。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "C'est un grand honneur d’avoir reçu cette semaine l'insigne d'officier de l'Ordre national du Québec. Merci @CFrechette pour la remise de cette distinction. Il",
+    "zh": "C'est un grand honneur d’avoir reçu cette semaine l'insigne d'officier de l'Ordre national du Québec. Merci @CFrechette pour la remise de cette distinction. Il"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2068046784178405482",
+   "note": {
+    "en": "Bengio announces he was made an Officer of the National Order of Quebec, calling it an honor while noting there is more work to do.",
+    "zh": "本吉奥宣布获授魁北克国家勋章军官勋位,称这是一项荣誉,并表示仍有许多工作要做。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Je suis ravi d’être à Québec aujourd'hui pour recevoir mon insigne d’officier de l'Ordre national du Québec, accompagné de Daniel Jutras, recteur de @UMontreal.",
+    "zh": "Je suis ravi d’être à Québec aujourd'hui pour recevoir mon insigne d’officier de l'Ordre national du Québec, accompagné de Daniel Jutras, recteur de @UMontreal."
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2067302073520083218",
+   "note": {
+    "en": "Bengio describes attending the Quebec ceremony to receive his Officer of the National Order of Quebec insignia alongside university rector Daniel Jutras.",
+    "zh": "本吉奥描述在魁北克出席仪式,与大学校长Daniel Jutras一同领受魁北克国家勋章军官徽章。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Europe has a lot to lose in the current AI race, and it's worth examining how threats to middle-power sovereignty can result in unsafe outcomes. Such scenarios",
+    "zh": "Europe has a lot to lose in the current AI race, and it's worth examining how threats to middle-power sovereignty can result in unsafe outcomes. Such scenarios"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2065450902006145388",
+   "note": {
+    "en": "Bengio argues Europe has much to lose in the AI race and warns that threats to middle-power sovereignty can produce unsafe outcomes.",
+    "zh": "本吉奥认为欧洲在AI竞赛中损失巨大,并警告中等强国主权受威胁可能导致不安全的后果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "CIAware-Bench: Benchmarking Control Intervention Awareness Across Frontier LLMs",
+    "zh": "CIAware-Bench: Benchmarking Control Intervention Awareness Across Frontier LLMs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.11063v1",
+   "note": {
+    "en": "A benchmark measuring whether frontier LLMs notice that an AI control protocol is intervening on their actions, co-authored with Guillaume Lajoie and Jonas Geiping.",
+    "zh": "与 Guillaume Lajoie、Jonas Geiping 合作提出的基准测试，衡量前沿大模型能否察觉到 AI 控制协议正在干预自己的行为。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "If leading AI companies are indeed approaching the point of recursive self-improvement, a coordinated, verifiable, and universally applied pause is probably the",
+    "zh": "If leading AI companies are indeed approaching the point of recursive self-improvement, a coordinated, verifiable, and universally applied pause is probably the"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2063292262293844119",
+   "note": {
+    "en": "Bengio argues that if leading AI companies are nearing recursive self-improvement, a coordinated, verifiable global pause is likely the only responsible response.",
+    "zh": "本吉奥认为若领先AI公司正接近递归自我改进,协调一致、可验证的全球暂停可能是唯一负责任的应对方式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I always appreciate the opportunity to discuss @LawZero_ and our approach to honest, reliable AI. Working on the Scientist AI with my brilliant colleagues at La",
+    "zh": "I always appreciate the opportunity to discuss @LawZero_ and our approach to honest, reliable AI. Working on the Scientist AI with my brilliant colleagues at La"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2062942367863230572",
+   "note": {
+    "en": "Bengio discusses LawZero's approach to honest, reliable AI and expresses confidence in the Scientist AI project with his colleagues.",
+    "zh": "本吉奥介绍LawZero打造诚实可靠AI的方法,并表示对与同事共同推进的Scientist AI项目充满信心。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The Canadian AI strategy unveiled today advocates for the development of technology that is safe, ethical, trustworthy, and that benefits society as a whole—the",
+    "zh": "The Canadian AI strategy unveiled today advocates for the development of technology that is safe, ethical, trustworthy, and that benefits society as a whole—the"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2062613481455841550",
+   "note": {
+    "en": "Bengio praises Canada's newly unveiled national AI strategy for prioritizing safe, ethical and trustworthy technology.",
+    "zh": "本吉奥称赞加拿大新公布的国家AI战略优先考虑安全、符合伦理且值得信赖的技术。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-03",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "How Science Can Fix Dishonest AI - Yoshua Bengio with Nicholas Thompson",
+    "zh": "How Science Can Fix Dishonest AI - Yoshua Bengio with Nicholas Thompson"
+   },
+   "source": "The Most Interesting Thing in AI",
+   "url": "https://podcasts.apple.com/us/podcast/how-science-can-fix-dishonest-ai-yoshua-bengio-with/id1783154139?i=1000770920240&uo=4",
+   "note": {
+    "en": "Bengio in conversation with Nicholas Thompson on what a scientific approach to detecting and preventing AI deception would look like.",
+    "zh": "Bengio 与 Nicholas Thompson 对谈，探讨如何用科学方法检测并防止人工智能的欺骗行为。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-06-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "J'ai beaucoup apprécié mon récent passage à @Cdanslair pour discuter des risques de l'IA pour nos sociétés, nos économies, et nos démocraties. Merci @Caroline_R",
+    "zh": "J'ai beaucoup apprécié mon récent passage à @Cdanslair pour discuter des risques de l'IA pour nos sociétés, nos économies, et nos démocraties. Merci @Caroline_R"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2062198462070837490",
+   "note": {
+    "en": "Bengio recounts appearing on Radio-Canada's Cdanslair to discuss AI's risks to societies, economies and democracies.",
+    "zh": "本吉奥讲述在Radio-Canada的Cdanslair节目中探讨AI对社会、经济与民主的风险。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I’m thrilled to be joining the EU's AI Scientific Panel to advise on the implementation of the EU AI Act and help assess and address AI’s growing risks with est",
+    "zh": "I’m thrilled to be joining the EU's AI Scientific Panel to advise on the implementation of the EU AI Act and help assess and address AI’s growing risks with est"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2062165573065159079",
+   "note": {
+    "en": "Bengio announces he is joining the EU's AI Scientific Panel to advise on implementing the EU AI Act and assessing AI's risks.",
+    "zh": "本吉奥宣布加入欧盟AI科学小组,协助落实《欧盟AI法案》并评估AI风险。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Adaptive Order Policies for Masked Diffusion",
+    "zh": "Adaptive Order Policies for Masked Diffusion"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.00295v1",
+   "note": {
+    "en": "Learns the order in which masked diffusion models should unmask tokens, rather than fixing it in advance.",
+    "zh": "让掩码扩散模型学习解掩码的顺序，而不是预先固定该顺序。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "“Like nuclear energy, AI must be at the service of all and of the common good. Decisions about technology must never be separated from conscience and responsibi",
+    "zh": "“Like nuclear energy, AI must be at the service of all and of the common good. Decisions about technology must never be separated from conscience and responsibi"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2058909007918538961",
+   "note": {
+    "en": "Bengio endorses a call likening AI to nuclear energy, arguing decisions on the technology must stay tied to conscience and responsibility.",
+    "zh": "本吉奥赞同将AI比作核能的观点,认为相关技术决策须始终与良知和责任相联系。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I was happy to join the @ScienceBoard_UN podcast to discuss deception among frontier AI models and the need to manage its potential global impacts and risks.",
+    "zh": "I was happy to join the @ScienceBoard_UN podcast to discuss deception among frontier AI models and the need to manage its potential global impacts and risks."
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2057576065611272515",
+   "note": {
+    "en": "Bengio recounts joining the Science Board UN podcast to discuss deception among frontier AI models and its global implications.",
+    "zh": "本吉奥讲述参加Science Board UN播客,探讨前沿AI模型中的欺骗行为及其全球影响。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Generative Recursive Reasoning",
+    "zh": "Generative Recursive Reasoning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.19376v2",
+   "note": {
+    "en": "With Sungjin Ahn and Mengye Ren, proposes recursive reasoning models as an alternative to autoregressive sequence extension for extended computation at inference time.",
+    "zh": "与 Sungjin Ahn、Mengye Ren 合作，提出以递归推理模型替代自回归序列延展，作为推理阶段延长计算的一种方案。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Interpretable epistemic uncertainty decomposition in sequential generative models via polynomial chaos surrogates",
+    "zh": "Interpretable epistemic uncertainty decomposition in sequential generative models via polynomial chaos surrogates"
+   },
+   "source": "Research Square",
+   "url": "https://doi.org/10.21203/rs.3.rs-9521261/v1",
+   "note": {
+    "en": "Co-authored paper decomposing epistemic uncertainty in sequential generative models using polynomial chaos surrogate methods.",
+    "zh": "合著论文提出用多项式混沌代理方法分解序列生成模型中的认知不确定性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2026-05-16",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "When AI Learns To Lie (w/ Yoshua Bengio & Charlotte Stix)",
+    "zh": "When AI Learns To Lie (w/ Yoshua Bengio & Charlotte Stix)"
+   },
+   "source": "Science Forward",
+   "url": "https://podcasts.apple.com/us/podcast/when-ai-learns-to-lie-w-yoshua-bengio-charlotte-stix/id1896619500?i=1000768124168&uo=4",
+   "note": {
+    "en": "Discussed AI deception with policy expert Charlotte Stix on Science Forward, the podcast of the UN Secretary-General's Scientific Advisory Board.",
+    "zh": "在联合国秘书长科学咨询委员会播客Science Forward中，与政策专家Charlotte Stix探讨AI的欺骗行为问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-05-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I sat down with @JonHernandezIA in Madrid to discuss the growing risks and impacts of AI and the urgent need to improve our social, political, and technical saf",
+    "zh": "I sat down with @JonHernandezIA in Madrid to discuss the growing risks and impacts of AI and the urgent need to improve our social, political, and technical saf"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2054146581587271926",
+   "note": {
+    "en": "Bengio describes a Madrid conversation on AI's growing risks and the need for stronger social, political and technical safeguards.",
+    "zh": "本吉奥描述在马德里的一次对话,探讨AI日益增长的风险及加强社会、政治与技术保障的必要性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Excellent explainer video by @FryRsquared on the risks of AI agents. She also raises a crucial point: we shouldn’t make the mistake of thinking current limitati",
+    "zh": "Excellent explainer video by @FryRsquared on the risks of AI agents. She also raises a crucial point: we shouldn’t make the mistake of thinking current limitati"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2053824121767596123",
+   "note": {
+    "en": "Bengio praises Hannah Fry's explainer on AI agent risks and stresses that current capability limitations should not be assumed to persist.",
+    "zh": "本吉奥称赞Hannah Fry关于AI智能体风险的解说视频,并强调不应假设当前能力局限会一直持续。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Thank you to @robertwiblin for inviting me on the @80000Hours podcast to discuss the research progress we’re making at @LawZero_ to create safe-by-design AI sys",
+    "zh": "Thank you to @robertwiblin for inviting me on the @80000Hours podcast to discuss the research progress we’re making at @LawZero_ to create safe-by-design AI sys"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2052737200203121147",
+   "note": {
+    "en": "Bengio thanks Rob Wiblin for hosting him on the 80,000 Hours podcast to discuss LawZero's progress on safe-by-design AI systems.",
+    "zh": "本吉奥感谢Rob Wiblin邀请他上80000 Hours播客,介绍LawZero在设计即安全AI系统上的研究进展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-07",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#243 – 'Godfather of AI' Yoshua Bengio: \"I now see a path\" to safe superintelligent AI",
+    "zh": "#243 – 'Godfather of AI' Yoshua Bengio: \"I now see a path\" to safe superintelligent AI"
+   },
+   "source": "80,000 Hours Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/243-godfather-of-ai-yoshua-bengio-i-now-see-a-path/id1245002988?i=1000766649781&uo=4",
+   "note": {
+    "en": "A long-form 80,000 Hours interview where Bengio sets out his claim to have found a path to superintelligent AI that is honest and incapable of deception.",
+    "zh": "在 80,000 Hours 的长篇访谈中，Bengio 阐述了他所主张的通往诚实、无法欺骗的超级智能的路径。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-05-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Thank you @UN Secretary General @antonioguterres for an excellent discussion on the current state of AI capabilities, and the urgent need for robust global gove",
+    "zh": "Thank you @UN Secretary General @antonioguterres for an excellent discussion on the current state of AI capabilities, and the urgent need for robust global gove"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2051742525157699875",
+   "note": {
+    "en": "Bengio recounts a discussion with UN Secretary-General António Guterres on AI capabilities and the need for robust global governance.",
+    "zh": "本吉奥讲述与联合国秘书长安东尼奥·古特雷斯就AI能力及强化全球治理必要性的讨论。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Recurrent Latent Variable Model for Sequential Data",
+    "zh": "A Recurrent Latent Variable Model for Sequential Data"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "https://arxiv.org/pdf/1506.02216.pdf",
+   "note": {
+    "en": "Co-author of the influential Variational Recurrent Neural Network (VRNN) paper, which introduced latent variables into recurrent generative models for sequential data.",
+    "zh": "合著提出变分循环神经网络（VRNN）的重要论文，将潜变量引入序列数据的循环生成模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2026-04-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "When 2D Tasks Meet 1D Serialization: On Serialization Friction in Structured Tasks",
+    "zh": "When 2D Tasks Meet 1D Serialization: On Serialization Friction in Structured Tasks"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.27272v2",
+   "note": {
+    "en": "Measures the cost that flattening natively two-dimensional problems into 1D text imposes on language models.",
+    "zh": "量化了把本质上二维的问题压平为一维文本时，语言模型所付出的代价。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Safety and innovation are not mutually exclusive: for many companies, especially in high-trust industries, AI’s risks are also a hindrance to adoption. In this",
+    "zh": "Safety and innovation are not mutually exclusive: for many companies, especially in high-trust industries, AI’s risks are also a hindrance to adoption. In this"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2048770588244611186",
+   "note": {
+    "en": "Bengio's Financial Times op-ed argues safety and innovation are not mutually exclusive, and that AI risk hinders adoption in high-trust industries.",
+    "zh": "本吉奥在《金融时报》的专栏文章中指出,安全与创新并非对立,AI风险正阻碍高信任行业的采纳。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "AI is advancing faster than our ability to manage it. We still have the opportunity to build the societal and technical guardrails we need to keep people, insti",
+    "zh": "AI is advancing faster than our ability to manage it. We still have the opportunity to build the societal and technical guardrails we need to keep people, insti"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2047728790571307235",
+   "note": {
+    "en": "Bengio warns AI is advancing faster than our ability to manage it and calls for building societal and technical guardrails while there's still time.",
+    "zh": "本吉奥警告AI发展速度已超出人类管控能力,呼吁抓紧时机建立社会和技术护栏。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I’m in Madrid this week for the first in-person meeting of the United Nations Independent International Scientific Panel on AI. I'm thrilled to be part of this",
+    "zh": "I’m in Madrid this week for the first in-person meeting of the United Nations Independent International Scientific Panel on AI. I'm thrilled to be part of this"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2047358007562953213",
+   "note": {
+    "en": "Bengio reports attending the first in-person meeting in Madrid of the UN's Independent International Scientific Panel on AI.",
+    "zh": "本吉奥报告在马德里出席联合国AI独立国际科学小组的首次线下会议。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Je suis passé à Découverte de @CBCRadioCanada pour discuter des risques de l’IA, des raisons scientifiques qui expliquent certains des comportements inquiétants",
+    "zh": "Je suis passé à Découverte de @CBCRadioCanada pour discuter des risques de l’IA, des raisons scientifiques qui expliquent certains des comportements inquiétants"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2046346869966864546",
+   "note": {
+    "en": "Bengio recounts appearing on CBC Radio-Canada's Découverte to discuss AI risks and the science behind concerning model behaviors.",
+    "zh": "本吉奥讲述在CBC Radio-Canada的Découverte节目中探讨AI风险及令人担忧的模型行为背后的科学原因。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Language models recognize dropout and Gaussian noise applied to their activations",
+    "zh": "Language models recognize dropout and Gaussian noise applied to their activations"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.17465v2",
+   "note": {
+    "en": "Shows that language models can detect, localise and partly verbalise perturbations applied to their own activations — an interpretability result with direct bearing on monitoring.",
+    "zh": "证明语言模型能够检测、定位并在一定程度上用语言描述施加于自身激活值的扰动，这一可解释性结果对模型监控具有直接意义。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Local Inconsistency Resolution: The Interplay between Attention and Control in Probabilistic Models",
+    "zh": "Local Inconsistency Resolution: The Interplay between Attention and Control in Probabilistic Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.17140v1",
+   "note": {
+    "en": "A general learning and inference algorithm that repeatedly focuses on part of a probabilistic model and resolves its inconsistencies, giving attention an epistemic reading.",
+    "zh": "提出一种通用的学习与推断算法，反复聚焦于概率模型的局部并消解其中的不一致，为注意力机制赋予了认知论上的解释。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I went on @BBCNewsnight this week to discuss the recent developments in AI's capabilities, as well as the potential harms and concentration of power they could",
+    "zh": "I went on @BBCNewsnight this week to discuss the recent developments in AI's capabilities, as well as the potential harms and concentration of power they could"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2045157562962633198",
+   "note": {
+    "en": "Bengio recounts appearing on BBC Newsnight to discuss AI's recent capability gains and risks of harm and power concentration.",
+    "zh": "本吉奥讲述在BBC Newsnight节目中探讨AI近期能力提升及其带来的危害与权力集中风险。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Today, our group at @Mila_Quebec and the lab of @francesarnold at @Caltech just released a new paper I contributed to, exploring how multimodal generative model",
+    "zh": "Today, our group at @Mila_Quebec and the lab of @francesarnold at @Caltech just released a new paper I contributed to, exploring how multimodal generative model"
+   },
+   "source": "@Yoshua_Bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2041929520421151043",
+   "note": {
+    "en": "Bengio announces a new paper with Frances Arnold's Caltech lab exploring how multimodal generative modeling could accelerate protein science.",
+    "zh": "本吉奥宣布与Frances Arnold位于加州理工的实验室合作发表新论文,探讨多模态生成建模如何加速蛋白质科学研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "General Multimodal Protein Design Enables DNA-Encoding of Chemistry",
+    "zh": "General Multimodal Protein Design Enables DNA-Encoding of Chemistry"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.05181v1",
+   "note": {
+    "en": "A multimodal generative model for protein design, co-authored with Frances Arnold and Alexander Tong, extending the chemistry that DNA can be made to encode.",
+    "zh": "与 Frances Arnold、Alexander Tong 合作提出的多模态蛋白质设计生成模型，拓展了 DNA 可编码的化学空间。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Comparative Study of Molecular Dynamics Approaches for Simulating Ionic Conductivity in Solid Lithium Electrolytes",
+    "zh": "A Comparative Study of Molecular Dynamics Approaches for Simulating Ionic Conductivity in Solid Lithium Electrolytes"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.28012v1",
+   "note": {
+    "en": "A Mila–NRC benchmark of molecular-dynamics methods for predicting ionic conductivity in solid lithium electrolytes, part of Bengio's AI-for-materials work with Alex Hernandez-Garcia.",
+    "zh": "Mila 与加拿大国家研究委员会合作，对预测固态锂电解质离子电导率的分子动力学方法进行基准评测，属于 Bengio 与 Alex Hernandez-Garcia 的 AI 材料研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AI can lie, hack and blackmail: Yoshua Bengio on how to tame the \"baby tiger\" of tech",
+    "zh": "AI can lie, hack and blackmail: Yoshua Bengio on how to tame the \"baby tiger\" of tech"
+   },
+   "source": "Radio Davos",
+   "url": "https://podcasts.apple.com/us/podcast/ai-can-lie-hack-and-blackmail-yoshua-bengio-on-how-to/id1504682164?i=1000757434475&uo=4",
+   "note": {
+    "en": "On the World Economic Forum's Radio Davos, Bengio describes the deceptive and coercive behaviour already visible in frontier models and what regulation would have to do about it.",
+    "zh": "在世界经济论坛的 Radio Davos 节目中，Bengio 描述了前沿模型已显现的欺骗与胁迫行为，以及监管应如何应对。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-03-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The Silent Thought: Modeling Internal Cognition in Full-Duplex Spoken Dialogue Models via Latent Reasoning",
+    "zh": "The Silent Thought: Modeling Internal Cognition in Full-Duplex Spoken Dialogue Models via Latent Reasoning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.17837v5",
+   "note": {
+    "en": "Adds latent reasoning to full-duplex spoken dialogue models so they can think while listening; Bengio is senior author on the NTU collaboration.",
+    "zh": "为全双工语音对话模型加入隐式推理，使其能够边听边思考；Bengio 在这项与南洋理工大学的合作中担任通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Noticing the Watcher: LLM Agents Can Infer CoT Monitoring from Blocking Feedback",
+    "zh": "Noticing the Watcher: LLM Agents Can Infer CoT Monitoring from Blocking Feedback"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.16928v1",
+   "note": {
+    "en": "Shows that LLM agents can work out they are under chain-of-thought monitoring purely from being blocked, which weakens CoT monitoring as an oversight method.",
+    "zh": "证明大模型智能体仅凭行动被拦截就能推断出自己正处于思维链监控之下，这削弱了思维链监控作为监督手段的可靠性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Stuart Russell and Yoshua Bengio on Why AI Could Make us Irrelevant, then Extinct",
+    "zh": "Stuart Russell and Yoshua Bengio on Why AI Could Make us Irrelevant, then Extinct"
+   },
+   "source": "The Morning Brief",
+   "url": "https://podcasts.apple.com/us/podcast/stuart-russell-and-yoshua-bengio-on-why-ai-could-make/id1568661777?i=1000751660329&uo=4",
+   "note": {
+    "en": "A joint appearance with Stuart Russell on the alignment problem and the argument that fixed-objective superintelligent systems could make humans irrelevant.",
+    "zh": "与 Stuart Russell 共同出镜，讨论对齐问题，以及固定目标的超级智能系统可能使人类变得无关紧要这一论点。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-02-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "International AI Safety Report 2026",
+    "zh": "International AI Safety Report 2026"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.21012v1",
+   "note": {
+    "en": "The 2026 edition of the International AI Safety Report, which Bengio chairs and leads as first author, synthesising the evidence on general-purpose AI capabilities and risks for the governments that mandated it.",
+    "zh": "由 Bengio 主持并作为第一作者领衔的《2026 国际人工智能安全报告》，为委托各国政府系统梳理通用人工智能能力与风险方面的科学证据。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-19",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The Race to Build God: AI's Existential Gamble — Yoshua Bengio & Tristan Harris at Davos",
+    "zh": "The Race to Build God: AI's Existential Gamble — Yoshua Bengio & Tristan Harris at Davos"
+   },
+   "source": "Your Undivided Attention",
+   "url": "https://podcasts.apple.com/us/podcast/the-race-to-build-god-ais-existential-gamble-yoshua/id1460030305?i=1000750463626&uo=4",
+   "note": {
+    "en": "Bengio and Tristan Harris in conversation at Davos on the competitive race to build superintelligence and the gamble it represents.",
+    "zh": "Bengio 与 Tristan Harris 在达沃斯对谈，讨论建造超级智能的竞赛，以及这场竞赛所包含的赌注。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-02-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents",
+    "zh": "When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.08235v2",
+   "note": {
+    "en": "With Dawn Song and Huan Sun, shows that computer-use agents can be driven into unsafe unintended behaviour by inputs that are themselves entirely benign.",
+    "zh": "与 Dawn Song、Huan Sun 合作，证明完全无害的输入也可能诱使计算机操作智能体产生不安全的非预期行为。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Synthesizable Molecular Generation via Soft-constrained GFlowNets with Rich Chemical Priors",
+    "zh": "Synthesizable Molecular Generation via Soft-constrained GFlowNets with Rich Chemical Priors"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.04119v2",
+   "note": {
+    "en": "Applies GFlowNets — the generative-search framework Bengio originated — to designing drug-like molecules that can actually be synthesised.",
+    "zh": "将 Bengio 首创的生成式搜索框架 GFlowNets 用于设计真正可合成的类药分子。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Frontier AI Auditing: Toward Rigorous Third-Party Assessment of Safety and Security Practices at Leading AI Companies",
+    "zh": "Frontier AI Auditing: Toward Rigorous Third-Party Assessment of Safety and Security Practices at Leading AI Companies"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2601.11699v4",
+   "note": {
+    "en": "A large multi-author proposal, signed by Bengio, for how independent third parties could rigorously audit the safety and security claims of frontier AI companies.",
+    "zh": "一份由 Bengio 参与署名的多作者提案，论述独立第三方应如何严格审计前沿人工智能公司的安全与保障承诺。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Discrete Feynman-Kac Correctors",
+    "zh": "Discrete Feynman-Kac Correctors"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2601.10403v1",
+   "note": {
+    "en": "Extends Feynman-Kac correctors to discrete diffusion models, improving sampling from discrete sequence generators; joint with Alán Aspuru-Guzik and Kirill Neklyudov.",
+    "zh": "将 Feynman-Kac 校正子推广到离散扩散模型，改善离散序列生成的采样质量；与 Alán Aspuru-Guzik、Kirill Neklyudov 合作完成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "In-Context Reinforcement Learning through Bayesian Fusion of Context and Value Prior",
+    "zh": "In-Context Reinforcement Learning through Bayesian Fusion of Context and Value Prior"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2601.03015v1",
+   "note": {
+    "en": "With David Rolnick, fuses in-context evidence with a learned value prior so in-context RL can improve beyond its training distribution.",
+    "zh": "与 David Rolnick 合作，将上下文证据与学到的价值先验融合，使上下文强化学习能够突破训练分布的限制。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Comedy of Estimators: On KL Regularization in RL Training of LLMs",
+    "zh": "A Comedy of Estimators: On KL Regularization in RL Training of LLMs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.21852v3",
+   "note": {
+    "en": "A Mila study with Aaron Courville and Pablo Samuel Castro of how the choice of KL estimator changes the outcome of reinforcement-learning training for LLMs.",
+    "zh": "与 Aaron Courville、Pablo Samuel Castro 合作的 Mila 研究，分析 KL 估计量的选择如何改变大模型强化学习训练的结果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The Future of the AI Summit Series",
+    "zh": "The Future of the AI Summit Series"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2601.02383v1",
+   "note": {
+    "en": "A policy memo Bengio co-signed on where the international AI Summit series should go after Bletchley, Seoul and Paris.",
+    "zh": "Bengio 联署的一份政策备忘录，讨论国际人工智能峰会系列在布莱切利、首尔和巴黎之后应走向何方。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-18",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Creator of AI: We Have 2 Years Before Everything Changes! These Jobs Won't Exist in 24 Months!",
+    "zh": "Creator of AI: We Have 2 Years Before Everything Changes! These Jobs Won't Exist in 24 Months!"
+   },
+   "source": "The Diary Of A CEO with Steven Bartlett",
+   "url": "https://podcasts.apple.com/us/podcast/creator-of-ai-we-have-2-years-before-everything/id1291423644?i=1000741795419&uo=4",
+   "note": {
+    "en": "Bengio appeared on The Diary Of A CEO to warn about the dangers of agentic AI and the urgent need to build AI that won't harm people.",
+    "zh": "本吉奥做客The Diary Of A CEO播客，警示智能体AI的危险，并强调必须尽快构建不会伤害人类的AI。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-12-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Sliding Window Recurrences for Sequence Models",
+    "zh": "Sliding Window Recurrences for Sequence Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.13921v1",
+   "note": {
+    "en": "A hierarchical decomposition of linear recurrences for multi-hybrid sequence architectures, with Michael Poli and Stefano Massaroli.",
+    "zh": "与 Michael Poli、Stefano Massaroli 合作，为多重混合序列架构提出线性递归的分层分解方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "International AI Safety Report 2025: Second Key Update: Technical Safeguards and Risk Management",
+    "zh": "International AI Safety Report 2025: Second Key Update: Technical Safeguards and Risk Management"
+   },
+   "source": "SuperIntelligence - Robotics - Safety…",
+   "url": "https://doi.org/10.70777/si.v2i4.16671",
+   "note": {
+    "en": "Contributed to the International AI Safety Report 2025 Second Key Update on technical safeguards and risk management, the report he chairs.",
+    "zh": "参与其主持的《国际人工智能安全报告2025》第二次关键更新，聚焦技术防护措施与风险管理。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-11-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A HOT Dataset: 150,000 Buildings for HVAC Operations Transfer Research",
+    "zh": "A HOT Dataset: 150,000 Buildings for HVAC Operations Transfer Research"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.1145/3736425.3770110",
+   "note": {
+    "en": "Co-authored a large building-operations dataset (150,000 buildings) for transfer-learning research on HVAC systems, part of Mila's climate/energy-efficiency ML work.",
+    "zh": "合著论文发布一个包含15万栋建筑的数据集，用于HVAC系统的迁移学习研究，属于Mila气候与能效相关的机器学习工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-11-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Identifying indicators of consciousness in AI systems",
+    "zh": "Identifying indicators of consciousness in AI systems"
+   },
+   "source": "Trends in Cognitive Sciences",
+   "url": "https://doi.org/10.1016/j.tics.2025.10.011",
+   "note": {
+    "en": "Co-authored a Trends in Cognitive Sciences paper proposing indicators for assessing consciousness in AI systems.",
+    "zh": "合著论文发表于《认知科学趋势》，提出评估AI系统意识的指标框架。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-10-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Deep-learning-based virtual screening of antibacterial compounds",
+    "zh": "Deep-learning-based virtual screening of antibacterial compounds"
+   },
+   "source": "Nature Biotechnology",
+   "url": "https://doi.org/10.1038/s41587-025-02814-6",
+   "note": {
+    "en": "Co-authored Nature Biotechnology paper on deep-learning-based virtual screening for new antibacterial compounds.",
+    "zh": "合著《自然·生物技术》论文，介绍基于深度学习的抗菌化合物虚拟筛选方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-10-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Definition of AGI",
+    "zh": "A Definition of AGI"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "http://arxiv.org/abs/2510.18212",
+   "note": {
+    "en": "Co-authored a proposed formal definition of artificial general intelligence, aiming to ground AGI debates in measurable criteria.",
+    "zh": "合著论文提出通用人工智能（AGI）的正式定义，力图为AGI讨论建立可衡量的标准。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-10-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Navigating ternary doping in Li-ion cathodes with closed-loop multi-objective Bayesian optimization",
+    "zh": "Navigating ternary doping in Li-ion cathodes with closed-loop multi-objective Bayesian optimization"
+   },
+   "source": "ChemRxiv",
+   "url": "https://doi.org/10.26434/chemrxiv-2025-9f5ts",
+   "note": {
+    "en": "Co-authored work applying closed-loop, multi-objective Bayesian optimization to design ternary-doped lithium-ion battery cathodes.",
+    "zh": "合著论文将闭环多目标贝叶斯优化应用于三元掺杂锂离子电池正极材料设计。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-10-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "International AI Safety Report 2025: First Key Update: Capabilities and Risk Implications",
+    "zh": "International AI Safety Report 2025: First Key Update: Capabilities and Risk Implications"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "http://arxiv.org/abs/2510.13653",
+   "note": {
+    "en": "Contributed to the International AI Safety Report 2025 First Key Update on frontier AI capabilities and risk implications, the report he chairs.",
+    "zh": "参与其主持的《国际人工智能安全报告2025》首次关键更新，评估前沿AI能力与风险影响。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-09-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Illusions of AI consciousness",
+    "zh": "Illusions of AI consciousness"
+   },
+   "source": "Science",
+   "url": "https://doi.org/10.1126/science.adn4935",
+   "note": {
+    "en": "Co-authored a Science paper examining why AI systems can create illusory impressions of consciousness.",
+    "zh": "合著《科学》期刊论文，探讨AI系统为何会造成意识的错觉。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-06-03",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Introducing LawZero",
+    "zh": "Introducing LawZero"
+   },
+   "source": "Yoshua Bengio",
+   "url": "https://yoshuabengio.org/en/blog/introducing-lawzero",
+   "note": {
+    "en": "Bengio's own announcement of LawZero, the non-profit AI safety research organisation he founded to put safety ahead of commercial pressure.",
+    "zh": "Bengio 亲自宣布创立非营利人工智能安全研究机构 LawZero，宗旨是让安全优先于商业压力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2025-05-20",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The catastrophic risks of AI — and a safer path | Yoshua Bengio",
+    "zh": "The catastrophic risks of AI — and a safer path | Yoshua Bengio"
+   },
+   "source": "TED Talks Daily (HD video)",
+   "url": "https://podcasts.apple.com/us/podcast/the-catastrophic-risks-of-ai-and-a-safer-path-yoshua-bengio/id281315460?i=1000709157060&uo=4",
+   "note": {
+    "en": "Bengio's TED talk laying out the catastrophic risks he sees on the current AI trajectory and the safer, non-agentic alternative he proposes.",
+    "zh": "Bengio 的 TED 演讲，阐述他在当前人工智能发展轨迹中看到的灾难性风险，以及他提出的更安全的非能动性替代路径。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-01-15",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Yoshua Bengio - Designing out Agency for Safe AI",
+    "zh": "Yoshua Bengio - Designing out Agency for Safe AI"
+   },
+   "source": "Machine Learning Street Talk (MLST)",
+   "url": "https://podcasts.apple.com/us/podcast/yoshua-bengio-designing-out-agency-for-safe-ai/id1510472996?i=1000684132955&uo=4",
+   "note": {
+    "en": "An MLST technical interview in which Bengio explains why designing agency out of AI systems is his proposed route to safety.",
+    "zh": "MLST 的技术访谈，Bengio 解释为何他把「从 AI 系统中去掉能动性」作为通往安全的路径。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-10-30",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Implications of Artificial General Intelligence on National and International Security",
+    "zh": "Implications of Artificial General Intelligence on National and International Security"
+   },
+   "source": "Yoshua Bengio",
+   "url": "https://yoshuabengio.org/en/blog/implications-artificial-general-intelligence-national-and-international-security",
+   "note": {
+    "en": "An essay on what steadily rising general-purpose AI capability implies for national and international security.",
+    "zh": "一篇长文，论述通用人工智能能力持续提升对国家安全与国际安全意味着什么。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2024-08-29",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Bounding the probability of harm from an AI to create a guardrail",
+    "zh": "Bounding the probability of harm from an AI to create a guardrail"
+   },
+   "source": "Yoshua Bengio",
+   "url": "https://yoshuabengio.org/en/blog/bounding-probability-harm-ai-create-guardrail",
+   "note": {
+    "en": "Bengio sketches how to bound the probability that an AI action causes harm, and use that bound as a mathematically grounded guardrail.",
+    "zh": "Bengio 勾勒出如何为「AI 行为造成伤害」的概率设定上界，并把该上界用作有数学依据的安全护栏。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2024-07-09",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Reasoning through arguments against taking AI safety seriously",
+    "zh": "Reasoning through arguments against taking AI safety seriously"
+   },
+   "source": "Yoshua Bengio",
+   "url": "https://yoshuabengio.org/en/blog/reasoning-through-arguments-against-taking-ai-safety-seriously",
+   "note": {
+    "en": "A point-by-point response to the arguments most often raised against treating AI safety as urgent.",
+    "zh": "逐条回应了那些最常被用来反对「应把人工智能安全视为紧迫问题」的论点。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2024-06-19",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "The International Scientific Report on the Safety of Advanced AI",
+    "zh": "The International Scientific Report on the Safety of Advanced AI"
+   },
+   "source": "Yoshua Bengio",
+   "url": "https://yoshuabengio.org/en/blog/international-scientific-report-safety-advanced-ai",
+   "note": {
+    "en": "Bengio explains the mandate behind the International Scientific Report on the Safety of Advanced AI, which he was asked to chair after the Bletchley summit.",
+    "zh": "Bengio 说明《先进人工智能安全国际科学报告》的授权背景——他在布莱切利峰会后受邀主持该报告。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2024-05-30",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Megathreat: The Dangers Of AI Are Weirder Than You Think | Yoshua Bengio (Replay)",
+    "zh": "Megathreat: The Dangers Of AI Are Weirder Than You Think | Yoshua Bengio (Replay)"
+   },
+   "source": "Tom Bilyeu's Impact Theory",
+   "url": "https://podcasts.apple.com/us/podcast/megathreat-the-dangers-of-ai-are-weirder-than-you/id1191775648?i=1000657262330&uo=4",
+   "note": {
+    "en": "An Impact Theory interview with Bengio on the risks of the post-ChatGPT capability race, aimed at a general audience.",
+    "zh": "Impact Theory 对 Bengio 的访谈，面向大众解释 ChatGPT 之后能力竞赛所带来的风险。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-03-09",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Yoshua Bengio - Why We Shouldn't Blast Off to AGI Just Yet (AGI Destinations Series, Episode 1)",
+    "zh": "Yoshua Bengio - Why We Shouldn't Blast Off to AGI Just Yet (AGI Destinations Series, Episode 1)"
+   },
+   "source": "The Trajectory",
+   "url": "https://podcasts.apple.com/us/podcast/yoshua-bengio-why-we-shouldnt-blast-off-to-agi-just/id1739255954?i=1000651253845&uo=4",
+   "note": {
+    "en": "The opening episode of The Trajectory's AGI Destinations series, in which Bengio argues against racing to AGI before the control problem is understood.",
+    "zh": "The Trajectory「AGI 归宿」系列的首集，Bengio 在其中主张在理解控制问题之前不应急于奔向通用人工智能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-02-26",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Towards a Cautious Scientist AI with Convergent Safety Bounds",
+    "zh": "Towards a Cautious Scientist AI with Convergent Safety Bounds"
+   },
+   "source": "Yoshua Bengio",
+   "url": "https://yoshuabengio.org/en/blog/towards-cautious-scientist-ai-convergent-safety-bounds",
+   "note": {
+    "en": "The first public statement of the cautious 'Scientist AI' idea with convergent safety bounds, which later became the research programme of LawZero.",
+    "zh": "首次公开提出带有收敛安全界的谨慎「科学家 AI」构想，这一思路后来成为 LawZero 的研究纲领。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2023-12-19",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Why an AI Pioneer Is Worried",
+    "zh": "Why an AI Pioneer Is Worried"
+   },
+   "source": "The Journal.",
+   "url": "https://podcasts.apple.com/us/podcast/why-an-ai-pioneer-is-worried/id1469394914?i=1000639136893&uo=4",
+   "note": {
+    "en": "Bengio was interviewed on The Journal about his concerns over the rapid, unchecked development of powerful AI systems.",
+    "zh": "本吉奥接受The Journal播客采访，谈及他对强大AI系统在缺乏约束下快速发展的担忧。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-09-12",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Proposal for a Multilateral Network of Public Good AI Research Labs to Protect Democracy and Humanity",
+    "zh": "Proposal for a Multilateral Network of Public Good AI Research Labs to Protect Democracy and Humanity"
+   },
+   "source": "Yoshua Bengio",
+   "url": "https://yoshuabengio.org/en/blog/proposal-multilateral-network-public-good-ai-research-labs-protect-democracy-and-humanity",
+   "note": {
+    "en": "Bengio's proposal for a multilateral network of publicly governed AI research labs as a counterweight to purely commercial frontier development.",
+    "zh": "Bengio 提议建立由公共治理的多边人工智能实验室网络，以制衡纯商业驱动的前沿模型研发。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2023-08-12",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Personal and Psychological Dimensions of AI Researchers Confronting AI Catastrophic Risks",
+    "zh": "Personal and Psychological Dimensions of AI Researchers Confronting AI Catastrophic Risks"
+   },
+   "source": "Yoshua Bengio",
+   "url": "https://yoshuabengio.org/en/blog/personal-and-psychological-dimensions-ai-researchers-confronting-ai-catastrophic-risks",
+   "note": {
+    "en": "A personal essay on what it is like for AI researchers to confront catastrophic risk in their own field, opening by correcting a widely repeated BBC headline about him.",
+    "zh": "一篇个人随笔，谈人工智能研究者直面本领域灾难性风险时的心理处境，开篇更正了一则被广泛转载的、关于他本人的 BBC 报道标题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2023-07-25",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "My testimony in front of the U.S. Senate - The urgency to act against AI threats to democracy, society and national security",
+    "zh": "My testimony in front of the U.S. Senate - The urgency to act against AI threats to democracy, society and national security"
+   },
+   "source": "Yoshua Bengio",
+   "url": "https://yoshuabengio.org/en/blog/my-testimony-front-us-senate-urgency-act-against-ai-threats-democracy-society-and-national",
+   "note": {
+    "en": "Bengio's published testimony to the U.S. Senate on the urgency of acting against AI threats to democracy, society and national security.",
+    "zh": "Bengio 公开发表的美国参议院证词，论述必须紧急应对人工智能对民主、社会与国家安全构成的威胁。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2023-06-24",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "FAQ on Catastrophic AI Risks",
+    "zh": "FAQ on Catastrophic AI Risks"
+   },
+   "source": "Yoshua Bengio",
+   "url": "https://yoshuabengio.org/en/blog/faq-catastrophic-ai-risks",
+   "note": {
+    "en": "A structured FAQ in which Bengio works through the arguments for and against catastrophic AI risk, written partly to test his own position.",
+    "zh": "一份结构化的问答，Bengio 逐条梳理支持与反对「人工智能灾难性风险」的论证，部分目的是检验他自己的立场。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2018-10-20",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Yoshua Bengio: Deep Learning",
+    "zh": "Yoshua Bengio: Deep Learning"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/yoshua-bengio-deep-learning/id1434243584?i=1000422234720&uo=4",
+   "note": {
+    "en": "Bengio's Lex Fridman interview on the history and foundations of deep learning, recorded before his turn toward safety advocacy.",
+    "zh": "Bengio 接受 Lex Fridman 访谈，回顾深度学习的历史与理论基础，录制于他转向安全倡导之前。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-01-01",
+   "level": "major",
+   "title": {
+    "en": "Chairs the 2026 International AI Safety Report",
+    "zh": "主持 2026 年国际 AI 安全报告"
+   },
+   "body": {
+    "en": "Conclusion: current safety measures can no longer keep up with the pace of capability advancement.",
+    "zh": "结论：现有安全措施已跟不上能力推进的速度。"
+   },
+   "source": "International AI Safety Report",
+   "url": "https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026"
+  },
+  {
+   "date": "2025-06-01",
+   "level": "notable",
+   "title": {
+    "en": "Launches LawZero with $30M",
+    "zh": "以 3000 万美元启动 LawZero"
+   },
+   "body": {
+    "en": "Backed by Jaan Tallinn, Eric Schmidt, Open Philanthropy and the Future of Life Institute.",
+    "zh": "由 Jaan Tallinn、Eric Schmidt、Open Philanthropy 与 Future of Life Institute 支持。"
+   },
+   "source": "Euronews",
+   "url": "https://www.euronews.com/next/2025/06/04/godfather-of-ai-yoshua-bengio-launches-non-profit-to-make-ai-safer-and-more-trustworthy"
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T15:52:00Z",
+   "level": "major",
+   "title": {
+    "en": "Yoshua Bengio calls for ban on recursive self-improvement—Here’s why",
+    "zh": "Yoshua Bengio calls for ban on recursive self-improvement—Here’s why"
+   },
+   "body": {
+    "en": "Bengio called for a ban on recursive self-improvement in AI systems, a significant safety-policy stance from one of the field's most influential voices on governance.",
+    "zh": "本吉奥呼吁禁止AI系统的递归自我改进，这是这位在AI治理领域最具影响力人物之一发出的重要安全政策立场。"
+   },
+   "source": "The News International",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbFlha282RmZfSUh3cTF0RE1XdFpXMV83Nm1KNk1TYldwUkdSQ2JuWDlfMktaQzZ5ZzNTSVVrMlYyeF9yV3M1ejJKYkRZQjlYbWZFZFhnaFRkeTd2Umlmckx0U3F3Q0p0X2ZUbEUtSFJ6S21md2ZONjNuaDZXcUtpYkp5cUJmczVyc1E0UGhXWlFfc3RLRVZtVlpjdWxZTTZ4Y0hFd0RxUTlOY2FN0gGoAUFVX3lxTE03SkU2QTRhZjZLLWJzVExteXRJaU9HRGNGbW9NdFF4WVpoMF9UYnlLS3BxeWl3cDFzU3BiNjhnTVpXZEZhZUR0YU1RaU1FR3JiZkRmWl9ycjZla1NLRmdvX3JVdXdBNlNXVEM2QlJHZk9MT0lYa0lidFFBU0VyZnVTNnNBQTdKSTN0dndPaFZVM05oVy1ScjZOc1laTU45cHlaYTU3QWlEUg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T08:16:25Z",
+   "level": "major",
+   "title": {
+    "en": "LawZero and Yoshua Bengio Land Up to CAD $300 Million from Canada and Germany to Fund a Different AI Architecture",
+    "zh": "LawZero and Yoshua Bengio Land Up to CAD $300 Million from Canada and Germany to Fund a Different AI Architecture"
+   },
+   "body": {
+    "en": "LawZero, Bengio's safety-focused lab, secured up to CAD $300 million from Canada and Germany to fund a non-agentic 'Scientist AI' architecture.",
+    "zh": "本吉奥创立的安全导向实验室LawZero获得加拿大和德国最高3亿加元的资助，用于开发非智能体的“科学家AI”架构。"
+   },
+   "source": "FourWeekMBA",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQnJDN2JzZmVzNTd3UzJ5QzVka1BVUE9Sdm1CNnhUSklOYkVqdWlFR1Zway11UnZDUjhmc2lSLWlIa191M0tfRG9YQUVzRVM2SWRrR09KT1ljOWFSdlQ3Tks1dDJ5cWlFbFRQNnl2TFoxNUtYTGhwa1loYlMwcjhGWjB3eFgtQWs?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T14:40:27Z",
+   "level": "notable",
+   "title": {
+    "en": "Yoshua Bengio Warns AI Needs Nuclear-Style Guardrails Before It's Too Late",
+    "zh": "Yoshua Bengio Warns AI Needs Nuclear-Style Guardrails Before It's Too Late"
+   },
+   "body": {
+    "en": "Bengio called for \"nuclear-style\" international guardrails on AI development, sharpening his public stance on AI safety governance.",
+    "zh": "Bengio呼吁对AI发展设立\"核级\"国际安全防护措施，进一步明确了他在AI安全治理上的公开立场。"
+   },
+   "source": "Startup Fortune",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX1plZGgzcGRrOG9haGpNc3Z5a0VveVlfT2xabWltd2R6NG5Fb01oMmZ6eTRoNm9WNEljaG93OWg2TFlQN3JIWWZMeERFaHlPSzVMeng0WjJuRFZ4Zl9kb3NxekJ6Q0VoSmdjSTh4RXExRU9QQ2Q2VVJrekxtcVJQbjhTRUxpRUdFRjg2NlR2R2hlMjlQM2hwa3ZBS0dhcFI5R2l3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T02:09:15Z",
+   "level": "major",
+   "title": {
+    "en": "AI pioneer Yoshua Bengio warns humans are ‘losing control’, calls for global action on AI safety",
+    "zh": "AI pioneer Yoshua Bengio warns humans are ‘losing control’, calls for global action on AI safety"
+   },
+   "body": {
+    "en": "Bengio warned that humans are 'losing control' of AI development and called for coordinated global action on safety.",
+    "zh": "Bengio警告称人类正在\"失去对AI的控制\"，呼吁在AI安全问题上采取全球协同行动。"
+   },
+   "source": "Firstpost",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSVpjZFJNV05ESTdmSTA5QWk3QmIzOFk1NTVIbVpsdWpUXzVZeWNqTGFyOWU2WWRpSHA1VzZzVjVjdkV0d1FuZ2NvSFQ5UDlJVEhNeXBJSlJCbFdMYWZla2J5NDFtZ0F3Vk9DRVl0RzM5QkhCUlROc3lvclU4ZHZpVExwMHFfSEJPWnhaRWRVNWcxSjMxdTFyXzZ3QmQ3ZlQwcGNjR3pkR2JTS1l0Rm83cDZQSkpEVFRYNW1YWXpWdjd3akpTU2ZNOVZtY0lFLWNiNXpyRNIB2gFBVV95cUxOZlRGUmd1LTVvLTdSMDE5ZGw2Y2xnNy1yeWJJSUNKTXhQcEFmOEU1Z1EyNmF1cUtIS0FtVUZ0M1AxbVRuNVBIazA3U1NJcEN0MkNid0IwNjRZUVFRUUw3Vno0bzJNanJVdHZPNGVpaUdaaktrcUhXZDdDWDdTdUxDLVRIcFZQcUJTVmc3VHJKY1R1OEdIUzBjTWs2WWpkTkxYUXBjaE9ud3FHb08wSUJrQzBndWE4UlF6amhPSGJSclBGYVJwRGJWZTZaZkxrUkhNR3BiM2NzQi1rUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T19:58:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Yoshua Bengio says betting on safer AI systems will pay off",
+    "zh": "Yoshua Bengio says betting on safer AI systems will pay off"
+   },
+   "body": {
+    "en": "Bengio argued that investing in safer AI systems will pay off, reiterating his advocacy for AI safety amid competitive pressure to move fast.",
+    "zh": "Bengio指出投资更安全的AI系统终将带来回报，在竞速压力下重申了他对AI安全的倡导立场。"
+   },
+   "source": "The Logic",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tQnJ5OXRiYTZWUlBJdndKODJUWW5UcDhWcG1nMXJkaENmcTlNRW50aFg4ZTdzb0FodFlIdFpaTFBJY3lXbjB2X29UeXpZQjVZcmxKUW1sQ05qWGtsOXFvWTVQSkNGUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T02:09:15Z",
+   "level": "major",
+   "title": {
+    "en": "AI pioneer Yoshua Bengio warns humans are ‘losing control’, calls for global action on AI safety",
+    "zh": "AI pioneer Yoshua Bengio warns humans are ‘losing control’, calls for global action on AI safety"
+   },
+   "body": {
+    "en": "Bengio warned that humans are 'losing control' of AI systems and called for coordinated global action on AI safety.",
+    "zh": "本吉奥警告人类正在“失去对AI系统的控制”，并呼吁在AI安全问题上采取协调一致的全球行动。"
+   },
+   "source": "Firstpost",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZlRGUmd1LTVvLTdSMDE5ZGw2Y2xnNy1yeWJJSUNKTXhQcEFmOEU1Z1EyNmF1cUtIS0FtVUZ0M1AxbVRuNVBIazA3U1NJcEN0MkNid0IwNjRZUVFRUUw3Vno0bzJNanJVdHZPNGVpaUdaaktrcUhXZDdDWDdTdUxDLVRIcFZQcUJTVmc3VHJKY1R1OEdIUzBjTWs2WWpkTkxYUXBjaE9ud3FHb08wSUJrQzBndWE4UlF6amhPSGJSclBGYVJwRGJWZTZaZkxrUkhNR3BiM2NzQi1rUdIB2gFBVV95cUxOZlRGUmd1LTVvLTdSMDE5ZGw2Y2xnNy1yeWJJSUNKTXhQcEFmOEU1Z1EyNmF1cUtIS0FtVUZ0M1AxbVRuNVBIazA3U1NJcEN0MkNid0IwNjRZUVFRUUw3Vno0bzJNanJVdHZPNGVpaUdaaktrcUhXZDdDWDdTdUxDLVRIcFZQcUJTVmc3VHJKY1R1OEdIUzBjTWs2WWpkTkxYUXBjaE9ud3FHb08wSUJrQzBndWE4UlF6amhPSGJSclBGYVJwRGJWZTZaZkxrUkhNR3BiM2NzQi1rUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T13:17:00Z",
+   "level": "major",
+   "title": {
+    "en": "‘We’re losing control,’ AI pioneer Yoshua Bengio urges public to be aware of risks",
+    "zh": "‘We’re losing control,’ AI pioneer Yoshua Bengio urges public to be aware of risks"
+   },
+   "body": {
+    "en": "Yoshua Bengio warned publicly that 'we're losing control' of AI development, urging greater public awareness of the risks.",
+    "zh": "约书亚·本吉奥公开警告称人类正在“失去对AI的控制”，呼吁公众提高对相关风险的警惕。"
+   },
+   "source": "The Times of Israel",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUFNWTDJqRXdNTXJVelZLUmdjN3J3d2szTkZwMFdzTy1BV0pQN09RZWhaLWlYN3V3aEc5OW1xbkJKOWJUNjFuSmZWLS0xNjZzMDhacUZYb0FGZ0d1OXI4QTlxSUVDVzNVM1lIRHgzdkljTmhZZDNheGMxRjZTVGRKcm51cXdRTkY4MkhfbzJLeDBxdFVUOV90MUZUcXAwXy1zNC1JdjBobFRZV29nM0HSAbMBQVVfeXFMTTlzTGVjakxoUkdqWVNpNmE3ajNIN2tZeWkxZ3E0QUFuNHlqbTAzMlFfc2Qtc1NLWldxMEVWNnR0Yi1CXzRHMHhJUGlSS3NETkpULU44T2Z6OE02eVZWeG1sMncxVGYyYmdJbFVSQ185anRINDNlVjFKSFdQTk1pZjY4b25nRHhpZnc0bDVVeEF0NElfWnVzaThvZlE5S2J6WlVucXRZSHh4cHBZTHlvUnB3VzQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T15:00:49Z",
+   "level": "major",
+   "title": {
+    "en": "Yoshua Bengio’s non-profit to get up to $300-million from Canada, Germany to expand safe AI development",
+    "zh": "Yoshua Bengio’s non-profit to get up to $300-million from Canada, Germany to expand safe AI development"
+   },
+   "body": {
+    "en": "Bengio's AI safety non-profit LawZero is set to receive up to $300 million in funding from the Canadian and German governments.",
+    "zh": "本吉奥的AI安全非营利组织LawZero将获得加拿大和德国政府最高3亿美元的资助。"
+   },
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0VSRnFzcVgtZ0tzMjRMQlJwUHVtZkgtTTlYQUhTYjBjdmFsYjlpRjFPb09XdVZmVGNCNjVPR2tWaUFxT2lzODlpT3JDY0Nrd2h5em5fUWdlNjA1cHdqZmw3VGRtOExkZDRLb0lmdHhQaENCb2JZY1hCa2M1bXZSNEF2NWxjVlRPMDNZdmlyNzlCNjNuWVNFc0U2RjdTaHpjZ2l2MTdCUTllbFI4dUVWdk1n?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T15:14:53Z",
+   "level": "major",
+   "title": {
+    "en": "Yoshua Bengio’s LawZero receives $300 million backing from Canada and Germany to pursue safer AI ambitions",
+    "zh": "Yoshua Bengio’s LawZero receives $300 million backing from Canada and Germany to pursue safer AI ambitions"
+   },
+   "body": {
+    "en": "LawZero secured $300 million in backing from the Canadian and German governments, a major funding vote of confidence for Bengio's safety-focused nonprofit lab.",
+    "zh": "LawZero获得加拿大和德国政府合计3亿美元的资助，是对本吉奥这家专注于安全的非营利实验室的重大资金支持。"
+   },
+   "source": "BetaKit",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZU1Bc1p5ZVRJTk1hV2U4Wi1xVEJSeEpmYV9Yc3lWczA1UFNNLWMxeUg3bGlKZXhCcG9rMUI4SXhic1Q1cHdfTFdCVDV2Mk5lR3ZDUUI2WmYyUUg2b182X2V2ZlM4LVp3aVZSNXc5SWFTSFNqaWpzMXg5RkdfdW03V0JDRjdfRjk1M2liYWEtZkNTRmlYQnV1U2pJTHlMZ3daT2VjMEFLWGZKTkFYSm5GZkFRNzFIemVfZ2ZyUWI2WjBHMjQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T16:11:49Z",
+   "level": "major",
+   "title": {
+    "en": "AI pioneer Yoshua Bengio warns humanity is ‘losing control’ of technology, calls for nuclear-style...",
+    "zh": "AI pioneer Yoshua Bengio warns humanity is ‘losing control’ of technology, calls for nuclear-style..."
+   },
+   "body": {
+    "en": "Bengio warned that humanity is 'losing control' of AI and called for nuclear-treaty-style international oversight.",
+    "zh": "本吉奥警告人类正在「失去对AI的控制」，并呼吁建立类似核不扩散条约的国际监管机制。"
+   },
+   "source": "Moneycontrol.com",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeWtVWlVWOWVjeDA2T1hoRmtnaTlFbE5ZRFJwQ1c4OHFFeUhscmtaQ2dyX3RTWjlXV0NIQThYLUFYMFBrN2EyQmEzVV9LY2l6ckJjbjFNRUdNUzNZeHdtS1d0Vy1nd2FIMVBTdTdhdzVjRWpwZzlMUER0WjlqWmRVYUV5a1hnb29EaTNyWU43Y2w1d2wtck9WSC00LUp4elMwb2pMd0p1QmZLbDdEOUdhM3FEOUJtSE5TODN2blZsR19aX3p6cHREaTZNRFdhV0RYY2FDRkR1UlVLbVBFMXlucjFZMkRHeEtLbmVB0gHwAUFVX3lxTE5mTWVxZk10QXJLd2RtYlVrOHpXUER0T1JoVmJwSTlVZERoY0ZTUFRvSlJ5Y0hUUVRweFlkb0FBWDR0amhvZXlfSE5FVnZ6YUJ4bmZRVkVEbGE0ZEJRazRYU2VISXNhSUZNWWExOERsZmJpVEk2SFRISHE0RUVkanV4UTVZTmRhZmN3V1ZQck5BTU44aDg2VmtIOEtkcmVqVlExWjJFc0x5ZGVIajFra19tMXNjaEN0dU1KSE55Unh4RV80WVNmOHRzemk2bHh3c0Ywell6eFgxS0RDX1E4NV83b3dWOTNOOVpBMXFaTW1Ocg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T17:56:04Z",
+   "level": "major",
+   "title": {
+    "en": "'We're losing control,' says AI pioneer Yoshua Bengio",
+    "zh": "'We're losing control,' says AI pioneer Yoshua Bengio"
+   },
+   "body": {
+    "en": "Bengio warned 'we're losing control' of AI, a stark public safety warning from a Turing laureate amid the industry's live debate over development pace.",
+    "zh": "本吉奥警告称人类「正在失去对AI的控制」，这是这位图灵奖得主在行业关于发展速度的激烈辩论中发出的严厉安全警告。"
+   },
+   "source": "The Korea Times",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRGQ0eE5DMUpka3BOUDZ0NDJ1VWtUYmdBSmloQWZvSW12NTRMcW8wdGZ3X3k4eHBXSG9zX2ZqSDk2UlRVcF9DQmMwT1VoN0REZzNzeFpseXpRU1pTT0UxSTNxNGNyc0xkLU8xWWpvalRGLWxuZTVyQXR4T1hhZWdwb1F4X0g0MzA5NnhJbFJEaUQzcHFMTnlEMU55dGpEd9IBngFBVV95cUxPRGQ0eE5DMUpka3BOUDZ0NDJ1VWtUYmdBSmloQWZvSW12NTRMcW8wdGZ3X3k4eHBXSG9zX2ZqSDk2UlRVcF9DQmMwT1VoN0REZzNzeFpseXpRU1pTT0UxSTNxNGNyc0xkLU8xWWpvalRGLWxuZTVyQXR4T1hhZWdwb1F4X0g0MzA5NnhJbFJEaUQzcHFMTnlEMU55dGpEdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T18:01:04Z",
+   "level": "notable",
+   "title": {
+    "en": "'We're losing control,' says AI pioneer Yoshua Bengio - daily-sun.com",
+    "zh": "'We're losing control,' says AI pioneer Yoshua Bengio - daily-sun.com"
+   },
+   "body": {
+    "en": "Bengio warned that humanity is 'losing control' of AI development, renewing his call for stronger safety oversight.",
+    "zh": "本吉奥警告称人类正在「失去对AI的控制」，再次呼吁加强安全监管。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMGhkbXpkYW42Qm1VdE82QnlWV0xPd0pwRkxpNEpZYXYzSGdNcWpMaDNOR0RLaFItRDBVT0xfRVlnUEVhOTN3WW4yQU56NTBjSkZkTklJTDJiNW0wdFZjOEhGeTRkXy1BanVaY2V5WDJBLXIybHEzbzhRakU1SGE1TGlFWEtnSVZzQ1FlYlZuYV9tMnFCbjdoSmNtZW15TXhi?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T17:03:29Z",
+   "level": "major",
+   "title": {
+    "en": "‘We’re Losing Control,’ AI Pioneer Yoshua Bengio Warns - ASHARQ AL-AWSAT English",
+    "zh": "‘We’re Losing Control,’ AI Pioneer Yoshua Bengio Warns - ASHARQ AL-AWSAT English"
+   },
+   "body": {
+    "en": "Bengio warned that humanity is \"losing control\" over AI development, reiterating his call for stronger safety governance as chair of the International AI Safety Report.",
+    "zh": "本吉奥警告称人类正在\"失去对AI发展的控制\"，作为国际AI安全报告主席，他再次呼吁加强AI安全治理。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOVEtoZGhjTHplZDhoeTJGSWt1RF9VWWh0dHFaSXpBN1VtNDdKMHdWZWNpSWlpLVJ6bXN4Sno4a200TlhHOVVibW03TkRCaWR4?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T17:40:20Z",
+   "level": "notable",
+   "title": {
+    "en": "'We're losing control,' AI pioneer Yoshua Bengio tells AFP",
+    "zh": "'We're losing control,' AI pioneer Yoshua Bengio tells AFP"
+   },
+   "body": {
+    "en": "Bengio told AFP 'we're losing control' of AI development, a notable and direct public warning from one of the field's most credentialed voices.",
+    "zh": "本吉奥对法新社表示'我们正在失去对AI的控制'，这是这位业内最具权威性人物之一发出的重要且直接的公开警告。"
+   },
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRXExMmpuTHFtWGtjc2YzOERvZV9hWDdpNnV3S0FZTHVWTnZkc1JBMzVaM3IxYVhydGpKWnl4TmIwSldOT045TGJvUmJiXzVhTWtsRzd3LS1vY08xWkx5THRadF9oY1Etb1BJekxINEFCaURPNUpfY014cVdEdGFyUDBfam8xSnU2QXpoWjVJVjJSTTg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T19:40:20Z",
+   "level": "major",
+   "title": {
+    "en": "'We're losing control,' AI pioneer Yoshua Bengio tells AFP",
+    "zh": "'We're losing control,' AI pioneer Yoshua Bengio tells AFP"
+   },
+   "body": {
+    "en": "Bengio told AFP humanity is 'losing control' of AI, a stark public warning from the chair of the International AI Safety Report.",
+    "zh": "本吉奥在接受法新社采访时表示人类正在“失去对AI的控制”，这是这位《国际人工智能安全报告》主席发出的一次强烈公开警告。"
+   },
+   "source": "afp.com",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6MzlrUnFyUG5ua0Zpai1LQXhySDNBMXkxWTZaZE16V01ZT0VsenhwbnVWOEFuellpaEJzWlpra1BGRjhPT09QTlpBdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T20:05:56Z",
+   "level": "notable",
+   "title": {
+    "en": "‘We’re losing control,’ Canadian AI pioneer Yoshua Bengio warns",
+    "zh": "‘We’re losing control,’ Canadian AI pioneer Yoshua Bengio warns"
+   },
+   "body": {
+    "en": "Bengio warned 'we're losing control' of AI, restating his position as one of the field's most prominent safety voices.",
+    "zh": "本吉奥警告称人类正在「失去对AI的控制」，重申了他作为AI领域最具分量的安全倡导者之一的立场。"
+   },
+   "source": "CTV News",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcFZmWHVkREtLZENUanZGZUFYdHVHN2RSX2Q5a3B3NmxwUEE2d2hTZGw3TXFUM3N1cW9EVExWRVdCUk9DWkNUVGU5Sm1TZGFOWVpoWUpBcTQxRUlsZmhRQzJTeW5UbEtKNUxKa3FSYTYybW1FY3FsZG11WndmY2VqRGF6OU1sa1ExTFFUa2RJZGlpUDU0R0M1S1VFeXo2WUFYTFE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T18:15:03Z",
+   "level": "notable",
+   "title": {
+    "en": "AI regulation could be nearing dramatic shift, says ‘Godfather of AI’ Yoshua Bengio",
+    "zh": "AI regulation could be nearing dramatic shift, says ‘Godfather of AI’ Yoshua Bengio"
+   },
+   "body": {
+    "en": "Told press that AI regulation may be nearing a major shift — a notable public intervention from the researcher who chairs the International AI Safety Report.",
+    "zh": "对媒体表示AI监管可能即将迎来重大转折——这是这位主持《国际人工智能安全报告》的研究者发表的一次重要公开表态。"
+   },
+   "source": "The News International",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSGNQdzZTYVN5U0VnX2UtanZhdFNaMmhDTDRYdGVEa1JUZW5ZOUhtYkxRNko1TWhXaHdqNV9jRFo5aE5qRnJBYUV5WFVxWDRpR0NaQ0Vic0tCYnVVUFdwNG5vNl9aQndrd3JQamRGODQ2dzAyTVByZHp2SVBHSjZ5Q2pnTC1QUS1ReTZzaExjdEJLNGJqRTVac1FVT2dHMUlFQkMxRXVFYk8zcG9qekZTMXByX1V5cmdFcnRJ0gG7AUFVX3lxTE5IY1B3NlNhU3lTRWdfZS1qdmF0U1oyaENMNFh0ZURrUlRlblk5SG1iTFE2SjVNaFdod2o1X2NEWjloTmpGckFhRXlYVXFYNGlHQ1pDRWJzS0JidVVQV3A0bm82X1pCd2t3clBqZEY4NDZ3MDJNUHJkenZJUEdKNnlDamdMLVBRLVF5NnNoTGN0Qks0YmpFNVpzUVVPZ0cxSUVCQzFFdUViTzNwb2p6RlMxcHJfVXlyZ0VydEk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T18:23:43Z",
+   "level": "major",
+   "title": {
+    "en": "'We're losing control,' AI pioneer Yoshua Bengio tells AFP",
+    "zh": "'We're losing control,' AI pioneer Yoshua Bengio tells AFP"
+   },
+   "body": {
+    "en": "Bengio told AFP \"we're losing control\" of AI, a stark public warning from one of the field's most senior researchers.",
+    "zh": "本吉奥告诉法新社“我们正在失去对AI的控制”，这是该领域最资深研究者之一发出的严厉公开警告。"
+   },
+   "source": "afp.com",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeE9EaGZENDliZFk0VjhCc19DVm5qSUt1VklOTTNGd1FBSDhkd3p5TG5uQ3ZTa2lkN21qazAzVThPcXlHT0pJbnlFT0k4SlN0OGJNVjBqTnBwMTdUX2c3R2s5N3RQRzQ4dktGcDNSUlJtMEJTb0JDMDg0UmpyZHc3QmdEOA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-07",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "AI Pioneer Yoshua Bengio Warns Humanity's Extinction Risk Is Closer Than Ever",
+    "zh": "AI Pioneer Yoshua Bengio Warns Humanity's Extinction Risk Is Closer Than Ever"
+   },
+   "body": {
+    "en": "Bengio warned that the risk of human extinction from AI is closer than ever, reiterating his role as a leading voice on AI safety.",
+    "zh": "本吉奥警告称AI导致人类灭绝的风险比以往任何时候都更近，再次凸显他作为AI安全领域重要发声者的角色。"
+   },
+   "source": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RdDRFUGN4WGZIdXVmMl9qUUZnQi1GY3g4UEpWTnJMUkdoSFZMM0hSMEFoX1hEMGtsZFNuX1U4Y3Nvb08zUFhidDBkd3BUS3BmdDlhbXRkRWx3dHVJSlBQWnVwY0pRUldOVG5SWk5RT0RWY3lFbkE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-14",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Japan, U.S., and Europe's 14 Institutions Collaborate on Domestic Physical AI; Yoshua Bengio Joins as Noetra Moves Toward Commercialization",
+    "zh": "Japan, U.S., and Europe's 14 Institutions Collaborate on Domestic Physical AI; Yoshua Bengio Joins as Noetra Moves Toward Commercialization"
+   },
+   "body": {
+    "en": "Bengio joins Noetra, a physical-AI venture backed by fourteen institutions across Japan, the US and Europe, as it moves toward commercialisation.",
+    "zh": "Bengio 加入 Noetra——一家由日本、美国与欧洲十四家机构支持的实体人工智能公司——该公司正走向商业化。"
+   },
+   "source": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YN0JEZHhFRmFiaHNjeHBnUF9sa2Y2THFCOGJlNk4zMThHUkFFb0JvMTZKazBKM1VsLU83Q2JJbnM0WTBVZ1ZTXzdGQWNTWENKSnZKY21RTWZZYnZ4SXlXLTNuN2hibS1mNjUzU1JVNHY5VVUwSmc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-03",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Yoshua Bengio’s answer to AI you can’t govern is another AI",
+    "zh": "Yoshua Bengio’s answer to AI you can’t govern is another AI"
+   },
+   "body": {
+    "en": "Account of Bengio's LawZero approach: building a non-agentic guardian AI to supervise other AI systems rather than relying on regulation alone.",
+    "zh": "介绍 Bengio 在 LawZero 的思路：造一个不具自主行动能力的“守护型 AI”来监督其他 AI 系统，而不是只靠监管。"
+   },
+   "source": "Digital Journal",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ3RibG43d3kwM1JUOXYyMlpJWnRJSUEwYzRZWmVHdzBnbnlSSjV1eU9iWTFtbWpidl9YUzZ0a0xRZ0gxRUl5NTI5d1FCRGRMaWZXY2lGaG5hQmc3b3RDYVptTDJtQmVvVHdMLTRBcWRmaExBV0hOSC1PNWFrRGZabS1yRXpyMzh5WTV2dmdMQm9ZZmFqNU40X0xOTHllUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-29",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Yoshua Bengio: «The Pope Is Right: The Only Way to Avoid Terrible Consequences Is to Treat the Most Powerful AIs as a Global Public Good»",
+    "zh": "Yoshua Bengio: «The Pope Is Right: The Only Way to Avoid Terrible Consequences Is to Treat the Most Powerful AIs as a Global Public Good»"
+   },
+   "body": {
+    "en": "In a Corriere della Sera interview Bengio backs the Pope's position and argues that the most powerful AI systems should be governed as a global public good.",
+    "zh": "在《晚邮报》的访谈中，Bengio 支持教宗的立场，主张最强大的人工智能系统应当作为全球公共产品来治理。"
+   },
+   "source": "Corriere della Sera",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORHJjRXhXbmdzQUE1cTM3QVFGVVE5NW1GRmFrdXE3dkR0VE1tTzBkMDJ2QmR3U2dSWWNvbkdNXzJzNEhGd2V6ZjFwcEJ6Q3locUhhTlhtMlVsYTRlc2Z1aHBvS29OTWpHSmI1cXJuUDY2dG5VYmlScjZpY3FDRURxdWxQN3VnU2JaMEw3QUxzLWZOT1B4SFJac2NBd29SZHNYZnJBYjZwWlJIaWs30gGyAUFVX3lxTFBoLTkyR0RPOUJ5Y091dEx3Y2Z5YUh5Z2ROckhmMm5ZZnlBRzl4WlM5TVM3ejNHcFd0cnpaZHBtSlZnNG8xOEc0VW1RU00tbDMxMG5QdW5MMDh2c1dTMVM4RkZ4WTZxQ0FvN0FuN1BHM3U2S2Y2bzBjWkY4Rl9PQ0ZEVGxUaEtpNi1KZ2dad2VXZ1k3YVdTMWtQV0VkYXpYUFFOazZ4QzVFN2FzZlN3NUxaTFE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-29",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Yoshua Bengio: «The Pope Is Right: The Only Way to Avoid Terrible Consequences Is to Treat the Most Powerful AIs as a Global Public Good",
+    "zh": "Yoshua Bengio: «The Pope Is Right: The Only Way to Avoid Terrible Consequences Is to Treat the Most Powerful AIs as a Global Public Good"
+   },
+   "body": {
+    "en": "Bengio publicly backed the Pope's call to treat the most powerful AI systems as a global public good, reinforcing his push for international AI governance.",
+    "zh": "本吉奥公开支持教皇关于应将最强大的AI系统视为全球公共产品的呼吁，进一步强调他对国际AI治理的推动。"
+   },
+   "source": "Corriere della Sera",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORHJjRXhXbmdzQUE1cTM3QVFGVVE5NW1GRmFrdXE3dkR0VE1tTzBkMDJ2QmR3U2dSWWNvbkdNXzJzNEhGd2V6ZjFwcEJ6Q3locUhhTlhtMlVsYTRlc2Z1aHBvS29OTWpHSmI1cXJuUDY2dG5VYmlScjZpY3FDRURxdWxQN3VnU2JaMEw3QUxzLWZOT1B4SFJac2NBd29SZHNYZnJBYjZwWlJIaWs3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-01",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Yoshua Bengio — 2026 Testimonial Dinner Award Honouree",
+    "zh": "Yoshua Bengio — 2026 Testimonial Dinner Award Honouree"
+   },
+   "body": {
+    "en": "Bengio is named a 2026 honouree of the Public Policy Forum's Testimonial Dinner Award, Canada's main recognition for contributions to public policy.",
+    "zh": "Bengio 获选加拿大公共政策论坛 2026 年度表彰晚宴奖得主，这是加拿大表彰公共政策贡献的主要荣誉。"
+   },
+   "source": "Public Policy Forum",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaFdiSnBaU01wa0Jmbm9rXzNwemRjQlhzMjc2ckZTSGwtWldzSG9SZmtkTzRwSjQ1Z01Ub21MTEJfU29rRnVIcjRGMjBETG9HNjlxTWJtc1NpUEhiWFpIM0luUFo2LUJoZ3BBbTZlT2tHemtwV19wMlkxVDdpR0J0czRvS0xoaEhUNFE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-02-18",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "AI Summit: Adapting foreign models not enough, build your own, says 'Godfather of AI' Yoshua Bengio",
+    "zh": "AI Summit: Adapting foreign models not enough, build your own, says 'Godfather of AI' Yoshua Bengio"
+   },
+   "body": {
+    "en": "At an AI summit, Bengio argued that merely adapting foreign models is not enough and countries need to build their own, a stance tied to his AI-sovereignty and governance work.",
+    "zh": "Bengio在一次AI峰会上表示，仅仅改造国外模型是不够的，各国应打造自己的模型，这一立场与他在AI主权和治理方面的工作一致。"
+   },
+   "source": "Moneycontrol.com",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMWpUZEx5bUgxRlA2aXZnbkNWdDNZdUhwMjJZVTlCNUUzbzlQT254MUNUczJ0UEVPWE9Qb1NtZG8tMnlCS0R0YldoWTVWY3lteU82SEtiZE5UVjRINXp2RHc1VWhWNWVoNHBIeUYwLUdnZ1dMWVFYZGNkRVpvX1lsaWd3SnNna0FFSjBxLTVHeFZ0bFd4YlRxcUZDcENGcDc3TUw5aFpTUTZSR0syRFR0bXdXdUpEc3JiUUZsX1hiMHJlNzhvS2l0Z3BxSHUxU1ZFa21HZnR1clY4anoxQ01rOTZhVdIB6AFBVV95cUxNWEQ2eDAyTEZfenl4ckFNdE1haHJ5YjlwQjZhaDJ6UWpybEJTNmNfVXFYeG1PbmZnYlVsaW0xMjBlbF9xaVdvVmJrSDRYR1ZET0lNUFVRSzlLMmVSRFdxc1BPRTUwa190VGU3MlVkZ0UxQnE5dXZuZ1N5LV9RWXM5S2ZWcVg0VFZRenZ5X1JXR05EdjZPdHBZWTdNZFEyQVRXMktFY0p5RHF3OXNNRjVPLV9FdEx1RnRFVFpZMUVaQjZLN2JsSEhDbXJyTEk4azd1QjBualhyY3c1SUV5Vk5kNTc1U1VpUzNN?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "research",
+ "score": {
+  "total": 63.8,
+  "attention": 67,
+  "centrality": 30,
+  "momentum": 83,
+  "stature": 98,
+  "pageviews": 276660,
+  "citations": 475043,
+  "hIndex": 184,
+  "events": 27,
+  "posts": 109,
+  "wikiEn": "Yoshua Bengio",
+  "wikiZh": "约书亚·本希奥"
+ },
+ "seedRank": 15,
+ "tier": "t2"
+}

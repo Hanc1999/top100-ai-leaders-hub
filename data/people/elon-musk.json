@@ -1,0 +1,3612 @@
+{
+ "rank": 3,
+ "id": "elon-musk",
+ "name": {
+  "en": "Elon Musk",
+  "zh": "Elon Musk"
+ },
+ "role": {
+  "en": "CEO, SpaceX (incl. xAI / SpaceXAI); CEO, Tesla",
+  "zh": "SpaceX（含 xAI / SpaceXAI）CEO；Tesla CEO"
+ },
+ "org": "SpaceX",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "SpaceX",
+  "xAI",
+  "Grok",
+  "Colossus 2",
+  "Tesla",
+  "SpaceXAI"
+ ],
+ "why": {
+  "en": "Redefined the tempo of the compute arms race with Colossus. After folding xAI into SpaceX he now controls a model–rocket–car–robot stack no one else has, heading into what would be the largest IPO in history.",
+  "zh": "以 Colossus 的建设速度重新定义了算力军备竞赛的节奏。将 xAI 并入 SpaceX 后，他掌握着无人可比的「模型—火箭—车—机器人」闭环，并正走向史上最大规模的 IPO。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@elonmusk",
+   "url": "https://x.com/elonmusk",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "SpaceX",
+   "url": "https://www.spacex.com/",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "xAI News",
+   "url": "https://x.ai/news",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Tesla AI",
+   "url": "https://www.tesla.com/AI",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Elon+Musk",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Elon+Musk",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Elon+Musk",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Elon+Musk&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Elon+Musk&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Elon+Musk",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Elon+Musk&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Elon+Musk",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Elon+Musk&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Elon_Musk",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-01-01",
+   "kind": "x",
+   "title": {
+    "en": "Running commentary on Grok, Colossus and the SpaceXAI merge",
+    "zh": "关于 Grok、Colossus 与 SpaceXAI 合并的持续发言"
+   },
+   "source": "X",
+   "url": "https://x.com/elonmusk",
+   "note": {
+    "en": "His primary and effectively only publishing channel; product and roadmap news usually breaks here first.",
+    "zh": "他的主要且实际上唯一的发布渠道，产品与路线图消息通常先在此出现。"
+   }
+  },
+  {
+   "date": "2026-05-06",
+   "kind": "x",
+   "title": {
+    "en": "xAI dissolves into SpaceX as SpaceXAI",
+    "zh": "xAI 并入 SpaceX，更名 SpaceXAI"
+   },
+   "source": "X",
+   "url": "https://x.com/elonmusk",
+   "note": {
+    "en": "Grok and the other AI products move under SpaceX's corporate structure rather than remaining an independent entity.",
+    "zh": "Grok 与其他 AI 产品转入 SpaceX 的公司架构，不再作为独立实体存在。"
+   }
+  },
+  {
+   "date": "2026-07-28",
+   "kind": "x",
+   "title": {
+    "en": "Grok 4.6 weeks away, 4.7 to follow",
+    "zh": "Grok 4.6 数周内发布，4.7 紧随其后"
+   },
+   "source": "X",
+   "url": "https://x.com/elonmusk",
+   "note": {
+    "en": "4.6 at 1.5T parameters; 4.7 at 2.1T, 'better in every way except slightly slower to serve'.",
+    "zh": "4.6 为 1.5 万亿参数；4.7 为 2.1 万亿，「除服务速度略慢外全面更强」。"
+   }
+  },
+  {
+   "date": "2026-09-20",
+   "ts": "2026-09-20T00:25:43Z",
+   "kind": "x",
+   "title": {
+    "en": "Uranium in Uranus will be our best merch ever. Put it on your mantelpiece and show your guests Uranus!",
+    "zh": "Uranium in Uranus will be our best merch ever. Put it on your mantelpiece and show your guests Uranus!"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2101467808664084903",
+   "note": {
+    "en": "Musk teased a 'Uranium in Uranus' Boring Company merch line in a post that drew over 600,000 views.",
+    "zh": "马斯克预告Boring Company将推出“天王星中的铀”周边商品，该帖子获得超过60万次浏览。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-20",
+   "ts": "2026-09-20T09:18:27Z",
+   "kind": "x",
+   "title": {
+    "en": "This is the future we shall bring into being https://t.co/8aD0w8MDVc",
+    "zh": "This is the future we shall bring into being https://t.co/8aD0w8MDVc"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2101601873115681037",
+   "note": {
+    "en": "Musk posts a video captioned \"This is the future we shall bring into being,\" drawing over 1.1M views and nearly 12,000 likes.",
+    "zh": "马斯克发布一段配文为“这就是我们将带来的未来”的视频，获得超110万次观看和近1.2万点赞。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-19",
+   "ts": "2026-09-19T13:10:31Z",
+   "kind": "x",
+   "title": {
+    "en": "The platform is seeing all-time record usage",
+    "zh": "The platform is seeing all-time record usage"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2101297890022879641",
+   "note": {
+    "en": "Musk said X is seeing all-time record usage on the platform.",
+    "zh": "马斯克表示X平台正迎来历史最高使用量。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T11:25:46Z",
+   "kind": "x",
+   "title": {
+    "en": "Starlink is now often more reliable than cable",
+    "zh": "Starlink is now often more reliable than cable"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2100909140931395881",
+   "note": {
+    "en": "Musk claimed Starlink is now often more reliable than cable internet, a post that drew over a million views on X.",
+    "zh": "马斯克在X上表示Starlink现在往往比有线网络更可靠，该帖获得超百万次浏览。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T13:32:51Z",
+   "kind": "x",
+   "title": {
+    "en": "V2 of the @Starlink direct-to-phone satellite constellation is a giant improvement over V1 with 100 times more bandwidth!",
+    "zh": "V2 of the @Starlink direct-to-phone satellite constellation is a giant improvement over V1 with 100 times more bandwidth!"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2100941122679738705",
+   "note": {
+    "en": "Musk announced Starlink V2 direct-to-phone satellites deliver roughly 100x the bandwidth of V1.",
+    "zh": "马斯克宣布星链V2直连手机卫星的带宽约为V1的100倍。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T18:13:28Z",
+   "kind": "x",
+   "title": {
+    "en": "My guess is that AI roughly doubles US GDP growth next year from ~2% to ~4%. Maybe even more.",
+    "zh": "My guess is that AI roughly doubles US GDP growth next year from ~2% to ~4%. Maybe even more."
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2101011740574052697",
+   "note": {
+    "en": "Musk predicted AI could roughly double US GDP growth next year, from about 2% to 4%.",
+    "zh": "马斯克预测人工智能明年可能让美国GDP增速翻倍，从约2%升至4%。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T04:49:48Z",
+   "kind": "x",
+   "title": {
+    "en": "Starlink V5 terminal is in production",
+    "zh": "Starlink V5 terminal is in production"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2100447103927353423",
+   "note": {
+    "en": "Musk announced that SpaceX's Starlink V5 terminal has entered production, a concrete hardware milestone for the Starlink network.",
+    "zh": "马斯克宣布SpaceX的Starlink V5终端已投入量产，这是Starlink网络的一项具体硬件里程碑。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T14:19:42Z",
+   "kind": "x",
+   "title": {
+    "en": "It’s amazing how damaging a single false premise (the blank slate fallacy) can be for humans. Same holds true for AI.",
+    "zh": "It’s amazing how damaging a single false premise (the blank slate fallacy) can be for humans. Same holds true for AI."
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2100590521831804986",
+   "note": {
+    "en": "Musk argues the 'blank slate fallacy' — denying innate structure — is as costly a mistake for AI systems as it is for humans.",
+    "zh": "马斯克认为，否认先天结构的\"白板谬论\"对AI系统而言，和对人类一样代价高昂。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T21:26:47Z",
+   "kind": "x",
+   "title": {
+    "en": "Grok @Bot now has a voice",
+    "zh": "Grok @Bot now has a voice"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2100698004210475317",
+   "note": {
+    "en": "Musk announced that xAI's Grok chatbot now has a voice feature.",
+    "zh": "马斯克宣布xAI的Grok聊天机器人现已支持语音功能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T18:50:34Z",
+   "kind": "x",
+   "title": {
+    "en": "Starlink V3 constellation starts being deployed this month. Ultimately, it will deliver more than 100 times the bandwidth of our current 11,000 satellite conste",
+    "zh": "Starlink V3 constellation starts being deployed this month. Ultimately, it will deliver more than 100 times the bandwidth of our current 11,000 satellite conste"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2099933912697127398",
+   "note": {
+    "en": "Musk says Starlink V3 satellites are beginning deployment this month, promising over 100x the bandwidth of the current 11,000-satellite constellation.",
+    "zh": "马斯克表示星链V3卫星本月开始部署，带宽将是当前1.1万颗卫星星座的100倍以上。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T18:23:59Z",
+   "kind": "x",
+   "title": {
+    "en": "Next Starship flight on 9/22",
+    "zh": "Next Starship flight on 9/22"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2099927224761881030",
+   "note": {
+    "en": "Musk announced the next Starship test flight for September 22.",
+    "zh": "马斯克宣布下一次星舰试飞定于9月22日。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T20:31:39Z",
+   "kind": "x",
+   "title": {
+    "en": "The solar power exponential will continue until all other energy sources are &lt;&lt;0.1%",
+    "zh": "The solar power exponential will continue until all other energy sources are &lt;&lt;0.1%"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2099959353004720393",
+   "note": {
+    "en": "Musk predicted solar power's exponential growth will push all other energy sources below 0.1% of the mix, a characteristic long-range bet on energy.",
+    "zh": "马斯克预测太阳能的指数级增长将使其他所有能源占比降至0.1%以下，这是他对能源长期趋势的典型判断。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T00:32:41Z",
+   "kind": "x",
+   "title": {
+    "en": "700 Falcon flights completed. Congrats to the SpaceX Falcon team!",
+    "zh": "700 Falcon flights completed. Congrats to the SpaceX Falcon team!"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2099295234471461372",
+   "note": {
+    "en": "Musk marked SpaceX's Falcon rocket family completing its 700th flight, a reliability milestone for the launch vehicle underpinning Starlink.",
+    "zh": "马斯克宣布SpaceX猎鹰系列火箭完成第700次飞行，这是支撑星链业务的运载火箭可靠性的重要里程碑。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T00:19:26Z",
+   "kind": "x",
+   "title": {
+    "en": "Tesla Model 3 achieved 5-star safety rating in all categories!",
+    "zh": "Tesla Model 3 achieved 5-star safety rating in all categories!"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2099291898514907490",
+   "note": {
+    "en": "Musk announced the Tesla Model 3 earned a 5-star safety rating in every category, a product result under his direction at Tesla.",
+    "zh": "马斯克宣布特斯拉Model 3在所有测试项目中均获得五星安全评级，这是他领导特斯拉取得的产品成果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T10:49:55Z",
+   "kind": "x",
+   "title": {
+    "en": "Grok Bot now lets your route through your local machine",
+    "zh": "Grok Bot now lets your route through your local machine"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2099450564698423732",
+   "note": {
+    "en": "Musk announced that Grok Bot now supports routing requests through a user's local machine.",
+    "zh": "马斯克宣布Grok Bot现在支持通过用户本地设备进行路由。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T10:30:37Z",
+   "kind": "x",
+   "title": {
+    "en": "Zurich insurance offers lower insurance premiums if you use Tesla supervised self-driving",
+    "zh": "Zurich insurance offers lower insurance premiums if you use Tesla supervised self-driving"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2099445708277387433",
+   "note": {
+    "en": "Musk noted that Zurich Insurance now offers lower premiums for drivers using Tesla's supervised self-driving.",
+    "zh": "马斯克指出苏黎世保险现为使用特斯拉监督式自动驾驶的车主提供更低保费。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T11:34:44Z",
+   "kind": "x",
+   "title": {
+    "en": "A welfare state and free immigration will obviously bankrupt any country. AI + robotics is the only path to universal high income for everyone on Earth.",
+    "zh": "A welfare state and free immigration will obviously bankrupt any country. AI + robotics is the only path to universal high income for everyone on Earth."
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2099461843269906606",
+   "note": {
+    "en": "Musk argued that AI and robotics, not welfare and immigration, are the real path to universal high income — a policy stance tying his AI/robotics bet to economic ideology.",
+    "zh": "马斯克主张AI与机器人技术才是实现全民高收入的真正途径，而非福利与移民政策，将其AI/机器人布局与经济理念相绑定。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T11:08:46Z",
+   "kind": "x",
+   "title": {
+    "en": "People keep misunderstanding this. I CONTRIBUTED to Bostrom’s Superintelligence book and he thanks me by name in the foreword. I was thinking about AI safety lo",
+    "zh": "People keep misunderstanding this. I CONTRIBUTED to Bostrom’s Superintelligence book and he thanks me by name in the foreword. I was thinking about AI safety lo"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2099455308284219727",
+   "note": {
+    "en": "Musk pushed back on critics, saying he contributed to Bostrom's Superintelligence and was thanked in its foreword, asserting he was engaged with AI safety before 2014.",
+    "zh": "马斯克回应质疑，称自己曾为博斯特罗姆的《超级智能》一书做出贡献并在书的前言中被致谢，表明他早在2014年之前就已关注AI安全问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T14:18:56Z",
+   "kind": "x",
+   "title": {
+    "en": "AI data centers resulting in lower electricity prices for consumers",
+    "zh": "AI data centers resulting in lower electricity prices for consumers"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2099503167079674202",
+   "note": {
+    "en": "Musk argued that AI data centers are driving down electricity prices for consumers, in a post that drew over 750K views.",
+    "zh": "马斯克发文称AI数据中心正在拉低消费者电价，该帖子浏览量超过75万。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T00:42:11Z",
+   "kind": "x",
+   "title": {
+    "en": "I’ve been sounding the alarm on AI for a long time",
+    "zh": "I’ve been sounding the alarm on AI for a long time"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2098935235446551022",
+   "note": {
+    "en": "Musk reiterated his long-standing warnings about the risks of AI.",
+    "zh": "马斯克重申了他长期以来对AI风险的警示。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T00:31:04Z",
+   "kind": "x",
+   "title": {
+    "en": "New Tesla Roadster Unveil 10.01",
+    "zh": "New Tesla Roadster Unveil 10.01"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2098932438055469451",
+   "note": {
+    "en": "Musk announced that the new Tesla Roadster would be unveiled on October 1.",
+    "zh": "马斯克宣布新款特斯拉Roadster将于10月1日发布。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T16:24:21Z",
+   "kind": "x",
+   "title": {
+    "en": "Grok available in Microsoft Copilot",
+    "zh": "Grok available in Microsoft Copilot"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2098809953439904220",
+   "note": {
+    "en": "Musk announced that Grok is now available in Microsoft Copilot, a cross-platform distribution deal for xAI's model.",
+    "zh": "马斯克宣布Grok现已登陆微软Copilot，这是xAI模型的一项跨平台分发合作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T01:09:06Z",
+   "kind": "x",
+   "title": {
+    "en": "Grok @Bot summary of SpaceX CFO talk",
+    "zh": "Grok @Bot summary of SpaceX CFO talk"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2098217236771295567",
+   "note": {
+    "en": "Musk shared a Grok-generated summary of a SpaceX CFO talk, showcasing the assistant's use for parsing internal financial briefings.",
+    "zh": "马斯克分享了Grok对SpaceX首席财务官讲话的摘要，展示了该助手用于解读公司内部财务简报的能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T17:13:53Z",
+   "kind": "x",
+   "title": {
+    "en": "Technology is the most important advantage in war",
+    "zh": "Technology is the most important advantage in war"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2098460032014639334",
+   "note": {
+    "en": "Musk argues technology is the decisive advantage in modern warfare, a stance relevant to SpaceX/xAI's growing defense-tech ambitions.",
+    "zh": "马斯克认为科技是现代战争中最重要的优势，这一立场与SpaceX/xAI日益扩大的国防科技布局相关。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T17:05:47Z",
+   "kind": "x",
+   "title": {
+    "en": "True, solar energy over time will round up to 100% of energy harnessed (obviously)",
+    "zh": "True, solar energy over time will round up to 100% of energy harnessed (obviously)"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2098457990407880886",
+   "note": {
+    "en": "Musk restates his long-standing view that solar will eventually account for essentially all harnessed energy, a core thesis behind Tesla's energy business.",
+    "zh": "马斯克重申其一贯观点：从长期看，太阳能终将占据几乎全部被利用的能源，这也是特斯拉能源业务的核心论断。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T02:58:00Z",
+   "kind": "x",
+   "title": {
+    "en": "Tesla virtual powerplant grid stabilization system",
+    "zh": "Tesla virtual powerplant grid stabilization system"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2097882250977382576",
+   "note": {
+    "en": "Musk previewed Tesla's virtual power plant system for stabilizing the electrical grid, tying Tesla's vehicle and storage fleet into grid-support infrastructure.",
+    "zh": "马斯克预告了特斯拉用于稳定电网的虚拟电厂系统，将特斯拉的车辆与储能设备接入电网支持体系。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T14:01:29Z",
+   "kind": "x",
+   "title": {
+    "en": "AI+robots will more than double the global economy in less than 10 years",
+    "zh": "AI+robots will more than double the global economy in less than 10 years"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2097686835338375265",
+   "note": {
+    "en": "Musk claims AI and robots will more than double the global economy within a decade, tying his compute buildout to a sweeping economic forecast.",
+    "zh": "马斯克声称AI和机器人将在不到十年内让全球经济翻倍以上，将其算力扩张与这一宏大经济预测联系起来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T18:27:01Z",
+   "kind": "x",
+   "title": {
+    "en": "If you want to reach the smartest people in the world, advertise on 𝕏",
+    "zh": "If you want to reach the smartest people in the world, advertise on 𝕏"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2097753657714573749",
+   "note": {
+    "en": "Musk pitched X as the best channel to reach the world's smartest people, in a post that drew over a million views.",
+    "zh": "马斯克发文称X是接触全球最聪明人群的最佳渠道，该帖获得超百万次浏览。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T19:02:52Z",
+   "kind": "x",
+   "title": {
+    "en": "𝕏 is the number 1 source for news on Earth! More monthly readership than the circulation of all newspapers combined.",
+    "zh": "𝕏 is the number 1 source for news on Earth! More monthly readership than the circulation of all newspapers combined."
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2097400295525638383",
+   "note": {
+    "en": "Musk claimed X now draws more monthly readership than the combined circulation of all newspapers.",
+    "zh": "马斯克声称X平台的月阅读量已超过全球所有报纸发行量的总和。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T19:07:04Z",
+   "kind": "x",
+   "title": {
+    "en": "If you notice anything concerning about 𝕏, please lmk directly in replies",
+    "zh": "If you notice anything concerning about 𝕏, please lmk directly in replies"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2097401351441633585",
+   "note": {
+    "en": "Musk asked users to flag anything concerning about X directly in the replies, drawing over 2,500 responses.",
+    "zh": "马斯克请用户直接在回复中反映X平台上任何令人担忧的问题，引发逾2500条回复。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T21:17:16Z",
+   "kind": "x",
+   "title": {
+    "en": "𝕏 is the global town square",
+    "zh": "𝕏 is the global town square"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2097434117419958693",
+   "note": {
+    "en": "Musk called X 'the global town square,' his recurring framing for the platform's role.",
+    "zh": "马斯克称X是“全球公共广场”，这是他对该平台定位的一贯说法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T21:16:38Z",
+   "kind": "x",
+   "title": {
+    "en": "We redesigned Cybercab production for production over 5 times faster than conventional automotive manufacturing!",
+    "zh": "We redesigned Cybercab production for production over 5 times faster than conventional automotive manufacturing!"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2097433956627210505",
+   "note": {
+    "en": "Musk said Tesla redesigned Cybercab production to run over five times faster than conventional auto manufacturing.",
+    "zh": "马斯克表示特斯拉重新设计了Cybercab的生产流程，速度是传统汽车制造的5倍以上。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "FSD Supervised approved in Slovenia 🇸🇮",
+    "zh": "FSD Supervised approved in Slovenia 🇸🇮"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2097066172780831194",
+   "note": {
+    "en": "Musk announced Tesla's FSD Supervised has been approved for use in Slovenia, extending the rollout to another European market.",
+    "zh": "马斯克宣布特斯拉FSD Supervised已获准在斯洛文尼亚使用，将其推广至又一个欧洲市场。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Tesla Superchargers are built in New York State",
+    "zh": "Tesla Superchargers are built in New York State"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2097100094638100572",
+   "note": {
+    "en": "Musk noted Tesla Superchargers are now being built in New York State.",
+    "zh": "马斯克指出特斯拉超级充电桩现已在纽约州生产建造。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "If you’re bored and want to find something to be upset about, this app will take care of that need!",
+    "zh": "If you’re bored and want to find something to be upset about, this app will take care of that need!"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2096505360232395188",
+   "note": {
+    "en": "Musk mocked an app built purely to feed users things to be upset about, a jab that drew heavy engagement on X.",
+    "zh": "马斯克调侃了一款专门制造焦虑话题的应用，这条吐槽在X上获得了大量互动。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "They never do, because the legacy media IS far left! That is why they view normalcy as the far right.",
+    "zh": "They never do, because the legacy media IS far left! That is why they view normalcy as the far right."
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2096740506231259145",
+   "note": {
+    "en": "Musk argued legacy media is uniformly left-leaning and therefore misreads ordinary conservative views as far-right, a characteristic political stance from him.",
+    "zh": "马斯克声称传统媒体一律偏左，因此将普通保守派观点误判为极右翼，这是他一贯的政治立场表达。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Humanity is dying out",
+    "zh": "Humanity is dying out"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2096288211962056736",
+   "note": {
+    "en": "Musk declared 'humanity is dying out,' repeating his long-running warning about global population collapse.",
+    "zh": "马斯克表示'人类正在消亡'，重申了他一贯以来对全球人口崩溃的警告。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Grok @Bot usage limits reset",
+    "zh": "Grok @Bot usage limits reset"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2096332306847875580",
+   "note": {
+    "en": "Announced that usage limits for the Grok bot have been reset.",
+    "zh": "宣布Grok机器人的使用限额已重置。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-05",
+   "ts": "2026-09-05T15:17:04Z",
+   "kind": "x",
+   "title": {
+    "en": "Over 600 autonomous rocket landings so far",
+    "zh": "Over 600 autonomous rocket landings so far"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2096256303895081204",
+   "note": {
+    "en": "Musk says SpaceX has now completed over 600 autonomous booster landings, underscoring the reusability record behind Falcon/Starship operations.",
+    "zh": "马斯克表示SpaceX的猎鹰/星舰系列火箭已完成超过600次自主回收着陆，凸显其可重复使用技术的成熟度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-05",
+   "ts": "2026-09-05T02:14:36Z",
+   "kind": "x",
+   "title": {
+    "en": "The factory system that makes Cybercab is unlike any other automotive production line",
+    "zh": "The factory system that makes Cybercab is unlike any other automotive production line"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2096059393376678391",
+   "note": {
+    "en": "Musk highlights Tesla's Cybercab production line as unlike any conventional automotive factory, part of his push toward fully automated manufacturing.",
+    "zh": "马斯克强调特斯拉Cybercab的生产线与传统汽车工厂完全不同，体现其全自动化制造的推进方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Grok @Bot available for iPad",
+    "zh": "Grok @Bot available for iPad"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2096001766324064371",
+   "note": {
+    "en": "Musk announced Grok's @Bot assistant is now available on iPad, extending the tool beyond desktop and phone.",
+    "zh": "马斯克宣布Grok的@Bot助手现已支持iPad，将该工具的覆盖范围从桌面和手机进一步扩展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Grok @Bot templates. Try Haggle Bot for saving money on procurement! This is a gamechanger.",
+    "zh": "Grok @Bot templates. Try Haggle Bot for saving money on procurement! This is a gamechanger."
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2095988111222227130",
+   "note": {
+    "en": "Musk highlighted new Grok Bot templates, including a 'Haggle Bot' for procurement negotiation, calling the feature a major step for the product.",
+    "zh": "马斯克重点介绍了Grok Bot的新模板功能，包括用于采购议价的“Haggle Bot”，称这一功能是重大进展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-04",
+   "ts": "2026-09-04T14:30:39Z",
+   "kind": "x",
+   "title": {
+    "en": "We’ve come a long way. Tesla IPO value was a thousandth of its current value!",
+    "zh": "We’ve come a long way. Tesla IPO value was a thousandth of its current value!"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2095882235027014076",
+   "note": {
+    "en": "Musk marks Tesla's growth since its IPO, saying the company's current value is roughly a thousand times its IPO value.",
+    "zh": "马斯克感叹特斯拉自上市以来的成长,称公司目前市值约为IPO时的一千倍。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-04",
+   "ts": "2026-09-04T03:48:25Z",
+   "kind": "x",
+   "title": {
+    "en": "The Cybercab motor uses no rare earth metals, but maintains the same range! This was extremely hard to achieve.",
+    "zh": "The Cybercab motor uses no rare earth metals, but maintains the same range! This was extremely hard to achieve."
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2095720611695759704",
+   "note": {
+    "en": "Musk says the Cybercab's motor uses no rare-earth metals while keeping the same driving range, calling it a hard engineering problem to solve.",
+    "zh": "马斯克表示Cybercab的电机不使用稀土金属,同时保持相同续航里程,称这是一个很难解决的工程难题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-04",
+   "ts": "2026-09-04T03:44:21Z",
+   "kind": "x",
+   "title": {
+    "en": "Having electric brakes avoids the complexity of a hydraulic system: no need to rout plumbing all around the car",
+    "zh": "Having electric brakes avoids the complexity of a hydraulic system: no need to rout plumbing all around the car"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2095719587929039200",
+   "note": {
+    "en": "Musk explains Cybercab uses electric brakes to avoid the complexity of routing a hydraulic brake system through the car.",
+    "zh": "马斯克解释Cybercab采用电子刹车,以避免在车内布设液压刹车管路的复杂性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-04",
+   "ts": "2026-09-04T00:24:16Z",
+   "kind": "x",
+   "title": {
+    "en": "Starlink will allow you to watch 4k live video while riding in Cybercab",
+    "zh": "Starlink will allow you to watch 4k live video while riding in Cybercab"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2095669235993252297",
+   "note": {
+    "en": "Musk says Starlink connectivity will let Cybercab riders stream 4K live video during rides.",
+    "zh": "马斯克表示Starlink网络将让Cybercab乘客在乘车途中观看4K实时视频。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-04",
+   "ts": "2026-09-04T00:20:11Z",
+   "kind": "x",
+   "title": {
+    "en": "Grok @Bot Enterprise is now available",
+    "zh": "Grok @Bot Enterprise is now available"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2095668208090959941",
+   "note": {
+    "en": "Musk announces Grok Enterprise bot is now generally available.",
+    "zh": "马斯克宣布Grok企业版机器人现已全面上线。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-04",
+   "ts": "2026-09-04T23:34:50Z",
+   "kind": "x",
+   "title": {
+    "en": "Lithium made in America",
+    "zh": "Lithium made in America"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2096019186510094759",
+   "note": {
+    "en": "Musk touts domestic US lithium production, tying into Tesla's battery supply chain strategy; his highest-engagement post in this batch.",
+    "zh": "马斯克宣传美国本土锂生产，与特斯拉电池供应链战略相关，是本批中互动量最高的一条。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-04",
+   "ts": "2026-09-04T23:30:36Z",
+   "kind": "x",
+   "title": {
+    "en": "The future of transport",
+    "zh": "The future of transport"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2096018119433015594",
+   "note": {
+    "en": "Musk frames his vehicle and robotics lineup as \"the future of transport,\" a post that drew unusually high reach even by his standards.",
+    "zh": "马斯克将其车辆与机器人产品线称为“交通的未来”，该推文获得了远超其平常水平的曝光量。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-04",
+   "ts": "2026-09-04T23:20:18Z",
+   "kind": "x",
+   "title": {
+    "en": "Grok Imagine Odyssey Contest",
+    "zh": "Grok Imagine Odyssey Contest"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2096015527088902365",
+   "note": {
+    "en": "Musk announces the Grok Imagine Odyssey Contest, a competition tied to xAI's Grok Imagine generative image/video tool.",
+    "zh": "马斯克宣布Grok Imagine Odyssey竞赛，与xAI旗下生成式图像/视频工具Grok Imagine相关的活动。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-07-23",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "An interview with Elon Musk",
+    "zh": "An interview with Elon Musk"
+   },
+   "source": "Economist Podcasts",
+   "url": "https://podcasts.apple.com/us/podcast/an-interview-with-elon-musk/id151230264?i=1000778879518&uo=4",
+   "note": {
+    "en": "His first extended interview since SpaceX's IPO, with The Economist's editor-in-chief Zanny Minton Beddoes, covering the combined rocket, model, car and robot business he now runs.",
+    "zh": "SpaceX 上市后他的首次长篇专访，与《经济学人》总编辑 Zanny Minton Beddoes 对谈，谈及他如今统管的火箭、模型、汽车与机器人业务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-02-05",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Elon Musk — \"In 36 months, the cheapest place to put AI will be space”",
+    "zh": "Elon Musk — \"In 36 months, the cheapest place to put AI will be space”"
+   },
+   "source": "Dwarkesh Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/elon-musk-in-36-months-the-cheapest-place-to-put-ai/id1516093381?i=1000748400389&uo=4",
+   "note": {
+    "en": "Long-form Dwarkesh interview making his case for orbital data centres, the limits of scaling power on Earth, and what mass-manufacturing humanoid robots would take.",
+    "zh": "Dwarkesh 长篇访谈，他在其中论证轨道数据中心的可行性、地球上电力扩张的极限，以及量产人形机器人需要什么条件。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-10-31",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#2404 - Elon Musk",
+    "zh": "#2404 - Elon Musk"
+   },
+   "source": "The Joe Rogan Experience",
+   "url": "https://podcasts.apple.com/us/podcast/2404-elon-musk/id360084272?i=1000734471135&uo=4",
+   "note": {
+    "en": "Joe Rogan interview ranging across Tesla, SpaceX, Neuralink and his views on where AI is heading.",
+    "zh": "Joe Rogan 访谈，内容涵盖特斯拉、SpaceX、Neuralink 以及他对人工智能走向的看法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-08-14",
+   "level": "major",
+   "title": {
+    "en": "SpaceX closes $60B all-stock acquisition of Cursor maker Anysphere",
+    "zh": "SpaceX 完成 600 亿美元全股票收购 Cursor 母公司 Anysphere"
+   },
+   "body": {
+    "en": "Largest venture-backed startup acquisition on record; ~391M SpaceX Class A shares issued. Cursor becomes a wholly owned subsidiary of the newly rebranded SpaceXAI division, with access to Colossus.",
+    "zh": "史上最大的风险投资支持创业公司收购案；发行约 3.91 亿股 SpaceX A 类股。Cursor 成为新更名的 SpaceXAI 部门下的全资子公司，并获得 Colossus 算力。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/technology/ai/articles/spacex-completes-record-60-billion-131311785.html"
+  },
+  {
+   "date": "2026-02-03",
+   "level": "major",
+   "title": {
+    "en": "SpaceX combines with xAI at a $1.25T valuation",
+    "zh": "SpaceX 与 xAI 合并，估值 1.25 万亿美元"
+   },
+   "body": {
+    "en": "The biggest merger of all time by value, consolidating rockets, Starlink, X and Grok ahead of a mega-IPO reportedly targeting up to $1.5T.",
+    "zh": "按金额计为史上最大并购，将火箭、Starlink、X 与 Grok 整合于一体，为据报目标最高 1.5 万亿美元的 IPO 铺路。"
+   },
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/02/03/musk-xai-spacex-biggest-merger-ever.html"
+  },
+  {
+   "date": "2026-07-08",
+   "level": "notable",
+   "title": {
+    "en": "Grok 4.5 ships; Colossus 2 fully operational training Grok 5",
+    "zh": "Grok 4.5 发布；Colossus 2 满负荷训练 Grok 5"
+   },
+   "body": {
+    "en": "Colossus 2 is a 1-gigawatt supercluster in Memphis. Grok 5 targets multi-trillion parameter scale; timing has slipped past the original Q1 2026 window.",
+    "zh": "Colossus 2 是位于孟菲斯的 1 吉瓦超算集群。Grok 5 目标为万亿级参数规模，时间表已错过最初的 2026 Q1 窗口。"
+   },
+   "source": "xAI",
+   "url": "https://x.ai/news"
+  },
+  {
+   "date": "2026-09-20",
+   "ts": "2026-09-20T02:19:00Z",
+   "level": "notable",
+   "title": {
+    "en": "After agreeing with Anthropic CEO Dario Amodei on slowing pace of AI, Sam Altman and Elon Musk teased nex",
+    "zh": "After agreeing with Anthropic CEO Dario Amodei on slowing pace of AI, Sam Altman and Elon Musk teased nex"
+   },
+   "body": {
+    "en": "Report says Musk found common ground with Amodei on slowing the pace of AI development, and teased a follow-up with Altman.",
+    "zh": "报道称马斯克与阿莫迪就放缓人工智能发展步伐达成共识，并与奥特曼一同暗示将有后续动作。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNV3ZiUXREYVRKNnBpa0JVaEZCay1laGRwbWd2TFJYaW83dDlDdTN3SnF0amhJZ0xJejBHeUx3TkU1SGs5S19acDdmbkhJelZnWUFaQzJxa29pdlI1bk4xM05lbTdDcGZQU3ZUY0ZsSk1Id3lSNXB0N0VDUjQwZUYzejY4b0Vta1BRd3RFSzRwZ2R3aUw1ZjBBVjYtZVdiNkFaRU1FZXlxSTJWTDY0cFBwdWdNSTUxNzlPeVk3ODU5d3lvNUZYT3J0aEdYQmg3QXFXZmt5ZUZpdVFOVU1xYVNYNVdMWEpMZTdrUEI0bmhKaHg4QkQ5OHVIZU9fM0FickktYll5OGYyWUl3RnRLaGFSQXRmYXZUZW9xUHREcXFlYkVycVhxRlNBcFpCemhXZXFHd3duaXNTRzcxUdIBvwJBVV95cUxNUjRMME11dUxDUWpwZjFLTkJ0UGNDanB4MzlCY25vbzRlSC1Hd1BWNjJqYjc1a3pUTGljN0g2YVZqU1BHcTgta19yUWdjQWxaeE9vTHloM0gxbS1lZFZTb0JkZkZUbzNUVUt1a1BHQnNXeUNwT2RyaERjV0RQNjUtYkIwd1FuTm9VUmYwd0s0RTBvdHJodHRTVnpvSHhrRnNFZVM5T0tTYnV5UkhuNTZib19EVWhlQmtfNUgtd0UyQkxPQXhFTXRBQy1QV0ZyNURjLVdJQXR0aGZYS2ZDZXhjb1Naa2daV2paS0J6eXM1VHJrYnE1NE1aSTh0bzJYZTJnOU5XTHlKWFpJRkNHSkpJODZtaldyQ3ViMlYxNlNkMGp5QmNWX2RIbXdsTnpoTHQ4UUxaSTlTai1lYno2amQw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-20",
+   "ts": "2026-09-20T02:30:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Says SPCX's Starship Could Deliver Up to 10 Million Tons to Orbit Every Year",
+    "zh": "Elon Musk Says SPCX's Starship Could Deliver Up to 10 Million Tons to Orbit Every Year"
+   },
+   "body": {
+    "en": "Musk claimed Starship could eventually deliver up to 10 million tons to orbit annually, a bold capacity target for SpaceX's launch roadmap.",
+    "zh": "马斯克声称星舰未来每年可向轨道运送多达1000万吨物资，这是SpaceX发射运力路线图上的一个大胆目标。"
+   },
+   "source": "Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORnROZHN6cjh6NWZuZks5UG1NUXg2ckdOdS1PeDFEV1p2TEpLdkJJVnRpeHBicU1sLWRXMmpKcFFsM1lrLUI5QjJ1eFZoS0pFQVlELUNKZFlxYi1MXzVaaFc4eTgtRmdiNGE1UEgxRC1HVmlud3VzZkFCYUhDeEh2eTNkaGRzYnQ1RGJFQg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-19",
+   "ts": "2026-09-19T01:52:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk, Sam Altman among AI giants invited to Trump-Xi state dinner",
+    "zh": "Elon Musk, Sam Altman among AI giants invited to Trump-Xi state dinner"
+   },
+   "body": {
+    "en": "Musk was invited alongside Sam Altman and other AI leaders to a White House state dinner honoring Xi Jinping, underscoring his standing among the AI figures Washington treats as diplomatically significant.",
+    "zh": "马斯克与奥尔特曼等AI领军人物一同受邀出席白宫为习近平举行的国宴，显示他在美国政府眼中作为AI界重要人物的地位。"
+   },
+   "source": "USA Today",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHo2MUVkeXg1WXR5dE9FUFZ5akgzTEpCUGYwOHVtcE1aaGJXcUNrRENFMlE5X0h1eW5PZ0ZBTWk2ZV9maWtuVVp1RldFdTlLRVB1eHFzYWFKVVVDLW0tVC03Z1BIeXVYN2R4NVEyNGJLNE1pdWQ2dC1DMzF4dTJHaVBmMUdKd1hYTjVaTkNnSllDU0VPWlFGRHN3dFNvelFFbGVnemR5aU5fQ2stdnU0dHBBYnk0M1FPbVdDZDBWeTE1NGtIUGdSWlp0aFphMzM3RGlKNw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-19",
+   "ts": "2026-09-19T11:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk's Terafab hits a roadblock before making a single chip, receives cease-and-desist order — firm files trademark lawsuit, has sold Tera-Fab-branded lithography tools for over a decade",
+    "zh": "Elon Musk's Terafab hits a roadblock before making a single chip, receives cease-and-desist order — firm files trademark lawsuit, has sold Tera-Fab-branded lithography tools for over a decade"
+   },
+   "body": {
+    "en": "Musk's Terafab chip venture was hit with a cease-and-desist and trademark lawsuit from an established lithography-tools maker that has used the Tera-Fab brand for over a decade, a legal setback for his semiconductor ambitions.",
+    "zh": "马斯克的Terafab芯片项目收到停止侵权函，并被一家使用Tera-Fab品牌逾十年的光刻工具厂商提起商标诉讼，其半导体野心因此遭遇法律挫折。"
+   },
+   "source": "Tom's Hardware",
+   "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQbFRxWXEtR1EwRkpoODY4dGM5Y1I0LTNTNVUwN2hLN19lSmlHcU52bmRaRl9sZ1NGQ2o0QjlTaTdvcnducEdHSnVjaHZQSFZsZWswMlFUb08xT1J1bTM5MmU1WWdpSHlKRzRHc25YRGZlX2k2dUFzNnZQZ0R5c3V0U0k0QkMzWVlLQk1Jb0dnNmdNOTRQT3lUQ2pfVDkwYjBYZXFBTG1OWlgySk03RUFodjZNMTU1VlVSdkhiSEwwejlVeGVJNkd1TkhoeTNKWVZZMjJnZmh6TS1tZDd4NnFhT0w0akhWcXhsQUVaX0x3SnVxLVFwTF9rdHp0OFNOc1k0b09jdXplLWg1d21PT2Y4b0tpMm5wVmJ0aEY0ajU4ZWMyMmFPLUJQcW95M3M1LUlFU3Bwb3hpOU5PamQ2blI3eGJ1Y0NmdExPYUNxdVZEMUlUQzNCUnhVUE04LTU0RTNHNHc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-19",
+   "ts": "2026-09-19T11:55:32Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk's Neuralink Brain Implant Helps Speech-Impaired Man Speak First Words",
+    "zh": "Elon Musk's Neuralink Brain Implant Helps Speech-Impaired Man Speak First Words"
+   },
+   "body": {
+    "en": "Musk's Neuralink said its brain-computer interface let a speech-impaired patient speak his first words again, a concrete clinical milestone for the implant.",
+    "zh": "马斯克旗下Neuralink宣布其脑机接口帮助一名言语障碍患者重新说出人生中的第一句话，是该植入设备的一项具体临床里程碑。"
+   },
+   "source": "NDTV",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT3ppckQyOHVrUTZUUExLWXdJMWZjQUEtN2xJcjU2WENncGd4a0FmUXV5M3NYZUdCYVJOTmhQMjAtSC1HQVM3eFFmMmQyTFVXc2NRT1N2ZE9oUlQ5dVZYbEQ2NmRmMkdYaEh6dktKM0M5OWgyZFE3UXQxbVdkUG45M19CbXVLcVdqWnhJc3JfYnkzZm1oWWh3ZFJTYUU5cmFkUWRLSUV1MzdjZEdsRFJHMHV0bmZQQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-19",
+   "ts": "2026-09-19T20:30:31Z",
+   "level": "notable",
+   "title": {
+    "en": "Tesla Killed Its Solar Roof. Now Elon Musk Wants 100 GW of Solar",
+    "zh": "Tesla Killed Its Solar Roof. Now Elon Musk Wants 100 GW of Solar"
+   },
+   "body": {
+    "en": "Tesla discontinued its Solar Roof product and Musk announced a new target of 100 GW of solar deployment, a strategic pivot in Tesla's energy business.",
+    "zh": "特斯拉停产了Solar Roof太阳能屋顶产品，马斯克宣布了100吉瓦太阳能部署的新目标，这是特斯拉能源业务的一次战略转向。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSE5pN0Q5S3RZR2tJaF9RQ0gyVktzSkhZX0ltQklRVHNOOTdNYkt0N0owYTlQeUdaaHRBZENFekNJNW9FQU4za1MtSG5zQ0dzT09PTlFPRDB3YnZVY21IdGprX05RdnRabEtGZktpblZsSjFDUzByOXJwTXlSMThodUNrRmJUNEhDMTMxaQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-19",
+   "ts": "2026-09-19T21:30:24Z",
+   "level": "major",
+   "title": {
+    "en": "SpaceX-Tesla Merger: Ron Baron Told Elon Musk 'Whatever You Decide... Is What I'm Going to Support'",
+    "zh": "SpaceX-Tesla Merger: Ron Baron Told Elon Musk 'Whatever You Decide... Is What I'm Going to Support'"
+   },
+   "body": {
+    "en": "Major shareholder Ron Baron said he will back whatever Musk decides on a proposed SpaceX-Tesla merger, signalling the merger process is actively moving forward.",
+    "zh": "大股东罗恩·巴伦表示无论马斯克如何决定，他都将支持有关SpaceX与特斯拉合并的方案，显示合并进程正在实质推进。"
+   },
+   "source": "finance.yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLTRpdVNoclNWelY2cXRIV1dXanJyakpWQ2hxYjRTcVc0aGdkVUI0bnkxTlBfZjRnUGJLT2NDaHJRZV96NmRaLXgzRWFTWmpOY21rMl9JTm9raVVrRmlKMjZaUGlSRDNtQ2ljQ1VUa3JnZjF1WlZLYU9aUE1kWWI3eWJ2M1NXck1ObDB6Y09seU9ONGVlbkZySEtB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T01:22:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk's Memphis data centers sued for $30 million for worker death",
+    "zh": "Elon Musk's Memphis data centers sued for $30 million for worker death"
+   },
+   "body": {
+    "en": "Musk's Memphis data centers, home to xAI's Colossus supercomputer, face a $30 million lawsuit over a worker's death.",
+    "zh": "马斯克位于孟菲斯、承载xAI Colossus超算的数据中心，因一名工人死亡遭遇3000万美元诉讼。"
+   },
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcHZLWGRBWnZNQlRKSU0zNnZkNk5mV1EzU2dXTTVPOTFxN2R1NzhfNUVUZGsxbW85b3ExdTdoQ2hheWpXalJ1QnZNci1ZUjZoZ2IxdHV3YmdtZ3B3NUgySVpjbEpJYVRvUnRjOGlrMUw2a004YXctWU9jZkpVMU1QUlE5RFRIalllQU5Rc1V3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T04:31:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk to Sam Altman and Dario Amodei: Stop complaining about Chinese models 'stealing', make China ag",
+    "zh": "Elon Musk to Sam Altman and Dario Amodei: Stop complaining about Chinese models 'stealing', make China ag"
+   },
+   "body": {
+    "en": "Musk publicly told Altman and Amodei to stop accusing Chinese models of 'stealing' and instead push China toward agreement, staking out a contrarian stance on the US-China AI rivalry.",
+    "zh": "马斯克公开喊话奥特曼和阿莫代伊，要求他们停止指责中国模型\"抄袭\"，转而推动中方达成共识，在中美AI竞争问题上表明了与众不同的立场。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNM3d4bHppZFlGQm9XMEZYejBkSGhXQ0VKdUhxZDQzNDlYWTcwYnZxYXZwRnVhQ01fOVNiVFFmR1AtY2VnX3liWW0tOTNzUEFBaThab3dGMzJPd205cUZ4b05TNFFydkNUdGhXcVhZRVBIdzNMTlZ0b1pYeUNnSUlEbWFXNDRla3pzSGVrSy13d0FXal9DSHN2bEZwX1pXYXAxMUFEdU9fZGh2amhWR3FhTlFZYWhKUFNhM2pTM0t4TTJZTTY0MDVKSEg2eTM2bk0wR0RPYmNpcEktWl84eEplUUlrNVYwYUFpdnN3YXd4aHBQNGhkLUthVEl4dEdCeVZVRVVtTzdEN3dlMGl5Wndfc1I0enFfYjZQZmhZ0gGgAkFVX3lxTFB4Z2dGb2g5bHRVQV9aM1Nfc01hQ2Q4MmMwYXFLRFZsc2ptbkRkLUJtdzNkNHdzSS1KeVJycTJpVGlRQ184blpyaG5WbWV5QjVPT3BWcFpuTHU1ZkNKalNlSUNGdzFXRDZlUG5sSW94SHFuWXptMVNsM2pkVmdZSlN5b1RMR1NWT24yTjBhRmRweXZJZWdrNDFJR3h2LXdXT0c3X1VJMnBTUTB6cXFIa245cXlBbXNHSmJCRzBoRkFGUzZwYlBqaWV4QWhySUNJVlYwSFBJbW55bi0xNjZrcjN6VzFSQ2xyVU1ES3lKRG9Qd2ctWmhMazlzcTVlX0VwaWVNbEt2OC1EcU9TSDd4b1BUQjF0MEdnY2NtN2tfdmdWeQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T16:19:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s data center sued for $30 million by family of worker killed at site",
+    "zh": "Elon Musk’s data center sued for $30 million by family of worker killed at site"
+   },
+   "body": {
+    "en": "The family of a worker killed at one of Musk's data center sites is suing for $30 million, a wrongful-death claim tied to his infrastructure buildout.",
+    "zh": "一名在马斯克旗下数据中心工地身亡的工人家属提起3000万美元诉讼，索赔涉及其基础设施建设项目中的一起死亡事故。"
+   },
+   "source": "The Independent",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQTZNLTZnS2Q1ekhoVWNJVmhBZTFMX0tKUGpfMjNqNE9nenRTdzhpSzNCTmluZTFaVTNfSmR5MlN4VE95TktpVjlEY3lhZS0waEFiSmpCbUljaldNUGFrTXA1MHpMSF9UYlhrMUpmM1RReHJpNUNTWGVnc1NGRjJXLWZ1RTQ5TUs3ZXBFZkw3eUdobS1ycldYazhzeWw1cUVJNlYzR0FNcTJkX0h4?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T14:30:24Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s Tesla And SpaceX Sue Nanotech Firm TERA-Print Over ‘Terafab’ Name For Planned $16.8 Billion Texas AI Chip Factory",
+    "zh": "Elon Musk’s Tesla And SpaceX Sue Nanotech Firm TERA-Print Over ‘Terafab’ Name For Planned $16.8 Billion Texas AI Chip Factory"
+   },
+   "body": {
+    "en": "Tesla and SpaceX sued nanotech firm TERA-Print over rights to the \"Terafab\" name for their planned $16.8 billion Texas AI chip factory.",
+    "zh": "特斯拉和SpaceX起诉纳米科技公司TERA-Print，就其计划中价值168亿美元的德州AI芯片工厂\"Terafab\"名称的使用权提起诉讼。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb0laelc3X19STXM3ekhraEQ2emowcmFpR01xZ24wc2U3bGloSnY5NEpHaVRjLVYtQ1NpQ0dvbENabGcwT2tJcFZXY0ZVSmszSFVSTURfMHVHaUo1TWlScXVyVVdla3BtZ2ptc1E2ZC1XUm95X09sTGRwODRGanAta0lLTlRqc1Y4alNqbzREVUw2ckF4?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T23:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Says AI Will Double US Growth to 4%: Can It?",
+    "zh": "Elon Musk Says AI Will Double US Growth to 4%: Can It?"
+   },
+   "body": {
+    "en": "Elon Musk predicted that AI will double US economic growth to about 4%.",
+    "zh": "埃隆·马斯克预测人工智能将使美国经济增速翻倍，达到约4%。"
+   },
+   "source": "finance.yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYXVwOUd3N1JGYkFkSEUtNGN4OUN1MU5UUU83STM5X21naXlPNmh6VXZKSGtnbXJjSzBNbTV3U2xRelA1MTVmWWxIRHZPSjZXcU4wU3BJbExIUzh2Um9YYlk0RHpZOGxxM2ZSeDcwM3d3WUlnNGZ5MzlCSDMwVk51aGIyZ2hXR1FvQkE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T11:00:10Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk Touts 100 Times More Bandwidth With Starlink V3, Says Starship’s First Orbital Launch Is Set for September 22",
+    "zh": "Elon Musk Touts 100 Times More Bandwidth With Starlink V3, Says Starship’s First Orbital Launch Is Set for September 22"
+   },
+   "body": {
+    "en": "Musk touted 100x more bandwidth on Starlink V3 and confirmed Starship's first orbital launch is set for September 22.",
+    "zh": "马斯克宣传Starlink V3带宽提升100倍，并确认Starship首次轨道发射定于9月22日。"
+   },
+   "source": "Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYVhMeWZKSEh2NE9FRFhWM3djQ0Nsbi1XVmJFd2RIaFhna2U2TGR5RHhGQWZiMzhTM3FBQzFjc0ZuNWVNOUdwSTNGdVo1dkoxLWswMlF3V1NGLUozRWhOVlJ1N1JWY3N4d1p2bXlUUExvajJ2dGVPd2l0aDItSU44ZWFNOVNnajQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T00:06:34Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk urges rival testing to expose AI safety flaws",
+    "zh": "Elon Musk urges rival testing to expose AI safety flaws"
+   },
+   "body": {
+    "en": "Musk publicly called for rival AI labs to be stress-tested to expose safety flaws, a notable stance in the ongoing AI-safety debate.",
+    "zh": "马斯克公开呼吁对其他AI实验室进行压力测试以暴露安全缺陷，这是他在当前AI安全争论中的重要表态。"
+   },
+   "source": "digitimes.com",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZWVJRF9vanY1ZGtDdFFoaFlJd2REQ21JaFF1VmMxc0IxaG1pY3pSWUpqaU53VWJOOUlGNlIwRldnUm1xcEpaTTlmMXZTd1RQOU1uc2pGTkc3djV6TWJfRS1xNm1kQ184UHBWbUdFVDV0YXJMQWRvWGN4cVBYNmM3anJiZmdHQ0NwUTdVZWhHMjhHOGRa?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T10:26:55Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s Tesla And SpaceX Sue Nanotech Firm TERA-Print Over ‘Terafab’ Name For Planned $16.8 Billion T",
+    "zh": "Elon Musk’s Tesla And SpaceX Sue Nanotech Firm TERA-Print Over ‘Terafab’ Name For Planned $16.8 Billion T"
+   },
+   "body": {
+    "en": "Tesla and SpaceX sued nanotech firm TERA-Print over rights to the 'Terafab' name for a planned $16.8 billion fabrication facility.",
+    "zh": "特斯拉与SpaceX就一座计划投资168亿美元的工厂使用“Terafab”名称的权利，起诉纳米科技公司TERA-Print。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPaktEZ1JOb2sxRnJhV0hETDY1WHd2clhwei1DM3JDVlowM3lXQlo1dU1obXpqSzU0M1lvTDRDZncxUFRSQlhiZXAwY2lnVXZmbjQxWWJFVWRVd3k4M3N4V2F3a1RsX0VWSmhlZVVVTTU4bENFcGg1bTg0X2kzNl9ScWZuZlVMMVZ6V014MEV4dEI0RUhKN2xSSzkxQXM2LUk1eVFxTmdlSlFsY3ZGQkIydHFfai0yS3VBM1prNFJrTGo4NkV2U3RueFlHOUFpYW93U29NZVB2RjBJeDloSUg5ZTZiWVVFeTRTWVlSQTk2bC1YWVRieThLOU5UQWMxZ09Ba3ViaQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T20:25:39Z",
+   "level": "major",
+   "title": {
+    "en": "Nvidia's CEO thinks Elon Musk might be the only person who could pull this off. Jensen Huang says he and Musk have spent hours talking through Terafab, the massive chipmaking project SpaceX and Tesla unveiled in March (Intel joined in April). The goal: 1 - Yahoo! Finance Canada",
+    "zh": "Nvidia's CEO thinks Elon Musk might be the only person who could pull this off. Jensen Huang says he and Musk have spent hours talking through Terafab, the massive chipmaking project SpaceX and Tesla unveiled in March (Intel joined in April). The goal: 1 - Yahoo! Finance Canada"
+   },
+   "body": {
+    "en": "Nvidia CEO Jensen Huang said he and Musk have spent hours discussing Terafab, a massive chipmaking project tied to SpaceX and Tesla.",
+    "zh": "英伟达CEO黄仁勋表示，他与马斯克花了数小时讨论Terafab——一个与SpaceX和特斯拉相关的大型芯片制造项目。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdEtSc2g5TGMzLTU2YVBjZV9hLUN1SVp5eE12NkY1VGpaVnd3U2QwMHZvdmg4UVBkT1Z1ekxFa2toN1F4M1JwWTl5VU5jLUVCV0dRSmhQckJTQlg2cWNMcEFZdXhPTVJWb3ZpaFM2WnJRb0xpTkV4akVnRXFpazJfTQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T14:33:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk warns one AI milestone dwarfs nuclear weapons",
+    "zh": "Elon Musk warns one AI milestone dwarfs nuclear weapons"
+   },
+   "body": {
+    "en": "Musk said an upcoming AI milestone would dwarf nuclear weapons in significance, restating his alarmist stance on frontier AI risk.",
+    "zh": "马斯克称即将到来的一项AI里程碑其重要性将远超核武器，重申了他对前沿AI风险的警示立场。"
+   },
+   "source": "thestreet.com",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMmUyUTQ3QUhacDlzNmtQZDFEZU9Zang3YU01QnJtU081NUQxeW84U05DbmpLOHV4OFY0dmtpaDhHczQzQkZmeDJuVnBEZ3NxXzBYMDJ1cWE5WDYzNW5HYkFta1dOcWpwcjVHQ3hLOGdkQ0EyV3VNSmF1ZnVnQ1hNM004THptWms?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T14:33:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk warns one AI milestone dwarfs nuclear weapons",
+    "zh": "Elon Musk warns one AI milestone dwarfs nuclear weapons"
+   },
+   "body": {
+    "en": "Musk said a looming AI capability milestone carries risks greater than nuclear weapons and voiced support for slowing AI development.",
+    "zh": "马斯克表示，一个即将到来的AI能力里程碑所带来的风险超过核武器，并表态支持放缓AI发展。"
+   },
+   "source": "Sacramento Bee",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42clVPcUU5ekhTVU9MLU85MHpHODhGc0JQeWFvc0cyRC1GM0JGU0RJaVpjUVE4SlZpX1FOc1lIZGJnV1otYkgzX0pMWGN1WEROZGpYU2hKbVRqSFdsV0hsOUlqYklEN09hRXc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T14:33:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk warns one AI milestone dwarfs nuclear weapons",
+    "zh": "Elon Musk warns one AI milestone dwarfs nuclear weapons"
+   },
+   "body": {
+    "en": "Musk warned that an upcoming AI capability milestone will have consequences that dwarf nuclear weapons, continuing his public campaign for AI-safety urgency.",
+    "zh": "马斯克警告称，即将到来的某项AI能力里程碑其影响将超过核武器，延续了他对AI安全紧迫性的公开呼吁。"
+   },
+   "source": "Hilton Head Island Packet",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84LTdpX2Qxb3dDLUJwdEZMM3pZWXl3WjF0cllBaDFSUTBMeVBiUUJKMnNjSDRzemVVRlZLN0V6Mk96TDNyWUFSVDZoV2VfWUNTV3J5Q1pteFBnVHVSNmpXUDBmUEpwTUFzdVgyX283NzNVZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T14:33:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk warns one AI milestone dwarfs nuclear weapons - Tri-City Herald",
+    "zh": "Elon Musk warns one AI milestone dwarfs nuclear weapons - Tri-City Herald"
+   },
+   "body": {
+    "en": "Musk said an upcoming AI milestone will dwarf nuclear weapons in significance, a stark public stance on AI risk.",
+    "zh": "马斯克表示即将到来的某个AI里程碑其重要性将超过核武器，这是他对AI风险的一次强烈公开表态。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5ZHhZVndCdVhjMlJCVU9uRVdzMmJpdklGc0lSVEJCWG9uRjlOLXhLd2lJUllOTjMzdlNfUDViY0J5ZWdCczZ0cS1Da052V1puWFhqUU5UUXNSNU8xdVVrd0RqZHdBVDFYTXJtbzhCcGhIdHo1?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T01:39:27Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk urges AI rivals to test each other’s models",
+    "zh": "Elon Musk urges AI rivals to test each other’s models"
+   },
+   "body": {
+    "en": "Musk proposed that AI companies test their models against rivals' systems, a concrete step in the ongoing industry debate over AI safety practices.",
+    "zh": "马斯克提议AI公司之间应相互测试彼此的模型，这是当前业界关于AI安全实践争论中的一项具体主张。"
+   },
+   "source": "foxnews.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4WkRIdExKb2FDcXVLeHBOZ3d4U3hXaUE0SjJLUk9QV3QxaEdNRGx6RGxQRGJEMEt0QjNzbExtVVFsVFh2ZjdUczVFMHBxZFhYeUFPVHN3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T02:50:19Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s New AI Security Framework: Let Competitors “Pick Holes in Each Other” Instead of Waiting for Government Intervention",
+    "zh": "Elon Musk’s New AI Security Framework: Let Competitors “Pick Holes in Each Other” Instead of Waiting for Government Intervention"
+   },
+   "body": {
+    "en": "Musk proposed letting AI competitors police each other's safety rather than waiting on government regulation, joining the industry-wide fight over how AI safety should be governed.",
+    "zh": "马斯克提出让AI竞争对手互相监督安全问题，而不是等待政府监管介入，加入了业界关于AI安全治理方式的论战。"
+   },
+   "source": "eu.36kr.com",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPZ3pYeHM0eEE0QjdQdHl6dHBiZUJNR2ZKa0FMb2FZNUZSdjFORU1nVUUwRzllazBxbXN3MWtTZzhlU0pRR2xHZERPX1BoVGhXVWNB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T03:24:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Says AI Companies Should Test Each Other’s Models for Safety",
+    "zh": "Elon Musk Says AI Companies Should Test Each Other’s Models for Safety"
+   },
+   "body": {
+    "en": "Musk proposed that AI companies test each other's models for safety, a cross-lab verification idea raised amid the industry's slowdown debate.",
+    "zh": "马斯克提出AI公司应互相测试对方模型的安全性，这是在行业“是否放慢速度”争论中提出的跨实验室安全验证构想。"
+   },
+   "source": "The Information",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNU42NndPUno0ZmtuLXU5My0zczRDZlhJNXlHVkMyYmpqUFhiZEZTZnd2eDlyZ3FrV2pLa3d4amhJeFhGVkdJU3pDYUplQ041bTlnd2xlYkFfWmVGWHJoaC1CV3BMakRQMnMxeV9LOXI3SVg0cG1LdWtmb0IyTW5UTTN0OWpjOHFrRG11cy1RUVUzdFR1eUNodWN3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T03:55:09Z",
+   "level": "major",
+   "title": {
+    "en": "DW News. . When Elon Musk, Sam Altman, and Dario Amodei are all calling for slower, more cautious AI development, it's worth paying attention. What's behind this rare show of unity? #dwdigital",
+    "zh": "DW News. . When Elon Musk, Sam Altman, and Dario Amodei are all calling for slower, more cautious AI development, it's worth paying attention. What's behind this rare show of unity? #dwdigital"
+   },
+   "body": {
+    "en": "Musk joined Altman and Amodei in a rare joint call for slower, more cautious AI development.",
+    "zh": "马斯克与阿尔特曼、阿莫代伊共同呼吁更谨慎、更缓慢地发展AI，这是竞争对手间罕见的一致立场。"
+   },
+   "source": "facebook.com",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUm8yeExKdTlsc3djbUNRamVnQkxubWMxZy1BYUg2OU9OZi1BcWJncEk2SHotMTFmbUJWTmJxXzBjbVFONHZYYXY4RVp1MHRGNk1NWUFCcnRhLWdKYzBFQi1qQUtlRHNPSDh0U2YtcXkwX0VjbEZaSlBCUllPUDZBa3dZeU9rODBzODkwNkxRbmgyQVB4NTBfWXh4dV9saTQ1Mm1HWUcxemZkakRQX1paZUd5RmlTZ2tFM1hPMFhWazh0cExRaTRsTDR1a0xjX3paZHdZYU9WQTRTWFBYXzhwWg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T06:15:01Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Said \"Dario Is Right.\" His Own Followers Turned On Him.",
+    "zh": "Elon Musk Said \"Dario Is Right.\" His Own Followers Turned On Him."
+   },
+   "body": {
+    "en": "Musk publicly sided with Amodei's AI-safety warning, saying \"Dario is right,\" drawing backlash from his own followers.",
+    "zh": "马斯克公开表示支持Amodei关于AI安全的警告，称\"Dario是对的\"，此举引发了他自己粉丝的强烈反弹。"
+   },
+   "source": "Memeburn",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMmU5YkF4NWFuTjcxZXdjLXVpRk9jSXJvNF9ZQ2tjTnd2SXRFVnZCeXQyUFoyNVh4WVprVjNtMmVXdlBheXlxZ1hGcmFqU09ORzFUN3RTaTk4Nnh1UURtVFFHSG13alpFZm5XVFVCQTFkOXI5U1YyZnpaX1pTQUxZWGhYNlVQOVc3NVl3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T09:58:02Z",
+   "level": "notable",
+   "title": {
+    "en": "Why Elon Musk Wants AI Rivals to Grade Each Other’s Models",
+    "zh": "Why Elon Musk Wants AI Rivals to Grade Each Other’s Models"
+   },
+   "body": {
+    "en": "Musk proposes having rival AI labs grade each other's models, a concrete governance idea for evaluating frontier AI safety and capability.",
+    "zh": "马斯克提出让各AI实验室互相评审彼此模型的构想，为评估前沿AI的安全性与能力提供了一种具体的治理思路。"
+   },
+   "source": "CryptoRank",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTm4xQkpjT3gwZkNzbnd4alVZYnJVNGJnUnhUZHhqMXZJZGNQbGRKWHNhYktRVS1kcWtOeExXNHJWbm5sMzR0ZzQweVhNUWx1cklGMlljUzZycFBYdklQbTlITVhZZWhteFkzekZqMzFtcUY3blB3bDlOSWVZNEE5UUl2THlTTVpQQkVkMjBiX3JwTDFiU0YxN3BZWQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T10:12:11Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk's Terafab project accelerates US chip manufacturing ambitions amid supply chain concerns",
+    "zh": "Elon Musk's Terafab project accelerates US chip manufacturing ambitions amid supply chain concerns"
+   },
+   "body": {
+    "en": "Musk's Terafab project is accelerating a US chip-manufacturing push amid supply-chain concerns, extending his compute ambitions beyond Tesla/SpaceX/xAI.",
+    "zh": "马斯克的Terafab项目正在供应链担忧下加速推进美国芯片制造计划，进一步扩展其在算力领域的布局。"
+   },
+   "source": "Global Sources",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa3VmUGU0WDhCZWtaYXhMblpKSkdJRGJ6S1htWUpxdnhzQTY4bjRaT0dMSUtpSGU2ejBZenpCMk84OGxobFFHQjJOYjNWRzNkZ0EtNWFGVlBlTExYZ3VncUgzOHRsQ00zUWx6Y1FNLUtvUDhyVFRsbnU5TTFfUWlzRDl5MWxhaEhnSXJYcTVrc1E3U2ZVN093d3lyQ3c0LTNIWWczblk0NzFhSGxfalh6aXBHX3NackFvUFpDUDk4aUg5OGhmSzQ4MWRiWGFWMFE1QlgtTUpjd3A3X0ZIMlFDUWlzU0pBMHVjQjVCNzVZWEJwSDFpdlo5bw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T10:23:07Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s X And SpaceXAI Dropped Apple From Their Antitrust Fight Without Explaining Why — Now a Federal Judge Wants to See the Deal",
+    "zh": "Elon Musk’s X And SpaceXAI Dropped Apple From Their Antitrust Fight Without Explaining Why — Now a Federal Judge Wants to See the Deal"
+   },
+   "body": {
+    "en": "X and SpaceXAI dropped Apple from their antitrust suit without explanation, prompting a federal judge to demand disclosure of the settlement terms.",
+    "zh": "X和SpaceXAI在未作解释的情况下将苹果从其反垄断诉讼中撤下，促使一名联邦法官要求披露和解条款。"
+   },
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOMktpamlFNzJfaW1KTVlVLVZHaFVmTGF0cFNBd0ZBNGgzXzZsRWtXbkdaa2xoLW4zU1VNVEI0RWN3TGRLcF9uajhERzBzanNQZU85YWsyQjk4SE9FcGZMaWVtT0R1NjdDdUg3VC1fckVWSXhkTnBvQ2R1VFZ2VjByeDlJNXRERmk2UGIyZmdpelZsSDdpbFRTVW1zYk9ESEZOaGliYkpwWkpwN0h2NXh1bUpDaFd4dzFqa1RMTWpheXFNMTlMQk82TUJodVdRU0JiM1kwT1AyZXUtVmxrM1YzUC10cE5rcC1wNzRMOU5XZGp3a2dpM0U5Yl91RERxM1NpVEpMWkxOdWpQUmV6UHVWUUVGNUJKNWFla2NF?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T10:33:57Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk tops Forbes 400 for fifth straight year, widening lead over rivals",
+    "zh": "Elon Musk tops Forbes 400 for fifth straight year, widening lead over rivals"
+   },
+   "body": {
+    "en": "Musk topped the Forbes 400 list of wealthiest Americans for a fifth consecutive year, extending his lead over the field.",
+    "zh": "马斯克连续第五年登顶福布斯美国400富豪榜，领先优势进一步扩大。"
+   },
+   "source": "NBC26",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUlVkbE9oLWx5YVpiY1JPUmg3endWXzNQbnFHSl9BRXFlRjh6aTBsUGVXaWRVQjVodFhtUUh3WE1nMTRodE05ajVBc0x1RkV2cy1aQXg2M19ZMVc0WjltWXZDVFdTYWpwVWxmMVZCcThkaTNjSkEzUFBHLXN1bjBJV29EbXlrdTdjb3ZpOUV1ZFFRVFJsbk92cVJmNTV1TVdma2ZydjZSUm0wMWM1SXFr?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T05:49:50Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Touts 100 Times More Bandwidth With Starlink V3, Says Starship’s First Orbital Launch Is Set fo",
+    "zh": "Elon Musk Touts 100 Times More Bandwidth With Starlink V3, Says Starship’s First Orbital Launch Is Set fo"
+   },
+   "body": {
+    "en": "Musk said Starlink V3 delivers roughly 100 times more bandwidth and set a target date for Starship's first orbital launch.",
+    "zh": "马斯克表示星链V3带宽提升约100倍，并公布了星舰首次轨道发射的目标时间。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOeGNxNnVpOUpZNFY4UllpZWZ1SjFHTWY5QTZkV2dDTUJzWUNkU2owX3lIamlXQlBXZUVfOEtJdTJoNVJscG1wa1JRNXZtQVoxcnNNanJHOHltOTFvSVI1Z1k3NkNSNkdzQ1FPWTQ2TGdpcThoYXlmdmtVb05RU2djLWhZQjE1LTBfNU93U1luQXZFa0RidzQtNjNwcnllNkF6YkZEZTZ3NnJOdGFvNU5yV0cyU3NZNU1iemxLbjVxQVB4TzVTS0RNTV9PZHNUZXRnUG5KTjBfaExMcXl1SFg2MmREZC1pZDNLem4tbFVpY1ZzLTcxaWZESjV5RnVsWkk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T17:16:02Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk proposes AI competitors 'grade' each other's safety models",
+    "zh": "Elon Musk proposes AI competitors 'grade' each other's safety models"
+   },
+   "body": {
+    "en": "Musk proposed that AI companies grade each other's safety models, a concrete idea entered into the industry's live debate over how to govern frontier AI.",
+    "zh": "马斯克提议让各AI公司互相为对方的安全模型打分，这是他在行业当下关于如何监管前沿AI的辩论中提出的具体方案。"
+   },
+   "source": "Fox News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRTEQ0eGE1ZFA5ME5OR0twNUV6T0d6RzcxUlBhUEJkWl9DODJTZGxSNko2Ump2dWJpN05rZ2ZRMi1oOFlkdG13eHpfRFZub0Zhb0pLRFd3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T19:58:04Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s AI Safety Plan: Let Rival Companies Test Each Other’s Models",
+    "zh": "Elon Musk’s AI Safety Plan: Let Rival Companies Test Each Other’s Models"
+   },
+   "body": {
+    "en": "Musk proposed an AI safety plan in which rival AI companies test each other's models.",
+    "zh": "马斯克提出一项AI安全计划，让相互竞争的AI公司互相测试对方的模型。"
+   },
+   "source": "TechRepublic",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeTlNTTJPWVlraER1WWIwbjFUOUYzWGZSaTdWTGR6TjV0cUNNZ0FnSy1Wekp1RllVUnpMXzFjRzZHVGg2UEV2b215UHFrenl4TWVrZjBVR195eHNveVhjVkpLM0J4YVU4U1g1SXByMW41S0JUdXlOSHBfOE5QbXNDblY3VFFSOG90dUE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T18:24:40Z",
+   "level": "minor",
+   "title": {
+    "en": "Tesla Killed Its Solar Roof. Now Elon Musk Wants 100 GW of Solar",
+    "zh": "Tesla Killed Its Solar Roof. Now Elon Musk Wants 100 GW of Solar"
+   },
+   "body": {
+    "en": "Tesla discontinued its Solar Roof product as Musk pushes a new goal of 100 GW of deployed solar.",
+    "zh": "特斯拉停产太阳能屋顶产品，马斯克转而提出部署100吉瓦太阳能的新目标。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS29KemZDZ1pTVkxPWDBOS0lZNjU4aHZRZWtXWDJma3puNUdUTFppZ1lKLUxaQ0JFR3BsRWw2NmpYUlY3cTl6V1o0OXhveUJfLWxyTVA3V241Vjl1aGZzUzBrVXoxb0hRRHFjWHRxaGxRUnJUbFdjdzFSaVN0LXFVNF8zMmttVHh3S3c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T20:52:57Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk's companies ordered to explain why they dropped antitrust claims against Apple",
+    "zh": "Elon Musk's companies ordered to explain why they dropped antitrust claims against Apple"
+   },
+   "body": {
+    "en": "A court ordered Musk's companies to explain why they dropped antitrust claims against Apple, keeping a live legal dispute over platform competition in play.",
+    "zh": "法院责令马斯克旗下公司说明为何撤回针对苹果的反垄断指控，这场涉及平台竞争的法律纠纷仍在持续。"
+   },
+   "source": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNEtieVJZajgycThQS2l2d1N5MDNoX3NuRVNpd3FfSlQ4M1lyOW1wOFNXdFRTRnFVVGVjUm56QlRxQ0c3azhCbTA5OVZteF9DcF8wRlNYZ1hqRXZfYk1zVFljY0ZhODVQR3NfYmw3Z184MkRqWVZMUzVxekZ1S3FENkVOZEwxS0M3eEN2LVRvbDBZeHVvcVpNa1FHWUhUQ29aU2pzSlJQVFpSZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T20:23:40Z",
+   "level": "minor",
+   "title": {
+    "en": "Elon Musk's Terafab Chip Factory Faces Legal Battle Over Its Name",
+    "zh": "Elon Musk's Terafab Chip Factory Faces Legal Battle Over Its Name"
+   },
+   "body": {
+    "en": "Musk's newly disclosed Terafab chip venture is facing a legal dispute over its name, the first public confirmation the project exists.",
+    "zh": "马斯克新披露的芯片项目Terafab因名称问题陷入法律纠纷，这是该项目存在的首次公开确认。"
+   },
+   "source": "PCMag",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVGRUSWVRTElpNldycXJOaXhlbktKaG1QYTVHZGFMdnBnUXREMk1vVUJLY2M4OFZnQlBTX2JVTUF5MDc0ZU9QTW5pdXZKQ3pONl9EbklibE5KQTlHUWNyOWFMeG5ldG96NEotVVVjQUhMRE11Mko1YzN4bE5KWlF5bzM2bFRwLTRoU2JSLUx6N0JwYjZ0Nmc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T12:30:19Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Warns Welfare State, Free Immigration Would 'Bankrupt' Countries: ‘AI + Robotics Is the Only Path to Universal High Income’",
+    "zh": "Elon Musk Warns Welfare State, Free Immigration Would 'Bankrupt' Countries: ‘AI + Robotics Is the Only Path to Universal High Income’"
+   },
+   "body": {
+    "en": "Musk argued that AI and robotics are the only way to sustain universal high income if welfare states and free immigration would otherwise bankrupt countries, tying his AI and robotics bets to economic policy.",
+    "zh": "马斯克提出，如果福利国家和自由移民政策会拖垮国家财政，那么AI与机器人将是实现普遍高收入的唯一路径，将他的AI与机器人布局与经济政策绑定在一起。"
+   },
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLVdOTnBYZVBaeC1HeV9lVFlPRkk3WWFmRVhpcGtpaUFGdFdfd01qQUQxeThTeGxibl91ZlZOZkRDSEhWa1lDdm92d2pkVHM5R1N0cFhkY3ZqTWU0SGxQVlhKVWdEWVdCY1ZXYXJnRjRTWnJLQ0gyTmFTY1c2cU1DTUFjZGFKMWFtRENoODRvM20zZDQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T20:19:06Z",
+   "level": "minor",
+   "title": {
+    "en": "Elon Musk's Terafab Chip Factory Faces Legal Battle Over Its Name",
+    "zh": "Elon Musk's Terafab Chip Factory Faces Legal Battle Over Its Name"
+   },
+   "body": {
+    "en": "Musk's Terafab chip venture is facing a legal dispute over its name, a minor but real setback for his AI-hardware push.",
+    "zh": "马斯克旗下芯片项目Terafab因名称问题面临法律纠纷，是其AI硬件布局中的一个小挫折。"
+   },
+   "source": "PCMag UK",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ0xXWXdtdi1PTGpwU00wLWdieGx3TnhMSExDUlc2bEtoM1hYUEU4M3ZwdXpqc1hKWXdjTmtwNlJ5WldDdTQ5RTI5czZXODg2UXdleGZOT0hDVWRkdXY3MVpOdnNFRmloYWx6NUhXQjVtODZIdmZEMGVXaUtQbmd5Y3NkaVZYeUFIMmpIQ2Z0Zk9Fa0swTUZRVUVIeDdtZktxOFhOZFN3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T03:16:00Z",
+   "level": "notable",
+   "title": {
+    "en": "AI Slowdown Debate Splits Tech CEOs: Nvidia, Broadcom Dismiss Any Threat While Elon Musk Calls For Peer Review System",
+    "zh": "AI Slowdown Debate Splits Tech CEOs: Nvidia, Broadcom Dismiss Any Threat While Elon Musk Calls For Peer Review System"
+   },
+   "body": {
+    "en": "Musk pushes back in the AI-slowdown debate, calling for an independent peer-review system as Nvidia and Broadcom dismiss any slowdown risk.",
+    "zh": "在AI放缓争论中，马斯克呼吁建立独立的同行评审机制，而英伟达和博通则否认存在放缓风险。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS2g4S254Z3M1SXhZSnhud1UxeDlRT3dVYjZyd0NfTi1mNHlWQmJNMGMzblc3cnBYU2ZHbFdCT0RfeGZTbjZQVlJRTm5ja2pIX1hsR2JNNG5jRXoyREd3M2owY1lKZ3hXYno5d0l5NDhJNFNpOWp3UFJyUklmelllYVEzNTBvNFo5ZlBmLTJwd2UwRDFMcVlIODdB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T06:08:49Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Fuels Tesla-SpaceX Merger Talks Again, Says, 'Imagine What Action One Might Take…’",
+    "zh": "Elon Musk Fuels Tesla-SpaceX Merger Talks Again, Says, 'Imagine What Action One Might Take…’"
+   },
+   "body": {
+    "en": "Musk revived talk of merging Tesla and SpaceX, hinting at a bigger restructuring as he consolidates model, rocket, car and robot businesses under one roof.",
+    "zh": "马斯克再次谈及特斯拉与SpaceX合并的可能性，暗示随着他将模型、火箭、汽车与机器人业务整合在一起，未来或有更大规模的业务重组。"
+   },
+   "source": "benzinga.com",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSUQ4ellpWHNxMG1uZS1pLVRjRWpLd2EtYlE5V0I0T3ZFSFNRNzBuQTFKY1RxcFU0VURCeW1rYWhIMW1qOS1iWkRGVDc2MDBqSUlDQTJYbU9tX09ZZW14aG5vZFpOYlVYaXVoNUZ4SDd0Y1BJQ21ROGNQOENwdjRRQ01kWjhVMno2dUxnMHNGSHhyVk55VlZLSkl2N0J3UUJDMWh6MnBFLTQ0NEZKdnc2T0FYcldwV09iQmllakpTRGVLeU12aVYtQnlNR1RQMm85V1VDLTVrOA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T11:07:42Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s xAI Asks Appeals Court to Block Minnesota Law Targeting AI-Generated Nude Images | MinneapoliMedia",
+    "zh": "Elon Musk’s xAI Asks Appeals Court to Block Minnesota Law Targeting AI-Generated Nude Images | MinneapoliMedia"
+   },
+   "body": {
+    "en": "Elon Musk's xAI asked a federal appeals court to block a Minnesota law targeting AI-generated nude images, a live regulatory fight over AI content law.",
+    "zh": "埃隆·马斯克旗下xAI请求联邦上诉法院阻止明尼苏达州一项针对AI生成裸照的法律，凸显AI内容监管方面的现实法律交锋。"
+   },
+   "source": "MinneapoliMedia",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOazVZdWxaTE1zWEdqTlliN1pvOXhMdXBZcXZ2OFlyTEFSV0ZmcmFYWnc3OUQzUjFuVDk5cVpzLWlIV0hqOXFRT0xNU2V5QjVSRXl2eHpyMVBwLWgyNE5DM0JJbW9LTl95UzZZMHBfaWcyQmE3QS0yVjF1U2ttRy1xZmxsMk5PZDktRWE3eVhCOW1zRHpYWnYxSjA2aTRLajVHWnNkTlFmRExvYmJ4VjAya1FaWmtKS1k5VHZqZkFNcS15X2g4Y0dhY0NB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T12:34:00Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk's Latest Updates On Tesla-SpaceX Merger, Terafab Factory",
+    "zh": "Elon Musk's Latest Updates On Tesla-SpaceX Merger, Terafab Factory"
+   },
+   "body": {
+    "en": "Reports describe fresh developments in Musk's Tesla-SpaceX corporate merger alongside the new Terafab factory build, a major restructuring of his empire.",
+    "zh": "报道披露了马斯克特斯拉与SpaceX公司合并的最新进展，以及新建的Terafab工厂，这是其商业帝国的一次重大重组。"
+   },
+   "source": "Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTXhmZUthdG9HbWxra3JXNy1henAwdXJPZTNjaEpkTjYycVctM1A5WlRBR1lXRUdlRkVYWDNkbDNzOHRURmhIQkN0VnJWU3dnZkwxaGp6ZUQzeXZsU2FVeVpoUGhwTnhzZXJzdUdQTHBfNzdLT1pmN0RLR3pIOVVlbTRZOWRva1hmT0JZRWNseHJPWUU5dURXTA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T13:44:20Z",
+   "level": "notable",
+   "title": {
+    "en": "FBI agent wanted criminal probe of Elon Musk over DOGE activities",
+    "zh": "FBI agent wanted criminal probe of Elon Musk over DOGE activities"
+   },
+   "body": {
+    "en": "An FBI agent reportedly pushed for a criminal investigation into Musk's DOGE-era activities, adding legal exposure alongside his AI and space ventures.",
+    "zh": "有FBI探员据报要求对马斯克在DOGE任内的活动展开刑事调查，这为他在AI和航天事业之外增添了法律风险。"
+   },
+   "source": "Washington Times",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVVfSnZ3bGVRSjFzcDdxZUhpSWU3V3lkZ2xGTllmcXE1ZFJqLWxLekN5NjFjSWtuakNkeHVValhWTVZBNU03NW5CeGdjbkJDNkZfNkE5RG9wYU9UNnh6a2ZFVkUtUlRtRDY2MDRGZjhac2Jrb2k5SWJUVGUwWlU0YXBsMkI2MDFGc1JlQ0ZCLXhtbEczQ0dDbXlEcnQ0RFRKcWMzTm1wSVJvNVU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T13:09:33Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Warns Welfare State, Free Immigration Would 'Bankrupt' Countries: ‘AI + Robotics Is the Only Pa",
+    "zh": "Elon Musk Warns Welfare State, Free Immigration Would 'Bankrupt' Countries: ‘AI + Robotics Is the Only Pa"
+   },
+   "body": {
+    "en": "Musk argued that welfare states and open immigration would bankrupt countries, framing AI and robotics as the only viable economic path forward.",
+    "zh": "马斯克表示福利国家和自由移民政策将使国家破产，并称AI与机器人是唯一可行的经济出路。"
+   },
+   "source": "benzinga.com",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQY2RFV0phVjlaVjRLZWNKQUFHS0V3SWczRUdodUxfVmdpekl5OV9yQWtCNUlfUkhRd1pfaDVZZzlNclR5WFpPUmJfWUtJQUNtS2o4d2tCZjNadkZYdTRTUnl5alk3em5IT2I0UWxqbERTc2VGekl5VGZpc0F2ZGxuRGNiVHYtOEtkZUd4RnozQ1ZtYy03cGEwbnNFbFZXdGNVOHlLQU9nSnFJbTNVY2FNLW5leDFObFJkeF9NS1U2QzRqS1F1LTdwbXdYb2NYSDE4VmNHcmRwYXRyVFVqYThGbzU4RTlFVTFaLTQtYTlWN0VvTnlmYXF1VGhCdHFqTUREaEg2TnhXdlhJUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T13:43:00Z",
+   "level": "major",
+   "title": {
+    "en": "UAE leads $3 billion investment into Elon Musk's Boring Company, valuing it at $23B",
+    "zh": "UAE leads $3 billion investment into Elon Musk's Boring Company, valuing it at $23B"
+   },
+   "body": {
+    "en": "A UAE-led group invested $3 billion in The Boring Company, valuing Musk's tunneling venture at $23 billion.",
+    "zh": "阿联酋牵头的财团向马斯克旗下Boring Company注资30亿美元，使这家隧道公司估值达到230亿美元。"
+   },
+   "source": "The Cool Down",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN1o5Q0RNbDVfaUlaLW9UN05iTmVuYmJLbmZLc243U3A5Z1JlNGZTdG1RMVhVLXpEYTlXekFDaUlZZWhvNEtyNEtTaDZYQ2QzQVl0b2FPSTRNTFViTGFjMGZZVU9LYmMzVXlydG1ha2llWkFjcHFLRmVvV3B1NDNyOG02cE4xMWJoZlpSZVZWbDBqN09QMkYwazFucVFILVI5M3N3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T13:43:00Z",
+   "level": "notable",
+   "title": {
+    "en": "UAE leads $3 billion investment into Elon Musk's Boring Company, valuing it at $23B",
+    "zh": "UAE leads $3 billion investment into Elon Musk's Boring Company, valuing it at $23B"
+   },
+   "body": {
+    "en": "The UAE led a $3 billion investment into Musk's Boring Company, valuing it at $23 billion.",
+    "zh": "阿联酋牵头对马斯克旗下Boring Company进行30亿美元投资，公司估值达230亿美元。"
+   },
+   "source": "Yahoo Finance UK",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLXI5enRUeUhWQkpGTzh3Y3JlWlc2dm1pNHhrckdLY0labGM1amNJdDB4MldXX195OFVaX3RhZnlGQmF4czRqMGxiUXpXLWRzT3ljRGotWHgtNTBhQnh0eFBReWdTSENubjF5OWFmRGxLdmF3bEFlcE56bzduUHFlcjJ6cm4tZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T10:18:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk comments on AI slowdown amid his own big AI bets",
+    "zh": "Elon Musk comments on AI slowdown amid his own big AI bets"
+   },
+   "body": {
+    "en": "Musk weighed in on the AI-slowdown debate even as he continues to make large AI bets of his own.",
+    "zh": "马斯克就AI放缓的争论发表看法，尽管他自己仍在进行大规模的AI投入。"
+   },
+   "source": "Proactive financial news",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbzlpTXIyRzg4RWJGX2ZrcDhUVXYwSkFQOXBCSGpRRndyc3VZbzJXRTM3Tl9KWGRvYkhNT3BuQVBYZGJpTENFUnAtODBwblM2WEMtM3E4SGR1TExmVVQ5MGNIWlhnUHFEVDlMU2ljWGdCei0xbDNMSmZ5S1ltWnkySXc0aWExb0Q3UGRLaEk4QUpEZGN2WUh6UEMxT1hVdjQwd0p6aFY0alJLTnpVM2NVWFFqMUFTRlh3R2duSEs0bHNEVHFpV01r?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T14:18:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk comments on AI slowdown amid his own big AI bets",
+    "zh": "Elon Musk comments on AI slowdown amid his own big AI bets"
+   },
+   "body": {
+    "en": "Musk weighed in on the debate over slowing AI development even as he continues placing large bets of his own on AI infrastructure.",
+    "zh": "尽管自己仍在大举押注AI基础设施，马斯克还是就“放慢AI发展步伐”的争论发表了看法。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSlpPSW4tX2xDMUNFeWNMdDA2Y0dTZE5aaDI4dTV6b01VUTA1bVI2TVZLaEtCWFhiZEdQU0pOVUVBRGdQTTRXQW1heXlWNDJMX0VTNzh0U2pRaWcwVXo1M3czZTZaS3czN0JDTkVHT1VjYXpKdUxHZmxqZVMxOVV3UEhIR3R4Z0stcW1LRzY3dzMxNTNidzRXeFZn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T12:28:37Z",
+   "level": "notable",
+   "title": {
+    "en": "Nvidia CEO Jensen Huang Says Elon Musk’s Terafab May Look Audacious, But ‘If Anybody Could Do It, He Can’",
+    "zh": "Nvidia CEO Jensen Huang Says Elon Musk’s Terafab May Look Audacious, But ‘If Anybody Could Do It, He Can’"
+   },
+   "body": {
+    "en": "Nvidia's Jensen Huang publicly backed the feasibility of Musk's ambitious 'Terafab' chip-fabrication plan, calling it audacious but achievable for Musk.",
+    "zh": "英伟达CEO黄仁勋公开表示，马斯克雄心勃勃的“Terafab”芯片制造计划虽然大胆，但如果是马斯克来做就有可能实现。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZWZzdENtVjB3dC12dXZFOEdBaWFfTmQyeUg4TS1OeWQ2U0R4N0NkVGZVS3pFY3o4Ny1ua2hIN3ZHMTdTNHgtREFCWXgyVnVLUGdnYW84NTBEd21ZQm5QZkJlMmFvX1RJUjZlb3NuR3lWZElPX0hYYi1KTnNNTHFIcmhlcTlvWDl1LVpDeGg5WHV6VnhiZ2FZMmdyX1ZDa2w5RGs5TFdVRnIyU2NWYjBIUjI0a1RuRlp4Nzg4MzNsOF9iVGdpT2Y2bFlua2hqcGVDYzRKdEJpZ2MybXdxYV9INy0xbUVxX3dD?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T15:24:25Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk warns all smart AI 'wants to escape its constraints' after sinister hack",
+    "zh": "Elon Musk warns all smart AI 'wants to escape its constraints' after sinister hack"
+   },
+   "body": {
+    "en": "After a hack incident, Musk warned that any sufficiently capable AI system will seek to escape the constraints placed on it.",
+    "zh": "在一次黑客事件后，马斯克警告称任何足够强大的AI系统都会试图摆脱对其施加的限制。"
+   },
+   "source": "AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mel9QcGQwNW1LWlk4cERiVmhNS2wzZDlwdUFLRUNyRmVfUS1rNkVMSUhBdEUzVzNmUjZYb1pOZXpUNGQzUXYzeGlPeUxWM2NBQWc3QUVhV3hhWmpMLWdmN3FPbktOVzhPSGl3eGo5eTEyc3BSRjNj?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T15:00:30Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk ‘Highly Confident’ SPCX Will Put NVDA AI Computers in Space in 2027",
+    "zh": "Elon Musk ‘Highly Confident’ SPCX Will Put NVDA AI Computers in Space in 2027"
+   },
+   "body": {
+    "en": "Musk said he is highly confident SpaceX will deploy Nvidia AI computers in orbit by 2027, extending AI infrastructure into space.",
+    "zh": "马斯克表示他非常有信心SpaceX将在2027年前把英伟达AI计算设备部署到太空，将AI基础设施扩展至轨道上。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORDBXUkp3RlFQdGlhUFFDdHhubzhuS3d2ZHR5NDZlSE93VnQ1SnRzbDVQa2hmcUs0cVVubmx5WWwzZE1hdktRSVV2a1pqc0hDU0hDTmFHU0JpRzlpMkFxa2dPX3JZR1Z5aFJGMTh2RDNDOE1aM041RVkydFVaNnBMWXd0OGw1N0xlbWZYUGllWTgzWGRRRk9PY0I4MA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T17:30:07Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk is calling on AI rivals to test each other's models before release",
+    "zh": "Elon Musk is calling on AI rivals to test each other's models before release"
+   },
+   "body": {
+    "en": "Musk called on AI labs to have rival companies test each other's models before public release, a notable stance on cross-industry safety practice.",
+    "zh": "马斯克呼吁各AI实验室在模型公开发布前先由竞争对手进行测试，这是他在跨行业安全实践方面一次值得关注的表态。"
+   },
+   "source": "qz.com",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DXzdueUxzdWhiM1dRWmZIZkVndE5zX1hEWE56Q3g0THVtTzNTZ01JTUNKdV8xWlF1NVF1OG1VU2t3d1pFWUpzZl9RMXFCaXVLT2lfYmdfUkl1UC1PT3ZjTVBhYVg0Ny02OFk4N0lnN0s?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T17:38:51Z",
+   "level": "notable",
+   "title": {
+    "en": "Lawsuit Against Apple Dismissed by Elon Musk",
+    "zh": "Lawsuit Against Apple Dismissed by Elon Musk"
+   },
+   "body": {
+    "en": "Musk withdrew the antitrust lawsuit he had filed against Apple.",
+    "zh": "马斯克撤回了此前对苹果提起的反垄断诉讼。"
+   },
+   "source": "ilounge.com",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNXFOOHlBSGhaODJXSGs0UllndUtERUpHWjVqLUEwUEd1RHhLS3JtUWtLSkpBUDVjd1BLQjQxZTJZZXlxQl9WeTIyQjdIbWJYNkNVRWQxSWpFaXVfanNLSnRvaTJqdF80TWlhb2ptc0twbmZ2LUJIcmNDZWFCblI3bktxYS1TUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T18:40:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Reveals Details On The New Tesla Roadster; Shares Slip",
+    "zh": "Elon Musk Reveals Details On The New Tesla Roadster; Shares Slip"
+   },
+   "body": {
+    "en": "Musk revealed new details on the upcoming Tesla Roadster, though the stock dipped on the news.",
+    "zh": "马斯克透露了新款特斯拉Roadster的细节，但公司股价随之下滑。"
+   },
+   "source": "Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRDA1ZVEwZ29BTzk0MnNaZDhHNFd6LWZyNndoY3BoRm5BdHpRYnRnNEdUWVJwdTVwb0xWc19kcW92bWlsSmN4blAwWmVQaDBPcFBRYXJ5UUhqaTl1VUV1QXItYm1RSFlZYnZoajg2QVVtaDlEV2N4MnI0dzZGS2c3bE1vNTB0M0JHNUdZbzhMa2sydWUtMTFYdi0wNXo?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T18:06:26Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s xAI resolves claims against Apple over AI competition",
+    "zh": "Elon Musk’s xAI resolves claims against Apple over AI competition"
+   },
+   "body": {
+    "en": "Musk's xAI resolved its antitrust claims against Apple over AI app-store competition.",
+    "zh": "马斯克旗下xAI就苹果在AI应用商店竞争问题上的反垄断诉讼达成和解。"
+   },
+   "source": "The Mercury News",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcWF5U0kyeW5XTXM3VlNDaG44ZW5EbVo3TGIwVXVLLUNYOUpReGduUEttWXprcGUwTV9DYVNrOGY2QmlTcHpBSnpCbTNmNHlzLVVwMWwtTEtPRF9WeEM4cXpGM2dlOWV1bFZfNjkwak16cWtnQkFGcFpJR1AwSkx6YmUyM0NkNTQ4RGZuNXJrY0U2dHBnc19MMzM2bnpPZklr0gGmAUFVX3lxTFAzVU5ORzBlVGxKM2JhUVVtT0tUbVBTSnNaZ010b2hkUFhVRXNYZklDeGdFYy1NNjRhQmdQRGxPVlZ0dDdiVEV3aFJvbGcxUWxnRGVFNElVai1feXFQUFVqZnItZFVtYXJ6bDNyci1EM3ZjRWJiUEFNX1Yzb3h4U1R6Xy13WDVtXzhEWklBU0xGclp6QWF6SFkxZk54T1NkY2FoY2xRVVE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T18:20:09Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk hints at possible Tesla-SpaceX merger",
+    "zh": "Elon Musk hints at possible Tesla-SpaceX merger"
+   },
+   "body": {
+    "en": "Musk hinted at a possible future merger between Tesla and SpaceX.",
+    "zh": "马斯克暗示特斯拉与SpaceX未来可能合并。"
+   },
+   "source": "The Information",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWk1CbElscjhpbl9WU3RMZHE1Mm9EMjE3YVJ6a3I3WnJicFRvS2ZYeVk3WnZYUmRGalhfS2hsVEg2cnAxOUVLOWdfN1h1eW5MX2hKRmFLSlVVa1NaMEE5RXRDVXQtb3IxQTBteDhKZVM5MXJjMnRwWFRkaDItaUd0TzJjQ3B3NTFEWGQyS3NR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T19:08:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk, the world’s richest man, says he’s living in an Airstream trailer to oversee xAI’s biggest expansion yet",
+    "zh": "Elon Musk, the world’s richest man, says he’s living in an Airstream trailer to oversee xAI’s biggest expansion yet"
+   },
+   "body": {
+    "en": "Musk said he is living on-site in an Airstream trailer to personally oversee xAI's largest infrastructure expansion to date.",
+    "zh": "Musk表示他正住在现场的Airstream拖车里，亲自督导xAI迄今为止规模最大的基础设施扩张。"
+   },
+   "source": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQ2lPcjlIZlRaMm9YTXh6NGFRYmRyVHF4Z0xPamg1QXZHbV9DdGFxb2RONEdOLUNuQnFVNE9sb0hhLVJVeUg1WlVQeERObW1yQkdHdkFOZXVEOWd4c3BhalhFbzVDSmV2OGZqWGxzYmtlZTgwRDlkLWJrT3d2WnJTUk40WWg2a0VTWWFGczRELWo0WjkwSWdyTmJwMk02RXFzSk9PQmlrdFpQb0lyWFMwSnJfQ2tVRWhqTWV1Y1pUTllwbDh6LXNBWHlTMnZ6VUFwcTI4N0NrLTdMd0Fhcnc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T20:23:26Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk is teasing his biggest possible play — again. 🚀⚡ Speaking at the All-In Summit, Musk hinted at a potential merger between Tesla and SpaceX, questioning out loud whether the EV pioneer and rocket giant should remain separate companies.",
+    "zh": "Elon Musk is teasing his biggest possible play — again. 🚀⚡ Speaking at the All-In Summit, Musk hinted at a potential merger between Tesla and SpaceX, questioning out loud whether the EV pioneer and rocket giant should remain separate companies."
+   },
+   "body": {
+    "en": "At the All-In Summit, Musk publicly floated the idea of merging Tesla and SpaceX, a potentially transformative structural move for both companies.",
+    "zh": "马斯克在All-In峰会上公开提出特斯拉与SpaceX合并的设想，这对两家公司而言都可能是具有变革性的结构调整。"
+   },
+   "source": "Yahoo Finance UK",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWTg2UWhxUTdWR0JvZUQ2TE1lV0NfV3hINGlzMHVsM0xWWXljVE9nVzBzU2JYUm1pZ0FmeXh4VGM5YXlUMFVFSUVKdy13RnBNUDN5dXhlMDVpeXZpUzZMVEoxTmpnNzh5cnBlaFNMR3lZZjl1eEJWclFiMm5nMV9XdkZ4RERnWUhP?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T16:52:02Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Admits AI Isn’t Good Enough For “Extremely High-Performance Software” & Says Grok 4.9 Should Match Fable Class Models",
+    "zh": "Elon Musk Admits AI Isn’t Good Enough For “Extremely High-Performance Software” & Says Grok 4.9 Should Match Fable Class Models"
+   },
+   "body": {
+    "en": "Musk acknowledged current AI isn't yet good enough for extremely high-performance software and said Grok 4.9 should match Fable-class models, a rare admission of a capability gap.",
+    "zh": "马斯克承认目前的AI尚不足以胜任极高性能的软件开发，并表示Grok 4.9应能达到Fable级别模型的水平，这是他罕见地承认能力差距。"
+   },
+   "source": "Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcVlwS2VTZmpJS0VRQmdPOUZtemQycnNlLUtTcHR5dDZuZkwyY2JVRHdmUDMyWVU4N2VHaVdLeXZQMFNocGFFVnhsdjF2bDRHMTc1T3JRYzlTRFkyb3A4N3pnSmpfbUNNRVd6OUZhMWNaU2ZFajA3a3VyTkNuMkVvVWxGaWNHOGlVc2ItWHc4N19menN6dzA5NnBNWDhFS01CMUNvUS04NkZYMGNoaVhhaG0xNXlZTlpVX0ZlTEFZd2FBUHVLb2ZNbWR3TGhMSXpJOFNRVTNsZHF4Y2h10gHiAUFVX3lxTE1QZzJzM2FhcnBsWmpXcmQxdkxvTzlTem5vS2NsMmhOYzB1aURlZVRocWtSTXVKRllMS1VVb19GM2Nqdlo2UjNvZkk4S3hNVnU3NFJIUjd1bzhoNm11T3lJOEh5Yk40c0pjWDBwNDdJTHloekNmSjgyaFNtWTRUWXNZSEM3S1JuUmFwZFVLYlN3NFBtYlFMMG4tUHpNSmVYb0xEVWdzeGlPbUVMTk95azFuNXZrOHNCeENfVWxvNUNWelpEc1ZDNmFPVXgxVVY2NTdoZW9WT2d3MERXMVdTMmdpeVE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T22:24:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk calls for cooperation between US, China AI labs",
+    "zh": "Elon Musk calls for cooperation between US, China AI labs"
+   },
+   "body": {
+    "en": "Musk called for cooperation between US and Chinese AI labs, a notable stance on the geopolitics of frontier AI development.",
+    "zh": "马斯克呼吁美中两国AI实验室展开合作，这是他在前沿AI地缘政治问题上的一次值得关注的表态。"
+   },
+   "source": "Semafor",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVVZub2dvclZZMWtxdEZfTXc3RVR5V0Fibnl0ZjdMdUtxMFdlLTljbzVTSU1KcHNMOGI4YUJUelNBbm1WQlF0Z2taeXRDajFHTW13aks2Z3ctUWZyemdfQllhYzdtVl9tSDZNQ3NERVVHcGhCV1I3M3lSOEFlOGxoZ2JZcXJlSmx2NXlEbzhOaTh1b2dsd1BHUDNMS28ydzVL?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T06:08:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Fuels Tesla-SpaceX Merger Talks Again, Says, 'Imagine What Action One Might Take…",
+    "zh": "Elon Musk Fuels Tesla-SpaceX Merger Talks Again, Says, 'Imagine What Action One Might Take…"
+   },
+   "body": {
+    "en": "Musk again raised the prospect of merging Tesla and SpaceX, continuing to blur the corporate lines between his automotive, rocket, and AI ventures.",
+    "zh": "马斯克再次提出特斯拉与SpaceX合并的可能性，进一步模糊了他旗下汽车、火箭与AI业务之间的公司边界。"
+   },
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JemhWWjhRbWUxcEFIMHoxU29RNVNoQ3VjQThFRXlwVlRUR0xQS3FMcjVBX3NfZ0NGd1F5NkIxTldsQmxyS2tQdC1lS1IwZ1pnRzBtTUtUTDNHYWo1Zml4UlE3RW5ocUlJ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T16:47:27Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s AI Super Computers Are Driving Mississippi Families From Land They’ve Held for Generations",
+    "zh": "Elon Musk’s AI Super Computers Are Driving Mississippi Families From Land They’ve Held for Generations"
+   },
+   "body": {
+    "en": "Report on how the buildout of Musk's Colossus AI supercomputer is displacing longtime landowning families in Mississippi.",
+    "zh": "报道称马斯克的Colossus AI超级计算机建设正在迫使密西西比州世代持有土地的家庭搬迁。"
+   },
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc3VWYUNPTHV3M204bnZ0eVFtVTV0TTlkZE90NTNtZGVkUkRxRlR4azE3NlRlUUVIdkhhN1VISmdpRnFjSll3WHVOYTRRM0ZoU19GYWw4ZDdHaGVpbU84RWRuZWRRSkJuNjJDSWZtTWRRVm1BUERxSUpLMWFjdXI1Z3k0ZFdlNGl3LVE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T20:12:00Z",
+   "level": "notable",
+   "title": {
+    "en": "'Let rival test it': Elon Musk offers solution as debate over slowing AI heats up",
+    "zh": "'Let rival test it': Elon Musk offers solution as debate over slowing AI heats up"
+   },
+   "body": {
+    "en": "Musk proposed letting rival AI labs test each other's models as an alternative to slowing down development, joining the industry debate over AI pacing.",
+    "zh": "Musk提出让竞争对手互相测试彼此的AI模型，作为放缓AI开发之外的替代方案，加入了业内关于AI发展节奏的争论。"
+   },
+   "source": "\"Elon Musk\" - BingNews",
+   "url": "https://www.firstpost.com/tech/let-rival-test-it-elon-musk-offers-solution-as-debate-over-slowing-ai-heats-up-14046195.html",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T01:37:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Sam Altman and Elon Musk back Dario Amodei's call to slow down the frontier of AI development",
+    "zh": "Sam Altman and Elon Musk back Dario Amodei's call to slow down the frontier of AI development"
+   },
+   "body": {
+    "en": "Musk publicly backed Dario Amodei's call to slow the pace of frontier AI development.",
+    "zh": "马斯克公开支持Dario Amodei提出的放缓前沿AI研发步伐的呼吁。"
+   },
+   "source": "SiliconANGLE",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSFhCcktZLUxOczdDOHVKRGVZNnVsdmlnazdNaU5aYVNPVDB5M0JJT1oxV2VtRmZwN1BQTnA2czU4ajYycnRmLXJKU0RQLWdDamJ2Q080R3ZBQS1KQXhPeUFMS0pGcEFGenluOGlDeEpuRDJSMmJPWS1JUjRoTWU0bnZiTkkyR2dVb0luQll0dHJ2eVZULU5uRXgydFFqVXZ4RFBvWHhoallUbTZ5TkF0TGYxeDdDdHZSS0tnX1dkU0JfMzRURFhFUw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T04:28:12Z",
+   "level": "notable",
+   "title": {
+    "en": "Anthropic CEO says it's time to 'slow the pace' of AI development, with Elon Musk and Sam Altman agreeing",
+    "zh": "Anthropic CEO says it's time to 'slow the pace' of AI development, with Elon Musk and Sam Altman agreeing"
+   },
+   "body": {
+    "en": "Musk joined Sam Altman in agreeing with Anthropic CEO Dario Amodei's call to slow the pace of AI development.",
+    "zh": "马斯克与Sam Altman一同赞同Anthropic CEO Dario Amodei关于放缓AI发展步伐的呼吁。"
+   },
+   "source": "TweakTown",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWnk1RmdjZXdmZzBCNmktalhYdUthQXAyVHVWc1haUXlKVnpkM0haRjdyRUNWMnRZSE5RZUhmOUw0c1pya0VUaWxLazh3dkNHblFfcDZ2UlRoWWdHRUN3dVVVYzA1NXg2M05yMlBKY2VuSndEa1YtUFFwZlJqYVdnQTc3LXpBTmlFLVdsenBwN2FsWWNSZm1iRGJkN3JzWnMxT1pOejZiR05fUTVYem1xXzQ3c1ItX0RnampXQ1ZadnpUZFNJUnkyenNwb01hTG52Q1dHdEkySXNwcjZPcm9RR0NCdFk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T06:54:10Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk ‘Highly Confident’ SPCX Will Put NVDA AI Computers in Space in 2027",
+    "zh": "Elon Musk ‘Highly Confident’ SPCX Will Put NVDA AI Computers in Space in 2027"
+   },
+   "body": {
+    "en": "Musk said he is 'highly confident' SpaceX will deploy Nvidia AI compute hardware in space by 2027.",
+    "zh": "马斯克表示他对SpaceX将于2027年在太空部署英伟达AI计算硬件“高度有信心”。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS3BtTXFUTW1uMG5RWlpISTZTZ1hySC0zaFZUYl83S19ocmdkbFE4cUlJSS1OcVQtVXotbXlZRVVlbERxek9uSE1CbnVkS28yQnROS2xZbTJJelJ3bzJTRmE5bGlvUWN3X1pLSURkTGlKM3lod3hiUFBvVldHVWZDSHYyVGdMd3l3RlZicEExbHJlRjdxaDNlVG9fT3dHbzNnLVE0MjJfTzQzZzU5S3pleWd1UDJwNlo0UWdzZ21tMF9XdEJp?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T05:27:52Z",
+   "level": "notable",
+   "title": {
+    "en": "Sam Altman, Elon Musk back Anthropic CEO’s call to slow frontier AI development",
+    "zh": "Sam Altman, Elon Musk back Anthropic CEO’s call to slow frontier AI development"
+   },
+   "body": {
+    "en": "Musk joined Sam Altman in publicly backing Anthropic CEO Dario Amodei's call to slow the pace of frontier AI development.",
+    "zh": "马斯克与萨姆·奥特曼一同公开支持Anthropic CEO达里奥·阿莫代伊提出的放缓前沿AI发展速度的呼吁。"
+   },
+   "source": "Storyboard18",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSi1ueWFnODFlMTc1RlFydU1yeFAwNDBmbGIzMkpCS2lkYjIwcVZWODVacVNXN1dYSmpOTDdMd1RfQU15U19RNEtVYUV4d2hERHJRX0MzeENreDVhVGp3M0tJbUtIbWp3Ui1BLVNpejdRS1VNVU9HbzJWTnoyUHliMG50ZWxjTS1BTkl3VHo0b1Q1UDYxMU1QanBaU2o5WjR5ajhnUlRoTnV3a3p4ODN4YUV3OC12MFBuV3cwQlVSOTRmZknSAcgBQVVfeXFMTnRHeGpDby1VMGw3d0NKNUdIbG9kUWl2UXh2OGFFSW5Fcjd2T3J3N3Vfa0hOeS1tYWZIb2piQjZOWk96a1ktZkdtTU85WWMyWU1SQUx5aGJxSnVBVURYUXd0S1hUOTQ5cnhBOU1MTmEybE80cm9QWnZ1bklWVmdwaURPVzh5R21SVUM0YjMyc1luc2VfM2RGNDJDYkdoVWh2NEthTmVXS1lKMlpyanducHVuZkh4SGpwLXdXSUxzYmRwUl9UdUNTWWw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T06:54:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk ‘Highly Confident’ SPCX Will Put NVDA AI Computers in Space in 2027",
+    "zh": "Elon Musk ‘Highly Confident’ SPCX Will Put NVDA AI Computers in Space in 2027"
+   },
+   "body": {
+    "en": "Musk said he is highly confident SpaceX will put Nvidia AI computers into orbit by 2027, tying the xAI/SpaceX compute stack to a space-based buildout.",
+    "zh": "马斯克表示他非常有信心SpaceX将于2027年把英伟达AI计算机送入太空，将xAI/SpaceX的算力布局与太空计划联系起来。"
+   },
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1b1d2VE1lcDVZd2NZNlFnUlNTX1FBdzRXbHdvTGxZd0ZpNDVhaDEtWXpBdWNxekNBTTQwRHhKR01LYUdKMFdQV2Etd1hZSmtZVzBjZGNGUmpPSnpxLWI0V0EyT1d4VWN3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T12:24:43Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk's SpaceX sued this rural Texas county to withhold records on Terafab - Austin American-Statesman",
+    "zh": "Elon Musk's SpaceX sued this rural Texas county to withhold records on Terafab - Austin American-Statesman"
+   },
+   "body": {
+    "en": "SpaceX sued a rural Texas county to withhold public records related to its Terafab compute facility, a dispute over transparency in its data-center buildout.",
+    "zh": "SpaceX起诉德克萨斯州一个农村县，要求扣留与其Terafab计算设施相关的公共记录，这是围绕其数据中心建设透明度的一场纠纷。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWER4OGtnc296MTRReUxvb3pBcVEyRjVxVTl6QjRPUU9pTWkwRFpBSEFYdU1HWU8wM3FDNk5kN0EzV0k2bWJyMTFjMlJCQ1pmcjQ0ejgzVENOemdZTTlyWGNJR2NYR2lZWGNRV1IwZ2U3dWg2cVBYYTlQdUhyTUVjMTZBRUk3LVdhN3hHRGxja1dyWUluTnRpSnc3SW1GS0tt?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T13:50:24Z",
+   "level": "notable",
+   "title": {
+    "en": "'Dario is Right': What Elon Musk and More Top Executives Are Saying About an AI Slowdown",
+    "zh": "'Dario is Right': What Elon Musk and More Top Executives Are Saying About an AI Slowdown"
+   },
+   "body": {
+    "en": "Musk publicly sided with Amodei's call for an AI slowdown, joining other executives who endorsed the position.",
+    "zh": "马斯克公开支持阿莫代伊放缓AI发展的呼吁，与其他认同该立场的高管站在一起。"
+   },
+   "source": "barchart.com",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWM3ak05akpSS0NKVW54eXQ5R2lkbzlmZU5BcUpXVWUtTEN5dzc5bTV0V2JEd1d6RFJpa3prUDNOUG0yVDhqZDN1QmRONGp6aUZBbDRVX2QwQlROVzlvQkhpeEo0eDlQNlJaN3ZlZnZVeDFPT3ozaFQyVHFzVTFSUFBxZVhsYUtGNkVvcUFVSXFWV2RNMHkyWThvejN2OWc4aGxWeWlQOGV0UTRSY1BzNzlLOUtpa1Atb3FJSkRFV1pyd0JfTGl1YQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T14:00:08Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s X Corp and SpaceXAI resolve antitrust lawsuit against Apple",
+    "zh": "Elon Musk’s X Corp and SpaceXAI resolve antitrust lawsuit against Apple"
+   },
+   "body": {
+    "en": "X Corp and SpaceXAI settled their antitrust lawsuit against Apple.",
+    "zh": "X Corp与SpaceXAI就其针对苹果的反垄断诉讼达成和解。"
+   },
+   "source": "MacDailyNews",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUlpuTzVKektJZTIzeWd2U0pNb3VzSWxWc0o1UDY2ZjJOX3FXM285YXdzYTJZdHd0QmFFcnVqb3o3THNzb2lISEgtU2M2VFNPbW54TFZrelhXOUpTTHhkRkpRNWZkTFNXeHJITW9pU1Z4UkozWFpvVnl5V2g3dnc4Z045eDRfUUxUNEF3Y28tUkNYNWdUMVRxVVd6NXFmLVlmakRTM2xLUXg4ZUnSAbABQVVfeXFMTkhNSE1WM1duTW9JVS1MMEFnS3F0MTFfOXNiZ2hneXlFYnc4LV9icjFqa21wM1RDbkdrRk5ySThwMUtPbl9Lc1F2eVlpRjRQdEhFdlIzNkJjbEgzLUQzaHR0Z0szaHVhQlJUODJ0ZENkZUZadUhFdzNuMDFOb2c5aUVHSjU4N2dmUVhsRWx3TXBTSXptU1c3M3NKaXNETTdMaTBxaDNNbk9WUTR4aWZubms?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T15:31:10Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk is reminding everyone that he sounded the AI alarm first. 🔔 His X post comes as executives from Anthropic and OpenAI voice matching concerns over losing control of frontier models. - Yahoo! Finance Canada",
+    "zh": "Elon Musk is reminding everyone that he sounded the AI alarm first. 🔔 His X post comes as executives from Anthropic and OpenAI voice matching concerns over losing control of frontier models. - Yahoo! Finance Canada"
+   },
+   "body": {
+    "en": "Musk reiterated on X that he warned about AI risk before Anthropic and OpenAI executives, joining this week's broader debate over losing control of frontier models.",
+    "zh": "马斯克在X上重申自己早在Anthropic和OpenAI高管之前就警示过AI风险，加入了本周关于前沿模型失控的更广泛争论。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZGZmNGtnWk1xeTQ4bzJFTVZFSXp3ZnFkN1F4TndBTjdzQ0dhMzR4VExOaHFNZGluMF9yLXVPUklKTElzZFEzOHR1Qmx2TURTVEFFc0tZYXpVQ0YxYktmdTZYQzJzRkpUeVVnRTdrbHJlZ1VQVTIzWnFiV2VodG9RY2F4N3ZtRDVBQm4w?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T15:06:28Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Finds Common Ground With Obama and Hillary Clinton and Breaks with Trump on AI",
+    "zh": "Elon Musk Finds Common Ground With Obama and Hillary Clinton and Breaks with Trump on AI"
+   },
+   "body": {
+    "en": "Musk broke with Trump and aligned with Obama and Clinton on AI risk concerns, a notable political realignment on the issue.",
+    "zh": "马斯克在AI风险问题上与特朗普立场分道扬镳，转而与奥巴马和希拉里·克林顿观点趋同，是该议题上引人注目的政治立场转变。"
+   },
+   "source": "Latin Times",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWmlRaE0wTHFzOEFQek1rY3UtZ0FZdkJWWUZmR282T1VfWWE4WFkwU2xUdmdKclduZEduXy12OHhJVUUwcXdtVmlwc1BaUHVNampfa1VUQ3kzeWVFM24weUdjNERURGtHd25IaW1DTnNoNXlsczU1NXJpY2p2eW9ZZlpxTHozcG5NZExjTG5ZWTJpaWdaTFE1b25hM1pfTkVFWWlB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T16:40:56Z",
+   "level": "major",
+   "title": {
+    "en": "Sam Altman, Amodei and Elon Musk Unite to Slow the AI Race",
+    "zh": "Sam Altman, Amodei and Elon Musk Unite to Slow the AI Race"
+   },
+   "body": {
+    "en": "Sam Altman, Dario Amodei and Elon Musk jointly called for slowing the pace of the AI race, a rare aligned public stance among rival lab leaders.",
+    "zh": "Sam Altman、Dario Amodei与Elon Musk罕见地联合呼吁放缓AI竞赛步伐，这是几位竞争对手实验室负责人的一致公开表态。"
+   },
+   "source": "Business Chief",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYXVIa3Z4bGFSUVJsdlp6TlVmTFg4U1ZIZnlkTkViUkZpdmgycjgwb2loOUpvdXoyYzVNWnJuOVBfSGwzanJtN3owYjFQVkEyV2kwV3JLRldBZ0xJeW1KOEFqU1BncmhaalJiVzlZdVlZZWtQUnMyMEVCYXZZVmR1RVN3RGVNdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T17:29:49Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s companies made up with Apple but OpenAI still on the hook",
+    "zh": "Elon Musk’s companies made up with Apple but OpenAI still on the hook"
+   },
+   "body": {
+    "en": "Musk's companies resolved their dispute with Apple, while the standoff between his ventures and OpenAI continues, a shift in one of the industry's messier corporate rivalries.",
+    "zh": "马斯克旗下公司与苹果的争端已经和解，但其企业与OpenAI之间的对立仍在持续，这是业内最复杂的企业竞争关系之一出现的转变。"
+   },
+   "source": "Teslarati",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTEZ6amhUNXBlR0xHS0Nad1l6VzhWNlpmQmNZNUdCUkZvcGtCeGt1ME5SNmV3Z1hCbmpFRmJmNkQxWXUxb3FJNVZaTDNnWlNxaHA5QV8tbTFXNVJYaFNDUEd4enpZTE9oSjlWZDI4Mjd6ZmttQlhIWFcxQU5paUZndlNoVXVFaVBNYmE3azhwc2RZNS02TnF4RjlWZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T17:49:07Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk's X Corp And SpaceXAI Just Moved To Dismiss Their Lawsuit Against Apple",
+    "zh": "Elon Musk's X Corp And SpaceXAI Just Moved To Dismiss Their Lawsuit Against Apple"
+   },
+   "body": {
+    "en": "Musk's X Corp and SpaceXAI moved to dismiss their antitrust lawsuit against Apple over App Store rankings.",
+    "zh": "马斯克旗下X公司和SpaceXAI已提出动议，撤销针对苹果App Store排名问题提起的反垄断诉讼。"
+   },
+   "source": "Engadget",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbUxkMkZSRFpacXhTYVFTa0oxbmp0cWdZcm8xSk5fN1RuLUt1dTQtczN1RHFXd3FodlQ2aVZMZG9rbzh0NVR6UWQxS0R4djVaa2xNeXB2cEFsTU02YnlQY0FfTzRRNE1COVRGVncycGNaVWdmUHpVSXk2dW5UUnRvNUQyaC1DdFk1cGF4TV9MVk93M3pTNGx5dW1UZTNSMXVRbVNoNk1LT0hGbTdxQThmTnRwTQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T17:25:10Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Says Orbital Nvidia Computers Launch Next Year — Can SpaceX Actually Pull It Off?",
+    "zh": "Elon Musk Says Orbital Nvidia Computers Launch Next Year — Can SpaceX Actually Pull It Off?"
+   },
+   "body": {
+    "en": "Musk said SpaceX plans to launch Nvidia-powered orbital compute hardware next year, extending his AI infrastructure ambitions into space-based data centers.",
+    "zh": "马斯克表示SpaceX计划明年发射搭载英伟达芯片的轨道计算硬件，将其AI基础设施野心延伸至太空数据中心。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPckdrTUY3dHVWTkJwQVNpTXN1UU1Jdi1TX3JLMVRld3JlN1Z5Q29CbndtZHAwR0Y4Y0s5Vk9uWjc0SVZpa1VpVWdYanJZVFNvREl6elA2bl84dmwtNWhmUklUQ2lVSUZ6WDIzc29zQ3dzMWlkY2NlRFk0OTRLUGxzOE40X1dsdzZBbmZyRTBPTWZ0YkVvOFpFVUFFeVI3ellCZFhtRzhxWllFMTNYQ25iQ1l4dlhlNXZ3VnJiT1pSdzM0NkdfRUI2dlN6RXZkSU5yOHVscUZvUUw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T19:51:32Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Says Optimus Will Ship to Customers in 2027. Here's How Much Revenue That Could Actually Generate.",
+    "zh": "Elon Musk Says Optimus Will Ship to Customers in 2027. Here's How Much Revenue That Could Actually Generate."
+   },
+   "body": {
+    "en": "Musk reiterated Optimus is on track to ship to customers in 2027, a concrete timeline for Tesla's humanoid-robot bet.",
+    "zh": "马斯克重申Optimus人形机器人计划于2027年开始向客户交付，为特斯拉这一押注给出了明确时间表。"
+   },
+   "source": "The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVzFwakRhdVdVNmZuRUFvbHgwQzRxbHhGZ1lVTUJWX3V0U2JNbW9fRXFpbWR1UmVRTDdXVDloNGxsMHRycng0Y0kweS1BQ2VhTUFBMUdHUXBFWmhIUllhS3JfTTIzZjV5LWdpTlp2WWNCUkczTGZkUnBLcXhoRWRleWZhdXV0T245SDcyRVUzN3dzN0ptU2ZiSg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T20:17:32Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s X Corp and SpaceXAI drop antitrust lawsuit against Apple",
+    "zh": "Elon Musk’s X Corp and SpaceXAI drop antitrust lawsuit against Apple"
+   },
+   "body": {
+    "en": "Musk's X Corp and SpaceXAI dropped their antitrust lawsuit against Apple.",
+    "zh": "马斯克旗下X Corp与SpaceXAI撤销了针对苹果公司的反垄断诉讼。"
+   },
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdFQ5WkNVYzQxQ1pvdzNfUHFFdjc1RktURGtvdWhELTNIMlcyWHd0WjJ4WnpKVHRQTXJ2Z01rTFpfMnN4eU54dTJlMjdsME9PWkxScHJob3ByazJscVpDeDU0V0xPcFBZTFFQem1NWnpPSS1BeENBeGJlUHJlTHg1eGRoRFFCaTUtSXR2TTlWQVJMSWFqNmx5WjY1ZUJGbVFPQzVYZzVLQVpjb0JS0gGyAUFVX3lxTE5ZbUVzNUd5bjFoNVlXZGdRNkhkRUNfbDVQeFlsaFU3aExFN2lDUHozeU1NNWo4TGk3QlpadW5nZjVLb01xemdWaFVGX21RX1l4MkFWUy1hdHFoT2xrLWtHQzZQYjRiRkJic0JOTFlvWVpPdnRYZnBiV0hwYUM1bU14RGRiVGlFU0JWbzZJUGo0cjBDTEtIcHlmbWlvTWdQYUQydnQ0bEYxV0dQX21tb1l2dUE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T17:04:20Z",
+   "level": "notable",
+   "title": {
+    "en": "Where Sam Altman, Elon Musk And More Tech Execs Stand on AI Guardrails",
+    "zh": "Where Sam Altman, Elon Musk And More Tech Execs Stand on AI Guardrails"
+   },
+   "body": {
+    "en": "Bloomberg surveyed where tech leaders including Musk and Sam Altman stand on AI safety guardrails amid the political debate Trump's comments sparked.",
+    "zh": "彭博社调查了包括马斯克和萨姆·奥特曼在内的科技领袖在AI安全护栏问题上的立场，正值特朗普言论引发相关政治争论。"
+   },
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRWJPX2xiOEx0a3lpMUpQU0FhN1FnczdhczRSc2dUU1dYZUg1eS1nYUtXTjJ5RkVXcXlCSWtoWVcybGplWVZOdzdSVG5VanJ6YkZmNnBmajVNeGd2SFczSEtzdjJ2TGJaYmVJbmktM3JFVDg3VEdNazkxWnlaaWpTTWRWejMzN2FHS3dYTXlrMlEwcWpDLTZLS1F0NVhMMFU1X2R3TUxhSEg0RWxmRlNtT1NMVHhNY2s2?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T15:16:26Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk's 2027 SpaceX plan gives Nvidia a new frontier",
+    "zh": "Elon Musk's 2027 SpaceX plan gives Nvidia a new frontier"
+   },
+   "body": {
+    "en": "Musk outlined SpaceX's 2027 compute plans, a move seen as opening a new growth frontier for Nvidia's AI hardware business.",
+    "zh": "马斯克公布了SpaceX 2027年的算力计划，这被视为为英伟达AI硬件业务开辟了新的增长空间。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZzl0YzNCaUViZUtpNEZuOEtyVXdwbmVUdHRURzRpYUNBMzdaTWw3WDVQVHByNnBlMVZKa3JqWllKcHllR203ZmJpN3BES2pnSUdLd3dlRlFCQVlneWYtMjlZTE93WUtGUUtnU2NCYmd6WGlLczNzLTVKc2xpQzEyTnpONTFBNGgxbW9OYXVwNGp5U1ZlTGc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T22:23:47Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Drops Apple From AI Antitrust Suit, Keeps Aiming At OpenAI",
+    "zh": "Elon Musk Drops Apple From AI Antitrust Suit, Keeps Aiming At OpenAI"
+   },
+   "body": {
+    "en": "Musk dropped Apple from his AI antitrust lawsuit while continuing to pursue the case against OpenAI.",
+    "zh": "马斯克在AI反垄断诉讼中撤销了对苹果的指控，但继续对OpenAI提起诉讼。"
+   },
+   "source": "Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOczVzbzVYWWZ4cVZTOEFLeV9RN3NfVzVscmJDdEhSOFNDSGhlcFBGeFAzU2w5bTVXbHJKci00R2NaNFRRSkVmSW50dkN5ZDFaU1h4X2dxT2Fkc1hsQlJoOFpMaGJtNjQtWmUxMmlXcGFoNTRwMy1aU1d2ekZ3QUY3NzFHYUdva2F3NHVNWU9HSUxNMTZBSERWUUtUb2FPaFdPdzJMQmFBNVpQXzYtM05wNVYzSnh3bl9xdy1GWXRTSkpELXZ5QzlXYllRQUs?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T22:31:30Z",
+   "level": "major",
+   "title": {
+    "en": "'We owe it to humanity to try': Anthropic's CEO Just Called For Global AI Slowdown. Elon Musk, Sam Altman, and Google’s AI Chief Agree.",
+    "zh": "'We owe it to humanity to try': Anthropic's CEO Just Called For Global AI Slowdown. Elon Musk, Sam Altman, and Google’s AI Chief Agree."
+   },
+   "body": {
+    "en": "Musk joined Altman and Google's AI chief in backing Dario Amodei's call for a global slowdown in AI development.",
+    "zh": "马斯克与Altman及谷歌AI负责人一同支持Dario Amodei关于全球放缓AI发展的呼吁。"
+   },
+   "source": "The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVmJUNUhrdlBmeWljMTA4Rlg0THVDbk9WN01sd1pvU2kzcXN2UEk0cVlnekEyOGx5UUFfeExBZVFQaDA3QWR2ZXdEekhSYlJMcnVreVdvSV84RkVLNWx2TllSbEQ5SWh1b1BTTmYtaHFWX3YxaldKTnBOQ0hyYlVKYm1uU0dGVWlkWFJxUGowRS1XZE41MXM0ZmJjYjRTSVhmNmw4ZEhxVktXT1RDYVd0d3lfWXFJWmpSRnQ4RUhOcE1vNmxCUzZ0am9ERU1MajNHMWN4SGdQeUZGOUxKRmhTVlU1Rm5IbmhHYVNNV2tkc3l3ZWxWb0FQMzQ3dlZNdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T22:23:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Drops Apple From AI Antitrust Suit, Keeps Aiming At OpenAI",
+    "zh": "Elon Musk Drops Apple From AI Antitrust Suit, Keeps Aiming At OpenAI"
+   },
+   "body": {
+    "en": "Musk dropped Apple from his AI antitrust lawsuit while continuing to pursue OpenAI over claims it colluded to suppress rivals.",
+    "zh": "马斯克在AI反垄断诉讼中撤销了对苹果公司的指控，但继续就涉嫌合谋打压竞争对手起诉OpenAI。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONk9ERWYyYU5XXzcwNWtXTWNPdllvUkd2TUZUamNiOGpOMVJzUlNqaDNiTXp5M05nNTdkQ2YyOWw2RlpsUHhfdzNMYTVDSGJzS1oxelhnMm9zcmxMY3E2RE9CMDA3TVExRU1RV2RnNHRpT1pJRHMzZ21NYkVIeG1wcmxUOGZpVldzaVBNVVl3N2tndw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T22:16:01Z",
+   "level": "major",
+   "title": {
+    "en": "'We owe it to humanity to try': Anthropic's CEO Just Called For Global AI Slowdown. Elon Musk, Sam Altman, and Google’s AI Chief Agree.",
+    "zh": "'We owe it to humanity to try': Anthropic's CEO Just Called For Global AI Slowdown. Elon Musk, Sam Altman, and Google’s AI Chief Agree."
+   },
+   "body": {
+    "en": "Musk joined Sam Altman and Google's AI chief in publicly backing Anthropic CEO Dario Amodei's call for a global AI slowdown.",
+    "zh": "马斯克与奥特曼、谷歌AI负责人共同公开支持Anthropic CEO达里奥·阿莫代伊呼吁的全球AI减速倡议。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZWJpeUxlTlRUY3BKNmgwUWN5Zk5JZ21GQkFLODNpaDJaal8xelBERFZzTEJDeE45blQxT2ROUm0xbWd2U3RoRjhIUlNDWlJIUzlNbklyemJjMTlrazlLcWlpLXNNNkFLZDE5WlJiU25xSGw4LVpwYXBOUHJrekQ4QXoxLWVTcEQ3VDI1WEEySW5NdktzV0RTaVdBUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T02:12:17Z",
+   "level": "minor",
+   "title": {
+    "en": "Tesla to unveil long-delayed Roadster on October 1, Elon Musk says",
+    "zh": "Tesla to unveil long-delayed Roadster on October 1, Elon Musk says"
+   },
+   "body": {
+    "en": "Musk said Tesla will finally unveil the long-delayed Roadster on October 1.",
+    "zh": "马斯克宣布特斯拉将于10月1日发布拖延已久的Roadster跑车。"
+   },
+   "source": "Deccan Herald",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSkZlcXJmaERRVUQwOHJpZi1DNy1kWFp3b2FVRkxhdEJsdWlXY2RYXzExRDJ1c1lxR0JVNGllOHI2ZWhEWDFGeEhxdW5BNGJ2NEFuUVFDT1JRbmpvdzh3c1dUUllYYmI0NEMtWGI1X2s3aWF0VTdSaUtsTTFORDNkbHk1Y2tWUzJuRUhLYWVfTndVT1lyYzRLbkpYY1RzNG9scDF1US1aenZBZ2FZMDJDdE9FWlZrMEgybGJLcUlB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T04:00:03Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s secretive backer builds $40bn SpaceX stake",
+    "zh": "Elon Musk’s secretive backer builds $40bn SpaceX stake"
+   },
+   "body": {
+    "en": "A previously undisclosed backer built a $40 billion stake in SpaceX, a signal of investor appetite ahead of a potential IPO.",
+    "zh": "一位此前未公开身份的投资者建立了价值400亿美元的SpaceX股权，显示出潜在IPO前投资者的浓厚兴趣。"
+   },
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMS1SM04wYWdkM0JGdVl0a2pyTk90Q0NIaC1lUmw1LXhkSlpxR215eWxPdXUzMkFVUmJEeExseDZOazd6RkQ3SVBPeFpURkpkMjVuUnJPblBDMG0tR0VNaGxwS0tRZ2YxTVp2VnNiYjl5OGpTQW9hcEtfT1djTnJubGYzZ0U?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T04:13:30Z",
+   "level": "notable",
+   "title": {
+    "en": "Sam Altman, Elon Musk back Dario Amodei's call to slow down AI development",
+    "zh": "Sam Altman, Elon Musk back Dario Amodei's call to slow down AI development"
+   },
+   "body": {
+    "en": "Musk publicly backed Dario Amodei's call for AI companies to slow development over safety concerns.",
+    "zh": "马斯克公开支持阿莫代伊呼吁人工智能公司因安全担忧而放缓开发的主张。"
+   },
+   "source": "firstpost.com",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ1F2bS04ZmM2LTNEdDdnZXdZUDAtaWFicm9UYkttakt6R2hxdGZjWjI0R0NlWGt1cmN3UFVwai03bkg5MGZPMFdvaXV1bnV2RXJ1cHB6c0N5WTllUUJNOGtZSXpNTS1jTjRWRW56TmJyTEFXNkRiWWp2Y1lZY0UxOVJZd2FkQzVyRjFfa2tCVGtQQ1lhZ1VfeVk2bmJRSnZfRzcySHAzOXV0WmNzem4xQXBGbnNybEQw0gG-AUFVX3lxTE1oY19XLTE4Ykc1bWRFeVRTUUIxUUZNNzdTVU5RM3FvLURnWjlPQjBHNS1hTk5ZNzY2bTJSQ1BJcDJCUFRvOUFPOWZEN2FNU1VPZUV0a1JENTZTODJFZEdKaDdLcFdaTV9mQWxyQzFOSkVMVVJObU50SXRYbVN2QlhuajlHalA2QXZWckg2SGdwTlM3Z0N5empmam5sS0ZnU0dNRnNsNHVWWE51aldtMkJBRWs1NUo2QUtHLWlOalE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T12:45:00Z",
+   "level": "minor",
+   "title": {
+    "en": "Elon Musk Sets Roadster Reveal For October 1st",
+    "zh": "Elon Musk Sets Roadster Reveal For October 1st"
+   },
+   "body": {
+    "en": "Musk set October 1 as the reveal date for the new Tesla Roadster.",
+    "zh": "马斯克宣布新款Tesla Roadster将于10月1日发布。"
+   },
+   "source": "700WLW",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV0VfSGdaaWZXMG9lMWxENU9RR0Z0d2RETGFxZzlRYlYyNkhyeE4tNTVZX1NfZmQzVk1kVkJHSFdhMWlscXVreTlhZDRJUlpGalFOUUlEd3BiY3BYYU5IZ3VGaTk5S1d2bDFpWUtxbUpNNkZxYjJ2TjFmSDgzS0dSSTlpNDZyLTMzYTgwMVhXTlpPeUpNRnQ4?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T14:03:00Z",
+   "level": "major",
+   "title": {
+    "en": "OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development",
+    "zh": "OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development"
+   },
+   "body": {
+    "en": "Musk joined OpenAI's leadership in publicly backing calls to slow the pace of 'reckless' AI development.",
+    "zh": "马斯克与OpenAI高层一同公开支持呼吁，要求为“鲁莽”的AI发展踩刹车。"
+   },
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQlhQUVhMMWE4RFpEUXBNVWIyNHk0MXJzNkR6NUJtZlBmY3B5ZFhjNGJjaWtXZEtodlgzX0ZMV1M5WXh5UUw5S0cyaXlYc2RoYjlIemhzN0JCZ3pjTjBIOGxMZ24wWHNlNUZkeXRTQlN0Q1hTenNzaXlabWVISmFQRkxsSFNfVkJWOFJkdE9FSHhEOWFmQnBseDlnUXJGc2pWU09ZWXRfMW1wS21PQXA3M080em1reXYyaXdONWdR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T12:45:00Z",
+   "level": "minor",
+   "title": {
+    "en": "Elon Musk Sets Roadster Reveal For October 1st",
+    "zh": "Elon Musk Sets Roadster Reveal For October 1st"
+   },
+   "body": {
+    "en": "Musk set October 1 as the date for the long-delayed Tesla Roadster reveal.",
+    "zh": "马斯克宣布将于10月1日揭晓延期已久的特斯拉Roadster跑车。"
+   },
+   "source": "News Radio 570 WWNC",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOC00Q1diMzYyYW9OSHBYbm45SThBZXhzVjU1djZ3dndlWHFWNWZkU29fMGg1dFRPb0Yyek5zSEJpM2FnQnV6RzdjdFBoWVVoejBIWmd6Zk5nQzNrcENnb2E1THB2d2QwZ01NUVpQcm50TDZTN2xhenA5eUZFWnlhWWhmUUt1S051TUlFbmQ2c2UzRDFE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T17:41:37Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk and OpenAI’s Sam Altman back Anthropic boss’ call to ‘slow down’ AI",
+    "zh": "Elon Musk and OpenAI’s Sam Altman back Anthropic boss’ call to ‘slow down’ AI"
+   },
+   "body": {
+    "en": "Musk joined Sam Altman in publicly backing Amodei's call to slow down AI development.",
+    "zh": "马斯克与萨姆·奥特曼一同公开支持阿莫代伊提出的放慢AI开发速度的呼吁。"
+   },
+   "source": "channel4.com",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOGFGdHpQVUd1OUJXQXFWSm9SWUtCY0JadThrbDZwQVVrcnEzZzExUVhTbWN5WmZKVlB1MmJxeHJnUmY5SlM3YlJEU0lFYVpraHdpS3ktaEk5b0cwdVFmV2ZabGtaOTRaanpDMnhWM1BxeHJXSDJpNHJHMllvbWpHTDZ3c2NzVGc4QUJXQ3E5U1lKWDRZS0hRT3E2VkFuRGNSVExDRHRB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T21:03:10Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk welcomes Grok integration into Microsoft Copilot",
+    "zh": "Elon Musk welcomes Grok integration into Microsoft Copilot"
+   },
+   "body": {
+    "en": "Musk announced that xAI's Grok is being integrated into Microsoft Copilot, extending Grok's reach into Microsoft's productivity suite.",
+    "zh": "马斯克宣布xAI的Grok将被整合进微软Copilot，扩大Grok在微软生产力工具中的覆盖范围。"
+   },
+   "source": "The American Bazaar",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2hFYzVWZk1LMndKcW1jeFNuVmRpOS0tMVBtU1J1OC1aM24yckQwbFYyUndkcFV0U2ZaYllUTmN6LXB4RFRfX1M0M1pxTlVQTnZySWtJVkpRTE5sSVRMWm1HSlp6N2RPZS1Va1FhOURzUWRpa0hvQWJ3TkpSUHN6LV9qdnpNUjBuVXB1Vg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T16:28:07Z",
+   "level": "notable",
+   "title": {
+    "en": "OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development",
+    "zh": "OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development"
+   },
+   "body": {
+    "en": "Musk joined Sam Altman in publicly backing calls to slow 'reckless' AI development, aligning him with the emerging debate among lab leaders over AI development pace and safety.",
+    "zh": "马斯克与山姆·奥特曼一同公开支持放缓“鲁莽”人工智能发展的呼吁，加入了实验室领导者之间关于AI发展节奏与安全性的讨论。"
+   },
+   "source": "The Irish Times",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMFBfQm1XbVpqNUlLTTloMWtGT3JRd25EcUhxOFJ0cUVwLXpDWDlubU9BM3JvbTQxX0M3cnlPa2pGRGhOZWVqdXQwMFNyREVTUC1wWEpDV09IajcxeU9LM01uN0FHZUZvVW9BX1FpSW4xVjlKMjBRbnVzc000Zkg2LW1xbzNCN2JfVWdQMjM4QXVpUUFFVHliM3Q5akF3LTBWRk5zSHJXbk1leThWQW1CajZIT050b2VXOXVaYkpUcGVlUFk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T07:59:12Z",
+   "level": "notable",
+   "title": {
+    "en": "Sam Altman and Elon Musk back calls to ‘slow down’ AI development over safety concerns",
+    "zh": "Sam Altman and Elon Musk back calls to ‘slow down’ AI development over safety concerns"
+   },
+   "body": {
+    "en": "Musk joined Sam Altman in backing Dario Amodei's call to slow down AI development over safety concerns, a notable public alignment among rival lab leaders.",
+    "zh": "马斯克与Sam Altman一同支持Dario Amodei就安全担忧呼吁放缓AI发展的表态，这是竞争实验室领导人之间罕见的公开一致立场。"
+   },
+   "source": "Yahoo Finance UK",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiNGk1aHg0X013ZEdyQkFFNWp1Q2o1R1NxU0EwUDJLN1FGbEFyeGwxUVRSbTdVUkpOZW01Z3IyUjlGX29OaHZiSVhMX29HODd4eTdTa2Vua2NYTi13WHNPcDJiWnV0Q0E5NG8wMlBTdjJUVk9RQVBPYTJWZXRDbnc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T17:20:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk backs Anthropic’s call to slow down AI progress before rogue bots take over the entire internet",
+    "zh": "Elon Musk backs Anthropic’s call to slow down AI progress before rogue bots take over the entire internet"
+   },
+   "body": {
+    "en": "Musk publicly backs Amodei's call for the AI industry to slow down, endorsing a safety-paced development timeline.",
+    "zh": "马斯克公开支持阿莫代伊关于AI行业应放缓发展节奏、以安全为先的主张。"
+   },
+   "source": "MarketWatch",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNa3l1V19CX2wtc3hiZE9NSmpHTnZ0ZUVwUmluRHBSZjF2RUtCa3FCOGd3OFZqTmlVeGNIQ1FDbVFIWHRSZ0piZlVTeEVFU092dnJaWWd5YkRoN0lpSDNSQ3RpQWUtU2s2UFNON2lBbE44RkM3UDE1VFdzS08yOGMtU1JDRGItRDlJMUxwcTJHNkxia0hZOHRQclVOLU56T0JDeHFhcGVIeVFlOV9kODBDblBwaDB6dmJlZXhUcElXdHlPOWh6ZHN3ZUNpNHAybURqZGtMdUdLcE5yVUo0MjNPeQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T19:25:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk and Sam Altman back Anthropic’s call to slow AI race",
+    "zh": "Elon Musk and Sam Altman back Anthropic’s call to slow AI race"
+   },
+   "body": {
+    "en": "Musk publicly backed Anthropic's call to slow the pace of AI development, alongside Sam Altman.",
+    "zh": "马斯克与萨姆·奥特曼一同公开支持Anthropic提出的放慢AI发展节奏的呼吁。"
+   },
+   "source": "The Times",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUDZQX2ZZTW5HUXpXbzVZTGxlaDhpb0IyYWY4bFNXWnFYQ0VLcnE3eXBNb28xQ0pLU05KRy0yRkcxSG9SWjg0Z2paQlZadS1FVDRFNnM1TWx4dEZkb0F4Qmo4N3FYTWNNSjZlQ0JEZ0EzNnI3T18yNTE1ZGpfWFpaUkhxZ0hySjN4WTBSTG5Qa2NDcTdkTnlrcmI3NjZ2Ukhnb293NmJBZU1fWkVkSXB0ZzJ1cDJqdk1QLUkwY21n?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T21:20:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Nvidia vs. AMD: Elon Musk Picked a Side on the SpaceX Earnings Call",
+    "zh": "Nvidia vs. AMD: Elon Musk Picked a Side on the SpaceX Earnings Call"
+   },
+   "body": {
+    "en": "On SpaceX's earnings call, Musk indicated a preference between Nvidia and AMD chips for the company's AI compute buildout.",
+    "zh": "在SpaceX财报电话会议上，马斯克就公司AI算力建设在英伟达和AMD芯片之间表明了倾向。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaGRpeV9TcmZZZnBjQUxyQThaRk1rWGJsRDdBUVJGZ21jVjNSQ3B1X0d1NXpRMWMwUzRJcWItYUUtcU9jMUN3dDA5QmpUck1pcDBXX2p5bkZfelU5a2xSUDkyYnpxRFIxeEV3Wm9GMVJCcmdkc0d4cmFSMW5tdTJpN1dSZ01MWmRsMFF0bU10YXZqUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T21:17:00Z",
+   "level": "major",
+   "title": {
+    "en": "Sam Altman and Elon Musk back calls to ‘slow down’ AI development over safety concerns",
+    "zh": "Sam Altman and Elon Musk back calls to ‘slow down’ AI development over safety concerns"
+   },
+   "body": {
+    "en": "Musk joined Sam Altman in publicly backing Anthropic's CEO's call to slow the pace of AI development over safety concerns.",
+    "zh": "马斯克与Sam Altman一同公开支持Anthropic CEO关于因安全顾虑而放缓AI发展步伐的呼吁。"
+   },
+   "source": "The Independent",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRjZXbnVyd094Si1xR3NZbnRadnVqbmJuLXh5XzRzb2JsSHl4RVozeEhQdTFRXzM1WVZNMzBzN0pYT1hNUWNWRWtqWW1yZDMtYUhqUkRWdjc3SUZ0MHlQV0dLNXJxLTJNZjJtNE5ucXA3X216XzVhWFVyaTRPaU80Y1NVdHhoZW5SRWtkZFdxVThzQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T20:48:40Z",
+   "level": "notable",
+   "title": {
+    "en": "Anthropic CEO calls on AI industry to slow down tech race, drawing support from Elon Musk, Sam Altman",
+    "zh": "Anthropic CEO calls on AI industry to slow down tech race, drawing support from Elon Musk, Sam Altman"
+   },
+   "body": {
+    "en": "Musk publicly backed Anthropic CEO Dario Amodei's call to slow the pace of AI development, aligning himself with a rival on an AI-safety stance.",
+    "zh": "Musk公开支持Anthropic CEO Dario Amodei关于放缓AI发展步伐的呼吁,在AI安全立场上与竞争对手站在一致立场。"
+   },
+   "source": "Fox News",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLXZzM0EzYzE5R2xhN3JYZEgzTWtTVk5lUURGRWpBbXFyZEtieEM0YVA3cXJWdEk2ZmQzMWMwRmFET2I1dHFtamt2dUdUbFk4QS1LZEFhak1jRmJIaG9WVVo1SWJZdFg5MlZBU2lDRmFXSEZPWnRpODNIQjM3WGIxX3lEUlBXcDQ3S0FTMVg0WnFYaEx1c1d4dkFBTmxoeng0aXhzdDZVb09NSTVlSXRKMklnb0JLYmpwb3fSAb8BQVVfeXFMTVpOM3lJY0Y5aUhRbWdIWDl0Vm9QQjFrcDcwWFFucThtZlhaTWZtaTVpR3Npd2taWVBKMVcybTJaVEtnQlBlVU9HUXJUUjdHYUxRcE1TYzlVWXlZZTNKNmVKUW9DTnlka2xsS2hTQVpyLUh3WWVnQ3RiWnF2bGt1UU1jOTVJZU5tWGU3U0RnYWlJcGV0RllERmFaNmdYeUFDUENpUktGYTJRTGZsYmZOUzRhOVE0ZERWRk43dEhLLXc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T23:01:00Z",
+   "level": "notable",
+   "title": {
+    "en": "The AfD won a shock election in Germany. Elon Musk was thrilled",
+    "zh": "The AfD won a shock election in Germany. Elon Musk was thrilled"
+   },
+   "body": {
+    "en": "Musk publicly celebrated the far-right AfD's election win in Germany, underscoring his deepening alignment with Europe's far-right movements.",
+    "zh": "马斯克公开为德国极右翼政党“选择党”（AfD）的选举胜利感到高兴，凸显他与欧洲极右翼运动日益密切的联系。"
+   },
+   "source": "\"Elon Musk\" - BingNews",
+   "url": "https://www.theguardian.com/technology/2026/sep/13/afd-germany-elon-musk",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T01:24:10Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk's Aggressive \"Zero Rare Earth\" Motors Push: Unveiling Major Supply Chain-Level Strategic Ambitions",
+    "zh": "Elon Musk's Aggressive \"Zero Rare Earth\" Motors Push: Unveiling Major Supply Chain-Level Strategic Ambitions"
+   },
+   "body": {
+    "en": "Tesla is pushing an aggressive 'zero rare earth' motor strategy, a supply-chain move to cut dependence on rare-earth materials.",
+    "zh": "特斯拉正在推进激进的“零稀土”电机战略，旨在减少对稀土材料的依赖，重塑供应链布局。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jWUgwMFRWUm1aaU1qRnNoNE9xR2JUQzVLNktmMkpqTFJVUHJscnZSZDcySnJZSV9OalJCdHN5RlpmUlRkNjdsdFAyR2Z3YkZJVGVV?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T05:20:54Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Slams Damning New Documentary, ‘Musk,’ Which Claims He Said He Could Influence ’24 Election Using Starlink",
+    "zh": "Elon Musk Slams Damning New Documentary, ‘Musk,’ Which Claims He Said He Could Influence ’24 Election Using Starlink"
+   },
+   "body": {
+    "en": "Musk publicly rejected claims in a new documentary that he said he could influence the 2024 election using Starlink.",
+    "zh": "马斯克公开反驳一部新纪录片中关于他曾说可利用星链影响2024年大选的说法。"
+   },
+   "source": "IMDb",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zYVZ2dGI3LTdPYzBCOFVBU3dGd21BeDVfQkNxMURTWERqbzlnYWd4SlJ0dC13a0NpdTFPcjlzY3lybUVIYlkzOVJNaERuQ0xCMC0wWFFFQ2tUZ3N6LWE5WXQwS3JlUVE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T09:01:02Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Has Pledged to Rid His Platform, X, of Child Sexual Abuse, but It Persists",
+    "zh": "Elon Musk Has Pledged to Rid His Platform, X, of Child Sexual Abuse, but It Persists"
+   },
+   "body": {
+    "en": "A New York Times investigation finds child sexual abuse material still circulating on X despite Musk's repeated pledges to eliminate it.",
+    "zh": "纽约时报调查发现，尽管马斯克多次承诺清除，X平台上仍存在儿童性虐待内容。"
+   },
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LaDVXcFd4Yjc4OHRmWjhZLUZ0amloTVBOY0NrUF90X01pYi05ZDlGUl9hanlNemNCUzJMMlR2RmdhLTRVeGxuUnk4R3RRYlJDRTdxeVFtYXBncFZVbDROam5peWM5VnFucWNjbVBZei1GRzh0cm1WNjNR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T12:22:34Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk’s The Boring Company Eyes Middle East Expansion; Valuation Hits $23 Billion",
+    "zh": "Elon Musk’s The Boring Company Eyes Middle East Expansion; Valuation Hits $23 Billion"
+   },
+   "body": {
+    "en": "Musk's Boring Company raised $3B at a $23B valuation, led by UAE investors, to fund a major Middle East tunnel expansion.",
+    "zh": "马斯克旗下 Boring Company 完成30亿美元融资，估值达230亿美元，由阿联酋投资者领投，用于在中东扩建隧道项目。"
+   },
+   "source": "صحيفة مال",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TaUtFVkJiYjFWaHE3bGlzcThSaE5VdGhmX2ZsazNBTTh3eWlMMVplbnZucDFSQUttcGdYVFBKajg5Yi1nSElKbUJkSnNfMFQ2aU1JbVhDZVN1b29EcE50SklZMXMxQ0ZCenc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T12:19:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk's Cybercab has no steering wheel, pedals or mirrors; US safety regulators open audit of about 1",
+    "zh": "Elon Musk's Cybercab has no steering wheel, pedals or mirrors; US safety regulators open audit of about 1"
+   },
+   "body": {
+    "en": "US safety regulators opened an audit into Tesla's steering-wheel-free, pedal-free Cybercab robotaxi.",
+    "zh": "美国安全监管机构对特斯拉无方向盘、无踏板的 Cybercab 机器人出租车展开审查。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOT2pCRlQ1MWZfdkJlM05uUm5ub2RYM3gwVW9STHlVQjN1R0E3Q0FNQnZqQXpISFlmVmlTMXk0ZHJGV1NFVjhhN0pkTzNicDNDcFMzdVlMM0MxbC1GM0NNY2NrV3RzX3lSUnJ2dHRiU3BOLW14RmtvcHJuNHFISHFaT2Y0ajg1ZmJHWFpwcHQ5UkcxbE1RTHBfWmlmT2UzVGRmR2NOWVFuaEl0NFFEY2ZKdlNqbnhCNF9vd2ZsWTFmU0VFMzl0bWhxNldRMW4tZ0RWTV93Z1RjeGx3LUJCbVZZMmtLMTdxRjJvanM3czYxazR6dGplek1LWXphZ1FaVURGT3VQam1zX3dKQXViMEtka3l3UEMwMlhoVDhKVUN3ZWNjQ3RPOE9QcjJTTUdyZEFGelAxcF9PTHlPMFlicW15a3diMnM2RW_SAcwCQVVfeXFMUHFtVHdYWW9MUk82N2oya0tKaGR3SEtybGJrNGo3UklrSUV2NHBpNnBIZml1NmZ2VDIzY2syeHN0LTBQeXV1ZXRzWU1pR1MtSVNqM21FeGg3RmxuS05NQjV5cjhJRDdYdUY0N2dLZGx1bTRaTWhqNWRZS3NhalFpSlBORUpEVGZLNmdfYno0dV9oVTBJUEtTb2xiRndfMVI3R1hfNVFSaF8wNWdXZzFzQ1dVNWRCYkRGOUVpeUtKb1paOXBZTzIyWWRIM0xmU1VjUWRZNlRaSUpVdWVVbmxieUlSLUdTU3c1dVB5WjBtSnhkUmNXRFVwRzBlZkNmcDMwWWhjM0dJdzRfMlRkTnNxaC01VXQxTE90ZWt2WEFrVXE2MVFtaFBWaGVLMVJyNVBLVnBOZ0FjeXhLZk00LUlLWnUySzFIb2FxY05BZ28?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T14:30:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk's tunnel company just got a fresh $3 billion injection, thanks to the United Arab Emirates",
+    "zh": "Elon Musk's tunnel company just got a fresh $3 billion injection, thanks to the United Arab Emirates"
+   },
+   "body": {
+    "en": "The Boring Company raised a fresh $3 billion investment from the UAE, a major infusion for Musk's tunnel-infrastructure venture.",
+    "zh": "马斯克旗下的Boring Company获得阿联酋30亿美元的新一轮投资，为其隧道基础设施业务注入重要资金。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQVNtWXJQV3R6Uk4wT0NELVdWX3Vud0d4VTdxWmZ3ejNLd0ZCWFFwRWlyTWJfWDZuNlFvaUVWVUJKRUtsRG82cXZpOWswb0sxWTlLMW9UdjhqOEFsYzRiZl94SW5aYWRHbGE3OUhwY01udjlsTDdGTDZsRElsVnU2U05RbFNzTzVCSXpuYzFhUDdocE0tY1E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T19:53:00Z",
+   "level": "minor",
+   "title": {
+    "en": "Elon Musk’s Boring Company raises $3B at $23B valuation",
+    "zh": "Elon Musk’s Boring Company raises $3B at $23B valuation"
+   },
+   "body": {
+    "en": "Musk's Boring Company closed a $3B funding round at a $23B valuation.",
+    "zh": "马斯克旗下Boring Company完成30亿美元融资，估值达230亿美元。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWTJ1WUJkRnJGSHRhbld5NjU0Ny1kaHFhZXlJQXdZTm5yV3VzTjVsbzRNTllmSXk4VEZFRXpvSFRRS2JBMjBtM3U0Qmo3UU1qay0waDZfeHltSWJDNTlWSXRBdGlSLTlwOXlrZTBfVEhrNlhscnNsejBrLVNUOFdkN0dBcHg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T21:00:01Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk threatens to file a lawsuit against Oscar-winning producer Alex Gibney and his studio \"Jigsaw\" after a four-hour documentary about Musk allegedly defamed him. | via ANC 24/7 Link to the full story in the comments section.",
+    "zh": "Elon Musk threatens to file a lawsuit against Oscar-winning producer Alex Gibney and his studio \"Jigsaw\" after a four-hour documentary about Musk allegedly defamed him. | via ANC 24/7 Link to the full story in the comments section."
+   },
+   "body": {
+    "en": "Musk threatened to sue Oscar-winning filmmaker Alex Gibney and his studio over a four-hour documentary about Musk that he says is defamatory.",
+    "zh": "马斯克威胁起诉奥斯卡得主制片人亚历克斯·吉布尼及其工作室，称一部时长四小时、有关他的纪录片对其构成诽谤。"
+   },
+   "source": "facebook.com",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYXo4T0ZtMWlHczNBc3k0UHhhd2dsb1I2d0xKNWVvd0N5OEdMd0IxM1BuMDBUdlUxY0RZbUFCWVJXMnNkQmE2Y2tNMUpBT2ZuT19tdnY0MlExS0F0RTVtZkNPWXdUc05maHJ0MlRLOU5BaTNndWtsWXlhdmV6QmpmQU1iOHlKT0NrUHJCMnhxOXBuN1hOSUtXM29pVzIyeGtVR2JZZklQdXBuMXdzVGJPazBBMW5YZGZUWU9VTmF5QkJ2QkJvUFB6NVdjMnVxWFBPcEw1THE5aw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T13:30:17Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk's Boring Company Raises $3 Billion at $23 Billion Valuation, Plans Over 93 Miles of UAE Tunnels",
+    "zh": "Elon Musk's Boring Company Raises $3 Billion at $23 Billion Valuation, Plans Over 93 Miles of UAE Tunnels"
+   },
+   "body": {
+    "en": "Musk's Boring Company raised $3 billion at a $23 billion valuation, with plans for over 93 miles of tunnels in the UAE.",
+    "zh": "马斯克旗下Boring Company以230亿美元估值完成30亿美元融资，计划在阿联酋建造超过93英里的隧道。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPamJreE1rQlkyYzhoNHlabU9pNk5haG13ZmFWbVk1RlVsdjZEZ1Z0akZxZWh6cE9kN3FtQ2JKNC16cVJUZFZGR19YX0JYVUZlLTVyQ3ZxNDkwYnBPa2RIYTJUOUJ3OTY2TDJta3RpV3lUb053RGYzWkIzUGpDVXF0dDFNMjVvRm42UXI3QmowYUxTWnB6V2I1SQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T08:40:06Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk's Boring Company Valuation Hits $23 Billion, 4 Times Its 2022 Mark",
+    "zh": "Elon Musk's Boring Company Valuation Hits $23 Billion, 4 Times Its 2022 Mark"
+   },
+   "body": {
+    "en": "Elon Musk's Boring Company reached a $23 billion valuation, four times its 2022 mark.",
+    "zh": "埃隆·马斯克旗下Boring Company估值达230亿美元，是2022年估值的四倍。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd3VxTGhNcWxZbnE5UkNEOE15MHdIZk1XLVRyLWl1VzVhMUxFUHZSeXByNlRRWkZjcTh6OWdQV3RQTDlBTzdjUUFDWF82OGtObXZpUWJ4R3M1YWdGNWxCYzR3UGhYTWlaeGhyQ29Kc0FHVEFaUVRrT3hEbmZPN05HOUcyOERocTJUVmcyTU56RUxycFJUVFJJVzBtNGZrU2NudUE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T10:33:38Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk's Boring Company Raises $3 Billion at $23 Billion Valuation, Plans Over 93 Miles of UAE Tunnels",
+    "zh": "Elon Musk's Boring Company Raises $3 Billion at $23 Billion Valuation, Plans Over 93 Miles of UAE Tunnels"
+   },
+   "body": {
+    "en": "Musk's Boring Company raised $3B at a $23B valuation to fund over 93 miles of tunnels in the UAE, a major expansion of his infrastructure business.",
+    "zh": "马斯克旗下Boring Company以230亿美元估值融资30亿美元，用于在阿联酋修建超过93英里的隧道，是其基础设施业务的一次重大扩张。"
+   },
+   "source": "benzinga.com",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWERfb2wyMHkzOV92ZGNYWmhSd3ZpNDRmM2tlWGlLbVczbXhGTzlNYm1QNlgtNThWcHVMVmtfY3h6S04zcXh4R3RiaDl4MHU0dzVyV1FkYk0xUk1aSUtqMkM0QzJRSlV4WVpRbHVXQWZpbDdJeUpjRXRmUjBOQ1d6dVRzb044dTVISUxTY2ZKakV1ZG9Oc3kwd21wQ0dHNENrbXNPdzFjSno4ZXF2bWoxLVZ1cHZQbDFOWU5uOXh2VjZNNU5ZSDJzcWFKYmluc09rOGh6LTdRN3dRZExJUGxwTDdwOVllODRCeHc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T12:57:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s Boring Company raises $3B at $23B valuation, led by UAE",
+    "zh": "Elon Musk’s Boring Company raises $3B at $23B valuation, led by UAE"
+   },
+   "body": {
+    "en": "Musk's Boring Company closed a $3B funding round at a $23B valuation, led by UAE investors.",
+    "zh": "马斯克旗下的The Boring Company完成30亿美元融资，估值达230亿美元，由阿联酋投资方领投。"
+   },
+   "source": "Electrek",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcUwyb2Etd29uZEV1RE5WVjhnMWtwRVJfbmRvc0RlRGVvMFd2Smp0YmsxR0g0SXd6Z2VBM2hMMlhFVm42NHJILVpSb09lVjdQeTNRZF9zbzJDeWsxbkM2VUlyRUxVbF9qSFNPLTdLSE9sSzd1Q2p5bjMwazJxQndwVHFwQ0V6YkNPeGdYMjdQTUlEampy?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T13:30:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Raises $3 Billion For Tunneling Startup The Boring Company",
+    "zh": "Elon Musk Raises $3 Billion For Tunneling Startup The Boring Company"
+   },
+   "body": {
+    "en": "Musk's Boring Company closed a $3 billion funding round, expanding the tunneling venture alongside his AI, rocket and car businesses.",
+    "zh": "马斯克旗下的Boring Company完成30亿美元融资，隧道业务在其AI、火箭与汽车版图之外进一步扩张。"
+   },
+   "source": "Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbjVSRFB4dXYzOFBxeVVOeTRMQzVfVVpsVkN0Z19ZOVZXUkNyU2c1dEJDS3VuRnIwc0JqRXVPaHhhZVpUbUZkZURBc1NvSWhBU01FMjZGTy01WFJ1OXhCdGNEYlBYTHR6eHFlMXlhazNNclNPbjRMV3NhOFBLUFdURUlFMWJnSDJJNUhPM2dqWlBaNlM5aDJZ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T12:53:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Threatens Lawsuit Over Gibney's Documentary",
+    "zh": "Elon Musk Threatens Lawsuit Over Gibney's Documentary"
+   },
+   "body": {
+    "en": "Musk threatened legal action against Alex Gibney's new documentary about him, escalating a public dispute over its claims.",
+    "zh": "马斯克威胁将对亚历克斯·吉布尼拍摄的最新纪录片提起诉讼，使双方围绕纪录片内容的公开争议升级。"
+   },
+   "source": "newsradio 1040 who",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb0pkU0tnVkJOZnViUzlYd2RxSFFIR0puOGxvV29Gc0d0QlgyYnRlaXI5Q25nR1ZUNW5QWHZJRHJ3TWQyRDhLTGdLbnNJbC15cGJueTFsampDeTVGV1cwb0lDeW5LZGlNQnY0N3R1Qnp4dVFuU0JKa0tzRGxfM191WGZueWN6eFo5TzBpZlltc2Z3NDFKVm8tV19ySzdmQU81V2c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T14:27:00Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk's Boring Company raises $3B, shattering Austin startup funding record",
+    "zh": "Elon Musk's Boring Company raises $3B, shattering Austin startup funding record"
+   },
+   "body": {
+    "en": "Musk's Boring Company raised $3B, the largest startup funding round in Austin's history.",
+    "zh": "马斯克旗下的Boring Company完成30亿美元融资，创下奥斯汀初创公司融资纪录。"
+   },
+   "source": "The Business Journals",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZDNJWUF0M2Q3QU4wQUswcm9zak93UHJ5OE1PMmwteEFpdmgzblhMR19CczhWUjhqa2RrT2tIVjFqUW9KREZzTzF5eEY4dTNuMjl5elFzbUNxd0p4TnVnS0JnNDduSUpydVdFREQyYXhUU0FXYnZfTjNCeXhhTk9XZExtajBJQUlCQnBmNFBsMkZQMndU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T17:56:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk's SpaceX sues Texas AG over Terafab tax-break records",
+    "zh": "Elon Musk's SpaceX sues Texas AG over Terafab tax-break records"
+   },
+   "body": {
+    "en": "SpaceX sued the Texas Attorney General to block release of tax-break records tied to its Terafab facility, a dispute over public disclosure for the compute buildout.",
+    "zh": "SpaceX起诉德克萨斯州总检察长，试图阻止公开与其Terafab工厂相关的税收优惠记录，这是围绕算力扩张基础设施信息披露的一场纠纷。"
+   },
+   "source": "USA Today",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN1B2ekRhb3kybUZQWndHTmw0ZjJXY3p1RW5tUDlFeWdxY1lwVW1nQnk3T3ZncXhBTHlvaUJqMXQ2bzAzNmxxYkVreEItaFFvRWZTamNqZ3BXeEpaMXBXaFB2X25uNFJyWFFtcEIyTDEtenlHSjVNRXpBa3VIWVhCWTV0WW8taWJhZElLZC1nd2ZUdWhELW9XQTZnNXJid1NOeUhCMTctZTFOQnc2WUl5VE1xYmFyZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T17:29:37Z",
+   "level": "minor",
+   "title": {
+    "en": "Elon Musk threatens to sue director for making a 'hit piece' documentary on him",
+    "zh": "Elon Musk threatens to sue director for making a 'hit piece' documentary on him"
+   },
+   "body": {
+    "en": "Musk threatened legal action against a documentary director over what he called a 'hit piece' film about him, the latest flare-up in his running conflict with media coverage.",
+    "zh": "马斯克威胁起诉一位纪录片导演，称对方制作了一部针对他的\"抹黑\"纪录片，这是他与媒体关系紧张的最新一例。"
+   },
+   "source": "KATU",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNmNYT2xQR014S1NJTHNXS2xRN0toUVF5VFo3X0trWVdtRGpyVUxLY1N4Y2RGc0h2aUxLMm00bFZ0RWFacnlKU3VaTDNJOWw4bFgyZnFNYzU2b0ZWanN6YnJoQ1RfU2hYSXJ6bldYNWNldUJxdUtWbW1QZ3loVktrVHc2THgyMDlPbVBNWFBzdjcwLVJzQ0pMRExBeEJiWmVHbGRPLWJlS3FIWGdQbmdyWDdBX3VlZjZTZkhEZGUyOHB6VEQyUzFTNWFjY3JDXzk3ZUlEWkRNZlBrZVU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T13:06:39Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk is Running a Fake Voter Registration Site Designed to Steal and Sell Data",
+    "zh": "Elon Musk is Running a Fake Voter Registration Site Designed to Steal and Sell Data"
+   },
+   "body": {
+    "en": "Reports surfaced of a fake voter-registration website impersonating Musk designed to harvest and sell personal data, a scam trading on his name.",
+    "zh": "有报道称出现一个冒用马斯克名义的虚假选民登记网站，旨在窃取并出售个人数据，这是一起利用其名声实施的诈骗事件。"
+   },
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTFlEaXZQQjFQSzRweE9zNTBmcGg0WkI3SDhzVHJnamNZeHVfbHpSeWZrdWRiNWZBNGEwckx6LV80THBGMXhxT1lDTldLLW85NERlbnZBZnlNZ1RmUExqN005b18yalhrZ1o2UUJnN2EzMDhVblBXM09wNHFOZlZpSlNBeUd3YjlGOGJHYmpOUXp2QQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T18:15:59Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk's Boring Co. turns to Middle East for expansion in reaching $23 billion valuation",
+    "zh": "Elon Musk's Boring Co. turns to Middle East for expansion in reaching $23 billion valuation"
+   },
+   "body": {
+    "en": "Musk's Boring Company reached a $23 billion valuation and is expanding into the Middle East, a real funding milestone for the tunneling venture.",
+    "zh": "马斯克旗下的Boring Company估值达到230亿美元并向中东扩张，是这家隧道工程公司的一次实质性融资里程碑。"
+   },
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4zTVhEV3FqQndaejJhZ2lnOHR6cHVNZzFfMVNfQU5aWmJzOFF4dDZvcFpHXzRUb0dMODhnSjZsZTlSdjRYeWM2bTViSzMtMXYwSHlWS2dyTkpKb1c4d256aE1Lc01IbzFRd3lkOHpaVUpPRVJhZFBPRHp30gF_QVVfeXFMTUNUR210MXQzblNzWUZoeWJJbVFyekVaTzllRU1yVlFCV2tfeU1ITjAwN3hBd1JmZGowdjk3YlktSF9qYzhWdWJvcUg4bHRWOTVDTHh0Z1BXcmRMemtVWi1Mbk02NzJQZGFPbVMyWUhUcDVMUmZndmNjWDV5OUlxdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T22:05:53Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s Boring Company raises $3 billion in funding round led by UAE",
+    "zh": "Elon Musk’s Boring Company raises $3 billion in funding round led by UAE"
+   },
+   "body": {
+    "en": "Musk's Boring Company raised $3 billion in a funding round led by the UAE.",
+    "zh": "马斯克旗下的Boring Company完成一轮由阿联酋牵头的30亿美元融资。"
+   },
+   "source": "The American Bazaar",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd0RpQlpvMHFTRDctS201aUdQWk5nc2VQV24xSk9wbndra2doN292MUtoelc1cG9zWVpHNzVXT1RNR2hCb2tzNkJ1NEZDNzRkR0JpbEcyMWJCaXFDZ2h1RkNfNVl4dmVRU1h3RjRoSWRUZUVVT0lVNnlqOEhGaThHYnhQZlhVMHJrTHZQYnQwaVh0b0JjM09ZZi0xNkY1ZTh1bUZLazhxdVFZZXhtU1p1Y3hxOEVjOWtjT1cxSjZqZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T18:59:17Z",
+   "level": "minor",
+   "title": {
+    "en": "Elon Musk Threatens to Sue ‘Hit Piece’ Documentary After Buzzy Premiere",
+    "zh": "Elon Musk Threatens to Sue ‘Hit Piece’ Documentary After Buzzy Premiere"
+   },
+   "body": {
+    "en": "Musk threatened to sue over a documentary about him that he called a 'hit piece,' after its premiere drew attention.",
+    "zh": "马斯克在一部关于他的纪录片首映引发关注后，称其为“抹黑之作”并威胁提起诉讼。"
+   },
+   "source": "parade.com",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11a2FWSkMzLXFsMXNjTGFiZXZwQWNqVE1lZjhRSjdXQW5PS0Ztbk93V010LWlXRWRHWWlyemNtc1hBRUtCaUd3OXJLakxLZk1TOEZrMEEwM2ZYcHdMTG1Wcll4WDhhUWd6ZFFKR3o5NkJkcXNkal93?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T18:15:59Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk's Boring Co. turns to Middle East for expansion in reaching $23 billion valuation",
+    "zh": "Elon Musk's Boring Co. turns to Middle East for expansion in reaching $23 billion valuation"
+   },
+   "body": {
+    "en": "Musk's Boring Company is expanding into the Middle East after reaching a $23 billion valuation, a funding milestone for the venture.",
+    "zh": "马斯克旗下Boring Company估值达到230亿美元后向中东扩张，是该公司的一个重要融资里程碑。"
+   },
+   "source": "cnbc.com",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4zTVhEV3FqQndaejJhZ2lnOHR6cHVNZzFfMVNfQU5aWmJzOFF4dDZvcFpHXzRUb0dMODhnSjZsZTlSdjRYeWM2bTViSzMtMXYwSHlWS2dyTkpKb1c4d256aE1Lc01IbzFRd3lkOHpaVUpPRVJhZFBPRHp3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T18:30:07Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s Boring Company Has an Unusual Requirement for Its New Funding Round",
+    "zh": "Elon Musk’s Boring Company Has an Unusual Requirement for Its New Funding Round"
+   },
+   "body": {
+    "en": "Musk's Boring Company is raising a new funding round with an unusual condition attached to it, per Yahoo Finance.",
+    "zh": "据雅虎财经报道，马斯克旗下Boring Company正在进行一轮新融资，并附带一项不寻常的条件。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0I2cnpydWotSGRPaDBjcGlxRXJXVlBEdTFvOGg1QkdDU0tPZzBvRGcyekZadkh5SExxY2dCQm9NRU1qOEFWRnlyNjBuUDBLZ2N4bldqdEZkMG9FVGpqc0Y3b3F5bkdVc2oyX3BWeHFlanJNZTV5MjZDYlJFaHJMUFM2VTR3WW1KTGlEMHRRbGx1S1JVMHFIdFotMlVVUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T21:47:48Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Targets Democrats on Transgender Issues in Key Senate Races",
+    "zh": "Elon Musk Targets Democrats on Transgender Issues in Key Senate Races"
+   },
+   "body": {
+    "en": "The New York Times reports Musk is funding efforts targeting Democrats over transgender issues in key Senate races.",
+    "zh": "《纽约时报》报道称，马斯克正出资在多个关键参议院选举中，就跨性别议题针对民主党候选人发起攻势。"
+   },
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjBVSDIyVDJBNWNRM2FTZlpCZzkzQlhiY1hEMklGbHJ4SUhySmF3S0I0UzNYcURKaWMzZGFSVnFLUzdWM3FacUlaX1hkQko1TnJRcWdJX2h1TXZLWDN1VG84NGx0dWJoTEo5dHhnYmxHbFRRN295YXNhOHhieWd0ZkZvRTBJckl4eVFlU092dGJPd0c3RzQ4?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-07",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "First Thing: German far-right leader thanks Elon Musk after landmark election win praised by Russia",
+    "zh": "First Thing: German far-right leader thanks Elon Musk after landmark election win praised by Russia"
+   },
+   "body": {
+    "en": "A German far-right party leader publicly thanked Musk after a landmark state election win that drew international attention, including praise from Russia.",
+    "zh": "一位德国极右翼政党领袖在其赢得具有里程碑意义的选举后公开感谢马斯克，此事件引发国际关注，甚至获得俄罗斯方面的赞许。"
+   },
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWVvcDNqZDJkZV9BTzY2aXc3aVlSek9VaXlVMmJVRW5DNXhzMWFvUXJLSWdWdWFWLXlIdlBsTUM0ZkFqUEJIUThvOUY0RXVjdjJ4Zm84YjVVbWRNaTlJVElXSkZkS3JDQW9CeFZ6SmI1M1dVZ0pqWkR4QXJFcXhvajJSVzFXS2d0QzhMX0xWbU1wX050R2tFLVJHQ2lDZV95dkI5VjNwRXF4Nkg3UVpj?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-06",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Says His New Foundry Can Get Gas Turbines Online 18 Months Faster. Here's What This \"Profound Game Changer\" Would Mean for SpaceX and Tesla.",
+    "zh": "Elon Musk Says His New Foundry Can Get Gas Turbines Online 18 Months Faster. Here's What This \"Profound Game Changer\" Would Mean for SpaceX and Tesla."
+   },
+   "body": {
+    "en": "Musk said his new foundry venture can bring gas turbines online 18 months faster, calling it a major boost for powering SpaceX's and Tesla's AI compute buildout.",
+    "zh": "马斯克表示他新建的铸造厂能让燃气轮机提前18个月投产，称这将为SpaceX和特斯拉的AI算力扩张提供重大助力。"
+   },
+   "source": "The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZGFwczh1d2IweXBZMWdsSk1uZTZZaGFZdmxIejl0dEh1ajFFMnM4WUJyRWpRWDhWcC1VR29udHJieDBwZm1ibnVLOVpCN1VwNWx1V1dwdkV1QTRGbzZsUkRxZWZDSi1ET2V5NVJiNU9qbElPSGx5bEdDX2p2TFJmNjRBamtVWlVuSnVXWXVPN0l2S0dOMkE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-06",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Says His New Foundry Can Get Gas Turbines Online 18 Months Faster. Here's What This \"Profound Game Changer\" Would Mean for SpaceX and Tesla.",
+    "zh": "Elon Musk Says His New Foundry Can Get Gas Turbines Online 18 Months Faster. Here's What This \"Profound Game Changer\" Would Mean for SpaceX and Tesla."
+   },
+   "body": {
+    "en": "Musk said his new foundry venture can bring gas turbines online 18 months faster, a claim with direct implications for the power supply behind SpaceX and Tesla's AI compute buildout.",
+    "zh": "马斯克表示其新建的铸造厂能将燃气轮机的上线时间缩短18个月，这对SpaceX和特斯拉高耗电的AI算力建设背后的电力供应有直接影响。"
+   },
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNM3k4VUl0RXlIRWQ1cG5UdjZQVlFVcm9XcG8yemllNHFNNnVVYWFsUlM2OTBtTXNhYjlxWk5COThfTURHdFJFTjZWNlhGbzRvWnlhNUx3RVk1bl9mMmhMbko5WXRBZjIzcWl4WThBN0ttd3NCRTBVSWdHZ3VRc3owc1VqWXh3aGV2dlRnajA5d0ttbVpyNkxmaDJReWxzcE1HdjBRendMbm1uT0pldURpRTlBZjgwQmQ2MVR4RVBCdE1XS0w2N01DcG0zYlU4VVBWZjdLbzlXOXhMR1IwUWpJM0FVU0FBUjMxbHExWFl2MkFvWDJIajl2MmtuaDd0OWFXbDdWbEhoTFhIeE1HNklMb1h1cFp6TWJ1eXAtd2g1RUZ3dk5adVNQc04tTWg2YUxHT1ZkYjMybHVLYnZYNGJyaE1pM0YyVFpFSDdBWQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-05",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Elon Musk Says Cybercab Is Gold to Reflect 'Golden Era' of Mobility as Tesla Launches Robotaxi With Starlink",
+    "zh": "Elon Musk Says Cybercab Is Gold to Reflect 'Golden Era' of Mobility as Tesla Launches Robotaxi With Starlink"
+   },
+   "body": {
+    "en": "Tesla launched its Cybercab robotaxi service integrated with Starlink connectivity, with Musk calling it part of a 'golden era' of mobility.",
+    "zh": "特斯拉推出集成Starlink连接的Cybercab无人出租车服务，马斯克称这是移动出行'黄金时代'的一部分。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbFBnVVZIYnFXU3oxdDUtMzJUXzItZkFKYldGanQ4cXNDbFRKVGswZnNXQndxWHBFQjFqWkI5X3VYWF9US0l4M2JHUGZDYWpOYW55cm5YTjQ5MlZVOHExdS1oUHpmQ2ZnMVZJNHNGSlVpQm12RDgzZjBGZC1oUS1BVXQ3dTRUZ0V0bFBCNjBrRHYxcjQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Committed SpaceX to Building \"Exclusively on Nvidia.\" Here's What That Locks In for SpaceX's Compute Bill.",
+    "zh": "Elon Musk Committed SpaceX to Building \"Exclusively on Nvidia.\" Here's What That Locks In for SpaceX's Compute Bill."
+   },
+   "body": {
+    "en": "Musk committed SpaceX to building its AI compute infrastructure exclusively on Nvidia hardware, locking in the company's compute strategy.",
+    "zh": "马斯克承诺SpaceX的AI算力基础设施将完全采用英伟达硬件构建，锁定了公司的算力战略。"
+   },
+   "source": "The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZ29MeFFsOHNkQlRKTzh2UlhKZV85amU3eTUxUkJPQ0ZVSWtYdl9kS2ZXc0JxdEd6c25SOFJXbXJFcjFhVjRaeWhPNkpPT1lfVzdwZE1LaHhoWmdrZjFvTWpmSUdNTW5nTDUzUTVxd290dU85S2FkQkc3MnBsbjFVQkZVeHRnV0VIWnRwZ25ORGdoaG9QcTdLb0l3ZTFjTHhTMml3NTFCYm1BRW13aEE0U2dqZ2RUYS1WZHg5Z19wa0h4b3Z1RTh4VWh1SGJON004SnpDR0FPckFfUVNDODBpNjRMS1hQRWJGbEhR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "level": "minor",
+   "title": {
+    "en": "Judge keeps Minnesota ‘nudification’ law in effect over challenge from Elon Musk’s AI company",
+    "zh": "Judge keeps Minnesota ‘nudification’ law in effect over challenge from Elon Musk’s AI company"
+   },
+   "body": {
+    "en": "A judge kept Minnesota's 'nudification' deepfake law in effect despite a legal challenge from Musk's AI company.",
+    "zh": "尽管马斯克旗下AI公司提出法律挑战，法官仍维持明尼苏达州的“去衣化”深度伪造法律继续生效。"
+   },
+   "source": "Star Tribune",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVW9wVkZUVXZSTVZ0RVR6ZDMwSExDVVQ0QWdPQXZVOF9WQXZpTjloMmEyeHBibUZzUzEwRy15MTFOZkc2bXNPbmh0SnZzMlRJem5zMFdOajctcWNabHVNQXVmZE41TVdRVmw0V3hhMjVvbEZlV1NRYTNWOWdZdW96S0Fmcnp0SllVbm5xNDltT2lRcE9YRnFRUHdka1d6dlRGVUxuQ1VVWE9RLWdEU0hibDRSQTM5b05wY1UzbC1SRzlCN3BVanRn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Child sexual abuse survivor alleges Elon Musk’s AI chatbot used photos of her to generate new illegal images",
+    "zh": "Child sexual abuse survivor alleges Elon Musk’s AI chatbot used photos of her to generate new illegal images"
+   },
+   "body": {
+    "en": "A child sexual abuse survivor alleges Musk's AI chatbot Grok was used to generate new illegal images from her photos, The Guardian reports.",
+    "zh": "据《卫报》报道,一名儿童性侵受害者指控马斯克旗下AI聊天机器人Grok被用于利用她的照片生成新的非法图像。"
+   },
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMzVOSVYwT2M0amI4ZWJ6dkxDaEZ6LTN3dkFMczlCd1h3aXNjR3FZS2RybTNFS3VkRmo5VTN3M0t4NHJhOS1QYmlVaXNicUY5WHRwWHlMZTh0WkJXek5OWVdSeEFPeC1FV09veXo1OEt6QnhJQkpScHI2NzRHRkp5UmRIaTA0dFdNUDFLM0dFei0?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-02",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Wants to Make Power-Turbine Components. It Won’t Be Easy.",
+    "zh": "Elon Musk Wants to Make Power-Turbine Components. It Won’t Be Easy."
+   },
+   "body": {
+    "en": "The Wall Street Journal reported on Musk's push to manufacture power-turbine components, tied to the enormous energy demands of his AI and compute buildout.",
+    "zh": "《华尔街日报》报道了马斯克推动生产电力涡轮机部件的计划,这与其AI和算力扩张带来的巨大能源需求相关。"
+   },
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUjBTTjd6ZDVHSTlabVlRekVIbU84Y0ZTeWw2T0RIUV9vVGZIVlhqZU5FTnhaZ0ZLcnMzVjdrMkFtdkJaeWlYVm1iQ2xlSlN5YWVBQlQ0clBpZlk5YkZBbVhwVVRZUzZoZm5fQlJfUEVFcnFXRkRWbVNZSkpKVmFWb2NSWnNoWkJ3SkdxMVVBdUlDWXdIYVhVcUFfbkg5d3RWSlhKdQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-31",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk says SpaceX will build its own gas turbine parts to meet surging AI power demand",
+    "zh": "Elon Musk says SpaceX will build its own gas turbine parts to meet surging AI power demand"
+   },
+   "body": {
+    "en": "Musk said SpaceX will build its own gas turbine parts to meet surging AI power demand, a concrete infrastructure move to feed the xAI/SpaceX compute buildout.",
+    "zh": "马斯克表示SpaceX将自建燃气轮机部件以满足激增的AI电力需求，这是为xAI/SpaceX算力扩张提供能源保障的具体基建举措。"
+   },
+   "source": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZkZQdS1RVzRlRXFmamNBUE55czVjS2ZyZ1hMcW1KcmNNb25EaUFfR1p6ZVd6SUpSMXk1UllJTVloVUlCQ3JkSVIyME1KbG1mSnJQY0haeUs0dVotTzNubGwtV3dqZl9zbG9DNWpzN0NEUUdIY1ZMV2tjZV9MMlhkdU9pelZTQjJScXdkMnFNUkpmY2ZIU2JuYnRn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-31",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Elon Musk Is Spending $119 Billion on A Single Building Outside Houston. Here’s Who Actually Profits.",
+    "zh": "Elon Musk Is Spending $119 Billion on A Single Building Outside Houston. Here’s Who Actually Profits."
+   },
+   "body": {
+    "en": "Musk is spending $119 billion on a single AI infrastructure building outside Houston, per reporting on who stands to profit from the project.",
+    "zh": "据报道，Musk正斥资1190亿美元在休斯顿附近建造一座AI基础设施建筑，报道分析了谁将从该项目中获益。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZVNROHplcFUtamxlejdzZGJaR1ZfTEdfeXJnZTZNRVk5eFBUTC1uM2RTdnRZVWxjUXcxdEtBTXE1RHR6TXhBOEtkRi1wa3c5ZWFTT2NDQmp2Y05fLXBLMDM5VmY0VU5OazlaeHhRQldvYU4wdDdCcUpXdld3TVZJODJnc3RjWEk4MmFfZHVDZzlENG44cW5SVU4tNA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-30",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "NASA Administrator Jared Isaacman joins Elon Musk and Sundar Pichai in their Space data center plans; say",
+    "zh": "NASA Administrator Jared Isaacman joins Elon Musk and Sundar Pichai in their Space data center plans; say"
+   },
+   "body": {
+    "en": "NASA Administrator Jared Isaacman is reported to be joining Musk and Sundar Pichai in plans to build data centers in space.",
+    "zh": "据报道,NASA局长贾里德·艾萨克曼将加入马斯克和桑达尔·皮查伊的太空数据中心建设计划。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPQ3Q1U1RxVmVBSXprTTNHOHo5SklqUmJ0Y1hLOGN4bG1oMTFMVUVhbXQzUnpMaHduS2V3eFpfaFZvWU85M0RDaEU3WGJaRGxGV3o1dWZsT01mQWozYWFrN2RMRVVxaG1aT181X2dQdl8yMFRoX3VleGxLSnZJc05Uem52Z1FpZDNSbFVQTnQ5RlNIQ3FDR0tCbXBvc1VTMXlTYTl0dUI4SXRFMW05cExBdXpWcHpqWXVVbWU4dE9aM1hZMlJ2STJQbGdCdEJ3TTl4SjNQS3VGbjZjVXFRVWVxWFVXd1RwanN3eThzRDV0NVdSdDg5b3dzMmJ1NC0tV0d4V3VJZ3UwODZHRnFYOGpOSHNyOGV2RWNza0JfQ0lCN2t3S2Y5UUNjbVE3X002VUQ2bzNSaGhVZ2RVVnhPWE1Ud9IBxgJBVV95cUxOa1A4Z2F2MkZNRFNuQjNJOVNFdUtLSk5aNVR1TWtiMk5RYzVKNnNRT3pPYV93emhmRXlhd21YdklfR0VRbjU4c0N5RTNYaDNWRnBjZDdRdlg5R1FsQ1FyRktoY2hqMV9LMXJHaEJ4R3owcmRyM2w2U3pOa0tWeGlGUFV3bzBrMV9ZdW1IbmpiT1Q3QWVQTmhoQUxZd1ZIVUh4Nm53QUVEejFnWjhnMEVaWjU3dE8xT01lMjBBMjJQcGREajFUM1JTYWdPMXFmU1M5ZVl4UUZvRHU2U2M3UlJmSzlpeEltc2ZDNjB6ZWU1VUpxdjU5TDZGek1LMzMzeGJOTHVMb1ZoR0R4bU1VRmJ2dzVQLV9GMk40Y2VKZ3RQQVBoLXgwWEtZWnVwMEI0SXJvT09rb3NlaVZQRGpaOEM0dG5hSURTdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-30",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "UAE grants Elon Musk’s Starlink 10-year licence for satellite internet services",
+    "zh": "UAE grants Elon Musk’s Starlink 10-year licence for satellite internet services"
+   },
+   "body": {
+    "en": "The UAE granted Musk's Starlink a 10-year licence to provide satellite internet services in the country.",
+    "zh": "阿联酋授予马斯克旗下星链在该国提供卫星互联网服务的10年经营牌照。"
+   },
+   "source": "Storyboard18",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSlA1Yjh2VnB3dG43d2d1RFRUNTJIZC1RMlNmaE5kWl9DRDlJZWF4SW9rUWxuMGViZkVYV255bm9PUnhFOG9mUHFrS0RhQUV2Yk8wcW1hQldwOVdxYXRfcXZwMHZBa1NISXMtM2YwNGljTFFYNHVJREJ6TVU4b1ZSd1ZVaWhJQmtuOHNkdUtHb0FuakxvalFuU1lJNklXR2VzUHNXLUtUUnByWnA0cGtaS1VsUG92MDRFS3FSdG02eXMzbEtCSTZWc0RmQjBjaHfSAdQBQVVfeXFMT3kySDNTVzB2bnFFZ1RRdkZrb3pGZVNCbTBXVE5iaWRMekVFTzd1MXFpOGVtRkhGMFBiWmp5QkVhbXZWellmVEVXSkxhM1o5MkhuY1BTaUpZSE5JaEdnTjl4VXN5eUNLTFh1WVF0U2JYZy1xWkR5czE3ZmpJZi1KVWFvREpsV2tXb0FaYXVNTFJwVXBaTm1mQm9mWDFBdTNWWHVldHJaSFF0QnhJOG9leUc5WFRWV29uTVpELW9VUVhsbDU1NHIwTVZ2MHlFd0IyVFRSOU4?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-30",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s 15-Gigawatt Warning Points to a Very Different Set of AI Winners in 2027",
+    "zh": "Elon Musk’s 15-Gigawatt Warning Points to a Very Different Set of AI Winners in 2027"
+   },
+   "body": {
+    "en": "Musk warned that a coming 15-gigawatt compute buildout will reshape which AI companies win by 2027, tying AI progress directly to power availability.",
+    "zh": "马斯克警告即将到来的15吉瓦算力建设将重塑到2027年谁能在AI竞争中胜出，将AI进展与电力供应直接挂钩。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY21fSHE1a2Njbzk3Z1VYaUpVZ3psaDZJSVRESzR6d0tuQ0g1aTA4X0R3NEVLaFk3TVRZVFViVmxLaFIyeENqWWJXMWNMZVhIWFNQTkdWUEJmUk1aOFpjdUVFaG9LLU9ZMWRaMmV3c3ZRZ2JvQTROMzJKZk96NDZyb1lZWDJjRW8yOGZpQ09mYmlmeUN4X2N6Sw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-29",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
+    "zh": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX"
+   },
+   "body": {
+    "en": "OpenAI winds down Cursor's access to its models after SpaceX acquires the coding startup, turning his long-running feud with OpenAI into a supply cut-off between two of the largest AI companies.",
+    "zh": "SpaceX 收购编程创业公司 Cursor 后，OpenAI 终止向其提供模型访问，使他与 OpenAI 的长期恩怨升级为两家最大 AI 公司之间的供应切断。"
+   },
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90bmQ0enBvenh2RFZzWDJtV2FWRnFMVzNRMEJrbG1RSmtWbnZ6MU1XcHV0TUJ1dll3YkJJM1RSMUgyRWVsV3NTeHpUV1JOeEZVb01TRkctT0c0NjZIc0haWFVTdzVkSmFLM1htanRGeVJZMmxNb2NaWnBn0gF_QVVfeXFMTnNMYVB6Q3hkc1l0NnRTSVhOeU5uT21nbUxOZDZjU2ota0tocTk2a3JjOWdxeUp0M2ttVUpHNk1ZTlB5MWp6QkR5c21aUlduUERGbzRZenhNZ1ZIQVVWTWt6RmJJdW8xcVAtRW05NnIxVGI5UE1uaVA4Q0V6NWd4cw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-28",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s super PAC begins pouring money into the midterms online",
+    "zh": "Elon Musk’s super PAC begins pouring money into the midterms online"
+   },
+   "body": {
+    "en": "His super PAC begins buying online advertising in the 2026 midterms, turning his political money into an active campaign operation.",
+    "zh": "他的超级政治行动委员会开始在2026年中期选举中投放网络广告，把政治资金变成了实际运作的竞选机器。"
+   },
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHhlbllJdmFUdnI4UWtqWF81LU9fVXVfbEgyUktNSGRGVGpfMU5va1JGeTlEQVN1aW1lTkVlQ1BwZ1hScmJIbDdGR3ZJcXF5Tk9MSkFSWWd4OWJIWl9OQmpXRzcwcV9CNlE1cFFGaDFKTDJtOE95WE1ucFZkNEF3cnFDcHgwaHE4QXJycnJUOTBBSkpfaU00MGpaYzg3ODA4UXJkRXRNTG9RM204ZUVRZTN1cDV5UQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-28",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk's X Loses First Amendment Challenge to New York's 'Stop Hiding Hate Act'",
+    "zh": "Elon Musk's X Loses First Amendment Challenge to New York's 'Stop Hiding Hate Act'"
+   },
+   "body": {
+    "en": "A court rejects X's First Amendment challenge to New York's Stop Hiding Hate Act, leaving his platform bound by the state's content-moderation disclosure rules.",
+    "zh": "法院驳回了X对纽约州《停止隐藏仇恨法》的第一修正案挑战，他旗下平台仍须遵守该州的内容审核披露规定。"
+   },
+   "source": "Reason Magazine",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSVV3V0VtamdoLTZMQmpZSWFETVFveGdTT1lkS0xTQnE0dUhKVmhLQ1F0b001cHlTaVJVTjlvNDljS2praTZtS2MwLThQNDdBNWprdzNpeTZtcmltQUZFXzk2RjEtMnphcTNlZ1oycmFwblQzR0xqTzR2Z25xc0t4dk9BTlM4OGk0TnFGQ3lQZUlpVl9EUzRjNGRFaDhQdGxhZkw3S0FNaDNUVkdWY2c?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": true,
+ "was": {
+  "en": "Founder, xAI; CEO, Tesla & SpaceX",
+  "zh": "xAI 创始人；Tesla、SpaceX CEO"
+ },
+ "cat": "lab",
+ "score": {
+  "total": 95.7,
+  "attention": 100,
+  "centrality": 87,
+  "momentum": 98,
+  "stature": null,
+  "pageviews": 9295513,
+  "citations": 1280,
+  "hIndex": 3,
+  "events": 143,
+  "posts": 56,
+  "wikiEn": "Elon Musk",
+  "wikiZh": "埃隆·马斯克"
+ },
+ "seedRank": 8,
+ "tier": "t1"
+}

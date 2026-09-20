@@ -1,0 +1,1572 @@
+{
+ "rank": 71,
+ "id": "tri-dao",
+ "name": {
+  "en": "Tri Dao",
+  "zh": "Tri Dao"
+ },
+ "role": {
+  "en": "Assistant Professor, Princeton; Chief Scientist, Together AI",
+  "zh": "普林斯顿大学助理教授；Together AI 首席科学家"
+ },
+ "org": "Princeton / Together AI",
+ "region": {
+  "en": "United States / Vietnam",
+  "zh": "美国/越南"
+ },
+ "tags": [
+  "FlashAttention",
+  "Mamba",
+  "Together AI",
+  "Princeton",
+  "Kernels"
+ ],
+ "why": {
+  "en": "Author of the FlashAttention series — nearly every modern large model's training and inference depends on his kernels. Co-author of Mamba.",
+  "zh": "FlashAttention 系列作者，几乎所有现代大模型的训练与推理都依赖其内核实现。Mamba 共同作者。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@tri_dao",
+   "url": "https://x.com/tri_dao",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "tridao.me",
+   "url": "https://tridao.me/",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @tridao",
+   "url": "https://github.com/tridao",
+   "t": 1
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face @tridao",
+   "url": "https://huggingface.co/tridao",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Together AI Blog",
+   "url": "https://www.together.ai/blog",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Princeton PLI",
+   "url": "https://pli.princeton.edu/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Tri+Dao",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Tri+Dao",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Tri+Dao",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Tri+Dao&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Tri+Dao&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Tri+Dao",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Tri+Dao",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Tri+Dao",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Tri+Dao",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Tri+Dao",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Tri+Dao",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Tri+Dao",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Tri+Dao",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Tri+Dao&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-01-01",
+   "kind": "paper",
+   "title": {
+    "en": "Mamba-3: improved sequence modeling using state space principles",
+    "zh": "Mamba-3：基于状态空间原理的改进序列建模"
+   },
+   "source": "ICLR 2026 / Together AI",
+   "url": "https://www.together.ai/blog/mamba-3",
+   "note": {
+    "en": "Designed with inference efficiency as the primary goal — a departure from Mamba-2's training-speed optimisation. Adds a more expressive recurrence formula, complex-valued state tracking, and a MIMO variant.",
+    "zh": "以推理效率为首要目标设计，与 Mamba-2 优化训练速度的取向相反。引入更具表达力的递归公式、复数值状态追踪与 MIMO 变体。"
+   }
+  },
+  {
+   "date": "2026-09-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "A lot more gpus coming for open models",
+    "zh": "A lot more gpus coming for open models"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/2094635938651725892",
+   "note": {
+    "en": "Tri Dao said significantly more GPU capacity is coming for open-weight models.",
+    "zh": "Tri Dao表示将有更多GPU算力投向开源模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DiG-bench: Discovery in Games",
+    "zh": "DiG-bench: Discovery in Games"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.12593v1",
+   "note": {
+    "en": "Multi-institution benchmark of 70 games in which agents must discover hidden rules by experimentation; Dao is a co-author on the Princeton side.",
+    "zh": "多机构合作的基准，包含 70 个需要通过试验才能发现隐藏规则的游戏，Dao 以普林斯顿一方参与署名。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-08-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Dion3: Full-Stack Orthogonal Updates",
+    "zh": "Dion3: Full-Stack Orthogonal Updates"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.11612v1",
+   "note": {
+    "en": "Cuts the orthogonalization and communication overhead of Muon-style optimizers under sharded training; Dao is a co-author.",
+    "zh": "降低 Muon 类优化器在权重分片训练下的正交化与通信开销，Dao 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-08-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I really like this new benchmark. Has the flavor of ARC-AGI3 but it’s pure text so you don’t have to worry about the vision capability",
+    "zh": "I really like this new benchmark. Has the flavor of ARC-AGI3 but it’s pure text so you don’t have to worry about the vision capability"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/2087677140410290302",
+   "note": {
+    "en": "Praised a new text-only benchmark for having the flavor of ARC-AGI3 without the vision-capability confound.",
+    "zh": "称赞一个新的纯文本基准测试，兼具ARC-AGI3的风格但无需担心视觉能力带来的干扰。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Thought-Level Beam Search for Reasoning",
+    "zh": "Thought-Level Beam Search for Reasoning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.08020v2",
+   "note": {
+    "en": "Test-time search that operates over whole reasoning steps rather than tokens to cut inference cost; Dao is a co-author.",
+    "zh": "在完整推理步骤而非 token 层面进行测试时搜索，以降低推理开销，Dao 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Putting LLM brain on robots -&gt; 4x SOTA with no extra training. I’ve been very surprised by how well this works. The time for agents running on robots is comi",
+    "zh": "Putting LLM brain on robots -&gt; 4x SOTA with no extra training. I’ve been very surprised by how well this works. The time for agents running on robots is comi"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/2082175796710658210",
+   "note": {
+    "en": "Highlighted a result putting an LLM 'brain' on robots for a 4x state-of-the-art gain with no extra training.",
+    "zh": "强调了一项将LLM“大脑”用于机器人的成果，在无需额外训练的情况下取得4倍的性能提升。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Addressing the Orchestration Gap in Generalist Robots via Physical Agency",
+    "zh": "Addressing the Orchestration Gap in Generalist Robots via Physical Agency"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.21725v1",
+   "note": {
+    "en": "Princeton and Together AI paper on orchestrating perception, planning and control for generalist robots; Dao is senior author.",
+    "zh": "普林斯顿与 Together AI 合作的论文，研究通用机器人中感知、规划与控制的编排问题，Dao 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We’re serving 400T tokens / month and the demand for open models just keep going up",
+    "zh": "We’re serving 400T tokens / month and the demand for open models just keep going up"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/2072429334758121556",
+   "note": {
+    "en": "Shared that Together AI is now serving 400 trillion tokens per month, with demand for open models still rising.",
+    "zh": "分享Together AI现在每月处理400万亿token，开源模型的需求仍在持续增长。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "If you ever wondered about how how open/closed model makers and inference providers make economic sense, this is the piece to read",
+    "zh": "If you ever wondered about how how open/closed model makers and inference providers make economic sense, this is the piece to read"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/2071980068981891525",
+   "note": {
+    "en": "Recommended an analysis piece on the economics behind open/closed model makers and inference providers.",
+    "zh": "推荐了一篇分析开源/闭源模型厂商与推理服务商经济模式的文章。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "It's wild how quickly Etched designed and got the chips out, all within 2 years. They went deep, hardcoding attention into silicon and getting very high MFU. Th",
+    "zh": "It's wild how quickly Etched designed and got the chips out, all within 2 years. They went deep, hardcoding attention into silicon and getting very high MFU. Th"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/2071974600548958480",
+   "note": {
+    "en": "Praised Etched for shipping attention-hardcoded silicon within two years, achieving very high MFU.",
+    "zh": "称赞Etched在两年内推出将注意力机制硬编码进芯片的产品，实现了很高的MFU。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-15",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "ReplaySSM: Cache SSM Inputs, Not State",
+    "zh": "ReplaySSM: Cache SSM Inputs, Not State"
+   },
+   "source": "Tri Dao",
+   "url": "https://tridao.me/blog/2026/replayssm/",
+   "note": {
+    "en": "His own write-up of ReplaySSM, a decoding scheme that caches recent SSM inputs instead of writing recurrent state back to HBM at every step.",
+    "zh": "他本人撰文介绍 ReplaySSM：解码时缓存最近的输入，而不必每一步都把循环状态写回 HBM。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-06-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "As hybrid models (Qwen 3.5 / Nemotron Ultra) run agents with massive context, Gated-DeltaNet / Mamba states become a bottleneck. A simple insight to make this 2",
+    "zh": "As hybrid models (Qwen 3.5 / Nemotron Ultra) run agents with massive context, Gated-DeltaNet / Mamba states become a bottleneck. A simple insight to make this 2"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/2066518563184365953",
+   "note": {
+    "en": "Explained that as hybrid models run agents with massive context, Mamba/Gated-DeltaNet state loading becomes a bottleneck, and described a fix that makes it 2x faster.",
+    "zh": "解释了混合模型在长上下文agent场景中Mamba/Gated-DeltaNet状态加载成为瓶颈的问题，并介绍了一个使其提速2倍的方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SonicSampler: Unified Tile-Aware Kernels for LLM Sampling and Speculative Verification",
+    "zh": "SonicSampler: Unified Tile-Aware Kernels for LLM Sampling and Speculative Verification"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.20475v1",
+   "note": {
+    "en": "Fused tile-aware GPU kernels covering LLM sampling and speculative-decoding verification; Dao is senior author.",
+    "zh": "为 LLM 采样与投机解码验证设计的融合式 tile 感知 GPU 内核，Dao 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "After some mathematical rewrite, turns out all of transformer is a series of gemm + epilogue. Given a few optimized primitives, LLMs (and novice humans) can wri",
+    "zh": "After some mathematical rewrite, turns out all of transformer is a series of gemm + epilogue. Given a few optimized primitives, LLMs (and novice humans) can wri"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/2057640492020469845",
+   "note": {
+    "en": "Described a mathematical rewrite showing the transformer reduces to a series of gemm + epilogue operations, letting LLMs write speed-of-light kernels.",
+    "zh": "介绍了一种数学重写方法，表明整个transformer可归结为一系列gemm+epilogue运算，使LLM能够写出极速内核。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+    "zh": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.19269v2",
+   "note": {
+    "en": "Rewrites transformer blocks as GEMM-epilogue programs to remove memory-bound overhead in training; Dao is senior author.",
+    "zh": "把 Transformer 模块改写为 GEMM 尾声程序，消除训练中的访存瓶颈，Dao 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Search Your Block Floating Point Scales!",
+    "zh": "Search Your Block Floating Point Scales!"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.12464v1",
+   "note": {
+    "en": "Searches block-floating-point scale factors to improve low-precision inference on newer GPU formats; Dao is a co-author.",
+    "zh": "搜索块浮点的缩放因子，以改善新一代 GPU 低精度格式下的推理效果，Dao 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-22",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "SonicMoE: A Hardware-Efficient and Software-Extensible Blueprint for Fine-Grained MoEs",
+    "zh": "SonicMoE: A Hardware-Efficient and Software-Extensible Blueprint for Fine-Grained MoEs"
+   },
+   "source": "Tri Dao",
+   "url": "https://tridao.me/blog/2026/sonicmoe-blackwell/",
+   "note": {
+    "en": "His blog post on SonicMoE, a Blackwell-oriented design for fine-grained mixture-of-experts that holds activation memory flat as expert granularity rises.",
+    "zh": "他的博客文章介绍 SonicMoE：一种面向 Blackwell 的细粒度 MoE 设计，在专家粒度提高时仍能保持激活显存不增长。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-04-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "@WentaoGuo7 explains really well this nice mathematical rewrite of the MoE backward. This leads to much lower activation mem, and way faster speed, esp for fine",
+    "zh": "@WentaoGuo7 explains really well this nice mathematical rewrite of the MoE backward. This leads to much lower activation mem, and way faster speed, esp for fine"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/2047015011365904639",
+   "note": {
+    "en": "Highlighted a mathematical rewrite of the MoE backward pass that lowers activation memory and speeds up fine-grained MoE training.",
+    "zh": "介绍了一种MoE反向传播的数学重写方法，降低了激活内存占用并加快了细粒度MoE训练速度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SAW-INT4: System-Aware 4-Bit KV-Cache Quantization for Real-World LLM Serving",
+    "zh": "SAW-INT4: System-Aware 4-Bit KV-Cache Quantization for Real-World LLM Serving"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.19157v1",
+   "note": {
+    "en": "System-aware 4-bit KV-cache quantization for LLM serving that mixes latency- and throughput-sensitive traffic; Dao is a co-author.",
+    "zh": "面向同时承载低延迟与高吞吐请求的 LLM 服务的系统感知 4-bit KV 缓存量化方案，Dao 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The dynamical system view gives very clean conditions for looped transformer to be stable",
+    "zh": "The dynamical system view gives very clean conditions for looped transformer to be stable"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/2044842948118921703",
+   "note": {
+    "en": "Noted that a dynamical-systems view gives clean stability conditions for looped transformers.",
+    "zh": "指出从动力系统的视角可以给出循环transformer稳定性的简洁条件。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Introspective Diffusion Language Models",
+    "zh": "Introspective Diffusion Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.11035v1",
+   "note": {
+    "en": "Attributes the quality gap of diffusion language models to inconsistent self-scoring and proposes a fix; Dao is a co-author.",
+    "zh": "把扩散语言模型的质量差距归因于自评一致性不足并给出改进方案，Dao 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Squeeze Evolve: Unified Multi-Model Orchestration for Verifier-Free Evolution",
+    "zh": "Squeeze Evolve: Unified Multi-Model Orchestration for Verifier-Free Evolution"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.07725v2",
+   "note": {
+    "en": "Multi-model orchestration for verifier-free evolutionary search, tackling diversity collapse and compute cost; Dao is a co-author.",
+    "zh": "面向无验证器演化搜索的多模型编排方法，缓解多样性坍缩与算力开销，Dao 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Fast muon optimizer coming to consumer cards. All the code was written as matmul + epilogue so once the mainloop was implemented for Blackwell consumer cards, a",
+    "zh": "Fast muon optimizer coming to consumer cards. All the code was written as matmul + epilogue so once the mainloop was implemented for Blackwell consumer cards, a"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/2041191260682150048",
+   "note": {
+    "en": "Announced a fast Muon optimizer implementation coming to consumer GPU cards, built on a matmul+epilogue kernel design.",
+    "zh": "宣布基于matmul+epilogue内核设计的快速Muon优化器实现即将登陆消费级GPU显卡。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-30",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Gram Newton-Schulz: A Fast, Hardware-Aware Newton-Schulz Algorithm for Muon",
+    "zh": "Gram Newton-Schulz: A Fast, Hardware-Aware Newton-Schulz Algorithm for Muon"
+   },
+   "source": "Tri Dao",
+   "url": "https://tridao.me/blog/2026/gram-newton-schulz/",
+   "note": {
+    "en": "His post on a hardware-aware Newton-Schulz variant that cuts the per-step cost of Muon, the optimizer now used to train models like Kimi K2 Thinking and GLM-5.",
+    "zh": "他撰文提出一种硬件友好的 Newton-Schulz 变体，降低 Muon 优化器的单步开销——Kimi K2 Thinking、GLM-5 等模型的训练都在使用该优化器。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-03-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "It's my favorite kind of work: linear algebra insight + fast kernels. When playing w Muon a while ago, we were thinking why not speed it up by operating on the",
+    "zh": "It's my favorite kind of work: linear algebra insight + fast kernels. When playing w Muon a while ago, we were thinking why not speed it up by operating on the"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/2038666307738964466",
+   "note": {
+    "en": "Shared a linear-algebra insight for speeding up the Muon optimizer by operating on a small square matrix instead of the full one.",
+    "zh": "分享了一个加速Muon优化器的线性代数思路：对一个小方阵而非完整矩阵进行运算。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Nonlinear RNNs seem to do sth genuinely different from attn and linear RNNs/SSMs. By themselves they already do quite well w the right parametrization, but just",
+    "zh": "Nonlinear RNNs seem to do sth genuinely different from attn and linear RNNs/SSMs. By themselves they already do quite well w the right parametrization, but just"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/2034696258938708438",
+   "note": {
+    "en": "Argued nonlinear RNNs behave genuinely differently from attention and linear RNNs/SSMs, and can substantially help when combined with them.",
+    "zh": "认为非线性RNN与注意力机制及线性RNN/SSM有本质不同，与后者结合时能带来显著提升。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The frontier has increasingly shifted to hybrid models - from Qwen to Kimi-Linear and now with NVIDIA's Nemotron-3 Super - that rely on a strong linear sequence",
+    "zh": "The frontier has increasingly shifted to hybrid models - from Qwen to Kimi-Linear and now with NVIDIA's Nemotron-3 Super - that rely on a strong linear sequence"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/2033948569502413245",
+   "note": {
+    "en": "Announced the release of Mamba-3, positioning it within the industry shift toward hybrid models with strong linear sequence components.",
+    "zh": "宣布发布Mamba-3，并将其置于行业转向强线性序列组件混合模型的趋势中。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-16",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Mamba-3 Part 1",
+    "zh": "Mamba-3 Part 1"
+   },
+   "source": "Tri Dao",
+   "url": "https://tridao.me/blog/2026/mamba3-part1/",
+   "note": {
+    "en": "Part 1 of his Mamba-3 series, introducing the next generation of the state space architecture he co-created.",
+    "zh": "他的 Mamba-3 系列第一篇，介绍这一由他共同提出的状态空间架构的新一代版本。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-03-16",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Mamba-3 Part 2 - Methodological Deep Dive",
+    "zh": "Mamba-3 Part 2 - Methodological Deep Dive"
+   },
+   "source": "Tri Dao",
+   "url": "https://tridao.me/blog/2026/mamba3-part2/",
+   "note": {
+    "en": "Part 2 of his Mamba-3 series, a methodological deep dive into how the new architecture is derived.",
+    "zh": "他的 Mamba-3 系列第二篇，深入拆解新架构的方法论推导过程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-03-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "M$^2$RNN: Non-Linear RNNs with Matrix-Valued States for Scalable Language Modeling",
+    "zh": "M$^2$RNN: Non-Linear RNNs with Matrix-Valued States for Scalable Language Modeling"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.14360v2",
+   "note": {
+    "en": "Non-linear RNN with matrix-valued state aimed at tasks beyond the expressivity limits of transformers; Dao is senior author.",
+    "zh": "带矩阵值状态的非线性 RNN，面向超出 Transformer 表达能力上限的任务，Dao 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-05",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling",
+    "zh": "FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling"
+   },
+   "source": "Tri Dao",
+   "url": "https://tridao.me/blog/2026/flash4/",
+   "note": {
+    "en": "His announcement of FlashAttention-4, co-designing the attention algorithm with kernel pipelining for hardware whose compute and memory scale unevenly.",
+    "zh": "他发布 FlashAttention-4：将注意力算法与内核流水线协同设计，以适配算力与访存增长不匹配的硬件。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-03-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "AI+HW 2035: Shaping the Next Decade",
+    "zh": "AI+HW 2035: Shaping the Next Decade"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.05225v1",
+   "note": {
+    "en": "Community roadmap report on the next decade of AI and hardware co-design, co-signed by Dao.",
+    "zh": "关于未来十年 AI 与硬件协同设计的社区路线图报告，Dao 为联合署名者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The FA4 paper is finally out after a year of work. On Blackwell GPUs, attention now goes about as fast as matmul even though the bottlenecks are so different! T",
+    "zh": "The FA4 paper is finally out after a year of work. On Blackwell GPUs, attention now goes about as fast as matmul even though the bottlenecks are so different! T"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/2029569881151263082",
+   "note": {
+    "en": "Released the FlashAttention 4 paper after a year of work, making attention run about as fast as matmul on Blackwell GPUs.",
+    "zh": "历时一年发布FlashAttention 4论文，使注意力计算在Blackwell GPU上达到接近矩阵乘法的速度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Attack of the asynchronous machines. We’ve seen this a lot in GPU kernels. This time the same principle applies in speculative decoding",
+    "zh": "Attack of the asynchronous machines. We’ve seen this a lot in GPU kernels. This time the same principle applies in speculative decoding"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/2029273056364118407",
+   "note": {
+    "en": "Drew an analogy between asynchronous GPU kernel techniques and applying the same principle to speculative decoding.",
+    "zh": "将GPU内核中的异步技术类比应用于投机解码，指出了相同的原理。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Speculative Speculative Decoding",
+    "zh": "Speculative Speculative Decoding"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.03251v3",
+   "note": {
+    "en": "Adds a second layer of speculation on top of speculative decoding to further cut sequential decode cost; Dao is a co-author.",
+    "zh": "在投机解码之上再叠加一层投机，进一步降低顺序解码开销，Dao 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "This was a wild bug hunt, weeks of effort from @MayankMish98 to track down. The wrong init of Mamba2 in many reimplementations causes the layer to decay its sta",
+    "zh": "This was a wild bug hunt, weeks of effort from @MayankMish98 to track down. The wrong init of Mamba2 in many reimplementations causes the layer to decay its sta"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/2026854280846610742",
+   "note": {
+    "en": "Described a hard-to-find bug where incorrect initialization of Mamba2 in many reimplementations causes the layer to decay state too quickly in short contexts.",
+    "zh": "介绍了一个难以发现的bug：许多Mamba2的复现版本因初始化错误，导致状态在短上下文中过快衰减。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "When RL Meets Adaptive Speculative Training: A Unified Training-Serving System",
+    "zh": "When RL Meets Adaptive Speculative Training: A Unified Training-Serving System"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.06932v5",
+   "note": {
+    "en": "Unified system that trains the speculator online during RL post-training instead of offline; Dao is a co-author.",
+    "zh": "把投机模型训练与 RL 后训练服务打通，在线而非离线更新投机器，Dao 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "This is what we've been coking for the last 9 months: make MoEs training goes ~2x faster and ~2x less memory! Highlights: - MoE typically takes the most time an",
+    "zh": "This is what we've been coking for the last 9 months: make MoEs training goes ~2x faster and ~2x less memory! Highlights: - MoE typically takes the most time an"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/2001785266873499875",
+   "note": {
+    "en": "Announced work making MoE training roughly 2x faster and using 2x less memory, the product of nine months of effort.",
+    "zh": "宣布了历时九个月的成果：让MoE训练速度提升约2倍，内存占用降低约2倍。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SonicMoE: Accelerating MoE with IO and Tile-aware Optimizations",
+    "zh": "SonicMoE: Accelerating MoE with IO and Tile-aware Optimizations"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.14080v2",
+   "note": {
+    "en": "IO- and tile-aware kernels that accelerate mixture-of-experts models; Dao is senior author.",
+    "zh": "面向 MoE 模型的 IO 与 tile 感知内核优化，Dao 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Nvidia continues to put out some of the strongest and fastest open models. Pretraining and post training data are released as well, something very few orgs have",
+    "zh": "Nvidia continues to put out some of the strongest and fastest open models. Pretraining and post training data are released as well, something very few orgs have"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/2000707760288092655",
+   "note": {
+    "en": "Praised Nvidia for releasing some of the strongest and fastest open models along with pretraining and post-training data, which few labs do.",
+    "zh": "称赞英伟达发布了业内最强、最快的开源模型之一，并罕见地开放了预训练和后训练数据。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-11-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Beat the long tail: Distribution-Aware Speculative Decoding for RL Training",
+    "zh": "Beat the long tail: Distribution-Aware Speculative Decoding for RL Training"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2511.13841v1",
+   "note": {
+    "en": "Distribution-aware speculative decoding that speeds up the rollout phase of RL post-training; Dao is a co-author.",
+    "zh": "用分布感知的投机解码加速 RL 后训练中的 rollout 阶段，Dao 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-11-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Thank you @schmidtsciences for the 2025 #AI2050 Early Career Fellowship supporting my work on self-improving AI systems: as AI gets better, it should help human",
+    "zh": "Thank you @schmidtsciences for the 2025 #AI2050 Early Career Fellowship supporting my work on self-improving AI systems: as AI gets better, it should help human"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/1986145892080955429",
+   "note": {
+    "en": "Announced receiving the 2026 AI2050 Early Career Fellowship from Schmidt Sciences to support his work on self-improving AI systems.",
+    "zh": "宣布获得施密特科学基金会2026年AI2050早期职业奖学金，用于支持其自我改进AI系统方面的研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-11-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Opportunistic Expert Activation: Batch-Aware Expert Routing for Faster Decode Without Retraining",
+    "zh": "Opportunistic Expert Activation: Batch-Aware Expert Routing for Faster Decode Without Retraining"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2511.02237v1",
+   "note": {
+    "en": "Batch-aware expert routing that speeds up mixture-of-experts decoding without retraining; Dao is a co-author.",
+    "zh": "无需重新训练的批次感知专家路由，加快 MoE 模型的解码速度，Dao 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-10-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "This work, led by @_junxiong_wang and @ben_athi, is a first step towards building AI systems that evolve and get better as you use them. More to come!",
+    "zh": "This work, led by @_junxiong_wang and @ben_athi, is a first step towards building AI systems that evolve and get better as you use them. More to come!"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/1976692444977938499",
+   "note": {
+    "en": "Announced work led by two collaborators as a first step toward AI systems that evolve and improve as they are used.",
+    "zh": "宣布由两名合作者主导的一项工作，是迈向能在使用过程中自我进化改进的AI系统的第一步。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-09-10",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ep 74: Chief Scientist of Together.AI Tri Dao On The End of Nvidia's Dominance, Why Inference Costs Fell & The Next 10X in Speed",
+    "zh": "Ep 74: Chief Scientist of Together.AI Tri Dao On The End of Nvidia's Dominance, Why Inference Costs Fell & The Next 10X in Speed"
+   },
+   "source": "Unsupervised Learning with Jacob Effron",
+   "url": "https://podcasts.apple.com/us/podcast/ep-74-chief-scientist-of-together-ai-tri-dao-on-the/id1672188924?i=1000725892361&uo=4",
+   "note": {
+    "en": "Long-form interview in which he argues Nvidia's dominance is ending and explains where the next 10x in inference speed will come from.",
+    "zh": "长篇访谈：他认为英伟达的主导地位正在终结，并解释推理速度下一个 10 倍将从何而来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-08-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Clarification: I was comparing A @ B + C here, where the cute-dsl version is quite good at overlapping the epilogue. On the standard matmul A @ B, cuBLAS is ver",
+    "zh": "Clarification: I was comparing A @ B + C here, where the cute-dsl version is quite good at overlapping the epilogue. On the standard matmul A @ B, cuBLAS is ver"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/1960217005446791448",
+   "note": {
+    "en": "Clarified a benchmark comparison, noting cuBLAS remains very strong on standard matmul while the cute-dsl version overlaps the epilogue well for fused operations.",
+    "zh": "澄清了一项基准对比：在标准矩阵乘法上cuBLAS依然非常强，而cute-dsl版本在融合运算中能较好地重叠epilogue。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-07-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Hierarchical layout is super elegant. Feels like the right abstraction for high performance GPU kernels. FlashAttention 2 actually started bc we wanted to rewri",
+    "zh": "Hierarchical layout is super elegant. Feels like the right abstraction for high performance GPU kernels. FlashAttention 2 actually started bc we wanted to rewri"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/1947188520340398200",
+   "note": {
+    "en": "Called CuTe's hierarchical layout an elegant abstraction for GPU kernels, and shared that FlashAttention 2 originated from wanting to rewrite FA1 in CuTe.",
+    "zh": "称CuTe的层次化布局是GPU内核的优雅抽象，并透露FlashAttention 2正是源于想用CuTe重写FA1。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-07-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I played w it for 1h. Went through my usual prompts (math derivations, floating point optimizations, …). It’s a good model, feels comparable to the best frontie",
+    "zh": "I played w it for 1h. Went through my usual prompts (math derivations, floating point optimizations, …). It’s a good model, feels comparable to the best frontie"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/1943745133603610864",
+   "note": {
+    "en": "Gave a hands-on assessment after an hour testing a new model on his usual prompts, calling it comparable to the best frontier models.",
+    "zh": "用惯用的提示词测试了一款新模型一小时后给出评价，认为其表现可与最强的前沿模型媲美。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-07-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "They’ve finally done it. They got rid of tokenizers!",
+    "zh": "They’ve finally done it. They got rid of tokenizers!"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/1943720935678173252",
+   "note": {
+    "en": "Highlighted a notable milestone: a model that has done away with tokenizers entirely.",
+    "zh": "强调了一个重要进展：一款完全摒弃了分词器的模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-07-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Getting mem-bound kernels to speed-of-light isn't a dark art, it's just about getting the a couple of details right. We wrote a tutorial on how to do this, with",
+    "zh": "Getting mem-bound kernels to speed-of-light isn't a dark art, it's just about getting the a couple of details right. We wrote a tutorial on how to do this, with"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/1943372100774900056",
+   "note": {
+    "en": "Announced a tutorial, with usable code, on getting memory-bound GPU kernels to speed-of-light performance.",
+    "zh": "发布了一份关于如何将内存受限的GPU内核优化到极速性能的教程，并附有可直接使用的代码。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-07-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Albert articulates really well the trade offs between transformers and SSMs. This is why I work on both",
+    "zh": "Albert articulates really well the trade offs between transformers and SSMs. This is why I work on both"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/1942617784204087536",
+   "note": {
+    "en": "Endorsed a colleague's articulation of the tradeoffs between transformers and SSMs, explaining why he works on both.",
+    "zh": "认可了一位同事对transformer与SSM之间权衡的阐述，并解释了自己为何同时研究这两者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-07-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Turns out you can do length generalization for recurrent model by simply training for another extra 100 steps with a careful choice of initial states",
+    "zh": "Turns out you can do length generalization for recurrent model by simply training for another extra 100 steps with a careful choice of initial states"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/1942302682561274356",
+   "note": {
+    "en": "Shared a finding that recurrent models can achieve length generalization with just ~100 extra training steps and careful choice of initial states.",
+    "zh": "分享了一项发现：只需约100步额外训练并谨慎选择初始状态，循环模型即可实现长度泛化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-06-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Crazy that we now have an open source model with 13B params that’s competitive w o1. And Mamba layers help bring much higher inference throughput",
+    "zh": "Crazy that we now have an open source model with 13B params that’s competitive w o1. And Mamba layers help bring much higher inference throughput"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/1938643149091692662",
+   "note": {
+    "en": "Noted a 13B-parameter open-source model now competitive with o1, with Mamba layers boosting inference throughput.",
+    "zh": "指出一款130亿参数的开源模型已能与o1媲美，其中Mamba层显著提升了推理吞吐量。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-06-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Albert and co continue to do excellent work on quantization. This time the trick is to minimize KL wrt the original model, with a clever hessian factorization",
+    "zh": "Albert and co continue to do excellent work on quantization. This time the trick is to minimize KL wrt the original model, with a clever hessian factorization"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/1931069653624795185",
+   "note": {
+    "en": "Praised ongoing quantization work minimizing KL divergence to the original model via a clever Hessian factorization.",
+    "zh": "称赞了一项通过巧妙的Hessian分解、以最小化与原模型KL散度为目标的量化研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-06-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Sparse attn has been around for a while, but test time compute might be the era where it really shines",
+    "zh": "Sparse attn has been around for a while, but test time compute might be the era where it really shines"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/1931068634178232735",
+   "note": {
+    "en": "Argued sparse attention, though not new, may finally shine in the test-time-compute era.",
+    "zh": "认为稀疏注意力机制虽非新技术，但在测试时计算的时代可能会真正发挥优势。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-06-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "State space models and RNNs compress history into a constant size state, while attn has KV cache scaling linearly in seqlen. We can instead start from RNNs and",
+    "zh": "State space models and RNNs compress history into a constant size state, while attn has KV cache scaling linearly in seqlen. We can instead start from RNNs and"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/1930828624267035052",
+   "note": {
+    "en": "Explained how SSMs/RNNs compress history into constant-size state versus attention's linearly scaling KV cache, and proposed letting state size grow logarithmically instead.",
+    "zh": "解释了SSM/RNN将历史压缩为固定大小状态、而注意力的KV缓存随序列长度线性增长的区别，并提出让状态大小按对数增长的思路。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-06-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Log-Linear Attention",
+    "zh": "Log-Linear Attention"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2506.04761v3",
+   "note": {
+    "en": "Attention variant with logarithmically growing state, sitting between linear attention and full attention; Dao is a co-author.",
+    "zh": "状态规模按对数增长的注意力变体，介于线性注意力与完整注意力之间，Dao 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-05-29",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We've been thinking about what the \"ideal\" architecture should look like in the era where inference is driving AI progress. GTA & GLA are steps in this directio",
+    "zh": "We've been thinking about what the \"ideal\" architecture should look like in the era where inference is driving AI progress. GTA & GLA are steps in this directio"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/1928170648863473892",
+   "note": {
+    "en": "Introduced GTA and GLA as steps toward an 'ideal' architecture for the era where inference efficiency drives AI progress.",
+    "zh": "介绍了GTA和GLA架构，作为在推理效率驱动AI进步的时代迈向“理想”架构的探索。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-05-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Hardware-Efficient Attention for Fast Decoding",
+    "zh": "Hardware-Efficient Attention for Fast Decoding"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2505.21487v1",
+   "note": {
+    "en": "Attention designs that cut KV-cache loading and speed up large-batch, long-context decoding; Dao is senior author.",
+    "zh": "提出减少 KV 缓存读取的注意力设计，加快大批量、长上下文场景下的解码，Dao 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-05-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Long-Context State-Space Video World Models",
+    "zh": "Long-Context State-Space Video World Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2505.20171v1",
+   "note": {
+    "en": "Uses state-space layers to give video world models long-term memory; Dao is a co-author.",
+    "zh": "用状态空间层为视频世界模型提供长期记忆能力，Dao 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-05-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Congrats to @ruipeterpan and the entire team for the recognition of Marconi at MLSys. Hybrid mamba-transformer LLMs are getting more popular, and the change in",
+    "zh": "Congrats to @ruipeterpan and the entire team for the recognition of Marconi at MLSys. Hybrid mamba-transformer LLMs are getting more popular, and the change in"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/1922522630566887643",
+   "note": {
+    "en": "Congratulated the team on Marconi's recognition at MLSys, noting hybrid mamba-transformer LLMs are becoming more popular as compute/cache ratios shift.",
+    "zh": "祝贺团队的Marconi项目在MLSys获得认可，并指出随着算力/缓存比例的变化，混合mamba-transformer大模型正变得越来越流行。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-05-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I love Cutlass, and this new Python DSL looks very well-designed. Will for sure accelerate kernel dev + exploring new ideas in ML + GPU. I'm already playing wit",
+    "zh": "I love Cutlass, and this new Python DSL looks very well-designed. Will for sure accelerate kernel dev + exploring new ideas in ML + GPU. I'm already playing wit"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/1922399274786078966",
+   "note": {
+    "en": "Praised a new well-designed Python DSL for Cutlass, expecting it to accelerate kernel development and ML/GPU exploration.",
+    "zh": "称赞一款设计精良的Cutlass Python DSL，认为它将加速内核开发和ML/GPU方面的探索。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-04-29",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The IBM team continues to do excellent work on data and model architecture. Surpassing Llama3 8B with 5x less data!",
+    "zh": "The IBM team continues to do excellent work on data and model architecture. Surpassing Llama3 8B with 5x less data!"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/1917253151939272877",
+   "note": {
+    "en": "Praised IBM's team for surpassing Llama3 8B using 5x less training data through better data and architecture.",
+    "zh": "称赞IBM团队通过更优的数据和架构，用少5倍的数据超越了Llama3 8B。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-04-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models",
+    "zh": "M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2504.10449v3",
+   "note": {
+    "en": "Mamba-based reasoning model that scales test-time compute more cheaply than transformer baselines; Dao is senior author.",
+    "zh": "基于 Mamba 的推理模型，在扩展测试时计算上比 Transformer 基线更省算力，Dao 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-02-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Thinking Slow, Fast: Scaling Inference Compute with Distilled Reasoners",
+    "zh": "Thinking Slow, Fast: Scaling Inference Compute with Distilled Reasoners"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2502.20339v1",
+   "note": {
+    "en": "Distills transformer reasoners into subquadratic models so test-time compute scaling stays cheap; Dao is senior author.",
+    "zh": "把 Transformer 推理模型蒸馏到次二次架构，使测试时计算的扩展更廉价，Dao 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-02-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "HybriDNA: A Hybrid Transformer-Mamba2 Long-Range DNA Language Model",
+    "zh": "HybriDNA: A Hybrid Transformer-Mamba2 Long-Range DNA Language Model"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2502.10807v2",
+   "note": {
+    "en": "Hybrid transformer-Mamba2 DNA language model for long genomic sequences; Dao is a co-author.",
+    "zh": "面向长基因组序列的 Transformer-Mamba2 混合 DNA 语言模型，Dao 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-07-11",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision",
+    "zh": "FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision"
+   },
+   "source": "Tri Dao",
+   "url": "https://tridao.me/blog/2024/flash3/",
+   "note": {
+    "en": "His announcement of FlashAttention-3, which uses Hopper's asynchrony and low precision to speed up attention without approximation.",
+    "zh": "他发布 FlashAttention-3：利用 Hopper 的异步执行与低精度，在不做近似的前提下加速注意力计算。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2024-05-31",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "State Space Duality (Mamba-2) Part I - The Model",
+    "zh": "State Space Duality (Mamba-2) Part I - The Model"
+   },
+   "source": "Tri Dao",
+   "url": "https://tridao.me/blog/2024/mamba2-part1-model/",
+   "note": {
+    "en": "Part I of his state space duality series, presenting the Mamba-2 model.",
+    "zh": "他的状态空间对偶系列第一篇，提出 Mamba-2 模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2024-05-31",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "State Space Duality (Mamba-2) Part II - The Theory",
+    "zh": "State Space Duality (Mamba-2) Part II - The Theory"
+   },
+   "source": "Tri Dao",
+   "url": "https://tridao.me/blog/2024/mamba2-part2-theory/",
+   "note": {
+    "en": "Part II of the same series, setting out the theory that links state space models and attention.",
+    "zh": "同一系列第二篇，阐述将状态空间模型与注意力联系起来的理论。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2024-05-31",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "State Space Duality (Mamba-2) Part III - The Algorithm",
+    "zh": "State Space Duality (Mamba-2) Part III - The Algorithm"
+   },
+   "source": "Tri Dao",
+   "url": "https://tridao.me/blog/2024/mamba2-part3-algorithm/",
+   "note": {
+    "en": "Part III of the same series, giving the algorithm that makes the state space duality view efficient to compute.",
+    "zh": "同一系列第三篇，给出让状态空间对偶视角得以高效计算的算法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2023-12-21",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Interviewing Tri Dao and Michael Poli of Together AI on the future of LLM architectures",
+    "zh": "Interviewing Tri Dao and Michael Poli of Together AI on the future of LLM architectures"
+   },
+   "source": "Interconnects",
+   "url": "https://podcasts.apple.com/us/podcast/interviewing-tri-dao-and-michael-poli-of-together-ai/id1719552353?i=1000671877549&uo=4",
+   "note": {
+    "en": "Interview with Nathan Lambert, alongside Michael Poli, on where LLM architectures are heading beyond the Transformer.",
+    "zh": "他与 Michael Poli 一同接受 Nathan Lambert 访谈，讨论 Transformer 之后大模型架构的走向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-07-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "FlashAttention 2: making Transformers 800% faster w/o approximation - with Tri Dao of Together AI",
+    "zh": "FlashAttention 2: making Transformers 800% faster w/o approximation - with Tri Dao of Together AI"
+   },
+   "source": "Latent Space: The AI Engineer Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/flashattention-2-making-transformers-800-faster-w-o/id1674008350?i=1000622420878&uo=4",
+   "note": {
+    "en": "Interview on FlashAttention-2, the kernel work that made Transformer attention several times faster with no approximation.",
+    "zh": "关于 FlashAttention-2 的访谈：这项内核工作在不做近似的情况下将 Transformer 注意力提速数倍。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-01-01",
+   "level": "notable",
+   "title": {
+    "en": "Mamba-3 published at ICLR 2026",
+    "zh": "Mamba-3 发表于 ICLR 2026"
+   },
+   "body": {
+    "en": "A collaboration with CMU, Princeton and Together AI.",
+    "zh": "CMU、普林斯顿与 Together AI 的合作成果。"
+   },
+   "source": "Princeton PLI",
+   "url": "https://pli.princeton.edu/blog/2026/mamba-3-improved-sequence-modeling-using-state-space-principles"
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "research",
+ "score": {
+  "total": 32.3,
+  "attention": null,
+  "centrality": 26,
+  "momentum": 39,
+  "stature": null,
+  "pageviews": 0,
+  "citations": 2310,
+  "hIndex": 17,
+  "events": 1,
+  "posts": 73,
+  "wikiEn": null,
+  "wikiZh": null
+ },
+ "seedRank": 92,
+ "tier": "t4"
+}

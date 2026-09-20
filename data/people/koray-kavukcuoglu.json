@@ -1,0 +1,928 @@
+{
+ "rank": 20,
+ "id": "koray-kavukcuoglu",
+ "name": {
+  "en": "Koray Kavukcuoglu",
+  "zh": "Koray Kavukcuoglu"
+ },
+ "role": {
+  "en": "Head of Google DeepMind (SVP)",
+  "zh": "Google DeepMind 负责人（高级副总裁）"
+ },
+ "org": "Google DeepMind",
+ "region": {
+  "en": "United Kingdom / Turkey",
+  "zh": "英国/土耳其"
+ },
+ "tags": [
+  "Google DeepMind",
+  "Gemini",
+  "WaveNet",
+  "Frontier research"
+ ],
+ "why": {
+  "en": "Long-time DeepMind research lead and the force behind WaveNet and much of its systems work. Now runs the whole lab day to day, reporting straight to Pichai with final say over Gemini.",
+  "zh": "长期任 DeepMind 研究负责人，WaveNet 等核心系统的推动者。现全面统管实验室日常运营，直接向 Pichai 汇报，对 Gemini 拥有最终决策权。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@koraykv",
+   "url": "https://x.com/koraykv",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @koraykv",
+   "url": "https://github.com/koraykv",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Google DeepMind Blog",
+   "url": "https://deepmind.google/discover/blog/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Koray+Kavukcuoglu",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Koray+Kavukcuoglu",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Koray+Kavukcuoglu",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Koray+Kavukcuoglu&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Koray+Kavukcuoglu&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Koray+Kavukcuoglu",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Koray+Kavukcuoglu",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Koray+Kavukcuoglu",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Koray+Kavukcuoglu",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Koray+Kavukcuoglu",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Koray+Kavukcuoglu",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Koray+Kavukcuoglu",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Koray+Kavukcuoglu",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Koray+Kavukcuoglu&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2016-09-12",
+   "kind": "paper",
+   "title": {
+    "en": "WaveNet: a generative model for raw audio",
+    "zh": "WaveNet：面向原始音频的生成模型"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1609.03499",
+   "note": {
+    "en": "The system work that made him DeepMind's engine room long before he ran it.",
+    "zh": "早在他执掌 DeepMind 之前，就让他成为其发动机室的系统工作。"
+   }
+  },
+  {
+   "date": "2026-08-12",
+   "kind": "interview",
+   "title": {
+    "en": "Taking over Google DeepMind in the frontier AI push",
+    "zh": "在前沿 AI 竞赛中接掌 Google DeepMind"
+   },
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Koray Kavukcuoglu on frontier models, coding agents, and building AGI",
+    "zh": "Koray Kavukcuoglu on frontier models, coding agents, and building AGI"
+   },
+   "source": "Google AI: Release Notes",
+   "url": "https://podcasts.apple.com/us/podcast/koray-kavukcuoglu-on-frontier-models-coding-agents/id1783661110?i=1000787654655&uo=4",
+   "note": {
+    "en": "Kavukcuoglu joined Google's Release Notes podcast to discuss frontier models, coding agents and the path to AGI.",
+    "zh": "卡武库奥卢做客Google的Release Notes播客，谈前沿模型、编程智能体以及通往AGI的路径。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-09-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Today we’re launching Gemini 3.8 Flash Cyber and Gemini 3.8 Flash. ⚡️🛡️ 3.8 Flash Cyber is our most capable cybersecurity model for finding and fixing vulnerabi",
+    "zh": "Today we’re launching Gemini 3.8 Flash Cyber and Gemini 3.8 Flash. ⚡️🛡️ 3.8 Flash Cyber is our most capable cybersecurity model for finding and fixing vulnerabi"
+   },
+   "source": "@koraykv",
+   "url": "https://x.com/koraykv/status/2095176860577714617",
+   "note": {
+    "en": "Kavukcuoglu announced the launch of Gemini 3.8 Flash and Gemini 3.8 Flash Cyber, DeepMind's most capable cybersecurity-focused model for finding and fixing vulnerabilities.",
+    "zh": "卡武克库奥卢宣布推出Gemini 3.8 Flash与Gemini 3.8 Flash Cyber，后者是DeepMind迄今最强的网络安全模型，用于发现和修复漏洞。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-07-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemma 4 Technical Report",
+    "zh": "Gemma 4 Technical Report"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.02770v2",
+   "note": {
+    "en": "The Gemma 4 technical report, describing the open-weight natively multimodal model family built by the lab he runs.",
+    "zh": "Gemma 4 技术报告，介绍他所领导的实验室推出的原生多模态开放权重模型系列。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Towards Autonomous Mathematics Research",
+    "zh": "Towards Autonomous Mathematics Research"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.10177v3",
+   "note": {
+    "en": "A DeepMind report on carrying reasoning systems past olympiad problems and towards autonomous mathematics research.",
+    "zh": "DeepMind 论文，探讨如何让推理系统超越奥赛题目，走向自主的数学研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-08",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "From Theory to Billions: How Google’s AI Boss Thinks About the Future",
+    "zh": "From Theory to Billions: How Google’s AI Boss Thinks About the Future"
+   },
+   "source": "Splento.AI",
+   "url": "https://podcasts.apple.com/us/podcast/from-theory-to-billions-how-googles-ai-boss-thinks/id1840872944?i=1000744357231&uo=4",
+   "note": {
+    "en": "Kavukcuoglu discussed how Gemini 3 is being integrated across Google's products in an interview on the Splento.AI podcast.",
+    "zh": "卡武库奥卢在Splento.AI播客的采访中，讨论了Gemini 3如何被整合进谷歌的各项产品。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-11-25",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Koray Kavukcuoglu: “This Is How We Are Going to Build AGI”",
+    "zh": "Koray Kavukcuoglu: “This Is How We Are Going to Build AGI”"
+   },
+   "source": "Google AI: Release Notes",
+   "url": "https://podcasts.apple.com/us/podcast/koray-kavukcuoglu-this-is-how-we-are-going-to-build-agi/id1783661110?i=1000738209308&uo=4",
+   "note": {
+    "en": "A Google AI: Release Notes interview in which he discusses Gemini 3's reception and how DeepMind intends to build AGI.",
+    "zh": "他在 Google AI: Release Notes 播客中受访，谈 Gemini 3 的反响以及 DeepMind 构建 AGI 的路径。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-07-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+    "zh": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2507.06261v6",
+   "note": {
+    "en": "The Gemini 2.5 technical report, covering the family's reasoning, multimodality, long context and agentic capabilities.",
+    "zh": "Gemini 2.5 技术报告，涵盖该系列在推理、多模态、长上下文与智能体能力上的进展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-05-20",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Google DeepMind CTO: Advancing AI Frontier, New Reasoning Methods, Video Generation’s Potential",
+    "zh": "Google DeepMind CTO: Advancing AI Frontier, New Reasoning Methods, Video Generation’s Potential"
+   },
+   "source": "Big Technology Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/google-deepmind-cto-advancing-ai-frontier-new-reasoning/id1522960417?i=1000709170092&uo=4",
+   "note": {
+    "en": "Kavukcuoglu joined the Big Technology Podcast to discuss DeepMind's frontier AI research, new reasoning methods and video generation.",
+    "zh": "卡武库奥卢做客Big Technology播客，谈论DeepMind的前沿人工智能研究、新的推理方法以及视频生成技术。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-03-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemma 3 Technical Report",
+    "zh": "Gemma 3 Technical Report"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2503.19786v1",
+   "note": {
+    "en": "The Gemma 3 report, which adds vision understanding and longer context to Google's lightweight open models.",
+    "zh": "Gemma 3 技术报告，为谷歌轻量级开放模型加入视觉理解与更长的上下文。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-09-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "For Google DeepMind, AI's Job Is Simple: Power Human Progress",
+    "zh": "For Google DeepMind, AI's Job Is Simple: Power Human Progress"
+   },
+   "source": "AI That Means Business",
+   "url": "https://podcasts.apple.com/us/podcast/for-google-deepmind-ais-job-is-simple-power-human-progress/id1760207952?i=1000670797958&uo=4",
+   "note": {
+    "en": "Kavukcuoglu and DeepMind COO Lila Ibrahim discussed DeepMind's work on climate and disease on the WSJ-produced podcast \"AI That Means Business\".",
+    "zh": "卡武库奥卢与DeepMind首席运营官莉拉·易卜拉欣在《华尔街日报》制作的播客《AI That Means Business》中，谈论DeepMind在气候和疾病领域的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-08-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Imagen 3",
+    "zh": "Imagen 3"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2408.07009v3",
+   "note": {
+    "en": "The Imagen 3 report on DeepMind's text-to-image latent diffusion model and its quality and responsibility evaluations.",
+    "zh": "Imagen 3 报告，介绍 DeepMind 的文生图潜在扩散模型及其质量与责任评估。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-07-31",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemma 2: Improving Open Language Models at a Practical Size",
+    "zh": "Gemma 2: Improving Open Language Models at a Practical Size"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2408.00118v3",
+   "note": {
+    "en": "The Gemma 2 report on Google's open language models from 2B to 27B parameters.",
+    "zh": "Gemma 2 技术报告，介绍谷歌 20 亿至 270 亿参数的开放语言模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-04-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Capabilities of Gemini Models in Medicine",
+    "zh": "Capabilities of Gemini Models in Medicine"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2404.18416v2",
+   "note": {
+    "en": "A study adapting Gemini to medical reasoning and multimodal clinical tasks.",
+    "zh": "研究如何将 Gemini 适配到医学推理与多模态临床任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-04-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "RecurrentGemma: Moving Past Transformers for Efficient Open Language Models",
+    "zh": "RecurrentGemma: Moving Past Transformers for Efficient Open Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2404.07839v2",
+   "note": {
+    "en": "RecurrentGemma applies the Griffin architecture, combining linear recurrences with local attention, to open language models.",
+    "zh": "RecurrentGemma 将结合线性递归与局部注意力的 Griffin 架构用于开放语言模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-03-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemma: Open Models Based on Gemini Research and Technology",
+    "zh": "Gemma: Open Models Based on Gemini Research and Technology"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2403.08295v4",
+   "note": {
+    "en": "The first Gemma report, releasing lightweight open models built from the Gemini research stack.",
+    "zh": "首份 Gemma 报告，发布基于 Gemini 研究技术构建的轻量级开放模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-03-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context",
+    "zh": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2403.05530v5",
+   "note": {
+    "en": "The Gemini 1.5 report, introducing recall and reasoning across millions of tokens of multimodal context.",
+    "zh": "Gemini 1.5 报告，实现在数百万 token 多模态上下文中的检索与推理。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-12-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemini: A Family of Highly Capable Multimodal Models",
+    "zh": "Gemini: A Family of Highly Capable Multimodal Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2312.11805v5",
+   "note": {
+    "en": "The original Gemini report, introducing the multimodal model family across image, audio, video and text.",
+    "zh": "最初的 Gemini 报告，发布覆盖图像、音频、视频与文本的多模态模型家族。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-12-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Competition-level code generation with AlphaCode",
+    "zh": "Competition-level code generation with AlphaCode"
+   },
+   "source": "Science",
+   "url": "https://doi.org/10.1126/science.abq1158",
+   "note": {
+    "en": "DeepMind's AlphaCode paper, published in Science, demonstrating competition-level code generation.",
+    "zh": "DeepMind的AlphaCode论文发表于《科学》杂志，展示了达到竞赛水平的代码生成能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2022-09-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Improving alignment of dialogue agents via targeted human judgements",
+    "zh": "Improving alignment of dialogue agents via targeted human judgements"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2209.14375v1",
+   "note": {
+    "en": "Sparrow, a dialogue agent made more helpful and harmless through reinforcement learning from targeted human judgements.",
+    "zh": "Sparrow：通过针对性人类判断的强化学习，让对话智能体更有帮助且更无害。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-02-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Magnetic control of tokamak plasmas through deep reinforcement learning",
+    "zh": "Magnetic control of tokamak plasmas through deep reinforcement learning"
+   },
+   "source": "Nature",
+   "url": "https://doi.org/10.1038/s41586-021-04301-9",
+   "note": {
+    "en": "DeepMind and EPFL's Nature paper showing deep reinforcement learning can control tokamak plasma shapes in real time, a landmark fusion-control result.",
+    "zh": "DeepMind与EPFL合作发表于《自然》的论文，展示深度强化学习可实时控制托卡马克等离子体形状，是核聚变控制领域的标志性成果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2022-02-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Unified Scaling Laws for Routed Language Models",
+    "zh": "Unified Scaling Laws for Routed Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2202.01169v2",
+   "note": {
+    "en": "Scaling laws for routing networks, showing how sparsely routed language models trade parameter count against compute.",
+    "zh": "路由网络的扩展定律，说明稀疏路由语言模型如何在参数量与计算量之间权衡。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-12-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scaling Language Models: Methods, Analysis & Insights from Training Gopher",
+    "zh": "Scaling Language Models: Methods, Analysis & Insights from Training Gopher"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2112.11446v2",
+   "note": {
+    "en": "The Gopher paper on DeepMind's 280B-parameter language model, with an analysis of what scale does and does not fix.",
+    "zh": "Gopher 论文，介绍 DeepMind 的 2800 亿参数语言模型，并分析扩大规模能与不能解决的问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-06-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Bootstrap your own latent: A new approach to self-supervised Learning",
+    "zh": "Bootstrap your own latent: A new approach to self-supervised Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2006.07733v3",
+   "note": {
+    "en": "BYOL, which learns self-supervised image representations from two coupled networks without negative pairs.",
+    "zh": "BYOL：用两个相互耦合的网络实现无需负样本的自监督图像表征学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-09-10",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Towards the future",
+    "zh": "Towards the future"
+   },
+   "source": "Google DeepMind: The Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/towards-the-future/id1476316441?i=1000449228399&uo=4",
+   "note": {
+    "en": "Kavukcuoglu appeared on DeepMind's own podcast to discuss general-purpose learning systems that solve problems without being explicitly taught how.",
+    "zh": "卡武库奥卢在DeepMind自制播客中，谈论了无需明确教导即可学习解决各类问题的通用学习系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2019-03-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The StreetLearn Environment and Dataset",
+    "zh": "The StreetLearn Environment and Dataset"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1903.01292v1",
+   "note": {
+    "en": "The StreetLearn environment and dataset, released for research on navigation from Street View imagery.",
+    "zh": "公开 StreetLearn 环境与数据集，用于基于街景图像的导航研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-07-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Human-level performance in first-person multiplayer games with population-based deep reinforcement learning",
+    "zh": "Human-level performance in first-person multiplayer games with population-based deep reinforcement learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1807.01281v1",
+   "note": {
+    "en": "Population-based deep reinforcement learning agents reaching human-level play in first-person multiplayer games.",
+    "zh": "基于种群的深度强化学习智能体在第一人称多人游戏中达到人类水平。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-03-31",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Learning to Navigate in Cities Without a Map",
+    "zh": "Learning to Navigate in Cities Without a Map"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1804.00168v3",
+   "note": {
+    "en": "An agent that learns long-range navigation in real cities from Street View, without being given a map.",
+    "zh": "一个无需地图、从街景中学会在真实城市中远距离导航的智能体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-03-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Unsupervised Predictive Memory in a Goal-Directed Agent",
+    "zh": "Unsupervised Predictive Memory in a Goal-Directed Agent"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1803.10760v1",
+   "note": {
+    "en": "MERLIN, an agent that builds unsupervised predictive memory so it can act on limited sensory information.",
+    "zh": "MERLIN：构建无监督预测式记忆的智能体，使其在感知信息有限时仍能完成目标导向行为。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-02-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Efficient Neural Audio Synthesis",
+    "zh": "Efficient Neural Audio Synthesis"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1802.08435v2",
+   "note": {
+    "en": "WaveRNN, which cuts the cost of high-quality neural audio sampling, following directly from his WaveNet work.",
+    "zh": "WaveRNN 大幅降低高质量神经音频采样的开销，与他的 WaveNet 工作一脉相承。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-02-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures",
+    "zh": "IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1802.01561v3",
+   "note": {
+    "en": "IMPALA, a distributed actor-learner architecture with V-trace correction for training one agent across many tasks.",
+    "zh": "IMPALA：带 V-trace 校正的分布式 actor-learner 架构，用单个智能体同时学习大量任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2017-11-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Parallel WaveNet: Fast High-Fidelity Speech Synthesis",
+    "zh": "Parallel WaveNet: Fast High-Fidelity Speech Synthesis"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1711.10433v1",
+   "note": {
+    "en": "Parallel WaveNet distils WaveNet into a model fast enough for production speech synthesis.",
+    "zh": "Parallel WaveNet 将 WaveNet 蒸馏为速度足以用于生产环境的语音合成模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2017-11-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Population Based Training of Neural Networks",
+    "zh": "Population Based Training of Neural Networks"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1711.09846v2",
+   "note": {
+    "en": "Population Based Training, which adapts hyperparameters online during a single training run.",
+    "zh": "Population Based Training：在一次训练过程中在线调整超参数。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2017-11-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Neural Discrete Representation Learning",
+    "zh": "Neural Discrete Representation Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1711.00937v2",
+   "note": {
+    "en": "VQ-VAE, which learns discrete latent representations without supervision and underpins much later generative work.",
+    "zh": "VQ-VAE：无监督地学习离散隐表征，成为后续大量生成模型工作的基础。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-08-05",
+   "level": "major",
+   "title": {
+    "en": "Takes over daily operations of Google DeepMind",
+    "zh": "接管 Google DeepMind 日常运营"
+   },
+   "body": {
+    "en": "Promoted to SVP with oversight of Gemini model development, frontier AI research, and the Gemini app and developer teams. Was DeepMind CTO and Google's Chief AI Architect.",
+    "zh": "晋升高级副总裁，统管 Gemini 模型研发、前沿 AI 研究以及 Gemini 应用与开发者团队。此前任 DeepMind CTO 兼 Google 首席 AI 架构师。"
+   },
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html"
+  },
+  {
+   "date": "2026-08-12",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Google names Demis Hassabis chair and Koray Kavukcuoglu Gemini lead",
+    "zh": "Google names Demis Hassabis chair and Koray Kavukcuoglu Gemini lead"
+   },
+   "body": {
+    "en": "Google puts him in charge of Gemini and of Google DeepMind day to day, with Demis Hassabis moving to a chair role.",
+    "zh": "谷歌任命他执掌 Gemini 并负责 Google DeepMind 的日常运营，Demis Hassabis 转任主席。"
+   },
+   "source": "NewsBytes",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcTdmUG5EVmUxa0paOVpPZXJzMm9tOHkxZ3F1SVMzVTFUTnRJWEYwUWRLUGtfUXk5YlBGa1diSDhJcDdwTXZzUkU0ZzdmSEpMbEFxOU5RNzhGSHZ6d1hIdE41Q1Jvb1VVdXoxZXZkemlEZl9pUDBfUjZlbi13UXEyZFI0QzFkQWxNcTJtVERFSEJwVXFXZkw2VzlYa1NmVUc3N3AxVFQ3VFhwWjJQYW5vYjdSaVo?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-12",
+   "ts": "2026-08-12T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Koray Kavukcuoglu Takes Charge at Google DeepMind in Intensifying Race Against OpenAI and Anthropic - Segment Revenue Breakdown",
+    "zh": "Koray Kavukcuoglu Takes Charge at Google DeepMind in Intensifying Race Against OpenAI and Anthropic - Segment Revenue Breakdown"
+   },
+   "body": {
+    "en": "Koray Kavukcuoglu took charge of Google DeepMind's day-to-day operations as the lab intensifies its race against OpenAI and Anthropic.",
+    "zh": "库雷·卡武克奥卢正式接管Google DeepMind的日常运营，该实验室正加大与OpenAI、Anthropic的竞争力度。"
+   },
+   "source": "CarePlus VietNam",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb2Y3cE91dW9NeTR5V2hROW0xUzV2UXZRaUdndUxUWmYwVGgyT2l5QWNFSTNEcWFMdU9VaVhPOTZLZ2NaRV9jX3JNdWNhWDVScHozUU5fYmsyVzNrcHFUVXA4anZCLTRtY2tCY1M0NDB4UVRpUmtDZ2hDSUcyQnRWRWVleTVfRTVUX1JsSlNSS1FEa3ZYM2NIQ2JReTkwT1Z2NEVlSzFJc0Z0ek8xdUFaVF9HT01kX1pIRDBXT0RYUHd0STM1ZWswb2MwX3BNTUxkZklhUXgyX3BtU18xSGhV?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-10",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Google DeepMind Reshuffle: Hassabis hands over reins to Koray Kavukcuoglu as Jeff Dean exits after 27 years",
+    "zh": "Google DeepMind Reshuffle: Hassabis hands over reins to Koray Kavukcuoglu as Jeff Dean exits after 27 years"
+   },
+   "body": {
+    "en": "Demis Hassabis handed day-to-day leadership of Google DeepMind to Koray Kavukcuoglu, coinciding with Jeff Dean's departure from Google after 27 years.",
+    "zh": "Demis Hassabis将谷歌DeepMind的日常运营领导权移交给Koray Kavukcuoglu，此举恰逢Jeff Dean在谷歌工作27年后离职。"
+   },
+   "source": "ET Now",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSGNsYjREc1BWZlVPeExOZngzbjZSTTdoMnIwOV9CZ0pfVDd2T241WVc3eXVibGtrcFllZGV1SDJ0YTNaMU1Bek1aNUwzREktZnduUngyTmsyQVR6LXNyN3ZIaXVLRWhiSEUxQUpHRGxBSk9BY05rbzZYX0FRc05fa05qdEw4ck1hUVdoX2M5UGFZeUlockpheV92YmtKYmd2cnRtZ21mYmFnSnh4Nk5oNE85VmNHd013d3dhX0ZTZmo0VHk5ZUp6c1QtRS1QSmxpRUYzazBIZEtXNUcwTjFOTVdERVBNamlwbHRLZ2d1V0l5eWfSAfgBQVVfeXFMTm5zdnVtY0x4TEN6MXJsNGhmc2VQdE5raDJDTnNraGNmN1VRSWdhTUtrWG1CTjJjYVZXRnVKRDJMYmtQS1pBeWpXVGM3eDBJcERoazVJUmVpWkJKY09YclhBRE1fTy1PM05WdDNlaGw1N3NqSGlsNWQ4RHBJZ2x6NGx5TmFIZ0djOGRTSmZTMnByamxjbGI5ZW5OSTdTbG9MMmlaQ2tjYlBuaFNpdXUwdzdvSWVENlZJQ24yR2lNMmlzaFd2bkg4NEU2Y1BXSlFZN3hVSnNfUUFtdEVXMU5tRDQtai1Qa3hyQXFvRk9tMno5UmhRQVhIcUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-07",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Demis Hassabis hands Google DeepMind’s day-to-day leadership to Koray Kavukcuoglu",
+    "zh": "Demis Hassabis hands Google DeepMind’s day-to-day leadership to Koray Kavukcuoglu"
+   },
+   "body": {
+    "en": "Hassabis hands day-to-day leadership of Google DeepMind to Kavukcuoglu, putting him in charge of running the lab.",
+    "zh": "哈萨比斯将 Google DeepMind 的日常管理交给 Kavukcuoglu，由他主掌实验室运转。"
+   },
+   "source": "edtechinnovationhub.com",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51ZDJrVmkyZmRGNzNvM3BMTkRLd19zV0JZWllHRU90d1pXQUhQTmQ3a1hsSk9QS2Q3NGROUjFWTkFjQUxPLW5XSWlJelo0dFZIdEd2RFdZeU5yQVBrNFF3akFON3owMFRwdmRNRUZTV0U4WjhjTjRiNW1ldw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-06",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Koray Kavukcuoglu Takes Operational Control of Gemini",
+    "zh": "Koray Kavukcuoglu Takes Operational Control of Gemini"
+   },
+   "body": {
+    "en": "Kavukcuoglu takes day-to-day operational control of Gemini, consolidating final say over Google DeepMind's flagship model line under him.",
+    "zh": "Kavukcuoglu 接手 Gemini 的日常运营控制权，Google DeepMind 旗舰模型线的最终决策权集中到他手中。"
+   },
+   "source": "Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPREp1c1lDb0pST0xFd0h2b1RWWTczLXFELWV5a254V0t2NldTV3VJZUNmZG9KN2RfNXp5NkxIc0MwSjZhQzhlVjFEWC1DQXdYWkc2akxNcFBjUEIzSVNzNk5CbXVESGtpSk4wZmdncWdWQ0pGb2wzMXZvNXVDaXlnUlpXVzF1Z3pYajRqVENCbXNqN1BWUVNRSkp0OHJrcHZXUE0xcFVkVnY2VEJxVmdrVzFNcw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-06",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Alphabets AI Leadership Overhaul: Demis Hassabis Elevated To Chief Scientist As Koray Kavukcuoglu Takes",
+    "zh": "Alphabets AI Leadership Overhaul: Demis Hassabis Elevated To Chief Scientist As Koray Kavukcuoglu Takes"
+   },
+   "body": {
+    "en": "Alphabet reshuffled AI leadership: Demis Hassabis moved to Chief Scientist while Koray Kavukcuoglu became Google DeepMind's CEO.",
+    "zh": "Alphabet调整AI领导层：戴密斯·哈萨比斯转任首席科学家，科雷·卡武克奥卢出任Google DeepMind首席执行官。"
+   },
+   "source": "Free Press Journal",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQc2VVbDVtUHpxSmtkRkZmNURLV0lRdnBJbS1pQjJRdVZvV0Vla1ZFajZDY1ZBcEJva3BfMzlnQnZidmQ5WW0xRHlkUC1tNUhnYWFERWRBT1RZMFYtT2pYNjFZaV95S2RRZV9tTEZQTGU1cU1yYmZaQXk3MlRuNGp2NkQtcDBsS2w5cUtFcDllREJyODk2YVB1OXhmcjlCaDZEWUVMZ29VOHhtb0tHTVJvSnRGOXJYNENlUHhDcV9FVGtSR2hfVm83WWVrZGxmZTBOTGhIQzk1RFk0VGJUMXJmNWdlclFrbWxVMGFKRFBsZWIwckI4MnNfWNIB_gFBVV95cUxNWmkxUDVYMmZXRHZKb1Rzc08td0VGMndhODh4VGJPdDl4aXQ2Z2czRFNCVVpxVDV4MmZKZzJHVXAyQjlkYVAwNUt1R3hEb2g5Zm9OaWc5a0RDYThhQy0tNHVxN2dEd1ZmeVVvRXFXZVExcURNRzZBRXpZbGtYNV9McV9VNmhwaEFWNHAzVXRKTjlfTmxzSG8tbVl5RHZJZUtWSGY3SWhUMjNVVUVCTHpGdGtNemE1R3M0VVRvN2MyNlNrMHF3QnE2cS1aNmNBT0dUMVhvbzNoZmRxZG9ULTcxcDJvVkxwM0tVQnVHdFEtdU13dzltU0h2a21Pdld1Zw?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": true,
+ "was": {
+  "en": "Chief AI Architect, Google",
+  "zh": "Google 首席 AI 架构师"
+ },
+ "cat": "lab",
+ "score": {
+  "total": 69.6,
+  "attention": null,
+  "centrality": 87,
+  "momentum": 45,
+  "stature": 78,
+  "pageviews": 0,
+  "citations": 166549,
+  "hIndex": 73,
+  "events": 7,
+  "posts": 35,
+  "wikiEn": null,
+  "wikiZh": null
+ },
+ "seedRank": 20,
+ "tier": "t2"
+}

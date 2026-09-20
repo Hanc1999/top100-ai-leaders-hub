@@ -1,0 +1,1680 @@
+{
+ "rank": 26,
+ "id": "jeff-dean",
+ "name": {
+  "en": "Jeff Dean",
+  "zh": "Jeff Dean"
+ },
+ "role": {
+  "en": "Co-founder, Discovery Loop",
+  "zh": "Discovery Loop 联合创始人"
+ },
+ "org": "Discovery Loop",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "Discovery Loop",
+  "AI for Science",
+  "TPU",
+  "Pathways",
+  "Gemini",
+  "New venture"
+ ],
+ "why": {
+  "en": "MapReduce, TensorFlow, TPU and Pathways all carry his fingerprints; he co-led Gemini. After 27 years he left Google to build a company whose entire purpose is automating machine-learning research itself.",
+  "zh": "MapReduce、TensorFlow、TPU 与 Pathways 都带有他的指纹，并曾联合领导 Gemini。27 年后离开 Google，创立一家以自动化机器学习研究本身为唯一目的的公司。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@JeffDean",
+   "url": "https://x.com/JeffDean",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Personal page",
+   "url": "https://research.google/people/jeff/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Google Research Blog",
+   "url": "https://research.google/blog/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Jeff+Dean",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Jeff+Dean",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Jeff+Dean",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Jeff+Dean&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Jeff+Dean&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Jeff+Dean",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Jeff+Dean&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Jeff+Dean",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Jeff+Dean",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Jeff+Dean",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Jeff+Dean",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Jeff+Dean",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Jeff+Dean",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Jeff+Dean",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Jeff+Dean&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jeff_Dean",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-08-05",
+   "kind": "x",
+   "title": {
+    "en": "Announcing Discovery Loop",
+    "zh": "宣布创立 Discovery Loop"
+   },
+   "source": "X",
+   "url": "https://x.com/JeffDean",
+   "note": {
+    "en": "The exit announcement and the thesis: automate the research loop itself.",
+    "zh": "离职公告与其论点：把研究循环本身自动化。"
+   }
+  },
+  {
+   "date": "2023-01-01",
+   "kind": "report",
+   "title": {
+    "en": "Google Research year-in-review series",
+    "zh": "Google Research 年度回顾系列"
+   },
+   "source": "Google Research Blog",
+   "url": "https://research.google/blog/",
+   "note": {
+    "en": "The long-running survey posts he anchored for a decade — still the best single map of how Google's stack was assembled.",
+    "zh": "他主持了十年的长篇综述文章 —— 至今仍是理解 Google 技术栈如何搭起来的最佳单一地图。"
+   }
+  },
+  {
+   "date": "2026-08-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Indeed, it has been quite a week, so I thought I'd share it with the KDD 2026 audience! For my Google colleagues who might have sent me internal chat messages a",
+    "zh": "Indeed, it has been quite a week, so I thought I'd share it with the KDD 2026 audience! For my Google colleagues who might have sent me internal chat messages a"
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/2087038694054072637",
+   "note": {
+    "en": "Jeff Dean reflected publicly at KDD 2026 on the intense final week before his departure from Google, drawing over 3,000 likes.",
+    "zh": "Jeff Dean在KDD 2026大会上公开回顾了他离开谷歌前紧张的最后一周,该帖获得超过3000个赞。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Tomorrow will be my last day at Google after 27 years, and watching it grow from 25 people to 190,000+ has been an amazing journey. Below is a note I shared wit",
+    "zh": "Tomorrow will be my last day at Google after 27 years, and watching it grow from 25 people to 190,000+ has been an amazing journey. Below is a note I shared wit"
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/2085083442669318443",
+   "note": {
+    "en": "Jeff Dean announced his last day at Google after 27 years, marking his departure from the company he joined when it had 25 employees.",
+    "zh": "Jeff Dean宣布在谷歌工作27年后即将离职,标志着他与这家从25名员工起步的公司告别。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Announcing Discovery Loop! I am very excited to announce that, along with my longtime friends and collaborators @Sanjay_Ghemawat, @OriolVinyalsML and @quocleix,",
+    "zh": "Announcing Discovery Loop! I am very excited to announce that, along with my longtime friends and collaborators @Sanjay_Ghemawat, @OriolVinyalsML and @quocleix,"
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/2085034604172603724",
+   "note": {
+    "en": "Jeff Dean announced the founding of Discovery Loop with longtime collaborators Sanjay Ghemawat, Oriol Vinyals and Quoc Le, a startup aimed at automating ML research.",
+    "zh": "Jeff Dean宣布与长期合作伙伴Sanjay Ghemawat、Oriol Vinyals和Quoc Le共同创立Discovery Loop,致力于自动化机器学习研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-01",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Jeff Dean: The 1% Rule for Building in AI",
+    "zh": "Jeff Dean: The 1% Rule for Building in AI"
+   },
+   "source": "Y Combinator Startup Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/jeff-dean-the-1-rule-for-building-in-ai/id1236907421?i=1000779426144&uo=4",
+   "note": {
+    "en": "A Y Combinator interview in which he traces Google's big infrastructure bets, from putting the search index in RAM to building TPUs, back to napkin calculations.",
+    "zh": "Y Combinator 访谈，他把谷歌的几次重大基础设施押注——从把搜索索引放进内存到自研 TPU——追溯到几张草稿纸上的估算。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-07-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "A nice aspect of our new Gemini 3.6 Flash model is that it is much more token efficient than our 3.5 Flash model. Here's a side-by-side demonstration of that. N",
+    "zh": "A nice aspect of our new Gemini 3.6 Flash model is that it is much more token efficient than our 3.5 Flash model. Here's a side-by-side demonstration of that. N"
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/2079591562145870043",
+   "note": {
+    "en": "Jeff Dean demonstrated that the new Gemini 3.6 Flash model is significantly more token-efficient than its 3.5 Flash predecessor.",
+    "zh": "Jeff Dean演示了新款Gemini 3.6 Flash模型相比3.5 Flash前代产品在token效率上有显著提升。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "My @Google colleagues @NormJouppi, Sridhar Lakshmanamurthy, Cliff Young, and David Patterson recently wrote a paper that will appear in the July/August 2026 edi",
+    "zh": "My @Google colleagues @NormJouppi, Sridhar Lakshmanamurthy, Cliff Young, and David Patterson recently wrote a paper that will appear in the July/August 2026 edi"
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/2067681662318924244",
+   "note": {
+    "en": "Jeff Dean highlighted a forthcoming IEEE Micro paper by Google colleagues on the company's TPU hardware.",
+    "zh": "Jeff Dean介绍了谷歌同事即将在IEEE Micro发表的一篇关于公司TPU硬件的论文。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "People replace their phones every ~4 yrs. This means there are hundreds of millions of old phones discarded each year that are still perfectly usable as computi",
+    "zh": "People replace their phones every ~4 yrs. This means there are hundreds of millions of old phones discarded each year that are still perfectly usable as computi"
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/2065649717573505188",
+   "note": {
+    "en": "Jeff Dean described a Google collaboration repurposing hundreds of millions of discarded but usable old phones as computing devices.",
+    "zh": "Jeff Dean介绍了谷歌的一项合作项目,旨在将数以亿计仍可使用但被淘汰的旧手机重新用作计算设备。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Quite interesting thread on capabilities of real biological neurons (spoiler: they're way more capable than classical artificial neurons in a perceptron) . Nice",
+    "zh": "Quite interesting thread on capabilities of real biological neurons (spoiler: they're way more capable than classical artificial neurons in a perceptron) . Nice"
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/2065471716734996823",
+   "note": {
+    "en": "Jeff Dean shared a thread on how biological neurons are far more computationally capable than the artificial neurons used in perceptrons.",
+    "zh": "Jeff Dean分享了一条讨论生物神经元计算能力远超感知机人工神经元的推文串。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Denying entry to a Somali soccer official selected as one of the World Cup referees is quite shameful. The whole point of the World Cup is as a spirited athleti",
+    "zh": "Denying entry to a Somali soccer official selected as one of the World Cup referees is quite shameful. The whole point of the World Cup is as a spirited athleti"
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/2064497666638430542",
+   "note": {
+    "en": "Jeff Dean criticized the denial of entry to a Somali soccer official selected as a World Cup referee, calling it shameful.",
+    "zh": "Jeff Dean批评了一名被选为世界杯裁判的索马里足球官员被拒绝入境一事,称此举可耻。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Speech translation has been one of the longest-running ML efforts at Google, and we’ve come a long way. Gemini 3.5 Live Translate is our latest speech-to-speech",
+    "zh": "Speech translation has been one of the longest-running ML efforts at Google, and we’ve come a long way. Gemini 3.5 Live Translate is our latest speech-to-speech"
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/2064400689825288351",
+   "note": {
+    "en": "Jeff Dean introduced Gemini 3.5 Live Translate, Google's latest speech-to-speech translation model supporting 70+ languages.",
+    "zh": "Jeff Dean发布了Gemini 3.5 Live Translate,谷歌最新的语音到语音翻译模型,支持70多种语言。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Check out our Gemma 4 12B model: it's a super capable open weights model that can run directly on your laptop.",
+    "zh": "Check out our Gemma 4 12B model: it's a super capable open weights model that can run directly on your laptop."
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/2062353800657342903",
+   "note": {
+    "en": "Jeff Dean introduced Gemma 4 12B, an open-weights model capable of running directly on a laptop.",
+    "zh": "Jeff Dean发布了Gemma 4 12B,一款可直接在笔记本电脑上运行的开放权重模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Highly capable models that are fast are super important. Our new Gemini 3.5 Flash model is a great mix of fast and capable.",
+    "zh": "Highly capable models that are fast are super important. Our new Gemini 3.5 Flash model is a great mix of fast and capable."
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/2056853398117617881",
+   "note": {
+    "en": "Jeff Dean introduced Gemini 3.5 Flash, describing it as a fast and capable model.",
+    "zh": "Jeff Dean发布了Gemini 3.5 Flash,称其兼具速度与能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "1/ Today at #GoogleIO, we’re releasing Gemini 3.5, our latest family of models combining frontier intelligence with action. We’re starting by releasing 3.5 Flas",
+    "zh": "1/ Today at #GoogleIO, we’re releasing Gemini 3.5, our latest family of models combining frontier intelligence with action. We’re starting by releasing 3.5 Flas"
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/2056793419033588091",
+   "note": {
+    "en": "Jeff Dean announced the Gemini 3.5 model family at Google I/O, starting with the release of 3.5 Flash.",
+    "zh": "Jeff Dean在谷歌I/O大会上宣布推出Gemini 3.5系列模型,首先发布的是3.5 Flash。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Decoupled DiLoCo for Resilient Distributed Pre-training",
+    "zh": "Decoupled DiLoCo for Resilient Distributed Pre-training"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.21428v1",
+   "note": {
+    "en": "A distributed pre-training method that drops the tight coupling SPMD training requires, so a slow or failed accelerator no longer stalls the whole run; he is the final author.",
+    "zh": "一种分布式预训练方法，去掉了 SPMD 训练所需的紧耦合，使个别加速器变慢或故障时不再拖垮整个训练；他是末位作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I had a good time discussing yesterday's Google TPU v8t and v8i announcement at Cloud Next with Amin Vahdat along with @AcquiredFM hosts @gilbert and @djrosent.",
+    "zh": "I had a good time discussing yesterday's Google TPU v8t and v8i announcement at Cloud Next with Amin Vahdat along with @AcquiredFM hosts @gilbert and @djrosent."
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/2047403921912873257",
+   "note": {
+    "en": "Jeff Dean discussed Google's newly announced TPU v8t and v8i chips at Cloud Next with Amin Vahdat.",
+    "zh": "Jeff Dean在Cloud Next大会上与Amin Vahdat讨论了谷歌新发布的TPU v8t和v8i芯片。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "It's been a delight to provide small amounts of advice and suggestions to people working on the Decoupled DiLoCo training system. This approach enables graceful",
+    "zh": "It's been a delight to provide small amounts of advice and suggestions to people working on the Decoupled DiLoCo training system. This approach enables graceful"
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/2047339995682529313",
+   "note": {
+    "en": "Jeff Dean described advising on the Decoupled DiLoCo distributed training system, which enables graceful handling of failures at large scale.",
+    "zh": "Jeff Dean介绍了他为Decoupled DiLoCo分布式训练系统提供建议的工作,该系统能够优雅地处理大规模训练中的故障。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Hedged requests (apparently inspired by the Tail at Scale paper by myself and Luiz Barroso) applied within a single machine to replicating data across DRAM chan",
+    "zh": "Hedged requests (apparently inspired by the Tail at Scale paper by myself and Luiz Barroso) applied within a single machine to replicating data across DRAM chan"
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/2041908142590792122",
+   "note": {
+    "en": "Jeff Dean discussed hedged requests, a technique from his own 'Tail at Scale' paper, being applied within a single machine across DRAM channels.",
+    "zh": "Jeff Dean讨论了源自其本人《Tail at Scale》论文的对冲请求技术如何被应用于单机内跨DRAM通道的场景。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Owning the AI Pareto Frontier — Jeff Dean",
+    "zh": "Owning the AI Pareto Frontier — Jeff Dean"
+   },
+   "source": "Latent Space: The AI Engineer Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/owning-the-ai-pareto-frontier-jeff-dean/id1674008350?i=1000749498954&uo=4",
+   "note": {
+    "en": "A Latent Space interview on co-designing TPUs alongside frontier ML research and on pushing the cost-versus-capability frontier.",
+    "zh": "Latent Space 访谈，谈 TPU 与前沿机器学习研究的协同设计，以及如何推进成本与能力的前沿。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-02-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "WAXAL: A Large-Scale Multilingual African Language Speech Corpus",
+    "zh": "WAXAL: A Large-Scale Multilingual African Language Speech Corpus"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.02734v3",
+   "note": {
+    "en": "A large open speech corpus for Sub-Saharan African languages, built to close the data gap that keeps those languages out of speech technology; he is a senior author.",
+    "zh": "面向撒哈拉以南非洲语言的大规模开放语音语料库，旨在填补这些语言被语音技术排除在外的数据空白；他是资深作者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-11-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "An exciting new approach for doing continual learning, using nested optimization for enhancing long context processing.",
+    "zh": "An exciting new approach for doing continual learning, using nested optimization for enhancing long context processing."
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/1986938111839129858",
+   "note": {
+    "en": "Jeff Dean previewed a new continual-learning approach using nested optimization to improve long-context processing.",
+    "zh": "Jeff Dean预告了一种利用嵌套优化改进长上下文处理的持续学习新方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-09-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Now you can automate many kinds of browser activity using the new Chrome DevTools MCP. In the other retweets of the base post, many people are already thinking",
+    "zh": "Now you can automate many kinds of browser activity using the new Chrome DevTools MCP. In the other retweets of the base post, many people are already thinking"
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/1971063828223087025",
+   "note": {
+    "en": "Jeff Dean announced Chrome DevTools MCP, a new tool for automating browser activity via the Model Context Protocol.",
+    "zh": "Jeff Dean宣布推出Chrome DevTools MCP,一款通过模型上下文协议自动化浏览器操作的新工具。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-08-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Our latest Gemini image generation and editing model is quite good (see the examples in the thread below). It lets you indulge in a bit of creative fun, helps y",
+    "zh": "Our latest Gemini image generation and editing model is quite good (see the examples in the thread below). It lets you indulge in a bit of creative fun, helps y"
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/1960356958780707042",
+   "note": {
+    "en": "Jeff Dean previewed Google's latest Gemini image generation and editing model.",
+    "zh": "Jeff Dean预告了谷歌最新的Gemini图像生成与编辑模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-08-22",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Deep Dive: Jeff Dean on Google Brain’s Early Days",
+    "zh": "Deep Dive: Jeff Dean on Google Brain’s Early Days"
+   },
+   "source": "The Moonshot Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/deep-dive-jeff-dean-on-google-brains-early-days/id1797994496?i=1000723108718&uo=4",
+   "note": {
+    "en": "Long-form interview in which he recounts the early days of Google Brain.",
+    "zh": "长篇访谈，他在其中回顾 Google Brain 的早期岁月。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-08-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Measuring the environmental impact of delivering AI at Google Scale",
+    "zh": "Measuring the environmental impact of delivering AI at Google Scale"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2508.15734v1",
+   "note": {
+    "en": "The first published measurement of the energy, carbon and water cost of serving AI inside Google's production stack.",
+    "zh": "首次公开实测谷歌生产环境中提供 AI 服务所消耗的能源、碳排放与水资源。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-08-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "AI efficiency is important. Today, Google is sharing a technical paper detailing our comprehensive methodology for measuring the environmental impact of Gemini",
+    "zh": "AI efficiency is important. Today, Google is sharing a technical paper detailing our comprehensive methodology for measuring the environmental impact of Gemini"
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/1958525015722434945",
+   "note": {
+    "en": "Jeff Dean shared Google's technical paper detailing its methodology for measuring the environmental impact of Gemini inference.",
+    "zh": "Jeff Dean分享了谷歌关于测量Gemini推理环境影响方法论的技术论文。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+    "zh": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2507.06261v6",
+   "note": {
+    "en": "The technical report for the Gemini 2.5 model family, covering its reasoning, long-context and agentic capabilities.",
+    "zh": "Gemini 2.5 模型家族的技术报告，介绍其推理、长上下文与智能体能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-05-16",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "LIVE: Google's Jeff Dean on the Coming Transformations in AI",
+    "zh": "LIVE: Google's Jeff Dean on the Coming Transformations in AI"
+   },
+   "source": "Training Data",
+   "url": "https://podcasts.apple.com/us/podcast/live-googles-jeff-dean-on-the-coming-transformations-in-ai/id1750736528?i=1000708707146&uo=4",
+   "note": {
+    "en": "A live conversation at AI Ascent 2025 setting out his predictions for specialised hardware and for how model architectures will evolve.",
+    "zh": "AI Ascent 2025 现场对谈，阐述他对专用硬件以及模型架构演进方向的预测。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-05-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Today we’re sharing an early look at our latest Gemini update for I/O! Introducing the updated Gemini 2.5 Pro (I/O edition), which ranks #1 on WebDev Arena and",
+    "zh": "Today we’re sharing an early look at our latest Gemini update for I/O! Introducing the updated Gemini 2.5 Pro (I/O edition), which ranks #1 on WebDev Arena and"
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/1919770316949393476",
+   "note": {
+    "en": "Jeff Dean announced the updated Gemini 2.5 Pro (I/O edition), which topped WebDev Arena rankings.",
+    "zh": "Jeff Dean宣布推出更新版Gemini 2.5 Pro(I/O版),该模型在WebDev Arena排名中位居第一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-04-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Introducing TxGemma, a family of open models specifically tailored for health settings, building on top of Gemma and Gemini. https://t.co/vBNSCmlO3R",
+    "zh": "Introducing TxGemma, a family of open models specifically tailored for health settings, building on top of Gemma and Gemini. https://t.co/vBNSCmlO3R"
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/1911654675473952772",
+   "note": {
+    "en": "Jeff Dean introduced TxGemma, a family of open models tailored for health applications, built on Gemma and Gemini.",
+    "zh": "Jeff Dean发布了TxGemma,一个基于Gemma和Gemini、专为医疗健康场景定制的开放模型系列。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-03-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Our best model*, Gemini 2.5 Pro, is now available for everyone in the Gemini app model drop down menu at https://t.co/xR9jN4XMCO. Give it a try with your most d",
+    "zh": "Our best model*, Gemini 2.5 Pro, is now available for everyone in the Gemini app model drop down menu at https://t.co/xR9jN4XMCO. Give it a try with your most d"
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/1906169640763765119",
+   "note": {
+    "en": "Jeff Dean announced Gemini 2.5 Pro's general availability to all users in the Gemini app.",
+    "zh": "Jeff Dean宣布Gemini 2.5 Pro已面向Gemini应用的所有用户开放使用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-03-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemma 3 Technical Report",
+    "zh": "Gemma 3 Technical Report"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2503.19786v1",
+   "note": {
+    "en": "The technical report for Gemma 3, which adds vision understanding and longer context to Google's open model family.",
+    "zh": "Gemma 3 技术报告，为谷歌开源模型家族加入视觉理解能力与更长的上下文。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-03-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "🥁Introducing Gemini 2.5, our most intelligent model with impressive capabilities in advanced reasoning and coding. Now integrating thinking capabilities, 2.5 Pr",
+    "zh": "🥁Introducing Gemini 2.5, our most intelligent model with impressive capabilities in advanced reasoning and coding. Now integrating thinking capabilities, 2.5 Pr"
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/1904580112248693039",
+   "note": {
+    "en": "Jeff Dean introduced Gemini 2.5 with integrated thinking capabilities for advanced reasoning and coding.",
+    "zh": "Jeff Dean发布了集成思考能力的Gemini 2.5,擅长高级推理与编程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-02-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Equilibria and Learning in Modular Marketplaces",
+    "zh": "Equilibria and Learning in Modular Marketplaces"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2502.20346v1",
+   "note": {
+    "en": "A game-theoretic study of marketplaces where users compose specialised model APIs under a budget, analysing the equilibria and learning dynamics that result.",
+    "zh": "从博弈论角度研究用户在预算约束下组合各类专用模型 API 的市场，分析由此产生的均衡与学习动态。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-02-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI",
+    "zh": "Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI"
+   },
+   "source": "Dwarkesh Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/jeff-dean-noam-shazeer-25-years-at-google-from-pagerank/id1516093381?i=1000691556147&uo=4",
+   "note": {
+    "en": "A long joint interview with Noam Shazeer covering 25 years at Google, from the PageRank-era systems work through to their views on AGI.",
+    "zh": "与 Noam Shazeer 的长篇联合访谈，回顾在谷歌的二十五年，从 PageRank 时代的系统工作一路谈到他们对 AGI 的看法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-02-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I'm delighted to have joined my good friend and colleague @NoamShazeer for a 2+hour conversation with @dwarkesh_sp about a wide range of topics (early Google, M",
+    "zh": "I'm delighted to have joined my good friend and colleague @NoamShazeer for a 2+hour conversation with @dwarkesh_sp about a wide range of topics (early Google, M"
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/1889780178983031035",
+   "note": {
+    "en": "Jeff Dean announced a long-form podcast conversation with Noam Shazeer and Dwarkesh Patel covering early Google, ML hardware, and training large models.",
+    "zh": "Jeff Dean宣布与Noam Shazeer一起参加了Dwarkesh Patel主持的长篇播客对谈,内容涉及早期谷歌、机器学习硬件和大模型训练。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-02-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Matryoshka Quantization",
+    "zh": "Matryoshka Quantization"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2502.06786v3",
+   "note": {
+    "en": "A quantisation method that trains one model servable at int8, int4 or int2, removing the usual accuracy-versus-precision trade-off per target.",
+    "zh": "一种量化方法，训练出的单一模型可在 int8、int4 或 int2 下部署，免去为每种精度单独权衡精度与性能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-01-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We’ve been thrilled by the positive reception to Gemini 2.0 Flash Thinking we discussed in December. Today we’re sharing an experimental update (gemini-2.0-flas",
+    "zh": "We’ve been thrilled by the positive reception to Gemini 2.0 Flash Thinking we discussed in December. Today we’re sharing an experimental update (gemini-2.0-flas"
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/1881845919643279686",
+   "note": {
+    "en": "Jeff Dean shared an experimental update to Gemini 2.0 Flash Thinking with improved performance.",
+    "zh": "Jeff Dean分享了Gemini 2.0 Flash Thinking的实验性更新,性能有所提升。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-12-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The Gemini cookbook is the top trending repository on GitHub. Examples, API documentation, and more! https://t.co/OyIh7iS94C https://t.co/O7r4DJQoXS",
+    "zh": "The Gemini cookbook is the top trending repository on GitHub. Examples, API documentation, and more! https://t.co/OyIh7iS94C https://t.co/O7r4DJQoXS"
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/1869959489098826120",
+   "note": {
+    "en": "Jeff Dean noted the Gemini cookbook had become the top trending repository on GitHub.",
+    "zh": "Jeff Dean指出Gemini代码手册(cookbook)已成为GitHub上最热门的仓库。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-12-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Introducing Gemini 2.0 Flash Thinking, an experimental model that explicitly shows its thoughts. Built on 2.0 Flash’s speed and performance, this model is train",
+    "zh": "Introducing Gemini 2.0 Flash Thinking, an experimental model that explicitly shows its thoughts. Built on 2.0 Flash’s speed and performance, this model is train"
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/1869789813232341267",
+   "note": {
+    "en": "Jeff Dean introduced Gemini 2.0 Flash Thinking, an experimental model that explicitly shows its reasoning steps.",
+    "zh": "Jeff Dean发布了Gemini 2.0 Flash Thinking,一款会明确展示推理过程的实验性模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-12-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "@moderncpp7 @clu_cheng @NeurIPSConf @drfeifei @jiahuiyu @edchi I didn't see the talk, but the images I've seen of the slide seem quite offensive. Such generaliz",
+    "zh": "@moderncpp7 @clu_cheng @NeurIPSConf @drfeifei @jiahuiyu @edchi I didn't see the talk, but the images I've seen of the slide seem quite offensive. Such generaliz"
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/1867792638583484873",
+   "note": {
+    "en": "Jeff Dean publicly criticized offensive slide content shown at a NeurIPS talk, calling such generalizations unacceptable.",
+    "zh": "Jeff Dean公开批评了NeurIPS一场演讲中出现的冒犯性幻灯片内容,称此类以偏概全的言论不可接受。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-12-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "What a way to celebrate one year of incredible Gemini progress -- #1🥇across the board on overall ranking, as well as on hard prompts, coding, math, instruction",
+    "zh": "What a way to celebrate one year of incredible Gemini progress -- #1🥇across the board on overall ranking, as well as on hard prompts, coding, math, instruction"
+   },
+   "source": "@JeffDean",
+   "url": "https://x.com/JeffDean/status/1865081640546156993",
+   "note": {
+    "en": "Jeff Dean celebrated Gemini ranking #1 across overall, hard-prompt, coding, math and instruction-following benchmarks after one year of progress.",
+    "zh": "Jeff Dean庆祝Gemini在综合排名、高难度提示、编程、数学和指令遵循等各项基准测试中均排名第一,标志着一年来的进展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-12-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Shaping AI's Impact on Billions of Lives",
+    "zh": "Shaping AI's Impact on Billions of Lives"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2412.02730v2",
+   "note": {
+    "en": "A multi-author position paper, written with Google and academic leaders, on steering AI toward broad societal benefit rather than harm.",
+    "zh": "与谷歌及学界多位负责人合著的立场论文，主张将人工智能引导至广泛的社会效益而非危害。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-11-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "That Chip Has Sailed: A Critique of Unfounded Skepticism Around AI for Chip Design",
+    "zh": "That Chip Has Sailed: A Critique of Unfounded Skepticism Around AI for Chip Design"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2411.10053v1",
+   "note": {
+    "en": "A rebuttal written with Anna Goldie and Azalia Mirhoseini to published criticism of AlphaChip's reinforcement-learning approach to chip floorplanning.",
+    "zh": "与 Anna Goldie、Azalia Mirhoseini 合作，回应外界对 AlphaChip 以强化学习进行芯片布局规划的公开质疑。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-09-11",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Decoding Google Gemini with Jeff Dean",
+    "zh": "Decoding Google Gemini with Jeff Dean"
+   },
+   "source": "Google DeepMind: The Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/decoding-google-gemini-with-jeff-dean/id1476316441?i=1000669155352&uo=4",
+   "note": {
+    "en": "An interview with Hannah Fry on the Google DeepMind podcast about how Gemini was built.",
+    "zh": "在 Google DeepMind 播客中接受 Hannah Fry 访谈，讲述 Gemini 的构建过程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-07-31",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemma 2: Improving Open Language Models at a Practical Size",
+    "zh": "Gemma 2: Improving Open Language Models at a Practical Size"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2408.00118v3",
+   "note": {
+    "en": "The technical report for Gemma 2, Google's 2B-to-27B family of open weights models.",
+    "zh": "Gemma 2 技术报告，介绍谷歌 20 亿至 270 亿参数的开放权重模型家族。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-04-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Capabilities of Gemini Models in Medicine",
+    "zh": "Capabilities of Gemini Models in Medicine"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2404.18416v2",
+   "note": {
+    "en": "Adapts Gemini to medicine and reports its performance on clinical reasoning and multimodal medical tasks.",
+    "zh": "将 Gemini 适配到医学领域，报告其在临床推理与多模态医疗任务上的表现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-03-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemma: Open Models Based on Gemini Research and Technology",
+    "zh": "Gemma: Open Models Based on Gemini Research and Technology"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2403.08295v4",
+   "note": {
+    "en": "Introduces Gemma, the open model family built from the research and technology behind Gemini.",
+    "zh": "发布 Gemma——基于 Gemini 背后的研究与技术构建的开源模型家族。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-03-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context",
+    "zh": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2403.05530v5",
+   "note": {
+    "en": "The technical report for Gemini 1.5, the family that took usable context windows to millions of tokens.",
+    "zh": "Gemini 1.5 技术报告，该模型家族将可用上下文窗口推至百万级 token。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-01-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "AI and the Opportunity for Shared Prosperity: Lessons from the History of Technology and the Economy",
+    "zh": "AI and the Opportunity for Shared Prosperity: Lessons from the History of Technology and the Economy"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2401.09718v3",
+   "note": {
+    "en": "A Google policy paper, written with Ruth Porat and Hal Varian among others, on how AI's economic gains could be broadly shared.",
+    "zh": "与 Ruth Porat、Hal Varian 等人合著的谷歌政策论文，探讨如何让人工智能带来的经济收益惠及更广泛人群。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-05-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Brainformers: Trading Simplicity for Efficiency",
+    "zh": "Brainformers: Trading Simplicity for Efficiency"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2306.00008v2",
+   "note": {
+    "en": "Shows that searched, non-uniform transformer blocks train and serve more efficiently than the standard uniform stack.",
+    "zh": "论证经搜索得到的非均匀 Transformer 模块，在训练与推理效率上优于标准的均匀堆叠结构。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-11-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Efficiently Scaling Transformer Inference",
+    "zh": "Efficiently Scaling Transformer Inference"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2211.05102v1",
+   "note": {
+    "en": "Works out the partitioning strategies needed to serve very large Transformers under tight latency budgets and long sequences.",
+    "zh": "给出在严格延迟预算与长序列条件下部署超大 Transformer 所需的切分策略。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-10-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scaling Instruction-Finetuned Language Models",
+    "zh": "Scaling Instruction-Finetuned Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2210.11416v5",
+   "note": {
+    "en": "Shows that fine-tuning on many datasets phrased as instructions improves a model's generalisation to unseen tasks.",
+    "zh": "证明在大量以指令形式表述的数据集上微调，可提升模型对未见任务的泛化能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-09-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Review of Sparse Expert Models in Deep Learning",
+    "zh": "A Review of Sparse Expert Models in Deep Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2209.01667v1",
+   "note": {
+    "en": "A survey of sparse expert models — Mixture-of-Experts, Switch Transformers and their relatives — written with Barret Zoph and William Fedus.",
+    "zh": "与 Barret Zoph、William Fedus 合著，综述稀疏专家模型——混合专家、Switch Transformer 及其相关架构。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-06-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Emergent Abilities of Large Language Models",
+    "zh": "Emergent Abilities of Large Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2206.07682v2",
+   "note": {
+    "en": "Documents abilities that appear abruptly at scale rather than improving smoothly, a framing that shaped years of scaling debate.",
+    "zh": "记录了随规模突然涌现、而非平滑提升的能力，这一提法影响了此后多年关于规模化的讨论。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-05-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "An Evolutionary Approach to Dynamic Introduction of Tasks in Large-scale Multitask Learning Systems",
+    "zh": "An Evolutionary Approach to Dynamic Introduction of Tasks in Large-scale Multitask Learning Systems"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2205.12755v6",
+   "note": {
+    "en": "An evolutionary method for adding new tasks to a large multitask system without retraining it from scratch.",
+    "zh": "一种演化方法，可向大型多任务系统中动态加入新任务而无需从头重训。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-05-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "muNet: Evolving Pretrained Deep Neural Networks into Scalable Auto-tuning Multitask Systems",
+    "zh": "muNet: Evolving Pretrained Deep Neural Networks into Scalable Auto-tuning Multitask Systems"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2205.10937v2",
+   "note": {
+    "en": "Turns pretrained networks into self-tuning multitask systems that grow by reusing existing parameters rather than training anew.",
+    "zh": "将预训练网络转化为可自调优的多任务系统，通过复用已有参数扩展而非重新训练。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-04-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The Carbon Footprint of Machine Learning Training Will Plateau, Then Shrink",
+    "zh": "The Carbon Footprint of Machine Learning Training Will Plateau, Then Shrink"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2204.05149v1",
+   "note": {
+    "en": "Argues with David Patterson that four practices can cut ML training energy up to 100x, an early statement of his position on AI's climate cost.",
+    "zh": "与 David Patterson 合著，指出四项做法可将机器学习训练能耗最多降低百倍，是他关于 AI 气候成本立场的早期表述。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-04-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "PaLM: Scaling Language Modeling with Pathways",
+    "zh": "PaLM: Scaling Language Modeling with Pathways"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2204.02311v5",
+   "note": {
+    "en": "PaLM, the 540-billion-parameter model trained on Pathways, and the paper that demonstrated that system at full scale.",
+    "zh": "PaLM 是基于 Pathways 训练的 5400 亿参数模型，该论文展示了这套系统的全规模运行能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-03-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Pathways: Asynchronous Distributed Dataflow for ML",
+    "zh": "Pathways: Asynchronous Distributed Dataflow for ML"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2203.12533v1",
+   "note": {
+    "en": "The orchestration layer he co-designed for running ML workloads asynchronously across thousands of accelerators.",
+    "zh": "他参与设计的编排层，用于在数千个加速器上异步运行机器学习负载。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-02-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "ST-MoE: Designing Stable and Transferable Sparse Expert Models",
+    "zh": "ST-MoE: Designing Stable and Transferable Sparse Expert Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2202.08906v2",
+   "note": {
+    "en": "Makes sparse expert models stable enough to train reliably and transferable to downstream tasks.",
+    "zh": "使稀疏专家模型的训练足够稳定可靠，并能迁移到下游任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-09-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Google AI with Jeff Dean",
+    "zh": "Google AI with Jeff Dean"
+   },
+   "source": "Google Cloud Platform Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/google-ai-with-jeff-dean/id1053299163?i=1000419607182&uo=4",
+   "note": {
+    "en": "Old (2018) Google Cloud Platform Podcast episode where Dean, then head of Google AI, discussed AI/ML research and his outreach work at Deep Learning Indaba.",
+    "zh": "2018年Google Cloud Platform播客节目，时任Google AI负责人的Jeff Dean探讨了AI与机器学习研究，以及他在Deep Learning Indaba的推广工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2018-04-02",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Systems and Software for Machine Learning at Scale with Jeff Dean - TWiML Talk #124",
+    "zh": "Systems and Software for Machine Learning at Scale with Jeff Dean - TWiML Talk #124"
+   },
+   "source": "The TWIML AI Podcast (formerly This We…",
+   "url": "https://podcasts.apple.com/us/podcast/systems-and-software-for-machine-learning-at-scale/id1116303051?i=1000408016155&uo=4",
+   "note": {
+    "en": "An early TWiML interview, recorded at Google, on the systems and software built to train machine learning at scale.",
+    "zh": "早期 TWiML 访谈，在谷歌录制，谈为大规模机器学习训练所构建的系统与软件。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-08-05",
+   "level": "major",
+   "title": {
+    "en": "Leaves Google after 27 years to co-found Discovery Loop",
+    "zh": "离开 Google（27 年）联合创立 Discovery Loop"
+   },
+   "body": {
+    "en": "A public benefit corporation aimed at automating scientific and engineering research, starting with ML research and engineering itself, then hardware design, drug discovery and clean energy. Co-founders: Sanjay Ghemawat, Oriol Vinyals, Quoc Le. Google is a founding investor and cloud partner; Radical Ventures and Khosla Ventures co-lead the seed. Last day at Google: 6 Aug 2026.",
+    "zh": "一家公益公司，目标是自动化科学与工程研究：先做 ML 研究与工程本身，再拓展到硬件设计、药物发现与清洁能源。联合创始人：Sanjay Ghemawat、Oriol Vinyals、Quoc Le。Google 为创始投资人兼云伙伴，Radical Ventures 与 Khosla Ventures 联合领投种子轮。8 月 6 日为其在 Google 的最后一天。"
+   },
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/"
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T10:31:08Z",
+   "level": "notable",
+   "title": {
+    "en": "Ex-Googler Jeff Dean Explains Design Choices Behind Gemini",
+    "zh": "Ex-Googler Jeff Dean Explains Design Choices Behind Gemini"
+   },
+   "body": {
+    "en": "In a post-Google interview, Jeff Dean detailed the design choices behind Gemini.",
+    "zh": "离开谷歌后，Jeff Dean在采访中详细讲述了Gemini背后的设计决策。"
+   },
+   "source": "Search Engine Journal",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSkJudC1xYTQxazlkWEdzOUNSOFpIZnppeGpsVXBnSHBYcUZaWUZIX1l6cUtpT1lVM1RPTEdmM0x1MzZWbEdGY0xqWkhfbmM5c2RtYV9KMWxudTFqbi1iR0VaVUtQRTE5a0tfaFdEclJxNnNXdWxnYlJlZmhSTkNtMGQ5amhjVm05b2dBVll6SGJiWXBYcnJCWi1IQk5TUjMwUlVfTEZqekx5UFFOWGhzT0VReTdSQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T10:35:55Z",
+   "level": "major",
+   "title": {
+    "en": "Ex-Google chief scientist Jeff Dean targets $50B valuation for new AI startup Discovery Loop",
+    "zh": "Ex-Google chief scientist Jeff Dean targets $50B valuation for new AI startup Discovery Loop"
+   },
+   "body": {
+    "en": "Dean's new startup Discovery Loop is reportedly targeting a $50B valuation, months after he left Google.",
+    "zh": "据报道，迪恩离开谷歌后创立的新公司Discovery Loop正寻求500亿美元估值。"
+   },
+   "source": "Tech Funding News",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMkhjeHl4SDloTHdINWRRZl9Qb1JPcDZoV1FNbWlvQ1N4R0JPQ0pXak9LcmZfbDB2SV95TTlJSnBTZ1NFOWszUGJFV2NmRDhvUnp6SVNVazVobUhIMjRrSFQ0dXJqSEhGVlNHZEJzSHBKLVE3a0Q3SndtUW56a0VROGhXRFo0dHlCV2NoZEV2emYyN3RHQjgtYkJjVjhxTHNKZjRQZFdWWGM1a3hiRHlaZ0wzQk56ZEgtR1Awag?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T22:42:39Z",
+   "level": "major",
+   "title": {
+    "en": "Former Google chief scientist Jeff Dean is raising again for his new AI startup, seeking around a $50 billion valuation",
+    "zh": "Former Google chief scientist Jeff Dean is raising again for his new AI startup, seeking around a $50 billion valuation"
+   },
+   "body": {
+    "en": "Dean is reportedly raising a new funding round for his startup Discovery Loop at around a $50 billion valuation.",
+    "zh": "据报道，Dean正在为其新公司Discovery Loop筹集新一轮融资，估值约500亿美元。"
+   },
+   "source": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWEF4YVFKUDYwTE1jZW5wcmJJTWxlWGpadnNVWUt3WVQ2TU9BZDVFbTNJVzdGaDhMNVdzZTZ1OUdBSWNQMFZKWnBFb3RoX2ZfSDVpUG4tYUItcFBnLW9tamdQcEJzMmpFYUNuOFZHb01JdlE1aTlRRHhDeUxscjZWdE5TS3FmQkxwMU04d2RhclJubC1qWDVqcXhR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-20",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Why Jeff Dean says he left Google after 27 years to build a small AI startup",
+    "zh": "Why Jeff Dean says he left Google after 27 years to build a small AI startup"
+   },
+   "body": {
+    "en": "Jeff Dean explained why he left Google after 27 years to co-found Discovery Loop, a small AI startup — confirming the departure that also ended his authorship of Google's research blog.",
+    "zh": "Jeff Dean讲述了他为何在谷歌工作27年后离职，联合创立小型AI初创公司Discovery Loop——这也意味着他不再是谷歌研究博客的作者。"
+   },
+   "source": "Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMGdBQTlQZzhSSzNENWJxdkUxbWlMSEgwTm5JWV8zY3lSZTJPTE55dHA0WlNIeERpdVNFYThfQU16dHZnZFhvdGo4VzE1VzFGTzdkcGd2SW9fWFBtN1FNa05LRVptaWotallfYXdpZC1hMUZWSElTaElpWTBOT2FWWDA2RlR5RGw3QW9PdDZKUlZWQnR1NHgwYnY4bHRRNjNpSk44bnNkSXdaRjZCeHlpalYzYkttdF9PM1dyZmYzdFZTQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-20",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Why Jeff Dean says he left Google after 27 years to build a 4-person AI startup",
+    "zh": "Why Jeff Dean says he left Google after 27 years to build a 4-person AI startup"
+   },
+   "body": {
+    "en": "Jeff Dean explained why he left Google after 27 years to found a four-person AI startup focused on automating machine-learning research.",
+    "zh": "Jeff Dean解释了他在谷歌工作27年后离职、创办一家仅有四人的AI初创公司、专注于将机器学习研究本身自动化的原因。"
+   },
+   "source": "Benzatine Infotech",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTjNmcWhVaWtyT2tmbVZVa194dlJsVHpCbXVkZkZwV0NYbVNrTTd1bUkyX1ZPOS1xVW5NWndyeGxJYnNQcjBhZDd6elg4ZkU0YWNGWXE3WldEUXVpVTVYajZEdXNfTDFzQlg5SVpKWTAyOTRYVEtCeEVhZExULWdha1VRUW1pYVNPSjl2TlU3WWJyVERSWHdvdU9B?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-19",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Jeff Dean's First Post-Google Act: Automating the Scientific Method",
+    "zh": "Jeff Dean's First Post-Google Act: Automating the Scientific Method"
+   },
+   "body": {
+    "en": "A profile of Discovery Loop, the company he founded after 27 years at Google, whose purpose is to automate the scientific method itself.",
+    "zh": "关于 Discovery Loop 的报道——这是他在谷歌工作 27 年后创办的公司，目标是让科学研究方法本身实现自动化。"
+   },
+   "source": "Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMW1jTVF1U2FXUnp4cThSMHhyS0liRU90VVFMVjM3SmljQ0pDSnh0WTNRV3FqRUQwR1ZwSFlYX2plRFdKaVdpenl4T1VzQTF0LVFlbGo2U1pPZkRWa2F6Rml2b0N4TXREenhTUkprQm41WDY3TldFYi1iZ2IzWEd5ajdPdTgwLXRQUlgzOWZlMi1TVy1aTHBoaXBXT0hhTW43Vmc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-17",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Jeff Dean and top Google researchers quit Alphabet to launch Discovery Loop, backed by Radical Ventures",
+    "zh": "Jeff Dean and top Google researchers quit Alphabet to launch Discovery Loop, backed by Radical Ventures"
+   },
+   "body": {
+    "en": "He leaves Alphabet with a group of senior Google researchers to found Discovery Loop, backed by Radical Ventures.",
+    "zh": "他带着一批谷歌资深研究员离开 Alphabet，创办由 Radical Ventures 支持的 Discovery Loop。"
+   },
+   "source": "MarketScale",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNN3Z0bUhrZFBsOEhzUFdmbkowVE90UV9tUENXaFhtVlJQbTJGMHY2UExCQ2d4b2l1VlBsR1M5NXNQZFZqLXRnQ3RsYkhDODAwNm9wOHRtdF9acXE0YVJIWjZFQW1GRVdxVG05RDl5YnlpOXcxZmNrLWk4NEZUcHd0ZU9KU3g5ZERvSmVhVjQ2ckFMM1hPVmd4WHl6Z2x5TTJVMy1DczFfYjJtNm5iTXJIak1UZEVHbWIzYjZuRlNSZjR0YlZYSjdReUYxR1Jqcmw0SHZURklSSEZBaWE0YkcwOWRqVG5FZ3lINTBGZ3NMVThhSTF0dEpQYw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-13",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Ex-Google AI legend Jeff Dean raises $1B seed for Discovery Loop at $10B valuation",
+    "zh": "Ex-Google AI legend Jeff Dean raises $1B seed for Discovery Loop at $10B valuation"
+   },
+   "body": {
+    "en": "Discovery Loop raises a reported $1B seed round at a $10B valuation, one of the largest seed rounds on record.",
+    "zh": "Discovery Loop 据报以 100 亿美元估值完成 10 亿美元种子轮，是有记录以来最大的种子轮之一。"
+   },
+   "source": "Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOekxxeGR5Vy1hV1NNNk5MSVpTeDhCVWZRYUcwazI2QzN4NHhhdlZjV0JQbVNOWE94R0d2MGdBOG5LQW9WZ3JqaDF4NWF0VFdnZWt5Z1NsN3NKTGljMjBiaGdKVWg2bWdqRzM0dU1ITE9oQ0VlS0RFZm50UEV6cThHUDNmRDhFMHpDeVpYUU5NMGtwTGwtdDVjZmlqWFNqT1pVLTV2ZThGcGRLZGFGeW1nOFk4OFY?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-13",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Departing Google chief scientist Jeff Dean has been in talks for a $10 billion valuation for his new AI startup",
+    "zh": "Departing Google chief scientist Jeff Dean has been in talks for a $10 billion valuation for his new AI startup"
+   },
+   "body": {
+    "en": "Reports Dean, who departed Google, is in talks to value his new AI startup at $10 billion.",
+    "zh": "报道离开谷歌后的Jeff Dean，正就其新AI初创公司100亿美元估值进行融资谈判。"
+   },
+   "source": "Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWUpsQ1g4SXotdEFuVXp0X3djbTl1dHZubjNrYWRSSnlmODdPV2k3SDBnTGdBN2swNGh3bWpabHh5dXNfNU1PVG9BMlg3M1plbHVlMW9qV2pxRWY4VEQ0QXBLR3pqQ2pDcDJPa01jdmhrZG1BSExnVFZFUlBZZzktRjk3ZVl4MU9IQ3VnQ3hWbHYxNzhkcEdNQkVpVnZXS0VhMDY5cTNXVVhONGpJaUVUTXJHZUI0b0I5VDZqWUJ2VjUyTS1CdjRQN0pLUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-12",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Jeff Dean's 1% Rule: Build Where Frontier Models Fail",
+    "zh": "Jeff Dean's 1% Rule: Build Where Frontier Models Fail"
+   },
+   "body": {
+    "en": "Dealroom profile on Dean's investment thesis for his new venture: build products where frontier models still fail.",
+    "zh": "Dealroom报道Jeff Dean为新公司提出的投资理念：专注于前沿大模型仍然表现不佳的领域。"
+   },
+   "source": "Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcENhNlNHdW9VTDU3QVlDd0JfRjlYeEhzeVhEd0RreDFjVURYeGRXVFYxZW04SzZ5SWlpSnlmYmltdWpnWHRMTHpTSEpjTTZhSHhfY25vOGxOckJ0THFXM0tzZDFZRVNYMGtqUndxRy1BY0FlUG9PV21mQnhJZmd3Sl96aDAwT3F4X3Y2cW9R?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-12",
+   "ts": "2026-08-12T11:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Jeff Dean Turning In His Google Badge & Google Laptop",
+    "zh": "Jeff Dean Turning In His Google Badge & Google Laptop"
+   },
+   "body": {
+    "en": "Jeff Dean left Google after 27 years, turning in his badge and laptop, to build Discovery Loop.",
+    "zh": "在谷歌工作27年后，Jeff Dean离职，交还工牌和笔记本电脑，转而创办Discovery Loop。"
+   },
+   "source": "Search Engine Roundtable",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOFZJczllb290ckZ6N0QyUldKSUZBckNOSnF2QngxTURuYXN6TENzQy1femNWdDNGWW1YNGFTTDJXdnhxcG4xNmx1NENaOTJieEpDOXlzS0hHb01IN0xkeVdFYk5NOW9rNnFaSFJwVDk0MnpFRWhBOXc5RjJ1LURrbTJ3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-07",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Loss of ‘most Google’ engineer Jeff Dean jolts morale inside the company’s AI ranks",
+    "zh": "Loss of ‘most Google’ engineer Jeff Dean jolts morale inside the company’s AI ranks"
+   },
+   "body": {
+    "en": "The Los Angeles Times reported that Dean's departure from Google has shaken morale inside the company's AI teams, confirming his exit after 27 years.",
+    "zh": "《洛杉矶时报》报道称，Dean离开谷歌一事动摇了公司AI团队的士气，证实了他在效力27年后的离职。"
+   },
+   "source": "Los Angeles Times",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX0NOLVBYc0ZINTVfOWdGZFdycFlPaDlaN2g5NW93STlRQ3MyQ1I1Sy0yUTBKek9xdG5UcUp6UFU2TVIwaDEzMlpxS29NWWRPM3cyS1lJM2pubVVVel9sTnp6U0pNNUFYY1JpcE1iNGxIOUZ2Qlk2Y0JZOFlCTHY4MzJTbzNTd1JkLWZYSldnMnBaZi1ad3ZVS1JqdGphV1dYMDk5bVU5NmFaSTE0bGNvOU9JN0RFNEdkeENzWFQtU1lUdGRQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-06",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Google Brain Co-Founder Jeff Dean Launches AI Startup",
+    "zh": "Google Brain Co-Founder Jeff Dean Launches AI Startup"
+   },
+   "body": {
+    "en": "Jeff Dean, who spent 27 years at Google including co-founding Google Brain, has launched a new AI startup.",
+    "zh": "在Google工作27年、联合创立Google Brain的Jeff Dean已创立一家新的AI创业公司。"
+   },
+   "source": "ForkLog",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWlNhTUR6ekhNUHU3V3JHSmJPTWZMVG9ZdGpkcV9HeXdXQzJXUDFnOE11bk96cVY1QXRENkl4Mk15WFhTX2F4QmVJc3U5b2k4VU1MZE5SZlpuTHV6RmtVYmNpaWhaOWVtZ1IxWGpTUTVyejRjZDhhN0VublN1TTY2dURHdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-06",
+   "ts": "2026-08-06T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Google loses Jeff Dean, sidelines Hassabis from operations in biggest AI shake-up since 2023",
+    "zh": "Google loses Jeff Dean, sidelines Hassabis from operations in biggest AI shake-up since 2023"
+   },
+   "body": {
+    "en": "Reports confirmed Dean's departure from Google after 27 years, described as the company's biggest leadership shake-up since 2023, alongside Hassabis stepping back from operations.",
+    "zh": "报道证实迪恩在效力谷歌27年后离职，这被称为谷歌自2023年以来最大的一次领导层变动，哈萨比斯同时也从运营岗位上退了下来。"
+   },
+   "source": "digitimes",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU0ZBcndkVWNRbUVlRUtlMzJBakZ4VS0yODZBcTc4ZlNMaFpYM2VOcnRQN2NlSFZuY2JkRklYV3FtNW5hOTAzbG1GV0NWWndiTWZqeXEwSGhja2s5U01EVW9xcUxteGRiVGdPTzhYOHVFQU1vRFlSd3UxTm9WMGxkRnRnRkVlNzVOQXQycHdlLW1BRWc0UWJpaUpvYllPZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-05",
+   "ts": "2026-08-05T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Google shakes up AI leadership. Demis Hassabis takes on broader research role, and Jeff Dean leaves.",
+    "zh": "Google shakes up AI leadership. Demis Hassabis takes on broader research role, and Jeff Dean leaves."
+   },
+   "body": {
+    "en": "Google restructured its AI leadership: Demis Hassabis took on a broader research role while Jeff Dean departed the company after 27 years, going on to co-found Discovery Loop.",
+    "zh": "谷歌调整AI领导层：Demis Hassabis接掌更广泛的研究职责，而Jeff Dean在任职27年后离开公司，随后联合创立Discovery Loop。"
+   },
+   "source": "Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdUpibkhGUXU5Mzhza1BOOTB2c0ZNdmNFMG9pN19rUEREcUVsMFYtbHlXREtLc1UwTEExd283UGZlNzg4RkEtUDBjVHFvZFN4UEdVS3ZadWZPNFVHNTM3UVh2SU5yUDRnbExVS0l3azVYVkZ2U0RvSm5ZWXVuVlQ2V1VOaUpTSll5U2JYS0YyaTZYZEdOUDd2dW0yRkcxd2ZyTlA0XzNGVTlrZW1aWEZPNGtCVDg1SVg0YnFGRkt1bmpqejladzR1Vk5rZ1NPQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-05",
+   "ts": "2026-08-05T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Google Eyes $1.5B Investment In AI Coding Startup As AI Brain Drain Continues With Jeff Dean's Exit",
+    "zh": "Google Eyes $1.5B Investment In AI Coding Startup As AI Brain Drain Continues With Jeff Dean's Exit"
+   },
+   "body": {
+    "en": "Coverage of Jeff Dean's departure from Google after 27 years, amid reports Google is weighing a $1.5B investment in an AI coding startup.",
+    "zh": "报道杰夫·迪恩在谷歌工作27年后离职，同时谷歌据传正考虑向一家AI编程初创公司投资15亿美元。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT0dqTThaRlFoU1QtWEVFaDFzMGZWU21YR3BwTDgyd1c4QXVVWTF0MXB6TWE2clNIdGtDYlFsN1J6ZlI5TVNLdFNnRGZITUVXM0U3c3FzQnJOR0NNblF3VFVyREc4TG92U3JMWHMwVG5lV3Rvc2NDOGZNTXJXNUp0S1lvaGxIeFZJUFZVZVlkeE92Uld5dmc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-05",
+   "ts": "2026-08-05T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Jeff Dean Leaves Google to Launch Discovery Loop AI Research Startup - Межа. Новини України.",
+    "zh": "Jeff Dean Leaves Google to Launch Discovery Loop AI Research Startup - Межа. Новини України."
+   },
+   "body": {
+    "en": "Jeff Dean left Google after 27 years to launch Discovery Loop, an AI research startup built to automate machine-learning research itself.",
+    "zh": "杰夫·迪恩在谷歌工作27年后离职，创立了Discovery Loop，一家致力于将机器学习研究本身自动化的AI初创公司。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lNTdnWk05dmsteG50WFRyQ2VUMXhRSS1WMW9UdUlheVVvNEM3M1UzZUdSQkdTSDd6NElhZmE0VmVWQjM1M1BmdUVab1ZvX3dKdzF0SW44dHdIejdKd3lMZlpWNA?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": true,
+ "was": {
+  "en": "Chief Scientist, Google",
+  "zh": "Google 首席科学家"
+ },
+ "cat": "lab",
+ "score": {
+  "total": 64.8,
+  "attention": 61,
+  "centrality": 72,
+  "momentum": 72,
+  "stature": 47,
+  "pageviews": 159064,
+  "citations": 36789,
+  "hIndex": 30,
+  "events": 18,
+  "posts": 64,
+  "wikiEn": "Jeff Dean",
+  "wikiZh": "傑夫·迪恩"
+ },
+ "seedRank": 4,
+ "tier": "t2"
+}

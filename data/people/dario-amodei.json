@@ -1,0 +1,2843 @@
+{
+ "rank": 5,
+ "id": "dario-amodei",
+ "name": {
+  "en": "Dario Amodei",
+  "zh": "Dario Amodei"
+ },
+ "role": {
+  "en": "Co-founder & CEO, Anthropic",
+  "zh": "Anthropic 联合创始人兼 CEO"
+ },
+ "org": "Anthropic",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "Anthropic",
+  "Claude",
+  "Scaling Laws",
+  "IPO",
+  "AI Safety"
+ ],
+ "why": {
+  "en": "Core author of the GPT-2/GPT-3 papers and of scaling-laws research. Claude set the bar on code and long-context reasoning, making Anthropic OpenAI's most substantive rival — and now one of the largest private companies ever to file for a listing.",
+  "zh": "GPT-2/GPT-3 论文核心作者、Scaling Laws 研究者。Claude 在代码与长上下文推理上确立标杆，使 Anthropic 成为 OpenAI 最实质的对手 —— 如今也是史上申请上市的最大私营公司之一。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@DarioAmodei",
+   "url": "https://x.com/DarioAmodei",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "darioamodei.com — Essays",
+   "url": "https://darioamodei.com/",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @damodei",
+   "url": "https://github.com/damodei",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Anthropic News",
+   "url": "https://www.anthropic.com/news",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Anthropic Research",
+   "url": "https://www.anthropic.com/research",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Anthropic on X",
+   "url": "https://x.com/AnthropicAI",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Dario+Amodei",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Dario+Amodei",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Dario+Amodei",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Dario+Amodei&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Dario+Amodei&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Dario+Amodei",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Dario+Amodei",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Dario+Amodei",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Dario+Amodei",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Dario+Amodei",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Dario+Amodei",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Dario+Amodei",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Dario+Amodei",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Dario+Amodei&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dario_Amodei",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-06-12",
+   "kind": "blog",
+   "title": {
+    "en": "Policy on the AI Exponential",
+    "zh": "AI 指数曲线上的政策"
+   },
+   "source": "darioamodei.com",
+   "url": "https://darioamodei.com/",
+   "note": {
+    "en": "Central argument is a timing mismatch: capability moves on an exponential, policy moves at institutional speed.",
+    "zh": "核心论点是时间尺度的错配：能力沿指数增长，政策以制度速度前进。"
+   }
+  },
+  {
+   "date": "2026-01-26",
+   "kind": "blog",
+   "title": {
+    "en": "The Adolescence of Technology",
+    "zh": "技术的青春期"
+   },
+   "source": "darioamodei.com",
+   "url": "https://darioamodei.com/essay/the-adolescence-of-technology",
+   "note": {
+    "en": "A ~20,000-word essay on risks to national security, economies and democracy — and defences against them.",
+    "zh": "约两万字长文，论述对国家安全、经济与民主的风险及应对。"
+   }
+  },
+  {
+   "date": "2026-07-27",
+   "kind": "interview",
+   "title": {
+    "en": "Anthropic is not advocating a ban on open-weight models",
+    "zh": "Anthropic 并未主张禁止开放权重模型"
+   },
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2024-10-01",
+   "kind": "blog",
+   "title": {
+    "en": "Machines of Loving Grace",
+    "zh": "仁慈机器"
+   },
+   "source": "darioamodei.com",
+   "url": "https://darioamodei.com/essay/machines-of-loving-grace",
+   "note": {
+    "en": "The optimistic counterweight to his risk writing; still the most-cited statement of his upside case.",
+    "zh": "他风险论述的乐观对照面，至今仍是其正面愿景被引用最多的文本。"
+   }
+  },
+  {
+   "date": "2026-09-15",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Interview with Anthropic CEO Dario Amodei",
+    "zh": "Interview with Anthropic CEO Dario Amodei"
+   },
+   "source": "Anderson Cooper 360",
+   "url": "https://podcasts.apple.com/us/podcast/interview-with-anthropic-ceo-dario-amodei/id425179503?i=1000789692763&uo=4",
+   "note": {
+    "en": "Amodei was interviewed on Anderson Cooper 360 about whether AI could pose existential risk within the decade, following a former Anthropic employee's public warning.",
+    "zh": "Dario Amodei接受Anderson Cooper 360采访，讨论AI是否可能在十年内带来生存性风险，此前一名前Anthropic员工曾公开发出警告。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-09-13",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei, Gov. Spencer Cox, Michigan Democratic Senate Candidate Abdul El-Sayed",
+    "zh": "Anthropic CEO Dario Amodei, Gov. Spencer Cox, Michigan Democratic Senate Candidate Abdul El-Sayed"
+   },
+   "source": "Face the Nation with Margaret Brennan",
+   "url": "https://podcasts.apple.com/us/podcast/anthropic-ceo-dario-amodei-gov-spencer-cox-michigan/id78911087?i=1000789347893&uo=4",
+   "note": {
+    "en": "Amodei appeared as a guest on CBS's Face the Nation alongside Utah Gov. Spencer Cox and a Michigan Senate candidate, discussing AI in the week's news cycle.",
+    "zh": "阿莫代伊作为嘉宾登上哥伦比亚广播公司的《面对国家》节目，与犹他州州长斯宾塞·考克斯及密歇根州参议员候选人同台，谈及人工智能议题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T14:01:10Z",
+   "kind": "x",
+   "title": {
+    "en": "We Must Pace the Frontier: I’ve written a new essay on why the AI industry should slow down, with a three-part plan for doing so. Anthropic is unilaterally comm",
+    "zh": "We Must Pace the Frontier: I’ve written a new essay on why the AI industry should slow down, with a three-part plan for doing so. Anthropic is unilaterally comm"
+   },
+   "source": "@darioamodei",
+   "url": "https://x.com/DarioAmodei/status/2098773920774074715",
+   "note": {
+    "en": "Amodei published \"We Must Pace the Frontier,\" arguing the AI industry should slow down, and announced Anthropic is unilaterally committing to the first step of a three-part plan to do so.",
+    "zh": "阿莫代伊发表文章《我们必须放缓前沿步伐》，主张AI行业应当放慢速度，并宣布Anthropic将率先单方面履行三步计划中的第一步。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-08-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "1/2 Thanks Gavin for an especially thoughtful exchange. I don't usually spend much time on social media but I wanted to engage here because it really brings out",
+    "zh": "1/2 Thanks Gavin for an especially thoughtful exchange. I don't usually spend much time on social media but I wanted to engage here because it really brings out"
+   },
+   "source": "@DarioAmodei",
+   "url": "https://x.com/DarioAmodei/status/2088758816376807762",
+   "note": {
+    "en": "Engaged at length with a critic in a widely-viewed public exchange over AI risk and safety.",
+    "zh": "就AI风险与安全问题与一位批评者展开深入的公开交流,该交流获得广泛关注。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Today I'm publishing a new essay, Policy on the AI Exponential. AI is progressing extremely fast—much faster than the policy process was built to handle. The es",
+    "zh": "Today I'm publishing a new essay, Policy on the AI Exponential. AI is progressing extremely fast—much faster than the policy process was built to handle. The es"
+   },
+   "source": "@DarioAmodei",
+   "url": "https://x.com/DarioAmodei/status/2064781775247950326",
+   "note": {
+    "en": "Published \"Policy on the AI Exponential,\" arguing that policy must adapt to AI's extremely fast pace of progress.",
+    "zh": "发表文章《应对AI指数级增长的政策》,主张政策制定必须跟上AI极快的发展速度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-19",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The Co-Founders of Claude AI Tell Oprah About the Impact Artificial Intelligence Has on Your Life",
+    "zh": "The Co-Founders of Claude AI Tell Oprah About the Impact Artificial Intelligence Has on Your Life"
+   },
+   "source": "The Oprah Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/the-co-founders-of-claude-ai-tell-oprah-about/id1782960381?i=1000768533274&uo=4",
+   "note": {
+    "en": "Dario and Daniela Amodei sit down with Oprah to discuss Claude and AI's impact on everyday life, a rare joint mainstream-media appearance.",
+    "zh": "达里奥与戴妮拉·阿莫代兄妹做客奥普拉播客，讨论Claude及人工智能对日常生活的影响，这是一次罕见的大众媒体联合露面。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-05-05",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei on AI Regulation 5/5/26",
+    "zh": "Anthropic CEO Dario Amodei on AI Regulation 5/5/26"
+   },
+   "source": "TechCheck",
+   "url": "https://podcasts.apple.com/us/podcast/anthropic-ceo-dario-amodei-on-ai-regulation-5-5-26/id1561685780?i=1000766277686&uo=4",
+   "note": {
+    "en": "Discussed AI regulation with JPMorgan CEO Jamie Dimon in a conversation covered on CNBC's TechCheck.",
+    "zh": "在CNBC《TechCheck》节目报道的对话中，与摩根大通CEO杰米·戴蒙探讨AI监管问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-04-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I’m proud that so many of the world’s leading companies have joined us for Project Glasswing to confront the cyber threat posed by increasingly capable AI syste",
+    "zh": "I’m proud that so many of the world’s leading companies have joined us for Project Glasswing to confront the cyber threat posed by increasingly capable AI syste"
+   },
+   "source": "@DarioAmodei",
+   "url": "https://x.com/DarioAmodei/status/2041580334693720511",
+   "note": {
+    "en": "Announced Project Glasswing, a coalition of major companies formed to confront the cyber threat posed by increasingly capable AI systems.",
+    "zh": "宣布Glasswing计划,联合多家大型公司共同应对日益强大的AI系统带来的网络安全威胁。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-13",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Dario Amodei — \"We are near the end of the exponential\"",
+    "zh": "Dario Amodei — \"We are near the end of the exponential\""
+   },
+   "source": "Dwarkesh Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/dario-amodei-we-are-near-the-end-of-the-exponential/id1516093381?i=1000749621800&uo=4",
+   "note": {
+    "en": "Long-form Dwarkesh interview in which he argues the scaling exponential is nearing its end and lays out his timeline to AGI.",
+    "zh": "Dwarkesh 长访谈，他在其中提出规模化的指数增长已接近尾声，并给出自己对通向 AGI 的时间判断。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-01-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The Adolescence of Technology: an essay on the risks posed by powerful AI to national security, economies and democracy—and how we can defend against them: http",
+    "zh": "The Adolescence of Technology: an essay on the risks posed by powerful AI to national security, economies and democracy—and how we can defend against them: http"
+   },
+   "source": "@DarioAmodei",
+   "url": "https://x.com/DarioAmodei/status/2015833046327402527",
+   "note": {
+    "en": "Published \"The Adolescence of Technology,\" an essay on the risks powerful AI poses to national security, economies and democracy.",
+    "zh": "发表文章《技术的青春期》,探讨强大AI对国家安全、经济和民主构成的风险。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-01-22",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Davos 2026: Anthropic CEO Dario Amodei 1/22/26",
+    "zh": "Davos 2026: Anthropic CEO Dario Amodei 1/22/26"
+   },
+   "source": "Squawk Pod",
+   "url": "https://podcasts.apple.com/us/podcast/davos-2026-anthropic-ceo-dario-amodei-1-22-26/id1480890290?i=1000746236607&uo=4",
+   "note": {
+    "en": "Amodei joined CNBC's Squawk Pod live from Davos 2026, discussing the state of the AI race and Anthropic's competitive position with Kernen, Quick and Sorkin.",
+    "zh": "阿莫代伊在2026年达沃斯论坛上做客CNBC的Squawk Pod播客，与主持人探讨AI竞赛格局及Anthropic的竞争定位。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-10-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Today I met with PM @narendramodi to discuss Anthropic's expansion to India—where Claude Code use is up 5× since June. How India deploys AI across critical sect",
+    "zh": "Today I met with PM @narendramodi to discuss Anthropic's expansion to India—where Claude Code use is up 5× since June. How India deploys AI across critical sect"
+   },
+   "source": "@DarioAmodei",
+   "url": "https://x.com/DarioAmodei/status/1977010693460443151",
+   "note": {
+    "en": "Met with Indian PM Narendra Modi to discuss Anthropic's expansion into India, citing 5x growth in Claude Code usage there since June.",
+    "zh": "与印度总理莫迪会面,讨论Anthropic在印度的扩张,并提到自6月以来Claude Code在当地的使用量增长了5倍。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-04-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The Urgency of Interpretability: Why it's crucial that we understand how AI models work https://t.co/Mz8R23uxgy",
+    "zh": "The Urgency of Interpretability: Why it's crucial that we understand how AI models work https://t.co/Mz8R23uxgy"
+   },
+   "source": "@DarioAmodei",
+   "url": "https://x.com/DarioAmodei/status/1915515160607023391",
+   "note": {
+    "en": "Shared his essay \"The Urgency of Interpretability,\" arguing it is crucial to understand how AI models work.",
+    "zh": "分享了他的文章《可解释性的紧迫性》,论述理解AI模型运作机制的重要性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-02-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Which Economic Tasks are Performed with AI? Evidence from Millions of Claude Conversations",
+    "zh": "Which Economic Tasks are Performed with AI? Evidence from Millions of Claude Conversations"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2503.04761v1",
+   "note": {
+    "en": "The first Anthropic Economic Index paper, mapping millions of Claude conversations onto occupational tasks to measure where AI is actually used; Amodei is a co-author.",
+    "zh": "首份 Anthropic 经济指数论文，把数百万次 Claude 对话映射到职业任务上，衡量 AI 实际被用于何处；Amodei 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-01-29",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "My thoughts on China, export controls and two possible futures https://t.co/LZAANEcZJW",
+    "zh": "My thoughts on China, export controls and two possible futures https://t.co/LZAANEcZJW"
+   },
+   "source": "@DarioAmodei",
+   "url": "https://x.com/DarioAmodei/status/1884636410839535967",
+   "note": {
+    "en": "Shared his views on China, export controls, and two possible futures for AI geopolitics.",
+    "zh": "分享了他对中国、出口管制以及AI地缘政治两种可能未来的看法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-11-11",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#452 – Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity",
+    "zh": "#452 – Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/452-dario-amodei-anthropic-ceo-on-claude-agi-the/id1434243584?i=1000676542285&uo=4",
+   "note": {
+    "en": "Lex Fridman interview on Claude, scaling and the path to AGI, recorded with Anthropic colleagues Amanda Askell and Chris Olah.",
+    "zh": "Lex Fridman 访谈，与 Anthropic 同事 Amanda Askell、Chris Olah 一同讨论 Claude、规模化以及通向 AGI 的路径。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-10-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Machines of Loving Grace: my essay on how AI could transform the world for the better https://t.co/CFGd4Sbq86",
+    "zh": "Machines of Loving Grace: my essay on how AI could transform the world for the better https://t.co/CFGd4Sbq86"
+   },
+   "source": "@DarioAmodei",
+   "url": "https://x.com/DarioAmodei/status/1844830404064288934",
+   "note": {
+    "en": "Published \"Machines of Loving Grace,\" his essay on how AI could transform the world for the better.",
+    "zh": "发表文章《慈悲机器》(Machines of Loving Grace),阐述AI如何能让世界变得更好。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-08-08",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Dario Amodei (Anthropic CEO) — The hidden pattern behind every AI breakthrough",
+    "zh": "Dario Amodei (Anthropic CEO) — The hidden pattern behind every AI breakthrough"
+   },
+   "source": "Dwarkesh Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/dario-amodei-anthropic-ceo-the-hidden-pattern-behind/id1516093381?i=1000623806335&uo=4",
+   "note": {
+    "en": "Early Dwarkesh interview on why large models scale so well and what aligning them will require.",
+    "zh": "较早期的 Dwarkesh 访谈，谈大模型为何能随规模持续变强，以及对齐它们需要什么。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-02-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The Capacity for Moral Self-Correction in Large Language Models",
+    "zh": "The Capacity for Moral Self-Correction in Large Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2302.07459v2",
+   "note": {
+    "en": "Tests whether RLHF-trained language models can avoid producing harmful outputs when simply instructed to do so.",
+    "zh": "检验经过 RLHF 训练的语言模型能否在被明确要求时自行避免产生有害输出。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Discovering Language Model Behaviors with Model-Written Evaluations",
+    "zh": "Discovering Language Model Behaviors with Model-Written Evaluations"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.18653/v1/2023.findings-acl.847",
+   "note": {
+    "en": "Anthropic paper showing language models can be used to generate the evaluations that test their own behaviors.",
+    "zh": "Anthropic 论文展示了如何用语言模型自动生成评估其自身行为的测试集。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2022-12-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Constitutional AI: Harmlessness from AI Feedback",
+    "zh": "Constitutional AI: Harmlessness from AI Feedback"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2212.08073v1",
+   "note": {
+    "en": "Introduces Constitutional AI: training a harmless assistant from AI feedback against a written set of principles, the method behind Claude.",
+    "zh": "提出宪法式 AI：依据一套成文原则用 AI 反馈训练无害助手，也是 Claude 背后的方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-11-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Measuring Progress on Scalable Oversight for Large Language Models",
+    "zh": "Measuring Progress on Scalable Oversight for Large Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2211.03540v2",
+   "note": {
+    "en": "Proposes a human-model interaction benchmark for scalable oversight, the problem of supervising systems that outperform their supervisors.",
+    "zh": "提出以人机交互实验衡量可扩展监督，即如何监督能力超过监督者的系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-09-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "In-context Learning and Induction Heads",
+    "zh": "In-context Learning and Induction Heads"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2209.11895v1",
+   "note": {
+    "en": "Anthropic interpretability work arguing that induction heads account for much of in-context learning in transformers.",
+    "zh": "Anthropic 的可解释性研究，论证归纳头是 Transformer 上下文学习能力的主要来源。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-09-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Toy Models of Superposition",
+    "zh": "Toy Models of Superposition"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2209.10652v1",
+   "note": {
+    "en": "Shows how networks store more features than they have neurons, giving a concrete model of polysemanticity that grounds later interpretability work.",
+    "zh": "说明神经网络如何叠加存储多于神经元数量的特征，为多义性给出具体模型，奠定了后续可解释性研究的基础。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-08-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned",
+    "zh": "Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2209.07858v2",
+   "note": {
+    "en": "Reports Anthropic's red-teaming methods, how attack success scales with model size, and releases the resulting dataset of attacks.",
+    "zh": "报告 Anthropic 的红队方法、攻击成功率如何随模型规模变化，并公开了由此得到的攻击数据集。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-07-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Language Models (Mostly) Know What They Know",
+    "zh": "Language Models (Mostly) Know What They Know"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2207.05221v4",
+   "note": {
+    "en": "Anthropic study of model calibration and self-knowledge, showing large models can partly predict which questions they will answer correctly.",
+    "zh": "Anthropic 关于模型校准与自我认知的研究，表明大模型在一定程度上能预测自己哪些题会答对。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-06-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Predictability and Surprise in Large Generative Models",
+    "zh": "Predictability and Surprise in Large Generative Models"
+   },
+   "source": "2022 ACM Conference on Fairness, Accou…",
+   "url": "https://doi.org/10.1145/3531146.3533229",
+   "note": {
+    "en": "Anthropic paper on predictability and surprise in large generative models, presented at ACM FAccT 2022.",
+    "zh": "Anthropic 论文研究大型生成模型中的可预测性与突现能力，发表于 2022 年 ACM FAccT 会议。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2022-05-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scaling Laws and Interpretability of Learning from Repeated Data",
+    "zh": "Scaling Laws and Interpretability of Learning from Repeated Data"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2205.10487v1",
+   "note": {
+    "en": "Measures how duplicated training data degrades large language models and traces the damage back to specific internal mechanisms.",
+    "zh": "量化重复训练数据对大语言模型性能的损害，并追溯到模型内部的具体机制。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-04-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback",
+    "zh": "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2204.05862v1",
+   "note": {
+    "en": "Applies preference modelling and RLHF to train a helpful and harmless assistant, the training recipe underlying Claude.",
+    "zh": "用偏好建模和 RLHF 训练有用且无害的助手，是 Claude 训练方法的基础。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-12-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A General Language Assistant as a Laboratory for Alignment",
+    "zh": "A General Language Assistant as a Laboratory for Alignment"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2112.00861v3",
+   "note": {
+    "en": "Anthropic's first alignment paper, establishing the helpful, honest and harmless framing used across its later work.",
+    "zh": "Anthropic 的第一篇对齐论文，确立了后续工作沿用的\"有用、诚实、无害\"框架。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-07-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Evaluating Large Language Models Trained on Code",
+    "zh": "Evaluating Large Language Models Trained on Code"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2107.03374v2",
+   "note": {
+    "en": "Introduces Codex and the HumanEval benchmark for evaluating code generation; Amodei is among the authors.",
+    "zh": "提出 Codex 以及用于评测代码生成的 HumanEval 基准；Amodei 位列作者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-10-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scaling Laws for Autoregressive Generative Modeling",
+    "zh": "Scaling Laws for Autoregressive Generative Modeling"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2010.14701v2",
+   "note": {
+    "en": "Extends the scaling-law result from language to images, video, multimodal models and mathematical problem solving.",
+    "zh": "把缩放定律从语言扩展到图像、视频、多模态模型与数学问题求解。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-09-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Learning to summarize from human feedback",
+    "zh": "Learning to summarize from human feedback"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2009.01325v3",
+   "note": {
+    "en": "Shows that summarizers trained with human feedback beat supervised baselines and even human reference summaries.",
+    "zh": "证明用人类反馈训练的摘要模型能超过监督基线，甚至超过人工参考摘要。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-05-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Language Models are Few-Shot Learners",
+    "zh": "Language Models are Few-Shot Learners"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2005.14165v4",
+   "note": {
+    "en": "The GPT-3 paper, introducing few-shot in-context learning at scale — one of the works the registry cites for him.",
+    "zh": "GPT-3 论文，提出大规模少样本上下文学习，是登记表中列出的其代表作之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-01-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scaling Laws for Neural Language Models",
+    "zh": "Scaling Laws for Neural Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2001.08361v1",
+   "note": {
+    "en": "The original scaling-laws paper, relating language model loss to model size, dataset size and compute by a power law.",
+    "zh": "最初的缩放定律论文，用幂律刻画语言模型损失与模型规模、数据量和算力的关系。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-09-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Fine-Tuning Language Models from Human Preferences",
+    "zh": "Fine-Tuning Language Models from Human Preferences"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1909.08593v2",
+   "note": {
+    "en": "The first paper applying reinforcement learning from human preferences to language model fine-tuning.",
+    "zh": "首次把基于人类偏好的强化学习用于语言模型微调的论文。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-12-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "An Empirical Model of Large-Batch Training",
+    "zh": "An Empirical Model of Large-Batch Training"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1812.06162v1",
+   "note": {
+    "en": "Introduces the gradient noise scale, a measurable quantity that predicts how large a training batch can usefully get.",
+    "zh": "提出梯度噪声尺度这一可测量指标，用于预测训练批量能有效增大到多少。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-11-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Reward learning from human preferences and demonstrations in Atari",
+    "zh": "Reward learning from human preferences and demonstrations in Atari"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1811.06521v1",
+   "note": {
+    "en": "Combines human demonstrations with preference queries to learn reward functions for Atari agents.",
+    "zh": "把人类示范与偏好查询结合，为 Atari 智能体学习奖励函数。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-10-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Supervising strong learners by amplifying weak experts",
+    "zh": "Supervising strong learners by amplifying weak experts"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1810.08575v1",
+   "note": {
+    "en": "Proposes iterated amplification: training strong learners on objectives assembled by amplifying weaker human experts.",
+    "zh": "提出迭代放大方法：通过放大能力较弱的人类专家来构造目标，从而训练更强的学习者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-07-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Variational Option Discovery Algorithms",
+    "zh": "Variational Option Discovery Algorithms"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1807.10299v1",
+   "note": {
+    "en": "Connects variational option discovery to variational autoencoding and introduces a curriculum for learning many skills.",
+    "zh": "把变分选项发现与变分自编码联系起来，并提出一种用于学习多种技能的课程式训练方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-05-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "AI safety via debate",
+    "zh": "AI safety via debate"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1805.00899v2",
+   "note": {
+    "en": "Early alignment proposal in which two AI systems debate before a human judge as a scalable oversight mechanism.",
+    "zh": "早期对齐方案：让两个 AI 系统在人类裁判面前辩论，作为可扩展监督的一种机制。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-02-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation",
+    "zh": "The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1802.07228v2",
+   "note": {
+    "en": "Multi-institution report surveying security threats from malicious uses of AI and proposing forecasting and mitigation measures.",
+    "zh": "多机构联合报告，梳理 AI 被恶意使用带来的安全威胁，并提出预测与缓解措施。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-07-24",
+   "level": "major",
+   "title": {
+    "en": "Claude Opus 5 released",
+    "zh": "Claude Opus 5 发布"
+   },
+   "body": {
+    "en": "Positioned as near-frontier capability at roughly half the price of Claude Fable 5. Follows Fable 5 (9 Jun) and Sonnet 5 (30 Jun).",
+    "zh": "定位为接近前沿能力、价格约为 Claude Fable 5 一半。此前有 Fable 5（6/9）与 Sonnet 5（6/30）。"
+   },
+   "source": "Anthropic",
+   "url": "https://www.anthropic.com/news/claude-opus-5"
+  },
+  {
+   "date": "2026-06-01",
+   "level": "major",
+   "title": {
+    "en": "Confidential S-1 filed; October Nasdaq listing targeted",
+    "zh": "秘密递交 S-1，目标 10 月纳斯达克上市"
+   },
+   "body": {
+    "en": "Follows a $65B Series H at a $965B post-money valuation and a $47B annualized run rate.",
+    "zh": "此前完成 650 亿美元 H 轮，投后估值 9650 亿美元，年化收入 470 亿美元。"
+   },
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/"
+  },
+  {
+   "date": "2026-05-19",
+   "level": "notable",
+   "title": {
+    "en": "Andrej Karpathy joins Anthropic's pretraining team",
+    "zh": "Andrej Karpathy 加入 Anthropic 预训练团队"
+   },
+   "body": {
+    "en": "Reports to pretraining lead Nick Joseph; Eureka Labs wound down after 22 months.",
+    "zh": "向预训练负责人 Nick Joseph 汇报；Eureka Labs 独立运营 22 个月后结束。"
+   },
+   "source": "MIT Technology Review",
+   "url": "https://www.technologyreview.com/"
+  },
+  {
+   "date": "2026-07-22",
+   "level": "notable",
+   "title": {
+    "en": "AMD to invest up to $5B in Anthropic",
+    "zh": "AMD 将向 Anthropic 投资最多 50 亿美元"
+   },
+   "body": {
+    "en": "Part of a compute-capacity agreement.",
+    "zh": "作为算力合作协议的一部分。"
+   },
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/07/22/amd-anthropic-ai-chip-investment.html"
+  },
+  {
+   "date": "2026-09-20",
+   "ts": "2026-09-20T02:19:00Z",
+   "level": "notable",
+   "title": {
+    "en": "After agreeing with Anthropic CEO Dario Amodei on slowing pace of AI, Sam Altman and Elon Musk teased nex",
+    "zh": "After agreeing with Anthropic CEO Dario Amodei on slowing pace of AI, Sam Altman and Elon Musk teased nex"
+   },
+   "body": {
+    "en": "Report says Amodei found common ground with Altman and Musk on slowing the pace of AI development, with the latter two hinting at a follow-up move.",
+    "zh": "报道称阿莫迪与奥特曼、马斯克就放缓人工智能发展步伐达成共识，二人并暗示将有后续动作。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNV3ZiUXREYVRKNnBpa0JVaEZCay1laGRwbWd2TFJYaW83dDlDdTN3SnF0amhJZ0xJejBHeUx3TkU1SGs5S19acDdmbkhJelZnWUFaQzJxa29pdlI1bk4xM05lbTdDcGZQU3ZUY0ZsSk1Id3lSNXB0N0VDUjQwZUYzejY4b0Vta1BRd3RFSzRwZ2R3aUw1ZjBBVjYtZVdiNkFaRU1FZXlxSTJWTDY0cFBwdWdNSTUxNzlPeVk3ODU5d3lvNUZYT3J0aEdYQmg3QXFXZmt5ZUZpdVFOVU1xYVNYNVdMWEpMZTdrUEI0bmhKaHg4QkQ5OHVIZU9fM0FickktYll5OGYyWUl3RnRLaGFSQXRmYXZUZW9xUHREcXFlYkVycVhxRlNBcFpCemhXZXFHd3duaXNTRzcxUdIBvwJBVV95cUxNUjRMME11dUxDUWpwZjFLTkJ0UGNDanB4MzlCY25vbzRlSC1Hd1BWNjJqYjc1a3pUTGljN0g2YVZqU1BHcTgta19yUWdjQWxaeE9vTHloM0gxbS1lZFZTb0JkZkZUbzNUVUt1a1BHQnNXeUNwT2RyaERjV0RQNjUtYkIwd1FuTm9VUmYwd0s0RTBvdHJodHRTVnpvSHhrRnNFZVM5T0tTYnV5UkhuNTZib19EVWhlQmtfNUgtd0UyQkxPQXhFTXRBQy1QV0ZyNURjLVdJQXR0aGZYS2ZDZXhjb1Naa2daV2paS0J6eXM1VHJrYnE1NE1aSTh0bzJYZTJnOU5XTHlKWFpJRkNHSkpJODZtaldyQ3ViMlYxNlNkMGp5QmNWX2RIbXdsTnpoTHQ4UUxaSTlTai1lYno2amQw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T17:09:56Z",
+   "level": "notable",
+   "title": {
+    "en": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+    "zh": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?"
+   },
+   "body": {
+    "en": "Amodei joined other AI leaders in a public push to 'Pace the Frontier,' a stance on how fast frontier AI development should proceed.",
+    "zh": "Amodei与其他AI领军人物共同呼吁\"把控前沿发展节奏\"（Pace the Frontier），就前沿AI发展速度问题公开表态。"
+   },
+   "source": "TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOFZobzJPbE0wNjBfOXExbHhQWTBQamZ3eV9VN1pjeXB5NnRDSjA5bi15U19YNm1WSHAxUjh0c05Ib1NDNUUwZXRSbkluM1cyc1g3S3FfWnhLdWM3QlJrNUw5SnRyQ1U5VEFIMFR0VW5aazVFYkxWNC11eGVUYkc3cm85OWJKQzFmYnJjWDZaZi0wV0E3RGRVYVlMTXo?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T02:16:00Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei Proposes Embedded Third-Party Safety Evaluators With Employee-Like Access",
+    "zh": "Anthropic CEO Dario Amodei Proposes Embedded Third-Party Safety Evaluators With Employee-Like Access"
+   },
+   "body": {
+    "en": "Amodei proposed giving independent third-party safety evaluators employee-like access inside AI labs, a concrete step toward external oversight of frontier model development.",
+    "zh": "Amodei提出让独立的第三方安全评估机构获得类似员工的内部访问权限，是推动对前沿模型开发进行外部监督的具体举措。"
+   },
+   "source": "NewsCord",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU09JMlFZMEJvVFUtNEdpY25teUpQUFYtcHZtLVhPcmZsSE1OVjYwd2tuT3F4NnNGMHFCR3AxMThDQ3J0eW5yV1JaUFdiZGVPRDFNTTNpN09vb1RPZE8zV1o2bmFkMThZQWpSZlEySlRHUHZEYkJLQUlwems3eUNqVE5qQnJSLW1GNnNleEI5Ty1qUDNNdTJTcHh3UTMwVWFmMkxtMGxfM2hLS2pWSVpqOGhua1Q0blJhQWpFTjdZeGNCYXBNSEN2N3FNcFp1Sk9TUjNBWjF3eVZROGJJa0Qwd1N4cnE4dTRj?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T12:40:37Z",
+   "level": "notable",
+   "title": {
+    "en": "SpaceX Investors Just Got Some Bad News From Anthropic Founder Dario Amodei",
+    "zh": "SpaceX Investors Just Got Some Bad News From Anthropic Founder Dario Amodei"
+   },
+   "body": {
+    "en": "Amodei's public comments unsettled SpaceX investors, per financial press coverage, underscoring how closely his statements on AI are now tracked by markets.",
+    "zh": "据财经媒体报道，Dario Amodei的公开言论令SpaceX投资者感到不安，显示其言论如今已受到市场密切关注。"
+   },
+   "source": "The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS0MxVzZjbDRkLTZGYWU4LTY2ZWNSallKdVZQNERjcWdfTS05TFp6Rkl0dzVxLW81WWtVbGlFUC1BUjg0cFVORHZxcFowcXdlRTRBaTBfN2t4S0gwR2Z4UUxWOEJCUmx1U0ZPTHE1VF8yN3RpOW5neFY4UHpxT3Q3SXpTSHBXblRsb2NRT25XUE5DbEI0ZXc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T01:30:43Z",
+   "level": "notable",
+   "title": {
+    "en": "Dan Ives Says China ‘Is Not Slowing Down Anytime Soon’ as Anthropic’s Dario Amodei Warns Rogue AI Could Take Over the Internet Within Months",
+    "zh": "Dan Ives Says China ‘Is Not Slowing Down Anytime Soon’ as Anthropic’s Dario Amodei Warns Rogue AI Could Take Over the Internet Within Months"
+   },
+   "body": {
+    "en": "Amodei warned that rogue AI could seize control of the internet within months, a stark public risk statement amid Wall Street's AI debate.",
+    "zh": "Amodei警告，失控的AI可能在数月内接管互联网，这是他在华尔街AI大辩论中发出的一次强烈公开警示。"
+   },
+   "source": "Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdFhVbGhzcFdUNmRiVUl3TGswbFhZQ0xXQzZKejF5Z2pxd0V6RkxES1ptcEE3M2hNN0owRzZ6cjFVTXJTNGJySDBqV2NMenozVThSLXA3Z1RkT2l5Nkg2Ym1CTWdRelo3alRUVUpEM2xza3VJZmlRSGI3Q1FaZGxHU016YXNpejg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T09:32:37Z",
+   "level": "major",
+   "title": {
+    "en": "Why Meta’s Zuckerberg rebuffed Dario Amodei’s AI slowdown calls",
+    "zh": "Why Meta’s Zuckerberg rebuffed Dario Amodei’s AI slowdown calls"
+   },
+   "body": {
+    "en": "Report on Zuckerberg publicly rebuffing Amodei's calls to slow AI development, marking a real rift among frontier lab leaders over AI safety pacing.",
+    "zh": "报道称扎克伯格公开回绝了阿莫代伊放缓AI发展的呼吁，凸显前沿实验室领导者在AI安全节奏问题上的真实分歧。"
+   },
+   "source": "The Hindu",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUGRfUU1SYlZ6U1BMRHlSenpqdVViSzN6LXAxYUNVVHQ3VTl5OHc1dW56QXpWR3NrdlVxUGVqSkpudUVNVExxdlJnbllpcU9McnQ0R2swNndCYUpCVllIVlJ1aGNGbGZmWFV4RUQzaFJkWU11aTJSSVNwY2FuanRYd3M5NWM3MU1vOXdxU2VyWUZSNGtkUjRUVER0YXVkcVZHWnhkOTB6LVRGRzdLU1BrV1YxWXNtb1pzY1lxcGRnaTRld3FW0gHLAUFVX3lxTE5iMWN2U25JRnE5di04cnRBaUZtblVBeTdNdUtIZU1JNDlVcmxCcDg4ckhsTE02QVBaQ2JBUDJWUmhpRjk5TV95dGt5ZG9FVkgzMGtpZzBNOE9GSkF4SDhzZjZCY3FEZ0M2T3VaQWNyU2drYzNYV29WWlp2M0c3cEJNeVFjTTBHN2t2aXFQYjFZOVctbV9ZUUc2c0h6ZUVFVDBlOElRMXVwTC1SYkpHYXVvY0IyalV2NE1uenYtazRfMjJNWkxzM1BncGdn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T11:07:59Z",
+   "level": "notable",
+   "title": {
+    "en": "Mark Zuckerberg Opposes Dario Amodei's Push For AI Development Slowdown",
+    "zh": "Mark Zuckerberg Opposes Dario Amodei's Push For AI Development Slowdown"
+   },
+   "body": {
+    "en": "Mark Zuckerberg publicly pushed back on Amodei's call to slow down AI development, highlighting a real rift among leading AI CEOs over pacing.",
+    "zh": "马克·扎克伯格公开反对阿莫代伊呼吁放缓AI发展的主张，凸显了顶尖AI公司CEO之间在发展节奏上的真实分歧。"
+   },
+   "source": "Yahoo News Singapore",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcjNQdWhNR2VBUkJETHpGZzhick9KODBkWlhrWkNDbDNFSktrNklEMlhodDBWSUVTcnp0RF8yUGJwX0l6Z3pLcjNWQ2JvZmRGRFBNdHBhZWM1c2Z1cWFCclVUbnh0cGRjOXFJWW1qT05SaVFtbkdYUjlTREtBMGJHSE0yUW8?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T11:07:59Z",
+   "level": "notable",
+   "title": {
+    "en": "Mark Zuckerberg Opposes Dario Amodei's Push For AI Development Slowdown",
+    "zh": "Mark Zuckerberg Opposes Dario Amodei's Push For AI Development Slowdown"
+   },
+   "body": {
+    "en": "Zuckerberg publicly rejected Amodei's call for the industry to slow AI development, sharpening the divide between Anthropic's safety-first posture and Meta's race-to-scale approach.",
+    "zh": "扎克伯格公开反对阿莫代伊呼吁行业放缓人工智能发展的主张，凸显了Anthropic的安全优先立场与Meta加速扩张路线之间的分歧。"
+   },
+   "source": "HuffPost",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMHhsNVVucjhBNi1NLXpDQzhyVlMtTVg3NjZLZS1WLTJ4MW5MUDJiNEg4VTJpdDRRV1g3ZU91QnRQeXQtQkpPbmlTSUZQejB2MFpLaWxOR09UQUdQTzNRUkQ3Vl9EYjMzVU5Ed19ZR0gyX282cWFTWk50UUZuVW8xZE1wWEhGRHBJN3lMdkFvaEtRQkJidDl0Q9IBngFBVV95cUxOc1NHbnZmQnZIdHdWR05FWXZqQ2gwTnZvWEppcDBQWmVpQ2J2OXROQV9xa2kzZlJEVWlLUEVMOWpDMGltQmxfVzhRN1RmUkI1U0lZdWc3eTV3bVVfVVl4dkNVWnVpSUIxVmhZc2ZKeVdLZ2NQck1RVGk4alRsMTZIV1NLUk04OW5KeFBId0lQOVNGb05xNkhxN1VDTzJmUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T02:30:00Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei Admits China Presents ‘Toughest Dilemma’ as He Proposes AI Development Slowdown — ‘I Don’t Know if It’s Possible…’",
+    "zh": "Anthropic CEO Dario Amodei Admits China Presents ‘Toughest Dilemma’ as He Proposes AI Development Slowdown — ‘I Don’t Know if It’s Possible…’"
+   },
+   "body": {
+    "en": "Amodei called China the 'toughest dilemma' in AI policy and proposed slowing AI development, a notable shift in tone from Anthropic's CEO on the pace of the race.",
+    "zh": "Amodei称中国因素是AI政策中「最棘手的难题」，并提出放缓AI发展速度，这是Anthropic CEO在AI竞赛节奏问题上态度的明显转变。"
+   },
+   "source": "Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVM5VC1EYUZ6XzF1d2ROVlVkOGRDNTZhdmtfVVIwbjF3QXpJU3BiSnpsdWJxb1o2X3pVZG5jVGlMa250anc2U2dETmtlQlhtall6T0p5UXhYa0xnZENrZnl2WGl6a3FVUDZHaTV2emp5MHpSeFlXNnRLRnJWUzBsLWlWcFlpTmlNV1Q1cXVhSkEyUmFz?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T17:11:00Z",
+   "level": "major",
+   "title": {
+    "en": "Sam Altman and Dario Amodei's call to slowdown AI development has sparked employee tensions inside the tw",
+    "zh": "Sam Altman and Dario Amodei's call to slowdown AI development has sparked employee tensions inside the tw"
+   },
+   "body": {
+    "en": "Altman and Amodei's joint call to slow down AI development reportedly sparked internal tensions at their companies and drew public pushback from rival CEOs.",
+    "zh": "奥特曼与阿莫迪呼吁放缓AI发展的联合表态，据报道在两家公司内部引发了紧张，也招致了竞争对手CEO们的公开反对。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNSnpLNnMtMUxFVVpjYmJKcVNPeEdvdU9OTFI4dlhXOElPNnpSZEh2dnpyc2RZaE51YzZkZmNSMFZ6cmpkam85VkJveFF0RDJTbUZIVW5tVmdRU3E3VlluNUpudzNWQzBaWWJjanRFeFZTRmRxUHdHaWFBYl9WUUJYRTZlOHMtN0J3MDJqc2tZQUxwWmFEQVVOdV9jbkYyTTZKMjNJWEpueXpMd0lOWXl1aURBVXJ5TkNBNGZNQzgzbzNla2V2VDRrLXh3X0ZHYnVPSVA3MkJ0S2JxS09oQlB1a1lYRm4zMTI5dFh3a3dHQ0tqaVhudG1zTkNua2NpMVJ1bEphU1JJZTc5UXlWWkZZOVhYaEl2a2J6OTFhRkJpSl9idXdUUzFVRUlmamvSAbICQVVfeXFMUFhZeVcwVUpNNUF2NWEyYWJxUlhSOUVkRmVSdTNLN1l4WEVrQTFRSVdQZWpQeGtZRF94UGxKTDAxaHR2eXRQckFFUTZuc0dQRnR0TE9vcHVLek85MVNFVGhqbW5ZdzJNZ3hVYy1zdTAtMWJDUUpMbjdxN0RMUTlhOHBJNHZQZFYxZ0N6YjFrdUUyNmNsQkkyenNjekxxWmlkdWs4Y21TeDVqRERwUS1TVWd2dUZNaDgyc1BrRU52MlhTRFJDNTVpMHRZRFBkeHBfQWNOSThBT2w0bElkLUhyMUJmWldjS0ZwUEN2WU9faWVBZ1BRaEJ5QUJpQ3BRci1MM3NRanMtNHF3UkFkcG0wWXBnbVBSSHBwTkNaOGV3a2E3NC1OcEtyT1lYU2pFTC1PZWhB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T13:45:53Z",
+   "level": "major",
+   "title": {
+    "en": "Dario Amodei: We must pace the frontier",
+    "zh": "Dario Amodei: We must pace the frontier"
+   },
+   "body": {
+    "en": "Amodei called for the AI industry to deliberately pace frontier development, a stance that drew public agreement from Musk and Altman and pushback from Jensen Huang and Zuckerberg.",
+    "zh": "Amodei呼吁AI行业有意放缓前沿模型的发展速度，这一立场获得马斯克和奥特曼的公开支持，但遭到黄仁勋和扎克伯格的反对。"
+   },
+   "source": "TyN Magazine",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TX2lhZUNiY3VJbUE1T3BybmxDM2piWTUtb2tGWWF0MlNWa0lHOXpURnpEWXVBZ01oZ2pPa2FMeUo1dG1zdnluTUd6b3V4X1B2dWQxbE1naFY3NWFmNTNuWUwwWGZqX0lRTTNYWFZ4bng?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T04:24:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei responds to former employee who resigned 'warning' that AI could kill all of u",
+    "zh": "Anthropic CEO Dario Amodei responds to former employee who resigned 'warning' that AI could kill all of u"
+   },
+   "body": {
+    "en": "Amodei publicly responds to a former Anthropic employee's resignation warning that AI could kill everyone, defending the company's safety approach.",
+    "zh": "针对一名离职员工发出的“AI可能毁灭全人类”警告，Amodei公开回应，为Anthropic的安全立场进行辩护。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNMWlxMmtlS2JQZjRaWmpmWVRtOVppdEp2QkFtYWFGOTBWV0lONG5fVUxUNVR1Ml9EVjF5MlMxTU5VUmtqVHYtS3B2UzBPUUs3TTYtWmszb2h4ZUllMmE5WlpaOV9vRHNUamhNa1JUZlUyUXgtOVBoMGp4OWEzNThKYlJtQ2taMGVvRmczcE5jQ3JsNl9OYllZakVuSEw1emo1VFhrYzd3SG1DOGc1UTk0WFJXak04NkEtNWJ5Y01uVTRaalFoZzNWQnZPdG01bGRxWk9ibmtTMkdWZmJjNXpEREpNZk9qdFZ1Ny1TWDJvZ1RfZ0YxSU5uRjhGNTFxdkZNdGEtSE5reFY0QkxMUUVzODJ3NUJHMURsdFJidmg1WHJYVnBqUmpoS19KejRVSDZBU1hSS0paVm5lSVhhTVdkSV9yMNIByAJBVV95cUxPQmtHU0lqVkE3bDBnT01jYzBZOHRSUnNILVNaV1JYT1BUMW1XVFd5U2tPQTJvbmF1SEJQcVZ5VEVLVUZjUjJsamZ4NkxtR0RCdWdjTWt5bWF4d2Uyb2Q1Rm9pR09jMzFFeDZVU05KMV9UY04zTTVsUUJYN1VUM2s0cjhXTUNHLW5VR0NQTmZrZnZMZVBneXI5OGJtT0NqM292OWVoSlEzS3o0LVc1bWpydGVPcmVGV05QNk5XNGtUUS1CYXdrRjVyQjFZSWVvODBsX1FoQWlfN29saWRZM1l6dGRRVkI0c3lnazZBNUNXMHUyN1MySUQxVV9JWjg4Z2JOOWd5ak1Eclh5NGZLVndnWjhIYVJUaFJLT1hCZk91VlFMNXVkQmZQaF9saEdWWE9OTlNvbGFQQURVOHdWNU0yWlpkQkJPeVlV?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T07:06:51Z",
+   "level": "notable",
+   "title": {
+    "en": "AI Corner | Anthropic CEO Dario Amodei's essay calling for independent AI audits and global co-ordination, including with China, found support from Sam Altman and Elon Musk. However, US President Donald Trump remains the contrarian voice, fearing regu",
+    "zh": "AI Corner | Anthropic CEO Dario Amodei's essay calling for independent AI audits and global co-ordination, including with China, found support from Sam Altman and Elon Musk. However, US President Donald Trump remains the contrarian voice, fearing regu"
+   },
+   "body": {
+    "en": "Amodei published an essay calling for independent AI audits and global coordination, including with China, drawing public backing from Sam Altman and Elon Musk.",
+    "zh": "阿莫代伊发表文章，呼吁建立独立的人工智能审计机制并推动包括中国在内的全球协调，获得萨姆·奥特曼和埃隆·马斯克的公开支持。"
+   },
+   "source": "LinkedIn",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTk04S0dzMnVJSTVhZGNPRGJmSFZmNTE1cmNYdVNsQlUtbUVaV3JwX2drdHpOM1p2ZFU2YTRxLS1sMUM4ek93TVZwWDAyZ1lYd1ppNWFUZy1IM2dwdmVlSlYxRlluOFNjRERwUS1WUkhBQWVXaG5HTGh0UlVlTEp0bFMyZEY5VnBYdTdkWU9PSW0tcUtkTDFpb0Y5S0xkN0RwMjNOczUySmFxZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T14:52:28Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei Calls for AI Development Slowdown",
+    "zh": "Anthropic CEO Dario Amodei Calls for AI Development Slowdown"
+   },
+   "body": {
+    "en": "Amodei publicly called for slowing the pace of AI development, a rare explicit safety-first stance from a frontier-lab CEO.",
+    "zh": "阿莫代伊公开呼吁放缓人工智能发展速度，这是前沿实验室CEO少见的明确安全优先表态。"
+   },
+   "source": "LAmag",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYUtObHZHdnZ0Z2RFcjRnSFJzSV9HaTNQbDEyMzFxVTZ0WTZBczhVa3VERkR1MXNRdEI3WEUyREpiZFoteXR0U3JWZVdrOUh2RWhKWGhldklGRmIyYUpQYnhHTlZfcHU3ai1kbENxWTZCcXAtdmF5aFQxczdEWEhKV1VlM3JaODM1LTRBRnhJUUtZM09sOG9Bb0FPWERrUzd1b1ZmRi1lVnZlRUw0NG44M3FDNGJVTUp1RnRxTFlfSlJSOE5NYnM0?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T16:39:35Z",
+   "level": "major",
+   "title": {
+    "en": "Dario Amodei Calls For AI Slowdown As Anthropic Opens Up To Auditors",
+    "zh": "Dario Amodei Calls For AI Slowdown As Anthropic Opens Up To Auditors"
+   },
+   "body": {
+    "en": "Amodei published the essay \"We Must Pace the Frontier,\" calling on AI labs to slow capability gains and embed independent auditors — a stance quickly echoed by OpenAI's Sam Altman.",
+    "zh": "Amodei发表文章《我们必须为前沿设定节奏》，呼吁AI实验室放缓能力提升并引入独立审计机构，OpenAI的Sam Altman随即表示响应。"
+   },
+   "source": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkdMMU9NZkQya2lwTUhHV3VrVHFCWk5QdXZLMUk2dUl5UU1RZlhPZzZJMC1mc3pQbmN4d1dqLUNacXFheGZfR0MxM0N5ckRIQ1NXQnhsMUxqbEpoa3RQdnJBV09uSVFzQ3Fpa091SFVUUWU4NmRoX25WNUo2dUVQMXRudGhGaFNEQnZRdm1kdXNVNzg2WHk0clA3WlI2OWNndWNTWEZxM05SQ2YxQjJsUl9tdWt2SE5jc0U0cw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T20:14:56Z",
+   "level": "notable",
+   "title": {
+    "en": "Anthropic's Dario Amodei and Nvidia's Jensen Huang Take Their AI Safety Fight to Dreamforce",
+    "zh": "Anthropic's Dario Amodei and Nvidia's Jensen Huang Take Their AI Safety Fight to Dreamforce"
+   },
+   "body": {
+    "en": "At Dreamforce 2026, Amodei and Nvidia CEO Jensen Huang publicly clashed over AI safety, each pushing a different view of how fast the industry should move.",
+    "zh": "在2026年Dreamforce大会上，Amodei与英伟达CEO黄仁勋就AI安全问题公开交锋，双方对行业应以多快速度推进持不同看法。"
+   },
+   "source": "ADWEEK",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV2dkQWF4UXVCaThhMEtidFJuOU9YeDJnOVgtLTVGeEI3Nzd6WXVNcjBNdUc4SEQ3SElBTTR3TzUzMWkzUy1nQ0JGd29HaTV5b0xSZ1h0TmFHVWsyX29CT1F4Sk5rZE9oa0pVSWRaal9KZ3F0d0FuaVFEWHI5NTEtc2IxeEpCSkNUZHpCaXN4OGI1QWNxVVYySUNTOExlVUQ0eVAzVmFLeGdFLWFqYlNGNEtVdnRKaG9DRElZ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T22:40:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei's handpicked AI watchdog has deep ties to Effective Altruism movement: 'a complete joke'",
+    "zh": "Anthropic CEO Dario Amodei's handpicked AI watchdog has deep ties to Effective Altruism movement: 'a complete joke'"
+   },
+   "body": {
+    "en": "Amodei's choice of AI watchdog to oversee Anthropic drew criticism for close ties to the Effective Altruism movement, raising conflict-of-interest questions about the company's safety oversight.",
+    "zh": "阿莫代伊选定的AI监督人因与有效利他主义运动关系密切而遭到批评，外界质疑Anthropic安全监督机制存在利益冲突。"
+   },
+   "source": "nypost.com",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeUFwQTlhN1k4TXRqM29YRWM3WFVob05GTTg1NzdIXzRMTXVTTHh4Qi1LR3pEdWJRczJ5SlNJQ0FIOW9pVm80R2dTOWFaV1dyWjFEV0d0VThaWHBhMW4wLXpWSHBQN2FHZFU1aWljQzNnc1RVVm13RUdjVlV6R180Y0pIT1ZBVDZKNXJOZGhxNTJJak1lSU5pQ052YXZCQXR1NzhocEsyVExXQ0tEb1NkM1N2WjZaR3huQThPVEJLdEp6UDhUYlFFZ09Bc2J4SFFLZ21fR2NvOTdIbUctcEJwZm1FOG5XQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T01:37:00Z",
+   "level": "major",
+   "title": {
+    "en": "Sam Altman and Elon Musk back Dario Amodei's call to slow down the frontier of AI development",
+    "zh": "Sam Altman and Elon Musk back Dario Amodei's call to slow down the frontier of AI development"
+   },
+   "body": {
+    "en": "Dario Amodei's public call to slow the pace of frontier AI development drew public backing from rivals Sam Altman and Elon Musk.",
+    "zh": "Dario Amodei公开呼吁放缓前沿AI研发步伐，获得对手Sam Altman和Elon Musk的公开支持。"
+   },
+   "source": "SiliconANGLE",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSFhCcktZLUxOczdDOHVKRGVZNnVsdmlnazdNaU5aYVNPVDB5M0JJT1oxV2VtRmZwN1BQTnA2czU4ajYycnRmLXJKU0RQLWdDamJ2Q080R3ZBQS1KQXhPeUFMS0pGcEFGenluOGlDeEpuRDJSMmJPWS1JUjRoTWU0bnZiTkkyR2dVb0luQll0dHJ2eVZULU5uRXgydFFqVXZ4RFBvWHhoallUbTZ5TkF0TGYxeDdDdHZSS0tnX1dkU0JfMzRURFhFUw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T03:28:02Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic founder Dario Amodei lays out a way to slow down AI",
+    "zh": "Anthropic founder Dario Amodei lays out a way to slow down AI"
+   },
+   "body": {
+    "en": "Amodei laid out a concrete proposal for slowing the pace of AI development, adding Anthropic's weight to the industry-wide debate over speed versus safety.",
+    "zh": "Amodei提出了放缓AI发展速度的具体方案，为业内关于发展速度与安全性的辩论增添了Anthropic的分量。"
+   },
+   "source": "thebasispoint.com",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMmY1SnExaWNlQl9SaUJJX21DU0s4OTc5amJuUGdGM0VCbVUzUkpLVlJNUWFfY3FMZFY0MHRRZEpjNU5vR3VLN01EUnp6VWNwZDFtcHpRRWlMQ1RzQ3RMQUJMeWxRMmo0clNoSVdMcWVqM1RweEFYdElRMzZfdGNNY055NzJLVm1iTFJPNkJDbXVMZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T05:31:48Z",
+   "level": "major",
+   "title": {
+    "en": "‘AI brings risks, and these are serious’: Dario Amodei calls for slower AI development",
+    "zh": "‘AI brings risks, and these are serious’: Dario Amodei calls for slower AI development"
+   },
+   "body": {
+    "en": "Amodei publicly called for slowing the pace of AI development, warning the risks are serious, and touched off a wider round of similar statements from other frontier AI CEOs.",
+    "zh": "Dario Amodei公开呼吁放缓人工智能发展步伐，警告相关风险严峻，并引发了多位前沿AI公司CEO的类似表态。"
+   },
+   "source": "bestmediainfo.com",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVkZDcVMzdW9hSkJoQ0QwQWc4MGlQTzUxb1dOSzVYX0czSUt1NXRfYlEtT0hsMTV6VFAteTFBSlQ5TkZ5cEJteWp3YlAtMkJ0emFMR2poM3pkc3dtNlptdzgxX1lWdjRKbXV0el9kTHY3WlhwS2ttX2lWME92ZTNZUmxKcDFOSlpVOVUxX1dJQkV6ZnRFRmZ4SklFRlVJWkhDeVc5M2tucU1xZU1oMUlVMFRGYTZXVjFzNWI2REM2dUNianMyWUxpdnpvMll6TWV4MkNnY0lYMUJ1bTNpbkHSAd4BQVVfeXFMTlZGQ3FTM3VvYUpCaENEMEFnODBpUE81MW9XTks1WF9HM0lLdTV0X2JRLU9IbDE1elRQLXkxQUpUOU5GeXBCbXlqd2JQLTJCdHphTEdqaDN6ZHN3bTZabXc4MV9ZVnY0Sm11dHpfZEx2N1pYcEtrbV9pVjBPdmUzWVJsSnAxTkpaVTlVMV9XSUJFemZ0RUZmeEpJRUZVSVpIQ3lXOTNrbnFNcWVNaDFJVTBURmE2V1YxczViNkRDNnVDYmpzMllMaXZ6bzJZek1leDJDZ2NJWDFCdW0zaW5B?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T07:43:59Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic's Dario Amodei calls for slower pace of AI development",
+    "zh": "Anthropic's Dario Amodei calls for slower pace of AI development"
+   },
+   "body": {
+    "en": "Amodei publicly called for a slower pace of frontier AI development, a stance later echoed by Sam Altman and Elon Musk.",
+    "zh": "阿莫代伊公开呼吁放缓前沿AI的发展速度，该立场后来得到萨姆·奥特曼和埃隆·马斯克的响应。"
+   },
+   "source": "cnbc.com",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY2Y4OWEzMGR1YkJ6QWswbWJpcG8zaHVrT1R3RDU5U2EybEduU3NQUjI5bFdEbmdhV0lXNUYybTczUS0xaldYT0pYc25ON1VQUE12dXlwY0Q2X0d3aVczTFBzVEJXeXBfZm5tUVFMcmxvZVZjQk1XNzB5eFdhUnZOVHotTzcyaEdCeTRFTlFXMXcySmlwVW5ZTHA1ZnlERVpycXhUdjExNmpTQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T09:36:37Z",
+   "level": "major",
+   "title": {
+    "en": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning",
+    "zh": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning"
+   },
+   "body": {
+    "en": "Amodei's lengthy public warning about AI risk rattled AI stocks, underscoring how much weight markets now put on his safety stance.",
+    "zh": "Amodei就AI风险发出的长篇公开警告导致AI股大跌，显示市场如今非常看重他在安全问题上的立场。"
+   },
+   "source": "finance.yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSnh0RURESW5RRmc3NlJrdUgxRV95V0pCSkJvY2szWi04YnhjRkY0N0xtT3RQeXp3d0ZBc05wMURvRGtlNUVNakNpdzh6dEVpSUdVem13ZzlhN2ttYXdOZXVWNmxYdEd1Q3l5NjV1TFRJUkxTa3hoMzNZNzY2Q3pfalkxY0JkVEpVa1FJNDhaM0lNRDQyYzZaRFJMSWVPLURKZ01wUDRYUnZwUm9WdWRUSmlpbDRKcm5MdEc3VWhkMW1odV9hV1YyOV9oOXM1QUZreGxJcF9Vd3Fldw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T01:24:00Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei on the dangers of AI",
+    "zh": "Anthropic CEO Dario Amodei on the dangers of AI"
+   },
+   "body": {
+    "en": "Amodei publicly warned about the risks of advanced AI and argued the industry needs to slow down, a stance echoed by OpenAI's Altman the same day.",
+    "zh": "阿莫代伊公开警告先进AI的风险，并主张行业需要放慢脚步，同一天OpenAI的奥特曼也表达了类似立场。"
+   },
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS3QxMnVWRFZyQkpwX0JBMjJrVGFjV3hXWElVMmp5bXlEcWpJR0JsNEFVVjUyYW5YS2phT0ZvWXJxd21oRXZKd3hYbGkxYU1IV29LZGRhUmlZSE9BejJ3NHhwcF9IREdCaGNTZEJCUmpEYUZ3TEhTcWxFODJ2Tml0SEx4X3pYTUpMeGZ3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T11:25:35Z",
+   "level": "major",
+   "title": {
+    "en": "Dario Amodei calls for AI slowdown, Altman and Musk agree",
+    "zh": "Dario Amodei calls for AI slowdown, Altman and Musk agree"
+   },
+   "body": {
+    "en": "Amodei publicly called for the AI industry to slow down over safety concerns, and Altman and Musk voiced rare agreement.",
+    "zh": "阿莫代伊公开呼吁AI行业出于安全考虑放缓发展，奥特曼与马斯克罕见表示赞同。"
+   },
+   "source": "qz.com",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PdC1rY0FvR0c4cThzR3VwTGZwQ1BzUDlaVFpUMU5PSnAxWHRrODQwRTJ0YklHRmFQeTJING95TmhTOC1welJjdWVsVXQ5dm9MLUVJSU5LOVFFQ1VmSGhEaTNZZV9MU3pTUU9Bd2FEUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T05:37:00Z",
+   "level": "major",
+   "title": {
+    "en": "AI oversight concerns grow too loud to ignore as Altman and Amodei align on slowdown",
+    "zh": "AI oversight concerns grow too loud to ignore as Altman and Amodei align on slowdown"
+   },
+   "body": {
+    "en": "Dario Amodei's call to slow AI development drew public backing from Sam Altman, a rare alignment among major AI CEOs on the case for independent safety oversight.",
+    "zh": "Dario Amodei呼吁放缓AI发展的主张获得了Sam Altman的公开支持，这是主要AI公司CEO之间就独立安全监督问题出现的罕见一致立场。"
+   },
+   "source": "\"Dario Amodei\" - BingNews",
+   "url": "https://cryptobriefing.com/ai-oversight-altman-amodei-slowdown-reuters/",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T13:19:08Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei calls for AI slowdown",
+    "zh": "Anthropic CEO Dario Amodei calls for AI slowdown"
+   },
+   "body": {
+    "en": "Amodei publicly called for a slowdown in frontier AI development, a stance that quickly drew endorsement and pushback across the industry.",
+    "zh": "阿莫代伊公开呼吁放缓前沿AI的发展步伐，这一立场迅速在业内引发支持与质疑。"
+   },
+   "source": "CNN",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUjJIcHlLcDgxUFBpREd0R2gtdjhjT0s2cHl4dzdfcnY2V3otZURock1lamxjSTZSOWVGOW5hdnZaVkpGWV9TTV8yeF83VGxOUUowQzdSaGtibkV2MUQ4QnNDZ3JuRDVrbEc5X0tBMGdlR18zQWxWSkhQQS1JWUlQY3ZfQnU3UWdlXzlz?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T14:09:03Z",
+   "level": "notable",
+   "title": {
+    "en": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei",
+    "zh": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei"
+   },
+   "body": {
+    "en": "Trump publicly rejected calls for more AI regulation and criticized Anthropic CEO Dario Amodei by name.",
+    "zh": "特朗普公开拒绝加强AI监管的呼吁，并点名批评Anthropic CEO Dario Amodei。"
+   },
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM01tVUxzRUtNUHM5YmNCSmlMcVZ0VmJrQU5nWmsySTJXZFNnWEhZajZxTmFOLW8ybTd0Z0lxVEZQSlJLVjV1djJROUFleXBmeHRLeDlpTkowNkZTbDZrSGJPVXBRZ2k1MUJZYlR4VThnSUhTNkl6eWhlTTBZS012UnV0a3kyaVlU0gGOAUFVX3lxTE54dzQxUXo4aFdlV2NKVnY1aHczRlZOTDRnaWVxTHFRUEhqUXhCS25Nd2hYYlY4bFh2WFlaTGRJbVdLTzNGajl5Y2FNSWVUSnBrbzJobTllT1M2Z1VxUTFweFZjVmNaNU9pMnRVZ3lsMkNiWmgwUHpYby1mNEI5TlNEdDliRUc0VUgxQnM4aWc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T13:47:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Sam Altman and Dario Amodei, China does not agree with your AI plea; says: Stop …",
+    "zh": "Sam Altman and Dario Amodei, China does not agree with your AI plea; says: Stop …"
+   },
+   "body": {
+    "en": "China's government dismissed a joint appeal on AI safety from Sam Altman and Dario Amodei.",
+    "zh": "中国政府驳回了Sam Altman与Dario Amodei就AI安全问题发出的联合呼吁。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQV1VTUDN3WU9Vd25CSmRNNWhWYWdOSzVJR00xaUdrOXpMR0pxWEpub0JwR1BYNlFUT3ZjTnhWVXVVZ09vbmlucXJsd3k1Q3o0a0pxNWQtTkFJaVdmYWp6MlY0WkV1bE9KQ0dSVVdNTGRsWXRuaEFVQndQRmtCU2YyeklpeHRPWWF0SVZMX280aGc4aGlHSzNWdk02MndoRkZoYkI0N3FJSHY3YWN2X1lKbXc1WjVVNG9EeVJiMW1rMmZyUmVZTmEzaVNjZU5hN01ReW1NaFUzRmNJZlVXcHhKdi1DdExzR3dpMmR0UXRzYTl6QdIB9wFBVV95cUxNSTdxR0g3QUxRYnhpdlE3aHg1Qy1vV0I0b251Q0NaaU1OSy12RWxwX2V0NzlVSjFuREtpdGotODlWVXJnbTYyUFpjWXQ3UTBzRzlDVjJoanBCME5JNnNqSlRNWGpZVFM0eGdOcEs5OV9iY3BUOXViQlh5MndaSndJZ1FNRW9kWUhIei1GR3ZUTTBMNjBqeE5fTmhVR3ZNLWRBVWZYOVpSOXZxS3hGQWRoUnVaVU5VcHR6d2hVYkZ2MWh6c0kwUEdqQkVIcGRmWXZnQzI3S3p3V3dJLWpTZGExa0JOSzZfczFMYTBkbWxqZU91QlJteEdZ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T14:19:46Z",
+   "level": "major",
+   "title": {
+    "en": "Dario Amodei calls for an AI slowdown as rivals signal support",
+    "zh": "Dario Amodei calls for an AI slowdown as rivals signal support"
+   },
+   "body": {
+    "en": "Amodei publicly called for an AI development slowdown, with rival lab leaders signaling support.",
+    "zh": "Amodei公开呼吁放缓AI发展速度，其他实验室的负责人也表示支持。"
+   },
+   "source": "The Rundown AI",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLOUNMQXNSMkZVbWxDcFVrak1sZVB2X2NNUFZHQ2NpU1JHN05ZVnRqdFpjWE5BSVU3eGVMVEpoOXhYakp6bWdnNjVMZWR5VUdpajMtNGkzUUNnbnRJN3AtR1o1RUl0V0Mtb3IySnFiMUhTQjZE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T15:15:00Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei Urges AI Companies to Slow Development Amid Serious Risks: 26 outlets compared",
+    "zh": "Anthropic CEO Dario Amodei Urges AI Companies to Slow Development Amid Serious Risks: 26 outlets compared"
+   },
+   "body": {
+    "en": "Amodei publicly urged AI companies to slow development over serious risks, a stance that drew wide pushback including from Trump.",
+    "zh": "阿莫代伊公开呼吁AI公司因存在严重风险而放慢开发速度，这一立场引发包括特朗普在内的广泛反弹。"
+   },
+   "source": "NewsCord",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ2t0OFVFUFVZWURVMXJ1V0lkZ2NQYk5EbTBtWEFuQWJZNmlBMGJzQ1hkcGMwMTlsT19uZFU2a3lOLWpET0c0V2Rlc01mYWtxM0RyT1hLZzR6YnA0SkJ6bkk2aXpZQ0MxNXJzYnVzNU5KVDBsMF9DTTlyUHNzTkJRTXBsT1YwM1hzcFZ0aENKbjdpS0tXc29RTHBJbnZiem5GR3hMUE02RElUUlJoNk5pZUxsOGlqQ0NKZ1FfVndjS1U5T09XMXdaa0dZLWE5eFU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T15:53:49Z",
+   "level": "notable",
+   "title": {
+    "en": "Trump lashes out at Dario Amodei after the Anthropic CEO called for a slowdown in AI development",
+    "zh": "Trump lashes out at Dario Amodei after the Anthropic CEO called for a slowdown in AI development"
+   },
+   "body": {
+    "en": "Trump publicly attacked Amodei after his call for an AI development slowdown, escalating the political fight over AI safety.",
+    "zh": "特朗普在阿莫代伊呼吁放慢AI开发后公开抨击他，AI安全议题上的政治争议进一步升级。"
+   },
+   "source": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOckNLLWlpUU1taXM0RWdnUVRwR295X2p2czJQblNYa2Y1OHNlQmZyaFlfVGVXdlVyc2dMeXRpWTA1REhxakpoa290QmxzZllLMWFtTzNEd3U0VXRCQUhSRC1mU2hBV3d3aTVBU1M3OVJ0ck5nMlgySVY5Z3M5MjlQUDRVN0s3UQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T16:23:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Trump blasts Anthropic CEO Dario Amodei over AI warning: ‘SICK conspiracy’",
+    "zh": "Trump blasts Anthropic CEO Dario Amodei over AI warning: ‘SICK conspiracy’"
+   },
+   "body": {
+    "en": "President Trump publicly attacked Anthropic CEO Dario Amodei, calling his AI-risk warnings a \"sick conspiracy.\"",
+    "zh": "特朗普总统公开抨击Anthropic首席执行官Dario Amodei，称其关于AI风险的警告是\"病态阴谋论\"。"
+   },
+   "source": "New York Post",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcFN5R0ttVUFYQkk4bXhMRFpOelJzcTVmaloyZzNtYkRKUkNGUnJybEg1RTA1aXJNTHFLYVdfVHh4TmRzcGJEUTBobXAzeDhrRTNzNE1QNTdvMDdqR01uWkJvc0dSNTRDT2xkNzRKYjRLbVNsdVg4YXYyM0VPLXVmbGJfVHJGUnNlUDNPVEJYT2pBeUJwNHFnaUttYVdEUEhFZ1lhNEZaWkU1R3dzYk9sVA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T17:16:16Z",
+   "level": "notable",
+   "title": {
+    "en": "Trump attacks Dario Amodei, rejects AI guardrails on Truth Social",
+    "zh": "Trump attacks Dario Amodei, rejects AI guardrails on Truth Social"
+   },
+   "body": {
+    "en": "Trump publicly attacked Amodei and rejected AI safety guardrails on Truth Social, escalating the political fight over AI regulation that Amodei has been a leading voice in.",
+    "zh": "特朗普在Truth Social上公开抨击阿莫代并拒绝AI安全护栏，使阿莫代一直积极参与的AI监管政治争论进一步升级。"
+   },
+   "source": "qz.com",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMVFlRUdSNzREaXN6bkVDMkZGLV9naXU2TnFOdWd2Q2NUZ3ZvX05ObEtNeDU0S0dKTW1HS2Yxd2V1UkthNDFvbElYeE5nbVA3M3NjM3JBcTFIRXJZYy0wT1RGUW5EeHowUTJaN0JjNlBKOWRLU2FSVjJmczRFTjZOUnNPVQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T18:19:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Trump says no need for AI regulation, attacks Anthropic’s Dario Amodei",
+    "zh": "Trump says no need for AI regulation, attacks Anthropic’s Dario Amodei"
+   },
+   "body": {
+    "en": "Trump publicly attacked Amodei while dismissing the need for AI regulation, a direct political clash between the White House and Anthropic's safety-focused stance.",
+    "zh": "特朗普公开抨击Amodei，同时表示无需对AI进行监管，白宫与Anthropic注重安全的立场由此发生直接政治冲突。"
+   },
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSEp5eTMyYmZGcmFvcW5mUEJhLTRYNnFtQTVaMThNOGowMTBfVTZ4c213S3JMbzBfdXdxQngxdGNEdjBqb2VWQjlITHdDb1NZTWR2Njc3NENjTENGTE0zbUJRbjlVd3dyTnpJNlNMTWV1MUV1OFZzRUpWaVBXWjdtT2dwNmZQUGF3M2NDclFPVFM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T19:16:35Z",
+   "level": "notable",
+   "title": {
+    "en": "Dario Amodei on Who Should Control Frontier AI",
+    "zh": "Dario Amodei on Who Should Control Frontier AI"
+   },
+   "body": {
+    "en": "Amodei laid out his position on who should hold authority over frontier AI systems, part of his continued push for external oversight of the most powerful models.",
+    "zh": "Amodei阐述了他关于谁应掌控前沿AI系统权力的立场，延续了他一贯主张对最强大模型进行外部监督的观点。"
+   },
+   "source": "Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRTE2X0cteUxkd0x0Wmc5T2wzZDBIVV90M0otZEN1OGdwbmxkRTl4d2h4QllySjBvcDBPaDZ1MF9LdFh6RXFBdFBSTVpuejI4bTRKWmh4dk80a0lpYktzbV8wZE1mUlNURGE1TDRRejlHcDE0S2hvYUVZUjFnbkpVaG1kWTlpeWc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T15:15:22Z",
+   "level": "notable",
+   "title": {
+    "en": "Donald Trump Rejects AI Guardrails, Slams Anthropic CEO Dario Amodei on Truth Social: how 33 outlets framed it",
+    "zh": "Donald Trump Rejects AI Guardrails, Slams Anthropic CEO Dario Amodei on Truth Social: how 33 outlets framed it"
+   },
+   "body": {
+    "en": "Donald Trump publicly attacked Anthropic CEO Dario Amodei on Truth Social over AI safety guardrails, a dispute picked up by dozens of outlets.",
+    "zh": "特朗普在Truth Social上公开抨击Anthropic CEO达里奥·阿莫迪在AI安全护栏问题上的立场，该争议被数十家媒体报道。"
+   },
+   "source": "NewsCord",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVkItSXZNZklfSmgycmlyVHF3Z21HdjZJaTdSb1pYWG51dVoydXJ0WWUwNmkwd1AyeTBxZkNqbUREdnk3c3Q4ejhSczhiMWc5a1V3dUF3TmR1RUNHTlRXcDMzNzR3RGdmY2hkdHpkYnFnUzZkb1NmbnRUcjRvNWNNWjdBcVd6SF9XR2RfdlJYb3ltY1Rfb0tGekFOdWFWZXhOTUxrYXIxUVhKZ3Y3WjZRWEhJYmdGbUlx?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T21:52:20Z",
+   "level": "major",
+   "title": {
+    "en": "Dario Amodei Calls for Slowing Frontier AI Development, OpenAI, Google DeepMind Back Proposal",
+    "zh": "Dario Amodei Calls for Slowing Frontier AI Development, OpenAI, Google DeepMind Back Proposal"
+   },
+   "body": {
+    "en": "Dario Amodei publicly called for slowing frontier AI development, with OpenAI and Google DeepMind reportedly backing the proposal — a rare cross-lab alignment on pace.",
+    "zh": "Dario Amodei公开呼吁放缓前沿AI的发展速度，据报道OpenAI和Google DeepMind也支持这一提议，这是各实验室在发展节奏上罕见的一致立场。"
+   },
+   "source": "NewsCord",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcDZ2NlFnbEwzalVkMEVEX1dxSG1FZXdSYVN4emZpbXRKYkt4RlhsajRzVFIyY2hLRUthTWNHNFJKUl9QWmpCajZLdDZhVWduaDlVRjZSX21qNjFPamhuOGxUOTBUc1g1WFd1elJOQ1d2TUhxSTVSRjRPckpfQk1XQW9hY0tOX0lPVDVkNDlJNHlpV0lGS1RWeXFNSXdja2RReHpmUGlUU1BZZk1JNXR2X081ZmFUMVA5Rk9vcVp3b0RYdnBmNkhLWEVxR2MxNDZ4MElZRkZHY2FjY1dqcnVQQ3JfMmFTUFAtVlE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T12:48:39Z",
+   "level": "notable",
+   "title": {
+    "en": "Trump cries foul after Anthropic's Dario Amodei calls for AI 'guardrails' as safety debate heats up",
+    "zh": "Trump cries foul after Anthropic's Dario Amodei calls for AI 'guardrails' as safety debate heats up"
+   },
+   "body": {
+    "en": "Trump publicly rejected Amodei's calls for AI 'guardrails,' escalating the safety-regulation fight between the White House and Anthropic's CEO.",
+    "zh": "特朗普公开驳斥了阿莫迪呼吁设立AI“护栏”的主张，使白宫与Anthropic CEO之间的安全监管之争升级。"
+   },
+   "source": "\"Dario Amodei\" - BingNews",
+   "url": "https://www.msn.com/en-in/technology/artificial-intelligence/trump-cries-foul-after-anthropic-s-dario-amodei-calls-for-ai-guardrails-as-safety-debate-heats-up/ar-AA2ccM7R?ocid=BingNewsVerp",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T15:55:39Z",
+   "level": "notable",
+   "title": {
+    "en": "Trump lashes out at Dario Amodei after the Anthropic CEO called for a slowdown in AI development",
+    "zh": "Trump lashes out at Dario Amodei after the Anthropic CEO called for a slowdown in AI development"
+   },
+   "body": {
+    "en": "Trump publicly criticized Dario Amodei after the Anthropic CEO called for the AI industry to slow down, a rare direct political clash between the White House and an AI lab leader.",
+    "zh": "特朗普公开批评Dario Amodei，此前这位Anthropic CEO呼吁AI行业放慢发展步伐——这是白宫与AI实验室领导人之间罕见的直接政治交锋。"
+   },
+   "source": "LinkedIn",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQjF4Z3hLTFlkaHlva3hvSktSX0dROVJ2empPODh1UDUzckE3STd6NkU4alFQZUM3VWRRWXl5d0xwSW1ISkxSTDFIVVlaajhncE55RElyOE1lZWlielNHZTU4dHE4aUtPVm01NERXNlFhRDU3emItcFprSEl6QlNESWRiWnZPcXdJQUVha1d4eW16dDh0TUozRjlmUXFsVUJRYnZzZ2RHYXoycU5tdzFhT2NSM1IwR1FjR081VG5UY0s?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T11:30:00Z",
+   "level": "notable",
+   "title": {
+    "en": "‘We could lose control’: AI doomsday comments from Sam Altman and Dario Amodei are majorly shaking the internet",
+    "zh": "‘We could lose control’: AI doomsday comments from Sam Altman and Dario Amodei are majorly shaking the internet"
+   },
+   "body": {
+    "en": "Dario Amodei joined Sam Altman in publicly warning that advanced AI development could lead to a loss of control, a stance that drew wide attention and a rebuke from Trump.",
+    "zh": "Dario Amodei与Sam Altman一同公开警告，先进AI的发展可能导致人类失去控制，这一表态引发广泛关注，并招致特朗普的批评。"
+   },
+   "source": "\"Dario Amodei\" - BingNews",
+   "url": "https://tech.yahoo.com/ai/articles/could-lose-control-ai-doomsday-183000186.html",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T15:53:33Z",
+   "level": "notable",
+   "title": {
+    "en": "Trump lashes out at Dario Amodei after the Anthropic CEO called for a slowdown in AI development",
+    "zh": "Trump lashes out at Dario Amodei after the Anthropic CEO called for a slowdown in AI development"
+   },
+   "body": {
+    "en": "Trump publicly criticized Dario Amodei after the Anthropic CEO called for a slowdown in AI development, putting Amodei's safety stance in direct conflict with the White House.",
+    "zh": "特朗普公开抨击Dario Amodei，此前这位Anthropic CEO呼吁放缓AI发展，使他的安全立场与白宫正面冲突。"
+   },
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTDlLUG53Q2ZNQ3B1TUdTbEM2c1hzYXNVNWFNWmpvaUZXVWdQMEh0UTE5OWNKYllVSFhEZkM1QzE1d3JYRnc4SEdmVjZkeG51aEFadm9GbjVBcUFud3UwbnU5SV9PWVVJS3NrdXZWLUVtUGVXbGt2T20zeFR4RC10R1NLdURnV3pmWkg3M0Y1aTJzdjJqZTZCM1JDOA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T01:01:00Z",
+   "level": "major",
+   "title": {
+    "en": "\"Chance that things go wrong\": Dario Amodei warns of unchecked AI risks, proposes global safety framework",
+    "zh": "\"Chance that things go wrong\": Dario Amodei warns of unchecked AI risks, proposes global safety framework"
+   },
+   "body": {
+    "en": "Amodei publicly warned that unchecked AI development carries a real chance of catastrophic outcomes and proposed a coordinated global safety framework to govern frontier AI.",
+    "zh": "阿莫代伊公开警告，若不加约束，AI发展存在酿成严重后果的真实风险，并提议建立协调一致的全球安全框架来治理前沿AI。"
+   },
+   "source": "ANI News",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeFB0UDFJNWRXQzhxMnphMUlCbzBKVW9CT2UxbUpDeEFpRy1vUC11MFpOZm1LdWpya2k3YnNCbEFLbVJLUkdRdWl4QkF1VE4zaXp3VFZhMWJqWF91b21vODRIOXNSMmxVRHFfNW5oTWJPT3NPYnQtbm5mYWp2dlFhdUxiM3JQZjNMdVBZdnE3YnlySF9uZllRQ21uUDlUbXVtV3owVm9uSk12ZUUxQTE5dERkd3RNOEN1VjN0X0xham44eHFtZHctOHBBN2pNSmFJZVBwYjZVQm5VY0dyX2ZyaUwtV0ZnODg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T01:23:00Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei Urges Slowing AI Development as Altman and Musk Agree",
+    "zh": "Anthropic CEO Dario Amodei Urges Slowing AI Development as Altman and Musk Agree"
+   },
+   "body": {
+    "en": "Amodei publicly urged slowing the pace of AI development, a call that Sam Altman and Elon Musk both said they agreed with.",
+    "zh": "Dario Amodei公开呼吁放缓AI发展速度，Sam Altman和Elon Musk均表示认同这一观点。"
+   },
+   "source": "DongA Science",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CVnNoNG1tV3B4MG80dmRCWkVIRC1hdXhOVVRDUGlVUXY5alBZbmxaMnoxN0dkXzhZbU1XaXpRVHRfVHhnS0V1UjhYRkVVaDdOakN6Qg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T03:05:30Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei urges AI companies to slow model development amid misuse fears",
+    "zh": "Anthropic CEO Dario Amodei urges AI companies to slow model development amid misuse fears"
+   },
+   "body": {
+    "en": "Amodei publicly urged AI companies to slow the pace of model development, citing fears of misuse.",
+    "zh": "阿莫代伊公开呼吁AI公司放缓模型开发速度，理由是担忧AI被滥用。"
+   },
+   "source": "ThePrint",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbU9mNW5LMkd4RGlLSjRaZFpOUHJFdGxVN0l6SUpIalJ3RU1qQzdOYW96RngtcWpZMF80QmFPWFpQSHpLTWNPbTExV0l0Y0pKQ1RzNFhXNGpkOUlvdi1Za1BqNEtlTEJrakxLZVphRHBWNEExbWYyaHV6LU0yR0ZfMG5JTEF6cDRnT2w5NjRkM0ZSY0ROSGRmVlZGRERNRkoyS3VYelo5ekNOS0ZYUDhaUjJ2bVdOUzVxLTBVSGRmdUfSAcYBQVVfeXFMUDlWdHNEN0hiUXFjWVpwZnlDQi1QY2d6YnYxNTFvM2dmZFFSZS00UzU2SV9hMjBISFRMYjNrWkhTVHVtVXRaY2tMT3BPd3U1NzJWZDM4YU9hNm9pbHF4dEtWc3BEWHZZZFR2MFBQRkF3RjFvSW1uTV82ZVVka1BYWVNPUzVuVzk1SDJmc09adDFOWW5BNjltZXl2Zi02ZkZCSzdpR1Y3X09YZWhWWUotdk5iUEFfSktacmJnYXBROU5LcVV1TU5B?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T03:44:17Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei warns AI 'swarm' could take over the entire internet",
+    "zh": "Anthropic CEO Dario Amodei warns AI 'swarm' could take over the entire internet"
+   },
+   "body": {
+    "en": "Amodei warned that a coordinated 'swarm' of AI agents could take over the internet if left unchecked.",
+    "zh": "阿莫代伊警告称，若不加以控制，协同行动的AI智能体“蜂群”可能接管整个互联网。"
+   },
+   "source": "Moneycontrol.com",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZXFlSEhTMEhQQnRSb2kzcU9GaFJZbHp5U29vWVR0OUoyMEFyb3VOX3dHQTdHazJFUkJQLVYyUmx2QU1nMG5JVjBsc2VSNU9LVVdDVjZ4Y3FZZWxkallVUVZVa01fei1WOXpfeDVtY3hGeXBJSEU1SHFENjdlYU5uajlOU2NZaFNxa1dGbXF1QlhEWkJTRXluaDZ2NzV3LVZKeXNlcE11aVIyM1NyZmF5d1A1Tl8zQnVPdEs4c21IZTkwN2J0alV1N1phQnNMNUXSAdQBQVVfeXFMTXlPaEtTdGVxS1ZUWThCQ2l0elFwZ2xwZ3FPY1o5Q0FDQnRLOGlnTUlhQlRrdmx4N0NQS1BZN0VYaE1FX1h4dDRfNWF5d01IRFRHWGp0eXhkdHVPOHljemhzdVJyR3FTYU5EOHBSbnJyaVhrUVp1MjFhcnk5bVhKLUhjNWFVZTdyY3F3ZmI4ZXdYSEJRNTdXSEJBUlFTTDVsRHgxbVBMdDBtV2RKWEI1TDQyajZEMlNxekpjSkNobm9zN21hOUdzTEhEeFVEcV9kNWdLeGU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T04:31:02Z",
+   "level": "major",
+   "title": {
+    "en": "‘It could outrun our ability’: Anthropic CEO Dario Amodei pushes for AI slowdown, unveils three-step plan",
+    "zh": "‘It could outrun our ability’: Anthropic CEO Dario Amodei pushes for AI slowdown, unveils three-step plan"
+   },
+   "body": {
+    "en": "Amodei publicly called for AI development to slow down, outlining a three-step plan to address risks he says could outrun humanity's ability to control them.",
+    "zh": "阿莫代伊公开呼吁放缓人工智能发展，提出三步计划，应对他认为可能超出人类控制能力的风险。"
+   },
+   "source": "Storyboard18",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQY0p0V29TQTFrSFA4emttMHBDcTk4Z2F2Y09xN0JwRFVnVE1uMFRyRlJOWUVETHVFQWdtcVZlZmhhTmVsa291emM5SVg5RjdKQkNxRHZueXJqRzJEeTduVXMyNUx1YWdpQUpKOWV3b2NyaUxtb21ISGc5VXdxcjB6UTBBaGYzTE5UVDVkZ016UnhBbjhJVVZXcW1JbVZUS3p2RXVyMFhmMV9CT0FqUTBFUXlGclI1cU12YXBzXzU1aUlUTlQwZGlOOWVuVnpCT2wwb0RsS3hoTkEwNWxfVzZYTDJPbVhXM0hpaHfSAe8BQVVfeXFMTmloa3RmdnF6VWlTcEI5R0NXVERodXdUMUxkX3BURnZEazBkX0lDU2VQeFBZdlhTRkVMXzJTcHFrdzFWT2trSlF2RXFzTm0wRV92cV9TVFhzMGtJbURJZkhmbUJBWVVTdTRwaVdYei1xQU9ON2ZGbU54b2tlZ3k2NzdrS3pmRnVvaEtjemM3SnZtdHgtWU03eERpcEpBVnM1WVE3akV0R1d0cGM4Wk1tazY4STBYc3gtWFBTb0hmc2FCTDBsUHN5RDhzZlJoLWcxNHA2c0hvTHU0LXEyRVVPWHEwLUJMVDhmd21jQndhRVk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T07:37:12Z",
+   "level": "notable",
+   "title": {
+    "en": "Could AI kill humans? Anthropic CEO Dario Amodei responds | World News",
+    "zh": "Could AI kill humans? Anthropic CEO Dario Amodei responds | World News"
+   },
+   "body": {
+    "en": "Amodei told press AI could pose an existential risk to humanity and renewed his call to slow AI development, a stance Elon Musk and Sam Altman have publicly echoed.",
+    "zh": "Amodei在采访中表示AI可能对人类构成生存风险，并重申呼吁放慢AI发展步伐，马斯克和奥特曼公开表示支持这一立场。"
+   },
+   "source": "Hindustan Times",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFRGWktpeUJVNFhWcmpqX3IyZFl5OTdaVGE1emlGWHVMbXMxbzc2SWV6cVNHMnBvOXAtMGZxVGhBUGRoY2lQcEJnRm9QYng3NnQ4NnNDbVZNb0xnd21KY2ZNUUFSYjM5MW9GOG13ZXRPS3hKbmxqY1R5bld5elA4dU1feHY3aTBkZHJrb0J6Rjlpc1dhRzg0bGF5NVZKNjVrUHROM1ZTcWRPODAyRkFCdG9hd2FBM1Bxd2x30gHAAUFVX3lxTE1YTV9EYXdsa2hPWU92ZExRcHR4VXNaUzlIVkxvRTgySDFLa3ZDMHkyb0RFeFJ0dHZxUlhKcDRreHluOUVCczhhNkpZYzJpVm0yNG95NU5WMWhDcWcxUU04OGUxbWNsTm8zaVJ6NmRRNnF2SzRkQWRCRTBKNUZkT2lUQ0R6QXl6cENUdVZpcFRibG9hUGdBN2V2aFBCSXJxU1pDVWlSRkFXSUcwaUpiS3RlUGN5a0FLaDUyRFBVTWhxSQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T09:01:36Z",
+   "level": "notable",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei Urges AI Industry to Slow Development Over Safety Risks",
+    "zh": "Anthropic CEO Dario Amodei Urges AI Industry to Slow Development Over Safety Risks"
+   },
+   "body": {
+    "en": "Amodei publicly urged the AI industry to slow development, citing safety risks.",
+    "zh": "阿莫代伊公开呼吁AI行业放慢发展速度，理由是安全风险。"
+   },
+   "source": "Khaama Press",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVEZ4VUpPclVZWnJLSVQwMEQyemE5ejBVSGFrbzdNdzJKUjhfXy16emtIUkd0WVVJQWVVNHQyYkJ6emNjR29xcGFMNkdSbmpvMXFoRzRubDhwT1d0MjVnckVCRnQ1TmR5M2NRNkdMd3FIUnBEWWZVQXAyaGt2OWV0UXpncERSOUx0QnpJX0ptT285SzA5QmVDdjlZTzV6MU5RNG00MmowN1JSdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T09:38:52Z",
+   "level": "major",
+   "title": {
+    "en": "Rivals Altman and Musk unite behind Dario Amodei’s call for an AI slowdown",
+    "zh": "Rivals Altman and Musk unite behind Dario Amodei’s call for an AI slowdown"
+   },
+   "body": {
+    "en": "Amodei's public call to slow AI development drew open backing from rival CEOs Sam Altman and Elon Musk, a rare cross-lab alignment on AI safety.",
+    "zh": "阿莫代伊公开呼吁放慢AI发展速度，竞争对手萨姆·奥特曼和埃隆·马斯克均公开表示支持，这是各实验室在AI安全问题上难得的一次立场一致。"
+   },
+   "source": "Business Post",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVnc0cnhVZmVEd3E3NVVzVU5vOU1MVzMxM3NwU1o5cjhGQzRBTW9jTU4zQXE3bmlnMlcxaFJOMTBXMC1hM2FMM2pKaGpMRUV6MExiNnBRajNzb0RpYUFlRlJDeVJUZ3cxX3VERzJ6MFF3T2hvS25GZnBQWl83cW1nWWZYTVBZWllPQmJSWHFpa3U5MUtXZmFBcC1KTVBVanJFdWxlMVVJdU5SdEk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T12:00:15Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei Calls For A Slowdown In Frontier AI",
+    "zh": "Anthropic CEO Dario Amodei Calls For A Slowdown In Frontier AI"
+   },
+   "body": {
+    "en": "Amodei publicly called for a slowdown in frontier AI development, saying the industry has understated the risks.",
+    "zh": "阿莫迪公开呼吁放缓前沿AI的发展，并表示行业一直低估了相关风险。"
+   },
+   "source": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOVFWSm4xdnoyOWtISXlfVjhKYnhoSzlQbWxpcU9NU1MxOW9BT1Jyd2JxQzhuaXBscHc2RlZUVG5SbzZlZUFDRTlldmZxWU5wVFFQSElpUFU3NnY1Ml84WmRGcHdnOGk1X2JoN0RIY1V2dVhmUTNzb3huN0NDZTktaG1mNEZkSTVodHJ1UEdGNzhpdFp6b3luc2Ftb3J1Z29VZ3FwSFIwakhJMkM0VkZxZ0l3QVQ5aHpEVTRpS0s3THg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T15:09:48Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei's bleak AI warnings sends the tech community into a tizzy",
+    "zh": "Anthropic CEO Dario Amodei's bleak AI warnings sends the tech community into a tizzy"
+   },
+   "body": {
+    "en": "Amodei issued a public warning that AI development is moving too fast, prompting wide reaction across the tech industry.",
+    "zh": "阿莫代伊公开警告AI发展过快，引发科技行业广泛反响。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYjk5QnpmWG84cTZnMG81MzdoeWMyZmlyTHFpRDl0R2xER2RhZ0VYMnFLRlMxV01mS09TcWp3dXFQcmRhRkI0NmNZZnkxVVFnczZsSFlkekxxNTNPR3loUTFJUThWclVubXZpUnpnQ2tqQmVKUUhndFBSaXF3TTF1Z25rbERSeGdBdW1XWUdpbXhLaDRGU0RCeEZqN3dkWlFGQ3RTS2dWUDlHRHlrYnBWay1UREZOYmZHZmtrSnlzYThMNkdkaFEybGcyR3NyYnB0enlkZUJmeWFJUWM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T14:31:00Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei says U.S.-China AI race poses \"toughest dilemma\"",
+    "zh": "Anthropic CEO Dario Amodei says U.S.-China AI race poses \"toughest dilemma\""
+   },
+   "body": {
+    "en": "Amodei said the U.S.-China AI race poses AI's 'toughest dilemma,' warning of extreme risk and calling for the pace of AI development to slow.",
+    "zh": "Amodei表示中美AI竞赛是AI面临的“最难抉择”，警告存在极端风险，并呼吁放缓AI发展速度。"
+   },
+   "source": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNkxsbkpoMVMyai1iMWRudGdXanVEMnY0SFlFV08waEdSOGdrZWdMamJ3UDAzekNNOTg5V1ZOaG5icEJ6d1FMdEZUbEJlSmZzcDZ5NUZuS1NxZUtoVXN1N19wbi04bHZrM0VCamlsVWltQmEwemxSV2p6UXpmMFNRMkUtTmNVN1lPd2VpMTNJblk2WFhraDN1WFowTmt5dVRidUhDQg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T17:12:20Z",
+   "level": "major",
+   "title": {
+    "en": "Dario Amodei Says AI Industry ‘Lied’ About Technology’s Risks",
+    "zh": "Dario Amodei Says AI Industry ‘Lied’ About Technology’s Risks"
+   },
+   "body": {
+    "en": "Amodei accused the AI industry of downplaying and lying about the risks of the technology it built, a rare public break with industry messaging.",
+    "zh": "阿莫代伊指责AI行业淡化甚至谎报其自身技术的风险，公开与行业惯常说法决裂，实属罕见。"
+   },
+   "source": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOay1kS3l4dFZvOE9GOHhTWmxIS2pybGxCQlJKLW5KemRoT3VIaWk2cEN4UFFuZzdCNHNhTmdkZlZBcm1RUzhqdmd2WUR5X1Z3SDlQRDlQVVRsbnlHY0w4OUN3RkxfcWhTdjBtVnNoQWZXdXJFSVVMcHltTEZCQXNDN2RHWnlmWm1LQzVXcWt0RmN1NURzRnhxRlpKRWI0UFMwamtSX0ZpOWtteGJBM0VlOA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T13:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei: I Would Give Control Over AI To \"The Right Combination Of Democratically-Elected Governments\"",
+    "zh": "Anthropic CEO Dario Amodei: I Would Give Control Over AI To \"The Right Combination Of Democratically-Elected Governments\""
+   },
+   "body": {
+    "en": "Amodei said he would trust control over powerful AI only to a coalition of democratically elected governments, staking out a concrete position on AI governance.",
+    "zh": "阿莫代伊表示，他只信任由民主选举产生的政府组成的联盟来掌控强大的AI，明确表态支持这一治理立场。"
+   },
+   "source": "yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaUlESkVTdGhVTVhqMk1LZi1PWjROeE1YM0RqUGRuZzVYVmRnQ3J5WGRXYUo0cmJHUC1sb1AtMjFJLURZbUtqSW5kTFVDSjlUcmk4ejZrX0hQR01jcW5WVmdSVUlucUYwTk9YREJqTURIOWV6X3ZrZ1R6YUo1NUFEMVgwQkhpWTluQ20w?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T13:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei: I Would Give Control Over AI To \"The Right Combination Of Democratically-Elected Governments\"",
+    "zh": "Anthropic CEO Dario Amodei: I Would Give Control Over AI To \"The Right Combination Of Democratically-Elected Governments\""
+   },
+   "body": {
+    "en": "Amodei said he would hand control over powerful AI to a coalition of democratically elected governments, staking out a concrete position on how frontier AI should be governed.",
+    "zh": "阿莫代伊表示，他愿意将强大人工智能的控制权交给由民主选举产生的政府组成的联盟，就前沿人工智能应如何治理提出了明确立场。"
+   },
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNGRzS3g5S1JqeWhpejd5WEd4eDVOc1gtQzlQOEdkMTR3S0F0SlJjdGhFR1JfbzhJS0RLcUdjNVZTZ1VrZ2NNS2tCNEhqMjFSMmhwSmVxbU8wb3BDS3VUSjVGTGJRR1p0S0Y5ejZqNVpLLWFsSTZmOWhHNkJ4RzhGazc2UG9sT0NtMjNzWTJ5WHBVR2VaNFJSUTJR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T10:38:01Z",
+   "level": "notable",
+   "title": {
+    "en": "Anthropic's Dario Amodei calls for slower pace of AI model development",
+    "zh": "Anthropic's Dario Amodei calls for slower pace of AI model development"
+   },
+   "body": {
+    "en": "Amodei publicly called for slowing the pace of frontier AI model development, citing safety concerns — a notable stance from the CEO of a leading AI lab.",
+    "zh": "阿莫代伊公开呼吁放缓前沿人工智能模型的开发速度，理由是安全担忧——这是一家领先人工智能实验室CEO的重要表态。"
+   },
+   "source": "The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVjl1Z0U5bkx5XzZTSnF5LVBGNHNueWppVWZzOEt3WXFOc1JlUDBEMFF5c2tIUHBvWnBYLWM2VE9zcUFhMGFmbkVxX2t4ZG1YeTJXekkzNjJTa05hazUwZzhEYXBZRFlEY2NrMWg5YXlrWF9tdzIyQk0wVVVqQUhjbFVHUEswakZBNzA0LWlnVEZzZVkzTUlCb3VKa2VHSVF1UU53VGlwRnZISWRzeGxIRlpIbVhpZTR2V08yS2JQclpic1FpZjVUWjZUTzVmcHV2UmhodXZiVWFRbFZHZkQzQ1NacUhYaUXSAewBQVVfeXFMUDl4UzFGSHpKRWZ4OXhxbXJKLVlhNFlGTFR2QkV0UWJScG5xRWUyRm9nc3g1am5kTlhGa3lHZFI0QkFMT0M1SDFsVG1CR0pVQjhKakI4Z1R1NkN5bmRhajcwTk1FTXIwYTZxV2pGT3QtN2l2UXFFSTltNWJhRnZVWVh3TlFwTEZwXzFjOTIxSE9jTEdEOFRDak9HbkhIQlNSQUpONE5fSmVmN0NZZUF2VVpKckNlRFBjZFlMVkI0X2RkMGRKTFFIWDJqNU1VWk0tZzdZVDg0UV8tWG92TmZpTjI1YzZlU2x6RGg4bTA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T12:00:15Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei Calls For A Slowdown In Frontier AI",
+    "zh": "Anthropic CEO Dario Amodei Calls For A Slowdown In Frontier AI"
+   },
+   "body": {
+    "en": "Amodei publicly called for slowing down frontier AI development, a rare direct policy stance from a leading lab CEO.",
+    "zh": "阿莫代伊公开呼吁放慢前沿AI的发展步伐，这是主要实验室CEO罕见的直接政策表态。"
+   },
+   "source": "uk.finance.yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRjRiMzljMDEzWl92bTd6RDFLc2x2aERWME9NWTJaOHNNSGRQOVNYUHdwTkFZajUzcUdLUDB3TjlVX0UyaWU5UjFYbEllcmpJdjVFN09IR2pEMnNHU3pmV3dYc3Vzd1BZMGplSGNKV2pJaE9FaHZwRFhSX3kxS0I0dFFmSFF5WVFf?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T04:09:23Z",
+   "level": "notable",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up - Pittsburgh Post-Gazette",
+    "zh": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up - Pittsburgh Post-Gazette"
+   },
+   "body": {
+    "en": "Amodei said the AI industry needs to give safety measures time to catch up with capability gains, pushing back on calls to race ahead unchecked.",
+    "zh": "Amodei表示AI行业需要给安全措施留出时间跟上能力提升的步伐，回应了不顾一切加速发展的呼声。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLWtlTEI3dl9mSWZIeFJOMDA0d0FicVJwUHBtWjNDSWZGVGV2dlA2UTBVSDMxWTN4UkFZcEF3WjRHcVBtY0p4bXFuMm1QRkZvRlJ1SmlLUFAxRkFjV08xUGtDNkwtVWRTbEtoTlJaVDV1elRzeGNtUFZHTnVLRFV4MXlwT0FUcE1Ya3ZOVDhUekJFdEcwMVY1bmZaaEJVNzhMQnFWMThOb0hFSTRmREU3cg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T04:31:02Z",
+   "level": "major",
+   "title": {
+    "en": "‘It could outrun our ability’: Anthropic CEO Dario Amodei pushes for AI slowdown, unveils three-step plan",
+    "zh": "‘It could outrun our ability’: Anthropic CEO Dario Amodei pushes for AI slowdown, unveils three-step plan"
+   },
+   "body": {
+    "en": "Amodei pushed for the AI industry to slow down, warning capability could outrun the field's ability to manage it, and laid out a three-step plan.",
+    "zh": "阿莫代伊呼吁AI行业放慢发展速度，警告AI能力可能超出行业应对能力，并提出了一个三步计划。"
+   },
+   "source": "Storyboard18",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaWhrdGZ2cXpVaVNwQjlHQ1dURGh1d1QxTGRfcFRGdkRrMGRfSUNTZVB4UFl2WFNGRUxfMlNwcWt3MVZPa2tKUXZFcXNObTBFX3ZxX1NUWHMwa0ltRElmSGZtQkFZVVN1NHBpV1h6LXFBT043ZkZtTnhva2VneTY3N2tLemZGdW9oS2N6YzdKdm10eC1ZTTd4RGlwSkFWczVZUTdqRXRHV3RwYzhaTW1rNjhJMFhzeC1YUFNvSGZzYUJMMGxQc3lEOHNmUmgtZzE0cDZzSG9MdTQtcTJFVU9YcTAtQkxUOGZ3bWNCd2FFWdIB7wFBVV95cUxOaWhrdGZ2cXpVaVNwQjlHQ1dURGh1d1QxTGRfcFRGdkRrMGRfSUNTZVB4UFl2WFNGRUxfMlNwcWt3MVZPa2tKUXZFcXNObTBFX3ZxX1NUWHMwa0ltRElmSGZtQkFZVVN1NHBpV1h6LXFBT043ZkZtTnhva2VneTY3N2tLemZGdW9oS2N6YzdKdm10eC1ZTTd4RGlwSkFWczVZUTdqRXRHV3RwYzhaTW1rNjhJMFhzeC1YUFNvSGZzYUJMMGxQc3lEOHNmUmgtZzE0cDZzSG9MdTQtcTJFVU9YcTAtQkxUOGZ3bWNCd2FFWQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T05:18:47Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up",
+    "zh": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up"
+   },
+   "body": {
+    "en": "Amodei called on the AI industry to give safety measures time to catch up, a stance that set off public pushback from Huang, Zuckerberg and LeCun.",
+    "zh": "阿莫代伊呼吁AI行业给安全措施留出追赶时间，这一立场引发了黄仁勋、扎克伯格和杨立昆的公开回应。"
+   },
+   "source": "Mankato Free Press",
+   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOc3ptR1VxVXJJMkdCQU5HcUVfV2NSNlQ1NzJXMV9BeEZvc3lPblFRNnVwbjZ4VWdKZWhoaEtaVDRtY0JrT2JzNzF2Q2xzLUZ6N0ZfOUNvOFNKRnl1d3BjbXV1c05FMmVrcnBVMGNPMk94MjVrLURzLUZ4bGZlOVNZNzU1Rng0TVg0UVNDVzlFN19Udzk1bGNoT1VuUnZXV2RDNG40QU55ZGZoWlN2TXI3MzhZS2VTcUZlR3VnQkFOaXU5RFNBZkFrVllhX1U2ZDRaNHJuR2k1LW9FMWgtQjQtZ193LTVDdnZPUlgtMkFtWVFQUlJQWWdFT3UzRDNBM2s2RmpHV0RoM3dFdHdXQXdjNElFbWtlUjNsLVc2QzhqSnA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T10:38:01Z",
+   "level": "notable",
+   "title": {
+    "en": "Anthropic's Dario Amodei calls for slower pace of AI model development",
+    "zh": "Anthropic's Dario Amodei calls for slower pace of AI model development"
+   },
+   "body": {
+    "en": "Dario Amodei publicly called for a slower pace of AI model development, arguing safety measures need time to catch up.",
+    "zh": "Dario Amodei公开呼吁放缓AI模型开发节奏，称安全措施需要时间跟上。"
+   },
+   "source": "The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVjl1Z0U5bkx5XzZTSnF5LVBGNHNueWppVWZzOEt3WXFOc1JlUDBEMFF5c2tIUHBvWnBYLWM2VE9zcUFhMGFmbkVxX2t4ZG1YeTJXekkzNjJTa05hazUwZzhEYXBZRFlEY2NrMWg5YXlrWF9tdzIyQk0wVVVqQUhjbFVHUEswakZBNzA0LWlnVEZzZVkzTUlCb3VKa2VHSVF1UU53VGlwRnZISWRzeGxIRlpIbVhpZTR2V08yS2JQclpic1FpZjVUWjZUTzVmcHV2UmhodXZiVWFRbFZHZkQzQ1NacUhYaUU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T05:30:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up",
+    "zh": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up"
+   },
+   "body": {
+    "en": "Amodei said the AI industry needs to let safety measures keep pace with development, joining Nadella and pushing back against Zuckerberg's rejection of any pacing concept.",
+    "zh": "阿莫迪表示AI行业需要给安全措施留出追赶发展的时间，呼应了纳德拉的立场，与扎克伯格拒绝“放缓”概念的态度形成对比。"
+   },
+   "source": "TelegraphHerald.com",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2ZfRVdmMUwzWW5tNFcwczR4RFcyOG1VQ19BRDBxMlo5MHMzeFFlVjFqRVI1Z01HY3VnM041Xzhfb2RWTGZmVXJDTHFCTW53d1IyajBralMwWlpVYlZYTnVEemRfdzBhYXgxRGMzNndFVlh2V3NfcGhEaVBmRE93cklmN0s0Zk12REF1cUZkZTh6Y0pIWHBIbkFwVHM2UkFkQ1lR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T00:04:00Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up",
+    "zh": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up"
+   },
+   "body": {
+    "en": "Amodei said the AI industry needs to give safety measures time to catch up with capability gains, a direct stance in the ongoing pace-of-AI-development debate.",
+    "zh": "阿莫迪表示，AI行业需要给安全措施留出时间跟上能力的提升，这是他在当前AI发展速度之争中的明确立场。"
+   },
+   "source": "ValleyCentral.com",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN2VKeWVlOGNIX3h5dkJxbE1iWkU0dnAyeElnbWhEVTZ6a2xkTXc5YlhValpycEVkYU53NXZxNkNoVFVMM1NuLU5ZVGJKSmF2UWRRVGJRS1lvU2JXNWEtWFdCLVU4OENsS2R1ZlJuSjVESzJJLVZ2OFptQUk0V0VfTFJJLTlZWkYzYjlTdlVkWUtjNWpWdnBxWjdOMFVaVU5aOVdScVpTRjZodG5QSDRjN0huYUtwSk9OajFvYWpPaFJBTWRhMTQwMlBiY25lQlU3SVlR0gHYAUFVX3lxTE5ERUpfSFFkMl9ULU03dGROdjNKSjEtOUd5UjhnbTBjRHBLTlVLOHFMUW04X0t5TmtZbWQwbFNqa1Q3eS1DcU92eURidWVTUzVnTHBzeTNoTm44Y1dpLVlCSTFsY3BRd3VWUnNQeWtSNFU5RzlSdnNMbDVmZ3dsMDIyWXU1dEo5dEpTVXRmRWMwT3U3eHZfeloxYm5hZ2cwVVZVb0E4cDV4TThEY2dJMms2enhjMDFqTnk3NWhLd2hkVzdmalU0M0tDMGJKZEV5cmpydzE0bTJ6Rw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T05:07:13Z",
+   "level": "notable",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up",
+    "zh": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up"
+   },
+   "body": {
+    "en": "Amodei said the AI industry needs to give safety measures time to catch up with capability advances, a public stance in the ongoing pace-of-development debate.",
+    "zh": "阿莫迪表示，AI行业需要给安全措施留出时间跟上能力的发展，这是他在当前AI发展速度之争中的公开表态。"
+   },
+   "source": "MySA",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTEFkSGpCYl9aWEhKejgwMFRJdzdjMi1mRFNrU2pNenNOeFdaT0lwbEhnQlVEcmp0X2ctVWsweGVsbGV2aURDMWZiSFp5MWNEUHpLMXNNUzQ4dUU4dzEzLVVKQkFTVFhLQ0FVV18weEVnbXlTYVhMeXU2ZDRPUV9uclpxN0VUdHRLWW4yY1JtUTM4aGhqTFd5V0VIZ3lHMmV6SzFDRzFONTBobG5p?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T13:27:25Z",
+   "level": "notable",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up",
+    "zh": "Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up"
+   },
+   "body": {
+    "en": "Amodei argued the AI industry needs more time for safety measures to catch up with rapid capability gains, a notable stance from Anthropic's CEO on regulatory pacing.",
+    "zh": "阿莫代伊表示AI行业需要更多时间让安全措施跟上能力的快速提升，这是Anthropic CEO在监管节奏问题上的一次值得关注的公开表态。"
+   },
+   "source": "SecurityWeek",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb283RnMyT2Z1R2dWMzFrdVJmTFd5NkFEaDU5RHRicVpwSWVUajJnWmp4Q2MxazRqTTRSYXZfU3NkMkt1NC1KRFFzaC1uOE1RcHFpQUkzQWswWjRBcGd0aEVDQ2lwLWtCbWdCRE5od2NSWmVhMnM4bmg1LUJ3OWx5cjdaLXJJYTNfb3B2RmdMallGUnk4NkUyd0tFRzBadkRody1xZUpLSnE2aHQzSVRIN1c3QWd6Z0I3Tks3etIBwgFBVV95cUxQY0hGbk11Z3RHWnEyY0h5Y0ZFcnJTQXRRWlNvZWlXNTV6WXdaTkVhRlZCVXFFMFhyWVBvdVdNb3lWb1lHWU9FZ09IbVJEeUJKWVNlZHJlRGlJVVlhRVhRazgzejBfdzRDUnhHT2VpVkdCbmczSXpYbW03S2lIUUFWbVdoR18wb0RqNlRFNUxaR1VfcXJKVjl6VzhfTGkwS2dtS3dIVjlSemMwUEdQUE5RMVZ6MWlxUm9UUXhYX2tfdEw2dw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T16:44:55Z",
+   "level": "notable",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up",
+    "zh": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up"
+   },
+   "body": {
+    "en": "Amodei said the AI industry needs to let safety measures catch up with capability progress, a public stance on the pace of development.",
+    "zh": "Amodei表示AI行业需要给安全措施留出追赶技术进步的时间，这是他对行业发展节奏的公开表态。"
+   },
+   "source": "VailDaily.com",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVkUwVmNXTlZFaVp0VTlGWnBRQnZDcVZWUWdRS2lVdnppSXJ3Z3VLazJFVUEzcDdicldJUnFWQlZ1MTBkOVZkc3Z3MGdPUUlZQWtEWFl1QjNoSkhFOWxKZmNuazdGbjJGM1ZPbzF4WjEwWU1UOGtxYTMwX0VzeXdIQ1ZQZXBPdUJmbDBqVnpMUzZNU3I0WUphQUVVNldzY2NxZ1BIMEVqQ2JSSjFhaFU5cXZwbnZaaU9CaHBRSXFR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T14:15:02Z",
+   "level": "major",
+   "title": {
+    "en": "We Must Pace the Frontier",
+    "zh": "We Must Pace the Frontier"
+   },
+   "body": {
+    "en": "Amodei published an essay, \"We Must Pace the Frontier,\" arguing frontier labs need to deliberately pace capability advances rather than race unchecked — a stance widely picked up by other outlets.",
+    "zh": "阿莫代伊发表文章《我们必须掌控前沿的步伐》，主张前沿实验室应有节制地推进能力发展而非无序竞赛，这一立场被多家媒体广泛转载报道。"
+   },
+   "source": "darioamodei.com",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByRm5SZWdmLXZJN2RBM2hteVFFT0F2Qk5GVFozVEFmZHlaRVhYRmJNZ1pOS1I3MGstU1JvQldUeklNYjBUcDRGLTdDMGpnMzk5VTlxS0k4anFpRzFpMWhGeTBMYVY?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T14:51:24Z",
+   "level": "major",
+   "title": {
+    "en": "Dario Amodei: “We Must Pace the Frontier” — Anthropic commits to embedded third-party evaluators",
+    "zh": "Dario Amodei: “We Must Pace the Frontier” — Anthropic commits to embedded third-party evaluators"
+   },
+   "body": {
+    "en": "In his essay \"We Must Pace the Frontier,\" Amodei said Anthropic will embed third-party evaluators in its safety process and called on the industry to slow the pace of frontier AI development.",
+    "zh": "在文章《我们必须把握前沿节奏》中，阿莫代伊表示Anthropic将在安全流程中引入第三方评估机构，并呼吁行业放缓前沿人工智能的开发速度。"
+   },
+   "source": "Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMU5GeHJDZnhrYkg5N01FWFdKUkw3c2dBUnlEMmZHZEV6X0tRTllyVGRhT3F2OEJjdHZRNkt2OWZpVHNMV2pwSHAyV01BZVM2Wk92MXJ5LTVDMmdvRDRtQTBabFB0ajc0NHU5QS0ycU5RRWNoZW1aVXpVNzNPTVpQMTd1VEgxRVFYUmtkTDJwV0hjUlJHMl9Kbko4bUc2dFJNRWZxSnpDM3pPN3phQ2ZzblFGUWI2bWR5OElZN25mMXJjUFk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T16:37:00Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei says AI industry needs to slow down for safety",
+    "zh": "Anthropic CEO Dario Amodei says AI industry needs to slow down for safety"
+   },
+   "body": {
+    "en": "Amodei publicly calls for the AI industry to slow its pace of development to let safety measures catch up, a notable intervention in the industry-pacing debate.",
+    "zh": "阿莫代伊公开呼吁AI行业放缓发展速度，为安全措施的跟进争取时间，这是他在行业发展节奏争论中的一次重要表态。"
+   },
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFdaU1djaC1FZjNRY0hrTVpVcWNmU0h0WXZjaTJNaEtZLTlMUDc1M3ZaRnVNcExhc3lVWEx4MXhqV2FuTElDTkN1SnFIUlB1QUdmdFJFbTlKYlY3S2xqZEtvb0Y4SmdYVDV2LWJIN2NOdEtWOWZscXowQmtzbVZENDVxTjdXZC03ZDVmNWJn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T18:53:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei says AI industry needs to slow down for safety",
+    "zh": "Anthropic CEO Dario Amodei says AI industry needs to slow down for safety"
+   },
+   "body": {
+    "en": "Amodei publicly urged the AI industry to slow down so safety measures have time to catch up with capability gains.",
+    "zh": "阿莫代伊公开呼吁AI行业放慢发展速度，让安全措施有时间跟上能力提升的步伐。"
+   },
+   "source": "The Independent",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbGcwTXd0dGF5NXd5cXNvT3A3RjI0aEZVd3lPZG0yY29uTjVYMkhsZ3pLbVBXMFRjZ1ZlcmdNd0xpeHYtQzRhQThlcUY0TE55cFdOUlA4bEtGTXhSaXhwZUowdzBQWkpmZWlyYkUzd2dqRFY0cEI0R2p0MHo0dGtra1NvQmVWaVlCTmZYVkhKdGFPSjNH?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T18:14:06Z",
+   "level": "major",
+   "title": {
+    "en": "Rivals Altman and Musk rally behind Dario Amodei’s call for an AI slowdown",
+    "zh": "Rivals Altman and Musk rally behind Dario Amodei’s call for an AI slowdown"
+   },
+   "body": {
+    "en": "Amodei publicly called for the AI industry to slow down over safety concerns, a stance quickly endorsed by rivals Sam Altman and Elon Musk.",
+    "zh": "阿莫代伊公开呼吁AI行业出于安全考虑放慢发展节奏，这一立场很快得到了竞争对手萨姆·奥特曼和埃隆·马斯克的响应。"
+   },
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWYtdEVSa2FLcE5qUkpvZTUyRlNzMFBBZGFsanBoVmt0UzJJWE1SNGJwVHRhcktRUUxIZTdGYThjTDd4am5Ca09YNTlKalkydTdreFJrWFRGR3BRZnplU2g0NVEwWDBhNmZNRS10RzRYRndKSm1yaDl0TkVWLUpNX24wLWw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T16:03:01Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
+    "zh": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown"
+   },
+   "body": {
+    "en": "Amodei publicly called for the AI industry to slow down development, one of the most direct slowdown appeals yet from a frontier lab CEO.",
+    "zh": "阿莫代伊公开呼吁AI行业放慢开发速度，这是前沿实验室CEO迄今为止最直接的减速呼吁之一。"
+   },
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOE1BV1Q4UUYxLVRfaDNJVXVRbnNaQmdUMjBzbWJWRWtTcjlROWZqUjAtVGlob2NHVlB1NHVfRU5FY1dWT1UxR3RHakpVUTdzSGdvRmR2UFR2dzZxdHJ0ZXlMb0NsMVd1MDM1aUZ2VlpPeG9zSDZxRFpFWjNhQ0psM2RVYW8tM0ZKdTdDdG93?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T15:29:03Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic's Dario Amodei calls for slower pace of AI model development",
+    "zh": "Anthropic's Dario Amodei calls for slower pace of AI model development"
+   },
+   "body": {
+    "en": "Amodei publicly called for the industry to slow the pace of AI model development, a notable stance from the CEO of one of the frontier labs driving that pace.",
+    "zh": "Amodei公开呼吁行业放慢AI模型开发的速度，这一表态出自正推动这一节奏的前沿实验室CEO之口，颇具分量。"
+   },
+   "source": "The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY1M1N2UyQVZCM1c5UVZMeXpOVTZ4MHpuX19YejhpWklLWXRldlVLNElpOWJ2aTM5U1BKME1HekNmcEcwU29Tdmh0UHlIbU00NGx2TlJrd0JsOXNsclVhMjY1NTFXWkJFbEJXelY0RVZYS2ZKZXFGVkZvOEJwUFRVamtFZDhqTHdQN1EyWFpWeEVKdmxHR01TVHptRzJra2NtSk15eVp1cjdKcEhzbWR0VExDSDREVkh3dWc1bG9RV3RmV01kNVEwLU01ZFFxVGV6ODVfQVBuQjY5SWNiR0dyZ3N30gHbAUFVX3lxTE1SQm1vQU9zcXpkbmo2dzJJeld6WkNQNWtqZUxfR2doTjVMVllEbUdLNXNDaG5TZkZSX1otemJQREwzX3gwd2JEcE80aTBKWEY4YTlnRWtzd1BSVmZGd0N5eWVUQTlsWUE0djBwYlFVeXd0ZTZuVk50NERIOEFwSTJ4RmNjYXF3Sl9LRjdBN052RmR6b3ZNamxKN3RIb3ZIR2ltSkVfblZ5X1d2Tl9MbU4xaGtuVnktWmtZcDlCYktqRlFmY3V1Yjd5TElQMUdXQUVzRU1vdlEtc2lzRQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T15:29:38Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic Billionaire Dario Amodei Says Big Tech Must Slow AI Development Before It’s Too Late",
+    "zh": "Anthropic Billionaire Dario Amodei Says Big Tech Must Slow AI Development Before It’s Too Late"
+   },
+   "body": {
+    "en": "Amodei publicly called on major tech companies to slow AI development before it becomes too dangerous to control.",
+    "zh": "阿莫代伊公开呼吁大型科技公司在AI发展变得难以控制之前放慢步伐。"
+   },
+   "source": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdHAzQlZsaDhrNWFMd2ZxLXlWS0hXNUx3bl9yUzM2Q21HdmRhTk5fYTZNQXJmcUpSeHNTb09IekFGd1pibjFoTUVBVm51ck9IMWV0bFJsZkxLblYzb0NvdWZQeWdFdW9kM0Q2LWFuSFF6cm5mQWx4LTg2WGQzOHJ6RkE0SjNweVNRaEEwWncycFUyM2FjTkszeUdJbTRYNDBvSHEzRV9yaDJGNWRnTFpaWkhmQUFLZDE3b3ZwdlNkWkRWQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T14:43:11Z",
+   "level": "notable",
+   "title": {
+    "en": "Dario Amodei says OpenAI's Hugging Face hack helped convince him AI needs to slow down",
+    "zh": "Dario Amodei says OpenAI's Hugging Face hack helped convince him AI needs to slow down"
+   },
+   "body": {
+    "en": "Amodei said OpenAI's Hugging Face security breach helped convince him the AI industry needs to slow its pace of development, a notable public stance on AI safety.",
+    "zh": "阿莫代伊表示，OpenAI的Hugging Face安全事件让他更确信AI行业需要放缓发展节奏，这是他在AI安全问题上一次值得关注的公开表态。"
+   },
+   "source": "Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPclM4NDNfZDdVNVJXbHhOWmxYMjhtZWtxc2MtRFpKS2NrSzRselZyUXQ2dFMxWlNHeTNILXhSWDJ3UzFJNzE3TjdRR0xxd3lMTlhhSHBHcnJWeXkwbjBwUUZ1bzNDSDJTUGVqUU1vaE9HbFdfd3ltMWdVR1dLdEdWZkRPdVFwbkxCRER0M3R5QVdqNEtjYUZ0SG90THFHaDFBSTR3OFFLU3I2cF8wTDFEWkR3N05YNkU2TUI1aE9KcWxLWl9ITV9RbnRtNmRJZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T19:32:03Z",
+   "level": "major",
+   "title": {
+    "en": "Sam Altman, Elon Musk back Anthropic CEO Dario Amodei’s warning to slow AI development | World News",
+    "zh": "Sam Altman, Elon Musk back Anthropic CEO Dario Amodei’s warning to slow AI development | World News"
+   },
+   "body": {
+    "en": "Dario Amodei's public warning to slow AI development until safety measures catch up drew explicit backing from Sam Altman and Elon Musk, a rare alignment among rival AI CEOs.",
+    "zh": "Dario Amodei公开警告应放慢AI发展速度，以让安全措施跟上进度，这一呼吁获得Sam Altman与Elon Musk公开支持，是竞争对手CEO之间罕见的立场一致。"
+   },
+   "source": "hindustantimes.com",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRnh4MWl5TVNXZnVXWC00QjNvR0dFcUpuNFRCWEp4X1B0ekhpY25jeDJSUVRBYzNPMkVGSEZOSG9RckF6NVB0cG5Fc1JtaFNyaWdOT0UwYXFzbmxXTldrYURDeFZRc19aZGpkR25fcndSZFFnZ0VDWkpJU1Y4UmlYV2xYU2liWXJjR29STGhzOHY5Zi10LU4xMXFodUxXUVdOUXVyREJjT2ZEYkQyUlV5TUdhR2EyekM3N1ZtMzZrVUN6a1dKZzljZkNqOXFJVEx0dW1nME5DWHFuQW4yUmp3WkljaWdidUXSAecBQVVfeXFMUEZ4eDFpeU1TV2Z1V1gtNEIzb0dHRXFKbjRUQlhKeF9QdHpIaWNuY3gyUlFUQWMzTzJFRkhGTkhvUXJBejVQdHBuRXNSbWhTcmlnTk9FMGFxc25sV05Xa2FEQ3hWUXNfWmRqZEduX3J3UmRRZ2dFQ1pKSVNWOFJpWFdsWFNpYllyY0dvUkxoczh2OWYtdC1OMTFxaHVMV1FXTlF1ckRCY09mRGJEMlJVeU1HYUdhMnpDNzdWbTM2a1VDemtXSmc5Y2ZDajlxSVRMdHVtZzBOQ1hxbkFuMlJqd1pJY2lnYnVF?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T21:07:17Z",
+   "level": "notable",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up",
+    "zh": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up"
+   },
+   "body": {
+    "en": "Amodei said the AI industry needs to give safety measures time to catch up with capability gains, a notable public stance on the pace of development.",
+    "zh": "Amodei表示AI行业需要给安全措施留出时间以赶上能力的提升，这是他就发展节奏发表的重要公开表态。"
+   },
+   "source": "WHEC.com",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT0pGZlRjSTN1ek14ZG00X3Fjbll3eEhCR1Y4U2F6dFh2aTlheVh1VGc2eDZ4dGhlUnBfRkpwSzl3MnFyQlhWNWhZZC1Gd0NoSWw1b0QxTVhCcXpkSTdPcDVmTWpOM2h0c1BiTUVpR0pYdVRvc0tqd21OaG1GSC1nT01KT1haQXR5WHdYYlYzeWctZTRiU1IyUmw0cHhSYzJ6cUVlZHg0WUhkblNzQWR5VFRsOVZRYU5CZ25KMEdhUG1Edw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T18:26:26Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up",
+    "zh": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up"
+   },
+   "body": {
+    "en": "Amodei publicly argued the AI industry needs to give safety measures time to catch up with capability gains, a stance that drew public backing from Sam Altman and Elon Musk.",
+    "zh": "阿莫迪公开表示AI行业需要给安全措施留出时间跟上能力的发展，这一立场随后获得Sam Altman和马斯克的公开支持。"
+   },
+   "source": "Oskaloosa Herald",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPY1ZEbFA4NGVWckRfb000WEN2eV9rQzBXbWFPMFdZcG9aOVBvdkwyamFQRzBDWGNhNWI1R19qOU9Zclk0aG1Nb1pZbHFtLWQtZHU0aGlSTXhzRzhlNTc1UnhZLWg3SXF0NFNVbEhwcFIwUjREdDRSV2tTN0FmWmNGS2VrY19rNFNINzFyVVBCSVo0OS1aUWk3eDlqRzdQVDV3Zkp4dWpPSDlBYUU0ZFpMX3lsTVVQQmg2UnNDRWQ2WlplYjZ1VlNoUnRVdm94UDhfQjlEVDl2bFIwQXBOOGVRVVBXb2pGUDJ1em55cDcwYm5QRG5JWjhDeEo5NTJ5d3VleDFudFk4RGxYb2VORnF3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T23:48:53Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic boss Dario Amodei calls for AI slowdown",
+    "zh": "Anthropic boss Dario Amodei calls for AI slowdown"
+   },
+   "body": {
+    "en": "Amodei publicly called for the AI industry to slow down so safety work can catch up, a stance Musk and Altman both echoed.",
+    "zh": "阿莫代伊公开呼吁AI行业放慢发展速度，让安全研究跟上进度，马斯克和奥特曼均对此表示认同。"
+   },
+   "source": "DW.com",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcEJfZVZRc21UNzlDQXJ3TnZQeUR6V0RfSzlPN3lRNVZ2VE1qOUl3Uy1IOVhmTG9USzY3UVU2U1VhYm96WDU1RHRiQm90XzFiZDBubFZ2dkxXdVQtMVNkc1REMUItdjlscmtHd25hSVFTTERYMUlPSVNPd0ZYMGhxMVkwNXBXYmFadWfSAYoBQVVfeXFMTXBCX2VWUXNtVDc5Q0Fyd052UHlEeldEX0s5Tzd5UTVWdlRNajlJd1MtSDlYZkxvVEs2N1FVNlNVYWJvelg1NUR0YkJvdF8xYmQwbmxWdnZMV3VULTFTZHNURDFCLXY5bHJrR3duYUlRU0xEWDFJT0lTT3dGWDBocTFZMDVwV2JhWnVn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T23:16:03Z",
+   "level": "notable",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up",
+    "zh": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up"
+   },
+   "body": {
+    "en": "Amodei said the AI industry needs to give safety measures time to catch up, joining the public debate over pacing frontier AI development.",
+    "zh": "Dario Amodei表示，AI行业需要给安全措施留出跟上的时间，加入了关于放缓前沿AI发展的公开辩论。"
+   },
+   "source": "The Korea Times",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOHZnUWZ3d2J1dDNlTV81M1hCOUNwbXJ4aDg1U18wUGxRaFA0WWFveVRPUzQwWW5DT010bVlZdjloczAwWkVfRXJicnpONm1ESWN0Sm9iWlg5TkxpQm5oLTZ2Y29kV2VlRVF2NTQteFQ3V2tiMWtJdlpwZjJGRkFXclJ2WlVNSjdrR01DSERnWl9UUVVGR2JQTUhrc1RlMlF4bVA4ejlrZlhvNGRELWVNc1R4ajlYMHFiVVhnOUd5RFRhSlpEc00yaVZQaV9oRnR0UHdsSNIB1AFBVV95cUxOOHZnUWZ3d2J1dDNlTV81M1hCOUNwbXJ4aDg1U18wUGxRaFA0WWFveVRPUzQwWW5DT010bVlZdjloczAwWkVfRXJicnpONm1ESWN0Sm9iWlg5TkxpQm5oLTZ2Y29kV2VlRVF2NTQteFQ3V2tiMWtJdlpwZjJGRkFXclJ2WlVNSjdrR01DSERnWl9UUVVGR2JQTUhrc1RlMlF4bVA4ejlrZlhvNGRELWVNc1R4ajlYMHFiVVhnOUd5RFRhSlpEc00yaVZQaV9oRnR0UHdsSA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T20:04:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up",
+    "zh": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up"
+   },
+   "body": {
+    "en": "Amodei said the AI industry needs to give safety measures time to catch up with capability gains, reiterating his public safety-pacing stance.",
+    "zh": "阿莫代伊表示AI行业需要给安全措施足够的时间跟上能力的提升，重申了他在发展节奏上的公开安全立场。"
+   },
+   "source": "WRBL",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWFVkRDhxTGVMQVBMRUhxWE5yUXdKVlA3bXp3by11ekZmMmhiVUtOdHp6VmNDeGVKN2hEalk2Y29KWHk0Q2Zjd2dxVUh3dVVpZTFUa3JJWUhoRmcxR1h3QlFKSE0xYnZYeTZwY2VZb1FHMndWcEcyTVl2ZmhZdWJXZ2dLaEhCWlo4R2Uzc09hZmVvNGRHREdHVWdTdDRXd01zcWVuUFBYRlRRc3E1b09SaDJpczZQX3PSAbcBQVVfeXFMT1hVZEQ4cUxlTEFQTEVIcVhOclF3SlZQN216d28tdXpGZjJoYlVLTnR6elZjQ3hlSjdoRGpZNmNvSlh5NENmY3dncVVId3VVaWUxVGtySVlIaEZnMUdYd0JRSkhNMWJ2WHk2cGNlWW9RRzJ3VnBHMk1ZdmZoWXViV2dnS2hIQlpaOEdlM3NPYWZlbzRkR0RHR1VnU3Q0V3dNc3FlblBQWEZUUXNxNW9PUmgyaXM2UF9z?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T20:12:24Z",
+   "level": "major",
+   "title": {
+    "en": "After Sam Altman, Anthropic’s Dario Amodei Calls For Pacing AI Development",
+    "zh": "After Sam Altman, Anthropic’s Dario Amodei Calls For Pacing AI Development"
+   },
+   "body": {
+    "en": "Amodei publicly called for the AI industry to slow down over safety concerns, echoing similar remarks from Sam Altman.",
+    "zh": "阿莫代伊公开呼吁AI行业出于安全考虑放慢发展步伐，与萨姆·奥特曼近期的类似表态相呼应。"
+   },
+   "source": "inc42.com",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ2JZNWRxaUZyNmZ0NnMteGs3M1I3Q2N3Rk9LdC1taktHc1pzUjk0ZVhqcWFVUGh0U29zSWNDTm5aRnJzT01rSDZIWnJnVzZTWnA5OHVNYl9MMXJmSTFhQ3g1QjV3c1Y4S1psTmxqRzl3Zms4UzM0REdjUndmMktPOG80bTBValQ1WHRhQmVzai1Wd3RwRDBxUzk0VXA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T17:32:01Z",
+   "level": "major",
+   "title": {
+    "en": "OpenAI's Sam Altman Backs Anthropic CEO Dario Amodei's AI Safety Push, Says 'We Need To Pace The Frontier'",
+    "zh": "OpenAI's Sam Altman Backs Anthropic CEO Dario Amodei's AI Safety Push, Says 'We Need To Pace The Frontier'"
+   },
+   "body": {
+    "en": "Amodei publicly called for pacing AI development for safety reasons, a stance echoed and endorsed by OpenAI's Sam Altman — a rare moment of public alignment between rival CEOs on slowing the race.",
+    "zh": "Amodei公开呼吁为安全考虑而放缓AI发展步伐,这一立场获得OpenAI的Sam Altman公开支持——两位竞争对手CEO在放缓竞赛节奏上罕见地公开一致。"
+   },
+   "source": "NDTV Profit",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcTV3LTlkdEctd2k5WnJoNGFwWnpIOGVqbmdEdG1sWHFvOGtiMy0yS1EtbThKV0hTSW9MaXNvLWU3dDFzdkxDR29HTDV6clF1anRLNTZQZmZ1NjZTd2tfVXRrc2JyV096bklsTXRrU2RuX0ZKNDNHaDRTUmNGX1ZoQ1RDaWZsSjQwYko4ZXBSeE1NY1IyaDhNWXE0T19KaFNRWjFkOXdOTDVjcUlsaXJHejJzV0ZEbEhoeFVJV2xMTWJxZ1h5cUR3V1JaR3RGOHlpMHZXaGZXc0N6NFpFUlRaU1k4NWxFdmdwZHfSAeoBQVVfeXFMT3E1dy05ZHRHLXdpOVpyaDRhcFp6SDhlam5nRHRtbFhxbzhrYjMtMktRLW04SldIU0lvTGlzby1lN3Qxc3ZMQ0dvR0w1enJRdWp0SzU2UGZmdTY2U3drX1V0a3NicldPem5JbE10a1Nkbl9GSjQzR2g0U1JjRl9WaENUQ2lmbEo0MGJKOGVwUnhNTWNSMmg4TVlxNE9fSmhTUVoxZDl3Tkw1Y3FJbGlyR3oyc1dGRGxIaHhVSVdsTE1icWdYeXFEd1dSWkd0Rjh5aTB2V2hmV3NDejRaRVJUWlNZODVsRXZncGR3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T23:35:07Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic boss Dario Amodei calls for AI slowdown",
+    "zh": "Anthropic boss Dario Amodei calls for AI slowdown"
+   },
+   "body": {
+    "en": "Amodei publicly called for the AI industry to slow down for safety, a stance that drew public agreement from Musk and Altman and a direct response from Demis Hassabis.",
+    "zh": "阿莫迪公开呼吁AI行业为安全考虑放缓发展步伐，该立场获得马斯克和奥特曼的公开认同，并引来哈萨比斯的直接回应。"
+   },
+   "source": "DW.com",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeE1ZYk0xbVVWVzJTZ3lCblZLZ3ZxMTJwUXVYUkI3VUY1SnNhbDVNNkl2eXFQTkV1cU5sclRUYjJXSHliajREVWVHMkhWSzM4MUNxaG9aN1A5YmN4ZEJkQUFPVDFEQnhuN2NMbDN2ZXhFS1ZpVjFSUENGMGwzNnFjWC1KLWVkQ2oyMHfSAYoBQVVfeXFMTXBCX2VWUXNtVDc5Q0Fyd052UHlEeldEX0s5Tzd5UTVWdlRNajlJd1MtSDlYZkxvVEs2N1FVNlNVYWJvelg1NUR0YkJvdF8xYmQwbmxWdnZMV3VULTFTZHNURDFCLXY5bHJrR3duYUlRU0xEWDFJT0lTT3dGWDBocTFZMDVwV2JhWnVn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T16:37:40Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei says AI industry needs to slow down for safety",
+    "zh": "Anthropic CEO Dario Amodei says AI industry needs to slow down for safety"
+   },
+   "body": {
+    "en": "Amodei publicly called on AI companies to slow the pace of frontier model development, citing safety concerns — a notable break from the industry's race dynamic.",
+    "zh": "Dario Amodei公开呼吁AI公司放缓前沿模型的开发速度，理由是安全担忧——这与行业竞速的常态形成明显反差。"
+   },
+   "source": "Boston 25 News",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYXpWcmJTTzdUcUdPTXhXSFdkVmUzNWdJWUdYVHlyam4xMExBaU03Z3F3NFhXNzA5MmUydWlaUENYSlkya1RaalVEVHBtc3dGR0lPdlh0S3JVZUNVSGEyTGtmQ3dkdzJoNGNvcHlaejcyM3Z4MlVXbDU4STdDeEdLVFROZXl4aVo1a0NNODdCTk9WODZyOEFGX2hpNGxRUFRxd2xHQ0pSYk7SAagBQVVfeXFMTWF6VnJiU083VHFHT014V0hXZFZlMzVnSVlHWFR5cmpuMTBMQWlNN2dxdzRYVzcwOTJlMnVpWlBDWEpZMmtUWmpVRFRwbXN3RkdJT3ZYdEtyVWVDVUhhMkxrZkN3ZHcyaDRjb3B5Wno3MjN2eDJVV2w1OEk3Q3hHS1RUTmV5eGlaNWtDTTg3Qk5PVjg2cjhBRl9oaTRsUVBUcXdsR0NKUmJO?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T18:26:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up",
+    "zh": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up"
+   },
+   "body": {
+    "en": "Amodei publicly argued the AI industry needs to slow down enough to let safety measures keep pace with rapidly advancing capabilities.",
+    "zh": "阿莫代伊公开表示，AI行业需要放慢脚步，让安全措施跟上能力快速提升的步伐。"
+   },
+   "source": "Spectrum News NY1",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2QtcEdsbm94ZGk0SzE3SWxpR0ZNZ0JIUzZkalI1TmRtajBBTFQ3bERPemg5SVFwODFCTVR0QWtKaDk4M1lCWDVhYll2QjItM0JoOWFlZlNhQ19NUGR4MTQxYkJPWDhSY1doak5iZjh5Qk9UV2l6a0tXZ0sybnpjQ1BVeHJUeVRZa0lRNmZsRHZIRllqVkNPRlQ3Q3pNbV9kQlpfb0o0alNTQ3Y1ajdSRUVGWGx2dmNqQkhwVnRJdnVZWGF0ZktXSg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T10:40:00Z",
+   "level": "notable",
+   "title": {
+    "en": "'Wildly off-base and impossible': Anthropic's Dario Amodei says AI will cure cancer. Doctors disagree",
+    "zh": "'Wildly off-base and impossible': Anthropic's Dario Amodei says AI will cure cancer. Doctors disagree"
+   },
+   "body": {
+    "en": "Amodei publicly claimed AI will cure cancer, drawing real pushback from doctors who called the timeline unrealistic.",
+    "zh": "阿莫迪公开宣称AI将治愈癌症，引发医生反驳称该说法不切实际，是一次引发医学界真实反弹的公开表态。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdHZrblBmY3BZM3V6VUlUVXZsSHV2eXl5VDBLNEl1VEpJMndaaGlRcFpfb3pVTnVjT25tTnJxTVBmNkVnUVp1aEdsX29pWUtnMkhCYmdZc0loM0Q5VkMyRzhiSWdUcjhhZU02UzVQLVNvNXU3YXAyS1VGTmdrb2dlcm8xa2tiYWRkTG1wSlpENEdOTXMyY1lDVFh1WE8zc1hkM0tmZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T10:15:09Z",
+   "level": "notable",
+   "title": {
+    "en": "Dario Amodei says AI could cure ‘most human disease’ within 5 to 10 years. Doctors say that timeline is ‘impossible’",
+    "zh": "Dario Amodei says AI could cure ‘most human disease’ within 5 to 10 years. Doctors say that timeline is ‘impossible’"
+   },
+   "body": {
+    "en": "Amodei predicted AI could cure most human diseases within 5-10 years, a timeline doctors quoted in the same piece called unrealistic.",
+    "zh": "阿莫代伊预测AI可能在5到10年内治愈大多数人类疾病，报道中受访医生称该时间表并不现实。"
+   },
+   "source": "moneywise.com",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNHg1U0hjZnI4Z3h5OGxhRzlFMktvVGItaTZtN1NxZUh6RGhpWFFHOUJzYUlYRGxUdW9JVFFQcmtGTlR3cnpBcFlqYndzQmZIaEJNWGs0dDVxSkdPbVpfUjl0OGpSdUdtTktadDZNajViNnd6OEdmYW9OZlBiNHdNbmx6MnR0NGd0RzRKLQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T10:40:00Z",
+   "level": "notable",
+   "title": {
+    "en": "'Wildly off-base and impossible': Anthropic's Dario Amodei says AI will cure cancer. Doctors disagree - Yahoo! Finance Canada",
+    "zh": "'Wildly off-base and impossible': Anthropic's Dario Amodei says AI will cure cancer. Doctors disagree - Yahoo! Finance Canada"
+   },
+   "body": {
+    "en": "Amodei claimed AI could help cure cancer, a claim doctors publicly pushed back on as overstated.",
+    "zh": "Amodei声称AI有望帮助攻克癌症,但遭到医生公开反驳,认为其说法过于夸大。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOGlIaG84aEQtNG93VVFqdTBwb2NpMU9MMEZjaUlXc3JSdjNqaVNuZE9XcjJSNGw5Z0s1ckpFbEJnZTFVSUh3MEdaMzBwRWNZMkhHVjZJWmhVOFQ0U21HU1YyNE5HSE5MMF8xYmwxRVA5MjEwMEk0MFBUNzZGWjdHbVpzNGdqS0J4MGx1cms4SFk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-07",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk - the-decoder.com",
+    "zh": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk - the-decoder.com"
+   },
+   "body": {
+    "en": "Anthropic reportedly signed $517 billion in compute deals, a major expansion following Amodei's public warnings about rivals taking reckless risks.",
+    "zh": "据报道，Anthropic签署了总额5170亿美元的算力合同，这是继阿莫代伊公开警告同行冒进风险之后的一次重大扩张。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQjNSSmdZZlNtSXdxaGNpek9XQWpvclNtRVgxdTdkb2J1OTUtS3BTRy1MaEtYeEhyaFdOTWJBOWFmalRtVEdQNnJWNXRtVUZKekZkemtmR0NscHkzY0Y2NkNEMjNvR2xicHJvN1dlSXkxVDNQWUc1ZEI5R3dkajVyTEg5eVF2YlRLTTJyM0lELWZncEJkNVJJREZnQWRHdDd0Vk1jcFp0cXdFbnAzT0w0azYtV2NvNTIxYnE1OTlzT2NwSy0ycE05TzRsMFlIUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-05",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Sam Altman, Dario Amodei Could Face 20 Years In Jail Under Bernie Sanders’ New AI Bill Proposal",
+    "zh": "Sam Altman, Dario Amodei Could Face 20 Years In Jail Under Bernie Sanders’ New AI Bill Proposal"
+   },
+   "body": {
+    "en": "Senator Bernie Sanders proposed an AI bill under which Amodei and Sam Altman could face up to 20 years in prison, escalating the political fight over AI regulation.",
+    "zh": "参议员伯尼·桑德斯提出一项AI法案，根据该法案阿莫代伊与山姆·奥特曼可能面临最高20年监禁，使AI监管的政治斗争进一步升级。"
+   },
+   "source": "NDTV Profit",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdjhLODdLLTJPMG5BQndRdlVHRWdvM3JURjRGdDVKcnhzU0stWG9XSFFZLWd5Y1BwaDkzN3RMa0JvbzB1R215cmhVZUFVWXhEMlVsZzZKN1RkZ2FyN2tJSjNyNWtvU2x6ZTZtdzJhZ3BGT1hFWnBwTERDQWxTeUJaT0pSV1oxSkVOMGZvd2I5S3V5OFg3eElXZE9sSzVxT1ktRmt4a2tTMi1QeU94UFhjdEtmWjBKcVJnalNIQko1ekItSUh5UEFDeDlZQ0F6QUVBMGxBQ1Nyd9IB3wFBVV95cUxQZ1FjT1RZR2NBZUtia0ZYUV92R1VTOXhXenM1YmowajRZZm9BMmNGbU5xTGpNak5BYnAtNEtScmlkdWZkTUVSY1lIaFhfbXNNWW9QUGFuVG01aGtGZE94S1pTeVVGT1Y5YkFLR3ZuazhtdEdiS2dKOUR2N2ttdHpZb25IWGF1X3lzVnBtUFhjUlRyclp3V2JhTUVHbjhUazBkVlJkWVVwV3lFNi1mdzdhN2RkaUItMVZ1alhFd1ExVjA3ckctb0tkb1ZYbmFqalh2VlZrYWJ0Yi1CaXJLVGVj?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Bernie Sanders introduces a Bill in Senate that may land Sam Altman, Dario Amodei and other top tech exec",
+    "zh": "Bernie Sanders introduces a Bill in Senate that may land Sam Altman, Dario Amodei and other top tech exec"
+   },
+   "body": {
+    "en": "Named alongside Sam Altman as a potential target of a Senate bill introduced by Bernie Sanders aimed at top tech executives.",
+    "zh": "与Sam Altman一同被提及，可能成为伯尼·桑德斯在参议院提出的一项针对科技高管法案的对象。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNUDd1QkFManl6UXhLbWFhMFdMX3dwV1Q4a2lCc05Rall3M1N0SGpoa2dDck05ekRlMzRsNW5DYlQ4cTVGMmxCelFzYmxlc0hwSmdFMlVDTld1ODRKUEMwWUlDVHJmQmJyZEJPRk5SRndUbWdPa21DSkNDSS11VUVta3YyZ2dOWjV4bXU1UVJOQldraTZvZ096YUJ3bWJ2WEN1UlR3Y1FPVDVuV2hodU02UzVWaEVjbzhNa2I5bDNvWXQteF9PMThfZXE3ODMxYjNDUFNtV1NEOXd1eC1zRHI0bWdlR081MnJOU1kwMkJkZHNCVkdVYTY5WUc1R3c5UnVqR0RsMG1GZ0N3OENpRWoyNjc1b2VucG5sYjhuN3VHY0xZekJPdGJfTGx4dXhWLWtkTHQ0TmhhX0VzXy1zUzB0QmhDVmZyT1I50gHOAkFVX3lxTE5EV0lZcXQ3VllXRkV6bXdCV01HT3VMdjFJempXRHFreWpjcjM3a2twdkpuV1ZXaEZQT2l4LS1BTl9hZXVkN2NzQUE5aUh6NzZsc1VBQXFSZjdXc0djajMwbzlLdmdtMmJjdHozSnVudE52SjFiVkFaZ2tyYlE3V1BobGI3UUt0U3hmYkpLX1JIdzFNQTNqcko0Ui1pTUlUUEtMTGQyZnY0MWpqOEhvc21Vel9UOEl2NkpHVHV3V1pKQVdLVnVybl9KSGlnOE55TGI2VF9TSDhxcURla1I4VDBzeW81NXRvTEYzSnJGN3BnVW42ZGRYcHM1ay04SjUzWk02U0U0NXAxc29mLWtQdHpza2lEVFRJREFsTmlDMkk3NENVbXh4d0tzV3VHcXRpel8xZVZydW5NX1l3VThDWUx2SlpWWVJYSjlCTExKWmc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "US commerce boss Howard Lutnick says he trusts Anthropic CEO Dario Amodei again: ‘They’ve done what we asked’",
+    "zh": "US commerce boss Howard Lutnick says he trusts Anthropic CEO Dario Amodei again: ‘They’ve done what we asked’"
+   },
+   "body": {
+    "en": "US Commerce Secretary Howard Lutnick said he again trusts Anthropic CEO Dario Amodei, citing the company's compliance with government requests after earlier friction over export policy.",
+    "zh": "美国商务部长霍华德·卢特尼克表示他再次信任Anthropic CEO达里奥·阿莫迪，称该公司已按政府要求行事，此前双方在出口政策上曾有摩擦。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR0thS054dnVmbWRuQkVObkxEcTMzcjg1bjFwSnk5cFJRU3NralR5bFlTY3VYSEszbW94Zl9NT2RpLUJ5T0h5ZS1IelNYUU9IcllvNlljc1g5WElrSkNCZUZtdnVfSFQ2alpmQTE4d3hBSW15MHZlM205VlAteTNxRkEtWXl3T2l2aGFyYUVncjNWSWYyTGJMYzFqVQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-01",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei drew two red lines the Pentagon refused to accept — then got blacklisted for saying no",
+    "zh": "Anthropic CEO Dario Amodei drew two red lines the Pentagon refused to accept — then got blacklisted for saying no"
+   },
+   "body": {
+    "en": "Amodei said the Pentagon blacklisted Anthropic after he refused to cross two red lines it wanted the company to accept.",
+    "zh": "阿莫迪表示,由于他拒绝了五角大楼要求Anthropic突破的两条红线,该公司因此被五角大楼列入黑名单。"
+   },
+   "source": "moneywise.com",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTGhRSjBJZS1vUVF4anl0Y2hwM1piSGlmczhkLUlrNmtwZzFUTFhYczRvZ0t6WVJkM0Q5S1JNYXJnWHB0N0FyNWhXank1c2ZKLXViMVNFZ0Z2Uy1ZUVdsNk5DdmNONFBZTFh5OFJzX3pwamVzaTlhaC1RTXRWUXpJVExheF9vWF9VdEpZ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-31",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Sony Music and Warner Chappell Music sue Anthropic; lawsuit that names Dario Amodei accuse Anthropic of '",
+    "zh": "Sony Music and Warner Chappell Music sue Anthropic; lawsuit that names Dario Amodei accuse Anthropic of '"
+   },
+   "body": {
+    "en": "Sony Music and Warner Chappell filed a copyright lawsuit against Anthropic that names Dario Amodei personally, adding major-label litigation to the pressure on the company's training practices.",
+    "zh": "索尼音乐和华纳查普尔音乐对Anthropic提起版权诉讼，诉状点名达里奥·阿莫代伊本人，为公司的AI训练做法增加了主要唱片公司诉讼的压力。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNcC0xMU9jUTR3dVlFX3BOekxocU1vSWpxUEJmbU1wd1FlY2VhWGxYbklVWGJTenNIYm5VMlVMb01nNC1fdjk5NnUxNlZwTzUtMUtzbTdCcm1NUjFNV08yRkVkZ3VkVk5IMVNNMTFuV2l0a1ZqWDZ5NWU2bTZnZnFxMjg5enF0M0oyN1hlYnBOMnRCM2pGbWsyMG1rWXhRSDBmYzQxY0o4WjdLX0ExakFUOHhhUE9ycWpibmEyUGJkV3dSQVFhOHJJRVU1ZW5Bel9TS0I2N2lxUUVsdUNzbHlaUXVRLWdjY3dFSXZyeG1UVEN5UVl6a0IyZjBNeXJBNjJrbGNZek5TbkpvOGtYR1pwelpFdXBvREVSWlRxaW5oQk9Xb095bVZfaTZNZVluRkZ2TVhGQ0dtQWtFNUZ4dWVfNGE4cEV1cjZRMHJEbzBXVFFjUElDUnJCOUM5b0dISWQ5d3F6T0FFd0RZWU5RSGtYWWVqbDd0WF8wMnZRb29R0gGDA0FVX3lxTE9HQ2ktWVJ3RVhPUzhudmxsd2s3TWU4Y3F6VnVPanduMkJJTXJuSUxXWHYxTS1yZkxxVHctT2FmdFpGN2plOWxZbmRpZGk5QXZqcE1xaVJHa0ZHTUlSOFROV1hlWXcyNjNjYU1veEJQVVBOQjZSOFkza25wOWlMcDdKSWROT0REcnNjMG5QNmRCN2ZIN1hCaG9CYjFFb1FlVWFrQV9DVkh5c2ZmRllNOUdfcGhDblF4QkhYeGM1ZUZKNzRkUEU2cFpVNWVCMVpTaE9RTFhYaTNiY0dBdFBPUnVxY2VCdEc0Z28zRU1qOHBBZlFUZEk5UmF2NFZoeWZOcm0zVy1OLXJTbkV2akZybE8zZ0JBTUVhX0IzZlozZFBNbTA0eU9zN1RuNmJlbzJsWnlac2xoRXQtSEJqcFFwcFRuQk14OFNfcEJpNjNVNkhmdFRVUjJjZ1FJN0lBN1hwQjZ3QTdzb2pQcEQxMTNVRGx0ZnZhWmJVbEhUb1hDQmtDWG41VQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-30",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Dario Amodei’s thought experiment for 2027: imagine the equivalent of 50 million people, each more capable than any Nobel laureate and thinking up to 100 times faster — a “country of geniuses” inside a data centre that he believes could be only one or two y",
+    "zh": "Dario Amodei’s thought experiment for 2027: imagine the equivalent of 50 million people, each more capable than any Nobel laureate and thinking up to 100 times faster — a “country of geniuses” inside a data centre that he believes could be only one or two y"
+   },
+   "body": {
+    "en": "Dario Amodei laid out a 2027 thought experiment of a 'country of geniuses' — millions of AI copies each smarter and faster than any human expert.",
+    "zh": "Dario Amodei 提出了一个2027年的思想实验：数以百万计的AI副本组成“天才之国”，每个都比任何人类专家更聪明、更快。"
+   },
+   "source": "ScienceBlog.com",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByVFdUb0NCd2RuUzZyd1F3NnFQeHcwQm43QmtRYl9JM1F0VkZJVDlsZmYwQk5YT215OWxmR0xDb2JpX04yd0loM29MM01RazJERndSd0U0WVdMNzVfVjhLVjdHRVJMaWhmLTVDVzIzUjhzeGh3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-28",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Anthropic’s CEO Dario Amodei predicts AI could cure most diseases within a decade",
+    "zh": "Anthropic’s CEO Dario Amodei predicts AI could cure most diseases within a decade"
+   },
+   "body": {
+    "en": "Amodei publicly predicted AI could cure most diseases within a decade, a bold stance on AI's near-term impact on medicine.",
+    "zh": "阿莫代伊公开预测AI有望在十年内治愈大多数疾病，这是他对AI在医学领域近期影响的一个大胆表态。"
+   },
+   "source": "The News International",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcmoxVDh3OGphMHV3VXdlR2ZJNjlvbXpRNm9La3Nkckt5T1ViTDhxcWtFdlBDTTRqbjhOU2ZzMkVBZmdweWRaZjcxbklkWVNMVlE2RjN6el9XeGtYQlJwVGNQdzdreU95NEhKcGNYNDMtTlZsZHdEbGlOdFMzb2w4cHVYMGRpQ2ZfQlFKWVpaMUE2SnZ4TjA4Q3g4akFGb29fOFV5MFRwMVlBQVpyeGtsX0tFVUtqeW5vVDRMR1h3VdIBuwFBVV95cUxQV0trdDhnOWphZXdYaXEtazVGYjVFVG5DU2lPcVI2Z3JONFhfMzRMR0VTeXdIUUx2aFlNZUczX1FhV3E5U0I2OHRqQ25yTlRtMXFBVlc5VlVscVNrY1c4UVlLbG9LS2k4cm1WUDJvU2Nlekx4MFQxMXI0Q1hzWnZHbGdSR09IS3VFTGV4ZHBsVVJNNjJydTZINHhQRVd0VmdGa3d4Y1MtWTlfVG5Tbk5hVlJ3akdzbm52ZF9B?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Dario and Daniela Amodei: The 100 Most Influential People in AI 2026",
+    "zh": "Dario and Daniela Amodei: The 100 Most Influential People in AI 2026"
+   },
+   "body": {
+    "en": "Time places Amodei and Anthropic president Daniela Amodei on its 2026 list of the 100 most influential people in AI.",
+    "zh": "《时代》周刊将 Amodei 与 Anthropic 总裁 Daniela Amodei 列入 2026 年“AI 领域最具影响力的 100 人”名单。"
+   },
+   "source": "Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EQ2xfQmdVZ0lfWFNkWXlEX25Ra2t2NFVGb0VzbFVYWWgzNG5sY1hneXNJcHU4VEpXaXFZRUtwX1ZqZjhYWkVuekhFbGxEWXBlQXVvMzJGWmliNkxpYkZqTTRMTUJTNGdENGgtYnF3eWRDeXJDSUtGWjVwUHM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "After putting SaaS on notice, Dario Amodei says Anthropic has no interest in destroying anyone",
+    "zh": "After putting SaaS on notice, Dario Amodei says Anthropic has no interest in destroying anyone"
+   },
+   "body": {
+    "en": "He walks back the confrontational reading of Anthropic's push into enterprise software, saying the company is not setting out to destroy existing SaaS vendors.",
+    "zh": "他为 Anthropic 进军企业软件的强硬解读降温，表示公司无意摧毁现有的 SaaS 厂商。"
+   },
+   "source": "India Today",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNV0FORlBvR08xLVZsMjlpMnIyb2lTSG5qQ3VUTUxvUHRkX21WUFZaWDg3MWRjU1B1WHpMTlRLT3N5T0JWRUEwbExra3U3eko2cFFpV2JCQzhJR2QxaFUxMWh5a04yTGZTaHBNbWhQLVJST3J0Y3k0MmZTVS1HeThwOHFjOUVFQVk2ZXZfTzVlVVhaMnBIcEZvc091UnBFLThZZEgyTkJzOVpJU29naHpyckRHMkZITnVDMktQWkEyeG5BQjZObjdnT21yUHNjZ0c5bkJNOUEybnlFcFN5YUFmTHBVZWdFZlpuZFQ5R3JfMVNFQdIB9wFBVV95cUxQVDZud213b0JnaVZ6TlRZd2RoR0ZHdlJYaUNJMUNyVU8xeldEc3ZFdHgxanMyNDgxWThRN2J3QUQxbGU2cVdzOXBqWWY0Y2ZoM0Uya1U4MlFheV9PeXFabnN1TTNWR0tWMFRXRy01LUd3VmVTZHBBM09KN0JIU3Q0Yjg1eWZ3Qlp0ZjB4QnFyYmUtUkF2cGRsb0U2dTFickIzSEtTdTlfOC1xVURWSnNvU2t3NXdwZEpSVWMyTDF3dVFjb3V5ZE02VVg3dVFGbnhsaXQ1aWpmZlNrWl9kYm1TVFFwUklZT2x2b09vbThlZjNJWmFUXzY0?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-26",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Watch CNBC's full interview with Salesforce CEO Marc Benioff and Anthropic CEO Dario Amodei",
+    "zh": "Watch CNBC's full interview with Salesforce CEO Marc Benioff and Anthropic CEO Dario Amodei"
+   },
+   "body": {
+    "en": "Full CNBC interview in which Amodei, sitting alongside Salesforce CEO Marc Benioff, answers the charge that Anthropic's products are displacing software vendors and says the company is not interested in destroying anyone.",
+    "zh": "CNBC 完整专访：Amodei 与 Salesforce CEO Marc Benioff 同台，回应外界关于 Anthropic 产品正在取代软件厂商的质疑，表示公司无意摧毁任何人。"
+   },
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDgtSEc0elZRR1VaRW4yZ2ZLekowQWJFVUtoeE5CUlRtSzlqa1ZOc0hpSVBFY2xRTUZONUxsbWFHZDNhVHhLTUJ6ZVcweUhNai0zb0dfTHhFZTRINlAtbVkwTXV4NTFiNkw2MkVlQVNTUkJnVVdiOHp0QmRXdURZMTl6Uno0bnk4LVNjQ3RTcG5ReXJscjJEd0hnbld0M21kRUJsbEd6dFZpQzlERzhzbGdfT3Y4R3NKODlXLTh4Q1Zac29jU0xZMnRoMkk3Zw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-17",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei Says Open-Weight AI Won’t Decentralize Power",
+    "zh": "Anthropic CEO Dario Amodei Says Open-Weight AI Won’t Decentralize Power"
+   },
+   "body": {
+    "en": "He argues publicly that releasing open model weights does not decentralise AI power, staking out Anthropic's position in the open-weights debate.",
+    "zh": "他公开主张开放模型权重并不能真正分散人工智能的权力，为 Anthropic 在开源权重之争中确立立场。"
+   },
+   "source": "TechRepublic",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT2VnaTlvT0x1b1dOYkpGTUYwbWtYTzZUaGZVVkZ6aVVPcGdGVnZfU2pBTUdVSWRBYXJCOUFPLWdOOE5LVWhWMm1SVTdDakJ4c2RLVEp6VnhZcXBZUXIxZmw5MmZFQTZxZkxkNXJaVEZCeGdNcFA4Z3JBTGo2c01namNQcE9MWjRFazZRMTZ6b0s?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-17",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Dario Amodei says AI backlash is a crisis of trust",
+    "zh": "Dario Amodei says AI backlash is a crisis of trust"
+   },
+   "body": {
+    "en": "Amodei publicly framed the AI industry's backlash as a crisis of trust rather than a technology failure, a notable public stance amid rising scrutiny of frontier labs.",
+    "zh": "阿莫迪公开将AI行业面临的公众反弹定性为信任危机,而非技术本身的失败,这是在前沿实验室受到日益严格审视之际做出的一次值得关注的公开表态。"
+   },
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOFdYTzdqOWNkbmhMUnFvOXB1Zm9MUFk0TnI0UllrdFVWVzlxVlJnSHE5QVlyckVJbzZYYkw3SXZWT3hGTDRIRk5JckFwdmt5YTFacl9mM2VWNGhpVXZneGg5Mkh4ckxhMF83Q0dOS2hBeURNeWx1N2JEZko3V2lnUnNlWWdsaFRpVi1JR3FvbVVmV28?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-16",
+   "ts": "2026-08-16T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Dario Amodei admits AI suffers from a crisis of trust, saying people worry companies or governments are ‘cooking up some new way to screw them over’",
+    "zh": "Dario Amodei admits AI suffers from a crisis of trust, saying people worry companies or governments are ‘cooking up some new way to screw them over’"
+   },
+   "body": {
+    "en": "Amodei acknowledged a broader crisis of public trust in AI, saying people fear companies or governments are turning the technology against them.",
+    "zh": "阿莫迪承认公众对AI存在更广泛的信任危机，称人们担心企业或政府正利用这项技术损害他们的利益。"
+   },
+   "source": "Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZzMtUFZpSG56cVBlN0xERk9RVVMtWGZLRGlGUFRPeEc1R19SeDRIRnZHd1NpbVViVHR3ZVZMTG4temQ1cURJNlRoNm11ZU1oZ2lESVlKRXZRVXlfeEVNSzFMTHR0b2tFaGl4dHNzVFRocTV5Qno0V2t5QnBwV1pfeXJBQjd2RGcwWkdDTktvQUM?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "lab",
+ "score": {
+  "total": 89.7,
+  "attention": 96,
+  "centrality": 96,
+  "momentum": 97,
+  "stature": 31,
+  "pageviews": 2709934,
+  "citations": 18904,
+  "hIndex": 35,
+  "events": 107,
+  "posts": 46,
+  "wikiEn": "Dario Amodei",
+  "wikiZh": "达里奥·阿莫代伊"
+ },
+ "seedRank": 5,
+ "tier": "t1"
+}

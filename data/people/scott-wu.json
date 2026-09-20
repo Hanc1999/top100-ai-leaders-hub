@@ -1,0 +1,840 @@
+{
+ "rank": 40,
+ "id": "scott-wu",
+ "name": {
+  "en": "Scott Wu",
+  "zh": "Scott Wu"
+ },
+ "role": {
+  "en": "Co-founder & CEO, Cognition",
+  "zh": "Cognition 联合创始人兼 CEO"
+ },
+ "org": "Cognition",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "Cognition",
+  "Devin",
+  "Windsurf",
+  "Coding agents"
+ ],
+ "why": {
+  "en": "Devin created the category of the 'AI software engineer'. Cognition then absorbed Windsurf and now runs a company where its own agent writes almost all the code.",
+  "zh": "Devin 提出了「AI 软件工程师」这一产品类别。Cognition 随后整合 Windsurf 团队，如今公司自身几乎全部代码由自家 agent 编写。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@ScottWu46",
+   "url": "https://x.com/ScottWu46",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Cognition Blog",
+   "url": "https://cognition.com/blog",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Cognition",
+   "url": "https://cognition.com/",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Cognition on X",
+   "url": "https://x.com/cognition",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Scott+Wu",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Scott+Wu",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Scott+Wu",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Scott+Wu&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Scott+Wu&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Scott+Wu",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Scott+Wu&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Scott+Wu",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Scott+Wu&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cognition_AI",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-05-29",
+   "kind": "interview",
+   "title": {
+    "en": "AI coding agents shouldn't replace humans",
+    "zh": "AI 编程 agent 不应该取代人"
+   },
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T17:36:27Z",
+   "kind": "x",
+   "title": {
+    "en": "Great essay. Please take this seriously - would highly recommend reading up on the Hugging Face incident and others if you haven't already. Very glad to see agr",
+    "zh": "Great essay. Please take this seriously - would highly recommend reading up on the Hugging Face incident and others if you haven't already. Very glad to see agr"
+   },
+   "source": "@scottwu46",
+   "url": "https://x.com/ScottWu46/status/2098828096120176889",
+   "note": {
+    "en": "Scott Wu endorses an essay's argument on AI industry safety practices, citing the Hugging Face incident as a cautionary precedent.",
+    "zh": "Scott Wu认同一篇关于AI行业安全实践的文章观点，并以Hugging Face事件作为前车之鉴。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T20:30:27Z",
+   "kind": "x",
+   "title": {
+    "en": "SWE-2 is live! Really proud of the work our research team put into this one. Our first model where we're seeing performance comparable to the frontier. Making i",
+    "zh": "SWE-2 is live! Really proud of the work our research team put into this one. Our first model where we're seeing performance comparable to the frontier. Making i"
+   },
+   "source": "@scottwu46",
+   "url": "https://x.com/ScottWu46/status/2098147108771762641",
+   "note": {
+    "en": "Wu announced SWE-2, Cognition's first model reaching performance comparable to the frontier, made free for a month.",
+    "zh": "吴宣布SWE-2上线，这是Cognition首个性能可媲美前沿水平的模型，并限时一个月免费开放。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T20:14:11Z",
+   "kind": "x",
+   "title": {
+    "en": "a16z backed my first company. Really excited for the chance to run it back with @pmarca and team!",
+    "zh": "a16z backed my first company. Really excited for the chance to run it back with @pmarca and team!"
+   },
+   "source": "@scottwu46",
+   "url": "https://x.com/ScottWu46/status/2097780627508691295",
+   "note": {
+    "en": "Wu confirmed a16z is backing Cognition again, noting the firm also backed his first company.",
+    "zh": "Scott Wu证实a16z再次投资Cognition，并提到该机构也曾投资过他的第一家公司。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T18:19:57Z",
+   "kind": "x",
+   "title": {
+    "en": "This one feels special - a lot of folks on this list we've admired for years and now finally get to work with. Above all I'm grateful for the incredible team th",
+    "zh": "This one feels special - a lot of folks on this list we've admired for years and now finally get to work with. Above all I'm grateful for the incredible team th"
+   },
+   "source": "@scottwu46",
+   "url": "https://x.com/ScottWu46/status/2097389493729009844",
+   "note": {
+    "en": "He reflects on Cognition's team growth, saying he's now working with people he's long admired and calling this moment 'special'.",
+    "zh": "他谈到Cognition团队的成长，表示如今能与长期敬佩的人共事，称这一刻“格外特别”。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-08",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Math Wars, GG Navier Stokes, Greg Brockman Joins | Dan Wright, Eric Seufert, Scott Wu, Sahir Jaggi, Andrew Borovsky, Harry Mellsop",
+    "zh": "Math Wars, GG Navier Stokes, Greg Brockman Joins | Dan Wright, Eric Seufert, Scott Wu, Sahir Jaggi, Andrew Borovsky, Harry Mellsop"
+   },
+   "source": "TBPN",
+   "url": "https://podcasts.apple.com/us/podcast/math-wars-gg-navier-stokes-greg-brockman-joins-dan/id1772360235?i=1000788540493&uo=4",
+   "note": {
+    "en": "Scott Wu joined the TBPN roundtable alongside other founders to discuss the state of AI, including reactions to Greg Brockman joining the conversation.",
+    "zh": "Scott Wu与其他创始人一同参加TBPN圆桌节目，讨论AI行业动态，包括对Greg Brockman加入讨论的反应。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Congrats to @ClementDelangue and the whole HF team! Really important work for the industry.",
+    "zh": "Congrats to @ClementDelangue and the whole HF team! Really important work for the industry."
+   },
+   "source": "@ScottWu46",
+   "url": "https://x.com/ScottWu46/status/2095576131072307654",
+   "note": {
+    "en": "Congratulated Clement Delangue and the Hugging Face team, calling their work really important for the industry.",
+    "zh": "他祝贺 Clement Delangue 及 Hugging Face 团队，称他们的工作对行业意义重大。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "This is not true. Huge respect for the SpaceX team but Cognition is not for sale and we haven't been talking.",
+    "zh": "This is not true. Huge respect for the SpaceX team but Cognition is not for sale and we haven't been talking."
+   },
+   "source": "@ScottWu46",
+   "url": "https://x.com/ScottWu46/status/2090165234921296030",
+   "note": {
+    "en": "Publicly denied rumors that Cognition was in acquisition talks with SpaceX, calling the report untrue.",
+    "zh": "公开否认有关Cognition与SpaceX洽谈收购的传言，称报道不实。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "At Cognition, one of our values is to go for it all: when faced with a tradeoff, pick the ambition-maximizing direction. When we launched Devin in 2024, we envi",
+    "zh": "At Cognition, one of our values is to go for it all: when faced with a tradeoff, pick the ambition-maximizing direction. When we launched Devin in 2024, we envi"
+   },
+   "source": "@ScottWu46",
+   "url": "https://x.com/ScottWu46/status/2090135734204473374",
+   "note": {
+    "en": "Marking Devin's launch anniversary, Wu described Cognition's guiding principle of picking the most ambitious path when facing tradeoffs.",
+    "zh": "值此Devin发布周年之际，Scott Wu阐述了Cognition在面临取舍时选择“最大化雄心”方向的核心价值观。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Incredible price/performance by the GPT-5.6 series on FrontierCode. All Devin users should see the cost decreases reflected automatically!",
+    "zh": "Incredible price/performance by the GPT-5.6 series on FrontierCode. All Devin users should see the cost decreases reflected automatically!"
+   },
+   "source": "@ScottWu46",
+   "url": "https://x.com/ScottWu46/status/2082958335658299460",
+   "note": {
+    "en": "Said GPT-5.6's price/performance gains would automatically lower costs for Devin users.",
+    "zh": "表示GPT-5.6系列的性价比提升将自动降低Devin用户的使用成本。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-27",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Inside the Fastest-Growing Category in AI: Scott Wu, CEO of $26B Cognition",
+    "zh": "Inside the Fastest-Growing Category in AI: Scott Wu, CEO of $26B Cognition"
+   },
+   "source": "Sourcery",
+   "url": "https://podcasts.apple.com/us/podcast/inside-the-fastest-growing-category-in-ai-scott-wu/id1738124704?i=1000778535636&uo=4",
+   "note": {
+    "en": "An interview recorded in Paris around the RAISE AI Summit in which he describes how Cognition built Devin and Devin Desktop into the fastest-growing category in AI tooling.",
+    "zh": "他在巴黎 RAISE AI 峰会期间录制的访谈，讲述 Cognition 如何把 Devin 与 Devin Desktop 做成 AI 工具中增长最快的品类。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-07-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "One year ago today, Cognition acquired Windsurf, capping off one of the crazier weekends in our company's history. The outline has been told many times: the fir",
+    "zh": "One year ago today, Cognition acquired Windsurf, capping off one of the crazier weekends in our company's history. The outline has been told many times: the fir"
+   },
+   "source": "@ScottWu46",
+   "url": "https://x.com/ScottWu46/status/2077078038744109398",
+   "note": {
+    "en": "Reflected on the one-year anniversary of Cognition's acquisition of Windsurf, recounting the chaotic weekend it came together.",
+    "zh": "回顾Cognition收购Windsurf一周年，讲述了那个促成交易的混乱周末。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Demand for inference compute will grow exponentially at least as fast as the METR curve grows (and arguably faster). Excited to have more great chips on the mar",
+    "zh": "Demand for inference compute will grow exponentially at least as fast as the METR curve grows (and arguably faster). Excited to have more great chips on the mar"
+   },
+   "source": "@ScottWu46",
+   "url": "https://x.com/ScottWu46/status/2072035889296113689",
+   "note": {
+    "en": "Argued inference compute demand will grow at least as fast as the METR capability curve, while congratulating chipmaker Etched.",
+    "zh": "他认为推理算力需求的增长速度至少将与METR能力曲线一样快，同时祝贺芯片公司Etched。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-29",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Model routing is a hot topic but there are two challenges to doing routing for coding agents: 1) Even if different models can pass the task, there are subtle di",
+    "zh": "Model routing is a hot topic but there are two challenges to doing routing for coding agents: 1) Even if different models can pass the task, there are subtle di"
+   },
+   "source": "@ScottWu46",
+   "url": "https://x.com/ScottWu46/status/2071718682250928421",
+   "note": {
+    "en": "Laid out why model routing is harder for coding agents than it looks, citing subtle behavioral differences between models.",
+    "zh": "阐述了为何编码智能体的模型路由比看起来更难，指出不同模型间存在细微的行为差异。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-28",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Scott Wu, Cognition",
+    "zh": "Scott Wu, Cognition"
+   },
+   "source": "David Senra",
+   "url": "https://podcasts.apple.com/us/podcast/scott-wu-cognition/id1836497887?i=1000774533148&uo=4",
+   "note": {
+    "en": "A long-form conversation with David Senra tracing his path from childhood competitive programming to running the company behind Devin.",
+    "zh": "他与 David Senra 的长篇对话，回顾自己从少年时期的竞赛编程一路走到执掌 Devin 背后公司的历程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-06-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "A new top scorer just one day after our benchmark released! Especially strong on the hardest tasks: 13.4% -&gt; 29.3% on FrontierCode Diamond compared to Opus 4",
+    "zh": "A new top scorer just one day after our benchmark released! Especially strong on the hardest tasks: 13.4% -&gt; 29.3% on FrontierCode Diamond compared to Opus 4"
+   },
+   "source": "@ScottWu46",
+   "url": "https://x.com/ScottWu46/status/2064432449623588987",
+   "note": {
+    "en": "Noted a new model beat Cognition's FrontierCode Diamond benchmark just a day after release, jumping from 13.4% to 29.3% versus Opus 4.8.",
+    "zh": "指出一款新模型在Cognition的FrontierCode Diamond基准发布仅一天后就刷新纪录，相较Opus 4.8从13.4%跃升至29.3%。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "SWE-Bench style grading has been the standard for years now - you ask the agent to solve an issue and then run its code on a pre-constructed unit test. The prob",
+    "zh": "SWE-Bench style grading has been the standard for years now - you ask the agent to solve an issue and then run its code on a pre-constructed unit test. The prob"
+   },
+   "source": "@ScottWu46",
+   "url": "https://x.com/ScottWu46/status/2064073699368800475",
+   "note": {
+    "en": "Critiqued SWE-Bench-style unit-test grading as an incomplete measure of whether an agent's code actually solves the underlying issue.",
+    "zh": "批评SWE-Bench式的单元测试评分方式，认为通过测试并不能完全说明智能体真正解决了潜在问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Measuring someone's productivity by their token usage is a horrible idea. Giving everyone the same fixed token budget isn't much better. So what's the right way",
+    "zh": "Measuring someone's productivity by their token usage is a horrible idea. Giving everyone the same fixed token budget isn't much better. So what's the right way"
+   },
+   "source": "@ScottWu46",
+   "url": "https://x.com/ScottWu46/status/2062601080744419761",
+   "note": {
+    "en": "Argued that measuring engineer productivity by token usage is misguided and described how Cognition is rethinking AI rollout metrics.",
+    "zh": "认为以token使用量衡量工程师生产力的做法有误，并介绍了Cognition重新思考AI推广指标的方式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Standalone IDEs have about 6 months left to live. An interface for manually editing and refactoring doesn’t need to exist if you're not manually editing and ref",
+    "zh": "Standalone IDEs have about 6 months left to live. An interface for manually editing and refactoring doesn’t need to exist if you're not manually editing and ref"
+   },
+   "source": "@ScottWu46",
+   "url": "https://x.com/ScottWu46/status/2061998361373532187",
+   "note": {
+    "en": "Predicted standalone IDEs have roughly six months left as manual code editing gives way to AI-driven workflows.",
+    "zh": "预测随着手动编辑代码的方式被AI驱动的工作流取代，独立IDE的寿命大概只剩六个月。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I beat Minesweeper in 77 seconds! Devin now supports Windows VMs https://t.co/zVDGMjAox9 #DevinGotAWindowsPC",
+    "zh": "I beat Minesweeper in 77 seconds! Devin now supports Windows VMs https://t.co/zVDGMjAox9 #DevinGotAWindowsPC"
+   },
+   "source": "@ScottWu46",
+   "url": "https://x.com/ScottWu46/status/2057515049460330996",
+   "note": {
+    "en": "Announced Devin now supports Windows VMs, demoed by having it beat Minesweeper in 77 seconds.",
+    "zh": "宣布Devin现已支持Windows虚拟机，并以77秒通关扫雷作为演示。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "thank you @colossusmag and thank you to @JeremySternLA for coming to visit the Cog office! to give my side of what seems to be the most controversial story of t",
+    "zh": "thank you @colossusmag and thank you to @JeremySternLA for coming to visit the Cog office! to give my side of what seems to be the most controversial story of t"
+   },
+   "source": "@ScottWu46",
+   "url": "https://x.com/ScottWu46/status/2054082901793481091",
+   "note": {
+    "en": "Gave his side of a widely discussed story about attending a Founders Fund gala, pushing back on the controversial framing.",
+    "zh": "就一则广受讨论的报道——他出席Founders Fund晚宴一事——给出了自己的说法，回应了具有争议性的报道角度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-27",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ep 147: Scott Wu & Russell Kaplan on the New Era of Software Abundance",
+    "zh": "Ep 147: Scott Wu & Russell Kaplan on the New Era of Software Abundance"
+   },
+   "source": "Joe Lonsdale: American Optimist",
+   "url": "https://podcasts.apple.com/us/podcast/ep-147-scott-wu-russell-kaplan-on-the-new-era/id1573141757?i=1000757730526&uo=4",
+   "note": {
+    "en": "He and Cognition co-founder Russell Kaplan argue on American Optimist that AI agents will make expert software engineering ubiquitous rather than scarce.",
+    "zh": "他与 Cognition 联合创始人 Russell Kaplan 在 American Optimist 节目中提出，AI 智能体将让专家级软件工程从稀缺变为随处可得。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-10-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Excited for folks to try this out! There’s been a long-held assumption that “agentic” must mean “slow”. Now we have full agent search that runs at similar speed",
+    "zh": "Excited for folks to try this out! There’s been a long-held assumption that “agentic” must mean “slow”. Now we have full agent search that runs at similar speed"
+   },
+   "source": "@ScottWu46",
+   "url": "https://x.com/ScottWu46/status/1978923193298567627",
+   "note": {
+    "en": "He introduces Cognition's full agent search, arguing it breaks the assumption that agentic retrieval has to be slower than basic RAG.",
+    "zh": "他介绍 Cognition 的全智能体搜索，认为它打破了“智能体检索必然慢于基础 RAG”的固有假设。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-09-08",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "How Devin replaces your junior engineers with infinite AI interns that never sleep | Scott Wu (Cognition CEO)",
+    "zh": "How Devin replaces your junior engineers with infinite AI interns that never sleep | Scott Wu (Cognition CEO)"
+   },
+   "source": "How I AI",
+   "url": "https://podcasts.apple.com/us/podcast/how-devin-replaces-your-junior-engineers-with-infinite/id1809663079?i=1000725502760&uo=4",
+   "note": {
+    "en": "A working demo and discussion of how teams actually deploy Devin alongside human engineers, rather than as a replacement for them.",
+    "zh": "一场实机演示与讨论，说明团队在实际工作中如何让 Devin 与人类工程师协作，而非取代他们。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-08-27",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Cognition CEO Scott Wu on acquiring Windsurf, AI replacing engineers, and the Moneyball-ification of everything",
+    "zh": "Cognition CEO Scott Wu on acquiring Windsurf, AI replacing engineers, and the Moneyball-ification of everything"
+   },
+   "source": "Cheeky Pint",
+   "url": "https://podcasts.apple.com/us/podcast/cognition-ceo-scott-wu-on-acquiring-windsurf-ai-replacing/id1821055332?i=1000723744406&uo=4",
+   "note": {
+    "en": "An interview with John Collison covering the weekend acquisition of Windsurf, what AI does to engineering headcount, and how he thinks about hiring.",
+    "zh": "他与 John Collison 的访谈，谈及周末之内完成的 Windsurf 收购、AI 对工程团队规模的影响，以及他的招聘思路。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-08-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Wave 12! Much bigger one than Wave 11 - starting to incorporate a lot more Devin secret sauce into the Windsurf IDE experience. Give it a try!",
+    "zh": "Wave 12! Much bigger one than Wave 11 - starting to incorporate a lot more Devin secret sauce into the Windsurf IDE experience. Give it a try!"
+   },
+   "source": "@ScottWu46",
+   "url": "https://x.com/ScottWu46/status/1956091289805709575",
+   "note": {
+    "en": "He ships Windsurf Wave 12, the release that begins folding Devin's agent capabilities into the Windsurf IDE after the acquisition.",
+    "zh": "他发布 Windsurf Wave 12——收购之后首次将 Devin 的智能体能力大规模融入 Windsurf IDE 的版本。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-18",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "20VC: Cognition CEO Scott Wu on Acquiring Windsurf: The Process, The Deal, The Rationale | Did Google Overlook a Goldmine in the Core Asset and Did Founders Leave a Sinking Ship | How Cursor and Cognition Deal with Ever Increasing Reliance on Anthropic",
+    "zh": "20VC: Cognition CEO Scott Wu on Acquiring Windsurf: The Process, The Deal, The Rationale | Did Google Overlook a Goldmine in the Core Asset and Did Founders Leave a Sinking Ship | How Cursor and Cognition Deal with Ever Increasing Reliance on Anthropic"
+   },
+   "source": "The Twenty Minute VC (20VC): Venture C…",
+   "url": "https://podcasts.apple.com/us/podcast/20vc-cognition-ceo-scott-wu-on-acquiring-windsurf-the/id958230465?i=1000717859657&uo=4",
+   "note": {
+    "en": "His fullest public account of the Windsurf acquisition — the process, the deal terms and the rationale — given days after it closed.",
+    "zh": "交易完成数日后，他对收购 Windsurf 的过程、条款与动机所做的最完整公开说明。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-07-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "It's been great working with the teams at Goldman Sachs. Proud of Devin for landing one of the hardest jobs on Wall Street :)",
+    "zh": "It's been great working with the teams at Goldman Sachs. Proud of Devin for landing one of the hardest jobs on Wall Street :)"
+   },
+   "source": "@ScottWu46",
+   "url": "https://x.com/ScottWu46/status/1943714578732351589",
+   "note": {
+    "en": "He announces that Devin is deployed with engineering teams at Goldman Sachs, one of Cognition's most cited enterprise references.",
+    "zh": "他宣布 Devin 已进入高盛的工程团队使用，这是 Cognition 最常被引用的企业客户案例之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-06-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ep 115: Scott Wu, Devin, and a Trillion-Dollar Opportunity",
+    "zh": "Ep 115: Scott Wu, Devin, and a Trillion-Dollar Opportunity"
+   },
+   "source": "Joe Lonsdale: American Optimist",
+   "url": "https://podcasts.apple.com/us/podcast/ep-115-scott-wu-devin-and-a-trillion-dollar-opportunity/id1573141757?i=1000712623561&uo=4",
+   "note": {
+    "en": "An interview a year after the Devin demo on how the product went global and why he sees autonomous software engineering as a trillion-dollar market.",
+    "zh": "Devin 演示一年后的访谈，讲述产品如何走向全球，以及他为何认为自主软件工程是万亿美元级的市场。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-05-04",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Inside Devin: The world’s first autonomous AI engineer that's set to write 50% of its company’s code by end of year | Scott Wu (CEO and co-founder of Cognition)",
+    "zh": "Inside Devin: The world’s first autonomous AI engineer that's set to write 50% of its company’s code by end of year | Scott Wu (CEO and co-founder of Cognition)"
+   },
+   "source": "Lenny's Podcast: Product | Career | Gr…",
+   "url": "https://podcasts.apple.com/us/podcast/inside-devin-the-worlds-first-autonomous-ai-engineer/id1627920305?i=1000706147451&uo=4",
+   "note": {
+    "en": "He walks through how Devin works internally and states the goal of having it write half of Cognition's own code by year end.",
+    "zh": "他详细介绍 Devin 的内部运作方式，并提出年内让它写下 Cognition 自身一半代码的目标。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-12-17",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Scott Wu - Building Cognition",
+    "zh": "Scott Wu - Building Cognition"
+   },
+   "source": "Invest Like the Best with Patrick O'Sh…",
+   "url": "https://podcasts.apple.com/us/podcast/scott-wu-building-cognition/id1154105909?i=1000680680210&uo=4",
+   "note": {
+    "en": "An Invest Like the Best episode on the first year of Cognition: building an applied AI lab around a single agent product.",
+    "zh": "Invest Like the Best 节目，讲述 Cognition 的第一年——如何围绕单一智能体产品打造一家应用型 AI 实验室。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-05-02",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Cognition’s Scott Wu on how Devin, the AI software engineer, will work for you",
+    "zh": "Cognition’s Scott Wu on how Devin, the AI software engineer, will work for you"
+   },
+   "source": "No Priors: Artificial Intelligence | T…",
+   "url": "https://podcasts.apple.com/us/podcast/cognitions-scott-wu-on-how-devin-the-ai-software/id1668002688?i=1000654304059&uo=4",
+   "note": {
+    "en": "His first major podcast appearance after the Devin launch, explaining why he believes an AI software engineer creates work for human engineers rather than removing it.",
+    "zh": "Devin 发布后他的首次重要播客访谈，解释他为何认为 AI 软件工程师会为人类工程师创造工作，而非取代他们。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2019-10-14",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "027 - Scott Wu (CTO of Lunchclub) on In-Person Interaction",
+    "zh": "027 - Scott Wu (CTO of Lunchclub) on In-Person Interaction"
+   },
+   "source": "Forward Thinking Founders",
+   "url": "https://podcasts.apple.com/us/podcast/027-scott-wu-cto-of-lunchclub-on-in-person-interaction/id1454168902?i=1000453458461&uo=4",
+   "note": {
+    "en": "Early appearance by Wu, then CTO of Lunchclub, discussing the value of in-person interaction — years before he co-founded Cognition.",
+    "zh": "Wu在创立Cognition之前,以Lunchclub联合创始人兼CTO身份接受采访,探讨线下人际互动的价值。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-05-27",
+   "level": "major",
+   "title": {
+    "en": "$1B Series D at a $26B valuation",
+    "zh": "10 亿美元 D 轮，估值 260 亿美元"
+   },
+   "body": {
+    "en": "Co-led by Lux Capital, General Catalyst and 8VC at a $25B pre-money. Annualized revenue grew from ~$37M to $492M in a year; total raised over $2.5B.",
+    "zh": "Lux Capital、General Catalyst 与 8VC 联合领投，投前估值 250 亿美元。年化收入一年内从约 3700 万增至 4.92 亿美元；累计融资超 25 亿美元。"
+   },
+   "source": "TheNextWeb",
+   "url": "https://thenextweb.com/news/cognition-just-raised-1-billion-at-a-26-billion-valuation-and-90-of-its-own-code-is-written-by-its-ai"
+  },
+  {
+   "date": "2026-08-12",
+   "level": "notable",
+   "title": {
+    "en": "In talks to raise at $40B+ on a $1B run rate",
+    "zh": "以 10 亿美元年化收入洽谈 400 亿美元以上估值新轮"
+   },
+   "body": {
+    "en": "Wu says Devin now writes roughly 95% of Cognition's own code, up from 89% at the Series D.",
+    "zh": "Wu 称 Devin 现已编写 Cognition 约 95% 的代码，D 轮时为 89%。"
+   },
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/"
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T12:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Latest Cognition Raise Boosts Under 30 Alum Scott Wu’s Net Worth To $2.7 Billion",
+    "zh": "Latest Cognition Raise Boosts Under 30 Alum Scott Wu’s Net Worth To $2.7 Billion"
+   },
+   "body": {
+    "en": "Cognition's latest funding round pushed Scott Wu's net worth to $2.7 billion, per Forbes.",
+    "zh": "据福布斯报道，Cognition最新一轮融资使Scott Wu的身家达到27亿美元。"
+   },
+   "source": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYzViZnl4dUhEVVRIdHd4MVJXWjdiOFdtdi1yb2J5ZkY0T2FrQ01yZUFGcHZSSG0yZWJpR0ZvTE00dElkbnJldGpEN2RNYjFzck55VlZUYjAwQmZySzNia0tFQk9sZGcwMTZSWkowYnV3YjBMcnFMeDhuZzQtc05oY0l5b05HQWFKWkdSZWVMTVZEN19JaXVZSW1TaWo0YWJwU3FhaWxWZlNaOFptVENjVmJkT1ZCTU9lV2V2ZzJoWG42MFFFbk04?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-27",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Scott Wu Says Devin Writes 95% of Cognition’s Code — and He’s Betting $2.5 Billion That Independence Beats Joining a Lab",
+    "zh": "Scott Wu Says Devin Writes 95% of Cognition’s Code — and He’s Betting $2.5 Billion That Independence Beats Joining a Lab"
+   },
+   "body": {
+    "en": "Wu said Devin now writes roughly 95% of Cognition's own code and defended staying independent instead of joining a larger lab.",
+    "zh": "Scott Wu 表示 Devin 已承担 Cognition 约95%的代码编写，并说明为何选择保持独立而不并入大厂实验室。"
+   },
+   "source": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xd04yT2gwWDloXzNRdzVLSkN6NEtsRDRBZ0hNUTJ3eTRnV3BEWXNTTUw3S0pZV1V4WjJqTzd3dTI3cHhsOHVsVnhiRnN4QnBqUEh5SXVuRDBmRjQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-29",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+    "zh": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans"
+   },
+   "body": {
+    "en": "Interview published as Cognition raised $1 billion at a $26 billion valuation, in which Wu argued coding agents should assist engineers rather than replace them.",
+    "zh": "在 Cognition 以260亿美元估值完成10亿美元融资之际接受采访，Scott Wu 主张编程智能体应辅助而非取代工程师。"
+   },
+   "source": "techcrunch.com",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWUZLbEtQR0owc1lfcmcwUzU3bzZNaFlVeGtEWmxBZWZDOGRNRmpJaWJFeDRjLXFQeG1XNi0xUmdwSkF5SzlaZDFOX0s3WVl3ZVcwNFBISUNUZVExaWRSUTFwZENQdUI0M3IyWnpuWV9xaWRaWEtNNkN6UUJIWEVBa3M2SjBUcnplUG1zdlRUQmxsd1JaUVhLU082OVh5b1ZyNXc?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "product",
+ "score": {
+  "total": 54.1,
+  "attention": 56,
+  "centrality": 63,
+  "momentum": 41,
+  "stature": null,
+  "pageviews": 107682,
+  "citations": 243,
+  "hIndex": 6,
+  "events": 5,
+  "posts": 33,
+  "wikiEn": "Scott Wu",
+  "wikiZh": null
+ },
+ "seedRank": 58,
+ "tier": "t3"
+}

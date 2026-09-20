@@ -1,0 +1,1438 @@
+{
+ "rank": 56,
+ "id": "oriol-vinyals",
+ "name": {
+  "en": "Oriol Vinyals",
+  "zh": "Oriol Vinyals"
+ },
+ "role": {
+  "en": "Co-founder, Discovery Loop",
+  "zh": "Discovery Loop 联合创始人"
+ },
+ "org": "Discovery Loop",
+ "region": {
+  "en": "United Kingdom / Spain",
+  "zh": "英国/西班牙"
+ },
+ "tags": [
+  "Discovery Loop",
+  "AlphaStar",
+  "seq2seq",
+  "Gemini",
+  "New venture"
+ ],
+ "why": {
+  "en": "Led AlphaStar, co-authored seq2seq and pointer networks, and co-led Gemini. Left Google DeepMind alongside Jeff Dean to build a company automating ML research itself.",
+  "zh": "领导 AlphaStar，seq2seq 与指针网络作者，Gemini 联合技术负责人。与 Jeff Dean 一同离开 Google DeepMind，创立一家自动化机器学习研究本身的公司。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @OriolVinyals",
+   "url": "https://github.com/OriolVinyals",
+   "t": 1
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Oriol+Vinyals",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Oriol+Vinyals",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Oriol+Vinyals",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Oriol+Vinyals&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Oriol+Vinyals&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Oriol+Vinyals",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Oriol+Vinyals",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Oriol+Vinyals",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Oriol+Vinyals",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Oriol+Vinyals",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Oriol+Vinyals",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Oriol+Vinyals",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Oriol+Vinyals",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Oriol+Vinyals&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Oriol_Vinyals",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2016-01-01",
+   "kind": "paper",
+   "title": {
+    "en": "Pointer Networks / seq2seq / AlphaStar",
+    "zh": "指针网络 / seq2seq / AlphaStar"
+   },
+   "source": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Oriol+Vinyals",
+   "note": {
+    "en": "The through-line of his work: sequence models that learn structure, then agents that use it under real-time pressure.",
+    "zh": "他工作的主线：先是学会结构的序列模型，再是能在实时压力下运用结构的智能体。"
+   }
+  },
+  {
+   "date": "2026-08-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Founder Mode activated from my new office ♾ https://t.co/8zN9RDEgPF",
+    "zh": "Founder Mode activated from my new office ♾ https://t.co/8zN9RDEgPF"
+   },
+   "source": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML/status/2085446663116898518",
+   "note": {
+    "en": "Vinyals marks settling into his new venture, Discovery Loop, with a 'Founder Mode' post from his new office.",
+    "zh": "Vinyals发文庆祝进入“创始人模式”，标志着他在新公司Discovery Loop的新办公室安顿下来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Thirteen years ago, a quick email exchange with @JeffDean brought me to @Google. After an unforgettable journey from Brain, to DeepMind, and to @GoogleDeepMind,",
+    "zh": "Thirteen years ago, a quick email exchange with @JeffDean brought me to @Google. After an unforgettable journey from Brain, to DeepMind, and to @GoogleDeepMind,"
+   },
+   "source": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML/status/2085034508777304440",
+   "note": {
+    "en": "Vinyals confirms he has left Google after 13 years — from Brain to DeepMind — to build a new venture with Jeff Dean.",
+    "zh": "Vinyals证实在Google工作13年后离职——历经Brain到DeepMind——将与Jeff Dean共同创立新公司。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-22",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ep 87: Gemini Co-Lead on World Models, RL's Next Domains & Continual Learning",
+    "zh": "Ep 87: Gemini Co-Lead on World Models, RL's Next Domains & Continual Learning"
+   },
+   "source": "Unsupervised Learning with Jacob Effron",
+   "url": "https://podcasts.apple.com/us/podcast/ep-87-gemini-co-lead-on-world-models-rls-next-domains/id1672188924?i=1000769080990&uo=4",
+   "note": {
+    "en": "Vinyals discusses world models, reinforcement learning's next research directions, and continual learning the day after Google I/O, as Gemini's co-lead.",
+    "zh": "作为Gemini项目的联合负责人，Vinyals在Google I/O次日的这期播客中探讨了世界模型、强化学习的下一步方向以及持续学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-05-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "This is my third Google I/O in a row. Some things have changed, some (like the amazing colleagues that were there since day 0) haven't. @JeffDean @borgeaud_s ht",
+    "zh": "This is my third Google I/O in a row. Some things have changed, some (like the amazing colleagues that were there since day 0) haven't. @JeffDean @borgeaud_s ht"
+   },
+   "source": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML/status/2056796792042447121",
+   "note": {
+    "en": "Vinyals reflects on his third consecutive Google I/O, noting the same core colleagues, including Jeff Dean, remain from day one.",
+    "zh": "Vinyals回顾自己连续第三次参加Google I/O，提到包括Jeff Dean在内的核心同事从第一天起就一直在一起。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "1/ Today at Google I/O, we’re launching Gemini 3.5 Flash ⚡️⚡️⚡️! Our mission was clear: bring frontier-level intelligence with unprecedented speed. 3.5 Flash de",
+    "zh": "1/ Today at Google I/O, we’re launching Gemini 3.5 Flash ⚡️⚡️⚡️! Our mission was clear: bring frontier-level intelligence with unprecedented speed. 3.5 Flash de"
+   },
+   "source": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML/status/2056795397474168974",
+   "note": {
+    "en": "Vinyals announces the launch of Gemini 3.5 Flash at Google I/O, aiming for frontier intelligence at high speed.",
+    "zh": "Vinyals在Google I/O上宣布推出Gemini 3.5 Flash，力求以高速实现前沿级智能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "3.1 Flash-Lite 🔦 &gt; 2.5 Flash ⚡️ It happened again. Our newest Flash-Lite model outperforms the previous generation's Flash tier. Smarter. Faster. Cheaper. ht",
+    "zh": "3.1 Flash-Lite 🔦 &gt; 2.5 Flash ⚡️ It happened again. Our newest Flash-Lite model outperforms the previous generation's Flash tier. Smarter. Faster. Cheaper. ht"
+   },
+   "source": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML/status/2028886258571985357",
+   "note": {
+    "en": "Vinyals says the new Gemini 3.1 Flash-Lite outperforms the previous Flash tier, continuing the pattern of smaller models beating prior generations.",
+    "zh": "Vinyals表示新款Gemini 3.1 Flash-Lite的表现超越了上一代Flash级别模型，延续了小模型超越前代的趋势。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Gemini 3.1 Pro has landed! Amazing performance / capabilities across the board. Beyond SOTA, the best are all the things that evals can't measure. E.g. SVG has",
+    "zh": "Gemini 3.1 Pro has landed! Amazing performance / capabilities across the board. Beyond SOTA, the best are all the things that evals can't measure. E.g. SVG has"
+   },
+   "source": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML/status/2024519605570720185",
+   "note": {
+    "en": "Vinyals announces Gemini 3.1 Pro, highlighting gains beyond standard benchmarks such as SVG generation quality.",
+    "zh": "Vinyals宣布推出Gemini 3.1 Pro，强调其在SVG生成质量等标准基准之外的进步。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Personal update: After an amazing 10 years in London, it's time for a major change. One-way ticket back to California 🌞! I'm incredibly excited to return to the",
+    "zh": "Personal update: After an amazing 10 years in London, it's time for a major change. One-way ticket back to California 🌞! I'm incredibly excited to return to the"
+   },
+   "source": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML/status/2022744750319907321",
+   "note": {
+    "en": "Vinyals announces he is relocating from London back to California after 10 years, while continuing to work on Gemini.",
+    "zh": "Vinyals宣布在伦敦工作十年后搬回加州，同时继续负责Gemini的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "An updated &amp; faster Gemini 3 Deep Think is taking off! 🚀 Our smartest mode to date!™️ PhD-level reasoning to the most rigorous STEM challenges (models' gott",
+    "zh": "An updated &amp; faster Gemini 3 Deep Think is taking off! 🚀 Our smartest mode to date!™️ PhD-level reasoning to the most rigorous STEM challenges (models' gott"
+   },
+   "source": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML/status/2021982720860233992",
+   "note": {
+    "en": "Vinyals announces an updated, faster Gemini 3 Deep Think mode with gold-medal-level results on rigorous STEM benchmarks.",
+    "zh": "Vinyals宣布升级版、速度更快的Gemini 3 Deep Think模式，在高难度STEM基准测试中取得金牌级成绩。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Classic LLM dilemma: smart vs fast. The new reality with Gemini 3 Flash: Why not both? That trade-off has never felt smaller. Congrats to the team! ⚡️ https://t",
+    "zh": "Classic LLM dilemma: smart vs fast. The new reality with Gemini 3 Flash: Why not both? That trade-off has never felt smaller. Congrats to the team! ⚡️ https://t"
+   },
+   "source": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML/status/2001325389306872134",
+   "note": {
+    "en": "Vinyals highlights Gemini 3 Flash closing the gap between model speed and intelligence.",
+    "zh": "Vinyals强调Gemini 3 Flash缩小了模型速度与智能水平之间的差距。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-11-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "On my way to Barcelona to receive a Doctor Honoris Causa from my alma mater, @la_UPC. Truly honored! 🎓 Join Thursday for my Master Class, \"From AI to AGI: The Q",
+    "zh": "On my way to Barcelona to receive a Doctor Honoris Causa from my alma mater, @la_UPC. Truly honored! 🎓 Join Thursday for my Master Class, \"From AI to AGI: The Q"
+   },
+   "source": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML/status/1993333671286206751",
+   "note": {
+    "en": "Vinyals receives an honorary doctorate (Doctor Honoris Causa) from his alma mater, UPC Barcelona.",
+    "zh": "Vinyals获得母校巴塞罗那UPC大学授予的荣誉博士学位。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-11-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The secret behind Gemini 3? Simple: Improving pre-training & post-training 🤯 Pre-training: Contra the popular belief that scaling is over—which we discussed in",
+    "zh": "The secret behind Gemini 3? Simple: Improving pre-training & post-training 🤯 Pre-training: Contra the popular belief that scaling is over—which we discussed in"
+   },
+   "source": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML/status/1990854455802343680",
+   "note": {
+    "en": "Vinyals explains that Gemini 3's gains came from improving both pre-training and post-training, pushing back on claims that scaling has stalled.",
+    "zh": "Vinyals解释Gemini 3的进步来自预训练和后训练两方面的改进，反驳了“扩展规律已失效”的说法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemini Robotics 1.5: Pushing the Frontier of Generalist Robots with Advanced Embodied Reasoning, Thinking, and Motion Transfer",
+    "zh": "Gemini Robotics 1.5: Pushing the Frontier of Generalist Robots with Advanced Embodied Reasoning, Thinking, and Motion Transfer"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2510.03342v3",
+   "note": {
+    "en": "The Gemini Robotics 1.5 report, extending Gemini's embodied reasoning to motion transfer between different robot bodies.",
+    "zh": "Gemini Robotics 1.5 技术报告，将 Gemini 的具身推理扩展到不同机器人本体之间的动作迁移。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-08-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We've just upgraded Gemini 2.5 Flash image generation &amp; editing! 🍌🍌🍌 Besides topping leaderboards, it topped my model usage this month. It keeps subjects co",
+    "zh": "We've just upgraded Gemini 2.5 Flash image generation &amp; editing! 🍌🍌🍌 Besides topping leaderboards, it topped my model usage this month. It keeps subjects co"
+   },
+   "source": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML/status/1960343791283433842",
+   "note": {
+    "en": "Vinyals announces an upgrade to Gemini 2.5 Flash image generation and editing, with better subject consistency.",
+    "zh": "Vinyals宣布升级Gemini 2.5 Flash图像生成与编辑功能，主体一致性表现更佳。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-08-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Incredible evolution of \"Neural Video Games\": from GQN (2018) to Genie3 (2025). The future is exciting! https://t.co/EYygTAa3UF https://t.co/0pd9CwpxHw",
+    "zh": "Incredible evolution of \"Neural Video Games\": from GQN (2018) to Genie3 (2025). The future is exciting! https://t.co/EYygTAa3UF https://t.co/0pd9CwpxHw"
+   },
+   "source": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML/status/1952766969859457064",
+   "note": {
+    "en": "Vinyals reflects on the progress of AI-generated interactive video, from 2018's GQN to 2025's Genie3.",
+    "zh": "Vinyals回顾AI生成交互式视频的进展，从2018年的GQN到2025年的Genie3。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-08-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Gemini 2.5 Deep Think is rolling out to Google AI Ultra subscribers! It uses advances in parallel reasoning &amp; RL to tackle tough math &amp; science problems",
+    "zh": "Gemini 2.5 Deep Think is rolling out to Google AI Ultra subscribers! It uses advances in parallel reasoning &amp; RL to tackle tough math &amp; science problems"
+   },
+   "source": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML/status/1951307191752839558",
+   "note": {
+    "en": "Vinyals announces Gemini 2.5 Deep Think rolling out to Google AI Ultra subscribers, using parallel reasoning and RL for tough problems.",
+    "zh": "Vinyals宣布Gemini 2.5 Deep Think向Google AI Ultra订阅用户推出，利用并行推理和强化学习解决高难度问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-07-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Drastic progress on maths with Gemini 2.5! As a math undergrad, I am impressed 🤯 🥈 -&gt; 🥇 ✅ Formal -&gt; Informal ✅ Specialized model -&gt; General model ✅ Ava",
+    "zh": "Drastic progress on maths with Gemini 2.5! As a math undergrad, I am impressed 🤯 🥈 -&gt; 🥇 ✅ Formal -&gt; Informal ✅ Specialized model -&gt; General model ✅ Ava"
+   },
+   "source": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML/status/1947341047547199802",
+   "note": {
+    "en": "Vinyals highlights Gemini 2.5's leap in math performance, moving from formal to informal problem solving with a general-purpose model.",
+    "zh": "Vinyals强调Gemini 2.5在数学能力上的飞跃，用通用模型实现了从形式化到非形式化的解题能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-07-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+    "zh": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2507.06261v6",
+   "note": {
+    "en": "The Gemini 2.5 model family report, covering reasoning, long context and agentic capability on the model line he co-led.",
+    "zh": "Gemini 2.5 系列模型技术报告，涵盖推理、长上下文与智能体能力，这条模型线由他共同领导。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-06-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "\"A Neural Conversational Model\" is 10 years old, w/ @quocleix . TL;DR you can train a chatbot with a large neural network (~500M params!). Samples 👇 This paper",
+    "zh": "\"A Neural Conversational Model\" is 10 years old, w/ @quocleix . TL;DR you can train a chatbot with a large neural network (~500M params!). Samples 👇 This paper"
+   },
+   "source": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML/status/1936157090164187285",
+   "note": {
+    "en": "Vinyals marks the 10th anniversary of his own seminal paper 'A Neural Conversational Model,' reflecting on its mixed initial reception.",
+    "zh": "Vinyals纪念自己的开创性论文《A Neural Conversational Model》发表十周年，回顾其当初褒贬不一的反响。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-06-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Hello Gemini 2.5 Flash-Lite! So fast, it codes *each screen* on the fly (Neural OS concept 👇). The frontier isn't always about large models and beating benchmar",
+    "zh": "Hello Gemini 2.5 Flash-Lite! So fast, it codes *each screen* on the fly (Neural OS concept 👇). The frontier isn't always about large models and beating benchmar"
+   },
+   "source": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML/status/1935005985070084197",
+   "note": {
+    "en": "Vinyals introduces Gemini 2.5 Flash-Lite and a 'Neural OS' concept that codes each screen on the fly.",
+    "zh": "Vinyals发布Gemini 2.5 Flash-Lite，并提出实时生成每个界面的“神经操作系统”概念。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-06-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Introducing the new Gemini 2.5 Pro preview, with a +24 LMArena Elo score over its predecessor! 📈 It leads on tough coding (AIME, AIDER), science (GPQA), and rea",
+    "zh": "Introducing the new Gemini 2.5 Pro preview, with a +24 LMArena Elo score over its predecessor! 📈 It leads on tough coding (AIME, AIDER), science (GPQA), and rea"
+   },
+   "source": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML/status/1930680107116511719",
+   "note": {
+    "en": "Vinyals announces the Gemini 2.5 Pro preview, citing a +24 LMArena Elo gain over its predecessor.",
+    "zh": "Vinyals宣布Gemini 2.5 Pro预览版，称其LMArena Elo评分较前代提升24分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-05-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Yesterday at #GoogleIO, we introduced Gemini 2.5 Pro Deep Think 🧠, pushing the frontiers of AI reasoning. This enhanced reasoning mode is built to tackle drasti",
+    "zh": "Yesterday at #GoogleIO, we introduced Gemini 2.5 Pro Deep Think 🧠, pushing the frontiers of AI reasoning. This enhanced reasoning mode is built to tackle drasti"
+   },
+   "source": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML/status/1925360541146784023",
+   "note": {
+    "en": "Vinyals introduces Gemini 2.5 Pro Deep Think at Google I/O, a reasoning mode built for drastically complex problems like USAMO.",
+    "zh": "Vinyals在Google I/O上发布Gemini 2.5 Pro Deep Think，这是为USAMO等高难度问题设计的推理模式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-05-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Veo2 was already SOTA, but Veo3 is something else! Been having a blast playing with it, and loving all the creativity now that it's out (more in 🧵). Me walking",
+    "zh": "Veo2 was already SOTA, but Veo3 is something else! Been having a blast playing with it, and loving all the creativity now that it's out (more in 🧵). Me walking"
+   },
+   "source": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML/status/1925259191301939204",
+   "note": {
+    "en": "Vinyals praises Veo3's creative capabilities over Veo2, teasing future work on Gemini 3 and Veo4.",
+    "zh": "Vinyals称赞Veo3相较Veo2在创造力方面的提升，并暗示未来将推进Gemini 3与Veo4的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-05-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Today we introduced Gemini Diffusion⚡️ (& DeepThink, Veo3, Imagen4, 2.5 updates...). It's been a dream of mine to remove the need for \"left to right\" text gener",
+    "zh": "Today we introduced Gemini Diffusion⚡️ (& DeepThink, Veo3, Imagen4, 2.5 updates...). It's been a dream of mine to remove the need for \"left to right\" text gener"
+   },
+   "source": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML/status/1924952304324837469",
+   "note": {
+    "en": "Vinyals introduces Gemini Diffusion, calling it a step toward removing the need for left-to-right text generation.",
+    "zh": "Vinyals发布Gemini Diffusion，称其是摆脱从左到右文本生成方式的重要一步。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-05-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Ahead of I/O, we’re releasing an updated Gemini 2.5 Pro! It’s now #1 on WebDevArena leaderboard, breaking the 1400 ELO barrier! 🥇 Our most advanced coding model",
+    "zh": "Ahead of I/O, we’re releasing an updated Gemini 2.5 Pro! It’s now #1 on WebDevArena leaderboard, breaking the 1400 ELO barrier! 🥇 Our most advanced coding model"
+   },
+   "source": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML/status/1919770619182215440",
+   "note": {
+    "en": "Vinyals announces an updated Gemini 2.5 Pro ahead of I/O, now ranked #1 on the WebDevArena coding leaderboard.",
+    "zh": "Vinyals在I/O前宣布更新版Gemini 2.5 Pro，在WebDevArena编程排行榜上登顶第一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-04-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "It's not only about how long your context is, but how well you use it. Great to see Gemini 2.5 models dominating MRCR and other benchmarks on long context! See",
+    "zh": "It's not only about how long your context is, but how well you use it. Great to see Gemini 2.5 models dominating MRCR and other benchmarks on long context! See"
+   },
+   "source": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML/status/1916917758023139670",
+   "note": {
+    "en": "Vinyals highlights Gemini 2.5 models' strong performance on long-context benchmarks like MRCR.",
+    "zh": "Vinyals强调Gemini 2.5系列模型在MRCR等长上下文基准测试中的出色表现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-04-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We are blown away by the reception of Gemini 2.5 Pro, and the many positive surprises from benchmarks and community evaluations. That is the ultimate leaderboar",
+    "zh": "We are blown away by the reception of Gemini 2.5 Pro, and the many positive surprises from benchmarks and community evaluations. That is the ultimate leaderboar"
+   },
+   "source": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML/status/1911107490202148915",
+   "note": {
+    "en": "Vinyals says Gemini 2.5 Pro's reception has exceeded expectations across benchmarks and community evaluation.",
+    "zh": "Vinyals表示Gemini 2.5 Pro在基准测试和社区评价中的反响超出预期。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-04-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "MCP here we come! ♊️🚀 We’re collaborating w/ the MCP team, and want to hear directly from you again! What do you need from Gemini models to build more powerful",
+    "zh": "MCP here we come! ♊️🚀 We’re collaborating w/ the MCP team, and want to hear directly from you again! What do you need from Gemini models to build more powerful"
+   },
+   "source": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML/status/1910053783968641123",
+   "note": {
+    "en": "Vinyals announces the Gemini team is collaborating with the MCP team and soliciting developer feedback.",
+    "zh": "Vinyals宣布Gemini团队正与MCP团队合作，并征求开发者的反馈意见。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-03-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "A mere ~16 point jump on https://t.co/szwIJDhfk1. Such a good model! Gemini 2.5 Pro ♊️ https://t.co/kvBA6C1ef6",
+    "zh": "A mere ~16 point jump on https://t.co/szwIJDhfk1. Such a good model! Gemini 2.5 Pro ♊️ https://t.co/kvBA6C1ef6"
+   },
+   "source": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML/status/1904920302053650713",
+   "note": {
+    "en": "Vinyals notes a roughly 16-point benchmark jump for Gemini 2.5 Pro.",
+    "zh": "Vinyals指出Gemini 2.5 Pro在基准测试中取得约16分的提升。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-03-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemini Robotics: Bringing AI into the Physical World",
+    "zh": "Gemini Robotics: Bringing AI into the Physical World"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2503.20020v1",
+   "note": {
+    "en": "The first Gemini Robotics report, adapting Gemini's multimodal models to control physical robots.",
+    "zh": "第一份 Gemini Robotics 报告，将 Gemini 多模态模型用于控制真实机器人。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-03-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemma 3 Technical Report",
+    "zh": "Gemma 3 Technical Report"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2503.19786v1",
+   "note": {
+    "en": "Technical report for Gemma 3, the open-weight family that added vision understanding and longer context at 1B to 27B scale.",
+    "zh": "Gemma 3 技术报告，这一开放权重模型系列在 10 亿至 270 亿参数规模上加入了视觉理解与更长上下文。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-03-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Introducing Gemini 2.5 Pro Experimental! 🎉 Our newest Gemini model has stellar performance across math and science benchmarks. It’s an incredible model for codi",
+    "zh": "Introducing Gemini 2.5 Pro Experimental! 🎉 Our newest Gemini model has stellar performance across math and science benchmarks. It’s an incredible model for codi"
+   },
+   "source": "@OriolVinyalsML",
+   "url": "https://x.com/OriolVinyalsML/status/1904583691566727361",
+   "note": {
+    "en": "Vinyals introduces Gemini 2.5 Pro Experimental, citing strong math, science and coding benchmark performance, ranking #1.",
+    "zh": "Vinyals发布Gemini 2.5 Pro Experimental，称其在数学、科学和编程基准测试中表现优异并排名第一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-12-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Gemini 2.0 and the Evolution of Agentic AI with Oriol Vinyals",
+    "zh": "Gemini 2.0 and the Evolution of Agentic AI with Oriol Vinyals"
+   },
+   "source": "Google DeepMind: The Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/gemini-2-0-and-the-evolution-of-agentic-ai-with-oriol-vinyals/id1476316441?i=1000680164363&uo=4",
+   "note": {
+    "en": "A Google DeepMind podcast interview on Gemini 2.0 and the shift from single-task models to general-purpose agents.",
+    "zh": "Google DeepMind 播客访谈，讨论 Gemini 2.0 以及从单任务模型走向通用智能体的转变。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-08-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Practitioner's Guide to Continual Multimodal Pretraining",
+    "zh": "A Practitioner's Guide to Continual Multimodal Pretraining"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2408.14471v2",
+   "note": {
+    "en": "A study of how to keep multimodal foundation models current through continual pretraining, co-authored with the Tübingen group.",
+    "zh": "与图宾根研究组合作的论文，研究如何通过持续预训练让多模态基础模型保持不过时。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-08-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Imagen 3",
+    "zh": "Imagen 3"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2408.07009v3",
+   "note": {
+    "en": "The Imagen 3 report on Google's text-to-image latent diffusion model and its quality and responsibility evaluations.",
+    "zh": "Imagen 3 技术报告，介绍谷歌的文生图潜在扩散模型及其质量与责任评估。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-08-01",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Google DeepMind's Vision for AI, Search and Gemini with Oriol Vinyals from Google DeepMind",
+    "zh": "Google DeepMind's Vision for AI, Search and Gemini with Oriol Vinyals from Google DeepMind"
+   },
+   "source": "No Priors: Artificial Intelligence | T…",
+   "url": "https://podcasts.apple.com/us/podcast/google-deepminds-vision-for-ai-search-and-gemini/id1668002688?i=1000664020195&uo=4",
+   "note": {
+    "en": "A No Priors interview on Google DeepMind's research direction, the future of search, and the Gemini project he co-led.",
+    "zh": "No Priors 播客访谈，谈 Google DeepMind 的研究方向、搜索的未来，以及他共同领导的 Gemini 项目。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-07-31",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemma 2: Improving Open Language Models at a Practical Size",
+    "zh": "Gemma 2: Improving Open Language Models at a Practical Size"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2408.00118v3",
+   "note": {
+    "en": "The Gemma 2 report on open language models from 2B to 27B parameters.",
+    "zh": "Gemma 2 技术报告，介绍 20 亿至 270 亿参数的开放语言模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-04-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Capabilities of Gemini Models in Medicine",
+    "zh": "Capabilities of Gemini Models in Medicine"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2404.18416v2",
+   "note": {
+    "en": "Med-Gemini: adapting the Gemini models to medical reasoning and multimodal clinical tasks.",
+    "zh": "Med-Gemini：将 Gemini 模型用于医学推理和多模态临床任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-03-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemma: Open Models Based on Gemini Research and Technology",
+    "zh": "Gemma: Open Models Based on Gemini Research and Technology"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2403.08295v4",
+   "note": {
+    "en": "Introduces Gemma, a family of lightweight open models built from the research and technology behind Gemini.",
+    "zh": "提出 Gemma，一系列基于 Gemini 研究与技术构建的轻量级开放模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-03-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context",
+    "zh": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2403.05530v5",
+   "note": {
+    "en": "The Gemini 1.5 report, introducing recall and reasoning over millions of tokens of context.",
+    "zh": "Gemini 1.5 技术报告，提出在数百万 token 上下文中进行检索与推理的能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Practitioner's Guide to Real-World Continual Multimodal Pretraining",
+    "zh": "A Practitioner's Guide to Real-World Continual Multimodal Pretraining"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.52202/079017-4252",
+   "note": {
+    "en": "Extended practitioner's guide to continual multimodal pretraining in real-world deployment settings.",
+    "zh": "面向真实部署场景的持续多模态预训练实践指南（扩展版）。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2023-12-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemini: A Family of Highly Capable Multimodal Models",
+    "zh": "Gemini: A Family of Highly Capable Multimodal Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2312.11805v5",
+   "note": {
+    "en": "The original Gemini report, introducing the multimodal model family he co-led at Google DeepMind.",
+    "zh": "最初的 Gemini 技术报告，介绍他在 Google DeepMind 共同领导的多模态模型系列。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-11-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Learning skillful medium-range global weather forecasting",
+    "zh": "Learning skillful medium-range global weather forecasting"
+   },
+   "source": "Science",
+   "url": "https://doi.org/10.1126/science.adi2336",
+   "note": {
+    "en": "Science paper on machine-learning-based medium-range global weather forecasting (GraphCast line of work).",
+    "zh": "发表于《科学》的论文，介绍基于机器学习的中期全球天气预报方法（GraphCast系列）。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2023-10-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Fantastic Gains and Where to Find Them: On the Existence and Prospect of General Knowledge Transfer between Any Pretrained Model",
+    "zh": "Fantastic Gains and Where to Find Them: On the Existence and Prospect of General Knowledge Transfer between Any Pretrained Model"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2310.17653v2",
+   "note": {
+    "en": "Shows that independently trained models hold complementary knowledge, and that it can be transferred between any pair of them.",
+    "zh": "论文表明独立训练的模型各自掌握互补知识，并且这些知识可以在任意两个模型之间迁移。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-10-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Waffling around for Performance: Visual Classification with Random Words and Broad Concepts",
+    "zh": "Waffling around for Performance: Visual Classification with Random Words and Broad Concepts"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.1109/iccv51070.2023.01443",
+   "note": {
+    "en": "ICCV paper on visual classification using random words and broad concepts as a diagnostic baseline.",
+    "zh": "ICCV论文，用随机词语和宽泛概念作为诊断基线研究视觉分类性能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2023-08-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "AlphaStar Unplugged: Large-Scale Offline Reinforcement Learning",
+    "zh": "AlphaStar Unplugged: Large-Scale Offline Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2308.03526v1",
+   "note": {
+    "en": "An offline reinforcement learning benchmark and agents built from StarCraft II replays, following on from his AlphaStar work.",
+    "zh": "基于《星际争霸II》录像构建的离线强化学习基准与智能体，延续了他的 AlphaStar 工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-05-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Optimizing Memory Mapping Using Deep Reinforcement Learning",
+    "zh": "Optimizing Memory Mapping Using Deep Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2305.07440v2",
+   "note": {
+    "en": "Applies deep reinforcement learning to the compiler memory-mapping problem, a systems use of RL in the AlphaZero lineage.",
+    "zh": "将深度强化学习用于编译器内存映射问题，是 AlphaZero 一脉强化学习在系统领域的应用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-12-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GraphCast: Learning skillful medium-range global weather forecasting",
+    "zh": "GraphCast: Learning skillful medium-range global weather forecasting"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2212.12794v2",
+   "note": {
+    "en": "GraphCast, a graph neural network that outperforms traditional numerical weather prediction at medium-range global forecasting.",
+    "zh": "GraphCast：一个图神经网络，在中期全球天气预报上超过了传统数值预报方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-07-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#306 – Oriol Vinyals: Deep Learning and Artificial General Intelligence",
+    "zh": "#306 – Oriol Vinyals: Deep Learning and Artificial General Intelligence"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/306-oriol-vinyals-deep-learning-and-artificial/id1434243584?i=1000571242933&uo=4",
+   "note": {
+    "en": "A long-form Lex Fridman interview on deep learning, agents and what would be needed for artificial general intelligence.",
+    "zh": "Lex Fridman 长篇访谈，讨论深度学习、智能体，以及实现通用人工智能所需的条件。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-06-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Emergent Abilities of Large Language Models",
+    "zh": "Emergent Abilities of Large Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2206.07682v2",
+   "note": {
+    "en": "The paper that framed emergent abilities of large language models as capabilities absent in smaller models and unpredictable from scaling curves.",
+    "zh": "这篇论文提出大语言模型的涌现能力概念：小模型不具备、也无法从缩放曲线预测的能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-05-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Generalist Agent",
+    "zh": "A Generalist Agent"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2205.06175v3",
+   "note": {
+    "en": "Gato, a single generalist agent trained across text, images and robot control with one set of weights.",
+    "zh": "Gato：用一套权重同时处理文本、图像和机器人控制的通用智能体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-05-11",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Oriol Vinyals, DeepMind",
+    "zh": "Oriol Vinyals, DeepMind"
+   },
+   "source": "Eye On A.I.",
+   "url": "https://podcasts.apple.com/us/podcast/oriol-vinyals-deepmind/id1438378439?i=1000560621450&uo=4",
+   "note": {
+    "en": "An Eye On A.I. interview on AlphaCode, his team's code-writing model, and DeepMind's route toward general intelligence.",
+    "zh": "Eye On A.I. 访谈，谈他团队的代码生成模型 AlphaCode 以及 DeepMind 通向通用智能的路径。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-04-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Flamingo: a Visual Language Model for Few-Shot Learning",
+    "zh": "Flamingo: a Visual Language Model for Few-Shot Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2204.14198v2",
+   "note": {
+    "en": "Flamingo, a visual language model that adapts to new vision-language tasks from a handful of examples.",
+    "zh": "Flamingo：一个只需少量示例就能适应新的视觉语言任务的视觉语言模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-03-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Training Compute-Optimal Large Language Models",
+    "zh": "Training Compute-Optimal Large Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2203.15556v1",
+   "note": {
+    "en": "The Chinchilla paper, showing that the large language models of the day were badly undertrained for their compute budget.",
+    "zh": "Chinchilla 论文，指出当时的大语言模型相对其算力预算训练严重不足。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-03-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Non-isotropy Regularization for Proxy-based Deep Metric Learning",
+    "zh": "Non-isotropy Regularization for Proxy-based Deep Metric Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2203.08547v1",
+   "note": {
+    "en": "A regularizer that keeps proxy-based deep metric learning embeddings from collapsing into non-isotropic directions.",
+    "zh": "提出一种正则化方法，避免基于代理的深度度量学习嵌入塌缩到各向异性的方向上。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-03-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Integrating Language Guidance into Vision-based Deep Metric Learning",
+    "zh": "Integrating Language Guidance into Vision-based Deep Metric Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2203.08543v1",
+   "note": {
+    "en": "Uses language supervision to make vision-based metric-learning embeddings generalise to classes never seen in training.",
+    "zh": "利用语言监督，使基于视觉的度量学习嵌入能够泛化到训练中未见过的类别。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-02-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "HiP: Hierarchical Perceiver",
+    "zh": "HiP: Hierarchical Perceiver"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2202.10890v2",
+   "note": {
+    "en": "Hierarchical Perceiver, a redesign that lets general-purpose Perceiver models handle far larger inputs.",
+    "zh": "Hierarchical Perceiver：通过分层重构，让通用 Perceiver 模型能够处理规模大得多的输入。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-02-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "General-purpose, long-context autoregressive modeling with Perceiver AR",
+    "zh": "General-purpose, long-context autoregressive modeling with Perceiver AR"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2202.07765v2",
+   "note": {
+    "en": "Perceiver AR, an autoregressive Perceiver for generation over inputs of hundreds of thousands of elements.",
+    "zh": "Perceiver AR：一种自回归 Perceiver 模型，可在数十万元素规模的输入上进行生成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-02-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "MuZero with Self-competition for Rate Control in VP9 Video Compression",
+    "zh": "MuZero with Self-competition for Rate Control in VP9 Video Compression"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2202.06626v1",
+   "note": {
+    "en": "Applies MuZero with self-competition to rate control in VP9 video compression, cutting bitrate on real streaming traffic.",
+    "zh": "将带自我竞争机制的 MuZero 用于 VP9 视频压缩的码率控制，在真实流媒体流量上降低了码率。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-12-20",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Deep Learning, Transformers, and the Consequences of Scale with Oriol Vinyals",
+    "zh": "Deep Learning, Transformers, and the Consequences of Scale with Oriol Vinyals"
+   },
+   "source": "The TWIML AI Podcast (formerly This We…",
+   "url": "https://podcasts.apple.com/us/podcast/deep-learning-transformers-and-the-consequences/id1116303051?i=1000545538468&uo=4",
+   "note": {
+    "en": "A NeurIPS-week TWIML interview on transformers and what scale does and does not change about deep learning.",
+    "zh": "NeurIPS 期间的 TWIML 访谈，讨论 Transformer 以及规模化对深度学习改变了什么、又没有改变什么。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2019-12-29",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AlphaStar - Aprendizaje por refuerzo - Oriol Vinyals - Parte 2",
+    "zh": "AlphaStar - Aprendizaje por refuerzo - Oriol Vinyals - Parte 2"
+   },
+   "source": "Software 2.0",
+   "url": "https://podcasts.apple.com/us/podcast/alphastar-aprendizaje-por-refuerzo-oriol-vinyals-parte-2/id1488587713?i=1000461593695&uo=4",
+   "note": {
+    "en": "Part two of a Spanish-language Software 2.0 interview on AlphaStar and reinforcement learning in StarCraft II.",
+    "zh": "西班牙语播客 Software 2.0 访谈第二部分，谈 AlphaStar 与《星际争霸II》中的强化学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2019-12-29",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AlphaStar - Aprendizaje por refuerzo - Oriol Vinyals - Parte 3 (Última)",
+    "zh": "AlphaStar - Aprendizaje por refuerzo - Oriol Vinyals - Parte 3 (Última)"
+   },
+   "source": "Software 2.0",
+   "url": "https://podcasts.apple.com/us/podcast/alphastar-aprendizaje-por-refuerzo-oriol-vinyals-parte/id1488587713?i=1000461593694&uo=4",
+   "note": {
+    "en": "The closing part of the Spanish-language Software 2.0 interview, on where reinforcement learning research goes after AlphaStar.",
+    "zh": "西班牙语播客 Software 2.0 访谈的最后一部分，谈 AlphaStar 之后强化学习研究的走向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2019-12-29",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AlphaStar - Aprendizaje por refuerzo - Oriol Vinyals - Parte 1",
+    "zh": "AlphaStar - Aprendizaje por refuerzo - Oriol Vinyals - Parte 1"
+   },
+   "source": "Software 2.0",
+   "url": "https://podcasts.apple.com/us/podcast/alphastar-aprendizaje-por-refuerzo-oriol-vinyals-parte-1/id1488587713?i=1000461593691&uo=4",
+   "note": {
+    "en": "Part one of a Spanish-language Software 2.0 interview on how AlphaStar was built to play StarCraft II.",
+    "zh": "西班牙语播客 Software 2.0 访谈第一部分，讲述 AlphaStar 如何被打造来玩《星际争霸II》。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2019-08-20",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Life is like a game",
+    "zh": "Life is like a game"
+   },
+   "source": "Google DeepMind: The Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/life-is-like-a-game/id1476316441?i=1000447319598&uo=4",
+   "note": {
+    "en": "On DeepMind's own podcast, Vinyals discusses AlphaStar, the StarCraft II-playing system he led, as a testbed for AI research.",
+    "zh": "在DeepMind官方播客中，Vinyals介绍了由他主导的AlphaStar系统——一个以《星际争霸II》为测试平台的AI研究项目。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2019-04-29",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Oriol Vinyals: DeepMind AlphaStar, StarCraft, Language, and Sequences",
+    "zh": "Oriol Vinyals: DeepMind AlphaStar, StarCraft, Language, and Sequences"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/oriol-vinyals-deepmind-alphastar-starcraft-language/id1434243584?i=1000436814794&uo=4",
+   "note": {
+    "en": "A Lex Fridman interview on AlphaStar, StarCraft II and the sequence models behind his earlier work.",
+    "zh": "Lex Fridman 访谈，谈 AlphaStar、《星际争霸II》以及他早期工作背后的序列模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-08-05",
+   "level": "major",
+   "title": {
+    "en": "Leaves Google DeepMind to co-found Discovery Loop",
+    "zh": "离开 Google DeepMind，联合创立 Discovery Loop"
+   },
+   "body": {
+    "en": "Joins Jeff Dean, Sanjay Ghemawat and Quoc Le. Google is a founding investor and cloud partner.",
+    "zh": "与 Jeff Dean、Sanjay Ghemawat、Quoc Le 同行。Google 为创始投资人兼云伙伴。"
+   },
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/"
+  },
+  {
+   "date": "2026-08-05",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Yann LeCun, Oriol Vinyals Launch 224 Ventures with $100 Mn for AI Startups",
+    "zh": "Yann LeCun, Oriol Vinyals Launch 224 Ventures with $100 Mn for AI Startups"
+   },
+   "body": {
+    "en": "Vinyals joins Yann LeCun to launch 224 Ventures, a $100M fund writing early-stage cheques to AI startups.",
+    "zh": "Vinyals 与 Yann LeCun 共同创办 1 亿美元规模的 224 Ventures，专投早期 AI 创业公司。"
+   },
+   "source": "analyticsindiamag.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbGg2VS1TQnI2WmNCdzRTQnFuVFVpOGFETFR3ck55cmM3ak5Od2xDUm50SzA4dEx1a01RSDd0MEJHTVJkZzhfbjlGTFBid296QmM2dVpyOUg3dWc4TVVSclpvbXhfaE9xZl9iVTdzand0R2tvU3lpQ2hWT2FVZEJnNk9VVzIwRHpBM1prMzRjM0NSY3JCWEdQeEZBX0NLTkdOaVp1Q0RYVW16M05HRGE4?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": true,
+ "was": {
+  "en": "VP of Research, Google DeepMind",
+  "zh": "Google DeepMind 研究副总裁"
+ },
+ "cat": "lab",
+ "score": {
+  "total": 41.8,
+  "attention": 26,
+  "centrality": 72,
+  "momentum": 17,
+  "stature": 83,
+  "pageviews": 23774,
+  "citations": 175805,
+  "hIndex": 95,
+  "events": 2,
+  "posts": 66,
+  "wikiEn": "Oriol Vinyals",
+  "wikiZh": "奧里奧爾·維尼亞爾斯"
+ },
+ "seedRank": 19,
+ "tier": "t4"
+}

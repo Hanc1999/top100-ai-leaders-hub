@@ -1,0 +1,1352 @@
+{
+ "rank": 92,
+ "id": "song-han",
+ "name": {
+  "en": "Song Han",
+  "zh": "韩松"
+ },
+ "role": {
+  "en": "Associate Professor, MIT EECS; Lead of Efficient AI, NVIDIA Research",
+  "zh": "MIT EECS 副教授；NVIDIA Research Efficient AI 团队负责人"
+ },
+ "org": "MIT / NVIDIA",
+ "region": {
+  "en": "United States / China",
+  "zh": "美国/中国"
+ },
+ "tags": [
+  "MIT",
+  "NVIDIA",
+  "Deep Compression",
+  "AWQ",
+  "SmoothQuant",
+  "TinyChat"
+ ],
+ "why": {
+  "en": "Pioneered model compression, pruning and quantization. Deep Compression and AWQ are the technical basis of efficient large-model inference today; SmoothQuant, AWQ and StreamingLLM are all in NVIDIA TensorRT-LLM.",
+  "zh": "模型压缩、剪枝与量化的开创者。Deep Compression 与 AWQ 是当今大模型高效推理的技术基础；SmoothQuant、AWQ 与 StreamingLLM 均已被 NVIDIA TensorRT-LLM 采用。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@songhan_mit",
+   "url": "https://x.com/songhan_mit",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "MIT HAN Lab",
+   "url": "https://hanlab.mit.edu/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "hanlab.mit.edu/songhan",
+   "url": "https://hanlab.mit.edu/songhan",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Personal site",
+   "url": "https://hanlab.mit.edu/blog",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @songhan",
+   "url": "https://github.com/songhan",
+   "t": 1
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face @songhan",
+   "url": "https://huggingface.co/songhan",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "NVIDIA Efficient AI",
+   "url": "https://research.nvidia.com/labs/eai/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Song+Han",
+   "t": 3
+  },
+  {
+   "kind": "weibo",
+   "label": "微博 — 搜索",
+   "url": "https://s.weibo.com/user?q=%E9%9F%A9%E6%9D%BE",
+   "t": 3
+  },
+  {
+   "kind": "zhihu",
+   "label": "知乎 — 搜索",
+   "url": "https://www.zhihu.com/search?type=people&q=%E9%9F%A9%E6%9D%BE",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "微信公众号 — 搜索",
+   "url": "https://weixin.sogou.com/weixin?type=2&query=%E9%9F%A9%E6%9D%BE",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "B 站 — 搜索",
+   "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9D%BE",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Song+Han",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Song+Han",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Song+Han&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Song+Han&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=%E9%9F%A9%E6%9D%BE",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Song+Han",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?user=E0iCaa4AAAAJ&hl=en",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Song+Han",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Song+Han",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Song+Han",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Song+Han",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Song+Han",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Song+Han&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "中文报道 — 最新",
+   "url": "https://www.google.com/search?q=%E9%9F%A9%E6%9D%BE+AI&tbm=nws&hl=zh-CN",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2015-10-01",
+   "kind": "paper",
+   "title": {
+    "en": "Deep Compression: pruning, quantization and Huffman coding",
+    "zh": "Deep Compression：剪枝、量化与霍夫曼编码"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1510.00149",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2023-06-01",
+   "kind": "paper",
+   "title": {
+    "en": "AWQ: activation-aware weight quantization for LLM compression",
+    "zh": "AWQ：面向大模型压缩的激活感知权重量化"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2306.00978",
+   "note": {
+    "en": "Adopted by NVIDIA TensorRT-LLM, alongside SmoothQuant and StreamingLLM.",
+    "zh": "与 SmoothQuant、StreamingLLM 一同被 NVIDIA TensorRT-LLM 采用。"
+   }
+  },
+  {
+   "date": "2026-01-01",
+   "kind": "report",
+   "title": {
+    "en": "TinyChat 2.0 — 1.5–1.7x faster prefill for edge LLMs and VLMs",
+    "zh": "TinyChat 2.0 —— 边缘 LLM/VLM 预填充提速 1.5–1.7 倍"
+   },
+   "source": "MIT HAN Lab",
+   "url": "https://hanlab.mit.edu/",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-09-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "VC-Attention: Value Smoothing and Softmax Casting for Low-bit Attention",
+    "zh": "VC-Attention: Value Smoothing and Softmax Casting for Low-bit Attention"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.15810v1",
+   "note": {
+    "en": "Co-authored with MIT-HAN Lab regulars including Muyang Li and Yujun Lin as well as CMU's Jun-Yan Zhu, this paper introduces a low-bit attention kernel for diffusion-transformer video generation, extending Song Han's quantization work into video models.",
+    "zh": "该论文由MIT-HAN实验室的Muyang Li、Yujun Lin等常年合作者与卡内基梅隆大学的朱峻彦共同完成，提出了面向扩散Transformer视频生成的低比特注意力核，将韩松的量化研究拓展到视频模型领域。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Lightning Weave: Improving the Accuracy-Efficiency Frontier of Reasoning Models through Capability Composition",
+    "zh": "Lightning Weave: Improving the Accuracy-Efficiency Frontier of Reasoning Models through Capability Composition"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.14708v1",
+   "note": {
+    "en": "Co-authored with longtime collaborator Han Cai, this paper proposes composing capabilities to improve the accuracy-efficiency tradeoff of reasoning models, continuing Song Han's work on efficient inference.",
+    "zh": "该论文与长期合作者Han Cai共同完成，提出通过能力组合改善推理模型的精度-效率权衡，延续了韩松在高效推理方向的研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T12:10:29Z",
+   "kind": "x",
+   "title": {
+    "en": "Our Efficient AI course launched in 2022, the same year as ChatGPT, with just 30 students. Then 90, 180, and now 300! Thanks @Shang_mit for co-teaching! All cou",
+    "zh": "Our Efficient AI course launched in 2022, the same year as ChatGPT, with just 30 students. Then 90, 180, and now 300! Thanks @Shang_mit for co-teaching! All cou"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2098383675721175233",
+   "note": {
+    "en": "Song Han marks his Efficient AI course growing from 30 students at launch in 2022 to 300 today, with materials still freely available.",
+    "zh": "Song Han 分享其“高效AI”课程自2022年30名学生起步，如今已增长到300人，课程材料仍免费公开。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Ten years, same question, much harder version of it. Jun-Yan has been pushing the frontier of visual generation — someone I’ve admired since our college days. N",
+    "zh": "Ten years, same question, much harder version of it. Jun-Yan has been pushing the frontier of visual generation — someone I’ve admired since our college days. N"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2095663347974787398",
+   "note": {
+    "en": "Congratulated Jun-Yan Zhu's team on launching NunchakuAI, reflecting on a decade of shared work pushing visual generation forward.",
+    "zh": "祝贺Jun-Yan Zhu的团队推出NunchakuAI，并回顾了两人自大学时代以来在视觉生成领域十年的交情与共同努力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Seven years ago, Muyang started working on this problem before it was popular. Zhekai and Yujun have been building alongside him ever since, and together with J",
+    "zh": "Seven years ago, Muyang started working on this problem before it was popular. Zhekai and Yujun have been building alongside him ever since, and together with J"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2095658749889245585",
+   "note": {
+    "en": "Credited Muyang, Zhekai and Yujun's years of work alongside Jun-Yan Zhu behind a new visual generation release.",
+    "zh": "将一项新的视觉生成成果归功于Muyang、Zhekai和Yujun与Jun-Yan Zhu多年来的合作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Parason: Revealing Subtask and Trial Parallelism in LLM Reasoning",
+    "zh": "Parason: Revealing Subtask and Trial Parallelism in LLM Reasoning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.24658v1",
+   "note": {
+    "en": "Paper exposing subtask and trial parallelism inside long LLM reasoning traces so they can be decoded in parallel instead of sequentially, cutting test-time reasoning latency; co-authored with his long-time collaborator Ligeng Zhu.",
+    "zh": "该论文揭示大语言模型长推理链中的子任务与多次尝试并行性，使其可以并行而非串行解码，从而降低测试时推理的延迟；与其长期合作者朱力耕（Ligeng Zhu）等人合著。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-08-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "DFlash 2 is a big milestone: https://t.co/0uUiiN7H9t",
+    "zh": "DFlash 2 is a big milestone: https://t.co/0uUiiN7H9t"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2089852813945810984",
+   "note": {
+    "en": "Song Han announced DFlash 2, a new milestone release of the group's block-diffusion speculative decoding system for accelerating LLM inference.",
+    "zh": "韩松宣布DFlash 2发布，这是团队用于加速大模型推理的块扩散式投机解码系统的重要里程碑。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
+    "zh": "FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.16157v1",
+   "note": {
+    "en": "Presents FreeToken, an edge-native serving system that runs mixture-of-experts models on personal devices with bandwidth-adaptive execution.",
+    "zh": "提出 FreeToken：一套面向个人边缘设备的 MoE 模型推理系统，可根据带宽自适应地调度执行。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "explore VLASH: Real-Time VLAs via Future-State-Aware Asynchronous Inference https://t.co/ibrRWeZhWQ",
+    "zh": "explore VLASH: Real-Time VLAs via Future-State-Aware Asynchronous Inference https://t.co/ibrRWeZhWQ"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2082155244050583697",
+   "note": {
+    "en": "Song Han shared VLASH, a new method for real-time vision-language-action models using future-state-aware asynchronous inference.",
+    "zh": "韩松介绍了VLASH，一种通过预测未来状态的异步推理实现实时视觉-语言-动作（VLA）模型的新方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Sol-Attn: Accelerating Video Generation Inference via On-the-Fly Attention Sparsification",
+    "zh": "Sol-Attn: Accelerating Video Generation Inference via On-the-Fly Attention Sparsification"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.24027v1",
+   "note": {
+    "en": "Training-free dynamic attention sparsification that cuts the attention bottleneck in video diffusion inference.",
+    "zh": "提出免训练的动态注意力稀疏化方法，缓解视频扩散模型推理中的注意力瓶颈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation",
+    "zh": "SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.21553v1",
+   "note": {
+    "en": "SANA-Video 2.0, a 5B/14B hybrid linear-attention video diffusion transformer that generates 720p video on a single GPU.",
+    "zh": "SANA-Video 2.0：5B/14B 规模的混合线性注意力视频扩散模型，单卡即可生成 720p 视频。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Speed-of-light block sparse attention :",
+    "zh": "Speed-of-light block sparse attention :"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2079597618376692130",
+   "note": {
+    "en": "Song Han highlighted new work on 'speed-of-light' block sparse attention for efficient inference.",
+    "zh": "韩松分享了关于\"极速\"块稀疏注意力机制的新研究成果，用于提升推理效率。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE",
+    "zh": "Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.07740v2",
+   "note": {
+    "en": "Long-context extension method for LLMs based on a dynamic bifocal RoPE scheme.",
+    "zh": "提出基于动态双焦 RoPE 的大模型长上下文扩展方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding",
+    "zh": "Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.05722v1",
+   "note": {
+    "en": "Language model that unifies autoregressive, diffusion and self-speculation decoding in a single architecture for faster generation.",
+    "zh": "在单一架构中统一自回归、扩散与自推测解码三种模式的语言模型，用于加速生成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "FourTune: Towards Fully 4-Bit Efficient Post-Training for Diffusion Models",
+    "zh": "FourTune: Towards Fully 4-Bit Efficient Post-Training for Diffusion Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.05711v1",
+   "note": {
+    "en": "Fully 4-bit post-training pipeline for diffusion models, extending his line of low-bit quantization work.",
+    "zh": "面向扩散模型的全 4-bit 后训练方案，延续其低比特量化研究路线。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Explore KDA (Kernel Design Agents): https://t.co/VB6fbigDZX",
+    "zh": "Explore KDA (Kernel Design Agents): https://t.co/VB6fbigDZX"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2072509195954372746",
+   "note": {
+    "en": "Song Han introduced Kernel Design Agents (KDA), an agent-based approach to automatically design efficient GPU kernels.",
+    "zh": "韩松介绍了内核设计智能体（KDA），一种利用智能体自动设计高效GPU内核的方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We develop an agent-native approach to accelerate genAI, continuing the success of KDA (Kernel Design Agent) at a higher level. We distill each technique into a",
+    "zh": "We develop an agent-native approach to accelerate genAI, continuing the success of KDA (Kernel Design Agent) at a higher level. We distill each technique into a"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2069981147916902633",
+   "note": {
+    "en": "Song Han described a new agent-native approach that builds on KDA to accelerate generative AI by distilling optimization techniques into reusable skills.",
+    "zh": "韩松介绍了在KDA基础上发展的智能体原生方法，通过将优化技术蒸馏为可复用技能来加速生成式AI。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Sol Video Inference Engine: Agent-Native Full-Stack Acceleration Framework for Efficient Video Generation",
+    "zh": "Sol Video Inference Engine: Agent-Native Full-Stack Acceleration Framework for Efficient Video Generation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.23743v2",
+   "note": {
+    "en": "Full-stack inference engine that combines multiple acceleration techniques for video generation.",
+    "zh": "面向视频生成的全栈推理引擎，将多种加速手段组合到统一框架中。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Explore our continued efforts on KV cache compression:",
+    "zh": "Explore our continued efforts on KV cache compression:"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2066573661016907993",
+   "note": {
+    "en": "Song Han shared continued work from his group on KV cache compression for efficient LLM inference.",
+    "zh": "韩松分享了团队在KV缓存压缩方面的持续研究，用于提升大模型推理效率。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "the causal version of SANA world model is released, enabling close to real-time inference on a single H100:",
+    "zh": "the causal version of SANA world model is released, enabling close to real-time inference on a single H100:"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2064033809746530426",
+   "note": {
+    "en": "Song Han announced the causal version of the SANA world model, enabling near real-time inference on a single H100 GPU.",
+    "zh": "韩松宣布发布SANA世界模型的因果版本，可在单张H100 GPU上实现接近实时的推理。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "ForeAct: Steering Your VLA with Efficient Visual Foresight Planning",
+    "zh": "ForeAct: Steering Your VLA with Efficient Visual Foresight Planning"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2062579176704553248",
+   "note": {
+    "en": "Song Han shared ForeAct, a method for steering vision-language-action models with efficient visual foresight planning.",
+    "zh": "韩松分享了ForeAct，一种利用高效视觉预见规划来引导视觉-语言-动作模型的方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference",
+    "zh": "SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.04511v1",
+   "note": {
+    "en": "Sparse decoupled attention that reduces KV-cache and memory-bandwidth cost in long-context LLM inference.",
+    "zh": "提出稀疏解耦注意力，降低长上下文推理中的 KV cache 与显存带宽开销。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Cosmos 3: Omnimodal World Models for Physical AI",
+    "zh": "Cosmos 3: Omnimodal World Models for Physical AI"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.02800v4",
+   "note": {
+    "en": "NVIDIA's Cosmos 3 family of omnimodal world models for physical AI, spanning language, image, video, audio and action.",
+    "zh": "英伟达 Cosmos 3 系列全模态世界模型，统一处理语言、图像、视频、音频与动作，面向物理 AI。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "LongLive-RAG: A General Retrieval-Augmented Framework for Long Video Generation",
+    "zh": "LongLive-RAG: A General Retrieval-Augmented Framework for Long Video Generation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.02553v1",
+   "note": {
+    "en": "Retrieval-augmented framework for autoregressive long video generation that limits error accumulation and identity drift.",
+    "zh": "为自回归长视频生成引入检索增强框架，抑制误差累积与身份漂移。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "SANA Streaming: V2V on a single 5090 https://t.co/7I4sygwYGy",
+    "zh": "SANA Streaming: V2V on a single 5090 https://t.co/7I4sygwYGy"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2061327607845572741",
+   "note": {
+    "en": "Song Han announced SANA Streaming, enabling video-to-video generation on a single RTX 5090 GPU.",
+    "zh": "韩松宣布推出SANA Streaming，可在单张RTX 5090显卡上实现视频到视频生成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-31",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Hide to Guide: Learning via Semantic Masking",
+    "zh": "Hide to Guide: Learning via Semantic Masking"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2061158011788304708",
+   "note": {
+    "en": "Song Han shared 'Hide to Guide', a new technique for learning via semantic masking.",
+    "zh": "韩松分享了\"Hide to Guide\"，一种基于语义遮蔽的学习新方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SANA-Streaming: Real-time Streaming Video Editing with Hybrid Diffusion Transformer",
+    "zh": "SANA-Streaming: Real-time Streaming Video Editing with Hybrid Diffusion Transformer"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.30409v1",
+   "note": {
+    "en": "Real-time streaming video-to-video editing built on a hybrid diffusion transformer.",
+    "zh": "基于混合扩散 Transformer 的实时流式视频编辑方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "JetViT: Efficient High-Resolution Vision Transformer with Post-Training Attention Search",
+    "zh": "JetViT: Efficient High-Resolution Vision Transformer with Post-Training Attention Search"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.26636v1",
+   "note": {
+    "en": "JetViT, a hybrid vision transformer family for high-resolution inputs obtained by post-training attention search.",
+    "zh": "JetViT：通过后训练注意力搜索得到的高分辨率混合视觉 Transformer 系列。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Explore our kernel design agents:",
+    "zh": "Explore our kernel design agents:"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2058101360856601062",
+   "note": {
+    "en": "Song Han shared further work on the group's kernel design agents for automated GPU kernel optimization.",
+    "zh": "韩松分享了团队在内核设计智能体方面的进一步工作，用于自动化GPU内核优化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Fast-dDrive: Efficient Block-Diffusion VLM for Autonomous Driving",
+    "zh": "Fast-dDrive: Efficient Block-Diffusion VLM for Autonomous Driving"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.23163v2",
+   "note": {
+    "en": "Block-diffusion vision-language-action model for autonomous driving that trades off planning quality against inference cost.",
+    "zh": "面向自动驾驶的块扩散视觉-语言-动作模型，在规划质量与推理开销之间取得平衡。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "LongLive 2.0, nvfp4 infra for long video generation:",
+    "zh": "LongLive 2.0, nvfp4 infra for long video generation:"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2056907257963839582",
+   "note": {
+    "en": "Song Han announced LongLive 2.0, an NVFP4-based infrastructure for long video generation.",
+    "zh": "韩松宣布推出LongLive 2.0，一套基于NVFP4的长视频生成基础设施。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "SANA world model, small and fast:",
+    "zh": "SANA world model, small and fast:"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2056906901766779349",
+   "note": {
+    "en": "Song Han highlighted the SANA world model as small and fast, part of his group's efficient-AI world model line of work.",
+    "zh": "韩松介绍了SANA世界模型，强调其体积小、速度快，是团队高效AI世界模型系列工作的一部分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation",
+    "zh": "LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.18739v2",
+   "note": {
+    "en": "NVFP4-based training and inference infrastructure for long video generation.",
+    "zh": "基于 NVFP4 的长视频生成训练与推理基础设施。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Explore SANA World Model, using hybrid linear attention, efficient and fast!",
+    "zh": "Explore SANA World Model, using hybrid linear attention, efficient and fast!"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2055139983972077783",
+   "note": {
+    "en": "Song Han introduced SANA World Model, using hybrid linear attention for efficient and fast world modeling.",
+    "zh": "韩松介绍了SANA世界模型，采用混合线性注意力机制，实现高效快速的世界建模。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer",
+    "zh": "SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.15178v1",
+   "note": {
+    "en": "SANA-WM, a 2.6B open world model that generates minute-scale 720p video with camera control.",
+    "zh": "SANA-WM：2.6B 开源世界模型，可生成分钟级、带相机控制的 720p 视频。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Explore AnyFlow for any step distillation, accelerating video diffusion model inference:",
+    "zh": "Explore AnyFlow for any step distillation, accelerating video diffusion model inference:"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2054790408593694873",
+   "note": {
+    "en": "Song Han shared AnyFlow, a method for arbitrary-step distillation to accelerate video diffusion model inference.",
+    "zh": "韩松分享了AnyFlow，一种支持任意步数蒸馏以加速视频扩散模型推理的方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation",
+    "zh": "AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.13724v1",
+   "note": {
+    "en": "Any-step video diffusion model trained with on-policy flow map distillation, avoiding quality loss at larger step counts.",
+    "zh": "用同策略流映射蒸馏训练的任意步数视频扩散模型，避免步数增加时的质量退化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Explore lightening OPD for efficient LLM post training:",
+    "zh": "Explore lightening OPD for efficient LLM post training:"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2054075140431048874",
+   "note": {
+    "en": "Song Han shared work on 'lightening OPD' for efficient post-training of large language models.",
+    "zh": "韩松分享了\"lightening OPD\"相关工作，用于大语言模型的高效后训练。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-29",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Explore Quant VideoGen (sister project of the Sparse VideoGen family):",
+    "zh": "Explore Quant VideoGen (sister project of the Sparse VideoGen family):"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2049319767689855385",
+   "note": {
+    "en": "Song Han introduced Quant VideoGen, a quantization-based sister project to the Sparse VideoGen family for efficient video generation.",
+    "zh": "韩松介绍了Quant VideoGen，这是Sparse VideoGen系列的姊妹项目，通过量化实现高效视频生成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence",
+    "zh": "Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.24954v2",
+   "note": {
+    "en": "NVIDIA Nemotron 3 Nano Omni, a compact multimodal model that adds native audio input alongside text, image and video.",
+    "zh": "英伟达 Nemotron 3 Nano Omni：在文本、图像、视频之外原生支持音频输入的小型多模态模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "FP4 Explore, BF16 Train, like speculative RL:",
+    "zh": "FP4 Explore, BF16 Train, like speculative RL:"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2042271193806348647",
+   "note": {
+    "en": "Song Han shared work using FP4 inference and BF16 training, drawing an analogy to speculative RL.",
+    "zh": "韩松分享了以FP4进行推理、BF16进行训练的工作，并将其类比为投机式强化学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "QuantVideoGen with 2bit KV-cache:",
+    "zh": "QuantVideoGen with 2bit KV-cache:"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2037680698690310287",
+   "note": {
+    "en": "Song Han announced QuantVideoGen with 2-bit KV-cache compression for efficient video generation.",
+    "zh": "韩松宣布推出采用2比特KV缓存压缩的QuantVideoGen，用于高效视频生成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "GPU accelerated KMeans:",
+    "zh": "GPU accelerated KMeans:"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2037277570723438864",
+   "note": {
+    "en": "Song Han shared a GPU-accelerated implementation of KMeans clustering from his group.",
+    "zh": "韩松分享了团队开发的GPU加速KMeans聚类实现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-11",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Inside Efficient AI: From GPUs to GPTs — Song Han",
+    "zh": "Inside Efficient AI: From GPUs to GPTs — Song Han"
+   },
+   "source": "Curiosity Unbounded",
+   "url": "https://podcasts.apple.com/us/podcast/inside-efficient-ai-from-gpus-to-gpts-song-han/id1692410948?i=1000754596128&uo=4",
+   "note": {
+    "en": "MIT's Curiosity Unbounded interview in which Han walks through his efficient-AI agenda, from model compression on GPUs to serving large language models.",
+    "zh": "麻省理工《Curiosity Unbounded》播客访谈，韩松讲述他的高效人工智能研究路线：从 GPU 上的模型压缩到大语言模型的推理部署。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-03-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Honored to join the MIT President’s podcast. We discussed how Efficient AI and model compression techniques can help break the bottlenecks of AI computing: http",
+    "zh": "Honored to join the MIT President’s podcast. We discussed how Efficient AI and model compression techniques can help break the bottlenecks of AI computing: http"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2031861676790718503",
+   "note": {
+    "en": "Song Han joined MIT's presidential podcast to discuss how efficient AI and model compression can break AI computing bottlenecks.",
+    "zh": "韩松受邀参加MIT校长播客，探讨高效AI与模型压缩技术如何突破AI算力瓶颈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Great example of algorithm and system co-design: efficient infra (Cosmos-RL) plus efficient model (SANA) leads to multiplicative cost reduction for finetuning a",
+    "zh": "Great example of algorithm and system co-design: efficient infra (Cosmos-RL) plus efficient model (SANA) leads to multiplicative cost reduction for finetuning a"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2030291534885638421",
+   "note": {
+    "en": "Song Han discussed how algorithm-system co-design — efficient infrastructure (Cosmos-RL) paired with an efficient model (SANA) — multiplies cost reductions for finetuning and inference.",
+    "zh": "韩松探讨了算法与系统协同设计的价值：高效基础设施（Cosmos-RL）与高效模型（SANA）结合，可实现微调与推理成本的倍增式降低。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "A collapse in effective sample size (ESS) is the canary in a coal mine for async RL training. We should dampen those unreliable updates based on ESS. This effec",
+    "zh": "A collapse in effective sample size (ESS) is the canary in a coal mine for async RL training. We should dampen those unreliable updates based on ESS. This effec"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2028656498998419616",
+   "note": {
+    "en": "Song Han offered a technical insight that a collapse in effective sample size (ESS) signals instability in async RL training, and proposed dampening unreliable updates based on ESS.",
+    "zh": "韩松指出有效样本量（ESS）骤降是异步强化学习训练不稳定的预警信号，并提出根据ESS抑制不可靠更新以稳定训练。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Explore ForeAct: we imagine the future observation by generating an image as the reasoning process, we make the image generation very fast so you can do the ima",
+    "zh": "Explore ForeAct: we imagine the future observation by generating an image as the reasoning process, we make the image generation very fast so you can do the ima"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2026102474281496763",
+   "note": {
+    "en": "Song Han explained ForeAct, which imagines future observations as an image-based reasoning step to speed up action generation.",
+    "zh": "韩松介绍了ForeAct，通过生成图像来\"想象\"未来观测作为推理过程，从而加速动作生成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-01-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "DFlash is accelerating vibe coding. Vibe coding is becoming an important inference workload. Accelerating it will dramatically increase the productivity and red",
+    "zh": "DFlash is accelerating vibe coding. Vibe coding is becoming an important inference workload. Accelerating it will dramatically increase the productivity and red"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2014550290809201071",
+   "note": {
+    "en": "Song Han argued that DFlash accelerates 'vibe coding,' an increasingly important inference workload, boosting productivity and cutting cost.",
+    "zh": "韩松指出DFlash可加速\"vibe coding\"——这一日益重要的推理工作负载，从而提升生产力并降低成本。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-01-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Explore DFlash:",
+    "zh": "Explore DFlash:"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2009750512573288553",
+   "note": {
+    "en": "Song Han announced DFlash, the group's block-diffusion speculative decoding system.",
+    "zh": "韩松宣布推出DFlash，团队研发的块扩散式投机解码系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-01-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Explore Zhijian and Jian's Speculative Decoding with Block Diffusion (DFlash). Great work from UCSD ZLab: https://t.co/x3dnlt9Ngg",
+    "zh": "Explore Zhijian and Jian's Speculative Decoding with Block Diffusion (DFlash). Great work from UCSD ZLab: https://t.co/x3dnlt9Ngg"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2008546369955664101",
+   "note": {
+    "en": "Song Han credited Zhijian and Jian's speculative decoding with block diffusion (DFlash) work, done with UCSD's ZLab.",
+    "zh": "韩松介绍了Zhijian和Jian与UCSD ZLab合作完成的块扩散投机解码（DFlash）工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Explore few-step and long SANA:",
+    "zh": "Explore few-step and long SANA:"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2003139563661967419",
+   "note": {
+    "en": "Song Han shared continued work on few-step and long-sequence variants of the SANA model.",
+    "zh": "韩松分享了SANA模型在少步数与长序列方向上的持续研究进展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Explore TLT for faster reasoning RL training:",
+    "zh": "Explore TLT for faster reasoning RL training:"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/1996254311022780921",
+   "note": {
+    "en": "Song Han shared TLT, a method for faster reasoning RL training.",
+    "zh": "韩松分享了TLT，一种加速推理强化学习训练的方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Live from NeurIPS: Meet the Researchers | Nemotron Labs | Jet-Nemotron: https://t.co/gP3oEd4paK",
+    "zh": "Live from NeurIPS: Meet the Researchers | Nemotron Labs | Jet-Nemotron: https://t.co/gP3oEd4paK"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/1995933237093486911",
+   "note": {
+    "en": "Song Han was featured in an NVIDIA 'Meet the Researchers' segment at NeurIPS discussing Jet-Nemotron, work from Nemotron Labs.",
+    "zh": "韩松在NeurIPS的NVIDIA\"Meet the Researchers\"环节中亮相，介绍了Nemotron Labs的Jet-Nemotron工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "How to accelerate VLA models? Explore VLASH that predicts the future with async inference, and action quantization:",
+    "zh": "How to accelerate VLA models? Explore VLASH that predicts the future with async inference, and action quantization:"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/1995888474403340737",
+   "note": {
+    "en": "Song Han explained how VLASH accelerates vision-language-action models via future prediction with asynchronous inference and action quantization.",
+    "zh": "韩松介绍了VLASH如何通过异步推理预测未来状态并结合动作量化来加速视觉-语言-动作模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Kicking off the journey to NeurIPS! Our group’s papers focus on sparse attention, efficient video generation, small LLMs, and long-video understanding. We push",
+    "zh": "Kicking off the journey to NeurIPS! Our group’s papers focus on sparse attention, efficient video generation, small LLMs, and long-video understanding. We push"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/1995659331388485830",
+   "note": {
+    "en": "Song Han previewed his group's NeurIPS papers, spanning sparse attention, efficient video generation, small LLMs, and long-video understanding.",
+    "zh": "韩松预告了团队在NeurIPS的论文成果，涵盖稀疏注意力、高效视频生成、小型大模型与长视频理解等方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Explore Sparse VideoGen2, our second iteration on sparse attention to accelerate video generation :",
+    "zh": "Explore Sparse VideoGen2, our second iteration on sparse attention to accelerate video generation :"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/1995550799444017490",
+   "note": {
+    "en": "Song Han announced Sparse VideoGen2, the group's second iteration of sparse attention for accelerating video generation.",
+    "zh": "韩松宣布推出Sparse VideoGen2，团队在稀疏注意力加速视频生成方面的第二代成果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-01-01",
+   "level": "notable",
+   "title": {
+    "en": "Kernel Design Agents take 1st in the MoE track at MLSys 2026",
+    "zh": "Kernel Design Agents 在 MLSys 2026 MoE 赛道夺冠"
+   },
+   "body": {
+    "en": "1st in MoE, 2nd in DSA and 3rd in GDN at the FlashInfer Full-Agent Track. TinyChat 2.0 also shipped, 1.5–1.7x faster prefill for edge LLMs and VLMs.",
+    "zh": "在 FlashInfer Full-Agent Track 中 MoE 赛道第一、DSA 第二、GDN 第三。同期发布 TinyChat 2.0，边缘 LLM/VLM 预填充提速 1.5–1.7 倍。"
+   },
+   "source": "MIT HAN Lab",
+   "url": "https://hanlab.mit.edu/"
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "research",
+ "score": {
+  "total": 21.6,
+  "attention": 4,
+  "centrality": 18,
+  "momentum": 48,
+  "stature": 46,
+  "pageviews": 888,
+  "citations": 32832,
+  "hIndex": 58,
+  "events": 1,
+  "posts": 60,
+  "wikiEn": null,
+  "wikiZh": "韩松"
+ },
+ "seedRank": 85,
+ "tier": "t6"
+}

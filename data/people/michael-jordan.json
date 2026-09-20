@@ -1,0 +1,814 @@
+{
+ "rank": 82,
+ "id": "michael-jordan",
+ "name": {
+  "en": "Michael I. Jordan",
+  "zh": "Michael I. Jordan"
+ },
+ "role": {
+  "en": "Senior Researcher, Inria Paris; Distinguished Professor Emeritus, UC Berkeley",
+  "zh": "Inria Paris 资深研究员；UC Berkeley 荣休杰出教授"
+ },
+ "org": "Inria / UC Berkeley",
+ "region": {
+  "en": "France / United States",
+  "zh": "法国/美国"
+ },
+ "tags": [
+  "Inria",
+  "Variational inference",
+  "Graphical models",
+  "Markets & ML",
+  "Statistics"
+ ],
+ "why": {
+  "en": "Founder of variational inference and graphical models, and the person who established machine learning's statistical foundations. His academic lineage covers a large share of the entire field.",
+  "zh": "变分推断与图模型的奠基者，机器学习统计基础的建立者。其学术谱系覆盖整个领域的半壁江山。"
+ },
+ "links": [
+  {
+   "kind": "blog",
+   "label": "Berkeley home page",
+   "url": "https://people.eecs.berkeley.edu/~jordan/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Medium",
+   "url": "https://medium.com/@mijordan3",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "Inria",
+   "url": "https://www.inria.fr/en",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "Berkeley BAIR Blog",
+   "url": "https://bair.berkeley.edu/blog/",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Fondation Inria — Actualités",
+   "url": "https://www.fondation-inria.fr/actualites/",
+   "t": 2
+  },
+  {
+   "kind": "x",
+   "label": "X — search",
+   "url": "https://x.com/search?q=%22Michael+I.+Jordan%22&f=live",
+   "t": 3
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Michael+I.+Jordan",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Michael+I.+Jordan",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Michael+I.+Jordan",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Michael+I.+Jordan&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Michael+I.+Jordan&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Michael+I.+Jordan",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Michael+I.+Jordan&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Michael+I.+Jordan",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?user=yxUduqMAAAAJ&hl=en",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Michael+I.+Jordan",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Michael+I.+Jordan",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Michael+I.+Jordan",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Michael+I.+Jordan",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Michael+I.+Jordan",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Michael+I.+Jordan&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Michael_I._Jordan",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2025-07-01",
+   "kind": "paper",
+   "title": {
+    "en": "A Collectivist, Economic Perspective on AI",
+    "zh": "关于 AI 的集体主义经济学视角"
+   },
+   "source": "Berkeley BAIR",
+   "url": "https://people.eecs.berkeley.edu/~jordan/",
+   "note": {
+    "en": "Position paper arguing AI should be designed around markets and collectives rather than individual intelligence.",
+    "zh": "立场论文，主张 AI 应围绕市场与集体、而非个体智能来设计。"
+   }
+  },
+  {
+   "date": "2018-04-19",
+   "kind": "blog",
+   "title": {
+    "en": "Artificial Intelligence — the revolution hasn't happened yet",
+    "zh": "人工智能 —— 革命尚未发生"
+   },
+   "source": "Medium",
+   "url": "https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-08-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Collectivist, Economic Vision for AI",
+    "zh": "A Collectivist, Economic Vision for AI"
+   },
+   "source": "Communications of the ACM",
+   "url": "https://doi.org/10.1145/3785485",
+   "note": {
+    "en": "Jordan's CACM piece argues for a collectivist, economic vision of AI systems design, drawing on markets and mechanism design rather than treating social consequences as an afterthought.",
+    "zh": "Jordan在《ACM通讯》上撰文，主张以集体主义、经济学的视角设计AI系统，借鉴市场与机制设计，而非将社会影响视为附带问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Principal-Agent Hypothesis Testing",
+    "zh": "Principal-Agent Hypothesis Testing"
+   },
+   "source": "Journal of the American Statistical As…",
+   "url": "https://doi.org/10.1080/01621459.2026.2724031",
+   "note": {
+    "en": "With Bates, Sklar and Soloff, Jordan formalizes a principal-agent model of hypothesis testing, showing how the statistical standard set by a regulator shapes a strategic agent's incentives.",
+    "zh": "Jordan与Bates、Sklar、Soloff合作，将假设检验建模为委托-代理问题，说明监管者设定的统计标准如何影响策略性主体的激励。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2026-08-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Beyond Optimal Rates in Stochastic Optimization: Trajectory-Adaptive Stopping Rules",
+    "zh": "Beyond Optimal Rates in Stochastic Optimization: Trajectory-Adaptive Stopping Rules"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.25551v1",
+   "note": {
+    "en": "Trajectory-adaptive stopping rules for stochastic optimization, replacing the usual fixed horizon chosen before the algorithm runs; author list confirmed with Liviu Aolaritei and Francis Bach.",
+    "zh": "为随机优化提出依轨迹自适应的停止规则，取代算法运行前预先设定的固定时域；作者名单确认包含 Liviu Aolaritei 与 Francis Bach。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Post-Training at the Edge of Detectability: A Game-Theoretic Approach to Fine-Tuning",
+    "zh": "Post-Training at the Edge of Detectability: A Game-Theoretic Approach to Fine-Tuning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.26358v1",
+   "note": {
+    "en": "A game-theoretic account of RL fine-tuning that asks how far a post-trained policy can drift from its reference before the change becomes statistically detectable; author list confirmed with Keegan Harris and Nika Haghtalab.",
+    "zh": "用博弈论刻画强化学习微调，讨论后训练策略在多大程度上偏离参考策略仍难以被统计检测；作者名单确认包含 Keegan Harris 与 Nika Haghtalab。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Towards Optimal Estimators for Randomized Control Trials",
+    "zh": "Towards Optimal Estimators for Randomized Control Trials"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.23254v1",
+   "note": {
+    "en": "Derives estimators for randomized controlled trials that improve on the standard difference-in-means, joint work with Harsh Parikh, Nilesh Tripuraneni and collaborators in industry and academia.",
+    "zh": "推导优于标准均值差估计量的随机对照试验估计方法，与 Harsh Parikh、Nilesh Tripuraneni 等业界与学界合作者共同完成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Provably Optimal Learning Algorithms for Assistance Games",
+    "zh": "Provably Optimal Learning Algorithms for Assistance Games"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.08012v1",
+   "note": {
+    "en": "Gives provably optimal learning algorithms for online assistance games, in which an informed and an uninformed agent repeatedly interact to maximise a shared reward; co-authored with Stuart Russell and Nika Haghtalab.",
+    "zh": "为在线辅助博弈（知情方与不知情方反复互动以最大化共同奖励）给出可证明最优的学习算法，与 Stuart Russell、Nika Haghtalab 合著。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Blackwell Approachability and Gradient Equilibrium are Equivalent",
+    "zh": "Blackwell Approachability and Gradient Equilibrium are Equivalent"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.27315v1",
+   "note": {
+    "en": "Proves that Blackwell approachability and the recently introduced gradient-equilibrium framework are equivalent, with Ryan J. Tibshirani and Nika Haghtalab.",
+    "zh": "与 Ryan J. Tibshirani、Nika Haghtalab 合作证明 Blackwell 可接近性与新近提出的梯度均衡框架是等价的。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Strategic Feature Selection",
+    "zh": "Strategic Feature Selection"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.18867v1",
+   "note": {
+    "en": "Studies how a predictor should choose its features when the inputs can be strategically manipulated in high-stakes settings such as healthcare resource allocation.",
+    "zh": "研究在医疗资源分配等高风险场景中输入特征可能被策略性操纵时，预测模型应如何选择特征。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Towards Accurate Model Selection in Deep Unsupervised Domain Adaptation",
+    "zh": "Towards Accurate Model Selection in Deep Unsupervised Domain Adaptation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.04665v1",
+   "note": {
+    "en": "Model-selection methods for deep unsupervised domain adaptation, continuing his long-running collaboration with Mingsheng Long's group at Tsinghua.",
+    "zh": "面向深度无监督域适应的模型选择方法，延续他与清华大学龙明盛团队的长期合作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Diffusion-Robust Optimization over Graphs",
+    "zh": "Diffusion-Robust Optimization over Graphs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.30853v2",
+   "note": {
+    "en": "Introduces a robust-optimization model for directed graphs in which edge-weight perturbations diffuse along adjacent edges, with Liviu Aolaritei and Paul Grigas.",
+    "zh": "与 Liviu Aolaritei、Paul Grigas 提出有向图上的鲁棒优化模型，其中边权扰动会沿相邻边扩散传播。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "CalArena: A Large-Scale Post-Hoc Calibration Benchmark",
+    "zh": "CalArena: A Large-Scale Post-Hoc Calibration Benchmark"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.30188v2",
+   "note": {
+    "en": "A large-scale benchmark for post-hoc calibration methods, built with Francis Bach and his Inria colleagues.",
+    "zh": "与 Francis Bach 及 Inria 同事共同构建的大规模事后校准方法基准。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-21",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Intelligence is collective, not artificial — Prof. Michael I. Jordan (UC Berkeley / Inria)",
+    "zh": "Intelligence is collective, not artificial — Prof. Michael I. Jordan (UC Berkeley / Inria)"
+   },
+   "source": "Machine Learning Street Talk (MLST)",
+   "url": "https://podcasts.apple.com/us/podcast/intelligence-is-collective-not-artificial-prof-michael/id1510472996?i=1000768927142&uo=4",
+   "note": {
+    "en": "Long-form interview in which Jordan argues intelligence should be understood as collective and economic rather than as an artificial individual mind.",
+    "zh": "长篇访谈，Jordan 主张应把智能理解为集体性和经济性的现象，而非人造的个体心智。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-05-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Response Time Enhances Alignment with Heterogeneous Preferences",
+    "zh": "Response Time Enhances Alignment with Heterogeneous Preferences"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.06987v1",
+   "note": {
+    "en": "Uses labeller response time as a signal for aligning language models to heterogeneous rather than pooled human preferences, with Federico Echenique and Alireza Fallah.",
+    "zh": "与 Federico Echenique、Alireza Fallah 合作，利用标注者的反应时间作为信号，使语言模型对齐异质而非汇总后的人类偏好。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Super-Level-Set Regression: Conditional Quantiles via Volume Minimization",
+    "zh": "Super-Level-Set Regression: Conditional Quantiles via Volume Minimization"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.06210v1",
+   "note": {
+    "en": "Constructs minimum-volume conditional prediction regions without estimating the full conditional distribution, with Sacha Braun and Francis Bach.",
+    "zh": "与 Sacha Braun、Francis Bach 提出无需估计完整条件分布即可构造最小体积条件预测区域的方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Explaining and Preventing Alignment Collapse in Iterative RLHF",
+    "zh": "Explaining and Preventing Alignment Collapse in Iterative RLHF"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.04266v1",
+   "note": {
+    "en": "Explains why iterative RLHF collapses once the reward model is retrained on data the policy itself generated, and proposes a remedy; with Etienne Gauthier and Francis Bach.",
+    "zh": "与 Etienne Gauthier、Francis Bach 分析迭代式 RLHF 在奖励模型使用策略自身生成的数据重训时为何会崩溃，并提出缓解方案。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-06",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Machine Learning Meets Statistics with Michael I. Jordan",
+    "zh": "Machine Learning Meets Statistics with Michael I. Jordan"
+   },
+   "source": "Machine Learning: How Did We Get Here?",
+   "url": "https://podcasts.apple.com/us/podcast/machine-learning-meets-statistics-with-michael-i-jordan/id1879433175?i=1000759515534&uo=4",
+   "note": {
+    "en": "A long-form interview on Tom Mitchell's history-of-machine-learning podcast in which Jordan traces his path from control theory and statistics toward economics.",
+    "zh": "在 Tom Mitchell 主持的机器学习史播客中的长篇访谈，Jordan 回顾了他从控制论、统计学一路走向经济学的研究轨迹。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-03-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Calibeating Made Simple",
+    "zh": "Calibeating Made Simple"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.22167v1",
+   "note": {
+    "en": "Simplifies the analysis of calibeating — online post-processing of external forecasts to beat an informativeness benchmark — with Yurong Chen, Zhiyi Huang and Haipeng Luo.",
+    "zh": "与 Yurong Chen、Zhiyi Huang、Haipeng Luo 合作，简化了 calibeating（在线后处理外部预测以超越信息量基准）的分析。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Multi-Armed Sequential Hypothesis Testing by Betting",
+    "zh": "Multi-Armed Sequential Hypothesis Testing by Betting"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.17925v2",
+   "note": {
+    "en": "Extends sequential testing by betting to a multi-armed setting where the statistician chooses which data source to draw from at each step, with Ian Waudby-Smith.",
+    "zh": "与 Ian Waudby-Smith 将“下注式”序贯检验推广到多臂设置，统计学家在每一步可选择从哪个数据源取样。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Post-Hoc Large-Sample Statistical Inference",
+    "zh": "Post-Hoc Large-Sample Statistical Inference"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.08002v1",
+   "note": {
+    "en": "Large-sample inference procedures that remain valid when the significance level is chosen after looking at the data, with Aaditya Ramdas, Ben Chugg and Ian Waudby-Smith.",
+    "zh": "与 Aaditya Ramdas、Ben Chugg、Ian Waudby-Smith 提出在显著性水平于看过数据之后才选定时仍然有效的大样本推断方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Variational Estimator for $L_p$ Calibration Errors",
+    "zh": "A Variational Estimator for $L_p$ Calibration Errors"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.24230v1",
+   "note": {
+    "en": "Proposes a variational estimator for L_p calibration error, part of his ongoing calibration work with Francis Bach's group at Inria.",
+    "zh": "提出 L_p 校准误差的变分估计量，属于他与 Inria 的 Francis Bach 团队持续开展的校准研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Towards Anytime-Valid Statistical Watermarking",
+    "zh": "Towards Anytime-Valid Statistical Watermarking"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.17608v1",
+   "note": {
+    "en": "Brings anytime-valid sequential testing to the statistical watermarking of LLM output, with Kannan Ramchandran and Jiantao Jiao.",
+    "zh": "与 Kannan Ramchandran、Jiantao Jiao 合作，将随时有效的序贯检验引入大语言模型输出的统计水印检测。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Signaling in Data Markets via Free Samples",
+    "zh": "Signaling in Data Markets via Free Samples"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.16919v1",
+   "note": {
+    "en": "Models how sellers in a data market can signal privately known data quality through free samples, with Alireza Fallah and Nivasini Ananthakrishnan.",
+    "zh": "与 Alireza Fallah、Nivasini Ananthakrishnan 建模数据市场中卖方如何通过免费样本传递其私有的数据质量信息。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Locally Adaptive Multi-Objective Learning",
+    "zh": "Locally Adaptive Multi-Objective Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.14952v1",
+   "note": {
+    "en": "A general framework for learning a single predictor that satisfies several objectives at once, including calibration, with Isaac Gibbs and Jivat Neet Kaur.",
+    "zh": "与 Isaac Gibbs、Jivat Neet Kaur 提出一个通用框架，用于学习同时满足包括校准在内的多个目标的单一预测器。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "How Sampling Shapes LLM Alignment: From One-Shot Optima to Iterative Dynamics",
+    "zh": "How Sampling Shapes LLM Alignment: From One-Shot Optima to Iterative Dynamics"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.12180v1",
+   "note": {
+    "en": "Analyses how the sampling of candidate responses shapes LLM alignment, from one-shot optima through to the dynamics of iterated training.",
+    "zh": "分析候选回复的采样方式如何影响大语言模型的对齐效果，从单轮最优一直讨论到迭代训练的动力学。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Dynamic Programming for Epistemic Uncertainty in Markov Decision Processes",
+    "zh": "Dynamic Programming for Epistemic Uncertainty in Markov Decision Processes"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.03381v2",
+   "note": {
+    "en": "A general theory of ambiguity-averse Markov decision processes that treats uncertain transition probabilities as random variables and evaluates policies through a risk measure.",
+    "zh": "提出模糊厌恶型马尔可夫决策过程的一般理论，将不确定的转移概率视为随机变量，并用风险度量来评估策略。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "On Nonasymptotic Confidence Intervals for Treatment Effects in Randomized Experiments",
+    "zh": "On Nonasymptotic Confidence Intervals for Treatment Effects in Randomized Experiments"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2601.11744v2",
+   "note": {
+    "en": "Sharpens the effective sample size needed for nonasymptotic confidence intervals on treatment effects in randomized experiments, with Sivaraman Balakrishnan and Avi Feller.",
+    "zh": "与 Sivaraman Balakrishnan、Avi Feller 合作，改进随机实验中处理效应非渐近置信区间所需的有效样本量。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Anytime Detection of Strategic Deviations in Multi-Agent Systems",
+    "zh": "Anytime Detection of Strategic Deviations in Multi-Agent Systems"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2601.05427v3",
+   "note": {
+    "en": "Gives an anytime-valid test for detecting when agents in a multi-agent system drift away from stable rational behaviour, with Etienne Gauthier and Francis Bach.",
+    "zh": "与 Etienne Gauthier、Francis Bach 提出随时有效的检验方法，用于发现多智能体系统中个体何时偏离稳定的理性行为。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Stopping Rules for Stochastic Gradient Descent via Anytime-Valid Confidence Sequences",
+    "zh": "Stopping Rules for Stochastic Gradient Descent via Anytime-Valid Confidence Sequences"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.13123v5",
+   "note": {
+    "en": "Uses anytime-valid confidence sequences to decide when to stop stochastic gradient descent from the observed trajectory alone, with Liviu Aolaritei.",
+    "zh": "与 Liviu Aolaritei 合作，用随时有效的置信序列仅凭观测到的轨迹来判断随机梯度下降何时应当停止。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Conditional Coverage Diagnostics for Conformal Prediction",
+    "zh": "Conditional Coverage Diagnostics for Conformal Prediction"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.11779v2",
+   "note": {
+    "en": "Diagnostics for assessing conditional coverage in conformal prediction, where standard methods guarantee only marginal coverage; with Sacha Braun and Francis Bach.",
+    "zh": "与 Sacha Braun、Francis Bach 提出评估共形预测条件覆盖率的诊断方法，而标准方法只能保证边缘覆盖率。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-02-24",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#74 – Michael I. Jordan: Machine Learning, Recommender Systems, and the Future of AI",
+    "zh": "#74 – Michael I. Jordan: Machine Learning, Recommender Systems, and the Future of AI"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/74-michael-i-jordan-machine-learning-recommender-systems/id1434243584?i=1000466516116&uo=4",
+   "note": {
+    "en": "His 2020 Lex Fridman Podcast appearance, a widely referenced long-form conversation on machine learning, recommender systems and where AI is heading.",
+    "zh": "他 2020 年在 Lex Fridman 播客上的访谈，是一次被广泛引用的长篇对话，讨论机器学习、推荐系统以及人工智能的走向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-01-01",
+   "level": "notable",
+   "title": {
+    "en": "Heads Inria's new five-year 'Markets and Machine Learning' chair",
+    "zh": "领衔 Inria 新设五年期「Markets and Machine Learning」讲席"
+   },
+   "body": {
+    "en": "Bringing economics and machine learning together.",
+    "zh": "将经济学与机器学习结合。"
+   },
+   "source": "Inria",
+   "url": "https://www.inria.fr/en/new-research-chair-bringing-together-economics-and-artificial-intelligence"
+  },
+  {
+   "date": "2025-12-01",
+   "level": "minor",
+   "title": {
+    "en": "Elected foreign member of the Chinese Academy of Sciences",
+    "zh": "当选中国科学院外籍院士"
+   },
+   "body": {
+    "en": "Also elected to Italy's Accademia di Ingegneria e Tecnologia.",
+    "zh": "同时当选意大利工程与技术学院院士。"
+   },
+   "source": "Berkeley",
+   "url": "https://people.eecs.berkeley.edu/~jordan/"
+  }
+ ],
+ "changed": true,
+ "was": {
+  "en": "Professor Emeritus, UC Berkeley",
+  "zh": "UC Berkeley 荣休教授"
+ },
+ "cat": "research",
+ "score": {
+  "total": 27.3,
+  "attention": 31,
+  "centrality": 0,
+  "momentum": 26,
+  "stature": 86,
+  "pageviews": 40320,
+  "citations": 181936,
+  "hIndex": 163,
+  "events": 2,
+  "posts": 32,
+  "wikiEn": "Michael I. Jordan",
+  "wikiZh": "迈克尔·乔丹 (学者)"
+ },
+ "seedRank": 83,
+ "tier": "t5"
+}

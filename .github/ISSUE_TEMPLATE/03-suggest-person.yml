@@ -1,0 +1,29 @@
+name: Suggest a person
+description: Someone who belongs on the board
+title: "[person] "
+labels: ["board"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The board is 100 people and is revised deliberately, so adding someone
+        means removing someone. Make the case for both halves if you can.
+  - type: input
+    id: name
+    attributes:
+      label: Who
+      placeholder: Name, current role, organisation
+    validations:
+      required: true
+  - type: textarea
+    id: case
+    attributes:
+      label: The case
+      description: What have they done in the last 12-18 months that moves the frontier? Links to primary evidence beat descriptions.
+    validations:
+      required: true
+  - type: input
+    id: replace
+    attributes:
+      label: Who would they replace (optional)
+      description: A `person_id`, and one line on why.

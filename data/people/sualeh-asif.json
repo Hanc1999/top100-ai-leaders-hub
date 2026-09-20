@@ -1,0 +1,636 @@
+{
+ "rank": 30,
+ "id": "sualeh-asif",
+ "name": {
+  "en": "Sualeh Asif",
+  "zh": "Sualeh Asif"
+ },
+ "role": {
+  "en": "Co-founder & CPO, Cursor (Anysphere) — a SpaceXAI subsidiary",
+  "zh": "Cursor（Anysphere）联合创始人兼 CPO —— SpaceXAI 子公司"
+ },
+ "org": "Cursor / SpaceXAI",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "Cursor",
+  "Product",
+  "Tab completion",
+  "Agent mode",
+  "SpaceXAI"
+ ],
+ "why": {
+  "en": "The principal designer of Cursor's product experience and the key mover behind fusing code completion with agent mode — the interaction pattern the rest of the category copied.",
+  "zh": "Cursor 产品体验的主要设计者，代码补全与 Agent 模式融合方案的关键推动者 —— 这一交互范式后来被整个品类复制。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@sualehasif996",
+   "url": "https://x.com/sualehasif996",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @sualehasif",
+   "url": "https://github.com/sualehasif",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Cursor Blog",
+   "url": "https://cursor.com/blog",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Cursor",
+   "url": "https://cursor.com/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Sualeh+Asif",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Sualeh+Asif",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Sualeh+Asif",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Sualeh+Asif&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Sualeh+Asif&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Sualeh+Asif",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Sualeh+Asif",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Sualeh+Asif&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2025-01-01",
+   "kind": "report",
+   "title": {
+    "en": "Cursor Agent mode",
+    "zh": "Cursor Agent 模式"
+   },
+   "source": "Cursor Blog",
+   "url": "https://cursor.com/blog",
+   "note": {
+    "en": "Fusing completion with agentic edit — the interaction pattern the rest of the category copied.",
+    "zh": "把补全与 agentic 编辑融合 —— 这一交互范式后来被整个品类复制。"
+   }
+  },
+  {
+   "date": "2026-08-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Grateful to join such a cool company! So much more to do to become The full-stack AI company building the best products, models and the most compute.",
+    "zh": "Grateful to join such a cool company! So much more to do to become The full-stack AI company building the best products, models and the most compute."
+   },
+   "source": "@sualehasif996",
+   "url": "https://x.com/sualehasif996/status/2088295841190887664",
+   "note": {
+    "en": "Posted about joining a new company, expressing excitement to help build 'the full-stack AI company' across products, models and compute — marks an employment change.",
+    "zh": "发文表示很高兴加入一家新公司,称其目标是成为在产品、模型和算力方面全面领先的'全栈AI公司'——标志着一次工作变动。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "This is the first model that I personally prefer over Opus when I am iterating with a single agent. Fast Grok 4.5 feels very very good! The model always finds i",
+    "zh": "This is the first model that I personally prefer over Opus when I am iterating with a single agent. Fast Grok 4.5 feels very very good! The model always finds i"
+   },
+   "source": "@sualehasif996",
+   "url": "https://x.com/sualehasif996/status/2074946180577210451",
+   "note": {
+    "en": "Said Grok 4.5 is the first model he personally prefers over Claude Opus for single-agent coding iteration, citing its ability to work around roadblocks.",
+    "zh": "表示Grok 4.5是他在单智能体编码迭代中第一次觉得比Claude Opus更好用的模型,称其能很好地绕过看似棘手的障碍。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Programmatic access to the frontier intelligence of Composer 2.5 with the cursor sdk!",
+    "zh": "Programmatic access to the frontier intelligence of Composer 2.5 with the cursor sdk!"
+   },
+   "source": "@sualehasif996",
+   "url": "https://x.com/sualehasif996/status/2057917926452482296",
+   "note": {
+    "en": "Announced programmatic access to Composer 2.5 via the Cursor SDK, extending the model's reach beyond the editor.",
+    "zh": "宣布可通过Cursor SDK以编程方式访问Composer 2.5模型,将该模型的使用范围扩展到编辑器之外。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Big model coming soon ... !",
+    "zh": "Big model coming soon ... !"
+   },
+   "source": "@sualehasif996",
+   "url": "https://x.com/sualehasif996/status/2056426874130026605",
+   "note": {
+    "en": "Teased an upcoming large model release, a post that drew unusually high engagement for his usual reach.",
+    "zh": "预告即将发布的大模型,该帖子获得了远超他平时水平的关注度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We've gotten really really good at RL. Composer 2.5 is fighting well-above its weight class. Very excited for the next release as we scale model sizes and FLOPs",
+    "zh": "We've gotten really really good at RL. Composer 2.5 is fighting well-above its weight class. Very excited for the next release as we scale model sizes and FLOPs"
+   },
+   "source": "@sualehasif996",
+   "url": "https://x.com/sualehasif996/status/2056426664066756941",
+   "note": {
+    "en": "Said Cursor has gotten very good at RL, with Composer 2.5 punching above its weight, and previewed further scaling of model size and compute.",
+    "zh": "表示Cursor在强化学习方面已取得很大进步,Composer 2.5表现超出其规模预期,并预告将继续扩大模型规模和算力投入。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "A conversation with @sirupsen on scaling Shopify, building turbopuffer, and the future of databases. 0:00 - Scaling Shopify through flash sales and outages 8:13",
+    "zh": "A conversation with @sirupsen on scaling Shopify, building turbopuffer, and the future of databases. 0:00 - Scaling Shopify through flash sales and outages 8:13"
+   },
+   "source": "@sualehasif996",
+   "url": "https://x.com/sualehasif996/status/2054992106196787686",
+   "note": {
+    "en": "Shared a conversation with turbopuffer's Simon Eskildsen (@sirupsen) covering scaling Shopify, building turbopuffer, and the future of databases.",
+    "zh": "分享了与turbopuffer创始人Simon Eskildsen(@sirupsen)的对谈,内容涉及Shopify的扩展、turbopuffer的构建以及数据库的未来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Model, runtime, and interface. We are a new type of company that builds great product and make good models!",
+    "zh": "Model, runtime, and interface. We are a new type of company that builds great product and make good models!"
+   },
+   "source": "@sualehasif996",
+   "url": "https://x.com/sualehasif996/status/2039816946271879398",
+   "note": {
+    "en": "Positioned Cursor/Anysphere as a new kind of company spanning model, runtime and interface, building both great products and models.",
+    "zh": "将Cursor/Anysphere定位为一种新型公司,同时覆盖模型、运行时和交互界面,既做出色的产品也做出色的模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Composer 2 is our first model where the intelligence is truly at the frontier-level. As we scale our compute and pretraining + RL stack, you should continue to",
+    "zh": "Composer 2 is our first model where the intelligence is truly at the frontier-level. As we scale our compute and pretraining + RL stack, you should continue to"
+   },
+   "source": "@sualehasif996",
+   "url": "https://x.com/sualehasif996/status/2034683391975858254",
+   "note": {
+    "en": "Said Composer 2 is Cursor's first model with truly frontier-level intelligence, and previewed continued scaling of pretraining and RL.",
+    "zh": "表示Composer 2是Cursor第一款达到真正前沿水平智能的模型,并预告将继续扩大预训练和强化学习的投入。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-11-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "most excited about all the perf work we did to make LSP perf be excellent in 2.0!",
+    "zh": "most excited about all the perf work we did to make LSP perf be excellent in 2.0!"
+   },
+   "source": "@sualehasif996",
+   "url": "https://x.com/sualehasif996/status/1985792896856178771",
+   "note": {
+    "en": "Highlighted performance work that made LSP (language server) latency excellent in Cursor 2.0.",
+    "zh": "介绍了使Cursor 2.0中LSP(语言服务器)性能表现优异的相关优化工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-05-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "0.50 is a really big release! The new tab model is an OOM better at jumps and the cursor agent can run in the background. You can interact with your agents imme",
+    "zh": "0.50 is a really big release! The new tab model is an OOM better at jumps and the cursor agent can run in the background. You can interact with your agents imme"
+   },
+   "source": "@sualehasif996",
+   "url": "https://x.com/sualehasif996/status/1925326468269449665",
+   "note": {
+    "en": "Called Cursor 0.50 a major release: an order-of-magnitude better tab model and a background-capable Cursor agent reachable remotely.",
+    "zh": "称Cursor 0.50是一次重大更新:Tab模型的跳转能力提升了一个数量级,且Cursor agent可在后台运行并可远程交互。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-04-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Codebase indexing has gotten significantly better on @cursor_ai: size: 1M+ files / 1B+ lines of code warm indexes: initialization 12-20x faster with ~ instant s",
+    "zh": "Codebase indexing has gotten significantly better on @cursor_ai: size: 1M+ files / 1B+ lines of code warm indexes: initialization 12-20x faster with ~ instant s"
+   },
+   "source": "@sualehasif996",
+   "url": "https://x.com/sualehasif996/status/1917711871664349568",
+   "note": {
+    "en": "Detailed major codebase indexing improvements on Cursor: handling 1M+ files/1B+ lines, with 12-20x faster warm-index initialization.",
+    "zh": "详细介绍了Cursor代码库索引的重大改进:支持超过100万文件、10亿行代码,热索引初始化速度提升12-20倍。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-04-29",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Inside Cursor: The future of AI coding with Co-founder Sualeh Asif",
+    "zh": "Inside Cursor: The future of AI coding with Co-founder Sualeh Asif"
+   },
+   "source": "Gradient Dissent: Conversations on AI",
+   "url": "https://podcasts.apple.com/us/podcast/inside-cursor-the-future-of-ai-coding-with-co/id1504567418?i=1000705386235&uo=4",
+   "note": {
+    "en": "Long-form Gradient Dissent interview in which Asif explains how Cursor's editor was built and how completion and agent mode were fused into one interaction model.",
+    "zh": "《Gradient Dissent》长篇访谈，Asif 讲述 Cursor 编辑器的构建过程，以及如何把代码补全与智能体模式融合成同一种交互方式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-02-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Configurable thinking out soon! 👀 https://t.co/ojKYqT0wXN",
+    "zh": "Configurable thinking out soon! 👀 https://t.co/ojKYqT0wXN"
+   },
+   "source": "@sualehasif996",
+   "url": "https://x.com/sualehasif996/status/1894094715479548273",
+   "note": {
+    "en": "Teased an upcoming 'configurable thinking' feature; the post drew engagement well above his usual scale.",
+    "zh": "预告即将推出的'可配置思考'功能,该帖子获得的关注度远超他平时的水平。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-11-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Cursor🤝Supermaven == New research and magical product features coming soon!",
+    "zh": "Cursor🤝Supermaven == New research and magical product features coming soon!"
+   },
+   "source": "@sualehasif996",
+   "url": "https://x.com/sualehasif996/status/1856429794055074075",
+   "note": {
+    "en": "Announced Cursor's partnership/acquisition of Supermaven, teasing new research and product features to come.",
+    "zh": "宣布Cursor与Supermaven达成合作/收购,预告即将推出的新研究和产品功能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-10-06",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#447 – Cursor Team: Future of Programming with AI",
+    "zh": "#447 – Cursor Team: Future of Programming with AI"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/447-cursor-team-future-of-programming-with-ai/id1434243584?i=1000671976209&uo=4",
+   "note": {
+    "en": "Sualeh Asif joined fellow Cursor co-founders Aman Sanger, Arvid Lunnemark and Michael Truell on the Lex Fridman Podcast to discuss the future of AI-assisted programming.",
+    "zh": "Sualeh Asif与Cursor联合创始人Aman Sanger、Arvid Lunnemark和Michael Truell一同做客Lex Fridman播客，探讨AI辅助编程的未来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-08-22",
+   "ts": "2024-08-22T16:44:05Z",
+   "kind": "x",
+   "title": {
+    "en": "Plan: build the tool that builds all the worlds software. We will continue to focus all of our energy on hardcore engineering and research.",
+    "zh": "Plan: build the tool that builds all the worlds software. We will continue to focus all of our energy on hardcore engineering and research."
+   },
+   "source": "@sualehasif996",
+   "url": "https://x.com/sualehasif996/status/1826661631239356435",
+   "note": {
+    "en": "Asif states Cursor's mission as building 'the tool that builds all the world's software,' with the team focused on engineering and research.",
+    "zh": "Asif阐述Cursor的使命是打造\"构建全世界软件的工具\"，团队将全力投入硬核工程与研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-06-05",
+   "ts": "2024-06-05T00:20:32Z",
+   "kind": "x",
+   "title": {
+    "en": "our new brand is out now on https://t.co/2rBxfxqe7Y. https://t.co/PJIgWvnhkH",
+    "zh": "our new brand is out now on https://t.co/2rBxfxqe7Y. https://t.co/PJIgWvnhkH"
+   },
+   "source": "@sualehasif996",
+   "url": "https://x.com/sualehasif996/status/1798147859260563703",
+   "note": {
+    "en": "Asif announces Cursor's new brand launch.",
+    "zh": "Asif宣布Cursor完成品牌焕新并正式上线。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-03-28",
+   "ts": "2024-03-28T19:02:04Z",
+   "kind": "x",
+   "title": {
+    "en": "Copilot++ is really the best inflow coding experience out there. its incredibly fast now.",
+    "zh": "Copilot++ is really the best inflow coding experience out there. its incredibly fast now."
+   },
+   "source": "@sualehasif996",
+   "url": "https://x.com/sualehasif996/status/1773425341589262742",
+   "note": {
+    "en": "Asif praises Copilot++, Cursor's fast in-flow coding feature, calling it the best experience of its kind.",
+    "zh": "Asif称赞Cursor的Copilot++功能是同类中最出色的沉浸式编程体验，且速度极快。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-02-29",
+   "ts": "2024-02-29T00:25:51Z",
+   "kind": "x",
+   "title": {
+    "en": "Really happy that coding copilots will transition from only writing net new code to actually helping you do software-engineering. Like do real edits in your cod",
+    "zh": "Really happy that coding copilots will transition from only writing net new code to actually helping you do software-engineering. Like do real edits in your cod"
+   },
+   "source": "@sualehasif996",
+   "url": "https://x.com/sualehasif996/status/1762997573152043379",
+   "note": {
+    "en": "Asif welcomes the shift of coding copilots from pure code generation toward real software-engineering assistance — doing edits and understanding context.",
+    "zh": "Asif对编程助手从单纯生成代码转向真正协助软件工程（进行编辑并理解上下文）的趋势表示欢迎。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-08-14",
+   "level": "major",
+   "title": {
+    "en": "SpaceX closes the $60B acquisition of Anysphere",
+    "zh": "SpaceX 完成 600 亿美元收购 Anysphere"
+   },
+   "body": {
+    "en": "Forbes estimated each Cursor co-founder received SpaceX shares worth about $2.4B at closing.",
+    "zh": "《福布斯》估算交割时每位 Cursor 联合创始人获得价值约 24 亿美元的 SpaceX 股票。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/technology/ai/articles/spacex-completes-record-60-billion-131311785.html"
+  },
+  {
+   "date": "2026-09-01",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Karachi-Born Sualeh Asif Becomes Pakistan’s Youngest Billionaire at 26",
+    "zh": "Karachi-Born Sualeh Asif Becomes Pakistan’s Youngest Billionaire at 26"
+   },
+   "body": {
+    "en": "Sualeh Asif became Pakistan's youngest billionaire at 26, following the surge in Cursor's valuation.",
+    "zh": "随着Cursor估值飙升，苏艾雷·阿西夫在26岁时成为巴基斯坦最年轻的亿万富翁。"
+   },
+   "source": "TechJuice",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON0NDWXBUeW5KMHZDWC1udTRZV1ktN0lWVUVkelh5dE9pSFNZNHNVRGwyVnJORE1kaTRLUl9HQ1dYRE1EVkE2QWdMMjA0cEdhWllpVWJZMnN6Z3J6SUZ3ejVVb3ZZMkxXSUJGaUNiX1ZDX2Rwenk5MHptMlNid2dra2M4amg3X1Raa3hDMzBWMG1OQ2xxenl6N3RWVQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-22",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Elon Musk’s SpaceX Snaps Up Sualeh Asif’s AI Startup Cursor for $60 Billion",
+    "zh": "Elon Musk’s SpaceX Snaps Up Sualeh Asif’s AI Startup Cursor for $60 Billion"
+   },
+   "body": {
+    "en": "SpaceX acquired Cursor, which Asif co-founded, in a deal valued at about $60 billion.",
+    "zh": "SpaceX 以约600亿美元收购了 Sualeh Asif 联合创办的 Cursor。"
+   },
+   "source": "lovin.co",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JWDNLQVBjZ1c0b0lvb18zcEs0NDM4OTFqMGtDQ3BnQXZYNi1BdnBBd2hpUExtTnh1ZnlPQ3pSWjE2LVRFY0NkcS1UbFM3UVR0N0dEZjRQWEdhVTVvdlNWZ3BVMlhMMGFTblpUQUFJcUl2Y3NOSDBpN3c0MXNTUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-19",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Elon Musk’s $60 billion Cursor deal makes Indian-origin Aman Sanger, Pakistan-born Sualeh Asif $2.7 billion richer",
+    "zh": "Elon Musk’s $60 billion Cursor deal makes Indian-origin Aman Sanger, Pakistan-born Sualeh Asif $2.7 billion richer"
+   },
+   "body": {
+    "en": "A $60 billion deal tied to Elon Musk's investment in Cursor reportedly made co-founders Aman Sanger and Sualeh Asif billionaires, a major valuation milestone for the company Asif helped build as CPO.",
+    "zh": "据报道，埃隆·马斯克对Cursor的600亿美元交易使联合创始人Aman Sanger和Sualeh Asif成为亿万富翁，这是Asif作为首席产品官参与打造的公司迎来的重大估值里程碑。"
+   },
+   "source": "Indiablooms",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcm1NTzNSd1RFclo1QXl5WHc4V0xSYlNqeE9LTXFETFpKd0JGdzhsdklFbTkyRC1uMjlic0Y5SDFnWm5Rc1ZhbXpzUldlcXJVMUxKTE9PeW5RZzhDSVYzRkVYNWdtVFhZYXpVcFd3MXhfMDl3NzZDMU5YcEYyMDJKR1NIRFUyRFVyYkg5ZGZuTV9TeWc0V25nTElPQksxVWFaMWY2NlBpd2lpSG5HWHNpcGhweVFHSGVjYUtaTFkzWS1iQ3poT25NdDFnNElyWTRuLVlqdVhmR2Y0T3hsLThfaFZtQTBOWUJP?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-04-26",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "PIEAS alumnus Sualeh Asif all set for $60bn deal with Musk’s SpaceX",
+    "zh": "PIEAS alumnus Sualeh Asif all set for $60bn deal with Musk’s SpaceX"
+   },
+   "body": {
+    "en": "Reports SpaceX's $60bn acquisition of Cursor's parent Anysphere, which puts Asif's company and his own role under Musk's group.",
+    "zh": "报道 SpaceX 以 600 亿美元收购 Cursor 母公司 Anysphere，Asif 的公司与其本人的职务由此归入马斯克旗下集团。"
+   },
+   "source": "Daily Times",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTWR2V3diU3VYamdYOWQ0VFZkQnRpOXFiaUFVM3VTVzJJR2loZzBmdklmaEd4UXptd21oVFZtWnlZN09mRHNxVXZEbnZDMmxLdXRrY3czQ1JNYUEyYm13ZmJKam5PbWdoVjU0eExfMkZTaTY1YzlJQTRzbXdiSmRPUkpLZ3RZUHpXejltQlFtaHZZVC1sNlNHU3JwMmNDaFJKa0E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-04-26",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "PIEAS alumnus Sualeh Asif all set for $60bn deal with Musk’s SpaceX",
+    "zh": "PIEAS alumnus Sualeh Asif all set for $60bn deal with Musk’s SpaceX"
+   },
+   "body": {
+    "en": "Reports say Cursor co-founder Sualeh Asif is set to fold Cursor (Anysphere) into Musk's SpaceX in a roughly $60 billion deal, a major corporate restructuring for the company.",
+    "zh": "报道称Cursor联合创始人Sualeh Asif即将促成一笔约600亿美元的交易，将Cursor（Anysphere）并入马斯克旗下SpaceX，这是公司的一次重大重组。"
+   },
+   "source": "greenpost.com.pk",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1HWXBZSy1yV0VqOHhkaFF6NFQzaEV5clZVV29xeXhyQWl2NE5URVRNMEttTTc2QnRpX0xKVjdJVl80eE43UHphZ0tGaFhZUHRnQ01yd2xRRENVTExYSlNWZ3JLVGFTei05UVBTUVYwMF9lZFJEdG5hMkNn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-04-24",
+   "ts": "2026-04-24T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Pakistani AI entrepreneur Sualeh Asif makes it to Forbes' global billionaires list",
+    "zh": "Pakistani AI entrepreneur Sualeh Asif makes it to Forbes' global billionaires list"
+   },
+   "body": {
+    "en": "Cursor co-founder Sualeh Asif was named to Forbes' global billionaires list, reflecting Anysphere's soaring valuation.",
+    "zh": "Cursor联合创始人Sualeh Asif登上福布斯全球亿万富豪榜，反映出Anysphere估值的飙升。"
+   },
+   "source": "SUCH TV",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbFhiMGdyT3FzYzYwNWJONk90WVR3TTlsUWFMb3dSRmVYVkZZM3hJTTNLTWNjc3lwOHUwWGNfZnJZNkhFSTF5bXdLOFVReG84allPSXlkcU1tcVZ4TWZseTR2RU5hS2czWkxPTmhOSmtMbGdiTkVVLUFLY3p4eUN0VEdDR1h4NUpJS3JkVi0wWko1WjJ5TjhrZDNCNXZyQ2dwTEhFb0tFTjJlNzdCcEJENEpNQnV4cWpOUTFvNlpTMlY0WGV0UmRPVg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-04-23",
+   "ts": "2026-04-23T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Pakistan-born Sualeh Asif’s startup Cursor in reported $60bn deal with Elon Musk’s SpaceX",
+    "zh": "Pakistan-born Sualeh Asif’s startup Cursor in reported $60bn deal with Elon Musk’s SpaceX"
+   },
+   "body": {
+    "en": "Cursor, the startup Asif co-founded, was reported to be in a $60 billion deal with Elon Musk's SpaceX.",
+    "zh": "阿西夫联合创立的Cursor被曝正与马斯克旗下SpaceX进行一笔600亿美元的交易。"
+   },
+   "source": "Dialogue Pakistan",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeUlGTndWbGI4bUlkcWdsM3JPNTNWcExCRnZsRmpiclQ2eWtfRzkyNk01ckdINmtxOWk0bTRlUGJmWHQzUldDN000NzhSWnRHV1dtanA1VkRsdWN2WDI3OFk3WDdDZVNQMG1mRWczbXRSMnhicGVwT3AxNFA0ZTgtTmE5bUw1U0VWc3BqZHZ1azF0SEpiOS1OeXA4ZFFySWtLcThpOF9iVnZzOTZaQUpjNkQxNFkxOTlwSVd0UVFySDNGOEtrSGJjUmNFNTk4WFU?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": true,
+ "was": {
+  "en": "Co-founder & CPO, Anysphere (Cursor)",
+  "zh": "Anysphere（Cursor）联合创始人兼 CPO"
+ },
+ "cat": "product",
+ "score": {
+  "total": 63.0,
+  "attention": null,
+  "centrality": 79,
+  "momentum": 44,
+  "stature": null,
+  "pageviews": 0,
+  "citations": 9,
+  "hIndex": 2,
+  "events": 8,
+  "posts": 20,
+  "wikiEn": null,
+  "wikiZh": null
+ },
+ "seedRank": 66,
+ "tier": "t2"
+}

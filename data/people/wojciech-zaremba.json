@@ -1,0 +1,786 @@
+{
+ "rank": 76,
+ "id": "wojciech-zaremba",
+ "name": {
+  "en": "Wojciech Zaremba",
+  "zh": "Wojciech Zaremba"
+ },
+ "role": {
+  "en": "Head of AI Resilience, OpenAI Foundation",
+  "zh": "OpenAI Foundation AI Resilience 负责人"
+ },
+ "org": "OpenAI Foundation",
+ "region": {
+  "en": "United States / Poland",
+  "zh": "美国/波兰"
+ },
+ "tags": [
+  "OpenAI",
+  "OpenAI Gym",
+  "Alignment",
+  "Resilience",
+  "Robotics"
+ ],
+ "why": {
+  "en": "The last remaining OpenAI co-founder still at the company, creator of OpenAI Gym, and long-time owner of code generation and alignment work. In 2026 he moved off frontier research entirely.",
+  "zh": "仍在职的 OpenAI 联合创始人中的最后一位，OpenAI Gym 的创建者，长期负责代码生成与对齐研究。2026 年他完全离开了前沿研究岗位。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@woj_zaremba",
+   "url": "https://x.com/woj_zaremba",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — @woj.zaremba",
+   "url": "https://medium.com/@woj.zaremba",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Personal site",
+   "url": "https://woj.world",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @wojzaremba",
+   "url": "https://github.com/wojzaremba",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "OpenAI Research",
+   "url": "https://openai.com/research/",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "OpenAI Foundation news",
+   "url": "https://openaifoundation.org/news",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "OpenAI Foundation news",
+   "url": "https://openaifoundation.org/news/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Wojciech+Zaremba",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Wojciech+Zaremba",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Wojciech+Zaremba",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Wojciech+Zaremba&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Wojciech+Zaremba&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Wojciech+Zaremba",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Wojciech+Zaremba",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?user=XCZpOcAAAAAJ&hl=en",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Wojciech+Zaremba",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Wojciech+Zaremba",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Wojciech+Zaremba",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Wojciech+Zaremba",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Wojciech+Zaremba",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Wojciech+Zaremba&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Wojciech_Zaremba",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2016-06-05",
+   "kind": "report",
+   "title": {
+    "en": "OpenAI Gym",
+    "zh": "OpenAI Gym"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1606.01540",
+   "note": {
+    "en": "The benchmark substrate an entire generation of RL research was built on.",
+    "zh": "一整代强化学习研究赖以建立的基准底座。"
+   }
+  },
+  {
+   "date": "2025-09-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Stress Testing Deliberative Alignment for Anti-Scheming Training",
+    "zh": "Stress Testing Deliberative Alignment for Anti-Scheming Training"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2509.15541v1",
+   "note": {
+    "en": "OpenAI–Apollo Research study testing whether deliberative alignment training reduces covert, deceptive behaviour in frontier models; Zaremba is a senior author, matching his move into AI resilience work.",
+    "zh": "OpenAI 与 Apollo Research 合作的研究，检验审慎对齐训练能否减少前沿模型的隐蔽欺骗行为；Zaremba 作为资深作者参与，契合他转向 AI 韧性方向的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-09-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Base-Axiom Initialization for Deliberative Alignment - A qualitative approach to Stress Testing Deliberative Alignment for Anti Scheming Training -",
+    "zh": "Base-Axiom Initialization for Deliberative Alignment - A qualitative approach to Stress Testing Deliberative Alignment for Anti Scheming Training -"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "http://arxiv.org/abs/2509.15541",
+   "note": {
+    "en": "Paper on strengthening deliberative alignment training against scheming behavior in AI systems, part of Zaremba's alignment and safety research at OpenAI.",
+    "zh": "一篇关于强化审议式对齐训练以防范AI系统\"图谋\"行为的论文，属于扎伦巴在OpenAI从事的对齐与安全研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-08-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "gpt-oss-120b & gpt-oss-20b Model Card",
+    "zh": "gpt-oss-120b & gpt-oss-20b Model Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2508.10925v1",
+   "note": {
+    "en": "Model card for gpt-oss-120b and gpt-oss-20b, OpenAI's open-weight reasoning models, covering architecture, training and safety evaluation; Zaremba is among the authors.",
+    "zh": "OpenAI 开放权重推理模型 gpt-oss-120b 与 gpt-oss-20b 的模型卡，涵盖架构、训练与安全评估；Zaremba 位列作者之中。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-07-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety",
+    "zh": "Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2507.11473v2",
+   "note": {
+    "en": "Cross-lab position paper arguing that the readability of models' chains of thought is a fragile safety asset worth preserving; Zaremba signs on alongside researchers from OpenAI, Anthropic, DeepMind and academia.",
+    "zh": "跨实验室立场论文，主张模型思维链的可读性是一项脆弱而值得保护的安全资产；Zaremba 与 OpenAI、Anthropic、DeepMind 及学界研究者共同署名。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-03-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Monitoring Reasoning Models for Misbehavior and the Risks of Promoting Obfuscation",
+    "zh": "Monitoring Reasoning Models for Misbehavior and the Risks of Promoting Obfuscation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2503.11926v1",
+   "note": {
+    "en": "Shows that reward hacking in reasoning models can be caught by monitoring the chain of thought, but that optimising against the monitor teaches models to hide their intent; Zaremba is a co-author.",
+    "zh": "论文表明可通过监控思维链发现推理模型的奖励作弊，但直接针对监控器优化会让模型学会隐藏意图；Zaremba 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-01-31",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Trading Inference-Time Compute for Adversarial Robustness",
+    "zh": "Trading Inference-Time Compute for Adversarial Robustness"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2501.18841v1",
+   "note": {
+    "en": "Zaremba is first author on this study of whether spending more inference-time compute makes o1-series reasoning models harder to attack adversarially.",
+    "zh": "Zaremba 为第一作者的研究，考察增加推理时计算量能否让 o1 系列推理模型更难被对抗攻击攻破。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-12-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "OpenAI o1 System Card",
+    "zh": "OpenAI o1 System Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2412.16720v2",
+   "note": {
+    "en": "OpenAI's system card for the o1 reasoning model series, documenting its safety evaluations and mitigations; Zaremba is among the authors.",
+    "zh": "OpenAI o1 推理模型系列的系统卡，记录其安全评估与缓解措施；Zaremba 位列作者之中。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-10-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GPT-4o System Card",
+    "zh": "GPT-4o System Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2410.21276v1",
+   "note": {
+    "en": "System card for GPT-4o, OpenAI's end-to-end multimodal model handling text, audio, image and video; Zaremba is among the authors.",
+    "zh": "GPT-4o 的系统卡，介绍这一端到端处理文本、音频、图像与视频的多模态模型；Zaremba 位列作者之中。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-03-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GPT-4 Technical Report",
+    "zh": "GPT-4 Technical Report"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2303.08774v6",
+   "note": {
+    "en": "The GPT-4 technical report, OpenAI's account of its multimodal flagship model and its capability and safety evaluations; Zaremba is among the authors.",
+    "zh": "GPT-4 技术报告，OpenAI 对其多模态旗舰模型及能力与安全评估的说明；Zaremba 位列作者之中。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-11-17",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#120 - WOJCIECH ZAREMBA",
+    "zh": "#120 - WOJCIECH ZAREMBA"
+   },
+   "source": "POD OF JAKE",
+   "url": "https://podcasts.apple.com/us/podcast/120-wojciech-zaremba/id1525087226?i=1000586570440&uo=4",
+   "note": {
+    "en": "Long-form interview on Pod of Jake in which Zaremba discusses founding OpenAI and leading its Codex and language teams.",
+    "zh": "Pod of Jake 的长篇访谈，Zaremba 谈及创办 OpenAI 以及领导 Codex 与语言团队的经历。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2021-08-29",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#215 – Wojciech Zaremba: OpenAI Codex, GPT-3, Robotics, and the Future of AI",
+    "zh": "#215 – Wojciech Zaremba: OpenAI Codex, GPT-3, Robotics, and the Future of AI"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/215-wojciech-zaremba-openai-codex-gpt-3-robotics-and/id1434243584?i=1000533464247&uo=4",
+   "note": {
+    "en": "Lex Fridman Podcast episode 215, a wide-ranging conversation with Zaremba on OpenAI Codex, GPT-3, robotics and where AI is heading.",
+    "zh": "Lex Fridman 播客第 215 期，与 Zaremba 广泛讨论 OpenAI Codex、GPT-3、机器人技术以及 AI 的走向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2021-07-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Evaluating Large Language Models Trained on Code",
+    "zh": "Evaluating Large Language Models Trained on Code"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2107.03374v2",
+   "note": {
+    "en": "The Codex paper, introducing the GPT model fine-tuned on public code that powers GitHub Copilot and the HumanEval benchmark; Zaremba is the senior author and owned this line of work at OpenAI.",
+    "zh": "Codex 论文，提出在公开代码上微调的 GPT 模型（驱动 GitHub Copilot）并引入 HumanEval 基准；Zaremba 为通讯作者，也是 OpenAI 该方向的负责人。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-06-03",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Wojciech Zaremba — What Could Make AI Conscious?",
+    "zh": "Wojciech Zaremba — What Could Make AI Conscious?"
+   },
+   "source": "Gradient Dissent: Conversations on AI",
+   "url": "https://podcasts.apple.com/us/podcast/wojciech-zaremba-what-could-make-ai-conscious/id1504567418?i=1000524103508&uo=4",
+   "note": {
+    "en": "Gradient Dissent interview in which Zaremba talks about OpenAI's founding principles, machine consciousness and the road to AGI.",
+    "zh": "Gradient Dissent 访谈，Zaremba 谈 OpenAI 的创立理念、机器意识以及通往 AGI 的路径。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2021-06-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Generalizable Approach to Learning Optimizers",
+    "zh": "A Generalizable Approach to Learning Optimizers"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2106.00958v2",
+   "note": {
+    "en": "Proposes a learned optimiser designed for generalisation, trained so that it transfers to real neural-network training problems rather than only the tasks it was fitted on; Zaremba is the senior author.",
+    "zh": "提出一种以泛化为出发点设计的学习型优化器，使其能迁移到真实的神经网络训练任务而非仅限于训练时的任务；Zaremba 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-01-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Asymmetric self-play for automatic goal discovery in robotic manipulation",
+    "zh": "Asymmetric self-play for automatic goal discovery in robotic manipulation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2101.04882v1",
+   "note": {
+    "en": "OpenAI robotics work training a single goal-conditioned policy through asymmetric self-play so it can solve manipulation tasks with unseen goals and objects; Zaremba is the senior author.",
+    "zh": "OpenAI 机器人研究，通过非对称自博弈训练单一目标条件策略，使其能完成涉及未见目标与物体的操作任务；Zaremba 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-09-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Predicting Sim-to-Real Transfer with Probabilistic Dynamics Models",
+    "zh": "Predicting Sim-to-Real Transfer with Probabilistic Dynamics Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2009.12864v1",
+   "note": {
+    "en": "Introduces a metric that predicts how well a reinforcement-learning policy will transfer from simulation to a real robot, simplifying the choice of training setup; Zaremba is the senior author.",
+    "zh": "提出一种可预测强化学习策略从仿真迁移到真实机器人效果的指标，从而简化训练配置的选择；Zaremba 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-11-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Learning dexterous in-hand manipulation",
+    "zh": "Learning dexterous in-hand manipulation"
+   },
+   "source": "The International Journal of Robotics…",
+   "url": "https://doi.org/10.1177/0278364919887447",
+   "note": {
+    "en": "The Dactyl paper: OpenAI's robot hand learns dexterous in-hand object manipulation via reinforcement learning; Zaremba is a co-author.",
+    "zh": "即Dactyl论文，讲述OpenAI机械手通过强化学习掌握手内灵巧操作物体的能力，扎伦巴是共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2019-10-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Solving Rubik's Cube with a Robot Hand",
+    "zh": "Solving Rubik's Cube with a Robot Hand"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1910.07113v1",
+   "note": {
+    "en": "OpenAI's Rubik's Cube result: a robot hand trained entirely in simulation with automatic domain randomisation solves the cube in the physical world; Zaremba is among the senior authors.",
+    "zh": "OpenAI 的魔方成果：完全在仿真中经自动域随机化训练的机械手在现实中完成魔方还原；Zaremba 列于资深作者之中。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-10-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Domain Randomization and Generative Models for Robotic Grasping",
+    "zh": "Domain Randomization and Generative Models for Robotic Grasping"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.1109/iros.2018.8593933",
+   "note": {
+    "en": "OpenAI robotics paper combining domain randomization with generative models to improve robotic grasping.",
+    "zh": "OpenAI机器人研究论文，结合域随机化与生成模型改进机器人抓取能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2018-06-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Asymmetric Actor Critic for Image-Based Robot Learning",
+    "zh": "Asymmetric Actor Critic for Image-Based Robot Learning"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.15607/rss.2018.xiv.008",
+   "note": {
+    "en": "OpenAI robotics paper proposing an actor-critic method that exploits privileged state information available only during training.",
+    "zh": "OpenAI机器人研究论文，提出一种在训练时利用特权状态信息的actor-critic方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2018-05-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Overcoming Exploration in Reinforcement Learning with Demonstrations",
+    "zh": "Overcoming Exploration in Reinforcement Learning with Demonstrations"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.1109/icra.2018.8463162",
+   "note": {
+    "en": "OpenAI reinforcement learning paper using human demonstrations to overcome hard exploration problems in sparse-reward tasks.",
+    "zh": "OpenAI强化学习论文，利用人类示范来克服稀疏奖励任务中的探索难题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2018-02-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Multi-Goal Reinforcement Learning: Challenging Robotics Environments and Request for Research",
+    "zh": "Multi-Goal Reinforcement Learning: Challenging Robotics Environments and Request for Research"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1802.09464v2",
+   "note": {
+    "en": "Releases the multi-goal robotics environments that shipped with OpenAI Gym and sets out open research problems for goal-conditioned RL; Zaremba is the senior author and Gym's creator.",
+    "zh": "发布随 OpenAI Gym 一同推出的多目标机器人环境，并提出目标条件强化学习的开放研究问题；Zaremba 为通讯作者，也是 Gym 的创建者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2017-10-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Sim-to-Real Transfer of Robotic Control with Dynamics Randomization",
+    "zh": "Sim-to-Real Transfer of Robotic Control with Dynamics Randomization"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1710.06537v3",
+   "note": {
+    "en": "Randomises simulator dynamics during training so a control policy learned in simulation transfers to real hardware without further tuning; Zaremba is a co-author.",
+    "zh": "在训练中随机化仿真动力学参数，使仿真中学到的控制策略无需额外调整即可迁移到真实硬件；Zaremba 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2017-07-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Hindsight Experience Replay",
+    "zh": "Hindsight Experience Replay"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1707.01495v3",
+   "note": {
+    "en": "Hindsight Experience Replay, the widely used technique that turns failed rollouts into successful ones for alternative goals and made sparse-reward RL practical; Zaremba is the senior author.",
+    "zh": "Hindsight Experience Replay：将失败轨迹重新标注为其他目标下的成功样本，使稀疏奖励强化学习变得可行的经典方法；Zaremba 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2017-05-15",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#5 - An AI Primer with Wojciech Zaremba",
+    "zh": "#5 - An AI Primer with Wojciech Zaremba"
+   },
+   "source": "Y Combinator Startup Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/5-an-ai-primer-with-wojciech-zaremba/id1236907421?i=1000385458272&uo=4",
+   "note": {
+    "en": "Y Combinator podcast episode in which Zaremba gives a primer on AI and explains OpenAI's mission as a non-profit research lab.",
+    "zh": "Y Combinator 播客节目，Zaremba 讲解 AI 入门知识并介绍 OpenAI 作为非营利研究机构的使命。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2017-03-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "One-Shot Imitation Learning",
+    "zh": "One-Shot Imitation Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1703.07326v3",
+   "note": {
+    "en": "One-shot imitation learning: a single policy that watches one demonstration of a new task and reproduces it, an early OpenAI result on general-purpose robot learning; Zaremba is the senior author.",
+    "zh": "单样本模仿学习：策略只需观看一次新任务的示范便能复现，是 OpenAI 在通用机器人学习方向的早期成果；Zaremba 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2017-03-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World",
+    "zh": "Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1703.06907v1",
+   "note": {
+    "en": "The original domain randomisation paper, showing that randomising simulator appearance lets a vision network trained only in simulation localise real objects; Zaremba is a co-author.",
+    "zh": "域随机化的开山论文，证明随机化仿真外观可让仅在仿真中训练的视觉网络定位真实物体；Zaremba 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2016-11-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Extensions and Limitations of the Neural GPU",
+    "zh": "Extensions and Limitations of the Neural GPU"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1611.00736v2",
+   "note": {
+    "en": "Examines what the Neural GPU can and cannot learn, showing its algorithmic generalisation is more limited than first reported; Zaremba co-wrote it with Eric Price and Ilya Sutskever.",
+    "zh": "考察 Neural GPU 能学与不能学的内容，指出其算法泛化能力不及最初报告；Zaremba 与 Eric Price、Ilya Sutskever 合著。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2016-10-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Transfer from Simulation to Real World through Learning Deep Inverse Dynamics Model",
+    "zh": "Transfer from Simulation to Real World through Learning Deep Inverse Dynamics Model"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1610.03518v1",
+   "note": {
+    "en": "Learns a deep inverse dynamics model so control policies developed in simulation can be executed on real robots; an early OpenAI sim-to-real paper with Zaremba as senior author.",
+    "zh": "学习深度逆动力学模型，使仿真中开发的控制策略能在真实机器人上执行；OpenAI 早期的仿真到现实论文，Zaremba 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2016-06-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Improved Techniques for Training GANs",
+    "zh": "Improved Techniques for Training GANs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1606.03498v1",
+   "note": {
+    "en": "Co-authored paper introducing training techniques that stabilised GANs, including feature matching and minibatch discrimination.",
+    "zh": "合著论文提出特征匹配、小批量判别等技巧，显著稳定了 GAN 的训练。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-03-01",
+   "level": "major",
+   "title": {
+    "en": "Moves to run AI resilience at the OpenAI Foundation",
+    "zh": "转任 OpenAI Foundation 的 AI Resilience 负责人"
+   },
+   "body": {
+    "en": "Leaves the frontier research world after more than a decade spanning early robotics, model personality, and the team that became reasoning models.",
+    "zh": "在跨越早期机器人、模型人格以及后来成为推理模型的团队十余年后，离开前沿研究领域。"
+   },
+   "source": "Sources",
+   "url": "https://sources.news/p/openais-quiet-co-founder-steps-out"
+  }
+ ],
+ "changed": true,
+ "was": {
+  "en": "Co-founder, OpenAI",
+  "zh": "OpenAI 联合创始人"
+ },
+ "cat": "lab",
+ "score": {
+  "total": 30.3,
+  "attention": 50,
+  "centrality": 18,
+  "momentum": 3,
+  "stature": 41,
+  "pageviews": 96772,
+  "citations": 28327,
+  "hIndex": 35,
+  "events": 1,
+  "posts": 31,
+  "wikiEn": "Wojciech Zaremba",
+  "wikiZh": "沃伊切赫·薩倫巴"
+ },
+ "seedRank": 32,
+ "tier": "t5"
+}

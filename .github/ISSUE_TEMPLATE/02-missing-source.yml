@@ -1,0 +1,48 @@
+name: Missing source
+description: A channel we should be watching for someone on the board
+title: "[source] "
+labels: ["coverage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Our coverage is bounded by the channels we have found. If we never
+        found someone's blog, nothing from it is in the data — and we have no
+        way to know that from the inside. This is how we find out.
+  - type: input
+    id: person
+    attributes:
+      label: Person
+      description: The `person_id`, e.g. `fei-fei-li`
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: The channel's URL
+      placeholder: https://example.com/blog or https://x.com/handle
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of channel
+      options:
+        - X / Twitter
+        - Personal site or blog
+        - Substack / newsletter
+        - GitHub
+        - Hugging Face
+        - Google Scholar / arXiv
+        - Podcast (theirs)
+        - 知乎 / 微博 / 小宇宙 / B站
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: How do we know it is really them
+      description: A link from a verified account, an about page, anything that ties it to the person. Impersonation is the failure mode we care most about.
+    validations:
+      required: true

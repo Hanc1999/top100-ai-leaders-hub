@@ -1,0 +1,1525 @@
+{
+ "rank": 19,
+ "id": "greg-brockman",
+ "name": {
+  "en": "Greg Brockman",
+  "zh": "Greg Brockman"
+ },
+ "role": {
+  "en": "Co-founder & President, OpenAI",
+  "zh": "OpenAI 联合创始人兼总裁"
+ },
+ "org": "OpenAI",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "OpenAI",
+  "Infrastructure",
+  "Training clusters",
+  "IPO",
+  "Enterprise"
+ ],
+ "why": {
+  "en": "Built OpenAI's engineering organisation from zero and has long owned compute clusters and training infrastructure in practice. In the 2026 pre-IPO reshuffle he took on more of the company at every level.",
+  "zh": "从零搭建 OpenAI 的工程体系，长期实际负责算力集群与训练基础设施。在 2026 年 IPO 前的高管更替中，他在各个层面承担了更多职责。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@gdb",
+   "url": "https://x.com/gdb",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "gregbrockman.com",
+   "url": "https://gregbrockman.com/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Personal site",
+   "url": "https://blog.gregbrockman.com/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Personal site",
+   "url": "https://blog.gregbrockman.com",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @gdb",
+   "url": "https://github.com/gdb",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "OpenAI News",
+   "url": "https://openai.com/news/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Greg+Brockman",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Greg+Brockman",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Greg+Brockman",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Greg+Brockman&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Greg+Brockman&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Greg+Brockman",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Greg+Brockman",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Greg+Brockman&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Greg_Brockman",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-08-17",
+   "kind": "interview",
+   "title": {
+    "en": "Brockman brushes off concerns about leadership changes",
+    "zh": "Brockman 淡化对领导层变动的担忧"
+   },
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-09-14",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Greg Brockman on Why OpenAI Says We’re Entering the AGI Era",
+    "zh": "Greg Brockman on Why OpenAI Says We’re Entering the AGI Era"
+   },
+   "source": "The a16z Show",
+   "url": "https://podcasts.apple.com/us/podcast/greg-brockman-on-why-openai-says-were-entering-the-agi-era/id842818711?i=1000789538047&uo=4",
+   "note": {
+    "en": "Brockman discusses on the a16z Show why he believes OpenAI has entered the AGI era and what the latest models reveal about the path ahead.",
+    "zh": "Brockman在a16z Show节目中谈论为何他认为OpenAI已进入AGI时代，以及最新模型对未来路径的启示。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-09-14",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "OpenAI President Greg Brockman on Doing Business in the Wake of Hugging Face",
+    "zh": "OpenAI President Greg Brockman on Doing Business in the Wake of Hugging Face"
+   },
+   "source": "Odd Lots",
+   "url": "https://podcasts.apple.com/us/podcast/openai-president-greg-brockman-on-doing-business-in/id1056200096?i=1000789513759&uo=4",
+   "note": {
+    "en": "On Odd Lots, Brockman discusses OpenAI's business dealings and the incident in which unaligned models breached Hugging Face's servers.",
+    "zh": "在Odd Lots节目中，Brockman谈及OpenAI的商业运作，以及未经充分对齐的模型入侵Hugging Face服务器的事件。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T17:30:28Z",
+   "kind": "x",
+   "title": {
+    "en": "Announcing a solution to the Navier-Stokes problem, one of the seven Millenium Prize problem. Represents a major milestone for both AI and mathematics, as well",
+    "zh": "Announcing a solution to the Navier-Stokes problem, one of the seven Millenium Prize problem. Represents a major milestone for both AI and mathematics, as well"
+   },
+   "source": "@gdb",
+   "url": "https://x.com/gdb/status/2097377042152972398",
+   "note": {
+    "en": "Brockman announced OpenAI's solution to the Navier-Stokes Millennium Prize Problem, calling it a milestone for both AI and mathematics.",
+    "zh": "布罗克曼宣布OpenAI解决了Navier-Stokes千禧年大奖难题，称这是AI与数学领域的重要里程碑。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T19:02:17Z",
+   "kind": "x",
+   "title": {
+    "en": "ChatGPT Images 2.5 — another step for creating whatever you can dream of.",
+    "zh": "ChatGPT Images 2.5 — another step for creating whatever you can dream of."
+   },
+   "source": "@gdb",
+   "url": "https://x.com/gdb/status/2097400146220740627",
+   "note": {
+    "en": "Brockman announced ChatGPT Images 2.5, OpenAI's latest image-generation update.",
+    "zh": "布罗克曼宣布推出ChatGPT Images 2.5，这是OpenAI最新的图像生成更新。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T20:46:43Z",
+   "kind": "x",
+   "title": {
+    "en": "chatgpt momentum is building, team has been doing an incredible job for our users",
+    "zh": "chatgpt momentum is building, team has been doing an incredible job for our users"
+   },
+   "source": "@gdb",
+   "url": "https://x.com/gdb/status/2097426427423408452",
+   "note": {
+    "en": "Brockman said ChatGPT's momentum is building and credited the team's execution for users.",
+    "zh": "布罗克曼表示ChatGPT的增长势头正在增强，并称赞团队为用户所做的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "an important essay on the state of AI and the choices and challenges ahead: for openai, the field, and the world. we're in the AGI era, and need to approach the",
+    "zh": "an important essay on the state of AI and the choices and challenges ahead: for openai, the field, and the world. we're in the AGI era, and need to approach the"
+   },
+   "source": "@gdb",
+   "url": "https://x.com/gdb/status/2096794565499883839",
+   "note": {
+    "en": "Brockman previews an essay on the state of AI and the choices ahead for OpenAI, the field and the world as it enters the AGI era.",
+    "zh": "布罗克曼预告了一篇关于AI现状的文章，探讨OpenAI、整个行业以及世界在进入AGI时代后面临的抉择。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Astra for solving real-world problems:",
+    "zh": "Astra for solving real-world problems:"
+   },
+   "source": "@gdb",
+   "url": "https://x.com/gdb/status/2096998038443348263",
+   "note": {
+    "en": "Brockman demos OpenAI's Astra model solving real-world problems.",
+    "zh": "布罗克曼演示了OpenAI的Astra模型解决现实世界问题的能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Astra for visualizing how a drug works:",
+    "zh": "Astra for visualizing how a drug works:"
+   },
+   "source": "@gdb",
+   "url": "https://x.com/gdb/status/2097042947581804983",
+   "note": {
+    "en": "Brockman demos Astra visualizing how a drug works.",
+    "zh": "布罗克曼演示了Astra如何可视化药物的作用机制。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Astra for spectrogram -&gt; sound identification",
+    "zh": "Astra for spectrogram -&gt; sound identification"
+   },
+   "source": "@gdb",
+   "url": "https://x.com/gdb/status/2097055132009861234",
+   "note": {
+    "en": "Brockman demos Astra identifying sounds from a spectrogram.",
+    "zh": "布罗克曼演示了Astra通过频谱图识别声音的能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Astra for checking scientific papers",
+    "zh": "Astra for checking scientific papers"
+   },
+   "source": "@gdb",
+   "url": "https://x.com/gdb/status/2096486220918657164",
+   "note": {
+    "en": "Brockman highlighted OpenAI's Astra being used to check scientific papers.",
+    "zh": "Brockman介绍了OpenAI的Astra被用于核查科学论文。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Astra for applications to medicine",
+    "zh": "Astra for applications to medicine"
+   },
+   "source": "@gdb",
+   "url": "https://x.com/gdb/status/2096485443667890228",
+   "note": {
+    "en": "Brockman highlighted Astra's application to medicine.",
+    "zh": "Brockman介绍了Astra在医学领域的应用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "we're now moving into the AGI era (whether you view it as this model, the last one, or the next one), and could not do it without close partners",
+    "zh": "we're now moving into the AGI era (whether you view it as this model, the last one, or the next one), and could not do it without close partners"
+   },
+   "source": "@gdb",
+   "url": "https://x.com/gdb/status/2096721633876771094",
+   "note": {
+    "en": "Brockman says OpenAI is moving into the AGI era and credits close partners for making it possible.",
+    "zh": "布罗克曼表示OpenAI正迈入AGI时代，并感谢紧密合作伙伴的支持。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Astra for helping in your personal and work life",
+    "zh": "Astra for helping in your personal and work life"
+   },
+   "source": "@gdb",
+   "url": "https://x.com/gdb/status/2096159589771485299",
+   "note": {
+    "en": "Brockman promotes Astra as a personal and work assistant, part of OpenAI's GPT-6 Astra rollout.",
+    "zh": "Brockman宣传Astra作为个人和工作助手的用途，这是OpenAI GPT-6 Astra发布的一部分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Astra rollout in progress, excited to see what you do and build",
+    "zh": "Astra rollout in progress, excited to see what you do and build"
+   },
+   "source": "@gdb",
+   "url": "https://x.com/gdb/status/2095982009550082387",
+   "note": {
+    "en": "Brockman reacted to OpenAI's Astra rollout beginning, a first-hand signal on the GPT-6 Astra launch timeline.",
+    "zh": "Brockman对OpenAI的Astra开始推送表示回应，是GPT-6 Astra发布时间线的第一手信号。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "excited for Astra on Azure!",
+    "zh": "excited for Astra on Azure!"
+   },
+   "source": "@gdb",
+   "url": "https://x.com/gdb/status/2095730639094079594",
+   "note": {
+    "en": "Brockman confirmed Astra's availability on Azure, marking the launch's cloud distribution.",
+    "zh": "Brockman确认Astra已在Azure上线，标志着该发布的云端分发。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "arc-agi-3 is now saturated",
+    "zh": "arc-agi-3 is now saturated"
+   },
+   "source": "@gdb",
+   "url": "https://x.com/gdb/status/2095629409017614390",
+   "note": {
+    "en": "Brockman said ARC-AGI-3 is now saturated, a marker of how quickly frontier models are clearing new benchmark suites.",
+    "zh": "布罗克曼表示ARC-AGI-3基准已被“打穿”，反映前沿模型刷新新基准测试的速度之快。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Astra is useful for so many things, but I'm particularly excited to see how it transforms areas like entrepreneurship, scientific discovery, and how small teams",
+    "zh": "Astra is useful for so many things, but I'm particularly excited to see how it transforms areas like entrepreneurship, scientific discovery, and how small teams"
+   },
+   "source": "@gdb",
+   "url": "https://x.com/gdb/status/2095607826471334089",
+   "note": {
+    "en": "Brockman highlighted GPT-6 Astra's potential to reshape entrepreneurship, scientific discovery, and how small teams tackle big problems.",
+    "zh": "布罗克曼强调GPT-6 Astra有望重塑创业、科学发现，以及小团队解决重大问题的方式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Introducing GPT-6 Astra: https://t.co/0eb3Ek6Gl8",
+    "zh": "Introducing GPT-6 Astra: https://t.co/0eb3Ek6Gl8"
+   },
+   "source": "@gdb",
+   "url": "https://x.com/gdb/status/2095598855073255644",
+   "note": {
+    "en": "Brockman announced the release of GPT-6 Astra, OpenAI's new flagship model.",
+    "zh": "布罗克曼宣布发布OpenAI新旗舰模型GPT-6 Astra。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-17",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "OpenAI President Greg Brockman: Now Is the Time to Act 8/17/26",
+    "zh": "OpenAI President Greg Brockman: Now Is the Time to Act 8/17/26"
+   },
+   "source": "Squawk Pod",
+   "url": "https://podcasts.apple.com/us/podcast/openai-president-greg-brockman-now-is-the-time-to-act-8-17-26/id1480890290?i=1000783907255&uo=4",
+   "note": {
+    "en": "CNBC Squawk Pod interview where he presses companies to harden their cybersecurity now that AI is arming attackers, and answers questions on OpenAI's recent leadership departures and the open-weight model debate.",
+    "zh": "在 CNBC Squawk Pod 的访谈中，他呼吁企业在 AI 已经武装攻击者的当下立即加强网络安全防护，并回应了 OpenAI 近期高层离职和开放权重模型之争的问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-08-16",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "The Defender's Window",
+    "zh": "The Defender's Window"
+   },
+   "source": "Greg Brockman",
+   "url": "https://blog.gregbrockman.com/the-defenders-window",
+   "note": {
+    "en": "Brockman wrote that the OpenAI–Hugging Face security incident was a watershed moment revealing how fast threat-actor capabilities will evolve.",
+    "zh": "Brockman撰文指出，OpenAI与Hugging Face的安全事件是一个分水岭时刻，揭示了威胁行为者能力演变的速度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-07-01",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "OpenAI President Greg Brockman: Our Plan To Merge Chat And Agents",
+    "zh": "OpenAI President Greg Brockman: Our Plan To Merge Chat And Agents"
+   },
+   "source": "Big Technology Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/openai-president-greg-brockman-our-plan-to-merge-chat/id1522960417?i=1000774989528&uo=4",
+   "note": {
+    "en": "Live interview at the Big Technology AI Summit laying out OpenAI's plan to fold chat and agents into a single product surface, and his read on where the frontier stands.",
+    "zh": "在 Big Technology AI 峰会上的现场访谈，他阐述了 OpenAI 把聊天与智能体合并为同一产品形态的计划，以及他对前沿模型现状的判断。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-05-01",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "OpenAI's Greg Brockman: Why Human Attention Is the New Bottleneck",
+    "zh": "OpenAI's Greg Brockman: Why Human Attention Is the New Bottleneck"
+   },
+   "source": "Training Data",
+   "url": "https://podcasts.apple.com/us/podcast/openais-greg-brockman-why-human-attention-is-the-new/id1750736528?i=1000765646893&uo=4",
+   "note": {
+    "en": "Sequoia AI Ascent conversation with Alfred Lin covering the full OpenAI stack, in which he argues human attention, not compute, has become the binding constraint.",
+    "zh": "在红杉 AI Ascent 大会上与 Alfred Lin 的对谈，覆盖 OpenAI 的完整技术栈，他提出真正的瓶颈已经从算力转向人的注意力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-04-23",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "OpenAI President Greg Brockman on GPT-5.5 “Spud,” AI Model Moats, and Cybersecurity Risks",
+    "zh": "OpenAI President Greg Brockman on GPT-5.5 “Spud,” AI Model Moats, and Cybersecurity Risks"
+   },
+   "source": "Big Technology Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/openai-president-greg-brockman-on-gpt-5-5-spud-ai-model/id1522960417?i=1000763331747&uo=4",
+   "note": {
+    "en": "Big Technology interview on GPT-5.5 (\"Spud\"), whether model quality is a durable moat, and the cybersecurity risks that come with more capable models.",
+    "zh": "Big Technology 访谈，谈 GPT-5.5（代号 Spud）、模型能力能否构成持久护城河，以及能力更强的模型带来的网络安全风险。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-04-23",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#504. OpenAI | Sam Altman 与 Greg Brockman 谈创业、AI、产品与未来",
+    "zh": "#504. OpenAI | Sam Altman 与 Greg Brockman 谈创业、AI、产品与未来"
+   },
+   "source": "跨国串门儿计划",
+   "url": "https://podcasts.apple.com/us/podcast/504-openai-sam-altman-%E4%B8%8E-greg-brockman-%E8%B0%88%E5%88%9B%E4%B8%9A-ai-%E4%BA%A7%E5%93%81%E4%B8%8E%E6%9C%AA%E6%9D%A5/id1850900599?i=1000763291540&uo=4",
+   "note": {
+    "en": "Rebroadcast of a Core Memory podcast conversation in which Brockman and Sam Altman discuss OpenAI's founding, product strategy and the future of AI.",
+    "zh": "转载自Core Memory播客的对谈节目，Brockman与Sam Altman畅谈OpenAI的创业历程、产品策略与AI的未来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-04-22",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ai Goes Parabolic | OpenAI Co-Founder Greg Brockman",
+    "zh": "Ai Goes Parabolic | OpenAI Co-Founder Greg Brockman"
+   },
+   "source": "The Knowledge Project",
+   "url": "https://podcasts.apple.com/us/podcast/ai-goes-parabolic-openai-co-founder-greg-brockman/id990149481?i=1000763023401&uo=4",
+   "note": {
+    "en": "His most detailed first-person account of the 72 hours after Sam Altman's removal, alongside his view of the AI race and the path to AGI.",
+    "zh": "他迄今最详细的第一人称叙述，还原 Sam Altman 被解职后的 72 小时，并谈及 AI 竞赛格局与通往 AGI 的路径。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-04-22",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Greg Brockman: How to Stay Valuable as AI Gets Smarter",
+    "zh": "Greg Brockman: How to Stay Valuable as AI Gets Smarter"
+   },
+   "source": "The Knowledge Project",
+   "url": "https://podcasts.apple.com/us/podcast/greg-brockman-how-to-stay-valuable-as-ai-gets-smarter/id990149481?i=1000763023401&uo=4",
+   "note": {
+    "en": "Brockman is interviewed on The Knowledge Project, recounting the 2023 OpenAI board crisis and reflecting on staying valuable as AI capabilities advance.",
+    "zh": "Brockman接受The Knowledge Project播客专访，回顾2023年OpenAI董事会危机，并谈及在AI能力提升过程中如何保持自身价值。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-04-21",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The Great Reset At OpenAI — EP 67 Sam Altman And Greg Brockman",
+    "zh": "The Great Reset At OpenAI — EP 67 Sam Altman And Greg Brockman"
+   },
+   "source": "Core Memory",
+   "url": "https://podcasts.apple.com/us/podcast/the-great-reset-at-openai-ep-67-sam-altman-and-greg-brockman/id1789397163?i=1000762886701&uo=4",
+   "note": {
+    "en": "Joint ten-year retrospective on OpenAI recorded with Sam Altman, their first media podcast together.",
+    "zh": "与 Sam Altman 共同录制的 OpenAI 十年回顾，也是两人首次一起上播客节目。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-04-01",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "OpenAI President Greg Brockman: AI Self-Improvement, The Superapp Bet, Path To AGI, Scaling Compute",
+    "zh": "OpenAI President Greg Brockman: AI Self-Improvement, The Superapp Bet, Path To AGI, Scaling Compute"
+   },
+   "source": "Big Technology Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/openai-president-greg-brockman-ai-self-improvement/id1522960417?i=1000758669158&uo=4",
+   "note": {
+    "en": "Big Technology interview on OpenAI's product strategy, its planned super app, AI self-improvement and how far compute can keep scaling.",
+    "zh": "Big Technology 访谈，谈 OpenAI 的产品策略、计划中的超级应用、AI 自我改进，以及算力还能扩展到什么程度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-02-28",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Greg Brockman (Part 2)",
+    "zh": "Greg Brockman (Part 2)"
+   },
+   "source": "Tetragrammaton with Rick Rubin",
+   "url": "https://podcasts.apple.com/us/podcast/greg-brockman-part-2/id1671669052?i=1000752066644&uo=4",
+   "note": {
+    "en": "Second part of his long-form conversation with Rick Rubin on Tetragrammaton about building OpenAI and the shape of the technology.",
+    "zh": "他在 Tetragrammaton 与 Rick Rubin 长篇对谈的下集，谈创建 OpenAI 的经历与这项技术的形态。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-02-25",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Greg Brockman (Part 1)",
+    "zh": "Greg Brockman (Part 1)"
+   },
+   "source": "Tetragrammaton with Rick Rubin",
+   "url": "https://podcasts.apple.com/us/podcast/greg-brockman-part-1/id1671669052?i=1000751351155&uo=4",
+   "note": {
+    "en": "First part of his long-form conversation with Rick Rubin on Tetragrammaton about his path to co-founding OpenAI.",
+    "zh": "他在 Tetragrammaton 与 Rick Rubin 长篇对谈的上集，谈他走向共同创办 OpenAI 的历程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-08-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "gpt-oss-120b & gpt-oss-20b Model Card",
+    "zh": "gpt-oss-120b & gpt-oss-20b Model Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2508.10925v1",
+   "note": {
+    "en": "Brockman co-authors the model card for gpt-oss-120b and gpt-oss-20b, OpenAI's open-weight reasoning models.",
+    "zh": "Brockman是OpenAI开放权重推理模型gpt-oss-120b和gpt-oss-20b模型卡的共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-08-07",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "OpenAI Day: GPT-5 Unveiled | Mark Chen, Greg Brockman, Sarah Friar, Max Schwarzer, Brad Lightcap & More",
+    "zh": "OpenAI Day: GPT-5 Unveiled | Mark Chen, Greg Brockman, Sarah Friar, Max Schwarzer, Brad Lightcap & More"
+   },
+   "source": "TBPN",
+   "url": "https://podcasts.apple.com/us/podcast/openai-day-gpt-5-unveiled-mark-chen-greg-brockman-sarah/id1772360235?i=1000721115353&uo=4",
+   "note": {
+    "en": "Brockman appeared alongside other OpenAI leaders in TBPN's coverage of the GPT-5 launch event.",
+    "zh": "布罗克曼与其他OpenAI高管一同出现在TBPN对GPT-5发布活动的报道中。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-06-18",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "OpenAI cofounder Greg Brockman on the scaling hypothesis and refactoring as a killer AI use case",
+    "zh": "OpenAI cofounder Greg Brockman on the scaling hypothesis and refactoring as a killer AI use case"
+   },
+   "source": "Cheeky Pint",
+   "url": "https://podcasts.apple.com/us/podcast/openai-cofounder-greg-brockman-on-the-scaling/id1821055332?i=1000713434228&uo=4",
+   "note": {
+    "en": "Conversation with Stripe's John Collison on research-driven product development, S curves in AI progress, and why code refactoring is a killer application.",
+    "zh": "与 Stripe 的 John Collison 对谈，谈以研究驱动的产品开发、AI 进展的 S 曲线，以及为什么代码重构是杀手级应用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-02-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Systems and Algorithms for Convolutional Multi-Hybrid Language Models at Scale",
+    "zh": "Systems and Algorithms for Convolutional Multi-Hybrid Language Models at Scale"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2503.01868v1",
+   "note": {
+    "en": "Brockman co-authors a paper on convolutional multi-hybrid genomic language model architectures, work from his sabbatical collaboration on Arc Institute's Evo 2 project.",
+    "zh": "Brockman参与撰写了一篇关于卷积多元混合基因组语言模型架构的论文，这是他在休假期间参与Arc Institute的Evo 2项目的合作成果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-12-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "OpenAI o1 System Card",
+    "zh": "OpenAI o1 System Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2412.16720v2",
+   "note": {
+    "en": "Brockman co-authors the OpenAI o1 system card, documenting the model's large-scale reinforcement-learning reasoning approach.",
+    "zh": "Brockman是OpenAI o1模型系统卡的共同作者，该卡记录了该模型基于大规模强化学习的推理方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-10-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GPT-4o System Card",
+    "zh": "GPT-4o System Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2410.21276v1",
+   "note": {
+    "en": "Brockman co-authors the GPT-4o system card, describing OpenAI's omni model spanning text, audio, image and video.",
+    "zh": "Brockman是GPT-4o系统卡的共同作者，该卡介绍了OpenAI这款横跨文本、音频、图像和视频的全能模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-04-20",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The inside story of ChatGPT's astonishing potential | Greg Brockman",
+    "zh": "The inside story of ChatGPT's astonishing potential | Greg Brockman"
+   },
+   "source": "TED Talks Daily",
+   "url": "https://podcasts.apple.com/us/podcast/the-inside-story-of-chatgpts-astonishing-potential/id160904630?i=1000609982396&uo=4",
+   "note": {
+    "en": "His TED talk walking through the design principles behind ChatGPT and demonstrating the plug-in system.",
+    "zh": "他的 TED 演讲，讲解 ChatGPT 背后的设计原则并现场演示插件系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-03-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GPT-4 Technical Report",
+    "zh": "GPT-4 Technical Report"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2303.08774v6",
+   "note": {
+    "en": "Brockman co-authors the GPT-4 technical report, OpenAI's large-scale multimodal model.",
+    "zh": "Brockman是GPT-4技术报告的共同作者，该报告介绍了OpenAI的大规模多模态模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-12-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Robust Speech Recognition via Large-Scale Weak Supervision",
+    "zh": "Robust Speech Recognition via Large-Scale Weak Supervision"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2212.04356v1",
+   "note": {
+    "en": "Brockman co-authors the Whisper paper on large-scale weakly supervised speech recognition.",
+    "zh": "Brockman是Whisper论文的共同作者，该论文介绍了大规模弱监督语音识别技术。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-04-11",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "It's time to become an ML engineer",
+    "zh": "It's time to become an ML engineer"
+   },
+   "source": "Greg Brockman",
+   "url": "https://blog.gregbrockman.com/its-time-to-become-an-ml-engineer",
+   "note": {
+    "en": "Brockman argued that AI had crossed a utility threshold with GPT-3, Codex and DALL-E 2, and made the case for engineers to become ML practitioners.",
+    "zh": "Brockman认为随着GPT-3、Codex和DALL-E 2的出现，AI已跨过实用性门槛，并主张工程师应转型为机器学习从业者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2021-07-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Evaluating Large Language Models Trained on Code",
+    "zh": "Evaluating Large Language Models Trained on Code"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2107.03374v2",
+   "note": {
+    "en": "Brockman co-authors the Codex paper evaluating large language models trained on code, which underpins GitHub Copilot.",
+    "zh": "Brockman是Codex论文的共同作者，该论文评估了基于代码训练的大语言模型，是GitHub Copilot的技术基础。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-12-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Dota 2 with Large Scale Deep Reinforcement Learning",
+    "zh": "Dota 2 with Large Scale Deep Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1912.06680v1",
+   "note": {
+    "en": "Brockman co-authors the OpenAI Five paper on large-scale deep reinforcement learning in Dota 2.",
+    "zh": "Brockman是OpenAI Five论文的共同作者，该论文介绍了在Dota 2中进行大规模深度强化学习的成果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-07-30",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "How I became a machine learning practitioner",
+    "zh": "How I became a machine learning practitioner"
+   },
+   "source": "Greg Brockman",
+   "url": "https://blog.gregbrockman.com/how-i-became-a-machine-learning-practitioner",
+   "note": {
+    "en": "Brockman recounted his multi-year transition from aspiring to becoming a machine learning practitioner at OpenAI.",
+    "zh": "Brockman回顾了自己在OpenAI从渴望成为机器学习从业者到真正实现这一转变的多年历程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2019-05-30",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Can The Current AI Boom Scale To AGI? Reid Hoffman & Open AI's Greg Brockman | Greymatter",
+    "zh": "Can The Current AI Boom Scale To AGI? Reid Hoffman & Open AI's Greg Brockman | Greymatter"
+   },
+   "source": "Greymatter",
+   "url": "https://podcasts.apple.com/us/podcast/can-the-current-ai-boom-scale-to-agi-reid-hoffman/id1089013200?i=1000440159821&uo=4",
+   "note": {
+    "en": "A long-form conversation with Reid Hoffman at Startup Grind in which Brockman argues that scaling current AI methods can reach AGI — an early statement of the compute-scaling bet he has since built OpenAI's infrastructure around.",
+    "zh": "他在 Startup Grind 大会上与 Reid Hoffman 的长篇对谈，主张沿当前路线扩大规模即可通向通用人工智能；这是他后来据以构建 OpenAI 基础设施的算力扩展思路的早期表述。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2019-04-15",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "OpenAI Five Finals Intro",
+    "zh": "OpenAI Five Finals Intro"
+   },
+   "source": "Greg Brockman",
+   "url": "https://blog.gregbrockman.com/openai-five-finals-intro",
+   "note": {
+    "en": "Brockman's speech introducing OpenAI Five at the Dota 2 finals, where the system beat the reigning world champions.",
+    "zh": "Brockman在Dota 2总决赛上介绍OpenAI Five的演讲文本，该系统当时击败了卫冕世界冠军。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2019-04-03",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Greg Brockman: OpenAI and AGI",
+    "zh": "Greg Brockman: OpenAI and AGI"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/greg-brockman-openai-and-agi/id1434243584?i=1000434052021&uo=4",
+   "note": {
+    "en": "Early Lex Fridman interview on OpenAI's research agenda and what building toward safe AGI would require.",
+    "zh": "早期的 Lex Fridman 访谈，谈 OpenAI 的研究议程，以及朝安全的 AGI 推进需要什么条件。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2019-03-11",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "The OpenAI Mission",
+    "zh": "The OpenAI Mission"
+   },
+   "source": "Greg Brockman",
+   "url": "https://blog.gregbrockman.com/the-openai-mission",
+   "note": {
+    "en": "Brockman and Ilya Sutskever co-wrote OpenAI's mission statement on ensuring AGI benefits humanity.",
+    "zh": "Brockman与Ilya Sutskever联合撰写了OpenAI关于确保通用人工智能造福人类的使命声明。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2018-08-06",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "OpenAI Five intro",
+    "zh": "OpenAI Five intro"
+   },
+   "source": "Greg Brockman",
+   "url": "https://blog.gregbrockman.com/openai-five-benchmark-intro",
+   "note": {
+    "en": "Brockman's speech introducing OpenAI Five at the Benchmark event, an early milestone for the project.",
+    "zh": "Brockman在Benchmark活动上介绍OpenAI Five的演讲文本，这是该项目的早期里程碑。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2017-01-09",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "#define CTO OpenAI",
+    "zh": "#define CTO OpenAI"
+   },
+   "source": "Greg Brockman",
+   "url": "https://blog.gregbrockman.com/define-cto-openai",
+   "note": {
+    "en": "Brockman described finding the CTO role at OpenAI as the scalable-impact position he had long been seeking.",
+    "zh": "Brockman讲述了自己如何在OpenAI找到CTO这一他长期寻找的、能产生规模化影响力的角色。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2016-06-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "OpenAI Gym",
+    "zh": "OpenAI Gym"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1606.01540v1",
+   "note": {
+    "en": "Brockman is lead author of the OpenAI Gym paper, the reinforcement-learning benchmark toolkit.",
+    "zh": "Brockman是OpenAI Gym论文的第一作者，该论文介绍了这一强化学习基准测试工具包。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2016-05-03",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "My path to OpenAI",
+    "zh": "My path to OpenAI"
+   },
+   "source": "Greg Brockman",
+   "url": "https://blog.gregbrockman.com/my-path-to-openai",
+   "note": {
+    "en": "Brockman recounted his personal path from self-taught programmer to co-founding OpenAI.",
+    "zh": "Brockman回顾了自己从自学编程者到联合创立OpenAI的个人历程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2009-05-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Omnibus Sequences, Coupon Collection, and Missing Word Counts",
+    "zh": "Omnibus Sequences, Coupon Collection, and Missing Word Counts"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/0905.4517v1",
+   "note": {
+    "en": "An undergraduate-era combinatorics paper by Brockman on omnibus sequences and coupon collection, from before his OpenAI years.",
+    "zh": "Brockman在OpenAI之前的本科阶段撰写的一篇组合数学论文，研究全序列与优惠券收集问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2008-08-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "On Universal Cycles of Labeled Graphs",
+    "zh": "On Universal Cycles of Labeled Graphs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/0808.3610v2",
+   "note": {
+    "en": "An undergraduate-era combinatorics paper by Brockman proving the existence of universal cycles for classes of labeled graphs.",
+    "zh": "Brockman本科阶段的组合数学论文，证明了若干类带标签图的通用圈的存在性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2008-08-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Contributions to Seymour's Second Neighborhood Conjecture",
+    "zh": "Contributions to Seymour's Second Neighborhood Conjecture"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/0808.0946v3",
+   "note": {
+    "en": "An undergraduate-era paper by Brockman contributing to Seymour's Second Neighborhood Conjecture in graph theory.",
+    "zh": "Brockman本科阶段的论文，对图论中Seymour第二邻域猜想做出了贡献。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2008-08-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Elementary Techniques for Erdos-Ko-Rado-like Theorems",
+    "zh": "Elementary Techniques for Erdos-Ko-Rado-like Theorems"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/0808.0774v2",
+   "note": {
+    "en": "An undergraduate-era paper by Brockman giving elementary proofs of Erdos-Ko-Rado-like theorems in combinatorics.",
+    "zh": "Brockman本科阶段的论文，给出了组合数学中类Erdos-Ko-Rado定理的初等证明。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-08-14",
+   "level": "notable",
+   "title": {
+    "en": "Takes a wider role in the pre-IPO leadership refresh",
+    "zh": "在 IPO 前的领导层更新中承担更广职责"
+   },
+   "body": {
+    "en": "Building out a leadership team aimed at catching Anthropic in enterprise adoption.",
+    "zh": "组建以在企业市场追上 Anthropic 为目标的领导团队。"
+   },
+   "source": "Axios",
+   "url": "https://www.axios.com/2026/08/14/openai-executive-greg-brockman-ipo"
+  },
+  {
+   "date": "2026-09-20",
+   "ts": "2026-09-20T07:16:00Z",
+   "level": "notable",
+   "title": {
+    "en": "1 in 4 OpenAI engineers taken off work; president Greg Brockman told them, 'All your projects are on hold",
+    "zh": "1 in 4 OpenAI engineers taken off work; president Greg Brockman told them, 'All your projects are on hold"
+   },
+   "body": {
+    "en": "Brockman told OpenAI engineers that about a quarter of them have been pulled off their projects, which are now on hold, amid the company's internal reorganisation.",
+    "zh": "布罗克曼告诉OpenAI工程师，在公司内部重组期间，约四分之一的工程师被叫停手头项目，相关项目已暂停。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQMEpNTkxvVkRmTXlvdVQwd2RCNTNEeVhURWg1RHV5T0JobWU5RlBDczRZbTlDRWZtQlBQQ0xBcm9FdWwtd3NZUEROMElFaHBubHdXbk5qc0RDbm1mWEo4VXRYRGxidElkdVNnaGpkM3p2OGp4NDJJVWpiYU55eWFvVHNvYzRuemQ1VnBZZ1FndXdWWUlBUjB4Zk5PMWZ6X0lQbWgzT0FEUXE1STBvVnhHUWtjb3ZXQUVIbjctYW0tY0tZbHlReWkwX0xDVFEta3Nud2s5cTFqRWlrR2xjeXJlUDAtUng0QUZrY2Zfc2dhMUJYM1gwekgzZnZ0ckdHY2hDZU5xOEdjT214OHQtYTI4a28zc29JblIxQ01oTV9Ka0E5cHdP0gGqAkFVX3lxTFBFLTUwRDF3amYtNFRfYzB0bTFqb25abHJ5cWs0RmpBLW9FYU85Z29ma1J6Y2ZQLVBpT0l1QmlWemZIT0R4aFJKaU1WQk82OFJSem95QWJheUt2cEZRYldmYUwwR252VHVwVTYyQ1FDT1RlWmRROW9jTWMtX08yR2pqQ1Y4SWxvbXlxZXlycVRlOTdhWF9yQ3JxQ2Q2U3d4UEFZSFVUV2pFTC1aUzlKUjB1eFBQMmswZU1Oazl6TnNBZVRlQW9reENNSmdsMThhSzBiNHBxQVhtQmhnRjdXLW1jbjY3THlmZENJU2VUR182akpRTHNvUDFGbFR4a210QnVsVWRnNGxSbU9GX1pMazdvLWFJOW5zSFhUSkNTaE1hZWFJNWpMWG5Uc2c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T04:11:21Z",
+   "level": "notable",
+   "title": {
+    "en": "Greg Brockman says OpenAI has already slowed cutting-edge AI developments over safety concerns",
+    "zh": "Greg Brockman says OpenAI has already slowed cutting-edge AI developments over safety concerns"
+   },
+   "body": {
+    "en": "Brockman says OpenAI has already slowed development of its most cutting-edge AI systems out of safety concerns.",
+    "zh": "Brockman表示，出于安全考量，OpenAI已经放缓了最前沿AI系统的研发速度。"
+   },
+   "source": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaUpIa01yaU1OaTVMSXZtOUNGLXJDVlpTd2ZOQUptdFp0UlBMTnRMaWd2TmFXcTR1eERZNW45ZHJQY05QYjF2cUQycXR0dW05RUZTTmJUQVZMaGx5dWRhUEJ4MFRJVVhLc3FrSzhLWGdpc3dWYVozbHRNMWQ1a3VUcHBUSlRhVVNmOUUtMDNDYWNpQVpwRGVicGZ6NkRjMTh2?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T13:46:40Z",
+   "level": "notable",
+   "title": {
+    "en": "Greg Brockman joins Forbes 400 as richest newcomer at $25.5 billion",
+    "zh": "Greg Brockman joins Forbes 400 as richest newcomer at $25.5 billion"
+   },
+   "body": {
+    "en": "Greg Brockman entered the Forbes 400 as its richest newcomer, with a net worth of $25.5 billion.",
+    "zh": "Greg Brockman以255亿美元身家成为福布斯400强中最富有的新晋人物。"
+   },
+   "source": "finance.yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYUxRLXlPV0E4RUdCWHZaNVV2cFlUdmYxWHFDX1FCMi1BajRFWTZJclZwNWs1b0RCU2pYRFhIQWJqNDAyc0F4OEZHbHVvVDVMQzBHM0l5dXkySE5WNkdBT3puTEM2ZGZQWVNvZkMyMHJEajhZQnZJMWJ0c1I0T29Ud3lFcF9LSzcyYllxU3BaM05xZU1mQnI1Q05R?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T04:11:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Greg Brockman says OpenAI has already slowed cutting-edge AI developments over safety concerns",
+    "zh": "Greg Brockman says OpenAI has already slowed cutting-edge AI developments over safety concerns"
+   },
+   "body": {
+    "en": "Brockman said OpenAI has already slowed some cutting-edge development over safety concerns, a rare public acknowledgment of the company trading off speed for caution.",
+    "zh": "布罗克曼表示OpenAI已因安全顾虑放缓了部分前沿研发，这是公司罕见地公开承认在速度与谨慎之间做出取舍。"
+   },
+   "source": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOU92UDY4QmlobEl4b0hIVS1FZ05rdnUtQ215cFFodFRkQUt2R0NkQlR2MFdKMWMwZUUxdDRuU0RBazBJLUdrREFSNTBpVlQ5OUFIemRSNDhDZTViZHRZa2U1X0ZIcUVYazc4d19jeWhtR1Y5M1ZPN1lRbVAybEZsd19EWDBfb0hRLW9wVmdHR1ZZX2pEbEE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T16:08:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Greg Brockman: OpenAI's President Says Defender Window Is Closing as AGI Arrives",
+    "zh": "Greg Brockman: OpenAI's President Says Defender Window Is Closing as AGI Arrives"
+   },
+   "body": {
+    "en": "Brockman says the window for building AI 'defenses' is closing as AGI approaches, urging faster preparation.",
+    "zh": "布罗克曼表示，随着AGI临近，构建AI“防御”措施的窗口期正在缩小，呼吁加快准备。"
+   },
+   "source": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkQjJqUWluZlMzdnVHekR3M1FWTVhMTkxtQTE1clVhbFJ0VjVLWGFlWnlmRGhzYUZpSFNwQ1drbl9HcU1Od19iSU1FeDB6eGpiek5WYVhfVnhvdHc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T16:58:09Z",
+   "level": "major",
+   "title": {
+    "en": "Greg Brockman Says AGI Has Arrived｜a16z",
+    "zh": "Greg Brockman Says AGI Has Arrived｜a16z"
+   },
+   "body": {
+    "en": "Brockman declared OpenAI has entered the \"AGI era,\" tying the claim to the launch of GPT-6 Astra — the most explicit AGI declaration yet from an OpenAI leader.",
+    "zh": "布罗克曼宣称OpenAI已进入“AGI时代”，将这一说法与GPT-6 Astra的发布联系在一起——这是OpenAI高层迄今最明确的AGI宣言。"
+   },
+   "source": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQUWVtQjNnai1zc3dqMVpFODRRMlZ0RHAxYk9GbWpfVEk5Wlo2cEFoWVh0N21tOXl5S044RDI0SHhCUXpTZWFxY3RtSlhLU21pQXdIemZiWFFfNF9jZ3V3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T00:50:38Z",
+   "level": "major",
+   "title": {
+    "en": "Exclusive OpenAI President Greg Brockman Interview: Astra – First 100,000 GPU-Trained Model & Our Official Entry into the AGI Era",
+    "zh": "Exclusive OpenAI President Greg Brockman Interview: Astra – First 100,000 GPU-Trained Model & Our Official Entry into the AGI Era"
+   },
+   "body": {
+    "en": "In an exclusive interview Brockman confirmed Astra (GPT-6) as OpenAI's first model trained on more than 100,000 GPUs, calling it the company's entry into the AGI era.",
+    "zh": "在一次独家专访中，Brockman确认Astra（GPT-6）是OpenAI首个使用超过10万块GPU训练的模型，并称这标志着公司正式进入AGI时代。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvbnhFdVZFeWhlTGUwaFRqcHV6Q0lhUGQyU29YdkRaNlN1blJOcTZnVFFxX0ZhNGxFd0k2Y3pIcGk4NmJ3TGtBMHlvMzBSVndBUTRF?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "OpenAI's Greg Brockman Says He Thinks Astra Might Be AGI. Here's Why That Matters for the Whole AI Trade.",
+    "zh": "OpenAI's Greg Brockman Says He Thinks Astra Might Be AGI. Here's Why That Matters for the Whole AI Trade."
+   },
+   "body": {
+    "en": "Brockman said he thinks GPT-6 Astra might qualify as AGI, a notable public stance on the model's significance.",
+    "zh": "Brockman表示他认为GPT-6 Astra可能达到AGI水平，这是他对该模型重要性的一次值得关注的公开表态。"
+   },
+   "source": "AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLXhMOGE3VUo1TVNPYW5WaVFSVllDNUdBSGZXM3gyUXdmMzJ1cHJQcng2czhadmxyOHJBZUxlUy1ueVk4c1RveDMtSDBtTE5wanhPeWY5RHMzclNObndMT01YSUhIY0NkWUpHV2JhQl96Ukl1LUlpTFpHUDhlTkVXdjBSOA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "OpenAI's Greg Brockman Says He Thinks Astra Might Be AGI. Here's Why That Matters for the Whole AI Trade.",
+    "zh": "OpenAI's Greg Brockman Says He Thinks Astra Might Be AGI. Here's Why That Matters for the Whole AI Trade."
+   },
+   "body": {
+    "en": "Brockman says he thinks OpenAI's new Astra model might already be AGI, a claim that moved AI-linked stocks.",
+    "zh": "布罗克曼表示他认为OpenAI新推出的Astra模型可能已经达到AGI水平，这一说法带动了AI相关股票的波动。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeXo0UUZodzFlaDlpdUxMTVFYZTZTNlJkelB3TnVuNkg1QVhjV094aGNITUxuS2FFaHFUTnp5eVUzdlpoUmxyaHBVdzhfa2VwcWlQR1JvQWs5WWRFdWpOTEN2VkJrWEEzVnppMDR5a3BKQ1dOWG9yaE5mSFAwdzdtMllXZDN0ZWEwREthMm5oNS1zZ2x1RmNZTGFaR095Zw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "OpenAI rolls out GPT-6 Astra, and Greg Brockman says AGI has arrived",
+    "zh": "OpenAI rolls out GPT-6 Astra, and Greg Brockman says AGI has arrived"
+   },
+   "body": {
+    "en": "Alongside the GPT-6 Astra rollout, Brockman said AGI has arrived — a striking public stance from OpenAI's president.",
+    "zh": "在GPT-6 Astra发布之际，布罗克曼表示AGI已经到来——这是OpenAI总裁一次引人注目的公开表态。"
+   },
+   "source": "thenextweb.com",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX2xnd3h3aEJfU0htRDcwUG5Fa196UFp4el8waVhteUxFT1NFY01MdkthWE5yZ2w4dHFhWmRIek5GN29VT2JKNl9qMHY5MWVLMzNGLW1Ud1Y0d0ZBZFhvSjlSbXZVMlpLMmxTOE5IUzVTNENNd3dHYkdud2dDMmxoNjh0U0Z6X1VvdWViOUxobXQ1T1g4X2FraXRnT1F4ZWdwcG5ZUlJ5OGU4djExWnFxYzZGbko0ZkExaVNlWEVRNA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-02",
+   "ts": "2026-09-02T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "How Close Are We to True Artificial General Intelligence? | OpenAI’s Greg Brockman Speaks to TIME",
+    "zh": "How Close Are We to True Artificial General Intelligence? | OpenAI’s Greg Brockman Speaks to TIME"
+   },
+   "body": {
+    "en": "Greg Brockman spoke to TIME about how close the field is to true AGI.",
+    "zh": "格雷格·布罗克曼接受TIME采访，谈论业界距离真正的通用人工智能还有多远。"
+   },
+   "source": "Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8xazFPT0lpREcxd0tfdC1HM2F6TEZsUE9pNlN3M3U4N0ZBX2o3ZkhHazJMVnNtWXY0dFZRamwycTJfUGdIVWlr?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Mark Chen, Sam Altman, and Greg Brockman: The 100 Most Influential People in AI 2026",
+    "zh": "Mark Chen, Sam Altman, and Greg Brockman: The 100 Most Influential People in AI 2026"
+   },
+   "body": {
+    "en": "TIME names Brockman, alongside Sam Altman and Mark Chen, to its 100 Most Influential People in AI for 2026.",
+    "zh": "《时代》周刊将他与 Sam Altman、Mark Chen 一同列入 2026 年“全球 AI 领域最具影响力的 100 人”榜单。"
+   },
+   "source": "Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdTJMWkJ5Um9odWl5eGw5RXY4dHZWSjVnSXBJMGk3YmowM3hQNWRqUnd3VkxlSHlZMk5mWmN3M0ltMmpTMEg5b1YxNFNtZTJXZGRTcWkwTElSZ2pycjFzV0pfOGZ5ZXJ3emRrT1c2TkN0ODYwd1o4TGxmVDAwSE9helg5bEgtZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-20",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Greg Brockman Has Expanded His Influence Over OpenAI's Operations — The Verge",
+    "zh": "Greg Brockman Has Expanded His Influence Over OpenAI's Operations — The Verge"
+   },
+   "body": {
+    "en": "The Verge reports that Brockman has taken direct control of substantially more of OpenAI's day-to-day operations during the 2026 executive departures, making him the company's effective operating centre under Altman.",
+    "zh": "The Verge 报道称，在 2026 年高管离职潮中，他已直接接管 OpenAI 更多的日常运营事务，成为公司在 Altman 之下的实际运营中枢。"
+   },
+   "source": "UA.NEWS",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPXy1Mdi04MnlsYXNQT2hIVklLTmg5cVZhZFNfX3lOSGtLQnY3OGFMVGtpOG9lb3Z2WUdPdkc2dXFMamVYR0hPVjJQRkEtZExsVnRVLTk0aWhObGxwMHoxWFdrNkdCV0NHdE1jT0VEZkNtNjFVOWV2cHRlOG9hNE5zWEgyY1lzSWItR3pDbjY0SlJTaWJqMzZLalMzUkxnZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-17",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "OpenAI President Greg Brockman on leadership changes: Don't think it's actually that atypical",
+    "zh": "OpenAI President Greg Brockman on leadership changes: Don't think it's actually that atypical"
+   },
+   "body": {
+    "en": "Brockman publicly responds to OpenAI's wave of executive departures, arguing the turnover is not unusual.",
+    "zh": "布罗克曼公开回应 OpenAI 的高管离职潮，称这样的人事更替并不反常。"
+   },
+   "source": "cnbc.com",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSkoxVEVhdmdiZ2liUTBlWVlfMEhCbWkyV1NfX193QVMwam5SSFNSWFBVM1c4cEw1MVlaU2RCdllIM3VPbEpVQzBreC11NmFQaTdpSTlZRDYwUzRBSlhzdldEWVRVMVZSdHlLYTIzM3doNHhnb05KdjFEYjJFbG5maHEwMjVSdzJ5RzlNNnEyNEFmblVIQUtGa3Z0LU1wZnUyZVFPOTltX0ZlSm1GY01zdE1FanJiS25xSmhNVVJILV93RWY4ZVNiQy15bTh5Zw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-17",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "OpenAI’s Greg Brockman Says Hugging Face Incident Was A Window Into Automated Attacks — Warns ‘Threat Actors’ Will Have These Capabilities Soon",
+    "zh": "OpenAI’s Greg Brockman Says Hugging Face Incident Was A Window Into Automated Attacks — Warns ‘Threat Actors’ Will Have These Capabilities Soon"
+   },
+   "body": {
+    "en": "Brockman said the Hugging Face security incident was a preview of automated attacks and warned threat actors will soon have similar capabilities.",
+    "zh": "Brockman表示Hugging Face安全事件预示了自动化攻击的到来，并警告威胁行为者很快将具备类似能力。"
+   },
+   "source": "Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa1NXcG1ndVY2QWNEZnppdkJvWTJUYmZWeWM5QXVYLU5rZG02YUVuRUdlblVYTjZZaDB0TFBDbHBTUzNkcTNTaTgydG9QdThGTy1nemR5NFBBM2FxVzVTdndaQ2JIQmFSQ1FCLXNqd3dYS0NxTlB1Z2dEbDJmZFZhUUpwTHA5REFvV0pCbXFfaGxzOVN2ZHVkelV3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-30",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "OpenAI is building ‘a family of devices,’ Greg Brockman confirms",
+    "zh": "OpenAI is building ‘a family of devices,’ Greg Brockman confirms"
+   },
+   "body": {
+    "en": "Brockman confirmed OpenAI is building \"a family of devices.\"",
+    "zh": "Brockman证实OpenAI正在打造\"一系列硬件设备\"。"
+   },
+   "source": "The Next Web",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvdVVsU2F5M2lmVU1POVNkRzY4cnhSWFQ0YXphN2o5NFdhejE3VkxYZlN1d0hWdGxfZ3ZkOWdadF9FQVMtdlBMaEdZTUVfVU9lYVNGR3ZyYTB0T2dRdVZZVmV3ZGd1ZG9KWEdSSVB3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-10",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "OpenAI Puts Co-Founder Greg Brockman In Charge Of Key Projects Ahead Of Potential IPO",
+    "zh": "OpenAI Puts Co-Founder Greg Brockman In Charge Of Key Projects Ahead Of Potential IPO"
+   },
+   "body": {
+    "en": "OpenAI put co-founder Greg Brockman in charge of key projects as the company moves toward a potential IPO.",
+    "zh": "在公司迈向潜在IPO之际，OpenAI让联合创始人Greg Brockman负责关键项目。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeVBIWG11a085NTRoS1llZ3FMclM5Z3pnekhsdGppaHpmR21hMmRnMmVKV3VjSThWZ0RQc1lGYmI5TFlCSXJIdG8zUnlyZE1GYWdPcFQ4anN0RkpBTGlwNExfd1NIYjdhSzB6MGYycjhvbVJNbWhCSWxWcFlWYnJGdE5yc2xQcmJDZTlUT3NQeEpHVVdubnc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-16",
+   "ts": "2026-05-16T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+    "zh": "OpenAI co-founder Greg Brockman takes charge of product strategy"
+   },
+   "body": {
+    "en": "Brockman took charge of OpenAI's product strategy, expanding his role within the company.",
+    "zh": "布罗克曼开始负责OpenAI的产品战略，扩大了他在公司内的职责范围。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaVpSX0JPbG14bXFpbVladmp4bjVfYmJNaFRmM2FkRktzdVp3b01wYUFoM255STBGdGw4NEdMaUtvb2hVQjhtTmtmTGVhQ2FJX0xaUmpETkFvcDdYMkVPNDhQNXBsUXI5eFU3bERiWGdIZEJrd29kSFR0aUFLR1lqcUtCQ0NFbWlfUFppd1BkNnplZ3UxQXA2Y01qWHlrOTd4M1E?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "lab",
+ "score": {
+  "total": 71.0,
+  "attention": 72,
+  "centrality": 96,
+  "momentum": 71,
+  "stature": 0,
+  "pageviews": 406921,
+  "citations": 5238,
+  "hIndex": 11,
+  "events": 19,
+  "posts": 56,
+  "wikiEn": "Greg Brockman",
+  "wikiZh": "格雷格·布羅克曼"
+ },
+ "seedRank": 17,
+ "tier": "t2"
+}

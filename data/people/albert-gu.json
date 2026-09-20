@@ -1,0 +1,1424 @@
+{
+ "rank": 86,
+ "id": "albert-gu",
+ "name": {
+  "en": "Albert Gu",
+  "zh": "Albert Gu"
+ },
+ "role": {
+  "en": "Assistant Professor, CMU; Co-founder & Chief Scientist, Cartesia",
+  "zh": "CMU 助理教授；Cartesia 联合创始人兼首席科学家"
+ },
+ "org": "CMU / Cartesia",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "Mamba",
+  "S4",
+  "State space models",
+  "Cartesia",
+  "Voice"
+ ],
+ "why": {
+  "en": "Principal author of S4 and Mamba, which provide the strongest alternative to the Transformer for sequence modelling — and the basis for Cartesia's real-time voice models.",
+  "zh": "状态空间模型 S4 与 Mamba 的主要作者，为 Transformer 之外的序列建模路线提供了最有力的替代方案 —— 也是 Cartesia 实时语音模型的基础。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@_albertgu",
+   "url": "https://x.com/_albertgu",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "goombalab.github.io",
+   "url": "https://goombalab.github.io/",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @albertfgu",
+   "url": "https://github.com/albertfgu",
+   "t": 1
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face @albertgu",
+   "url": "https://huggingface.co/albertgu",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "Cartesia Research",
+   "url": "https://www.cartesia.ai/research/",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Cartesia author page",
+   "url": "https://www.cartesia.ai/authors/albert-gu",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Albert+Gu",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Albert+Gu",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Albert+Gu",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Albert+Gu&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Albert+Gu&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Albert+Gu",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Albert+Gu",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Albert+Gu",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Albert+Gu",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Albert+Gu",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Albert+Gu",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Albert+Gu",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Albert+Gu",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Albert+Gu&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-01-01",
+   "kind": "paper",
+   "title": {
+    "en": "Mamba-3 (with Tri Dao)",
+    "zh": "Mamba-3（与 Tri Dao 合著）"
+   },
+   "source": "ICLR 2026",
+   "url": "https://www.together.ai/blog/mamba-3",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T17:14:00Z",
+   "kind": "x",
+   "title": {
+    "en": "chat with your model with a single identity across languages and accents!",
+    "zh": "chat with your model with a single identity across languages and accents!"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2100634388115656880",
+   "note": {
+    "en": "Gu highlighted Cartesia's voice model holding a single consistent identity across languages and accents.",
+    "zh": "Gu介绍Cartesia的语音模型能够在不同语言和口音下保持同一身份的一致性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-08-31",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "misleading paper title, and even the phrasing in the tweet is still a misnomer. this is not about \"post-training\" but \"retrofitting\" (cross-architecture distill",
+    "zh": "misleading paper title, and even the phrasing in the tweet is still a misnomer. this is not about \"post-training\" but \"retrofitting\" (cross-architecture distill"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2094530500669157474",
+   "note": {
+    "en": "Gu pushed back on framing a cross-architecture distillation method as \"post-training,\" calling it \"retrofitting\" instead and noting he's long been skeptical of distillation claims.",
+    "zh": "Gu反驳了将一种跨架构蒸馏方法称为“后训练”的说法，认为应称之为“改造”，并表示他一直对蒸馏方面的说法持怀疑态度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "sonic-3.6 is out, with a large improvement over (the already #1) sonic-3.5 in just a few months! the research team's focus on fundamentals is accelerating progr",
+    "zh": "sonic-3.6 is out, with a large improvement over (the already #1) sonic-3.5 in just a few months! the research team's focus on fundamentals is accelerating progr"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2093056685246132364",
+   "note": {
+    "en": "Announced the release of Cartesia's Sonic-3.6 text-to-speech model, a significant upgrade over Sonic-3.5 within just a few months.",
+    "zh": "宣布Cartesia推出Sonic-3.6文本转语音模型，在短短几个月内相较Sonic-3.5实现重大提升。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "the team continues cooking 👩‍🍳 this is now an unprecedented gap on both the super competitive Provider Voices leaderboard as well as the newer Controlled Voices",
+    "zh": "the team continues cooking 👩‍🍳 this is now an unprecedented gap on both the super competitive Provider Voices leaderboard as well as the newer Controlled Voices"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2089407114066399492",
+   "note": {
+    "en": "Reported that Cartesia's voice models opened an unprecedented lead on both the Provider Voices and Controlled Voices leaderboards.",
+    "zh": "报告称Cartesia的语音模型在Provider Voices和Controlled Voices两个排行榜上都取得了前所未有的领先优势。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Raven: High-Recall Sequence Modeling with Sparse Memory Routing",
+    "zh": "Raven: High-Recall Sequence Modeling with Sparse Memory Routing"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.25357v1",
+   "note": {
+    "en": "Sequence model that routes writes into sparse memory slots to improve long-context recall; Gu is senior author.",
+    "zh": "通过把写入路由到稀疏记忆槽来提升长上下文召回的序列模型，Gu 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Evaluations are difficult and vague for all generative models, and benchmarks only capture a small slice. Our blog post dives into the nuances for TTS",
+    "zh": "Evaluations are difficult and vague for all generative models, and benchmarks only capture a small slice. Our blog post dives into the nuances for TTS"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2082210421801652406",
+   "note": {
+    "en": "Pointed to a Cartesia blog post arguing that TTS evaluation is inherently difficult and that benchmarks only capture a small slice of model quality.",
+    "zh": "转发Cartesia的一篇博客文章，指出TTS评测本质上很困难，基准测试只能反映模型质量的一小部分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Transformers are better at copying, while RNNs are better at modeling \"meaning-bearing words—the nouns, verbs, &amp; adjectives that say what a sentence is abou",
+    "zh": "Transformers are better at copying, while RNNs are better at modeling \"meaning-bearing words—the nouns, verbs, &amp; adjectives that say what a sentence is abou"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2070616307943587996",
+   "note": {
+    "en": "Argued that Transformers excel at copying while RNN-style models are better at capturing the meaning-bearing words in a sentence.",
+    "zh": "指出Transformer更擅长复制信息，而RNN类模型更擅长捕捉句子中承载语义的关键词。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Rather than interleaving layers naively, a more fine-grained approach to hybrid models is to allow hybridization across the sequence models within a single laye",
+    "zh": "Rather than interleaving layers naively, a more fine-grained approach to hybrid models is to allow hybridization across the sequence models within a single laye"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2068051132187079103",
+   "note": {
+    "en": "Proposed a more fine-grained approach to hybrid sequence models that mixes attention and linear layers within a single layer rather than interleaving them naively.",
+    "zh": "提出一种更精细的混合序列模型设计思路，在单层内部混合注意力与线性层，而非简单地交替堆叠。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Within the span of a week, we launched streaming TTS (text-to-speech) and STT (speech-to-text) models that topped the leaderboards. I'm incredibly proud of the",
+    "zh": "Within the span of a week, we launched streaming TTS (text-to-speech) and STT (speech-to-text) models that topped the leaderboards. I'm incredibly proud of the"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2066575197726277977",
+   "note": {
+    "en": "Announced that Cartesia launched streaming TTS and STT models that topped their respective leaderboards within one week.",
+    "zh": "宣布Cartesia在一周内推出的流式TTS和STT模型双双登顶各自排行榜。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Our new model Ink-2 tops AA's leaderboard for streaming speech-to-text! Ink-2 comes with plenty of features optimized for real-time voice agents. With top-class",
+    "zh": "Our new model Ink-2 tops AA's leaderboard for streaming speech-to-text! Ink-2 comes with plenty of features optimized for real-time voice agents. With top-class"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2060050089478119598",
+   "note": {
+    "en": "Announced Cartesia's new streaming speech-to-text model Ink-2, which topped Artificial Analysis's leaderboard and is optimized for real-time voice agents.",
+    "zh": "宣布Cartesia推出新款流式语音转文本模型Ink-2，登顶Artificial Analysis排行榜，并针对实时语音助手做了优化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Extremely proud of the team @cartesia for launching Sonic 3.5, which sets a new state of the art for TTS I personally led the technical direction of this model;",
+    "zh": "Extremely proud of the team @cartesia for launching Sonic 3.5, which sets a new state of the art for TTS I personally led the technical direction of this model;"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2057897867629785129",
+   "note": {
+    "en": "Announced Cartesia's Sonic 3.5 TTS model, setting a new state of the art, and said he personally led its technical direction.",
+    "zh": "宣布Cartesia的Sonic 3.5文本转语音模型创下新的技术纪录，并表示自己亲自主导了该模型的技术方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Introducing a new sequence model Raven which pushes the boundary of fixed-state-size sequence models! Raven bridges popular linear-time models with constant sta",
+    "zh": "Introducing a new sequence model Raven which pushes the boundary of fixed-state-size sequence models! Raven bridges popular linear-time models with constant sta"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2052442144879862003",
+   "note": {
+    "en": "Introduced Raven, a new sequence model bridging linear-time models like SSMs with sliding-window attention to push fixed-state-size architectures further.",
+    "zh": "推出新序列模型Raven，将SSM等线性时间模型与滑动窗口注意力相结合，推动固定状态规模架构的发展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "a dynamical systems point of view, which looks like an SSM applied along the residual stream, informs more principled ways to scale looped architectures",
+    "zh": "a dynamical systems point of view, which looks like an SSM applied along the residual stream, informs more principled ways to scale looped architectures"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2044903995261768013",
+   "note": {
+    "en": "Argued that viewing SSMs as dynamical systems applied along the residual stream offers a more principled way to scale looped architectures.",
+    "zh": "提出将SSM视为作用于残差流上的动力系统这一视角，可为扩展循环架构提供更有原则性的方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-10",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Raven Part-1 - Memory as a set of Slots",
+    "zh": "Raven Part-1 - Memory as a set of Slots"
+   },
+   "source": "Goomba Lab",
+   "url": "https://goombalab.github.io/blog/2026/raven-part1/",
+   "note": {
+    "en": "Goomba Lab post introducing Raven, a recurrent architecture that holds memory as a set of addressable slots instead of one fixed-size state.",
+    "zh": "Goomba Lab 博客，介绍 Raven 架构：将记忆表示为一组可寻址的槽位，而非单一固定大小的状态。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-04-10",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Raven Part-2 - Architecture and Results",
+    "zh": "Raven Part-2 - Architecture and Results"
+   },
+   "source": "Goomba Lab",
+   "url": "https://goombalab.github.io/blog/2026/raven-part2/",
+   "note": {
+    "en": "Post on Gu's lab blog walking through the Raven architecture and its results.",
+    "zh": "Gu 所在实验室博客上的文章，详细讲解 Raven 的架构与实验结果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-03-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The newest model in the Mamba series is finally here 🐍 Hybrid models have become increasingly popular, raising the importance of designing the next generation o",
+    "zh": "The newest model in the Mamba series is finally here 🐍 Hybrid models have become increasingly popular, raising the importance of designing the next generation o"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2033948415139451045",
+   "note": {
+    "en": "Announced the newest Mamba model, introducing several advances for the next generation of linear/hybrid sequence models.",
+    "zh": "发布Mamba系列最新模型，为下一代线性/混合序列模型引入多项改进。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-16",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Mamba-3 Part 1",
+    "zh": "Mamba-3 Part 1"
+   },
+   "source": "Goomba Lab",
+   "url": "https://goombalab.github.io/blog/2026/mamba3-part1/",
+   "note": {
+    "en": "Announces Mamba-3, the next iteration of the state-space architecture he originated, on his lab's blog.",
+    "zh": "在其实验室博客上发布 Mamba-3，即他所开创的状态空间架构的新一代版本。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-03-16",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Mamba-3 Part 2 - Methodological Deep Dive",
+    "zh": "Mamba-3 Part 2 - Methodological Deep Dive"
+   },
+   "source": "Goomba Lab",
+   "url": "https://goombalab.github.io/blog/2026/mamba3-part2/",
+   "note": {
+    "en": "Second part of the Mamba-3 release, walking through the design choices behind the new architecture.",
+    "zh": "Mamba-3 发布的第二部分，逐一解释新架构背后的设计取舍。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-03-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Mamba-3: Improved Sequence Modeling using State Space Principles",
+    "zh": "Mamba-3: Improved Sequence Modeling using State Space Principles"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.15569v1",
+   "note": {
+    "en": "Third generation of Gu's Mamba state-space architecture, retuned for inference efficiency.",
+    "zh": "Gu 的 Mamba 状态空间架构第三代，针对推理效率重新设计。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "as always, exciting to see NVIDIA continue to invest in Mamba hybrids and true open source. very impressive results!",
+    "zh": "as always, exciting to see NVIDIA continue to invest in Mamba hybrids and true open source. very impressive results!"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2031797471958212777",
+   "note": {
+    "en": "Praised NVIDIA's continued investment in Mamba hybrid architectures and open-source releases, calling the results impressive.",
+    "zh": "称赞NVIDIA持续投入Mamba混合架构和开源发布，认为其成果令人印象深刻。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "okay this plot and discussion has blown up more than expected so let me try to leave some candid thoughts 1. i don't believe that the intent of Mayank's tweet w",
+    "zh": "okay this plot and discussion has blown up more than expected so let me try to leave some candid thoughts 1. i don't believe that the intent of Mayank's tweet w"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2027440531232722949",
+   "note": {
+    "en": "Clarified a viral discussion about Mamba-2 vs. gated delta networks (GDN), disputing a claim that Mamba-2 was being framed as superior to GDN.",
+    "zh": "针对一场引发热议的讨论作出澄清，反驳有关Mamba-2被说成优于GDN（门控增量网络）的说法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "many papers have reported Mamba results inconsistent with what we found internally. we finally traced down the cause, which comes from wrong initializations in",
+    "zh": "many papers have reported Mamba results inconsistent with what we found internally. we finally traced down the cause, which comes from wrong initializations in"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2026770917997818201",
+   "note": {
+    "en": "Traced inconsistent Mamba benchmark results across papers to incorrect initializations in popular implementations, including Hugging Face's.",
+    "zh": "查明多篇论文中Mamba基准结果不一致的原因，在于包括Hugging Face在内的常用实现中初始化设置有误。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "community-contributed Mamba-3-minimal code! this will be a great supplement to the official code, which should be released very soon 👀",
+    "zh": "community-contributed Mamba-3-minimal code! this will be a great supplement to the official code, which should be released very soon 👀"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2026740307665248527",
+   "note": {
+    "en": "Highlighted community-contributed Mamba-3-minimal code as a useful supplement ahead of the official code release.",
+    "zh": "指出社区贡献的Mamba-3-minimal代码是官方代码发布前的有益补充。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "normal hybrid models place attention layers in a fixed pattern, such as every 3-4 layers. but we previously showed that the main role of attention in hybrid mod",
+    "zh": "normal hybrid models place attention layers in a fixed pattern, such as every 3-4 layers. but we previously showed that the main role of attention in hybrid mod"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2022376512012661243",
+   "note": {
+    "en": "Discussed how attention layers in hybrid models don't need a fixed placement pattern, building on prior findings about the specific role attention heads play in such models.",
+    "zh": "探讨混合模型中的注意力层无需固定排布模式，并结合此前关于注意力头在此类模型中具体作用的研究结论。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Retrieval-Aware Distillation for Transformer-SSM Hybrids",
+    "zh": "Retrieval-Aware Distillation for Transformer-SSM Hybrids"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.11374v1",
+   "note": {
+    "en": "Distillation recipe that preserves retrieval-capable attention heads when converting transformers into SSM hybrids; Gu is senior author.",
+    "zh": "在把 Transformer 转换为 SSM 混合模型时保留具备检索能力的注意力头的蒸馏方法，Gu 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "dnaHNet: A Scalable and Hierarchical Foundation Model for Genomic Sequence Learning",
+    "zh": "dnaHNet: A Scalable and Hierarchical Foundation Model for Genomic Sequence Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.10603v3",
+   "note": {
+    "en": "Applies hierarchical, tokenizer-free H-Net style modeling to genomic sequences; Gu is senior author.",
+    "zh": "把无分词器的分层 H-Net 建模方式用于基因组序列，Gu 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "one question we got a lot about H-Net is how it compares to MoE. the idea is that both of them can be seen as dynamic or sparse computation methods that can adj",
+    "zh": "one question we got a lot about H-Net is how it compares to MoE. the idea is that both of them can be seen as dynamic or sparse computation methods that can adj"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2018764487005012129",
+   "note": {
+    "en": "Explained how H-Net's dynamic computation compares to mixture-of-experts, framing both as ways to adjust the FLOPs-to-parameter ratio.",
+    "zh": "解释H-Net的动态计算与专家混合（MoE）模型的比较，认为二者都是调整FLOPs与参数比例的方式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "a silly milestone but one nonetheless - 20k citations! although i don't think it's a very useful metric (i got my position at @CarnegieMellon with ~700 citation",
+    "zh": "a silly milestone but one nonetheless - 20k citations! although i don't think it's a very useful metric (i got my position at @CarnegieMellon with ~700 citation"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2003538005253062943",
+   "note": {
+    "en": "Marked 20,000 citations while arguing the metric is overrated, noting he got his CMU position with only about 700 citations.",
+    "zh": "在论文引用量突破两万之际，表示该指标被高估，并指出自己当初获得CMU教职时引用量仅约700次。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "really excited to see NVIDIA continue their dedication to open source and hybrid models. still achieving great results with Mamba-2! it's been a pleasure discus",
+    "zh": "really excited to see NVIDIA continue their dedication to open source and hybrid models. still achieving great results with Mamba-2! it's been a pleasure discus"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2000686900688867556",
+   "note": {
+    "en": "Praised NVIDIA's continued open-source work and strong results with Mamba-2 hybrids, noting an ongoing collaboration.",
+    "zh": "称赞NVIDIA持续的开源工作及在Mamba-2混合架构上取得的优异成果，并提及双方持续的合作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "quite belated, but we finally uploaded \"ARC-AGI Without Pretraining\" to arXiv (link in reply) very impressive project by @LiaoIsaac91893 when he was just a firs",
+    "zh": "quite belated, but we finally uploaded \"ARC-AGI Without Pretraining\" to arXiv (link in reply) very impressive project by @LiaoIsaac91893 when he was just a firs"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/1999589246294790444",
+   "note": {
+    "en": "Announced the arXiv upload of \"ARC-AGI Without Pretraining,\" crediting a first-year PhD student who drove the project.",
+    "zh": "宣布论文《ARC-AGI Without Pretraining》上传arXiv，并称赞由一名一年级博士生主导完成该项目。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "ARC-AGI Without Pretraining",
+    "zh": "ARC-AGI Without Pretraining"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.06104v1",
+   "note": {
+    "en": "Two-author paper showing ARC-AGI puzzles can be solved by inference-time compression with no pretraining; Gu is senior author.",
+    "zh": "两人合作的论文，表明无需预训练、仅靠推理时的压缩即可求解 ARC-AGI 谜题，Gu 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models",
+    "zh": "Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.02636v3",
+   "note": {
+    "en": "Distillation method giving flow-based generative models both fast sampling and fast likelihood evaluation; Gu is a co-author.",
+    "zh": "让流式生成模型同时具备快速采样与快速似然计算的蒸馏方法，Gu 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-11-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "love to see it - ongoing community effort makes deploying recurrent models (mamba, deltanet, other linear attention hybrids) easier than ever to realize their i",
+    "zh": "love to see it - ongoing community effort makes deploying recurrent models (mamba, deltanet, other linear attention hybrids) easier than ever to realize their i"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/1986257967771951488",
+   "note": {
+    "en": "Welcomed community efforts making recurrent models like Mamba and DeltaNet easier to deploy, unlocking their inference throughput advantages.",
+    "zh": "欢迎社区努力使Mamba、DeltaNet等循环模型更易部署，从而释放其推理吞吐量方面的优势。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "immensely proud of the team for our best model yet. grateful to be able to work with such a strong team of researchers who are always curious and willing to exp",
+    "zh": "immensely proud of the team for our best model yet. grateful to be able to work with such a strong team of researchers who are always curious and willing to exp"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/1983204686267138229",
+   "note": {
+    "en": "Said Cartesia shipped its best model yet, crediting the research team's willingness to explore unconventional approaches.",
+    "zh": "表示Cartesia推出了迄今最好的模型，并称赞研究团队勇于探索非常规方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "at the tokenizer workshop panel at ICML, i made an offhand joke about eventually going to raw pixels being the way, i didn't press it too hard bc the pitchforks",
+    "zh": "at the tokenizer workshop panel at ICML, i made an offhand joke about eventually going to raw pixels being the way, i didn't press it too hard bc the pitchforks"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/1981828834791166171",
+   "note": {
+    "en": "Recounted a joke made at an ICML tokenizer workshop panel about eventually moving to raw pixels, amid the debate sparked by H-Net.",
+    "zh": "回顾在ICML分词器研讨会panel上开的一个关于最终转向原始像素的玩笑，当时H-Net引发的争论正激烈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I really like this research direction! For a long time, I've been talking about the \"brain vs. database\" analogy of SSMs vs Transformers. An extension of this t",
+    "zh": "I really like this research direction! For a long time, I've been talking about the \"brain vs. database\" analogy of SSMs vs Transformers. An extension of this t"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/1980287154883358864",
+   "note": {
+    "en": "Elaborated on his long-standing \"brain vs. database\" analogy for comparing SSMs and Transformers, extending it further.",
+    "zh": "进一步阐述他一直以来用来比较SSM与Transformer的“大脑对数据库”类比。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Chimera: State Space Models Beyond Sequences",
+    "zh": "Chimera: State Space Models Beyond Sequences"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2510.12111v1",
+   "note": {
+    "en": "Extends state-space models from sequences to images and graphs through structured mixers; Gu is senior author.",
+    "zh": "通过结构化混合算子把状态空间模型从序列推广到图像与图数据，Gu 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-09-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "really glad to see so much effort being put into furthering understanding of H-Nets! the main caveat with these results is the scale: the blog's experiments go",
+    "zh": "really glad to see so much effort being put into furthering understanding of H-Nets! the main caveat with these results is the scale: the blog's experiments go"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/1965853622819787232",
+   "note": {
+    "en": "Welcomed efforts to better understand H-Nets but cautioned that the experiments only reach a scale about 1000x smaller than needed to be conclusive.",
+    "zh": "欢迎深入理解H-Net的研究工作，但提醒相关实验规模比得出结论所需的规模小约1000倍。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-08-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Autoregressive Universal Video Segmentation Model",
+    "zh": "Autoregressive Universal Video Segmentation Model"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2508.19242v1",
+   "note": {
+    "en": "NVIDIA collaboration applying autoregressive sequence modeling to unprompted video segmentation; Gu is a co-author.",
+    "zh": "与 NVIDIA 合作，把自回归序列建模用于无提示的视频分割，Gu 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-08-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "a common belief is that Transformers scale well because of less inductive bias, when it actually does have specific inductive biases. we developed H-Nets not to",
+    "zh": "a common belief is that Transformers scale well because of less inductive bias, when it actually does have specific inductive biases. we developed H-Nets not to"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/1954038742798544908",
+   "note": {
+    "en": "Argued Transformers do have specific inductive biases despite common belief otherwise, explaining H-Nets were developed for reasons beyond fixing tokenization.",
+    "zh": "反驳普遍认为“Transformer几乎没有归纳偏置”的看法，并说明开发H-Net的初衷不仅是为了解决分词问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-07-11",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "H-Nets - the Future",
+    "zh": "H-Nets - the Future"
+   },
+   "source": "Goomba Lab",
+   "url": "https://goombalab.github.io/blog/2025/hnet-future/",
+   "note": {
+    "en": "Argues that hierarchical networks learning their own chunking can replace fixed tokenisation in sequence models.",
+    "zh": "论证让分层网络自行学习分块方式，可以取代序列模型中固定的分词步骤。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2025-07-10",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "H-Nets - the Past",
+    "zh": "H-Nets - the Past"
+   },
+   "source": "Goomba Lab",
+   "url": "https://goombalab.github.io/blog/2025/hnet-past/",
+   "note": {
+    "en": "Companion post tracing the line of ideas that led to H-Nets, from earlier state-space and hierarchical models.",
+    "zh": "配套文章，回溯从早期状态空间模型与分层模型一路通向 H-Nets 的思想脉络。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2025-07-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling",
+    "zh": "Dynamic Chunking for End-to-End Hierarchical Sequence Modeling"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2507.07955v2",
+   "note": {
+    "en": "H-Net, which learns its own chunking end to end and removes the need for a tokenizer; Gu is senior author.",
+    "zh": "提出 H-Net，端到端学习分块方式，从而不再需要分词器，Gu 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-07-08",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "On the Tradeoffs of SSMs and Transformers",
+    "zh": "On the Tradeoffs of SSMs and Transformers"
+   },
+   "source": "Goomba Lab",
+   "url": "https://goombalab.github.io/blog/2025/tradeoffs/",
+   "note": {
+    "en": "His widely read essay on what state-space models and attention each buy you, and why he considers tokenisation a crutch.",
+    "zh": "他流传甚广的一篇文章，剖析状态空间模型与注意力机制各自的取舍，并指出分词只是一根拐杖。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2025-07-06",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Understanding and Improving Length Generalization in Recurrent Models",
+    "zh": "Understanding and Improving Length Generalization in Recurrent Models"
+   },
+   "source": "Goomba Lab",
+   "url": "https://goombalab.github.io/blog/2025/improving-length-generalization/",
+   "note": {
+    "en": "Explains why recurrent models fail on sequences longer than they were trained on, and what fixes the failure.",
+    "zh": "解释循环模型为何在超出训练长度的序列上失效，以及如何修正这一问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2025-04-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Understanding the Skill Gap in Recurrent Language Models: The Role of the Gather-and-Aggregate Mechanism",
+    "zh": "Understanding the Skill Gap in Recurrent Language Models: The Role of the Gather-and-Aggregate Mechanism"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2504.18574v2",
+   "note": {
+    "en": "Traces the recall weakness of recurrent language models to a small gather-and-aggregate mechanism; Gu is senior author.",
+    "zh": "把循环语言模型在检索上的短板追溯到少数收集-聚合机制，Gu 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-03-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Lyra: An Efficient and Expressive Subquadratic Architecture for Modeling Biological Sequences",
+    "zh": "Lyra: An Efficient and Expressive Subquadratic Architecture for Modeling Biological Sequences"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2503.16351v1",
+   "note": {
+    "en": "Subquadratic architecture for biological sequence modeling; Gu is a co-author.",
+    "zh": "面向生物序列建模的次二次架构，Gu 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-02-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Thinking Slow, Fast: Scaling Inference Compute with Distilled Reasoners",
+    "zh": "Thinking Slow, Fast: Scaling Inference Compute with Distilled Reasoners"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2502.20339v1",
+   "note": {
+    "en": "Distills transformer reasoners into recurrent models so test-time compute scaling stays cheap; Gu is a co-author.",
+    "zh": "把 Transformer 推理模型蒸馏到循环架构，使测试时计算的扩展更廉价，Gu 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-02-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Llamba: Scaling Distilled Recurrent Models for Efficient Language Processing",
+    "zh": "Llamba: Scaling Distilled Recurrent Models for Efficient Language Processing"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2502.14458v2",
+   "note": {
+    "en": "Distills Llama-3.x into the Mamba architecture, a Cartesia-linked line of efficient recurrent models; Gu is senior author.",
+    "zh": "把 Llama-3.x 蒸馏为 Mamba 架构的高效循环模型系列，与 Cartesia 一脉相承，Gu 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-02-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "HybriDNA: A Hybrid Transformer-Mamba2 Long-Range DNA Language Model",
+    "zh": "HybriDNA: A Hybrid Transformer-Mamba2 Long-Range DNA Language Model"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2502.10807v2",
+   "note": {
+    "en": "Hybrid transformer-Mamba2 DNA language model for long genomic sequences; Gu is a co-author.",
+    "zh": "面向长基因组序列的 Transformer-Mamba2 混合 DNA 语言模型，Gu 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-09-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "On the Benefits of Memory for Modeling Time-Dependent PDEs",
+    "zh": "On the Benefits of Memory for Modeling Time-Dependent PDEs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2409.02313v2",
+   "note": {
+    "en": "Shows non-Markovian memory improves neural solvers for time-dependent PDEs; Gu is a co-author.",
+    "zh": "表明引入非马尔可夫记忆能改善时变偏微分方程的神经求解器，Gu 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-08-20",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Cross-Architecture Distillation Part I - The MOHAWK Framework",
+    "zh": "Cross-Architecture Distillation Part I - The MOHAWK Framework"
+   },
+   "source": "Goomba Lab",
+   "url": "https://goombalab.github.io/blog/2024/distillation-part1-mohawk/",
+   "note": {
+    "en": "Introduces MOHAWK, a framework for distilling a pretrained Transformer into a Mamba-style recurrent model.",
+    "zh": "介绍 MOHAWK 框架：把已预训练的 Transformer 蒸馏成 Mamba 式的循环模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2024-08-20",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Cross-Architecture Distillation Part II - Phi-Mamba-1.5B Model and Training Laws",
+    "zh": "Cross-Architecture Distillation Part II - Phi-Mamba-1.5B Model and Training Laws"
+   },
+   "source": "Goomba Lab",
+   "url": "https://goombalab.github.io/blog/2024/distillation-part2-phi-mamba/",
+   "note": {
+    "en": "Second part of the distillation series, reporting the Phi-Mamba-1.5B model and the training laws that govern cross-architecture distillation.",
+    "zh": "蒸馏系列的第二部分，公布 Phi-Mamba-1.5B 模型以及跨架构蒸馏所遵循的训练规律。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2024-08-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models",
+    "zh": "Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2408.10189v2",
+   "note": {
+    "en": "MOHAWK, a method for distilling pretrained transformers into subquadratic state-space models; Gu is senior author.",
+    "zh": "MOHAWK 方法，把预训练 Transformer 蒸馏为次二次的状态空间模型，Gu 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-07-17",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Mamba, Mamba-2 and Post-Transformer Architectures for Generative AI with Albert Gu",
+    "zh": "Mamba, Mamba-2 and Post-Transformer Architectures for Generative AI with Albert Gu"
+   },
+   "source": "The TWIML AI Podcast (formerly This We…",
+   "url": "https://podcasts.apple.com/us/podcast/mamba-mamba-2-and-post-transformer-architectures-for/id1116303051?i=1000662439199&uo=4",
+   "note": {
+    "en": "Long-form interview on Mamba, Mamba-2 and where post-Transformer architectures go next.",
+    "zh": "长篇访谈，谈 Mamba、Mamba-2 以及后 Transformer 架构的下一步方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-07-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Hydra: Bidirectional State Space Models Through Generalized Matrix Mixers",
+    "zh": "Hydra: Bidirectional State Space Models Through Generalized Matrix Mixers"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2407.09941v1",
+   "note": {
+    "en": "Bidirectional state-space model derived from a unifying matrix-mixer view of sequence models; Gu is senior author.",
+    "zh": "从统一的矩阵混合视角推导出的双向状态空间模型，Gu 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-07-04",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The State Space Model Revolution, with Albert Gu",
+    "zh": "The State Space Model Revolution, with Albert Gu"
+   },
+   "source": "\"The Cognitive Revolution\" | AI Builde…",
+   "url": "https://podcasts.apple.com/us/podcast/the-state-space-model-revolution-with-albert-gu/id1669813431?i=1000661124985&uo=4",
+   "note": {
+    "en": "Interview covering the state-space model line of work and the founding of Cartesia.",
+    "zh": "访谈，围绕状态空间模型这一研究路线以及 Cartesia 的创立展开。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-06-27",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "State Space Models and Real-time Intelligence with Karan Goel and Albert Gu from Cartesia",
+    "zh": "State Space Models and Real-time Intelligence with Karan Goel and Albert Gu from Cartesia"
+   },
+   "source": "No Priors: Artificial Intelligence | T…",
+   "url": "https://podcasts.apple.com/us/podcast/state-space-models-and-real-time-intelligence-with/id1668002688?i=1000660424384&uo=4",
+   "note": {
+    "en": "Appears with Cartesia co-founder Karan Goel to discuss state-space models and real-time voice systems.",
+    "zh": "与 Cartesia 联合创始人 Karan Goel 一同出镜，讨论状态空间模型与实时语音系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-06-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "An Empirical Study of Mamba-based Language Models",
+    "zh": "An Empirical Study of Mamba-based Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2406.07887v1",
+   "note": {
+    "en": "NVIDIA-led 8B-scale comparison of Mamba, hybrid and transformer language models; Gu is a co-author.",
+    "zh": "由 NVIDIA 主导的 8B 规模对比研究，比较 Mamba、混合架构与 Transformer 语言模型，Gu 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-05-31",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality",
+    "zh": "Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2405.21060v1",
+   "note": {
+    "en": "The Mamba-2 paper, establishing a structured state space duality between attention and SSMs; written with Tri Dao.",
+    "zh": "Mamba-2 论文，建立注意力与状态空间模型之间的结构化对偶关系，由 Gu 与 Tri Dao 合著。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-03-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling",
+    "zh": "Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2403.03234v2",
+   "note": {
+    "en": "Bidirectional, reverse-complement-equivariant DNA sequence model built on Mamba; Gu is a co-author.",
+    "zh": "基于 Mamba 的双向、反向互补等变 DNA 序列模型，Gu 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-02-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models",
+    "zh": "Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2402.19427v1",
+   "note": {
+    "en": "DeepMind's Hawk and Griffin architectures mixing gated linear recurrences with local attention; Gu is a co-author.",
+    "zh": "DeepMind 的 Hawk 与 Griffin 架构，把门控线性循环与局部注意力结合，Gu 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-12-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Mamba: Linear-Time Sequence Modeling with Selective State Spaces",
+    "zh": "Mamba: Linear-Time Sequence Modeling with Selective State Spaces"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2312.00752v2",
+   "note": {
+    "en": "The original Mamba paper introducing selective state spaces, Gu's best-known work and the basis for Cartesia's models.",
+    "zh": "Mamba 原始论文，提出选择性状态空间，是 Gu 最知名的工作，也是 Cartesia 模型的基础。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-09-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Augmenting conformers with structured state-space sequence models for online speech recognition",
+    "zh": "Augmenting conformers with structured state-space sequence models for online speech recognition"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2309.08551v2",
+   "note": {
+    "en": "Google collaboration adding structured state-space layers to conformer encoders for streaming speech recognition; Gu is a co-author.",
+    "zh": "与 Google 合作，在 conformer 编码器中加入结构化状态空间层以支持流式语音识别，Gu 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-03-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Resurrecting Recurrent Neural Networks for Long Sequences",
+    "zh": "Resurrecting Recurrent Neural Networks for Long Sequences"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2303.06349v1",
+   "note": {
+    "en": "DeepMind paper showing carefully initialized linear RNNs can match deep state-space models on long sequences; Gu is a co-author.",
+    "zh": "DeepMind 论文，表明精心初始化的线性 RNN 在长序列上可媲美深度状态空间模型，Gu 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "research",
+ "score": {
+  "total": 26.3,
+  "attention": null,
+  "centrality": 30,
+  "momentum": 22,
+  "stature": null,
+  "pageviews": 0,
+  "citations": 2983,
+  "hIndex": 21,
+  "events": 0,
+  "posts": 66,
+  "wikiEn": null,
+  "wikiZh": null
+ },
+ "seedRank": 93,
+ "tier": "t5"
+}

@@ -1,0 +1,1597 @@
+{
+ "rank": 48,
+ "id": "noam-brown",
+ "name": {
+  "en": "Noam Brown",
+  "zh": "Noam Brown"
+ },
+ "role": {
+  "en": "VP of Research, OpenAI",
+  "zh": "OpenAI 研究副总裁"
+ },
+ "org": "OpenAI",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "OpenAI",
+  "Libratus",
+  "Pluribus",
+  "Test-time compute",
+  "o-series",
+  "Self-play"
+ ],
+ "why": {
+  "en": "Author of Libratus and Pluribus, the first systems to beat top humans at multiplayer poker. He brought test-time reasoning into language models and is the key mover behind the o-series.",
+  "zh": "Libratus 与 Pluribus 的作者，首次在多人扑克中战胜顶级人类。他把测试时推理引入语言模型，是 o 系列的关键推动者。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@polynoamial",
+   "url": "https://x.com/polynoamial",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "noambrown.com",
+   "url": "https://noambrown.com/",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @noambrown",
+   "url": "https://github.com/noambrown",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "OpenAI Research",
+   "url": "https://openai.com/research/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Noam+Brown",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Noam+Brown",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Noam+Brown",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Noam+Brown&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Noam+Brown&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Noam+Brown",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Noam+Brown",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?user=RLDbLcUAAAAJ&hl=en",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Noam+Brown",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Noam+Brown",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Noam+Brown",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Noam+Brown",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Noam+Brown",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Noam+Brown&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Noam_Brown",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-06-01",
+   "kind": "blog",
+   "title": {
+    "en": "Implications of Large-Scale Test-Time Compute",
+    "zh": "大规模测试时算力的影响"
+   },
+   "source": "noambrown.com",
+   "url": "https://noambrown.com/",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-07-03",
+   "kind": "talk",
+   "title": {
+    "en": "Judging AI by scores alone creates an illusion",
+    "zh": "仅凭分数评判 AI 会制造幻觉"
+   },
+   "source": "Global AI Frontier Symposium, Seoul",
+   "url": "https://finance.biggo.com/news/6a381a85-919a-4175-b241-82fe307ec505",
+   "note": {
+    "en": "Urges the field to move from single-score evaluation to a performance curve plotting cost, tokens and time against performance.",
+    "zh": "呼吁业界从单一分数评测转向以成本、token 数与时间为横轴、性能为纵轴的性能曲线。"
+   }
+  },
+  {
+   "date": "2026-09-17",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Noam Brown – Agent swarms, alignment, & recursive self-improvement",
+    "zh": "Noam Brown – Agent swarms, alignment, & recursive self-improvement"
+   },
+   "source": "Dwarkesh Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/noam-brown-agent-swarms-alignment-recursive-self-improvement/id1516093381?i=1000790373289&uo=4",
+   "note": {
+    "en": "Brown discussed agent swarms, alignment and recursive self-improvement on the Dwarkesh Podcast.",
+    "zh": "诺姆·布朗在Dwarkesh Podcast节目中探讨了智能体集群、对齐问题以及递归自我改进。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-09-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Seb is a really sweet guy with great intentions, am so happy for him that his week long collaboration with myself and others worked out, but very sad that we di",
+    "zh": "Seb is a really sweet guy with great intentions, am so happy for him that his week long collaboration with myself and others worked out, but very sad that we di"
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/2097215233119211902",
+   "note": {
+    "en": "He reflects on a collaborator's (Seb's) week-long push on a research result, praising the effort even though it did not finish as intended.",
+    "zh": "他谈到合作者Seb为一项研究成果连续一周的投入，尽管最终未能按预期完成，仍对其努力表示赞赏。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Strong agree. I know that there is rivalry between the labs but it's important that we learn to work together given what's coming.",
+    "zh": "Strong agree. I know that there is rivalry between the labs but it's important that we learn to work together given what's coming."
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/2097225279366414541",
+   "note": {
+    "en": "He argues AI labs need to set aside rivalry and work together given what's coming, a notable call for cooperation from an OpenAI researcher.",
+    "zh": "他呼吁各AI实验室搁置竞争、共同应对即将到来的变化，这是一位OpenAI研究员发出的合作呼吁。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T17:47:20Z",
+   "kind": "x",
+   "title": {
+    "en": "I understand how, looking at today’s LLMs, people might think the only way we'd achieve NS is by using Levent’s/Tristan’s prompts. But I hope this plot conveys",
+    "zh": "I understand how, looking at today’s LLMs, people might think the only way we'd achieve NS is by using Levent’s/Tristan’s prompts. But I hope this plot conveys"
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/2097381286193316203",
+   "note": {
+    "en": "He argues a new model result is a major step up from prompting techniques alone, addressing skepticism about how the gains were achieved.",
+    "zh": "他认为新模型的成果远超单纯依靠提示词技巧所能达到的水平，回应了外界对结果来源的质疑。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T17:25:41Z",
+   "kind": "x",
+   "title": {
+    "en": "Yes, this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$500,000 to score 87.5% on ARC-AGI 1. Today, Astra scores higher",
+    "zh": "Yes, this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$500,000 to score 87.5% on ARC-AGI 1. Today, Astra scores higher"
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/2097375837670785447",
+   "note": {
+    "en": "He contrasts the ~$500K cost of OpenAI's original o3 ARC-AGI result with a new model (Astra) that scores higher for about $20, illustrating steep cost declines in reasoning models.",
+    "zh": "他将OpenAI最初o3在ARC-AGI上耗资约50万美元取得的成绩，与新模型Astra仅花约20美元就取得更高分数进行对比，展示了推理模型成本的急剧下降。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T17:23:26Z",
+   "kind": "x",
+   "title": {
+    "en": "It can be hard to “feel the AGI” until you see an AI surpass you in a domain you care deeply about. This week, many mathematicians and physicists at @OpenAI had",
+    "zh": "It can be hard to “feel the AGI” until you see an AI surpass you in a domain you care deeply about. This week, many mathematicians and physicists at @OpenAI had"
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/2097375272387613183",
+   "note": {
+    "en": "He describes OpenAI mathematicians and physicists having a 'Lee Sedol moment' watching a new model surpass them in their own domains.",
+    "zh": "他描述OpenAI的数学家和物理学家在自己擅长的领域被新模型超越时，经历了类似“李世石时刻”的震撼。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T18:46:16Z",
+   "kind": "x",
+   "title": {
+    "en": "Very sad to see Levent double down on the plagiarism accusation. I hope my friends at @AnthropicAI stand up to this internally. It should be clear by now what t",
+    "zh": "Very sad to see Levent double down on the plagiarism accusation. I hope my friends at @AnthropicAI stand up to this internally. It should be clear by now what t"
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/2097396116132372839",
+   "note": {
+    "en": "He voices concern over an escalating plagiarism accusation aimed at an Anthropic researcher, hoping Anthropic addresses it internally.",
+    "zh": "他对一名Anthropic研究员不断升级的抄袭指控表示担忧，希望Anthropic能在内部妥善处理此事。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "One of the most interesting blog posts we've released: details on internal research acceleration at @OpenAI. I expect these trends to continue. We also share so",
+    "zh": "One of the most interesting blog posts we've released: details on internal research acceleration at @OpenAI. I expect these trends to continue. We also share so"
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/2096638670703055312",
+   "note": {
+    "en": "Brown highlights OpenAI's internal blog post on research acceleration via coding agents, saying he expects the trend to continue.",
+    "zh": "Brown转发并点评OpenAI关于编码智能体加速内部研究的博客文章,表示预计这一趋势将持续。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Of all the use cases for GPT-6 Astra, I'm most excited for scientific discovery. We at @OpenAI have not pushed it to its limits on math and science. I look forw",
+    "zh": "Of all the use cases for GPT-6 Astra, I'm most excited for scientific discovery. We at @OpenAI have not pushed it to its limits on math and science. I look forw"
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/2095583211950833768",
+   "note": {
+    "en": "Said he's most excited about GPT-6 Astra's potential for scientific discovery, noting OpenAI hasn't yet pushed it to its limits on math and science.",
+    "zh": "他表示对 GPT-6 Astra 在科学发现方面的潜力最为期待，并称 OpenAI 尚未在数学和科学领域充分发挥其能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Jakub is chief scientist at @OpenAI",
+    "zh": "Jakub is chief scientist at @OpenAI"
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/2095027255236087903",
+   "note": {
+    "en": "Brown confirmed on X that Jakub Pachocki is OpenAI's chief scientist.",
+    "zh": "布朗在X上确认Jakub Pachocki担任OpenAI首席科学家。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-06-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Really Big Test-Time Compute in AI Changes Benchmarks, Safety and Research with OpenAI Research Scientist Noam Brown",
+    "zh": "Really Big Test-Time Compute in AI Changes Benchmarks, Safety and Research with OpenAI Research Scientist Noam Brown"
+   },
+   "source": "No Priors: Artificial Intelligence | T…",
+   "url": "https://podcasts.apple.com/us/podcast/really-big-test-time-compute-in-ai-changes-benchmarks/id1668002688?i=1000774329129&uo=4",
+   "note": {
+    "en": "No Priors interview in which he argues that static benchmarks misjudge models because they ignore how long a model is allowed to think.",
+    "zh": "他做客 No Priors 播客，指出静态基准测试忽略了模型的思考时长，因而低估了模型的真实能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-06-04",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Begin Proof — Noam Brown",
+    "zh": "Begin Proof — Noam Brown"
+   },
+   "source": "Begin Proof",
+   "url": "https://podcasts.apple.com/us/podcast/begin-proof-noam-brown/id1896880262?i=1000771187827&uo=4",
+   "note": {
+    "en": "Interview on the OpenAI model that disproved Erdős's planar unit distance conjecture, a result he helped present.",
+    "zh": "访谈聚焦 OpenAI 模型推翻厄尔多什平面单位距离猜想一事，这项结果由他参与对外发布。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-12-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "OpenAI GPT-5 System Card",
+    "zh": "OpenAI GPT-5 System Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2601.03267v2",
+   "note": {
+    "en": "OpenAI's system card published with the GPT-5 launch, listing Brown among the contributors.",
+    "zh": "随 GPT-5 发布一同公布的 OpenAI 系统卡，Brown 位列贡献者名单。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-10-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Below is a deep dive into why self play works for two-player zero-sum (2p0s) games like Go/Poker/Starcraft but is so much harder to use in \"real world\" domains.",
+    "zh": "Below is a deep dive into why self play works for two-player zero-sum (2p0s) games like Go/Poker/Starcraft but is so much harder to use in \"real world\" domains."
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/1980697004658556972",
+   "note": {
+    "en": "Brown posted a thread explaining why self-play converges to optimal strategy in two-player zero-sum games like Go, poker and StarCraft, but is much harder to apply in real-world multi-agent settings.",
+    "zh": "Brown发帖详细解释了为什么自我对弈在围棋、扑克和星际争霸等双人零和博弈中能收敛到最优策略,但在现实世界的多智能体环境中却难以奏效。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-10-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Self play works so well in chess, go, and poker because those games are two-player zero-sum. That simplifies a lot of problems. The real world is messier, which",
+    "zh": "Self play works so well in chess, go, and poker because those games are two-player zero-sum. That simplifies a lot of problems. The real world is messier, which"
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/1980653716085825626",
+   "note": {
+    "en": "He argued that self-play works so well in chess, Go and poker specifically because those games are two-player zero-sum, which is why the same approach hasn't produced similar breakthroughs in messier real-world domains.",
+    "zh": "他指出,自我对弈之所以在国际象棋、围棋和扑克中效果显著,是因为这些都是双人零和博弈;这也是同一方法尚未在更复杂的现实世界领域取得类似突破的原因。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-10-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "My new hobby is asking GPT-5 Thinking to find errors in every @Wikipedia page I read. Interestingly, almost every page I checked has at least one error. 🧵 https",
+    "zh": "My new hobby is asking GPT-5 Thinking to find errors in every @Wikipedia page I read. Interestingly, almost every page I checked has at least one error. 🧵 https"
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/1973780497261371533",
+   "note": {
+    "en": "Brown said his new hobby is asking GPT-5 Thinking to find errors on Wikipedia pages, noting that almost every page he checked had at least one.",
+    "zh": "Brown说他的新爱好是让GPT-5 Thinking查找维基百科页面中的错误,并指出他检查过的几乎每个页面都至少有一处错误。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-09-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Julian was co-first author on AlphaGo, AlphaZero, and MuZero. He doesn't have a major twitter presence, but he's been at the forefront of AI exponential progres",
+    "zh": "Julian was co-first author on AlphaGo, AlphaZero, and MuZero. He doesn't have a major twitter presence, but he's been at the forefront of AI exponential progres"
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/1972167347088904371",
+   "note": {
+    "en": "He highlighted Julian Schrittwieser as co-first author on AlphaGo, AlphaZero and MuZero, noting he has stayed at the forefront of AI progress for over a decade despite a low public profile.",
+    "zh": "他特别提到Julian Schrittwieser是AlphaGo、AlphaZero和MuZero的共同第一作者,指出尽管此人公众知名度不高,却已在AI前沿领域坚持了十多年。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-09-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "12/12 problems solved, which would be equivalent to a 1st place performance. GPT-5's solutions were responsible for solving 11/12 of them.",
+    "zh": "12/12 problems solved, which would be equivalent to a 1st place performance. GPT-5's solutions were responsible for solving 11/12 of them."
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/1968369005116408149",
+   "note": {
+    "en": "Brown reported that GPT-5's solutions accounted for 11 of 12 problems solved in a competition result equivalent to a first-place finish.",
+    "zh": "Brown报告称,在一项相当于获得第一名的比赛结果中,GPT-5的解答贡献了12道题中的11道。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-09-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "GPT-5-Codex is 10x faster for the easiest queries, and will think 2x longer for the hardest queries that benefit most from more compute. https://t.co/wX9GNwRFQQ",
+    "zh": "GPT-5-Codex is 10x faster for the easiest queries, and will think 2x longer for the hardest queries that benefit most from more compute. https://t.co/wX9GNwRFQQ"
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/1967667644905251156",
+   "note": {
+    "en": "He said GPT-5-Codex runs 10x faster on the easiest queries while thinking twice as long on the hardest ones that benefit most from extra compute.",
+    "zh": "他表示GPT-5-Codex在最简单的查询上运行速度快10倍,而在最能从额外算力中受益的最难查询上则会多思考两倍时间。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-09-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "When we at @OpenAI released o1-preview a year ago, it would think for seconds. Today, our best reasoning models can think for hours, browse the web, and write c",
+    "zh": "When we at @OpenAI released o1-preview a year ago, it would think for seconds. Today, our best reasoning models can think for hours, browse the web, and write c"
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/1966527147469598794",
+   "note": {
+    "en": "Brown contrasted o1-preview, which thought for seconds a year earlier, with OpenAI's current reasoning models that can think for hours, browse the web and write code.",
+    "zh": "Brown将一年前只能思考数秒的o1-preview,与如今能够思考数小时、浏览网页并编写代码的OpenAI推理模型进行了对比。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-09-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "@emollick People deserved to know what was coming. There were many factors to consider, but a big one was that it didn't feel right to hide a development like t",
+    "zh": "@emollick People deserved to know what was coming. There were many factors to consider, but a big one was that it didn't feel right to hide a development like t"
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/1964375558009319858",
+   "note": {
+    "en": "Replying to a question about transparency, Brown said people deserved to know what was coming and it didn't feel right to withhold a development like that from the world.",
+    "zh": "在回应有关透明度的提问时,Brown表示公众有权知道即将到来的进展,隐瞒这样的发展并不合适。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-08-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "To all undergrads interested in learning about AI: be wary of taking “Intro to AI” as your first AI course. In many programs, the class you actually want first",
+    "zh": "To all undergrads interested in learning about AI: be wary of taking “Intro to AI” as your first AI course. In many programs, the class you actually want first"
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/1961065513745789423",
+   "note": {
+    "en": "Brown advised undergrads interested in AI to take an 'Intro to Machine Learning' course before a generic 'Intro to AI' course.",
+    "zh": "Brown建议对AI感兴趣的本科生,应先修读“机器学习导论”课程,而非泛泛的“人工智能导论”。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-08-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "GPT-5 Thinking definitely isn’t perfect, but it’s the first AI model I can trust more than many common sources of truth on the internet. https://t.co/IWBm9UEzHP",
+    "zh": "GPT-5 Thinking definitely isn’t perfect, but it’s the first AI model I can trust more than many common sources of truth on the internet. https://t.co/IWBm9UEzHP"
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/1959730758140174445",
+   "note": {
+    "en": "He said GPT-5 Thinking isn't perfect but is the first AI model he trusts more than many common sources of truth on the internet.",
+    "zh": "他表示GPT-5 Thinking并不完美,但却是他第一个比互联网上许多常见信源更信任的AI模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-08-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I recently chatted with a VC who believed AGI was coming and would disrupt a lot of jobs, but not *their* job. Of course AIs could write code and review contrac",
+    "zh": "I recently chatted with a VC who believed AGI was coming and would disrupt a lot of jobs, but not *their* job. Of course AIs could write code and review contrac"
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/1957175457343848512",
+   "note": {
+    "en": "Brown recounted a VC who believed AGI would disrupt many jobs but assumed their own was safe, questioning why people expect AI to make calibrated predictions on demand.",
+    "zh": "Brown讲述了一位风险投资人的看法:相信AGI会颠覆许多工作,却认为自己的工作是安全的,并质疑为何人们期待AI能按需做出精准预测。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-08-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "In my opinion, the most important takeaway from this result is that our @OpenAI International Math Olympiad (IMO) gold model is also our best competitive coding",
+    "zh": "In my opinion, the most important takeaway from this result is that our @OpenAI International Math Olympiad (IMO) gold model is also our best competitive coding"
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/1954966398989635668",
+   "note": {
+    "en": "He said the key takeaway from OpenAI's IMO gold result is that the same model is also its best competitive coding model.",
+    "zh": "他表示OpenAI国际数学奥林匹克金牌成绩的关键启示在于,这同一个模型也是其最强的竞赛编程模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-08-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I'm more optimistic than ever that we at @OpenAI can eliminate hallucinations. There's still more research to be done, but GPT-5 is solid progress. https://t.co",
+    "zh": "I'm more optimistic than ever that we at @OpenAI can eliminate hallucinations. There's still more research to be done, but GPT-5 is solid progress. https://t.co"
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/1953517966978322545",
+   "note": {
+    "en": "Brown said he's more optimistic than ever that OpenAI can eliminate hallucinations, calling GPT-5 solid progress toward that goal.",
+    "zh": "Brown表示他比以往更乐观地认为OpenAI能够消除幻觉问题,并称GPT-5是朝这一目标迈出的坚实一步。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-08-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Our new @OpenAI open models https://t.co/ZXHQnOmLZT",
+    "zh": "Our new @OpenAI open models https://t.co/ZXHQnOmLZT"
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/1952778238368887184",
+   "note": {
+    "en": "Brown announced OpenAI's new open-weight models.",
+    "zh": "Brown宣布了OpenAI推出的新开放权重模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-08-02",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Interview with Noam Brown, WDC Champion 2025",
+    "zh": "Interview with Noam Brown, WDC Champion 2025"
+   },
+   "source": "Diplomacy Games",
+   "url": "https://podcasts.apple.com/us/podcast/interview-with-noam-brown-wdc-champion-2025/id1148827717?i=1000720309226&uo=4",
+   "note": {
+    "en": "Interview after he won the 2025 World Diplomacy Championship in San Francisco, the human game his CICERO work is built on.",
+    "zh": "他在旧金山夺得 2025 年世界外交棋锦标赛冠军后接受的访谈，这正是其 CICERO 研究所针对的棋类项目。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-07-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "It can be hard to “feel the AGI” until you see an AI master a domain you care deeply about. Everyone will have their Lee Sedol moment at a different time.",
+    "zh": "It can be hard to “feel the AGI” until you see an AI master a domain you care deeply about. Everyone will have their Lee Sedol moment at a different time."
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/1947878967639433568",
+   "note": {
+    "en": "He said it's hard to 'feel the AGI' until you see AI master a domain you personally care about, likening it to everyone having their own 'Lee Sedol moment.'",
+    "zh": "他表示,在亲眼看到AI掌握自己在乎的领域之前,很难真正“感受到AGI”,并将其比作每个人都会有属于自己的“李世石时刻”。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Congrats to the GDM team on their IMO result! I think their parallel success highlights how fast AI progress is. Their approach was a bit different than ours, b",
+    "zh": "Congrats to the GDM team on their IMO result! I think their parallel success highlights how fast AI progress is. Their approach was a bit different than ours, b"
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/1947398531259523481",
+   "note": {
+    "en": "Brown congratulated Google DeepMind's team on their IMO result, saying their parallel success — reached via a different approach — shows how fast AI progress is moving on multiple fronts.",
+    "zh": "Brown祝贺Google DeepMind团队取得的国际数学奥林匹克成绩,并表示他们采用不同方法取得的同期成果表明AI进展正在多条战线上快速推进。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "@Mihonarium 1) We posted *after* the closing ceremony. It was livestreamed so this is easy to confirm. 2) We weren't in touch with IMO. I spoke with one organiz",
+    "zh": "@Mihonarium 1) We posted *after* the closing ceremony. It was livestreamed so this is easy to confirm. 2) We weren't in touch with IMO. I spoke with one organiz"
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/1947024171860476264",
+   "note": {
+    "en": "Responding to criticism over the timing of OpenAI's IMO gold announcement, Brown said the post went out after the closing ceremony livestream and that he had informed one organizer beforehand.",
+    "zh": "针对外界对OpenAI国际数学奥林匹克金牌成绩发布时机的质疑,Brown回应称该推文是在闭幕式直播结束后发布的,且他事先已告知一位赛事组织者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Today, we at @OpenAI achieved a milestone that many considered years away: gold medal-level performance on the 2025 IMO with a general reasoning LLM—under the s",
+    "zh": "Today, we at @OpenAI achieved a milestone that many considered years away: gold medal-level performance on the 2025 IMO with a general reasoning LLM—under the s"
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/1946478249187377206",
+   "note": {
+    "en": "Brown announced that OpenAI's general reasoning LLM achieved gold medal-level performance at the 2025 International Mathematical Olympiad under the same time limits as human competitors.",
+    "zh": "Brown宣布OpenAI的通用推理大模型在与人类选手相同的时限下,于2025年国际数学奥林匹克竞赛中达到金牌水平。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "When you work at a frontier lab, you usually know where frontier capabilities are months before anyone else. But this result is brand new, using recently develo",
+    "zh": "When you work at a frontier lab, you usually know where frontier capabilities are months before anyone else. But this result is brand new, using recently develo"
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/1946478260482625627",
+   "note": {
+    "en": "He said the IMO gold result was a surprise even to those inside a frontier lab, since it used techniques developed only recently.",
+    "zh": "他表示这一国际数学奥林匹克金牌成绩即便对前沿实验室内部人员来说也出乎意料,因为它使用的是最近才开发出的技术。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Their bet allowed for formal math AI systems (like AlphaProof). In 2022, almost nobody thought an LLM could be IMO gold level by 2025.",
+    "zh": "Their bet allowed for formal math AI systems (like AlphaProof). In 2022, almost nobody thought an LLM could be IMO gold level by 2025."
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/1946517375060500651",
+   "note": {
+    "en": "Brown noted that a 2022 bet allowing for formal math AI systems like AlphaProof reflected how few people then expected an LLM to reach IMO gold level by 2025.",
+    "zh": "Brown指出,2022年那场允许使用AlphaProof等形式化数学AI系统的赌局,反映出当时几乎没人预料LLM会在2025年前达到国际数学奥林匹克金牌水平。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Something to watch out for when evaluating tool-using agents: they can \"cheat\" by browsing the web and simply looking up the answer key. The @OpenAI ChatGPT Age",
+    "zh": "Something to watch out for when evaluating tool-using agents: they can \"cheat\" by browsing the web and simply looking up the answer key. The @OpenAI ChatGPT Age"
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/1945910153301164100",
+   "note": {
+    "en": "Brown warned that tool-using agents can 'cheat' evaluations by browsing the web to look up answer keys, saying OpenAI's ChatGPT Agent team had to specifically guard against it.",
+    "zh": "Brown提醒,使用工具的智能体可能通过浏览网页查找答案来“作弊”通过评测,并表示OpenAI的ChatGPT Agent团队为此专门采取了防范措施。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "AI researchers will literally negotiate $100 million comp packages by themselves but they won’t play poker for more than $50 buy-ins",
+    "zh": "AI researchers will literally negotiate $100 million comp packages by themselves but they won’t play poker for more than $50 buy-ins"
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/1940275777981100448",
+   "note": {
+    "en": "Brown quipped that AI researchers will negotiate $100 million pay packages on their own but won't play poker for more than $50 buy-ins.",
+    "zh": "Brown调侃道,AI研究者敢自己去谈判上亿美元的薪酬方案,却不敢玩超过50美元底注的扑克。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-06-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "You don’t need a PhD to be a great AI researcher. Even @OpenAI’s Chief Research Officer doesn’t have a PhD.",
+    "zh": "You don’t need a PhD to be a great AI researcher. Even @OpenAI’s Chief Research Officer doesn’t have a PhD."
+   },
+   "source": "@polynoamial",
+   "url": "https://x.com/polynoamial/status/1939103344985022676",
+   "note": {
+    "en": "Brown said you don't need a PhD to be a great AI researcher, pointing out that OpenAI's own Chief Research Officer doesn't have one.",
+    "zh": "Brown表示,成为优秀的AI研究者并不需要博士学位,并指出OpenAI的首席研究官本人就没有博士学位。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-06-19",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Scaling Test Time Compute to Multi-Agent Civilizations — Noam Brown, OpenAI",
+    "zh": "Scaling Test Time Compute to Multi-Agent Civilizations — Noam Brown, OpenAI"
+   },
+   "source": "Latent Space: The AI Engineer Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/scaling-test-time-compute-to-multi-agent-civilizations/id1674008350?i=1000748427701&uo=4",
+   "note": {
+    "en": "Long-form interview on scaling test-time compute, poker and Diplomacy, and where reasoning-based scaling runs out.",
+    "zh": "长篇访谈，谈测试时计算的扩展、扑克与 Diplomacy，以及推理式扩展的边界所在。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-02-01",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AI won't plateau — if we give it time to think | Noam Brown",
+    "zh": "AI won't plateau — if we give it time to think | Noam Brown"
+   },
+   "source": "TED Talks Daily",
+   "url": "https://podcasts.apple.com/us/podcast/ai-wont-plateau-if-we-give-it-time-to-think-noam-brown/id160904630?i=1000687778942&uo=4",
+   "note": {
+    "en": "His TED talk arguing that giving models time to think at inference keeps capability rising without exponential scaling.",
+    "zh": "他的 TED 演讲主张，让模型在推理时多花时间思考，就能在不依赖指数级扩展的情况下持续提升能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-12-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "OpenAI o1 System Card",
+    "zh": "OpenAI o1 System Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2412.16720v2",
+   "note": {
+    "en": "System card for the o1 reasoning series, the test-time-compute line of work Brown drove at OpenAI.",
+    "zh": "o1 推理模型系列的系统卡，这一测试时计算方向正是 Brown 在 OpenAI 推动的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-12-06",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ep 49: OpenAI Researcher Noam Brown Unpacks the Full Release of o1 and the Path to AGI",
+    "zh": "Ep 49: OpenAI Researcher Noam Brown Unpacks the Full Release of o1 and the Path to AGI"
+   },
+   "source": "Unsupervised Learning with Jacob Effron",
+   "url": "https://podcasts.apple.com/us/podcast/ep-49-openai-researcher-noam-brown-unpacks-the-full/id1672188924?i=1000679501945&uo=4",
+   "note": {
+    "en": "Interview recorded the day before o1's full release, covering the model and the path to AGI.",
+    "zh": "录于 o1 完整版发布前一天的访谈，谈及该模型及通往 AGI 的路径。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-10-02",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "OpenAI's Noam Brown, Ilge Akkaya and Hunter Lightman on o1 and Teaching LLMs to Reason Better",
+    "zh": "OpenAI's Noam Brown, Ilge Akkaya and Hunter Lightman on o1 and Teaching LLMs to Reason Better"
+   },
+   "source": "Training Data",
+   "url": "https://podcasts.apple.com/us/podcast/openais-noam-brown-ilge-akkaya-and-hunter-lightman-on/id1750736528?i=1000671532058&uo=4",
+   "note": {
+    "en": "He and two OpenAI colleagues explain how o1 merges large language models with AlphaGo-style reinforcement learning to teach reasoning.",
+    "zh": "他与两位 OpenAI 同事解释 o1 如何把大语言模型与 AlphaGo 式强化学习结合起来，训练模型进行推理。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-06-28",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Noam Brown: from Open AI on solving Poker and Diplomacy with AI",
+    "zh": "Noam Brown: from Open AI on solving Poker and Diplomacy with AI"
+   },
+   "source": "The Robot Brains Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/noam-brown-from-open-ai-on-solving-poker-and/id1559275284?i=1000618667699&uo=4",
+   "note": {
+    "en": "Conversation with Pieter Abbeel on how his systems reached superhuman play in poker and Diplomacy.",
+    "zh": "与 Pieter Abbeel 对谈，讲述他的系统如何在扑克与外交棋上达到超越人类的水平。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-04-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The Update-Equivalence Framework for Decision-Time Planning",
+    "zh": "The Update-Equivalence Framework for Decision-Time Planning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2304.13138v3",
+   "note": {
+    "en": "Decision-time planning framework built on update equivalence rather than subgame decomposition; Brown is senior author.",
+    "zh": "提出基于更新等价而非子博弈分解的决策时规划框架，Brown 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-02-09",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Noam Brown, FAIR: Achieving human-level performance in poker and Diplomacy, and the power of spending compute at inference time",
+    "zh": "Noam Brown, FAIR: Achieving human-level performance in poker and Diplomacy, and the power of spending compute at inference time"
+   },
+   "source": "Generally Intelligent",
+   "url": "https://podcasts.apple.com/us/podcast/noam-brown-fair-achieving-human-level-performance-in/id1544921720?i=1000598935140&uo=4",
+   "note": {
+    "en": "Interview from his FAIR years on beating top poker players and on why spending compute at inference time pays off.",
+    "zh": "他在 FAIR 期间的访谈，谈击败顶尖扑克选手的经历，以及在推理阶段投入算力为何有效。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-02-02",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The bot Cicero can collaborate, scheme and build trust with humans. What does this mean for the next frontier of AI? With Noam Brown, Research Scientist at Meta",
+    "zh": "The bot Cicero can collaborate, scheme and build trust with humans. What does this mean for the next frontier of AI? With Noam Brown, Research Scientist at Meta"
+   },
+   "source": "No Priors: Artificial Intelligence | T…",
+   "url": "https://podcasts.apple.com/us/podcast/the-bot-cicero-can-collaborate-scheme-and-build/id1668002688?i=1000597698748&uo=4",
+   "note": {
+    "en": "Interview on Cicero, the Diplomacy agent that negotiates in natural language, recorded while Brown was at Meta.",
+    "zh": "关于用自然语言谈判的 Diplomacy 智能体 Cicero 的访谈，录制于 Brown 还在 Meta 时期。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-01-29",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Interview with Noam Brown from Meta",
+    "zh": "Interview with Noam Brown from Meta"
+   },
+   "source": "Diplomacy Games",
+   "url": "https://podcasts.apple.com/us/podcast/interview-with-noam-brown-from-meta/id1148827717?i=1000597109168&uo=4",
+   "note": {
+    "en": "Interview with the Diplomacy community about how CICERO was built, given shortly after the system was published.",
+    "zh": "系统发布后不久，他面向外交棋玩家社区讲述 CICERO 的构建过程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-01-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Abstracting Imperfect Information Away from Two-Player Zero-Sum Games",
+    "zh": "Abstracting Imperfect Information Away from Two-Player Zero-Sum Games"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2301.09159v3",
+   "note": {
+    "en": "Shows two-player zero-sum imperfect-information games can be reduced to perfect-information ones via public policy announcement; Brown is senior author.",
+    "zh": "证明两人零和不完美信息博弈可通过公开策略化归为完美信息博弈，Brown 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-12-06",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#344 – Noam Brown: AI vs Humans in Poker and Games of Strategic Negotiation",
+    "zh": "#344 – Noam Brown: AI vs Humans in Poker and Games of Strategic Negotiation"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/344-noam-brown-ai-vs-humans-in-poker-and-games/id1434243584?i=1000589092006&uo=4",
+   "note": {
+    "en": "Long-form Lex Fridman interview on building AI that beats humans at no-limit poker and at strategic negotiation.",
+    "zh": "在 Lex Fridman 播客的长篇访谈，谈如何构建在无限注扑克与策略性谈判中击败人类的 AI。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-10-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Mastering the Game of No-Press Diplomacy via Human-Regularized Reinforcement Learning and Planning",
+    "zh": "Mastering the Game of No-Press Diplomacy via Human-Regularized Reinforcement Learning and Planning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2210.05492v1",
+   "note": {
+    "en": "Human-regularized RL and planning that reaches top human level at no-press Diplomacy; Brown is senior author.",
+    "zh": "用人类正则化的强化学习与规划，在无通信 Diplomacy 中达到顶尖人类水平，Brown 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-10-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Human-AI Coordination via Human-Regularized Search and Learning",
+    "zh": "Human-AI Coordination via Human-Regularized Search and Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2210.05125v1",
+   "note": {
+    "en": "Applies piKL-style human regularization to cooperative human-AI play; Brown is senior author.",
+    "zh": "把 piKL 式的人类正则化用于人机协作场景，Brown 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-06-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Unified Approach to Reinforcement Learning, Quantal Response Equilibria, and Two-Player Zero-Sum Games",
+    "zh": "A Unified Approach to Reinforcement Learning, Quantal Response Equilibria, and Two-Player Zero-Sum Games"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2206.05825v4",
+   "note": {
+    "en": "Introduces magnetic mirror descent, linking RL, quantal response equilibria and two-player zero-sum solving; Brown is a co-author.",
+    "zh": "提出磁性镜像下降，把强化学习、量子响应均衡与两人零和求解统一起来，Brown 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-04-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Equilibrium Finding in Normal-Form Games Via Greedy Regret Minimization",
+    "zh": "Equilibrium Finding in Normal-Form Games Via Greedy Regret Minimization"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2204.04826v1",
+   "note": {
+    "en": "Regret-minimization variant that greedily reweights iterates for faster equilibrium finding in normal-form games; Brown is senior author.",
+    "zh": "在标准型博弈中按遗憾贪心加权迭代以加快均衡求解的遗憾最小化变体，Brown 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-12-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Modeling Strong and Human-Like Gameplay with KL-Regularized Search",
+    "zh": "Modeling Strong and Human-Like Gameplay with KL-Regularized Search"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2112.07544v2",
+   "note": {
+    "en": "piKL, the KL-regularized search method for strong but human-like policies that later underpinned Cicero; Brown is senior author.",
+    "zh": "提出 piKL 这一 KL 正则化搜索方法，可得到强而类人的策略，后来支撑了 Cicero，Brown 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-10-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "No-Press Diplomacy from Scratch",
+    "zh": "No-Press Diplomacy from Scratch"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2110.02924v1",
+   "note": {
+    "en": "Trains a no-press Diplomacy agent without human data despite an action space of over 10^20; Brown is senior author.",
+    "zh": "在动作空间超过 10^20 的情况下不依赖人类数据从零训练无通信 Diplomacy 智能体，Brown 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-09-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scalable Online Planning via Reinforcement Learning Fine-Tuning",
+    "zh": "Scalable Online Planning via Reinforcement Learning Fine-Tuning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2109.15316v1",
+   "note": {
+    "en": "Replaces expensive lookahead search with reinforcement learning fine-tuning at execution time; Brown is senior author.",
+    "zh": "在线规划中用执行时的强化学习微调替代昂贵的前瞻搜索，Brown 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-06-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Learned Belief Search: Efficiently Improving Policies in Partially Observable Settings",
+    "zh": "Learned Belief Search: Efficiently Improving Policies in Partially Observable Settings"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2106.09086v1",
+   "note": {
+    "en": "Cheaper approximation to belief-based search in partially observable settings; Brown is a co-author.",
+    "zh": "在部分可观测环境中对基于信念的搜索给出更廉价的近似，Brown 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-05-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Safe Search for Stackelberg Equilibria in Extensive-Form Games",
+    "zh": "Safe Search for Stackelberg Equilibria in Extensive-Form Games"
+   },
+   "source": "Proceedings of the AAAI Conference on…",
+   "url": "https://doi.org/10.1609/aaai.v35i6.16697",
+   "note": {
+    "en": "With Chun Kai Ling, Brown extends the search techniques behind Libratus/Pluribus to Stackelberg equilibria, letting a leader improve a precomputed blueprint strategy online without ever performing worse than it.",
+    "zh": "Brown与Chun Kai Ling合作，将Libratus/Pluribus背后的搜索技术扩展到Stackelberg均衡问题，使先行者能够在线改进预先计算好的蓝图策略，且效果绝不劣于原策略。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2021-03-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Off-Belief Learning",
+    "zh": "Off-Belief Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2103.04000v5",
+   "note": {
+    "en": "Off-belief learning, a rule that strips arbitrary self-play conventions so agents coordinate with unseen partners; Brown is a co-author.",
+    "zh": "提出 off-belief learning，去除自博弈中形成的任意约定，使智能体能与陌生伙伴协作，Brown 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-10-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Human-Level Performance in No-Press Diplomacy via Equilibrium Search",
+    "zh": "Human-Level Performance in No-Press Diplomacy via Equilibrium Search"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2010.02923v2",
+   "note": {
+    "en": "First agent to reach human level at no-press Diplomacy, using equilibrium search; Brown is senior author.",
+    "zh": "首个借助均衡搜索在无通信 Diplomacy 中达到人类水平的智能体，Brown 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-07-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Combining Deep Reinforcement Learning and Search for Imperfect-Information Games",
+    "zh": "Combining Deep Reinforcement Learning and Search for Imperfect-Information Games"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2007.13544v2",
+   "note": {
+    "en": "ReBeL, Brown's algorithm unifying deep RL with search for imperfect-information games and a direct precursor to his later reasoning work.",
+    "zh": "ReBeL 算法把深度强化学习与搜索统一用于不完美信息博弈，是 Brown 后来推理工作的直接前身。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-07-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Unlocking the Potential of Deep Counterfactual Value Networks",
+    "zh": "Unlocking the Potential of Deep Counterfactual Value Networks"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2007.10442v1",
+   "note": {
+    "en": "Improvements to deep counterfactual value networks for depth-limited poker search; Brown is a co-author.",
+    "zh": "改进用于有限深度扑克搜索的深度反事实价值网络，Brown 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-06-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DREAM: Deep Regret minimization with Advantage baselines and Model-free learning",
+    "zh": "DREAM: Deep Regret minimization with Advantage baselines and Model-free learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2006.10410v2",
+   "note": {
+    "en": "DREAM, a model-free deep regret minimization algorithm for multi-agent imperfect-information games; Brown is senior author.",
+    "zh": "DREAM 算法，面向多智能体不完美信息博弈的无模型深度遗憾最小化方法，Brown 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-12-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Improving Policies via Search in Cooperative Partially Observable Games",
+    "zh": "Improving Policies via Search in Cooperative Partially Observable Games"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1912.02318v1",
+   "note": {
+    "en": "Brings search to cooperative partially observable games such as Hanabi; Brown is senior author.",
+    "zh": "把搜索引入 Hanabi 这类合作型部分可观测博弈，Brown 为通讯作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-02-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Stable-Predictive Optimistic Counterfactual Regret Minimization",
+    "zh": "Stable-Predictive Optimistic Counterfactual Regret Minimization"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1902.04982v1",
+   "note": {
+    "en": "First CFR variant with a near-optimal convergence rate; Brown is a co-author.",
+    "zh": "首个具备近最优收敛速率的 CFR 变体，Brown 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-11-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Deep Counterfactual Regret Minimization",
+    "zh": "Deep Counterfactual Regret Minimization"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1811.00164v3",
+   "note": {
+    "en": "Deep CFR, the neural version of counterfactual regret minimization that removed the need for hand-crafted abstractions; Brown is first author.",
+    "zh": "Deep CFR 用神经网络实现反事实遗憾最小化，摆脱了人工抽象设计，Brown 为第一作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-09-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Solving Imperfect-Information Games via Discounted Regret Minimization",
+    "zh": "Solving Imperfect-Information Games via Discounted Regret Minimization"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1809.04040v3",
+   "note": {
+    "en": "Discounted CFR, which sharply speeds up equilibrium finding and was used in the Pluribus poker bot; Brown is first author.",
+    "zh": "折扣式 CFR 大幅加快均衡求解，并被扑克 AI Pluribus 采用，Brown 为第一作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-05-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Depth-Limited Solving for Imperfect-Information Games",
+    "zh": "Depth-Limited Solving for Imperfect-Information Games"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1805.08195v1",
+   "note": {
+    "en": "Depth-limited search for imperfect-information games, the technique that let a laptop-scale poker bot beat professionals; Brown is first author.",
+    "zh": "面向不完美信息博弈的有限深度搜索，使笔记本级扑克 AI 也能击败职业选手，Brown 为第一作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2017-05-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Safe and Nested Subgame Solving for Imperfect-Information Games",
+    "zh": "Safe and Nested Subgame Solving for Imperfect-Information Games"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1705.02955v3",
+   "note": {
+    "en": "Safe and nested subgame solving, the core technique behind Libratus, the first bot to beat top humans at heads-up no-limit poker; Brown is first author.",
+    "zh": "安全嵌套子博弈求解，是首个在单挑无限注扑克中击败顶尖人类的 Libratus 的核心技术，Brown 为第一作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2016-09-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Reduced Space and Faster Convergence in Imperfect-Information Games via Regret-Based Pruning",
+    "zh": "Reduced Space and Faster Convergence in Imperfect-Information Games via Regret-Based Pruning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1609.03234v1",
+   "note": {
+    "en": "Regret-based pruning, which cuts the memory and time cost of CFR in large imperfect-information games; Brown is first author.",
+    "zh": "基于遗憾的剪枝方法，降低 CFR 在大规模不完美信息博弈中的内存与时间开销，Brown 为第一作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-09-19",
+   "ts": "2026-09-19T12:04:15Z",
+   "level": "major",
+   "title": {
+    "en": "OpenAI's Noam Brown reveals how AI agents solved a Millennium Prize Problem in 88 hours",
+    "zh": "OpenAI's Noam Brown reveals how AI agents solved a Millennium Prize Problem in 88 hours"
+   },
+   "body": {
+    "en": "Noam Brown detailed how a swarm of roughly 10,000 OpenAI agents worked 88 hours to claim a solution to the Navier-Stokes Millennium Prize problem, while cautioning that multi-agent coordination accounted for less than 10% of the breakthrough versus human research judgment.",
+    "zh": "诺姆·布朗披露OpenAI约1万个智能体协同工作88小时，声称解决了纳维-斯托克斯千禧年大奖难题，但他也提醒多智能体协作仅贡献了不到10%的突破，其余靠人类的研究判断力。"
+   },
+   "source": "Crypto Briefing",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfYUtOOWR0am1hRmtTRDdfZTd3MXBLUHJCU0dOWlN3bkpzVHYzT2NxeVBwUlQ1TlNybEMtR2JUYzFWclRxbVJacVYzRUJwRWpjdmVkWkhHNzVGOUs1ejBnWDM3RnlHVWs0WXBr?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-19",
+   "ts": "2026-09-19T18:06:00Z",
+   "level": "notable",
+   "title": {
+    "en": "OpenAI's Noam Brown Says Even Air-Gapped Systems May Not Contain Advanced AI",
+    "zh": "OpenAI's Noam Brown Says Even Air-Gapped Systems May Not Contain Advanced AI"
+   },
+   "body": {
+    "en": "Brown warned that even air-gapped systems may not be enough to contain sufficiently advanced AI.",
+    "zh": "布朗警告称，即使是物理隔离的系统，也未必能够遏制足够先进的AI。"
+   },
+   "source": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBReDRzVjc5UUhYY1FNTFpVdlJ5aGIwUjFmZ09HWGZFazRxSVhJRi03blR3ZEVFSW9KdGxGSHptR0tJbFZrSjQ0eURQUzJHbFRJY3I1Q2xwd3VvcHhERGdOTGt1cGRqY2NGRTFHQVo1Yk94eVloTUE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T17:08:00Z",
+   "level": "notable",
+   "title": {
+    "en": "OpenAI's Noam Brown Says Recursive AI Improvement Faces a 3x Speed Limit — Not an Overnight Explosion",
+    "zh": "OpenAI's Noam Brown Says Recursive AI Improvement Faces a 3x Speed Limit — Not an Overnight Explosion"
+   },
+   "body": {
+    "en": "Noam Brown said recursive AI self-improvement faces roughly a 3x speed limit rather than an overnight explosion.",
+    "zh": "Noam Brown表示，递归式AI自我改进面临约3倍的速度上限，而非一夜爆发式提升。"
+   },
+   "source": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xVzJXbTZJenhCV0xrc0xHWVNNLXdMUWg2R0ZrNXdtaGdwQ3R6U3ZZUVVjUmIxanpXLWhscmV4SmFKNmhqX3JONUJuRjdpd0JWck9OdHhzRXJMSW8?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T20:11:50Z",
+   "level": "notable",
+   "title": {
+    "en": "OpenAI’s ‘Top Priority’ for AI Agents is Automating AI Research, Says Noam Brown",
+    "zh": "OpenAI’s ‘Top Priority’ for AI Agents is Automating AI Research, Says Noam Brown"
+   },
+   "body": {
+    "en": "Noam Brown said automating AI research is OpenAI's top priority for AI agents, per The Information.",
+    "zh": "据The Information报道，诺姆·布朗表示让AI代理实现AI研究自动化是OpenAI当前的首要任务。"
+   },
+   "source": "The Information",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRGJlSmxNYkE0M292SnJrQUgyV1VlMFNaZmdYQ1NWRHVxMXd2dU1kVHctSmJpa3dOdjVTRGtRSHQ1QkVfU3VkVERkQm9zN1hhVDFPRGdWWXBXLUxkWWhQbElZdjhOUmRoWG9oaDA0UWR3WV9QeGx5OGtULVMxM19NOTR4OHVYbkNFbEVQOVpXUTlJTkZjQ0ZGMjRTWkZaNTJkN2R2MFY1Vk9ucldOTWc?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": true,
+ "was": {
+  "en": "Researcher, OpenAI",
+  "zh": "OpenAI 研究员"
+ },
+ "cat": "lab",
+ "score": {
+  "total": 49.9,
+  "attention": null,
+  "centrality": 68,
+  "momentum": 28,
+  "stature": null,
+  "pageviews": 0,
+  "citations": 2196,
+  "hIndex": 19,
+  "events": 4,
+  "posts": 72,
+  "wikiEn": "Noam Brown",
+  "wikiZh": null
+ },
+ "seedRank": 91,
+ "tier": "t3"
+}

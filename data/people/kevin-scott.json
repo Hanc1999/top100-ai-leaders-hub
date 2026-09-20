@@ -1,0 +1,1117 @@
+{
+ "rank": 54,
+ "id": "kevin-scott",
+ "name": {
+  "en": "Kevin Scott",
+  "zh": "Kevin Scott"
+ },
+ "role": {
+  "en": "CTO & EVP of AI, Microsoft",
+  "zh": "Microsoft CTO 兼 AI 执行副总裁"
+ },
+ "org": "Microsoft",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "Microsoft",
+  "Azure AI",
+  "OpenAI partnership",
+  "Maia"
+ ],
+ "why": {
+  "en": "Designed and landed the compute architecture behind the Microsoft–OpenAI partnership and set the strategy for Azure's AI supercomputers. In 2026 he became a witness in the litigation over that same partnership.",
+  "zh": "设计并落地了微软与 OpenAI 算力合作的架构，制定了 Azure AI 超算的战略。2026 年他成为围绕这同一段合作的诉讼中的证人。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@kevin_scott",
+   "url": "https://x.com/kevin_scott",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — @kevin_scott",
+   "url": "https://medium.com/@kevin_scott",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Behind the Tech podcast",
+   "url": "https://www.microsoft.com/en-us/behind-the-tech",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Microsoft Source",
+   "url": "https://news.microsoft.com/source/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Kevin+Scott",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Kevin+Scott",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Kevin+Scott",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Kevin+Scott&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Kevin+Scott&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Kevin+Scott",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Kevin+Scott&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Kevin+Scott",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Kevin+Scott&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kevin_Scott_(businessman)",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-06-03",
+   "kind": "talk",
+   "title": {
+    "en": "Five observations on where AI's promise has outrun real-world value",
+    "zh": "关于 AI 承诺已跑在真实价值之前的五点观察"
+   },
+   "source": "Build 2026",
+   "url": "https://thelettertwo.com/2026/06/03/kevin-scott-ai-capability-value-microsoft-build",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-08-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Microsoft’s Vision for an Internet Made for Agents With CTO Kevin Scott (Best of the Pod)",
+    "zh": "Microsoft’s Vision for an Internet Made for Agents With CTO Kevin Scott (Best of the Pod)"
+   },
+   "source": "AI & I",
+   "url": "https://podcasts.apple.com/us/podcast/microsofts-vision-for-an-internet-made-for-agents/id1719789201?i=1000782994661&uo=4",
+   "note": {
+    "en": "Interview in which Scott lays out Microsoft's case for an agentic web, where AI agents can take action on a user's behalf.",
+    "zh": "访谈中斯科特阐述了微软对「智能体网络」的构想：让 AI 代理能够代替用户去执行操作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-02-18",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ask Me Anything with Microsoft CTO, Kevin Scott",
+    "zh": "Ask Me Anything with Microsoft CTO, Kevin Scott"
+   },
+   "source": "Behind The Tech with Kevin Scott",
+   "url": "https://podcasts.apple.com/us/podcast/ask-me-anything-with-microsoft-cto-kevin-scott/id1381008946?i=1000693602333&uo=4",
+   "note": {
+    "en": "AMA episode of Scott's own podcast, answering listener questions on how AI affects learning, personal projects and the future of software development.",
+    "zh": "斯科特自己主持的播客《Behind the Tech》的问答特辑，回答听众关于 AI 如何影响学习、个人项目以及软件开发未来的提问。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-01-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I recently had a fascinating, timely discussion with Michele Elam on #BehindTheTech! We explored her journey from humanities to AI, and her work on racial perce",
+    "zh": "I recently had a fascinating, timely discussion with Michele Elam on #BehindTheTech! We explored her journey from humanities to AI, and her work on racial perce"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1882563288828932508",
+   "note": {
+    "en": "Kevin Scott's #BehindtheTech interview with scholar Michele Elam on race, humanities and AI.",
+    "zh": "Kevin Scott在其播客#BehindtheTech上采访学者Michele Elam,探讨种族、人文学科与AI的关系。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-01-21",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Michele Elam, William Robertson Coe Professor in the Humanities; Senior Fellow, Institute for Human-Centered Artificial Intelligence; Bass University Fellow in Undergraduate Education",
+    "zh": "Michele Elam, William Robertson Coe Professor in the Humanities; Senior Fellow, Institute for Human-Centered Artificial Intelligence; Bass University Fellow in Undergraduate Education"
+   },
+   "source": "Behind The Tech with Kevin Scott",
+   "url": "https://podcasts.apple.com/us/podcast/michele-elam-william-robertson-coe-professor-in-the/id1381008946?i=1000684860986&uo=4",
+   "note": {
+    "en": "An episode of Scott's own interview show Behind The Tech, in conversation with Stanford humanities professor and HAI senior fellow Michele Elam on AI and the humanities.",
+    "zh": "Kevin Scott 自己主持的访谈节目《Behind The Tech》一期：对话斯坦福人文教授、HAI 资深研究员 Michele Elam，谈人工智能与人文学科。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-12-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Wrapping up another year on #BehindtheTech! From AI in art with @refikanadol to transforming education with @salkhanacademy, and more. Celebrate 2024's creativi",
+    "zh": "Wrapping up another year on #BehindtheTech! From AI in art with @refikanadol to transforming education with @salkhanacademy, and more. Celebrate 2024's creativi"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1866628025472729123",
+   "note": {
+    "en": "Kevin Scott's 2024 #BehindtheTech year-in-review, spotlighting guests like Refik Anadol and Sal Khan on AI in art and education.",
+    "zh": "Kevin Scott发布2024年#BehindtheTech年度回顾,聚焦Refik Anadol、Sal Khan等嘉宾谈AI在艺术与教育中的应用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-11-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "This episode of #BehindtheTech I’m joined by @refikanadol, a media artist and AI pioneer. We discuss his journey, the impact of AI on art, and his groundbreakin",
+    "zh": "This episode of #BehindtheTech I’m joined by @refikanadol, a media artist and AI pioneer. We discuss his journey, the impact of AI on art, and his groundbreakin"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1856461975640781092",
+   "note": {
+    "en": "Kevin Scott interviews media artist Refik Anadol on AI's impact on art for #BehindtheTech.",
+    "zh": "Kevin Scott在#BehindtheTech节目中采访媒体艺术家Refik Anadol,讨论AI对艺术的影响。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-09-09",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ben Laude, Professor of Music (Piano Literature & Aural Skills) at Utah State University",
+    "zh": "Ben Laude, Professor of Music (Piano Literature & Aural Skills) at Utah State University"
+   },
+   "source": "Behind The Tech with Kevin Scott",
+   "url": "https://podcasts.apple.com/us/podcast/ben-laude-professor-of-music-piano-literature-aural/id1381008946?i=1000668891796&uo=4",
+   "note": {
+    "en": "Episode of Scott's own podcast, in conversation with concert pianist and music educator Ben Laude.",
+    "zh": "斯科特自己主持的播客中的一期，与音乐会钢琴家、音乐教育者 Ben Laude 对谈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-09-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "This episode of #BehindtheTech I’m joined by @benlawdy, a concert pianist and music educator. We discuss his journey, the impact of AI on art, and his efforts t",
+    "zh": "This episode of #BehindtheTech I’m joined by @benlawdy, a concert pianist and music educator. We discuss his journey, the impact of AI on art, and his efforts t"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1833219043320352862",
+   "note": {
+    "en": "Kevin Scott interviews concert pianist Ben Lawdy on AI and music education for #BehindtheTech.",
+    "zh": "Kevin Scott在#BehindtheTech中采访音乐会钢琴家Ben Lawdy,谈AI与音乐教育。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-07-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I’m excited to join the Board of Directors of @Shopify! Take a listen to my conversation with @tobi that gets at some of the reasons why I’m so thrilled to be a",
+    "zh": "I’m excited to join the Board of Directors of @Shopify! Take a listen to my conversation with @tobi that gets at some of the reasons why I’m so thrilled to be a"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1813315708438053282",
+   "note": {
+    "en": "Kevin Scott announces he is joining Shopify's Board of Directors, alongside a #BehindtheTech conversation with CEO Tobi Lütke.",
+    "zh": "Kevin Scott宣布加入Shopify董事会,并在#BehindtheTech中与CEO Tobi Lütke对谈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-07-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "This episode of #BehindtheTech I’m joined by @salkhanacademy, the founder &amp; CEO of Khan Academy. We discuss Sal's vision to leverage AI to revolutionize edu",
+    "zh": "This episode of #BehindtheTech I’m joined by @salkhanacademy, the founder &amp; CEO of Khan Academy. We discuss Sal's vision to leverage AI to revolutionize edu"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1810719374161871086",
+   "note": {
+    "en": "Kevin Scott interviews Khan Academy founder Sal Khan on using AI (Khanmigo) to transform education.",
+    "zh": "Kevin Scott采访可汗学院创始人Sal Khan,讨论用AI(Khanmigo)变革教育。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-06-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Today on #BehindtheTech I talk with @emollick , associate professor @Wharton and author of the popular Substack “One Useful Thing” and NYT bestseller “Co-Intell",
+    "zh": "Today on #BehindtheTech I talk with @emollick , associate professor @Wharton and author of the popular Substack “One Useful Thing” and NYT bestseller “Co-Intell"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1800576560480555271",
+   "note": {
+    "en": "Kevin Scott interviews Wharton's Ethan Mollick, author of 'Co-Intelligence,' on how AI can help people at work.",
+    "zh": "Kevin Scott采访沃顿商学院教授、《Co-Intelligence》作者Ethan Mollick,谈AI如何帮助人们工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-05-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "It was a pleasure to have @salkhanacademy join me at #MSBuild. I am amazed by the ways AI has already transformed education, and I'm excited to continue innovat",
+    "zh": "It was a pleasure to have @salkhanacademy join me at #MSBuild. I am amazed by the ways AI has already transformed education, and I'm excited to continue innovat"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1793002914467745951",
+   "note": {
+    "en": "Kevin Scott hosts Sal Khan at Microsoft Build, discussing AI's transformation of education.",
+    "zh": "Kevin Scott在Microsoft Build大会上与Sal Khan对谈,讨论AI对教育的变革。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-05-14",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Mike Volpi, Partner at Index Ventures",
+    "zh": "Mike Volpi, Partner at Index Ventures"
+   },
+   "source": "Behind The Tech with Kevin Scott",
+   "url": "https://podcasts.apple.com/us/podcast/mike-volpi-partner-at-index-ventures/id1381008946?i=1000655557456&uo=4",
+   "note": {
+    "en": "On his own podcast, Kevin Scott interviewed Index Ventures partner Mike Volpi about venture investing and enterprise tech.",
+    "zh": "在自己主持的播客节目中，Kevin Scott采访了Index Ventures合伙人Mike Volpi，探讨风险投资与企业科技话题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-04-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "This episode of #BehindtheTech I’m joined by @schrep, climate venture capitalist and partner @gigascale. Formerly CTO of Facebook, today he’s focused on address",
+    "zh": "This episode of #BehindtheTech I’m joined by @schrep, climate venture capitalist and partner @gigascale. Formerly CTO of Facebook, today he’s focused on address"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1775316335439802643",
+   "note": {
+    "en": "Kevin Scott interviews former Facebook CTO Mike Schroepfer, now a climate-tech investor, on fusion energy for #BehindtheTech.",
+    "zh": "Kevin Scott在#BehindtheTech中采访前Facebook CTO、现气候科技投资人Mike Schroepfer,谈聚变能源。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-02-27",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Xyla Foxlin, Engineer and YouTube Creator",
+    "zh": "Xyla Foxlin, Engineer and YouTube Creator"
+   },
+   "source": "Behind The Tech with Kevin Scott",
+   "url": "https://podcasts.apple.com/us/podcast/xyla-foxlin-engineer-and-youtube-creator/id1381008946?i=1000647223884&uo=4",
+   "note": {
+    "en": "Episode of Scott's own podcast, interviewing engineer and YouTube maker Xyla Foxlin about building things from childhood onward.",
+    "zh": "斯科特自己主持的播客中的一期，采访工程师、YouTube 创作者 Xyla Foxlin，谈她从童年起的动手创造经历。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-02-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Thrilled to be joined on #BehindtheTech by engineer and YouTuber @XylaFoxlin, who shares her passion for making things born from a childhood love of art and cre",
+    "zh": "Thrilled to be joined on #BehindtheTech by engineer and YouTuber @XylaFoxlin, who shares her passion for making things born from a childhood love of art and cre"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1762613316034121780",
+   "note": {
+    "en": "Kevin Scott interviews engineer and YouTuber Xyla Foxlin on hands-on making and creativity.",
+    "zh": "Kevin Scott采访工程师兼YouTuber Xyla Foxlin,谈动手实践与创造力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-01-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We’re kicking off the New Year on #BehindtheTech with a wide-ranging conversation with @LisaSu, Chair and CEO of @AMD, from her upbringing and early interest in",
+    "zh": "We’re kicking off the New Year on #BehindtheTech with a wide-ranging conversation with @LisaSu, Chair and CEO of @AMD, from her upbringing and early interest in"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1744769497267929467",
+   "note": {
+    "en": "Kevin Scott opens 2024 with a wide-ranging #BehindtheTech conversation with AMD Chair and CEO Lisa Su.",
+    "zh": "Kevin Scott在2024年首期#BehindtheTech中与AMD董事长兼CEO苏姿丰(Lisa Su)展开广泛对话。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-12-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "This #BehindtheTech revisits some of 2023’s thought-provoking conversations with guests like Bill Gates, Neil deGrasse Tyson, OpenAI’s Mira Murati, and others —",
+    "zh": "This #BehindtheTech revisits some of 2023’s thought-provoking conversations with guests like Bill Gates, Neil deGrasse Tyson, OpenAI’s Mira Murati, and others —"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1737266283815584032",
+   "note": {
+    "en": "Kevin Scott's 2023 #BehindtheTech recap revisits conversations with Bill Gates, Neil deGrasse Tyson and OpenAI's Mira Murati.",
+    "zh": "Kevin Scott的2023年#BehindtheTech回顾重温了与比尔·盖茨、尼尔·德格拉斯·泰森及OpenAI的Mira Murati的对话。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-12-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "And our work on Medprompt (including promptbase on GitHub) steers frontier models to better performance— achieving the highest score ever reported on the MMLU c",
+    "zh": "And our work on Medprompt (including promptbase on GitHub) steers frontier models to better performance— achieving the highest score ever reported on the MMLU c"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1735801591767187798",
+   "note": {
+    "en": "Kevin Scott announces Microsoft's Medprompt technique achieved the highest reported MMLU score at the time.",
+    "zh": "Kevin Scott宣布微软的Medprompt技术当时取得了MMLU基准测试的最高分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-12-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I'm immensely proud of the work that my colleagues in Microsoft Research showcased at this week’s NeurIPS Conference regarding foundation models of all sizes, i",
+    "zh": "I'm immensely proud of the work that my colleagues in Microsoft Research showcased at this week’s NeurIPS Conference regarding foundation models of all sizes, i"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1735801183489450476",
+   "note": {
+    "en": "Kevin Scott highlights Microsoft Research's NeurIPS work, including the Phi-2 small foundation model.",
+    "zh": "Kevin Scott介绍微软研究院在NeurIPS上展示的成果,包括小型基础模型Phi-2。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-11-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "To my partners at OpenAI: We have seen your petition and appreciate your desire potentially to join Sam Altman at Microsoft’s new AI Research Lab. Know that if",
+    "zh": "To my partners at OpenAI: We have seen your petition and appreciate your desire potentially to join Sam Altman at Microsoft’s new AI Research Lab. Know that if"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1726971608706031670",
+   "note": {
+    "en": "During the November 2023 OpenAI board crisis, Kevin Scott publicly tells OpenAI staff Microsoft would welcome them if they moved to join Sam Altman.",
+    "zh": "在2023年11月OpenAI董事会危机期间,Kevin Scott公开表示如果员工愿意加入萨姆·奥特曼,微软欢迎他们。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-11-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Wanted to take a moment to say to all of the unbelievably talented folks at Open AI I've had the privilege of working with for years: we're going to continue su",
+    "zh": "Wanted to take a moment to say to all of the unbelievably talented folks at Open AI I've had the privilege of working with for years: we're going to continue su"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1726628730792190074",
+   "note": {
+    "en": "Kevin Scott reassures OpenAI staff that Microsoft will continue supporting them amid the leadership crisis.",
+    "zh": "Kevin Scott在OpenAI领导层危机期间向员工保证微软将继续支持他们。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-11-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Enjoyed having @dkirtley, who's developing breakthroughs in sustainable energy, on #BehindTheTech. We covered a lot, including Helion's approach to fusion and t",
+    "zh": "Enjoyed having @dkirtley, who's developing breakthroughs in sustainable energy, on #BehindTheTech. We covered a lot, including Helion's approach to fusion and t"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1724542872433684871",
+   "note": {
+    "en": "Kevin Scott interviews Helion's David Kirtley on fusion energy breakthroughs for #BehindtheTech.",
+    "zh": "Kevin Scott在#BehindtheTech中采访Helion的David Kirtley,谈聚变能源突破。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-11-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Incredibly proud to see my colleague @gvanrossum be honored for developing the Python programming language. Today, it’s one of the most popular programming lang",
+    "zh": "Incredibly proud to see my colleague @gvanrossum be honored for developing the Python programming language. Today, it’s one of the most popular programming lang"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1722652669318152640",
+   "note": {
+    "en": "Kevin Scott congratulates colleague Guido van Rossum on being honored for creating Python.",
+    "zh": "Kevin Scott祝贺同事吉多·范罗苏姆(Guido van Rossum)因创造Python语言而获得表彰。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-10-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": ".@LeapToTech was my first Technical Advisor at Microsoft, and I learned so much from him. We recently caught up on #BehindTheTech and discussed his early tech v",
+    "zh": ".@LeapToTech was my first Technical Advisor at Microsoft, and I learned so much from him. We recently caught up on #BehindTheTech and discussed his early tech v"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1716861519013568971",
+   "note": {
+    "en": "Kevin Scott revisits a #BehindtheTech conversation with his first Technical Advisor at Microsoft.",
+    "zh": "Kevin Scott在#BehindtheTech中回顾与他在微软的第一位技术顾问的对话。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-09-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "In my opinion, @kevinroose is one of the more thoughtful folks in the media who are currently covering the incredibly hot topic of AI. I was excited to have him",
+    "zh": "In my opinion, @kevinroose is one of the more thoughtful folks in the media who are currently covering the incredibly hot topic of AI. I was excited to have him"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1704181074446696874",
+   "note": {
+    "en": "Kevin Scott interviews NYT tech columnist Kevin Roose on AI coverage for #BehindtheTech.",
+    "zh": "Kevin Scott在#BehindtheTech中采访《纽约时报》科技专栏作家Kevin Roose,谈AI报道。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-08-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The @codeorg team just shared some great new resources for educators wanting to better understand AI and to incorporate it into their teaching. This is great st",
+    "zh": "The @codeorg team just shared some great new resources for educators wanting to better understand AI and to incorporate it into their teaching. This is great st"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1691498200606060545",
+   "note": {
+    "en": "Kevin Scott highlights new Code.org resources for educators to teach AI.",
+    "zh": "Kevin Scott推荐Code.org为教育者提供的新版AI教学资源。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-08-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "While most well-known as a member of the Black Eyed Peas, @iamwill is also a tech entrepreneur, and it was a pleasure to have him on #BehindTheTech to discuss h",
+    "zh": "While most well-known as a member of the Black Eyed Peas, @iamwill is also a tech entrepreneur, and it was a pleasure to have him on #BehindTheTech to discuss h"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1686477226928189440",
+   "note": {
+    "en": "Kevin Scott interviews will.i.am on his work as a tech entrepreneur for #BehindtheTech.",
+    "zh": "Kevin Scott在#BehindtheTech中采访will.i.am,谈其科技创业经历。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-07-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Today, we’re delighted to see Meta release the second version of their large language model LLaMA, which will join the Azure Model catalog, and alongside other",
+    "zh": "Today, we’re delighted to see Meta release the second version of their large language model LLaMA, which will join the Azure Model catalog, and alongside other"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1681391657906782209",
+   "note": {
+    "en": "Kevin Scott welcomes Meta's LLaMA 2 release, noting it will join the Azure AI model catalog.",
+    "zh": "Kevin Scott欢迎Meta发布LLaMA 2,并表示该模型将加入Azure AI模型目录。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-07-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I’ve had the pleasure of working with @OpenAI CTO @miramurati for a few years now, but we’ve rarely had time to catch up about our backgrounds. Take a listen to",
+    "zh": "I’ve had the pleasure of working with @OpenAI CTO @miramurati for a few years now, but we’ve rarely had time to catch up about our backgrounds. Take a listen to"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1678808512191660053",
+   "note": {
+    "en": "Kevin Scott interviews OpenAI CTO Mira Murati about her background for #BehindtheTech.",
+    "zh": "Kevin Scott在#BehindtheTech中采访OpenAI CTO Mira Murati,谈她的成长经历。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-06-10",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "(IHP) Microsoft CTO Kevin Scott",
+    "zh": "(IHP) Microsoft CTO Kevin Scott"
+   },
+   "source": "Tech Brew Ride Home",
+   "url": "https://podcasts.apple.com/us/podcast/ihp-microsoft-cto-kevin-scott/id1355212895?i=1000616427793&uo=4",
+   "note": {
+    "en": "Career-spanning interview with Scott, covering his academic start, rebuilding Google's ads engineering, and the path to Microsoft CTO.",
+    "zh": "一期回顾斯科特职业生涯的访谈，涵盖他的学术起点、在谷歌重整广告工程系统，以及成为微软 CTO 的历程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-05-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Some really great work from my colleague @erichorvitz on how modern AI technologies can be used to make advancements in disciplines whose progress benefits all",
+    "zh": "Some really great work from my colleague @erichorvitz on how modern AI technologies can be used to make advancements in disciplines whose progress benefits all"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1663657294859567105",
+   "note": {
+    "en": "Kevin Scott spotlights colleague Eric Horvitz's work applying AI to advance scientific disciplines.",
+    "zh": "Kevin Scott介绍同事Eric Horvitz运用AI推动多学科科学进步的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-05-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Excited to share the latest episode of #BehindtheTech with @neiltyson. During our conversation we discuss Neil's interest in the sciences and innate curiosity,",
+    "zh": "Excited to share the latest episode of #BehindtheTech with @neiltyson. During our conversation we discuss Neil's interest in the sciences and innate curiosity,"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1661794102709559297",
+   "note": {
+    "en": "Kevin Scott interviews astrophysicist Neil deGrasse Tyson for #BehindtheTech.",
+    "zh": "Kevin Scott在#BehindtheTech中采访天体物理学家尼尔·德格拉斯·泰森。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-05-23",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Microsoft CTO Kevin Scott on AI copilots, disagreeing with OpenAI, and Sydney making a comeback",
+    "zh": "Microsoft CTO Kevin Scott on AI copilots, disagreeing with OpenAI, and Sydney making a comeback"
+   },
+   "source": "Decoder with Nilay Patel",
+   "url": "https://podcasts.apple.com/us/podcast/microsoft-cto-kevin-scott-on-ai-copilots-disagreeing/id1011668648?i=1000614164485&uo=4",
+   "note": {
+    "en": "Decoder interview recorded ahead of Microsoft Build, in which Scott discusses AI copilots and where Microsoft's view diverges from OpenAI's.",
+    "zh": "在微软 Build 大会前录制的 Decoder 访谈，斯科特谈 AI copilot，以及微软与 OpenAI 意见相左之处。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-05-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I ran too long during my keynote at #MSBuild and couldn’t share this wonderful video on the big screen. I believe wholeheartedly that if we can put AI tools int",
+    "zh": "I ran too long during my keynote at #MSBuild and couldn’t share this wonderful video on the big screen. I believe wholeheartedly that if we can put AI tools int"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1661124639265902593",
+   "note": {
+    "en": "Kevin Scott shares a keynote message from Microsoft Build on putting AI tools in more people's hands.",
+    "zh": "Kevin Scott分享在Microsoft Build主题演讲中关于让更多人用上AI工具的观点。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-05-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Adrian, @aptshadow, has quickly become one of my favorite sci-fi authors. Check out our conversation on #BehindtheTech, where we discussed his upbringing and ho",
+    "zh": "Adrian, @aptshadow, has quickly become one of my favorite sci-fi authors. Check out our conversation on #BehindtheTech, where we discussed his upbringing and ho"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1655980239321694221",
+   "note": {
+    "en": "Kevin Scott interviews a science-fiction author on his career and creative process for #BehindtheTech.",
+    "zh": "Kevin Scott在#BehindtheTech中采访一位科幻作家,谈其创作生涯与写作方式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-03-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "As we enter a unique moment in the history of computing, I couldn’t think of anyone better to reflect on the AI revolution than @BillGates. During our conversat",
+    "zh": "As we enter a unique moment in the history of computing, I couldn’t think of anyone better to reflect on the AI revolution than @BillGates. During our conversat"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1638268193163685889",
+   "note": {
+    "en": "Kevin Scott interviews Bill Gates to reflect on the AI revolution for #BehindtheTech.",
+    "zh": "Kevin Scott在#BehindtheTech中采访比尔·盖茨,共同回顾AI革命。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-02-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I had the pleasure of having @kaliouby on #BehindTheTech. We had a fascinating conversation covering her upbringing, how she got into tech, her experience as an",
+    "zh": "I had the pleasure of having @kaliouby on #BehindTheTech. We had a fascinating conversation covering her upbringing, how she got into tech, her experience as an"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1625555473427570688",
+   "note": {
+    "en": "Kevin Scott interviews entrepreneur Rana el Kaliouby on her career in tech for #BehindtheTech.",
+    "zh": "Kevin Scott在#BehindtheTech中采访企业家拉娜·卡柳比(Rana el Kaliouby),谈她的科技创业历程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-01-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Really excited to continue our work with OpenAI, and grateful for the partnership and collaboration over these past 4+ years.",
+    "zh": "Really excited to continue our work with OpenAI, and grateful for the partnership and collaboration over these past 4+ years."
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1617595992957648923",
+   "note": {
+    "en": "Kevin Scott expresses excitement to continue Microsoft's partnership with OpenAI after four-plus years.",
+    "zh": "Kevin Scott表示对延续微软与OpenAI四年多合作关系感到振奋。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-01-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I am really excited to see some of our most advanced AI capabilities launching in the Azure OpenAI Service, with more good stuff coming soon!",
+    "zh": "I am really excited to see some of our most advanced AI capabilities launching in the Azure OpenAI Service, with more good stuff coming soon!"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1615409952750768132",
+   "note": {
+    "en": "Kevin Scott announces new advanced AI capabilities launching in the Azure OpenAI Service.",
+    "zh": "Kevin Scott宣布Azure OpenAI服务将推出更先进的AI能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-01-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "@shopify founder and CEO @tobi is unique amongst his peers, considering himself a programmer and craftsperson more than a tech exec, a leadership approach that",
+    "zh": "@shopify founder and CEO @tobi is unique amongst his peers, considering himself a programmer and craftsperson more than a tech exec, a leadership approach that"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1610339413443092486",
+   "note": {
+    "en": "Kevin Scott interviews Shopify founder and CEO Tobi Lütke on his approach to leadership for #BehindtheTech.",
+    "zh": "Kevin Scott在#BehindtheTech中采访Shopify创始人兼CEO Tobi Lütke,谈他的领导理念。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2022-12-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "As 2022 winds down, we're revisiting some of the year’s best conversations with the makers, engineers, sci-fi authors, and tech leaders we had the pleasure of s",
+    "zh": "As 2022 winds down, we're revisiting some of the year’s best conversations with the makers, engineers, sci-fi authors, and tech leaders we had the pleasure of s"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1605244585466265600",
+   "note": {
+    "en": "Kevin Scott's 2022 #BehindtheTech year-end recap revisits conversations with makers, engineers and tech leaders.",
+    "zh": "Kevin Scott的2022年#BehindtheTech年度回顾重温了与创客、工程师和科技领袖的对话。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2022-12-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I recently had the pleasure to discuss what’s just over the horizon regarding the large language model-powered AI systems that are going to positively impact ho",
+    "zh": "I recently had the pleasure to discuss what’s just over the horizon regarding the large language model-powered AI systems that are going to positively impact ho"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1600189067559305227",
+   "note": {
+    "en": "Kevin Scott discusses how large language model-powered AI systems will impact daily life and work.",
+    "zh": "Kevin Scott探讨大语言模型驱动的AI系统将如何影响人们的生活与工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2022-12-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Advice for folks trying to peer into the future of LLMs: pay attention to what is getting better. These LLMs certainly aren't perfect. But they're getting bette",
+    "zh": "Advice for folks trying to peer into the future of LLMs: pay attention to what is getting better. These LLMs certainly aren't perfect. But they're getting bette"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1598796942661718017",
+   "note": {
+    "en": "Kevin Scott shares his view on tracking LLM progress, arguing they are imperfect but improving fast.",
+    "zh": "Kevin Scott分享其对大语言模型发展的看法,认为它们虽不完美但进步迅速。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2022-11-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Exciting news announced at Github Universe this week—it’s amazing to witness all the different ways developers are using Copilot, and I can’t wait to see the im",
+    "zh": "Exciting news announced at Github Universe this week—it’s amazing to witness all the different ways developers are using Copilot, and I can’t wait to see the im"
+   },
+   "source": "@kevin_scott",
+   "url": "https://x.com/kevin_scott/status/1590775199771013121",
+   "note": {
+    "en": "Kevin Scott celebrates developer adoption of GitHub Copilot at GitHub Universe.",
+    "zh": "Kevin Scott在GitHub Universe大会上称赞开发者对GitHub Copilot的采用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2022-07-05",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Simone Giertz: Inventor, entrepreneur & robotics enthusiast",
+    "zh": "Simone Giertz: Inventor, entrepreneur & robotics enthusiast"
+   },
+   "source": "Behind The Tech with Kevin Scott",
+   "url": "https://podcasts.apple.com/us/podcast/simone-giertz-inventor-entrepreneur-robotics-enthusiast/id1381008946?i=1000568814817&uo=4",
+   "note": {
+    "en": "Kevin Scott hosts inventor and YouTuber Simone Giertz on his own podcast, Behind The Tech, for a conversation about her hardware inventions and creative process.",
+    "zh": "Kevin Scott在自己的播客Behind The Tech中邀请发明家兼YouTuber Simone Giertz，畅谈她的硬件发明与创作过程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2020-09-22",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Charles Stross: Award-winning sci-fi author",
+    "zh": "Charles Stross: Award-winning sci-fi author"
+   },
+   "source": "Behind The Tech with Kevin Scott",
+   "url": "https://podcasts.apple.com/us/podcast/charles-stross-award-winning-sci-fi-author/id1381008946?i=1000492184683&uo=4",
+   "note": {
+    "en": "Episode of Scott's own podcast, a wide-ranging conversation with science-fiction author Charles Stross on how sci-fi draws people into science and engineering.",
+    "zh": "斯科特自己主持的播客中的一期，与科幻作家 Charles Stross 展开广泛对谈，谈科幻如何把人引向科学与工程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2019-09-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Neha Narkhede: Author, entrepreneur and Confluent cofounder",
+    "zh": "Neha Narkhede: Author, entrepreneur and Confluent cofounder"
+   },
+   "source": "Behind The Tech with Kevin Scott",
+   "url": "https://podcasts.apple.com/us/podcast/neha-narkhede-author-entrepreneur-and-confluent/id1381008946?i=1000451421685&uo=4",
+   "note": {
+    "en": "Episode of Scott's own podcast, interviewing Confluent cofounder Neha Narkhede on Apache Kafka and modern streaming infrastructure.",
+    "zh": "斯科特自己主持的播客中的一期，采访 Confluent 联合创始人 Neha Narkhede，谈 Apache Kafka 与现代流式基础设施。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2019-08-01",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Kevin Scott: Microsoft CTO",
+    "zh": "Kevin Scott: Microsoft CTO"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/kevin-scott-microsoft-cto/id1434243584?i=1000445897587&uo=4",
+   "note": {
+    "en": "Long-form Lex Fridman interview with Scott on his path from Google mobile ads to LinkedIn engineering to the Microsoft CTO role.",
+    "zh": "Lex Fridman 对斯科特的长篇访谈，谈他从谷歌移动广告、领英工程负责人到微软 CTO 的一路经历。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2014-03-10",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "The Best Advice I Ever Received",
+    "zh": "The Best Advice I Ever Received"
+   },
+   "source": "Stories by Kevin Scott on Medium",
+   "url": "https://medium.com/@kevin_scott/the-best-advice-i-ever-received-975748f01ae2?source=rss-e674bbd95e0------2",
+   "note": {
+    "en": "Short personal essay on his own Medium account about the one piece of advice his PhD advisor repeated at the end of every meeting.",
+    "zh": "他在自己的 Medium 账号上写的一篇短文，讲述读博期间导师在每次会面结束时都会重复的那句建议。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-05-01",
+   "level": "notable",
+   "title": {
+    "en": "Testifies about the email at the heart of Musk's allegations against Microsoft",
+    "zh": "就 Musk 对微软指控核心的内部邮件出庭作证"
+   },
+   "body": {
+    "en": "Musk's lawyers cited it to argue Microsoft knew OpenAI was abandoning its nonprofit mission before investing.",
+    "zh": "Musk 的律师引用该邮件主张微软在投资前已知 OpenAI 正在背离其非营利使命。"
+   },
+   "source": "GeekWire",
+   "url": "https://www.geekwire.com/2026/microsofts-cto-testifies-about-email-at-the-heart-of-elon-musks-allegations-against-tech-giant/"
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "platform",
+ "score": {
+  "total": 44.3,
+  "attention": null,
+  "centrality": 75,
+  "momentum": 4,
+  "stature": 53,
+  "pageviews": 0,
+  "citations": 38763,
+  "hIndex": 96,
+  "events": 1,
+  "posts": 51,
+  "wikiEn": "Kevin Scott (businessman)",
+  "wikiZh": null
+ },
+ "seedRank": 26,
+ "tier": "t4"
+}

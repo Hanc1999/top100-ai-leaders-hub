@@ -1,0 +1,1438 @@
+{
+ "rank": 80,
+ "id": "denny-zhou",
+ "name": {
+  "en": "Denny Zhou",
+  "zh": "周登勇"
+ },
+ "role": {
+  "en": "Meta Superintelligence Labs",
+  "zh": "Meta 超级智能实验室"
+ },
+ "org": "Meta",
+ "region": {
+  "en": "United States / China",
+  "zh": "美国/中国"
+ },
+ "tags": [
+  "Meta MSL",
+  "Least-to-Most",
+  "Self-Consistency",
+  "Reasoning",
+  "Google Brain"
+ ],
+ "why": {
+  "en": "Founded and led the reasoning research group inside Google Brain in 2021 — the team that produced the techniques now embedded in every major model. Author of Least-to-Most prompting and Self-Consistency. Moved quietly to Meta.",
+  "zh": "2021 年在 Google Brain 创立并领导推理研究组 —— 这个团队产出的技术如今嵌入在每一个主要模型里。由简至繁提示 Least-to-Most 与自一致性 Self-Consistency 的作者。已低调转投 Meta。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@denny_zhou",
+   "url": "https://x.com/denny_zhou",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "dennyzhou.github.io",
+   "url": "https://dennyzhou.github.io/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "LLM Reasoning lecture (PDF)",
+   "url": "https://dennyzhou.github.io/LLMs-Reason-Lecture.pdf",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @dennyzhou",
+   "url": "https://github.com/dennyzhou",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "Meta AI Research",
+   "url": "https://ai.meta.com/research/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Denny+Zhou",
+   "t": 3
+  },
+  {
+   "kind": "weibo",
+   "label": "微博 — 搜索",
+   "url": "https://s.weibo.com/user?q=%E5%91%A8%E7%99%BB%E5%8B%87",
+   "t": 3
+  },
+  {
+   "kind": "zhihu",
+   "label": "知乎 — 搜索",
+   "url": "https://www.zhihu.com/search?type=people&q=%E5%91%A8%E7%99%BB%E5%8B%87",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "微信公众号 — 搜索",
+   "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%91%A8%E7%99%BB%E5%8B%87",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "B 站 — 搜索",
+   "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E7%99%BB%E5%8B%87",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Denny+Zhou",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Denny+Zhou",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Denny+Zhou&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Denny+Zhou&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=%E5%91%A8%E7%99%BB%E5%8B%87",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Denny+Zhou",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?user=UwLsYw8AAAAJ&hl=en",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Denny+Zhou",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Denny+Zhou",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Denny+Zhou",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Denny+Zhou",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Denny+Zhou",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ACL Anthology",
+   "url": "https://aclanthology.org/search/?q=Denny+Zhou",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Denny+Zhou&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "中文报道 — 最新",
+   "url": "https://www.google.com/search?q=%E5%91%A8%E7%99%BB%E5%8B%87+AI&tbm=nws&hl=zh-CN",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2025-07-01",
+   "kind": "talk",
+   "title": {
+    "en": "LLM Reasoning — Stanford CS25 lecture",
+    "zh": "LLM 推理 —— 斯坦福 CS25 讲座"
+   },
+   "source": "dennyzhou.github.io",
+   "url": "https://dennyzhou.github.io/LLMs-Reason-Lecture.pdf",
+   "note": {
+    "en": "'Reasoning in LLMs simply means generating a sequence of intermediate tokens before the final answer. Whether it resembles human reasoning is irrelevant.'",
+    "zh": "「大模型中的推理就是在给出最终答案前生成一串中间 token。它是否像人类推理并不重要。」"
+   }
+  },
+  {
+   "date": "2022-05-21",
+   "kind": "paper",
+   "title": {
+    "en": "Least-to-Most prompting enables complex reasoning in LLMs",
+    "zh": "由简至繁提示使大模型具备复杂推理能力"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2205.10625",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2022-03-21",
+   "kind": "paper",
+   "title": {
+    "en": "Self-Consistency improves chain-of-thought reasoning",
+    "zh": "自一致性改进思维链推理"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2203.11171",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T18:20:15Z",
+   "kind": "x",
+   "title": {
+    "en": "It’s time for arXiv to charge submission fees. Now NeurIPS, ICML, and ICLR are moving in that direction. Why not arXiv? I proposed submission fees back in 2024",
+    "zh": "It’s time for arXiv to charge submission fees. Now NeurIPS, ICML, and ICLR are moving in that direction. Why not arXiv? I proposed submission fees back in 2024"
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/2099563896923455489",
+   "note": {
+    "en": "Argues arXiv should start charging submission fees, noting he proposed this back in 2024 as NeurIPS, ICML and ICLR now move toward fees.",
+    "zh": "他主张arXiv应开始收取投稿费，并指出自己早在2024年就提出过这一建议，如今NeurIPS、ICML、ICLR也在朝收费方向发展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T18:08:12Z",
+   "kind": "x",
+   "title": {
+    "en": "the biggest divide in research today: access to the most capable AI models, and the compute to put them to work https://t.co/ZGhQDprkXJ",
+    "zh": "the biggest divide in research today: access to the most capable AI models, and the compute to put them to work https://t.co/ZGhQDprkXJ"
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/2097748922420830374",
+   "note": {
+    "en": "Zhou argues the real divide in AI research now is unequal access to frontier models and the compute to run them.",
+    "zh": "周登勇指出，当今AI研究领域真正的鸿沟在于能否获得最先进的模型以及运行它们所需的算力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T14:44:19Z",
+   "kind": "x",
+   "title": {
+    "en": "last slide of my talk “teach language models to reason” given at Harvard / Yale/… in 2022/2023: “A model with language understanding and reasoning opens a door",
+    "zh": "last slide of my talk “teach language models to reason” given at Harvard / Yale/… in 2022/2023: “A model with language understanding and reasoning opens a door"
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/2097335226380984800",
+   "note": {
+    "en": "Zhou revisits the closing slide of his 2022/2023 talk 'Teach Language Models to Reason,' on how reasoning opens the door to broader model capability.",
+    "zh": "Zhou回顾了他2022/2023年演讲《教语言模型推理》的结尾幻灯片，探讨推理能力如何为模型打开更广阔的可能性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T15:20:15Z",
+   "kind": "x",
+   "title": {
+    "en": "In today’s language, my early work on least-to-most prompting (2022) was an early agent harness: break a complex task into smaller ones, then repeatedly call an",
+    "zh": "In today’s language, my early work on least-to-most prompting (2022) was an early agent harness: break a complex task into smaller ones, then repeatedly call an"
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/2097344269208125621",
+   "note": {
+    "en": "Zhou reframes his 2022 least-to-most prompting work as an early agent harness that decomposes a task and repeatedly calls an LLM to solve the pieces.",
+    "zh": "Zhou将他2022年提出的“由简至繁”提示方法重新阐释为一种早期的Agent框架：将任务拆解后反复调用LLM逐步求解。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Earlier this year, my daughter told me to join Meta. So I did.",
+    "zh": "Earlier this year, my daughter told me to join Meta. So I did."
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/2095608599917830381",
+   "note": {
+    "en": "Zhou shared that his daughter's encouragement was what prompted him to join Meta.",
+    "zh": "周登勇分享说，是女儿的鼓励促使他加入了Meta。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I left GDM earlier this year and joined Meta TBD to work on Muse Spark from 1.1 to where we are today with 1.3. Really excited about what we’ve achieved so far",
+    "zh": "I left GDM earlier this year and joined Meta TBD to work on Muse Spark from 1.1 to where we are today with 1.3. Really excited about what we’ve achieved so far"
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/2095567820881023089",
+   "note": {
+    "en": "Zhou confirmed he left Google DeepMind earlier in 2026 to join Meta, where he worked on the Muse Spark model from version 1.1 through the 1.3 release.",
+    "zh": "周登勇证实他已于2026年早些时候离开Google DeepMind加入Meta，在那里参与了Muse Spark模型从1.1版到1.3版的研发工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "What fundamentally matters for reasoning is model depth. Loop is just a cheap way to increase depth. Below is take from my lecture given in Stanford CS last yea",
+    "zh": "What fundamentally matters for reasoning is model depth. Loop is just a cheap way to increase depth. Below is take from my lecture given in Stanford CS last yea"
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/2095528704197976148",
+   "note": {
+    "en": "Zhou argued that model depth, not the specific looping mechanism, is what fundamentally drives reasoning capability, drawing on a Stanford CS lecture he gave.",
+    "zh": "周登勇提出，推理能力的根本驱动因素是模型深度而非具体的循环机制，这一观点引自他在斯坦福CS课程上的一次讲座。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Politicians want to pause AI in the name of humanity. I trust humanity with AI far more than I trust politicians with the power to stop it.",
+    "zh": "Politicians want to pause AI in the name of humanity. I trust humanity with AI far more than I trust politicians with the power to stop it."
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/2087540676364034312",
+   "note": {
+    "en": "Argues against pausing AI in the name of humanity, saying he trusts humanity with AI far more than politicians with the power to halt it.",
+    "zh": "反对以\"为了人类\"为由暂停AI，称他更信任人类掌握AI，而非政治家掌握叫停AI的权力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "AGI = Transformer + Reasoning What remains is data and scaling. Everything else is marginal.",
+    "zh": "AGI = Transformer + Reasoning What remains is data and scaling. Everything else is marginal."
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/2086494862480941337",
+   "note": {
+    "en": "States that AGI reduces to Transformer plus reasoning, with data and scaling as what remains to be solved.",
+    "zh": "提出AGI等于Transformer加推理，剩下要解决的只是数据和规模化问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "To me, the biggest revolution in reasoning research has been the shift from symbolic languages to natural language. I began working on reasoning in 2017 and was",
+    "zh": "To me, the biggest revolution in reasoning research has been the shift from symbolic languages to natural language. I began working on reasoning in 2017 and was"
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/2081521217807520004",
+   "note": {
+    "en": "Reflects on the shift in reasoning research from symbolic languages to natural language since he began working on it in 2017.",
+    "zh": "回顾推理研究领域从符号语言转向自然语言的最大变革，并提及自己自2017年起从事该研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "After seeing all the recent tweets about mathematical breakthroughs, my daughter asked, “Why are those conjectures decades old? Have any big ones been proposed",
+    "zh": "After seeing all the recent tweets about mathematical breakthroughs, my daughter asked, “Why are those conjectures decades old? Have any big ones been proposed"
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/2081430796108513548",
+   "note": {
+    "en": "Prompted by his daughter's question about why math conjectures are decades old, argues that AI making proofs cheap could accelerate new ones.",
+    "zh": "由女儿关于数学猜想为何多是几十年前提出的疑问引出，认为AI让证明变得低成本将加速新猜想的产生。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Time to reverse the roles at the IMO: AI proposes the problems, humans solve them.",
+    "zh": "Time to reverse the roles at the IMO: AI proposes the problems, humans solve them."
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/2077589822819213373",
+   "note": {
+    "en": "Proposes reversing the IMO format so AI proposes problems and humans solve them.",
+    "zh": "提议颠倒国际数学奥林匹克的形式，由AI出题、人类解题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I used to get dozens of recruiting emails every day about “exciting opportunities.” Recently I changed my LinkedIn page from “Research Scientist” to “VP.” Almos",
+    "zh": "I used to get dozens of recruiting emails every day about “exciting opportunities.” Recently I changed my LinkedIn page from “Research Scientist” to “VP.” Almos"
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/2074684248771141919",
+   "note": {
+    "en": "Notes that changing his LinkedIn title from \"Research Scientist\" to \"VP\" made unsolicited recruiting emails stop almost overnight.",
+    "zh": "提到将领英头衔从\"研究科学家\"改成\"VP\"后，招聘邮件几乎一夜之间消失。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "My daughter’s take on superintelligence: “To dogs, humans are superintelligent; to a superintelligence, humans are just like dogs.” “To cure cancer, the optimal",
+    "zh": "My daughter’s take on superintelligence: “To dogs, humans are superintelligent; to a superintelligence, humans are just like dogs.” “To cure cancer, the optimal"
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/2061805028583911809",
+   "note": {
+    "en": "Shares his daughter's framing of superintelligence — that humans would be to a superintelligence what dogs are to humans — as a lens on AI safety.",
+    "zh": "分享女儿对超级智能的类比——在超级智能眼中人类，就如同人类眼中的狗——以此谈AI安全问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "My daughter said we should all thank Jensen Huang. He isn’t just selling GPUs. He’s using GPU prices to buy humanity a little more time. My daughter’s theory: e",
+    "zh": "My daughter said we should all thank Jensen Huang. He isn’t just selling GPUs. He’s using GPU prices to buy humanity a little more time. My daughter’s theory: e"
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/2053151683610653032",
+   "note": {
+    "en": "Argues, via his daughter's theory, that Nvidia's high GPU prices are inadvertently slowing AI scaling and buying humanity more time.",
+    "zh": "借女儿的理论提出，英伟达GPU的高价客观上放缓了AI的规模化速度，为人类争取了更多时间。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Many assume current models are “good enough” and it’s time to just build apps. Actually, the race for intelligence never ends. Higher-order intelligence has a c",
+    "zh": "Many assume current models are “good enough” and it’s time to just build apps. Actually, the race for intelligence never ends. Higher-order intelligence has a c"
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/2030679803049988529",
+   "note": {
+    "en": "Argues the race for intelligence never ends even as some assume models are \"good enough,\" since higher-order intelligence carries a decisive advantage.",
+    "zh": "认为即便有人认为模型已经\"足够好\"，智能竞赛也永不停歇，因为更高阶的智能具有压倒性优势。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Rapidly evolving AI will turn human intelligence differences into noise.",
+    "zh": "Rapidly evolving AI will turn human intelligence differences into noise."
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/2022561326653214842",
+   "note": {
+    "en": "Predicts that rapidly evolving AI will make differences in human intelligence irrelevant.",
+    "zh": "预测快速演进的AI将使人类之间的智力差异变得无关紧要。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Code is cheap, show me your chat.",
+    "zh": "Code is cheap, show me your chat."
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/2019443144387915923",
+   "note": {
+    "en": "Argues that with AI, actual usage (\"your chat\") is a more meaningful signal of ability than code output.",
+    "zh": "主张在AI时代，\"写代码\"廉价，真正能说明能力的是\"你的对话记录\"。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Imagine having access to superintelligence, but only three questions. What would you ask?",
+    "zh": "Imagine having access to superintelligence, but only three questions. What would you ask?"
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/2019248540099440948",
+   "note": {
+    "en": "Poses a thought experiment — with access to superintelligence but only three questions, what would you ask — that drew over a hundred replies.",
+    "zh": "提出一个引发上百条回复的思想实验：如果能接触超级智能但只能问三个问题，你会问什么。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Intelligence will not become a commodity. Intelligence will not be too cheap to meter. In the future, the real gap between people will be defined by their acces",
+    "zh": "Intelligence will not become a commodity. Intelligence will not be too cheap to meter. In the future, the real gap between people will be defined by their acces"
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/2018016756921692547",
+   "note": {
+    "en": "Argues intelligence will stay scarce rather than become a cheap commodity, and that access to intelligence will define the real gap between people.",
+    "zh": "认为智能不会变成廉价商品，未来人与人之间真正的差距将由获取智能的能力决定。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-01-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "So cute. Neither GPT-5.2 nor Gemini 3 could generate a reply like the one below. We’re still very far from AGI. https://t.co/xhh5QFbysI",
+    "zh": "So cute. Neither GPT-5.2 nor Gemini 3 could generate a reply like the one below. We’re still very far from AGI. https://t.co/xhh5QFbysI"
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/2010005448385278168",
+   "note": {
+    "en": "Points to a case where neither GPT-5.2 nor Gemini 3 could generate a reply as apt as a human's, arguing AI is still far from AGI.",
+    "zh": "指出GPT-5.2和Gemini 3都无法生成像人类那样恰当的回复，认为AI距离AGI仍很遥远。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The day AI completely replaces politicians will be humanity’s greatest victory.",
+    "zh": "The day AI completely replaces politicians will be humanity’s greatest victory."
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/2004985235713523880",
+   "note": {
+    "en": "Calls the day AI fully replaces politicians \"humanity's greatest victory.\"",
+    "zh": "称AI完全取代政治家的那一天将是\"人类最伟大的胜利\"。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "\"Gemini 3 flash achieved 90% acc @ 1 million ctx. ... what black magic did they do?\" Yes, we've developed powerful new techniques for Gemini 3 long-context reas",
+    "zh": "\"Gemini 3 flash achieved 90% acc @ 1 million ctx. ... what black magic did they do?\" Yes, we've developed powerful new techniques for Gemini 3 long-context reas"
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/2003152064210420027",
+   "note": {
+    "en": "Confirms his team developed new techniques behind Gemini 3 Flash's 90% accuracy at 1-million-token context, crediting collaborators.",
+    "zh": "确认他的团队研发出让Gemini 3 Flash在百万级上下文中达到90%准确率的新技术，并感谢合作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Nothing is more fun than creating intelligence",
+    "zh": "Nothing is more fun than creating intelligence"
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/2001688296863514735",
+   "note": {
+    "en": "A one-line declaration that creating intelligence is the most fun work there is — one of his most-viewed posts in this batch.",
+    "zh": "一句宣言：\"创造智能是最有趣的事\"——是本批次中浏览量最高的帖子之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Yejin is a true pioneer in reasoning research. Her work has deeply inspired the whole community.",
+    "zh": "Yejin is a true pioneer in reasoning research. Her work has deeply inspired the whole community."
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/1996982034196254720",
+   "note": {
+    "en": "Publicly credits Yejin Choi as a true pioneer of reasoning research who has inspired the community.",
+    "zh": "公开称赞Yejin Choi是推理研究领域真正的先驱，激励了整个学术社区。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "My daughter has very mathematical thinking, while her younger brother is naturally inclined toward computational thinking. I once gave them a problem: Divide th",
+    "zh": "My daughter has very mathematical thinking, while her younger brother is naturally inclined toward computational thinking. I once gave them a problem: Divide th"
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/1996612907224973438",
+   "note": {
+    "en": "Describes his daughter and son's contrasting mathematical vs. computational thinking styles through a number-partition puzzle he gave them.",
+    "zh": "通过一道数字分组题，描述了女儿偏数学思维、儿子偏计算思维的不同风格。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-11-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "My daughter quit TikTok. It’s hard for her to tell whether a video is human made or AI generated.",
+    "zh": "My daughter quit TikTok. It’s hard for her to tell whether a video is human made or AI generated."
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/1995204527126122515",
+   "note": {
+    "en": "Notes his daughter quit TikTok because she can no longer reliably tell human-made videos from AI-generated ones.",
+    "zh": "提到女儿因难以分辨视频是人工制作还是AI生成而退出了TikTok。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-11-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "My daughter told me not to go to NeurIPS this year. She wants me to stay home with her. Otherwise, she said she’d tweet “NeurIPS is over.” 😅 I’ll miss seeing my",
+    "zh": "My daughter told me not to go to NeurIPS this year. She wants me to stay home with her. Otherwise, she said she’d tweet “NeurIPS is over.” 😅 I’ll miss seeing my"
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/1993709164124852282",
+   "note": {
+    "en": "A personal note about skipping NeurIPS at his daughter's request, which drew reach far beyond his usual scale.",
+    "zh": "一条关于应女儿要求缺席NeurIPS的个人感言，获得了远超他平时规模的传播。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-11-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Scaling laws hit a wall. Human innovation doesn’t.",
+    "zh": "Scaling laws hit a wall. Human innovation doesn’t."
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/1993433191752044662",
+   "note": {
+    "en": "Argues scaling laws have hit a wall while human innovation has not.",
+    "zh": "主张扩展定律（scaling laws）已经触顶，而人类的创新并未止步。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-11-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "my little one scored in the \"exceptionally gifted\" range on iq test. way higher than any llm so far. i’m now fully convinced by that test. before she tweeted, w",
+    "zh": "my little one scored in the \"exceptionally gifted\" range on iq test. way higher than any llm so far. i’m now fully convinced by that test. before she tweeted, w"
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/1993103075213754737",
+   "note": {
+    "en": "Notes his daughter scored in the \"exceptionally gifted\" range on an IQ test, higher than any LLM so far, after they raced through AMC 8 problems together.",
+    "zh": "提到女儿在IQ测试中达到\"极高天赋\"区间，超过目前任何LLM，此前两人曾一起竞速解AMC 8题目。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-11-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "the game over tweet was posted by my little one playing with my phone. it's been deleted.",
+    "zh": "the game over tweet was posted by my little one playing with my phone. it's been deleted."
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/1993094936124887382",
+   "note": {
+    "en": "Clarifies that a viral \"game over\" tweet from his account was posted and then deleted by his young daughter playing with his phone.",
+    "zh": "澄清此前一条刷屏的\"game over\"推文，是女儿玩他手机时发布后又删除的。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-11-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "\"Gemini 3 is the largest leap in a long time.\"",
+    "zh": "\"Gemini 3 is the largest leap in a long time.\""
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/1991273469334679628",
+   "note": {
+    "en": "Calls Gemini 3 the largest leap in a long time, as someone working on it.",
+    "zh": "作为参与其研发的一员，称Gemini 3是很长一段时间以来最大的一次飞跃。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-11-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Wild to think Gemini 3 is still built by humans. Humans with shockingly unlimited innovation bandwidth.",
+    "zh": "Wild to think Gemini 3 is still built by humans. Humans with shockingly unlimited innovation bandwidth."
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/1990820769060855901",
+   "note": {
+    "en": "Marvels that Gemini 3 is still built by humans, crediting the team's innovation bandwidth.",
+    "zh": "感叹Gemini 3仍是由人类打造，称团队的创新能力令人惊叹。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-09-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "we live in a parallel universe lol",
+    "zh": "we live in a parallel universe lol"
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/1967705192272629985",
+   "note": {
+    "en": "A brief, cryptic aside (\"we live in a parallel universe\") that became one of his most-viewed posts.",
+    "zh": "一句简短而含糊的感叹——\"我们生活在平行宇宙里\"——成为他浏览量最高的帖子之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-07-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Slides for my lecture “LLM Reasoning” at Stanford CS 25: https://t.co/eApGUHyIDo Key points: 1. Reasoning in LLMs simply means generating a sequence of intermed",
+    "zh": "Slides for my lecture “LLM Reasoning” at Stanford CS 25: https://t.co/eApGUHyIDo Key points: 1. Reasoning in LLMs simply means generating a sequence of intermed"
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/1948499173986201915",
+   "note": {
+    "en": "Shares slides from his Stanford CS 25 lecture on LLM reasoning, summarizing that reasoning means generating intermediate tokens before the final answer.",
+    "zh": "分享他在斯坦福CS 25课程\"LLM推理\"讲座的幻灯片，概括推理即在给出最终答案前生成中间token序列。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-07-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "LLMs for IMO 2025: gemini-2.5-pro (31.55%), o3 high (16.67%), Grok 4 (11.90%). https://t.co/MoaRJgBeN1 https://t.co/qJ6RQalEiH",
+    "zh": "LLMs for IMO 2025: gemini-2.5-pro (31.55%), o3 high (16.67%), Grok 4 (11.90%). https://t.co/MoaRJgBeN1 https://t.co/qJ6RQalEiH"
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/1945887753864114438",
+   "note": {
+    "en": "Posts benchmark results for LLMs on IMO 2025 problems: Gemini 2.5 Pro at 31.55%, o3 (high) at 16.67%, Grok 4 at 11.90%.",
+    "zh": "公布LLM在2025年IMO题目上的成绩：Gemini 2.5 Pro为31.55%，o3（高算力）为16.67%，Grok 4为11.90%。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-07-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+    "zh": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2507.06261v6",
+   "note": {
+    "en": "Google DeepMind technical report on the Gemini 2.5 model family, covering reasoning, multimodality, long context and agentic capability; he is a listed contributor.",
+    "zh": "谷歌 DeepMind 的 Gemini 2.5 系列模型技术报告，涵盖推理、多模态、长上下文与智能体能力，他是署名贡献者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-06-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Scientific progress comes from scaling the right dimension. Scaling all dimensions is just wasteful engineering.",
+    "zh": "Scientific progress comes from scaling the right dimension. Scaling all dimensions is just wasteful engineering."
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/1937968608942166192",
+   "note": {
+    "en": "Argues scientific progress comes from scaling the right dimension, calling scaling everything \"wasteful engineering.\"",
+    "zh": "主张科学进步来自于扩展正确的维度，称一味扩展所有维度是\"浪费的工程\"。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-06-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Reasoning is far from being solved. Looking forward to seeing new breakthroughs.",
+    "zh": "Reasoning is far from being solved. Looking forward to seeing new breakthroughs."
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/1936602268629111206",
+   "note": {
+    "en": "States reasoning is still far from solved and he looks forward to further breakthroughs.",
+    "zh": "表示推理问题远未解决，并期待该领域取得新的突破。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-06-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "NATURAL PLAN: Benchmarking LLMs on Natural Language Planning",
+    "zh": "NATURAL PLAN: Benchmarking LLMs on Natural Language Planning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2406.04520v1",
+   "note": {
+    "en": "Introduces NATURAL PLAN, a natural-language planning benchmark (trip, meeting, calendar) used to measure where LLM planning breaks down.",
+    "zh": "提出 NATURAL PLAN 自然语言规划基准，用行程、会议、日程三类任务衡量大模型规划能力的短板。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-04-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Best Practices and Lessons Learned on Synthetic Data",
+    "zh": "Best Practices and Lessons Learned on Synthetic Data"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2404.07503v2",
+   "note": {
+    "en": "Survey of practices and pitfalls in generating and using synthetic training data for large models.",
+    "zh": "系统梳理大模型合成数据的生成与使用方法，以及其中的常见陷阱。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-03-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context",
+    "zh": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2403.05530v5",
+   "note": {
+    "en": "Technical report for Gemini 1.5, the model family that pushed context length to millions of tokens; he is a listed contributor.",
+    "zh": "Gemini 1.5 技术报告，该系列将上下文长度推进到百万 token 级别，他是署名贡献者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-02-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Chain of Thought Empowers Transformers to Solve Inherently Serial Problems",
+    "zh": "Chain of Thought Empowers Transformers to Solve Inherently Serial Problems"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2402.12875v4",
+   "note": {
+    "en": "Theoretical result showing chain-of-thought lets constant-depth transformers solve inherently serial problems they otherwise cannot.",
+    "zh": "从理论上证明思维链使常数深度 Transformer 能够求解原本无法处理的本质串行问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-02-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Chain-of-Thought Reasoning Without Prompting",
+    "zh": "Chain-of-Thought Reasoning Without Prompting"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2402.10200v2",
+   "note": {
+    "en": "Shows chain-of-thought paths already exist in the model's decoding space and can be surfaced by changing decoding rather than prompting.",
+    "zh": "指出思维链路径本就存在于模型的解码空间中，改变解码方式即可引出，无需提示词。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-02-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Transformers Can Achieve Length Generalization But Not Robustly",
+    "zh": "Transformers Can Achieve Length Generalization But Not Robustly"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2402.09371v1",
+   "note": {
+    "en": "Studies length generalization in transformers, finding it achievable with the right position encoding and data format but highly unstable.",
+    "zh": "研究 Transformer 的长度泛化，发现在合适的位置编码与数据格式下可以实现，但非常不稳定。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-02-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Premise Order Matters in Reasoning with Large Language Models",
+    "zh": "Premise Order Matters in Reasoning with Large Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2402.08939v3",
+   "note": {
+    "en": "Shows LLM reasoning accuracy drops sharply when premises are reordered, a brittleness finding for chain-of-thought reasoning.",
+    "zh": "发现仅仅打乱前提顺序就会让大模型推理准确率显著下降，揭示思维链推理的脆弱性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-02-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Self-Discover: Large Language Models Self-Compose Reasoning Structures",
+    "zh": "Self-Discover: Large Language Models Self-Compose Reasoning Structures"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2402.03620v1",
+   "note": {
+    "en": "Proposes SELF-DISCOVER, in which a model composes its own task-specific reasoning structure before solving a problem.",
+    "zh": "提出 SELF-DISCOVER：让模型先自行组合出适合该任务的推理结构，再去解题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-12-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemini: A Family of Highly Capable Multimodal Models",
+    "zh": "Gemini: A Family of Highly Capable Multimodal Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2312.11805v5",
+   "note": {
+    "en": "The original Gemini technical report introducing the Ultra/Pro/Nano multimodal model family; he is a listed contributor.",
+    "zh": "初代 Gemini 技术报告，发布 Ultra/Pro/Nano 多模态模型系列，他是署名贡献者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-11-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Universal Self-Consistency for Large Language Model Generation",
+    "zh": "Universal Self-Consistency for Large Language Model Generation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2311.17311v1",
+   "note": {
+    "en": "Extends his self-consistency method to free-form generation by having the model itself select the most consistent answer.",
+    "zh": "把他此前的自洽性方法扩展到自由形式生成，改由模型自己挑选最一致的答案。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-11-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Instruction-Following Evaluation for Large Language Models",
+    "zh": "Instruction-Following Evaluation for Large Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2311.07911v1",
+   "note": {
+    "en": "Introduces IFEval, a verifiable instruction-following benchmark that became a standard evaluation for instruction-tuned models.",
+    "zh": "提出 IFEval 可自动校验的指令跟随基准，后来成为指令微调模型的标准评测之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-10-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Large Language Models can Learn Rules",
+    "zh": "Large Language Models can Learn Rules"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2310.07064v3",
+   "note": {
+    "en": "Shows LLMs can induce explicit rules from examples and then reason with the learned rule library.",
+    "zh": "证明大模型可以从样例中归纳出显式规则，再用学到的规则库进行推理。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-10-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Take a Step Back: Evoking Reasoning via Abstraction in Large Language Models",
+    "zh": "Take a Step Back: Evoking Reasoning via Abstraction in Large Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2310.06117v2",
+   "note": {
+    "en": "Introduces Step-Back Prompting, which asks the model to abstract a high-level principle before working through the details.",
+    "zh": "提出 Step-Back 提示法：先让模型抽象出高层原理，再回到细节求解。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-10-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation",
+    "zh": "FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2310.03214v2",
+   "note": {
+    "en": "Builds FreshQA and shows search-augmented prompting substantially improves LLM answers on fast-changing facts.",
+    "zh": "构建 FreshQA 数据集，并证明检索增强提示能明显改善大模型在时效性事实上的回答。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-10-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Large Language Models Cannot Self-Correct Reasoning Yet",
+    "zh": "Large Language Models Cannot Self-Correct Reasoning Yet"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2310.01798v2",
+   "note": {
+    "en": "Argues LLMs cannot reliably self-correct their own reasoning without external feedback, a widely cited corrective to self-refinement claims.",
+    "zh": "论证大模型在没有外部反馈时无法可靠地自我纠错，是对自我修正类方法的一次广受引用的纠偏。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-10-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Large Language Models as Analogical Reasoners",
+    "zh": "Large Language Models as Analogical Reasoners"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2310.01714v3",
+   "note": {
+    "en": "Proposes analogical prompting, where the model generates its own relevant exemplars instead of relying on hand-written ones.",
+    "zh": "提出类比提示法：由模型自行生成相关范例，而不依赖人工编写的示例。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-09-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Large Language Models as Optimizers",
+    "zh": "Large Language Models as Optimizers"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2309.03409v3",
+   "note": {
+    "en": "Proposes OPRO, using an LLM as a black-box optimizer that iteratively rewrites its own prompts.",
+    "zh": "提出 OPRO，把大模型当作黑盒优化器，让它迭代地改写自身提示词。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-08-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Simple synthetic data reduces sycophancy in large language models",
+    "zh": "Simple synthetic data reduces sycophancy in large language models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2308.03958v2",
+   "note": {
+    "en": "Shows a lightweight synthetic-data fine-tuning recipe reduces sycophancy, where models echo a user's stated view.",
+    "zh": "证明一套轻量的合成数据微调方法可以减少模型迎合用户观点的谄媚行为。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-05-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Large Language Models as Tool Makers",
+    "zh": "Large Language Models as Tool Makers"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2305.17126v2",
+   "note": {
+    "en": "Proposes LATM, where a strong model writes reusable tools that a cheaper model then calls to solve tasks.",
+    "zh": "提出 LATM：由强模型编写可复用工具，再交给更便宜的模型调用来完成任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-05-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Training Socially Aligned Language Models on Simulated Social Interactions",
+    "zh": "Training Socially Aligned Language Models on Simulated Social Interactions"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2305.16960v3",
+   "note": {
+    "en": "Trains socially aligned language models on simulated multi-agent social interactions rather than static preference data.",
+    "zh": "用模拟的多智能体社会互动而非静态偏好数据来训练具有社会对齐性的语言模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-05-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for Large Language Models",
+    "zh": "Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for Large Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2305.14705v2",
+   "note": {
+    "en": "Shows sparse mixture-of-experts models benefit disproportionately from instruction tuning (FLAN-MoE).",
+    "zh": "证明稀疏专家混合模型从指令微调中获益尤其明显（FLAN-MoE）。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-05-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Pretrainer's Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity",
+    "zh": "A Pretrainer's Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2305.13169v2",
+   "note": {
+    "en": "Measures how pretraining data age, domain coverage, quality and toxicity filtering affect downstream model behaviour.",
+    "zh": "量化预训练数据的时效、领域覆盖、质量与毒性过滤对下游模型行为的影响。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-02-01",
+   "level": "major",
+   "title": {
+    "en": "Leaves Google DeepMind for Meta Superintelligence Labs",
+    "zh": "离开 Google DeepMind 加入 Meta 超级智能实验室"
+   },
+   "body": {
+    "en": "The move went unannounced and was reported four months later, as part of a broader DeepMind exodus — six researchers to Meta, OpenAI and Anthropic in five months, tied to a resource shift toward commercial coding applications.",
+    "zh": "此次调动未公开宣布，四个月后才被报道，属于 DeepMind 更大规模人才流失的一部分 —— 五个月内六名研究员流向 Meta、OpenAI 与 Anthropic，起因是资源向商业编码应用倾斜。"
+   },
+   "source": "TechTimes",
+   "url": "https://www.techtimes.com/articles/319219/20260628/google-deepminds-coding-pivot-lost-six-researchers-meta-openai-anthropic.htm"
+  },
+  {
+   "date": "2026-06-27",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "谷歌人才「失血」：周登勇、Noam Shazeer等出走，Coding突击队重构训练引冲突",
+    "zh": "谷歌人才「失血」：周登勇、Noam Shazeer等出走，Coding突击队重构训练引冲突"
+   },
+   "body": {
+    "en": "He leaves Google for Meta alongside other senior researchers, in a departure wave tied to internal conflict over training and product direction.",
+    "zh": "他与多位资深研究员一同从谷歌转投 Meta，这波离职与内部在训练方向和产品路线上的分歧有关。"
+   },
+   "source": "blog.csdn.net",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iVVgwS0pVd21YNW9KeTF1OVpUdnJKdFhiS2Q0Y0RwS0RkTWZ6R1lVcXFmQjdBM1JCeFNSR3NHZVJWY2dESU5sYlFWdlgtWUNjdW9zOHYyWXVCNDF5c1VhZ0pwdkVSeE4xeEdr?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": true,
+ "was": {
+  "en": "Chief Scientist, Google DeepMind",
+  "zh": "Google DeepMind 首席科学家"
+ },
+ "cat": "lab",
+ "score": {
+  "total": 29.3,
+  "attention": null,
+  "centrality": 34,
+  "momentum": 27,
+  "stature": 22,
+  "pageviews": 0,
+  "citations": 15010,
+  "hIndex": 31,
+  "events": 2,
+  "posts": 64,
+  "wikiEn": null,
+  "wikiZh": null
+ },
+ "seedRank": 94,
+ "tier": "t5"
+}

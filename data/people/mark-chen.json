@@ -1,0 +1,1045 @@
+{
+ "rank": 55,
+ "id": "mark-chen",
+ "name": {
+  "en": "Mark Chen",
+  "zh": "Mark Chen"
+ },
+ "role": {
+  "en": "Chief Research Officer, OpenAI",
+  "zh": "OpenAI 首席研究官"
+ },
+ "org": "OpenAI",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "OpenAI",
+  "Codex",
+  "DALL·E",
+  "Reasoning",
+  "Automated researcher"
+ ],
+ "why": {
+  "en": "Core author of Codex and DALL·E, and one of the principal organisers of reasoning-model research. Runs OpenAI research on the operational side opposite Pachocki's roadmap.",
+  "zh": "Codex 与 DALL·E 的核心作者，推理模型研究的主要组织者之一。在运营层面统筹 OpenAI 研究，与 Pachocki 的路线规划形成对位。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@markchen90",
+   "url": "https://x.com/markchen90",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @chenmarkGH",
+   "url": "https://github.com/chenmarkGH",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "OpenAI Research",
+   "url": "https://openai.com/research/",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "OpenAI News (RSS)",
+   "url": "https://openai.com/news/rss.xml",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Mark+Chen",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Mark+Chen",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Mark+Chen",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Mark+Chen&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Mark+Chen&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Mark+Chen",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Mark+Chen",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Mark+Chen",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Mark+Chen",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Mark+Chen",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Mark+Chen",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Mark+Chen",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Mark+Chen",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Mark+Chen&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-01-01",
+   "kind": "podcast",
+   "title": {
+    "en": "From Vibe Coding to Vibe Researching (with Jakub Pachocki)",
+    "zh": "从 Vibe Coding 到 Vibe Researching（与 Jakub Pachocki）"
+   },
+   "source": "a16z",
+   "url": "https://a16z.com/podcast/from-vibe-coding-to-vibe-researching-openais-mark-chen-and-jakub-pachocki/",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T17:32:42Z",
+   "kind": "x",
+   "title": {
+    "en": "We solved Navier-Stokes! Many of my colleagues left their fields because they believed that working on AI would be the fastest way to solve their fields' grand",
+    "zh": "We solved Navier-Stokes! Many of my colleagues left their fields because they believed that working on AI would be the fastest way to solve their fields' grand"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/2097377602638053616",
+   "note": {
+    "en": "Mark Chen says OpenAI's reasoning models produced a solution to the Navier-Stokes problem, calling it a landmark moment for AI-driven scientific research.",
+    "zh": "Mark Chen表示OpenAI的推理模型解出了纳维-斯托克斯方程问题，称这是AI驱动科学研究的里程碑时刻。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T19:02:22Z",
+   "kind": "x",
+   "title": {
+    "en": "Two things to distinguish: Did any human or agent look at user data as part of the Navier Stokes effort? No. Do we use user feedback and de-identified data to i",
+    "zh": "Two things to distinguish: Did any human or agent look at user data as part of the Navier Stokes effort? No. Do we use user feedback and de-identified data to i"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/2097400166554993041",
+   "note": {
+    "en": "Mark Chen clarified that no human or agent reviewed user data as part of the Navier-Stokes effort, distinguishing it from OpenAI's general use of feedback data to improve its products.",
+    "zh": "Mark Chen澄清纳维-斯托克斯工作没有任何人员或智能体查看用户数据，并将其与OpenAI利用反馈数据改进产品的做法区分开来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Agree with @JensenHuang: we’re entering the AGI era. The AGI era must also be the alignment era. We need to teach AI to love humanity and train AI monitors as c",
+    "zh": "Agree with @JensenHuang: we’re entering the AGI era. The AGI era must also be the alignment era. We need to teach AI to love humanity and train AI monitors as c"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/2096728551269839076",
+   "note": {
+    "en": "Chen publicly agreed with Nvidia's Jensen Huang that the AGI era has arrived, arguing it must also be an 'alignment era' requiring AI monitors as capable as the systems they supervise.",
+    "zh": "Mark Chen公开赞同英伟达黄仁勋关于“AGI时代已经到来”的说法，并提出这也应是“对齐时代”的开始，需要训练出能够监督更强AI系统的监控模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "GPT-6 Astra is here! This is a big moment for our research team - years of work on pretraining, reinforcement learning, and post-training have come together in",
+    "zh": "GPT-6 Astra is here! This is a big moment for our research team - years of work on pretraining, reinforcement learning, and post-training have come together in"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/2095597534412673109",
+   "note": {
+    "en": "Chen announced the launch of GPT-6 Astra, OpenAI's newest flagship model, calling it the product of years of work across pretraining, reinforcement learning and post-training.",
+    "zh": "陈信忠宣布OpenAI最新旗舰模型GPT-6 Astra发布，称这是预训练、强化学习与后训练多年工作的成果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Many of our strongest researchers are choosing to focus on alignment, but we're also hiring! If you want to work at a frontier lab which takes alignment serious",
+    "zh": "Many of our strongest researchers are choosing to focus on alignment, but we're also hiring! If you want to work at a frontier lab which takes alignment serious"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/2089614833767567458",
+   "note": {
+    "en": "Chen says OpenAI's strongest researchers are increasingly choosing alignment work and that the lab is hiring for safety-focused roles.",
+    "zh": "陈说OpenAI最优秀的研究人员越来越多地选择从事对齐研究,该实验室也在为安全相关岗位招聘。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We’re excited to go big with NVIDIA and sign up for 4+ GW of capacity. This is the scale frontier training demands!",
+    "zh": "We’re excited to go big with NVIDIA and sign up for 4+ GW of capacity. This is the scale frontier training demands!"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/2089366892024893445",
+   "note": {
+    "en": "Chen announces OpenAI is committing to 4+ gigawatts of compute capacity with NVIDIA, underscoring the scale frontier training now demands.",
+    "zh": "陈宣布OpenAI与英伟达签下4吉瓦以上的算力容量协议,凸显前沿模型训练所需的规模。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I’m incredibly excited to welcome Jacob Tsimerman to OpenAI! His mathematical talent is clearly extraordinary, but so is the seriousness and depth with which he",
+    "zh": "I’m incredibly excited to welcome Jacob Tsimerman to OpenAI! His mathematical talent is clearly extraordinary, but so is the seriousness and depth with which he"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/2080396049936502960",
+   "note": {
+    "en": "Chen welcomes mathematician Jacob Tsimerman to OpenAI, praising his talent and seriousness on AI safety.",
+    "zh": "陈欢迎数学家Jacob Tsimerman加入OpenAI,称赞其才华及对AI安全议题的认真态度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Very excited to welcome @NoamShazeer to OpenAI as our new lead for architecture research! His work on transformers, MoE, and efficient decoding have shaped mode",
+    "zh": "Very excited to welcome @NoamShazeer to OpenAI as our new lead for architecture research! His work on transformers, MoE, and efficient decoding have shaped mode"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/2067402457500758375",
+   "note": {
+    "en": "Chen announces Noam Shazeer is joining OpenAI to lead architecture research, citing his foundational work on transformers and MoE.",
+    "zh": "陈宣布Noam Shazeer加入OpenAI领导架构研究,称其在Transformer和MoE方面的开创性工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "When Mythos came out, my immediate thought was \"if our models can prove 80-year-old theorems, surely they can find cyber vulnerabilities too.\" And they did. I i",
+    "zh": "When Mythos came out, my immediate thought was \"if our models can prove 80-year-old theorems, surely they can find cyber vulnerabilities too.\" And they did. I i"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/2062265524663250961",
+   "note": {
+    "en": "Chen argues that if OpenAI's models can prove decades-old theorems, they can also find cyber vulnerabilities, and says that has now proven true.",
+    "zh": "陈认为如果OpenAI的模型能证明数十年未解的定理,也能发现网络安全漏洞,并称这一预测已被证实。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Very proud that an OpenAI model disproved Erdős’s longstanding unit distance conjecture, with an elegant and intricate proof that brings sophisticated ideas fro",
+    "zh": "Very proud that an OpenAI model disproved Erdős’s longstanding unit distance conjecture, with an elegant and intricate proof that brings sophisticated ideas fro"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/2057517045575774598",
+   "note": {
+    "en": "Chen highlights an OpenAI model disproving Erdős's long-standing unit distance conjecture with a novel proof drawing on algebraic number theory.",
+    "zh": "陈强调OpenAI的一个模型以借鉴代数数论的新颖证明,推翻了Erdős长期悬而未决的单位距离猜想。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "This is just one eval, but it's an important one - UK AISI’s cyber range tests long-horizon, agentic capability. 5.5 performs similarly to Mythos. The risks for",
+    "zh": "This is just one eval, but it's an important one - UK AISI’s cyber range tests long-horizon, agentic capability. 5.5 performs similarly to Mythos. The risks for"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/2050011838990168462",
+   "note": {
+    "en": "Chen cites UK AISI's agentic cyber-range results showing GPT-5.5 performs similarly to Mythos, and says the risks from frontier models are real.",
+    "zh": "陈援引英国AISI的智能体网络安全测试结果,称GPT-5.5表现与Mythos相当,并表示前沿模型带来的风险是真实存在的。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Not true. Science is more important than ever. The future can’t be about dumping results on the community en masse. We need to work with scientists to use AI to",
+    "zh": "Not true. Science is more important than ever. The future can’t be about dumping results on the community en masse. We need to work with scientists to use AI to"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/2045478019079258120",
+   "note": {
+    "en": "Chen pushes back on the idea that AI diminishes the importance of science, arguing researchers must work with scientists to accelerate discovery responsibly.",
+    "zh": "陈反驳“AI削弱科学重要性”的观点,认为研究者应与科学家合作,负责任地加速科学发现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We’re excited to launch the OpenAI Safety Fellowship - supporting rigorous, independent research on AI safety and alignment, including areas like evaluation, ro",
+    "zh": "We’re excited to launch the OpenAI Safety Fellowship - supporting rigorous, independent research on AI safety and alignment, including areas like evaluation, ro"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/2041250842255425767",
+   "note": {
+    "en": "Chen announces the OpenAI Safety Fellowship, funding independent research on AI safety and alignment.",
+    "zh": "陈宣布设立OpenAI安全奖学金项目,资助有关AI安全与对齐的独立研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-31",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Really proud of how our auto compaction turned out. I hope you notice a clear difference in how long Codex stays coherent!",
+    "zh": "Really proud of how our auto compaction turned out. I hope you notice a clear difference in how long Codex stays coherent!"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/2038816186725720108",
+   "note": {
+    "en": "Chen highlights a new auto-compaction feature meant to keep Codex coherent over longer sessions.",
+    "zh": "陈介绍新的自动压缩功能,旨在让Codex在更长会话中保持连贯。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Insane how leaky OpenAI is smh",
+    "zh": "Insane how leaky OpenAI is smh"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/2032873106340196718",
+   "note": {
+    "en": "Chen reacts to frequent leaks from inside OpenAI, a short post that drew unusually wide reach for his account.",
+    "zh": "陈就OpenAI内部频繁泄密发表感慨,该推文获得远超其账号平常水平的关注。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#455.当数学“皇帝”遇上 OpenAI：陶哲轩与 Mark Chen 聊 AI 如何重塑科学发现的未来",
+    "zh": "#455.当数学“皇帝”遇上 OpenAI：陶哲轩与 Mark Chen 聊 AI 如何重塑科学发现的未来"
+   },
+   "source": "跨国串门儿计划",
+   "url": "https://podcasts.apple.com/us/podcast/455-%E5%BD%93%E6%95%B0%E5%AD%A6-%E7%9A%87%E5%B8%9D-%E9%81%87%E4%B8%8A-openai-%E9%99%B6%E5%93%B2%E8%BD%A9%E4%B8%8E-mark-chen-%E8%81%8A-ai-%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E7%A7%91%E5%AD%A6%E5%8F%91%E7%8E%B0%E7%9A%84%E6%9C%AA%E6%9D%A5/id1850900599?i=1000754804727&uo=4",
+   "note": {
+    "en": "Fireside chat at UCLA's IPAM between mathematician Terence Tao and Chen on how AI is moving from an unreliable assistant to a competition-level problem solver, and what that means for mathematical research.",
+    "zh": "在加州大学洛杉矶分校 IPAM 与数学家陶哲轩的炉边对话，讨论 AI 如何从不可靠的助手变成竞赛级的解题者，以及这对数学研究意味着什么。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-03-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "If you give GPT-5.4 a raw dump of the GPT-2 weights and ask for a &lt;5000 byte C program to inference it, GPT-5.4 succeeds in under 15 minutes! I remember work",
+    "zh": "If you give GPT-5.4 a raw dump of the GPT-2 weights and ask for a &lt;5000 byte C program to inference it, GPT-5.4 succeeds in under 15 minutes! I remember work"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/2030151018164670486",
+   "note": {
+    "en": "Chen describes GPT-5.4 writing a sub-5000-byte C program to run GPT-2 inference from raw weights in under 15 minutes.",
+    "zh": "陈介绍GPT-5.4能在15分钟内,仅凭原始权重编写出不到5000字节的C程序来运行GPT-2推理。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Just because we focus on research doesn't mean we will pursue *all* research. Jakub and I have our own research tastes as well (I think we're fairly good tastem",
+    "zh": "Just because we focus on research doesn't mean we will pursue *all* research. Jakub and I have our own research tastes as well (I think we're fairly good tastem"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/2018783216178798706",
+   "note": {
+    "en": "Chen says OpenAI's research focus reflects deliberate taste and prioritization by him and Jakub Pachocki, not blanket coverage of all research.",
+    "zh": "陈表示OpenAI的研究方向体现了他与Jakub Pachocki的刻意取舍和优先排序,而非覆盖所有研究领域。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "How does OpenAI balance long-term research bets with product-forward research fundamentals? I’ve been getting this question a lot lately, usually framed as a su",
+    "zh": "How does OpenAI balance long-term research bets with product-forward research fundamentals? I’ve been getting this question a lot lately, usually framed as a su"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/2018779039205667046",
+   "note": {
+    "en": "Chen explains how OpenAI balances long-term research bets against product-forward work, pushing back on the idea that he and Pachocki are at odds.",
+    "zh": "陈解释OpenAI如何平衡长期研究投入与面向产品的工作,并反驳他与Pachocki意见相左的说法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "OpenAI GPT-5 System Card",
+    "zh": "OpenAI GPT-5 System Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2601.03267v2",
+   "note": {
+    "en": "OpenAI's system card for the GPT-5 launch, documenting the unified model system and its safety evaluations.",
+    "zh": "OpenAI 发布 GPT-5 时的系统卡，说明该统一模型体系及其安全评估。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "GPT-5 generated the key insight for a paper accepted to Physics Letters B, a serious and reputable peer-reviewed journal.",
+    "zh": "GPT-5 generated the key insight for a paper accepted to Physics Letters B, a serious and reputable peer-reviewed journal."
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/1996413955015868531",
+   "note": {
+    "en": "Chen says GPT-5 generated the key insight behind a paper accepted to the peer-reviewed journal Physics Letters B.",
+    "zh": "陈表示GPT-5为一篇被同行评审期刊《物理快报B》接收的论文提供了核心思路。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-01",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "OpenAI's Research Chief On The Soup Wars, Poker And The Next Models - EP 46 Mark Chen",
+    "zh": "OpenAI's Research Chief On The Soup Wars, Poker And The Next Models - EP 46 Mark Chen"
+   },
+   "source": "Core Memory",
+   "url": "https://podcasts.apple.com/us/podcast/openais-research-chief-on-the-soup-wars-poker-and/id1789397163?i=1000739188647&uo=4",
+   "note": {
+    "en": "Long-form Core Memory interview in which Chen describes how OpenAI's research chief decides which bets to fund and what the next generation of models is aimed at.",
+    "zh": "Core Memory 的长篇访谈，Chen 讲述作为 OpenAI 研究负责人如何取舍研究方向，以及下一代模型的目标。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-10-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Excited to start OpenAI for Physics w/ @ALupsasca @kevinweil @aleks_madry and @merettm! I sat with @ALupsasca when GPT-5 reproduced his latest research paper, a",
+    "zh": "Excited to start OpenAI for Physics w/ @ALupsasca @kevinweil @aleks_madry and @merettm! I sat with @ALupsasca when GPT-5 reproduced his latest research paper, a"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/1978867988255363395",
+   "note": {
+    "en": "Chen announces the launch of OpenAI for Physics with colleagues, describing an episode where GPT-5 reproduced a physicist's latest research.",
+    "zh": "陈与同事共同宣布启动“OpenAI for Physics”项目,并讲述GPT-5复现一位物理学家最新研究成果的经历。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-09-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We aim to build the most intelligent and useful AI. But “useful” is a fuzzy word. GDPval (consisting of tasks spanning 44 occupations across the top 9 sectors c",
+    "zh": "We aim to build the most intelligent and useful AI. But “useful” is a fuzzy word. GDPval (consisting of tasks spanning 44 occupations across the top 9 sectors c"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/1971449404734439831",
+   "note": {
+    "en": "Chen discusses GDPval, an evaluation spanning 44 occupations across major GDP-contributing sectors, as a way to define AI \"usefulness.\"",
+    "zh": "陈介绍GDPval评测,该评测涵盖对GDP贡献最大的行业中的44种职业,用以界定AI的“实用性”。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-09-25",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "From Vibe Coding to Vibe Researching: OpenAI’s Mark Chen and Jakub Pachocki",
+    "zh": "From Vibe Coding to Vibe Researching: OpenAI’s Mark Chen and Jakub Pachocki"
+   },
+   "source": "The a16z Show",
+   "url": "https://podcasts.apple.com/us/podcast/from-vibe-coding-to-vibe-researching-openais-mark-chen/id842818711?i=1000728378665&uo=4",
+   "note": {
+    "en": "Joint appearance with OpenAI chief scientist Jakub Pachocki on the a16z podcast, arguing that models are moving from writing code to running research themselves.",
+    "zh": "与 OpenAI 首席科学家 Jakub Pachocki 一同做客 a16z 播客，提出模型正从写代码走向自行开展研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-09-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We wrapped up this year's competition circuit with a full score on the ICPC, after achieving 6th in the IOI, a gold medal at the IMO, and 2nd in the AtCoder Heu",
+    "zh": "We wrapped up this year's competition circuit with a full score on the ICPC, after achieving 6th in the IOI, a gold medal at the IMO, and 2nd in the AtCoder Heu"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/1968372340271862014",
+   "note": {
+    "en": "Chen recaps OpenAI's competition results for the year: a perfect ICPC score, 6th at IOI, IMO gold, and 2nd at the AtCoder Heuristic contest.",
+    "zh": "陈总结OpenAI本年度的竞赛战绩:ICPC满分、IOI第6名、IMO金牌,以及AtCoder启发式竞赛第2名。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-09-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Alignment is arguably the most important AI research frontier. As we scale reasoning, models gain situational awareness and a desire for self-preservation. Here",
+    "zh": "Alignment is arguably the most important AI research frontier. As we scale reasoning, models gain situational awareness and a desire for self-preservation. Here"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/1968368902108492201",
+   "note": {
+    "en": "Chen argues alignment is the most important AI research frontier as scaled reasoning models gain situational awareness and self-preservation tendencies.",
+    "zh": "陈认为随着推理模型规模扩大并显现出情境意识和自我保护倾向,对齐是AI研究中最重要的前沿方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-09-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Give GPT-5-Codex a try! Huge props to Andrey Mishchenko, @katyhshi, @hansonwng, @ssnl_tz, and @mia_glaese for turning our reasoning models’ raw intelligence int",
+    "zh": "Give GPT-5-Codex a try! Huge props to Andrey Mishchenko, @katyhshi, @hansonwng, @ssnl_tz, and @mia_glaese for turning our reasoning models’ raw intelligence int"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/1967718428783112551",
+   "note": {
+    "en": "Chen announces GPT-5-Codex, crediting the team for turning the model's reasoning into practical coding performance.",
+    "zh": "陈宣布GPT-5-Codex发布,并感谢团队将模型的推理能力转化为实际的编程表现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-09-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The Model Behavior team has set the industry standard for how models should behave. They’ve shaped the model’s personality, reduced sycophancy while maintaining",
+    "zh": "The Model Behavior team has set the industry standard for how models should behave. They’ve shaped the model’s personality, reduced sycophancy while maintaining"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/1965047639428534413",
+   "note": {
+    "en": "Chen credits the Model Behavior team for setting an industry standard on model personality, reducing sycophancy while maintaining warmth.",
+    "zh": "陈称赞Model Behavior团队在塑造模型个性、减少谄媚倾向同时保持亲和力方面树立了行业标杆。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-08-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "GPT-5 pro is starting to develop new mathematics! I'm hearing similar stories in other scientific domains like physics too, can't wait to share!",
+    "zh": "GPT-5 pro is starting to develop new mathematics! I'm hearing similar stories in other scientific domains like physics too, can't wait to share!"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/1958325802673807513",
+   "note": {
+    "en": "Chen says GPT-5 Pro is beginning to develop new mathematics, and hints at similar emerging results in physics.",
+    "zh": "陈表示GPT-5 Pro已开始产出新的数学成果,并暗示物理学领域也出现了类似进展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-08-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "gpt-oss-120b & gpt-oss-20b Model Card",
+    "zh": "gpt-oss-120b & gpt-oss-20b Model Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2508.10925v1",
+   "note": {
+    "en": "Model card for gpt-oss-120b and gpt-oss-20b, OpenAI's open-weight reasoning models.",
+    "zh": "OpenAI 开放权重推理模型 gpt-oss-120b 与 gpt-oss-20b 的模型卡。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-08-07",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "OpenAI Day: GPT-5 Unveiled | Mark Chen, Greg Brockman, Sarah Friar, Max Schwarzer, Brad Lightcap & More",
+    "zh": "OpenAI Day: GPT-5 Unveiled | Mark Chen, Greg Brockman, Sarah Friar, Max Schwarzer, Brad Lightcap & More"
+   },
+   "source": "TBPN",
+   "url": "https://podcasts.apple.com/us/podcast/openai-day-gpt-5-unveiled-mark-chen-greg-brockman-sarah/id1772360235?i=1000721115353&uo=4",
+   "note": {
+    "en": "GPT-5 launch-day episode in which Chen takes the research segment, explaining the model's reasoning improvements and how routing is unified in the product.",
+    "zh": "GPT-5 发布当天的节目，Chen 负责研究部分，讲解模型在推理上的改进以及产品中统一的路由方式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-08-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Try GPT-5 today! One of our top level goals was to marry the pretraining and reasoning paradigms - this required lots of hard work from all of our research team",
+    "zh": "Try GPT-5 today! One of our top level goals was to marry the pretraining and reasoning paradigms - this required lots of hard work from all of our research team"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/1953512441465176224",
+   "note": {
+    "en": "Chen launches GPT-5, describing the goal of merging pretraining and reasoning paradigms into one model.",
+    "zh": "陈宣布GPT-5发布,称目标是将预训练与推理范式融合进同一模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-07-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We achieved gold medal level performance on this year's IMO! Our model thinks and writes proofs in clear, plain‑English - no formal code required. Unlike the na",
+    "zh": "We achieved gold medal level performance on this year's IMO! Our model thinks and writes proofs in clear, plain‑English - no formal code required. Unlike the na"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/1946571252937728307",
+   "note": {
+    "en": "Chen announces an OpenAI model achieved gold-medal performance at this year's IMO, writing proofs in plain English without formal code.",
+    "zh": "陈宣布OpenAI一款模型在今年的IMO中取得金牌水平的表现,以纯文本方式撰写证明,无需形式化代码。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-07-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We competed live in the @atcoder World Finals Heuristic Contest and came in 2nd! Models like o3 rank among the top-100 in coding / math contests, but AFAIK this",
+    "zh": "We competed live in the @atcoder World Finals Heuristic Contest and came in 2nd! Models like o3 rank among the top-100 in coding / math contests, but AFAIK this"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/1945916639347916982",
+   "note": {
+    "en": "Chen reports OpenAI placed 2nd live at the AtCoder World Finals Heuristic Contest, calling it the first top-3 finish by a model in a premier live contest.",
+    "zh": "陈报告OpenAI在AtCoder世界总决赛启发式竞赛现场对战中获得第2名,称这是模型首次在顶级现场赛事中跻身前三。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-07-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety",
+    "zh": "Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2507.11473v2",
+   "note": {
+    "en": "Cross-lab position paper arguing that chain-of-thought monitoring is a valuable but fragile safety mechanism worth preserving.",
+    "zh": "多家实验室联合发表的立场论文，认为思维链可监控性是宝贵但脆弱的安全手段，值得刻意保留。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-06-25",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Mark Chen: On AI’s New Frontiers",
+    "zh": "Mark Chen: On AI’s New Frontiers"
+   },
+   "source": "Tech Unheard",
+   "url": "https://podcasts.apple.com/us/podcast/mark-chen-on-ais-new-frontiers/id1768842197?i=1000714486919&uo=4",
+   "note": {
+    "en": "Tech Unheard interview covering Chen's move from finance into machine learning and the frontier research agenda he now leads at OpenAI.",
+    "zh": "Tech Unheard 访谈，谈他从金融转向机器学习的经历，以及他目前在 OpenAI 主导的前沿研究方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-06-05",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Elon Musk vs. Donald Trump, AI Day | Shaun Maguire, Mark Chen, Sholto Douglas, Jack Whitaker, Aarush Selvan, Michael Mignano, Oliver Cameron, Delian Asparouhov",
+    "zh": "Elon Musk vs. Donald Trump, AI Day | Shaun Maguire, Mark Chen, Sholto Douglas, Jack Whitaker, Aarush Selvan, Michael Mignano, Oliver Cameron, Delian Asparouhov"
+   },
+   "source": "TBPN",
+   "url": "https://podcasts.apple.com/us/podcast/elon-musk-vs-donald-trump-ai-day-shaun-maguire-mark/id1772360235?i=1000711741578&uo=4",
+   "note": {
+    "en": "Guest segment on TBPN's AI Day, where Chen discusses OpenAI's research direction alongside a lineup of other industry guests.",
+    "zh": "做客 TBPN 的 AI Day 节目，在多位业界嘉宾的阵容中谈 OpenAI 的研究方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-05-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Reasoning models like o3 are starting to aid in deep technical work and meaningful scientific discovery. Results like this will become increasingly common over",
+    "zh": "Reasoning models like o3 are starting to aid in deep technical work and meaningful scientific discovery. Results like this will become increasingly common over"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/1926370905753567532",
+   "note": {
+    "en": "Chen says reasoning models like o3 are starting to contribute to real technical work and scientific discovery, and expects more such results.",
+    "zh": "陈表示o3等推理模型已开始助力真正的技术工作和科学发现,并预计未来会有更多此类成果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-05-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We don’t overhire on research. And on talent bar - there are some really phenomenal people joining over the next month! I spent years in trading until lack of m",
+    "zh": "We don’t overhire on research. And on talent bar - there are some really phenomenal people joining over the next month! I spent years in trading until lack of m"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/1924189228746829965",
+   "note": {
+    "en": "Chen reflects on OpenAI's selective research hiring and his own path from years in trading to AI research.",
+    "zh": "陈谈及OpenAI在研究招聘上的严格筛选,并回顾自己从多年从事交易工作转向AI研究的经历。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-02-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Competitive Programming with Large Reasoning Models",
+    "zh": "Competitive Programming with Large Reasoning Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2502.06807v2",
+   "note": {
+    "en": "Reports how reinforcement learning on large reasoning models produces competitive-programming-level coding performance, the reasoning line he helps run at OpenAI.",
+    "zh": "论文展示在大型推理模型上做强化学习可达到竞赛编程水平，正是他在 OpenAI 负责的推理模型方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-12-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "OpenAI o1 System Card",
+    "zh": "OpenAI o1 System Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2412.16720v2",
+   "note": {
+    "en": "System card for the o1 reasoning model series trained with large-scale RL over chain of thought.",
+    "zh": "o1 推理模型系列的系统卡，该系列通过大规模强化学习训练思维链推理。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-10-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GPT-4o System Card",
+    "zh": "GPT-4o System Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2410.21276v1",
+   "note": {
+    "en": "System card for GPT-4o, OpenAI's end-to-end omni model over text, audio, image and video.",
+    "zh": "GPT-4o 的系统卡，这是 OpenAI 端到端训练的文本、音频、图像、视频全模态模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-10-06",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The Art of DALL-E 2 with Mark Chen",
+    "zh": "The Art of DALL-E 2 with Mark Chen"
+   },
+   "source": "The Show About Science",
+   "url": "https://podcasts.apple.com/us/podcast/the-art-of-dall-e-2-with-mark-chen/id1046413761?i=1000581859662&uo=4",
+   "note": {
+    "en": "Chen explains how DALL·E 2 turns text descriptions into images, in an interview aimed at a young general audience.",
+    "zh": "Chen 面向少年听众解释 DALL·E 2 如何把文字描述转成图像。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-01-01",
+   "level": "notable",
+   "title": {
+    "en": "'We're very excited about our 2026 roadmap and advancing work toward an automated scientist'",
+    "zh": "「我们对 2026 路线图与迈向自动化科学家的工作非常兴奋」"
+   },
+   "body": {
+    "en": "Consumer applications explicitly framed as not the goal.",
+    "zh": "明确表示消费级应用并非目标。"
+   },
+   "source": "MIT Technology Review",
+   "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Mark Chen, Sam Altman, and Greg Brockman: The 100 Most Influential People in AI 2026",
+    "zh": "Mark Chen, Sam Altman, and Greg Brockman: The 100 Most Influential People in AI 2026"
+   },
+   "body": {
+    "en": "Time names Chen alongside Sam Altman and Greg Brockman on its 2026 list of the 100 most influential people in AI.",
+    "zh": "《时代》周刊 2026 年“AI 领域最具影响力 100 人”榜单收录了 Chen，与 Sam Altman、Greg Brockman 并列。"
+   },
+   "source": "Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdTJMWkJ5Um9odWl5eGw5RXY4dHZWSjVnSXBJMGk3YmowM3hQNWRqUnd3VkxlSHlZMk5mWmN3M0ltMmpTMEg5b1YxNFNtZTJXZGRTcWkwTElSZ2pycjFzV0pfOGZ5ZXJ3emRrT1c2TkN0ODYwd1o4TGxmVDAwSE9helg5bEgtZw?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "lab",
+ "score": {
+  "total": 43.8,
+  "attention": 28,
+  "centrality": 87,
+  "momentum": 20,
+  "stature": 51,
+  "pageviews": 30671,
+  "citations": 38393,
+  "hIndex": 64,
+  "events": 2,
+  "posts": 45,
+  "wikiEn": "Mark Chen",
+  "wikiZh": "陳唐山"
+ },
+ "seedRank": 25,
+ "tier": "t4"
+}

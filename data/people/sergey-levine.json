@@ -1,0 +1,1590 @@
+{
+ "rank": 77,
+ "id": "sergey-levine",
+ "name": {
+  "en": "Sergey Levine",
+  "zh": "Sergey Levine"
+ },
+ "role": {
+  "en": "Associate Professor, UC Berkeley; Co-founder, Physical Intelligence",
+  "zh": "UC Berkeley 副教授；Physical Intelligence 联合创始人"
+ },
+ "org": "UC Berkeley / Physical Intelligence",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "Physical Intelligence",
+  "π0",
+  "Robot learning",
+  "VLA",
+  "Berkeley"
+ ],
+ "why": {
+  "en": "The most influential researcher in robot learning, and the person who brought the large-model paradigm into manipulation policies. The π series is the frontier of embodied intelligence.",
+  "zh": "机器人学习领域最具影响力的研究者，把大模型范式引入操作策略。π 系列模型是具身智能的前沿代表。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@svlevine",
+   "url": "https://x.com/svlevine",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Berkeley page",
+   "url": "https://people.eecs.berkeley.edu/~svlevine/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — Learning and Control",
+   "url": "https://sergeylevine.substack.com/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — @sergey.levine",
+   "url": "https://medium.com/@sergey.levine",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "Physical Intelligence",
+   "url": "https://www.physicalintelligence.company/",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Berkeley RAIL",
+   "url": "https://rail.eecs.berkeley.edu/",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "Physical Intelligence blog",
+   "url": "https://www.pi.website/blog",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Sergey+Levine",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Sergey+Levine",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Sergey+Levine",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Sergey+Levine&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Sergey+Levine&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Sergey+Levine",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Sergey+Levine&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Sergey+Levine",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Sergey+Levine",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Sergey+Levine",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Sergey+Levine",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Sergey+Levine",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Sergey+Levine",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Sergey+Levine",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Sergey+Levine&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sergey_Levine",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2024-10-31",
+   "kind": "paper",
+   "title": {
+    "en": "π0: A vision-language-action flow model for general robot control",
+    "zh": "π0：面向通用机器人控制的视觉-语言-动作流模型"
+   },
+   "source": "Physical Intelligence",
+   "url": "https://www.physicalintelligence.company/blog/pi0",
+   "note": {
+    "en": "Open-sourced February 2025; generalises across laundry, coffee-making, box assembly and vegetable peeling.",
+    "zh": "2025 年 2 月开源；可泛化到叠衣服、冲咖啡、组装纸箱与削蔬菜等任务。"
+   }
+  },
+  {
+   "date": "2026-09-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Long-Horizon Language Model Reinforcement Learning via Progressive Point Matching",
+    "zh": "Long-Horizon Language Model Reinforcement Learning via Progressive Point Matching"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.07303v1",
+   "note": {
+    "en": "Levine and coauthors (Preston Fu, Kevin Frans, Oleh Rybkin, Aviral Kumar) propose progressive point matching for training language models with RL on long-horizon tasks, moving past sparse outcome rewards.",
+    "zh": "莱文与合著者（Preston Fu、Kevin Frans、Oleh Rybkin、Aviral Kumar）提出渐进式点匹配方法，用强化学习训练语言模型完成长时程任务，突破了稀疏结果奖励的局限。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Can One AI Model Control Every Robot? | Sergey Levine",
+    "zh": "Can One AI Model Control Every Robot? | Sergey Levine"
+   },
+   "source": "SparX by Mukesh Bansal",
+   "url": "https://podcasts.apple.com/us/podcast/can-one-ai-model-control-every-robot-sergey-levine/id1701280490?i=1000787875473&uo=4",
+   "note": {
+    "en": "Levine discussed building a single AI model that can control many different robots, drawing on his work at Physical Intelligence.",
+    "zh": "莱文在访谈中探讨了打造一个能控制多种不同机器人的单一AI模型，内容取材于他在Physical Intelligence的研究工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-08-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Learning to Act While Waiting: RL Finetuning of Generalist Robot Policies Under Inference Latency",
+    "zh": "Learning to Act While Waiting: RL Finetuning of Generalist Robot Policies Under Inference Latency"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.23831v2",
+   "note": {
+    "en": "Reinforcement learning fine-tuning that lets large generalist robot policies keep acting despite their own inference latency.",
+    "zh": "提出在推理延迟下继续行动的强化学习微调方法，使大型通用机器人策略在实机部署中保持流畅。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-08-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL",
+    "zh": "One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.12253v2",
+   "note": {
+    "en": "Co-authored study showing that multi-agent RL trained against a single frozen LLM user simulator collapses and fails to generalize to real users.",
+    "zh": "他与人合著的研究表明，多智能体强化学习若只针对单一固定的大模型用户模拟器训练，会出现模拟器坍缩，无法泛化到真实用户。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-08-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Why Does Action Chunking Improve Behavioral Cloning Performance in Robotic Control?",
+    "zh": "Why Does Action Chunking Improve Behavioral Cloning Performance in Robotic Control?"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.02547v1",
+   "note": {
+    "en": "An analysis of why predicting and executing multi-step action chunks improves behavioral cloning for robotic control.",
+    "zh": "分析为何一次预测并执行多步动作（动作分块）能提升机器人控制中行为克隆的效果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies",
+    "zh": "PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.15607/rss.2026.xxii.062",
+   "note": {
+    "en": "Levine co-authors PolaRiS, a scalable real-to-sim evaluation framework for generalist robot policies.",
+    "zh": "Levine参与的PolaRiS是一个可扩展的真实到仿真评估框架，用于评测通用机器人策略。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2026-07-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Emergence of Human to Robot Transfer in Vision-Language-Action Models",
+    "zh": "Emergence of Human to Robot Transfer in Vision-Language-Action Models"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.15607/rss.2026.xxii.072",
+   "note": {
+    "en": "Levine co-authors a study on the emergence of human-to-robot transfer in vision-language-action models.",
+    "zh": "Levine参与研究了视觉-语言-动作模型中人到机器人迁移能力的出现机制。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2026-06-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Adapting Generalist Robot Policies with Semantic Reinforcement Learning",
+    "zh": "Adapting Generalist Robot Policies with Semantic Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.31958v1",
+   "note": {
+    "en": "Method for adapting pretrained generalist robot policies to new tasks using reinforcement learning driven by semantic rewards.",
+    "zh": "提出用语义奖励驱动的强化学习，将预训练的通用机器人策略适配到新任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Learning Process Rewards via Success Visitation Matching for Efficient RL",
+    "zh": "Learning Process Rewards via Success Visitation Matching for Efficient RL"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.23640v1",
+   "note": {
+    "en": "Derives dense process rewards from success visitation matching so reinforcement learning stays efficient when the task reward is sparse.",
+    "zh": "通过成功状态访问匹配学习稠密的过程奖励，使强化学习在奖励稀疏的任务中仍能高效训练。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "VIMPO: Value-Implicit Policy Optimization for LLMs",
+    "zh": "VIMPO: Value-Implicit Policy Optimization for LLMs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.20008v1",
+   "note": {
+    "en": "VIMPO, a value-implicit policy optimization method for reinforcement learning on LLM reasoning, written with Dawn Song and colleagues.",
+    "zh": "与 Dawn Song 等人合作提出 VIMPO，一种用于大模型推理强化学习的隐式价值策略优化方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SC3-Eval: Evaluating Robot Foundation Models via Self-Consistent Video Generation",
+    "zh": "SC3-Eval: Evaluating Robot Foundation Models via Self-Consistent Video Generation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.18610v3",
+   "note": {
+    "en": "Paper introducing SC3-Eval, which evaluates robot foundation models through self-consistent action-conditioned video generation instead of real-world rollouts.",
+    "zh": "论文提出 SC3-Eval，用自洽的动作条件视频生成来评测机器人基础模型，替代昂贵的真机测试。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Reversal Q-Learning",
+    "zh": "Reversal Q-Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.17551v1",
+   "note": {
+    "en": "A new offline reinforcement learning algorithm built on flow matching to model complex behaviors from fixed datasets.",
+    "zh": "提出一种基于流匹配的新离线强化学习算法，用于从固定数据集中建模复杂行为。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Improving Robotic Generalist Policies via Flow Reversal Steering",
+    "zh": "Improving Robotic Generalist Policies via Flow Reversal Steering"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.13675v2",
+   "note": {
+    "en": "With Chelsea Finn and his students, steers generalist robot policies toward new tasks by reversing their flow-based action generation.",
+    "zh": "与 Chelsea Finn 等人合作，通过反转基于流的动作生成来引导通用机器人策略完成新任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-13",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Sergey Levine on Why Real-World Data Will Define Physical AI",
+    "zh": "Sergey Levine on Why Real-World Data Will Define Physical AI"
+   },
+   "source": "Automated with Brian Heater",
+   "url": "https://podcasts.apple.com/us/podcast/sergey-levine-on-why-real-world-data-will-define-physical-ai/id1837762221?i=1000767559330&uo=4",
+   "note": {
+    "en": "Interview on why real-world experience, rather than simulation or demo videos, will decide the pace of physical AI.",
+    "zh": "访谈：他解释为何真实世界的经验而非仿真或演示视频，将决定具身智能的发展速度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-05-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Measuring and Mitigating the Distributional Gap Between Real and Simulated User Behaviors",
+    "zh": "Measuring and Mitigating the Distributional Gap Between Real and Simulated User Behaviors"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.07847v1",
+   "note": {
+    "en": "Measures how far LLM user simulators drift from real user behavior and proposes ways to close that gap.",
+    "zh": "量化大模型用户模拟器与真实用户行为之间的分布差距，并提出缩小该差距的方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "OGPO: Sample Efficient Full-Finetuning of Generative Control Policies",
+    "zh": "OGPO: Sample Efficient Full-Finetuning of Generative Control Policies"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.03065v4",
+   "note": {
+    "en": "OGPO, an off-policy method for sample-efficient full fine-tuning of diffusion- and flow-based robot control policies.",
+    "zh": "提出 OGPO：一种样本高效的离策略方法，用于对扩散式与流式机器人控制策略做全参数微调。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "RL Token: Bootstrapping Online RL with Vision-Language-Action Models",
+    "zh": "RL Token: Bootstrapping Online RL with Vision-Language-Action Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.23073v2",
+   "note": {
+    "en": "Bootstraps online reinforcement learning from pretrained vision-language-action models so robots reach the precision and speed real tasks demand.",
+    "zh": "利用预训练的视觉-语言-动作模型引导在线强化学习，使机器人达到真实任务所需的精度与速度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "$π_{0.7}$: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities",
+    "zh": "$π_{0.7}$: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.15483v2",
+   "note": {
+    "en": "Physical Intelligence's π0.7 robotic foundation model, the latest generation of the π series he co-leads.",
+    "zh": "Physical Intelligence 发布的 π0.7 机器人基础模型，是他参与主导的 π 系列的最新一代。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#331 Sergey Levine: The Robot Revolution Nobody Is Talking About",
+    "zh": "#331 Sergey Levine: The Robot Revolution Nobody Is Talking About"
+   },
+   "source": "Eye On A.I.",
+   "url": "https://podcasts.apple.com/us/podcast/331-sergey-levine-the-robot-revolution-nobody-is/id1438378439?i=1000760975265&uo=4",
+   "note": {
+    "en": "Eye on A.I. interview on the state of robot learning and the robotics shift he thinks is being overlooked.",
+    "zh": "在 Eye on A.I. 节目中谈机器人学习现状，以及他认为被外界忽视的机器人变革。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-04-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Bridging the Simulation-to-Experiment Gap with Generative Models using Adversarial Distribution Alignment",
+    "zh": "Bridging the Simulation-to-Experiment Gap with Generative Models using Adversarial Distribution Alignment"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.01169v1",
+   "note": {
+    "en": "Uses generative models with adversarial distribution alignment to close the gap between physical simulation and real experiment.",
+    "zh": "用生成模型与对抗式分布对齐来弥合物理仿真与真实实验之间的差距。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-31",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Sergey Levine - Building LLMs for the Physical World",
+    "zh": "Sergey Levine - Building LLMs for the Physical World"
+   },
+   "source": "Invest Like the Best with Patrick O'Sh…",
+   "url": "https://podcasts.apple.com/us/podcast/sergey-levine-building-llms-for-the-physical-world/id1154105909?i=1000758384855&uo=4",
+   "note": {
+    "en": "Long-form interview on building foundation models for the physical world at Physical Intelligence.",
+    "zh": "长篇访谈：谈在 Physical Intelligence 为物理世界构建基础模型的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-03-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Offline Materials Optimization with CliqueFlowmer",
+    "zh": "Offline Materials Optimization with CliqueFlowmer"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.06082v4",
+   "note": {
+    "en": "Applies offline optimization with a flow-based model to computational materials discovery, co-authored with Pieter Abbeel.",
+    "zh": "与 Pieter Abbeel 等合作，将基于流模型的离线优化方法用于计算材料发现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "MEM: Multi-Scale Embodied Memory for Vision Language Action Models",
+    "zh": "MEM: Multi-Scale Embodied Memory for Vision Language Action Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.03596v2",
+   "note": {
+    "en": "Gives vision-language-action models a multi-scale memory so robots can carry context through long multi-stage tasks.",
+    "zh": "为视觉-语言-动作模型引入多尺度具身记忆，使机器人能在多阶段长任务中保持上下文。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "AsyncVLA: An Asynchronous VLA for Fast and Robust Navigation on the Edge",
+    "zh": "AsyncVLA: An Asynchronous VLA for Fast and Robust Navigation on the Edge"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.13476v1",
+   "note": {
+    "en": "An asynchronous VLA architecture that cuts inference cost enough to run robot navigation on edge hardware.",
+    "zh": "提出异步 VLA 架构，大幅降低推理开销，使机器人导航可在边缘设备上运行。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Steerable Vision-Language-Action Policies for Embodied Reasoning and Hierarchical Control",
+    "zh": "Steerable Vision-Language-Action Policies for Embodied Reasoning and Hierarchical Control"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.13193v3",
+   "note": {
+    "en": "Grounds vision-language model priors into hierarchical robot control, yielding steerable policies for embodied reasoning.",
+    "zh": "将视觉-语言模型的先验落地到分层机器人控制中，得到可引导的具身推理策略。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SteerVLA: Steering Vision-Language-Action Models in Long-Tail Driving Scenarios",
+    "zh": "SteerVLA: Steering Vision-Language-Action Models in Long-Tail Driving Scenarios"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.08440v2",
+   "note": {
+    "en": "Paper on steering vision-language-action models to handle long-tail autonomous driving scenarios.",
+    "zh": "论文研究如何引导视觉-语言-动作模型应对自动驾驶中的长尾场景。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Q-learning with Adjoint Matching",
+    "zh": "Q-learning with Adjoint Matching"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2601.14234v4",
+   "note": {
+    "en": "Q-learning with Adjoint Matching, a temporal-difference method for efficient optimization in continuous-action reinforcement learning.",
+    "zh": "提出伴随匹配 Q 学习（QAM），一种面向连续动作强化学习的高效时序差分方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "RoboReward: General-Purpose Vision-Language Reward Models for Robotics",
+    "zh": "RoboReward: General-Purpose Vision-Language Reward Models for Robotics"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2601.00675v2",
+   "note": {
+    "en": "General-purpose vision-language reward models that remove the need for hand-designed or human-labeled robot rewards.",
+    "zh": "提出通用的视觉-语言奖励模型，免去为机器人任务人工设计或标注奖励的负担。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning",
+    "zh": "Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.16911v1",
+   "note": {
+    "en": "Paper proposing posterior behavioral cloning, a pretraining scheme that makes later RL finetuning of policies more efficient.",
+    "zh": "论文提出后验行为克隆预训练方案，使策略后续的强化学习微调更高效。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Decoupled Q-Chunking",
+    "zh": "Decoupled Q-Chunking"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.10926v2",
+   "note": {
+    "en": "Decouples action chunking in temporal-difference learning to reduce bootstrapping bias in offline reinforcement learning.",
+    "zh": "在时序差分学习中解耦动作分块，以降低离线强化学习中的自举偏差。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-11-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Leveraging Discrete Function Decomposability for Scientific Design",
+    "zh": "Leveraging Discrete Function Decomposability for Scientific Design"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "https://arxiv.org/abs/2511.03032",
+   "note": {
+    "en": "With Bowden and Listgarten, Levine explores leveraging discrete function decomposability for scientific design problems.",
+    "zh": "Levine与Bowden、Listgarten合作，探讨如何利用离散函数的可分解性用于科学设计问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-10-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "A neat and elegant idea from @seohong_park &amp; Deepinder Mann: represent a state by distances to other states (i.e., how easy it is to reach other states). Th",
+    "zh": "A neat and elegant idea from @seohong_park &amp; Deepinder Mann: represent a state by distances to other states (i.e., how easy it is to reach other states). Th"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1976842713585926399",
+   "note": {
+    "en": "Highlights work from his group that represents a state by its distances to other states, giving a representation for goal-conditioned RL.",
+    "zh": "介绍其团队的工作：用一个状态到其他状态的可达距离来表示该状态，为目标条件强化学习提供表征。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-09-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "A new VLA for navigation that can take in goal images, positions, and language, and exhibits some pretty neat emergent language following!",
+    "zh": "A new VLA for navigation that can take in goal images, positions, and language, and exhibits some pretty neat emergent language following!"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1971059110335611158",
+   "note": {
+    "en": "Shares a navigation VLA that takes goal images, positions and language, and shows emergent language following.",
+    "zh": "分享一个可接受目标图像、位置与语言输入的导航 VLA，并展现出涌现的语言跟随能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-09-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Fully autonomous robots are much closer than you think – Sergey Levine",
+    "zh": "Fully autonomous robots are much closer than you think – Sergey Levine"
+   },
+   "source": "Dwarkesh Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/fully-autonomous-robots-are-much-closer-than-you-think/id1516093381?i=1000726524050&uo=4",
+   "note": {
+    "en": "Dwarkesh Podcast interview arguing a self-improvement flywheel will bring general-purpose robots sooner than most expect.",
+    "zh": "在 Dwarkesh 播客中提出，自我改进飞轮将使通用机器人比多数人预期更早到来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-09-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The pi-05 model is now in openpi: https://t.co/NLfraCc7zf Now with pytorch (πtorch?) support too!",
+    "zh": "The pi-05 model is now in openpi: https://t.co/NLfraCc7zf Now with pytorch (πtorch?) support too!"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1965161524722630734",
+   "note": {
+    "en": "Announces that the π0.5 model is available in the open-source openpi repository, now with PyTorch support.",
+    "zh": "宣布 π0.5 模型已加入开源项目 openpi，并新增 PyTorch 支持。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-08-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Language following is a tough problem for VLAs: while these models can follow complex language, in practice getting datasets that enable language following is h",
+    "zh": "Language following is a tough problem for VLAs: while these models can follow complex language, in practice getting datasets that enable language following is h"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1958379554231537922",
+   "note": {
+    "en": "Describes a counterfactual data method that teaches vision-language-action models to actually follow language instructions.",
+    "zh": "介绍一种反事实数据生成方法，让视觉-语言-动作模型真正学会遵循语言指令。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I wrote a fun little article about all the ways to dodge the need for real-world robot data. I think it has a cute title. https://t.co/EIZsCARRRo",
+    "zh": "I wrote a fun little article about all the ways to dodge the need for real-world robot data. I think it has a cute title. https://t.co/EIZsCARRRo"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1947153061694353831",
+   "note": {
+    "en": "Points to his own essay surveying the many ways researchers try to avoid collecting real-world robot data.",
+    "zh": "分享他撰写的文章，梳理研究者们试图绕开采集真实机器人数据的各种做法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Action chunking is a great idea in robotics: by getting a model to produce a short sequence of actions, it _just works better_ for some mysterious reason. Now i",
+    "zh": "Action chunking is a great idea in robotics: by getting a model to produce a short sequence of actions, it _just works better_ for some mysterious reason. Now i"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1943521428688777577",
+   "note": {
+    "en": "Notes that action chunking, long useful in imitation learning, turns out to help reinforcement learning too.",
+    "zh": "指出在模仿学习中行之有效的动作分块，同样能提升强化学习的效果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Warm-start RL (WSRL) can learn to control a real robot in under 20 minutes! Deep RL is getting really fast. Warm-start from offline data + super-efficient onlin",
+    "zh": "Warm-start RL (WSRL) can learn to control a real robot in under 20 minutes! Deep RL is getting really fast. Warm-start from offline data + super-efficient onlin"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1940836158470345069",
+   "note": {
+    "en": "Shares Warm-start RL, which learns to control a real robot in under twenty minutes by combining offline data with efficient online learning.",
+    "zh": "分享 Warm-start RL（WSRL）：结合离线数据与高效在线学习，可在二十分钟内学会控制真实机器人。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-06-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "If you have a policy that uses diffusion/flow (e.g. diffusion VLA), you can run RL where the actor chooses the noise, which is then denoised by the policy to pr",
+    "zh": "If you have a policy that uses diffusion/flow (e.g. diffusion VLA), you can run RL where the actor chooses the noise, which is then denoised by the policy to pr"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1938101714361766023",
+   "note": {
+    "en": "Explains an RL method in which the actor chooses the noise that a diffusion or flow policy then denoises into an action.",
+    "zh": "介绍一种强化学习方法：由 actor 选择噪声，再由扩散或流策略将其去噪成动作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-06-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Self-supervised representation learning looks a bit like RL. What if we literally use RL as a SSL method for visual representations? Turns out that it works qui",
+    "zh": "Self-supervised representation learning looks a bit like RL. What if we literally use RL as a SSL method for visual representations? Turns out that it works qui"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1936558800288481590",
+   "note": {
+    "en": "Shares work using reinforcement learning itself as a self-supervised objective for learning visual representations.",
+    "zh": "分享将强化学习本身用作自监督目标来学习视觉表征的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-06-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Real-time inference is a big challenge for VLAs. We’ve been working on a way to amortize inference delays in π0.5. Our new Real-Time Chunking (RTC) method speed",
+    "zh": "Real-time inference is a big challenge for VLAs. We’ve been working on a way to amortize inference delays in π0.5. Our new Real-Time Chunking (RTC) method speed"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1932112494845432228",
+   "note": {
+    "en": "Introduces Real-Time Chunking, which amortizes inference delay so π0.5 can keep acting while it thinks.",
+    "zh": "介绍实时分块（RTC）方法：摊薄推理延迟，让 π0.5 能边思考边行动。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-06-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I always found it puzzling how language models learn so much from next-token prediction, while video models learn so little from next frame prediction. Maybe it",
+    "zh": "I always found it puzzling how language models learn so much from next-token prediction, while video models learn so little from next frame prediction. Maybe it"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1931796654233194534",
+   "note": {
+    "en": "His reflection on why next-token prediction teaches language models so much while next-frame prediction teaches video models so little.",
+    "zh": "他的思考：为何下一词预测能让语言模型学到很多，而下一帧预测对视频模型收效甚微。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-05-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Classifier-free guidance is an RL policy improvement operator in (very thin) disguise! This makes it easier than ever to implement RL (and RL-like) methods on t",
+    "zh": "Classifier-free guidance is an RL policy improvement operator in (very thin) disguise! This makes it easier than ever to implement RL (and RL-like) methods on t"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1928483698166333797",
+   "note": {
+    "en": "Observes that classifier-free guidance is a reinforcement learning policy improvement operator in thin disguise.",
+    "zh": "指出无分类器引导（CFG）实质上就是强化学习中的策略改进算子。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-05-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Fun project at PI: knowledge insulation for VLAs. We figured out how to train VLAs with cont. actions much more effectively by insulating the VLM and training i",
+    "zh": "Fun project at PI: knowledge insulation for VLAs. We figured out how to train VLAs with cont. actions much more effectively by insulating the VLM and training i"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1927786448507293798",
+   "note": {
+    "en": "Describes knowledge insulation at Physical Intelligence: training the VLM with discrete actions so continuous-action VLAs train more effectively.",
+    "zh": "介绍 Physical Intelligence 的知识隔离方法：用离散动作训练 VLM 部分，使连续动作 VLA 的训练更加有效。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-05-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We trained a robotic foundation model that can drive mobile robots in six different countries, and navigate Sproul Plaza in midday on the UC Berkeley campus! So",
+    "zh": "We trained a robotic foundation model that can drive mobile robots in six different countries, and navigate Sproul Plaza in midday on the UC Berkeley campus! So"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1922153518233682277",
+   "note": {
+    "en": "Announces a robotic foundation model that drives mobile robots in six countries, including across UC Berkeley's Sproul Plaza at midday.",
+    "zh": "宣布一个机器人基础模型可在六个国家驱动移动机器人，包括在正午穿行加州大学伯克利分校的 Sproul 广场。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-04-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "π-0.5 is here, and it can generalize to new homes! Some fun experiments with my colleagues at @physical_int, introducing π-0.5 (“pi oh five”). Our new VLA can p",
+    "zh": "π-0.5 is here, and it can generalize to new homes! Some fun experiments with my colleagues at @physical_int, introducing π-0.5 (“pi oh five”). Our new VLA can p"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1914724977183744244",
+   "note": {
+    "en": "Announces π0.5, the Physical Intelligence VLA that generalizes to homes it has never seen.",
+    "zh": "发布 π-0.5：Physical Intelligence 的视觉-语言-动作模型，可泛化到从未见过的家庭环境。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-02-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We made π0 “think harder”: our new Hierarchical Interactive Robot (Hi Robot) method “thinks” through complex tasks and prompts, directing π0 to break up complex",
+    "zh": "We made π0 “think harder”: our new Hierarchical Interactive Robot (Hi Robot) method “thinks” through complex tasks and prompts, directing π0 to break up complex"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1894829469011189830",
+   "note": {
+    "en": "Introduces Hi Robot, a hierarchical method that has π0 reason through complex prompts and break them into basic steps.",
+    "zh": "介绍 Hi Robot：一种分层方法，让 π0 对复杂指令进行推理并拆解为基本步骤。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-02-18",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "π0: A Foundation Model for Robotics with Sergey Levine",
+    "zh": "π0: A Foundation Model for Robotics with Sergey Levine"
+   },
+   "source": "The TWIML AI Podcast (formerly This We…",
+   "url": "https://podcasts.apple.com/us/podcast/%CF%800-a-foundation-model-for-robotics-with-sergey-levine/id1116303051?i=1000693196257&uo=4",
+   "note": {
+    "en": "TWIML episode walking through π0, Physical Intelligence's general-purpose robotic foundation model.",
+    "zh": "TWIML 节目中详细讲解 Physical Intelligence 的通用机器人基础模型 π0。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-02-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Scaling laws in deep RL? Turns out that batch size, learning rate, and UTD (update-to-data) for getting the most efficient and scalable deep RL has predictable",
+    "zh": "Scaling laws in deep RL? Turns out that batch size, learning rate, and UTD (update-to-data) for getting the most efficient and scalable deep RL has predictable"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1888098051040100498",
+   "note": {
+    "en": "Shares an analysis finding predictable relationships between batch size, learning rate and update-to-data ratio in deep reinforcement learning.",
+    "zh": "分享一项分析：深度强化学习中批量大小、学习率与更新数据比之间存在可预测的规律。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-02-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We came up with a really simple way to train flow matching (diffusion) policies with offline RL! Flow Q-learning from @seohong_park uses a distillation (reflow-",
+    "zh": "We came up with a really simple way to train flow matching (diffusion) policies with offline RL! Flow Q-learning from @seohong_park uses a distillation (reflow-"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1887193921853575262",
+   "note": {
+    "en": "Shares Flow Q-learning, a simple distillation scheme for training flow-matching policies with offline reinforcement learning.",
+    "zh": "分享 Flow Q-learning：用类似 reflow 的蒸馏方案，以离线强化学习训练流匹配策略。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-02-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Very happy to announce that we are open-sourcing the π₀ model, weights, and some fine-tuned checkpoints! Hoping this leads to lots of great follow-up research:",
+    "zh": "Very happy to announce that we are open-sourcing the π₀ model, weights, and some fine-tuned checkpoints! Hoping this leads to lots of great follow-up research:"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1886822326274285709",
+   "note": {
+    "en": "Announces the open-sourcing of the π0 model, its weights and several fine-tuned checkpoints.",
+    "zh": "宣布开源 π0 模型及其权重和若干微调检查点。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-01-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Tokenizers matter for LLMs &amp; VLMs. Turns out they also matter for VLAs! We figured out a compressed representation of actions (inspired by jpeg compression)",
+    "zh": "Tokenizers matter for LLMs &amp; VLMs. Turns out they also matter for VLAs! We figured out a compressed representation of actions (inspired by jpeg compression)"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1879958451948052484",
+   "note": {
+    "en": "Shares a JPEG-inspired compressed action tokenization that speeds up VLA training fivefold.",
+    "zh": "分享一种受 JPEG 启发的压缩动作表示方法，使 VLA 训练速度提升五倍。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-11-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "New paper by Joey Hong shows how we can train LLMs with value-based RL for multi-turn tasks *just by turning probabilities into Q-values*! This provides an algo",
+    "zh": "New paper by Joey Hong shows how we can train LLMs with value-based RL for multi-turn tasks *just by turning probabilities into Q-values*! This provides an algo"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1860874248166027683",
+   "note": {
+    "en": "Highlights work turning token probabilities into Q-values so LLMs can be trained with value-based RL on multi-turn tasks.",
+    "zh": "介绍将词元概率转化为 Q 值的工作，使大模型可用基于价值的强化学习训练多轮任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-11-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "An intriguing new result from @katie_kang_: after training long enough, LLMs will reproduce training examples exactly (not surprising). But how they get there m",
+    "zh": "An intriguing new result from @katie_kang_: after training long enough, LLMs will reproduce training examples exactly (not surprising). But how they get there m"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1859118047304602061",
+   "note": {
+    "en": "Shares a finding that the path an LLM takes toward memorizing training examples affects how well it generalizes.",
+    "zh": "分享一项发现：大模型走向记忆训练样本的路径不同，其泛化表现也会不同。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-10-31",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Really excited to share what I've been working on with my colleagues at Physical Intelligence! We've developed a prototype robotic foundation model that can fol",
+    "zh": "Really excited to share what I've been working on with my colleagues at Physical Intelligence! We've developed a prototype robotic foundation model that can fol"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1852041018222444705",
+   "note": {
+    "en": "His first public announcement of Physical Intelligence's prototype robotic foundation model, which folds laundry, assembles boxes and buses tables.",
+    "zh": "他首次公开介绍 Physical Intelligence 的原型机器人基础模型，能叠衣服、组装纸箱、收拾餐桌。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-10-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "RL in the real world presents some big challenges, but also some really big opportunities. In our new work, HIL-SERL, @CharlesXu0124, Jeffrey Wu, @jianlanluo sh",
+    "zh": "RL in the real world presents some big challenges, but also some really big opportunities. In our new work, HIL-SERL, @CharlesXu0124, Jeffrey Wu, @jianlanluo sh"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1850934397090078948",
+   "note": {
+    "en": "Shares HIL-SERL, showing that real-world reinforcement learning can learn a wide range of manipulation skills.",
+    "zh": "分享 HIL-SERL，展示真实世界的强化学习可以掌握多种操作技能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-08-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Can one transformer-based policy fly drones, manipulate objects, walk, and drive? @riadoshi21, @HomerWalke, @oier_mees, @SudeepDasari show in their new papers t",
+    "zh": "Can one transformer-based policy fly drones, manipulate objects, walk, and drive? @riadoshi21, @HomerWalke, @oier_mees, @SudeepDasari show in their new papers t"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1827132157137187158",
+   "note": {
+    "en": "Shares CrossFormer, a single transformer policy that flies drones, manipulates objects, walks and drives.",
+    "zh": "分享 CrossFormer：单一 Transformer 策略即可完成无人机飞行、物体操作、行走与驾驶。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-07-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Chain-of-thought reasoning is a powerful tool to enable language models to work through complex problems. Can we use this with robots? With embodied chain-of-th",
+    "zh": "Chain-of-thought reasoning is a powerful tool to enable language models to work through complex problems. Can we use this with robots? With embodied chain-of-th"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1811623895218430240",
+   "note": {
+    "en": "Describes embodied chain-of-thought reasoning, bringing step-by-step reasoning into vision-language-action models.",
+    "zh": "介绍具身思维链推理，将逐步推理引入视觉-语言-动作模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-07-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Temporal distances (expected number of time steps between states) in stochastic MDPs in general lack metric structure. It has been a long-standing question how",
+    "zh": "Temporal distances (expected number of time steps between states) in stochastic MDPs in general lack metric structure. It has been a long-standing question how"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1811253559603888439",
+   "note": {
+    "en": "Discusses how to define a quasimetric notion of temporal distance in stochastic MDPs, a long-standing open question.",
+    "zh": "讨论如何在随机 MDP 中定义具有拟度量结构的时序距离，这是一个长期悬而未决的问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-03-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Since cat is out of the bag, it’s time I share: I’ll be starting a new adventure with an incredible team of friends and long-time collaborators to take on the b",
+    "zh": "Since cat is out of the bag, it’s time I share: I’ll be starting a new adventure with an incredible team of friends and long-time collaborators to take on the b"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1767636367717310708",
+   "note": {
+    "en": "His own announcement that he is co-founding a new company with long-time collaborators to tackle robot learning at scale, which became Physical Intelligence.",
+    "zh": "他本人宣布将与长期合作者共同创办一家新公司，专攻大规模机器人学习，即后来的 Physical Intelligence。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-03-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Hilbert foundation policies (HILPs) provide a way to train general-purpose policies in an unsupervised way from offline data: analyze a dataset of trajectories,",
+    "zh": "Hilbert foundation policies (HILPs) provide a way to train general-purpose policies in an unsupervised way from offline data: analyze a dataset of trajectories,"
+   },
+   "source": "@svlevine",
+   "url": "https://x.com/svlevine/status/1763455674284126704",
+   "note": {
+    "en": "Shares Hilbert foundation policies, which learn general-purpose policies from offline trajectory data without supervision.",
+    "zh": "分享 Hilbert 基础策略（HILP）：以无监督方式从离线轨迹数据中学习通用策略。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-03-01",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Sergey Levine, UC Berkeley: The bottlenecks to generalization in reinforcement learning, why simulation is doomed to succeed, and how to pick good research problems",
+    "zh": "Sergey Levine, UC Berkeley: The bottlenecks to generalization in reinforcement learning, why simulation is doomed to succeed, and how to pick good research problems"
+   },
+   "source": "Generally Intelligent",
+   "url": "https://podcasts.apple.com/us/podcast/sergey-levine-uc-berkeley-the-bottlenecks-to/id1544921720?i=1000602394836&uo=4",
+   "note": {
+    "en": "Interview on the bottlenecks to generalization in reinforcement learning, the role of simulation, and how he picks research problems.",
+    "zh": "访谈：谈强化学习中泛化的瓶颈、仿真的作用，以及他如何挑选研究课题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-01-16",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AI Trends 2023: Reinforcement Learning - RLHF, Robotic Pre-Training, and Offline RL with Sergey Levine",
+    "zh": "AI Trends 2023: Reinforcement Learning - RLHF, Robotic Pre-Training, and Offline RL with Sergey Levine"
+   },
+   "source": "The TWIML AI Podcast (formerly This We…",
+   "url": "https://podcasts.apple.com/us/podcast/ai-trends-2023-reinforcement-learning-rlhf-robotic/id1116303051?i=1000594756613&uo=4",
+   "note": {
+    "en": "Year-in-review conversation on RLHF, robotic pre-training and offline reinforcement learning.",
+    "zh": "年度回顾对谈：RLHF、机器人预训练与离线强化学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-01-05",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Sergey Levine explains the challenges of real world robotics",
+    "zh": "Sergey Levine explains the challenges of real world robotics"
+   },
+   "source": "The Robot Brains Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/sergey-levine-explains-the-challenges-of-real/id1559275284?i=1000547022251&uo=4",
+   "note": {
+    "en": "Conversation with Pieter Abbeel on his career and the difficulty of making reinforcement learning work on real robots.",
+    "zh": "与 Pieter Abbeel 对谈，回顾其学术生涯并讨论在真实机器人上应用强化学习的难点。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2021-09-16",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Sergey Levine on Robot Learning & Offline RL",
+    "zh": "Sergey Levine on Robot Learning & Offline RL"
+   },
+   "source": "The Gradient: Perspectives on AI",
+   "url": "https://podcasts.apple.com/us/podcast/sergey-levine-on-robot-learning-offline-rl/id1569777340?i=1000535555216&uo=4",
+   "note": {
+    "en": "The Gradient interview on robot learning and offline reinforcement learning.",
+    "zh": "The Gradient 播客访谈：谈机器人学习与离线强化学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2021-06-01",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Sergey Levine: \"Is Reinforcement Learning Sufficient For Designing Generic And Adaptable Robots?\"",
+    "zh": "Sergey Levine: \"Is Reinforcement Learning Sufficient For Designing Generic And Adaptable Robots?\""
+   },
+   "source": "Soft Robotics Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/sergey-levine-is-reinforcement-learning-sufficient/id1475793741?i=1000523844800&uo=4",
+   "note": {
+    "en": "Talk asking whether reinforcement learning on its own is sufficient to design generic, adaptable robots.",
+    "zh": "演讲探讨：仅靠强化学习是否足以设计通用且可适应的机器人。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2020-07-14",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#108 – Sergey Levine: Robotics and Machine Learning",
+    "zh": "#108 – Sergey Levine: Robotics and Machine Learning"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/108-sergey-levine-robotics-and-machine-learning/id1434243584?i=1000484921126&uo=4",
+   "note": {
+    "en": "Lex Fridman Podcast conversation on robotics, deep reinforcement learning and end-to-end control.",
+    "zh": "在 Lex Fridman 播客中长谈机器人学、深度强化学习与端到端控制。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2020-03-09",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Advancements in Machine Learning with Sergey Levine",
+    "zh": "Advancements in Machine Learning with Sergey Levine"
+   },
+   "source": "The TWIML AI Podcast (formerly This We…",
+   "url": "https://podcasts.apple.com/us/podcast/advancements-in-machine-learning-with-sergey-levine/id1116303051?i=1000467919041&uo=4",
+   "note": {
+    "en": "TWIML interview surveying his lab's recent work on deep reinforcement learning for robots.",
+    "zh": "TWIML 访谈：介绍其实验室在机器人深度强化学习方面的近期工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2019-05-02",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Episode 14 - Sergey Levine",
+    "zh": "Episode 14 - Sergey Levine"
+   },
+   "source": "Eye On A.I.",
+   "url": "https://podcasts.apple.com/us/podcast/episode-14-sergey-levine/id1438378439?i=1000437026194&uo=4",
+   "note": {
+    "en": "Sergey Levine discussed robot touch, robot \"dreams,\" and open questions in robot learning on the Eye On A.I. podcast.",
+    "zh": "Sergey Levine在Eye On A.I.播客中探讨了机器人触觉、机器人“做梦”以及机器人学习中的未解问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2017-08-30",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ep. 37: Sergey Levine on How Deep Learning Will Unleash a Robotics Revolution",
+    "zh": "Ep. 37: Sergey Levine on How Deep Learning Will Unleash a Robotics Revolution"
+   },
+   "source": "NVIDIA AI Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/ep-37-sergey-levine-on-how-deep-learning-will-unleash/id1186480811?i=1000391654307&uo=4",
+   "note": {
+    "en": "Early interview on how deep learning would move robots beyond single pre-programmed tasks.",
+    "zh": "早期访谈：谈深度学习将如何让机器人突破单一预编程任务的局限。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2017-06-24",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "ep.237: Deep Learning in Robotics, with Sergey Levine",
+    "zh": "ep.237: Deep Learning in Robotics, with Sergey Levine"
+   },
+   "source": "Robohub Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/ep-237-deep-learning-in-robotics-with-sergey-levine/id281542536?i=1000538515682&uo=4",
+   "note": {
+    "en": "Robohub interview explaining deep learning for robotics and the practical difficulties of using it.",
+    "zh": "Robohub 访谈：解释机器人领域的深度学习及其实际应用难点。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-07-13",
+   "level": "major",
+   "title": {
+    "en": "Physical Intelligence in talks to raise ~$1B above an $11B valuation",
+    "zh": "Physical Intelligence 洽谈约 10 亿美元融资，估值超 110 亿美元"
+   },
+   "body": {
+    "en": "Interest from Founders Fund and Lightspeed alongside existing backers Thrive Capital and Lux Capital. The company builds the software brain, not the robots.",
+    "zh": "Founders Fund 与 Lightspeed 有意参与，现有投资方 Thrive Capital 与 Lux Capital 跟投。公司只做软件大脑，不做机器人本体。"
+   },
+   "source": "fundsforNGOs",
+   "url": "https://news.fundsforngos.org/2026/07/13/ai-robotics-startup-physical-intelligence-targets-1-billion-funding-round-at-11-billion-valuation/"
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "embodied",
+ "score": {
+  "total": 29.8,
+  "attention": 11,
+  "centrality": 42,
+  "momentum": 33,
+  "stature": 68,
+  "pageviews": 4213,
+  "citations": 63110,
+  "hIndex": 112,
+  "events": 1,
+  "posts": 73,
+  "wikiEn": "Sergey Levine",
+  "wikiZh": null
+ },
+ "seedRank": 77,
+ "tier": "t5"
+}

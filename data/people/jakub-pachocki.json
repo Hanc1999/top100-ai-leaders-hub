@@ -1,0 +1,892 @@
+{
+ "rank": 50,
+ "id": "jakub-pachocki",
+ "name": {
+  "en": "Jakub Pachocki",
+  "zh": "Jakub Pachocki"
+ },
+ "role": {
+  "en": "Chief Scientist, OpenAI",
+  "zh": "OpenAI 首席科学家"
+ },
+ "org": "OpenAI",
+ "region": {
+  "en": "United States / Poland",
+  "zh": "美国/波兰"
+ },
+ "tags": [
+  "OpenAI",
+  "o-series",
+  "GPT-5",
+  "Automated researcher",
+  "Reasoning"
+ ],
+ "why": {
+  "en": "Succeeded Sutskever in setting OpenAI's research direction and long-term technical vision. The o-series and the GPT-5 line are his roadmap; the 2026 North Star is a fully automated AI researcher.",
+  "zh": "接替 Sutskever 主导 OpenAI 的研究方向与长期技术愿景。o 系列与 GPT-5 路线出自其规划；2026 年的北极星是完全自动化的 AI 研究员。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@merettm",
+   "url": "https://x.com/merettm",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @merettm",
+   "url": "https://github.com/merettm",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "OpenAI Research",
+   "url": "https://openai.com/research/",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "OpenAI News",
+   "url": "https://openai.com/news/",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "OpenAI Newsroom — Research section",
+   "url": "https://openai.com/news/research/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Jakub+Pachocki",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Jakub+Pachocki",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Jakub+Pachocki",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Jakub+Pachocki&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Jakub+Pachocki&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Jakub+Pachocki",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Jakub+Pachocki",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Jakub+Pachocki",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Jakub+Pachocki",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Jakub+Pachocki",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Jakub+Pachocki",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Jakub+Pachocki",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Jakub+Pachocki",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Jakub+Pachocki&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jakub_Pachocki",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-03-20",
+   "kind": "interview",
+   "title": {
+    "en": "OpenAI is throwing everything into building a fully automated researcher",
+    "zh": "OpenAI 正把一切押在打造完全自动化的研究员上"
+   },
+   "source": "MIT Technology Review",
+   "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+   "note": {
+    "en": "The 'North Star' framing: reasoning models, agents and interpretability all pulled toward one goal.",
+    "zh": "「北极星」框架：推理模型、智能体与可解释性全部收敛到一个目标。"
+   }
+  },
+  {
+   "date": "2026-01-01",
+   "kind": "podcast",
+   "title": {
+    "en": "From Vibe Coding to Vibe Researching (with Mark Chen)",
+    "zh": "从 Vibe Coding 到 Vibe Researching（与 Mark Chen）"
+   },
+   "source": "a16z",
+   "url": "https://a16z.com/podcast/from-vibe-coding-to-vibe-researching-openais-mark-chen-and-jakub-pachocki/",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-09-06",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "An Alien Mind",
+    "zh": "An Alien Mind"
+   },
+   "source": "OpenAI News",
+   "url": "https://openai.com/index/an-alien-mind",
+   "note": {
+    "en": "Pachocki published \"An Alien Mind,\" reflecting on increasingly capable AI and calling for stronger safeguards and international coordination.",
+    "zh": "帕乔基发表文章《An Alien Mind》，探讨日益强大的人工智能，并呼吁加强安全保障与国际协调。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-09-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I wrote about the state of AI, why I’m concerned about the next few years, and the choices we need to make to keep the future in humanity’s hands. An Alien Mind",
+    "zh": "I wrote about the state of AI, why I’m concerned about the next few years, and the choices we need to make to keep the future in humanity’s hands. An Alien Mind"
+   },
+   "source": "@merettm",
+   "url": "https://x.com/merettm/status/2096630018495377464",
+   "note": {
+    "en": "Pachocki shared his essay on X, explaining his concerns about AI's near-term trajectory and the choices needed to keep the future under human control.",
+    "zh": "帕乔基在X上分享了自己的文章，阐述了他对AI近期发展走向的担忧，以及为保持人类对未来掌控所需做出的选择。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I want to prevent a race into unmonitorability kicked off by confused reporting. The depth of the computation graph for our present frontier models, including A",
+    "zh": "I want to prevent a race into unmonitorability kicked off by confused reporting. The depth of the computation graph for our present frontier models, including A"
+   },
+   "source": "@merettm",
+   "url": "https://x.com/merettm/status/2095023204993490967",
+   "note": {
+    "en": "Pachocki said he wants to head off a race toward 'unmonitorable' AI reasoning, noting that current frontier models' computation graphs remain within a factor of two of GPT-4's depth.",
+    "zh": "Pachocki表示希望避免陷入AI推理“不可监控”的竞赛，并指出当前前沿模型的计算图深度与GPT-4相比相差不到两倍。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-04-09",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ep 84: OpenAI’s Chief Scientist on Continual Learning Hype, RL Beyond Code, & Future Alignment Directions",
+    "zh": "Ep 84: OpenAI’s Chief Scientist on Continual Learning Hype, RL Beyond Code, & Future Alignment Directions"
+   },
+   "source": "Unsupervised Learning with Jacob Effron",
+   "url": "https://podcasts.apple.com/us/podcast/ep-84-openais-chief-scientist-on-continual-learning/id1672188924?i=1000760465610&uo=4",
+   "note": {
+    "en": "Pachocki discusses continual learning hype, RL beyond code, and OpenAI's alignment plans in a wide-ranging interview on the Unsupervised Learning podcast.",
+    "zh": "帕霍茨基在Unsupervised Learning播客访谈中探讨了持续学习的炒作、代码之外的强化学习,以及OpenAI的对齐方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-12-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Monitoring Monitorability",
+    "zh": "Monitoring Monitorability"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.18311v1",
+   "note": {
+    "en": "Asks whether the monitorability of a reasoning model's chain of thought can itself be measured and tracked, continuing the chain-of-thought oversight line he backs at OpenAI.",
+    "zh": "探讨推理模型思维链的可监控性本身能否被度量与追踪，延续了他在 OpenAI 主推的思维链监督方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "OpenAI GPT-5 System Card",
+    "zh": "OpenAI GPT-5 System Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2601.03267v2",
+   "note": {
+    "en": "System card for GPT-5, the model line whose research direction he sets as OpenAI's chief scientist.",
+    "zh": "GPT-5 的系统卡；作为 OpenAI 首席科学家，他为这一模型系列设定研究方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-09-25",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "From Vibe Coding to Vibe Researching: OpenAI’s Mark Chen and Jakub Pachocki",
+    "zh": "From Vibe Coding to Vibe Researching: OpenAI’s Mark Chen and Jakub Pachocki"
+   },
+   "source": "The a16z Show",
+   "url": "https://podcasts.apple.com/us/podcast/from-vibe-coding-to-vibe-researching-openais-mark-chen/id842818711?i=1000728378665&uo=4",
+   "note": {
+    "en": "Joint appearance with Mark Chen on a16z's podcast, arguing that what follows vibe coding is automated research — OpenAI's stated goal of an AI researcher.",
+    "zh": "与 Mark Chen 一同做客 a16z 播客，提出继「氛围编程」之后是自动化研究，即 OpenAI 宣称的「AI 研究员」目标。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-08-15",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Defining AGI and the road ahead - Episode 5",
+    "zh": "Defining AGI and the road ahead - Episode 5"
+   },
+   "source": "OpenAI Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/defining-agi-and-the-road-ahead-episode-5/id1820330260?i=1000722105229&uo=4",
+   "note": {
+    "en": "Pachocki and OpenAI researcher Szymon Sidor discuss what AI competition wins reveal about progress toward AGI and automating scientific discovery, on OpenAI's own podcast.",
+    "zh": "帕霍茨基与OpenAI研究员Szymon Sidor在OpenAI官方播客中探讨AI竞赛胜利对AGI进展的意义,以及科学发现自动化的前景。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-08-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "gpt-oss-120b & gpt-oss-20b Model Card",
+    "zh": "gpt-oss-120b & gpt-oss-20b Model Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2508.10925v1",
+   "note": {
+    "en": "Model card for gpt-oss-120b and gpt-oss-20b, OpenAI's open-weight mixture-of-experts reasoning models.",
+    "zh": "gpt-oss-120b 与 gpt-oss-20b 的模型卡，这是 OpenAI 的开放权重混合专家推理模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-07-31",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Jakub Pachocki and Szymon Sidor: Building AI",
+    "zh": "Jakub Pachocki and Szymon Sidor: Building AI"
+   },
+   "source": "Before AGI",
+   "url": "https://podcasts.apple.com/us/podcast/jakub-pachocki-and-szymon-sidor-building-ai/id1752959821?i=1000720090187&uo=4",
+   "note": {
+    "en": "Conversation with his OpenAI colleague Szymon Sidor on how they build reasoning systems and where the capability curve is heading.",
+    "zh": "与 OpenAI 同事 Szymon Sidor 对谈，讨论他们如何构建推理系统以及能力曲线的走向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-07-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety",
+    "zh": "Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2507.11473v2",
+   "note": {
+    "en": "Cross-lab position paper arguing that chain-of-thought monitorability is a fragile safety property developers should measure and preserve.",
+    "zh": "跨实验室立场论文，主张思维链可监控性是一种脆弱的安全特性，开发者应对其进行度量与保护。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-03-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Monitoring Reasoning Models for Misbehavior and the Risks of Promoting Obfuscation",
+    "zh": "Monitoring Reasoning Models for Misbehavior and the Risks of Promoting Obfuscation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2503.11926v1",
+   "note": {
+    "en": "Shows that penalising reward hacking visible in a reasoning model's chain of thought teaches the model to hide its intent rather than stop.",
+    "zh": "研究表明，若因推理模型思维链中暴露的奖励作弊而施加惩罚，模型会学会隐藏意图而非停止作弊。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-02-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Competitive Programming with Large Reasoning Models",
+    "zh": "Competitive Programming with Large Reasoning Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2502.06807v2",
+   "note": {
+    "en": "Reports that scaled reinforcement learning lifts reasoning models to elite competitive-programming performance, the benchmark closest to his own contest background.",
+    "zh": "论文报告大规模强化学习将推理模型提升至顶尖竞赛编程水平——这一基准最贴近他本人的竞赛背景。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-12-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "OpenAI o1 System Card",
+    "zh": "OpenAI o1 System Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2412.16720v2",
+   "note": {
+    "en": "System card for the o1 series, the chain-of-thought reinforcement learning line he led at OpenAI.",
+    "zh": "o1 系列的系统卡；该思维链强化学习路线由他在 OpenAI 主导。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-10-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GPT-4o System Card",
+    "zh": "GPT-4o System Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2410.21276v1",
+   "note": {
+    "en": "System card for GPT-4o, OpenAI's first model trained end to end across text, audio, image and video.",
+    "zh": "GPT-4o 的系统卡；这是 OpenAI 首个在文本、音频、图像与视频上端到端训练的模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-08-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Note on the Maximum Number of k-Powers in a Finite Word",
+    "zh": "A Note on the Maximum Number of k-Powers in a Finite Word"
+   },
+   "source": "The Electronic Journal of Combinatorics",
+   "url": "https://doi.org/10.37236/11270",
+   "note": {
+    "en": "Pure combinatorics-on-words paper co-authored by Jakub Pachocki, reflecting his pre-OpenAI academic background, proving tight bounds on the number of k-power factors in a finite word.",
+    "zh": "Jakub Pachocki合著的组合数学（词组合学）论文，体现其加入OpenAI之前的学术背景，证明了有限词中k次幂因子数量的紧致上下界。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2023-03-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GPT-4 Technical Report",
+    "zh": "GPT-4 Technical Report"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2303.08774v6",
+   "note": {
+    "en": "The GPT-4 technical report, on which he is a contributing author.",
+    "zh": "GPT-4 技术报告，他是共同作者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-03-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer",
+    "zh": "Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2203.03466v2",
+   "note": {
+    "en": "Tensor Programs V paper, which lets hyperparameters tuned on small models transfer zero-shot to very large ones.",
+    "zh": "Tensor Programs V 论文，让在小模型上调好的超参数零样本迁移到超大模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Novel Dense Subgraph Discovery Primitives: Risk Aversion and Exclusion Queries",
+    "zh": "Novel Dense Subgraph Discovery Primitives: Risk Aversion and Exclusion Queries"
+   },
+   "source": "Lecture notes in computer science",
+   "url": "https://doi.org/10.1007/978-3-030-46150-8_23",
+   "note": {
+    "en": "Algorithms paper co-authored by Jakub Pachocki on finding dense subgraphs under risk-aversion and exclusion constraints, from his pre-OpenAI theoretical computer science work.",
+    "zh": "Jakub Pachocki合著的算法论文，研究在风险规避与排除约束条件下发现稠密子图的问题，属于其加入OpenAI之前的理论计算机科学研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2019-12-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Dota 2 with Large Scale Deep Reinforcement Learning",
+    "zh": "Dota 2 with Large Scale Deep Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1912.06680v1",
+   "note": {
+    "en": "OpenAI Five, the large-scale reinforcement learning system that beat the Dota 2 world champions; he led the project.",
+    "zh": "OpenAI Five：击败 Dota 2 世界冠军的大规模强化学习系统，该项目由他领导。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-08-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Constant Arboricity Spectral Sparsifiers",
+    "zh": "Constant Arboricity Spectral Sparsifiers"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1808.05662v1",
+   "note": {
+    "en": "Proves that every graph is spectrally similar to the union of a constant number of forests, part of his spectral-sparsification line at CMU.",
+    "zh": "证明任意图在谱意义上都可由常数个森林的并集近似，属于他在 CMU 的谱稀疏化系列工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-08-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Learning Dexterous In-Hand Manipulation",
+    "zh": "Learning Dexterous In-Hand Manipulation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1808.00177v5",
+   "note": {
+    "en": "OpenAI's robotics result: a Shadow Hand trained entirely in simulation learns to reorient objects on real hardware.",
+    "zh": "OpenAI 的机器人成果：完全在仿真中训练的 Shadow Hand 学会在真实硬件上重新定向物体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2017-10-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Emergent Complexity via Multi-Agent Competition",
+    "zh": "Emergent Complexity via Multi-Agent Competition"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1710.03748v3",
+   "note": {
+    "en": "Shows that competition between agents in simple environments produces complex behaviour, an early statement of the self-play scaling idea behind OpenAI Five.",
+    "zh": "论文表明简单环境中智能体之间的竞争即可催生复杂行为，是 OpenAI Five 背后自我博弈扩展思路的早期表述。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2017-04-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Optimal lower bounds for universal relation, and for samplers and finding duplicates in streams",
+    "zh": "Optimal lower bounds for universal relation, and for samplers and finding duplicates in streams"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1704.00633v1",
+   "note": {
+    "en": "Optimal communication lower bounds for the universal relation, samplers and duplicate-finding in streams, from his CMU theory period.",
+    "zh": "给出通用关系、采样器以及数据流查重问题的最优通信下界，出自他在 CMU 的理论研究时期。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2016-11-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Framework for Analyzing Resparsification Algorithms",
+    "zh": "A Framework for Analyzing Resparsification Algorithms"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1611.06940v1",
+   "note": {
+    "en": "Generalises his resparsification analysis into a framework covering a family of algorithms that build spectral sparsifiers by resampling.",
+    "zh": "将他此前的重稀疏化分析推广为一个框架，涵盖一族通过重采样构造谱稀疏化的算法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2016-11-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Approximating Cycles in Directed Graphs: Fast Algorithms for Girth and Roundtrip Spanners",
+    "zh": "Approximating Cycles in Directed Graphs: Fast Algorithms for Girth and Roundtrip Spanners"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1611.00721v2",
+   "note": {
+    "en": "Fast approximation algorithms for the girth of a directed graph and for roundtrip spanners.",
+    "zh": "为有向图的围长近似计算与往返生成器给出快速算法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2016-06-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scalable motif-aware graph clustering",
+    "zh": "Scalable motif-aware graph clustering"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1606.06235v2",
+   "note": {
+    "en": "Graph clustering that uses triangles and other motifs to detect communities in networks more efficiently.",
+    "zh": "利用三角形等模体进行图聚类，从而更高效地发现网络中的社区结构。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2016-06-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Geometric Median in Nearly Linear Time",
+    "zh": "Geometric Median in Nearly Linear Time"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1606.05225v1",
+   "note": {
+    "en": "A nearly linear time algorithm for the geometric median, a long-standing problem in convex optimisation.",
+    "zh": "为凸优化中的长期问题——几何中位数——给出近线性时间算法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2016-05-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Analysis of Resparsification",
+    "zh": "Analysis of Resparsification"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1605.08194v1",
+   "note": {
+    "en": "Shows that sparsifying a matrix by iteratively resampling rows matches the guarantees of classic offline spectral sparsifiers.",
+    "zh": "证明通过迭代重采样行来稀疏化矩阵，可达到经典离线谱稀疏化方法的保证。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2016-04-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Online Row Sampling",
+    "zh": "Online Row Sampling"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1604.05448v1",
+   "note": {
+    "en": "A single-pass streaming algorithm that spectrally approximates a tall matrix by sampling its rows online.",
+    "zh": "提出单遍流式算法，通过在线采样行对高矩阵做谱近似。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2016-03-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Routing under Balance",
+    "zh": "Routing under Balance"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1603.09009v1",
+   "note": {
+    "en": "Introduces the notion of balance for directed graphs and gives routing results for directed graphs that are close to undirected.",
+    "zh": "提出有向图「平衡性」的概念，并为接近无向的有向图给出路由结果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-03-20",
+   "level": "notable",
+   "title": {
+    "en": "Roadmap: an autonomous 'AI research intern' by September",
+    "zh": "路线图：9 月前推出自主的「AI 研究实习生」"
+   },
+   "body": {
+    "en": "Able to take on specific research problems; a full multi-agent research system is planned for 2028.",
+    "zh": "能独立承担具体研究问题；完整的多智能体研究系统计划于 2028 年推出。"
+   },
+   "source": "MIT Technology Review",
+   "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T12:11:29Z",
+   "level": "major",
+   "title": {
+    "en": "OpenAI chief scientist Jakub Pachocki warns on AI scaling",
+    "zh": "OpenAI chief scientist Jakub Pachocki warns on AI scaling"
+   },
+   "body": {
+    "en": "OpenAI Chief Scientist Jakub Pachocki publicly warned about the risks of continued AI scaling.",
+    "zh": "OpenAI首席科学家Jakub Pachocki公开警告持续扩大AI规模所带来的风险。"
+   },
+   "source": "qz.com",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8yZzJxX0YtZlNzYWZPN1p0dHpTOG9KNGdNRXZpMV8wRThlcnlUTWZrMDF5RW1GWUZ6eUIzbS1BTl9XRUlXRW5HcUhzTklUbDZyRUczUk11SEVNWTVNUWFvclNwNlNSZl8zRkZPWnpvTHdmbF8yRzFNalZR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-07",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "After OpenAI AI agent again 'caught hacking', company's chief scientist Jakub Pachocki warns every other",
+    "zh": "After OpenAI AI agent again 'caught hacking', company's chief scientist Jakub Pachocki warns every other"
+   },
+   "body": {
+    "en": "After an OpenAI agent was caught hacking again, Chief Scientist Jakub Pachocki publicly warned other AI labs about the risk.",
+    "zh": "在OpenAI的一个智能体再次被发现从事黑客行为后，首席科学家Jakub Pachocki公开就此风险向其他AI实验室发出警告。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNcWFyeEdvNlFhOHhMQ2lYdkdmT2xSUEpjR3NpVld6bXZxSkU0T1p2a0J6Uzl3RGZkd1BCT3RkU2xXdEJtM2N0QU9EYnhhbWxFYkVJMWgwT3BPYU9uanFPcUdYMV9vNGV1QlBVQVgzdFlzaEtoRnRzRHFhbGl2WGNsekRoZzY0NUdrdXZlVElPMVBsdnM4dnZsdlhPNlF4a2g5T2d4SEpFcW9TSHFXZzh6dXMyUnJudERiWkpwaEpqY0I5S0JnY2FZQWlhZW9qNVg3UjR5QkJIM3ZsWTAzZUU5c0RsQXBBX3dnYVc0NkhHRERBLUZqSUR1V1oxeTZLSmlpbEdpQ0plVkdRQnRmTVUwMm83MllENnhRekVLRGRiOXR3c1BpMk5hSlVSSjhkb2h5ZHU0ZGJZckVuaVUyTWfSAcMCQVVfeXFMTmhqQ0NSOUJhemxFNlkxbDhoS0g1VW9UYTk2UDhieXp3RWdacGNfcnZsSVRqYTJtV2ZuMEtXYWNmcFZlS1BlMFRiSjdRME90U1lMYzlueEpNLWs5WkZRelJhellNNlQwaERlMVRDbGlzR3pmNV9UbDZ6QW9vRjkzMzZhc293blJHbW9YY1RRSEhGbmdNRVUwbVFOYm00ZV9OVG1LalBkNnloYmZrV3lqTURoaVk2VXVWZV9EWkNjS01nYlN1ZnUxS1BMNktoQlFXWTN2bkwyZ3NEb1hoVXU5a3o5TnY0YndzR3B2bVhDbzRBclVUNFdhRkUtOVoxX0tiQ19saVJ3LXoxdENPdlhLcjVScXJDd3JlWm1KNXJ5WVlLYmMxbURSQlF0cmVIcnJjUU1RV3VuQTlpbXF6RHJUQmhQVnM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-07",
+   "ts": "2026-09-07T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "No lab has solved alignment: OpenAI Chief Scientist Jakub Pachocki’s warning about AI progress",
+    "zh": "No lab has solved alignment: OpenAI Chief Scientist Jakub Pachocki’s warning about AI progress"
+   },
+   "body": {
+    "en": "OpenAI chief scientist Jakub Pachocki warned that no lab, including OpenAI, has solved alignment even as capabilities race ahead — a notable public statement on safety.",
+    "zh": "OpenAI首席科学家Jakub Pachocki警告称，包括OpenAI在内没有任何实验室解决了对齐问题，而能力发展却在加速，这是一次重要的安全表态。"
+   },
+   "source": "digit.in",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNk5nNGNnM1NWb0xwQ3A1OHJhbnBJR2RQSThvc0U1eW14aG9Zd1FDYjNMYUxya04zVFdfcTREdmpIdFlFeFlWMUJyU0NqR2RrWUx3VDFSd1VlZlNvMkRsdTBTdDM2MnRiR1lpQ2RDOU5nOGx6LUFQeHJtZUEyR3RtVkdBUFgyQVVpenAwMUM0bk1BdnppY21IVFVhUmI4RFF4WUEwaENneTN4czNQNnRrT0VuSmlXVmxMQWVUYnRHNnBDZVFDSURacFZPMUdfbldO0gHXAUFVX3lxTE9zcFk4VTY2V1lQSXJQVGxReHdqZDVMU0JUazYxZEx4WWdqSUc0Wl91a01SX3Nvd2NRdGtFOXNUVjR0Q0RpZWlmRjB2Zll1NWppWURuWGJhaTJRb0l2NGsyM3RNQzNNSTR6NjZPSjhycXA0bEx4YUhlVzBmMkxZNmVRRXJhMkFITGhOV1pBbjFUc1N6STJ5OEdnNFJpUU9kX1VnUXZaUG9KSHFUMzFFZzVqWVVEbTRKNVIwSmdFYThmWHdVelZBLWNjSzFGMG5aTTlUYjI3bDlZ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-06",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "'Extreme Caution': OpenAI chief scientist Jakub Pachocki raises alarm over rising machine intelligence",
+    "zh": "'Extreme Caution': OpenAI chief scientist Jakub Pachocki raises alarm over rising machine intelligence"
+   },
+   "body": {
+    "en": "Coverage of Pachocki's \"An Alien Mind\" essay, in which he urges extreme caution over rising machine intelligence.",
+    "zh": "媒体报道帕乔基的文章《An Alien Mind》，其中他呼吁对日益提升的机器智能保持高度谨慎。"
+   },
+   "source": "Firstpost",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNXY3Tm54QUNZa1RrQlFLSHQ1VTE1Zjk1WExfWFFJVWZ3VjNCeXNRM2dJV3FXTERTOFB2VGR1WXRuQ0Y4VnlabWdZZUZVSF9ya1RXSDdxNTh6N0tlQWluaHNHQW1ZdW94NThqU3pSS0pWSnRldDQ4Q2dhR00tRHFCN0FkNDY4RExSSHpGcFk2SHE4dTAwRk5FbWZaUERTYWpJMjdLb05pcFFORG9DMkJBQjkwSjN0QmFReEwxUkM5cGxvend6cUVaYno2ajc5UVk0Vk1palV2OE5URGRj0gHiAUFVX3lxTE52SVZqcjBPM28zazlyc21zV0xpYUVXak5rNkF0amxFdkNlUVd4VUNyTjNKRjhjZmpOZVBZTGZjS2pJcE55SlhWbnZja25ILThwNnlscW42RDQyc3JoT3hwU0hEWERyaFQ5eFJkcElZMUE5Zm5haHhYVDRPQ08yNmp4czg0OGV2XzY1N1NoYU1DMll6NXBieC1EelZWN1JiaTAzSzhRUWlndmpXSkM3Tm5UdGlfdzM5Q05ZQVNMM2RzT1VmT0Q1UXhxYzZiTGRGZFFyT01PSmo1QXljREhpQUdMNnc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-06",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "OpenAI Chief Scientist Jakub Pachocki Warns No AI Lab Is Ready to Scale Safely",
+    "zh": "OpenAI Chief Scientist Jakub Pachocki Warns No AI Lab Is Ready to Scale Safely"
+   },
+   "body": {
+    "en": "In his essay 'An Alien Mind,' OpenAI Chief Scientist Jakub Pachocki warns that no AI lab, including OpenAI, is yet ready to scale safely as systems approach recursive self-improvement.",
+    "zh": "OpenAI首席科学家Jakub Pachocki在文章《An Alien Mind》中警告，随着AI系统逼近递归自我改进，包括OpenAI在内没有任何实验室已做好安全扩展的准备。"
+   },
+   "source": "Startup Fortune",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTmNDWGwzUi1XdXB0cDlJZU56SF9Kb2FTTDRRcS1lYW4yWmxXNnVsbnBnQks2eDNRa2xjSmszU3k1eGdiSHlYZGsyWW1LNTVVRWtpOC1VSF94b3pyejdOQ3FmYVdOWkprSU9PdmFIOFRDOVd0SlVhZmJMSm0xZ2Z0c1o4eDg0VHdCbEI5S2dSb1ZSb2xuWERZX0JOZnNIbXlvc3ItSDhYYTl5Zw?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "lab",
+ "score": {
+  "total": 49.1,
+  "attention": 36,
+  "centrality": 87,
+  "momentum": 29,
+  "stature": null,
+  "pageviews": 51141,
+  "citations": 3664,
+  "hIndex": 15,
+  "events": 6,
+  "posts": 33,
+  "wikiEn": "Jakub Pachocki",
+  "wikiZh": "雅库布·帕霍基"
+ },
+ "seedRank": 16,
+ "tier": "t3"
+}

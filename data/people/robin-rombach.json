@@ -1,0 +1,763 @@
+{
+ "rank": 87,
+ "id": "robin-rombach",
+ "name": {
+  "en": "Robin Rombach",
+  "zh": "Robin Rombach"
+ },
+ "role": {
+  "en": "Co-founder & CEO, Black Forest Labs",
+  "zh": "Black Forest Labs 联合创始人兼 CEO"
+ },
+ "org": "Black Forest Labs",
+ "region": {
+  "en": "Germany",
+  "zh": "德国"
+ },
+ "tags": [
+  "Black Forest Labs",
+  "FLUX.2",
+  "Stable Diffusion",
+  "Latent diffusion"
+ ],
+ "why": {
+  "en": "First author of Stable Diffusion and the latent diffusion paper — the direct source of the open image-generation wave. FLUX keeps him at the front of it.",
+  "zh": "Stable Diffusion 与潜在扩散模型论文的第一作者，图像生成开源浪潮的直接源头。FLUX 系列使他继续领跑。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@robrombach",
+   "url": "https://x.com/robrombach",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @rromb",
+   "url": "https://github.com/rromb",
+   "t": 1
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face @rromb",
+   "url": "https://huggingface.co/rromb",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Black Forest Labs Blog",
+   "url": "https://bfl.ai/blog",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Black Forest Labs",
+   "url": "https://bfl.ai/",
+   "t": 2
+  },
+  {
+   "kind": "hf",
+   "label": "BFL on Hugging Face",
+   "url": "https://huggingface.co/black-forest-labs",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Robin+Rombach",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Robin+Rombach",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Robin+Rombach",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Robin+Rombach&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Robin+Rombach&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Robin+Rombach",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Robin+Rombach",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Robin+Rombach",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Robin+Rombach",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Robin+Rombach",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Robin+Rombach",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Robin+Rombach",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Robin+Rombach",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Robin+Rombach&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2021-12-20",
+   "kind": "paper",
+   "title": {
+    "en": "High-resolution image synthesis with latent diffusion models",
+    "zh": "基于潜在扩散模型的高分辨率图像合成"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2112.10752",
+   "note": {
+    "en": "The Stable Diffusion paper — the direct source of the open image-generation wave.",
+    "zh": "即 Stable Diffusion 论文 —— 图像生成开源浪潮的直接源头。"
+   }
+  },
+  {
+   "date": "2025-11-25",
+   "kind": "report",
+   "title": {
+    "en": "FLUX.2",
+    "zh": "FLUX.2"
+   },
+   "source": "Black Forest Labs",
+   "url": "https://bfl.ai/blog",
+   "note": {
+    "en": "High-resolution photorealism, character and style consistency, multi-reference editing.",
+    "zh": "高分辨率写实、角色与风格一致性、多参考图编辑。"
+   }
+  },
+  {
+   "date": "2026-07-24",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Wie entwickelt man KI, die die Welt wirklich versteht, Robin Rombach?",
+    "zh": "Wie entwickelt man KI, die die Welt wirklich versteht, Robin Rombach?"
+   },
+   "source": "Handelsblatt Disrupt - Der Podcast übe…",
+   "url": "https://podcasts.apple.com/us/podcast/wie-entwickelt-man-ki-die-die-welt-wirklich-versteht/id1462660628?i=1000778115522&uo=4",
+   "note": {
+    "en": "Handelsblatt Disrupt interview in which Rombach discusses visual intelligence for robot perception, Black Forest Labs' dealings with Elon Musk, and competing with Google.",
+    "zh": "《商报》Disrupt 播客访谈：Rombach 谈机器人感知所需的视觉智能、Black Forest Labs 与马斯克的接触，以及与谷歌的竞争。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-07-24",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Robin Rombach über Robotergehirne, verhandeln mit Musk und Frust über die deutsche Selbstaufgabe",
+    "zh": "Robin Rombach über Robotergehirne, verhandeln mit Musk und Frust über die deutsche Selbstaufgabe"
+   },
+   "source": "Handelsblatt Disrupt - Der Podcast übe…",
+   "url": "https://podcasts.apple.com/us/podcast/robin-rombach-%C3%BCber-robotergehirne-verhandeln-mit-musk/id1462660628?i=1000778115522&uo=4",
+   "note": {
+    "en": "Rombach appears as a guest on the Handelsblatt Disrupt podcast, giving a rare look inside Black Forest Labs and discussing robotics, negotiating with Musk, and Germany's competitiveness.",
+    "zh": "Rombach作为嘉宾做客Handelsblatt Disrupt播客，罕见地分享了Black Forest Labs的内部情况，并谈及机器人、与马斯克的谈判以及德国的竞争力问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-03-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis",
+    "zh": "Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.06507v1",
+   "note": {
+    "en": "Black Forest Labs paper showing that flow-matching models can learn strong semantic representations on their own, removing the dependence on separately trained external encoders.",
+    "zh": "Black Forest Labs 的论文：流匹配模型可自监督地学得强语义表征，从而摆脱对单独训练的外部编码器的依赖。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Drug-like antibodies with low immunogenicity in human panels designed with Latent-X2",
+    "zh": "Drug-like antibodies with low immunogenicity in human panels designed with Latent-X2"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.20263v1",
+   "note": {
+    "en": "Latent-X2 designs drug-like antibodies that show low immunogenicity in human panels; Rombach is credited as an author and advisor to Latent Labs.",
+    "zh": "Latent-X2 设计出在人体样本中免疫原性较低的类药抗体；Rombach 以作者兼 Latent Labs 顾问身份署名。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-07-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Latent-X: An Atom-level Frontier Model for De Novo Protein Binder Design",
+    "zh": "Latent-X: An Atom-level Frontier Model for De Novo Protein Binder Design"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2507.19375v1",
+   "note": {
+    "en": "Latent-X, an atom-level generative model for de novo protein binder design that skips large-scale screening; Rombach is credited as an author and advisor to Latent Labs.",
+    "zh": "Latent-X 是用于从头设计蛋白结合体的原子级生成模型，可省去大规模筛选；Rombach 以作者兼 Latent Labs 顾问身份署名。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-06-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space",
+    "zh": "FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2506.15742v2",
+   "note": {
+    "en": "FLUX.1 Kontext, Black Forest Labs' flow-matching model that unifies image generation and in-context editing — the flagship release of the company he leads.",
+    "zh": "FLUX.1 Kontext 是 Black Forest Labs 将图像生成与上下文编辑统一起来的流匹配模型，也是他所领导公司的旗舰发布。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-12-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion Distillation",
+    "zh": "Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion Distillation"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.1145/3680528.3687625",
+   "note": {
+    "en": "Paper on fast high-resolution image synthesis via latent adversarial diffusion distillation (SDXL Turbo).",
+    "zh": "论文介绍通过潜空间对抗扩散蒸馏实现快速高分辨率图像生成（SDXL Turbo）。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2024-10-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Adversarial Diffusion Distillation",
+    "zh": "Adversarial Diffusion Distillation"
+   },
+   "source": "Lecture notes in computer science",
+   "url": "https://doi.org/10.1007/978-3-031-73016-0_6",
+   "note": {
+    "en": "Adversarial Diffusion Distillation paper, the technique behind SDXL Turbo's few-step image generation.",
+    "zh": "《对抗扩散蒸馏》论文，即SDXL Turbo少步数图像生成技术背后的方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2024-09-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image Using Latent Video Diffusion",
+    "zh": "SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image Using Latent Video Diffusion"
+   },
+   "source": "Lecture notes in computer science",
+   "url": "https://doi.org/10.1007/978-3-031-73232-4_25",
+   "note": {
+    "en": "SV3D paper on novel multi-view synthesis and 3D generation from a single image using latent video diffusion.",
+    "zh": "《SV3D》论文，利用潜在视频扩散从单张图像实现新视角合成与3D生成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2024-08-16",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The Researcher to Founder Journey, and the Power of Open Models",
+    "zh": "The Researcher to Founder Journey, and the Power of Open Models"
+   },
+   "source": "AI + a16z",
+   "url": "https://podcasts.apple.com/us/podcast/the-researcher-to-founder-journey-and-the/id1740178076?i=1000665678592&uo=4",
+   "note": {
+    "en": "Rombach and his Black Forest Labs co-founders discuss their path from researchers to founders and the case for open models.",
+    "zh": "Rombach与Black Forest Labs联合创始人们探讨了从研究者到创业者的转型历程，以及开放模型的价值。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-03-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scaling Rectified Flow Transformers for High-Resolution Image Synthesis",
+    "zh": "Scaling Rectified Flow Transformers for High-Resolution Image Synthesis"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2403.03206v1",
+   "note": {
+    "en": "The Stable Diffusion 3 paper: scaling rectified flow transformers for high-resolution text-to-image synthesis.",
+    "zh": "Stable Diffusion 3 论文：将修正流 Transformer 扩展到高分辨率文生图合成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-01-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "aMUSEd: An Open MUSE Reproduction",
+    "zh": "aMUSEd: An Open MUSE Reproduction"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2401.01808v1",
+   "note": {
+    "en": "aMUSEd, an open lightweight masked image model reproducing MUSE at a tenth of the parameters for fast text-to-image generation.",
+    "zh": "aMUSEd 是对 MUSE 的开源轻量复现，参数量仅十分之一，用于快速文生图。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-12-20",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Text to Video: The Next Leap in AI Generation",
+    "zh": "Text to Video: The Next Leap in AI Generation"
+   },
+   "source": "The a16z Show",
+   "url": "https://podcasts.apple.com/us/podcast/text-to-video-the-next-leap-in-ai-generation/id842818711?i=1000639152535&uo=4",
+   "note": {
+    "en": "Rombach discusses Stable Video Diffusion and the leap to text-to-video AI generation.",
+    "zh": "Rombach探讨了Stable Video Diffusion以及文本生成视频这一AI生成技术的新飞跃。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-12-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DiffusionSat: A Generative Foundation Model for Satellite Imagery",
+    "zh": "DiffusionSat: A Generative Foundation Model for Satellite Imagery"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2312.03606v2",
+   "note": {
+    "en": "DiffusionSat adapts diffusion generative modelling to satellite imagery, a Stanford collaboration he co-authored.",
+    "zh": "DiffusionSat 将扩散生成模型迁移到卫星遥感影像，他是这项斯坦福合作研究的共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-11-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets",
+    "zh": "Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2311.15127v1",
+   "note": {
+    "en": "Stable Video Diffusion: scaling latent video diffusion and its data curation to state-of-the-art text- and image-to-video generation.",
+    "zh": "Stable Video Diffusion：扩展潜空间视频扩散模型与数据整理流程，做到当时领先的文生视频与图生视频效果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-07-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis",
+    "zh": "SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2307.01952v1",
+   "note": {
+    "en": "SDXL, the larger-backbone latent diffusion model that became the widely used open text-to-image baseline.",
+    "zh": "SDXL 采用更大骨干网络的潜空间扩散模型，成为被广泛使用的开源文生图基线。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-04-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models",
+    "zh": "NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2304.09787v1",
+   "note": {
+    "en": "NeuralField-LDM generates 3D scenes with hierarchical latent diffusion, extending latent diffusion beyond flat images.",
+    "zh": "NeuralField-LDM 用分层潜空间扩散生成三维场景，把潜空间扩散从二维图像推向三维。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-04-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models",
+    "zh": "Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2304.08818v2",
+   "note": {
+    "en": "Video LDM: turning image latent diffusion models into high-resolution video generators by learning temporal layers.",
+    "zh": "Video LDM：通过训练时间维度的网络层，把图像潜空间扩散模型变成高分辨率视频生成器。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-10-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "On Distillation of Guided Diffusion Models",
+    "zh": "On Distillation of Guided Diffusion Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2210.03142v3",
+   "note": {
+    "en": "Distillation of classifier-free guided diffusion models into far fewer sampling steps, an early step toward fast diffusion inference.",
+    "zh": "将无分类器引导的扩散模型蒸馏到远少的采样步数，是扩散快速推理的早期工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-07-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models",
+    "zh": "Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2207.13038v1",
+   "note": {
+    "en": "Retrieval-augmented diffusion models for text-guided artistic image synthesis, conditioning generation on retrieved examples.",
+    "zh": "用检索增强的扩散模型做文本引导的艺术图像合成，以检索到的样例作为生成条件。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-04-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Semi-Parametric Neural Image Synthesis",
+    "zh": "Semi-Parametric Neural Image Synthesis"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2204.11824v3",
+   "note": {
+    "en": "Semi-parametric image synthesis: pairing a generative model with an external image database so capability scales without growing the network.",
+    "zh": "半参数化图像合成：让生成模型搭配外部图像数据库，不扩大网络也能提升能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-08-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "ImageBART: Bidirectional Context with Multinomial Diffusion for Autoregressive Image Synthesis",
+    "zh": "ImageBART: Bidirectional Context with Multinomial Diffusion for Autoregressive Image Synthesis"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2108.08827v1",
+   "note": {
+    "en": "ImageBART combines autoregressive image synthesis with multinomial diffusion to give the model bidirectional context.",
+    "zh": "ImageBART 将自回归图像合成与多项式扩散结合，为模型引入双向上下文。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-05-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "High-Resolution Complex Scene Synthesis with Transformers",
+    "zh": "High-Resolution Complex Scene Synthesis with Transformers"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2105.06458v1",
+   "note": {
+    "en": "Transformer-based synthesis of complex high-resolution scenes from coarse layouts.",
+    "zh": "基于 Transformer，从粗粒度布局合成复杂的高分辨率场景图像。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-05-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Stochastic Image-to-Video Synthesis using cINNs",
+    "zh": "Stochastic Image-to-Video Synthesis using cINNs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2105.04551v2",
+   "note": {
+    "en": "Stochastic image-to-video synthesis with conditional invertible neural networks, predicting plausible futures from a single frame.",
+    "zh": "用条件可逆神经网络做随机的图生视频合成，从单帧预测多种合理的后续运动。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-04-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Geometry-Free View Synthesis: Transformers and no 3D Priors",
+    "zh": "Geometry-Free View Synthesis: Transformers and no 3D Priors"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2104.07652v2",
+   "note": {
+    "en": "Geometry-free novel view synthesis, showing transformers can generate new views without explicit 3D priors.",
+    "zh": "无几何先验的新视角合成，证明 Transformer 无需显式三维先验也能生成新视角。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-12-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Taming Transformers for High-Resolution Image Synthesis",
+    "zh": "Taming Transformers for High-Resolution Image Synthesis"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2012.09841v3",
+   "note": {
+    "en": "Taming Transformers (VQGAN), the discrete latent representation that made high-resolution transformer image synthesis practical and fed directly into latent diffusion.",
+    "zh": "Taming Transformers（VQGAN）提出的离散潜表示，使高分辨率 Transformer 图像合成可行，并直接为潜空间扩散奠定基础。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-12-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Note on Data Biases in Generative Models",
+    "zh": "A Note on Data Biases in Generative Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2012.02516v1",
+   "note": {
+    "en": "A short note on how dataset biases propagate into generative models and how they surface in the samples.",
+    "zh": "一篇简短论文，讨论数据集偏差如何传导进生成模型，并在生成样本中显现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-08-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Making Sense of CNNs: Interpreting Deep Representations & Their Invariances with INNs",
+    "zh": "Making Sense of CNNs: Interpreting Deep Representations & Their Invariances with INNs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2008.01777v1",
+   "note": {
+    "en": "Interpreting what CNN representations encode and which invariances they discard, using invertible neural networks.",
+    "zh": "借助可逆神经网络解释 CNN 表征编码了什么信息、又丢弃了哪些不变性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2025-12-01",
+   "level": "major",
+   "title": {
+    "en": "$300M Series B at a $3.25B post-money valuation",
+    "zh": "3 亿美元 B 轮，投后估值 32.5 亿美元"
+   },
+   "body": {
+    "en": "Co-led by Salesforce Ventures and Anjney Midha (a16z), with NVIDIA, General Catalyst and Temasek. Total raised ~$450M. FLUX.2 announced 25 November 2025.",
+    "zh": "Salesforce Ventures 与 a16z 的 Anjney Midha 联合领投，NVIDIA、General Catalyst、淡马锡参与。累计融资约 4.5 亿美元。FLUX.2 于 2025-11-25 发布。"
+   },
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2025/12/01/black-forest-labs-raises-300m-at-3-25b-valuation"
+  },
+  {
+   "date": "2025-09-01",
+   "level": "notable",
+   "title": {
+    "en": "Multi-year $140M contract with Meta",
+    "zh": "与 Meta 签署 1.4 亿美元多年合约"
+   },
+   "body": {
+    "en": "Total contract value across Meta, Adobe, Canva and Snap reached roughly $300M.",
+    "zh": "Meta、Adobe、Canva 与 Snap 的合约总值约 3 亿美元。"
+   },
+   "source": "Sacra",
+   "url": "https://sacra.com/c/black-forest-labs/"
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "product",
+ "score": {
+  "total": 26.1,
+  "attention": null,
+  "centrality": 38,
+  "momentum": 11,
+  "stature": 27,
+  "pageviews": 0,
+  "citations": 17694,
+  "hIndex": 17,
+  "events": 2,
+  "posts": 30,
+  "wikiEn": null,
+  "wikiZh": null
+ },
+ "seedRank": 63,
+ "tier": "t5"
+}

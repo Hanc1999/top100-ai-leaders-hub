@@ -1,0 +1,2370 @@
+{
+ "rank": 22,
+ "id": "tang-jie",
+ "name": {
+  "en": "Tang Jie",
+  "zh": "唐杰"
+ },
+ "role": {
+  "en": "Professor, Tsinghua University; Chief Scientist & Co-founder, Z.ai (Zhipu AI)",
+  "zh": "清华大学教授；智谱 Z.ai 首席科学家兼联合创始人"
+ },
+ "org": "Z.ai (Zhipu AI)",
+ "region": {
+  "en": "China",
+  "zh": "中国"
+ },
+ "tags": [
+  "Z.ai",
+  "GLM",
+  "Tsinghua",
+  "Open source",
+  "HKEX listed"
+ ],
+ "why": {
+  "en": "Academic architect of the GLM line. ChatGLM was the first Chinese open large model to build a real developer ecosystem — and the company he founded became the first foundation-model business anywhere to list publicly.",
+  "zh": "GLM 系列模型的学术总设计师。ChatGLM 是中国最早形成开发者生态的开源大模型 —— 他创立的公司也成为全球首家以通用基础模型为主业的上市公司。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@jietang",
+   "url": "https://x.com/jietang",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Personal page (Tsinghua)",
+   "url": "http://keg.cs.tsinghua.edu.cn/jietang/",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @wulawula",
+   "url": "https://github.com/wulawula",
+   "t": 1
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face @jerytang",
+   "url": "https://huggingface.co/jerytang",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "Z.ai",
+   "url": "https://z.ai/",
+   "t": 2
+  },
+  {
+   "kind": "hf",
+   "label": "Zhipu on Hugging Face",
+   "url": "https://huggingface.co/zai-org",
+   "t": 2
+  },
+  {
+   "kind": "github",
+   "label": "GLM on GitHub",
+   "url": "https://github.com/zai-org",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Z.ai on X",
+   "url": "https://x.com/Zai_org",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Tang+Jie",
+   "t": 3
+  },
+  {
+   "kind": "weibo",
+   "label": "微博 — 搜索",
+   "url": "https://s.weibo.com/user?q=%E5%94%90%E6%9D%B0",
+   "t": 3
+  },
+  {
+   "kind": "zhihu",
+   "label": "知乎 — 搜索",
+   "url": "https://www.zhihu.com/search?type=people&q=%E5%94%90%E6%9D%B0",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "微信公众号 — 搜索",
+   "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%94%90%E6%9D%B0",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "B 站 — 搜索",
+   "url": "https://search.bilibili.com/all?keyword=%E5%94%90%E6%9D%B0",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Tang+Jie",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Tang+Jie",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Tang+Jie&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Tang+Jie&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=%E5%94%90%E6%9D%B0",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Tang+Jie",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Tang+Jie",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Tang+Jie",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Tang+Jie",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Tang+Jie",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Tang+Jie",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Tang+Jie",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ACL Anthology",
+   "url": "https://aclanthology.org/search/?q=Tang+Jie",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Tang+Jie&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "中文报道 — 最新",
+   "url": "https://www.google.com/search?q=%E5%94%90%E6%9D%B0+AI&tbm=nws&hl=zh-CN",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Z.ai",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-07-01",
+   "kind": "blog",
+   "title": {
+    "en": "'The Wave Has Arrived' — letter to Zhipu staff",
+    "zh": "《浪潮已至》—— 致智谱全员信"
+   },
+   "source": "Geopolitechs",
+   "url": "https://www.geopolitechs.org/p/tang-jies-letter-to-zhipu-employee",
+   "note": {
+    "en": "Frames the listing not as a finish line but as a reset: return fully to foundational model research and invest in the next generation of AGI-oriented systems.",
+    "zh": "把上市定义为重启而非终点：完全回到基础模型研究，投入下一代面向 AGI 的系统。"
+   }
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T07:08:33Z",
+   "kind": "x",
+   "title": {
+    "en": "Two weeks. That's how long it took to go from GLM-5.3-Flash's first run on domestic accelerators to serving all of its production traffic, with 3.2× end-to-end",
+    "zh": "Two weeks. That's how long it took to go from GLM-5.3-Flash's first run on domestic accelerators to serving all of its production traffic, with 3.2× end-to-end"
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/2100482019088060470",
+   "note": {
+    "en": "Tang Jie says it took two weeks to move GLM-5.3-Flash from its first run on domestic accelerators to serving all production traffic, with a 3.2x end-to-end throughput gain.",
+    "zh": "唐杰表示，GLM-5.3-Flash从在国产加速器上首次运行到承担全部生产流量仅用两周，端到端吞吐量提升3.2倍。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T09:05:03Z",
+   "kind": "blog",
+   "title": {
+    "en": "AI的下一站，是AI自我进化、自己创造自己的继任者。这被称为RSI，递归自我改进。最近在GLM的研发过程中，我们已经看到了这种能力的早期迹象：GLM-5.3开始帮助优...",
+    "zh": "AI的下一站，是AI自我进化、自己创造自己的继任者。这被称为RSI，递归自我改进。最近在GLM的研发过程中，我们已经看到了这种能力的早期迹象：GLM-5.3开始帮助优..."
+   },
+   "source": "唐杰THU的微博",
+   "url": "https://weibo.com/2126427211/RixonwJci",
+   "note": {
+    "en": "On his verified Weibo, Tang Jie describes early signs of recursive self-improvement in GLM development: an infra agent powered by GLM-5.3 helped optimize GLM-5.3-Flash's deployment on domestic chips, roughly tripling throughput in two weeks.",
+    "zh": "唐杰在其认证微博上介绍了GLM研发中出现的递归自我改进（RSI）早期迹象：一个由GLM-5.3驱动的Infra Agent帮助GLM-5.3-Flash在国产芯片上优化部署，两周内端到端吞吐量提升至3.2倍。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "weibo",
+   "connector": "weibo"
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T02:10:21Z",
+   "kind": "x",
+   "title": {
+    "en": "Are you sure? Finding the optimal model size is tricky: data volume, active parameter count, the number of environments, and the target inference cost. Model pe",
+    "zh": "Are you sure? Finding the optimal model size is tricky: data volume, active parameter count, the number of environments, and the target inference cost. Model pe"
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/2097870259931988235",
+   "note": {
+    "en": "Tang Jie argues optimal model size is hard to pin down, shaped jointly by data volume, active parameter count, number of environments and target inference cost rather than any single factor.",
+    "zh": "唐杰认为最优模型规模难以简单确定，需综合数据量、激活参数量、环境数量和目标推理成本等因素，而非单一指标决定。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Updated AA index... Now Fable 5.1 and GPT-astra have the same... https://t.co/G6cSEmAMus",
+    "zh": "Updated AA index... Now Fable 5.1 and GPT-astra have the same... https://t.co/G6cSEmAMus"
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/2097196618642809183",
+   "note": {
+    "en": "Tang shared an updated Artificial Analysis model index showing Fable 5.1 and GPT-astra now scoring the same.",
+    "zh": "唐杰分享了更新后的Artificial Analysis模型排行榜，显示Fable 5.1与GPT-astra目前得分相同。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "add oil. The best time to try GLM-5.3 Flash https://t.co/d8HJM3jkqw",
+    "zh": "add oil. The best time to try GLM-5.3 Flash https://t.co/d8HJM3jkqw"
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/2095692002633638066",
+   "note": {
+    "en": "Encouraged users to try the newly launched GLM-5.3 Flash model.",
+    "zh": "鼓励用户尝试新发布的GLM-5.3 Flash模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Trace as State: Reasoning Traces as Conditional States for Long-Context Transformers",
+    "zh": "Trace as State: Reasoning Traces as Conditional States for Long-Context Transformers"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.02702v1",
+   "note": {
+    "en": "Tang Jie co-authored 'Trace as State,' proposing that placing reasoning traces before long-context input improves transformer reasoning, tested on GLM-5.2 and DeepSeek.",
+    "zh": "唐杰合著论文《Trace as State》，提出将推理轨迹置于长上下文之前可提升Transformer推理效果，并在GLM-5.2和DeepSeek上验证。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "小进展 📊我们的 Ox Alpha（对外名字：GLM-5.3 Flash）这周在 OpenRouter 的周 token 份额冲到了近 20%，排名第一几个数字值得一看：· AA 57，成绩单拿得出手...",
+    "zh": "小进展 📊我们的 Ox Alpha（对外名字：GLM-5.3 Flash）这周在 OpenRouter 的周 token 份额冲到了近 20%，排名第一几个数字值得一看：· AA 57，成绩单拿得出手..."
+   },
+   "source": "唐杰THU的微博",
+   "url": "https://weibo.com/2126427211/RflzGcxwT",
+   "note": {
+    "en": "He reports that GLM-5.3 Flash reached nearly 20% of OpenRouter's weekly token share, and that the model was served entirely on tens of thousands of domestic chips.",
+    "zh": "他发文称 GLM-5.3 Flash 的 OpenRouter 周 token 份额已接近 20%，并说明该模型全量部署在数万张国产芯片上。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "weibo",
+   "connector": "weibo"
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Ox Alpha = GLM-5.3 Flash AA = 57 , 1/100 frontier price, Powered by pure Chinese chips. Delivered nearly 20% weekly token share (no. 1) on OpenRouter. Thanks to",
+    "zh": "Ox Alpha = GLM-5.3 Flash AA = 57 , 1/100 frontier price, Powered by pure Chinese chips. Delivered nearly 20% weekly token share (no. 1) on OpenRouter. Thanks to"
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/2092850258573471936",
+   "note": {
+    "en": "Tang Jie reported GLM-5.3 Flash's Artificial Analysis Index score of 57 at roughly 1/100th frontier-model price, running on domestic Chinese chips and topping OpenRouter's weekly token share.",
+    "zh": "唐杰公布GLM-5.3 Flash在Artificial Analysis指数上得分57，价格约为前沿模型的1/100，运行于国产芯片，并在OpenRouter周token份额上位居第一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "AWM: Answerable Working Memory for Long-Document VQA Agents",
+    "zh": "AWM: Answerable Working Memory for Long-Document VQA Agents"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.25618v1",
+   "note": {
+    "en": "Gives long-document VQA agents a working memory that records only what is actually answerable, cutting the noise carried across retrieved pages.",
+    "zh": "为长文档视觉问答智能体设计只记录真正可作答内容的工作记忆，减少检索页面之间传递的噪声。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-08-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "cool comment: FLOPs were intelligence; parameters were knowledge!",
+    "zh": "cool comment: FLOPs were intelligence; parameters were knowledge!"
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/2090724835496443950",
+   "note": {
+    "en": "Tang Jie endorsed a framing distinguishing compute (FLOPs) as the driver of intelligence from parameter count as stored knowledge.",
+    "zh": "唐杰赞同一种观点，即算力（FLOPs）驱动智能，而参数量代表的是存储的知识。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Thoughts About Scaling Law Scaling, but not only of parameters. Every model release now ends with the same question: how many parameters? It isn't a question th",
+    "zh": "Thoughts About Scaling Law Scaling, but not only of parameters. Every model release now ends with the same question: how many parameters? It isn't a question th"
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/2089941544581403107",
+   "note": {
+    "en": "Tang Jie argued that scaling laws for LLMs are no longer just about parameter count, as every new model release raises the question of what else should scale.",
+    "zh": "唐杰指出，大模型的缩放定律不再只关乎参数量，每次新模型发布都引出还应扩展什么的问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Artificial Analysis Index = 60",
+    "zh": "Artificial Analysis Index = 60"
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/2089863061276590184",
+   "note": {
+    "en": "Tang Jie reported a GLM model scoring 60 on the Artificial Analysis Index benchmark.",
+    "zh": "唐杰公布一款GLM模型在Artificial Analysis指数评测中获得60分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "GLM-5.3 is coming. focusing on coding.",
+    "zh": "GLM-5.3 is coming. focusing on coding."
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/2088135673597534246",
+   "note": {
+    "en": "Tang Jie announced the upcoming GLM-5.3 release, with coding as its focus.",
+    "zh": "唐杰宣布即将发布GLM-5.3，重点聚焦编程能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "TideRL: Boosting Agentic RL Goodput with Readiness-Aware Scheduling",
+    "zh": "TideRL: Boosting Agentic RL Goodput with Readiness-Aware Scheduling"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.10402v1",
+   "note": {
+    "en": "Scheduling work from his Tsinghua/Zhipu group that raises the goodput of multi-turn agentic RL training by dispatching rollouts according to whether they are ready to resume.",
+    "zh": "他在清华／智谱团队的调度工作：按 rollout 是否就绪来分派任务，提升多轮智能体强化学习训练的有效吞吐。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-08-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "1M users already",
+    "zh": "1M users already"
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/2087047752916386301",
+   "note": {
+    "en": "Tang Jie announced GLM had already reached 1 million users.",
+    "zh": "唐杰宣布GLM用户数已突破100万。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SurveyReview: A Reviewer-Aligned Benchmark for Survey Evaluators",
+    "zh": "SurveyReview: A Reviewer-Aligned Benchmark for Survey Evaluators"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.07641v1",
+   "note": {
+    "en": "A benchmark that checks whether automatic evaluators of machine-written surveys agree with human reviewers, written with his AMiner collaborators Fanjin Zhang and Juanzi Li.",
+    "zh": "与 AMiner 合作者张凡进、李涓子等合著的基准，检验自动综述评估器是否与人类审稿人判断一致。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-08-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Conformalized Large Language Models under Configuration Shift",
+    "zh": "Conformalized Large Language Models under Configuration Shift"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.01460v1",
+   "note": {
+    "en": "Extends conformal prediction to large language models so that the coverage guarantee survives a change of decoding configuration.",
+    "zh": "将保形预测扩展到大语言模型，使覆盖率保证在解码配置改变后依然成立。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Memory for Large Language Models",
+    "zh": "Memory for Large Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.25380v1",
+   "note": {
+    "en": "A survey treating memory as an explicit architectural dimension of large language models rather than a byproduct of computation.",
+    "zh": "一篇综述，把记忆视为大模型显式的架构维度，而非计算的副产品。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-14",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "团队之前的这篇文章IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse 发表在大模型的一个国际会议 COLM，只改了几行代码就能实现：DSA ...",
+    "zh": "团队之前的这篇文章IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse 发表在大模型的一个国际会议 COLM，只改了几行代码就能实现：DSA ..."
+   },
+   "source": "唐杰THU的微博",
+   "url": "https://weibo.com/2126427211/R8Dxexj6b",
+   "note": {
+    "en": "He explains his team's IndexCache paper, accepted at COLM, which removes the per-layer indexer cost of sparse attention by reusing indices across adjacent layers.",
+    "zh": "他介绍团队被 COLM 接收的 IndexCache 论文：通过跨相邻层复用索引，消除稀疏注意力中逐层重算 indexer 的开销。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "weibo",
+   "connector": "weibo"
+  },
+  {
+   "date": "2026-07-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Our Single-rollout Asynchronous Optimization (SAO), is able to train stably for one thousand steps and consistently outperform GRPO and its variants on agentic",
+    "zh": "Our Single-rollout Asynchronous Optimization (SAO), is able to train stably for one thousand steps and consistently outperform GRPO and its variants on agentic"
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/2076913247316492510",
+   "note": {
+    "en": "Tang Jie introduced Single-rollout Asynchronous Optimization (SAO), a training method that trains stably for a thousand steps and outperforms GRPO variants on agentic coding and reasoning benchmarks.",
+    "zh": "唐杰介绍了单次异步优化（SAO）训练方法，能稳定训练上千步，并在智能体编程与推理基准上超越GRPO及其变体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SCALECUA: Scaling Computer Use Agents with Verifiable Task Synthesis and Efficient Online RL",
+    "zh": "SCALECUA: Scaling Computer Use Agents with Verifiable Task Synthesis and Efficient Online RL"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.11185v1",
+   "note": {
+    "en": "Scales computer-use agents with verifiable synthetic tasks and online reinforcement learning; co-authored with Yuxiao Dong and the AutoGLM group.",
+    "zh": "用可验证的合成任务与在线强化学习扩展计算机操作智能体，与东昱晓及 AutoGLM 团队合著。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning",
+    "zh": "Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.07508v1",
+   "note": {
+    "en": "Replaces the batch-interleaved synchronous RL pipeline for LLM post-training with single-rollout asynchronous optimisation.",
+    "zh": "用单 rollout 异步优化取代大模型后训练中批量交错的同步强化学习流程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents",
+    "zh": "CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.05378v1",
+   "note": {
+    "en": "Trains long-horizon agents with reinforcement learning over compacted context, so trajectories are not cut off by the context window.",
+    "zh": "在压缩上下文之上做强化学习训练长程智能体，使交互轨迹不再被上下文窗口截断。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-29",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "分享一点最近的“再学习”：ai时代——认知 > 格局 > 技术 > 管理很多人认为一个企业的成功靠管理，很对，曾经很对，但ai时代可能变了，一切都变了，天天端到端...",
+    "zh": "分享一点最近的“再学习”：ai时代——认知 > 格局 > 技术 > 管理很多人认为一个企业的成功靠管理，很对，曾经很对，但ai时代可能变了，一切都变了，天天端到端..."
+   },
+   "source": "唐杰THU的微博",
+   "url": "https://weibo.com/2126427211/R6lOea1bg",
+   "note": {
+    "en": "An essay arguing that in the AI era a company is carried by cognition and vision ahead of technology and management, and that managers who do not go deep on the technology cannot manage at all.",
+    "zh": "一篇长文，主张 AI 时代企业靠的是认知与格局，其次才是技术和管理；不深入技术的管理者根本无从管起。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "weibo",
+   "connector": "weibo"
+  },
+  {
+   "date": "2026-06-29",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Any new features we must have in the next version of glm?",
+    "zh": "Any new features we must have in the next version of glm?"
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/2071454597521215748",
+   "note": {
+    "en": "Tang Jie asked the community what features GLM's next version must have, drawing an unusually large reply thread for his account.",
+    "zh": "唐杰在X上询问社区GLM下一版本必须具备哪些新功能，引发了他账号上罕见的大量回复。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "318 tps.....crazy..... how can you make this happen... we have to work harder even more...",
+    "zh": "318 tps.....crazy..... how can you make this happen... we have to work harder even more..."
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/2070162689226424511",
+   "note": {
+    "en": "Tang Jie reacted to GLM reaching 318 tokens per second inference speed, calling on the team to keep pushing.",
+    "zh": "唐杰对GLM推理速度达到318 tokens/秒表示振奋，并鼓励团队继续努力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "5.2 could be better with more RL ...",
+    "zh": "5.2 could be better with more RL ..."
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/2069819264870273221",
+   "note": {
+    "en": "Tang Jie said GLM-5.2 could still improve with more reinforcement learning.",
+    "zh": "唐杰表示GLM-5.2若加入更多强化学习训练仍有提升空间。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-17",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "（Claude、GPT、GLM）🥇GLM-5.2登顶Artificial Analysis开源第一，全球前三GLM-5.2 今日发布并开源，在多个第三方权威基准和竞技场上交出扎实的成绩单。📊 A...",
+    "zh": "（Claude、GPT、GLM）🥇GLM-5.2登顶Artificial Analysis开源第一，全球前三GLM-5.2 今日发布并开源，在多个第三方权威基准和竞技场上交出扎实的成绩单。📊 A..."
+   },
+   "source": "唐杰THU的微博",
+   "url": "https://weibo.com/2126427211/R4xuwtdaC",
+   "note": {
+    "en": "He announces that GLM-5.2 took first place among open models on the Artificial Analysis intelligence index and third globally.",
+    "zh": "他宣布 GLM-5.2 在 Artificial Analysis 智能指数上位列开源模型第一、全球第三。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "weibo",
+   "connector": "weibo"
+  },
+  {
+   "date": "2026-06-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "（Claude、GPT、GLM） GLM-5.2 Tops Artificial Analysis as the #1 Open-Source Model, Ranking Top 3 Globally GLM-5.2 launched and went open-source today, delivering a",
+    "zh": "（Claude、GPT、GLM） GLM-5.2 Tops Artificial Analysis as the #1 Open-Source Model, Ranking Top 3 Globally GLM-5.2 launched and went open-source today, delivering a"
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/2067149400829501482",
+   "note": {
+    "en": "Tang Jie highlighted GLM-5.2 topping Artificial Analysis as the #1 open-source model and ranking top 3 globally at launch.",
+    "zh": "唐杰强调GLM-5.2发布时在Artificial Analysis评测中位列开源模型第一、全球前三。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Video2Code: Generating Interactive Webpages from UI Videos via Action-Aware Revisit",
+    "zh": "Video2Code: Generating Interactive Webpages from UI Videos via Action-Aware Revisit"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.20711v1",
+   "note": {
+    "en": "Generates interactive webpages from UI screen recordings by revisiting the actions that trigger state transitions; from his Tsinghua vision-language group.",
+    "zh": "通过回溯触发状态转移的操作，从界面录屏生成可交互网页，出自他在清华的视觉语言团队。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "LongWebBench: Evaluating Structural and Functional Webpage Generation in Long-Horizon Settings",
+    "zh": "LongWebBench: Evaluating Structural and Functional Webpage Generation in Long-Horizon Settings"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.17727v1",
+   "note": {
+    "en": "A benchmark for webpage generation that tests long, multi-screen and functional pages instead of single static screenshots.",
+    "zh": "面向网页生成的基准，考察长篇、多屏且具备功能的页面，而非单张静态截图。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "AISE-Bench: A Full-Cycle Curated Benchmark for Information Seeking on Academic Knowledge Graphs",
+    "zh": "AISE-Bench: A Full-Cycle Curated Benchmark for Information Seeking on Academic Knowledge Graphs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.20498v1",
+   "note": {
+    "en": "A benchmark for tool-using agents that seek information over academic knowledge graphs — the AMiner problem he has worked on for years.",
+    "zh": "面向在学术知识图谱上检索信息的工具型智能体的基准，正是他多年深耕的 AMiner 问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-16",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "GLM-5.2上线并开源：专注Coding与长任务从2025初开始，我们几乎投入全部力量开始攻关Coding，历时大半年，细扣每一个代码环境的优化，终于迎来我们的代码基座GLM...",
+    "zh": "GLM-5.2上线并开源：专注Coding与长任务从2025初开始，我们几乎投入全部力量开始攻关Coding，历时大半年，细扣每一个代码环境的优化，终于迎来我们的代码基座GLM..."
+   },
+   "source": "唐杰THU的微博",
+   "url": "https://weibo.com/2126427211/R4ubNdhuQ",
+   "note": {
+    "en": "Release note for GLM-5.2, open-sourced and aimed at coding and long-horizon tasks, with his account of why the team spent most of a year on code environments.",
+    "zh": "GLM-5.2 上线并开源的发布说明，聚焦编程与长程任务，并讲述团队为何用大半年时间打磨代码环境。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "weibo",
+   "connector": "weibo"
+  },
+  {
+   "date": "2026-06-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We're introducing GLM-5.2, our latest flagship model for long-horizon tasks. It marks a substantial leap in long-horizon task capability over its predecessor GL",
+    "zh": "We're introducing GLM-5.2, our latest flagship model for long-horizon tasks. It marks a substantial leap in long-horizon task capability over its predecessor GL"
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/2067022641949814893",
+   "note": {
+    "en": "Tang Jie announced GLM-5.2, a flagship model with a substantial leap in long-horizon task capability over GLM-5.1.",
+    "zh": "唐杰发布旗舰模型GLM-5.2，在长程任务能力上较GLM-5.1有大幅提升。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-13",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "致开发者：GLM-5.2 全量开放，前沿智能属于所有人今天，一些前沿模型的突发禁用令人遗憾。在这样一个前沿模型因非技术原因被突然切断访问的时刻，我们更加坚信：...",
+    "zh": "致开发者：GLM-5.2 全量开放，前沿智能属于所有人今天，一些前沿模型的突发禁用令人遗憾。在这样一个前沿模型因非技术原因被突然切断访问的时刻，我们更加坚信：..."
+   },
+   "source": "唐杰THU的微博",
+   "url": "https://weibo.com/2126427211/R3VAO36BB",
+   "note": {
+    "en": "An open letter to developers making GLM-5.2 fully available, written in response to frontier models being cut off for non-technical reasons and arguing science should stay global.",
+    "zh": "一封致开发者的公开信，宣布 GLM-5.2 全量开放，回应前沿模型因非技术原因被切断访问，主张科学应当全球化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "weibo",
+   "connector": "weibo"
+  },
+  {
+   "date": "2026-06-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "GLM-5.2 is Fully Open, Frontier Intelligence Belongs to Everyone Today, the sudden restriction of certain frontier models is deeply regrettable. At a time when",
+    "zh": "GLM-5.2 is Fully Open, Frontier Intelligence Belongs to Everyone Today, the sudden restriction of certain frontier models is deeply regrettable. At a time when"
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/2065784751345287314",
+   "note": {
+    "en": "Tang Jie made GLM-5.2 fully open-source, criticizing the recent trend of frontier labs restricting model access and arguing frontier intelligence should belong to everyone.",
+    "zh": "唐杰宣布GLM-5.2完全开源，并批评近期前沿实验室限制模型开放的趋势，主张前沿智能应属于所有人。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SCAIL-2: Unifying Controlled Character Animation with End-to-End In-Context Conditioning",
+    "zh": "SCAIL-2: Unifying Controlled Character Animation with End-to-End In-Context Conditioning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.10804v3",
+   "note": {
+    "en": "Unifies controlled character animation under end-to-end in-context conditioning, dropping the intermediate pose representations earlier methods relied on; from his Tsinghua video-generation line.",
+    "zh": "用端到端的上下文条件化统一可控角色动画，去掉以往方法依赖的中间姿态表示，出自他在清华的视频生成方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-08",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "唯有专注与坚持科学研究与科技创业，皆是一场漫长、孤独而又令人心澎湃的淬炼。它极像是一场对未知的“唤醒”——需要将最前沿的理论、最复杂的工程与最现实的场...",
+    "zh": "唯有专注与坚持科学研究与科技创业，皆是一场漫长、孤独而又令人心澎湃的淬炼。它极像是一场对未知的“唤醒”——需要将最前沿的理论、最复杂的工程与最现实的场..."
+   },
+   "source": "唐杰THU的微博",
+   "url": "https://weibo.com/2126427211/R38mZ3fPV",
+   "note": {
+    "en": "A short reflection on focus and persistence as the only way through the empty stretches of frontier research and technology entrepreneurship.",
+    "zh": "一篇短文，谈专注与坚持是穿越前沿研究与科技创业无人区的唯一方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "weibo",
+   "connector": "weibo"
+  },
+  {
+   "date": "2026-06-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "From Player to Master: Enhancing Test-Time Learning of LLM Agents via Reinforcement Learning over Memory",
+    "zh": "From Player to Master: Enhancing Test-Time Learning of LLM Agents via Reinforcement Learning over Memory"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.08656v1",
+   "note": {
+    "en": "Treats an agent's memory updates as a multi-turn decision problem and optimises them with reinforcement learning, so a frozen model keeps improving at test time.",
+    "zh": "把智能体的记忆更新建模为多轮决策问题并用强化学习优化，使冻结的模型在测试时仍能持续变强。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Cross-Source Reasoning-based Correction for Author Name Disambiguation",
+    "zh": "Cross-Source Reasoning-based Correction for Author Name Disambiguation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.08617v1",
+   "note": {
+    "en": "Corrects author name disambiguation in academic search by reasoning across sources — the exact failure mode that makes name-based paper attribution unreliable.",
+    "zh": "通过跨源推理修正学术搜索中的作者同名消歧，正是使按姓名归属论文变得不可靠的那类错误。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SCAIR: Schema-Conditioned Agentic Iterative Reasoning for Enterprise Knowledge Graphs",
+    "zh": "SCAIR: Schema-Conditioned Agentic Iterative Reasoning for Enterprise Knowledge Graphs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.22571v1",
+   "note": {
+    "en": "Schema-conditioned iterative reasoning that makes knowledge-graph RAG agents work on enterprise graphs rather than only on public benchmarks.",
+    "zh": "以模式为条件的迭代推理，让知识图谱 RAG 智能体在企业图谱上可用，而不只是在公开基准上有效。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-30",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "想招几个牛博士后，一起来探讨LLM在不同领域的深度建模（包括：数据、Harness等）和应用，有兴趣可以email我（我的主页上有）。",
+    "zh": "想招几个牛博士后，一起来探讨LLM在不同领域的深度建模（包括：数据、Harness等）和应用，有兴趣可以email我（我的主页上有）。"
+   },
+   "source": "唐杰THU的微博",
+   "url": "https://weibo.com/2126427211/R1Lzs7U73",
+   "note": {
+    "en": "He is recruiting postdocs to work on deep modelling and applications of LLMs across domains, including data and harness work.",
+    "zh": "他公开招聘博士后，方向是大模型在不同领域的深度建模与应用，包括数据与 harness 相关工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "weibo",
+   "connector": "weibo"
+  },
+  {
+   "date": "2026-05-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "RotMoLE: Enhancing Mixture of Low-Rank Experts through Rotational Gating Mechanism",
+    "zh": "RotMoLE: Enhancing Mixture of Low-Rank Experts through Rotational Gating Mechanism"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.25565v1",
+   "note": {
+    "en": "Adds a rotational gating mechanism to mixtures of low-rank experts so one model can absorb several specialised domains at once.",
+    "zh": "为低秩专家混合引入旋转门控机制，使单个模型能同时吸收多个专业领域的知识。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "GLM-5.1-highspeed is coming, 400 tokens per second. Very expensive, but bring a new possibility. https://t.co/rxpXfGCsNo",
+    "zh": "GLM-5.1-highspeed is coming, 400 tokens per second. Very expensive, but bring a new possibility. https://t.co/rxpXfGCsNo"
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/2057660194021388343",
+   "note": {
+    "en": "Tang Jie announced GLM-5.1-highspeed, running at 400 tokens per second, at a higher price point.",
+    "zh": "唐杰宣布推出GLM-5.1-highspeed版本，推理速度达400 tokens/秒，价格更高。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-12",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "说说最近的一些想法吧-AI Hacker：今年可能最有可能的突破就是长程任务，就是大模型会根据Agent环境数据学到完成一个很长的任务的能力，这可能也是大模型最有价...",
+    "zh": "说说最近的一些想法吧-AI Hacker：今年可能最有可能的突破就是长程任务，就是大模型会根据Agent环境数据学到完成一个很长的任务的能力，这可能也是大模型最有价..."
+   },
+   "source": "唐杰THU的微博",
+   "url": "https://weibo.com/2126427211/QF4xrs7u2",
+   "note": {
+    "en": "He argues the year's likely breakthrough is long-horizon tasks, using an agent that hunts software vulnerabilities continuously as the example of where the value lies.",
+    "zh": "他认为今年最可能的突破是长程任务，并以持续挖掘软件漏洞的智能体为例说明其价值所在。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "weibo",
+   "connector": "weibo"
+  },
+  {
+   "date": "2026-05-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Recent thoughts: The Shift to Long-Horizon Tasks The most likely breakthrough this year will be in long-horizon tasks. We are moving toward a stage where Large",
+    "zh": "Recent thoughts: The Shift to Long-Horizon Tasks The most likely breakthrough this year will be in long-horizon tasks. We are moving toward a stage where Large"
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/2054222017566855508",
+   "note": {
+    "en": "Tang Jie argued the year's most likely AI breakthrough will be in long-horizon tasks, as LLMs move toward completing extended multi-step work.",
+    "zh": "唐杰认为今年AI领域最可能的突破将出现在长程任务上，大模型正朝着完成长时间多步骤工作迈进。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "ProcVLM: Learning Procedure-Grounded Progress Rewards for Robotic Manipulation",
+    "zh": "ProcVLM: Learning Procedure-Grounded Progress Rewards for Robotic Manipulation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.08774v1",
+   "note": {
+    "en": "Learns dense progress rewards grounded in a task's procedural stages for long-horizon robotic manipulation; a Tsinghua–Renmin/Zhipu collaboration.",
+    "zh": "为长程机器人操作学习以任务流程阶段为依据的稠密进度奖励，清华与人大／智谱的合作成果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GSPNet: Graph Spectral Projection Network Using Learnable Spectral Transformation",
+    "zh": "GSPNet: Graph Spectral Projection Network Using Learnable Spectral Transformation"
+   },
+   "source": "IEEE Transactions on Pattern Analysis…",
+   "url": "https://doi.org/10.1109/tpami.2026.3685759",
+   "note": {
+    "en": "Proposes GSPNet, a graph neural network built on a learnable spectral transformation for graph representation learning, published in IEEE TPAMI with longtime collaborator Yuxiao Dong.",
+    "zh": "提出GSPNet，一种基于可学习频谱变换的图神经网络，用于图表示学习，发表于IEEE TPAMI，合作者为长期合作者Yuxiao Dong。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2026-04-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "welcome to give it a try. hmmmm... indeed too many users and short of GPUs....",
+    "zh": "welcome to give it a try. hmmmm... indeed too many users and short of GPUs...."
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/2042952548525518940",
+   "note": {
+    "en": "Tang Jie noted GLM had drawn far more users than expected, straining available GPU capacity.",
+    "zh": "唐杰表示GLM用户量远超预期，GPU算力一度供不应求。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "GLM 5.1 is coming https://t.co/rSnHYW95Dk. Coding is the cornersone and Long Horizon Task (LHT) is the new feature this time. focus more on 1. memory 2. evolvin",
+    "zh": "GLM 5.1 is coming https://t.co/rSnHYW95Dk. Coding is the cornersone and Long Horizon Task (LHT) is the new feature this time. focus more on 1. memory 2. evolvin"
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/2041698050306142641",
+   "note": {
+    "en": "Tang Jie announced GLM-5.1, with coding as its foundation and a new Long Horizon Task (LHT) feature focused on memory, continual learning and self-reflection.",
+    "zh": "唐杰宣布GLM-5.1，以编程能力为基础，新增长程任务（LHT）功能，聚焦记忆、持续学习与自我反思。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Ai coding-&gt;vibe coding-&gt;agentic engineering+harness engineering-&gt;autonomous organization",
+    "zh": "Ai coding-&gt;vibe coding-&gt;agentic engineering+harness engineering-&gt;autonomous organization"
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/2039599412465504329",
+   "note": {
+    "en": "Tang Jie sketched a progression for AI development: from AI coding to vibe coding to agentic and harness engineering to autonomous organizations.",
+    "zh": "唐杰勾勒了AI发展路径：从AI编程到氛围编程（vibe coding），再到智能体与harness工程，最终走向自主组织。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "more smart glm-5v. welcome to give it a try",
+    "zh": "more smart glm-5v. welcome to give it a try"
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/2039532080682688913",
+   "note": {
+    "en": "Tang Jie announced an upgraded, smarter GLM-5V multimodal model.",
+    "zh": "唐杰宣布升级后的GLM-5V多模态模型更加智能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-31",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Thanks for mentioning GLM. We will soon release GLM 5.1 with better performances on many other benchmarks …",
+    "zh": "Thanks for mentioning GLM. We will soon release GLM 5.1 with better performances on many other benchmarks …"
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/2038917892004311352",
+   "note": {
+    "en": "Tang Jie previewed the upcoming GLM-5.1 release, promising improved performance across multiple benchmarks.",
+    "zh": "唐杰预告即将发布的GLM-5.1，承诺在多项基准测试上性能提升。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Heterogeneous Graph Random Neural Networks",
+    "zh": "Heterogeneous Graph Random Neural Networks"
+   },
+   "source": "IEEE Transactions on Knowledge and Dat…",
+   "url": "https://doi.org/10.1109/tkde.2026.3675850",
+   "note": {
+    "en": "Extends the Graph Random Neural Network framework to heterogeneous graphs, published in IEEE TKDE with the same Tsinghua KEG collaborators (Wenzheng Feng, Yuxiao Dong).",
+    "zh": "将Graph Random Neural Network框架扩展到异质图场景，发表于IEEE TKDE，合作者仍是清华KEG实验室的冯文正、Yuxiao Dong等人。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2026-02-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Probably it’s time to seriously think about what is conscious for AI…",
+    "zh": "Probably it’s time to seriously think about what is conscious for AI…"
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/2027211835817259311",
+   "note": {
+    "en": "Tang Jie said it may be time to seriously consider what constitutes consciousness for AI.",
+    "zh": "唐杰表示是时候认真思考AI的意识问题了。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We just uploaded our GLM-5's tech report onto arxiv. Hope it helpful! takeaway keywords: - dsa arch with 750B parameter (40B active) + 30T data - slime RL toolk",
+    "zh": "We just uploaded our GLM-5's tech report onto arxiv. Hope it helpful! takeaway keywords: - dsa arch with 750B parameter (40B active) + 30T data - slime RL toolk"
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/2024054780730171787",
+   "note": {
+    "en": "Tang Jie announced GLM-5's technical report on arXiv, detailing a DSA architecture with 750B total/40B active parameters trained on 30T tokens, the slime RL toolkit, and asynchronous agentic RL.",
+    "zh": "唐杰宣布GLM-5技术报告已上传arXiv，介绍了750B总参数（400亿激活）、30万亿token训练数据的DSA架构，以及slime强化学习工具包和异步智能体强化学习方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-01-15",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "清华AGI峰会：\"基模四杰\"姚顺雨、杨植麟、唐杰、林俊旸论道智能体时代",
+    "zh": "清华AGI峰会：\"基模四杰\"姚顺雨、杨植麟、唐杰、林俊旸论道智能体时代"
+   },
+   "source": "AI圆桌π",
+   "url": "https://podcasts.apple.com/us/podcast/%E6%B8%85%E5%8D%8Eagi%E5%B3%B0%E4%BC%9A-%E5%9F%BA%E6%A8%A1%E5%9B%9B%E6%9D%B0-%E5%A7%9A%E9%A1%BA%E9%9B%A8-%E6%9D%A8%E6%A4%8D%E9%BA%9F-%E5%94%90%E6%9D%B0-%E6%9E%97%E4%BF%8A%E6%97%B8%E8%AE%BA%E9%81%93%E6%99%BA%E8%83%BD%E4%BD%93%E6%97%B6%E4%BB%A3/id1879762491?i=1000751182038&uo=4",
+   "note": {
+    "en": "Recording of the AGI-Next summit panel where he debated the next model paradigm on stage with Shunyu Yao, Zhilin Yang and Junyang Lin.",
+    "zh": "AGI-Next 前沿峰会圆桌录音，他与姚顺雨、杨植麟、林俊旸同台讨论下一代模型的范式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Glyph: Scaling Context Windows via Visual-Text Compression",
+    "zh": "Glyph: Scaling Context Windows via Visual-Text Compression"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.18653/v1/2026.acl-long.1722",
+   "note": {
+    "en": "Glyph: a Zhipu AI/Tsinghua KEG method that scales LLM context windows by rendering long text as images and compressing it visually rather than token by token.",
+    "zh": "Glyph：智谱AI与清华KEG实验室提出的方法，通过将长文本渲染为图像并进行视觉压缩（而非逐token处理）来扩展大模型的上下文窗口。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-12-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Delving into Latent Spectral Biasing of Video VAEs for Superior Diffusability",
+    "zh": "Delving into Latent Spectral Biasing of Video VAEs for Superior Diffusability"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "https://arxiv.org/abs/2512.05394",
+   "note": {
+    "en": "With Zhipu's CogVideo team, analyzes how a video VAE's latent-space structure affects diffusion training and introduces regularizers that speed convergence and improve quality for text-to-video generation.",
+    "zh": "与智谱CogVideo团队合作，分析视频VAE隐空间结构对扩散模型训练的影响，并提出正则化方法以加快文生视频的收敛速度、提升生成质量。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-11-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "for GLM-4.6, which features do you want most? Speed up to 100t/s? Stability? Lower price?",
+    "zh": "for GLM-4.6, which features do you want most? Speed up to 100t/s? Stability? Lower price?"
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/1988962533554991459",
+   "note": {
+    "en": "He asks developers publicly which GLM-4.6 improvement they want most — speed, stability or price — putting the roadmap choice to users.",
+    "zh": "他公开征询开发者最想要 GLM-4.6 的哪项改进——速度、稳定性还是价格，把路线选择交给用户。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-10-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Glyph, a concurrent and comparable model to DeepSeek-OCR https://t.co/kZwc45Qtlz https://t.co/vmLUGoVIAf",
+    "zh": "Glyph, a concurrent and comparable model to DeepSeek-OCR https://t.co/kZwc45Qtlz https://t.co/vmLUGoVIAf"
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/1981012812752421105",
+   "note": {
+    "en": "He positions Glyph, his team's visual-text compression model, as concurrent and comparable work to DeepSeek-OCR.",
+    "zh": "他指出团队的视觉文本压缩模型 Glyph 与 DeepSeek-OCR 属于同期且可比的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-10-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "On webdev arena, GLM is ranked #4 and #1 in all open models https://t.co/4C2N8Tj4nI",
+    "zh": "On webdev arena, GLM is ranked #4 and #1 in all open models https://t.co/4C2N8Tj4nI"
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/1978359871381631386",
+   "note": {
+    "en": "He reports GLM placing fourth overall and first among open models on WebDev Arena.",
+    "zh": "他发文称 GLM 在 WebDev Arena 上总排名第四、在开源模型中排名第一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-09-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Document-Level Relation Extraction With Low Entity Redundancy Feature Map",
+    "zh": "Document-Level Relation Extraction With Low Entity Redundancy Feature Map"
+   },
+   "source": "IEEE Transactions on Knowledge and Dat…",
+   "url": "https://doi.org/10.1109/tkde.2025.3607566",
+   "note": {
+    "en": "Improves document-level relation extraction by reducing entity redundancy in the feature map, published in IEEE TKDE with core KEG collaborators Lei Hou and Juanzi Li.",
+    "zh": "通过降低特征图中的实体冗余来改进文档级关系抽取，发表于IEEE TKDE，合作者为清华KEG实验室核心成员侯磊与李涓子。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-01-08",
+   "level": "major",
+   "title": {
+    "en": "Z.ai lists on the Hong Kong Stock Exchange (02513.HK)",
+    "zh": "智谱 Z.ai 港交所上市（02513.HK）"
+   },
+   "body": {
+    "en": "Described as the world's first listing by a company whose core business is a general-purpose foundation model.",
+    "zh": "被称为全球首家以通用基础模型为核心业务的上市公司。"
+   },
+   "source": "Turing Post",
+   "url": "https://www.turingpost.com/p/zhipu"
+  },
+  {
+   "date": "2026-06-01",
+   "level": "notable",
+   "title": {
+    "en": "GLM-5.2 — 744B MoE with 1M context",
+    "zh": "GLM-5.2 —— 7440 亿参数 MoE，100 万上下文"
+   },
+   "body": {
+    "en": "Leads open-source models on several agentic and coding benchmarks.",
+    "zh": "在多项 agentic 与编码基准上领跑开源模型。"
+   },
+   "source": "Z.ai",
+   "url": "https://z.ai/"
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T02:54:46Z",
+   "level": "major",
+   "title": {
+    "en": "唐杰发文：智谱实现了RSI的最小循环",
+    "zh": "唐杰发文：智谱实现了RSI的最小循环"
+   },
+   "body": {
+    "en": "Tang Jie said Zhipu AI has achieved the minimal loop of recursive self-improvement (RSI).",
+    "zh": "唐杰表示智谱AI已经实现了递归自我改进（RSI）的最小循环。"
+   },
+   "source": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5pbHk3WmpKTXJhZ0JFYXpMYVpZelJUd2NEdHVmRzMyaXpra25WYjZPLUNqNW0zTk9OTEk0bXotMkQtTDV1Q2syUw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T02:54:46Z",
+   "level": "major",
+   "title": {
+    "en": "唐杰发文：智谱实现了RSI的最小循环",
+    "zh": "唐杰发文：智谱实现了RSI的最小循环"
+   },
+   "body": {
+    "en": "Tang Jie said Zhipu AI has achieved the 'minimal loop' of recursive self-improvement (RSI), a significant technical claim about the company's model development.",
+    "zh": "唐杰表示智谱已经实现了递归自我改进（RSI）的最小循环，这是关于公司模型研发进展的重要技术论断。"
+   },
+   "source": "tech.ifeng.com",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1SYnZnUEkwYmlOazhaTnRwRUNwazRBZGtBR2tobUdfbHRlLWZ3a2huM2lOZEtZQ1VMa3ZWc0xiTmoxZTAtUkNQTWRDMF8?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T08:52:19Z",
+   "level": "major",
+   "title": {
+    "en": "唐杰、GLM 团队长文披露智谱 RSI 最新进展：GLM-5.3 已摸到门槛，“正一步步走向取代我们” - InfoQ-CN",
+    "zh": "唐杰、GLM 团队长文披露智谱 RSI 最新进展：GLM-5.3 已摸到门槛，“正一步步走向取代我们” - InfoQ-CN"
+   },
+   "body": {
+    "en": "Tang Jie and the GLM team published a long report on Zhipu's recursive self-improvement progress, saying GLM-5.3 is nearing the threshold of starting to replace its own developers.",
+    "zh": "唐杰与GLM团队发表长文，披露智谱在递归自我改进（RSI）方面的最新进展，称GLM-5.3已摸到门槛，正一步步走向取代研发者自身。"
+   },
+   "source": "新闻",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PVG1ua2FFSDVuQ2NNVEczVDVxaHVVQUl4ZmloUzRpTDVKdEJnSnE0RllXVkd5Qk1pT3YyR0swWlp3bGRQeUcxQmZwQkdKV1phbmw0VzFfZ0Vvdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T09:57:04Z",
+   "level": "minor",
+   "title": {
+    "en": "清华唐杰开讲AI前沿课，首日教室爆满",
+    "zh": "清华唐杰开讲AI前沿课，首日教室爆满"
+   },
+   "body": {
+    "en": "Tang Jie began teaching a new AI frontiers course at Tsinghua, with the first session drawing an overflow crowd.",
+    "zh": "唐杰在清华大学开讲AI前沿课程，首堂课教室座无虚席。"
+   },
+   "source": "DoNews",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41N2lyaXAyckZ1dTR5S3VQWnJFcmpzeGZCdkVtVzM4SnNhRmVjUkU2OTNWaGIwRkI1MDNMTXZmQ2d5UE0wQ2huVzNVNEVrQ1JiVktzbGRiRUtva0VrdFE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T09:40:00Z",
+   "level": "notable",
+   "title": {
+    "en": "刚刚，唐杰发布智谱RSI首个成果",
+    "zh": "刚刚，唐杰发布智谱RSI首个成果"
+   },
+   "body": {
+    "en": "Tang Jie announced the first results from Zhipu's RSI (recursive self-improvement) research effort.",
+    "zh": "唐杰发布了智谱RSI（递归自我改进）研究方向的首个成果。"
+   },
+   "source": "智源社区",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE05ZTRGMjdIX1FjTTZ5SUhYMmt0YV9hdTh5RHZJWE1sYnVtT1hfakJfRDVydUo4YmVIV0JocllVUFBYeDlPbUo4Tw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T09:05:40Z",
+   "level": "minor",
+   "title": {
+    "en": "智谱创始人唐杰清华开课爆火，设大量作业“劝退”学生",
+    "zh": "智谱创始人唐杰清华开课爆火，设大量作业“劝退”学生"
+   },
+   "body": {
+    "en": "Tang Jie's Tsinghua course went viral online for its heavy workload, a small but real bit of visibility for the Zhipu AI co-founder's teaching side.",
+    "zh": "唐杰在清华开设的课程因作业量大而在网上走红，是这位智谱AI联合创始人教学一面的小小曝光。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU1hmODBoUVFXREtvb0hQN01rT1NDZmhZM1l1SFdfaUxaTEZROFZ0SFR0SzRLdndDMzBaU0V6RUFreTM4czE1WHJwVlFTUDV1MWFrcGh2VHVWbjhLWDAwWUdQamlraUFmREdPTXhpMXNYOVE5LUtfLWRrb0dzMWVjUmZyV1Q5czNrTDY5dQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T12:24:52Z",
+   "level": "major",
+   "title": {
+    "en": "智谱唐杰披露首个RSI进展：AI在十万卡集群上自主优化，不到两周吞吐量提升至3倍",
+    "zh": "智谱唐杰披露首个RSI进展：AI在十万卡集群上自主优化，不到两周吞吐量提升至3倍"
+   },
+   "body": {
+    "en": "Tang Jie disclosed Zhipu's first recursive self-improvement (RSI) progress: an AI system autonomously optimizing a 100,000-GPU cluster, lifting throughput roughly 3x in under two weeks.",
+    "zh": "唐杰披露了智谱首个递归自我改进（RSI）项目的进展：AI系统在十万卡集群上自主优化，不到两周内将吞吐量提升至约3倍。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSUpxMmJSODc0SmdzMWp1MEE2c3QwdldBdjAza0t2RXhCeHh2TEdVMjZRVkIyY1NhXzlfQ1YtbWducWVUYkZDMmlnV0Y4VkVLV25LbmFoNEcwYm5vNFpIVWpnRVdlOHBJU0pZMW1OTDFMSGwzYUNnQ2xkWTRPcll5WlBkbUdjS3dTY1lrd0VxUXplUk5IcjdhUWR5RjdDWFNaaHMyTUZraw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T12:49:14Z",
+   "level": "minor",
+   "title": {
+    "en": "智谱创始人唐杰清华开课爆火，设大量作业“劝退”学生",
+    "zh": "智谱创始人唐杰清华开课爆火，设大量作业“劝退”学生"
+   },
+   "body": {
+    "en": "A Tsinghua course taught by Tang Jie went viral online for its unusually heavy workload, a small human-interest moment for the Zhipu AI co-founder.",
+    "zh": "唐杰在清华开设的一门课程因作业量极大而在网上走红，成为这位智谱AI联合创始人的一则趣味小新闻。"
+   },
+   "source": "手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQkFVNjhGdjQ5ZEQxamNuVEkyUEZ5UjdWVkZqamFUNFJQWi0wXzJDbDUwZjV3cXhDRm9Db092c2xoajNzWncwXzNCa3paX0F5TjY2TnNXVXhWUTA5SEN3VE9sRzZNVWFvdTZyUjNIU3l5RklZRGlib19tcFBaTXQtbzNR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T14:09:00Z",
+   "level": "notable",
+   "title": {
+    "en": "智谱创始人唐杰清华开课被挤爆，称Chat之战已结束，大模型的未来在于智能化和自我进化能力",
+    "zh": "智谱创始人唐杰清华开课被挤爆，称Chat之战已结束，大模型的未来在于智能化和自我进化能力"
+   },
+   "body": {
+    "en": "Zhipu founder Tang Jie's Tsinghua course drew overflow crowds after he said the 'chat war' is over and the future of large models lies in intelligence and self-evolution.",
+    "zh": "智谱创始人唐杰在清华开设的课程被学生挤爆，他表示“Chat之战”已经结束，大模型的未来在于智能化和自我进化能力。"
+   },
+   "source": "财富号",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRWlIWjNLV3J6c3pncTJwSV9uWlpMb05PYm9ZR3o0NDI0U0FOUVR0dmgyVVhlVHRmbDc2dDQ4NWxDeHpGZERWLTJjZ283dTVZVHdFUG5ucFBvNUl1dm5oUmRSX2o1djRwdENkMUZXaEJ1M1VGcmxpVklHa0YyUHA3RHJaT19HZWJWRXJuczBWWW9fVGNwTkdOdTQyMVJvZmQxS1lhNlE0azdtZ1RiNFBhOE1Sd2xxaHUtaEJTU0dELW5zZ3NXOW5FcFdwTDZNZGlGUklEQzNNVHhka3c5YmVKRWRzalFZUU4yNk1zMjBObzIyZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T22:01:15Z",
+   "level": "notable",
+   "title": {
+    "en": "唐杰：2026年聚焦提升智能，模型要自主进化完成长程任务",
+    "zh": "唐杰：2026年聚焦提升智能，模型要自主进化完成长程任务"
+   },
+   "body": {
+    "en": "Tang Jie said his 2026 focus is improving model intelligence so systems can autonomously evolve to complete long-horizon tasks.",
+    "zh": "唐杰表示2026年将聚焦提升模型智能，使模型能够自主进化以完成长程任务。"
+   },
+   "source": "c.m.163.com",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9STHhIWTRzM2QtVVZxNzhRTzRMRHI3cklBcWZoTlI3c3lwYzJPaEVGaVFLR2RPcU92ZWNZYkVtWUxmYTNVYzdDNXJsdTFEdXdiR2NB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T09:50:40Z",
+   "level": "minor",
+   "title": {
+    "en": "智谱创始人唐杰清华开课爆火，设大量作业“劝退”学生",
+    "zh": "智谱创始人唐杰清华开课爆火，设大量作业“劝退”学生"
+   },
+   "body": {
+    "en": "Tang Jie's Tsinghua course went viral for its unusually heavy workload, drawing attention to his teaching alongside his role as Zhipu AI's chief scientist.",
+    "zh": "智谱AI首席科学家唐杰在清华开设的课程因作业量巨大而走红，引发外界对其教学的关注。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81UTkzUGppRnJXZlpJakVqQmFrRGZVVC1zdTItSUpfel9QRHlUUUNkc3pfYUJRY0prbXVNdzJ2N0xCcGhvNC1uVnpPUGFhUUNpVjZDbjJzcmk2Zjk1ckJ5c3RNNzlySkVOT1prUHphdTBIV0lzQ19CVzFZT1N3cEE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T06:30:00Z",
+   "level": "notable",
+   "title": {
+    "en": "智谱唐杰突发长文曝RSI进展：Agent优化10万卡集群吞吐暴涨200%，AI造AI还远吗？",
+    "zh": "智谱唐杰突发长文曝RSI进展：Agent优化10万卡集群吞吐暴涨200%，AI造AI还远吗？"
+   },
+   "body": {
+    "en": "Tang Jie detailed Zhipu's recursive self-improvement progress, saying agent-driven optimization lifted throughput on a 100,000-GPU cluster by 200%.",
+    "zh": "唐杰披露智谱在递归自我改进方面的进展，称Agent优化使10万卡集群的吞吐量提升了200%。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1dThHUmlxNnpqUDJJMndqRm5TOGFvMFp0V1FfSGthN1NSaExnUEFEUTk4NllGOE8tbzlpaE5wOTR1cndSUUloTUZGYXpVUmFXWm5HS3lR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T09:14:00Z",
+   "level": "major",
+   "title": {
+    "en": "刚刚，唐杰发布智谱RSI首个成果",
+    "zh": "刚刚，唐杰发布智谱RSI首个成果"
+   },
+   "body": {
+    "en": "Tang Jie announced Zhipu's first result from its RSI (recursive self-improvement) research line, a new technical direction for the company he co-founded.",
+    "zh": "唐杰宣布了智谱在RSI（递归自我改进）研究方向上的首个成果，这是他参与创立的公司的一个新技术方向。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZXNjb3VDUFNCYmZOS2QxX3FHQzRkZVNuVmNmOUpocGpwV3hES0E3ZU55aEtWVWtkR0VDSnRPdXJzUkpET2x0YjBPaU9ETHAyZDFNMXFoRWpsUWhhM1FzU3ZzMWdjYmVKRGlzSnJtdUp2Nnc2ZmNTSFVILVdsc1dhdlBjRUljZHczN0JadA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T09:11:13Z",
+   "level": "minor",
+   "title": {
+    "en": "挤爆了！智谱创始人唐杰在清华设课首日座无虚席，还用大量作业「劝退」",
+    "zh": "挤爆了！智谱创始人唐杰在清华设课首日座无虚席，还用大量作业「劝退」"
+   },
+   "body": {
+    "en": "Tang Jie's new course at Tsinghua drew an overflow crowd on its first day, despite a heavy workload meant to filter students.",
+    "zh": "唐杰在清华开设的新课程首日座无虚席，尽管课程作业量很大，意在筛选学生。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdVZla0l4Tm0tWEtWcU1BX0MyNnRxSi1aTlFRUXZFTnNaWFpHRERqbXQ5N2xzRDVuUllYUElncDhoZWdLQkhUOFZBY0lUVEpvbWhic1hZM2RrMC1KTkd2NTk0WjBiMWJIRUZ1eThUbU91YUJFYlNZZEx0SlVvN25TTFJrT2wzWEt1?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T11:56:56Z",
+   "level": "notable",
+   "title": {
+    "en": "智谱唐杰清华课堂披露：2026年推进模型自我进化 聚焦AGI",
+    "zh": "智谱唐杰清华课堂披露：2026年推进模型自我进化 聚焦AGI"
+   },
+   "body": {
+    "en": "Z.ai chief scientist Tang Jie, teaching at Tsinghua, said the company will push model self-evolution in 2026 with a focus on AGI.",
+    "zh": "智谱首席科学家唐杰在清华课堂上表示，2026年将推进模型自我进化，聚焦AGI。"
+   },
+   "source": "观点网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wOGs5QlA2R01HZkNJOTVGc3FwN1YzWmRJakdSY0NyRTJHYkt4X3FNcFRPeVF5dS1CM3lJRWdBR0dCNldQM041MFJOTi1fMnJ3MDNPYXhrc3V4LWdKSmpqQy1n?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T13:02:00Z",
+   "level": "major",
+   "title": {
+    "en": "智谱唐杰披露首个RSI进展：AI在十万卡集群上自主优化，不到两周吞吐量提升至3倍",
+    "zh": "智谱唐杰披露首个RSI进展：AI在十万卡集群上自主优化，不到两周吞吐量提升至3倍"
+   },
+   "body": {
+    "en": "Tang Jie disclosed Zhipu's first recursive self-improvement (RSI) result: an AI system autonomously optimized itself on a 100,000-GPU cluster, tripling throughput in under two weeks.",
+    "zh": "唐杰披露智谱首个递归自我改进（RSI）成果：AI系统在十万卡集群上自主优化，不到两周内吞吐量提升至三倍。"
+   },
+   "source": "thepaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOYzcwbGJLaGo3bnhXYkVKaEJ4VlRqaFRpS3VXYzVKUGxJaUlQTzVxblUwS2hWTG1WWXUxdGwzRjRhUlBDOWNNUFVacUozZExkWWdfQ3M0QjVEV1BUZjFjOQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T14:20:34Z",
+   "level": "notable",
+   "title": {
+    "en": "智谱唐杰披露首个RSI进展：AI在十万卡集群上自主优化，不到两周吞吐量提升至3倍",
+    "zh": "智谱唐杰披露首个RSI进展：AI在十万卡集群上自主优化，不到两周吞吐量提升至3倍"
+   },
+   "body": {
+    "en": "Tang Jie disclosed Zhipu's first recursive self-improvement (RSI) result: a model that autonomously optimized itself on a 100,000-GPU cluster, tripling throughput in under two weeks.",
+    "zh": "唐杰披露智谱首个\"递归自我改进\"（RSI）成果：模型在十万卡集群上自主优化，不到两周吞吐量提升至三倍。"
+   },
+   "source": "新浪财经_金融信息服务商",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR2NYdFpvV1NjN0FSZlAtaFdYcENDemlGMjdSdzVHUEtGckEtUk1hektfREtBUkdheUZSSXVnc3o4a0xHVTQwNUh1Z2ZMV1poMFQ1dUUxUGhKMmtGS09sLW1OMFRzMDJSejdWUEs1STJ1eUU0Vy1MdDhRaUQwQlUtN09uSUNhX3JnNnF4NzhzaHpIV0N5bXRJSWtDM29MZERzRVdqelhoNnJKR3FnRTNpWE93?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T09:13:00Z",
+   "level": "major",
+   "title": {
+    "en": "刚刚，唐杰发布智谱RSI首个成果",
+    "zh": "刚刚，唐杰发布智谱RSI首个成果"
+   },
+   "body": {
+    "en": "Tang Jie announced Zhipu's first result from its RSI (recursive self-improvement) research line.",
+    "zh": "唐杰宣布了智谱在RSI（递归自我改进）研究方向上的首个成果。"
+   },
+   "source": "sohu.com",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQXFUdndQVTF6QTVrVnhyYlV5TWlyVUhJZW1NSFdXUHk2UzBNOFBseDhuVFhKUllOb1VZZEJYa3RYY1M3VGxsUFloOXBiRmZOai0zc01KdTAwWDRrVDlLMjJ3cHZ3cmtaZGNLakk5ZjBoNGM4NzNRZzJQSlMwSDBCWG1JZjZCTDQy?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T13:02:00Z",
+   "level": "notable",
+   "title": {
+    "en": "智谱唐杰披露首个RSI进展：AI在十万卡集群上自主优化，不到两周吞吐量提升至3倍",
+    "zh": "智谱唐杰披露首个RSI进展：AI在十万卡集群上自主优化，不到两周吞吐量提升至3倍"
+   },
+   "body": {
+    "en": "Chinese media report that Zhipu's Tang Jie disclosed the company's first recursive self-improvement (RSI) progress: AI autonomously optimizing deployment across a 100,000-GPU cluster, cutting tuning time to under two weeks for a 3x throughput gain.",
+    "zh": "中国媒体报道，智谱唐杰披露公司首个递归自我改进（RSI）进展：AI在十万卡集群上自主优化部署，不到两周将吞吐量提升至3倍。"
+   },
+   "source": "thepaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42eHNBc1h5LVFNdnFGMWFTQ2NTMlVmMnlFZmJYZFJPZXpGd2Q0Q2dsc05Nd0hQUUtXWjhYOXRERlE2ZVNuTFo5eTlxRnpNRVhYRHQtWldBQnYyNDJtSkE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T11:56:56Z",
+   "level": "notable",
+   "title": {
+    "en": "智谱唐杰清华课堂披露：2026年推进模型自我进化 聚焦AGI",
+    "zh": "智谱唐杰清华课堂披露：2026年推进模型自我进化 聚焦AGI"
+   },
+   "body": {
+    "en": "Tang told his Tsinghua class that in 2026 the focus is on advancing model self-evolution toward AGI, previewing Zhipu's technical direction.",
+    "zh": "唐杰在清华课堂上透露，2026年的重点是推进模型自我进化、聚焦通用人工智能，预示了智谱的技术方向。"
+   },
+   "source": "观点网",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRVllkd25FS1RSWGxMSW5VN2w2RkdPYkl2S3ZsX3AzTTE5cHBodnNUS2w4SHRnT0xGZ2JCM2dESGdnUThuUWVTd1V3dVljUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T02:24:58Z",
+   "level": "notable",
+   "title": {
+    "en": "智谱唐杰：国产AI的 3大挑战及突破口",
+    "zh": "智谱唐杰：国产AI的 3大挑战及突破口"
+   },
+   "body": {
+    "en": "Tang discussed the three biggest challenges facing China's domestic AI industry and where the breakthroughs are likely to come from.",
+    "zh": "唐杰探讨了中国国产AI产业面临的三大挑战，以及可能取得突破的方向。"
+   },
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfcVVDY1EtNW9uTnhhUF8xa2dqVTNzVXlLREFDVGZsQy1wSjR0TWxwOWQ2b3dHX3BzU0FFaTZqUW5ONDN2NEMyWm9qaGpfLU1lLURFd0taS1hlMG5iMy0xcWJDUXctWEx3ekpRY3lMNjliRHBrbXRub2w5Q2FzR1E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T00:50:00Z",
+   "level": "notable",
+   "title": {
+    "en": "《求是》专访唐杰教授| 国产大模型：差距、底气与未来",
+    "zh": "《求是》专访唐杰教授| 国产大模型：差距、底气与未来"
+   },
+   "body": {
+    "en": "In an interview with the Party's Qiushi journal, Tang Jie assessed the gap, confidence and future of China's domestic large models.",
+    "zh": "在《求是》杂志的专访中，唐杰教授评估了国产大模型的差距、底气与未来。"
+   },
+   "source": "智源社区",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAxaTktWGM5SUNjM0h4WV85TXNZdkpXVk0yOExxU0lGcWhWZzFIZHdhcEdVZE14VS11b09oRjJQS2JsLTZQS3ZoUA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-07",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "An Interview with Zhipu AI Co-founder Tang Jie by Qiushi Magazine",
+    "zh": "An Interview with Zhipu AI Co-founder Tang Jie by Qiushi Magazine"
+   },
+   "body": {
+    "en": "Tang Jie gave an interview to Communist Party theoretical journal Qiushi about Zhipu AI's work, a notable venue for a frontier-lab co-founder.",
+    "zh": "唐杰接受中共理论刊物《求是》专访，谈及智谱AI的工作，作为大模型公司联合创始人登上这一平台颇为罕见。"
+   },
+   "source": "Geopolitechs",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Ja3ZsSFdoWjJnaF82WFZxNDJhNDlhQmhKbU1uZmI0MWRBcTdySFBydmFGMjE3MG12bVg5d2lVbTJjbkxtMHNvZV9lNURVSUZQYXlpNUdPSGxqc2pvbVVnQzZhZFFpNkZnLUpoZTlFUTVqWWg3TnpF?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "专访唐杰：智能经济将如何改变我们的生活？",
+    "zh": "专访唐杰：智能经济将如何改变我们的生活？"
+   },
+   "body": {
+    "en": "Gave an in-depth interview on how the intelligent economy will reshape daily life.",
+    "zh": "就智能经济将如何改变日常生活接受深度专访。"
+   },
+   "source": "求是",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxSHJJMUVoV1l5dlhtSFIwOW1uR1pMdWFLOXhyWFp6R3hhRVplbzBQUWlZaW5HMEZmUGF0S2dfVjROZjFsc001NUhCSGM5ODFrb3BiSmVqZkd3WXo3VzI1NjJucHJzY09PMktUNUFORzk1Wk5HbzVPbjRwbGw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "专访唐杰 | 国产大模型：差距、底气与未来",
+    "zh": "专访唐杰 | 国产大模型：差距、底气与未来"
+   },
+   "body": {
+    "en": "In an interview, Tang Jie discussed the gaps, confidence and future of China's domestic large models.",
+    "zh": "唐杰接受专访，谈国产大模型的差距、底气与未来。"
+   },
+   "source": "求是",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lX2hnaTlVZ1g2NDNDTWZZNzEwSDFXbzZPaUtnQ0RiRDFmUWNmZUhZdWNWWTE1WUVlWmxKTDBxT1hIazRZRGZZWFZiOEJLUzZVZ0NOeWVaTjFaYlBRS2JVTzR2YmlIaFJZbjFqZVNTNlZjTU01MU9vdGpMOXA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-01",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "智谱创始人唐杰隔空对话马斯克：赶超Claude Fable 5不用等到2027年",
+    "zh": "智谱创始人唐杰隔空对话马斯克：赶超Claude Fable 5不用等到2027年"
+   },
+   "body": {
+    "en": "Zhipu AI founder Tang Jie responded to Elon Musk, saying China's models could catch up to Claude Fable 5 before 2027.",
+    "zh": "智谱AI创始人唐杰隔空回应马斯克，称国产模型追上Claude Fable 5不用等到2027年。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4VkR2ODIyS3lXdnd2d3BaMWZIMlJrUDNHTzJ5eXgzaGNXVnM1NmJpWXhVb204eklveUJsTDk0S1dwbW1SMkNSWjNUemlJUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-01",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "国产AI不会只堆参数 智谱唐杰称GLM-6要实现RSI全自主训练",
+    "zh": "国产AI不会只堆参数 智谱唐杰称GLM-6要实现RSI全自主训练"
+   },
+   "body": {
+    "en": "Tang Jie said Zhipu's next model, GLM-6, aims for recursive self-improvement through fully autonomous training, not just parameter scaling.",
+    "zh": "唐杰表示智谱新模型GLM-6的目标是通过全自主训练实现递归自我改进（RSI），而不只是堆砌参数。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13VW1ubTdXbmlvWUVCWmRiY05Tc1dESVJQNHM0TDZNVk9mbHhROTJ3c3pvRmdmQ1FkZ1dCQ05CRy1Kc242T2xuYW5GcEVzMXptbnE5a0FNTFhJcGR2NlpYekdub2VqOVpzNWRLUHdaeE9sRVNTNGhWeGNyVm4wVU0?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-01",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "国产AI不会只堆参数 智谱唐杰称GLM-6要实现RSI全自主训练",
+    "zh": "国产AI不会只堆参数 智谱唐杰称GLM-6要实现RSI全自主训练"
+   },
+   "body": {
+    "en": "Said Zhipu's upcoming GLM-6 aims for fully autonomous recursive self-improvement training, not just scaling parameters.",
+    "zh": "表示智谱即将推出的GLM-6目标是实现全自主的递归自我提升(RSI)训练，而非单纯堆砌参数。"
+   },
+   "source": "驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vRmFEVjFaeXhLT0dPQWxBbVctcFZfTGJiY252NzdSZWVFUWV3QzcxY1dmU3hFTnZwcFlxaEpETUhlUjNndUU4TllxOUtISW1pdWxXTWY0d18?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-01",
+   "ts": "2026-09-01T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "国产AI不会只堆参数 智谱唐杰称GLM-6要实现RSI全自主训练",
+    "zh": "国产AI不会只堆参数 智谱唐杰称GLM-6要实现RSI全自主训练"
+   },
+   "body": {
+    "en": "Tang Jie says domestic Chinese AI won't just chase parameter scale, and that Zhipu's GLM-6 aims to achieve fully autonomous RSI (recursive self-improvement) training.",
+    "zh": "唐杰表示国产AI不会只堆参数，智谱GLM-6的目标是实现RSI（递归自我改进）全自主训练。"
+   },
+   "source": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBST1B2cU1FQndhMXNValpEWUVqaXAzTmw4VGVRU090VmdYOTNLNkxmZ3V1ZUE2LUE5TGFucDlqc3pMSmlBV3ZGaQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-31",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "智谱创始人唐杰：GLM-6.0定位全自训练技术路线",
+    "zh": "智谱创始人唐杰：GLM-6.0定位全自训练技术路线"
+   },
+   "body": {
+    "en": "Zhipu founder Tang Jie said GLM-6.0 will be positioned around a fully self-trained technical route.",
+    "zh": "智谱创始人唐杰表示，GLM-6.0将定位于全自训练技术路线。"
+   },
+   "source": "观点网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HYUF5c3J6NmNqeURMQlBxYkNQaUY4Vm4tNEswd1VjRjMtTnl3cVVPdGhOZG1SQllQM25kejl3VWt6dm4wbGN0NzE4UjhQUXdXcjVWc3RtZnNoWnBNanVMc2JB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-30",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "智谱唐杰：万亿参数是行业早期的探索|scaling law|GLM-5|强化学习|OpenAI|Qwen_手机新浪网",
+    "zh": "智谱唐杰：万亿参数是行业早期的探索|scaling law|GLM-5|强化学习|OpenAI|Qwen_手机新浪网"
+   },
+   "body": {
+    "en": "Tang Jie discussed GLM-5, scaling laws and reinforcement learning strategy, arguing trillion-parameter scale is still an early-stage industry exploration.",
+    "zh": "唐杰谈及GLM-5、scaling law与强化学习策略，认为万亿参数规模仍处于行业早期探索阶段。"
+   },
+   "source": "finance.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxOWTJDWWJXOHFOY0d1V0dHLWx6ckIzazhVLWw3Y1N6bFVlYVRyQmltN3FZdEd5cHB0bk92azd4V1Q0Y1NZMjJNWW1UUXhiWkRpLV9UWWc0bzJhaVNOZlEzV0NHck1XZmFZTm9fcDNseG9vNkNnOFAyNDdQSE9YMURHbTVraUtmVXB3ZDdXd0JYYnMxQlItSFNvZ2UtLWFXdXItYnhYYzU4eWFNM29nV2Y4Q2g4eGhhdkVwcWtzRHZXREV0OEJ6X1J5MllnRl9fNTF5bzVuUWJVWlhmbGdESGwtY1VzeWl1OHV0c3VXS05QYWZxVl8zMnBRMUlEcUlONVl4dllpc1JuNUlMYjlTcnNidk1EMlRLdlJRNWFxbkRZdGwtRHB2NzBvZDZCU3dhQ3piRXpqcWhWSHZwdzg4OVBmUkljVXJxVDNUQXNUVjdldmJCRDdDdjJoTVV4LUh0NkhVcGhaSzF2NmtDcXdyazRGSkQ1SmtMUTliM3F5VFhXWncxcWRxM1g3bW5kMmJ6RHQtR3BYUU5nVHVyYXRIdEZRY3JYOHAzaVNFNFctY2c3ZERKbWdDdWU5MHNHekkwT243dnFUMklBVllMVFBtdlU1aXJzMjlnZWhZbFJBeTI4b3laOWU4S1EyOHdKTnpBYkZpN2Q0LTlXUVdmSmVfWGJ3UlV1eFNCWGVHalBsUWQ0dU5ESU5udy00bEswTVR6OWpwUHNrNURVRlhKYjQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-22",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "从数参数到算算力：唐杰谈 Scaling Law 的新标尺",
+    "zh": "从数参数到算算力：唐杰谈 Scaling Law 的新标尺"
+   },
+   "body": {
+    "en": "Tang Jie argued that compute, not parameter count, should be the new yardstick for scaling laws.",
+    "zh": "唐杰提出，衡量Scaling Law的新标尺应是算力而非参数量。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKYk4tNlcyU0dLWXVkY2JJSl93ME00WUpkaHlsUnF4QTk1LW5ITzNTMF9UM3N5NGVaY09xNklPbENrX2U2TTY4eUNrbnBBbEFVMWpYNkt3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-21",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "两个月蒸发8000亿市值，智谱唐杰坦言“走了弯路”",
+    "zh": "两个月蒸发8000亿市值，智谱唐杰坦言“走了弯路”"
+   },
+   "body": {
+    "en": "After roughly 800 billion HKD came off Zhipu's market value in two months, he publicly conceded the company had taken a wrong turn — a rare candid assessment from the co-founder of the first listed foundation-model company.",
+    "zh": "智谱市值两个月蒸发约 8000 亿港元后，他公开承认公司“走了弯路”——作为全球首家上市大模型公司的联合创始人，这是少见的坦率检讨。"
+   },
+   "source": "21财经",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTnBtMDI3RHI1VTF6WlRnbUlfZUI0VmZ3ZVRtZEpMNC1WZkQ2Z2JUNmFPMXRubDBJelc2SlNSMjRSeDM5VzA0Y2VYbk9YNHV5U1luZER1VGtHY1pPLWNGQ1U0QnhWaUlwRkNBQW5pNEdoS2tIOEtuSTROVElHTXh6VnJUbmU2WTM3S0gzSw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-21",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "两个月蒸发8000亿市值，智谱唐杰坦言“走了弯路”",
+    "zh": "两个月蒸发8000亿市值，智谱唐杰坦言“走了弯路”"
+   },
+   "body": {
+    "en": "After Zhipu's market value fell by roughly ¥800 billion in two months, Tang Jie publicly acknowledged the company had taken a wrong turn.",
+    "zh": "在智谱两个月内市值蒸发约8000亿元后，唐杰公开承认公司此前走了弯路。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yQVpyclEtcVItTXV6TFJjdU5HeDVIQ2NTV0R5dU9GOGI4ZnJ5MXAwX290VkNoLTNHbHdtbHRnRU13NnFqM09QNzJITzJaUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-20",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "智谱唐杰：万亿参数是行业早期的探索",
+    "zh": "智谱唐杰：万亿参数是行业早期的探索"
+   },
+   "body": {
+    "en": "Tang Jie said trillion-parameter models are still an early-stage industry exploration, a notable technical stance from Zhipu's chief scientist on scaling.",
+    "zh": "唐杰表示万亿参数模型仍是行业早期的探索，这是智谱首席科学家在模型规模化问题上的一个值得关注的技术立场。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxNlpzOWlSN3FzNzl5YVdtLVlhRVF1ODJKd25ROG5Fc0J2emIxLTY1ck1kZW1oU2lNV0VWQTRHWXNnOXhiblE4UkpOSENiR2NMUDItMTBFX2FfWm5EWUFFd0ZIdVRqLXRzb0hGeTJHUHh0TzN0cTllLWZTLWoyQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-19",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "智谱唐杰：大模型只看参数的时代，结束了",
+    "zh": "智谱唐杰：大模型只看参数的时代，结束了"
+   },
+   "body": {
+    "en": "Tang Jie argued the era of judging large models purely by parameter count has ended, pointing to compute efficiency as the new yardstick.",
+    "zh": "唐杰表示大模型只看参数量的时代已经结束，算力效率成为新的衡量标准。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mQXV1Z1VhVWNZRnpJRG5wVGtuQXhaQkVBNlFLZVdsMGRxSnZRRU5ZNlVLbHFJUC1WcVVpSzR5MkNteDJOTklrSVZ4dWRQR3RCTnc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-15",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "《光明日报》| 唐杰：坚定不移探索通用人工智能发展的中国道路",
+    "zh": "《光明日报》| 唐杰：坚定不移探索通用人工智能发展的中国道路"
+   },
+   "body": {
+    "en": "Signed essay in Guangming Daily setting out Tang's argument for a Chinese path to general artificial intelligence.",
+    "zh": "唐杰在《光明日报》署名撰文，阐述他主张的通用人工智能发展中国道路。"
+   },
+   "source": "智源社区",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1V3lLNlVldzkyVm9UQXFjU2RPdXFUZ0tuaTZjLXNnT0dOX2h1MWRzZVU1Z1VSd1kxcncyd0hHWHBSWnA3WWhEcA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-14",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "GLM-5.3 Arrives Hours After Tang Jie's 'sooooooon' — Zhipu's Coding and Security Model Doubles SWE-Marathon, Tops CyberGym",
+    "zh": "GLM-5.3 Arrives Hours After Tang Jie's 'sooooooon' — Zhipu's Coding and Security Model Doubles SWE-Marathon, Tops CyberGym"
+   },
+   "body": {
+    "en": "Zhipu released GLM-5.3, a coding and security model that doubles its SWE-Marathon score and tops CyberGym, hours after Tang teased it.",
+    "zh": "唐杰预告后数小时，智谱发布 GLM-5.3 编程与安全模型，SWE-Marathon 成绩翻倍并在 CyberGym 上登顶。"
+   },
+   "source": "Pandaily",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMWxXNmxMS3o2Tmdkb0lYTUhfZk9DQ29rdzJzbl9KLUJjRGtWUUpUXy1WU3lwWk8ydWFEY0xxVmxfM29wQjluSXpiTFRVMzNndFhJTUljbzRuZFdUdXotQTNENEFJNDhaekZac1lXUXM3c3Y2UEltSFB6Z0NybEZINTlDc3NhUFl6N0dTUVln?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-05",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "清华唐杰团队揭示大模型记忆全景- 产业链",
+    "zh": "清华唐杰团队揭示大模型记忆全景- 产业链"
+   },
+   "body": {
+    "en": "Tang Jie's Tsinghua team published research mapping out how large models form and retain memory.",
+    "zh": "唐杰在清华的团队发表研究，揭示大模型记忆机制的全貌。"
+   },
+   "source": "光通信Pro",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92MVJtOFZfNUdxQ19Cb1JJX2lvUzR2T2pONlJEemRsS1FoeFZSbm5NSmI5Zl81ZzRXTTBIdWNGOHBoaWQyRGNsUmZCWnJCbmVIZGJka1NTbw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-23",
+   "ts": "2026-07-23T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "唐杰杨植麟师徒对决：Kimi K3炸榜 智谱蒸发3000亿",
+    "zh": "唐杰杨植麟师徒对决：Kimi K3炸榜 智谱蒸发3000亿"
+   },
+   "body": {
+    "en": "Coverage frames a rivalry between Tang Jie's Zhipu AI and former student Yang Zhilin's Moonshot AI, with Kimi K3's rise reported alongside a roughly ¥300bn drop in Zhipu's valuation.",
+    "zh": "报道将唐杰的智谱AI与其学生杨植麟创立的月之暗面相对比：Kimi K3登榜走红，而智谱估值据报蒸发约3000亿元。"
+   },
+   "source": "EBRUN.com",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKa3FnN3hHbXE0MlljbWthVXhGOWVNalFCaW5JZFJyUmJQX1hFcVNRTlR3VEU0d1c4Zy1abnZZbGx4Y2pERlE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-23",
+   "ts": "2026-07-23T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "唐杰杨植麟师徒对决：Kimi K3炸榜 智谱蒸发3000亿",
+    "zh": "唐杰杨植麟师徒对决：Kimi K3炸榜 智谱蒸发3000亿"
+   },
+   "body": {
+    "en": "Zhipu, where Tang Jie is chief scientist, reportedly lost 300 billion yuan in market value as Moonshot's Kimi K3 (led by his former student Yang Zhilin) topped the charts.",
+    "zh": "唐杰担任首席科学家的智谱据报道市值蒸发3000亿元，其昔日学生杨植麟旗下月之暗面的Kimi K3登顶榜单。"
+   },
+   "source": "亿邦动力网",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RZ2VySU1DY1FGWjhQWGZnbDVyUG05cVNNQXdDc0hzZ05BME1UVXpPcmpHWTM5TkxZY1ExSEtIeU4tUnRPLUI5NG9LUmZEZGxNVmdxdFdR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-13",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "智谱创始人唐杰：前沿人工智能应保持开放",
+    "zh": "智谱创始人唐杰：前沿人工智能应保持开放"
+   },
+   "body": {
+    "en": "Zhipu AI founder Tang Jie said frontier AI should remain open, a public stance on the open-vs-closed debate in Chinese foundation models.",
+    "zh": "智谱AI创始人唐杰表示前沿人工智能应保持开放，就中国基础模型领域开放与闭源之争表明立场。"
+   },
+   "source": "集微网",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE4zc1hLTFlneEl1T3U1aGFic2tsZ2thNzJEbjBya1BLMnNzV2VqMXQ1S3NkOUJ2MzdRbTNlbjhFZ0owRlE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-12",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "“巨浪已来”，智谱创始人唐杰内部信曝光，重磅计划公布",
+    "zh": "“巨浪已来”，智谱创始人唐杰内部信曝光，重磅计划公布"
+   },
+   "body": {
+    "en": "An internal letter from Zhipu AI founder Tang Jie leaked, revealing a major strategic plan centered on a two-year push toward artificial superintelligence.",
+    "zh": "智谱AI创始人唐杰的一封内部信曝光，披露了以“两年死磕通用超级智能（ASI）”为核心的重磅战略计划。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKblZQOXl0Tk5oQWtRejNoM182QzdqQmZxaUV3ZXE1RmhwaGxsUmEwOXJPcUNhc2tlWVAwWXVPUlUtc1B5WnY3ZUF4bGQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-12",
+   "ts": "2026-07-12T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "“巨浪已来”，智谱创始人唐杰内部信曝光，重磅计划公布",
+    "zh": "“巨浪已来”，智谱创始人唐杰内部信曝光，重磅计划公布"
+   },
+   "body": {
+    "en": "An internal letter from Z.ai (Zhipu) founder Tang Jie was made public, laying out a major strategic plan as he says the company rides an incoming wave.",
+    "zh": "智谱创始人唐杰的一封内部信曝光，公布了一项重磅战略计划，他称公司正迎来一波\"巨浪\"。"
+   },
+   "source": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzcVZWQkZmYVluOVRxWXRQVnBpS09DbEl5Vk5uV2o2RFBpSFpPWHJQQVhORFZVd21jcnNacmdyVW95cW1zZWJIV1Vka2c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-12",
+   "ts": "2026-07-12T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "智谱创始人唐杰内部信：未来两年，将战略性投入四大核心引擎",
+    "zh": "智谱创始人唐杰内部信：未来两年，将战略性投入四大核心引擎"
+   },
+   "body": {
+    "en": "In an internal letter, Zhipu AI founder Tang Jie lays out a strategic plan to invest in four core engines over the next two years.",
+    "zh": "智谱AI创始人唐杰在内部信中宣布，未来两年将战略性投入四大核心引擎。"
+   },
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EZjZZbUdnM2g0OEZXZ2Ftb0RjZW1TV2VPZ3M4V2JrODJZU181NlhONTNoU2lObzI4OVg4X0otZF8yb0QxOW9EeWVpQ2ZZRVRsS0V0cGZKM1A4bktiWllxcl9xWFdDNjhXZF9yYjhEeldla3F6T3BNTA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-12",
+   "ts": "2026-07-12T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "“巨浪已来”，智谱创始人唐杰内部信曝光，重磅计划公布！",
+    "zh": "“巨浪已来”，智谱创始人唐杰内部信曝光，重磅计划公布！"
+   },
+   "body": {
+    "en": "An internal letter from Zhipu AI founder Tang Jie leaked, announcing a major new strategic plan he called \"the giant wave has arrived.\"",
+    "zh": "智谱AI创始人唐杰的内部信曝光，宣布了他称为“巨浪已来”的重磅战略计划。"
+   },
+   "source": "mrjjxw.com",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kenZzMlh0UjhHTG1DcEZ3MEpIVnF2UmVsMjY4bldRU3laNWJuaGRvTE83dHpvVkFzVW9BV2F6OEVfb0hXcGZIczVES2FQWHRsaEFVR0oyRVBDczFtOTE3elIwR04wUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-12",
+   "ts": "2026-07-12T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "智谱创始人唐杰发内部信，透露下一步战略方向",
+    "zh": "智谱创始人唐杰发内部信，透露下一步战略方向"
+   },
+   "body": {
+    "en": "Tang, as Zhipu's founder, sent an internal letter to staff outlining the company's next strategic direction.",
+    "zh": "唐杰作为智谱创始人向员工发出内部信，阐述公司下一步的战略方向。"
+   },
+   "source": "shobserver.cn",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBQUwxYkQxaFVGdUYxbzNrRXdRMmRsUGRWMHVuN013aWVSeWpBdXdaVWkzWGNnM2tWOUdReDd3MmtYYXpnZnc2OXFjUC1pck5oT2wyOWhyMGw4RFRRVVE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-11",
+   "ts": "2026-07-11T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "智谱创始人唐杰：巨浪已来，智能的上界正在被改写",
+    "zh": "智谱创始人唐杰：巨浪已来，智能的上界正在被改写"
+   },
+   "body": {
+    "en": "Zhipu founder Tang Jie argued that a wave of change has arrived and that the ceiling of machine intelligence is being rewritten.",
+    "zh": "智谱创始人唐杰表示，变革的巨浪已经到来，智能的上界正在被重新改写。"
+   },
+   "source": "凤凰网财经",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9adWFVNEhWaTllRFJNZHl3WjBIN2F0S3lOUkJOOTh2bkNHM2lxUk5RblRKcnBmTm0tRlI5UUtjWDZoemRDVTduVjZzNDI3RG5k?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-11",
+   "ts": "2026-07-11T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "晚点独家｜唐杰内部信称将开启 Touch High（摸高）计划，“不登顶，就是失败”",
+    "zh": "晚点独家｜唐杰内部信称将开启 Touch High（摸高）计划，“不登顶，就是失败”"
+   },
+   "body": {
+    "en": "In an internal letter, Tang Jie launched Zhipu's \"Touch High\" initiative, declaring that anything short of reaching the top counts as failure.",
+    "zh": "唐杰在内部信中宣布启动智谱的\"摸高\"计划，称\"不登顶，就是失败\"。"
+   },
+   "source": "雪球",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10eWs2a1dDOHpuUU53dFJmX1VKRk53TGF0eUoxblhrSWZqMW1aUmxwZ1NjVVFUWEk1WVc2TGU1Y3RTazBWTHY5eU5WSWdTM1p1?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-22",
+   "ts": "2026-06-22T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "智谱市值破万亿！创始人唐杰呛声马斯克",
+    "zh": "智谱市值破万亿！创始人唐杰呛声马斯克"
+   },
+   "body": {
+    "en": "Zhipu AI's market cap passed one trillion yuan, and founder Tang Jie publicly pushed back on Elon Musk's comments about the company.",
+    "zh": "智谱AI市值突破万亿元，创始人唐杰公开回应马斯克对公司的相关言论。"
+   },
+   "source": "nfplus.nfnews.com",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwWE9kWDg3Y3F2ZjJQVWJDamdlTjF0cFJaSlJpTnR4Q01OY1pxUDczZjY3aWUyOHZIX1ZEMTBMZkc3cnllcDFmb1J6RUlPS2ZoV1BQOXJpWmxZdjQyU0ZxQVhSa2dYVXJic2c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-20",
+   "ts": "2026-06-20T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "马斯克说明年Q1，唐杰说用不了那么久，谁在闷头做中国的Mythos？",
+    "zh": "马斯克说明年Q1，唐杰说用不了那么久，谁在闷头做中国的Mythos？"
+   },
+   "body": {
+    "en": "Tang Jie said China's answer to a 'Mythos'-style AI system would arrive sooner than Musk's own next-year-Q1 timeline, a public stance on the pace of domestic AI progress.",
+    "zh": "唐杰表示中国版'Mythos'式AI系统的问世时间将早于马斯克所说的明年第一季度，就国内AI发展速度发表了公开看法。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHVi1ZOWpSak9zMUk1ZWloZWFNb3V4S2c1ZmZSSUFteEl0U2dMVTJvSkJpUklKSjFKNWxwX0swYnB1TGhTWFRfQVp0amRBNVhQNXc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-18",
+   "ts": "2026-06-18T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
+    "zh": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久"
+   },
+   "body": {
+    "en": "Asked when Chinese large models will reach GPT-5-class (\"Fable\") capability, Tang Jie said it would happen sooner than Musk's next-Q1 estimate.",
+    "zh": "被问及中国大模型何时能达到Fable（GPT-5）级别时，唐杰表示比马斯克预计的明年第一季度还要更快。"
+   },
+   "source": "财联社",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFByMHE4WFYyRGVXdzVNMmw1UV9MSXdVRlcwak1wd0YtOTk0UFBCaTUtNFEteld6b2hqaHREVlNBYVZVanpMMVE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-14",
+   "ts": "2026-05-14T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "唐杰深夜发文，AI从工具到劳动力只差这一步",
+    "zh": "唐杰深夜发文，AI从工具到劳动力只差这一步"
+   },
+   "body": {
+    "en": "Tang posted late at night arguing AI is one step away from moving from being a tool to becoming labor itself.",
+    "zh": "唐杰深夜发文称，AI距离从工具变为劳动力只差最后一步。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ib3ZlMVRyc0dQMzZmQlNFOWFCd2xWOVJFajF1UU0yd2ZIVmRlTGthRjRZazJyUXp5SUY1Y01MbWl5VUtpWjNnV2wtQk50UUJVMWc?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "lab",
+ "score": {
+  "total": 67.2,
+  "attention": null,
+  "centrality": 58,
+  "momentum": 90,
+  "stature": 42,
+  "pageviews": 0,
+  "citations": 30390,
+  "hIndex": 83,
+  "events": 55,
+  "posts": 64,
+  "wikiEn": null,
+  "wikiZh": null
+ },
+ "seedRank": 37,
+ "tier": "t2"
+}

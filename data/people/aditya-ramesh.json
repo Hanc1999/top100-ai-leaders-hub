@@ -1,0 +1,472 @@
+{
+ "rank": 61,
+ "id": "aditya-ramesh",
+ "name": {
+  "en": "Aditya Ramesh",
+  "zh": "Aditya Ramesh"
+ },
+ "role": {
+  "en": "VP of Research, OpenAI; lead of Worldsim",
+  "zh": "OpenAI 研究副总裁；Worldsim 负责人"
+ },
+ "org": "OpenAI",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "OpenAI",
+  "DALL·E",
+  "Worldsim",
+  "Robotics",
+  "Video generation"
+ ],
+ "why": {
+  "en": "First author of the DALL·E line and one of the technical founders of text-to-image generation, which set off the commercial wave in visual generation. Now leads Worldsim and is bootstrapping OpenAI's robotics effort.",
+  "zh": "DALL·E 系列第一作者，文本到图像生成的技术奠基者之一，直接引发了视觉生成的商业化浪潮。现领导 Worldsim，并正在启动 OpenAI 的机器人方向。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@model_mechanic",
+   "url": "https://x.com/model_mechanic",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "adityaramesh.com",
+   "url": "http://adityaramesh.com/",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @adityaramesh",
+   "url": "https://github.com/adityaramesh",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "OpenAI Research",
+   "url": "https://openai.com/research/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Aditya+Ramesh",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Aditya+Ramesh",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Aditya+Ramesh",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Aditya+Ramesh&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Aditya+Ramesh&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Aditya+Ramesh",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Aditya+Ramesh",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Aditya+Ramesh",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Aditya+Ramesh",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Aditya+Ramesh",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Aditya+Ramesh",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Aditya+Ramesh",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Aditya+Ramesh",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Aditya+Ramesh&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2021-02-24",
+   "kind": "paper",
+   "title": {
+    "en": "Zero-shot text-to-image generation (DALL·E)",
+    "zh": "零样本文本到图像生成（DALL·E）"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2102.12092",
+   "note": {
+    "en": "The paper that started the commercial wave in visual generation.",
+    "zh": "引发视觉生成商业化浪潮的论文。"
+   }
+  },
+  {
+   "date": "2022-04-13",
+   "kind": "paper",
+   "title": {
+    "en": "Hierarchical text-conditional image generation with CLIP latents (DALL·E 2)",
+    "zh": "基于 CLIP 潜变量的层次化文本条件图像生成（DALL·E 2）"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2204.06125",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2024-10-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GPT-4o System Card",
+    "zh": "GPT-4o System Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2410.21276v1",
+   "note": {
+    "en": "OpenAI's system card for GPT-4o, the omni model taking text, audio, image and video input; Ramesh is among the contributing authors.",
+    "zh": "OpenAI 发布的 GPT-4o 系统卡，介绍这一可接受文本、音频、图像和视频输入的全模态模型；Ramesh 是署名作者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-03-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GPT-4 Technical Report",
+    "zh": "GPT-4 Technical Report"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2303.08774v6",
+   "note": {
+    "en": "The GPT-4 technical report, documenting OpenAI's multimodal model that accepts image and text input; Ramesh is one of the contributing authors.",
+    "zh": "GPT-4 技术报告，记录了 OpenAI 这一可接受图像与文本输入的多模态模型；Ramesh 是参与作者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-10-18",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "DALL-E-2, the Future of Creative Work \"Creative Co-Pilot\" - with OpenAI's Aditya Ramesh",
+    "zh": "DALL-E-2, the Future of Creative Work \"Creative Co-Pilot\" - with OpenAI's Aditya Ramesh"
+   },
+   "source": "The AI in Business Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/dall-e-2-the-future-of-creative-work-creative-co/id670771965?i=1000582988625&uo=4",
+   "note": {
+    "en": "A podcast interview in which Ramesh explains DALL·E 2 and how text-to-image models change creative work.",
+    "zh": "一期播客访谈，Ramesh 讲解 DALL·E 2 以及文生图模型如何改变创意工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-04-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Hierarchical Text-Conditional Image Generation with CLIP Latents",
+    "zh": "Hierarchical Text-Conditional Image Generation with CLIP Latents"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2204.06125v1",
+   "note": {
+    "en": "The DALL·E 2 paper, first-authored by Ramesh: a two-stage model that generates images from CLIP text embeddings via a prior plus a diffusion decoder.",
+    "zh": "DALL·E 2 论文，由 Ramesh 担任第一作者：提出先验模型加扩散解码器的两阶段架构，从 CLIP 文本嵌入生成图像。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-12-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models",
+    "zh": "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2112.10741v3",
+   "note": {
+    "en": "GLIDE, the OpenAI paper showing that classifier-free guided diffusion beats DALL·E on photorealistic text-guided image generation and editing; Ramesh is a co-author.",
+    "zh": "GLIDE 论文，OpenAI 证明无分类器引导的扩散模型在照片级文本引导图像生成与编辑上优于 DALL·E；Ramesh 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-10-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Unsupervised Neural Machine Translation with Generative Language Models Only",
+    "zh": "Unsupervised Neural Machine Translation with Generative Language Models Only"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2110.05448v1",
+   "note": {
+    "en": "An OpenAI paper deriving state-of-the-art unsupervised machine translation from generatively pretrained language models alone; Ramesh is a co-author.",
+    "zh": "OpenAI 的一篇论文，仅凭生成式预训练语言模型即可导出当时最先进的无监督机器翻译系统；Ramesh 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-03-04",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Episode #3: DALL-E in depth",
+    "zh": "Episode #3: DALL-E in depth"
+   },
+   "source": "Deep Learning Deep Dive",
+   "url": "https://podcasts.apple.com/us/podcast/episode-3-dall-e-in-depth/id1555309024?i=1000511578664&uo=4",
+   "note": {
+    "en": "Podcast episode revisiting DALL-E in depth shortly after the paper's release, with Ramesh joining as the guest who led the work.",
+    "zh": "DALL-E论文发布后不久的一期播客节目，深入探讨该模型，Ramesh作为主导这项工作的嘉宾参与讨论。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2021-02-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Learning Transferable Visual Models From Natural Language Supervision",
+    "zh": "Learning Transferable Visual Models From Natural Language Supervision"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2103.00020v1",
+   "note": {
+    "en": "The CLIP paper, which learns transferable visual representations from natural-language supervision; Ramesh is a co-author and CLIP later became the backbone of DALL·E 2.",
+    "zh": "CLIP 论文，通过自然语言监督学习可迁移的视觉表征；Ramesh 为共同作者，CLIP 后来成为 DALL·E 2 的核心组件。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-02-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Zero-Shot Text-to-Image Generation",
+    "zh": "Zero-Shot Text-to-Image Generation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2102.12092v2",
+   "note": {
+    "en": "The original DALL·E paper, first-authored by Ramesh, treating text-to-image generation as autoregressive modelling over a joint text and image token stream.",
+    "zh": "最初的 DALL·E 论文，由 Ramesh 担任第一作者，将文生图建模为对文本与图像 token 联合序列的自回归生成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-10-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scaling Laws for Autoregressive Generative Modeling",
+    "zh": "Scaling Laws for Autoregressive Generative Modeling"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2010.14701v2",
+   "note": {
+    "en": "An OpenAI paper establishing empirical scaling laws for generative modelling across image, video, multimodal and math domains; Ramesh is a co-author.",
+    "zh": "OpenAI 的一篇论文，在图像、视频、多模态与数学等领域确立了生成式建模的经验缩放定律；Ramesh 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-05-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Language Models are Few-Shot Learners",
+    "zh": "Language Models are Few-Shot Learners"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2005.14165v4",
+   "note": {
+    "en": "The GPT-3 paper, showing that scaling a language model to 175B parameters yields strong few-shot task performance without fine-tuning; Ramesh is a co-author.",
+    "zh": "GPT-3 论文，证明将语言模型扩展到 1750 亿参数后，无需微调即可获得很强的少样本任务表现；Ramesh 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-12-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Spectral Regularizer for Unsupervised Disentanglement",
+    "zh": "A Spectral Regularizer for Unsupervised Disentanglement"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1812.01161v2",
+   "note": {
+    "en": "Ramesh's NYU work with Yann LeCun proposing a spectral regulariser for unsupervised disentanglement, part of the representation-learning line that led into DALL·E.",
+    "zh": "Ramesh 在纽约大学与 Yann LeCun 合作的工作，提出用于无监督解耦表征的谱正则项，属于最终通向 DALL·E 的表征学习脉络。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-06-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Backpropagation for Implicit Spectral Densities",
+    "zh": "Backpropagation for Implicit Spectral Densities"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1806.00499v1",
+   "note": {
+    "en": "Ramesh and Yann LeCun show how to backpropagate through implicit spectral densities, an early generative-modelling paper from his NYU period.",
+    "zh": "Ramesh 与 Yann LeCun 提出对隐式谱密度做反向传播的方法，是他纽约大学时期的早期生成模型工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2016-11-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Disentangling factors of variation in deep representations using adversarial training",
+    "zh": "Disentangling factors of variation in deep representations using adversarial training"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1611.03383v1",
+   "note": {
+    "en": "An NYU paper with LeCun's group on disentangling factors of variation in deep representations via adversarial training; Ramesh is a co-author.",
+    "zh": "与 LeCun 团队合作的纽约大学论文，通过对抗训练解耦深度表征中的变化因子；Ramesh 为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-01-01",
+   "level": "notable",
+   "title": {
+    "en": "Leads Worldsim as VP of Research at OpenAI",
+    "zh": "以 OpenAI 研究副总裁身份领导 Worldsim"
+   },
+   "body": {
+    "en": "Bootstrapping OpenAI's new robotics effort, bringing the intelligence of its video generation models into the physical world.",
+    "zh": "正在启动 OpenAI 新的机器人方向，把视频生成模型的智能带入物理世界。"
+   },
+   "source": "adityaramesh.com",
+   "url": "http://adityaramesh.com/"
+  }
+ ],
+ "changed": true,
+ "was": {
+  "en": "Thinking Machines Lab",
+  "zh": "Thinking Machines Lab"
+ },
+ "cat": "lab",
+ "score": {
+  "total": 37.4,
+  "attention": null,
+  "centrality": 68,
+  "momentum": 1,
+  "stature": null,
+  "pageviews": 0,
+  "citations": 0,
+  "hIndex": 0,
+  "events": 1,
+  "posts": 16,
+  "wikiEn": null,
+  "wikiZh": null
+ },
+ "seedRank": 100,
+ "tier": "t4"
+}

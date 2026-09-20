@@ -1,0 +1,773 @@
+{
+ "rank": 93,
+ "id": "christopher-manning",
+ "name": {
+  "en": "Christopher Manning",
+  "zh": "Christopher Manning"
+ },
+ "role": {
+  "en": "Thomas M. Siebel Professor in Machine Learning, Stanford (former SAIL Director)",
+  "zh": "斯坦福 Thomas M. Siebel 机器学习讲席教授（前 SAIL 主任）"
+ },
+ "org": "Stanford",
+ "region": {
+  "en": "United States / Australia",
+  "zh": "美国/澳大利亚"
+ },
+ "tags": [
+  "Stanford",
+  "GloVe",
+  "NLP",
+  "SAIL",
+  "Linguistics"
+ ],
+ "why": {
+  "en": "Leader of the GloVe word vectors and the Stanford NLP school, which trained a generation of NLP researchers — including several founders on this list.",
+  "zh": "GloVe 词向量与斯坦福 NLP 学派的领袖，培养了包括本榜单多位创业公司创始人在内的一代 NLP 研究者。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@chrmanning",
+   "url": "https://x.com/chrmanning",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Stanford NLP page",
+   "url": "https://nlp.stanford.edu/~manning/",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @manning",
+   "url": "https://github.com/manning",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "Stanford NLP Group",
+   "url": "https://nlp.stanford.edu/",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "SAIL Blog",
+   "url": "https://ai.stanford.edu/blog/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Christopher+Manning",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Christopher+Manning",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Christopher+Manning",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Christopher+Manning&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Christopher+Manning&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Christopher+Manning",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Christopher+Manning",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?user=1zmDOdwAAAAJ&hl=en",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Christopher+Manning",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Christopher+Manning",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Christopher+Manning",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Christopher+Manning",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Christopher+Manning",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ACL Anthology",
+   "url": "https://aclanthology.org/search/?q=Christopher+Manning",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Christopher+Manning&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Christopher_D._Manning",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2014-10-01",
+   "kind": "paper",
+   "title": {
+    "en": "GloVe: global vectors for word representation",
+    "zh": "GloVe：面向词表示的全局向量"
+   },
+   "source": "Stanford NLP",
+   "url": "https://nlp.stanford.edu/projects/glove/",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2022-01-01",
+   "kind": "paper",
+   "title": {
+    "en": "Human language understanding & reasoning",
+    "zh": "人类语言的理解与推理"
+   },
+   "source": "Daedalus",
+   "url": "https://nlp.stanford.edu/~manning/",
+   "note": {
+    "en": "His statement of what large models did and did not settle about meaning.",
+    "zh": "他关于大模型在「意义」问题上解决了什么、又没解决什么的表述。"
+   }
+  },
+  {
+   "date": "2026-08-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL",
+    "zh": "One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.12253v2",
+   "note": {
+    "en": "Co-authored study showing that multi-agent RL for human-AI interaction fails to generalize when user behaviour is simulated by a single frozen language model.",
+    "zh": "合著论文指出，用单一固定的大模型来模拟用户行为时，面向人机交互的多智能体强化学习难以泛化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Shepherd: Enabling Programmable Meta-Agents via Reversible Agentic Execution Traces",
+    "zh": "Shepherd: Enabling Programmable Meta-Agents via Reversible Agentic Execution Traces"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.10913v3",
+   "note": {
+    "en": "Co-authored paper introducing Shepherd, which makes agent execution traces reversible so meta-agents can programmatically create and manage other agents.",
+    "zh": "合著论文提出 Shepherd：通过可回溯的智能体执行轨迹，让元智能体能够以编程方式创建和管理其他智能体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SecureForge: Finding and Preventing Vulnerabilities in LLM-Generated Code via Prompt Optimization",
+    "zh": "SecureForge: Finding and Preventing Vulnerabilities in LLM-Generated Code via Prompt Optimization"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.08382v1",
+   "note": {
+    "en": "Co-authored work using prompt optimization to find and prevent security vulnerabilities in code written by LLM coding agents.",
+    "zh": "合著论文通过提示优化来发现并预防大模型编程智能体所生成代码中的安全漏洞。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Humans and transformer LMs: Abstraction drives language learning",
+    "zh": "Humans and transformer LMs: Abstraction drives language learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.17475v1",
+   "note": {
+    "en": "A two-author paper with his student comparing how transformer language models and humans acquire linguistic categories, arguing that abstraction drives language learning.",
+    "zh": "他与学生合作的两人论文，比较 Transformer 语言模型与人类习得语言范畴的过程，认为抽象能力驱动了语言学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-10-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Multimodal Benchmark for Framing of Oil & Gas Advertising and Potential Greenwashing Detection",
+    "zh": "A Multimodal Benchmark for Framing of Oil & Gas Advertising and Potential Greenwashing Detection"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2510.21679v1",
+   "note": {
+    "en": "Co-authored multimodal benchmark for analysing how oil and gas advertising frames its message, aimed at detecting greenwashing.",
+    "zh": "合著论文构建了一个多模态基准，用于分析油气行业广告的话语框架并检测“漂绿”行为。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-10-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Transcribe, Translate, or Transliterate: An Investigation of Intermediate Representations in Spoken Language Models",
+    "zh": "Transcribe, Translate, or Transliterate: An Investigation of Intermediate Representations in Spoken Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2510.02569v2",
+   "note": {
+    "en": "Co-authored analysis of what intermediate representations the modality adapters in spoken language models actually produce.",
+    "zh": "合著论文分析了语音大模型中的模态适配器究竟生成了怎样的中间表示。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-10-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity",
+    "zh": "Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2510.01171v4",
+   "note": {
+    "en": "Co-authored paper tracing LLM mode collapse to the training data itself and proposing verbalized sampling as a prompting fix that restores output diversity.",
+    "zh": "合著论文将大模型的模式坍缩归因于训练数据本身，并提出“口语化采样”提示方法来恢复输出多样性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-09-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Thoughtbubbles: an Unsupervised Method for Parallel Thinking in Latent Space",
+    "zh": "Thoughtbubbles: an Unsupervised Method for Parallel Thinking in Latent Space"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2510.00219v2",
+   "note": {
+    "en": "Co-authored method that lets transformers learn to think in parallel in latent space without explicit chain-of-thought supervision.",
+    "zh": "合著论文提出一种无监督方法，让 Transformer 在潜空间中并行“思考”，无需显式的思维链监督。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-09-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DistillKac: Few-Step Image Generation via Damped Wave Equations",
+    "zh": "DistillKac: Few-Step Image Generation via Damped Wave Equations"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2509.21513v3",
+   "note": {
+    "en": "Co-authored few-step image generator built on the damped wave equation and its stochastic Kac representation, moving probability mass at finite speed rather than by diffusion.",
+    "zh": "合著论文提出 DistillKac：基于阻尼波动方程及其 Kac 随机表示的少步图像生成模型，以有限速度而非扩散方式转移概率质量。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-08-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "WebDS: An End-to-End Benchmark for Web-based Data Science",
+    "zh": "WebDS: An End-to-End Benchmark for Web-based Data Science"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2508.01222v2",
+   "note": {
+    "en": "Co-authored end-to-end benchmark for agents that must find, combine and summarise real data from the live web.",
+    "zh": "合著论文提出 WebDS：面向智能体在真实网络环境中查找、整合并总结数据的端到端基准。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-07-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A New Pair of GloVes",
+    "zh": "A New Pair of GloVes"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2507.18103v1",
+   "note": {
+    "en": "Manning documents and evaluates new 2024 English GloVe models, a direct update to the word vectors he co-created in 2014.",
+    "zh": "曼宁记录并评估了 2024 年新版英文 GloVe 模型，是对他 2014 年参与创建的词向量的直接更新。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-06-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Mechanisms vs. Outcomes: Probing for Syntax Fails to Explain Performance on Targeted Syntactic Evaluations",
+    "zh": "Mechanisms vs. Outcomes: Probing for Syntax Fails to Explain Performance on Targeted Syntactic Evaluations"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2506.16678v2",
+   "note": {
+    "en": "Co-authored paper showing that syntactic probing accuracy does not explain how language models actually perform on targeted syntactic evaluations.",
+    "zh": "合著论文表明，句法探针的准确率并不能解释语言模型在定向句法评测上的实际表现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-06-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models",
+    "zh": "Stronger Baselines for Retrieval-Augmented Generation with Long-Context Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2506.03989v2",
+   "note": {
+    "en": "Co-authored study asking whether multi-stage RAG pipelines still pay off now that language models can read tens of thousands of tokens at once.",
+    "zh": "合著论文探讨在语言模型已能一次读取数万 token 的情况下，多阶段 RAG 流水线是否仍有价值。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-05-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Drop Dropout on Single-Epoch Language Model Pretraining",
+    "zh": "Drop Dropout on Single-Epoch Language Model Pretraining"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2505.24788v1",
+   "note": {
+    "en": "Co-authored study finding that dropout hurts rather than helps in single-epoch language model pretraining.",
+    "zh": "合著论文发现，在单轮预训练的语言模型中，dropout 起到的是负作用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-05-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Improved Representation Steering for Language Models",
+    "zh": "Improved Representation Steering for Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2505.20809v1",
+   "note": {
+    "en": "Co-authored work improving representation-level steering for finer-grained, more interpretable control of language model behaviour.",
+    "zh": "合著论文改进了表示层面的引导方法，以更细粒度、更可解释地控制语言模型的行为。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-05-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Tversky Neural Networks: Psychologically Plausible Deep Learning with Differentiable Tversky Similarity",
+    "zh": "Tversky Neural Networks: Psychologically Plausible Deep Learning with Differentiable Tversky Similarity"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2506.11035v2",
+   "note": {
+    "en": "Co-authored paper replacing the geometric similarity standard in deep learning with a differentiable version of Tversky's psychologically grounded similarity.",
+    "zh": "合著论文用可微分的 Tversky 相似度取代深度学习中常规的几何相似度，使其更贴近人类的相似性判断。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-05-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Do Language Models Use Their Depth Efficiently?",
+    "zh": "Do Language Models Use Their Depth Efficiently?"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2505.13898v3",
+   "note": {
+    "en": "Co-authored analysis finding that deep language models do not compose features in their later layers as efficiently as their depth would suggest.",
+    "zh": "合著论文分析发现，深层语言模型并未如其深度所暗示的那样，在后段层中高效地组合特征。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-05-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Osiris: A Lightweight Open-Source Hallucination Detection System",
+    "zh": "Osiris: A Lightweight Open-Source Hallucination Detection System"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2505.04844v1",
+   "note": {
+    "en": "A three-author paper releasing Osiris, a lightweight open-source system for detecting hallucinations in retrieval-augmented generation.",
+    "zh": "三人合著论文发布 Osiris：一个用于检测检索增强生成中幻觉的轻量级开源系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-05-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Reasoning-Focused Legal Retrieval Benchmark",
+    "zh": "A Reasoning-Focused Legal Retrieval Benchmark"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2505.03970v1",
+   "note": {
+    "en": "Co-authored benchmark testing whether legal retrieval systems can find authority that requires reasoning rather than keyword overlap.",
+    "zh": "合著论文提出一个法律检索基准，考察检索系统能否找到需要推理而非关键词匹配才能命中的法律依据。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-04-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use",
+    "zh": "Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2504.04736v2",
+   "note": {
+    "en": "Co-authored work with Anna Goldie and Azalia Mirhoseini treating reinforcement learning for reasoning and tool use as a multi-step rather than single-step problem.",
+    "zh": "他与 Anna Goldie、Azalia Mirhoseini 合著，把面向推理与工具使用的强化学习视为多步问题而非单步问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-02-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "AI for Scaling Legal Reform: Mapping and Redacting Racial Covenants in Santa Clara County",
+    "zh": "AI for Scaling Legal Reform: Mapping and Redacting Racial Covenants in Santa Clara County"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2503.03888v2",
+   "note": {
+    "en": "Co-authored applied project using AI to map and redact racially restrictive covenants across Santa Clara County property records.",
+    "zh": "合著的应用研究，利用人工智能在圣克拉拉县的房产档案中定位并涂除带种族限制的地契条款。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-01-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders",
+    "zh": "AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2501.17148v3",
+   "note": {
+    "en": "Co-authored benchmark finding that simple prompting and finetuning baselines outperform sparse autoencoders at steering model outputs.",
+    "zh": "合著论文提出 AxBench，发现简单的提示与微调基线在引导模型输出上优于稀疏自编码器。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-11-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Sneaking Syntax into Transformer Language Models with Tree Regularization",
+    "zh": "Sneaking Syntax into Transformer Language Models with Tree Regularization"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2411.18885v2",
+   "note": {
+    "en": "Co-authored method that gives transformer language models a hierarchical syntax bias through regularization rather than architectural change.",
+    "zh": "合著论文提出通过正则化而非改动架构，为 Transformer 语言模型注入层次化句法结构偏置。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-10-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "MrT5: Dynamic Token Merging for Efficient Byte-level Language Models",
+    "zh": "MrT5: Dynamic Token Merging for Efficient Byte-level Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2410.20771v3",
+   "note": {
+    "en": "Co-authored byte-level model that dynamically merges tokens, cutting the cost of tokenizer-free language modelling.",
+    "zh": "合著论文提出 MrT5：字节级模型通过动态合并 token，降低无分词器语言建模的开销。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-10-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "AuroraCap: Efficient, Performant Video Detailed Captioning and a New Benchmark",
+    "zh": "AuroraCap: Efficient, Performant Video Detailed Captioning and a New Benchmark"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2410.03051v4",
+   "note": {
+    "en": "Co-authored video captioning model and benchmark for generating detailed, coherent descriptions of video content.",
+    "zh": "合著论文提出 AuroraCap 视频详细描述模型及配套评测基准，用于生成连贯细致的视频描述。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-05-27",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Language Understanding and LLMs with Christopher Manning",
+    "zh": "Language Understanding and LLMs with Christopher Manning"
+   },
+   "source": "The TWIML AI Podcast (formerly This We…",
+   "url": "https://podcasts.apple.com/us/podcast/language-understanding-and-llms-with-christopher-manning/id1116303051?i=1000656954032&uo=4",
+   "note": {
+    "en": "Long-form TWIML interview in which Manning discusses language understanding in LLMs, recorded around his 2024 IEEE John von Neumann Medal.",
+    "zh": "他做客 TWIML AI 播客的长访谈，讨论大模型的语言理解问题，时值他获得 2024 年 IEEE 冯·诺依曼奖章前后。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-08-07",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "S1 E11 Christopher Manning (Professor, Stanford University; Director, Stanford AI Lab; Assistant Director, Stanford HAI) - Shaping Language Understanding with LLMs",
+    "zh": "S1 E11 Christopher Manning (Professor, Stanford University; Director, Stanford AI Lab; Assistant Director, Stanford HAI) - Shaping Language Understanding with LLMs"
+   },
+   "source": "AIs Wide Open Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/s1-e11-christopher-manning-professor-stanford-university/id1686449765?i=1000623681633&uo=4",
+   "note": {
+    "en": "Interview episode in which Manning discusses where LLM progress is heading over the next five years.",
+    "zh": "访谈节目，曼宁谈他对未来五年大模型发展方向的判断。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-09-08",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Christopher Manning: Linguistics and the Development of NLP",
+    "zh": "Christopher Manning: Linguistics and the Development of NLP"
+   },
+   "source": "The Gradient: Perspectives on AI",
+   "url": "https://podcasts.apple.com/us/podcast/christopher-manning-linguistics-and-the/id1569777340?i=1000578845497&uo=4",
+   "note": {
+    "en": "Gradient Podcast interview in which Manning traces how linguistics shaped the development of NLP.",
+    "zh": "《The Gradient》播客访谈，曼宁梳理语言学如何塑造了自然语言处理的发展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [
+  {
+   "date": "2025-02-01",
+   "level": "notable",
+   "title": {
+    "en": "Steps down as Director of the Stanford AI Lab",
+    "zh": "卸任斯坦福 AI 实验室主任"
+   },
+   "body": {
+    "en": "Directed SAIL 2018–2025 through the field's period of enormous growth; Carlos Guestrin named as the new Director. Manning on leave from 1 October 2025 to 30 June 2026.",
+    "zh": "2018–2025 年在该领域高速增长期主持 SAIL；Carlos Guestrin 接任主任。Manning 于 2025-10-01 至 2026-06-30 休假。"
+   },
+   "source": "Stanford AI Lab",
+   "url": "https://ai.stanford.edu/news/carlos-guestrin-named-as-new-director-of-the-stanford-ai-lab"
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "level": "minor",
+   "title": {
+    "en": "Christopher Manning Joins BranchLab Scientific Advisory Board",
+    "zh": "Christopher Manning Joins BranchLab Scientific Advisory Board"
+   },
+   "body": {
+    "en": "Manning joined BranchLab's Scientific Advisory Board, lending his machine-learning and NLP expertise to the company.",
+    "zh": "Manning加入了BranchLab科学顾问委员会，为该公司提供机器学习与自然语言处理方面的专业指导。"
+   },
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdFpQTlF3VWhKaGl1aXFkZl9OaXp5N0I5VDMxY21haktlbHppcGFlWVdhemdnZ2dkSGo3N2xMeE9HT3ZaUWdQZjZZYXJOMllxWXFqRUs4ci1UYnJkTVBQSzAwTkdnSVE5aS0waDhuM3N4OUx0T2wwU2RZckU4eWlfTVgzYUtDYzRuUlNKbFVqbnlhUFMzbzh3Q2oyUGpCRTlRZDR5aWpmTkU2ZGJLUjk2LTBWa1MzTDY0?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": true,
+ "was": {
+  "en": "Director, Stanford AI Lab",
+  "zh": "斯坦福 AI 实验室主任"
+ },
+ "cat": "research",
+ "score": {
+  "total": 20.5,
+  "attention": 18,
+  "centrality": 10,
+  "momentum": 8,
+  "stature": 85,
+  "pageviews": 11749,
+  "citations": 178412,
+  "hIndex": 134,
+  "events": 2,
+  "posts": 30,
+  "wikiEn": "Christopher D. Manning",
+  "wikiZh": null
+ },
+ "seedRank": 81,
+ "tier": "t6"
+}

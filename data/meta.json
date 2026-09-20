@@ -1,0 +1,103 @@
+{
+ "generated": "2026-09-20T10:48:11Z",
+ "meta": {
+  "ranking": {
+   "en": "42% public attention · 26% frontier centrality · 22% momentum · 10% research stature. Category and region are filters only. Each page shows its own breakdown.",
+   "zh": "42% 公众关注度 · 26% 前沿中心度 · 22% 动态热度 · 10% 学术分量。类别与地区仅作筛选，不参与排名。每页展示各自的得分构成。"
+  },
+  "title": {
+   "en": "Top 100 AI Leaders",
+   "zh": "全球 AI 领袖 100 人"
+  },
+  "subtitle": {
+   "en": "A live leaderboard of who is actually moving the frontier — and where each of them is going.",
+   "zh": "一份持续维护的榜单：谁在真正推动前沿，以及他们各自正在走向哪里。"
+  },
+  "sourceNote": {
+   "en": "Rankings for fun. Information matters.",
+   "zh": "排名仅供娱乐，聚焦一手资讯。"
+  },
+  "verifiedOn": "2026-08-18",
+  "lastRun": "2026-09-20T10:20:09Z",
+  "stats": {
+   "total": 100,
+   "changed": 30,
+   "posts": 4545,
+   "news": 2430,
+   "links": 2014,
+   "withPosts": 100,
+   "withNews": 97
+  }
+ },
+ "tiers": [
+  {
+   "id": "t1",
+   "a": 1,
+   "b": 15,
+   "en": "Defining the Era",
+   "zh": "定义时代格局"
+  },
+  {
+   "id": "t2",
+   "a": 16,
+   "b": 32,
+   "en": "Global Big-Tech Leaders",
+   "zh": "国际大厂技术与业务领袖"
+  },
+  {
+   "id": "t3",
+   "a": 33,
+   "b": 52,
+   "en": "China Industry Leaders",
+   "zh": "中国公司技术与经营领袖"
+  },
+  {
+   "id": "t4",
+   "a": 53,
+   "b": 72,
+   "en": "Startup Founders",
+   "zh": "创业公司创始人"
+  },
+  {
+   "id": "t5",
+   "a": 73,
+   "b": 88,
+   "en": "Academia & Research",
+   "zh": "学界与研究领袖"
+  },
+  {
+   "id": "t6",
+   "a": 89,
+   "b": 100,
+   "en": "Key Technical Contributors",
+   "zh": "关键技术骨干"
+  }
+ ],
+ "cats": [
+  {
+   "id": "lab",
+   "en": "Frontier labs",
+   "zh": "前沿模型实验室"
+  },
+  {
+   "id": "platform",
+   "en": "Compute & platforms",
+   "zh": "算力与平台"
+  },
+  {
+   "id": "product",
+   "en": "Products & startups",
+   "zh": "产品与创业公司"
+  },
+  {
+   "id": "research",
+   "en": "Academia & research",
+   "zh": "学界与研究"
+  },
+  {
+   "id": "embodied",
+   "en": "Robotics & world models",
+   "zh": "具身与世界模型"
+  }
+ ]
+}

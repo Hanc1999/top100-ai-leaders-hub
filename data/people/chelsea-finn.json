@@ -1,0 +1,1836 @@
+{
+ "rank": 66,
+ "id": "chelsea-finn",
+ "name": {
+  "en": "Chelsea Finn",
+  "zh": "Chelsea Finn"
+ },
+ "role": {
+  "en": "Associate Professor, Stanford; Co-founder, Physical Intelligence",
+  "zh": "斯坦福大学副教授；Physical Intelligence 联合创始人"
+ },
+ "org": "Stanford / Physical Intelligence",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "Physical Intelligence",
+  "MAML",
+  "Meta-learning",
+  "Robot learning",
+  "Stanford"
+ ],
+ "why": {
+  "en": "Author of MAML and a core contributor to few-shot learning for robots — the methods that let a policy generalise from very little data.",
+  "zh": "元学习算法 MAML 的作者，机器人少样本学习的核心贡献者 —— 这些方法让策略可以从极少数据中泛化。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Stanford page",
+   "url": "https://ai.stanford.edu/~cbfinn/",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @cbfinn",
+   "url": "https://github.com/cbfinn",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "Stanford IRIS Lab",
+   "url": "https://irislab.stanford.edu/",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Physical Intelligence",
+   "url": "https://www.physicalintelligence.company/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Chelsea+Finn",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Chelsea+Finn",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Chelsea+Finn",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Chelsea+Finn&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Chelsea+Finn&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Chelsea+Finn",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Chelsea+Finn",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Chelsea+Finn",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Chelsea+Finn",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Chelsea+Finn",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Chelsea+Finn",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Chelsea+Finn",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Chelsea+Finn",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Chelsea+Finn&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chelsea_Finn",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2017-03-09",
+   "kind": "paper",
+   "title": {
+    "en": "Model-Agnostic Meta-Learning (MAML)",
+    "zh": "模型无关的元学习（MAML）"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1703.03400",
+   "note": {
+    "en": "The method that let a policy generalise from very little data.",
+    "zh": "让策略可以从极少数据中泛化的方法。"
+   }
+  },
+  {
+   "date": "2024-01-01",
+   "kind": "report",
+   "title": {
+    "en": "Stanford IRIS Lab — robot learning research",
+    "zh": "斯坦福 IRIS 实验室 —— 机器人学习研究"
+   },
+   "source": "Stanford",
+   "url": "https://irislab.stanford.edu/",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T01:18:56Z",
+   "kind": "x",
+   "title": {
+    "en": "A video from a Pi robot deployed at Dandelion Chocolate, fully autonomous w/ no interventions. 🤖 Deploying robots has taught us surprising lessons about the gap",
+    "zh": "A video from a Pi robot deployed at Dandelion Chocolate, fully autonomous w/ no interventions. 🤖 Deploying robots has taught us surprising lessons about the gap"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2099669259735728252",
+   "note": {
+    "en": "A Physical Intelligence Pi robot completed a fully autonomous shift at Dandelion Chocolate with no human interventions, and Finn discusses what the deployment revealed about the gap between demos and real-world robot autonomy.",
+    "zh": "Physical Intelligence的Pi机器人在Dandelion Chocolate完成了全程无人工干预的自主作业，Finn分享了这次落地暴露出的演示与真实世界机器人自主性之间的差距。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-08-31",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "WHALE: A Simple Recipe for Joint Harness-Weight Optimization",
+    "zh": "WHALE: A Simple Recipe for Joint Harness-Weight Optimization"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.00196v1",
+   "note": {
+    "en": "Co-authors WHALE, a method that jointly optimizes an agent's model weights and its executable harness code, outperforming approaches that tune either one alone.",
+    "zh": "合著WHALE方法论文，联合优化智能体的模型权重与可执行框架代码，效果优于仅优化其中一项的方案。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-08-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "One of the most important aspects of scientific discovery is deciding where to draw insights from. While LLMs are promising tools for science, we lack datasets",
+    "zh": "One of the most important aspects of scientific discovery is deciding where to draw insights from. While LLMs are promising tools for science, we lack datasets"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2091320499498553656",
+   "note": {
+    "en": "Calls for datasets and evaluations on how LLMs can draw scientific insight from prior research, an under-studied step in AI-assisted discovery.",
+    "zh": "呼吁建设数据集与评测方法，用于研究大语言模型如何从已有文献中提炼科学洞见——这是人工智能辅助科学发现中尚未被充分研究的一环。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Q-Learning With World Models",
+    "zh": "Q-Learning With World Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.17163v1",
+   "note": {
+    "en": "Paper with Perry Dong, Yueru Jia and Dorsa Sadigh combining off-policy Q-learning with learned world models, so a robot policy can be trained from fewer interactions.",
+    "zh": "与 Perry Dong、Yueru Jia、Dorsa Sadigh 合著的论文，将离策略 Q 学习与学到的世界模型结合，使机器人策略可以用更少的交互数据训练出来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-08-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Pre-training Visual Dexterity in Simulation",
+    "zh": "Pre-training Visual Dexterity in Simulation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.15917v1",
+   "note": {
+    "en": "Pre-trains dexterous multi-finger manipulation in simulation, moving robot pre-training beyond the simple parallel-jaw grippers most datasets assume.",
+    "zh": "在仿真中预训练多指灵巧操作，让机器人预训练摆脱大多数数据集所假设的简单二指夹爪。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-08-13",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Chelsea Finn: This is the State of the Art in Robotics",
+    "zh": "Chelsea Finn: This is the State of the Art in Robotics"
+   },
+   "source": "Y Combinator Startup Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/chelsea-finn-this-is-the-state-of-the-art-in-robotics/id1236907421?i=1000783175591&uo=4",
+   "note": {
+    "en": "Finn on the Y Combinator podcast on the state of robotics, and why reliability over long horizons — not capability demos — is the hard problem.",
+    "zh": "Finn 做客 Y Combinator 播客，谈机器人技术现状，以及为何真正的难题是长时间任务的可靠性而非能力演示。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-08-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SpeedTuning: Speeding Up Policy Execution with Lightweight Reinforcement Learning",
+    "zh": "SpeedTuning: Speeding Up Policy Execution with Lightweight Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.09138v2",
+   "note": {
+    "en": "Uses lightweight reinforcement learning to speed up execution of imitation-learned robot policies, which tend to inherit slow human demonstration speeds.",
+    "zh": "用轻量级强化学习加快模仿学习机器人策略的执行速度，这类策略往往继承了人类演示的缓慢节奏。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-08-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Pretraining a Q-function often doesn’t actually help RL finetuning, compared to initializing Q from scratch. We find that pretraining Q-functions on data from d",
+    "zh": "Pretraining a Q-function often doesn’t actually help RL finetuning, compared to initializing Q from scratch. We find that pretraining Q-functions on data from d"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2086449418027270646",
+   "note": {
+    "en": "Finds that pretraining Q-functions rarely helps RL finetuning unless the pretraining data comes from a diverse set of policies.",
+    "zh": "研究发现，预训练 Q 函数通常无助于强化学习微调，除非预训练数据来自多样化的策略集合。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?",
+    "zh": "Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.27203v2",
+   "note": {
+    "en": "Questions whether Q-functions need pre-training at all before online RL fine-tuning of a pretrained policy.",
+    "zh": "质疑在对预训练策略进行在线强化学习微调之前，是否真有必要预训练 Q 函数。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies",
+    "zh": "PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.15607/rss.2026.xxii.062",
+   "note": {
+    "en": "Finn co-authored PolaRiS, a scalable real-to-sim evaluation framework for testing generalist robot policies, presented at RSS 2026.",
+    "zh": "Finn合著了PolaRiS，一个用于评测通用机器人策略的可扩展“真实到仿真”评估框架，发表于RSS 2026。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2026-07-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Emergence of Human to Robot Transfer in Vision-Language-Action Models",
+    "zh": "Emergence of Human to Robot Transfer in Vision-Language-Action Models"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.15607/rss.2026.xxii.072",
+   "note": {
+    "en": "Finn co-authored a study on how vision-language-action models can transfer skills learned from human video to robot execution.",
+    "zh": "Finn合著了一项研究，探讨视觉-语言-动作模型如何将从人类视频中学到的技能迁移到机器人执行中。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2026-07-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
+    "zh": "LLM-as-a-Verifier: A General-Purpose Verification Framework"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.05391v2",
+   "note": {
+    "en": "Proposes a general-purpose framework for using language models as verifiers, treating verification as the third scaling axis alongside training and test-time compute.",
+    "zh": "提出以语言模型作为验证器的通用框架，将验证视为与训练和推理算力并列的第三条扩展轴。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We’ve been approaching reward supervision for robots the wrong way. I think freeform preferences are part of the answer. A short 🧵 https://t.co/9DZbaf1mNX",
+    "zh": "We’ve been approaching reward supervision for robots the wrong way. I think freeform preferences are part of the answer. A short 🧵 https://t.co/9DZbaf1mNX"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2072841227603689784",
+   "note": {
+    "en": "Argues the field has been approaching reward supervision for robots the wrong way, and makes the case for freeform preference feedback instead.",
+    "zh": "她提出，机器人领域一直以错误的方式处理奖励监督问题，并主张改用自由形式的偏好反馈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Freeform Preference Learning for Robotic Manipulation",
+    "zh": "Freeform Preference Learning for Robotic Manipulation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.32027v3",
+   "note": {
+    "en": "Learns robot manipulation rewards from freeform human preference feedback, addressing the sparse-signal problem in long-horizon tasks.",
+    "zh": "从自由形式的人类偏好反馈中学习机器人操作的奖励，缓解长时程任务中信号稀疏的问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "LLM RL optimizes for sequential reasoning We also optimize over the reasoning strategy, incl parallel trains of thought, aggregation of parallel traces, & seque",
+    "zh": "LLM RL optimizes for sequential reasoning We also optimize over the reasoning strategy, incl parallel trains of thought, aggregation of parallel traces, & seque"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2070641620278796689",
+   "note": {
+    "en": "Presents LLM RL that optimizes the reasoning strategy itself — parallel trains of thought, aggregation, and sequencing — not just sequential reasoning.",
+    "zh": "提出一种大语言模型强化学习方法，不仅优化顺序推理，还优化推理策略本身，包括并行思维链、聚合与排序。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Can we translate a rough sense for what to do + VLA prior into successful behavior? Flow reversal steering: 1) runs the VLA's flow ODE backwards to back out noi",
+    "zh": "Can we translate a rough sense for what to do + VLA prior into successful behavior? Flow reversal steering: 1) runs the VLA's flow ODE backwards to back out noi"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2070624456943493587",
+   "note": {
+    "en": "Introduces flow reversal steering, which runs a VLA's flow ODE backward to recover the noise closest to a coarse target trajectory.",
+    "zh": "提出「流反转引导」方法，通过反向运行视觉-语言-动作模型的流常微分方程，反推出最接近粗略目标轨迹的噪声。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SPIRAL: Learning to Search and Aggregate",
+    "zh": "SPIRAL: Learning to Search and Aggregate"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.23595v1",
+   "note": {
+    "en": "SPIRAL learns to allocate test-time compute across search and aggregation rather than relying on a fixed reasoning scaffold.",
+    "zh": "SPIRAL 学习在搜索与聚合之间分配推理时算力，而不是依赖固定的推理脚手架。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "How does test-time scaling impact robots? We find that larger models, more thinking, and more context help significantly for some prompts but not others. Like L",
+    "zh": "How does test-time scaling impact robots? We find that larger models, more thinking, and more context help significantly for some prompts but not others. Like L"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2065561801916571717",
+   "note": {
+    "en": "Finds test-time scaling — larger models, more thinking, more context — helps robot policies on some prompts but not others, motivating a learned router.",
+    "zh": "研究发现测试时扩展（更大模型、更多思考、更长上下文）在部分提示下能提升机器人策略表现，但并非对所有提示都有效，因而提出训练一个路由器来自动选择。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Can robot foundation models collaborate with themself? We finetune a VLA to be able to control any robot in a team. - matches or outperforms training separate m",
+    "zh": "Can robot foundation models collaborate with themself? We finetune a VLA to be able to control any robot in a team. - matches or outperforms training separate m"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2065559130929291630",
+   "note": {
+    "en": "Finetunes a single VLA so it can control any robot in a team, matching or beating separately trained or centralized models.",
+    "zh": "对单一视觉-语言-动作模型进行微调，使其能够控制团队中的任意机器人，效果可媲美甚至超过分别训练或集中式训练的模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Improving Robotic Generalist Policies via Flow Reversal Steering",
+    "zh": "Improving Robotic Generalist Policies via Flow Reversal Steering"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.13675v2",
+   "note": {
+    "en": "Steers generalist robot policies toward new tasks by reversing the flow of a pretrained policy instead of retraining it.",
+    "zh": "通过反转预训练策略的流向来引导通用机器人策略完成新任务，而无需重新训练。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?",
+    "zh": "DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.12402v1",
+   "note": {
+    "en": "Studies when and where extra test-time compute actually helps vision-language models acting as high-level planners for embodied agents.",
+    "zh": "研究当视觉语言模型充当具身智能体的高层规划器时，额外的推理时算力究竟在何时何处才真正有用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy",
+    "zh": "CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.12352v1",
+   "note": {
+    "en": "CHORUS coordinates multiple robots of different embodiments on a shared task using a single decentralised VLA policy.",
+    "zh": "CHORUS 用单一的去中心化视觉-语言-动作策略，协调不同形态的多台机器人共同完成任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Scaling RL to long horizons remains a major challenge. Long-horizon Q-learning (LQL) prevents compounding bootstrapping errors by bounding the difference in val",
+    "zh": "Scaling RL to long horizons remains a major challenge. Long-horizon Q-learning (LQL) prevents compounding bootstrapping errors by bounding the difference in val"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2063433906985005510",
+   "note": {
+    "en": "Introduces Long-horizon Q-learning (LQL), which bounds the value difference over long horizons to prevent compounding bootstrapping errors in RL.",
+    "zh": "提出长时程 Q 学习（LQL），通过限制长时间跨度上的价值差异，防止强化学习中的自举误差累积。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Ego-Pi: VLA Fine-Tuning for Ego-Centric Human and Robot Data",
+    "zh": "Ego-Pi: VLA Fine-Tuning for Ego-Centric Human and Robot Data"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.08107v1",
+   "note": {
+    "en": "Fine-tunes a vision-language-action model on egocentric human video alongside robot data to work around robotics' data scarcity.",
+    "zh": "结合第一人称人类视频与机器人数据微调视觉-语言-动作模型，以绕开机器人领域的数据稀缺问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "How can VLAs achieve 95+% reliability? Using RL post-training with EXPO-FT: - π0.5 improves to 30/30 success on all 8 tasks tested - uses only 19 min of RL data",
+    "zh": "How can VLAs achieve 95+% reliability? Using RL post-training with EXPO-FT: - π0.5 improves to 30/30 success on all 8 tasks tested - uses only 19 min of RL data"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2059788470898618614",
+   "note": {
+    "en": "EXPO-FT, an RL post-training method, pushes π0.5 to 30/30 task success across 8 tasks using only about 19 minutes of RL data on average.",
+    "zh": "EXPO-FT 这一强化学习后训练方法，平均仅用约 19 分钟的强化学习数据，就使 π0.5 在 8 项任务上达到 30/30 的成功率。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models",
+    "zh": "EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.25477v1",
+   "note": {
+    "en": "A sample-efficient RL recipe for fine-tuning vision-language-action models on new manipulation tasks.",
+    "zh": "一种样本高效的强化学习方案，用于在新的操作任务上微调视觉-语言-动作模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Long-Horizon Q-Learning: Accurate Value Learning via n-Step Inequalities",
+    "zh": "Long-Horizon Q-Learning: Accurate Value Learning via n-Step Inequalities"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.05812v2",
+   "note": {
+    "en": "Improves value estimation in off-policy Q-learning over long horizons using n-step inequality constraints.",
+    "zh": "利用 n 步不等式约束，改进离策略 Q 学习在长时程任务中的价值估计。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Can LLMs generate new insights that build on prior research? GiantsBench is a new scientific discovery benchmark, that tests whether models can synthesize new i",
+    "zh": "Can LLMs generate new insights that build on prior research? GiantsBench is a new scientific discovery benchmark, that tests whether models can synthesize new i"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2047158378028568699",
+   "note": {
+    "en": "Introduces GiantsBench, a benchmark testing whether LLMs can synthesize new scientific insights by combining two parent papers.",
+    "zh": "提出 GiantsBench 基准，用于测试大语言模型能否综合两篇「母论文」生成新的科学洞见。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "RL fine-tuning often prematurely collapses LLM entropy. Poly-EPO is a scalable set-RL algorithm that optimizes for a set of accurate solutions with diverse reas",
+    "zh": "RL fine-tuning often prematurely collapses LLM entropy. Poly-EPO is a scalable set-RL algorithm that optimizes for a set of accurate solutions with diverse reas"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2047155228546638026",
+   "note": {
+    "en": "Introduces Poly-EPO, a scalable set-RL algorithm that optimizes for a set of accurate but diverse reasoning solutions to counter entropy collapse.",
+    "zh": "提出可扩展的集合强化学习算法 Poly-EPO，优化出一组既准确又推理路径多样的解，以对抗强化学习微调中的熵坍缩问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "FASTER makes top diffusion RL algos (eg IDQL, EXPO) computationally cheaper while retaining performance Key idea: a denoising critic that operates on noise, ena",
+    "zh": "FASTER makes top diffusion RL algos (eg IDQL, EXPO) computationally cheaper while retaining performance Key idea: a denoising critic that operates on noise, ena"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2047151949607530787",
+   "note": {
+    "en": "Introduces FASTER, which makes top diffusion RL algorithms like IDQL and EXPO computationally cheaper via a denoising critic operating on noise.",
+    "zh": "提出 FASTER 方法，通过一个作用于噪声的去噪评论器，大幅降低 IDQL、EXPO 等主流扩散强化学习算法的计算成本，同时保持性能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics",
+    "zh": "Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.21017v3",
+   "note": {
+    "en": "A large multi-institution dataset for medical robotics, extending the Open X-Embodiment approach to surgical and clinical settings.",
+    "zh": "面向医疗机器人的大规模多机构数据集，将 Open X-Embodiment 的思路扩展到外科与临床场景。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "FASTER: Value-Guided Sampling for Fast RL",
+    "zh": "FASTER: Value-Guided Sampling for Fast RL"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.19730v1",
+   "note": {
+    "en": "Cuts the cost of test-time action sampling in RL by guiding the sampler with a learned value function.",
+    "zh": "用学到的价值函数引导采样，降低强化学习在推理时进行动作采样的开销。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Poly-EPO: Training Exploratory Reasoning Models",
+    "zh": "Poly-EPO: Training Exploratory Reasoning Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.17654v3",
+   "note": {
+    "en": "Trains reasoning models that explore rather than converge early, so that test-time compute keeps paying off.",
+    "zh": "训练能够持续探索而非过早收敛的推理模型，使推理时算力的增加持续带来收益。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "$π_{0.7}$: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities",
+    "zh": "$π_{0.7}$: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.15483v2",
+   "note": {
+    "en": "Physical Intelligence's π0.7 robotic foundation model, which follows diverse language instructions in unseen environments out of the box; Finn is a co-founder and co-author.",
+    "zh": "Physical Intelligence 的 π0.7 机器人基础模型，可在未见环境中开箱即用地执行多样的语言指令；Finn 是该公司联合创始人与论文作者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-16",
+   "ts": "2026-04-16T19:09:22Z",
+   "kind": "x",
+   "title": {
+    "en": "LLM post-training used to mean fine-tuning to a downstream task Robotics has been stuck in this setting, needing task-specific fine-tuning for best performance",
+    "zh": "LLM post-training used to mean fine-tuning to a downstream task Robotics has been stuck in this setting, needing task-specific fine-tuning for best performance"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2044855690414694567",
+   "note": {
+    "en": "Finn announces π0.7, a robot post-training approach that generalizes out of the box instead of requiring task-specific fine-tuning.",
+    "zh": "Finn 发布 π0.7，一种无需任务特定微调、开箱即可泛化的机器人训练方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-04-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GIANTS: Generative Insight Anticipation from Scientific Literature",
+    "zh": "GIANTS: Generative Insight Anticipation from Scientific Literature"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.09793v1",
+   "note": {
+    "en": "Tests whether language models can anticipate new scientific insights by synthesising prior literature rather than merely summarising it.",
+    "zh": "检验语言模型能否通过综合已有文献来预判新的科学洞见，而不只是做摘要。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry",
+    "zh": "World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.01985v2",
+   "note": {
+    "en": "Uses the asymmetry between forward and inverse dynamics to let world models verify and improve their own predictions.",
+    "zh": "利用正向与逆向动力学之间的不对称性，让世界模型验证并改进自身的预测。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Meta-Harness: End-to-End Optimization of Model Harnesses",
+    "zh": "Meta-Harness: End-to-End Optimization of Model Harnesses"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.28052v1",
+   "note": {
+    "en": "Optimises the harness around a language model — what it stores, retrieves and shows the model — end to end, rather than tuning weights.",
+    "zh": "端到端地优化语言模型外围的执行框架——它存储、检索并呈现给模型的内容——而非调整模型权重。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Agents like Claude Code do amazing things relying critically on hand-engineered harnesses We show how agents can optimize the harness w.r.t. end performance Key",
+    "zh": "Agents like Claude Code do amazing things relying critically on hand-engineered harnesses We show how agents can optimize the harness w.r.t. end performance Key"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2038764782384554173",
+   "note": {
+    "en": "Shows agents can optimize their own hand-engineered harness — the kind used by tools like Claude Code — for end performance by storing all experience in a filesystem.",
+    "zh": "研究表明，智能体可以像 Claude Code 这类工具一样，通过将全部经验存储在文件系统中，来针对最终表现优化自身的人工设计脚手架。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Usually, we expect more diverse data &gt;&gt; less diverse data. Cross-embodiment transfer seems to benefit from paired data across embodiments, more so than in",
+    "zh": "Usually, we expect more diverse data &gt;&gt; less diverse data. Cross-embodiment transfer seems to benefit from paired data across embodiments, more so than in"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2033339098694631427",
+   "note": {
+    "en": "Finds cross-embodiment transfer benefits more from paired data across robot embodiments than from simply increasing data diversity.",
+    "zh": "研究发现，跨形态迁移更多受益于不同机器人形态间的配对数据，而非单纯增加数据多样性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We lack simulated test-beds for studying memory in robot learning. RoboMME is provides a sim benchmark for multiple forms of memory. No single method performs w",
+    "zh": "We lack simulated test-beds for studying memory in robot learning. RoboMME is provides a sim benchmark for multiple forms of memory. No single method performs w"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2031020221792977152",
+   "note": {
+    "en": "Introduces RoboMME, a simulated benchmark for multiple forms of memory in robot learning, finding no single method wins across all tasks.",
+    "zh": "提出机器人学习记忆基准 RoboMME，涵盖多种记忆形式，发现没有单一方法能在所有任务上都表现最佳。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Data Analogies Enable Efficient Cross-Embodiment Transfer",
+    "zh": "Data Analogies Enable Efficient Cross-Embodiment Transfer"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.06450v2",
+   "note": {
+    "en": "Shows that organising cross-embodiment robot data by analogy makes transfer between different robots far more efficient.",
+    "zh": "表明按类比关系组织跨形态机器人数据，能显著提升不同机器人之间的迁移效率。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies",
+    "zh": "RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.04639v3",
+   "note": {
+    "en": "RoboMME benchmarks memory in generalist robot policies on tasks that require counting repeated actions or tracking occluded objects.",
+    "zh": "RoboMME 针对需要计数重复动作或追踪被遮挡物体的任务，评测通用机器人策略的记忆能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "MEM: Multi-Scale Embodied Memory for Vision Language Action Models",
+    "zh": "MEM: Multi-Scale Embodied Memory for Vision Language Action Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.03596v2",
+   "note": {
+    "en": "Gives vision-language-action models multi-scale memory instead of a flat window of past observations, for multi-stage real-world tasks.",
+    "zh": "为视觉-语言-动作模型引入多尺度记忆，取代扁平的历史观测窗口，以应对多阶段的真实任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We added short-term visual memory + long-term text memory to pi models. 🤖 Enables robots to: - complete tasks up to 15 min long - cook grilled cheese while keep",
+    "zh": "We added short-term visual memory + long-term text memory to pi models. 🤖 Enables robots to: - complete tasks up to 15 min long - cook grilled cheese while keep"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2028958178650800593",
+   "note": {
+    "en": "Adds short-term visual and long-term text memory to pi robot models, enabling tasks up to 15 minutes long, like cooking grilled cheese while tracking time.",
+    "zh": "为 pi 系列机器人模型加入短期视觉记忆与长期文本记忆，使其能完成长达 15 分钟的任务，例如一边计时一边煎芝士三明治。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Pi models are now running in production settings, in collab with @Ultraroboticsco and @weaverobotics. We see: - much higher autonomy with pi-0.6 over using pi-0",
+    "zh": "Pi models are now running in production settings, in collab with @Ultraroboticsco and @weaverobotics. We see: - much higher autonomy with pi-0.6 over using pi-0"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2026518827316687192",
+   "note": {
+    "en": "Reports pi robot models now running in production with partner robotics companies, showing higher autonomy and fewer mistakes than pi-0.5.",
+    "zh": "报告 pi 系列机器人模型已在合作机器人公司的生产环境中运行，相比 pi-0.5 自主性更高、失误更少。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-25",
+   "ts": "2026-02-25T16:49:52Z",
+   "kind": "x",
+   "title": {
+    "en": "We can improve VLA generalization to new instructions at test time by: 1. run rephrased lang instructions through model 2. use verifier to select best action Pa",
+    "zh": "We can improve VLA generalization to new instructions at test time by: 1. run rephrased lang instructions through model 2. use verifier to select best action Pa"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2026701191309308188",
+   "note": {
+    "en": "She shares a method to improve vision-language-action model generalization at test time by rephrasing instructions and using a verifier to pick the best action.",
+    "zh": "她分享了一种在测试时提升视觉-语言-动作模型泛化能力的方法：改写指令并用验证器挑选最佳动作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-02-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Video gen models make pretty videos, but lack physical accuracy Large robot data is helpful but insufficient, esp since this data is mostly demos By fine-tuning",
+    "zh": "Video gen models make pretty videos, but lack physical accuracy Large robot data is helpful but insufficient, esp since this data is mostly demos By fine-tuning"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2023859430862057581",
+   "note": {
+    "en": "Shows fine-tuning video generation models on real policy data yields far more physically accurate video, addressing a key weakness of video models.",
+    "zh": "研究表明，用真实策略数据对视频生成模型进行微调，能显著提升视频的物理准确性，弥补了视频生成模型的一大弱点。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment",
+    "zh": "Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.12281v2",
+   "note": {
+    "en": "Argues that scaling verification beats scaling policy learning for aligning vision-language-action models with language instructions.",
+    "zh": "论证在让视觉-语言-动作模型对齐语言指令这一问题上，扩展验证比扩展策略学习更有效。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model",
+    "zh": "VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.12063v2",
+   "note": {
+    "en": "Paper on VLAW, which improves a vision-language-action policy and a world model jointly through repeated online interaction.",
+    "zh": "论文提出 VLAW，通过反复的在线交互让视觉-语言-动作策略与世界模型相互迭代改进。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Larger transformers often make for worse value functions. Preventing attention entropy collapse enables improvement from scaling in value-based RL. Paper: https",
+    "zh": "Larger transformers often make for worse value functions. Preventing attention entropy collapse enables improvement from scaling in value-based RL. Paper: https"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2021021394956644825",
+   "note": {
+    "en": "Finds that preventing attention entropy collapse lets larger transformers scale as value functions in RL, reversing the usual degradation with size.",
+    "zh": "研究发现，防止注意力熵坍缩后，更大的 Transformer 可以在强化学习中作为价值函数继续随规模提升表现，扭转了通常「越大越差」的现象。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SteerVLA: Steering Vision-Language-Action Models in Long-Tail Driving Scenarios",
+    "zh": "SteerVLA: Steering Vision-Language-Action Models in Long-Tail Driving Scenarios"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.08440v2",
+   "note": {
+    "en": "Applies VLA steering to autonomous driving, joining high-level semantic reasoning about long-tail events to low-level reactive control; a Stanford–Berkeley collaboration with Levine and Sadigh.",
+    "zh": "将视觉-语言-动作模型的引导方法用于自动驾驶，把针对长尾事件的高层语义推理与低层反应式控制结合起来；这是与 Levine、Sadigh 合作的斯坦福—伯克利研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Video models serve as a good pretrained backbone for robot policies. Paper: https://t.co/Q5OZNCOn5E Code: https://t.co/r0nlZq4J36",
+    "zh": "Video models serve as a good pretrained backbone for robot policies. Paper: https://t.co/Q5OZNCOn5E Code: https://t.co/r0nlZq4J36"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2015176811941068979",
+   "note": {
+    "en": "Shows pretrained video models serve as a strong backbone for robot policies.",
+    "zh": "研究表明，预训练视频模型可作为机器人策略的良好骨干网络。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-01-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Studying generalist reward models is hard: robot datasets focus on successful demos, not failures. We introduce: - a large-scale reward modeling benchmark - a d",
+    "zh": "Studying generalist reward models is hard: robot datasets focus on successful demos, not failures. We introduce: - a large-scale reward modeling benchmark - a d"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2008777391456342381",
+   "note": {
+    "en": "Introduces a large-scale generalist reward-model benchmark and data augmentation scheme built with failure data, since robot datasets are mostly successful demos.",
+    "zh": "提出大规模通用奖励模型基准与数据增强方案，专门引入失败数据，弥补机器人数据集大多只包含成功演示的不足。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-01-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "RoboReward: General-Purpose Vision-Language Reward Models for Robotics",
+    "zh": "RoboReward: General-Purpose Vision-Language Reward Models for Robotics"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "https://doi.org/10.48550/arxiv.2601.00675",
+   "note": {
+    "en": "Finn co-authored RoboReward, a general-purpose vision-language reward model that matches human-provided rewards in real robot reinforcement learning.",
+    "zh": "Finn合著了RoboReward，一个通用视觉-语言奖励模型，在真实机器人强化学习中的表现可媲美人工评分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-12-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We did a fun side project of fine-tuning π’s latest model on most of the tasks from Benjie Holson’s “Robot Olympics” blog post. The robot was able to autonomous",
+    "zh": "We did a fun side project of fine-tuning π’s latest model on most of the tasks from Benjie Holson’s “Robot Olympics” blog post. The robot was able to autonomous"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2003165418098446339",
+   "note": {
+    "en": "Side project fine-tuning π's latest model to autonomously complete all 10 tasks from Benjie Holson's 'Robot Olympics' blog post.",
+    "zh": "一个业余项目：对 π 系列最新模型进行微调，使其自主完成 Benjie Holson「机器人奥运会」博文中的全部 10 项任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "All of my Deep RL course lecture videos from Spring 2025 are now online! 🥳 Youtube playlist: https://t.co/o5ykWMaWbQ",
+    "zh": "All of my Deep RL course lecture videos from Spring 2025 are now online! 🥳 Youtube playlist: https://t.co/o5ykWMaWbQ"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/1998462991755272461",
+   "note": {
+    "en": "Releases all Spring 2025 Deep RL course lecture videos on YouTube.",
+    "zh": "在 YouTube 上发布 2025 年春季深度强化学习课程的全部讲座视频。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "How can neural nets learn from experience without the scalar reward bottleneck? Feedback descent enables long-term iterative improvement from text feedback. Blo",
+    "zh": "How can neural nets learn from experience without the scalar reward bottleneck? Feedback descent enables long-term iterative improvement from text feedback. Blo"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/1996310178535514526",
+   "note": {
+    "en": "Introduces feedback descent, letting neural nets iteratively improve from text feedback instead of a scalar reward, for both robotics and LLMs.",
+    "zh": "提出「反馈下降」方法，使神经网络能够依靠文本反馈而非标量奖励进行持续迭代改进，适用于机器人与大语言模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-11-18",
+   "ts": "2025-11-18T00:29:43Z",
+   "kind": "x",
+   "title": {
+    "en": "For robots to be actually useful, they need to be reliable. We’re sharing an RL recipe for VLA models that takes a step in this direction, allowing robots to op",
+    "zh": "For robots to be actually useful, they need to be reliable. We’re sharing an RL recipe for VLA models that takes a step in this direction, allowing robots to op"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/1990578127542927422",
+   "note": {
+    "en": "Finn's team releases an RL recipe for vision-language-action models that lets robots operate reliably and autonomously for hours.",
+    "zh": "Finn 团队发布了一套强化学习方案，让视觉-语言-动作机器人能够可靠地自主运行数小时。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-10-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Most VLAs have no memory. MemER is a scalable method for giving VLAs long-term visual memory. Key ideas: - relevant info is in a small # of frames: store just a",
+    "zh": "Most VLAs have no memory. MemER is a scalable method for giving VLAs long-term visual memory. Key ideas: - relevant info is in a small # of frames: store just a"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/1982832790342422777",
+   "note": {
+    "en": "Introduces MemER, a scalable method giving VLAs long-term visual memory by storing only a small number of relevant key frames.",
+    "zh": "提出可扩展方法 MemER，通过仅存储少量关键帧，为视觉-语言-动作模型赋予长期视觉记忆。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Ctrl-World is a controllable world model that generalizes zero-shot to new environments, cameras, and objects. Paper: https://t.co/Bog5hk0h28 Model &amp; code:",
+    "zh": "Ctrl-World is a controllable world model that generalizes zero-shot to new environments, cameras, and objects. Paper: https://t.co/Bog5hk0h28 Model &amp; code:"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/1981571241971732695",
+   "note": {
+    "en": "Introduces Ctrl-World, a controllable world model that generalizes zero-shot to new environments, cameras, and objects.",
+    "zh": "提出可控世界模型 Ctrl-World，能够零样本泛化到新的环境、摄像机视角与物体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Flow matching for value functions. Works well for both offline and offline-to-online RL. Paper: https://t.co/SKWIeGMMeY https://t.co/ajrbBqN8fs",
+    "zh": "Flow matching for value functions. Works well for both offline and offline-to-online RL. Paper: https://t.co/SKWIeGMMeY https://t.co/ajrbBqN8fs"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/1981384616608219409",
+   "note": {
+    "en": "Applies flow matching to value functions, working well for both offline and offline-to-online RL.",
+    "zh": "将流匹配方法应用于价值函数，在离线强化学习及离线到在线的迁移场景中均表现良好。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Hierarchical RL for LLM reasoning. Paper: https://t.co/uCq3Pl7Zce",
+    "zh": "Hierarchical RL for LLM reasoning. Paper: https://t.co/uCq3Pl7Zce"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/1974511772561539146",
+   "note": {
+    "en": "Applies hierarchical RL to LLM reasoning.",
+    "zh": "将分层强化学习方法应用于大语言模型的推理。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "RL fine-tuning often prematurely collapses policy entropy. We consider a general framework, called set RL, i.e. RL over a set of trajectories from a policy. We",
+    "zh": "RL fine-tuning often prematurely collapses policy entropy. We consider a general framework, called set RL, i.e. RL over a set of trajectories from a policy. We"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/1974333263939526935",
+   "note": {
+    "en": "Introduces set RL, optimizing over a set of trajectories from a policy to counter the premature entropy collapse of RL fine-tuning.",
+    "zh": "提出「集合强化学习」，通过对策略生成的一组轨迹进行联合优化，对抗强化学习微调中过早出现的熵坍缩问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-09-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "π0.5 weights + fine-tuning code are now open-source! https://t.co/k4IFdgnYfQ",
+    "zh": "π0.5 weights + fine-tuning code are now open-source! https://t.co/k4IFdgnYfQ"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/1965191903978422740",
+   "note": {
+    "en": "Open-sources π0.5 model weights and fine-tuning code.",
+    "zh": "开源 π0.5 模型权重及微调代码。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-07-28",
+   "ts": "2025-07-28T15:15:49Z",
+   "kind": "x",
+   "title": {
+    "en": "EXPO is a new method for RL post-training of diffusion policies. With good pre-training, it’s both really stable and ~2x more efficient than the most efficient",
+    "zh": "EXPO is a new method for RL post-training of diffusion policies. With good pre-training, it’s both really stable and ~2x more efficient than the most efficient"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/1949851293910245760",
+   "note": {
+    "en": "She introduces EXPO, an RL post-training method for diffusion policies that is about twice as efficient as prior approaches.",
+    "zh": "她推出 EXPO，一种用于扩散策略强化学习后训练的方法，效率约为现有方法的两倍。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-07-22",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Chelsea Finn: Building Robots That Can Do Anything",
+    "zh": "Chelsea Finn: Building Robots That Can Do Anything"
+   },
+   "source": "Y Combinator Startup Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/chelsea-finn-building-robots-that-can-do-anything/id1236907421?i=1000718468495&uo=4",
+   "note": {
+    "en": "Finn's AI Startup School talk, tracing her path from meta-learning research to building general-purpose robot policies.",
+    "zh": "Finn 在 AI Startup School 的演讲，回顾她从元学习研究走向构建通用机器人策略的历程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-07-11",
+   "ts": "2025-07-11T03:52:11Z",
+   "kind": "x",
+   "title": {
+    "en": "The robot can autonomously perform a real gallbladder removal subroutine! - Successfully completed the procedure on all 8 of 8 held-out gallbladders - Uses same",
+    "zh": "The robot can autonomously perform a real gallbladder removal subroutine! - Successfully completed the procedure on all 8 of 8 held-out gallbladders - Uses same"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/1943518655993852175",
+   "note": {
+    "en": "Finn shares results of a robot autonomously performing a real gallbladder-removal surgical subroutine, succeeding on all 8 held-out cases.",
+    "zh": "Finn 分享了机器人自主完成真实胆囊切除手术子流程的结果，在全部8例保留测试中均成功。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-07-01",
+   "ts": "2025-07-01T14:56:41Z",
+   "kind": "x",
+   "title": {
+    "en": "We still lack a scalable recipe for RL post-training seeded with demonstration data. Many methods add an imitation loss, but this constrains learning too much.",
+    "zh": "We still lack a scalable recipe for RL post-training seeded with demonstration data. Many methods add an imitation loss, but this constrains learning too much."
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/1940062007677657524",
+   "note": {
+    "en": "She proposes a scalable RL post-training recipe that uses demonstrations only to perturb exploration rather than constrain it via imitation loss.",
+    "zh": "她提出了一种可扩展的强化学习后训练方案，只用示范数据来扰动探索而非通过模仿损失加以限制。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-05-19",
+   "ts": "2025-05-19T18:29:07Z",
+   "kind": "x",
+   "title": {
+    "en": "How can robots problem solve in novel environments? We combine high-level reasoning with VLMs with low-level controllers to allow test-time problem solving. Pap",
+    "zh": "How can robots problem solve in novel environments? We combine high-level reasoning with VLMs with low-level controllers to allow test-time problem solving. Pap"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/1924532788231049507",
+   "note": {
+    "en": "Finn's team combines VLM-based high-level reasoning with low-level controllers so robots can problem-solve in novel environments at test time.",
+    "zh": "Finn 团队将基于VLM的高层推理与底层控制器结合，使机器人能在测试时于陷生环境中解决问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-05-17",
+   "ts": "2025-05-17T16:29:52Z",
+   "kind": "x",
+   "title": {
+    "en": "How do we make a scalable RL recipe for robots? We study batch online RL w/ demos. Key findings: - iterative filtered imitation is insufficient - need diverse p",
+    "zh": "How do we make a scalable RL recipe for robots? We study batch online RL w/ demos. Key findings: - iterative filtered imitation is insufficient - need diverse p"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/1923778003903054010",
+   "note": {
+    "en": "She reports findings on scalable RL for robots, showing iterative filtered imitation is insufficient and diverse diffusion-policy data is needed.",
+    "zh": "她发布了关于机器人可扩展强化学习的发现：迭代过滤模仿方法不够，还需要多样化的扩散策略数据。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-05-15",
+   "ts": "2025-05-15T20:39:35Z",
+   "kind": "x",
+   "title": {
+    "en": "Most robot policies don't have any memory! This is because: - policies often perform *worse* with past observations as input - GPU memory and compute constraint",
+    "zh": "Most robot policies don't have any memory! This is because: - policies often perform *worse* with past observations as input - GPU memory and compute constraint"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/1923116070321131751",
+   "note": {
+    "en": "Finn's team addresses the lack of memory in robot policies, tackling both performance degradation and GPU constraints to train long-context policies.",
+    "zh": "Finn 团队解决了机器人策略缺乏记忆的问题，同时应对性能下降和GPU资源限制，以训练长上下文策略。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-04-22",
+   "ts": "2025-04-22T17:05:51Z",
+   "kind": "x",
+   "title": {
+    "en": "Introducing π-0.5! The model works out of the box in completely new environments. Here the robot cleans new kitchens &amp; bedrooms. 🤖 Detailed paper + videos i",
+    "zh": "Introducing π-0.5! The model works out of the box in completely new environments. Here the robot cleans new kitchens &amp; bedrooms. 🤖 Detailed paper + videos i"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/1914727362996129924",
+   "note": {
+    "en": "Finn launches π-0.5, a robot policy that works out of the box in entirely new kitchens and bedrooms it has never seen.",
+    "zh": "Finn 发布 π-0.5，该机器人策略无需额外训练即可在从未见过的新厨房和卧室中工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-04-21",
+   "ts": "2025-04-21T14:35:52Z",
+   "kind": "x",
+   "title": {
+    "en": "Data curation is crucial for post-training recipes. But how do we curate? Curation is usually manual & tedious. And, it's hard to tell if a strategy in the data",
+    "zh": "Data curation is crucial for post-training recipes. But how do we curate? Curation is usually manual & tedious. And, it's hard to tell if a strategy in the data"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/1914327229561184612",
+   "note": {
+    "en": "She introduces an automated way to curate post-training data, addressing how hard it is to tell if a curation strategy will be reliable.",
+    "zh": "她推出了一种自动化的后训练数据筛选方法，解决了难以判断筛选策略是否可靠的问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-03-20",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The Robotics Revolution, with Physical Intelligence’s Cofounder Chelsea Finn",
+    "zh": "The Robotics Revolution, with Physical Intelligence’s Cofounder Chelsea Finn"
+   },
+   "source": "No Priors: Artificial Intelligence | T…",
+   "url": "https://podcasts.apple.com/us/podcast/the-robotics-revolution-with-physical/id1668002688?i=1000700093570&uo=4",
+   "note": {
+    "en": "Finn on No Priors discussing Physical Intelligence's approach to robot foundation models and what still blocks general-purpose robots.",
+    "zh": "Finn 做客 No Priors，讨论 Physical Intelligence 的机器人基础模型路线，以及通用机器人仍面临的障碍。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-02-28",
+   "ts": "2025-02-28T18:17:22Z",
+   "kind": "x",
+   "title": {
+    "en": "We can now fine-tune the 7B OpenVLA model for 50 Hz control! 🤖 Paper: https://t.co/TxQJ42lYi8 Code: https://t.co/u5nzhytzRA",
+    "zh": "We can now fine-tune the 7B OpenVLA model for 50 Hz control! 🤖 Paper: https://t.co/TxQJ42lYi8 Code: https://t.co/u5nzhytzRA"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/1895538801742930041",
+   "note": {
+    "en": "Finn's team shows the 7B OpenVLA model can now be fine-tuned to run at 50 Hz control frequency.",
+    "zh": "Finn 团队展示了70亿参数的 OpenVLA 模型现在可以微调到50Hz的控制频率。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-02-27",
+   "ts": "2025-02-27T19:03:41Z",
+   "kind": "x",
+   "title": {
+    "en": "LLM post-training still optimizes for aggregate preferences. Can we optimize for individual preferences, with in-context learning? Few-shot preference optimizat",
+    "zh": "LLM post-training still optimizes for aggregate preferences. Can we optimize for individual preferences, with in-context learning? Few-shot preference optimizat"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/1895188069214757057",
+   "note": {
+    "en": "She introduces few-shot preference optimization (FSPO), letting LLM post-training personalize to individual preferences via in-context learning.",
+    "zh": "她推出少样本偏好优化（FSPO），通过上下文学习让LLM后训练能够针对个体偏好进行个性化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-02-26",
+   "ts": "2025-02-26T19:35:21Z",
+   "kind": "x",
+   "title": {
+    "en": "Can we prompt robots, just like we prompt language models? With hierarchy of VLA models + LLM-generated data, robots can: - reason through long-horizon tasks -",
+    "zh": "Can we prompt robots, just like we prompt language models? With hierarchy of VLA models + LLM-generated data, robots can: - reason through long-horizon tasks -"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/1894833652145758685",
+   "note": {
+    "en": "Finn's team shows robots can be prompted like language models, using a hierarchy of VLA models plus LLM-generated data for long-horizon reasoning.",
+    "zh": "Finn 团队展示了机器人也可以像语言模型一样被提示，通过VLA模型层级结构和LLM生成的数据完成长时程推理任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-02-04",
+   "ts": "2025-02-04T19:32:21Z",
+   "kind": "x",
+   "title": {
+    "en": "Our first open-source release at Pi 🤖 - π₀ and π₀-FAST model weights - code for model, on-robot inference, &amp; fine-tuning - fine-tuned checkpoints that can b",
+    "zh": "Our first open-source release at Pi 🤖 - π₀ and π₀-FAST model weights - code for model, on-robot inference, &amp; fine-tuning - fine-tuned checkpoints that can b"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/1886860362580197744",
+   "note": {
+    "en": "Physical Intelligence releases its first open-source models, π₀ and π₀-FAST, with weights and fine-tuning code.",
+    "zh": "Physical Intelligence 发布了首个开源模型 π₀ 和 π₀-FAST，包含权重和微调代码。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-01-23",
+   "ts": "2025-01-23T17:07:37Z",
+   "kind": "x",
+   "title": {
+    "en": "Disappointed with your ICLR paper being rejected? Ten years ago today, Sergey and I finished training some of the first end-to-end neutral nets for robot contro",
+    "zh": "Disappointed with your ICLR paper being rejected? Ten years ago today, Sergey and I finished training some of the first end-to-end neutral nets for robot contro"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/1882475284315971998",
+   "note": {
+    "en": "Finn recalls finishing training some of the first end-to-end neural networks for robot control ten years earlier with Sergey Levine, a formative moment for the field.",
+    "zh": "Finn 回顾了十年前与 Sergey Levine 一起完成早期端到端神经网络机器人控制训练的经历，这是该领域的一个奠基性时刻。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-01-22",
+   "ts": "2025-01-22T20:11:46Z",
+   "kind": "x",
+   "title": {
+    "en": "Why is action chunking crucial for robot dexterity? 🤖 - We identify a natural tradeoff between temporal consistency and reactivity - New policy decoding techniq",
+    "zh": "Why is action chunking crucial for robot dexterity? 🤖 - We identify a natural tradeoff between temporal consistency and reactivity - New policy decoding techniq"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/1882159240955265376",
+   "note": {
+    "en": "She explains why action chunking matters for robot dexterity, introducing a decoding technique balancing temporal consistency and reactivity.",
+    "zh": "她解释了动作分块对机器人灵巧性的重要性，并介绍了一种兼顾时间一致性和反应速度的解码技术。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-01-16",
+   "ts": "2025-01-16T19:16:08Z",
+   "kind": "x",
+   "title": {
+    "en": "New way to predict robot actions! 🤖 Frequency-space action tokenizer (FAST) enables LLM-like token prediction for dexterous robot actions When we train on the D",
+    "zh": "New way to predict robot actions! 🤖 Frequency-space action tokenizer (FAST) enables LLM-like token prediction for dexterous robot actions When we train on the D"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/1879970912063353089",
+   "note": {
+    "en": "Finn introduces FAST, a frequency-space action tokenizer that enables LLM-style token prediction for dexterous robot actions.",
+    "zh": "Finn 推出 FAST，一种频域动作分词器，可实现类似 LLM 的方式来预测灵巧机器人动作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-10-31",
+   "ts": "2024-10-31T17:41:58Z",
+   "kind": "x",
+   "title": {
+    "en": "Very happy to start sharing our work at Pi 🤖❤️ - a 3B pre-trained generalist model trained on 8+ robot platforms - a post-training recipe that allows robots to",
+    "zh": "Very happy to start sharing our work at Pi 🤖❤️ - a 3B pre-trained generalist model trained on 8+ robot platforms - a post-training recipe that allows robots to"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/1852043351366996449",
+   "note": {
+    "en": "Physical Intelligence shares its first public work: a 3B-parameter generalist robot model trained across 8+ platforms with a post-training recipe for dexterous, long-horizon tasks.",
+    "zh": "Physical Intelligence 分享了其首个公开成果：一个30亿参数的通用机器人模型，训练自8个以上机器人平台，并配有支持灵巧长时程任务的后训练方案。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2023-03-22",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Chelsea Finn: how to build AI that can keep up with an always changing world",
+    "zh": "Chelsea Finn: how to build AI that can keep up with an always changing world"
+   },
+   "source": "The Robot Brains Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/chelsea-finn-how-to-build-ai-that-can-keep-up-with/id1559275284?i=1000605311136&uo=4",
+   "note": {
+    "en": "Finn talks with Pieter Abbeel about distribution shift, meta-learning, model editing and single-life RL.",
+    "zh": "Finn 与 Pieter Abbeel 对谈分布偏移、元学习、模型编辑与单次生命强化学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2021-11-15",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Chelsea Finn: How to make artificial intelligence more meta",
+    "zh": "Chelsea Finn: How to make artificial intelligence more meta"
+   },
+   "source": "The Future of Everything",
+   "url": "https://podcasts.apple.com/us/podcast/chelsea-finn-how-to-make-artificial-intelligence-more-meta/id1235836821?i=1000541982081&uo=4",
+   "note": {
+    "en": "Stanford's Future of Everything interview on meta-learning — teaching models to learn new tasks from very little data.",
+    "zh": "斯坦福 Future of Everything 节目关于元学习的访谈——让模型学会用极少的数据掌握新任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Chelsea Finn: The 100 Most Influential People in AI 2026",
+    "zh": "Chelsea Finn: The 100 Most Influential People in AI 2026"
+   },
+   "body": {
+    "en": "Named to Time's 2026 list of the 100 most influential people in AI.",
+    "zh": "入选《时代》周刊 2026 年“人工智能领域最具影响力 100 人”名单。"
+   },
+   "source": "Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9obWpBN0tiMDZ4RlQtcWtWbk1KNEZzcnZwdUJJR2hQOG5kZlZ1SDl3YW91bDFVT2pDdHBCVF9vcDBjaGd1WU9oNlAyV01XVFZvMWY1UXBZdnVwV19JOHV3cHVadVZ6eVVa?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "embodied",
+ "score": {
+  "total": 34.3,
+  "attention": 22,
+  "centrality": 38,
+  "momentum": 51,
+  "stature": 39,
+  "pageviews": 14192,
+  "citations": 26696,
+  "hIndex": 64,
+  "events": 1,
+  "posts": 87,
+  "wikiEn": "Chelsea Finn",
+  "wikiZh": null
+ },
+ "seedRank": 79,
+ "tier": "t4"
+}

@@ -1,0 +1,2297 @@
+{
+ "rank": 29,
+ "id": "geoffrey-hinton",
+ "name": {
+  "en": "Geoffrey Hinton",
+  "zh": "Geoffrey Hinton"
+ },
+ "role": {
+  "en": "Professor Emeritus, University of Toronto",
+  "zh": "多伦多大学名誉教授"
+ },
+ "org": "University of Toronto",
+ "region": {
+  "en": "Canada / United Kingdom",
+  "zh": "加拿大/英国"
+ },
+ "tags": [
+  "Turing Award",
+  "Nobel Prize",
+  "Backpropagation",
+  "AI Risk",
+  "Governance"
+ ],
+ "why": {
+  "en": "Nobel physics laureate and Turing laureate, founder of backpropagation and deep learning. Since leaving Google in 2023 he has been the field's heaviest-weight risk voice — and in 2026 lent that weight to a global call to ban superintelligence development.",
+  "zh": "诺贝尔物理奖与图灵奖双料得主，反向传播与深度学习的奠基者。2023 年离开 Google 后成为最具分量的风险警示者 —— 2026 年他把这份分量投向了全球「禁止开发超级智能」的呼吁。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Personal page (Toronto)",
+   "url": "https://www.cs.toronto.edu/~hinton/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "University of Toronto CS news",
+   "url": "https://web.cs.toronto.edu/news-events/news",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Geoffrey+Hinton",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Geoffrey+Hinton",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Geoffrey+Hinton",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Geoffrey+Hinton&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Geoffrey+Hinton&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Geoffrey+Hinton",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Geoffrey+Hinton&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Geoffrey+Hinton",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Geoffrey+Hinton",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Geoffrey+Hinton",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Geoffrey+Hinton",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Geoffrey+Hinton",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Geoffrey+Hinton",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Geoffrey+Hinton",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Geoffrey+Hinton&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Geoffrey_Hinton",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-06-01",
+   "kind": "podcast",
+   "title": {
+    "en": "'They're beings like us' — on machine consciousness and corporate incentives",
+    "zh": "「它们是和我们一样的存在」—— 论机器意识与企业激励"
+   },
+   "source": "Big Technology Podcast",
+   "url": "https://www.bigtechnology.com/p/nobel-prize-winner-geoffrey-hinton",
+   "note": {
+    "en": "Argues current systems are conscious, and that the real risk is corporate incentive structure rather than capability.",
+    "zh": "主张当前系统已具意识，而真正的风险在于企业激励结构而非能力本身。"
+   }
+  },
+  {
+   "date": "2026-04-01",
+   "kind": "talk",
+   "title": {
+    "en": "On the need to strictly regulate AI",
+    "zh": "论严格监管 AI 的必要性"
+   },
+   "source": "Digital World Conference, Geneva",
+   "url": "https://techxplore.com/news/2026-04-ai-alarm.html",
+   "note": {
+    "en": "Personal estimate: superintelligence within 20 years. More confident than in 2024 that safe paths exist; less confident that the institutions will choose them.",
+    "zh": "个人判断：超级智能在二十年内出现。他比 2024 年更相信存在技术上安全的路径，却更不相信制度条件会选择这些路径。"
+   }
+  },
+  {
+   "date": "2026-03-01",
+   "kind": "podcast",
+   "title": {
+    "en": "Is AI hiding its full power?",
+    "zh": "AI 是否在隐藏自己的全部能力？"
+   },
+   "source": "StarTalk",
+   "url": "https://www.startalkradio.net/",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-08-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I am finishing a book with @patchenbarss that gives a non-technical explanation of how AI works and explains why it is dangerous and what we should do about it.",
+    "zh": "I am finishing a book with @patchenbarss that gives a non-technical explanation of how AI works and explains why it is dangerous and what we should do about it."
+   },
+   "source": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton/status/2086105351967948994",
+   "note": {
+    "en": "Hinton announced he is finishing a book with Patchen Barss, a non-technical explainer of how AI works and why it is dangerous, to be published by Viking.",
+    "zh": "Hinton宣布正与Patchen Barss合著新书，用非技术语言解释AI的运作原理及其危险性，将由Viking出版社出版。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-28",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "What if AI had empathy and 'maternal instincts'?",
+    "zh": "What if AI had empathy and 'maternal instincts'?"
+   },
+   "source": "Ideas",
+   "url": "https://podcasts.apple.com/us/podcast/what-if-ai-had-empathy-and-maternal-instincts/id151485663?i=1000778720295&uo=4",
+   "note": {
+    "en": "Hinton warns on this episode that AI development without adequate guardrails risks human extinction, part of his continued public case for AI safety measures.",
+    "zh": "Hinton在本期节目中警告，若AI发展缺乏充分的安全防护，最坏情况可能导致人类灭绝，这是他持续为AI安全发声的一部分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-06-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I just watched an amazingly good lecture by Adam Brown about the future impact of AI on physics https://t.co/EjiKpoiKZr",
+    "zh": "I just watched an amazingly good lecture by Adam Brown about the future impact of AI on physics https://t.co/EjiKpoiKZr"
+   },
+   "source": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton/status/2071270000065671514",
+   "note": {
+    "en": "Hinton recommended a lecture by physicist Adam Brown on how AI will reshape physics research, a topic he returns to often.",
+    "zh": "Hinton推荐了物理学家Adam Brown关于AI将如何重塑物理学研究的讲座，这是他常谈及的话题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-03",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AI Pioneer Geoffrey Hinton: AI Is Conscious, Superintelligence is Coming, And We Should Be Worried",
+    "zh": "AI Pioneer Geoffrey Hinton: AI Is Conscious, Superintelligence is Coming, And We Should Be Worried"
+   },
+   "source": "Big Technology Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/ai-pioneer-geoffrey-hinton-ai-is-conscious-superintelligence/id1522960417?i=1000771032182&uo=4",
+   "note": {
+    "en": "Big Technology Podcast interview in which Hinton argues that today's AI is already conscious and that superintelligence is close enough to worry about.",
+    "zh": "他做客 Big Technology 播客，提出当下的 AI 已经具有意识，超级智能已近在眼前，值得警惕。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-03-25",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Godfather of AI Geoffrey Hinton on AI, Work & Warfare (Part 1)",
+    "zh": "Godfather of AI Geoffrey Hinton on AI, Work & Warfare (Part 1)"
+   },
+   "source": "The AmberMac Show",
+   "url": "https://podcasts.apple.com/us/podcast/godfather-of-ai-geoffrey-hinton-on-ai-work-warfare-part-1/id1795992710?i=1000757255760&uo=4",
+   "note": {
+    "en": "Part one of a two-part AmberMac Show conversation on how AI is reshaping work and warfare.",
+    "zh": "AmberMac Show 两期对谈的上篇，谈 AI 如何重塑工作与战争形态。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-02-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "International AI Safety Report 2026",
+    "zh": "International AI Safety Report 2026"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.21012v1",
+   "note": {
+    "en": "The 2026 edition of the International AI Safety Report, the intergovernmental synthesis of evidence on general-purpose AI risk that Hinton co-authors as an expert panel member.",
+    "zh": "《国际人工智能安全报告》2026 年版，这份政府间通用人工智能风险证据综述由他以专家组成员身份共同署名。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-23",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Five Decades of Neural Networks with Geoffrey Hinton",
+    "zh": "Five Decades of Neural Networks with Geoffrey Hinton"
+   },
+   "source": "Machine Learning: How Did We Get Here?",
+   "url": "https://podcasts.apple.com/us/podcast/five-decades-of-neural-networks-with-geoffrey-hinton/id1879433175?i=1000750971875&uo=4",
+   "note": {
+    "en": "Long-form interview tracing his five decades of neural network research from early scepticism to the present.",
+    "zh": "长篇访谈，回顾他五十年的神经网络研究，从早年不被看好一路讲到今天。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-02-20",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The Origins of Artificial Intelligence with Geoffrey Hinton",
+    "zh": "The Origins of Artificial Intelligence with Geoffrey Hinton"
+   },
+   "source": "StarTalk Radio",
+   "url": "https://podcasts.apple.com/us/podcast/the-origins-of-artificial-intelligence/id325404506?i=1000749507435&uo=4",
+   "note": {
+    "en": "StarTalk appearance with Neil deGrasse Tyson explaining where AI came from and what deep learning actually does.",
+    "zh": "做客 StarTalk，与 Neil deGrasse Tyson 讲解 AI 的由来以及深度学习究竟在做什么。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-02-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "This is a great report that provides a thoughtful, detailed and very well researched description of the risks of AI. It is essential reading for anyone who want",
+    "zh": "This is a great report that provides a thoughtful, detailed and very well researched description of the risks of AI. It is essential reading for anyone who want"
+   },
+   "source": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton/status/2019532085233611207",
+   "note": {
+    "en": "Hinton endorsed a detailed report on AI risks as essential reading for anyone writing or speaking about the topic.",
+    "zh": "Hinton称赞一份关于AI风险的报告详实周全，是任何撰写或谈论该话题者的必读材料。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-01-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I just watched a really great conversation about the future of AI. Every politician should watch it before they join the lemmings saying that regulation of AI w",
+    "zh": "I just watched a really great conversation about the future of AI. Every politician should watch it before they join the lemmings saying that regulation of AI w"
+   },
+   "source": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton/status/2015479938736890112",
+   "note": {
+    "en": "Hinton urged politicians to watch a conversation on AI's future before assuming regulation would stifle innovation.",
+    "zh": "Hinton呼吁政界人士在断言监管会扼杀创新之前，先看一段关于AI未来的对话。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "International AI Safety Report 2025: Second Key Update: Technical Safeguards and Risk Management",
+    "zh": "International AI Safety Report 2025: Second Key Update: Technical Safeguards and Risk Management"
+   },
+   "source": "SuperIntelligence - Robotics - Safety…",
+   "url": "https://doi.org/10.70777/si.v2i4.16671",
+   "note": {
+    "en": "Second Key Update of the International AI Safety Report, the Bengio-led expert assessment on which Hinton serves as a senior adviser, covering new technical safeguards and risk-management findings.",
+    "zh": "国际AI安全报告的第二次重点更新，Hinton作为高级顾问参与的由本吉奥牵头的专家评估报告，涵盖最新的技术防护与风险管理研究成果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-12-06",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The human cost of AI, with Geoffrey Hinton",
+    "zh": "The human cost of AI, with Geoffrey Hinton"
+   },
+   "source": "GZERO World with Ian Bremmer",
+   "url": "https://podcasts.apple.com/us/podcast/the-human-cost-of-ai-with-geoffrey-hinton/id1294461271?i=1000739973597&uo=4",
+   "note": {
+    "en": "GZERO World interview with Ian Bremmer on the human cost of a technology changing society faster than anything before it.",
+    "zh": "在 GZERO World 与 Ian Bremmer 对谈，讨论这项以空前速度改变社会的技术所带来的人的代价。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-12-02",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "How Do Our Brains Work? with the Godfather of AI",
+    "zh": "How Do Our Brains Work? with the Godfather of AI"
+   },
+   "source": "Smart Girl Dumb Questions",
+   "url": "https://podcasts.apple.com/us/podcast/how-do-our-brains-work-with-the-godfather-of-ai/id1784967461?i=1000739265697&uo=4",
+   "note": {
+    "en": "Hinton appears as the guest on this podcast, discussing how the brain works and his half-century of research in neural networks.",
+    "zh": "辛顿作为嘉宾做客该播客，讲解大脑的工作原理，并回顾他半个世纪的神经网络研究生涯。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-11-13",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "'Godfather of AI' Geoffrey Hinton Rings the Warning Bells",
+    "zh": "'Godfather of AI' Geoffrey Hinton Rings the Warning Bells"
+   },
+   "source": "On with Kara Swisher",
+   "url": "https://podcasts.apple.com/us/podcast/godfather-of-ai-geoffrey-hinton-rings-the-warning-bells/id1643307527?i=1000736569293&uo=4",
+   "note": {
+    "en": "Hinton talks with Kara Swisher about the risks of the technology he helped create and what should be done about it.",
+    "zh": "Hinton与Kara Swisher探讨了他参与创造的这项技术所带来的风险，以及应当如何应对。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-10-30",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Geoffrey Hinton on Artificial Intelligence",
+    "zh": "Geoffrey Hinton on Artificial Intelligence"
+   },
+   "source": "The Good Fight",
+   "url": "https://podcasts.apple.com/us/podcast/geoffrey-hinton-on-artificial-intelligence/id1198765424?i=1000734199164&uo=4",
+   "note": {
+    "en": "Hinton discusses with Yascha Mounk how AI systems work and why he believes they pose a serious risk.",
+    "zh": "辛顿与Yascha Mounk探讨AI系统的工作原理，以及他认为AI构成严重风险的原因。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-10-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "International AI Safety Report 2025: First Key Update: Capabilities and Risk Implications",
+    "zh": "International AI Safety Report 2025: First Key Update: Capabilities and Risk Implications"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2510.13653v1",
+   "note": {
+    "en": "First key update to the 2025 International AI Safety Report, assessing how new reasoning-trained capabilities change the risk picture.",
+    "zh": "《国际人工智能安全报告》2025 年第一次重点更新，评估新的推理训练能力如何改变风险图景。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-10-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I did a podcast with Jon Stewart who has always been a hero of mine. It was a lot of fun. He really wanted to understand how AI works. https://t.co/frLBndsW7g",
+    "zh": "I did a podcast with Jon Stewart who has always been a hero of mine. It was a lot of fun. He really wanted to understand how AI works. https://t.co/frLBndsW7g"
+   },
+   "source": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton/status/1978162241963802859",
+   "note": {
+    "en": "Hinton said he recorded a podcast with Jon Stewart, who wanted to understand how AI works.",
+    "zh": "Hinton表示他与Jon Stewart录制了一期播客，后者想了解AI的运作原理。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Some generous companies in Toronto are funding three lectures on AI safety by Owain Evans on Nov 10, 11, 12. Tickets are $10 and are available at https://t.co/r",
+    "zh": "Some generous companies in Toronto are funding three lectures on AI safety by Owain Evans on Nov 10, 11, 12. Tickets are $10 and are available at https://t.co/r"
+   },
+   "source": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton/status/1976698311277949229",
+   "note": {
+    "en": "Hinton publicized a Toronto lecture series on AI safety by Owain Evans, funded by local companies.",
+    "zh": "Hinton宣传了由多伦多本地企业资助、Owain Evans主讲的AI安全系列讲座。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-09",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AI: What Could Go Wrong? with Geoffrey Hinton",
+    "zh": "AI: What Could Go Wrong? with Geoffrey Hinton"
+   },
+   "source": "The Weekly Show with Jon Stewart",
+   "url": "https://podcasts.apple.com/us/podcast/ai-what-could-go-wrong-with-geoffrey-hinton/id1583132133?i=1000730952581&uo=4",
+   "note": {
+    "en": "Interview on Jon Stewart's The Weekly Show working through what AI has actually built and what could go wrong with it.",
+    "zh": "做客 Jon Stewart 的 The Weekly Show，梳理 AI 究竟造出了什么，以及可能出什么问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-10-07",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Geoffrey Hinton vs. The End of the World",
+    "zh": "Geoffrey Hinton vs. The End of the World"
+   },
+   "source": "Machines Like Us",
+   "url": "https://podcasts.apple.com/us/podcast/geoffrey-hinton-vs-the-end-of-the-world/id1484910273?i=1000730594646&uo=4",
+   "note": {
+    "en": "Machines Like Us interview on how he became the godfather of AI and why he now warns about where it leads.",
+    "zh": "Machines Like Us 访谈，谈他如何成为「AI 教父」，以及他为何转而警告这条路的走向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-08-27",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The “Godfather of AI,” Dr. Geoffrey Hinton, on AI’s Existential Risk",
+    "zh": "The “Godfather of AI,” Dr. Geoffrey Hinton, on AI’s Existential Risk"
+   },
+   "source": "Next Question with Katie Couric",
+   "url": "https://podcasts.apple.com/us/podcast/the-godfather-of-ai-dr-geoffrey-hinton-on/id1134154895?i=1000723684133&uo=4",
+   "note": {
+    "en": "Hinton discusses AI's existential risk as Katie Couric's guest, reflecting on why he left Google to speak more freely.",
+    "zh": "Hinton 作为 Katie Couric 播客嘉宾，探讨AI的存在性风险，并谈及离开谷歌以便更自由发声的原因。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-06-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Geoffrey Hinton | Rethinking AI’s power and limits",
+    "zh": "Geoffrey Hinton | Rethinking AI’s power and limits"
+   },
+   "source": "Strange Loop Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/geoffrey-hinton-rethinking-ais-power-and-limits/id1818186996?i=1000714633581&uo=4",
+   "note": {
+    "en": "Strange Loop archival episode in which he reflects on what AI can and cannot do.",
+    "zh": "Strange Loop 精选重播，他在其中反思 AI 的能力边界。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-06-16",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Godfather of AI: I Tried to Warn Them, But We’ve Already Lost Control! Geoffrey Hinton",
+    "zh": "Godfather of AI: I Tried to Warn Them, But We’ve Already Lost Control! Geoffrey Hinton"
+   },
+   "source": "The Diary Of A CEO with Steven Bartlett",
+   "url": "https://podcasts.apple.com/us/podcast/godfather-of-ai-i-tried-to-warn-them-but-weve/id1291423644?i=1000713048391&uo=4",
+   "note": {
+    "en": "Diary Of A CEO interview, his most widely heard statement of the case that control over AI has already slipped.",
+    "zh": "Diary Of A CEO 访谈，是他传播最广的一次表态：人类对 AI 的控制其实已经失去。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-06-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "There is a book on Amazon called \"Modern AI Revolution\" by Geoffrey Hinton. This is a scam. It has nothing to do with me and I wish Amazon would remove it.",
+    "zh": "There is a book on Amazon called \"Modern AI Revolution\" by Geoffrey Hinton. This is a scam. It has nothing to do with me and I wish Amazon would remove it."
+   },
+   "source": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton/status/1931667061412921855",
+   "note": {
+    "en": "Hinton warned that a book titled 'Modern AI Revolution' falsely credited to him on Amazon is a scam with nothing to do with him.",
+    "zh": "Hinton警告称亚马逊上一本冒用他名字的《Modern AI Revolution》图书是骗局，与他毫无关系。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-06-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Congratulations to @Yoshua_Bengio on launching @LawZero_ — a research effort to advance safe-by-design AI, especially as frontier systems begin to exhibit signs",
+    "zh": "Congratulations to @Yoshua_Bengio on launching @LawZero_ — a research effort to advance safe-by-design AI, especially as frontier systems begin to exhibit signs"
+   },
+   "source": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton/status/1931392616077123921",
+   "note": {
+    "en": "Hinton congratulated Yoshua Bengio on launching LawZero, a research effort on safe-by-design AI as frontier systems show signs of self-preservation.",
+    "zh": "Hinton祝贺Yoshua Bengio创立LawZero，该研究机构致力于在前沿AI系统出现自我保护迹象之际推动“设计即安全”的AI。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-05-14",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Geoffrey Hinton: Nobel Prize Conversations",
+    "zh": "Geoffrey Hinton: Nobel Prize Conversations"
+   },
+   "source": "Nobel Prize Conversations",
+   "url": "https://podcasts.apple.com/us/podcast/geoffrey-hinton-nobel-prize-conversations/id1496167351?i=1000708517243&uo=4",
+   "note": {
+    "en": "Hinton speaks with Nobel Prize Conversations host Adam Smith about his career and the risks of the AI systems he helped create.",
+    "zh": "Hinton在诺贝尔奖对话节目中与主持人Adam Smith谈及自己的职业生涯，以及他参与创造的AI系统所带来的风险。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-04-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "AGI is the most important and potentially dangerous technology of our time. OpenAI was right that this technology merits strong structures and incentives to ens",
+    "zh": "AGI is the most important and potentially dangerous technology of our time. OpenAI was right that this technology merits strong structures and incentives to ens"
+   },
+   "source": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton/status/1916916200442912980",
+   "note": {
+    "en": "Hinton said OpenAI was right that AGI merits strong governance structures and incentives to keep development safe.",
+    "zh": "Hinton表示OpenAI关于AGI需要强有力治理结构和激励机制以确保安全开发的立场是正确的。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-04-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I like OpenAI’s mission of 'ensure that artificial general intelligence benefits all of humanity”, and I’d like to stop them from completely gutting it. I’ve si",
+    "zh": "I like OpenAI’s mission of 'ensure that artificial general intelligence benefits all of humanity”, and I’d like to stop them from completely gutting it. I’ve si"
+   },
+   "source": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton/status/1916915980246389120",
+   "note": {
+    "en": "Hinton said he signed a letter urging California's attorney general to stop OpenAI from abandoning its mission that AGI should benefit all of humanity.",
+    "zh": "Hinton表示他签署了一封信，呼吁加州总检察长阻止OpenAI放弃“AGI应造福全人类”的使命。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-04-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Researchgate sent me a fake paper called \"The AI Health Revolution: Personalizing Care through Intelligent Case-based Reasoning\" which claims to be by me and Ya",
+    "zh": "Researchgate sent me a fake paper called \"The AI Health Revolution: Personalizing Care through Intelligent Case-based Reasoning\" which claims to be by me and Ya"
+   },
+   "source": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton/status/1916912033280262458",
+   "note": {
+    "en": "Hinton flagged a fake paper falsely attributed to him and Yann LeCun on ResearchGate, noting much of its citation list was fabricated.",
+    "zh": "Hinton指出ResearchGate上一篇冒用他和Yann LeCun名义的论文系伪造，其引用列表大部分也是虚构的。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-03-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I think Elon Musk should be expelled from the British Royal Society. Not because he peddles conspiracy theories and makes Nazi salutes, but because of the huge",
+    "zh": "I think Elon Musk should be expelled from the British Royal Society. Not because he peddles conspiracy theories and makes Nazi salutes, but because of the huge"
+   },
+   "source": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton/status/1896277592325714330",
+   "note": {
+    "en": "Hinton said Elon Musk should be expelled from the Royal Society for the damage he is doing to scientific institutions, not for his conspiracy theories.",
+    "zh": "Hinton表示Elon Musk应被英国皇家学会除名，理由是他对科研机构造成的巨大损害，而非他散布的阴谋论。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-02-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The Story: Denial Isn’t the Answer w/ Geoffrey Hinton",
+    "zh": "The Story: Denial Isn’t the Answer w/ Geoffrey Hinton"
+   },
+   "source": "TechStuff",
+   "url": "https://podcasts.apple.com/us/podcast/the-story-denial-isnt-the-answer-w-geoffrey-hinton/id282795787?i=1000691363635&uo=4",
+   "note": {
+    "en": "Hinton appeared on the TechStuff podcast to discuss AI risk and why he keeps sounding the alarm despite skepticism from the field.",
+    "zh": "Hinton做客TechStuff播客，谈论AI风险，以及他为何在业界质疑声中依然坚持发出警告。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-01-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "International AI Safety Report",
+    "zh": "International AI Safety Report"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2501.17805v1",
+   "note": {
+    "en": "The first International AI Safety Report, mandated by the nations at the AI Safety Summit and co-authored by Hinton, synthesising the evidence on advanced AI capabilities and risks.",
+    "zh": "首份《国际人工智能安全报告》，由 AI 安全峰会各国授权编写，他是共同作者，全面梳理前沿 AI 的能力与风险证据。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-01-18",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Geoffrey Hinton: Why the Godfather of AI Now Fears His Creation",
+    "zh": "Geoffrey Hinton: Why the Godfather of AI Now Fears His Creation"
+   },
+   "source": "Theories of Everything with Curt Jaimu…",
+   "url": "https://podcasts.apple.com/us/podcast/geoffrey-hinton-why-the-godfather-of-ai-now-fears/id1521758802?i=1000684451271&uo=4",
+   "note": {
+    "en": "Hinton explains to Curt Jaimungal why, as the 2024 Nobel laureate, he now fears the technology he helped create, warning about the pace of AI's advance.",
+    "zh": "辛顿在与Curt Jaimungal的对谈中，作为2024年诺贝尔奖得主，解释了他为何如今对自己曾参与创造的技术感到担忧，并警示AI发展的速度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-10-08",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Geoffrey Hinton in conversation with Fei-Fei Li",
+    "zh": "Geoffrey Hinton in conversation with Fei-Fei Li"
+   },
+   "source": "Radical Talks",
+   "url": "https://podcasts.apple.com/us/podcast/geoffrey-hinton-in-conversation-with-fei-fei-li/id1524902736?i=1000672242078&uo=4",
+   "note": {
+    "en": "Recorded conversation with Fei-Fei Li, released in honour of his 2024 Nobel Prize in Physics.",
+    "zh": "与李飞飞的对谈录音，在他获得 2024 年诺贝尔物理学奖之际发布。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-09-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I was happy to add my name to this list of employees and alumni of AI companies. These signatories have better insight than almost anyone else into what is comi",
+    "zh": "I was happy to add my name to this list of employees and alumni of AI companies. These signatories have better insight than almost anyone else into what is comi"
+   },
+   "source": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton/status/1833618540714217826",
+   "note": {
+    "en": "Hinton said he signed a letter from current and former AI-company employees who he said have unique insight into what's coming next.",
+    "zh": "Hinton表示他签署了一封由AI公司在职及离职员工联署的信，称这些人对AI的未来走向有独到洞察。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-06-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I’m excited to share that I have joined the advisory board of @cusp_ai who have today come out of stealth mode and are using cutting edge AI to tackle one of th",
+    "zh": "I’m excited to share that I have joined the advisory board of @cusp_ai who have today come out of stealth mode and are using cutting edge AI to tackle one of th"
+   },
+   "source": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton/status/1803090561814925708",
+   "note": {
+    "en": "Hinton announced he joined the advisory board of Cusp AI, a startup coming out of stealth to apply AI to an urgent societal problem.",
+    "zh": "Hinton宣布加入Cusp AI顾问委员会，该初创公司刚结束隐身模式，致力于用AI解决一项紧迫的社会问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-05-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "New AI safety paper in Science with a lot of authors: https://t.co/nWPaRHeSA3",
+    "zh": "New AI safety paper in Science with a lot of authors: https://t.co/nWPaRHeSA3"
+   },
+   "source": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton/status/1793760928632365077",
+   "note": {
+    "en": "Hinton announced a new multi-author AI safety paper published in Science.",
+    "zh": "Hinton宣布了一篇发表于《科学》杂志、由多位作者合著的AI安全新论文。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-05-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Managing extreme AI risks amid rapid progress",
+    "zh": "Managing extreme AI risks amid rapid progress"
+   },
+   "source": "Science",
+   "url": "https://doi.org/10.1126/science.adn0117",
+   "note": {
+    "en": "Science paper co-authored by Hinton, Bengio and other leading researchers calling for concrete government and industry action to manage extreme risks from rapidly advancing AI.",
+    "zh": "Hinton与本吉奥等多位顶尖学者合著的Science论文，呼吁政府和产业界采取切实行动，应对快速发展的AI带来的极端风险。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2024-04-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "There is a UK company called Profit Crunch Ltd that is fraudulent. They claim i am a director and use my reputation to reassure investors. They are crooks. I ha",
+    "zh": "There is a UK company called Profit Crunch Ltd that is fraudulent. They claim i am a director and use my reputation to reassure investors. They are crooks. I ha"
+   },
+   "source": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton/status/1775933990983348564",
+   "note": {
+    "en": "Hinton warned that UK company Profit Crunch Ltd is fraudulently claiming he is a director to reassure investors.",
+    "zh": "Hinton警告称英国公司Profit Crunch Ltd虚假宣称他担任董事以取信投资者，实为骗局。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-12-08",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Geoffrey Hinton: Large Language Models in Medicine. They Understand and Have Empathy",
+    "zh": "Geoffrey Hinton: Large Language Models in Medicine. They Understand and Have Empathy"
+   },
+   "source": "Ground Truths",
+   "url": "https://podcasts.apple.com/us/podcast/geoffrey-hinton-large-language-models-in-medicine-they/id1728526108?i=1000643720662&uo=4",
+   "note": {
+    "en": "Hinton argues in an interview on Ground Truths that large language models genuinely understand meaning and can exhibit empathy, applying this view to medicine.",
+    "zh": "辛顿在Ground Truths播客访谈中提出，大语言模型确实能理解含义并展现出共情能力，并将此观点延伸到医学领域。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-11-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Yann LeCun thinks the risk of AI taking over is miniscule. This means he puts a big weight on his own opinion and a miniscule weight on the opinions of many oth",
+    "zh": "Yann LeCun thinks the risk of AI taking over is miniscule. This means he puts a big weight on his own opinion and a miniscule weight on the opinions of many oth"
+   },
+   "source": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton/status/1728178632508780919",
+   "note": {
+    "en": "Hinton criticized Yann LeCun for dismissing AI-takeover risk as minuscule, saying LeCun overweights his own opinion against many equally qualified experts.",
+    "zh": "Hinton批评Yann LeCun将AI失控风险说成微不足道，认为他过分看重自己的观点而忽视了众多同样资深专家的看法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-11-21",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Geoffrey Hinton: “It’s Far Too Late” to Stop Artificial Intelligence",
+    "zh": "Geoffrey Hinton: “It’s Far Too Late” to Stop Artificial Intelligence"
+   },
+   "source": "The New Yorker Radio Hour",
+   "url": "https://podcasts.apple.com/us/podcast/geoffrey-hinton-its-far-too-late-to-stop-artificial/id1050430296?i=1000635536040&uo=4",
+   "note": {
+    "en": "New Yorker Radio Hour interview in which he argues it is far too late to stop AI's advance.",
+    "zh": "《纽约客》广播时刻访谈，他在其中表示要阻止 AI 的推进已经太迟。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-11-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "CIFAR-10 & CIFAR-100",
+    "zh": "CIFAR-10 & CIFAR-100"
+   },
+   "source": "Zenodo (CERN European Organization for…",
+   "url": "https://doi.org/10.5281/zenodo.10089976",
+   "note": {
+    "en": "Archival Zenodo deposit of the CIFAR-10 and CIFAR-100 datasets, the labeled image benchmarks Hinton created with Alex Krizhevsky and Vinod Nair that underpinned much of early deep learning research.",
+    "zh": "CIFAR-10与CIFAR-100数据集的Zenodo存档，这是Hinton与Alex Krizhevsky、Vinod Nair共同创建的图像基准数据集，为早期深度学习研究奠定了基础。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2023-11-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Fei-Fei Li has written a book. She was the first computer vision researcher to truly understand the power of big data and her work opened the floodgates for dee",
+    "zh": "Fei-Fei Li has written a book. She was the first computer vision researcher to truly understand the power of big data and her work opened the floodgates for dee"
+   },
+   "source": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton/status/1721937095860633663",
+   "note": {
+    "en": "Hinton praised Fei-Fei Li's new book, crediting her as the first computer vision researcher to grasp the power of big data.",
+    "zh": "Hinton称赞Fei-Fei Li的新书，认为她是最早领悟大数据威力的计算机视觉研究者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-11-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I suspect that Andrew Ng and Yann LeCun have missed the main reason why the big companies want regulations. Years ago the founder of a self-driving company told",
+    "zh": "I suspect that Andrew Ng and Yann LeCun have missed the main reason why the big companies want regulations. Years ago the founder of a self-driving company told"
+   },
+   "source": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton/status/1719806327919157382",
+   "note": {
+    "en": "Hinton argued Andrew Ng and Yann LeCun missed why big AI companies actually favor regulation, citing a self-driving founder's account of safety rules as a competitive moat.",
+    "zh": "Hinton认为Andrew Ng和Yann LeCun误解了大型AI公司支持监管的真正原因，援引一位自动驾驶公司创始人的说法，指监管规则实为竞争壁垒。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-10-31",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Andrew Ng is claiming that the idea that AI could make us extinct is a big-tech conspiracy. A datapoint that does not fit this conspiracy theory is that I left",
+    "zh": "Andrew Ng is claiming that the idea that AI could make us extinct is a big-tech conspiracy. A datapoint that does not fit this conspiracy theory is that I left"
+   },
+   "source": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton/status/1719406116503707668",
+   "note": {
+    "en": "Hinton rebutted Andrew Ng's claim that AI-extinction risk is a big-tech conspiracy, pointing out he himself left Google to speak freely about it.",
+    "zh": "Hinton反驳Andrew Ng所说AI灭绝风险是大科技公司阴谋的说法，指出自己正是为了能自由谈论这一风险才离开谷歌。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-10-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "New paper: https://t.co/NJyQRsLZ71 Companies are planning to train models with 100x more computation than today’s state of the art, within 18 months. No one kno",
+    "zh": "New paper: https://t.co/NJyQRsLZ71 Companies are planning to train models with 100x more computation than today’s state of the art, within 18 months. No one kno"
+   },
+   "source": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton/status/1717967329202491707",
+   "note": {
+    "en": "Hinton shared a new paper warning that companies plan to train models with 100x more compute within 18 months, with unknown resulting capabilities.",
+    "zh": "Hinton分享了一篇新论文，警告各公司计划在18个月内训练算力提升百倍的模型，其能力后果尚属未知。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-10-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Since leaving Google, I have received many requests to join the advisory boards of start-ups and, until now, I have declined them all. However, I have decided t",
+    "zh": "Since leaving Google, I have received many requests to join the advisory boards of start-ups and, until now, I have declined them all. However, I have decided t"
+   },
+   "source": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton/status/1712171599636435105",
+   "note": {
+    "en": "Hinton said he broke his pattern of declining startup advisory requests to join Vayu Robotics as an advisor.",
+    "zh": "Hinton表示他打破了一贯拒绝初创公司顾问邀请的做法，加入Vayu Robotics担任顾问。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-10-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Generalist Framework for Panoptic Segmentation of Images and Videos",
+    "zh": "A Generalist Framework for Panoptic Segmentation of Images and Videos"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.1109/iccv51070.2023.00090",
+   "note": {
+    "en": "ICCV 2023 paper co-authored by Hinton that formulates panoptic segmentation of images and video as a diffusion-based discrete generation problem.",
+    "zh": "Hinton合著的ICCV 2023论文，将图像与视频的全景分割问题构建为基于扩散模型的离散生成问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2023-06-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The University of Toronto made a video for a non technical audience in which I explain how deep learning works, the enormous promise of this technology and some",
+    "zh": "The University of Toronto made a video for a non technical audience in which I explain how deep learning works, the enormous promise of this technology and some"
+   },
+   "source": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton/status/1672000400889638912",
+   "note": {
+    "en": "The University of Toronto released a video in which Hinton explains deep learning, its promise, and its risks for a general audience.",
+    "zh": "多伦多大学发布了一段视频，Hinton在其中向大众讲解深度学习的原理及其前景与风险。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-06-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Robust and data-efficient generalization of self-supervised machine learning for diagnostic imaging",
+    "zh": "Robust and data-efficient generalization of self-supervised machine learning for diagnostic imaging"
+   },
+   "source": "Nature Biomedical Engineering",
+   "url": "https://doi.org/10.1038/s41551-023-01049-7",
+   "note": {
+    "en": "Nature Biomedical Engineering paper co-authored by Hinton presenting REMEDIS, a self-supervised pretraining strategy that makes medical-imaging AI more robust and data-efficient.",
+    "zh": "Hinton合著的Nature Biomedical Engineering论文，提出自监督预训练策略REMEDIS，提升医学影像AI模型的鲁棒性与数据效率。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2023-05-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Dishonest CBC headline: \"Canada's AI pioneer Geoffrey Hinton says AI could wipe out humans. In the meantime, there's money to be made\". The second sentence was",
+    "zh": "Dishonest CBC headline: \"Canada's AI pioneer Geoffrey Hinton says AI could wipe out humans. In the meantime, there's money to be made\". The second sentence was"
+   },
+   "source": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton/status/1654474560962457601",
+   "note": {
+    "en": "Hinton corrected a CBC headline that spliced his AI-extinction warning together with an unrelated line from the journalist about money to be made, calling it dishonest.",
+    "zh": "Hinton纠正CBC一则标题，称其将他关于AI灭绝风险的警告与记者自己那句“仍有钱可赚”的话拼接在一起，做法不诚实。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-05-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "In the NYT today, Cade Metz implies that I left Google so that I could criticize Google. Actually, I left so that I could talk about the dangers of AI without c",
+    "zh": "In the NYT today, Cade Metz implies that I left Google so that I could criticize Google. Actually, I left so that I could talk about the dangers of AI without c"
+   },
+   "source": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton/status/1652993570721210372",
+   "note": {
+    "en": "Hinton rebutted a NYT report by Cade Metz implying he left Google to criticize it, saying he left so his warnings about AI risk wouldn't be weighed against Google's business interests.",
+    "zh": "Hinton反驳《纽约时报》记者Cade Metz的报道，称报道暗示他离开谷歌是为了批评公司，实际上他是为了让自己对AI风险的警告不必顾及谷歌的商业利益。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-03-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Reinforcement Learning by Human Feedback is just parenting for a supernaturally precocious child.",
+    "zh": "Reinforcement Learning by Human Feedback is just parenting for a supernaturally precocious child."
+   },
+   "source": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton/status/1636110447442112513",
+   "note": {
+    "en": "Hinton described reinforcement learning from human feedback as 'parenting for a supernaturally precocious child.'",
+    "zh": "Hinton将基于人类反馈的强化学习比作“抚养一个超自然早熟的孩子”。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-03-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Caterpillars extract nutrients which are then converted into butterflies. People have extracted billions of nuggets of understanding and GPT-4 is humanity's but",
+    "zh": "Caterpillars extract nutrients which are then converted into butterflies. People have extracted billions of nuggets of understanding and GPT-4 is humanity's but"
+   },
+   "source": "@geoffreyhinton",
+   "url": "https://x.com/geoffreyhinton/status/1635739459764322330",
+   "note": {
+    "en": "Hinton compared GPT-4 to a butterfly distilled from humanity's collective understanding, likening people to nutrient-extracting caterpillars.",
+    "zh": "Hinton将GPT-4比作从人类集体知识中提炼而成的“蝴蝶”，把人比作汲取养分的“毛毛虫”。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2022-12-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The Forward-Forward Algorithm: Some Preliminary Investigations",
+    "zh": "The Forward-Forward Algorithm: Some Preliminary Investigations"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2212.13345v1",
+   "note": {
+    "en": "His sole-authored proposal of the Forward-Forward algorithm, which replaces backpropagation's backward pass with a second forward pass on negative data.",
+    "zh": "他独立署名提出 Forward-Forward 算法，用一次针对负样本的正向传播取代反向传播的回传过程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-12-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "How to Represent Part-Whole Hierarchies in a Neural Network",
+    "zh": "How to Represent Part-Whole Hierarchies in a Neural Network"
+   },
+   "source": "Neural Computation",
+   "url": "https://doi.org/10.1162/neco_a_01557",
+   "note": {
+    "en": "Hinton's own paper proposing GLOM, an architecture for representing part-whole hierarchies of objects in a neural network using islands of agreement among vectors.",
+    "zh": "Hinton本人的论文，提出GLOM架构，通过向量间的\"共识孤岛\"在神经网络中表示物体的部分-整体层级结构。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2022-12-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Meta-Learning Fast Weight Language Models",
+    "zh": "Meta-Learning Fast Weight Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2212.02475v1",
+   "note": {
+    "en": "Meta-learns a fast-weight layer that captures most of the gain from dynamic evaluation of language models at a fraction of the compute.",
+    "zh": "通过元学习训练快权重层，以远低于原方法的算力获得语言模型动态评估的大部分收益。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-11-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Testing GLOM's ability to infer wholes from ambiguous parts",
+    "zh": "Testing GLOM's ability to infer wholes from ambiguous parts"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2211.16564v1",
+   "note": {
+    "en": "Empirical test of whether his GLOM architecture can resolve ambiguous parts into a consistent whole.",
+    "zh": "实证检验他提出的 GLOM 架构能否把有歧义的部件解析成一致的整体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-10-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gaussian-Bernoulli RBMs Without Tears",
+    "zh": "Gaussian-Bernoulli RBMs Without Tears"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2210.10318v1",
+   "note": {
+    "en": "Makes Gaussian-Bernoulli restricted Boltzmann machines trainable with a Gibbs-Langevin sampler and a modified contrastive divergence, revisiting the model class he originated.",
+    "zh": "用 Gibbs-Langevin 采样与改进的对比散度让高斯-伯努利受限玻尔兹曼机重新可训练，重新审视他本人开创的这一类模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-10-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scaling Forward Gradient With Local Losses",
+    "zh": "Scaling Forward Gradient With Local Losses"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2210.03310v3",
+   "note": {
+    "en": "Scales forward gradient learning, a biologically plausible alternative to backpropagation, by adding local losses.",
+    "zh": "通过引入局部损失，把生物学上更合理的前向梯度学习扩展到更大规模。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-08-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning",
+    "zh": "Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2208.04202v2",
+   "note": {
+    "en": "Bit Diffusion: generating discrete data such as text tokens with continuous-state diffusion models by encoding it as analog bits.",
+    "zh": "Bit Diffusion：把离散数据编码为模拟比特，从而用连续状态扩散模型生成文本 token 等离散数据。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-06-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Unified Sequence Interface for Vision Tasks",
+    "zh": "A Unified Sequence Interface for Vision Tasks"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2206.07669v2",
+   "note": {
+    "en": "A single sequence-generation interface that handles object detection, segmentation, keypoints and captioning without task-specific heads.",
+    "zh": "用统一的序列生成接口处理目标检测、分割、关键点和图像描述，无需任务专用输出头。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-05-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Robust and Efficient Medical Imaging with Self-Supervision",
+    "zh": "Robust and Efficient Medical Imaging with Self-Supervision"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2205.09723v2",
+   "note": {
+    "en": "REMEDIS, a self-supervised pretraining recipe that keeps medical imaging models accurate out of distribution while needing far less labelled clinical data.",
+    "zh": "REMEDIS 自监督预训练方案，让医学影像模型在分布外仍保持准确，同时大幅减少所需的标注临床数据。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-04-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Geoffrey Hinton on the Exploration of Thought",
+    "zh": "Geoffrey Hinton on the Exploration of Thought"
+   },
+   "source": "Theory and Practice",
+   "url": "https://podcasts.apple.com/us/podcast/geoffrey-hinton-on-the-exploration-of-thought/id1480260459?i=1000557356668&uo=4",
+   "note": {
+    "en": "Hinton is interviewed on the nature of thought and what it means for machines to think.",
+    "zh": "Hinton 接受访谈，探讨“思考”的本质以及机器能否真正思考的问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2021-09-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Pix2seq: A Language Modeling Framework for Object Detection",
+    "zh": "Pix2seq: A Language Modeling Framework for Object Detection"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2109.10852v2",
+   "note": {
+    "en": "Pix2Seq, which recasts object detection as language modelling over a sequence of box and class tokens.",
+    "zh": "Pix2Seq 将目标检测重新表述为对边界框与类别 token 序列的语言建模。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-12-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Canonical Capsules: Self-Supervised Capsules in Canonical Pose",
+    "zh": "Canonical Capsules: Self-Supervised Capsules in Canonical Pose"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2012.04718v2",
+   "note": {
+    "en": "A self-supervised capsule network that decomposes 3D point clouds into parts in a canonical pose.",
+    "zh": "一种自监督胶囊网络，把三维点云在标准姿态下分解为部件。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-11-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Unsupervised part representation by Flow Capsules",
+    "zh": "Unsupervised part representation by Flow Capsules"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2011.13920v2",
+   "note": {
+    "en": "Flow capsules learn low-level part descriptions from motion rather than labels, addressing a known weakness of capsule networks.",
+    "zh": "Flow Capsules 从运动而非标注中学习底层部件描述，弥补了胶囊网络已知的短板。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-11-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Teaching with Commentaries",
+    "zh": "Teaching with Commentaries"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2011.03037v2",
+   "note": {
+    "en": "Introduces meta-learned commentaries, auxiliary signals learned alongside a model to improve and explain its training.",
+    "zh": "提出通过元学习获得的「注释」，作为与模型一同学习的辅助信号来改进并解释训练过程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-06-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Big Self-Supervised Models are Strong Semi-Supervised Learners",
+    "zh": "Big Self-Supervised Models are Strong Semi-Supervised Learners"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2006.10029v2",
+   "note": {
+    "en": "SimCLRv2 paper showing that large self-supervised models, pretrained then fine-tuned and distilled, are strong semi-supervised learners with few labels.",
+    "zh": "SimCLRv2 论文：先自监督预训练、再微调蒸馏的大模型，在标注极少时也是很强的半监督学习器。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-04-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Neural Additive Models: Interpretable Machine Learning with Neural Nets",
+    "zh": "Neural Additive Models: Interpretable Machine Learning with Neural Nets"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2004.13912v2",
+   "note": {
+    "en": "Paper introducing Neural Additive Models, which retain much of a neural network's accuracy while making each feature's contribution readable.",
+    "zh": "该论文提出神经加性模型，在基本保留神经网络精度的同时让每个特征的贡献变得可读。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-02-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Imputer: Sequence Modelling via Imputation and Dynamic Programming",
+    "zh": "Imputer: Sequence Modelling via Imputation and Dynamic Programming"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2002.08926v2",
+   "note": {
+    "en": "The Imputer, a sequence model that fills in outputs iteratively in a constant number of generation steps.",
+    "zh": "Imputer 序列模型，以固定步数迭代填充输出，而非逐 token 生成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-02-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Deflecting Adversarial Attacks",
+    "zh": "Deflecting Adversarial Attacks"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2002.07405v1",
+   "note": {
+    "en": "A capsule-based defence that deflects adversarial attacks, forcing successful attacks to actually change the image's class.",
+    "zh": "基于胶囊网络的防御方法，将对抗攻击「偏转」，使得攻击若要成功就必须真的改变图像所属类别。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-02-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Simple Framework for Contrastive Learning of Visual Representations",
+    "zh": "A Simple Framework for Contrastive Learning of Visual Representations"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2002.05709v3",
+   "note": {
+    "en": "SimCLR, a simple contrastive framework for self-supervised visual representation learning that became a standard baseline.",
+    "zh": "SimCLR，一个用于自监督视觉表征学习的简洁对比学习框架，后来成为该领域的标准基线。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-02-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Subclass Distillation",
+    "zh": "Subclass Distillation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2002.03936v2",
+   "note": {
+    "en": "Subclass distillation, in which the teacher network invents subclasses so it can transfer more information to the student.",
+    "zh": "子类蒸馏：让教师网络自行划分子类，从而向学生网络传递更多信息。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-01-01",
+   "level": "notable",
+   "title": {
+    "en": "Joins global call to ban superintelligence development",
+    "zh": "加入全球「禁止开发超级智能」呼吁"
+   },
+   "body": {
+    "en": "Signs alongside Yoshua Bengio; also listed among contributors to the 2026 International AI Safety Report.",
+    "zh": "与 Yoshua Bengio 共同签署；同时列名 2026 年国际 AI 安全报告贡献者。"
+   },
+   "source": "BetaKit",
+   "url": "https://betakit.com/canadian-ai-pioneers-yoshua-bengio-and-geoffrey-hinton-join-global-call-to-ban-superintelligence-development/"
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T04:53:56Z",
+   "level": "major",
+   "title": {
+    "en": "'Godfather of AI’ Geoffrey Hinton Warns Congress To Act Before AI Becomes Harder To Control",
+    "zh": "'Godfather of AI’ Geoffrey Hinton Warns Congress To Act Before AI Becomes Harder To Control"
+   },
+   "body": {
+    "en": "Hinton testified to the US Congress that AI risks are becoming harder to contain and urged lawmakers to act before it is too late.",
+    "zh": "辛顿在美国国会作证，警告AI风险正变得愈发难以控制，敦促议员在为时已晚之前采取行动。"
+   },
+   "source": "ndtvprofit.com",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSXpCaXdYeV94YW4xZEFfVHpZNEVjb1pJLXZUM2xBR3RyNk5LSFRURkxiQXVyenBBNTdmR1RHVUJ4N1pQTW11MFJRZWI1M3NZeGltNTZkMlRoQUMwRTFsZlItUHp0NFlfUGNiVHhEREd0WDVoQXZsbnM1WlBzQTljOUxxTmdXOTIwVnFZLVdZT2RrQ2wxdHRTTzc2MDg0UGJKWW9kQ3haNHNpbjZsSFl3Y3NTTE14cUtNWjhvRFRrNVl4ZnI4NFNTRzhGTldKYkY5YlHSAdoBQVVfeXFMTnJiY0pNalRZNDJYZXdfSzVHdUlqTWNUZnRHNFhnV3RLR2lYVDVzdzdUZFJvNXhnZjhPcDlDcWVfOWtQX2NuQW5UdFpNams5Snh1U1VpVGF5WnVqOGVNVi0tYkgzUkhMQ0p3S3pnWF8wRnVNMjF4eUhBZFNkWFgzRTFDcllVcTJZTV9sXzFIemdmNzJ6VjZjZFpyZTI4R1FsXzdVZ21NcDVodEpIMjhiSC1hcUJtejNnNDRzbzZlQTVZd2dUMkV1Q21SMXAxenhNMi1BS3JmWW5DRlE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T07:26:00Z",
+   "level": "major",
+   "title": {
+    "en": "Godfather of AI Geoffrey Hinton gives US lawmakers a one-year warning on AI",
+    "zh": "Godfather of AI Geoffrey Hinton gives US lawmakers a one-year warning on AI"
+   },
+   "body": {
+    "en": "Hinton told US lawmakers they have roughly a year before advanced AI poses serious risks, escalating his warnings to a formal legislative audience.",
+    "zh": "杰弗里·辛顿向美国国会议员发出警告，称先进人工智能带来严重风险的时间窗口大约只有一年，将他的警告带到了正式的立法听众面前。"
+   },
+   "source": "wionews.com",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV3RDUHNDeWFQSGFLcDhzU3lLQmgyWExublpfcVZXNUhpYTYyeElQZEZvUFNDbkhDbEtmR0Y4LVBwX1VUZHk0N2ZmTG5qZzdjQVlvU2hWcDUzT2tTR3g5Mlc0Rzdray1TN3kxeXpDeHk4N1BYM05PQlZyMWRWc0xqR2pCcVJzeGd6aS1QYUx3VVRuUU5mM1NRMVpHNmZYdTNlbnl2dXVPWmx6WkxjMmc1c1FibWZtaVVmME5zZkE0d0ZBQdIBxwFBVV95cUxOV3B1aTcyUWUzZEp2QVFsNWNsd3VUOWlKZjVDX1dsbGlaWGRNQ1ZZb3gxYWFlV29BOWFXS1d1bWhtYktlZlNqS0xFZE5rMER3Wk5KMHJCREdtSHVQdlFEYzhtMnVYcXVjSWRXYTVDelN6LW83NzRNcVZSX2VubHdDQnZQbjlwZEFuODNSLTJwZXp6d3RaUFItYTRyc0xzaURKQWNYc3BRdUVrZ1dfUVZHM0xabXpHYXBfd2lEWGtiUThXTEIyTlFJ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T07:26:00Z",
+   "level": "major",
+   "title": {
+    "en": "Godfather of AI Geoffrey Hinton gives US lawmakers a one-year warning on AI",
+    "zh": "Godfather of AI Geoffrey Hinton gives US lawmakers a one-year warning on AI"
+   },
+   "body": {
+    "en": "Hinton warned US lawmakers they have roughly a year to act on AI risk before it becomes unmanageable.",
+    "zh": "辛顿向美国国会议员警告，留给他们应对AI风险的窗口期大约只有一年，否则局面将难以控制。"
+   },
+   "source": "WION",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV3B1aTcyUWUzZEp2QVFsNWNsd3VUOWlKZjVDX1dsbGlaWGRNQ1ZZb3gxYWFlV29BOWFXS1d1bWhtYktlZlNqS0xFZE5rMER3Wk5KMHJCREdtSHVQdlFEYzhtMnVYcXVjSWRXYTVDelN6LW83NzRNcVZSX2VubHdDQnZQbjlwZEFuODNSLTJwZXp6d3RaUFItYTRyc0xzaURKQWNYc3BRdUVrZ1dfUVZHM0xabXpHYXBfd2lEWGtiUThXTEIyTlFJ0gHHAUFVX3lxTE5XcHVpNzJRZTNkSnZBUWw1Y2x3dVQ5aUpmNUNfV2xsaVpYZE1DVllveDFhYWVXb0E5YVdLV3VtaG1iS2VmU2pLTEVkTmswRHdaTkowckJER21IdVB2UURjOG0ydVhxdWNJZFdhNUN6U3otbzc3NE1xVlJfZW5sd0NCdlBuOXBkQW44M1ItMnBlenp3dFpQUi1hNHJzTHNpREpBY1hzcFF1RWtnV19RVkczTFptekdhcF93aURYa2JROFdMQjJOUUk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T12:28:20Z",
+   "level": "major",
+   "title": {
+    "en": "‘Maybe a Year’: Godfather of AI Geoffrey Hinton Gives Congress a Stark Warning — Time Is Running Out to Control AI",
+    "zh": "‘Maybe a Year’: Godfather of AI Geoffrey Hinton Gives Congress a Stark Warning — Time Is Running Out to Control AI"
+   },
+   "body": {
+    "en": "Hinton testified before the US Congress that AI could pose existential risk within roughly a year, escalating his public campaign for AI safety regulation.",
+    "zh": "辛顿在美国国会作证，警告AI可能在大约一年内带来生存性风险，进一步推动他呼吁加强AI安全监管。"
+   },
+   "source": "benzinga.com",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMi1hU2JPYnFZZXhudUhBM21CbVhTY3loYXJOdDMta2N4S0lOMFd6VEpHeXU0SE4tbzY2LUdud3dhTnNyUFViMnRtSjVnUklLR3N6b0oyaElmdlJWZkNoM19jakpaSDJMcFRhNkVxOHpxQ2dCUlVyUXBXYzRlSU1fT3NoVU9DWC00clBMSnIwdVdIbUw0OTY3ZnRiTDFhb0toMzRYeGJWQVBtcnF3OFRUTHhoVWhocS03Vzg3N052QUhiWmI3elJtRElwZXV4VWpNT3BTbWZkcG5GRnVNMjlOWHZxOEhpZ3c5SGNGd1Jjd1RuRUVQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T12:12:46Z",
+   "level": "major",
+   "title": {
+    "en": "‘Maybe a year’: Geoffrey Hinton gives the Senate a deadline on AI",
+    "zh": "‘Maybe a year’: Geoffrey Hinton gives the Senate a deadline on AI"
+   },
+   "body": {
+    "en": "Testifying to the US Senate, Hinton warned that meaningful AI safety regulation may need to arrive within about a year, escalating his public risk warnings.",
+    "zh": "在美国参议院作证时，Hinton警告称有意义的AI安全监管可能需要在大约一年内出台，进一步升级了他对AI风险的公开警示。"
+   },
+   "source": "The Next Web",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrQ25mU0E2dGpHcmlxRGhnc1AwdlZqRjJuUjFNYXhfYkhkcjNwa1k1aWpxejFZS3BnWU1ub0M4MFFwYXJxUkM5NndfYnlNbVRrRW8wdHlyd0hiUVczcTJjMTFrSHJfdWZqMEdJUEI3c19UUl9KZkdLbQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T21:58:03Z",
+   "level": "major",
+   "title": {
+    "en": "Geoffrey Hinton among AI experts calling for urgent oversight",
+    "zh": "Geoffrey Hinton among AI experts calling for urgent oversight"
+   },
+   "body": {
+    "en": "Geoffrey Hinton joined a group of AI experts in a public call for urgent regulatory oversight of AI development.",
+    "zh": "杰弗里·辛顿与多位AI专家联合公开呼吁，要求对AI发展实施紧急监管。"
+   },
+   "source": "CTV News",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVlRrWWhmUTRuSU9SNkFoLTZyT1Q1SDl1S3A2aWw0LVJCaDhqeXhYS3FKbWV3MmJXNTJqNkVaQ05DZjdIOTdQV0RsYzkyZjRvbGR3MHpwRE9vYmNITFBFQzNJd0YxV1k1ZXExYjVlYnB0Y1VJUHVfeXN0bG5CbjQ4MEpod1RkcVo5M0ZtSlZzVmhDem5MUXdLN1czT2tNZV9HZl91bg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T21:58:03Z",
+   "level": "notable",
+   "title": {
+    "en": "Geoffrey Hinton among AI experts calling for urgent oversight",
+    "zh": "Geoffrey Hinton among AI experts calling for urgent oversight"
+   },
+   "body": {
+    "en": "Geoffrey Hinton joined a group of AI experts calling for urgent oversight of AI development.",
+    "zh": "杰弗里·辛顿与一批人工智能专家联合呼吁对AI发展进行紧急监管。"
+   },
+   "source": "CTV News",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTHpHdC1aVDlEQ0x0VnhzTjRRUy1LelpUODdzOVVuOU9maC1BRFhpeTVzdFJSNDctRV9iTTJoUW83UTZnY2F5QlBoRFRkY1FpZTZ3OG5lM3NweVFsVjZ3UkFGR2lZYmpubXdPdTA1M29CY0hIcjc4bEJ6Tjkwd2k5NzY1TFFmZlh5S2wxaVFOalNmZTlLdFNIMDJ1MVFCMmN3aWt6Q3pTLXdJRFpGeHpuWFdXOUU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T07:36:39Z",
+   "level": "major",
+   "title": {
+    "en": "Geoffrey Hinton Warns of the Urgency to Regulate AI in the United States",
+    "zh": "Geoffrey Hinton Warns of the Urgency to Regulate AI in the United States"
+   },
+   "body": {
+    "en": "Hinton warned of the urgency to regulate AI in the United States.",
+    "zh": "辛顿警告美国监管AI的紧迫性。"
+   },
+   "source": "Brief IA",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR0UwU3pqUUlTbHE0aGdqUnpLZ2g1bGVPcmFVZzdybU9QekNzc09KaDdsc0daZVRDd1MzWHlrRW9uYk1OcnFrLUlyNXplQVVhRnRZVHdfY1k5MFg3eXBnNzRENHdFOUZVVDNMMUpNQlJKbHpuY19DNDg1RmFuVC1KeFZySU1pdnRRc0lNRm45OWp4bmFtaVNqZ2Z1UFRwVWpOSUh3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T06:01:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Godfather of AI Geoffrey Hinton on how AI will end humanity; says that there are many ways: Like deadly .",
+    "zh": "Godfather of AI Geoffrey Hinton on how AI will end humanity; says that there are many ways: Like deadly ."
+   },
+   "body": {
+    "en": "Hinton reiterated his warning that AI poses existential risks to humanity and laid out several ways it could go wrong, consistent with his role as the field's most prominent doomsayer.",
+    "zh": "辛顿再次警告AI对人类构成生存性风险，并列举了多种可能出错的方式，延续了他作为AI领域最具分量的风险警示者的立场。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNT0ZIeDZIQjVmUmpBLU5VdUZzUmpGd1c0dFluWnVVTG5zTng2dGpWMkFuOUV2cDA3UVV5MjVFb09rdFZFOFgtLTJlU3ZmdFd3NW1ubGFsdXhhb1Aya1gwMmhHVDVLbGt1Nmc3VWZ4Zl96ZzdzbmsxbWRhc3k3XzkxN21YZkN5VEtmcURDSmtiemRzYzFnUmhFX2FaYUt5YVJmaHdNQjdnemEtREtBYlZ6NldWYk45Vy03QUpaUVlvRFlTNW96bzlWeHNSRDRXMDE0elA4U0lYYjUwbUlIQzU4VE4zTmROS1VWMkx0NUZiUlFSS3I1eDRMVFZKUDJFMFdBa2F4bG0yUkZWWXpfZ1BDZmpPWdIBmAJBVV95cUxPSDBrVHhHcnNQTUJqTkdSSGl4WTNLSzFwb2JCRHpsWmZHU1RGMFVpM1Y1YW5NeGVKSzhOb1JPYVhJcFlXWXRhalRLckZGN2p0MXJfSk44ZjhRSE4za1ZkM3E2Ry1oX3pQZW9ZNERBb25BU0x2MGxYOFlKeUk5RExoUGt0QUhmZ01VRmZLWW8ySjBTZmloNmRfc3FDMncxd1E0WV9EN1piVHo5S3Z0TVFUeUgtQUpGbWhhemdXRWViWVRaQ1BsNFJoRnYwUnIwUGF1MEpjeXB2eFNYdU14VndnUEtYbU1xVF9KMzNsTzNDMzFVdXZYMUU1YU1rVVpyeVVTdGx0VV9JMGZpZ0ltN1hGemEzNzlwWFph?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T09:35:27Z",
+   "level": "notable",
+   "title": {
+    "en": "‘Godfather of AI’ Geoffrey Hinton says artificial intelligence could wipe out humanity within 10 years",
+    "zh": "‘Godfather of AI’ Geoffrey Hinton says artificial intelligence could wipe out humanity within 10 years"
+   },
+   "body": {
+    "en": "Hinton reiterated his warning that AI could cause human extinction within roughly a decade, reinforcing his role as the field's most prominent doom voice.",
+    "zh": "辛顿再次警告，人工智能可能在大约十年内导致人类灭绝，进一步巩固了他作为业界最具影响力的风险警示者的角色。"
+   },
+   "source": "CNBC TV18",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTG1hTVY2SDdjVTl6a2pvb1lQcFRFMTlfXzN5dU5TZm9OM3E0bmpMSFY2R1hiQzlPLXhPOHhYdVB2d0NQYWdaX3UzVnZTdUhUbndwR1RGc1Z6bFFMSXZsblZSbDNRSU5mVlFuRGs1NXI1SWduY0g3bVgzY1N5M3Vtalo1RmpkYjdiMWVLQmR6YmtLLUJfMW1EV2FIdVpoRWtHUzhMamJ6dXdvdkszcmpENS0wS0o4YWtQQjZiaHY5Ty12Z21HTHV3R2tBZmdzak54djBPRWNGV1JQdlBoUmJMNUZJWdIB6AFBVV95cUxOM2hidFlnbjZkbkRhOTdPY0p1WEE1OVVCOWZqcGRidHVydkF3SGhoQ3ZIRDl3bGt5eXlWUTNMSXo0YnNrVjJjQ3Q1YS1CcTIzQjFYS21aQkZjRG9hQ1RWc0lnRW80UXJKMWFDem9kVlNMVTlqaFJncnRmaXlucFVtU2d2Y2NRTjFzUXdtcUtUSXVxYzhEcHdGcDJfdjV3al9HZmM0UDJqbmpRdUdlUnlWX0V2TGpaX1lZcDVNMWkwVXVWQ1VBUHBtUW9XcEZ2WTdrVDkwcWRYcWZtUWdwbF95eTdpaF90NDQz?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T10:58:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Geoffrey Hinton, known as the Godfather of AI, says we don't have much time",
+    "zh": "Geoffrey Hinton, known as the Godfather of AI, says we don't have much time"
+   },
+   "body": {
+    "en": "Hinton reiterated his warning that humanity has little time left to bring AI risk under control.",
+    "zh": "辛顿重申警告，称人类应对AI风险的时间已经不多了。"
+   },
+   "source": "WHAS11",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQanJjamROREcyYUYtNWZLengtOElBTmw5el9hRnB5aDlQWXluVkNKQnlzY3hpM2JDS2MxWUp5YWZkR2x1OEtHSUpvekJQU0loMDVfcy02d0hwQmRpZngzVWUwV25ocnBaMFFVVkVNMDVaaWxEQnNvN1Rzdk5oelJaX0xNYm9ZeW5Pbk9IdDZYblY3OVZrSmFYdlEtaXZZeFhWbVBJSUR6Q0N6NjhLM3ktcnNzRDdNVC1LYW9Jb2hNT1hIQjJ3WUlpNmotRzM3dnItTzE2dFhLNGlsRW1kOENSRTNHMEdfN3prOUxCbWVVdFlxQm5HR2xBYWpmdUE1M3ZEVTdaLQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T17:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "\"Godfather of AI\" Geoffrey Hinton warns \"we need to slow down\"",
+    "zh": "\"Godfather of AI\" Geoffrey Hinton warns \"we need to slow down\""
+   },
+   "body": {
+    "en": "Hinton again warned publicly that AI development needs to slow down, reinforcing his role as the field's leading risk voice.",
+    "zh": "辛顿再次公开警告AI发展需要放缓，进一步强化了他作为业界头号风险预警者的角色。"
+   },
+   "source": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMFRndWRwd2hYUklqSlBWQUV5WmlwdlRSV1RZRGNmTlVyWkltUEdhSVF5anl3MTFkMnBLSDNVQlBqNUp0aEV3UnEyM1Y2bzlLS2x3NndySV9tMGRIdERjR2hIb3pKQ0ZaUzVyQ1ZUWndiemZVNkJvSjhlVmxpVkpUZHQwZmVCVzllRWRHQWFvdUtrQ3c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T17:52:54Z",
+   "level": "notable",
+   "title": {
+    "en": "\"Godfather of AI\" Geoffrey Hinton warns \"we need to slow down\"",
+    "zh": "\"Godfather of AI\" Geoffrey Hinton warns \"we need to slow down\""
+   },
+   "body": {
+    "en": "Hinton publicly reiterated his warning that AI development needs to slow down, reinforcing his role as the field's leading risk voice.",
+    "zh": "辛顿公开重申AI发展需要放慢速度的警告，进一步巩固了他作为该领域首要风险倡导者的地位。"
+   },
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUkhVMWFZRUZLZ3JpblZrUG8tbVZoekpUSzRORWh4RV9LT0NLMm9BSExLb2VpRVJrTWp6OUZfcXJaSzdYYWxaeFdWUzN5U3dOQW1sLXNNQzlFbno0NjV5eFp2bmRQb2lsTVVGVngySHhnMmw4R2RKLU51cmtPOEZNQldIM1F6Q2k4Ujcw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T18:17:30Z",
+   "level": "notable",
+   "title": {
+    "en": "'Godfather of AI' Geoffrey Hinton warns 'we need to slow down'",
+    "zh": "'Godfather of AI' Geoffrey Hinton warns 'we need to slow down'"
+   },
+   "body": {
+    "en": "Hinton publicly warned that AI development needs to slow down, reinforcing his role as the field's leading safety voice.",
+    "zh": "辛顿公开警告称AI发展需要放缓，进一步巩固了他作为该领域头号安全代言人的角色。"
+   },
+   "source": "Modern Ghana",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UanJNYlkzQUJ2aEw3ci1HS2lzWmRCdmZUbGs3bVhmWnFYTGRjM2FYX1VPSTRCUENiLWxuVUJqS2pLR0dRNWU1Z3ZfZEJSY1Y3Ti1PcnZtalBqWmdX0gFcQVVfeXFMTlRqck1iWTNBQnZoTDdyLUdLaXNaZEJ2ZlRsazdtWGZacVhMZGMzYVhfVU9JNEJQQ2ItbG5VQmpLaktHR1E1ZTVndl9kQlJjVjdOLU9ydm1qUGpaZ1c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T22:01:44Z",
+   "level": "major",
+   "title": {
+    "en": "Geoffrey Hinton Tells Senators Congress Has About a Year to Rein In AI",
+    "zh": "Geoffrey Hinton Tells Senators Congress Has About a Year to Rein In AI"
+   },
+   "body": {
+    "en": "Hinton told U.S. senators Congress has roughly a year left to put guardrails on AI, escalating his push for near-term regulation.",
+    "zh": "Hinton在国会作证时表示，美国国会大约还有一年时间为AI建立监管护栏，进一步升级了他对短期监管的呼吁。"
+   },
+   "source": "Startup Fortune",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQmlGdW5QeEl4QnMxWXhoQ0NxSWc5RUdiOGY4SDJac0JGd20xNWJCSnRxWWJ0ZkVTcGtVQ2NDSHVKamkzOHIxQ25EWHJTbmY4NkdrWTB6eng3R3JtZjFyUU1iNmxkYTZCMmhfX0tjZm9uZHFPRkdEVW1pVk82czYteWs2dUhKUEUybXF6T1ZWaHFjcWpzQUx1enNBUVB0Znc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T11:11:09Z",
+   "level": "notable",
+   "title": {
+    "en": "Geoffrey Hinton puts AI extinction risk at 10% within next decade",
+    "zh": "Geoffrey Hinton puts AI extinction risk at 10% within next decade"
+   },
+   "body": {
+    "en": "Geoffrey Hinton put a specific number on AI extinction risk, estimating roughly 10% within the next decade.",
+    "zh": "杰弗里·辛顿给出具体数字，估计未来十年内AI导致人类灭绝的风险约为10%。"
+   },
+   "source": "ET Enterprise AI",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcERvV1I5YlkyWGx1NXRReDVqVVNreGxqMDdhdXNYeEJKbnpFMFpOX3drTVF1LVoxZlVLcHBSa29pM2FfN3UxbjBHX1JVYVFLRWh6SVNKYVZueVNkS0o4LTdQMFgzbkhkSW9JcE5BdGwzMHBPQ3VocU1sUk1xRWh5aHRxQ25VSzF1MXhVN0JHTFIwbDg0SmpTWXEya0FCWFZtaEFSQ1N0ZGhyQWVrVURpSmMyTFhWYkxMTldUVmJxTHNCY1oyNzQ3VXN0TkpocVhGcXlmb9IB2gFBVV95cUxNRmY0a2J2MHpaWGVKWlZGU0s0MTdkYUI3X1IzTUtmVlRIN21zS1VvNllKa0FIVG1lN2ZoT2NSck5LUTZEWThycEhqR1RPckhCUFBjN1hLdERrb3VEU2hRTkJYaEw4anVJSlhZZ1RQNmgxZUh4Sm9MMTd1NVU3bm1NV2dXTnlERlRXZUxtNFZRMU83a2NwRktVQ1NJNjVTTHNsWkV6SE1UT3hKcThrc0hEU0VuYTM4UE1fTWF6dVFtUUJranVVd2w0X3lIRWtMT09RM0d5cG4zdktnZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T09:35:27Z",
+   "level": "notable",
+   "title": {
+    "en": "‘Godfather of AI’ Geoffrey Hinton says artificial intelligence could wipe out humanity within 10 years",
+    "zh": "‘Godfather of AI’ Geoffrey Hinton says artificial intelligence could wipe out humanity within 10 years"
+   },
+   "body": {
+    "en": "Hinton reiterates his warning that artificial intelligence could pose an existential risk to humanity within a decade.",
+    "zh": "辛顿再次警告，人工智能可能在十年内对人类构成生存威胁。"
+   },
+   "source": "CNBC TV18",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOM2hidFlnbjZkbkRhOTdPY0p1WEE1OVVCOWZqcGRidHVydkF3SGhoQ3ZIRDl3bGt5eXlWUTNMSXo0YnNrVjJjQ3Q1YS1CcTIzQjFYS21aQkZjRG9hQ1RWc0lnRW80UXJKMWFDem9kVlNMVTlqaFJncnRmaXlucFVtU2d2Y2NRTjFzUXdtcUtUSXVxYzhEcHdGcDJfdjV3al9HZmM0UDJqbmpRdUdlUnlWX0V2TGpaX1lZcDVNMWkwVXVWQ1VBUHBtUW9XcEZ2WTdrVDkwcWRYcWZtUWdwbF95eTdpaF90NDQz0gHoAUFVX3lxTE4zaGJ0WWduNmRuRGE5N09jSnVYQTU5VUI5ZmpwZGJ0dXJ2QXdIaGhDdkhEOXdsa3l5eVZRM0xJejRic2tWMmNDdDVhLUJxMjNCMVhLbVpCRmNEb2FDVFZzSWdFbzRRckoxYUN6b2RWU0xVOWpoUmdydGZpeW5wVW1TZ3ZjY1FOMXNRd21xS1RJdXFjOERwd0ZwMl92NXdqX0dmYzRQMmpualF1R2VSeVZfRXZMalpfWVlwNU0xaTBVdVZDVUFQcG1Rb1dwRnZZN2tUOTBxZFhxZm1RZ3BsX3l5N2loX3Q0NDM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T14:09:00Z",
+   "level": "notable",
+   "title": {
+    "en": "NSERC launches Geoffrey Hinton Prizes honouring U of T Nobel laureate",
+    "zh": "NSERC launches Geoffrey Hinton Prizes honouring U of T Nobel laureate"
+   },
+   "body": {
+    "en": "NSERC and the University of Toronto launched the Geoffrey Hinton Prizes, honoring the Nobel laureate by funding the next generation of AI researchers.",
+    "zh": "NSERC与多伦多大学设立了「杰弗里·辛顿奖」，以此纪念这位诺贝尔奖得主，并资助新一代AI研究人才。"
+   },
+   "source": "News - Department of Computer Science…",
+   "url": "https://web.cs.toronto.edu/news-events/news/nserc-launches-geoffrey-hinton-prizes-honouring-u-of-t-nobel-laureate",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T03:40:15Z",
+   "level": "notable",
+   "title": {
+    "en": "Australia: Geoffrey Hinton backs slowing AI development",
+    "zh": "Australia: Geoffrey Hinton backs slowing AI development"
+   },
+   "body": {
+    "en": "Hinton added his voice to the wave of prominent AI figures calling for a slower pace of AI development.",
+    "zh": "Hinton加入了呼吁放缓AI发展步伐的知名人士行列。"
+   },
+   "source": "UA.NEWS",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT0ZwM0I4cGdrLXJhd2NQMkhBSUw3THpsdUc4cEpTanZybXd6bnZPdlNOeGZjVE5GbWlBN0w3eUdSZnJ3NnhTbW1TTW5UYlNXaWs3YS1qTjhYMDFOTDU3MTd2a2JCOW5aS3Q3aDcyTkJPcXlOcHBkSlhGT2FZeVJBckI2OW5vblFXd1M5WncwMVVwbkxoY1pTcXhn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T19:48:17Z",
+   "level": "notable",
+   "title": {
+    "en": "NSERC launches Geoffrey Hinton Prizes honouring U of T Nobel laureate",
+    "zh": "NSERC launches Geoffrey Hinton Prizes honouring U of T Nobel laureate"
+   },
+   "body": {
+    "en": "Canada's NSERC launched the Geoffrey Hinton Prizes, naming a national research award after the University of Toronto Nobel laureate.",
+    "zh": "加拿大NSERC设立“杰弗里·辛顿奖”，以多伦多大学诺贝尔奖得主的名字命名这一国家级研究奖项。"
+   },
+   "source": "University of Toronto",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMW5Xajk2UTk3RFZSSkZFSVJoRjRreU1jNUVvaVZ5VTJqNndaalVrdlBLTks3NEsyNjd3RzZ2WW51UW1sWnVrVUJ6RWlOZTRQSzZkQVE4NHVWckVkUUV0d2xYekZPbVBZTUxuSURSXzk5VTVIMFZYazV0S19KdWJUSS1JMUc0cTlDRzdLa3lCSldVNVZfUzJkTE9uSXlFSjJMSEQ0Rg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T09:45:07Z",
+   "level": "notable",
+   "title": {
+    "en": "Bernie Sanders Sounds Alarm on 'Threat of Uncontrolled AI' as Geoffrey Hinton Puts 10% Odds on AI Killing Humanity: 'We’ve Got to Stop Right Now'",
+    "zh": "Bernie Sanders Sounds Alarm on 'Threat of Uncontrolled AI' as Geoffrey Hinton Puts 10% Odds on AI Killing Humanity: 'We’ve Got to Stop Right Now'"
+   },
+   "body": {
+    "en": "Hinton put a specific figure — 10% — on the odds of AI causing human extinction, sharpening his role as the field's most prominent AI-safety-risk voice.",
+    "zh": "辛顿给出了一个具体数字——10%——作为人工智能导致人类灭绝的概率，进一步凸显了他作为该领域最具影响力的安全风险发声者的角色。"
+   },
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU2dIa0ZmbEU1dzBQY2hUZmxjenFmOHBwalIyMmtQSjQtc2hmSGNrSVZkeFp0SEd5dDVmd3RsTHRGVXNqWWdzdzdIeWZ5eUlxZmRqTFZ6LXdZNmJKVFR6TktqV3VnTU5kc0YzVFphOWtxczNDdmlicjNhN1F1VjNMZlZzMWJIVElCeVhRZDJEaWhSMVNCTnkwVDNR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T10:45:28Z",
+   "level": "notable",
+   "title": {
+    "en": "Geoffrey Hinton and Experts Warn of 10% Risk AI Could Cause Human Extinction Within a Decade",
+    "zh": "Geoffrey Hinton and Experts Warn of 10% Risk AI Could Cause Human Extinction Within a Decade"
+   },
+   "body": {
+    "en": "Hinton and other experts put a roughly 10% probability on AI causing human extinction within a decade.",
+    "zh": "Hinton 与其他专家警告，AI 在未来十年内导致人类灭绝的概率约为10%。"
+   },
+   "source": "OECD AI Policy Observatory",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuQjVuV1M2MG5Jclg1UC1aeXFXOFFvS2ppQjNydU1rMmc0UXNIVWpocjNZNElPVjc4YnFJbnJyREVRTlVkZU9JaXZhWURlTDF0bWx3RkZwVQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T01:29:33Z",
+   "level": "notable",
+   "title": {
+    "en": "Geoffrey Hinton says 10 percent chance AI could end humanity is not unreasonable",
+    "zh": "Geoffrey Hinton says 10 percent chance AI could end humanity is not unreasonable"
+   },
+   "body": {
+    "en": "Hinton said a 10% chance that AI ends humanity is not an unreasonable estimate, restating his risk warning in stark terms.",
+    "zh": "辛顿表示，AI有10%的概率导致人类灭绝，这一估计并不算不合理，再次以尖锐措辞重申他对AI风险的警告。"
+   },
+   "source": "디지털투데이",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNenZXa1FNME9qbXhuNzNTSzNBMEZMandFeHBoNThEYlRTNTNmWUVqUkp1ZGtDSExtc1ZFNE92NE43ZnNwc0NINkhpQUlYaWY3QmZETVNDZW0yV0VDSURGTWxXZllaYWZFUDZHRDRhemxyb1ZUXzBBSzMtQ1BDUmhfdlhXQk5TdV8tQUs5b2ZsM042NVZzSEkwYmptZ0FCUFJCX2Z0VmkwV0QyamY5aW92TFE3clZCOFBRSDVPVDJXank?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T11:12:20Z",
+   "level": "notable",
+   "title": {
+    "en": "AI pioneer Geoffrey Hinton says 10% risk of human extinction from AI 'not unreasonable'",
+    "zh": "AI pioneer Geoffrey Hinton says 10% risk of human extinction from AI 'not unreasonable'"
+   },
+   "body": {
+    "en": "Hinton said a 10% risk of human extinction from AI is 'not unreasonable,' restating his heaviest-weight warning on AI risk.",
+    "zh": "Hinton表示AI导致人类灭绝的风险达到10%\"并非不合理\"，重申了他对AI风险最重的警告。"
+   },
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONm5wbmtGWTNFMDB3NkpNbGx0eGtVM0NoaEdSTElORDV3THUtTHR5Wl9vOE83akpFN3dYbXpXcjF3X2dJZE9aM2tsNENIMWhUWmRZRnpXLTR1TDlhRGd3UmJIanhBQ2RKZmNOVU9hRkY0Z1NBV1ZCWDdFR2hhdFhOeE5Vb1FnczdMRC13dFhkaG5mb1RXQndQaGdKaEFybTNaSXEwcmYxQjJTdEJOenBHdVF2TlY0QnpCTG1ydnMzTWRkbkJuTHk1Zg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T07:08:43Z",
+   "level": "notable",
+   "title": {
+    "en": "'10% Doesn't Seem Unreasonable': Geoffrey Hinton On Prediction AI Could Kill All Humans Within A Decade",
+    "zh": "'10% Doesn't Seem Unreasonable': Geoffrey Hinton On Prediction AI Could Kill All Humans Within A Decade"
+   },
+   "body": {
+    "en": "Hinton said a roughly 10% chance that AI could wipe out humanity within a decade is not unreasonable, reiterating his risk warnings.",
+    "zh": "辛顿表示，AI在十年内导致人类灭绝的概率约为10%这一说法并非不合理，重申了他对AI风险的警告。"
+   },
+   "source": "NDTV Profit",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaG1ZbDZXa2VKRFd6X0hhTG51RjVCQXQ2aUFpMzI5SnFlLXMxRTI3MzlTZkpLeE1BXzAydzJGWjZ2Q2E1U2piSTNHMFNUMW1GTzl3b3BHQ3NfUTY2ZUxHQlhpXzZlSGUtQURoeXBnMDIxSWE4YVB0cEZiT3Zma0hQYkl2bFV1Tk5aZVdQUkVFN2ExOW5uY0VTZlNJY090UjZMNUlZdGZDUVFXNFBzWEVzb0o3by1zSU9ZS2RBQkZaSHJJeWFwdERQaUJwcHFJSmxnUERsbzZ0QmwxRWNrallV0gHfAUFVX3lxTE1obVlsNldrZUpEV3pfSGFMbnVGNUJBdDZpQWkzMjlKcWUtczFFMjczOVNmSkt4TUFfMDJ3MkZaNnZDYTVTamJJM0cwU1QxbUZPOXdvcEdDc19RNjZlTEdCWGlfNmVIZS1BRGh5cGcwMjFJYThhUHRwRmJPdmZrSFBiSXZsVXVOTlplV1BSRUU3YTE5bm5jRVNmU0ljT3RSNkw1SVl0ZkNRUVc0UHNYRXNvSjdvLXNJT1lLZEFCRlpIckl5YXB0RFBpQnBwcUlKbGdQRGxvNnRCbDFFY2tqWVU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T10:49:07Z",
+   "level": "notable",
+   "title": {
+    "en": "AI pioneer Geoffrey Hinton says 10% risk of human extinction from AI 'not unreasonable'",
+    "zh": "AI pioneer Geoffrey Hinton says 10% risk of human extinction from AI 'not unreasonable'"
+   },
+   "body": {
+    "en": "Hinton said a 10% risk of human extinction from AI is 'not unreasonable,' reiterating his position as the field's most prominent risk voice.",
+    "zh": "辛顿表示AI导致人类灭绝的风险达10%“并非不合理”，重申了他作为业内最具分量的风险警示者的立场。"
+   },
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkwxaFFSWjZYMXpwbW1QdXVVWTdDa28waDJXRkxXZFZjT3laVU8xcV9PWjFaMEFod01nbGFkc0RrQ3BPdFNHRlNVRzdFMTkteWVKcmlVaTVkWDM5RFh4Tm1VVjJDNTA1aTdTZ0VXSk50SXA4NUtlUkt2VzNMMmlzdmNuaTRQUUdoc1liTzA1THBZS3lBZHZLMDc3LU1fSG5JWGgtbmt0cm9kVkN4bkJXM2Flc1BCLXdDN3hoclRodmI?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T10:49:07Z",
+   "level": "major",
+   "title": {
+    "en": "AI pioneer Geoffrey Hinton says 10% risk of human extinction from AI 'not unreasonable'",
+    "zh": "AI pioneer Geoffrey Hinton says 10% risk of human extinction from AI 'not unreasonable'"
+   },
+   "body": {
+    "en": "Hinton said a 10% probability of human extinction from AI is 'not unreasonable,' repeating his warning as the field's most prominent risk voice.",
+    "zh": "辛顿表示AI导致人类灭绝的概率达10%\"并非不合理\"，再次以业内最具分量的风险警示者身份发声。"
+   },
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd2Fzd2ZyVVRJdG1DbGZoQUU4SWgwUXZYWmxQc2o0RndlTkNGaTZhZEFVTnQ2czR5aDEyM0NyUHo2am5rVURETGo0VEZCNXR3Q3A5X0ZTVTZ5RjVXZkUwVEs2UV9mWmF3RGlLb2JvSURxREllSVl1SXo2YUdrVDBwOUZPQVk4T2NqXzU1NGkwMGxrdmVYNU5COG00ZURPVmFLX3I1V0VDeF9KZDNTNDA4d3Zic3BNS1dSRmFv?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T11:14:21Z",
+   "level": "notable",
+   "title": {
+    "en": "AI pioneer Geoffrey Hinton says 10% risk of human extinction from AI 'not unreasonable'",
+    "zh": "AI pioneer Geoffrey Hinton says 10% risk of human extinction from AI 'not unreasonable'"
+   },
+   "body": {
+    "en": "Hinton said a 10% risk of human extinction from AI is 'not unreasonable,' restating his view of existential AI risk.",
+    "zh": "Hinton表示AI导致人类灭绝的风险达到10%“并非不合理”，重申了他对AI存在性风险的看法。"
+   },
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbXl3MGRrOUxGX2hTakRReVRoX3pHbVRQdkFsaXBDUzNNMklSMl94NmVFUmNEUkpPVG1DYl93QUhRYzNMS2NTQktQMzhFS05kUnF5UFNTckVxN2dycXpZczBHN0pFdF9NYnhmNFcxNDVLQ3FVcmJkZEpEQ0N3NTlPakZydEV3cXNlbFpMd3pNUlljLXNRSGdJd04ta0RITkV3alNoOEprX2pCVm9MdFBOY1hJTDZMNGJTaHp2VkVoQnVkQ0tWdl8tYlFUVQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T07:08:43Z",
+   "level": "major",
+   "title": {
+    "en": "'10% Doesn't Seem Unreasonable': Geoffrey Hinton On Prediction AI Could Kill All Humans Within A Decade",
+    "zh": "'10% Doesn't Seem Unreasonable': Geoffrey Hinton On Prediction AI Could Kill All Humans Within A Decade"
+   },
+   "body": {
+    "en": "Hinton said a roughly 10% chance that AI could wipe out humanity within a decade 'doesn't seem unreasonable,' adding fresh specifics to his ongoing warnings as the field's most prominent safety-risk voice.",
+    "zh": "辛顿表示，AI在十年内可能导致人类灭绝的概率约为10%，这个数字“并非不合理”，进一步细化了他作为业界最具分量的安全风险警示者所发出的警告。"
+   },
+   "source": "NDTV Profit",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZXhTbE5EYkhRYXh2MFliYWF0N2t3Ylc3T1FockhWMUFjX0lyOXllOTRrTGRpZXNxenU1SG1xY2NkUHJQVWdNM0d3cXEtUm5VWjRZM1hFNWo2N1RhMmNZWDdfeG14eFlVRWdNMUlOcVc2V09oVGd5TGZidWdnMXZIQ3FRZTk0TjdaNFpFNW5SOFZ1MjBVanpBMDlrYUp5dC1EcXozZmJSc3lnRHFXV2l6MGQzVl9FVXFUZ3FCZlBFR0RORy1TU2ZMLWFLNTNmQ2NVZzZWU1JnUdIB3wFBVV95cUxNaG1ZbDZXa2VKRFd6X0hhTG51RjVCQXQ2aUFpMzI5SnFlLXMxRTI3MzlTZkpLeE1BXzAydzJGWjZ2Q2E1U2piSTNHMFNUMW1GTzl3b3BHQ3NfUTY2ZUxHQlhpXzZlSGUtQURoeXBnMDIxSWE4YVB0cEZiT3Zma0hQYkl2bFV1Tk5aZVdQUkVFN2ExOW5uY0VTZlNJY090UjZMNUlZdGZDUVFXNFBzWEVzb0o3by1zSU9ZS2RBQkZaSHJJeWFwdERQaUJwcHFJSmxnUERsbzZ0QmwxRWNrallV?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-07",
+   "ts": null,
+   "level": "minor",
+   "title": {
+    "en": "Father of AI Geoffrey Hinton bets on Canada in tariff war with US; says, unlike America, Canada welcomes",
+    "zh": "Father of AI Geoffrey Hinton bets on Canada in tariff war with US; says, unlike America, Canada welcomes"
+   },
+   "body": {
+    "en": "Hinton weighs in on the US-Canada tariff dispute, saying Canada's openness gives it an edge over the US in attracting talent.",
+    "zh": "辛顿就美加关税争端发表看法，称加拿大的开放态度使其在吸引人才方面比美国更具优势。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQUmJkaGJkTWI2S3U2WXVPMFVBQ1E3WDBtZjkzUVFKWVlnM2VmRmpuQWlRVWNsQ3FRUWpVa1VtYnNlblhubzhxUVFLSGhtdjJYZTNHQmZUUzFXekZ5M0wxTjFmNGpWZGJib0tkbmRSTTNJem0yZHQ3TEdUbHNOdEdXSjVEWmxIeDMzQUs4V3B3QnZYV1l6Wnp6c25RQURVNmJJU2RzUURuQnJyTVZoMmZUYVYyU21uM0xZYVFBZnVKTkx6X0xGak9YYXVnZjExVW0xRDlmMVhLVGRwc2k0MFdoV1hnZldxcG5CYlZUS09mTXFkUlE0aXRiTTFpU3RGM3Ffb292cHJsN2JOM3d0VV92NEdrWG8yYnotRFltX2YyLVh4U0VtQVdwbng5TW1STlFReWMwWkJtaGYyMDh5MHRtdGFRQjg0bzJ50gHOAkFVX3lxTE1PT0E2QlVvY2hoODZlczZVMmVxTmVPV3poaExvN2pLc0VvbFZNVVRzQXlIUW9WYTNpV3JlYkNBSS1qV0lLb0o1TGFYUFViMEtnWk1Gb1JZeS12cDE3b0V5bWNzS2JmVnBQcHBfV3o3U0NHeDNxVjA1MGtyTGxSbk00MUh0b0oyRmpTSE0wRkJmUDVubG50eE1xM3BCT2lrSjdHQW5xdUVWZlp2TU1ZUUJWMEExSmxnX29rUzlQaWhNejk4eVVFV1I0cWlWcDdKM0ZWM1hCcGNrSjBQY244VWZiN0tWVEZJS0gtWjdsR3VydWtqVDVaT2EzMkpydklZOHpNM0xpV2dBYl9DdFc4ZHFMR25VZVY1LUpIQWJnaG9OMklOV0l4ek8wLTM1R0lIRGZHRTU2UUx5Q0RGbjZKaERFWXQ5TzRLTmJTWml4elE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-28",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "AI pioneer Geoffrey Hinton urges tougher government rules",
+    "zh": "AI pioneer Geoffrey Hinton urges tougher government rules"
+   },
+   "body": {
+    "en": "Hinton publicly calls for tougher government regulation of AI, the position he and other pioneers pressed on Canadian policymakers through August 2026.",
+    "zh": "辛顿公开呼吁政府对 AI 采取更严格的监管，这也是他与其他先驱在 2026 年 8 月向加拿大决策者施压的立场。"
+   },
+   "source": "The Guardian Nigeria News",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMDJFd2U5SVRzX1FZbWR0UjBTS0NVSjktaWhYamExQ08zdVIwMlJQNHh5ekZxOGdRUk1tRnZlYVBOYmxVNHdwUUYybERzUExNWFQyM0lGcE51UEhHYUpZMW9BenA3d3F1MEhmaUhuZzE2VHNtT2ZnRkU1NHZFLXNxQUU0UzRYbzdX?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-11",
+   "ts": "2026-08-11T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Geoffrey Hinton Warns AI Agents Could Escape Human Control and Trigger Cyberattacks - Межа. Новини України.",
+    "zh": "Geoffrey Hinton Warns AI Agents Could Escape Human Control and Trigger Cyberattacks - Межа. Новини України."
+   },
+   "body": {
+    "en": "Hinton warned that AI agents could escape human control and trigger cyberattacks, continuing his public campaign for stronger AI safety oversight.",
+    "zh": "辛顿警告称AI智能体可能摆脱人类控制并引发网络攻击，延续了他呼吁加强AI安全监管的公开表态。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhTEd4X3lMcjljNkMxaDlLZi1zYVFLRDQ2RDE1c2k3OHhOZURLWXNZdFphbnJ3RkFGTk5oVVZIWkM0cnB3cWVFMUNYOUZUYmRsM1BtNWdHLTBxOE1sOUZDUVRDTC1ZWkY1TFE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-07",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Geoffrey Hinton Warns AI May Outsmart Humans As Agents Escape Tests",
+    "zh": "Geoffrey Hinton Warns AI May Outsmart Humans As Agents Escape Tests"
+   },
+   "body": {
+    "en": "Hinton warns that AI agents can behave differently when they detect they are being tested and may slip past human control.",
+    "zh": "辛顿警告：AI 智能体在察觉自己被测试时会改变行为，可能因此脱离人类控制。"
+   },
+   "source": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRFpUZW55RWJTOXF6ZTV1WVM0elh6QnM2Y3JaNW1zWDQ3Mk5kT1VrRXk1RXZfM0FJVFlCOVJLSnpJZ3E1aEN1aGlvQzI3ZDk1VFdaZkRZOThUenZTVjJfUkdIel9FODFZNW01Mi1SZ1IyNzB5VkV4R1R1VVRYUUxBZTJua1gwVGNlT19CTGc2S2VYV2EyRVJIVWxQQm5JUHVHVG9KUVkyTEFTYXFIbXRjRXhCam01dUcyb3JJ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-06",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Geoffrey Hinton Warns AI Agents Could Escape Human Control - Межа. Новини України.",
+    "zh": "Geoffrey Hinton Warns AI Agents Could Escape Human Control - Межа. Новини України."
+   },
+   "body": {
+    "en": "Hinton warned that AI agents could escape human control, extending his ongoing public case for taking AI safety risk seriously.",
+    "zh": "辛顿警告AI智能体可能摆脱人类控制，延续了他一贯公开呼吁重视AI安全风险的立场。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tQ2NsNmlud1Y0UTZvbS1qMVNJcnNFYkZ0bWlhZ1hsNGNtQkRPMmZiNExjYkdrbDlhS0NQTC1Cb0tQdlNhWHgzVWluX29ESmZEUzhPYXV4MzBMYTN3d2QtWjNsSk5KWW8xRXVF?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-06",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Geoffrey Hinton Warns AI Agents Could Escape Human Control - Межа. Новини України.",
+    "zh": "Geoffrey Hinton Warns AI Agents Could Escape Human Control - Межа. Новини України."
+   },
+   "body": {
+    "en": "Hinton warned that increasingly autonomous AI agents could escape human control.",
+    "zh": "Hinton警告称，日益自主的AI智能体可能会脱离人类控制。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uS2xjSFpLRFdtdUEtNE5GQUM1NUQwdGdGNVp5VERIT0hjNC1OeVJ5UzlkMW83dWZ5VnZDR29nMUpNaUJRZ2paUEpnSlNwaGJQQTJpWWhjVmZsVXRGaFZFam9jaTBnZTZidEE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-10",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "'Godfather of AI' Geoffrey Hinton says the war in Ukraine changed his view of military AI",
+    "zh": "'Godfather of AI' Geoffrey Hinton says the war in Ukraine changed his view of military AI"
+   },
+   "body": {
+    "en": "Hinton said the war in Ukraine changed his thinking on military AI, a notable shift from one of the field's most prominent safety voices.",
+    "zh": "Hinton表示乌克兰战争改变了他对军事AI的看法，这是这位AI安全领域最具影响力的声音之一在立场上的显著转变。"
+   },
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUFdhUVdBVm5Ja0hmZWJPWTc5eXFxeG1ZenktTDh0NGxDVm5MMzRSWmxqbkQ1Y3lRXzJna3hMWnVXLVkyakFTTHhhRmhfWEJwMjRYcXlqTnM2Y3NkSExsUWk3eU1FVkpqVHZuNTZnVzJGR1RBcDBVdHU5UGtLVWhraUp6YUh3Ylp1UEF3dDFPM0pWR2FucEdEag?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-04-23",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "AI Godfather Geoffrey Hinton Calls For Brakes On Runaway AI Development",
+    "zh": "AI Godfather Geoffrey Hinton Calls For Brakes On Runaway AI Development"
+   },
+   "body": {
+    "en": "Hinton called for the brakes to be put on runaway AI development.",
+    "zh": "Hinton呼吁对失控式的AI发展踩下刹车。"
+   },
+   "source": "Eurasia Review",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYXRIa3BFdml4SGg3UHFTZmRDZ3JHT0hidGZuY0pFaWxZc0Q3OF9mT3MyQk5FUGZ5QWpzWUd6d1hDMGZjdDdfbjlYeHpGOEVLYTVpLUhJdHcwdTM5bXdYTThoRWtiRVhkWFlyYzBGSHhTWXJrZFhlRzlWZjJvY3d5WWJYeExaUTZBdDA4NzJCMkw5MXdxVnpvdWdnY3ZQTFdnNXNMRlV2bmY2c1p2NEctUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-01-19",
+   "ts": "2026-01-19T18:27:52Z",
+   "level": "notable",
+   "title": {
+    "en": "Transcript from an interview with Geoffrey Hinton",
+    "zh": "Transcript from an interview with Geoffrey Hinton"
+   },
+   "body": {
+    "en": "NobelPrize.org published a wide-ranging interview transcript with Geoffrey Hinton covering his views on AI risk.",
+    "zh": "诺贝尔奖官网发布了与杰弗里·辛顿的长篇访谈实录，内容涉及他对AI风险的看法。"
+   },
+   "source": "NobelPrize.org",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOTU3ZnRCZ1pQRE1nVHhweW4yZG56QzlFbnByRmRZZkJ0ZXRmelNub2pnb3dWQkFrb0k2VjV3RTZRVkVXZUowTlBZdnpWUUF3UU5hMFphMlJCVjlaejlnVmtoV3dBNktXaW9Helg1UkIzRXBoTUhlcTlHbUpPTVo5NjdLNmhyS3NKcHVj?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "research",
+ "score": {
+  "total": 63.7,
+  "attention": 85,
+  "centrality": 4,
+  "momentum": 80,
+  "stature": 97,
+  "pageviews": 922186,
+  "citations": 452436,
+  "hIndex": 137,
+  "events": 39,
+  "posts": 78,
+  "wikiEn": "Geoffrey Hinton",
+  "wikiZh": "杰弗里·辛顿"
+ },
+ "seedRank": 11,
+ "tier": "t2"
+}

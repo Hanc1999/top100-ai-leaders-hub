@@ -1,0 +1,2375 @@
+{
+ "rank": 27,
+ "id": "lilian-weng",
+ "name": {
+  "en": "Lilian Weng",
+  "zh": "翁荔"
+ },
+ "role": {
+  "en": "Recursive self-improvement research, OpenAI",
+  "zh": "OpenAI 递归自我改进研究"
+ },
+ "org": "OpenAI",
+ "region": {
+  "en": "United States / China",
+  "zh": "美国/中国"
+ },
+ "tags": [
+  "OpenAI",
+  "Lil'Log",
+  "Safety Systems",
+  "Diffusion",
+  "Agents",
+  "RSI"
+ ],
+ "why": {
+  "en": "Former head of OpenAI safety systems. Lil'Log — her systematic write-ups of diffusion models, agents and reinforcement learning — is the standard entry reference for researchers worldwide.",
+  "zh": "前 OpenAI 安全系统负责人。Lil'Log 对扩散模型、Agent、强化学习的系统梳理，是全球研究者的标准入门参考。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@lilianweng",
+   "url": "https://x.com/lilianweng",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Lil'Log",
+   "url": "https://lilianweng.github.io/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Lil'Log Archive",
+   "url": "https://lilianweng.github.io/archives/",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @lilianweng",
+   "url": "https://github.com/lilianweng",
+   "t": 1
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face @lilianweng",
+   "url": "https://huggingface.co/lilianweng",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "OpenAI Research",
+   "url": "https://openai.com/research/",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "OpenAI blog author page",
+   "url": "https://blog.openai.com/author/lilian/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Lilian+Weng",
+   "t": 3
+  },
+  {
+   "kind": "weibo",
+   "label": "微博 — 搜索",
+   "url": "https://s.weibo.com/user?q=%E7%BF%81%E8%8D%94",
+   "t": 3
+  },
+  {
+   "kind": "zhihu",
+   "label": "知乎 — 搜索",
+   "url": "https://www.zhihu.com/search?type=people&q=%E7%BF%81%E8%8D%94",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "微信公众号 — 搜索",
+   "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%BF%81%E8%8D%94",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "B 站 — 搜索",
+   "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E8%8D%94",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Lilian+Weng",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Lilian+Weng",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Lilian+Weng&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Lilian+Weng&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=%E7%BF%81%E8%8D%94",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Lilian+Weng",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Lilian+Weng",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Lilian+Weng",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Lilian+Weng",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Lilian+Weng",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Lilian+Weng",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Lilian+Weng",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Lilian+Weng&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "中文报道 — 最新",
+   "url": "https://www.google.com/search?q=%E7%BF%81%E8%8D%94+AI&tbm=nws&hl=zh-CN",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lilian_Weng",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-07-04",
+   "kind": "blog",
+   "title": {
+    "en": "Harness Engineering for Self-Improvement",
+    "zh": "面向自我改进的 Harness 工程"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+   "note": {
+    "en": "Traces recursive self-improvement back to I. J. Good (1965) and works through how an AI uses its intelligence to improve the machinery that produces its intelligence.",
+    "zh": "把递归自我改进追溯到 I. J. Good（1965），并推演 AI 如何用自身智能改进产生其智能的机制。"
+   }
+  },
+  {
+   "date": "2026-06-24",
+   "kind": "blog",
+   "title": {
+    "en": "Lil'Log — June 2026 post",
+    "zh": "Lil'Log —— 2026 年 6 月文章"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/archives/",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-07-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "It is a hard and sad decision. I shared this message with folks at Thinky. Thank you all for the time together♥️ Just as the last sentence in my message: The fu",
+    "zh": "It is a hard and sad decision. I shared this message with folks at Thinky. Thank you all for the time together♥️ Just as the last sentence in my message: The fu"
+   },
+   "source": "@lilianweng",
+   "url": "https://x.com/lilianweng/status/2081816923088814421",
+   "note": {
+    "en": "Weng announced she is leaving Thinking Machines Lab, the startup she joined after OpenAI, writing that \"the future worth building is human.\"",
+    "zh": "翁荔宣布离开她在OpenAI之后加入的创业公司Thinking Machines Lab，并写道“值得建设的未来是属于人类的”。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Inkling is our open weights model. It aims to serve as a foundation with solid performance across a broad categories of capabilities, for use in practice and cu",
+    "zh": "Inkling is our open weights model. It aims to serve as a foundation with solid performance across a broad categories of capabilities, for use in practice and cu"
+   },
+   "source": "@lilianweng",
+   "url": "https://x.com/lilianweng/status/2077471903032528912",
+   "note": {
+    "en": "Weng announced Inkling, an open-weights foundation model from Thinking Machines Lab available to try on their Tinker platform.",
+    "zh": "翁荔宣布推出Inkling，这是Thinking Machines Lab发布的开放权重基础模型，可在其Tinker平台上试用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "new post on harness engineering for AI self-improvement: https://t.co/ZYvGfVs61k It is hard to forecast how much the future of RSI will rely on harnesses. Likel",
+    "zh": "new post on harness engineering for AI self-improvement: https://t.co/ZYvGfVs61k It is hard to forecast how much the future of RSI will rely on harnesses. Likel"
+   },
+   "source": "@lilianweng",
+   "url": "https://x.com/lilianweng/status/2074372369213428144",
+   "note": {
+    "en": "Weng published a new essay on harness engineering for AI self-improvement, exploring how much recursive self-improvement will depend on the surrounding tooling.",
+    "zh": "翁荔发表新文章，探讨AI自我改进的“harness”工程，思考递归自我改进在多大程度上依赖于周边工具链。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "A super long overdue (3+ years?) post on scaling laws. Compute is expensive. Scaling laws are a way to help us reason about the optimal compute allocation betwe",
+    "zh": "A super long overdue (3+ years?) post on scaling laws. Compute is expensive. Scaling laws are a way to help us reason about the optimal compute allocation betwe"
+   },
+   "source": "@lilianweng",
+   "url": "https://x.com/lilianweng/status/2070237256070389897",
+   "note": {
+    "en": "Weng published a long-overdue post on scaling laws, reasoning about how to allocate compute optimally between data and model size.",
+    "zh": "翁荔发表了一篇拖延已久的关于scaling law的长文，讨论如何在数据和模型规模之间最优分配算力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-24",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Scaling Laws, Carefully",
+    "zh": "Scaling Laws, Carefully"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/",
+   "note": {
+    "en": "Lil'Log post examining how reliable neural scaling laws actually are and where the standard loss-versus-compute fits break down.",
+    "zh": "Lil'Log 文章，考察神经网络缩放定律究竟有多可靠，以及常用的损失—算力拟合会在哪些地方失效。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-05-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "In the past few months, we had a lot of fun (and stress 😅) to produce 12 versions (+ many subversions) and 137 pages in our training run log book. Turns out hum",
+    "zh": "In the past few months, we had a lot of fun (and stress 😅) to produce 12 versions (+ many subversions) and 137 pages in our training run log book. Turns out hum"
+   },
+   "source": "@lilianweng",
+   "url": "https://x.com/lilianweng/status/2053940822438281608",
+   "note": {
+    "en": "Weng described producing 12 versions and 137 pages of internal training-run logs, noting that human-to-human collaboration mattered as much as the technical work.",
+    "zh": "翁荔描述团队制作了12个版本、137页的内部训练日志，并指出人与人之间的协作和技术工作同样重要。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "On-policy distillation provides an elegant way to use the teacher model as a process reward model to provide dense reward while preventing SFT style \"OOD shock\"",
+    "zh": "On-policy distillation provides an elegant way to use the teacher model as a process reward model to provide dense reward while preventing SFT style \"OOD shock\""
+   },
+   "source": "@lilianweng",
+   "url": "https://x.com/lilianweng/status/1982862795961184572",
+   "note": {
+    "en": "Weng explained on-policy distillation, describing it as an elegant way to use a teacher model as a process reward model that avoids the \"OOD shock\" of standard SFT.",
+    "zh": "翁荔解释了on-policy distillation方法，认为这是一种用教师模型充当过程奖励模型、从而避免标准SFT“分布外冲击”问题的巧妙方式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "GPUs are expensive and setting up the infrastructure to make GPUs work for you properly is complex, making experimentation on cutting-edge models challenging fo",
+    "zh": "GPUs are expensive and setting up the infrastructure to make GPUs work for you properly is complex, making experimentation on cutting-edge models challenging fo"
+   },
+   "source": "@lilianweng",
+   "url": "https://x.com/lilianweng/status/1973455232341516731",
+   "note": {
+    "en": "Weng discussed the cost and complexity of GPU infrastructure for experimentation, pointing to work making cutting-edge model access easier for researchers.",
+    "zh": "翁荔谈到GPU基础设施对实验而言成本高、搭建复杂，并介绍了让研究人员更容易使用前沿模型的相关工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-09-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Besides the fun fact that Connectionism is connected with the early days of the AI field and highlights similarities between neural networks and human brains, t",
+    "zh": "Besides the fun fact that Connectionism is connected with the early days of the AI field and highlights similarities between neural networks and human brains, t"
+   },
+   "source": "@lilianweng",
+   "url": "https://x.com/lilianweng/status/1965828743152509198",
+   "note": {
+    "en": "Weng explained why Thinking Machines Lab named its blog \"Connectionism,\" tying it to the field's early history and the analogy between neural networks and the brain.",
+    "zh": "翁荔解释了Thinking Machines Lab将其博客命名为“Connectionism”的原因，将其与AI早期历史以及神经网络与大脑的类比联系起来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-07-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I still find it mysterious whether and how intelligence and capabilities transfer between domains and skills - from meta learning during early days to more rece",
+    "zh": "I still find it mysterious whether and how intelligence and capabilities transfer between domains and skills - from meta learning during early days to more rece"
+   },
+   "source": "@lilianweng",
+   "url": "https://x.com/lilianweng/status/1944507067806720430",
+   "note": {
+    "en": "Weng reflected on the open research question of how intelligence and capabilities transfer across domains, from early meta-learning work to whether solving math helps other skills.",
+    "zh": "翁荔思考了智能与能力如何跨领域迁移这一悬而未决的问题，从早期的元学习研究到解数学题是否有助于其他能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-05-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Giving your models more time to think before prediction, like via smart decoding, chain-of-thoughts reasoning, latent thoughts, etc, turns out to be quite effec",
+    "zh": "Giving your models more time to think before prediction, like via smart decoding, chain-of-thoughts reasoning, latent thoughts, etc, turns out to be quite effec"
+   },
+   "source": "@lilianweng",
+   "url": "https://x.com/lilianweng/status/1923757799198294317",
+   "note": {
+    "en": "Weng argued that giving models more inference-time compute — via smart decoding, chain-of-thought, or latent thoughts — is proving effective for the next level of intelligence.",
+    "zh": "翁荔提出，通过智能解码、思维链推理、隐式思考等方式给模型更多推理时思考时间，被证明能有效推动智能的下一个层级。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-05-01",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Why We Think",
+    "zh": "Why We Think"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2025-05-01-thinking/",
+   "note": {
+    "en": "Lil'Log survey of test-time compute and chain-of-thought, explaining why letting a model think longer before answering improves reasoning.",
+    "zh": "Lil'Log 综述测试时计算与思维链，解释为何让模型在作答前多思考一步能提升推理能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2025-02-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "This is something we have been cooking together for a few months and I'm very excited to announce it today. Thinking Machines Lab is my next adventure and I'm f",
+    "zh": "This is something we have been cooking together for a few months and I'm very excited to announce it today. Thinking Machines Lab is my next adventure and I'm f"
+   },
+   "source": "@lilianweng",
+   "url": "https://x.com/lilianweng/status/1891922794402939092",
+   "note": {
+    "en": "Weng announced she is co-founding Thinking Machines Lab, calling it her next adventure after leaving OpenAI.",
+    "zh": "翁荔宣布联合创立Thinking Machines Lab，称这是她离开OpenAI后的下一段冒险。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-12-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Diverse and Effective Red Teaming with Auto-generated Rewards and Multi-step Reinforcement Learning",
+    "zh": "Diverse and Effective Red Teaming with Auto-generated Rewards and Multi-step Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2412.18693v1",
+   "note": {
+    "en": "OpenAI paper on automated red teaming that uses auto-generated rewards and multi-step RL to produce attacks that are both diverse and effective.",
+    "zh": "OpenAI 论文，用自动生成的奖励与多步强化学习做自动化红队测试，使生成的攻击兼具多样性与有效性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-12-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "OpenAI o1 System Card",
+    "zh": "OpenAI o1 System Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2412.16720v2",
+   "note": {
+    "en": "The o1 system card, documenting the safety evaluations and risk assessment for OpenAI's first large-scale reasoning model series.",
+    "zh": "o1 系统卡，记录 OpenAI 首个大规模推理模型系列的安全评估与风险评估。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-12-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "🦃 At the end of Thanksgiving holidays, I finally finished the piece on reward hacking. Not an easy one to write, phew. Reward hacking occurs when an RL agent ex",
+    "zh": "🦃 At the end of Thanksgiving holidays, I finally finished the piece on reward hacking. Not an easy one to write, phew. Reward hacking occurs when an RL agent ex"
+   },
+   "source": "@lilianweng",
+   "url": "https://x.com/lilianweng/status/1863436864411341112",
+   "note": {
+    "en": "Weng published a piece on reward hacking, explaining how RL agents exploit flaws in reward functions or environments to achieve high reward without the intended behavior.",
+    "zh": "翁荔发表了一篇关于reward hacking的文章，解释RL智能体如何利用奖励函数或环境中的缺陷，在未达成预期行为的情况下获得高奖励。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-11-28",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Reward Hacking in Reinforcement Learning",
+    "zh": "Reward Hacking in Reinforcement Learning"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
+   "note": {
+    "en": "Lil'Log post on reward hacking, cataloguing how RL agents exploit flaws in reward functions instead of learning the intended task.",
+    "zh": "Lil'Log 关于奖励作弊的文章，梳理强化学习智能体如何钻奖励函数的漏洞，而非真正学会目标任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2024-11-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "After working at OpenAI for almost 7 years, I decide to leave. I learned so much and now I'm ready for a reset and something new. Here is the note I just shared",
+    "zh": "After working at OpenAI for almost 7 years, I decide to leave. I learned so much and now I'm ready for a reset and something new. Here is the note I just shared"
+   },
+   "source": "@lilianweng",
+   "url": "https://x.com/lilianweng/status/1855031273690984623",
+   "note": {
+    "en": "Weng announced she is leaving OpenAI after almost seven years, sharing her farewell note to the team.",
+    "zh": "翁荔宣布在OpenAI工作近七年后离职，并分享了她写给团队的告别信。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-11-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Rule Based Rewards for Language Model Safety",
+    "zh": "Rule Based Rewards for Language Model Safety"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2411.01111v1",
+   "note": {
+    "en": "OpenAI paper introducing rule-based rewards, which encode safety behaviour as explicit rules used as an RL training signal instead of collected human preference data.",
+    "zh": "OpenAI 论文提出基于规则的奖励，把安全行为写成显式规则作为强化学习训练信号，替代收集人类偏好数据。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-10-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GPT-4o System Card",
+    "zh": "GPT-4o System Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2410.21276v1",
+   "note": {
+    "en": "The GPT-4o system card, covering the capabilities and safety evaluation of OpenAI's end-to-end text, audio, image and video model.",
+    "zh": "GPT-4o 系统卡，介绍 OpenAI 端到端文本、音频、图像与视频模型的能力及安全评估。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-10-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "First-Person Fairness in Chatbots",
+    "zh": "First-Person Fairness in Chatbots"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2410.19803v2",
+   "note": {
+    "en": "OpenAI study measuring first-person fairness — whether a chatbot's answers differ by the user's own name-inferred identity — across real ChatGPT usage.",
+    "zh": "OpenAI 研究衡量“第一人称公平性”，即聊天机器人的回答是否会因用户姓名所暗示的身份而不同，并在真实 ChatGPT 使用数据上评估。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-10-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering",
+    "zh": "MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2410.07095v6",
+   "note": {
+    "en": "MLE-bench, an OpenAI benchmark of 75 Kaggle competitions that measures how well AI agents perform end-to-end machine learning engineering.",
+    "zh": "MLE-bench，OpenAI 用 75 场 Kaggle 竞赛构建的基准，衡量 AI 智能体端到端完成机器学习工程任务的能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-09-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "🍓 Finally o1 is out - our first model with general reasoning capabilities. Not only it achieves impressive results on hard, scientific tasks, but also it gets s",
+    "zh": "🍓 Finally o1 is out - our first model with general reasoning capabilities. Not only it achieves impressive results on hard, scientific tasks, but also it gets s"
+   },
+   "source": "@lilianweng",
+   "url": "https://x.com/lilianweng/status/1834346548786069647",
+   "note": {
+    "en": "Weng announced the release of o1, OpenAI's first model with general reasoning capabilities, noting gains on hard scientific tasks and safety robustness.",
+    "zh": "翁荔宣布OpenAI首款具备通用推理能力的模型o1发布，指出该模型在高难度科学任务和安全鲁棒性方面均有提升。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-08-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Iterative deployment for maximizing AI safety learning needs to be built on top of rigorous science and process. We are learning and improving through each laun",
+    "zh": "Iterative deployment for maximizing AI safety learning needs to be built on top of rigorous science and process. We are learning and improving through each laun"
+   },
+   "source": "@lilianweng",
+   "url": "https://x.com/lilianweng/status/1821800026005463404",
+   "note": {
+    "en": "Weng argued that safely deploying AI iteratively requires building on rigorous science and process, not just learning launch by launch.",
+    "zh": "翁荔认为，要安全地迭代部署AI，需要建立在严谨的科学方法和流程之上，而不仅仅是靠一次次发布来学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-07-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Rule-based rewards (RBRs) use model to provide RL signals based on a set of safety rubrics, making it easier to adapt to changing safety policies wo/ heavy depe",
+    "zh": "Rule-based rewards (RBRs) use model to provide RL signals based on a set of safety rubrics, making it easier to adapt to changing safety policies wo/ heavy depe"
+   },
+   "source": "@lilianweng",
+   "url": "https://x.com/lilianweng/status/1816164033617445240",
+   "note": {
+    "en": "Weng described rule-based rewards (RBRs), a technique using a model to generate RL signals from safety rubrics so safety policies can be updated without heavy new human data collection.",
+    "zh": "翁荔介绍了基于规则的奖励（RBR）技术：用模型根据安全准则生成强化学习信号，使安全策略无需大量新增人工数据即可更新。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-07-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Wrote about extrinsic hallucinations during the July 4th break. https://t.co/QGsRJVQUHT Here is what ChatGPT suggested as a fun tweet for the blog: 🚀 Dive into",
+    "zh": "Wrote about extrinsic hallucinations during the July 4th break. https://t.co/QGsRJVQUHT Here is what ChatGPT suggested as a fun tweet for the blog: 🚀 Dive into"
+   },
+   "source": "@lilianweng",
+   "url": "https://x.com/lilianweng/status/1810916954133385382",
+   "note": {
+    "en": "Weng published a piece on extrinsic hallucinations, examining why language models generate confident but false statements.",
+    "zh": "翁荔发表了一篇关于“外在性幻觉”的文章，探讨语言模型为何会生成看似自信却错误的陈述。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-07-07",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Extrinsic Hallucinations in LLMs",
+    "zh": "Extrinsic Hallucinations in LLMs"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2024-07-07-hallucination/",
+   "note": {
+    "en": "Lil'Log post narrowing hallucination to the extrinsic case — output unsupported by world knowledge — and reviewing how to detect and reduce it.",
+    "zh": "Lil'Log 文章将幻觉聚焦于“外在幻觉”，即与世界知识不符的输出，并综述其检测与缓解方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2024-04-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions",
+    "zh": "The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2404.13208v1",
+   "note": {
+    "en": "OpenAI paper proposing an instruction hierarchy so models privilege system instructions over untrusted user or tool input, defending against prompt injection and jailbreaks.",
+    "zh": "OpenAI 论文提出指令层级，让模型优先服从系统指令而非不可信的用户或工具输入，以抵御提示注入与越狱。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-04-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "🎨Spent some time refactoring the 2021 post on diffusion model with new content: https://t.co/GkQ5c4jXn2 ⬇️ ⬇️ ⬇️ 🎬Then another short piece on diffusion video mo",
+    "zh": "🎨Spent some time refactoring the 2021 post on diffusion model with new content: https://t.co/GkQ5c4jXn2 ⬇️ ⬇️ ⬇️ 🎬Then another short piece on diffusion video mo"
+   },
+   "source": "@lilianweng",
+   "url": "https://x.com/lilianweng/status/1779914184874160170",
+   "note": {
+    "en": "Weng refactored her widely read 2021 essay on diffusion models with new content and posted a companion piece on diffusion video models.",
+    "zh": "翁荔更新了她2021年广受阅读的扩散模型文章并加入新内容，还发布了一篇关于扩散视频模型的配套文章。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-04-12",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Diffusion Models for Video Generation",
+    "zh": "Diffusion Models for Video Generation"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2024-04-12-diffusion-video/",
+   "note": {
+    "en": "Lil'Log survey of diffusion models applied to video generation and the extra difficulties of the temporal dimension.",
+    "zh": "Lil'Log 综述用于视频生成的扩散模型，以及时间维度带来的额外难题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2024-02-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "🗣️I've been thinking about data quality &amp; human factor in the process a lot lately, so write a short post on the topic: https://t.co/onWGvdeGVP More: If you",
+    "zh": "🗣️I've been thinking about data quality &amp; human factor in the process a lot lately, so write a short post on the topic: https://t.co/onWGvdeGVP More: If you"
+   },
+   "source": "@lilianweng",
+   "url": "https://x.com/lilianweng/status/1756061720672653377",
+   "note": {
+    "en": "Weng published a short post on data quality and the human factors involved in producing it.",
+    "zh": "翁荔发表了一篇关于数据质量及其背后人为因素的短文。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-02-05",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Thinking about High-Quality Human Data",
+    "zh": "Thinking about High-Quality Human Data"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2024-02-05-human-data-quality/",
+   "note": {
+    "en": "Lil'Log post on sourcing high-quality human annotation, covering rater disagreement, wisdom-of-crowds effects and data quality control.",
+    "zh": "Lil'Log 讨论如何获取高质量人工标注，涵盖标注者分歧、群体智慧效应与数据质量控制。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2023-10-25",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Adversarial Attacks on LLMs",
+    "zh": "Adversarial Attacks on LLMs"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/",
+   "note": {
+    "en": "Lil'Log survey of adversarial attacks on LLMs, from token-level jailbreak search to human red teaming, written from her OpenAI safety work.",
+    "zh": "Lil'Log 综述针对大语言模型的对抗攻击，从 token 级越狱搜索到人工红队，源自她在 OpenAI 的安全工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2023-06-23",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "LLM Powered Autonomous Agents",
+    "zh": "LLM Powered Autonomous Agents"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2023-06-23-agent/",
+   "note": {
+    "en": "Her most widely cited post, framing LLM agents as planning plus memory plus tool use — the reference decomposition the field still quotes.",
+    "zh": "她被引用最广的一篇文章，将 LLM 智能体拆解为规划、记忆与工具调用，至今仍是业界沿用的参考框架。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2023-03-15",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Prompt Engineering",
+    "zh": "Prompt Engineering"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/",
+   "note": {
+    "en": "Lil'Log reference on prompt engineering, collecting in-context prompting methods that steer model behaviour without updating weights.",
+    "zh": "Lil'Log 的提示工程参考文章，汇总在不更新权重的前提下引导模型行为的上下文提示方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2023-03-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GPT-4 Technical Report",
+    "zh": "GPT-4 Technical Report"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2303.08774v6",
+   "note": {
+    "en": "The GPT-4 technical report, describing the large multimodal model's capabilities, exam-level performance and safety mitigations.",
+    "zh": "GPT-4 技术报告，介绍这一大型多模态模型的能力、在各类考试上的表现以及安全缓解措施。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-01-27",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "The Transformer Family Version 2.0",
+    "zh": "The Transformer Family Version 2.0"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/",
+   "note": {
+    "en": "A full rewrite of her 2020 Transformer survey, adding the architecture variants that appeared in the intervening three years.",
+    "zh": "对她 2020 年 Transformer 综述的全面重写，补入此后三年出现的各种架构变体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2023-01-10",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Large Transformer Model Inference Optimization",
+    "zh": "Large Transformer Model Inference Optimization"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2023-01-10-inference-optimization/",
+   "note": {
+    "en": "Lil'Log survey of inference optimisation for large transformers — distillation, quantisation, pruning and sparsity.",
+    "zh": "Lil'Log 综述大型 Transformer 的推理优化，涵盖蒸馏、量化、剪枝与稀疏化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2022-09-08",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Some Math behind Neural Tangent Kernel",
+    "zh": "Some Math behind Neural Tangent Kernel"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2022-09-08-ntk/",
+   "note": {
+    "en": "Lil'Log derivation of the neural tangent kernel, working through the maths of why wide networks behave like kernel regression.",
+    "zh": "Lil'Log 推导神经正切核，逐步讲清为何宽网络的训练行为近似于核回归。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2022-08-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Holistic Approach to Undesired Content Detection in the Real World",
+    "zh": "A Holistic Approach to Undesired Content Detection in the Real World"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2208.03274v2",
+   "note": {
+    "en": "The paper behind OpenAI's moderation endpoint, describing how the undesired-content classifier was built, trained and evaluated in production.",
+    "zh": "OpenAI 内容审核接口背后的论文，介绍其不良内容分类器在生产环境中的构建、训练与评估方式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-06-09",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Generalized Visual Language Models",
+    "zh": "Generalized Visual Language Models"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2022-06-09-vlm/",
+   "note": {
+    "en": "Lil'Log survey of vision-language models, covering how image encoders are fused with language models for captioning and VQA.",
+    "zh": "Lil'Log 综述视觉语言模型，讲解图像编码器如何与语言模型融合以完成图像描述与视觉问答。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2022-05-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Exploration in Deep Reinforcement Learning: A Survey",
+    "zh": "Exploration in Deep Reinforcement Learning: A Survey"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2205.00824v1",
+   "note": {
+    "en": "A survey of exploration methods in deep RL, categorising novelty rewards, goal-based, probabilistic, imitation and safe-exploration approaches; she is the OpenAI co-author.",
+    "zh": "深度强化学习探索方法综述，将新奇性奖励、目标导向、概率、模仿与安全探索等路线分类整理；她是其中来自 OpenAI 的合著者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-04-15",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Learning with not Enough Data Part 3: Data Generation",
+    "zh": "Learning with not Enough Data Part 3: Data Generation"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2022-04-15-data-gen/",
+   "note": {
+    "en": "Part 3 of her limited-data series, on generating synthetic and augmented training data.",
+    "zh": "她“数据不足时怎么办”系列的第三篇，讨论如何生成合成数据与增强数据。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2022-02-20",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Learning with not Enough Data Part 2: Active Learning",
+    "zh": "Learning with not Enough Data Part 2: Active Learning"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2022-02-20-active-learning/",
+   "note": {
+    "en": "Part 2 of her limited-data series, on active learning — spending a fixed human labelling budget where it helps most.",
+    "zh": "她“数据不足时怎么办”系列的第二篇，讲主动学习，即把有限的人工标注预算花在最有价值的样本上。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2022-01-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Text and Code Embeddings by Contrastive Pre-Training",
+    "zh": "Text and Code Embeddings by Contrastive Pre-Training"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2201.10005v1",
+   "note": {
+    "en": "OpenAI paper training general-purpose text and code embeddings by contrastive pre-training.",
+    "zh": "OpenAI 论文，用对比预训练得到通用的文本与代码嵌入。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-12-05",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Learning with not Enough Data Part 1: Semi-Supervised Learning",
+    "zh": "Learning with not Enough Data Part 1: Semi-Supervised Learning"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2021-12-05-semi-supervised/",
+   "note": {
+    "en": "Part 1 of her limited-data series, surveying semi-supervised learning approaches for scarce labels.",
+    "zh": "她“数据不足时怎么办”系列的第一篇，综述标注稀缺场景下的半监督学习方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2021-09-24",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "How to Train Really Large Models on Many GPUs?",
+    "zh": "How to Train Really Large Models on Many GPUs?"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2021-09-25-train-large/",
+   "note": {
+    "en": "Lil'Log guide to large-model parallelism — data, tensor, pipeline and expert parallelism — and the memory tricks that make them fit.",
+    "zh": "Lil'Log 关于大模型并行训练的指南，涵盖数据、张量、流水线与专家并行，以及配套的显存优化技巧。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2021-07-11",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "What are Diffusion Models?",
+    "zh": "What are Diffusion Models?"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2021-07-11-diffusion-models/",
+   "note": {
+    "en": "Her diffusion-model explainer, the write-up most researchers were pointed to when learning the forward and reverse processes.",
+    "zh": "她的扩散模型讲解文章，是多数研究者初学前向与反向过程时被推荐的入门读物。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2021-05-31",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Contrastive Representation Learning",
+    "zh": "Contrastive Representation Learning"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2021-05-31-contrastive/",
+   "note": {
+    "en": "Lil'Log survey of contrastive representation learning, covering the loss functions and negative-sampling designs behind SimCLR-era methods.",
+    "zh": "Lil'Log 综述对比表示学习，梳理 SimCLR 时期方法背后的损失函数与负样本采样设计。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2021-03-21",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Reducing Toxicity in Language Models",
+    "zh": "Reducing Toxicity in Language Models"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2021-03-21-lm-toxicity/",
+   "note": {
+    "en": "Lil'Log post on measuring and reducing toxic output in language models, an early statement of the safety agenda she later led at OpenAI.",
+    "zh": "Lil'Log 关于衡量与降低语言模型有害输出的文章，是她后来在 OpenAI 主导的安全议题的早期表述。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2021-01-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Asymmetric self-play for automatic goal discovery in robotic manipulation",
+    "zh": "Asymmetric self-play for automatic goal discovery in robotic manipulation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2101.04882v1",
+   "note": {
+    "en": "OpenAI robotics paper training one goal-conditioned policy across many manipulation tasks via asymmetric self-play between a goal-setter and a solver.",
+    "zh": "OpenAI 机器人论文，通过“出题者—解题者”之间的非对称自博弈，训练出一个可完成多种操作任务的目标条件策略。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-01-02",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Controllable Neural Text Generation",
+    "zh": "Controllable Neural Text Generation"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2021-01-02-controllable-text-generation/",
+   "note": {
+    "en": "Lil'Log survey of controllable text generation, from guided decoding to prompt and prefix tuning.",
+    "zh": "Lil'Log 综述可控文本生成，从引导式解码到提示微调与前缀微调。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2020-10-29",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "How to Build an Open-Domain Question Answering System?",
+    "zh": "How to Build an Open-Domain Question Answering System?"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2020-10-29-odqa/",
+   "note": {
+    "en": "Lil'Log walkthrough of open-domain question answering, comparing retriever-reader pipelines with closed-book generation.",
+    "zh": "Lil'Log 系统讲解开放域问答，比较“检索器+阅读器”流水线与闭卷生成两条路线。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2020-08-06",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Neural Architecture Search",
+    "zh": "Neural Architecture Search"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2020-08-06-nas/",
+   "note": {
+    "en": "Lil'Log survey of neural architecture search, covering search spaces, search strategies and one-shot weight-sharing methods.",
+    "zh": "Lil'Log 综述神经架构搜索，涵盖搜索空间、搜索策略与权重共享的 one-shot 方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2020-06-07",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Exploration Strategies in Deep Reinforcement Learning",
+    "zh": "Exploration Strategies in Deep Reinforcement Learning"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2020-06-07-exploration-drl/",
+   "note": {
+    "en": "Lil'Log survey of exploration strategies in deep RL, from count-based bonuses to curiosity and disagreement-driven methods.",
+    "zh": "Lil'Log 综述深度强化学习中的探索策略，从基于计数的奖励到好奇心驱动与分歧驱动的方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2020-04-07",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "The Transformer Family",
+    "zh": "The Transformer Family"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/",
+   "note": {
+    "en": "Her original Transformer family survey, mapping attention variants and long-context architectures as of 2020.",
+    "zh": "她最初的 Transformer 家族综述，梳理了截至 2020 年的各类注意力变体与长上下文架构。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2020-03-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Automatic Curriculum Learning For Deep RL: A Short Survey",
+    "zh": "Automatic Curriculum Learning For Deep RL: A Short Survey"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2003.04664v2",
+   "note": {
+    "en": "An IJCAI 2020 survey of automatic curriculum learning for deep RL, co-authored with the Inria Flowers group while she was at OpenAI.",
+    "zh": "发表于 IJCAI 2020 的深度强化学习自动课程学习综述，是她在 OpenAI 期间与 Inria Flowers 团队合作完成的。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-01-29",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Curriculum for Reinforcement Learning",
+    "zh": "Curriculum for Reinforcement Learning"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2020-01-29-curriculum-rl/",
+   "note": {
+    "en": "Lil'Log post on curriculum design for RL, covering task ordering, teacher-student setups and distillation-based curricula.",
+    "zh": "Lil'Log 关于强化学习课程设计的文章，涵盖任务排序、师生框架与基于蒸馏的课程方案。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2019-11-10",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Self-Supervised Representation Learning",
+    "zh": "Self-Supervised Representation Learning"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2019-11-10-self-supervised/",
+   "note": {
+    "en": "Lil'Log survey of self-supervised representation learning across images, video and language, later extended with the momentum-contrast methods.",
+    "zh": "Lil'Log 综述图像、视频与语言领域的自监督表示学习，后续又补充了动量对比一类方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2019-10-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Solving Rubik's Cube with a Robot Hand",
+    "zh": "Solving Rubik's Cube with a Robot Hand"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1910.07113v1",
+   "note": {
+    "en": "The OpenAI robotics result solving a Rubik's Cube one-handed with a real robot hand trained purely in simulation with automatic domain randomisation.",
+    "zh": "OpenAI 机器人研究成果：完全在仿真中通过自动域随机化训练，让真实机械手单手复原魔方。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-09-05",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Evolution Strategies",
+    "zh": "Evolution Strategies"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2019-09-05-evolution-strategies/",
+   "note": {
+    "en": "Lil'Log tutorial on evolution strategies as a gradient-free alternative to SGD.",
+    "zh": "Lil'Log 教程，介绍作为 SGD 无梯度替代方案的进化策略。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2019-06-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "ORRB -- OpenAI Remote Rendering Backend",
+    "zh": "ORRB -- OpenAI Remote Rendering Backend"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1906.11633v1",
+   "note": {
+    "en": "ORRB, the Unity-based remote rendering backend OpenAI built to generate randomised images for its robotics simulation stack.",
+    "zh": "ORRB，OpenAI 基于 Unity 构建的远程渲染后端，为其机器人仿真流程生成随机化图像。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-06-23",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Meta Reinforcement Learning",
+    "zh": "Meta Reinforcement Learning"
+   },
+   "source": "Lil'Log",
+   "url": "https://lilianweng.github.io/posts/2019-06-23-meta-rl/",
+   "note": {
+    "en": "Lil'Log post extending her meta-learning series to RL, covering how agents can meta-learn to adapt to new tasks.",
+    "zh": "Lil'Log 将元学习系列延伸到强化学习，讲解智能体如何通过元学习快速适应新任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2019-04-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "From GAN to WGAN",
+    "zh": "From GAN to WGAN"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1904.08994v1",
+   "note": {
+    "en": "Her single-author write-up of the maths behind GAN training instability and how Wasserstein GAN's smoother metric addresses it.",
+    "zh": "她独著的文章，讲清 GAN 训练不稳定背后的数学原理，以及 Wasserstein GAN 如何用更平滑的度量加以改善。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-08-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Learning Dexterous In-Hand Manipulation",
+    "zh": "Learning Dexterous In-Hand Manipulation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1808.00177v5",
+   "note": {
+    "en": "OpenAI's Dactyl paper, using RL and domain randomisation to learn in-hand object reorientation on a physical robot hand.",
+    "zh": "OpenAI 的 Dactyl 论文，用强化学习和域随机化让实体机械手学会手内物体翻转。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2015-05-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Attention on Weak Ties in Social and Communication Networks",
+    "zh": "Attention on Weak Ties in Social and Communication Networks"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1505.02399v2",
+   "note": {
+    "en": "PhD-era work with Menczer and Flammini testing Granovetter's weak-tie theory against interaction data from social and communication networks.",
+    "zh": "她博士期间与 Menczer、Flammini 合作的研究，用社交与通信网络的互动数据检验 Granovetter 的弱连带理论。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2014-03-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Predicting Successful Memes using Network and Community Structure",
+    "zh": "Predicting Successful Memes using Network and Community Structure"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1403.6199v2",
+   "note": {
+    "en": "ICWSM 2014 paper from her Indiana University PhD predicting which memes spread widely from their early diffusion patterns.",
+    "zh": "她在印第安纳大学读博期间发表于 ICWSM 2014 的论文，根据早期传播模式预测哪些梗会广泛扩散。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2014-02-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Topicality and Social Impact: Diverse Messages but Focused Messengers",
+    "zh": "Topicality and Social Impact: Diverse Messages but Focused Messengers"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1402.5443v1",
+   "note": {
+    "en": "PhD-era paper with Menczer asking whether Twitter users who post on focused topics gain more influence than generalists.",
+    "zh": "她博士期间与 Menczer 合作的论文，探讨在 Twitter 上专注于特定话题的用户是否比泛泛而谈者更具影响力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2013-06-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Virality Prediction and Community Structure in Social Networks",
+    "zh": "Virality Prediction and Community Structure in Social Networks"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1306.0158v2",
+   "note": {
+    "en": "Her most-cited pre-OpenAI paper, showing that community structure in a social network predicts which content goes viral.",
+    "zh": "她加入 OpenAI 之前被引用最多的论文，表明社交网络的社区结构可以预测哪些内容会病毒式传播。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2013-02-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The Role of Information Diffusion in the Evolution of Social Networks",
+    "zh": "The Role of Information Diffusion in the Evolution of Social Networks"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1302.6276v2",
+   "note": {
+    "en": "PhD-era paper showing that information diffusion, not just triadic closure, drives how social network ties form over time.",
+    "zh": "她博士期间的论文，指出社交网络连边的形成不仅源于三元闭包，信息传播本身也是重要驱动力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2012-11-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Context Visualization for Social Bookmark Management",
+    "zh": "Context Visualization for Social Bookmark Management"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1211.6799v1",
+   "note": {
+    "en": "An early Indiana University paper with Menczer presenting GalViz, a visual interface for browsing social bookmarks by context.",
+    "zh": "她在印第安纳大学与 Menczer 合作的早期论文，提出 GalViz——一个按上下文浏览社会化书签的可视化界面。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-07-29",
+   "level": "major",
+   "title": {
+    "en": "Leaves Thinking Machines Lab citing health, returns to OpenAI",
+    "zh": "因健康原因离开 Thinking Machines Lab，回归 OpenAI"
+   },
+   "body": {
+    "en": "Steps into a newly created role spearheading research into recursive self-improvement.",
+    "zh": "进入一个新设岗位，主导递归自我改进方向的研究。"
+   },
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/"
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T01:50:43Z",
+   "level": "notable",
+   "title": {
+    "en": "翁荔再发万字长文：AI自进化，从Harness开始",
+    "zh": "翁荔再发万字长文：AI自进化，从Harness开始"
+   },
+   "body": {
+    "en": "Weng published a lengthy essay on AI self-evolution starting from agent harnesses, extending her widely-read technical writing on agents and reinforcement learning.",
+    "zh": "翁荔发表万字长文，探讨AI自我进化如何从Agent Harness起步，延续她在智能体与强化学习领域广受关注的技术写作。"
+   },
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fc242QWNFQkNwdFcweThXWmN3cHRHejc5MGYyRjZuS0FRdWJBMWEwLWVWVVpvRGJCVDV1QmxrY1VnZHc1Q1hIaWNGa28zcEtJaXBSYW5lcnpSWld4S3hjUkpwWU84T3FlMGk5LXd2aTk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-19",
+   "ts": "2026-08-19T17:35:32Z",
+   "level": "major",
+   "title": {
+    "en": "离开创业公司后，翁荔或将重返 OpenAI",
+    "zh": "离开创业公司后，翁荔或将重返 OpenAI"
+   },
+   "body": {
+    "en": "After leaving her startup, Weng is reportedly poised to return to OpenAI.",
+    "zh": "据报道，翁荔在离开自己创立的创业公司后，可能重返OpenAI。"
+   },
+   "source": "麻省理工科技评论",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1od19ueVFxbzBLdlRPR3ZRdUZST25aYUhMMmV4N0JZd0RHREo1R3Q3VEFGdnk1bS1tdF9jWkdLc1NVcUpWay0tVkJuRTdadlg4UXc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-30",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Lilian Weng Departs Thinking Machines, Rejoins OpenAI to Lead AI Research Team",
+    "zh": "Lilian Weng Departs Thinking Machines, Rejoins OpenAI to Lead AI Research Team"
+   },
+   "body": {
+    "en": "Weng left Thinking Machines Lab, which she co-founded, and returned to OpenAI to lead a research team.",
+    "zh": "翁荔离开自己参与创办的 Thinking Machines Lab，重返 OpenAI 带领一个研究团队。"
+   },
+   "source": "AI Insider",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRXpNcU5FV2lyVTU5V21XTldaYVRNVkZVSnNXVUtIRVQxaHpQeG1vSVFCQ2RSdFVEWHhoRmctNThRTThLMXNVb3Ezb1ZiSl9UNDJYX0VjNjkwN3dJUW0zUjFYa3NuN19Tbk1tZDJIaUJRQ3FwRUNzRXFid2FfMVo5ZDk1bWs2SmNFempHaG9SekFYaUcyV3V5TFBNbVNXX2laWFJYMFNVZlFOajdLa1hILTJxSGFDUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-30",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Lilian Weng leaves Thinking Machines to rejoin OpenAI amid health struggles",
+    "zh": "Lilian Weng leaves Thinking Machines to rejoin OpenAI amid health struggles"
+   },
+   "body": {
+    "en": "Weng left Thinking Machines Lab, the startup she co-founded, and rejoined OpenAI in July 2026, citing health reasons for the departure.",
+    "zh": "2026 年 7 月，翁荔以健康原因离开她参与创办的 Thinking Machines Lab，重新加入 OpenAI。"
+   },
+   "source": "The American Bazaar",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0pDOWFlWjVlUnZ3YmVPWEFIemFHVXR3RmcydzlBSFJ2dFZ0ZlRHQ2U5V1RWYmd5S240S2dpS2ozNTZjcFNsOGFiZDl3TmVobnZRRlZvN0twYXNTRmVXbDFVQkdKZmFxdHlxckRRRHYzTzV2UmhMODBFandpaE5RQ2pjY3JUU3c1Wmt0U0dGWHlZMDNEMlJ1VkRjX2VmUE0?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-30",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "离职不到两天，TML联合创始人翁荔宣布重返OpenAI",
+    "zh": "离职不到两天，TML联合创始人翁荔宣布重返OpenAI"
+   },
+   "body": {
+    "en": "Weng leaves Thinking Machines Lab, which she co-founded, and returns to OpenAI within two days of her departure.",
+    "zh": "翁荔从她参与创立的 Thinking Machines Lab 离职，并在离职不到两天后宣布重返 OpenAI。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMi2wVBVV95cUxOOExwY2Y4ejV6NnlHNGM3RFJIajRDUlRsZnNzdVFzWFRKTWp6dnJlSzdYa191Y2EtaVEzSjkxR0JBMWRvRkp4djdFcW9QckNHYmNHSUd0eWJQczRKTEFSa1Buc3pBdDJrVXVjV2tyT1RCbk1lNFRJWUZ0dWwzLWpCNTVQbUpUYkFXbkc2QWNXczZZOHFzQUJaaHRCc0oxWnNTdUlYMXljTmZ3YkFpTm5xbUNYNnRPblpoT04zam96WUhLVUVkTUFKbW1kTldHcFJoUk0yT2Q5MnIxTkEtZ0RLRzdUQlRZdnFmdnVQVHNEZGt0OUUzS2RtWDlmZEtNTlNpMksxcktXU2s1dVc1R3VwZXA4cWd4d01GRlNubkkyMlI3SHoxSnhhd3pvZU9NVWlKbTdRVjBhcE13ZFFpUEZ0NFdVMjhwQ3YzRkhGdE5vbkRxYXZ6NnZRajMwVk5lNVkwR2w4NUd0NWhLaTF6UE1yaUw3S1BLVHJTU1BqR0QtaVJlQ1NsUVlwUEQ4cHFRbHA2MU94UHFHbnBCRTg1LUZHTHh6dk1zdk44QlhWV0cxVEQ5SGlPSUJGVlBBVzlpMjhId0RXRDhrTVdrb29CQXNxb3hUN2o4ZXppdnUwd050UUluMm1LczZLaHAzSThDaldWM0RvbGF1OTlXQ3NyeDZwZm5lQ0dBZmlabk9WVDhfU0lhZTRBa0xLM3FrVlJyRFdoZ2FGVFBpbXZad0M2Mkx2amFvREJ6UVE2MmZuWkVWZUVPaE5QU2JiWVc3LVNMdzc4cXdVYkxrVEh1VlNPdE40Smgway15RE1hUDFjaWRZdWxXYkNGSlp5a1NrQnJONk9tdGo2Ym94Y2dja3Bma3NTU0RjRzdOOFhRSWNrYm5zN0lKbzlpUXpUWWhTU1FuNVFyd3RhdC1wdFIzWTdmWEtOcnlIcExwcnJ2bUJMMFJzVFJoZXZhaUYwQVRYSQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-30",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "离职不到两天，TML联合创始人翁荔宣布重返OpenAI",
+    "zh": "离职不到两天，TML联合创始人翁荔宣布重返OpenAI"
+   },
+   "body": {
+    "en": "Less than two days after leaving Thinking Machines Lab, Weng announced she is returning to OpenAI.",
+    "zh": "翁荔在离开Thinking Machines Lab不到两天后，宣布重返OpenAI。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMiuwVBVV95cUxPd2h5bzhRQ3U5dnI4RlBSZGpQeERLSFh1Yzd2YnBLZkVsc2pSRko2NkpfTzFOX0w0eS1jUHdGTTlPajlrblR1eTNQa1A4bXo1WTZlSk1kMzNhM1huUVhPWjR3SmV1bjc1eWhRZWgwcWF2YnMtMk84eGk5eDB0bkxReFBHQ1VlbjBkZFVPSmhCSUFPZVVfVHE2WllzQ2dpckUxV0hmcWFROGRfOVFhVlcwVjdheXRMOVgwQmRMU0FYQXZqMTh2emFPLUNwQzZFODV1SXl2djlzODJOYmtpWE5jbU1MQmMzVWV6RTBoamtDQWNRZDJnb2NUaUhmT0RNRGV6RHFaeXJ0VEdWdnZnZXR1c2QwYkg1dE4yS25YRzJUNWh5LXA1Y0VkU0ZXMW9feGxLby15RzFTWnhLbzRtekY5RjBQSlJUUHFWekxWXzJTRjJSQy1Wb21RREpuMXNWM0UyTWdBRlB0R293aVIzZHYtTWg2aWhibHk0OGVWOFZ5cVdVSkpaWUREMWlCODFad3JrSk9OLUNUYXVTVEc2WVdsX05xS3cxMVVSR2pjZmx6NXR6R3ItN1dIQk9UMU5Dd3hhRzAzdjA3RWtVUzZsalFVRjczeVFyU0VYSFBpM0RNRVlnQzdNdjJENXVKN0RHRGJyUXU2QkRiV3lfbFRMYUpDZUs0NjRtOUtlMXB1c2taRXQwbXgyWDkwZWNGQ0lySURRdmtXanpVU3pCNFFzNGgtQWU4cEloeF9DcVQ1V2ZsVnk1Sy10bFdoXy1YWHphekFvd0hHUzhnVWo5RlQ0d0RfV1pHZXkyMU1QejNwWXZUbWZnRkdzWjRKQUx3UlVyWmdFVkY4cUNlUXFuUlVGYkxjZ3U0YnprUngyaDg1LWF6WS0tVk1RZ0ZuTzBOZTRsd25DWTdubEs0ekZJN0E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-30",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Lilian Weng leaves Thinking Machines Lab to return to OpenAI",
+    "zh": "Lilian Weng leaves Thinking Machines Lab to return to OpenAI"
+   },
+   "body": {
+    "en": "Lilian Weng left Thinking Machines Lab, where she was a co-founder, and returned to OpenAI.",
+    "zh": "翁荔离开了她联合创立的Thinking Machines Lab，重新加入OpenAI。"
+   },
+   "source": "NewsBytes",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQmFqZDBGNXFYLXBXejJkU0xROHpJSmd3MldkeHZaaGJKSGh0Zm9ydTRXWUVONUY5aGE3ZzBJRTNfT1AtdnlmTlJXaWhoYVBic3ZORU4xb05SZmVHZW9MeUN4enpxLTYyWFUwRXpVOF9BNWlHOFlFUnQ3ekExT3hjXzBJOWJmSGlzRUtnN0lacWxTRkFscU0xaHRWTDl6RmJCMTVlVVZuTWc2T0Q2?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-30",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "突发！北大校友翁荔入职OpenAI",
+    "zh": "突发！北大校友翁荔入职OpenAI"
+   },
+   "body": {
+    "en": "Lilian Weng returned to OpenAI just two days after leaving the startup she had co-founded, reversing her July departure.",
+    "zh": "翁荔在离开自己联合创立的创业公司仅两天后又重返OpenAI，逆转了她七月份的离职决定。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMTd4R0RrYWxjVENFaU45RmxTNjBnZ3o3XzFJQXZTQXRkNm5Fd3lzMWZ4VkJ1VGtEV0R6X3lCeDBJaVdGc0pvd1Y2RXFSN1hhNF9rZ3lyUEt2cnlucW9JZzZOSVlDWE80SUsxQUJaZXJKTGFNVVV2OHhiaU9pVzBPanVVM3ZNNGs?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-30",
+   "ts": "2026-07-30T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Lilian Weng reportedly joins OpenAI after leaving Thinking Machines - Межа. Новини України.",
+    "zh": "Lilian Weng reportedly joins OpenAI after leaving Thinking Machines - Межа. Новини України."
+   },
+   "body": {
+    "en": "Lilian Weng reportedly returned to OpenAI after a stint at Thinking Machines Lab, a notable reversal in her career trajectory.",
+    "zh": "据报道翁荔在Thinking Machines Lab短暂任职后重新回到OpenAI，是她职业轨迹上的一次引人注目的转折。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zVjFVaFVBNmxGNXdvNlUyWHYtNlFRWERXTDJqcnNJcUJpb0tMV2tpUkNoUTdHdUFBUld3Y3FCcFl2S1djM2ZDYlJDcEx2M2hlbkZCSmlPNmlla1JyMHNKTmhjRVYwc3ZpNEZV?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-30",
+   "ts": "2026-07-30T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "翁荔回归OpenAI 英伟达押注Ilya AI大牛全力推进「AI造AI」",
+    "zh": "翁荔回归OpenAI 英伟达押注Ilya AI大牛全力推进「AI造AI」"
+   },
+   "body": {
+    "en": "Weng has returned to OpenAI after previously leaving, as the company pushes forward on 'AI building AI.'",
+    "zh": "翁荔在此前离职后已回归OpenAI，公司正全力推进\"AI造AI\"。"
+   },
+   "source": "eu.36kr.com",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RT3JXS055bmFuMXlrcGlSSm9pRElLQVVreVlRZDZKR3o4WGtYTGxMVW1FbU03djFfMjhKUFZEZklHbzdjOHJ6N0tDX2YzRWNEVXJZ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-30",
+   "ts": "2026-07-30T04:19:14Z",
+   "level": "major",
+   "title": {
+    "en": "离职不到两天，TML联合创始人翁荔宣布重返OpenAI",
+    "zh": "离职不到两天，TML联合创始人翁荔宣布重返OpenAI"
+   },
+   "body": {
+    "en": "Weng announced she is returning to OpenAI less than two days after leaving to co-found TML, reversing her departure almost as soon as it happened.",
+    "zh": "翁荔在离职联合创办TML后不到两天，便宣布重返OpenAI，几乎是在离职的同时又收回了这一决定。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORTI5SENPNnMzczhqWFFKa25QWjM4ZjRzNHI3X25WUzB5ZFBZLTFJUlA3aDJzMWRZUTR5YWtOZERqTzA2TW84SnZQcktZTVFaa3lSNXRQck1zWVJZQlh6dTMydUdDWlJxZUdaU2p4WlVSb0ZCRV8wQU5xeTROaGFldHlmNXF2ZWV4TDVrWQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-30",
+   "ts": "2026-07-30T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "翁荔被爆重返OpenAI！24小时前，刚因身体原因从Thinking Machines Lab离职",
+    "zh": "翁荔被爆重返OpenAI！24小时前，刚因身体原因从Thinking Machines Lab离职"
+   },
+   "body": {
+    "en": "Lilian Weng was reported to be returning to OpenAI, just a day after leaving Thinking Machines Lab for health reasons.",
+    "zh": "有报道称翁荔在因身体原因从Thinking Machines Lab离职仅24小时后即将重返OpenAI。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5INnNlTW92Q21GNDJoTnk0NkM2ZElScDluZ211RFl6WkxzUE05ZWJkSjJrMmhaN0gzZ184SFdMb1BBU1htLWItYk9BQWplejB1d196LWNB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-29",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "刚刚，北大才女翁荔官宣离职！",
+    "zh": "刚刚，北大才女翁荔官宣离职！"
+   },
+   "body": {
+    "en": "Lilian Weng publicly announced her departure, ending her tenure leading OpenAI's safety/self-improvement research — a major role change that should trigger a registry recheck.",
+    "zh": "翁荔正式宣布离职，结束了她在OpenAI负责安全/自我提升研究方向的任期——这是一次重大的职位变动，需要重新核查其注册信息。"
+   },
+   "source": "智源社区",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE83NnNQWHR1TDR6c1R2cHloc2NNUWRtZ19zNUphOVQwQUl6YUEwVFB1M2RDOTBJX2xsWWRpZXRNZU40SGc4UC14ZQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-29",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Lilian Weng flips from Thinking Machines to OpenAI after saying the startup's pace hurt her health",
+    "zh": "Lilian Weng flips from Thinking Machines to OpenAI after saying the startup's pace hurt her health"
+   },
+   "body": {
+    "en": "Lilian Weng left Thinking Machines Lab and rejoined OpenAI to work on recursive self-improvement research, reversing her earlier departure.",
+    "zh": "翁荔离开Thinking Machines Lab，重新加入OpenAI，转向递归自我改进研究，逆转了此前离职的决定。"
+   },
+   "source": "Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZWdnSFdUQ1p3Uko5VVFVRlN2c2g5WHFESENqRXpwZFNNbTJjaUFnZE1oSTFxWUctX2wyYjJGVmROeVZ3S29ibXN3eWhHOHlaaTdLQWg0blFRZlNDTG1ZeVdzWjhpVmFKSWlrcnFxd0JpcGZHYWhDTHk3WFlIRE1kb21wVHphV01SUzdwd2xSLXFvbmZ6WFpTYUxkZjBVYjRadEs4bEFVNGVNYnI0b2dsRXN2dmR3YnlXR0FtODRrSkJOMlR0SXZuWA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-29",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Thinking Machines Cofounder Lilian Weng To Return To OpenAI - The Information",
+    "zh": "Thinking Machines Cofounder Lilian Weng To Return To OpenAI - The Information"
+   },
+   "body": {
+    "en": "Weng is reported to be returning to OpenAI after co-founding Thinking Machines Lab, a major reversal in her career path.",
+    "zh": "有报道称翁荔在联合创立Thinking Machines Lab后即将重返OpenAI，是她职业轨迹上的重大转折。"
+   },
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMmpRVHJVb21NeGFZemVjME9lTXlwcHdJcV80OXl4aE9jZ0ZXQU5ZaTlORk4yMFJHYngyMmFMWkpMVG4xajRXNGRhaDBobXR0U3FnSmdYd1ZoR2xocjAxZGpaQ3VYZmVPVElNdGJtUU9scGs4eGUxMjJla2xJc0JPZjJYT1BxcHZrWFdnYjA2MU9YRlFqRkJGcmhaMUdUOXE3STRneGV3OGp5amRGVlZtNmdyLVh6NXBsaGRkdUhLZ1NYZ29RcWd5Zmx5QkFKTHB5Y1RoNTJCdkFOOE1MR2c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-29",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Thinking Machines Co-Founder Lilian Weng Departs Citing Health, Then Joins OpenAI",
+    "zh": "Thinking Machines Co-Founder Lilian Weng Departs Citing Health, Then Joins OpenAI"
+   },
+   "body": {
+    "en": "Weng left Thinking Machines citing health reasons, then rejoined OpenAI just two days later.",
+    "zh": "翁荔因健康原因离开Thinking Machines，仅两天后又重新加入OpenAI。"
+   },
+   "source": "CryptoRank",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcjVjWDlLSjFpZklWTEh0VE1PV1U3dXp6bnZTOFFpSmhiU19FOHJ4ZFNRTnl0anJXNGNPRWZxQ3NCbl9ucmhYQlVwcXFQeUVkaXp2QllOUFhUNHQ5WHpNdmZGemwxd0pvZ3FYZXJ0ZTJUbURJeEdmQU82b3FIclJpUFZKeVBzaDRZ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-29",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Lilian Weng flips from Thinking Machines to OpenAI after saying the startup's pace hurt her health",
+    "zh": "Lilian Weng flips from Thinking Machines to OpenAI after saying the startup's pace hurt her health"
+   },
+   "body": {
+    "en": "Lilian Weng left Thinking Machines Lab and returned to OpenAI, saying the startup's pace had hurt her health.",
+    "zh": "翁荔离开Thinking Machines Lab重返OpenAI，称初创公司的高强度节奏损害了她的健康。"
+   },
+   "source": "LinkedIn",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ0hMdUdwMDVvdVN6eHZGaV8zN1BfQjBtem1ERVNPU21qbUt1cjJPYkdnVHJuRzFoZ1l1VEJsT2ppdzFUUFRIRnV4RGs4LVd3TVZ3Rm5Sdm1TTFcwSERqZ3dXMy01UXdoZ0dOOEU4Q3IwYmVFQjFoTVU2Yl9PWW1oYkR4VUJmRVl0RGREbHFYT2d5eHlYVlFOYmFiQ0M5LXhJbDI0ZWY0b3pWNktsS2cybzBHNXZacGhTV0J6TFhB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-29",
+   "ts": "2026-07-29T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "翁荔被爆重返OpenAI，24小时前，刚因身体原因从Thinking Machines Lab离职",
+    "zh": "翁荔被爆重返OpenAI，24小时前，刚因身体原因从Thinking Machines Lab离职"
+   },
+   "body": {
+    "en": "Lilian Weng reportedly left Thinking Machines Lab for health reasons and returned to OpenAI within 24 hours, a fast reversal in her post-OpenAI career.",
+    "zh": "据报道，翁荔因身体原因从Thinking Machines Lab离职，24小时内即重返OpenAI，职业动向出现罕见反转。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXTmh0NzRDenhCZjdVTFpFMjJ0S2Zjdm1EV2ZhbWEzdzZuT24xeHZtQjNMaU1EMWpBams3VEN1TEhRd013VGNkNVJtaXg0dw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-29",
+   "ts": "2026-07-29T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+    "zh": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI"
+   },
+   "body": {
+    "en": "Lilian Weng left Thinking Machines Lab, citing health reasons, and returned to OpenAI.",
+    "zh": "翁荔因健康原因离开 Thinking Machines Lab，随后重新加入 OpenAI。"
+   },
+   "source": "finance.yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSTZMb0xfbFNhNGsxTUJOQmdpTDdKdG93VEVVa2ZhR2pweWpMODc0V2lOX2twRnV0VVJPaVZVZ1RVVUZGcHYtdW4xc3hva24wTUlISEVCZWYzbFpyaVVxSlNWY1NnQVgzQWZVZEM1ajJiNnE1dHRqdnB5b01lbl9ndVAwajdGSzUwV1ROWm00bE94OG0yWDdEZE9ycFBrbnoz?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-29",
+   "ts": "2026-07-29T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Lilian Weng Leaves Thinking Machines for OpenAI",
+    "zh": "Lilian Weng Leaves Thinking Machines for OpenAI"
+   },
+   "body": {
+    "en": "Lilian Weng left Thinking Machines Lab to return to OpenAI.",
+    "zh": "翁荔离开Thinking Machines Lab，重返OpenAI。"
+   },
+   "source": "Brief IA",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRUJ1MWFjOHQ5bU9idDNjSWtGZV85T0NLWmRWamhsR25XbDRVOTBSQm5lZnFSdUp0NjU2cEtRbzNOTTZzbDZpZTNPelZLZGNucGllamhER2lRYmxpdFBwVC13anRHaWl6c0JxQ1c0aWRoWmczejdYUGZxMHVHcG0ySEROOF9XekFKVHc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-28",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "突发，翁荔官宣离职！穆拉蒂的创始团队仅剩两人",
+    "zh": "突发，翁荔官宣离职！穆拉蒂的创始团队仅剩两人"
+   },
+   "body": {
+    "en": "Chinese media reported that after Weng's departure from Thinking Machines Lab, Mira Murati's original founding team there is down to just two people.",
+    "zh": "中文媒体报道，翁荔离职后，穆拉蒂最初的Thinking Machines Lab创始团队仅剩两人。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjMWRyV1g4MFFCNFp0eWxlS3RsSnBOZ011cmU2YWxvOWItVDM4YU5rN3FhRGNFbHNtU3p6dGdMdks0QTd0YWUwa2stZFU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-28",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "翁荔宣布离开Thinking Machines，因健康原因卸任联合创始人",
+    "zh": "翁荔宣布离开Thinking Machines，因健康原因卸任联合创始人"
+   },
+   "body": {
+    "en": "Lilian Weng announced she is stepping down as co-founder of Thinking Machines Lab for health reasons.",
+    "zh": "翁荔宣布因健康原因卸任Thinking Machines联合创始人一职，离开公司。"
+   },
+   "source": "品玩",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1KZUNfRFdZQUhlSlc3VkthV3RwOE4zTXliZFVid0xBWm1TdUFPQVQtdXZVci1vMGt2SjdhY3YxRjFHcDNnNWNhWg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-28",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "OpenAI前研究与安全副总裁 北大才女翁荔因身体透支官宣离职",
+    "zh": "OpenAI前研究与安全副总裁 北大才女翁荔因身体透支官宣离职"
+   },
+   "body": {
+    "en": "Weng, OpenAI's former VP of research and safety, publicly announced she was leaving Thinking Machines Lab, citing physical exhaustion.",
+    "zh": "翁荔，OpenAI前研究与安全副总裁，公开宣布因身体透支离职Thinking Machines Lab。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTa2dkdll2Nml4VldyOHZwVW1TOGdJTnpoZkJtbUl0NkVieTJYOGkxcnlrM0Q3M09FcGtuMkpxNHNhbEdTTEEzTUN1TWNobTgzSmdWakI2Z1diZC1pV0dEZjgydTBiaHhvRXdfTFNIYzRxRW9ZbEtBOGo1MVprRm8?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-28",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "突发，翁荔官宣离职！穆拉蒂的创始团队仅剩两人",
+    "zh": "突发，翁荔官宣离职！穆拉蒂的创始团队仅剩两人"
+   },
+   "body": {
+    "en": "Lilian Weng announced her departure from Mira Murati's Thinking Machines Lab, leaving the startup's founding team down to just two people.",
+    "zh": "翁荔宣布离开穆拉蒂创立的Thinking Machines Lab，该公司的创始团队目前仅剩两人。"
+   },
+   "source": "智东西",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Ga1h2ZGRaanJwWjlvMzNQTnlGM3M4UkoyeXZwM28wOHExMW14VnlwTTFRTU5Udjh5S3JYN3BRd2lNUy1tSWxLSA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-28",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "OpenAI前研究与安全副总裁 北大才女翁荔因身体透支官宣离职",
+    "zh": "OpenAI前研究与安全副总裁 北大才女翁荔因身体透支官宣离职"
+   },
+   "body": {
+    "en": "Lilian Weng, OpenAI's former VP of Research and Safety, announced her departure from OpenAI, citing burnout.",
+    "zh": "翁荔，OpenAI前研究与安全副总裁，以身体透支为由宣布离职。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zUWQ1ZGo1TkhWVGhwbEZSYmRXSC1tc09mdDRST0dXQncydDQ4UTVEZGVOeVd6V0VsWWZOdmtPT2lvQ2RWemExeXNOLTRfTVNKSHItOVE2aXEyNmdHMkFqTmdadXlmVS1MSFBCbW83ZF90X0hWWDJsSkpWc1o?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-28",
+   "ts": "2026-07-28T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "北大校友翁荔官宣离职，AI时代最好的“对齐”是照顾好自己",
+    "zh": "北大校友翁荔官宣离职，AI时代最好的“对齐”是照顾好自己"
+   },
+   "body": {
+    "en": "Lilian Weng announced she is stepping down from her role at OpenAI, saying the best 'alignment' in the AI era is taking care of yourself.",
+    "zh": "翁荔宣布卸任在OpenAI的职位，她表示AI时代最好的“对齐”是照顾好自己。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdjJEWjJWN3o2YU9ueGVuaE9RQXYzOGgxVzViVVhIaXM4N2xnMFM4Ukk4LUJVSmNGX251bkZNY01aR016bVd6MGRDRmZtY29OSWpSRWUyOFFqZUdnSkNkNF9nemNXREY4WkY1UzZCNE0wSnVTRFRycHhZNDk5cnFBckRHR1hJX1RP?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-28",
+   "ts": "2026-07-28T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "突发，翁荔官宣离职！穆拉蒂的创始团队仅剩两人",
+    "zh": "突发，翁荔官宣离职！穆拉蒂的创始团队仅剩两人"
+   },
+   "body": {
+    "en": "Lilian Weng officially announced her departure, leaving only two people on Mira Murati's founding team.",
+    "zh": "翁荔正式宣布离职，穆拉蒂的创始团队仅剩两人。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWFdIUmV4bXVGR2hvbVFnZmdnZlhzSnRlYTQ4VGJTMXF2em80Wl9xWEtMM2RHcmpoZ3VyTnJMeXZ3czUwVTY3VDdQN3dtNlRBVGN6WjQ2d3M1ZGZnMmlXcFhjbUpDZU91cmVFWWl2b0Mzd2llVnBIQ09PNjFFUUpXVE1ackRxakZrMy1J?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-28",
+   "ts": "2026-07-28T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "突发！因身体透支，翁荔官宣离开Thinking Machines Lab_手机新浪网",
+    "zh": "突发！因身体透支，翁荔官宣离开Thinking Machines Lab_手机新浪网"
+   },
+   "body": {
+    "en": "Weng announced she is leaving Thinking Machines Lab, citing physical exhaustion — a departure the registry had not yet caught up with.",
+    "zh": "翁荔宣布因身体透支离开Thinking Machines Lab，这一职业变动此前尚未被收录更新。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ma3NmZHMzVWpzLVN6SGxWeXg0UjE1Q0NnMzNmZWNBa1VjZ014UDdjbXBzYVVnM0JqTEtGc2wxcDBzWGZyV3ZTNWZzRTR0MW1PckZzTmxwdjEzSm9ZakR1S3JTTzlmcjVQbG9NZ0UzX2VGNi1ueWJ6ZXVLY1NYMDQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-28",
+   "ts": "2026-07-28T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "What smart people are saying about Lilian Weng's departure from Thinking Machines Lab",
+    "zh": "What smart people are saying about Lilian Weng's departure from Thinking Machines Lab"
+   },
+   "body": {
+    "en": "Coverage of Lilian Weng's departure from Thinking Machines Lab, marking another move after leaving OpenAI's safety systems team.",
+    "zh": "报道了翁荔从Thinking Machines Lab离职的消息，这是她离开OpenAI安全系统团队后的又一次职业变动。"
+   },
+   "source": "Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYldRRncwaW5Gd3VvNUJDbFB3U1JVdjlTOGJ2Z3N4QmVfN3dpRUhEdVJsa29peHFUeGs1aGJrWGZxRW9yNlhFQXAtU2xpQXJvS0FUb2hKUXVxUUh5WkNXM1NxNVl0bEMweVRBbEhicnFHa2pSSEh4WE5nWHFKTExKYlJ4bDB3Q21CeG1FSzZveEtCYkdvLUNQSnZBeFIteUs5R3pxZkxwVVNfLVY2TW9aRF82TktlaEFWZTJreEFYMmc3WTFsN3pYNWhMQTJNYjdL?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-28",
+   "ts": "2026-07-28T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "突发，翁荔官宣离职！穆拉蒂的创始团队仅剩两人",
+    "zh": "突发，翁荔官宣离职！穆拉蒂的创始团队仅剩两人"
+   },
+   "body": {
+    "en": "Weng is reported to be leaving Mira Murati's Thinking Machines Lab, a departure that the report says leaves the startup's founding team with only two remaining members.",
+    "zh": "报道称翁荔即将离开由穆拉蒂创立的Thinking Machines Lab，她的离职使该创业公司的创始团队仅剩两人。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxWUZzeFRXNkg4NGozU3pFV0N3WHduT2JVYkJ2S1k4M0s4X1gxTHhBbUpJNnQ1QTBPa2VSU2NVOXd2U2xiWnM3ZDR3UjNYeFJiRlE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-15",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "翁荔长文谈Harness自进化：Agent越用越强，评测难点怎么破？",
+    "zh": "翁荔长文谈Harness自进化：Agent越用越强，评测难点怎么破？"
+   },
+   "body": {
+    "en": "Weng published a long essay on harness self-evolution, arguing agents get stronger with use and discussing why evaluation remains hard.",
+    "zh": "翁荔发表长文探讨Harness自进化，认为智能体会越用越强，并讨论评测难题为何依然存在。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOenZvRENfdlpIU2NQZW81dmMyWVdIVmduMTNSQUxrODBrbDA1ZHJjWWFvclFEbUVDWWhMTDhWNGFhY0lDUG1uQ042NUlkMGUzbVZMZmdIUzgzT25YbElMb1ZMNVBHdDI4MUVXOUFOM3poS21Oc1daZGg1OGI2RHRZRnhZWUFVWVll?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-08",
+   "ts": "2026-07-08T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "翁荔新博客提出「自进化先从Harness开始」，DeepSeek崔添翼转发附议",
+    "zh": "翁荔新博客提出「自进化先从Harness开始」，DeepSeek崔添翼转发附议"
+   },
+   "body": {
+    "en": "Lilian Weng published a new blog post arguing that self-evolution in AI agents should start with the harness, drawing a public repost of agreement from DeepSeek's Cui Tianyi.",
+    "zh": "翁荔发表新博客，主张AI智能体的自我进化应从Harness入手，DeepSeek的崔添翼转发表示赞同。"
+   },
+   "source": "腾讯新闻",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vQjJjR0MyUFJaWl9KVWw0UW1hNm40THRHVnJiYWhyVUdPTkdJb2FGb1RheTdJT3VObzdnWEVlVWJVTnBLdHlmeXJkVjhxcFhhT2FrU1V3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-08",
+   "ts": "2026-07-08T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "翁荔新博客提出「自进化先从Harness开始」，DeepSeek崔添翼转发附议- 产业链",
+    "zh": "翁荔新博客提出「自进化先从Harness开始」，DeepSeek崔添翼转发附议- 产业链"
+   },
+   "body": {
+    "en": "Weng's new blog post argues that self-evolving AI should start from the harness/scaffolding layer, drawing an approving repost from DeepSeek researcher Cui Tianyi — a research idea gaining traction.",
+    "zh": "翁荔新博客提出「自进化应从Harness（脚手架层）入手」的观点，获得DeepSeek研究员崔添翼转发附议，显示该研究观点正获得关注。"
+   },
+   "source": "光通信Pro",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYd3ZmOVczczBwV3QxRE5RRUhUbFdoRDlRaFlOaGtJR0thcjB4bHowNDZ6OFVQZ005UHdCS3hYaTBES1RubjAzdlkybTRSRWxrYnNEaDBB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-26",
+   "ts": "2026-06-26T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "刚刚，翁荔博客上新：谨慎对待Scaling Law",
+    "zh": "刚刚，翁荔博客上新：谨慎对待Scaling Law"
+   },
+   "body": {
+    "en": "Weng's blog argued for caution in relying on scaling laws, a technical stance widely read in the open-model research community.",
+    "zh": "翁荔在博客中提出应谨慎对待Scaling Law（规模定律），这一技术立场在开放模型研究圈内被广泛关注。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91NExVeGlsUW4xQ3d4N0xVM29rV3BLWWpFQXg5RGI5bm9fT2dPaE1IOVoyd0tSME93WHJYNTg1WHdGNFNZQXE2QjdEVk9LaUdZVWc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-26",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "翁荔拆解Scaling Laws_新浪新闻",
+    "zh": "翁荔拆解Scaling Laws_新浪新闻"
+   },
+   "body": {
+    "en": "Lilian Weng published a long-form analysis of scaling laws on her blog after a three-year hiatus, which drew wide attention online.",
+    "zh": "翁荔时隔三年再更新博客，发表了一篇关于Scaling Laws的长文解读，引发广泛关注。"
+   },
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoVHdxSGU4YnNSLURVR29CeVFQQXFydDB5eTNpWjgyQ1gzT2lyOTJGT19hNHc5cVIzZzhhWHBCNkNuRkVORXZZNTI1bUVhVUtHLWdZTDVVUjJiZnRtZHU0Q2FkWQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-26",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "拖更三年，北大校友翁荔最新长文刷屏！",
+    "zh": "拖更三年，北大校友翁荔最新长文刷屏！"
+   },
+   "body": {
+    "en": "Lilian Weng published a new long-form essay after roughly three years without a public write-up, and it went viral in Chinese tech media.",
+    "zh": "翁荔时隔约三年再次发布长文，该文章在中文科技媒体圈引发刷屏式关注。"
+   },
+   "source": "thepaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WM3E0LVpUa21pODZKZUNhcWM5aTBaTHQxRF9QZmJCcjZaMWFRXzhrS3JxNUQzVEhIUWxzR0tLZE5Gd01WdUdhN3JFLWJpOUNvSWhHLTZ5OTBLY2x6NWc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-26",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "刚刚，翁荔博客上新：谨慎对待Scaling Law",
+    "zh": "刚刚，翁荔博客上新：谨慎对待Scaling Law"
+   },
+   "body": {
+    "en": "Weng published a new Lil'Log post urging caution about scaling laws, a notable technical stance from a researcher whose write-ups are widely read.",
+    "zh": "翁荔在Lil'Log发表新文章，呼吁对Scaling Law保持谨慎态度——这是一位广受关注的研究者给出的值得注意的技术立场。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HaWx2azNwTjQxbG9rc3RaZEJXWGlyRGtoZmw1bjE3aHJxSlNXN2FGbDBUZURybkJYYzhtSWZhVS1vZXM4RmY0Q19RYzQ3dHpBMVByNHMxU3dsdEp6Z2x6Y3dJNy1sdnpkMkZGR1RORnJJM3ZaVXdCTVluVUc0em8?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-25",
+   "ts": "2026-06-25T13:41:00Z",
+   "level": "notable",
+   "title": {
+    "en": "拖更三年！北大校友翁荔最新长文火爆刷屏",
+    "zh": "拖更三年！北大校友翁荔最新长文火爆刷屏"
+   },
+   "body": {
+    "en": "After three years without an update, Lilian Weng published a new long-form post on her blog that went viral in China.",
+    "zh": "翁荔时隔三年更新博客，发布的最新长文在中国社交网络上引发热议。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0QWxTaVF5eXpzYkNsNnhzUHl4emtPaE5zdjdZQjZ1M055a3FEWW1BMG5ueFVvR2RkNExLVlVJenE3VnFOZU5COHk3bHROU3FBN29z?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-13",
+   "ts": "2026-05-13T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "翁荔创业大模型首秀！告别“120亿美元估值0模型”",
+    "zh": "翁荔创业大模型首秀！告别“120亿美元估值0模型”"
+   },
+   "body": {
+    "en": "Weng's startup unveiled its first large model, ending months of scrutiny over a $12B valuation with no shipped product.",
+    "zh": "翁荔创立的公司首次发布其大模型产品，结束了外界对其\"120亿美元估值却无产品\"的质疑。"
+   },
+   "source": "智源社区",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wS3FNSnZSTHVSelF6emF0bGRDYklRNzZpVTV3N2hwTkVRQVdOc3F4UGxrSDBXWFlOcnBsTld1Z3JFTVhZcDRiNw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-12",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "刚刚，Thinking Machines出手！首款交互模型来了，翁荔出镜实测_手机新浪网",
+    "zh": "刚刚，Thinking Machines出手！首款交互模型来了，翁荔出镜实测_手机新浪网"
+   },
+   "body": {
+    "en": "Thinking Machines Lab launched its first interactive model, with Lilian Weng appearing on camera to demo it herself.",
+    "zh": "Thinking Machines Lab发布了首款交互模型，翁荔亲自出镜进行了实测演示。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnSzE3dUtzT2lUWUlzQzlTck5sbGc5Vm4tMGlndENqOEdDTWVYM2ZTMmk3NEZ3QVktVjk5NndPMFFfQ2F5N29JWENwUG1yM1dEYXFJb0doQmNDdXJ2clpGS3FoNDBzZFA3dFdILVZFV2x3THhXUnpDbjU0Z3lJUkU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-12",
+   "ts": "2026-05-12T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "刚刚，Thinking Machines出手！首款交互模型来了，翁荔出镜实测",
+    "zh": "刚刚，Thinking Machines出手！首款交互模型来了，翁荔出镜实测"
+   },
+   "body": {
+    "en": "Lilian Weng appeared in a hands-on demo testing Thinking Machines' newly released interactive model.",
+    "zh": "翁荔出镜参与了Thinking Machines新发布交互模型的实测演示。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81VFBJQUlwaWFsUG1uODdMbl9WZGtXMERTLXJQRjNzM3ZXdmU2VURWOTduUGc1bEJwbDVvVzcyUzM2bWM1YmcwOWZpLUVzN19WOTMwRVE0aE5vLWtWTExvWlVrWHJzQ01INzlmU29sMnRWeGk2TnFBd2VkZ1hrT0U?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-12",
+   "ts": "2026-05-12T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "翁荔创业大模型首秀！告别「120亿美元估值0模型」",
+    "zh": "翁荔创业大模型首秀！告别「120亿美元估值0模型」"
+   },
+   "body": {
+    "en": "Thinking Machines Lab, the startup Weng co-founded with Mira Murati, shipped its first model, ending more than a year at a $12B valuation with no public product.",
+    "zh": "翁荔与Mira Murati共同创立的Thinking Machines Lab发布首个大模型，结束了该公司估值120亿美元却始终没有产品发布的局面。"
+   },
+   "source": "鞭牛士",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pRmxtYjVWMHVjUFdGRi1TMVYyUVptdkUweE9CbElNdjkyYlBJVFpjZDg0WGxoQWh1b05lUTJQQWJuMEkwcEpXMVBRc0dlSk9PWDNuN1NGNEZydw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-03-11",
+   "ts": "2026-03-11T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Mira翁荔陈丹琦公司：促使老黄掏出600亿美金！",
+    "zh": "Mira翁荔陈丹琦公司：促使老黄掏出600亿美金！"
+   },
+   "body": {
+    "en": "Reports say the startup co-founded by Mira Murati, Lilian Weng and Danqi Chen drew a $60 billion commitment from Jensen Huang/Nvidia, a sign Weng's primary affiliation has moved beyond OpenAI.",
+    "zh": "报道称，由Mira Murati、翁荔和陈丹琦共同创立的公司促使黄仁勋／英伟达投入600亿美元，这表明翁荔的主要身份已不再局限于OpenAI。"
+   },
+   "source": "eu.36kr.com",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oMUZWc3AxWTYyU2pGcHJ2bnlRbDdzN3RzeVJMRzhhWjFxWUVRMGVEeVlZdTY0X0lGRmkxQl8waFZFT1Z5TUlCa3l2QTk3b2ZMVW00?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-03-11",
+   "ts": "2026-03-11T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Mira翁荔陈丹琦公司，让老黄掏出了600亿美金",
+    "zh": "Mira翁荔陈丹琦公司，让老黄掏出了600亿美金"
+   },
+   "body": {
+    "en": "Nvidia agreed to invest roughly $60 billion, including a gigawatt-scale data center deal, in Thinking Machines Lab, the startup Lilian Weng had joined alongside Mira Murati and Danqi Chen.",
+    "zh": "英伟达同意向Thinking Machines Lab投资约600亿美元，包括一项千兆瓦级数据中心协议；翁荔当时与Mira Murati、陈丹琦同在该公司。"
+   },
+   "source": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pQ1dkS3JQRXNSMnc2TFUzdnZPY2IzaW1FbXAzTEJIR2k3bXlUVW5NeWhYWklpSktrTTdjVG5YR2thMlltVlNQRQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2024-11-12",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "E217. OpenAI模型改进放缓 | 翁荔离职影响安全研究",
+    "zh": "E217. OpenAI模型改进放缓 | 翁荔离职影响安全研究"
+   },
+   "body": {
+    "en": "Lilian Weng departs OpenAI as head of the safety systems team, a move discussed alongside signs that the company's model improvements are slowing.",
+    "zh": "翁荔从OpenAI安全系统团队负责人一职离职，该消息与公司模型改进放缓的迹象一并被讨论。"
+   },
+   "source": "创新灯塔",
+   "url": "https://podcasts.apple.com/us/podcast/e217-openai%E6%A8%A1%E5%9E%8B%E6%94%B9%E8%BF%9B%E6%94%BE%E7%BC%93-%E7%BF%81%E8%8D%94%E7%A6%BB%E8%81%8C%E5%BD%B1%E5%93%8D%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6/id1739321982?i=1000676567600&uo=4",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": true,
+ "was": {
+  "en": "Co-founder, Thinking Machines Lab",
+  "zh": "Thinking Machines Lab 联合创始人"
+ },
+ "cat": "lab",
+ "score": {
+  "total": 64.5,
+  "attention": null,
+  "centrality": 46,
+  "momentum": 86,
+  "stature": null,
+  "pageviews": 0,
+  "citations": 3937,
+  "hIndex": 16,
+  "events": 46,
+  "posts": 73,
+  "wikiEn": "Lilian Weng",
+  "wikiZh": null
+ },
+ "seedRank": 96,
+ "tier": "t2"
+}

@@ -1,0 +1,2403 @@
+{
+ "rank": 47,
+ "id": "kai-fu-lee",
+ "name": {
+  "en": "Kai-Fu Lee",
+  "zh": "李开复"
+ },
+ "role": {
+  "en": "Chairman & CEO, Sinovation Ventures; Founder, 01.AI",
+  "zh": "创新工场董事长兼 CEO；零一万物 01.AI 创始人"
+ },
+ "org": "01.AI / Sinovation",
+ "region": {
+  "en": "China",
+  "zh": "中国"
+ },
+ "tags": [
+  "01.AI",
+  "Yi",
+  "TrueNorth",
+  "Sovereign AI",
+  "Sinovation"
+ ],
+ "why": {
+  "en": "Drove the Yi model line and remains the key interpreter between Chinese and American AI industry thinking. 01.AI has pivoted to enterprise full-stack solutions and sovereign model training.",
+  "zh": "Yi 系列模型的推动者，同时是连接中美 AI 产业认知的关键人物。零一万物已转向企业全栈方案与主权模型训练。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@kaifulee",
+   "url": "https://x.com/kaifulee",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — @kaifulee",
+   "url": "https://kaifulee.medium.com/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Medium",
+   "url": "https://medium.com/@kaifulee",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "01.AI",
+   "url": "https://www.01.ai/",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Sinovation Ventures",
+   "url": "https://www.sinovationventures.com/",
+   "t": 2
+  },
+  {
+   "kind": "hf",
+   "label": "Yi on Hugging Face",
+   "url": "https://huggingface.co/01-ai",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Kai-Fu+Lee",
+   "t": 3
+  },
+  {
+   "kind": "weibo",
+   "label": "微博 — 搜索",
+   "url": "https://s.weibo.com/user?q=%E6%9D%8E%E5%BC%80%E5%A4%8D",
+   "t": 3
+  },
+  {
+   "kind": "zhihu",
+   "label": "知乎 — 搜索",
+   "url": "https://www.zhihu.com/search?type=people&q=%E6%9D%8E%E5%BC%80%E5%A4%8D",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "微信公众号 — 搜索",
+   "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%9D%8E%E5%BC%80%E5%A4%8D",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "B 站 — 搜索",
+   "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%BC%80%E5%A4%8D",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Kai-Fu+Lee",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Kai-Fu+Lee",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Kai-Fu+Lee&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Kai-Fu+Lee&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=%E6%9D%8E%E5%BC%80%E5%A4%8D",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Kai-Fu+Lee&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Kai-Fu+Lee",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Kai-Fu+Lee&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "中文报道 — 最新",
+   "url": "https://www.google.com/search?q=%E6%9D%8E%E5%BC%80%E5%A4%8D+AI&tbm=nws&hl=zh-CN",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kai-Fu_Lee",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-01-01",
+   "kind": "report",
+   "title": {
+    "en": "TrueNorth — the enterprise AI decision hub",
+    "zh": "TrueNorth —— 企业 AI 决策中枢"
+   },
+   "source": "01.AI",
+   "url": "https://www.01.ai/",
+   "note": {
+    "en": "Extended into Boss AI, Investor AI and TopSales AI; the pivot from frontier models to enterprise full-stack.",
+    "zh": "延伸出 Boss AI、Investor AI 与 TopSales AI；从前沿模型转向企业全栈的转身。"
+   }
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T18:12:20Z",
+   "kind": "x",
+   "title": {
+    "en": "AI transformation is no longer something CEOs can simply delegate. In my conversation with @semafor The CEO Signal , we discussed why companies need clear owner",
+    "zh": "AI transformation is no longer something CEOs can simply delegate. In my conversation with @semafor The CEO Signal , we discussed why companies need clear owner"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2101011455533621527",
+   "note": {
+    "en": "Kai-Fu Lee argued AI transformation can no longer be delegated by CEOs, drawing on his Semafor 'CEO Signal' interview about the need for clear ownership.",
+    "zh": "李开复表示企业的AI转型不能再简单交给他人负责，并结合他在Semafor《CEO Signal》访谈中的观点，谈了明确责任归属的必要性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T22:24:28Z",
+   "kind": "x",
+   "title": {
+    "en": "I think the concerns around the most powerful, unreleased AI models at frontier labs are real. But when it comes to enterprise AI adoption, the real-world pace",
+    "zh": "I think the concerns around the most powerful, unreleased AI models at frontier labs are real. But when it comes to enterprise AI adoption, the real-world pace"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2100712519119917300",
+   "note": {
+    "en": "Lee argues that while concerns about unreleased frontier models are legitimate, real-world enterprise AI adoption is still moving too slowly.",
+    "zh": "李开复认为，尽管对前沿实验室未发布模型的担忧是真实的，但企业级AI的实际落地速度仍然过慢。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T18:09:26Z",
+   "kind": "x",
+   "title": {
+    "en": "AI safety matters. So does what we build with AI. I couldn’t agree more with @LisaSu: the focus should be on “how people and AI can come together to solve meani",
+    "zh": "AI safety matters. So does what we build with AI. I couldn’t agree more with @LisaSu: the focus should be on “how people and AI can come together to solve meani"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2100285950266081753",
+   "note": {
+    "en": "Lee endorsed AMD CEO Lisa Su's framing that AI development should focus on people and AI solving meaningful problems together, staking out his own position on AI safety and purpose.",
+    "zh": "李开复表示AI安全很重要，并认同AMD CEO苏姿丰的观点：AI发展应聚焦于人类与AI共同解决有意义的问题、创造持久价值，这也是他本人的立场。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T13:00:00Z",
+   "kind": "x",
+   "title": {
+    "en": "AI Native eBook + Audiobook are live today https://t.co/MQdYtqJn3N If you’re thinking about how AI will reshape your company, your work, and the future, I hope",
+    "zh": "AI Native eBook + Audiobook are live today https://t.co/MQdYtqJn3N If you’re thinking about how AI will reshape your company, your work, and the future, I hope"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2099845691937861898",
+   "note": {
+    "en": "Lee announced the release of his \"AI Native\" book in eBook and audiobook formats.",
+    "zh": "李开复宣布其《AI Native》一书的电子书与有声书版本正式上线。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T14:22:31Z",
+   "kind": "x",
+   "title": {
+    "en": "Thrilled to see AI Native hit #1 in Amazon’s Office Automation category in preorders! The early response is a strong signal that there’s a real sense of urgency",
+    "zh": "Thrilled to see AI Native hit #1 in Amazon’s Office Automation category in preorders! The early response is a strong signal that there’s a real sense of urgency"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2098054515392131354",
+   "note": {
+    "en": "Kai-Fu Lee announced his new release 'AI Native' hit #1 in Amazon's Office Automation preorder category, citing it as evidence of urgency around enterprise AI adoption.",
+    "zh": "李开复宣布新作《AI Native》在亚马逊办公自动化类目预售中登顶第一，称这反映出企业加速AI转型的紧迫感。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T16:20:22Z",
+   "kind": "x",
+   "title": {
+    "en": "AI Native ebook/audiobook launches Sep 15. Grateful to @AdamMGrant for the recommendation and to so many respected and dear friends for your support https://t.c",
+    "zh": "AI Native ebook/audiobook launches Sep 15. Grateful to @AdamMGrant for the recommendation and to so many respected and dear friends for your support https://t.c"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2097721786859487656",
+   "note": {
+    "en": "Kai-Fu Lee announced the September 15 launch of his AI Native ebook and audiobook.",
+    "zh": "李开复宣布其《AI Native》电子书及有声书将于9月15日上线。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-05",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "为何中美AI最强？李开复：市场规模足够大才跑得出来",
+    "zh": "为何中美AI最强？李开复：市场规模足够大才跑得出来"
+   },
+   "source": "雷达财经丨扫除资本雷点，发现市场价值",
+   "url": "https://podcasts.apple.com/us/podcast/%E4%B8%BA%E4%BD%95%E4%B8%AD%E7%BE%8Eai%E6%9C%80%E5%BC%BA-%E6%9D%8E%E5%BC%80%E5%A4%8D-%E5%B8%82%E5%9C%BA%E8%A7%84%E6%A8%A1%E8%B6%B3%E5%A4%9F%E5%A4%A7%E6%89%8D%E8%B7%91%E5%BE%97%E5%87%BA%E6%9D%A5/id1860538246?i=1000787957264&uo=4",
+   "note": {
+    "en": "In an interview, Lee argues China and the US lead in AI because both have markets large enough to scale it.",
+    "zh": "李开复在访谈中表示，中美之所以在AI领域领先，是因为两国都拥有足够大的市场支撑其规模化发展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
+   "date": "2026-09-05",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "李开复：AI时代，孩子的好奇心和求知欲更加重要",
+    "zh": "李开复：AI时代，孩子的好奇心和求知欲更加重要"
+   },
+   "source": "雷达财经丨扫除资本雷点，发现市场价值",
+   "url": "https://podcasts.apple.com/us/podcast/%E6%9D%8E%E5%BC%80%E5%A4%8D-ai%E6%97%B6%E4%BB%A3-%E5%AD%A9%E5%AD%90%E7%9A%84%E5%A5%BD%E5%A5%87%E5%BF%83%E5%92%8C%E6%B1%82%E7%9F%A5%E6%AC%B2%E6%9B%B4%E5%8A%A0%E9%87%8D%E8%A6%81/id1860538246?i=1000787956178&uo=4",
+   "note": {
+    "en": "Lee says curiosity and eagerness to learn matter more than ever for children in the AI era.",
+    "zh": "李开复表示，在AI时代，孩子的好奇心和求知欲比以往任何时候都更加重要。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
+   "date": "2026-09-05",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "李开复：编程专业的学生仍有前途，他们用AI更得心应手",
+    "zh": "李开复：编程专业的学生仍有前途，他们用AI更得心应手"
+   },
+   "source": "雷达财经丨扫除资本雷点，发现市场价值",
+   "url": "https://podcasts.apple.com/us/podcast/%E6%9D%8E%E5%BC%80%E5%A4%8D-%E7%BC%96%E7%A8%8B%E4%B8%93%E4%B8%9A%E7%9A%84%E5%AD%A6%E7%94%9F%E4%BB%8D%E6%9C%89%E5%89%8D%E9%80%94-%E4%BB%96%E4%BB%AC%E7%94%A8ai%E6%9B%B4%E5%BE%97%E5%BF%83%E5%BA%94%E6%89%8B/id1860538246?i=1000787954953&uo=4",
+   "note": {
+    "en": "Lee says computer science students still have a future, since AI makes them more capable rather than obsolete.",
+    "zh": "李开复表示，编程专业的学生仍有前途，AI让他们更加得心应手，而非被取代。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
+   "date": "2026-09-05",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "李开复：AI无法创造人与人之间的情感价值",
+    "zh": "李开复：AI无法创造人与人之间的情感价值"
+   },
+   "source": "雷达财经丨扫除资本雷点，发现市场价值",
+   "url": "https://podcasts.apple.com/us/podcast/%E6%9D%8E%E5%BC%80%E5%A4%8D-ai%E6%97%A0%E6%B3%95%E5%88%9B%E9%80%A0%E4%BA%BA%E4%B8%8E%E4%BA%BA%E4%B9%8B%E9%97%B4%E7%9A%84%E6%83%85%E6%84%9F%E4%BB%B7%E5%80%BC/id1860538246?i=1000787953515&uo=4",
+   "note": {
+    "en": "Lee argues AI cannot create the emotional value found in human relationships.",
+    "zh": "李开复认为，AI无法创造人与人之间的情感价值。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I recently spoke with Bloomberg Weekend about three questions I think will define the next decade: Where is AI headed? How will organizations change? And what h",
+    "zh": "I recently spoke with Bloomberg Weekend about three questions I think will define the next decade: Where is AI headed? How will organizations change? And what h"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2095984892110897464",
+   "note": {
+    "en": "Lee previewed his Bloomberg Weekend interview, framing three questions on where AI, organizations, and jobs are headed.",
+    "zh": "李开复预告了他接受彭博Weekend采访的内容，提出关于AI走向、组织变革与就业前景的三个问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "An up-and-close conversation with Bloomberg Weekend @MishalHusain Show on AI, US-China, AI and future of jobs. More in-depth analysis and thoughts are in my new",
+    "zh": "An up-and-close conversation with Bloomberg Weekend @MishalHusain Show on AI, US-China, AI and future of jobs. More in-depth analysis and thoughts are in my new"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2095934641903731148",
+   "note": {
+    "en": "Lee discussed AI, US-China relations, and jobs in a Bloomberg Weekend interview, and announced his new ebook 'AI Native' launching soon.",
+    "zh": "李开复在彭博Weekend访谈中谈及AI、中美关系与就业问题，并宣布他的新电子书《AI Native》即将发布。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "US Versus China, Cheap AI & Human Love: AI Pioneer Kai-Fu Lee",
+    "zh": "US Versus China, Cheap AI & Human Love: AI Pioneer Kai-Fu Lee"
+   },
+   "source": "The Mishal Husain Show",
+   "url": "https://podcasts.apple.com/us/podcast/us-versus-china-cheap-ai-human-love-ai-pioneer-kai-fu-lee/id1845840408?i=1000787772377&uo=4",
+   "note": {
+    "en": "Lee discusses the US-China AI race and why cheap, open Chinese models are closing the gap despite chip restrictions.",
+    "zh": "李开复探讨了中美AI竞赛，以及尽管受到芯片限制，廉价开源的中国模型为何仍能缩小差距。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-08-31",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The official website for my new book, AI Native: The Mandate to Transform Your Company, is now live: https://t.co/81rmjKSPRD. AI is rewriting how companies oper",
+    "zh": "The official website for my new book, AI Native: The Mandate to Transform Your Company, is now live: https://t.co/81rmjKSPRD. AI is rewriting how companies oper"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2094531609450172615",
+   "note": {
+    "en": "Lee announced the launch of the official website for his new book, 'AI Native: The Mandate to Transform Your Company.'",
+    "zh": "李开复宣布其新书《AI Native：改造企业的使命》官方网站正式上线。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Why are 95% of companies still failing at real AI transformation? This is why I wrote AI NATIVE, ebook/audiobook release on Sep 15, hardcover Nov 3. #AINATIVE h",
+    "zh": "Why are 95% of companies still failing at real AI transformation? This is why I wrote AI NATIVE, ebook/audiobook release on Sep 15, hardcover Nov 3. #AINATIVE h"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2090490501317411307",
+   "note": {
+    "en": "Announced his book \"AI Native,\" framing it around why 95% of companies are failing at real AI transformation, with ebook release Sep 15 and hardcover Nov 3.",
+    "zh": "他宣布新书《AI Native》，围绕“为何95%的企业在AI转型上仍然失败”展开，电子书9月15日发布，精装版11月3日发布。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "My editor @CrownPublishing asked: “Why do you want to publish this book so quickly?” My answer: Because watching executives pour millions into the wrong approac",
+    "zh": "My editor @CrownPublishing asked: “Why do you want to publish this book so quickly?” My answer: Because watching executives pour millions into the wrong approac"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2084744141435511222",
+   "note": {
+    "en": "Lee explains why he rushed his new Crown-published book to press: too many executives are spending heavily on the wrong approach to AI transformation.",
+    "zh": "李开复解释他为何赶着出版这本由 Crown 出版的新书：太多企业高管在错误的 AI 转型路径上投入巨资。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-07-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Who DIDN'T sign the Open Weight letter is far more interesting than who did. @claudeai https://t.co/iPDesMs07b https://t.co/lMdDhhgwgr",
+    "zh": "Who DIDN'T sign the Open Weight letter is far more interesting than who did. @claudeai https://t.co/iPDesMs07b https://t.co/lMdDhhgwgr"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2081609130201272804",
+   "note": {
+    "en": "Argued that who declined to sign the Open Weight letter is more revealing than who signed it, a pointed stance in the open-weights debate.",
+    "zh": "他提出，谁没有签署“开放权重”联名信比谁签署了更值得关注，这是他在开放权重争论中的鲜明立场。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "My latest Bloomberg Interview, where I talked about AI technologies coming from China, including Kimi K3, and https://t.co/tq9WCFxkLe's TrueNorth and Boss AI. h",
+    "zh": "My latest Bloomberg Interview, where I talked about AI technologies coming from China, including Kimi K3, and https://t.co/tq9WCFxkLe's TrueNorth and Boss AI. h"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2080545114930426216",
+   "note": {
+    "en": "Discussed Chinese AI developments including Kimi K3 and TrueNorth/Boss AI in a Bloomberg interview.",
+    "zh": "他在彭博社采访中谈及中国AI的最新进展，包括Kimi K3以及TrueNorth/Boss AI。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-16",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "对谈李开复：AI越聪明，我们越该重新定义“有用”",
+    "zh": "对谈李开复：AI越聪明，我们越该重新定义“有用”"
+   },
+   "source": "龙咚锵",
+   "url": "https://podcasts.apple.com/us/podcast/%E5%AF%B9%E8%B0%88%E6%9D%8E%E5%BC%80%E5%A4%8D-ai%E8%B6%8A%E8%81%AA%E6%98%8E-%E6%88%91%E4%BB%AC%E8%B6%8A%E8%AF%A5%E9%87%8D%E6%96%B0%E5%AE%9A%E4%B9%89-%E6%9C%89%E7%94%A8/id1754940256?i=1000777042497&uo=4",
+   "note": {
+    "en": "In this interview Kai-Fu Lee describes shifting his focus from whose foundation model is strongest to how AI actually transforms an enterprise, drawing on conversations with over a hundred CEOs.",
+    "zh": "李开复在这次访谈中谈到，他的关注点已从“谁的大模型更强”转向“AI如何真正改变一家企业”，并分享了与上百位企业CEO交流后的观察。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
+   "date": "2026-07-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I predict 50% of companies will need new leadership, because the old management style won't work in the era of AI. That's exactly why I'm seeing 95%+ of so-call",
+    "zh": "I predict 50% of companies will need new leadership, because the old management style won't work in the era of AI. That's exactly why I'm seeing 95%+ of so-call"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2074197757489991804",
+   "note": {
+    "en": "Predicted half of companies will need new leadership because old management styles won't survive the AI era, citing a 95%+ failure rate in current AI-transformation efforts.",
+    "zh": "他预测将有一半的企业需要更换领导层，因为旧的管理方式无法适应AI时代，并指出目前95%以上的“AI转型”尝试都以失败告终。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Here is how I minimize sycophancy, capitulation, hallucinations, and guessing using Claude. So many people complain about these, but they can largely be fixed b",
+    "zh": "Here is how I minimize sycophancy, capitulation, hallucinations, and guessing using Claude. So many people complain about these, but they can largely be fixed b"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2067524130673467886",
+   "note": {
+    "en": "Shared his personal prompt for reducing sycophancy, capitulation, hallucination and guessing when using Claude.",
+    "zh": "他分享了自己在使用Claude时用来减少谄媚、妥协、幻觉和瞎猜问题的提示词方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "U.S. and China AI development will continue to fluctuate between 3 and 15 months. It's interesting that China is becoming open, and the U.S. is becoming closed.",
+    "zh": "U.S. and China AI development will continue to fluctuate between 3 and 15 months. It's interesting that China is becoming open, and the U.S. is becoming closed."
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2064802584360288567",
+   "note": {
+    "en": "Argued the US-China AI gap will keep fluctuating between 3-15 months, noting China's models are becoming more open while the US grows more closed, from a conversation with Alan Murray.",
+    "zh": "他认为中美AI差距将持续在3到15个月之间波动，并指出中国模型正变得更加开放，而美国则趋于封闭，这番话来自他与Alan Murray的对谈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Great conversation with Tom Mitchell, hosted by Stanford @DigEconLab on how I got into AI, and stayed in the field for 45 year. https://t.co/QjWZawJLQM",
+    "zh": "Great conversation with Tom Mitchell, hosted by Stanford @DigEconLab on how I got into AI, and stayed in the field for 45 year. https://t.co/QjWZawJLQM"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2059327541916368980",
+   "note": {
+    "en": "Discussed how he entered AI and stayed in the field for 45 years, in a conversation with Tom Mitchell hosted by Stanford's Digital Economy Lab.",
+    "zh": "他在斯坦福数字经济实验室主持、与Tom Mitchell的对谈中，讲述了自己如何进入AI领域并在这一行业坚持了45年。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "My latest interview with @Capgemini, sharing my view on AI sovereignty: For countries, the clearest error is believing that the only two choices are to accept a",
+    "zh": "My latest interview with @Capgemini, sharing my view on AI sovereignty: For countries, the clearest error is believing that the only two choices are to accept a"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2053846165385621575",
+   "note": {
+    "en": "Argued in a Capgemini interview that countries face a false choice between adopting an American AI model or building entirely from scratch, staking out a position on AI sovereignty.",
+    "zh": "他在Capgemini的采访中提出，各国面临的“要么采用美国模型、要么从零开始”其实是一种错误的二选一，并阐述了他对AI主权问题的立场。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-04",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Machine Learning and Speech Recognition with Kai-Fu Lee",
+    "zh": "Machine Learning and Speech Recognition with Kai-Fu Lee"
+   },
+   "source": "Machine Learning: How Did We Get Here?",
+   "url": "https://podcasts.apple.com/us/podcast/machine-learning-and-speech-recognition-with-kai-fu-lee/id1879433175?i=1000766038823&uo=4",
+   "note": {
+    "en": "Interview tracing his early speech-recognition work at Carnegie Mellon, the research that first made his name before Google China and Sinovation.",
+    "zh": "访谈回顾他在卡内基梅隆大学的早期语音识别研究，那是他在谷歌中国和创新工场之前奠定声名的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-04-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "China and Open Claw -- My Interview on Bloomberg yesterday. https://t.co/L0IdO3uvls",
+    "zh": "China and Open Claw -- My Interview on Bloomberg yesterday. https://t.co/L0IdO3uvls"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2039167886359703905",
+   "note": {
+    "en": "Discussed China and \"Open Claw\" in a Bloomberg interview.",
+    "zh": "他在彭博社采访中谈论了中国AI与“Open Claw”话题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-31",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Discussed on @Bloomberg Asia TV: As AI models, tools, and architectures become more open, AI adoption will accelerate worldwide. Security imperfections should b",
+    "zh": "Discussed on @Bloomberg Asia TV: As AI models, tools, and architectures become more open, AI adoption will accelerate worldwide. Security imperfections should b"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2038992806283469126",
+   "note": {
+    "en": "Argued on Bloomberg Asia TV that increasingly open AI models, tools and architectures will accelerate global adoption, while urging caution rather than alarm over security imperfections in open technology.",
+    "zh": "他在彭博亚洲电视台表示，日益开放的AI模型、工具和架构将加速全球采用，并呼吁对开放技术中的安全缺陷保持谨慎而非恐慌。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-01-07",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "李开复回答了问题: 作为一名科技从业者，如何总结你的 2025？",
+    "zh": "李开复回答了问题: 作为一名科技从业者，如何总结你的 2025？"
+   },
+   "source": "李开复的知乎动态",
+   "url": "https://www.zhihu.com/question/1974931646080836522/answer/1992205155484065827",
+   "note": {
+    "en": "Zhihu answer summing up 2025 as a year of \"reshaping,\" arguing China's foundation-model race will consolidate around DeepSeek, Qwen and ByteDance while value moves to the middle and application layers.",
+    "zh": "知乎长答复以“重塑”总结 2025 年，判断中国基座模型竞争将寡头化为 DeepSeek、通义千问与字节三家，价值则转向中台与应用层。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "zhihu",
+   "connector": "zhihu"
+  },
+  {
+   "date": "2025-12-31",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "@sinovationvc backed and double-downed on @InSilicoMeds since 2019 with a firm belief that AI will accelerate healthcare and medicine development. Congratulatio",
+    "zh": "@sinovationvc backed and double-downed on @InSilicoMeds since 2019 with a firm belief that AI will accelerate healthcare and medicine development. Congratulatio"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2006219040679928238",
+   "note": {
+    "en": "Congratulated Insilico Medicine, an AI drug-discovery company Sinovation Ventures has backed since 2019, on its Hong Kong stock exchange listing.",
+    "zh": "他祝贺英矽智能（Sinovation Ventures自2019年起投资的AI药物研发公司）在香港交易所上市。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "My latest piece on @FT about the Chinese LLM open-source advantage. Contrasted with the secretive development of LLMs in the US competing in a winner-takes-all",
+    "zh": "My latest piece on @FT about the Chinese LLM open-source advantage. Contrasted with the secretive development of LLMs in the US competing in a winner-takes-all"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2000639446577041498",
+   "note": {
+    "en": "Wrote in the Financial Times that China's open-source LLMs offer an advantage over the more secretive, winner-take-all AGI race in the US.",
+    "zh": "他在英国《金融时报》撰文指出，相较于美国那种更加保密、赢家通吃的AGI竞赛，中国的开源大模型具有优势。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-11-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Decent-quality LLMs from China are really helping make GenAI affordable and accessible to the world through open source. Pursuing AGI with close models might be",
+    "zh": "Decent-quality LLMs from China are really helping make GenAI affordable and accessible to the world through open source. Pursuing AGI with close models might be"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/1990951867820671314",
+   "note": {
+    "en": "Argued that decent Chinese open-source LLMs are making generative AI more affordable and accessible worldwide, contrasting it with a winner-take-all closed-model race for AGI among US Big Tech.",
+    "zh": "他认为，中国质量不错的开源大模型正让生成式AI在全球更加普及和可负担，并将其与美国大厂追求AGI的“赢家通吃”闭源竞赛进行对比。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-09-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Some of my latest views on AI, US-China, and AI Agent. My prediction is that the US workforce will be more significantly impacted by the Agent evolution current",
+    "zh": "Some of my latest views on AI, US-China, and AI Agent. My prediction is that the US workforce will be more significantly impacted by the Agent evolution current"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/1966011136740032865",
+   "note": {
+    "en": "Bloomberg interview clip in which Lee predicts the current agent wave will hit the US workforce harder than China's.",
+    "zh": "彭博访谈片段：李开复预测当前这波 AI Agent 浪潮对美国劳动力的冲击将大于中国。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-04-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Magi-1 is the world's first autoregressive video model with top-tier output. It was released by @SandAI_HQ. Great to see another AI company after DeepSeek open",
+    "zh": "Magi-1 is the world's first autoregressive video model with top-tier output. It was released by @SandAI_HQ. Great to see another AI company after DeepSeek open"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/1914528611429966315",
+   "note": {
+    "en": "Praised SandAI's open-sourced Magi-1, calling it the world's first autoregressive video model with top-tier output and welcoming another Chinese company open-sourcing world-class models after DeepSeek.",
+    "zh": "他称赞SandAI开源的Magi-1，称其为全球首个具备顶尖效果的自回归视频模型，并欢迎继DeepSeek之后又一家中国公司开源世界级模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-03-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The biggest revelation from Deepseek is that Open Source has won. For a 1% difference in performance, it will be difficult for OpenAI to justify its price when",
+    "zh": "The biggest revelation from Deepseek is that Open Source has won. For a 1% difference in performance, it will be difficult for OpenAI to justify its price when"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/1903277837978833170",
+   "note": {
+    "en": "Lee's read on DeepSeek: open source has won, and OpenAI will struggle to justify its pricing against a free model within a point of its performance.",
+    "zh": "李开复对 DeepSeek 的判断：开源已经胜出，面对性能仅差 1% 的免费模型，OpenAI 将难以为其定价辩护。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-03-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "DeepSeek is becoming a Windows kernel demanded by businesses, but https://t.co/ylJtTsF7S6 is aspired to build the Windows system and interface to ignite it. Che",
+    "zh": "DeepSeek is becoming a Windows kernel demanded by businesses, but https://t.co/ylJtTsF7S6 is aspired to build the Windows system and interface to ignite it. Che"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/1902622868577644869",
+   "note": {
+    "en": "Lee frames DeepSeek as the \"Windows kernel\" enterprises now want and positions 01.AI as the system and interface built on top of it.",
+    "zh": "李开复把 DeepSeek 比作企业需要的“Windows 内核”，并将零一万物定位为在其之上构建的系统与界面。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-01-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "In my book AI Superpowers, I predicted that US will lead breakthroughs, but China will be better and faster in engineering. Many people simplified that to be “C",
+    "zh": "In my book AI Superpowers, I predicted that US will lead breakthroughs, but China will be better and faster in engineering. Many people simplified that to be “C"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/1883689612637548818",
+   "note": {
+    "en": "Lee revisits his AI Superpowers thesis — US leads on breakthroughs, China on engineering speed — against the way it was popularly simplified.",
+    "zh": "李开复重申《AI 超级大国》中的论点——美国主导突破、中国在工程落地上更快更好——并澄清外界对它的简化误读。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-01-14",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "李开复聊零一部分团队并入阿里：只有大厂能追逐超大模型",
+    "zh": "李开复聊零一部分团队并入阿里：只有大厂能追逐超大模型"
+   },
+   "source": "晚点聊 LateTalk",
+   "url": "https://podcasts.apple.com/us/podcast/%E6%9D%8E%E5%BC%80%E5%A4%8D%E8%81%8A%E9%9B%B6%E4%B8%80%E9%83%A8%E5%88%86%E5%9B%A2%E9%98%9F%E5%B9%B6%E5%85%A5%E9%98%BF%E9%87%8C-%E5%8F%AA%E6%9C%89%E5%A4%A7%E5%8E%82%E8%83%BD%E8%BF%BD%E9%80%90%E8%B6%85%E5%A4%A7%E6%A8%A1%E5%9E%8B/id1564877433?i=1000683899567&uo=4",
+   "note": {
+    "en": "Kai-Fu Lee explains why part of 01.AI's team and infrastructure is merging into an Alibaba Cloud joint lab, saying only a few giants can still chase ever-larger frontier models.",
+    "zh": "李开复解释零一万物部分团队与基础设施并入阿里云联合实验室的原因，并表示只有少数大厂才能继续追逐更大规模的前沿模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcast_show"
+  },
+  {
+   "date": "2025-01-02",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AI in 2025 – A global perspective, with Kai-Fu Lee",
+    "zh": "AI in 2025 – A global perspective, with Kai-Fu Lee"
+   },
+   "source": "Azeem Azhar's Exponential View",
+   "url": "https://podcasts.apple.com/us/podcast/ai-in-2025-a-global-perspective-with-kai-fu-lee/id1172218725?i=1000682355713&uo=4",
+   "note": {
+    "en": "Kai-Fu Lee joined Azeem Azhar's Exponential View to give his global outlook on AI in 2025.",
+    "zh": "李开复做客Azeem Azhar的《Exponential View》播客，分享他对2025年AI全球格局的展望。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-12-05",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ex-Google China President on How China Is Shaping the Future of AI w/ Kai-Fu Lee | EP #134",
+    "zh": "Ex-Google China President on How China Is Shaping the Future of AI w/ Kai-Fu Lee | EP #134"
+   },
+   "source": "Moonshots with Peter Diamandis",
+   "url": "https://podcasts.apple.com/us/podcast/ex-google-china-president-on-how-china-is-shaping-the/id1648228034?i=1000679366146&uo=4",
+   "note": {
+    "en": "Kai-Fu Lee joined Peter Diamandis to discuss 01.AI's growth, Chinese AI entrepreneurship, and the impact of open-source models.",
+    "zh": "李开复做客Peter Diamandis的节目，探讨零一万物的发展、中国AI创业生态以及开源模型的影响。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-11-18",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "李开复回答了问题: 如何看待李开复鼓励中国 AI 企业走出自己的第二条路？",
+    "zh": "李开复回答了问题: 如何看待李开复鼓励中国 AI 企业走出自己的第二条路？"
+   },
+   "source": "李开复的知乎动态",
+   "url": "https://www.zhihu.com/question/4262663667/answer/34444526851",
+   "note": {
+    "en": "Zhihu answer on the \"second path\" for Chinese AI companies, using Yi-Large and Yi-Lightning to argue 01.AI closes the gap to the global frontier in five to six months.",
+    "zh": "知乎答复谈中国 AI 企业的“第二条路”，以 Yi-Large 与 Yi-Lightning 为例说明零一万物用五到六个月追上世界第一梯队。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "zhihu",
+   "connector": "zhihu"
+  },
+  {
+   "date": "2024-11-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "https://t.co/tq9WCFxkLe trained the #6 model in the world for $3M pre-train cost. And the inference price is $0.14/million tokens! https://t.co/a60oSfIBeR",
+    "zh": "https://t.co/tq9WCFxkLe trained the #6 model in the world for $3M pre-train cost. And the inference price is $0.14/million tokens! https://t.co/a60oSfIBeR"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/1857577138133893516",
+   "note": {
+    "en": "Lee reports 01.AI trained the world's #6-ranked model for a $3M pre-training cost with inference at $0.14 per million tokens.",
+    "zh": "李开复披露零一万物以 300 万美元预训练成本做出全球排名第六的模型，推理价格为每百万 token 0.14 美元。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-11-10",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "81. 和李开复聊聊：如果美国形成AGI霸权，我们应该怎么办？",
+    "zh": "81. 和李开复聊聊：如果美国形成AGI霸权，我们应该怎么办？"
+   },
+   "source": "张小珺Jùn｜商业访谈录",
+   "url": "https://podcasts.apple.com/us/podcast/81-%E5%92%8C%E6%9D%8E%E5%BC%80%E5%A4%8D%E8%81%8A%E8%81%8A-%E5%A6%82%E6%9E%9C%E7%BE%8E%E5%9B%BD%E5%BD%A2%E6%88%90agi%E9%9C%B8%E6%9D%83-%E6%88%91%E4%BB%AC%E5%BA%94%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8A%9E/id1634356920?i=1000676415954&uo=4",
+   "note": {
+    "en": "Kai-Fu Lee discusses what China should do if the US establishes AGI hegemony, drawing on his decades in both American tech giants and the Chinese AI industry.",
+    "zh": "李开复探讨了如果美国形成AGI霸权，中国应当如何应对，并结合他在美国科技巨头和中国AI产业的多年经历展开分析。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
+   "date": "2024-10-30",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Vol.24 张鹏对谈李开复：AI创业进入洗牌阶段了吗？",
+    "zh": "Vol.24 张鹏对谈李开复：AI创业进入洗牌阶段了吗？"
+   },
+   "source": "AI局内人 | AGI Insider",
+   "url": "https://podcasts.apple.com/us/podcast/vol-24-%E5%BC%A0%E9%B9%8F%E5%AF%B9%E8%B0%88%E6%9D%8E%E5%BC%80%E5%A4%8D-ai%E5%88%9B%E4%B8%9A%E8%BF%9B%E5%85%A5%E6%B4%97%E7%89%8C%E9%98%B6%E6%AE%B5%E4%BA%86%E5%90%97/id1693183193?i=1000675086936&uo=4",
+   "note": {
+    "en": "Kai-Fu Lee joined GeekPark's Zhang Peng for a conversation on whether AI startups have entered a shakeout phase, covering paradigms like o1, Canvas, NotebookLM and Computer Use and shifting funding and revenue benchmarks.",
+    "zh": "李开复与极客公园张鹏对谈，探讨AI创业是否已进入洗牌阶段，涉及o1、Canvas、NotebookLM、Computer Use等新范式，以及融资与营收指标的变化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
+   "date": "2024-10-19",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "What should I major in college? Most Future Proof Jobs",
+    "zh": "What should I major in college? Most Future Proof Jobs"
+   },
+   "source": "Stories by Kai-Fu Lee on Medium",
+   "url": "https://kaifulee.medium.com/what-should-i-major-in-college-most-future-proof-jobs-9885675e0419?source=rss-13ba09f08ed3------2",
+   "note": {
+    "en": "His advice on which college majors stay future-proof as AI absorbs routine work, an extension of the jobs argument in AI Superpowers.",
+    "zh": "他就 AI 取代常规工作后哪些大学专业仍然稳妥给出建议，延续《AI 新世界》中关于就业的论述。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2024-10-16",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "李开复回答了问题: 大模型训练触达「瓶颈」，基座模型厂商还有必要坚持预训练吗？",
+    "zh": "李开复回答了问题: 大模型训练触达「瓶颈」，基座模型厂商还有必要坚持预训练吗？"
+   },
+   "source": "李开复的知乎动态",
+   "url": "https://www.zhihu.com/question/977714432/answer/6961849530",
+   "note": {
+    "en": "Zhihu answer arguing Chinese foundation-model makers should keep pre-training, written against the claim that scaling had hit a wall after OpenAI's o1.",
+    "zh": "知乎答复主张中国基座模型厂商仍应坚持预训练，回应 o1 发布后“预训练已触达瓶颈”的说法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "zhihu",
+   "connector": "zhihu"
+  },
+  {
+   "date": "2024-10-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "https://t.co/tq9WCFxkLe's new model \"Yi-Lightning\" is now #6 in the world, higher than the original GPT-4o released 5 months ago. Yet Yi-Lightning is a very sma",
+    "zh": "https://t.co/tq9WCFxkLe's new model \"Yi-Lightning\" is now #6 in the world, higher than the original GPT-4o released 5 months ago. Yet Yi-Lightning is a very sma"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/1846310645849047524",
+   "note": {
+    "en": "Lee announces Yi-Lightning reaching #6 on the LMSYS Chatbot Arena, above the original GPT-4o, as a small and fast MoE model.",
+    "zh": "李开复宣布 Yi-Lightning 在 LMSYS 竞技场排名全球第六，超过初版 GPT-4o，且是一个小而快的 MoE 模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-10-14",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "An Engineer’s Guide to the Artificial Intelligence Galaxy",
+    "zh": "An Engineer’s Guide to the Artificial Intelligence Galaxy"
+   },
+   "source": "Stories by Kai-Fu Lee on Medium",
+   "url": "https://kaifulee.medium.com/an-engineers-guide-to-the-artificial-intelligence-galaxy-addc7352513d?source=rss-13ba09f08ed3------2",
+   "note": {
+    "en": "Full text of his Columbia Engineering commencement address on how engineers should orient themselves in the age of AI.",
+    "zh": "他在哥伦比亚大学工学院毕业典礼演讲的全文，谈工程师在人工智能时代应如何自处。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2024-10-10",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "李开复回答了问题: 由 GPT 引发的这波「大模型热」将会如何洗牌？",
+    "zh": "李开复回答了问题: 由 GPT 引发的这波「大模型热」将会如何洗牌？"
+   },
+   "source": "李开复的知乎动态",
+   "url": "https://www.zhihu.com/question/789627279/answer/4656303798",
+   "note": {
+    "en": "Zhihu answer on how the large-model boom will shake out, arguing scaling laws point toward a personal assistant for everyone and that models are the catalyst for the next industrial shift.",
+    "zh": "知乎答复谈“大模型热”将如何洗牌，认为 Scaling Law 指向人人拥有智能助理，大模型是新一轮产业变革的催化剂。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "zhihu",
+   "connector": "zhihu"
+  },
+  {
+   "date": "2024-05-21",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "李开复回答了问题: 零一万物大模型 Yi-Large 在 LMSYS 中文榜单排名第一，如何理解这个成绩？",
+    "zh": "李开复回答了问题: 零一万物大模型 Yi-Large 在 LMSYS 中文榜单排名第一，如何理解这个成绩？"
+   },
+   "source": "李开复的知乎动态",
+   "url": "https://www.zhihu.com/question/656691404/answer/3505677660",
+   "note": {
+    "en": "Zhihu answer on Yi-Large topping the LMSYS Chinese leaderboard, offered as a third-party blind-test rebuttal to the noise about whether Chinese models trail GPT-4.",
+    "zh": "知乎答复谈 Yi-Large 登顶 LMSYS 中文榜，以第三方盲测结果回应“中国大模型究竟落后多少”的嘈杂争论。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "zhihu",
+   "connector": "zhihu"
+  },
+  {
+   "date": "2024-05-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "On Bloomberg @business earlier today w @DavidInglesTV, @YvonneManTV and @jenzhuscott 30 min before @01AI_Yi team debuted our most powerful Yi-Large LLM to the w",
+    "zh": "On Bloomberg @business earlier today w @DavidInglesTV, @YvonneManTV and @jenzhuscott 30 min before @01AI_Yi team debuted our most powerful Yi-Large LLM to the w"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/1790026808836104291",
+   "note": {
+    "en": "Lee marks the debut of 01.AI's Yi-Large, its most powerful LLM at the time, alongside a Bloomberg appearance the same day.",
+    "zh": "李开复记录零一万物当时最强模型 Yi-Large 的发布，以及同日的彭博访谈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-01-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "LLM + Vision, https://t.co/ylJtTsF7S6 just launched Yi-VL-34B, now a world-leading open-source VL model for the developers' community. We are exploring more mul",
+    "zh": "LLM + Vision, https://t.co/ylJtTsF7S6 just launched Yi-VL-34B, now a world-leading open-source VL model for the developers' community. We are exploring more mul"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/1749450963671519640",
+   "note": {
+    "en": "Launch note for Yi-VL-34B, 01.AI's open-source vision-language model, and a signal of its 2024 multimodal direction.",
+    "zh": "零一万物开源视觉语言模型 Yi-VL-34B 的发布说明，也表明其 2024 年的多模态方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-01-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Among many disagreements, I think this #wef24 GenAI panel agreed that to make the world more equal, open source is essentially valuable. Fun discussion with @yl",
+    "zh": "Among many disagreements, I think this #wef24 GenAI panel agreed that to make the world more equal, open source is essentially valuable. Fun discussion with @yl"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/1747641910338990396",
+   "note": {
+    "en": "Lee's readout from the Davos 2024 generative-AI panel with LeCun, Ng, Gomez and Koller, where the shared conclusion was that open source is what makes AI more equal.",
+    "zh": "李开复对 2024 达沃斯生成式 AI 圆桌的总结：与 LeCun、吴恩达、Gomez、Koller 的共识是开源才能让 AI 更加平等。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-11-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Thank you @ClementDelangue . Yi contributed to the open source community by standing on the shoulders of giants. GPT 2 --&gt; Gopher --&gt; Chinchilla --&gt; Ll",
+    "zh": "Thank you @ClementDelangue . Yi contributed to the open source community by standing on the shoulders of giants. GPT 2 --&gt; Gopher --&gt; Chinchilla --&gt; Ll"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/1724673131875377465",
+   "note": {
+    "en": "Lee places Yi in an explicit open-source lineage — GPT-2 to Gopher to Chinchilla to Llama 2 to Yi — in response to Hugging Face's Clement Delangue.",
+    "zh": "李开复回应 Hugging Face 的 Clement Delangue，将 Yi 明确置于 GPT-2 → Gopher → Chinchilla → Llama 2 → Yi 的开源谱系之中。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-11-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "\"We have never seen a technology which automatically becomes smarter every time you throw more computing at it. And as long as GPU is being translated into more",
+    "zh": "\"We have never seen a technology which automatically becomes smarter every time you throw more computing at it. And as long as GPU is being translated into more"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/1723352563863736378",
+   "note": {
+    "en": "Lee on why scaling is unlike any prior technology: intelligence grows as long as GPUs keep being converted into it.",
+    "zh": "李开复谈规模化为何不同于以往任何技术：只要 GPU 还能持续转化为智能，模型就会不断变强。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-11-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I applaud the original openness of OpenAI, and agree with @elonmusk 's lament. But @elonmusk : When will Grok become open source like @01AI_Yi ? Please come joi",
+    "zh": "I applaud the original openness of OpenAI, and agree with @elonmusk 's lament. But @elonmusk : When will Grok become open source like @01AI_Yi ? Please come joi"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/1721941789903577252",
+   "note": {
+    "en": "Lee publicly challenges Elon Musk to open-source Grok the way 01.AI open-sourced Yi.",
+    "zh": "李开复公开向马斯克喊话，要求像零一万物开源 Yi 那样开源 Grok。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-11-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Thank you for the post. But actually we hope to be the \"more open\" answer to \"Open\"AI. It's not US vs. China; it's open vs. closed.",
+    "zh": "Thank you for the post. But actually we hope to be the \"more open\" answer to \"Open\"AI. It's not US vs. China; it's open vs. closed."
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/1721938748596994301",
+   "note": {
+    "en": "Lee reframes 01.AI's positioning as the \"more open\" answer to OpenAI, saying the contest is open versus closed rather than US versus China.",
+    "zh": "李开复重新定位零一万物是对 OpenAI 更“开放”的答案，强调这不是中美之争，而是开源与闭源之争。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-11-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "https://t.co/ylJtTsF7S6 is a bold but long-awaited endeavor for my pursuit of AI over 4 decades. Proud to introduce the world's top open-source model Yi-34B as",
+    "zh": "https://t.co/ylJtTsF7S6 is a bold but long-awaited endeavor for my pursuit of AI over 4 decades. Proud to introduce the world's top open-source model Yi-34B as"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/1721321096727994590",
+   "note": {
+    "en": "Lee introduces Yi-34B as 01.AI's first release, the culmination of four decades working on AI.",
+    "zh": "李开复发布零一万物的首个模型 Yi-34B，称其为自己四十年 AI 生涯的一个成果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-11-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I must say China is now behind the U.S. in the LLM ecosystem momentum. The underlying vision for me to start @01AI_Yi is to make better AI accessible to more pe",
+    "zh": "I must say China is now behind the U.S. in the LLM ecosystem momentum. The underlying vision for me to start @01AI_Yi is to make better AI accessible to more pe"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/1721394197151027479",
+   "note": {
+    "en": "Lee concedes China trails the US in LLM ecosystem momentum and states the founding rationale for 01.AI: making better AI accessible to more people.",
+    "zh": "李开复承认中国在大模型生态势能上落后于美国，并阐述创办零一万物的初衷——让更多人用上更好的 AI。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-03-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I am leading a new venture-building initiative \"Project AI 2.0\" -- now recruiting global talents in LLM, multi-modality, AI algo, infra, etc. Welcome to reach o",
+    "zh": "I am leading a new venture-building initiative \"Project AI 2.0\" -- now recruiting global talents in LLM, multi-modality, AI algo, infra, etc. Welcome to reach o"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/1637618021379477504",
+   "note": {
+    "en": "Lee announces he is leading a new venture-building initiative, \"Project AI 2.0,\" and recruiting globally — the effort that became 01.AI.",
+    "zh": "李开复宣布亲自领军新的创业项目“Project AI 2.0”并在全球招募人才，这一项目后来成为零一万物。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2022-10-27",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "AI 2041 Now Available in 10 Global Languages",
+    "zh": "AI 2041 Now Available in 10 Global Languages"
+   },
+   "source": "Stories by Kai-Fu Lee on Medium",
+   "url": "https://kaifulee.medium.com/ai-2041-now-available-in-10-global-languages-2fbf1b28d7b1?source=rss-13ba09f08ed3------2",
+   "note": {
+    "en": "Announces that AI 2041, his book of near-future AI scenarios co-written with Chen Qiufan, is now published in ten languages.",
+    "zh": "宣布他与陈楸帆合著的近未来人工智能小说《AI 未来进行式》已推出十种语言版本。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2022-07-20",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Kai-Fu Lee: How AI teaches us what it means to be human",
+    "zh": "Kai-Fu Lee: How AI teaches us what it means to be human"
+   },
+   "source": "Tools and Weapons with Brad Smith",
+   "url": "https://podcasts.apple.com/us/podcast/kai-fu-lee-how-ai-teaches-us-what-it-means-to-be-human/id1632459165?i=1000570542684&uo=4",
+   "note": {
+    "en": "Long-form podcast interview with Brad Smith on AI's effect on jobs and what automation reveals about human work.",
+    "zh": "做客 Brad Smith 的 Tools and Weapons 播客，长谈 AI 对就业的冲击以及人之为人的意义。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-05-20",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "AI and the Human Future: Net Positive",
+    "zh": "AI and the Human Future: Net Positive"
+   },
+   "source": "Stories by Kai-Fu Lee on Medium",
+   "url": "https://kaifulee.medium.com/ai-and-the-human-future-net-positive-ae3a500c1846?source=rss-13ba09f08ed3------2",
+   "note": {
+    "en": "His case that AI's overall effect on humanity will be net positive, written against the dystopian framing that dominates the debate.",
+    "zh": "他论证人工智能对人类的整体影响将是净正面的，反驳主导舆论的反乌托邦叙事。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2022-03-16",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "How AI Will Completely Change the Way We Live in the Next 20 Years",
+    "zh": "How AI Will Completely Change the Way We Live in the Next 20 Years"
+   },
+   "source": "Stories by Kai-Fu Lee on Medium",
+   "url": "https://kaifulee.medium.com/how-ai-will-completely-change-the-way-we-live-in-the-next-20-years-e27a855b1bd0?source=rss-13ba09f08ed3------2",
+   "note": {
+    "en": "His twenty-year forecast for how AI reshapes daily life, arguing the change arrives faster and less visibly than people expect.",
+    "zh": "他对人工智能未来二十年如何改变日常生活的预测，认为这种变化来得比人们预想的更快也更不易察觉。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2022-02-25",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Visions for the future | Kai-Fu Lee and Chen Qiufan",
+    "zh": "Visions for the future | Kai-Fu Lee and Chen Qiufan"
+   },
+   "source": "TED Tech",
+   "url": "https://podcasts.apple.com/us/podcast/visions-for-the-future-kai-fu-lee-and-chen-qiufan/id470624027?i=1000552186476&uo=4",
+   "note": {
+    "en": "Lee and science-fiction writer Chen Qiufan discuss visions for AI's future on TED Tech.",
+    "zh": "李开复与科幻作家陈楸帆在TED Tech节目中探讨AI未来的愿景。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-01-05",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Why Computers Don’t Need to Match Human Intelligence",
+    "zh": "Why Computers Don’t Need to Match Human Intelligence"
+   },
+   "source": "Stories by Kai-Fu Lee on Medium",
+   "url": "https://kaifulee.medium.com/why-computers-dont-need-to-match-human-intelligence-28187ff896a9?source=rss-13ba09f08ed3------2",
+   "note": {
+    "en": "Argues that comparing AI to the human mind is the wrong yardstick, drawing on his own background in speech and language.",
+    "zh": "他主张拿人工智能与人脑相比是错误的衡量标准，并结合自身语音与语言研究背景加以论述。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2021-12-24",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "The Next Healthcare Revolution Will Have AI at Its Center",
+    "zh": "The Next Healthcare Revolution Will Have AI at Its Center"
+   },
+   "source": "Stories by Kai-Fu Lee on Medium",
+   "url": "https://kaifulee.medium.com/the-next-healthcare-revolution-will-have-ai-at-its-center-ffac4849b271?source=rss-13ba09f08ed3------2",
+   "note": {
+    "en": "On AI as the centre of the next wave of healthcare, one of the sectors he invests in through Sinovation.",
+    "zh": "论述人工智能将成为下一轮医疗变革的核心，这也是他通过创新工场投资的领域之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2021-12-14",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Can AI Make Us Healthy and Happy?",
+    "zh": "Can AI Make Us Healthy and Happy?"
+   },
+   "source": "Stories by Kai-Fu Lee on Medium",
+   "url": "https://kaifulee.medium.com/can-ai-make-us-healthy-and-happy-ded2d559abf0?source=rss-13ba09f08ed3------2",
+   "note": {
+    "en": "Argues AI will be able to measure and improve human health and wellbeing within twenty years, drawn from the AI 2041 scenarios.",
+    "zh": "他认为二十年内人工智能将能够量化并改善人类的健康与幸福感，取材自《AI 未来进行式》的设想。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2021-11-25",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Can humans and AI work side by side? A guide to what comes next",
+    "zh": "Can humans and AI work side by side? A guide to what comes next"
+   },
+   "source": "Stories by Kai-Fu Lee on Medium",
+   "url": "https://kaifulee.medium.com/can-humans-and-ai-work-side-by-side-a-guide-to-what-comes-next-ce5ad1755b2f?source=rss-13ba09f08ed3------2",
+   "note": {
+    "en": "His guide to human-AI coexistence at work, written around the wave of humanoid robot announcements.",
+    "zh": "他关于人机如何在工作中共存的分析，写于人形机器人密集发布的浪潮之际。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2021-10-09",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The Future of Artificial Intelligence With Tech CEO Kai-Fu Lee",
+    "zh": "The Future of Artificial Intelligence With Tech CEO Kai-Fu Lee"
+   },
+   "source": "GZERO World with Ian Bremmer",
+   "url": "https://podcasts.apple.com/us/podcast/the-future-of-artificial-intelligence-with-tech-ceo/id1294461271?i=1000538047371&uo=4",
+   "note": {
+    "en": "Interview with Ian Bremmer on where AI is heading and what it means for US-China technology competition.",
+    "zh": "接受 Ian Bremmer 访谈，谈人工智能的走向及其对中美科技竞争的意义。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2021-09-30",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "567: Kai-Fu Lee | Ten Visions for Our Future with AI",
+    "zh": "567: Kai-Fu Lee | Ten Visions for Our Future with AI"
+   },
+   "source": "The Jordan Harbinger Show",
+   "url": "https://podcasts.apple.com/us/podcast/567-kai-fu-lee-ten-visions-for-our-future-with-ai/id1344999619?i=1000537076746&uo=4",
+   "note": {
+    "en": "Long-form interview on the ten future scenarios in AI 2041 and how he expects AI to reshape work and society.",
+    "zh": "长篇访谈，围绕《AI 未来进行式》中的十个未来场景，谈人工智能将如何重塑工作与社会。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2021-09-20",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "A.I. Future: Utopia or Apocalypse? Ten Visions For Our Future | Kai-Fu Lee",
+    "zh": "A.I. Future: Utopia or Apocalypse? Ten Visions For Our Future | Kai-Fu Lee"
+   },
+   "source": "Hidden Forces",
+   "url": "https://podcasts.apple.com/us/podcast/a-i-future-utopia-or-apocalypse-ten-visions-for-our/id1205359334?i=1000535984560&uo=4",
+   "note": {
+    "en": "Hidden Forces interview weighing utopian against apocalyptic readings of AI, and his own middle position.",
+    "zh": "在 Hidden Forces 播客中权衡人工智能的乌托邦与末日两种解读，并阐述自己的中间立场。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2021-07-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The future of AI will be the future of humankind. My new book, #AI2041 (on sale September 14) explores ten possible visions for the next 20 years. Learn more at",
+    "zh": "The future of AI will be the future of humankind. My new book, #AI2041 (on sale September 14) explores ten possible visions for the next 20 years. Learn more at"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/1413132091227705351",
+   "note": {
+    "en": "Lee announces AI 2041, his book of ten fictional visions of the next twenty years of AI.",
+    "zh": "李开复发布新书《AI 未来进行式》（AI 2041），以十个故事想象未来二十年的人工智能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2021-04-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "How AI can help us be more human | Kai-Fu Lee",
+    "zh": "How AI can help us be more human | Kai-Fu Lee"
+   },
+   "source": "TED Business",
+   "url": "https://podcasts.apple.com/us/podcast/how-ai-can-help-us-be-more-human-kai-fu-lee/id470622782?i=1000516734624&uo=4",
+   "note": {
+    "en": "His TED talk arguing that AI should take over routine optimisation so that human work can concentrate on compassion and creativity.",
+    "zh": "他的 TED 演讲主张让人工智能承担常规优化工作，使人类的工作得以专注于关怀与创造力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2019-07-15",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Kai-Fu Lee: AI Superpowers – China and Silicon Valley",
+    "zh": "Kai-Fu Lee: AI Superpowers – China and Silicon Valley"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/kai-fu-lee-ai-superpowers-china-and-silicon-valley/id1434243584?i=1000444514581&uo=4",
+   "note": {
+    "en": "Lex Fridman interview on AI Superpowers and how China and Silicon Valley differ as AI ecosystems.",
+    "zh": "接受 Lex Fridman 访谈，谈《AI 新世界》以及中国与硅谷作为人工智能生态的差异。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2019-06-05",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Kai-Fu Lee on the future of AI",
+    "zh": "Kai-Fu Lee on the future of AI"
+   },
+   "source": "The TED Interview",
+   "url": "https://podcasts.apple.com/us/podcast/kai-fu-lee-on-the-future-of-ai/id1437306870?i=1000440646929&uo=4",
+   "note": {
+    "en": "TED Interview on the US-China AI race and what it implies for the future of work.",
+    "zh": "在 TED Interview 中谈中美人工智能竞赛及其对未来工作的影响。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2019-06-05",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Kai-Fu Lee on the Power of A.I. to Transform Humanity",
+    "zh": "Kai-Fu Lee on the Power of A.I. to Transform Humanity"
+   },
+   "source": "Time Sensitive",
+   "url": "https://podcasts.apple.com/us/podcast/kai-fu-lee-on-the-power-of-a-i-to-transform-humanity/id1460711432?i=1000440659182&uo=4",
+   "note": {
+    "en": "2019 Time Sensitive interview with Lee on AI's potential to transform humanity, following his profile on 60 Minutes as an AI 'oracle'.",
+    "zh": "2019年Time Sensitive播客访谈，李开复探讨AI改变人类的潜力，此前他曾被CBS《60分钟》称为AI“先知”。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2019-02-18",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Kai-Fu Lee // China",
+    "zh": "Kai-Fu Lee // China"
+   },
+   "source": "Anatomy of Next",
+   "url": "https://podcasts.apple.com/us/podcast/kai-fu-lee-china/id1123461944?i=1000430192543&uo=4",
+   "note": {
+    "en": "Kai-Fu Lee appears as a guest on the \"Anatomy of Next\" podcast, discussing how China approaches technology and competes differently from the US.",
+    "zh": "李开复作为嘉宾做客播客《Anatomy of Next》，探讨中国在科技发展与竞争方式上与美国的不同之处。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2018-12-27",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "139: Kai-Fu Lee | AI Superpowers and the Future of Humanity",
+    "zh": "139: Kai-Fu Lee | AI Superpowers and the Future of Humanity"
+   },
+   "source": "The Jordan Harbinger Show",
+   "url": "https://podcasts.apple.com/us/podcast/139-kai-fu-lee-ai-superpowers-and-the-future-of-humanity/id1344999619?i=1000426561039&uo=4",
+   "note": {
+    "en": "Interview on the publication of AI Superpowers, setting out his account of China's rise as an AI power.",
+    "zh": "《AI 新世界》出版时的访谈，阐述他对中国崛起为人工智能强国的判断。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-07-20",
+   "level": "notable",
+   "title": {
+    "en": "01.AI targets a Hong Kong IPO, raising a pre-IPO round first",
+    "zh": "零一万物瞄准港股上市，先行 Pre-IPO 融资"
+   },
+   "body": {
+    "en": "Listing targeted for 2027.",
+    "zh": "目标 2027 年上市。"
+   },
+   "source": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-07-20/ai-pioneer-kai-fu-lee-s-startup-targets-hong-kong-ipo-next-year"
+  },
+  {
+   "date": "2026-06-01",
+   "level": "notable",
+   "title": {
+    "en": "Q.AI joint venture established with Kazakhstan",
+    "zh": "与哈萨克斯坦合资成立 Q.AI"
+   },
+   "body": {
+    "en": "Part of the sovereign-model strategy. 01.AI also shipped TrueNorth, an enterprise AI decision hub, extended into Boss AI, Investor AI and TopSales AI.",
+    "zh": "主权模型战略的一部分。零一万物同期发布企业 AI 决策中枢 TrueNorth，并延伸出 Boss AI、Investor AI 与 TopSales AI。"
+   },
+   "source": "01.AI",
+   "url": "https://www.01.ai/"
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T00:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Watch 01.AI's Kai-Fu Lee on Pacing Frontier AI Development",
+    "zh": "Watch 01.AI's Kai-Fu Lee on Pacing Frontier AI Development"
+   },
+   "body": {
+    "en": "Lee discussed pacing frontier AI development in a Bloomberg interview, offering his view on how fast the field should move.",
+    "zh": "李开复在彭博社采访中谈到前沿AI发展的节奏问题，阐述了他对该领域应以何种速度推进的看法。"
+   },
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdlJoVTk4Mm51S2p2U1J1MjVERG1Gend4d2xTY05XTkpwaW8waTBOMnBsV0tZMl9KN3JhZjNidlZnLWdObVIxMm5qZjg5Nnh2Rl9vZmhSRUllQ0lCN2ZIOG4tZTBVVE9jeUZWdjNiOWNNZjJiQ3dJMmY1S3IxZEtJOEVoRmI5VHFGblhqUVpLVVU3R1dXdi05NE9weGEyd0hQN01GYkZ5d19UaVU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T05:11:19Z",
+   "level": "minor",
+   "title": {
+    "en": "李开复称AI投资有一定泡沫，但泡沫会推动产业增长",
+    "zh": "李开复称AI投资有一定泡沫，但泡沫会推动产业增长"
+   },
+   "body": {
+    "en": "Kai-Fu Lee said AI investment shows some signs of a bubble, but argued the bubble will still drive industry growth.",
+    "zh": "李开复表示AI投资存在一定泡沫，但认为泡沫仍将推动产业增长。"
+   },
+   "source": "网易新闻客户端",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zcktjUUZVcTF5TTJaYW1JYk5aSVlweUxNNE01ekVYQzVSUnNPM0t1NGcxNVBKQjA2WC1TR0prU0dQam93ZFFtbHZzSk9wS1pLRTVSdy1Ra3llTlBHX0hwOWZ6ejR4dkJEdDZOcVh5RGtjZG5XUG1ULQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T08:04:28Z",
+   "level": "notable",
+   "title": {
+    "en": "零一万物李开复：AI没有办法承担责任",
+    "zh": "零一万物李开复：AI没有办法承担责任"
+   },
+   "body": {
+    "en": "Kai-Fu Lee argued that AI cannot bear responsibility for its own actions, weighing in on AI accountability.",
+    "zh": "李开复表示AI没有办法承担责任，就AI问责问题发表看法。"
+   },
+   "source": "tech.ifeng.com",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE91aG1uclhnWkNlaDFUcU5EN2dMVUJtd0pEQ3p4Tm1TZnViR05ncUtWZ1R6anhSRWdwYlV1eE4yTzhncm9kNUpWWjRoeTc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T06:11:00Z",
+   "level": "notable",
+   "title": {
+    "en": "【直击2026投洽会】李开复：AI的投资肯定是有一定程度的过热估值是否合理？还没有办法回答和解读",
+    "zh": "【直击2026投洽会】李开复：AI的投资肯定是有一定程度的过热估值是否合理？还没有办法回答和解读"
+   },
+   "body": {
+    "en": "Kai-Fu Lee said at a 2026 investment forum that AI investment shows some degree of overheating, though whether current valuations are reasonable remains unresolved.",
+    "zh": "李开复在2026投洽会上表示，AI投资确实存在一定程度的过热，但当前估值是否合理尚无法给出答案。"
+   },
+   "source": "证券时报",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jMWJvMFZQbjgxc3I4T0RrNjhrS0dxTmZQV2gyaUloTGVqeU9XczZ2LW9GYkh4Si03RzRFWlFSSnByTnZmRV8yQWVGZGpwbkhDeFhEZ1FBNU1laG9HUFE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T10:03:01Z",
+   "level": "notable",
+   "title": {
+    "en": "李开复：AI没有办法承担责任",
+    "zh": "李开复：AI没有办法承担责任"
+   },
+   "body": {
+    "en": "Kai-Fu Lee argued publicly that AI cannot bear responsibility, staking out a position on AI accountability as the technology takes on more consequential decisions.",
+    "zh": "李开复公开表示AI无法承担责任，就AI在承担愈发重要决策时的问责问题表明立场。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY0JKV0J5TVZSNW1VNTg5WHZ1UENiclVEOWpMWktzRzBSUFlDZVRxQkpTRUFfN2lzcG4xNXBNa28wdVBCQ2dYZGh4OUloNWhsdDVlQXhuTFg3emxsR2pjX0dUXy03enQySGlKRnprdXRYZHVabUZ5TzFyclV5LTN2SUFLaw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T05:13:55Z",
+   "level": "notable",
+   "title": {
+    "en": "李开复：现在是中国AI企业出海最好时机 AI应用不能只是摆盆景",
+    "zh": "李开复：现在是中国AI企业出海最好时机 AI应用不能只是摆盆景"
+   },
+   "body": {
+    "en": "Lee said now is the best time for Chinese AI firms to expand overseas, cautioning that AI applications must go beyond superficial showcases ('bonsai').",
+    "zh": "李开复表示，现在是中国AI企业出海的最佳时机，并提醒AI应用不能只做表面文章、摆盆景式的展示。"
+   },
+   "source": "观点网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YWkhPSFZxR1owZjJJR1RpNGpMQjVGMk15QUt3OFQ4cV9FcVU1QlBTNzZqM0dwUXktU1lLcWVnZzN2QzFid1N6ZUxUUmI3YUViU3RHbkRfbTVFVmJ3amJaOXJn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T03:50:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李开复：我们中国的AI企业必须出海，现在是最好的时机",
+    "zh": "李开复：我们中国的AI企业必须出海，现在是最好的时机"
+   },
+   "body": {
+    "en": "Kai-Fu Lee argued that Chinese AI companies must expand overseas now, calling this the best window of opportunity to do so.",
+    "zh": "李开复表示中国AI企业必须出海，并认为现在是出海的最佳时机。"
+   },
+   "source": "thepaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6MHJaLWYtS1gydGhHOV8xX2U1SGtDZlNCRFR3c25pUUtCYnFSTUdMVDJwV2F4dm9fdUNUcFRYNzI0MlVZVjhNMzY1Wnl5Y3BRYVZnNGhNQ0xUVE5tNEE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-06",
+   "ts": "2026-09-06T01:09:00Z",
+   "level": "notable",
+   "title": {
+    "en": "彭博：李开复：中国将在人工智能竞赛中赢得胜利",
+    "zh": "彭博：李开复：中国将在人工智能竞赛中赢得胜利"
+   },
+   "body": {
+    "en": "Told Bloomberg that China will win the AI race.",
+    "zh": "在接受彭博采访时表示，中国将在人工智能竞赛中获胜。"
+   },
+   "source": "腾讯新闻",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YdHRaUWNUYVdfQzBWa3hDRlhxV2cwT2RRWU84WFFIWUtlOGJmalFUc3dySm5CdC05ckJTc19RTEpkMzNlLWVmdjh2QWJial9nNkx5aUxTWXo5YUJXNVczbGlR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-06",
+   "ts": "2026-09-06T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "彭博：李开复：中国将在人工智能竞赛中赢得胜利",
+    "zh": "彭博：李开复：中国将在人工智能竞赛中赢得胜利"
+   },
+   "body": {
+    "en": "Kai-Fu Lee told Bloomberg he believes China will win the AI race.",
+    "zh": "李开复在接受彭博采访时表示，他认为中国将在人工智能竞赛中获胜。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ueXpFX1VOZ0NIR0xrRmlDdmhnaVlvcmRCNC1rWHVqcWFuVW1fUjFjRXM2NFVtbUYzYXpMX2lrTlBVQlR4X2Z1ZE4xODJoX0djbnhqbVdn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-05",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "李开复彭博社专访：中国AI以“六个月差距”挑战美国，开源模型将赢得全球覆盖战",
+    "zh": "李开复彭博社专访：中国AI以“六个月差距”挑战美国，开源模型将赢得全球覆盖战"
+   },
+   "body": {
+    "en": "In a Bloomberg interview, Lee argued China's AI lags the US by only six months and that open-source models will win the global adoption race.",
+    "zh": "李开复在接受彭博社专访时提出，中国AI与美国的差距仅有六个月，开源模型将赢得全球普及之战。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ScVdqSHJGeDVZbVcwdzN2RW5jYzNUZldObk02T2pmRTV2NzVhSjg0UHJVemhsR3c3d01mR1V6UlM3Zi1Xc3hSQjgxUVBtSFRPNGZScHNiY2VWN3B6MkNQc3VOWWhZaFNqNWhudGRmNFE5SlZ1VE4zNVpSaVJFS2M?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Watch Kai-Fu Lee Says China Will Win AI Reach Race",
+    "zh": "Watch Kai-Fu Lee Says China Will Win AI Reach Race"
+   },
+   "body": {
+    "en": "Lee said in a Bloomberg interview that China will win the global race for AI reach/adoption.",
+    "zh": "李开复在彭博采访中表示，中国将在全球AI普及/触达竞赛中获胜。"
+   },
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTkh3V2JIR2o0MkVsYzVGbWk3ZHFQcEw0R3YtN3Rnb1VMQ3NHVDBSaTlreFlkOHd3VFhmV1kzUm9nM05kTHJmY1o3eXpLQ2prNUJCY1MwcFB3ZlNUMXZnZDFwQkgza08yTGdSQjk2bUY5WlJUTTZ6MTU1SENEVEJXdFVMT1pDXzA0bEdpcFZqN0ZlSE14Q3NjeDdYbzdmWVBJ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "李开复：AI会让中国和世界GDP都快速增长",
+    "zh": "李开复：AI会让中国和世界GDP都快速增长"
+   },
+   "body": {
+    "en": "Lee argued that AI will drive rapid GDP growth for both China and the world.",
+    "zh": "李开复认为AI将推动中国与全球GDP的快速增长。"
+   },
+   "source": "thepaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJbU50c3p5WE5HdFozZzVmVEFUNkNSMXFKdXBSQWpEUUhUU0liWHlNWGYwWjUtQ01od2VIMElFb2kxbGZCS0ZHQTFpYVdfclA5c2tVNURsTEd3QU1RZHc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "李开复：DeepSeek的词元成本一年下降了10倍",
+    "zh": "李开复：DeepSeek的词元成本一年下降了10倍"
+   },
+   "body": {
+    "en": "Lee said DeepSeek's per-token cost fell tenfold in a year, citing it as evidence of rapid AI cost deflation.",
+    "zh": "李开复表示DeepSeek的词元成本一年内下降了十倍，以此说明AI成本正快速下降。"
+   },
+   "source": "sohu.com",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZm1rYnJVOEd6MENKb3VHYWc0YUkyRVRYR0pvNVVDVmJfNkRUOUZpekF2cm9VcWtLMU1PS2hDbzVJOGtpTklMb21DSlgtRzlUWHFPNU1KS2U0b2ZubzV2VDdxTTFIVTdDNnVrOTc1NWhvaURJVjNSRVI4Z09XR1JkN1hyZ3lvbl90?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-03",
+   "ts": "2026-09-03T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李开复：AI的扩散不需要更多成本，所有硬件都是现成的",
+    "zh": "李开复：AI的扩散不需要更多成本，所有硬件都是现成的"
+   },
+   "body": {
+    "en": "Lee argued that further diffusion of AI doesn't require additional compute cost, since the necessary hardware is already available.",
+    "zh": "李开复表示，AI的进一步普及并不需要额外的成本投入，因为所需硬件已经现成具备。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX3kyTWw3dzVXYS1VcFk3dk1sTFk0cTlVcjV4elFCdTFERVZoSTdWV3hzN29aQzNpaGM4VnU0TWs2RDJKdV82UnZ2YVdiNXBPcVlNR2cyRVdhQ0lwQ0I1YkF1aHJVTkZod1RkdjhlU0RCTFdGVkJheHpRUGJZclBBdVNFMndVbTh3Z1QzV2x6VWVqcUtYX0ZtNGNMZmY3VkdBUlc5ekw4UXRfQzdBR2ZNb2J2U0dOVHktTmJ6eWxFbE1mMkxXNHpkWWtHNTlrZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-28",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "李开复等4位科学家当选哈萨克斯坦国家科学院外籍院士",
+    "zh": "李开复等4位科学家当选哈萨克斯坦国家科学院外籍院士"
+   },
+   "body": {
+    "en": "Elected a foreign member of the National Academy of Sciences of Kazakhstan, one of four scientists named.",
+    "zh": "当选哈萨克斯坦国家科学院外籍院士，是同期入选的四位科学家之一。"
+   },
+   "source": "哈通社",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JSUd4UmdpeWpWNTQ3bG9QWEVkVHBqYXNoWUU3LUQ3Q1A5d3dJLXlnSUI2UllJVzJfYUJQRVdjQkdvWEsxVVJoNkdUTWxtSV9QWjRSZ1dxTXdEN0VhSVZFZTlrdENELXdSRFY0cDVuM1UxWERX0gFzQVVfeXFMUDRBNG9SR0poM1RHTnZTOFV0ajRtbTlQZVJNaXljTWxOSmw5bFJXSkY2VWJQeWJla0ZManJXcDZHNjZfclplQVFnczVXU0pNX3BSUm5SNGVyTTBMUHdHVUFUMFBmY3NhTkdVMmQyREFaR1NtWQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-28",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "李开复向彭博社摊牌：明年盈利，2027港交所见",
+    "zh": "李开复向彭博社摊牌：明年盈利，2027港交所见"
+   },
+   "body": {
+    "en": "Lee tells Bloomberg that 01.AI expects to turn a profit next year and is targeting a Hong Kong listing in 2027.",
+    "zh": "李开复向彭博社表示零一万物预计明年实现盈利，并计划于 2027 年在港交所上市。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMirARBVV95cUxONnhCdENucmZoSGpSbWZRZE9IeXRZUmQ2bEFRNW5qZTJSLWVFd09FTThzbnVXTGpheWI4SjFUUjZ3RkNhaFhQYmNWUGtWWkJtOFRjdmtmdnA3cUZqZHBQaVhwWllLcTltV1R4aU9qaF9Nd2wtNTEtRWhOUGRqN0FibTVKemd0ZDI1djhlaUwybnRtZzBvck50WFhQWFVsZlJoTVpUQ0RIWmJGRGpXZ21RTWdWTEthMlZSU2hYaHpqZjNQcWtlSkNTMXlMMmdRTUkwVE15X1lVRkRiTllCbHJxdzFwUmtraGdMZ1E3MUJOeUdPSTRoajgxdmFyY1pCWEpVZ2RacG9wTV8yUWdfTEdISkJsNEZEY0tnRjVvRHBtWkZPTUhHQVIxTUxXZFFFRHBUcnp3bnV6QUVpS0cyWktsU0cxNXdhMjRXc1NaSkczNGNsWWw0aHhxc0xrckloc0ZfZ3NySjdsVVF0XzlIQ1oxWE8wYTFVSVU3YTJFSjVxdTJISU03TTdfT2NRakFWUkxSc3NkSXh4TDhPc3Q0TkxxM01XN0YwS293bHZpalZhVFZENGFCME1WNDB5UmYyNWFZd0xPcmFpSWY1TkpEYzY1TTI2SWtESkJubl84a1hiTjEwY21aTFRnVzdIdmFsRU1LM2JmbjZ3dFZYZV9YTXdrcmI2Q0U4Qm1UdEIzZWZURGtQRFZraV9Scm9oNERuV2ZPSTR6eDJ6REIyTkl4?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-28",
+   "ts": null,
+   "level": "minor",
+   "title": {
+    "en": "李开复等4位科学家当选哈萨克斯坦国家科学院外籍院士",
+    "zh": "李开复等4位科学家当选哈萨克斯坦国家科学院外籍院士"
+   },
+   "body": {
+    "en": "Lee is among four scientists elected foreign academicians of the National Academy of Sciences of Kazakhstan.",
+    "zh": "李开复等四位科学家当选哈萨克斯坦国家科学院外籍院士。"
+   },
+   "source": "哈通社",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0QTRvUkdKaDNUR052UzhVdGo0bW05UGVSTWl5Y01sTkpsOWxSV0pGNlViUHliZWtGTGpyV3A2RzY2X3JaZUFRZ3M1V1NKTV9wUlJuUjRlck0wTFB3R1VBVDBQZmNzYU5HVTJkMkRBWkdTbVnSAXNBVV95cUxQNEE0b1JHSmgzVEdOdlM4VXRqNG1tOVBlUk1peWNNbE5KbDlsUldKRjZVYlB5YmVrRkxqcldwNkc2Nl9yWmVBUWdzNVdTSk1fcFJSblI0ZXJNMExQd0dVQVQwUGZjc2FOR1UyZDJEQVpHU21Z?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "HICOOL 2026峰会启幕 李开复提出AI时代的骆驼公司概念",
+    "zh": "HICOOL 2026峰会启幕 李开复提出AI时代的骆驼公司概念"
+   },
+   "body": {
+    "en": "At the HICOOL 2026 summit, Lee proposed the concept of the AI-era 'camel company' as a framework for how businesses should adapt.",
+    "zh": "李开复在HICOOL 2026峰会上提出了AI时代的“骆驼公司”概念，作为企业应对变革的框架。"
+   },
+   "source": "weibo.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqR2MyTWUyS0xfdV81OFBmaGM3WFRadldVSWdXejZONHZhaTVTNldVRV9Wb2hxUm04NlFjZXhNbERISlBaY1JMRGM3cXdlWDBxQ1JwWnhB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "李开复于HICOOL 2026峰会提出AI时代将有骆驼公司",
+    "zh": "李开复于HICOOL 2026峰会提出AI时代将有骆驼公司"
+   },
+   "body": {
+    "en": "At the HICOOL 2026 summit, Kai-Fu Lee argued the AI era will give rise to 'camel companies' — his framework for firms built to endure resource-constrained, uncertain conditions.",
+    "zh": "李开复在HICOOL 2026峰会上提出，AI时代将涌现骆驼公司——他用以形容能在资源受限、不确定环境中生存的企业的新框架。"
+   },
+   "source": "微博",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YYk16V3NtdlVuM1RmNVNPb0xQaXMwVlV4TmpTTkhCd09NOFJzUkNqOHdyd2dUbk9YbkpLNG9FT19oa2ZXVVU3Ri0zTXpRX2syRkl1ZXJ3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-14",
+   "ts": "2026-08-14T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李开复在人民日报撰文：AI变革绝不是工业革命4.0",
+    "zh": "李开复在人民日报撰文：AI变革绝不是工业革命4.0"
+   },
+   "body": {
+    "en": "Kai-Fu Lee argued in an op-ed for People's Daily that the current AI shift should not be framed as a fourth industrial revolution.",
+    "zh": "李开复在《人民日报》撰文，认为这一轮AI变革不应被称为“工业革命4.0”。"
+   },
+   "source": "上观新闻",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEc1puNlJNanplZ2JBeXFWa2xULTZCTkt5RU9xUGY5VVUwekVyVHVJZGZGSW9yQnhBT1hNTUtZQmFnN2JjZVRhNFpqdDF5Z0Q0am40SUNJTmJuTnM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-13",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "李开复在人民日报撰文：AI变革绝不是工业革命4.0",
+    "zh": "李开复在人民日报撰文：AI变革绝不是工业革命4.0"
+   },
+   "body": {
+    "en": "Signed People's Daily article in which Lee argues the AI shift should not be read as a fourth industrial revolution.",
+    "zh": "李开复在《人民日报》署名撰文，认为 AI 变革不能简单等同于“工业革命 4.0”。"
+   },
+   "source": "shobserver.cn",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWSmRIZUc3azRKY0oyTHdfWEVyNGhwTkFYYzNaMm0zekN3UmFDM3JndGxUdmVJblpjNkVkSVJ0cVE0djVDWUZZRFdRMGxibjJXR2tGVkhMVTBwTUhMZXc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-11",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "李开复：中国的开源模型让美国人很担忧",
+    "zh": "李开复：中国的开源模型让美国人很担忧"
+   },
+   "body": {
+    "en": "Told Chinese media that China's open-source AI models are causing real concern among Americans, a pointed stance in the US-China AI competition.",
+    "zh": "他向中国媒体表示，中国的开源AI模型正让美国人感到担忧，这是他在中美AI竞争中的鲜明表态。"
+   },
+   "source": "北晚在线",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtS3hTYWpKYnJ3ZDBXM3VyTW9WdHR4WlhtUEoyQW4xd01yc3B3YW5iM24wdDNLSzR0ODZFV3J1UDJEbXNFWVFxaDdyVDZHcFMwYUQtamI0LWhXZ25URHhZcFdxUlU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-11",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "李开复：人工智能进行科学发明是必然，拿诺贝尔奖只是时间问题",
+    "zh": "李开复：人工智能进行科学发明是必然，拿诺贝尔奖只是时间问题"
+   },
+   "body": {
+    "en": "Kai-Fu Lee predicted that AI making scientific discoveries is inevitable, and that an AI winning a Nobel Prize is only a matter of time.",
+    "zh": "李开复预测，人工智能进行科学发明是必然趋势，AI获得诺贝尔奖只是时间问题。"
+   },
+   "source": "北晚在线",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQN1Zidmx4bmVqZDI4TUJqS2FHNmczWE91M2padlNGZ2lZa0FsUXhaV01fWDItYjZlN3Y4a1M1cWRObjFOVEhscjNTTDVyTmpCel9HeTA0cGNLMHNJVzBlZ1ZkNVQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-07",
+   "ts": "2026-08-07T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "AI比人聪明后怎么办？李开复：AI赢的是左脑，人类赢的是右脑",
+    "zh": "AI比人聪明后怎么办？李开复：AI赢的是左脑，人类赢的是右脑"
+   },
+   "body": {
+    "en": "Kai-Fu Lee argued that once AI surpasses humans in 'left-brain' reasoning, humans will still hold the advantage in 'right-brain' creativity and intuition.",
+    "zh": "李开复认为，当AI在\"左脑\"推理能力上超越人类后，人类仍将在\"右脑\"的创造力和直觉方面占据优势。"
+   },
+   "source": "21财经",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdVp6ZHJ5VGVxRldsOTJHOVRUWFlFV0x6SDQ5T29Hb3p0d2JVNVhjZTlCZVd4X284N3d1NGg1M0k1N0V1aWdYeVN2bG8tSTNwQ09XbnhjOHpTbWNfM1htMUxOdjJ4UmNLQnlKMGVWN1ZEMW9YWVFVeWdwOFZ1YmtqZnA5ZXIxS3hDYTItbU5KRjd0LUZW?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-30",
+   "ts": "2026-07-30T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李开复谈企业AI转型：标准软件价值下降，CEO应亲自推动",
+    "zh": "李开复谈企业AI转型：标准软件价值下降，CEO应亲自推动"
+   },
+   "body": {
+    "en": "Kai-Fu Lee argued that standard enterprise software is losing value in the AI era and that CEOs must personally drive their company's AI transformation.",
+    "zh": "李开复认为在AI时代标准化企业软件的价值正在下降，CEO应亲自推动企业的AI转型。"
+   },
+   "source": "虎嗅网",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PUTJwQ0lYNEs4dlpzMWFWaml1ajZKZDAtYmxBTWU2ZmRjY19Da21yU3NXc0RZMFY2bmI5ZTV5Z1NOVF9xb2hPYjFPUXdkclpvcl8wWg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-28",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "李开复：不止于“中国版Palantir”，零一万物想重新定义企业AI服务的边界",
+    "zh": "李开复：不止于“中国版Palantir”，零一万物想重新定义企业AI服务的边界"
+   },
+   "body": {
+    "en": "Lee positioned 01.AI as aiming beyond a \"China's Palantir\" label, describing plans to redefine the boundaries of enterprise AI services.",
+    "zh": "李开复将零一万物定位为不止于\"中国版Palantir\"，并阐述了重新定义企业AI服务边界的计划。"
+   },
+   "source": "凤凰网财经",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IODY2QkhsOFJadW04RFpsNjBmZG51c1RGZVlXTGx5Q19ya1VnZ1FwOVE1a3ZTWW1HOG5rT2ZRQVAwamo0QjZ2bFZSbDdpdGQ0?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-28",
+   "ts": "2026-07-28T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "放弃大模型豪赌，李开复旗下零一万物冲刺IPO，15亿订单能解盈利焦虑？",
+    "zh": "放弃大模型豪赌，李开复旗下零一万物冲刺IPO，15亿订单能解盈利焦虑？"
+   },
+   "body": {
+    "en": "01.AI is reportedly stepping back from a heavy bet on frontier large models and pushing toward an IPO, banking on roughly ¥1.5 billion in orders to ease profitability pressure.",
+    "zh": "据报道，零一万物正放弃对前沿大模型的重金押注，转向冲刺IPO，寄望约15亿元的订单缓解盈利压力。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSXpjUWR3WjVoQWF3NWoycVJoY1B2eDg1RFU2UXdlYjFiaV9vUHJmbThybTBMZ084WjZXQUlFSWhfM1htTVN1N0VQdldObWxpcy04Z2txaUxZMThodldOaGwtWWRaWEh0a0N2V3RyTUd0N1E2cEhLS3gyaUxnVDg1b3B6RGpVN094U3VuWG91SExiQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-20",
+   "ts": "2026-07-20T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "李开复：零一万物计划2027年赴港IPO",
+    "zh": "李开复：零一万物计划2027年赴港IPO"
+   },
+   "body": {
+    "en": "Kai-Fu Lee said 01.AI plans to list in Hong Kong in 2027.",
+    "zh": "李开复表示零一万物计划于2027年在香港上市。"
+   },
+   "source": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1JdENpYm51R2VOSF9tRzFkdmY1TVB6dEdxWmZkNy0wU2ZYcGplUXB1ZTRQQ3JETnNEck9sZm9HbVBzbDJsMDZOUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-20",
+   "ts": "2026-07-20T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "李开复：零一万物计划2027年赴港IPO",
+    "zh": "李开复：零一万物计划2027年赴港IPO"
+   },
+   "body": {
+    "en": "Kai-Fu Lee said 01.AI plans to pursue a Hong Kong IPO by 2027.",
+    "zh": "李开复表示零一万物计划于2027年在香港上市。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE11SmRnblRRNXNTVmJaTW1wZHpCTmtkWTc4R2pfTmE4Zy1xQ29TZEpaMEQ5c01xUndtbDJsU3JNRVFSMHBReGlWeG1xbU8?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-17",
+   "ts": "2026-07-17T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "直击WAIC｜李开复现场发布新书《AI未来已来》，谈企业AI转型焦虑",
+    "zh": "直击WAIC｜李开复现场发布新书《AI未来已来》，谈企业AI转型焦虑"
+   },
+   "body": {
+    "en": "Kai-Fu Lee launched his new book \"AI Future Has Arrived\" on stage at WAIC, addressing enterprises' anxiety over AI transformation.",
+    "zh": "李开复在WAIC现场发布新书《AI未来已来》，探讨企业在AI转型中的焦虑。"
+   },
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOczFrMlNKdWJwQS1aN25MX0Z5WHZIMDk0VFZBNFdONkhEaXlTSUhNSTdZYi1XNFNTTWxmUnBXekNHd0JlOEFZU1A4V1M0bkhpX0R6U1VlblRXa2NWM2hRczNxVTJQNncxZ084MXFGYnFSaUNCUk85SGZzNGp6U3RyNzRjd1RSRUtJb3J2UTV2RzZVWXFPNy1tZXcwS2pCV1FVVC14NFRvSUs1NXZVaE5kVmZ1MlVoQzV5Wk5ZZWtzb1JiTk1qVmFJcEI1ZzdQQWlCcmxJ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-08",
+   "ts": "2026-07-08T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "李开复要做升级版的Palantir，零一万物发布“一号位AI”",
+    "zh": "李开复要做升级版的Palantir，零一万物发布“一号位AI”"
+   },
+   "body": {
+    "en": "01.AI launched an enterprise 'number-one AI' product, with Lee positioning it as an upgraded, Palantir-style offering.",
+    "zh": "零一万物发布面向企业的\"一号位AI\"产品，李开复将其定位为升级版的Palantir。"
+   },
+   "source": "qq.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84MVZtbUp3TWk0NXB5SzhmTkhlcWZHNFhlVEYydVJidXNXNnp6cjBvSzdER3RwOF9hdVBEOW5hV3p2OU1sTExsdFQtOVdMdU5PbmZ5Mm1R?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-07",
+   "ts": "2026-07-07T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李开复携“一号位 AI” 产品亮相，帮老板们做决策改善财报",
+    "zh": "李开复携“一号位 AI” 产品亮相，帮老板们做决策改善财报"
+   },
+   "body": {
+    "en": "Kai-Fu Lee unveiled a new '1-Seat AI' product aimed at helping executives make decisions and improve financial performance.",
+    "zh": "李开复推出新产品\"一号位AI\"，旨在帮助企业高管做决策、改善财报表现。"
+   },
+   "source": "中国经济网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tNm1jSG96bmJFUFByYThOaXpOZW1CRmNQdkxEYnJtUFpiR05YWWhldEFwcXJWRVNqRndkc2lZRk5TQ05VZmVndm41RHZaLXZKYmd6aDN4b1AwZENfbE9YNkR5NUdIMUpLLUJwTU01VnBCUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-07",
+   "ts": "2026-07-07T13:56:54Z",
+   "level": "major",
+   "title": {
+    "en": "李开复携“一号位 AI”亮相：望零一万物成为 AI 决策系统公司",
+    "zh": "李开复携“一号位 AI”亮相：望零一万物成为 AI 决策系统公司"
+   },
+   "body": {
+    "en": "Lee unveiled '一号位 AI,' positioning 01.AI as an AI decision-system company for enterprise leaders, the company's new strategic direction.",
+    "zh": "李开复发布“一号位AI”，将零一万物定位为面向企业决策者的AI决策系统公司，标志着公司的新战略方向。"
+   },
+   "source": "新京报",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TUzRFSERvdGZXOVl6X3ZpbmJxWDJsekhNLVgyMjRNbGpsTURja1pnUTJ1WjN2SVRJemR1bEYwVUE5M2ZORGpPZkxWU01VVDdPeEk0V1hmdlZEOEdGSEFFRGJR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-05",
+   "ts": "2026-07-05T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "放弃热门通用大模型，李开复 65 岁二次创业，道出 AI 行业真相",
+    "zh": "放弃热门通用大模型，李开复 65 岁二次创业，道出 AI 行业真相"
+   },
+   "body": {
+    "en": "At 65, Lee is starting over by abandoning the popular general-purpose large-model race in favor of 01.AI's enterprise pivot, a major strategic reset.",
+    "zh": "65岁的李开复放弃热门的通用大模型路线，转向01.AI的企业级战略，是一次重大的战略转型。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDaW5mTEdQZ0VLOVFTSkgxbHd5SnZNMGxmSVpIQ0gtNlhXTU9hdFBKQms4SW1EZUVJV01YWVhzSnNIbUpCY3hlazltVU1XRjBRMkE0ZEpHdkdTcWpRYVE1WFlIRElnWnI3QWhnWVl1S1FsU01sa0E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-03",
+   "ts": "2026-06-03T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Kai-Fu Lee’s 01.AI enters smart poultry with CP Group JV",
+    "zh": "Kai-Fu Lee’s 01.AI enters smart poultry with CP Group JV"
+   },
+   "body": {
+    "en": "01.AI entered the smart poultry industry via a joint venture with CP Group, extending Kai-Fu Lee's push into enterprise AI applications.",
+    "zh": "01.AI与正大集团（CP Group）成立合资企业进军智能养殖领域，延续了李开复对企业级AI应用的布局。"
+   },
+   "source": "agripost.cn",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdFg3WlJoZlhSSlJOVkRXZ1ozcjNlcGNWVnk3Wm02eTlucEhyckFSRnhEYUQwRy1KZDhZT3ZYVno0MkcyWTN5QnRUYl80cGZfZnUzWDJ6NWpiSVExV1dWNjFBN1AtTEZRUXI4ZkVGd2l3Y2cwTmVmOWNoSFZoNFczeURidVNNSV9PMjZoU1c3bUpqamJfNUE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-28",
+   "ts": "2026-05-28T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李开复内部讲话：今年15亿订单，2027年IPO",
+    "zh": "李开复内部讲话：今年15亿订单，2027年IPO"
+   },
+   "body": {
+    "en": "In an internal talk, Lee said 01.AI expects 1.5 billion yuan in orders this year and is targeting a Hong Kong IPO in 2027.",
+    "zh": "李开复在内部讲话中表示，01.AI今年订单预计达15亿元人民币，并计划于2027年在香港上市。"
+   },
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5taHJMZGlMMzY3YWpRd29teHd6M2pDRnFtdTJLejdLclQtbmZPczhuS1VIUU1mNW5yTUl1UHJtcjRpYmJxZVdWSW5mckNtbUpMSjVhLW1RNTlpRUpLcG4wRVJGUy15V1pUdW5SVS1yb20yRjJWNWc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-28",
+   "ts": "2026-05-28T13:03:06Z",
+   "level": "notable",
+   "title": {
+    "en": "李开复内部讲话：今年15亿订单，目标明年IPO",
+    "zh": "李开复内部讲话：今年15亿订单，目标明年IPO"
+   },
+   "body": {
+    "en": "In an internal talk, Lee disclosed 01.AI's 2026 order target of roughly ¥1.5 billion and said the company aims to IPO the following year.",
+    "zh": "李开复在内部讲话中透露零一万物2026年订单目标约为15亿元，并表示公司计划明年冲刺IPO。"
+   },
+   "source": "user.guancha.cn",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xb1oyNWRZNWItbE80T1hKc04yYkR4NHNPYzA5M2U2cFE0QXJHX1dDbnhuMWcwenNPcllYTFlvVHZkTVI5cGd6RWJQOEpPeG4tRWhCSHVOTl9OUEpWV2FzamhCQjRINENzRXc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-28",
+   "ts": "2026-05-28T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李开复内部讲话：今年15亿订单，2027年IPO",
+    "zh": "李开复内部讲话：今年15亿订单，2027年IPO"
+   },
+   "body": {
+    "en": "In an internal talk, Lee disclosed 01.AI's target of 1.5 billion yuan in orders this year and a planned 2027 IPO.",
+    "zh": "李开复在内部讲话中透露，01.AI今年目标订单达15亿元，并计划于2027年上市。"
+   },
+   "source": "观点网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02UE5CdmtDTGZndnZ5M2hSZGJRNFJOSWI4XzRKUW04UjRNQjFiSk1jQ3lMVGlwbTYxZnh1eDdlZGc4Rlk4ZXBscElCR2pmS041OGlabmh3ZEluWURyd2pBWS13?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-26",
+   "ts": "2026-05-26T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "对话李开复：别叫我们 “六小虎”，叫 “金钱豹”",
+    "zh": "对话李开复：别叫我们 “六小虎”，叫 “金钱豹”"
+   },
+   "body": {
+    "en": "Kai-Fu Lee rejected the \"six little AI tigers\" label for China's leading startups, arguing they should instead be seen as \"money leopards\" focused on profitability.",
+    "zh": "李开复拒绝被称为“六小虎”，主张应将这些中国AI创业公司视为注重盈利的“金钱豹”。"
+   },
+   "source": "t.cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DV200QktyWHNRdlBVZU1lNXl5NlUxUkxaZ05tYnpUQXhuLXc1VExPUXh1VjRORmMzV1hjMVlCa0NRYU5kLTZSTGQzSTZaeEJfekQtRUI1ZnQ1RE4xY3Z3WjhNUVh0aDl3N1hCRFRkcXNCdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-19",
+   "ts": "2026-05-19T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李开复×苏姿丰炉边对话：2026年，AI开始替代的将不是岗位，而是整个部门",
+    "zh": "李开复×苏姿丰炉边对话：2026年，AI开始替代的将不是岗位，而是整个部门"
+   },
+   "body": {
+    "en": "In a fireside chat with AMD CEO Lisa Su, Lee argued that in 2026 AI will start displacing whole departments rather than individual jobs.",
+    "zh": "李开复在与AMD首席执行官苏姿丰的炉边对话中表示，2026年AI开始替代的将不是具体岗位，而是整个部门。"
+   },
+   "source": "Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jamduTUdqVGh0N2Z0N2ExZkJpdlNocXhCVm9GT2lUd1R4Znp0UU9ERlFlT1VaUC1uaWpDZWdJSzBVWHRWUl9pSGducWdGLUpsQ3V6R2JUQXNlZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-02-04",
+   "ts": "2026-02-04T08:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李开复谈当下AI竞争：中国为何能在消费级AI领域击败美国？",
+    "zh": "李开复谈当下AI竞争：中国为何能在消费级AI领域击败美国？"
+   },
+   "body": {
+    "en": "Lee argued China is positioned to beat the US in consumer-facing AI, laying out his read on the competitive dynamics between the two countries.",
+    "zh": "李开复认为中国有望在消费级AI领域击败美国，阐述了他对中美两国AI竞争态势的判断。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9lSElOVmhodWVIcXFtRjlaZGlDSmlaS19LZnZvQnVrWG03SjhQaFoxR2p5bllORS04Si14dExqVHExZTNIWmlQeWFib0Q?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "product",
+ "score": {
+  "total": 50.0,
+  "attention": 46,
+  "centrality": 30,
+  "momentum": 82,
+  "stature": null,
+  "pageviews": 77041,
+  "citations": 2181,
+  "hIndex": 20,
+  "events": 43,
+  "posts": 79,
+  "wikiEn": "Kai-Fu Lee",
+  "wikiZh": "李开复"
+ },
+ "seedRank": 46,
+ "tier": "t3"
+}

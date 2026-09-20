@@ -1,0 +1,1730 @@
+{
+ "rank": 85,
+ "id": "percy-liang",
+ "name": {
+  "en": "Percy Liang",
+  "zh": "Percy Liang"
+ },
+ "role": {
+  "en": "Associate Professor, Stanford; Director, Center for Research on Foundation Models",
+  "zh": "斯坦福大学副教授；基础模型研究中心主任"
+ },
+ "org": "Stanford CRFM",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "Stanford CRFM",
+  "HELM",
+  "Foundation models",
+  "Evaluation",
+  "Transparency"
+ ],
+ "why": {
+  "en": "Coined 'foundation models' and built HELM — the main force behind model transparency and standardised evaluation at a time when everyone else was optimising for leaderboard scores.",
+  "zh": "提出「基础模型」这一术语并建立 HELM 评测体系，是模型透明度与评测标准化的主要推动者 —— 在所有人都在优化榜单分数的时候。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@percyliang",
+   "url": "https://x.com/percyliang",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Stanford page",
+   "url": "https://cs.stanford.edu/~pliang/",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @percyliang",
+   "url": "https://github.com/percyliang",
+   "t": 1
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face @percyliang",
+   "url": "https://huggingface.co/percyliang",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "Stanford CRFM",
+   "url": "https://crfm.stanford.edu/",
+   "t": 2
+  },
+  {
+   "kind": "github",
+   "label": "HELM on GitHub",
+   "url": "https://github.com/stanford-crfm/helm",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "SAIL Blog",
+   "url": "https://ai.stanford.edu/blog/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Percy+Liang",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Percy+Liang",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Percy+Liang",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Percy+Liang&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Percy+Liang&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Percy+Liang",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Percy+Liang",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Percy+Liang",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Percy+Liang",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Percy+Liang",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Percy+Liang",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Percy+Liang",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Percy+Liang",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ACL Anthology",
+   "url": "https://aclanthology.org/search/?q=Percy+Liang",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Percy+Liang&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Percy_Liang",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2021-08-16",
+   "kind": "paper",
+   "title": {
+    "en": "On the Opportunities and Risks of Foundation Models",
+    "zh": "论基础模型的机遇与风险"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2108.07258",
+   "note": {
+    "en": "The report that coined the term 'foundation model'.",
+    "zh": "提出「基础模型」这一术语的报告。"
+   }
+  },
+  {
+   "date": "2022-11-16",
+   "kind": "paper",
+   "title": {
+    "en": "Holistic Evaluation of Language Models (HELM)",
+    "zh": "语言模型的整体评测（HELM）"
+   },
+   "source": "Stanford CRFM",
+   "url": "https://crfm.stanford.edu/helm/",
+   "note": {
+    "en": "Entered maintenance mode on 1 June 2026.",
+    "zh": "已于 2026 年 6 月 1 日进入维护模式。"
+   }
+  },
+  {
+   "date": "2026-01-01",
+   "kind": "talk",
+   "title": {
+    "en": "CS336: Language Models from Scratch",
+    "zh": "CS336：从零构建语言模型"
+   },
+   "source": "Stanford",
+   "url": "https://cs.stanford.edu/~pliang/",
+   "note": {
+    "en": "The course is one of the more useful public artefacts of the year — it forces the whole stack into view.",
+    "zh": "这门课是这一年更有用的公共产物之一 —— 它逼着你把整个技术栈摊开来看。"
+   }
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T05:28:56Z",
+   "kind": "x",
+   "title": {
+    "en": "Glad to see another live training run! Here's how Marin 535B-A23B is doing today: https://t.co/Bc3CcV4FOm Anyone else want to share? https://t.co/S71nmJ4fS3",
+    "zh": "Glad to see another live training run! Here's how Marin 535B-A23B is doing today: https://t.co/Bc3CcV4FOm Anyone else want to share? https://t.co/S71nmJ4fS3"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2100456950660247662",
+   "note": {
+    "en": "Liang posted a live status update on the Marin 535B-A23B training run, part of his push for open, transparent model development.",
+    "zh": "Percy Liang分享了Marin 535B-A23B训练任务的实时进展，延续他推动开放透明模型开发的一贯立场。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
+    "zh": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.11917v1",
+   "note": {
+    "en": "Co-authored with Stanford and collaborators including Jure Leskovec, this paper shows mixture-of-experts models overfit more than dense transformers when training data must be repeated, relevant to CRFM's work on data-constrained scaling.",
+    "zh": "该论文由Percy Liang与Jure Leskovec等合作者共同完成，发现在训练数据需要重复使用时，混合专家（MoE）模型比稠密Transformer更容易过拟合，这与CRFM在数据受限扩展方面的研究相关。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "A year ago, David was the only FTE on Marin. Today, thanks to Open Athena, Marin has 10 FTE. Read his post to better understand the context of Marin. And David",
+    "zh": "A year ago, David was the only FTE on Marin. Today, thanks to Open Athena, Marin has 10 FTE. Read his post to better understand the context of Marin. And David"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2095586788551335943",
+   "note": {
+    "en": "Noted that Marin, Stanford CRFM's open-source model project, has grown from one full-time engineer a year ago to ten thanks to Open Athena.",
+    "zh": "他提到，得益于 Open Athena，斯坦福 CRFM 的开源模型项目 Marin 的全职工程师已从一年前的 1 人增长到 10 人。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Open models gaining momentum. This is incentive-aligned and just makes sense.",
+    "zh": "Open models gaining momentum. This is incentive-aligned and just makes sense."
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2095536773262934448",
+   "note": {
+    "en": "Said open models are gaining momentum and that this trend is incentive-aligned and makes sense.",
+    "zh": "他表示开源模型正在获得越来越多的关注，这一趋势符合激励机制、合乎逻辑。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Marin 535B-A23B is 13% through training. This hero run would not be possible without the generous support of the Jen-Hsun and Lori Huang Foundation, which provi",
+    "zh": "Marin 535B-A23B is 13% through training. This hero run would not be possible without the generous support of the Jen-Hsun and Lori Huang Foundation, which provi"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2095255747487740401",
+   "note": {
+    "en": "Liang reported the Marin 535B-A23B model is 13% through training, crediting the Huang Foundation's funding for the compute.",
+    "zh": "Percy Liang报告称Marin 535B-A23B模型的训练已完成13%，这要归功于黄仁勋与劳丽·黄基金会为算力提供的资助。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The \"What-If Machine\" is a vivid articulation of what Simile is building. It's not just about forecasting the future passively. It's about understanding how act",
+    "zh": "The \"What-If Machine\" is a vivid articulation of what Simile is building. It's not just about forecasting the future passively. It's about understanding how act"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2095199439610921028",
+   "note": {
+    "en": "Liang praised Simile's 'What-If Machine' concept as a way to actively model how interventions change the future, not just forecast it passively.",
+    "zh": "Percy Liang称赞Simile的“假设机器”理念，认为它不只是被动预测未来，而是主动建模干预行为将如何改变未来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Marin 535B-A23B is ~7% done training, and so far things look on track. Next Tuesday (Sept 1 @ 10 PT), we will have a Zoom panel/discussion where the Marin team",
+    "zh": "Marin 535B-A23B is ~7% done training, and so far things look on track. Next Tuesday (Sept 1 @ 10 PT), we will have a Zoom panel/discussion where the Marin team"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2093139094968922440",
+   "note": {
+    "en": "Liang announced that Marin's 535B-parameter mixture-of-experts model is about 7% through training and on track, with a public Zoom panel planned to discuss design decisions.",
+    "zh": "Liang宣布Marin的5350亿参数混合专家模型训练进度约7%且进展顺利,并计划举行Zoom公开讨论其设计决策。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Prefix Sliding for efficient test-time scaling",
+    "zh": "Prefix Sliding for efficient test-time scaling"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.26070v1",
+   "note": {
+    "en": "Cuts the memory cost of holding long reasoning traces at inference by sliding the prefix, making test-time scaling cheaper.",
+    "zh": "通过滑动前缀降低推理时保存长推理轨迹的显存开销，使测试时扩展更为廉价。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-08-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The fact that Simile’s first technical blog post is about confidence is notable. Confidence is paramount to simulation. If a coding agent messes up, you can oft",
+    "zh": "The fact that Simile’s first technical blog post is about confidence is notable. Confidence is paramount to simulation. If a coding agent messes up, you can oft"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2092302845987225809",
+   "note": {
+    "en": "Liang argued that confidence estimation is central to simulation models, since an agent that can't tell when it's wrong can't repair the error.",
+    "zh": "Liang认为置信度评估对模拟模型至关重要,因为无法判断自身是否出错的智能体也就无法自我修正。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "🚢 Marin 535B-A23B started training this week! As usual, the whole process is open. Voyage plan: pretraining (80%) + midtraining (20%) on 18.75T tokens on 11 x G",
+    "zh": "🚢 Marin 535B-A23B started training this week! As usual, the whole process is open. Voyage plan: pretraining (80%) + midtraining (20%) on 18.75T tokens on 11 x G"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2090918065634684997",
+   "note": {
+    "en": "Liang announced that Marin's 535B-parameter MoE model began training on 18.75T tokens across 11 GB200 NVL72 clusters, with the process kept fully open.",
+    "zh": "Liang宣布Marin的5350亿参数MoE模型已在11个GB200 NVL72集群上开始训练18.75万亿个token,全过程保持开放。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DelusionEval: Measuring Delusion-Linked Behaviors in AI Chatbots",
+    "zh": "DelusionEval: Measuring Delusion-Linked Behaviors in AI Chatbots"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.05004v1",
+   "note": {
+    "en": "DelusionEval, a benchmark for whether AI chatbots reinforce delusional thinking, extending his line of standardised evaluation to psychological harm.",
+    "zh": "DelusionEval 基准，用于衡量 AI 聊天机器人是否会助长妄想性思维，将他的标准化评测路线延伸到心理伤害领域。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "It's time to scale that Simile. Our ambition is to build a foundation model that can predict what anyone will do in any situation. Research-wise, Simile in 2026",
+    "zh": "It's time to scale that Simile. Our ambition is to build a foundation model that can predict what anyone will do in any situation. Research-wise, Simile in 2026"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2082874025999745209",
+   "note": {
+    "en": "Liang framed his new venture Simile, a foundation model meant to predict how people will act, as being for simulation what OpenAI was for language models in 2019.",
+    "zh": "Liang将其新项目Simile(一个旨在预测人类行为的基础模型)类比为2019年OpenAI之于语言模型的地位。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The most important word here is *ecosystem*. It's not just about having an open-weight model. Open-weight models are a means to an end. To have a truly strong,",
+    "zh": "The most important word here is *ecosystem*. It's not just about having an open-weight model. Open-weight models are a means to an end. To have a truly strong,"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2081058856474726440",
+   "note": {
+    "en": "Liang argued that a genuinely open AI ecosystem needs more than open-weight models, and laid out the additional pieces he thinks are required.",
+    "zh": "Liang认为真正开放的AI生态系统仅有开放权重模型远远不够,并阐述了还需要哪些要素。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "⚡! Tokenization is the first thing you do in CS336 (language models from scratch). If Marcel can work his magic for the rest of the LM pipeline, the world will",
+    "zh": "⚡! Tokenization is the first thing you do in CS336 (language models from scratch). If Marcel can work his magic for the rest of the LM pipeline, the world will"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2079785356694827141",
+   "note": {
+    "en": "Liang noted that tokenization is the opening topic of his Stanford CS336 course on building language models from scratch.",
+    "zh": "Liang提到分词是他在斯坦福CS336(从零构建语言模型)课程中讲授的第一个主题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Extractable Memorization From First Principles",
+    "zh": "Extractable Memorization From First Principles"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.12649v1",
+   "note": {
+    "en": "Rebuilds the definition of extractable memorization in language models to fix validity problems that made earlier extraction studies over- and under-state the risk.",
+    "zh": "重新界定语言模型「可提取记忆」的定义，修正以往提取研究中高估或低估风险的效度问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "FLARE-AI: Flaw Reporting for AI",
+    "zh": "FLARE-AI: Flaw Reporting for AI"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.31567v1",
+   "note": {
+    "en": "FLARE-AI proposes shared infrastructure for reporting flaws in deployed AI systems, co-signed with a broad coalition of safety and policy researchers.",
+    "zh": "FLARE-AI 提出用于报告已部署 AI 系统缺陷的共享基础设施，由安全与政策领域的众多研究者共同署名。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Economic Evaluations of Language Models",
+    "zh": "Economic Evaluations of Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.19375v1",
+   "note": {
+    "en": "Introduces EconEvals, an open-source suite that assesses how well language models perform economically valuable tasks.",
+    "zh": "提出开源评测套件 EconEvals，衡量语言模型完成具有经济价值任务的能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Fantastic Pretraining Optimizers and Where to Find Them II: Hyperball Optimization",
+    "zh": "Fantastic Pretraining Optimizers and Where to Find Them II: Hyperball Optimization"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.16899v1",
+   "note": {
+    "en": "Second instalment of his group's controlled comparison of pretraining optimizers, examining why matrix-based methods lose their edge over AdamW at scale.",
+    "zh": "其团队预训练优化器对照研究的第二篇，考察矩阵类优化器相对 AdamW 的优势为何随规模扩大而消失。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "There are two types of advances: (i) a singular change that provides 3x and (ii) a series of micro changes that each provide 20%. It is easy to celebrate (i), b",
+    "zh": "There are two types of advances: (i) a singular change that provides 3x and (ii) a series of micro changes that each provide 20%. It is easy to celebrate (i), b"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2062919606403313680",
+   "note": {
+    "en": "Liang argued that incremental, compounding improvements matter as much as singular breakthroughs, even though they get less credit.",
+    "zh": "Liang指出渐进式、持续累积的改进与单一突破性进展同样重要,尽管前者更少获得认可。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Here's a simple idea that works surprisingly well: model generates a response, it \"self-verifies\" its own response, and trains on those that pass. No ground tru",
+    "zh": "Here's a simple idea that works surprisingly well: model generates a response, it \"self-verifies\" its own response, and trains on those that pass. No ground tru"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2059690340324712894",
+   "note": {
+    "en": "Liang described a self-verification technique where a model trains only on its own generated responses that pass a self-check, without ground-truth answers or external verifiers.",
+    "zh": "Liang介绍了一种自我验证方法:模型仅使用通过自我检验的自身生成回答进行训练,无需真实答案或外部验证器。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Algorithmic Monocultures in Hiring",
+    "zh": "Algorithmic Monocultures in Hiring"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.27371v1",
+   "note": {
+    "en": "Tests whether employers sharing the same few hiring algorithms systematically screen out the same applicants, part of his algorithmic-accountability work.",
+    "zh": "研究雇主共用少数几家招聘算法是否会系统性地筛掉同一批求职者，属于他的算法问责研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Not only do we want to train a good model, we want to know it'll be good before we even start training. About a month ago, the Marin team launched a 129B (16B a",
+    "zh": "Not only do we want to train a good model, we want to know it'll be good before we even start training. About a month ago, the Marin team launched a 129B (16B a"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2058621601542009341",
+   "note": {
+    "en": "Liang described Marin's practice of preregistering loss predictions for a 129B-parameter MoE run before training, to test whether performance can be forecast in advance.",
+    "zh": "Liang介绍了Marin在训练前为1290亿参数MoE模型预先登记损失预测的做法,以检验能否提前预知模型表现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Self-Verified Distillation: Your Language Model Is Secretly Its Own Synthetic Data Pipeline",
+    "zh": "Self-Verified Distillation: Your Language Model Is Secretly Its Own Synthetic Data Pipeline"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.26132v1",
+   "note": {
+    "en": "Shows a post-trained language model can keep improving from unlabeled prompts alone, acting as its own synthetic-data pipeline.",
+    "zh": "表明经过后训练的语言模型仅凭无标注提示即可自我改进，充当自身的合成数据流水线。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "For the next Marin model, we are putting together a new data mix. Currently we have 18T tokens, but could use more. So if you are sitting on some secret stash o",
+    "zh": "For the next Marin model, we are putting together a new data mix. Currently we have 18T tokens, but could use more. So if you are sitting on some secret stash o"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2054550981527146942",
+   "note": {
+    "en": "Liang said Marin's next model needs a new data mix beyond its current 18T tokens and asked the community for high-quality token sources.",
+    "zh": "Liang表示Marin下一代模型需要在现有18万亿token基础上补充新的数据组合,并向社区征集高质量数据来源。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DecodingTrust-Agent Platform (DTap): A Controllable and Interactive Red-Teaming Platform for AI Agents",
+    "zh": "DecodingTrust-Agent Platform (DTap): A Controllable and Interactive Red-Teaming Platform for AI Agents"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.04808v1",
+   "note": {
+    "en": "DTap, a controllable red-teaming platform for stress-testing AI agents, extending the DecodingTrust line of trustworthiness evaluation.",
+    "zh": "DTap 是用于对 AI 智能体做压力测试的可控红队平台，延续 DecodingTrust 的可信度评测路线。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I find myself repeatedly explaining the difference between open-weight (DeepSeek), open-source (Olmo), open-development (Marin). Let's see if this restaurant an",
+    "zh": "I find myself repeatedly explaining the difference between open-weight (DeepSeek), open-source (Olmo), open-development (Marin). Let's see if this restaurant an"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2051722223887766009",
+   "note": {
+    "en": "Liang laid out his distinction between open-weight (e.g. DeepSeek), open-source (e.g. Olmo) and open-development (Marin) models using a restaurant analogy.",
+    "zh": "Liang用餐厅类比阐述了开放权重(如DeepSeek)、开源(如Olmo)和开放式开发(Marin)三种模型开放程度的区别。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Marin is using quantile balancing from @Jianlin_S (who developed RoPE, which was also a good idea) to train our current 1e23 FLOPs MoE. The idea is elegant: ass",
+    "zh": "Marin is using quantile balancing from @Jianlin_S (who developed RoPE, which was also a good idea) to train our current 1e23 FLOPs MoE. The idea is elegant: ass"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2045010625877991535",
+   "note": {
+    "en": "Liang explained that Marin's current MoE run uses a quantile-balancing technique from Jianlin Su (creator of RoPE) to route tokens to experts.",
+    "zh": "Liang介绍Marin目前的MoE训练采用了苏剑林(RoPE的提出者)的分位数平衡方法来分配token给专家模块。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "This week, @classiclarryd kicked off a 129B (16B active) 1e23 FLOPs MoE run. In typical Marin style, we have fit scaling laws and have made a loss projection of",
+    "zh": "This week, @classiclarryd kicked off a 129B (16B active) 1e23 FLOPs MoE run. In typical Marin style, we have fit scaling laws and have made a loss projection of"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2044994822965191106",
+   "note": {
+    "en": "Liang reported that Marin kicked off a 129B-parameter (16B active) MoE training run with a preregistered loss projection of 2.252.",
+    "zh": "Liang报告Marin启动了1290亿参数(160亿激活参数)的MoE训练,并预先登记了2.252的损失预测值。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "This is Act II. Act I was about making an anonymity layer for LLMs (VPN for intelligence). Act II is about building a deeply personalized, private assistant on",
+    "zh": "This is Act II. Act I was about making an anonymity layer for LLMs (VPN for intelligence). Act II is about building a deeply personalized, private assistant on"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2044986927271846217",
+   "note": {
+    "en": "Liang described the second phase of his project: building a deeply personalized private AI assistant on top of an anonymity layer for LLMs.",
+    "zh": "Liang介绍了其项目的第二阶段:在为LLM构建的匿名层之上打造一个深度个性化的私人助手。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Our 1e23 Delphi run finished last night. It's loss was within 0.005 of the projected (preregistered) loss. Note that these projections were based on only traini",
+    "zh": "Our 1e23 Delphi run finished last night. It's loss was within 0.005 of the projected (preregistered) loss. Note that these projections were based on only traini"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2039377135501296036",
+   "note": {
+    "en": "Liang reported that Marin's 1e23-FLOP Delphi training run finished with a loss within 0.005 of the value predicted from models 100x smaller.",
+    "zh": "Liang报告Marin的1e23 FLOPs规模Delphi训练已完成,损失值与用小100倍模型预测的结果相差仅0.005。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Academic titles are funny. After 14 years, I finally have the official title that people might have always assumed I had.",
+    "zh": "Academic titles are funny. After 14 years, I finally have the official title that people might have always assumed I had."
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2039362135181119873",
+   "note": {
+    "en": "Liang noted that after 14 years he finally received the official academic title people had long assumed he already held.",
+    "zh": "Liang表示自己在14年后终于获得了人们一直以为他早已拥有的正式学术头衔。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Last time Marin 32B got burned by loss spikes, so this makes me very nervous...but maybe Delphi 1e23 will be different🤞",
+    "zh": "Last time Marin 32B got burned by loss spikes, so this makes me very nervous...but maybe Delphi 1e23 will be different🤞"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2037756865803960522",
+   "note": {
+    "en": "Liang expressed anxiety going into the Delphi 1e23-FLOP training run, recalling that the earlier Marin 32B run had been hit by loss spikes.",
+    "zh": "Liang提到对即将进行的1e23 FLOPs规模Delphi训练感到紧张,因为此前Marin 32B训练曾遭遇损失骤增问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Estimating near-verbatim extraction risk in language models with decoding-constrained beam search",
+    "zh": "Estimating near-verbatim extraction risk in language models with decoding-constrained beam search"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.24917v3",
+   "note": {
+    "en": "Estimates near-verbatim extraction risk with a decoding-constrained beam search, from his ongoing collaboration with legal scholars on memorization and copyright.",
+    "zh": "用受约束解码的束搜索估计近似逐字提取风险，出自他与法学学者在记忆与版权问题上的持续合作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "In our last episode, careful tuning, scaling, and ensembles led to a 5x gain in data efficiency (requires 5x less data to get the same loss). Now, with a rephra",
+    "zh": "In our last episode, careful tuning, scaling, and ensembles led to a 5x gain in data efficiency (requires 5x less data to get the same loss). Now, with a rephra"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2035112178580398341",
+   "note": {
+    "en": "Liang reported that adding a rephraser model on top of prior tuning and ensembling gains yielded a further 1.8x improvement in data efficiency.",
+    "zh": "Liang报告在此前调优与集成方法带来的效率提升基础上,加入改写模型后数据效率又提升了1.8倍。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Data-efficient pre-training by scaling synthetic megadocs",
+    "zh": "Data-efficient pre-training by scaling synthetic megadocs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.18534v1",
+   "note": {
+    "en": "Studies how to design synthetic data so pre-training keeps improving when data rather than compute is the binding constraint.",
+    "zh": "研究在数据而非算力成为瓶颈时，如何设计合成数据以持续提升预训练效果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "In Marin, we are trying to get really good at scaling laws. We have trained models up to 1e22 FLOPs and have made a prediction of the loss at 1e23 FLOPs, which",
+    "zh": "In Marin, we are trying to get really good at scaling laws. We have trained models up to 1e22 FLOPs and have made a prediction of the loss at 1e23 FLOPs, which"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2034367256277533100",
+   "note": {
+    "en": "Liang described Marin's scaling-law work, having trained models up to 1e22 FLOPs to predict performance at 1e23 FLOPs.",
+    "zh": "Liang介绍了Marin的规模定律研究,已训练出高达1e22 FLOPs的模型以预测1e23 FLOPs时的表现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I think it’s pretty clear that simulation is the next frontier for AI. The most impressive feats of AI to date are when we have a clear environment + reward, wh",
+    "zh": "I think it’s pretty clear that simulation is the next frontier for AI. The most impressive feats of AI to date are when we have a clear environment + reward, wh"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2031392872310911430",
+   "note": {
+    "en": "Liang argued simulation is AI's next frontier, since the field's biggest breakthroughs have come where a clear environment and reward exist.",
+    "zh": "Liang认为模拟是AI的下一个前沿领域,因为该领域最大的突破往往出现在有明确环境和奖励的场景中。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Normally replay old data reduces forgetting, but it actually helps you learn on new data too! We finally put this paper out on arxiv, but had it up as a Marin G",
+    "zh": "Normally replay old data reduces forgetting, but it actually helps you learn on new data too! We finally put this paper out on arxiv, but had it up as a Marin G"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2030084101559271490",
+   "note": {
+    "en": "Liang announced an arXiv paper showing that replaying old data not only reduces forgetting but also improves learning on new data.",
+    "zh": "Liang宣布发表了一篇arXiv论文,证明重放旧数据不仅能减少遗忘,还能提升对新数据的学习效果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Replaying pre-training data improves fine-tuning",
+    "zh": "Replaying pre-training data improves fine-tuning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.04964v1",
+   "note": {
+    "en": "Shows that replaying pre-training data during fine-tuning produces a better domain model than fine-tuning on target data alone.",
+    "zh": "表明在微调时掺回预训练数据，比只用目标领域数据微调能得到更好的领域模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I stopped using ChatGPT a few months ago. Since then, I have been only using oa-chat. All chat history is stored locally. Each query is sent to OpenAI under a t",
+    "zh": "I stopped using ChatGPT a few months ago. Since then, I have been only using oa-chat. All chat history is stored locally. Each query is sent to OpenAI under a t"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2027447827660714273",
+   "note": {
+    "en": "Liang said he switched from ChatGPT to his own privacy-preserving 'oa-chat' tool, which stores history locally and anonymizes each query sent to OpenAI.",
+    "zh": "Liang表示自己已改用其自研的隐私保护工具'oa-chat',该工具在本地存储聊天记录,并对发给OpenAI的每次请求做匿名化处理。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "These days, I'm much more excited about dataset releases than model releases. Models come and go and don't compose, whereas good datasets are more enduring and",
+    "zh": "These days, I'm much more excited about dataset releases than model releases. Models come and go and don't compose, whereas good datasets are more enduring and"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2026786262737396144",
+   "note": {
+    "en": "Liang said he now finds dataset releases more exciting than model releases, since datasets endure and can be reused and revised while models come and go.",
+    "zh": "Liang表示他现在对数据集发布比模型发布更感兴趣,因为数据集更持久、可被反复研究使用和修订,而模型则不断更替。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Beyond a Single Extractor: Re-thinking HTML-to-Text Extraction for LLM Pretraining",
+    "zh": "Beyond a Single Extractor: Re-thinking HTML-to-Text Extraction for LLM Pretraining"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.19548v1",
+   "note": {
+    "en": "Argues that a single HTML-to-text extractor is the wrong foundation for web-scale pretraining corpora, and proposes a better extraction pipeline.",
+    "zh": "论证用单一的 HTML 转文本抽取器构建网络规模预训练语料并不合适，并提出更好的抽取流水线。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model",
+    "zh": "VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.12063v2",
+   "note": {
+    "en": "Co-improves a vision-language-action policy and a world model through iterative online interaction, with Chelsea Finn's robotics group.",
+    "zh": "与 Chelsea Finn 的机器人团队合作，通过迭代式在线交互协同改进视觉-语言-动作策略与世界模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We are about to enter the age of simulation.",
+    "zh": "We are about to enter the age of simulation."
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2022012664009179380",
+   "note": {
+    "en": "Liang declared that AI is entering the age of simulation.",
+    "zh": "Liang宣称AI正在进入模拟时代。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "$3M to support the development of open benchmarks!",
+    "zh": "$3M to support the development of open benchmarks!"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2021701152333877681",
+   "note": {
+    "en": "Liang announced $3M in funding to support the development of open benchmarks.",
+    "zh": "Liang宣布提供300万美元资金支持开放基准测试的开发。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "When RL Meets Adaptive Speculative Training: A Unified Training-Serving System",
+    "zh": "When RL Meets Adaptive Speculative Training: A Unified Training-Serving System"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.06932v5",
+   "note": {
+    "en": "A unified system that trains the speculative decoder alongside serving rather than offline, speeding up LLM inference; work with the Together AI group he co-founded.",
+    "zh": "提出训练与推理服务统一的系统，让投机解码器随服务在线训练而非离线训练以加速大模型推理；与他联合创办的 Together AI 团队合作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "It's a triple threat - It produces actions! It produces future states! It produces values! You just need a good video model to get you started, and you get SOTA",
+    "zh": "It's a triple threat - It produces actions! It produces future states! It produces values! You just need a good video model to get you started, and you get SOTA"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2015169957894762715",
+   "note": {
+    "en": "Liang described a video-model-based approach that jointly produces actions, future states and values, calling it state-of-the-art with only a good video model needed to start.",
+    "zh": "Liang介绍了一种基于视频模型的方法,可同时生成动作、未来状态和价值,称仅需一个优秀的视频模型即可达到最先进水平。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-01-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning",
+    "zh": "Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2601.16163v1",
+   "note": {
+    "en": "Fine-tunes video generation models into visuomotor control and planning policies, with NVIDIA and Chelsea Finn's group.",
+    "zh": "将视频生成模型微调为视觉运动控制与规划策略，与英伟达及 Chelsea Finn 团队合作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Don't use weight decay. Just normalize everything you see (updates + parameters). Works on top of your favorite optimizer (e.g., Muon). Result: 33% speedup + be",
+    "zh": "Don't use weight decay. Just normalize everything you see (updates + parameters). Works on top of your favorite optimizer (e.g., Muon). Result: 33% speedup + be"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2014066930164928897",
+   "note": {
+    "en": "Liang shared a training trick, skipping weight decay in favor of normalizing updates and parameters, reporting a 33% speedup and better hyperparameter transfer on top of Muon.",
+    "zh": "Liang分享了一个训练技巧:不使用权重衰减,而是对更新量和参数做归一化处理,在Muon优化器基础上实现33%的加速并改善超参数迁移效果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-01-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "If you use Pythia and like it, we're making an updated version. Tell us what you want. Here's a question for y'all: would you rather have a scaling suite traine",
+    "zh": "If you use Pythia and like it, we're making an updated version. Tell us what you want. Here's a question for y'all: would you rather have a scaling suite traine"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2013389627391152504",
+   "note": {
+    "en": "Liang said his team is preparing an updated Pythia model suite and asked users whether they'd prefer training data drawn from Nemotron-CC.",
+    "zh": "Liang表示团队正在准备更新版的Pythia模型套件,并询问用户是否希望使用Nemotron-CC的训练数据。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-01-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "To what extent can you prompt an LM and have it generated a whole copyrighted book? This doesn't work generically, but in some cases, we were able to get much m",
+    "zh": "To what extent can you prompt an LM and have it generated a whole copyrighted book? This doesn't work generically, but in some cases, we were able to get much m"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2009074285613338964",
+   "note": {
+    "en": "Liang reported research on the extent to which prompting a language model can reproduce a whole copyrighted book verbatim.",
+    "zh": "Liang介绍了一项研究,探讨通过提示语言模型能在多大程度上还原一整本受版权保护的书籍内容。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-01-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Need a reward model for robotics? Frontier VLMs actually don't work. We fine-tune one that works better.",
+    "zh": "Need a reward model for robotics? Frontier VLMs actually don't work. We fine-tune one that works better."
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2008731722163368434",
+   "note": {
+    "en": "Liang said frontier vision-language models don't work well as robotics reward models out of the box, so his team fine-tuned one that performs better.",
+    "zh": "Liang表示前沿视觉语言模型直接用作机器人奖励模型效果不佳,因此团队对其进行微调以获得更好表现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-01-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Extracting books from production language models",
+    "zh": "Extracting books from production language models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2601.02671v1",
+   "note": {
+    "en": "Demonstrates recovering book-length text from production language models, bearing directly on the copyright questions around memorization.",
+    "zh": "展示了从已上线的语言模型中还原成书长度的文本，直接关系到记忆引发的版权争议。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "RoboReward: General-Purpose Vision-Language Reward Models for Robotics",
+    "zh": "RoboReward: General-Purpose Vision-Language Reward Models for Robotics"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2601.00675v2",
+   "note": {
+    "en": "RoboReward, general-purpose vision-language reward models for robotics that remove the need for hand-labelled rewards.",
+    "zh": "RoboReward 是面向机器人的通用视觉-语言奖励模型，免去人工标注奖励的需要。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "This is not just another strong open model. Nemotron actually releases training data (!), RL environments, and training code. This is a big difference: almost a",
+    "zh": "This is not just another strong open model. Nemotron actually releases training data (!), RL environments, and training code. This is a big difference: almost a"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2000608134205985169",
+   "note": {
+    "en": "Liang praised Nemotron for releasing training data, RL environments and training code alongside the model, unlike most developers who only share weights.",
+    "zh": "Liang称赞Nemotron在发布模型的同时公开了训练数据、强化学习环境和训练代码,而多数开发者只提供模型权重。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The 2025 Foundation Model Transparency Index",
+    "zh": "The 2025 Foundation Model Transparency Index"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.10169v1",
+   "note": {
+    "en": "The 2025 edition of the Foundation Model Transparency Index he helped launch, scoring how openly the major developers report their practices.",
+    "zh": "他参与发起的基础模型透明度指数 2025 年版，评估主要开发者披露自身实践的开放程度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Open-weight != transparency: What's interesting is not that IBM's open-weight Granite 3.3 is most transparent (95%), or that xAI's closed Grok 3 is least transp",
+    "zh": "Open-weight != transparency: What's interesting is not that IBM's open-weight Granite 3.3 is most transparent (95%), or that xAI's closed Grok 3 is least transp"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/1999000460427145346",
+   "note": {
+    "en": "Liang argued open-weight release does not equal transparency, noting his Foundation Model Transparency Index scored IBM's open-weight Granite 3.3 highest (95%) and xAI's closed Grok 3 lowest (14%).",
+    "zh": "Liang指出开放权重不等于透明度,他的基础模型透明度指数显示IBM开放权重的Granite 3.3得分最高(95%),而xAI闭源的Grok 3得分最低(14%)。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Comparing AI Agents to Cybersecurity Professionals in Real-World Penetration Testing",
+    "zh": "Comparing AI Agents to Cybersecurity Professionals in Real-World Penetration Testing"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.09882v2",
+   "note": {
+    "en": "First head-to-head evaluation of AI agents against professional penetration testers in a live enterprise network.",
+    "zh": "首次在真实企业网络环境中将 AI 智能体与专业渗透测试人员正面对比评测。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Nice to see AA tracking openness! No matter how many times one says it, people don't seem to understand that openness is more than \"the ability to download mode",
+    "zh": "Nice to see AA tracking openness! No matter how many times one says it, people don't seem to understand that openness is more than \"the ability to download mode"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/1995959227937153293",
+   "note": {
+    "en": "Liang welcomed a new tracker for AI model openness, reiterating that openness means more than just being able to download model weights.",
+    "zh": "Liang对一项追踪AI模型开放度的新工具表示欢迎,并重申开放不仅仅意味着可以下载模型权重。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-11-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Beat the long tail: Distribution-Aware Speculative Decoding for RL Training",
+    "zh": "Beat the long tail: Distribution-Aware Speculative Decoding for RL Training"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2511.13841v1",
+   "note": {
+    "en": "Speeds up the rollout phase of RL post-training with distribution-aware speculative decoding.",
+    "zh": "用分布感知的投机解码加速强化学习后训练中的 rollout 阶段。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-11-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "On the Entropy Calibration of Language Models",
+    "zh": "On the Entropy Calibration of Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2511.11966v2",
+   "note": {
+    "en": "Asks whether a language model's entropy over its own generations matches its log loss on human text, and when that miscalibration can be avoided.",
+    "zh": "探讨语言模型在自身生成上的熵是否与其在人类文本上的对数损失相匹配，以及这种失准何时可以避免。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-11-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "How are OpenAI, Scale, NVIDIA, Softbank, Disney, Google, AMD, Coreweave dependent on each other? Our new AI supply chains tracks and visualizes the relationship",
+    "zh": "How are OpenAI, Scale, NVIDIA, Softbank, Disney, Google, AMD, Coreweave dependent on each other? Our new AI supply chains tracks and visualizes the relationship"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/1988279964027023655",
+   "note": {
+    "en": "Liang announced a new CRFM tool that tracks and visualizes the dependencies among major AI companies such as OpenAI, NVIDIA and Google.",
+    "zh": "Liang宣布CRFM推出一款新工具,用于追踪并可视化OpenAI、英伟达、谷歌等主要AI公司之间的依赖关系。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-29",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "⛵Marin 32B Base (mantis) is done training! It is the best open-source base model (beating OLMo 2 32B Base) and it’s even close to the best comparably-sized open",
+    "zh": "⛵Marin 32B Base (mantis) is done training! It is the best open-source base model (beating OLMo 2 32B Base) and it’s even close to the best comparably-sized open"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/1983561556127567911",
+   "note": {
+    "en": "Liang announced that Marin 32B Base finished training and became the best fully open-source base model, close to top open-weight models like Gemma 3 27B.",
+    "zh": "Liang宣布Marin 32B Base完成训练,成为最佳完全开源基础模型,性能接近Gemma 3 27B等顶尖开放权重模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Relative Scaling Laws for LLMs",
+    "zh": "Relative Scaling Laws for LLMs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2510.24626v2",
+   "note": {
+    "en": "Measures scaling laws relative to specific subpopulations instead of aggregate test sets, exposing gaps that aggregate curves hide.",
+    "zh": "以特定子群体而非聚合测试集为参照测量扩展律，揭示聚合曲线所掩盖的差距。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-10-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Blackbox Model Provenance via Palimpsestic Membership Inference",
+    "zh": "Blackbox Model Provenance via Palimpsestic Membership Inference"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2510.19796v1",
+   "note": {
+    "en": "Shows an open-weight model's owner can prove that a blackbox derivative is built on their model, using membership inference on training order.",
+    "zh": "表明开放权重模型的所有者可借助基于训练顺序的成员推断，证明某个黑盒衍生模型源自自己的模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-10-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation",
+    "zh": "Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2510.11977v1",
+   "note": {
+    "en": "The Holistic Agent Leaderboard, carrying the HELM approach to standardised evaluation over to AI agents.",
+    "zh": "Holistic Agent Leaderboard 将 HELM 的标准化评测思路延伸到 AI 智能体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-10-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "MLE-Smith: Scaling MLE Tasks with Automated Multi-Agent Pipeline",
+    "zh": "MLE-Smith: Scaling MLE Tasks with Automated Multi-Agent Pipeline"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2510.07307v1",
+   "note": {
+    "en": "MLE-Smith, an automated multi-agent pipeline that generates machine-learning-engineering tasks to train and evaluate agents on.",
+    "zh": "MLE-Smith 是一条自动化的多智能体流水线，批量生成机器学习工程任务以训练和评测智能体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-10-03",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ep 44: Co-Founder of Together.AI Percy Liang on What’s Next in Research, Reaction to o1 and How AI will Change Simulation",
+    "zh": "Ep 44: Co-Founder of Together.AI Percy Liang on What’s Next in Research, Reaction to o1 and How AI will Change Simulation"
+   },
+   "source": "Unsupervised Learning with Jacob Effron",
+   "url": "https://podcasts.apple.com/us/podcast/ep-44-co-founder-of-together-ai-percy-liang-on-whats/id1672188924?i=1000671668526&uo=4",
+   "note": {
+    "en": "Long-form interview on where AI research goes next, his reaction to OpenAI's o1, and using AI for simulation.",
+    "zh": "长篇访谈，谈 AI 研究的下一步、他对 OpenAI o1 的反应，以及用 AI 做模拟仿真。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-05-09",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Percy Liang, Stanford: The paradigm shift and societal effects of foundation models",
+    "zh": "Percy Liang, Stanford: The paradigm shift and societal effects of foundation models"
+   },
+   "source": "Generally Intelligent",
+   "url": "https://podcasts.apple.com/us/podcast/percy-liang-stanford-the-paradigm-shift-and/id1544921720?i=1000655089260&uo=4",
+   "note": {
+    "en": "Interview on the foundation-model paradigm shift and its societal effects — the framing he himself introduced.",
+    "zh": "访谈围绕基础模型带来的范式转变及其社会影响展开，而这一提法正是他本人提出的。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-05-09",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Shaping AI Benchmarks with Together AI Co-Founder Percy Liang",
+    "zh": "Shaping AI Benchmarks with Together AI Co-Founder Percy Liang"
+   },
+   "source": "Gradient Dissent: Conversations on AI",
+   "url": "https://podcasts.apple.com/us/podcast/shaping-ai-benchmarks-with-together-ai-co-founder/id1504567418?i=1000655071529&uo=4",
+   "note": {
+    "en": "Interview with Lukas Biewald on AI benchmarking and why standardised evaluation matters.",
+    "zh": "与 Lukas Biewald 对谈 AI 基准测试，以及标准化评估为何重要。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-12-01",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The future of AI Chat: Foundation models and responsible innovation",
+    "zh": "The future of AI Chat: Foundation models and responsible innovation"
+   },
+   "source": "The Future of Everything",
+   "url": "https://podcasts.apple.com/us/podcast/the-future-of-ai-chat-foundation-models/id1235836821?i=1000637190972&uo=4",
+   "note": {
+    "en": "Liang discusses foundation models and responsible AI innovation as the paradigm shift reshaping the field.",
+    "zh": "Liang在节目中探讨了基础模型以及负责任的人工智能创新，将其视为该领域的范式转变。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-03-22",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "How to Use AI and Music to Boost Creativity with Percy Liang, Computer Scientist and Classical Pianist",
+    "zh": "How to Use AI and Music to Boost Creativity with Percy Liang, Computer Scientist and Classical Pianist"
+   },
+   "source": "The Ampersand Manifesto: Make Your Mar…",
+   "url": "https://podcasts.apple.com/us/podcast/how-to-use-ai-and-music-to-boost-creativity-with/id1636945117?i=1000605349791&uo=4",
+   "note": {
+    "en": "Interview on how his classical piano training feeds his research, an unusually personal profile.",
+    "zh": "访谈聊他的古典钢琴训练如何滋养研究工作，是一篇难得的个人向侧写。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-03-14",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Adept CEO David Luan and Stanford's Percy Liang | Words into Action",
+    "zh": "Adept CEO David Luan and Stanford's Percy Liang | Words into Action"
+   },
+   "source": "Greymatter",
+   "url": "https://podcasts.apple.com/us/podcast/adept-ceo-david-luan-and-stanfords-percy-liang-words/id1089013200?i=1000604158584&uo=4",
+   "note": {
+    "en": "Greylock conversation with Adept's David Luan on turning language models into systems that take actions.",
+    "zh": "在 Greylock 与 Adept 的 David Luan 对谈，讨论如何让语言模型成为能执行动作的系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-03-09",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "What is the role of academia in modern AI research? With Stanford Professor Dr. Percy Liang",
+    "zh": "What is the role of academia in modern AI research? With Stanford Professor Dr. Percy Liang"
+   },
+   "source": "No Priors: Artificial Intelligence | T…",
+   "url": "https://podcasts.apple.com/us/podcast/what-is-the-role-of-academia-in-modern-ai/id1668002688?i=1000603429285&uo=4",
+   "note": {
+    "en": "Argues for what academia can still contribute to AI research now that frontier work needs industrial compute.",
+    "zh": "论述在前沿研究依赖工业级算力之后，学术界还能为 AI 研究贡献什么。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-06-13",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Percy Liang on the Center for Research on Foundation Models",
+    "zh": "Percy Liang on the Center for Research on Foundation Models"
+   },
+   "source": "CS224U",
+   "url": "https://podcasts.apple.com/us/podcast/percy-liang-on-the-center-for-research-on-foundation-models/id1622466721?i=1000566863226&uo=4",
+   "note": {
+    "en": "Explains why he founded CRFM and what he wanted the centre to do about benchmarking, scaling and privacy.",
+    "zh": "讲述他创办 CRFM 的缘由，以及他希望该中心在基准测试、规模化与隐私方面做些什么。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-01-27",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Percy Liang on Machine Learning Robustness, Foundation Models, and Reproducibility",
+    "zh": "Percy Liang on Machine Learning Robustness, Foundation Models, and Reproducibility"
+   },
+   "source": "The Gradient: Perspectives on AI",
+   "url": "https://podcasts.apple.com/us/podcast/percy-liang-on-machine-learning-robustness-foundation/id1569777340?i=1000549217411&uo=4",
+   "note": {
+    "en": "Interview on machine learning robustness, foundation models and reproducibility.",
+    "zh": "访谈内容涵盖机器学习鲁棒性、基础模型与可复现性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2020-03-19",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Percy Liang: Stanford University Professor, technologist, and researcher in AI",
+    "zh": "Percy Liang: Stanford University Professor, technologist, and researcher in AI"
+   },
+   "source": "Behind The Tech with Kevin Scott",
+   "url": "https://podcasts.apple.com/us/podcast/percy-liang-stanford-university-professor-technologist/id1381008946?i=1000468926942&uo=4",
+   "note": {
+    "en": "Early interview with Kevin Scott on the difficulty of conversational AI, recorded before the foundation-model era he later named.",
+    "zh": "与 Kevin Scott 的早期对谈，讨论对话式 AI 的难点，录制于他后来命名的基础模型时代之前。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-06-01",
+   "level": "notable",
+   "title": {
+    "en": "HELM enters maintenance mode",
+    "zh": "HELM 进入维护模式"
+   },
+   "body": {
+    "en": "The holistic evaluation framework that shaped how the field talks about model transparency stops active development.",
+    "zh": "这套塑造了业界谈论模型透明度方式的整体评测框架停止主动开发。"
+   },
+   "source": "GitHub",
+   "url": "https://github.com/stanford-crfm/helm"
+  },
+  {
+   "date": "2026-08-25",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "斯坦福教授直播训练535B大模型，模型训练背后的「黑箱」正在被打开？",
+    "zh": "斯坦福教授直播训练535B大模型，模型训练背后的「黑箱」正在被打开？"
+   },
+   "body": {
+    "en": "Liang's Marin open lab began publicly livestreaming the training of its 535B-parameter model, opening up a process usually kept behind closed doors.",
+    "zh": "梁的Marin开放实验室开始公开直播其535B参数模型的训练过程，打破了训练过程通常不公开的惯例。"
+   },
+   "source": "\"Percy Liang\" - BingNews",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a960c3f77284abca1fbe3aa3520ed31&url=https%3a%2f%2fwww.51cto.com%2farticle%2f853873.html&c=10200583783256916631&mkt=en-sg",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "research",
+ "score": {
+  "total": 26.4,
+  "attention": 12,
+  "centrality": 14,
+  "momentum": 55,
+  "stature": 56,
+  "pageviews": 5245,
+  "citations": 45211,
+  "hIndex": 87,
+  "events": 2,
+  "posts": 80,
+  "wikiEn": "Percy Liang",
+  "wikiZh": null
+ },
+ "seedRank": 80,
+ "tier": "t5"
+}

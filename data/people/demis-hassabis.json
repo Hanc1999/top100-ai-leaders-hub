@@ -1,0 +1,2339 @@
+{
+ "rank": 6,
+ "id": "demis-hassabis",
+ "name": {
+  "en": "Demis Hassabis",
+  "zh": "Demis Hassabis"
+ },
+ "role": {
+  "en": "Chair, Google DeepMind; Chief Scientist, Alphabet; CEO, Isomorphic Labs",
+  "zh": "Google DeepMind 董事长；Alphabet 首席科学家；Isomorphic Labs CEO"
+ },
+ "org": "Google DeepMind",
+ "region": {
+  "en": "United Kingdom",
+  "zh": "英国"
+ },
+ "tags": [
+  "Google DeepMind",
+  "Gemini",
+  "AlphaFold",
+  "Isomorphic Labs",
+  "Nobel Prize"
+ ],
+ "why": {
+  "en": "2024 Nobel laureate in Chemistry for AlphaFold. From AlphaGo to Gemini, the only person operating at the top of both scientific breakthrough and frontier model development — now stepping back from operations to focus on long-horizon safety and governance.",
+  "zh": "因 AlphaFold 获 2024 年诺贝尔化学奖。从 AlphaGo 到 Gemini，是唯一同时站在科学突破与前沿大模型两条战线顶端的人 —— 现已退出日常运营，转向长期安全与治理。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@demishassabis",
+   "url": "https://x.com/demishassabis",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — Demis Hassabis",
+   "url": "https://demishassabis.substack.com/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Google DeepMind Blog",
+   "url": "https://deepmind.google/discover/blog/",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "DeepMind Research",
+   "url": "https://deepmind.google/research/",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Isomorphic Labs",
+   "url": "https://www.isomorphiclabs.com/",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "DeepMind on X",
+   "url": "https://x.com/GoogleDeepMind",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Demis+Hassabis",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Demis+Hassabis",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Demis+Hassabis",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Demis+Hassabis&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Demis+Hassabis&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Demis+Hassabis",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Demis+Hassabis&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Demis+Hassabis",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Demis+Hassabis",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Demis+Hassabis",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Demis+Hassabis",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Demis+Hassabis",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Demis+Hassabis",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Demis+Hassabis",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Demis+Hassabis&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Demis_Hassabis",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-05-19",
+   "kind": "talk",
+   "title": {
+    "en": "A new era of discovery: AI and the frontiers of science",
+    "zh": "发现的新纪元：AI 与科学前沿"
+   },
+   "source": "Google I/O 2026",
+   "url": "https://io.google/2026/explore/pa-keynote-16",
+   "note": {
+    "en": "On why he thinks we are at the start of a golden age of scientific discovery.",
+    "zh": "关于他为何认为我们正处在科学发现黄金时代的开端。"
+   }
+  },
+  {
+   "date": "2026-05-01",
+   "kind": "interview",
+   "title": {
+    "en": "On AGI by 2030, curing diseases, and humanity's irreplaceable role",
+    "zh": "关于 2030 年前实现 AGI、治愈疾病，以及人类不可替代的角色"
+   },
+   "source": "The Rundown",
+   "url": "https://www.therundown.ai/p/exclusive-demis-hassabis-on-agi-curing-diseases-with-ai",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-01-01",
+   "kind": "podcast",
+   "title": {
+    "en": "Deep Think, Genie 3 world models, and Game Arena as an AGI benchmark",
+    "zh": "Deep Think、Genie 3 世界模型，以及作为 AGI 基准的 Game Arena"
+   },
+   "source": "Google AI: Release Notes",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/ai-release-notes-podcast-demis-hassabis/",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-08-06",
+   "kind": "interview",
+   "title": {
+    "en": "On the new role and Google's AI balancing act",
+    "zh": "谈新职务与 Google 的 AI 平衡术"
+   },
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/08/06/demis-hassabis-google-reshuffle-deepmind-role.html",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T13:13:47Z",
+   "kind": "x",
+   "title": {
+    "en": "Honoured to receive the Albert Medal from @theRSAorg! Science & tech enable amazing opportunities, but the arts & humanities will be crucial in shaping what sor",
+    "zh": "Honoured to receive the Albert Medal from @theRSAorg! Science & tech enable amazing opportunities, but the arts & humanities will be crucial in shaping what sor"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2100211548794839140",
+   "note": {
+    "en": "Hassabis shared that he received the Royal Society of Arts' Albert Medal, using the moment to argue that the arts and humanities will be as crucial as science and technology in shaping the future.",
+    "zh": "哈萨比斯分享自己获得英国皇家艺术学会阿尔伯特奖章，并借此强调人文艺术将与科技同样重要，共同塑造未来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T22:59:59Z",
+   "kind": "x",
+   "title": {
+    "en": "Dario's essay points towards the right path forward. The details need working through, but the direction is correct for meeting this critical moment. This is al",
+    "zh": "Dario's essay points towards the right path forward. The details need working through, but the direction is correct for meeting this critical moment. This is al"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2098909516582490602",
+   "note": {
+    "en": "Hassabis endorsed the direction of Amodei's call for an AI slowdown, linking it to DeepMind's own recent safety proposal.",
+    "zh": "哈萨比斯认同阿莫迪呼吁AI放缓发展的方向，并将其与DeepMind近期提出的安全提案联系起来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T15:09:47Z",
+   "kind": "x",
+   "title": {
+    "en": "With AlphaFold we mapped the protein universe - now with AlphaGenome Atlas we’re charting the human genome. It can predict the impact of all 9 billion possible",
+    "zh": "With AlphaFold we mapped the protein universe - now with AlphaGenome Atlas we’re charting the human genome. It can predict the impact of all 9 billion possible"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2097341636472688674",
+   "note": {
+    "en": "Hassabis says AlphaGenome Atlas extends AlphaFold's mapping of the protein universe to charting the human genome, predicting the impact of all 9 billion possible single-letter DNA variants.",
+    "zh": "Hassabis表示，继AlphaFold绘制蛋白质图谱之后，AlphaGenome Atlas进一步绘制人类基因组图谱，可预测全部90亿种可能的单碱基变异的影响。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Introducing Gemini 3.8 Flash, another upgrade in under a month! And the new 3.8 Flash Cyber pushes the frontier of cyber defense. Relentless progress 🚀 More on",
+    "zh": "Introducing Gemini 3.8 Flash, another upgrade in under a month! And the new 3.8 Flash Cyber pushes the frontier of cyber defense. Relentless progress 🚀 More on"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2095191106665284046",
+   "note": {
+    "en": "Hassabis personally announced the Gemini 3.8 Flash and Flash Cyber model upgrade, calling it 'relentless progress' in DeepMind's release pace.",
+    "zh": "哈萨比斯亲自宣布了Gemini 3.8 Flash及Flash Cyber模型升级,称其为DeepMind发布节奏中“不懈的进步”。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Gemini 3.7 Flash brings major upgrades for software engineering, web dev &amp; knowledge work. And introductory price is half the original 3.6 Flash cost. Happy",
+    "zh": "Gemini 3.7 Flash brings major upgrades for software engineering, web dev &amp; knowledge work. And introductory price is half the original 3.6 Flash cost. Happy"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2087950102455271765",
+   "note": {
+    "en": "Announced Gemini 3.7 Flash, bringing major upgrades for software engineering, web development and knowledge work, at half the price of 3.6 Flash.",
+    "zh": "宣布Gemini 3.7 Flash发布,在软件工程、网页开发和知识型工作方面大幅升级,价格为3.6 Flash的一半。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "SL2T is our amazing sign-language-to-text model allows users to sign directly to their phones for the first time. Built in close collaboration with the Deaf com",
+    "zh": "SL2T is our amazing sign-language-to-text model allows users to sign directly to their phones for the first time. Built in close collaboration with the Deaf com"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2087885303855944001",
+   "note": {
+    "en": "Introduced SL2T, a sign-language-to-text model letting users sign directly to their phones, built with the Deaf community.",
+    "zh": "推出SL2T手语转文字模型,与聋人社区合作开发,让用户可直接对着手机打手语进行输入。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "1B for the @GeminiApp ! Our fastest growing product ever 🚀 Incredible milestone - huge congratulations to @JoshWoodward and the amazing team! Could not be proud",
+    "zh": "1B for the @GeminiApp ! Our fastest growing product ever 🚀 Incredible milestone - huge congratulations to @JoshWoodward and the amazing team! Could not be proud"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2087255967549243425",
+   "note": {
+    "en": "Announced the Gemini app reached 1 billion users, calling it Google's fastest-growing product ever.",
+    "zh": "宣布Gemini应用用户数突破10亿,称其为Google历史上增长最快的产品。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Really enjoyed talking to @bzcohen about AlphaGo's famous move 37 and the significance of it 10 years on for math and science breakthroughs in verifiable domain",
+    "zh": "Really enjoyed talking to @bzcohen about AlphaGo's famous move 37 and the significance of it 10 years on for math and science breakthroughs in verifiable domain"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2085914742414061886",
+   "note": {
+    "en": "Reflected on AlphaGo's famous move 37 and its lasting significance for math and science breakthroughs in verifiable domains, in conversation with a podcast host.",
+    "zh": "在一次对谈中回顾了AlphaGo著名的第37手棋,以及它对可验证领域中数学与科学突破的持久意义。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I’ve been working towards AGI my whole life, and as we enter this pivotal moment, I’m stepping into a new role as Chair of Google DeepMind & Chief Scientist of",
+    "zh": "I’ve been working towards AGI my whole life, and as we enter this pivotal moment, I’m stepping into a new role as Chair of Google DeepMind & Chief Scientist of"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2085034334914769203",
+   "note": {
+    "en": "Announced he is stepping into a new role as Chair of Google DeepMind and Chief Scientist of Alphabet, to focus more on AGI research.",
+    "zh": "宣布自己将转任Google DeepMind董事长兼Alphabet首席科学家的新职位,以更专注于AGI研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Gemini Robotics 2 is here, with our new suite of models, robots can now reason through every movement to manage tasks that weren’t possible before, like tying d",
+    "zh": "Gemini Robotics 2 is here, with our new suite of models, robots can now reason through every movement to manage tasks that weren’t possible before, like tying d"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2082883806323728416",
+   "note": {
+    "en": "Announced Gemini Robotics 2, a model suite letting robots reason through movements to handle previously impossible tasks like tying knots.",
+    "zh": "宣布Gemini Robotics 2模型套件,让机器人能够通过推理完成此前无法完成的动作,如打结。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "A strong and secure open ecosystem is important for the world to benefit from AI. We’ve always supported and contributed heavily to open source and science from",
+    "zh": "A strong and secure open ecosystem is important for the world to benefit from AI. We’ve always supported and contributed heavily to open source and science from"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2081039623422177765",
+   "note": {
+    "en": "Argued a strong, secure open ecosystem is essential for AI's benefits, citing DeepMind's contributions from Jax to Transformers to AlphaFold to Gemma.",
+    "zh": "主张一个强大且安全的开放生态对AI造福社会至关重要,并列举了DeepMind从Jax、Transformer到AlphaFold、Gemma的一系列开源贡献。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-14",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "A Framework for Frontier AI and the Dawning of a New Age",
+    "zh": "A Framework for Frontier AI and the Dawning of a New Age"
+   },
+   "source": "Demis Hassabis",
+   "url": "https://demishassabis.substack.com/p/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age",
+   "note": {
+    "en": "His first Substack essay, calling for a FINRA-style standards body for frontier AI and arguing AGI is only a few years away — his own framing of the governance question, not a DeepMind announcement.",
+    "zh": "他在 Substack 上的首篇长文，主张为前沿人工智能设立类似 FINRA 的行业标准机构，并认为通用人工智能只有几年之遥——这是他本人对治理问题的表述，而非 DeepMind 的官方公告。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "substack",
+   "connector": "personal"
+  },
+  {
+   "date": "2026-07-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemma 4 Technical Report",
+    "zh": "Gemma 4 Technical Report"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.02770v2",
+   "note": {
+    "en": "Technical report for Gemma 4, the open-weight natively multimodal model family built for compute efficiency and reasoning; he is a listed author.",
+    "zh": "Gemma 4 技术报告，介绍这一面向计算效率与推理能力的开放权重原生多模态模型系列，他是署名作者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Thanks John for an extraordinary partnership and wonderful collaboration over the past 9 years! What we achieved with AlphaFold changed the world, and showed th",
+    "zh": "Thanks John for an extraordinary partnership and wonderful collaboration over the past 9 years! What we achieved with AlphaFold changed the world, and showed th"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2068002732250640603",
+   "note": {
+    "en": "Thanked a nine-year research partner as their collaboration ends, crediting AlphaFold with changing the world and showing AI's potential for science.",
+    "zh": "感谢一位合作九年的研究伙伴,称他们的合作促成了改变世界的AlphaFold项目,展示了AI在科学领域的潜力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Awesome to see this innovation in text diffusion. DiffusionGemma is lightning fast, 4x faster than other Gemma 4 models! Congrats to @bodonoghue85 and the team",
+    "zh": "Awesome to see this innovation in text diffusion. DiffusionGemma is lightning fast, 4x faster than other Gemma 4 models! Congrats to @bodonoghue85 and the team"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2064873362799600042",
+   "note": {
+    "en": "Highlighted DiffusionGemma, a text-diffusion model that is 4x faster than other Gemma 4 models.",
+    "zh": "重点介绍了DiffusionGemma,这是一款文本扩散模型,速度比其他Gemma 4模型快4倍。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Celebrating the milestone of a massive 150+ million downloads of Gemma 4 with the release of the new Gemma 4 12B model! It's incredibly powerful for such a smal",
+    "zh": "Celebrating the milestone of a massive 150+ million downloads of Gemma 4 with the release of the new Gemma 4 12B model! It's incredibly powerful for such a smal"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2062241713398149524",
+   "note": {
+    "en": "Celebrated Gemma 4 passing 150 million downloads alongside the release of a new, compact Gemma 4 12B model.",
+    "zh": "庆祝Gemma 4下载量突破1.5亿次,同时发布了体积小巧的新款Gemma 4 12B模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Gemini 3.5 Flash is amazing! - Performs better than 3.1 Pro on coding &amp; agentic tasks - 4x faster than other frontier models - 12x faster in @antigravity -",
+    "zh": "Gemini 3.5 Flash is amazing! - Performs better than 3.1 Pro on coding &amp; agentic tasks - 4x faster than other frontier models - 12x faster in @antigravity -"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2056904067406860545",
+   "note": {
+    "en": "Announced Gemini 3.5 Flash, claiming it outperforms 3.1 Pro on coding tasks while running up to 4x faster at 800 tokens/sec.",
+    "zh": "宣布Gemini 3.5 Flash发布,称其在编程与代理任务上超越3.1 Pro,速度最高提升4倍,达每秒800个token。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Gemini Omni is a major leap in world understanding &amp; multimodal editing! It can take photos, video &amp; audio and build entirely new scenes. Over time it’l",
+    "zh": "Gemini Omni is a major leap in world understanding &amp; multimodal editing! It can take photos, video &amp; audio and build entirely new scenes. Over time it’l"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2056831486251380783",
+   "note": {
+    "en": "Announced Gemini Omni, described as a major leap in world understanding and multimodal editing across photos, video and audio.",
+    "zh": "宣布Gemini Omni发布,称其在跨图片、视频与音频的世界理解与多模态编辑方面实现重大飞跃。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Accelerating scientific discovery with Co-Scientist",
+    "zh": "Accelerating scientific discovery with Co-Scientist"
+   },
+   "source": "Nature",
+   "url": "https://doi.org/10.1038/s41586-026-10644-y",
+   "note": {
+    "en": "Nature paper on Co-Scientist, an AI system built to accelerate scientific discovery.",
+    "zh": "发表于《自然》的论文介绍 Co-Scientist，一个用于加速科学发现的 AI 系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2026-05-18",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Sir Demis Hassabis and Sebastian Mallaby",
+    "zh": "Sir Demis Hassabis and Sebastian Mallaby"
+   },
+   "source": "City Arts & Lectures",
+   "url": "https://podcasts.apple.com/us/podcast/sir-demis-hassabis-and-sebastian-mallaby/id1436346407?i=1000768450651&uo=4",
+   "note": {
+    "en": "On-stage conversation with Sebastian Mallaby at City Arts & Lectures, covering his path from games to DeepMind and the Nobel-winning protein structure work.",
+    "zh": "他在 City Arts & Lectures 与 Sebastian Mallaby 的现场对谈，回顾从游戏设计到创办 DeepMind 的经历，以及获诺贝尔奖的蛋白质结构预测工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-05-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Really cool work from the team reimagining the mouse pointer to be intelligent! Try the prototype in @GoogleAIStudio it's pretty magical.",
+    "zh": "Really cool work from the team reimagining the mouse pointer to be intelligent! Try the prototype in @GoogleAIStudio it's pretty magical."
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2054326444189253655",
+   "note": {
+    "en": "Highlighted a team prototype reimagining the mouse pointer as an intelligent tool, available to try in Google AI Studio.",
+    "zh": "介绍了团队打造的一个原型项目,将鼠标指针重新构想为智能工具,可在Google AI Studio中试用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I’ve always believed the No.1 application of AI should be to improve human health. That work started with AlphaFold, and now at @IsomorphicLabs with the mission",
+    "zh": "I’ve always believed the No.1 application of AI should be to improve human health. That work started with AlphaFold, and now at @IsomorphicLabs with the mission"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2054197462101889277",
+   "note": {
+    "en": "Reaffirmed a long-held belief that AI's top application should be improving human health, citing AlphaFold and Isomorphic Labs' drug-discovery mission.",
+    "zh": "重申长期以来的信念——AI最重要的应用应是改善人类健康,并提及AlphaFold与Isomorphic Labs在药物研发方面的使命。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Hard to believe it’s been 10 years since AlphaGo! It was wonderful to catch up with Lee Sae Dol last week in Korea and join Shin Jin-seo for a special Go match.",
+    "zh": "Hard to believe it’s been 10 years since AlphaGo! It was wonderful to catch up with Lee Sae Dol last week in Korea and join Shin Jin-seo for a special Go match."
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2053182256366191078",
+   "note": {
+    "en": "Marked ten years since AlphaGo by reuniting with Lee Sedol in Korea and joining a special Go match with Shin Jin-seo.",
+    "zh": "在AlphaGo十周年之际赴韩国与李世石重聚,并出席了与申真谞的特别围棋对局。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-07",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Demis Hassabis on AGI, Robots Scale Production, and Elon’s $1T Mars-Shot Comp | EP #253",
+    "zh": "Demis Hassabis on AGI, Robots Scale Production, and Elon’s $1T Mars-Shot Comp | EP #253"
+   },
+   "source": "Moonshots with Peter Diamandis",
+   "url": "https://podcasts.apple.com/us/podcast/demis-hassabis-on-agi-robots-scale-production-and/id1648228034?i=1000766675903&uo=4",
+   "note": {
+    "en": "Guest appearance on Moonshots with Peter Diamandis, discussing the road to AGI and the scaling of robot production.",
+    "zh": "他做客 Peter Diamandis 的 Moonshots 播客，讨论通往通用人工智能的路径以及机器人量产的规模化问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-05-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I've always been passionate about games and they've played a big part in @GoogleDeepMind’s history, as the perfect proving ground for AI. Thrilled to announce t",
+    "zh": "I've always been passionate about games and they've played a big part in @GoogleDeepMind’s history, as the perfect proving ground for AI. Thrilled to announce t"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2052147236952477923",
+   "note": {
+    "en": "Announced a new research partnership tied to games, a longstanding proving ground for DeepMind's AI, with a games-industry collaborator.",
+    "zh": "宣布与一家游戏行业合作伙伴建立新的研究合作,游戏长期以来一直是DeepMind AI研究的重要试验场。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-29",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "How to Build the Future: Demis Hassabis",
+    "zh": "How to Build the Future: Demis Hassabis"
+   },
+   "source": "Y Combinator Startup Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/how-to-build-the-future-demis-hassabis/id1236907421?i=1000764458246&uo=4",
+   "note": {
+    "en": "Y Combinator's 'How to Build the Future' interview, tracing his route from chess prodigy and game designer to neuroscience and the founding of DeepMind.",
+    "zh": "Y Combinator《How to Build the Future》专访，讲述他从国际象棋神童、游戏设计师到神经科学研究者，再到创办 DeepMind 的历程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-04-29",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Excited to collaborate with the Korea Ministry of Science and ICT (@msitmedia) to use AI to accelerate scientific discovery and to invest in Korea’s next genera",
+    "zh": "Excited to collaborate with the Korea Ministry of Science and ICT (@msitmedia) to use AI to accelerate scientific discovery and to invest in Korea’s next genera"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2049465379039416637",
+   "note": {
+    "en": "Announced a collaboration with Korea's Ministry of Science and ICT to use AI for scientific discovery and invest in the country's AI talent.",
+    "zh": "宣布与韩国科学技术信息通信部合作,利用AI推动科学发现并投资培养韩国的AI人才。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-29",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "It was a huge honour to meet with President @Jaemyung_Lee in Seoul. Deeply appreciate and impressed by our thoughtful exchange about AI safety and the importanc",
+    "zh": "It was a huge honour to meet with President @Jaemyung_Lee in Seoul. Deeply appreciate and impressed by our thoughtful exchange about AI safety and the importanc"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2049291051266142574",
+   "note": {
+    "en": "Described meeting South Korean President Lee Jae-myung in Seoul to discuss AI safety and using AI to advance science.",
+    "zh": "描述了在首尔与韩国总统李在明会面,就AI安全以及利用AI推动科学发展进行了交流。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Our most expressive and steerable TTS model yet! Designed to give builders granular control over AI-generated speech, Gemini 3.1 Flash TTS is really fun to play",
+    "zh": "Our most expressive and steerable TTS model yet! Designed to give builders granular control over AI-generated speech, Gemini 3.1 Flash TTS is really fun to play"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2044599020690010217",
+   "note": {
+    "en": "Announced Gemini 3.1 Flash TTS, described as the most expressive and steerable text-to-speech model yet, available in preview.",
+    "zh": "宣布Gemini 3.1 Flash TTS发布,称其为迄今为止表现力最强、可控性最高的文本转语音模型,现已开放预览。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Great to see our collaboration w/ @BostonDynamics unlocking new capabilities! Gemini Robotics-ER 1.6 enables robots like Spot to read complex industrial gauges",
+    "zh": "Great to see our collaboration w/ @BostonDynamics unlocking new capabilities! Gemini Robotics-ER 1.6 enables robots like Spot to read complex industrial gauges"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2044176198914146499",
+   "note": {
+    "en": "Highlighted the Boston Dynamics collaboration, with Gemini Robotics-ER 1.6 enabling robots like Spot to autonomously read industrial gauges.",
+    "zh": "介绍了与波士顿动力的合作成果,Gemini Robotics-ER 1.6使Spot等机器人能够自主读取工业仪表。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Great to chat with fellow Londoner @HarryStebbings about the path to AGI and how we’re using AI today to accelerate science &amp; medicine. Appreciated our disc",
+    "zh": "Great to chat with fellow Londoner @HarryStebbings about the path to AGI and how we’re using AI today to accelerate science &amp; medicine. Appreciated our disc"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2041928454887686305",
+   "note": {
+    "en": "Discussed the path to AGI and how AI is being used today to accelerate science and medicine in a conversation with podcaster Harry Stebbings.",
+    "zh": "在与播客主持人Harry Stebbings的对谈中,探讨了通往AGI之路,以及AI如何加速科学与医学发展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-07",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "20VC: DeepMind's Demis Hassabis on Why AGI is Bigger than the Industrial Revolution | Why LLMs Will Not Commoditise & We Have Not Hit Scaling Laws | Bottlenecks in AI & The Energy Crisis Caused By AI | Whether AI Will Do More to Harm or Help Inequality",
+    "zh": "20VC: DeepMind's Demis Hassabis on Why AGI is Bigger than the Industrial Revolution | Why LLMs Will Not Commoditise & We Have Not Hit Scaling Laws | Bottlenecks in AI & The Energy Crisis Caused By AI | Whether AI Will Do More to Harm or Help Inequality"
+   },
+   "source": "The Twenty Minute VC (20VC): Venture C…",
+   "url": "https://podcasts.apple.com/us/podcast/20vc-deepminds-demis-hassabis-on-why-agi-is-bigger/id958230465?i=1000759991057&uo=4",
+   "note": {
+    "en": "20VC interview arguing AGI will matter more than the Industrial Revolution, that LLMs will not commoditise, and that scaling laws have not yet run out.",
+    "zh": "20VC 专访，他认为通用人工智能的意义将超过工业革命，大语言模型不会沦为同质化商品，且规模定律尚未走到尽头。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-02-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Towards Autonomous Mathematics Research",
+    "zh": "Towards Autonomous Mathematics Research"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.10177v3",
+   "note": {
+    "en": "DeepMind paper on moving reasoning systems from competition-level maths to autonomous mathematics research.",
+    "zh": "DeepMind 论文，讨论如何把推理系统从竞赛级数学推进到自主开展数学研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Advancing regulatory variant effect prediction with AlphaGenome",
+    "zh": "Advancing regulatory variant effect prediction with AlphaGenome"
+   },
+   "source": "Nature",
+   "url": "https://doi.org/10.1038/s41586-025-10014-0",
+   "note": {
+    "en": "Nature paper advancing AlphaGenome, DeepMind's model for predicting the effects of regulatory DNA variants.",
+    "zh": "发表于《自然》的论文介绍 AlphaGenome 的进展，这是 DeepMind 用于预测调控性DNA变异效应的模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2026-01-21",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Google DeepMind CEO Demis Hassabis: AI's Next Breakthroughs, AGI Timeline, Google's AI Glasses Bet",
+    "zh": "Google DeepMind CEO Demis Hassabis: AI's Next Breakthroughs, AGI Timeline, Google's AI Glasses Bet"
+   },
+   "source": "Big Technology Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/google-deepmind-ceo-demis-hassabis-ais-next-breakthroughs/id1522960417?i=1000746108312&uo=4",
+   "note": {
+    "en": "Big Technology Podcast interview on where AI progress actually stands, where the next breakthroughs may come from, and Google's bet on AI glasses.",
+    "zh": "他在 Big Technology 播客中谈人工智能进展的真实位置、下一批突破可能来自何处，以及谷歌在 AI 眼镜上的押注。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "AI as the Ultimate Tool for Science: A Conversation with Demis Hassabis",
+    "zh": "AI as the Ultimate Tool for Science: A Conversation with Demis Hassabis"
+   },
+   "source": "Daedalus",
+   "url": "https://doi.org/10.1162/daed.a.971",
+   "note": {
+    "en": "A Daedalus conversation with Demis Hassabis on AI as a tool for accelerating science.",
+    "zh": "Demis Hassabis 在《代达罗斯》期刊的访谈，谈 AI 作为加速科学研究的工具。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-12-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SIMA 2: A Generalist Embodied Agent for Virtual Worlds",
+    "zh": "SIMA 2: A Generalist Embodied Agent for Virtual Worlds"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.04797v1",
+   "note": {
+    "en": "Paper introducing SIMA 2, a Gemini-based generalist embodied agent that follows instructions and acts across many 3D virtual worlds.",
+    "zh": "论文介绍 SIMA 2：一个基于 Gemini 的通用具身智能体，能够在多种 3D 虚拟世界中理解指令并执行动作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-11-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Olympiad-level formal mathematical reasoning with reinforcement learning",
+    "zh": "Olympiad-level formal mathematical reasoning with reinforcement learning"
+   },
+   "source": "Nature",
+   "url": "https://doi.org/10.1038/s41586-025-09833-y",
+   "note": {
+    "en": "Nature paper on reaching Olympiad-level formal mathematical reasoning through reinforcement learning.",
+    "zh": "发表于《自然》的论文介绍通过强化学习实现奥数级别的形式化数学推理。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-10-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Super excited to be collaborating with Commonwealth Fusion Systems @CFS_energy to use AI to accelerate fusion development - and move closer to a sustainable fut",
+    "zh": "Super excited to be collaborating with Commonwealth Fusion Systems @CFS_energy to use AI to accelerate fusion development - and move closer to a sustainable fut"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/1978863261521998027",
+   "note": {
+    "en": "Announced a collaboration with Commonwealth Fusion Systems to apply AI toward accelerating fusion energy development.",
+    "zh": "宣布与Commonwealth Fusion Systems合作,将AI应用于加速核聚变能源开发。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-10-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We processed over 1.3 Quadrillion tokens last month - that's 1,300,000,000,000,000 tokens! or to put it another way that's 500M tokens a second or 1.8 Trillion",
+    "zh": "We processed over 1.3 Quadrillion tokens last month - that's 1,300,000,000,000,000 tokens! or to put it another way that's 500M tokens a second or 1.8 Trillion"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/1976712484657475691",
+   "note": {
+    "en": "Disclosed that Google processed over 1.3 quadrillion tokens in a month, a scale metric for Gemini's usage.",
+    "zh": "披露Google一个月内处理了超过1.3千万亿个token,反映Gemini的使用规模。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-10-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Excited to share early results about CodeMender, our new AI agent that automatically fixes critical software vulnerabilities. AI could be a huge boost for devel",
+    "zh": "Excited to share early results about CodeMender, our new AI agent that automatically fixes critical software vulnerabilities. AI could be a huge boost for devel"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/1975551657514791272",
+   "note": {
+    "en": "Announced early results for CodeMender, a new AI agent that automatically fixes critical software vulnerabilities.",
+    "zh": "宣布CodeMender的早期成果,这是一款能自动修复关键软件漏洞的新AI代理。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-09-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Talk to robots! Today we're releasing our SOTA Gemini Robotics 1.5 model showing the power of using our multimodal Gemini models as a base, so it can understand",
+    "zh": "Talk to robots! Today we're releasing our SOTA Gemini Robotics 1.5 model showing the power of using our multimodal Gemini models as a base, so it can understand"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/1971292365592854602",
+   "note": {
+    "en": "Announced the release of Gemini Robotics 1.5, a multimodal model enabling robots to understand and reason about the physical world.",
+    "zh": "宣布发布Gemini Robotics 1.5,这是一款让机器人能够理解并推理物理世界的多模态模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-09-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Made it to no.1 in the App Store. Congrats to the @GeminiApp team for all their hard work, and this is just the start, so much more to come!",
+    "zh": "Made it to no.1 in the App Store. Congrats to the @GeminiApp team for all their hard work, and this is just the start, so much more to come!"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/1966931091346125026",
+   "note": {
+    "en": "Noted the Gemini app reached No. 1 in the App Store, a growth milestone for the product.",
+    "zh": "指出Gemini应用登顶App Store第一名,这是该产品的一个增长里程碑。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-09-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Google DeepMind CEO Demis Hassabis on AI, Creativity, and a Golden Age of Science | All-In Summit",
+    "zh": "Google DeepMind CEO Demis Hassabis on AI, Creativity, and a Golden Age of Science | All-In Summit"
+   },
+   "source": "All-In with Chamath, Jason, Sacks & Fr…",
+   "url": "https://podcasts.apple.com/us/podcast/google-deepmind-ceo-demis-hassabis-on-ai-creativity/id1502871393?i=1000726577085&uo=4",
+   "note": {
+    "en": "All-In Summit appearance on world models, the state of robotics and how AI could open a golden age of science, with reflections on his Nobel Prize.",
+    "zh": "他在 All-In 峰会上的对谈，谈世界模型、机器人技术现状以及人工智能可能带来的科学黄金时代，并回顾了自己的诺贝尔奖。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-08-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The new Gemini 2.5 image model🍌is by far the best out there with a whopping +180 ELO point lead in image editing &amp; it really excels at character consistency",
+    "zh": "The new Gemini 2.5 image model🍌is by far the best out there with a whopping +180 ELO point lead in image editing &amp; it really excels at character consistency"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/1960355658059891018",
+   "note": {
+    "en": "Claimed the new Gemini 2.5 image model leads rivals by 180 Elo points in image editing and excels at character consistency.",
+    "zh": "声称新的Gemini 2.5图像模型在图像编辑上以180个Elo分领先对手,并在角色一致性方面表现出色。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-08-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Simulations are the future, &amp; one of the main tools we’ll ultimately use to understand and predict things about the universe. This is why I’m so excited abo",
+    "zh": "Simulations are the future, &amp; one of the main tools we’ll ultimately use to understand and predict things about the universe. This is why I’m so excited abo"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/1958696882105995312",
+   "note": {
+    "en": "Framed simulation as central to AI's future while introducing Genie 3, DeepMind's latest interactive world-simulation model.",
+    "zh": "在推出DeepMind最新的交互式世界模拟模型Genie 3时,阐述了仿真对AI未来的核心意义。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-08-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "One word: relentless. just in the past two weeks, we’ve shipped: 🌐 Genie 3 - the most advanced world simulator ever 🤔 Gemini 2.5 Pro Deep Think available to Ult",
+    "zh": "One word: relentless. just in the past two weeks, we’ve shipped: 🌐 Genie 3 - the most advanced world simulator ever 🤔 Gemini 2.5 Pro Deep Think available to Ult"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/1953887339094143156",
+   "note": {
+    "en": "Recapped a two-week shipping streak: Genie 3, Gemini 2.5 Pro Deep Think for Ultra subscribers, and free Gemini Pro for university students.",
+    "zh": "回顾了两周内的密集发布:Genie 3、面向Ultra订阅用户的Gemini 2.5 Pro Deep Think,以及面向大学生的免费Gemini Pro。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-08-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Genie 3 is here - it can generate an entire world simulation that you can interact with in real-time, just from a text prompt! It's pretty mind-blowing really w",
+    "zh": "Genie 3 is here - it can generate an entire world simulation that you can interact with in real-time, just from a text prompt! It's pretty mind-blowing really w"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/1952756363970466297",
+   "note": {
+    "en": "Announced Genie 3, a model that generates an interactive real-time world simulation from a text prompt.",
+    "zh": "宣布Genie 3发布,该模型可根据文本提示生成可实时交互的世界模拟。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-08-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Thrilled to announce the @Kaggle Game Arena, a new leaderboard testing how modern LLMs perform on games (spoiler: not very well atm!). AI systems play each othe",
+    "zh": "Thrilled to announce the @Kaggle Game Arena, a new leaderboard testing how modern LLMs perform on games (spoiler: not very well atm!). AI systems play each othe"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/1952436066524299432",
+   "note": {
+    "en": "Announced the Kaggle Game Arena, a new leaderboard that pits LLMs against each other in games as an objective benchmark.",
+    "zh": "宣布推出Kaggle Game Arena,这是一个让大语言模型互相对战游戏、作为客观基准的新排行榜。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-08-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Gemini 2.5 Deep Think now available for Ultra subscribers! Great at tackling problems that require creativity &amp; planning, it finds the best answer by consid",
+    "zh": "Gemini 2.5 Deep Think now available for Ultra subscribers! Great at tackling problems that require creativity &amp; planning, it finds the best answer by consid"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/1951249130275127424",
+   "note": {
+    "en": "Announced Gemini 2.5 Deep Think became available to Ultra subscribers, a reasoning mode for complex problems.",
+    "zh": "宣布Gemini 2.5 Deep Think正式向Ultra订阅用户开放,这是一种面向复杂问题的推理模式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Introducing AlphaEarth Foundations an AI model that integrates petabytes of satellite data into a single digital representation of Earth. It'll give scientists",
+    "zh": "Introducing AlphaEarth Foundations an AI model that integrates petabytes of satellite data into a single digital representation of Earth. It'll give scientists"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/1950667643771326784",
+   "note": {
+    "en": "Introduced AlphaEarth Foundations, a model that fuses petabytes of satellite data into a single digital representation of Earth.",
+    "zh": "推出AlphaEarth Foundations,该模型将海量卫星数据整合为地球的统一数字表征。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "You know what's cool... a quadrillion tokens. We processed almost 1,000,000,000,000,000 tokens last month, more than double the amount from May. 📈",
+    "zh": "You know what's cool... a quadrillion tokens. We processed almost 1,000,000,000,000,000 tokens last month, more than double the amount from May. 📈"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/1948579654790774931",
+   "note": {
+    "en": "Reported Google processed nearly a quadrillion tokens in a month, more than double May's volume.",
+    "zh": "报告称Google一个月内处理了近一千万亿个token,是5月份的两倍多。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Thanks @lexfridman for another super fun &amp; wide-ranging conversation. We talked about the future of video games, the nature of reality, advancing science wi",
+    "zh": "Thanks @lexfridman for another super fun &amp; wide-ranging conversation. We talked about the future of video games, the nature of reality, advancing science wi"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/1948234351205855458",
+   "note": {
+    "en": "Noted a wide-ranging conversation with Lex Fridman covering video games, the nature of reality, AI for science, and the path to AGI.",
+    "zh": "提到与Lex Fridman进行了一次内容广泛的对话,涉及电子游戏、现实的本质、AI用于科学研究以及通向AGI之路。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-23",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#475 – Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games",
+    "zh": "#475 – Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/475-demis-hassabis-future-of-ai-simulating-reality/id1434243584?i=1000718721313&uo=4",
+   "note": {
+    "en": "Long-form Lex Fridman interview on the future of AI, simulating reality, and the links between physics, video games and intelligence.",
+    "zh": "Lex Fridman 长篇访谈，讨论人工智能的未来、对现实的模拟，以及物理、电子游戏与智能之间的联系。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-07-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Official results are in - Gemini achieved gold-medal level in the International Mathematical Olympiad! 🏆 An advanced version was able to solve 5 out of 6 proble",
+    "zh": "Official results are in - Gemini achieved gold-medal level in the International Mathematical Olympiad! 🏆 An advanced version was able to solve 5 out of 6 proble"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/1947337615054671882",
+   "note": {
+    "en": "Announced Gemini achieved gold-medal-level performance at the International Mathematical Olympiad, solving 5 of 6 problems.",
+    "zh": "宣布Gemini在国际数学奥林匹克竞赛中达到金牌水平,解出6道题中的5道。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Btw as an aside, we didn’t announce on Friday because we respected the IMO Board's original request that all AI labs share their results only after the official",
+    "zh": "Btw as an aside, we didn’t announce on Friday because we respected the IMO Board's original request that all AI labs share their results only after the official"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/1947337618787615175",
+   "note": {
+    "en": "Explained the delayed IMO announcement was to honor the Board's request that AI labs share results only after official verification.",
+    "zh": "解释IMO成绩延迟公布是为了尊重赛事委员会的要求,即各AI实验室应在官方结果核实后再公布。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Thrilled to welcome @windsurf_ai founders @_mohansolo &amp; Douglas Chen and some of the brilliant Windsurf eng team to @GoogleDeepMind. Excited to be working w",
+    "zh": "Thrilled to welcome @windsurf_ai founders @_mohansolo &amp; Douglas Chen and some of the brilliant Windsurf eng team to @GoogleDeepMind. Excited to be working w"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/1943794383536652309",
+   "note": {
+    "en": "Welcomed Windsurf's founders and engineering team to Google DeepMind to help accelerate Gemini's coding efforts.",
+    "zh": "欢迎Windsurf的创始人及工程团队加入Google DeepMind,以助力加速Gemini的编程能力开发。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+    "zh": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2507.06261v6",
+   "note": {
+    "en": "Technical report for the Gemini 2.X family, covering advanced reasoning, long context and the models' agentic capabilities; he is a listed author.",
+    "zh": "Gemini 2.X 系列模型的技术报告，介绍其高级推理、长上下文与智能体能力，他是署名作者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-06-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "AlphaGenome: advancing regulatory variant effect prediction with a unified DNA sequence model",
+    "zh": "AlphaGenome: advancing regulatory variant effect prediction with a unified DNA sequence model"
+   },
+   "source": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "url": "https://doi.org/10.1101/2025.06.25.661532",
+   "note": {
+    "en": "bioRxiv preprint on AlphaGenome, a unified DNA sequence model for predicting regulatory variant effects.",
+    "zh": "bioRxiv 预印本介绍 AlphaGenome，一个用于预测调控变异效应的统一DNA序列模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-06-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Our open source Gemma models are the most powerful single GPU/TPU models out there! Our latest model Gemma 3n has amazing performance, multimodal understanding,",
+    "zh": "Our open source Gemma models are the most powerful single GPU/TPU models out there! Our latest model Gemma 3n has amazing performance, multimodal understanding,"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/1938300323388399695",
+   "note": {
+    "en": "Claimed the open-source Gemma 3n is the most powerful single-GPU/TPU model available, running with as little as 2GB of memory.",
+    "zh": "声称开源模型Gemma 3n是目前单GPU/TPU模型中最强大的,最低仅需2GB内存即可运行。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-04-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Demis Hassabis on AI, game theory, multimodality, and the nature of creativity",
+    "zh": "Demis Hassabis on AI, game theory, multimodality, and the nature of creativity"
+   },
+   "source": "Pivot",
+   "url": "https://podcasts.apple.com/us/podcast/demis-hassabis-on-ai-game-theory-multimodality-and/id1073226719?i=1000703257125&uo=4",
+   "note": {
+    "en": "Interview on how AI helps master complex systems — from Go to protein folding — and on multimodality and the nature of creativity.",
+    "zh": "访谈中他谈人工智能如何驾驭复杂系统——从围棋到蛋白质折叠——以及多模态与创造力的本质。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-03-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Bridging the human–AI knowledge gap through concept discovery and transfer in AlphaZero",
+    "zh": "Bridging the human–AI knowledge gap through concept discovery and transfer in AlphaZero"
+   },
+   "source": "Proceedings of the National Academy of…",
+   "url": "https://doi.org/10.1073/pnas.2406675122",
+   "note": {
+    "en": "PNAS paper on bridging the human-AI knowledge gap through concept discovery and transfer in AlphaZero.",
+    "zh": "发表于 PNAS 的论文通过 AlphaZero 中的概念发现与迁移，弥合人类与AI之间的知识差距。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-03-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemma 3 Technical Report",
+    "zh": "Gemma 3 Technical Report"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2503.19786v1",
+   "note": {
+    "en": "Technical report for Gemma 3, the 1B–27B open model family that added vision understanding and longer context; he is a listed author.",
+    "zh": "Gemma 3 技术报告，介绍这一参数量从 10 亿到 270 亿、新增视觉理解与更长上下文的开放模型系列，他是署名作者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-11-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Addendum: Accurate structure prediction of biomolecular interactions with AlphaFold 3",
+    "zh": "Addendum: Accurate structure prediction of biomolecular interactions with AlphaFold 3"
+   },
+   "source": "Nature",
+   "url": "https://doi.org/10.1038/s41586-024-08416-7",
+   "note": {
+    "en": "Nature addendum on accurate structure prediction of biomolecular interactions with AlphaFold 3.",
+    "zh": "发表于《自然》的AlphaFold 3论文补遗，关于生物分子相互作用结构的精确预测。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2024-11-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Learning high-accuracy error decoding for quantum processors",
+    "zh": "Learning high-accuracy error decoding for quantum processors"
+   },
+   "source": "Nature",
+   "url": "https://doi.org/10.1038/s41586-024-08148-8",
+   "note": {
+    "en": "Nature paper on learning high-accuracy error decoding for quantum processors, a DeepMind/Google Quantum AI collaboration.",
+    "zh": "发表于《自然》的论文介绍用于量子处理器的高精度纠错译码方法，是 DeepMind 与 Google Quantum AI 的合作成果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2024-11-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DeepMind: From Games to Scientific Discovery",
+    "zh": "DeepMind: From Games to Scientific Discovery"
+   },
+   "source": "Research-Technology Management",
+   "url": "http://dx.doi.org/10.1080/08956308.2024.2424143",
+   "note": {
+    "en": "Research-Technology Management article on DeepMind's path from game-playing AI to scientific discovery.",
+    "zh": "发表于 Research-Technology Management 的文章，回顾 DeepMind 从游戏 AI 走向科学发现的历程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2024-10-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Experimental research on the TCV tokamak",
+    "zh": "Experimental research on the TCV tokamak"
+   },
+   "source": "Nuclear Fusion",
+   "url": "https://doi.org/10.1088/1741-4326/ad8361",
+   "note": {
+    "en": "Nuclear Fusion journal paper on experimental research at the TCV tokamak, part of DeepMind's plasma-control work.",
+    "zh": "发表于 Nuclear Fusion 期刊的论文，介绍 TCV 托卡马克装置的实验研究，是 DeepMind 等离子体控制工作的一部分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2024-10-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scalable watermarking for identifying large language model outputs",
+    "zh": "Scalable watermarking for identifying large language model outputs"
+   },
+   "source": "Nature",
+   "url": "https://doi.org/10.1038/s41586-024-08025-4",
+   "note": {
+    "en": "Nature paper introducing a scalable watermarking method for identifying large language model outputs.",
+    "zh": "发表于《自然》的论文介绍一种可扩展的水印方法，用于识别大语言模型的输出。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2024-09-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "De novo design of high-affinity protein binders with AlphaProteo",
+    "zh": "De novo design of high-affinity protein binders with AlphaProteo"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2409.08022v1",
+   "note": {
+    "en": "AlphaProteo paper on computationally designing high-affinity protein binders de novo, directly extending the AlphaFold line of work.",
+    "zh": "AlphaProteo 论文，讲述如何从头计算设计高亲和力蛋白结合剂，是 AlphaFold 系列工作的直接延伸。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-08-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Imagen 3",
+    "zh": "Imagen 3"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2408.07009v3",
+   "note": {
+    "en": "Technical report for Imagen 3, the latent diffusion text-to-image model, including its quality and responsibility evaluations.",
+    "zh": "Imagen 3 技术报告，介绍这一潜在扩散文生图模型及其质量与责任评估。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-07-31",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemma 2: Improving Open Language Models at a Practical Size",
+    "zh": "Gemma 2: Improving Open Language Models at a Practical Size"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2408.00118v3",
+   "note": {
+    "en": "Technical report for Gemma 2, the 2B–27B open model family; he is a listed author.",
+    "zh": "Gemma 2 技术报告，介绍参数量从 20 亿到 270 亿的开放模型系列，他是署名作者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-04-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Capabilities of Gemini Models in Medicine",
+    "zh": "Capabilities of Gemini Models in Medicine"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2404.18416v2",
+   "note": {
+    "en": "Paper evaluating and adapting Gemini models for medicine, one of the clearest tests of the science-application thesis he argues for.",
+    "zh": "该论文评估并改造 Gemini 模型以应用于医学，是对他所主张的“AI 服务科学”论点最直接的检验之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-04-29",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "How AI is unlocking the secrets of nature and the universe | Demis Hassabis",
+    "zh": "How AI is unlocking the secrets of nature and the universe | Demis Hassabis"
+   },
+   "source": "TED Talks Daily",
+   "url": "https://podcasts.apple.com/us/podcast/how-ai-is-unlocking-the-secrets-of-nature-and/id160904630?i=1000653953462&uo=4",
+   "note": {
+    "en": "His TED talk on how AI is accelerating scientific discovery, from AlphaFold's protein structures to open questions about the universe.",
+    "zh": "他在TED的演讲，讲述人工智能如何加速科学发现——从AlphaFold解析蛋白质结构，到探索宇宙尚未解答的问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-04-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "RecurrentGemma: Moving Past Transformers for Efficient Open Language Models",
+    "zh": "RecurrentGemma: Moving Past Transformers for Efficient Open Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2404.07839v2",
+   "note": {
+    "en": "RecurrentGemma paper, applying Google's Griffin architecture — linear recurrences plus local attention — to efficient open language models.",
+    "zh": "RecurrentGemma 论文，将谷歌的 Griffin 架构（线性循环结合局部注意力）用于高效的开放语言模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-03-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemma: Open Models Based on Gemini Research and Technology",
+    "zh": "Gemma: Open Models Based on Gemini Research and Technology"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2403.08295v4",
+   "note": {
+    "en": "The original Gemma report, opening up lightweight models built from the research and technology behind Gemini.",
+    "zh": "最初的 Gemma 报告，将基于 Gemini 研究与技术打造的轻量级模型开放出来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-03-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context",
+    "zh": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2403.05530v5",
+   "note": {
+    "en": "Gemini 1.5 report, the model family that pushed recall and reasoning out to millions of tokens of context.",
+    "zh": "Gemini 1.5 报告，该系列模型将检索与推理能力扩展到数百万 token 的上下文长度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-12-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemini: A Family of Highly Capable Multimodal Models",
+    "zh": "Gemini: A Family of Highly Capable Multimodal Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2312.11805v5",
+   "note": {
+    "en": "The original Gemini report introducing the Ultra, Pro and Nano multimodal models — the foundation of Google's frontier model line under him.",
+    "zh": "最初的 Gemini 报告，介绍 Ultra、Pro 与 Nano 多模态模型，是他任内谷歌前沿模型路线的基础。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-10-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Bridging the Human-AI Knowledge Gap: Concept Discovery and Transfer in AlphaZero",
+    "zh": "Bridging the Human-AI Knowledge Gap: Concept Discovery and Transfer in AlphaZero"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2310.16410v1",
+   "note": {
+    "en": "Paper extracting chess concepts learned by AlphaZero that humans did not know, and showing grandmasters can be taught them.",
+    "zh": "论文从 AlphaZero 中提取人类此前未掌握的国际象棋概念，并证明可以将其传授给特级大师。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-10-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "TacticAI: an AI assistant for football tactics",
+    "zh": "TacticAI: an AI assistant for football tactics"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2310.10553v2",
+   "note": {
+    "en": "TacticAI, the football tactics assistant built with Liverpool FC that predicts and suggests corner-kick set-ups.",
+    "zh": "TacticAI 论文，与利物浦足球俱乐部合作打造的战术助手，可预测并建议角球战术布置。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-10-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Learning to Decode the Surface Code with a Recurrent, Transformer-Based Neural Network",
+    "zh": "Learning to Decode the Surface Code with a Recurrent, Transformer-Based Neural Network"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2310.05900v1",
+   "note": {
+    "en": "Paper on a recurrent transformer that learns to decode the surface code, a prerequisite step for reliable quantum computation.",
+    "zh": "论文提出一种循环 Transformer 神经网络来解码表面码，这是实现可靠量子计算的前提步骤。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-08-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Diversifying AI: Towards Creative Chess with AlphaZero",
+    "zh": "Diversifying AI: Towards Creative Chess with AlphaZero"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2308.09175v3",
+   "note": {
+    "en": "Paper showing that a diverse league of AlphaZero agents covers each other's blind spots and plays more creative chess than a single agent.",
+    "zh": "论文表明，由多样化 AlphaZero 智能体组成的团队能互相弥补盲点，比单一智能体下出更具创造性的棋。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-09-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Improving alignment of dialogue agents via targeted human judgements",
+    "zh": "Improving alignment of dialogue agents via targeted human judgements"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2209.14375v1",
+   "note": {
+    "en": "Sparrow paper, an early DeepMind result on using targeted human judgements and RLHF to make a dialogue agent more helpful and harmless.",
+    "zh": "Sparrow 论文，DeepMind 早期成果，利用有针对性的人类判断与人类反馈强化学习，使对话智能体更有用、更无害。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-07-28",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "DeepMind's Demis Hassabis on the future of AI",
+    "zh": "DeepMind's Demis Hassabis on the future of AI"
+   },
+   "source": "The TED Interview",
+   "url": "https://podcasts.apple.com/us/podcast/deepminds-demis-hassabis-on-the-future-of-ai/id1437306870?i=1000570329535&uo=4",
+   "note": {
+    "en": "Hassabis discussed AlphaGo's legacy and DeepMind's path toward general intelligence on The TED Interview.",
+    "zh": "哈萨比斯在The TED Interview节目中谈及AlphaGo的影响以及DeepMind通向通用人工智能的路径。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-07-01",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#299 – Demis Hassabis: DeepMind",
+    "zh": "#299 – Demis Hassabis: DeepMind"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/299-demis-hassabis-deepmind/id1434243584?i=1000568422676&uo=4",
+   "note": {
+    "en": "Lex Fridman interview from 2022 on DeepMind's approach to intelligence, AlphaFold and the road to general AI.",
+    "zh": "2022 年的 Lex Fridman 访谈，谈 DeepMind 对智能的研究路径、AlphaFold 以及通往通用人工智能的道路。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-06-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning",
+    "zh": "Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2206.15378v1",
+   "note": {
+    "en": "DeepNash paper, learning the imperfect-information game Stratego from scratch to human expert level without search.",
+    "zh": "DeepNash 论文，无需搜索即可从零学习不完全信息游戏《西洋陆军棋》，达到人类专家水平。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-12-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scaling Language Models: Methods, Analysis & Insights from Training Gopher",
+    "zh": "Scaling Language Models: Methods, Analysis & Insights from Training Gopher"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2112.11446v2",
+   "note": {
+    "en": "The Gopher paper, DeepMind's large-scale study of language model scaling, methods and their limits.",
+    "zh": "Gopher 论文，DeepMind 关于语言模型规模化方法及其局限的大规模研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-11-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Acquisition of Chess Knowledge in AlphaZero",
+    "zh": "Acquisition of Chess Knowledge in AlphaZero"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2111.09259v3",
+   "note": {
+    "en": "Probes what chess knowledge AlphaZero actually learns internally and how it maps onto human chess concepts.",
+    "zh": "探究 AlphaZero 内部究竟学到了哪些国际象棋知识，以及它与人类棋理概念的对应关系。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-03-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Atomistic graph networks for experimental materials property prediction",
+    "zh": "Atomistic graph networks for experimental materials property prediction"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2103.13795v1",
+   "note": {
+    "en": "Paper applying graph networks to predict experimentally measured materials properties, an early instance of the AI-for-science agenda he pushes.",
+    "zh": "论文将图网络用于预测实验测得的材料性质，是他所推动的“AI 服务科学”方向的早期实例。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-02-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Alchemy: A benchmark and analysis toolkit for meta-reinforcement learning agents",
+    "zh": "Alchemy: A benchmark and analysis toolkit for meta-reinforcement learning agents"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2102.02926v3",
+   "note": {
+    "en": "Alchemy, a benchmark and analysis toolkit for meta-reinforcement learning agents.",
+    "zh": "Alchemy 论文，为元强化学习智能体提供的基准测试与分析工具集。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-11-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Game Plan: What AI can do for Football, and What Football can do for AI",
+    "zh": "Game Plan: What AI can do for Football, and What Football can do for AI"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2011.09192v1",
+   "note": {
+    "en": "Position paper with Liverpool FC on what AI can do for football and what football's data can do for AI research.",
+    "zh": "与利物浦足球俱乐部合作的立场论文，探讨人工智能能为足球做什么，以及足球数据能为人工智能研究带来什么。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-08-05",
+   "level": "major",
+   "title": {
+    "en": "Steps down as Google DeepMind CEO, becomes Chair",
+    "zh": "卸任 Google DeepMind CEO，转任董事长"
+   },
+   "body": {
+    "en": "Moves to Chair of DeepMind and Chief Scientist of Alphabet to focus on long-term AI safety and governance; Koray Kavukcuoglu takes daily operations. Alphabet fell nearly 5% on the news.",
+    "zh": "转任 DeepMind 董事长兼 Alphabet 首席科学家，专注长期 AI 安全与治理；Koray Kavukcuoglu 接管日常运营。消息当日 Alphabet 跌近 5%。"
+   },
+   "source": "Axios",
+   "url": "https://www.axios.com/2026/08/06/googles-ai-leadership-shuffle"
+  },
+  {
+   "date": "2026-08-10",
+   "level": "notable",
+   "title": {
+    "en": "Fortune reconstructs the exit: low morale, talent exodus, model delays",
+    "zh": "《财富》复盘：士气低落、人才流失、模型延期"
+   },
+   "body": {
+    "en": "Reporting ties the leadership change to stalled models and missed deadlines inside DeepMind.",
+    "zh": "报道将此次领导层变动归因于 DeepMind 内部模型停滞与工期延误。"
+   },
+   "source": "Fortune",
+   "url": "https://fortune.com/2026/08/10/how-stalled-models-missed-deadlines-and-staff-burnout-lead-to-the-unraveling-of-googles-deepmind/"
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T14:29:12Z",
+   "level": "major",
+   "title": {
+    "en": "For 20+ years @ShaneLegg and I've discussed AGI’s potential impact on the economy, science & society. With the DeepMind Institute, we're expanding interdiscipli",
+    "zh": "For 20+ years @ShaneLegg and I've discussed AGI’s potential impact on the economy, science & society. With the DeepMind Institute, we're expanding interdiscipli"
+   },
+   "body": {
+    "en": "Hassabis announced the launch of the DeepMind Institute with Shane Legg, a new initiative for interdisciplinary research into AGI's impact on economy, science and society.",
+    "zh": "哈萨比斯宣布与Shane Legg共同创立DeepMind Institute，开展关于AGI对经济、科学与社会影响的跨学科研究。"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2100230524383981702",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T08:45:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk, Sam Altman, and Demis Hassabis Compactly Support Slowing Down AI Development",
+    "zh": "Elon Musk, Sam Altman, and Demis Hassabis Compactly Support Slowing Down AI Development"
+   },
+   "body": {
+    "en": "Hassabis joined Musk and Altman in publicly backing calls to slow down AI development.",
+    "zh": "哈萨比斯与马斯克、奥特曼一同公开支持放慢AI发展的呼声。"
+   },
+   "source": "VOI.ID",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ncXlqaW5uTkFRLWo5Xy14ZGVMdlU2RnJrMEcxLVBnYkVEQUVLWEhodzljWVhiN3h2bjZfZlFBWE9Xd2RTMU1tU0NkMNIBQkFVX3lxTE9BaFFxQVYtT3hHTVB5aGpBb3JxOHBBcWVodzBVOW5URURjclRCVTlORUVTdGhwNDhIRjhEanVtV01jQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T08:50:46Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk, Sam Altman, and Demis Hassabis Compactly Support Slowing Down AI Development",
+    "zh": "Elon Musk, Sam Altman, and Demis Hassabis Compactly Support Slowing Down AI Development"
+   },
+   "body": {
+    "en": "Demis Hassabis joined Elon Musk and Sam Altman in publicly supporting a slowdown in AI development, aligning with Dario Amodei's call.",
+    "zh": "Demis Hassabis与Elon Musk、Sam Altman一同公开支持放缓AI发展，呼应了Dario Amodei的呼吁。"
+   },
+   "source": "VOI.ID",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BaFFxQVYtT3hHTVB5aGpBb3JxOHBBcWVodzBVOW5URURjclRCVTlORUVTdGhwNDhIRjhEanVtV01jQdIBQkFVX3lxTE9BaFFxQVYtT3hHTVB5aGpBb3JxOHBBcWVodzBVOW5URURjclRCVTlORUVTdGhwNDhIRjhEanVtV01jQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T01:27:00Z",
+   "level": "notable",
+   "title": {
+    "en": "\"Direction is correct\": Google DeepMind co-founder Demis Hassabis backs Anthropic boss Dario Amodei's calls for AI slowdown",
+    "zh": "\"Direction is correct\": Google DeepMind co-founder Demis Hassabis backs Anthropic boss Dario Amodei's calls for AI slowdown"
+   },
+   "body": {
+    "en": "Hassabis publicly backed Dario Amodei's call to slow the pace of frontier AI development, saying the 'direction is correct.'",
+    "zh": "哈萨比斯公开支持阿莫代伊放缓前沿AI发展速度的呼吁，称这一“方向是正确的”。"
+   },
+   "source": "ANI News",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcDh1WlhYR2sxQlhSczNHZFpoYkRFbUQ1WEpiZm1sMklQREVqY3A0ZTFrZ2RIRG8zVnh2MHN0REg5M05TRUx3UTRUUkFvZUJVNjJKeHVkWXl6ZnNndGxIRmRuZDgxUUQyOXNUbS1LUXFvdGFrT01XRFVqMjZzYlUzb0I2bUxjN0E4c19ibnd5dkRDODRGUE5yV0RjekdWeTBDQ1pGMVUtYmh3ellvZVV1V1JseHluUk5Yd3gzdWlkbnFIZm5rdlNIV1NPc3c2SDR5a0RyZkxGeVFpUXdid1JNbHZjY1N0ZUlSZWt1Y25pUVNNSndoY01rYXZFOGRvaVE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T03:06:09Z",
+   "level": "notable",
+   "title": {
+    "en": "Google DeepMind's Demis Hassabis backs Amodei's AI slowdown call: 'Direction is correct'",
+    "zh": "Google DeepMind's Demis Hassabis backs Amodei's AI slowdown call: 'Direction is correct'"
+   },
+   "body": {
+    "en": "Hassabis publicly backed Amodei's call to slow AI development, saying the direction is correct.",
+    "zh": "哈萨比斯公开支持阿莫代伊放缓AI开发的呼吁，称这一方向是正确的。"
+   },
+   "source": "Moneycontrol.com",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQM0N1VkNOT0cxYmNtdFNXR3Z5cDZIaHVJUTdET2JMQjhDZV9zTzZJS2Y4R1ZMelY2V1RqSU93V08wYTQzUl9FQnI0ZzhMbElxbXJlTW10WWp0VlpubzhKMjRESGNHSDNaV09wSlF2bkk4RU1YQ2M3UDBfZVJDd21aUGZVZEZWbVY4WmhrWmotQjlzZlZiMW9fSDVrTTJuOURSdFRBNXg5TGs1VWNlaDU1RkFzOWpIaDB4UmdOZTNvYUNJalhRdVdEVUx0Q0tYTExVZ19uX3ZOTU1Ld1FDcTRUR0NKRzVHM2ZGdW9XVU01RjhwUdIB9wFBVV95cUxQRkNtOW4yZjByRGxtNkctOXRRbnBzTTlVM0xyWmhSTnNwRkJ0T1pPOEFDYjB2SV9MOE1lUFB5VEx0dzZ1enhSVXpMcVQ2SDRGRTZhNHNJWTIzN05CWnpnZVRmaXBlSGQyUFlFYUZZTTgwLTdSMWZNYV9GVDlVVXB4NDZZbXMtUTF0LUxXWmJXaGNJUlA1UUx2QnNaVldMdlBDYmt3M0EwNG85eDZhM0xDRUlCRFphSDI2T2lEYllrVERvYmttUWRxRDdZSno5ekNpZ0VtMmk5QXlka1NWbDlkeTRsVkhla2k5bkZsY2N3clRBSzBaZVdF?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T18:02:51Z",
+   "level": "notable",
+   "title": {
+    "en": "Google DeepMind cofounder Demis Hassabis backs Anthropic boss Dario Amodei's calls for AI slowdown",
+    "zh": "Google DeepMind cofounder Demis Hassabis backs Anthropic boss Dario Amodei's calls for AI slowdown"
+   },
+   "body": {
+    "en": "Hassabis publicly backed Amodei's call for the AI industry to slow down, aligning DeepMind's leadership with a rare cross-lab safety appeal.",
+    "zh": "哈萨比斯公开支持阿莫代伊呼吁AI行业放慢速度的主张，使DeepMind的领导层站到了这一罕见的跨实验室安全呼吁一边。"
+   },
+   "source": "The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPVDRpNUdTWG9rek1UYk5KVTZNRmNvLTJVRHZLcXIwaWJkRWZ2N3dOLWFRenFFS1BTb1NBOEpzcDNSMk1mTTQ1VXJaajdIQjJLOG1TMkt1djBGaWI1aUhHMl81VGFnVWRJbjFBYXZBVUNLaW1GdEIzd2g1T3kwMHA5aE80V0pUUFIwTlFTQWhZdDhoUjJkbmtSbkxUYk5taTlRbWZ6NkJvNVBVSnpyQ01PVVlUSENId1JmRGpWX0dCU09GdDFtTW9OVEZuVWhvZURxMnBMdjY2eGFRWEpKYWttZUNaRTJvTll6SjNPa3BMSEpWWWtCWko0bGVPNlMwZVVjYlMtd25nODFERXJO0gGSAkFVX3lxTE95Q1NfWUx6MzdhVXdZUXB1UUtvZnljdFhUbExZdjlial96SUFBdi03ZEh6NVdiNXZ4X3ZRdG5rRW5JdEFCZk9YUE5SZ3ZQY0djLXVNNFJLamViV3hWSjRjSndWVVBoczlyVlF0d3BvOWFBcGhobW45SlNKTDZlRVVzNXlYT1RuNk45WFZuN3o2ZHk2ZUdEYXBGVG5TbEdBeW5FaWo2LTA4eUFmRVpZUmRvNm9EbWhUbS1EV3NkanFtejNMaEo4clgxNjN4QllZb2d3RmdfaTByaFptOEdrQUVCT0NrQWJvbzJSOG01R2gwYXo1NElYZENZZlQ1dVFyQ2dEdlRBeXhwdDA4bmg5bk5pZkE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T18:02:00Z",
+   "level": "major",
+   "title": {
+    "en": "Google DeepMind cofounder Demis Hassabis backs Anthropic boss Dario Amodei's calls for AI slowdown",
+    "zh": "Google DeepMind cofounder Demis Hassabis backs Anthropic boss Dario Amodei's calls for AI slowdown"
+   },
+   "body": {
+    "en": "Hassabis publicly backed Anthropic CEO Dario Amodei's call for slowing AI development, a rare public alignment between two leading AI lab heads on safety pacing.",
+    "zh": "哈萨比斯公开支持Anthropic CEO达里奥·阿莫代伊放缓AI发展步伐的呼吁，这是两位顶尖实验室负责人在AI安全节奏问题上罕见的一致表态。"
+   },
+   "source": "The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPeUNTX1lMejM3YVV3WVFwdVFLb2Z5Y3RYVGxMWXY5YmpfeklBQXYtN2RIejVXYjV2eF92UXRua0VuSXRBQmZPWFBOUmd2UGNHYy11TTRSS2plYld4Vko0Y0p3VlVQaHM5clZRdHdwbzlhQXBoaG1uOUpTSkw2ZUVVczV5WE9UbjZOOVhWbjd6NmR5NmVHRGFwRlRuU2xHQXluRWlqNi0wOHlBZkVaWVJkbzZvRG1oVG0tRFdzZGpxbXozTGhKOHJYMTYzeEJZWW9nd0ZnX2kwcmhabThHa0FFQk9Da0Fib28yUjhtNUdoMGF6NTRJWGRDWWZUNXVRckNnRHZUQXl4cHQwOG5oOW5OaWZB0gGSAkFVX3lxTE95Q1NfWUx6MzdhVXdZUXB1UUtvZnljdFhUbExZdjlial96SUFBdi03ZEh6NVdiNXZ4X3ZRdG5rRW5JdEFCZk9YUE5SZ3ZQY0djLXVNNFJLamViV3hWSjRjSndWVVBoczlyVlF0d3BvOWFBcGhobW45SlNKTDZlRVVzNXlYT1RuNk45WFZuN3o2ZHk2ZUdEYXBGVG5TbEdBeW5FaWo2LTA4eUFmRVpZUmRvNm9EbWhUbS1EV3NkanFtejNMaEo4clgxNjN4QllZb2d3RmdfaTByaFptOEdrQUVCT0NrQWJvbzJSOG01R2gwYXo1NElYZENZZlQ1dVFyQ2dEdlRBeXhwdDA4bmg5bk5pZkE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T01:32:07Z",
+   "level": "notable",
+   "title": {
+    "en": "Direction is correct: Google DeepMind co-founder Demis Hassabis backs Anthropic boss Dario Amodeis calls for AI slowdown",
+    "zh": "Direction is correct: Google DeepMind co-founder Demis Hassabis backs Anthropic boss Dario Amodeis calls for AI slowdown"
+   },
+   "body": {
+    "en": "Hassabis publicly backed Anthropic CEO Dario Amodei's call for AI labs to slow down, lending Google DeepMind's weight to the industry-wide safety-pacing debate.",
+    "zh": "哈萨比斯公开支持Anthropic CEO Dario Amodei关于AI实验室应放缓发展的呼吁，为业界围绕AI发展节奏与安全性的争论增添了Google DeepMind的分量。"
+   },
+   "source": "The Tribune",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdFFTSlZSaFhMZEZtSW1BSVZac0diWUk2Wk45Q2YtZENXNHNCMTVjZjVqOUl0Z3l6NlhqNWVuR0VreHZNQmtVRENwbEc4d1ZpX3F5Zy1zYkRrbnRzRFVVMWVRRm85Q2swVXpLNXdJNklrYXFqeDNUMUgtcmE4M2VnMkFrZWpCWG5sV3ZrSTMtYi1LcWJPcmpzLXR1cS1jc0JmSjBCZGZRLUJpWmdqRm1POW8wQUNRemZ5TXplbEJSdm50QnowM0NhMWI0N1RSR1pTQmJkdXc3b2hieEdVUnR1cTU2dk9JeVBTTUNuU3MtejVULW8tcW5pUWxR0gH6AUFVX3lxTE10UVNKVlJoWExkRm1JbUFJVlpzR2JZSTZaTjlDZi1kQ1c0c0IxNWNmNWo5SXRneXo2WGo1ZW5HRWt4dk1Ca1VEQ3BsRzh3VmlfcXlnLXNiRGtudHNEVVUxZVFGbzlDazBVeks1d0k2SWthcWp4M1QxSC1yYTgzZWcyQWtlakJYbmxXdmtJMy1iLUtxYk9yanMtdHVxLWNzQmZKMEJkZlEtQmlaZ2pGbU85bzBBQ1F6ZnlNemVsQlJ2bnRCejAzQ2ExYjQ3VFJHWlNCYmR1dzdvaGJ4R1VSdHVxNTZ2T0l5UFNNQ25Tcy16NVQtby1xbmlRbFE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T21:28:00Z",
+   "level": "major",
+   "title": {
+    "en": "\"Direction is correct\": Google DeepMind co-founder Demis Hassabis backs Anthropic boss Dario Amodei's calls for AI slowdown",
+    "zh": "\"Direction is correct\": Google DeepMind co-founder Demis Hassabis backs Anthropic boss Dario Amodei's calls for AI slowdown"
+   },
+   "body": {
+    "en": "Hassabis publicly endorsed Dario Amodei's call to slow the pace of frontier AI development, a rare instance of a top lab leader backing a rival's safety-slowdown stance.",
+    "zh": "哈萨比斯公开支持Dario Amodei放缓前沿AI发展步伐的呼吁，这是顶级实验室领导人罕见地支持竞争对手的安全减速立场。"
+   },
+   "source": "indiagazette.com",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeWR2aGlqSEpDZ2hVQV8tc0NraUhWa3o2S1RvMDNVNW5KaXUzemRwRnc4Z0FneVVnZHJBMGI4SDZVeVExR1ZqWjBuLWFsSDB5WjFrcG5VZDYxTTZVcXE0dUgtS28yVkNhSGRJQnNlVWo2ZkFFaTRUTTV4dGdiTWp3akVES0lhMEw5X25IM19aSXF2MUVLaE1nM1U5LVpOakpCRWF5UVdaLV9WNHZaaUpvM21aRTZWTXR0aHN0V0pGRU11U0RoQ2RfTF9BanJ2djV2Mjl0TWpKaVpJUUVjM0hHcEhTbndKTFFvRTFLX1dEdDdtTW5H?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T21:28:00Z",
+   "level": "notable",
+   "title": {
+    "en": "\"Direction is correct\": Google DeepMind co-founder Demis Hassabis backs Anthropic boss Dario Amodei's calls for AI slowdown",
+    "zh": "\"Direction is correct\": Google DeepMind co-founder Demis Hassabis backs Anthropic boss Dario Amodei's calls for AI slowdown"
+   },
+   "body": {
+    "en": "Hassabis publicly backed Anthropic CEO Dario Amodei's call to slow the pace of frontier AI development, saying the direction was correct.",
+    "zh": "哈萨比斯公开表示支持Anthropic CEO Dario Amodei关于放缓前沿AI发展步伐的呼吁，称这一方向是正确的。"
+   },
+   "source": "irishsun.com",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTHFiSTNyVFJ6Z1JFdmlPRDVZZ3FPc2NDNmMtOUdoZW5MZTVXVWdYcGhtVjA1VmF4Y2Z3TnRlU1daZkh4VXRCNXNLRldFajJveFJIdzd1OVR0cDZvRnVxUUFKaEFmSUltRVJCVmpoZUpzRGN6SktENUxOTEg5WGdZdXVzcElBUXNwOFlrYWpxaUw0dzY5UkdSTElfenRSSTl0Nkt6WXRJUUUzNG1Ba3pseFZ3aWZjb1otUzUyRlkySmVvRUZmcnpSR3A3WEZtZVh2ZGxUMERCelVKWHVfX1pndjBXYTY3aHFQS0Zlc2hxdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-13",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Google DeepMind Pioneer Demis Hassabis Pushes for Independent AI Safety Body",
+    "zh": "Google DeepMind Pioneer Demis Hassabis Pushes for Independent AI Safety Body"
+   },
+   "body": {
+    "en": "He publicly calls for an independent international AI safety body, one of his clearest policy positions.",
+    "zh": "他公开呼吁设立独立的国际人工智能安全机构，是他最明确的政策表态之一。"
+   },
+   "source": "thenationalherald.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVmRreElhN2lhMW9JR0IxUUU1bm90dnowV3ZnSkMyMjNuSXZEMmZMbG1EbFR5WG9vTVEyNmF2SEZfcGFIcnhzLWVWVi1Dd1NzQzRPTUd3eEJyVVhwMUxxSzBmLXdpTHRuLVpPdkZVMnBDSGV2YXhLbk5OZ3lfTjd1dHBEU3JYcjB4bENudTdMVWRLcGJsU3NHVmpoZVlIOG9MaEYzTkwzeVFEcVpHRzB5VA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-11",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "As 'Demis Hassabis wanted to LEAVE Google alongside Jeff Dean' speculations go viral; Hassabis shares his message to employees in a long LinkedIn post",
+    "zh": "As 'Demis Hassabis wanted to LEAVE Google alongside Jeff Dean' speculations go viral; Hassabis shares his message to employees in a long LinkedIn post"
+   },
+   "body": {
+    "en": "Addressed viral speculation that he wanted to leave Google alongside Jeff Dean, sharing a message to employees on LinkedIn.",
+    "zh": "针对有关他曾想与Jeff Dean一同离开谷歌的网络传言，他在LinkedIn上发布长文回应员工。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNU2N3TFNhWnRJaUlwX1lyQzhuTEY3WjV1dVBaN09GTVpSaFdqWVNsRjB2Ymdwd2pKTXNJalM3LVBoMU94a2doRTVWS0pFckpnYVp6M0F3dzJMc0xESTh0S2ZzcDN0VzZEYXdsOHFPNTllX25BMFlyeV96TTNoOHRHbjh5UG5OalRhWUZmWWFZQWRGdEREUjRyM2NFV1NjNjE2aUJILV9Ud3FBX0I1RTBxa2FWRnFzb2FsbVJhcm9FeXJWSHRFTmpTRy1yMHdWZXJBZVpGcGItdk9xdjl5V2xDWXo4RFQ4NUI0Vi1IQ2hhY1dfLUxNXzI5QlEyalc5Rm9HMVktSll4ZWNkN0FTa3g2VlpTWjQ3ZTJLakRGQXpLODVLbXN3Zzl1UlhwTVIweEhEMGRjTkVHUEltZWNsMXQ5LXRlM0Q0VEZ3elExMXc1dw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-08",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Google DeepMind enters a new era as co-founder Demis Hassabis shifts AI role",
+    "zh": "Google DeepMind enters a new era as co-founder Demis Hassabis shifts AI role"
+   },
+   "body": {
+    "en": "He steps back from running Google DeepMind day to day, moving to chair and Alphabet chief scientist while DeepMind is reorganised.",
+    "zh": "他不再直接负责 Google DeepMind 的日常运营，转任董事长与 Alphabet 首席科学家，DeepMind 同时进行重组。"
+   },
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaUxFdFZEQm5tX1NHY0xUQkwzeWFjbkhmYTdPNFJUTlVxVkxlSmMtUlBnTVpjTlVrZ2pzcW42VVN3b3gtdW1RcWcwa2dBZHhmSEhodXBYU3VNU0E5RmlNT3lfQnVsemx5UmkyOUtPdXlna0pGRlhmdXk4UmhZbmoyRE1fTXMxNWtxcFNfOWpuMFBWNTY3RXZiNQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-06",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Nobel laureate Demis Hassabis named Alphabet chief scientist",
+    "zh": "Nobel laureate Demis Hassabis named Alphabet chief scientist"
+   },
+   "body": {
+    "en": "Nobel laureate Demis Hassabis was named Alphabet's chief scientist.",
+    "zh": "诺贝尔奖得主 Demis Hassabis 被任命为 Alphabet 首席科学家。"
+   },
+   "source": "news.cgtn.com",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU2REOWtfX1gyZDFVN1E1dHMzNzdfbWRrNC03cGFDbTRlamxWUDNYUnJwd2RZaHhMRUFjZ3pjUERScHhjYU85NzdtSU5aM2tsbnk0S0xEUEJISXJIYmQ4ZkgyX2JtTVpsVFFWcHpqTFZGdG1SeU0waVRIQ3Y4WU9EbTZhYnVpbS1xUWNwMHFLc0NWbWo4WnYyb0h6aTNWbnc0cUNKMnlMeFlEbl91anJKR0ZRZi1NMzV2eTFYYkJ3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-06",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Demis Hassabis quit managing DeepMind to focus on AGI — he says it’s almost here",
+    "zh": "Demis Hassabis quit managing DeepMind to focus on AGI — he says it’s almost here"
+   },
+   "body": {
+    "en": "Hassabis said he has stepped back from day-to-day management of DeepMind to focus on the pursuit of AGI, which he believes is close.",
+    "zh": "哈萨比斯表示他已不再负责DeepMind的日常管理,转而专注于他认为已近在咫尺的通用人工智能(AGI)研究。"
+   },
+   "source": "Martin Cid Magazine",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Rbnk2OXhIWVh5ZVliWHpJbm9HWDNMMmM5T3RFVGwzMTZ1ZUQtWm5xUUgwSzdNaHY5TjFONFZHX0QzUHlXUnd6bkJUbUswenZTQ3lHM1FpT0I3VW92MzdDZF9xNmt1TWpmYm1ZN1ZRcHVOc2JhX0RwM0ppa2U?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-06",
+   "ts": "2026-08-06T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Inside Google DeepMind's Reshuffle After CEO Demis Hassabis Steps Aside",
+    "zh": "Inside Google DeepMind's Reshuffle After CEO Demis Hassabis Steps Aside"
+   },
+   "body": {
+    "en": "Google DeepMind reorganized its leadership after Demis Hassabis stepped aside as CEO, a transition that matches his move to the Chair role.",
+    "zh": "在戴密斯·哈萨比斯卸任CEO后，谷歌DeepMind对领导层进行了重组，这与他转任董事长一职相吻合。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX3dOb0RUWE16NzlhVmtCT0FxalYzTGVXYmNqNTI3dnphdXd1b2ZxeGM3aUhlei1EOGNYMUd3ZEpMVnoxekQ0dVdnX25LVU1XYXBUc3NnOWlBYjRqOGVBSmhfMGpXS01WWTJNWkRoWGU4VTUwWFRLZ1FQX3QwVUlKWURTQ1JmcjdQV0dJcEhSQmFNR19uaHhaTjdfMWYwdC1vVGJ3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-05",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Google DeepMind Boss Demis Hassabis Steps Down From CEO Role",
+    "zh": "Google DeepMind Boss Demis Hassabis Steps Down From CEO Role"
+   },
+   "body": {
+    "en": "Hassabis stepped down as CEO of Google DeepMind, moving into a chief scientist role at Alphabet while remaining DeepMind's chair.",
+    "zh": "哈萨比斯卸任Google DeepMind首席执行官,转任Alphabet首席科学家,同时继续担任DeepMind董事长。"
+   },
+   "source": "Gizmodo",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRlVDMUtYQl94SXZtWjl5RW5jbFNRTkV0dWhJM0VvcENnVjRidnZZWkt2eEpISmFicmo3aGZnMF9YWTNVV2tqc2daeFlRYVdfY2o0RXVnZG5MVmFHN3ZoUVMxVEJySTBlczU5MTREN0VNTFpCNHhJeV9PVWNjaVRwVzV5aEFKMGtZRGFnTEYta000MElaUGc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-05",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Demis Hassabis steps down as DeepMind CEO, plus more Google leadership changes",
+    "zh": "Demis Hassabis steps down as DeepMind CEO, plus more Google leadership changes"
+   },
+   "body": {
+    "en": "Hassabis stepped down as Google DeepMind CEO, moving to Chair of DeepMind and Chief Scientist of Alphabet as part of a broader Google AI leadership reshuffle.",
+    "zh": "哈萨比斯卸任Google DeepMind CEO一职，转任DeepMind董事长及Alphabet首席科学家，此举是谷歌AI领导层更大规模调整的一部分。"
+   },
+   "source": "Fast Company",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNi1vMUloOTZjVDYxdjMyN2hVTzdhTjdjQmZxdm9wU0QtZDR3azRFOFc0NThQRW1oZzlUWkFQYzd4RkxWZHdSVEllYlNySzlRZ0VIT0Fvb2tnZmc1UmRXdVlZNy1USWhyX0xCRTA4MFVaYnN6c1hveVlycHkyQUNlQUctNkFrQjJ5Nlp3WllvOFlvQjRYZ2RZczNhc05Wd1RfczRCdVRnVmN1UGcxQUI3QXFUUHk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-05",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Google DeepMind CEO Demis Hassabis Is Stepping Down, But Will Remain With The Company",
+    "zh": "Google DeepMind CEO Demis Hassabis Is Stepping Down, But Will Remain With The Company"
+   },
+   "body": {
+    "en": "Hassabis is stepping down as Google DeepMind CEO while remaining with the company, a major role change as he shifts focus.",
+    "zh": "Hassabis将卸任Google DeepMind首席执行官一职，但仍留在公司，这是他转变工作重心过程中的一次重大职务变动。"
+   },
+   "source": "engadget.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVjlQa3lhTjkwZzE0MlBGd0xoZkVlR1FQeVVFWUItRXYyQ1d6N0RuYi1ORFFkbjczM2hBMWJndGEtdU43cldlV205U1gwcWhqd1JyTXRlY0NyaHVfaGpfNkk3cTlCUS1TRnJPUWdCRVRjWXBlUTFqN1pfd2tKcHFMdmdjZXJpR1hsWm9FVGZjOFFxVDJLT2xqQklFRGUyMjE5ZXVjUUxHUnJJSjlUelBCQ3NTUFA3NkZiYVE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-27",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Google AI CEO Demis Hassabis on why DeepMind sold to Google: The Atari work alerted the Silicon Valley, a",
+    "zh": "Google AI CEO Demis Hassabis on why DeepMind sold to Google: The Atari work alerted the Silicon Valley, a"
+   },
+   "body": {
+    "en": "Hassabis recounted that DeepMind's Atari-playing work is what first caught Silicon Valley's attention and led to Google's acquisition.",
+    "zh": "Hassabis回顾称，正是DeepMind在Atari游戏上的研究工作率先引起了硅谷的关注，并促成了谷歌的收购。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNSlM3TEFYU0hoaDRHRnFFUVp0aE5ZUzZtWU5tUjlqYmVwY1FOX0VDeHJsOS1YM0k5eE8yX1VhR3FIaE5vQnMxNW02V0NpdnBkcEkzWkxZNGRrNWZYTHpCd2pMWGdPSnVROE1xUTkzRXdPeU5zbTVwY2k3T2NoTXZkN09mQkZfVGJlSWdyUWRGZWQ0NHQ0dWlELUhkaHhIbTB1YVNfWHNJQWt2aDFWamwwSm0zc2dGc2FhaV9zSTU2U2YzOE5mUUtQYXc2Z2wtekZaNFAtT01aRXRMT3BlMzlHWUNxSnRKS1hmM2lYU0dNMGVyN2c4UHVvTFJleHZ2dTBzYjhYU1lVNFhGblhWVE9Hb3dBa0IxRERLYzZtbDF0NEs2Z0hDV1R4UVBwNWtmTFkzQjVreFRJQnBNQdIBvwJBVV95cUxNM0c5OUdmalZ1V0pnU2hHOUtqOEV5d3VpWFRweVNFSV9JRWFWbzZ0ZmFFVzdMSnR4dVNOWEZPTkdiaEQ4NHlCNm9sbHdKOVVqaXhxX1JTMXJ5blk3bFBvN0U0Y0FTYmVkajhMWEtDRGp1WXp6THM3eTRmbjVCbnVxTnBkbDMyM1V4cTNpZnFMeW5BalBPbE93eHN1VXl3R19rUm9pWnUtaGdvTWU4RWo3b3RDSWlYc3JJeGtUeUs2cUVQYmFuTURTR2VfQ1prazF3VFZ4T09WRlhCYXdQYnBqX2NHMkVkdDBISWpkM0t2SmVSYWd3YVRZUC0zWGlCTVpJcmdEbF84eG5UUWhHTFJiXzdpdFUzTnZFQjl3Q1pBU3dPSmFYUEFaUXp1b2NrVVNjUWl4WTVPaU5uejlIdUV3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-26",
+   "ts": "2026-05-26T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Demis Hassabis says AGI could arrive by 2029",
+    "zh": "Demis Hassabis says AGI could arrive by 2029"
+   },
+   "body": {
+    "en": "Hassabis publicly predicted AGI could arrive by 2029, a notable timeline stance from Google DeepMind's chief.",
+    "zh": "哈萨比斯公开预测通用人工智能（AGI）最快可能在2029年到来，这是这位DeepMind掌门人对时间线的一次重要表态。"
+   },
+   "source": "Startup Fortune",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ka2tEMXllUkl0aHhXdVhFWi13SU9GaEF4dUpFazRHdDBqMU1ERmxvWGhnWmpwa1JUaXRIOWlhQnBmM3doY2k4T2xCWG91T1YxalBkWXBZQmhFWFlmMTdnWEItZWdkZVZuOWZKYldaZVc1dU1hd2VSTFg2WFY?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": true,
+ "was": {
+  "en": "Google DeepMind CEO",
+  "zh": "Google DeepMind CEO"
+ },
+ "cat": "lab",
+ "score": {
+  "total": 88.3,
+  "attention": 89,
+  "centrality": 96,
+  "momentum": 77,
+  "stature": 90,
+  "pageviews": 1121478,
+  "citations": 195503,
+  "hIndex": 92,
+  "events": 23,
+  "posts": 94,
+  "wikiEn": "Demis Hassabis",
+  "wikiZh": "杰米斯·哈萨比斯"
+ },
+ "seedRank": 3,
+ "tier": "t1"
+}

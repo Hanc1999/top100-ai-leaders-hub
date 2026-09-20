@@ -1,0 +1,531 @@
+{
+ "rank": 51,
+ "id": "michael-truell",
+ "name": {
+  "en": "Michael Truell",
+  "zh": "Michael Truell"
+ },
+ "role": {
+  "en": "Co-founder & CEO, Cursor (Anysphere) — a SpaceXAI subsidiary",
+  "zh": "Cursor（Anysphere）联合创始人兼 CEO —— SpaceXAI 子公司"
+ },
+ "org": "Cursor / SpaceXAI",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "Cursor",
+  "Anysphere",
+  "Composer",
+  "SpaceXAI",
+  "Largest exit"
+ ],
+ "why": {
+  "en": "Cursor became the de-facto standard for AI coding and produced one of the fastest revenue curves in software history from a tiny team — then the largest venture-backed startup acquisition ever recorded.",
+  "zh": "Cursor 成为 AI 编程工具的事实标准，以极小团队实现了软件史上最快的收入增长曲线之一 —— 随后创下有记录以来最大的风险投资支持创业公司收购案。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@mntruell",
+   "url": "https://x.com/mntruell",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Personal site",
+   "url": "https://mntruell.com/",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @truell20",
+   "url": "https://github.com/truell20",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Cursor Blog",
+   "url": "https://cursor.com/blog",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Cursor",
+   "url": "https://cursor.com/",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Cursor on X",
+   "url": "https://x.com/cursor_ai",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Michael+Truell",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Michael+Truell",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Michael+Truell",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Michael+Truell&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Michael+Truell&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Michael+Truell",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Michael+Truell",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Michael+Truell&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Michael_Truell",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-02-20",
+   "kind": "podcast",
+   "title": {
+    "en": "Building Cursor",
+    "zh": "构建 Cursor"
+   },
+   "source": "a16z show",
+   "url": "https://a16z.com/podcasts/a16z-show/",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2025-10-01",
+   "kind": "report",
+   "title": {
+    "en": "Composer — Cursor's in-house model",
+    "zh": "Composer —— Cursor 自研模型"
+   },
+   "source": "Cursor Blog",
+   "url": "https://cursor.com/blog",
+   "note": {
+    "en": "By late 2025 Composer was handling roughly half of Cursor's autocomplete requests.",
+    "zh": "到 2025 年底，Composer 已承担 Cursor 约一半的补全请求。"
+   }
+  },
+  {
+   "date": "2025-04-01",
+   "kind": "podcast",
+   "title": {
+    "en": "Cursor and how software gets built now",
+    "zh": "Cursor 与今天软件的构建方式"
+   },
+   "source": "Lenny's Podcast",
+   "url": "https://www.lennysnewsletter.com/podcast",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Grok Bot for enterprise is out today. We're making it free for all Grok and Cursor enterprise customers for the next two weeks. Deploying Bot has felt like onbo",
+    "zh": "Grok Bot for enterprise is out today. We're making it free for all Grok and Cursor enterprise customers for the next two weeks. Deploying Bot has felt like onbo"
+   },
+   "source": "@mntruell",
+   "url": "https://x.com/mntruell/status/2095625771541008756",
+   "note": {
+    "en": "Truell announced Grok Bot for enterprise, free for two weeks to Grok and Cursor enterprise customers, comparing the rollout to onboarding thousands of capable teammates.",
+    "zh": "特鲁埃尔宣布面向企业的Grok Bot上线，向Grok和Cursor企业客户免费开放两周，并将其比作为团队新增了数千名得力的\"同事\"。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-03-24",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Patrick Collison on Stripe’s Early Choices, Smalltalk, and What Comes After Coding",
+    "zh": "Patrick Collison on Stripe’s Early Choices, Smalltalk, and What Comes After Coding"
+   },
+   "source": "AI + a16z",
+   "url": "https://podcasts.apple.com/us/podcast/patrick-collison-on-stripes-early-choices-smalltalk/id1740178076?i=1000756967719&uo=4",
+   "note": {
+    "en": "Michael Truell interviews Stripe CEO Patrick Collison about early technical choices at Stripe and what comes after AI coding, on the AI + a16z podcast.",
+    "zh": "Michael Truell在AI + a16z播客中采访Stripe CEO帕特里克·科里森,探讨Stripe早期的技术选择以及AI编程之后的下一步。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-01-13",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Michael Truell: How Cursor Builds at the Speed of AI",
+    "zh": "Michael Truell: How Cursor Builds at the Speed of AI"
+   },
+   "source": "AI + a16z",
+   "url": "https://podcasts.apple.com/us/podcast/michael-truell-how-cursor-builds-at-the-speed-of-ai/id1740178076?i=1000744974506&uo=4",
+   "note": {
+    "en": "Cursor CEO Michael Truell talks with a16z about how the team builds and ships at the speed of AI.",
+    "zh": "Cursor CEO Michael Truell在a16z播客中讲述团队如何以AI的速度构建和发布产品。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-12-19",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "2025 in Review, Cursor Acquires Graphite, TikTok's $50B Profit | Michael Truell & Merrill Lutsky, Pranav Myana, Anna Goldie, Edward Mehr",
+    "zh": "2025 in Review, Cursor Acquires Graphite, TikTok's $50B Profit | Michael Truell & Merrill Lutsky, Pranav Myana, Anna Goldie, Edward Mehr"
+   },
+   "source": "TBPN",
+   "url": "https://podcasts.apple.com/us/podcast/2025-in-review-cursor-acquires-graphite-tiktoks-%2450b/id1772360235?i=1000742060789&uo=4",
+   "note": {
+    "en": "Truell appears on TBPN alongside Graphite co-founder Merrill Lutsky to discuss Cursor's acquisition of Graphite and the state of AI coding at the end of 2025.",
+    "zh": "特鲁尔与 Graphite 联合创始人 Merrill Lutsky 一同做客 TBPN，谈 Cursor 收购 Graphite 以及 2025 年末 AI 编程的格局。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-11-13",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Stocks Sell Off As More AI, Tech Fears Roil Investors; Cursor CEO on New Valuation 11/13/25",
+    "zh": "Stocks Sell Off As More AI, Tech Fears Roil Investors; Cursor CEO on New Valuation 11/13/25"
+   },
+   "source": "Closing Bell",
+   "url": "https://podcasts.apple.com/us/podcast/stocks-sell-off-as-more-ai-tech-fears-roil-investors/id1612281974?i=1000736661420&uo=4",
+   "note": {
+    "en": "Truell appeared on CNBC's Closing Bell to discuss Cursor's new valuation amid a broader tech stock selloff.",
+    "zh": "Truell在CNBC《收盘钟》节目中就科技股抛售背景下Cursor的新估值发表看法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-11-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "After adopting Cursor, businesses merge ~40% more PRs each week. New economics research from the University of Chicago.",
+    "zh": "After adopting Cursor, businesses merge ~40% more PRs each week. New economics research from the University of Chicago."
+   },
+   "source": "@mntruell",
+   "url": "https://x.com/mntruell/status/1988755128401424399",
+   "note": {
+    "en": "Truell cites University of Chicago economics research finding that firms adopting Cursor merge roughly 40% more pull requests per week.",
+    "zh": "特鲁尔引用芝加哥大学的经济学研究：采用 Cursor 的企业每周合并的 PR 数量增加约 40%。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-09-03",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Michael Truell: Building Cursor at 23, Taking on GitHub Copilot, and Advice to Engineering Students",
+    "zh": "Michael Truell: Building Cursor at 23, Taking on GitHub Copilot, and Advice to Engineering Students"
+   },
+   "source": "Y Combinator Startup Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/michael-truell-building-cursor-at-23-taking-on-github/id1236907421?i=1000724784266&uo=4",
+   "note": {
+    "en": "Y Combinator fireside talk where Truell retraces founding Cursor at 23, competing with GitHub Copilot, and reaching $100M ARR in a year.",
+    "zh": "Y Combinator 炉边对话：特鲁尔回顾 23 岁创立 Cursor、与 GitHub Copilot 竞争，以及一年内做到 1 亿美元年经常性收入的历程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-08-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "When will we be able to add AI coworkers to Slack to help take on misc operational work? Updating spreadsheets, creating channels, running \"cron job\" business w",
+    "zh": "When will we be able to add AI coworkers to Slack to help take on misc operational work? Updating spreadsheets, creating channels, running \"cron job\" business w"
+   },
+   "source": "@mntruell",
+   "url": "https://x.com/mntruell/status/1954712506326483038",
+   "note": {
+    "en": "Truell argues publicly for AI coworkers that handle routine operational work inside tools like Slack, sketching where he expects agents to go beyond coding.",
+    "zh": "特鲁尔公开提出\"AI 同事\"的设想——在 Slack 等工具中承担日常运营杂务，勾勒出他眼中智能体在编程之外的走向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "A conversation with @patrickc on old programming languages, software at industrial scale, and AI's effect on economics/biology/Patrick's daily life. 00:15 - Why",
+    "zh": "A conversation with @patrickc on old programming languages, software at industrial scale, and AI's effect on economics/biology/Patrick's daily life. 00:15 - Why"
+   },
+   "source": "@mntruell",
+   "url": "https://x.com/mntruell/status/1945170315853914566",
+   "note": {
+    "en": "Truell publishes his conversation with Stripe's Patrick Collison on old programming languages, software at industrial scale, and AI's effect on economics and biology.",
+    "zh": "特鲁尔发布他与 Stripe 的 Patrick Collison 的对谈，内容涉及老编程语言、工业规模的软件，以及 AI 对经济学与生物学的影响。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-06-17",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "First Block: Interview with Michael Truell, Co-Founder & CEO of Cursor",
+    "zh": "First Block: Interview with Michael Truell, Co-Founder & CEO of Cursor"
+   },
+   "source": "Notion Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/first-block-interview-with-michael-truell-co-founder/id1422389039?i=1000713271764&uo=4",
+   "note": {
+    "en": "Notion's First Block interview with Truell on the early decisions behind Cursor and what the first months of the company looked like.",
+    "zh": "Notion《First Block》专访特鲁尔，谈 Cursor 早期的关键决策和公司最初几个月的样子。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-05-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Cursor now supports 1M context-windows, the most expensive models, and unlimited tool calls with API pricing.",
+    "zh": "Cursor now supports 1M context-windows, the most expensive models, and unlimited tool calls with API pricing."
+   },
+   "source": "@mntruell",
+   "url": "https://x.com/mntruell/status/1924297275993669893",
+   "note": {
+    "en": "Truell announces that Cursor supports 1M-token context windows, the most expensive models, and unlimited tool calls under API pricing.",
+    "zh": "特鲁尔宣布 Cursor 支持 100 万 token 上下文窗口、最昂贵的模型，并在 API 计价下不限工具调用次数。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-05-01",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The rise of Cursor: The $300M ARR AI tool that engineers can’t stop using | Michael Truell (co-founder and CEO)",
+    "zh": "The rise of Cursor: The $300M ARR AI tool that engineers can’t stop using | Michael Truell (co-founder and CEO)"
+   },
+   "source": "Lenny's Podcast: Product | Career | Gr…",
+   "url": "https://podcasts.apple.com/us/podcast/the-rise-of-cursor-the-%24300m-arr-ai-tool-that/id1627920305?i=1000705681302&uo=4",
+   "note": {
+    "en": "Lenny's Podcast interview covering how Cursor reached $300M ARR two years in, and how Truell thinks about product and pricing for an AI editor.",
+    "zh": "Lenny 播客专访：Cursor 如何在两年内做到 3 亿美元年经常性收入，以及特鲁尔对 AI 编辑器产品与定价的思考。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-10-06",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#447 – Cursor Team: Future of Programming with AI",
+    "zh": "#447 – Cursor Team: Future of Programming with AI"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/447-cursor-team-future-of-programming-with-ai/id1434243584?i=1000671976209&uo=4",
+   "note": {
+    "en": "Truell joins fellow Cursor creators Aman Sanger, Arvid Lunnemark and Sualeh Asif on the Lex Fridman Podcast to discuss the future of AI-assisted programming.",
+    "zh": "Truell与Cursor的其他联合创始人Aman Sanger、Arvid Lunnemark和Sualeh Asif一同做客Lex Fridman播客,探讨AI辅助编程的未来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-08-14",
+   "level": "major",
+   "title": {
+    "en": "SpaceX closes the $60B all-stock acquisition of Anysphere",
+    "zh": "SpaceX 完成 600 亿美元全股票收购 Anysphere"
+   },
+   "body": {
+    "en": "The largest acquisition of a venture-backed startup on record; ~391M SpaceX Class A shares issued, so founders and backers hold SpaceX paper rather than cash. Cursor becomes a wholly owned subsidiary of the SpaceXAI division with access to Colossus.",
+    "zh": "有记录以来最大的风险投资支持创业公司收购；发行约 3.91 亿股 SpaceX A 类股，创始人与投资方持有的是 SpaceX 股票而非现金。Cursor 成为 SpaceXAI 部门全资子公司并获得 Colossus 算力。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/technology/ai/articles/spacex-completes-record-60-billion-131311785.html"
+  },
+  {
+   "date": "2026-02-01",
+   "level": "notable",
+   "title": {
+    "en": "ARR passes $2B, three years from founding",
+    "zh": "成立三年 ARR 突破 20 亿美元"
+   },
+   "body": {
+    "en": "$100M (Jan 2025) → $500M (Jun 2025) → $1B (Nov 2025) → $2B+ (Feb 2026); enterprise ARR reported around $2.6B with 50,000+ enterprise customers.",
+    "zh": "1 亿（2025-01）→ 5 亿（2025-06）→ 10 亿（2025-11）→ 20 亿+（2026-02）；企业业务 ARR 据报约 26 亿美元，企业客户 5 万+。"
+   },
+   "source": "TheNextWeb",
+   "url": "https://thenextweb.com/news/cursor-anysphere-2-billion-funding-50-billion-valuation-ai-coding"
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Michael Truell: The 100 Most Influential People in AI 2026",
+    "zh": "Michael Truell: The 100 Most Influential People in AI 2026"
+   },
+   "body": {
+    "en": "Time names Truell to its 100 Most Influential People in AI 2026 list.",
+    "zh": "《时代》周刊将特鲁尔列入 2026 年\"AI 领域最具影响力的 100 人\"榜单。"
+   },
+   "source": "Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VQWljbjB3WEh1Z3dnbHh0X05NYWNFem9OT21NS0FUalJEeGR0WWtBdFJYUkR3YXZsMWZfOXc0d00yVzZER1JRMlZyNFhrSHY1NEkxaGZTMC1BazdieW9YQ0QwU3A2Ym5NRW5F?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-17",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Meet Michael Truell, The 25-Year-Old CEO Whose AI Startup Was Acquired by SpaceX For $60 Billion",
+    "zh": "Meet Michael Truell, The 25-Year-Old CEO Whose AI Startup Was Acquired by SpaceX For $60 Billion"
+   },
+   "body": {
+    "en": "SpaceX acquired Cursor, the company Truell co-founded and runs, in a deal valued at about $60 billion.",
+    "zh": "SpaceX 以约600亿美元收购了 Michael Truell 联合创办并执掌的 Cursor。"
+   },
+   "source": "NDTV",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMkZMMk93c3ZIb1d2MXo0UFJFMjhRMGdnREdsQU1rU1FXNDhiT2FFLUxJODRJOGtkeGZTNGRxLTFSSlZValZzR3FraklTelo5eG40aWdaT0haQ2pLOHZ5ei1MNm9tSTF3RWE5N083TDF4TnBndEUybDRRQW5lZy1TNGtmb0hVTUpfWkJWd1ZQcERXSE9XaHZ6NWkzSmtBY3phQzRXVnN6c3hzMUFESERVZmRxeVk3N1l5Rmk3V3FyYTBXVlZpZ0tjU1AtMEjSAdQBQVVfeXFMUFBlbE1oa1BFQ0JCOVplLXlaemhWbVRxckR1TnNKTlVPeWNLMnRic096QXVSMXpVVENDM1hYSFJlOHNQZXFENGZERXZGWXVsdTFUNE1WQWVEWmNKTG1TQmk0QlJGTy1TN2JCQXU5TGZ6MTZWVGtqT0hJcFZHTXhReFhEYU1PNlpCU0Vja0ZPNFhZQ0xtUXRNVWNiMThRcS1mTExXUVh5UDR0T2Npa1NUYkNfM1RQVDViUk5fVlpNX285R2FnRjlDYXVfZTNxbDVUeUN1WHg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-17",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "SpaceX Buys Cursor, Founded By 25-Year-Old Michael Truell, In $60 Billion Deal",
+    "zh": "SpaceX Buys Cursor, Founded By 25-Year-Old Michael Truell, In $60 Billion Deal"
+   },
+   "body": {
+    "en": "SpaceX acquires Cursor maker Anysphere for $60 billion, the largest venture-backed startup acquisition on record, putting Truell's company under SpaceX.",
+    "zh": "SpaceX 以 600 亿美元收购 Cursor 母公司 Anysphere，创下风投支持创业公司被收购的最高纪录，特鲁尔的公司自此归入 SpaceX。"
+   },
+   "source": "NDTV",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeFl1NFAtM1BiLU5BMWtlNnJZRXBadUJXZk5MWW1BME1OR2QwbFNHNUxYQmt4RnNTemhPZ3hhZUYxbVFWRVpOem5qQ19QeEtWb05RejdFTHBHZ1EwUHNnbkZua0V2LUE5Y2xaU01KcGJMY0JGX1JSSXVKMGlYdkZVUXVzNUQ0WGhpTWduNDRPYWF2SEdwTG1VN2M3OTdlaE5XVG9CcW5rcHhwQmNfUFFSMEQ3eFV4N3RKS2VUdGxWc3dUYUJodUtZX0xjT0VvTllGY200YdIB3AFBVV95cUxPLWtjVW92WUlQNlM2M2dDQWhVamZobW5NVFA3djd4enZpeVNrMjNudXQ5NEdvVC0waTZoeExDTlJaYXgxLUFlbVlmelpBWDRtdmRDOUNaRUkzYXRpNGNSNE1wc0p3dkotSW5sbktmS19ETlh4Wk1KVEphNk4ya3R1eENuZzJrRXFZWkdLV2dNd2xZRFN1Z1RwTFY0RnhqYkV5ZmgxZ3l3SVFDaUg0QkNId2k3SmV6b1Q0dDdMNzV2UnhCYkNRN1A5RWliQTBwT25BN3lnb1ZuRVZPd09R?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-17",
+   "ts": "2026-06-17T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Who Is Michael Truell: The 25-Year-Old Intern Turned Billionaire Behind SpaceX’s $60B AI Deal",
+    "zh": "Who Is Michael Truell: The 25-Year-Old Intern Turned Billionaire Behind SpaceX’s $60B AI Deal"
+   },
+   "body": {
+    "en": "A profile of Michael Truell traces his path from a 25-year-old intern to the billionaire founder behind Cursor's record $60B acquisition by SpaceXAI.",
+    "zh": "一篇人物报道讲述了Michael Truell从25岁实习生成长为亿万富翁的经历，他创立的Cursor被SpaceXAI以创纪录的600亿美元收购。"
+   },
+   "source": "Republic World",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ1dwb004VW0yQWl4SmVheUNKOHFtWVFGNUJBd2pfeldFMkVxanJpZFRoMmRIb1l3X0E0bnl0d0pHZUpJLVVDOENjbnlFUGpfcWVBN2ZiZHU3ZjNuSG5wVEdIQUI3VE5OdW40c0JCSXNjTEVVVE9FS3YyenpVbTlIMEMwbHc2QVl0NXNwS1dGVEFVR3NmWU1Ub0ZBd1ZzRlh3b2VKTVNzcEtadmQ1N1hqYkt6UWxFWnJrek5vNmJfZmNJaVYwemNudGRTSnI0Y3hsSnVWSlE5MG55SWvSAeABQVVfeXFMTkFucDluVlkxcW5DejBWckFpckVoRXkzNzVyOW5MNmpOakpxUURTdHNfS05FVVdxV1BrYWNEbVMzd1hxREJkTk84QndtVndBWGYxUnB6M0VRSjg0cEoxOUU1bE9BM3BSNlJWcEhTdGVXRnhDUXoybm1oeGJqVEk2MUl0cnlhc0NBZjZXem9tY2IyTFNuOWJLam9veWM3MUFmdEJHaGdROThTV09vRmViOVFmZnYwNFR2Wng2ODFUakZGVUtURHBHd0hXSzQ0WUxhREc4Y3JSLWJhUzBFV2VSdnk?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": true,
+ "was": {
+  "en": "Co-founder & CEO, Anysphere (Cursor)",
+  "zh": "Anysphere（Cursor）联合创始人兼 CEO"
+ },
+ "cat": "product",
+ "score": {
+  "total": 46.4,
+  "attention": 35,
+  "centrality": 79,
+  "momentum": 30,
+  "stature": null,
+  "pageviews": 50879,
+  "citations": 0,
+  "hIndex": 0,
+  "events": 6,
+  "posts": 16,
+  "wikiEn": "Michael Truell",
+  "wikiZh": null
+ },
+ "seedRank": 56,
+ "tier": "t3"
+}

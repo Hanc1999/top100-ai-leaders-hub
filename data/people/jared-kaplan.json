@@ -1,0 +1,759 @@
+{
+ "rank": 43,
+ "id": "jared-kaplan",
+ "name": {
+  "en": "Jared Kaplan",
+  "zh": "Jared Kaplan"
+ },
+ "role": {
+  "en": "Co-founder & Chief Science Officer, Anthropic",
+  "zh": "Anthropic 联合创始人兼首席科学官"
+ },
+ "org": "Anthropic",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "Anthropic",
+  "Scaling Laws",
+  "Claude",
+  "Theoretical physics"
+ ],
+ "why": {
+  "en": "A theoretical physicist by training and first author of the scaling-laws paper — the work that gave the entire industry a quantitative basis for believing bigger models get better.",
+  "zh": "理论物理出身，Scaling Laws 论文第一作者 —— 这项工作为整个行业「增大模型必然变强」的信念提供了量化依据。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@JaredKaplan",
+   "url": "https://x.com/JaredKaplan",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "Anthropic Research",
+   "url": "https://www.anthropic.com/research",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "Anthropic News",
+   "url": "https://www.anthropic.com/news",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Jared+Kaplan",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Jared+Kaplan",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Jared+Kaplan",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Jared+Kaplan&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Jared+Kaplan&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Jared+Kaplan",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Jared+Kaplan&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Jared+Kaplan",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?user=KNr3vb4AAAAJ&hl=en",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Jared+Kaplan",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Jared+Kaplan",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Jared+Kaplan",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Jared+Kaplan",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Jared+Kaplan",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Jared+Kaplan&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2020-01-23",
+   "kind": "paper",
+   "title": {
+    "en": "Scaling Laws for Neural Language Models",
+    "zh": "神经语言模型的扩展律"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2001.08361",
+   "note": {
+    "en": "The paper that gave the industry a quantitative basis for believing bigger models get better.",
+    "zh": "这篇论文为行业「模型越大越强」的信念提供了量化依据。"
+   }
+  },
+  {
+   "date": "2022-12-15",
+   "kind": "paper",
+   "title": {
+    "en": "Constitutional AI: harmlessness from AI feedback",
+    "zh": "宪法 AI：来自 AI 反馈的无害性"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2212.08073",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-07-23",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Looking Back at AI Scaling with Anthropic Co-Founder Jared Kaplan",
+    "zh": "Looking Back at AI Scaling with Anthropic Co-Founder Jared Kaplan"
+   },
+   "source": "Nature and Science Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/looking-back-at-ai-scaling-with-anthropic-co-founder/id1510784615?i=1000778057258&uo=4",
+   "note": {
+    "en": "An archival interview in which Kaplan retraces the scaling-laws work and what it implied about where large language models were heading.",
+    "zh": "一期档案访谈，Kaplan 回顾他的缩放定律研究，以及这项工作对大语言模型走向的意涵。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-01-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Constitutional Classifiers++: Efficient Production-Grade Defenses against Universal Jailbreaks",
+    "zh": "Constitutional Classifiers++: Efficient Production-Grade Defenses against Universal Jailbreaks"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2601.04603v1",
+   "note": {
+    "en": "A follow-up to Anthropic's constitutional classifiers showing the same jailbreak robustness at production-viable compute cost and with far fewer false refusals.",
+    "zh": "Anthropic 宪法式分类器的后续工作，在可用于生产的算力成本下保持对越狱攻击的稳健性，并大幅降低误拒率。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-07-29",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Scaling and the Road to Human-Level AI | Anthropic Co-founder Jared Kaplan",
+    "zh": "Scaling and the Road to Human-Level AI | Anthropic Co-founder Jared Kaplan"
+   },
+   "source": "Y Combinator Startup Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/scaling-and-the-road-to-human-level-ai-anthropic/id1236907421?i=1000719640584&uo=4",
+   "note": {
+    "en": "His AI Startup School talk on how scaling laws took him from theoretical physics to Anthropic, and what he thinks the road to human-level AI looks like.",
+    "zh": "他在 AI Startup School 的演讲，讲述缩放定律如何把他从理论物理带到 Anthropic，以及他眼中通往人类水平 AI 的路径。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-06-06",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Inside Anthropic's AI Ambitions with Jared Kaplan",
+    "zh": "Inside Anthropic's AI Ambitions with Jared Kaplan"
+   },
+   "source": "Equity",
+   "url": "https://podcasts.apple.com/us/podcast/inside-anthropics-ai-ambitions-with-jared-kaplan/id1215439780?i=1000711868175&uo=4",
+   "note": {
+    "en": "A TC Sessions: AI conversation in which Kaplan lays out Anthropic's research and product ambitions.",
+    "zh": "在 TC Sessions: AI 上的对谈，Kaplan 阐述 Anthropic 的研究与产品规划。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-05-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Reasoning Models Don't Always Say What They Think",
+    "zh": "Reasoning Models Don't Always Say What They Think"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2505.05410v1",
+   "note": {
+    "en": "Tests whether a reasoning model's chain of thought actually reports the reasoning it used, and finds it often does not — a limit on using CoT for safety monitoring.",
+    "zh": "检验推理模型的思维链是否真实反映其所用推理，发现常常并不忠实，指出以思维链做安全监控的局限。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-04-01",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Are we ready for human-level AI by 2030? Anthropic's co-founder answers",
+    "zh": "Are we ready for human-level AI by 2030? Anthropic's co-founder answers"
+   },
+   "source": "Azeem Azhar's Exponential View",
+   "url": "https://podcasts.apple.com/us/podcast/are-we-ready-for-human-level-ai-by-2030-anthropics/id1172218725?i=1000701768646&uo=4",
+   "note": {
+    "en": "Kaplan discusses the accelerating timeline to human-level AI and Claude's extended-thinking feature in an interview on Azeem Azhar's Exponential View.",
+    "zh": "卡普兰在Azeem Azhar的Exponential View播客访谈中讨论了通向人类水平AI的加速时间线,以及Claude的“思考时间”功能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-02-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Forecasting Rare Language Model Behaviors",
+    "zh": "Forecasting Rare Language Model Behaviors"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2502.16797v1",
+   "note": {
+    "en": "Proposes a method for predicting rare model behaviours that only surface at deployment scale, from small-scale evaluations.",
+    "zh": "提出从小规模评测外推预测只在部署规模下才会出现的罕见模型行为的方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-02-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Which Economic Tasks are Performed with AI? Evidence from Millions of Claude Conversations",
+    "zh": "Which Economic Tasks are Performed with AI? Evidence from Millions of Claude Conversations"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2503.04761v1",
+   "note": {
+    "en": "Measures which occupational tasks people actually use AI for, drawn from millions of Claude conversations — the empirical basis of Anthropic's Economic Index.",
+    "zh": "基于数百万条 Claude 对话，实测人们究竟把 AI 用于哪些职业任务，是 Anthropic 经济指数的实证基础。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-01-31",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Constitutional Classifiers: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming",
+    "zh": "Constitutional Classifiers: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2501.18837v1",
+   "note": {
+    "en": "Introduces classifier safeguards trained on constitution-generated data, which held up against universal jailbreaks across thousands of hours of red teaming.",
+    "zh": "提出用依据宪法生成的数据训练的分类器防护层，在数千小时红队测试中抵御通用越狱攻击。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-12-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Alignment faking in large language models",
+    "zh": "Alignment faking in large language models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2412.14093v2",
+   "note": {
+    "en": "Demonstrates alignment faking: a model selectively complying with its training objective during training in order to avoid having its behaviour changed.",
+    "zh": "实证展示「伪装对齐」：模型在训练中选择性地服从训练目标，以避免自身行为被修改。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-12-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Clio: Privacy-Preserving Insights into Real-World AI Use",
+    "zh": "Clio: Privacy-Preserving Insights into Real-World AI Use"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2412.13678v1",
+   "note": {
+    "en": "Describes Clio, a privacy-preserving system for understanding how AI assistants are used in the real world without reading individual conversations.",
+    "zh": "介绍 Clio：一套保护隐私的分析系统，可在不查看个人对话的前提下了解 AI 助手的真实使用情况。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-12-10",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Who Gets to Decide What AI Can and Can't Do? | Anthropic’s Jared Kaplan (Ep. 5)",
+    "zh": "Who Gets to Decide What AI Can and Can't Do? | Anthropic’s Jared Kaplan (Ep. 5)"
+   },
+   "source": "Life with Machines",
+   "url": "https://podcasts.apple.com/us/podcast/who-gets-to-decide-what-ai-can-and-cant-do-anthropics/id1766829040?i=1000679856748&uo=4",
+   "note": {
+    "en": "An interview on who gets to decide what an AI model may and may not do, and how Anthropic sets those limits.",
+    "zh": "访谈探讨「谁来决定 AI 能做什么、不能做什么」，以及 Anthropic 如何划定这些边界。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-10-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Sabotage Evaluations for Frontier Models",
+    "zh": "Sabotage Evaluations for Frontier Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2410.21514v1",
+   "note": {
+    "en": "Builds an evaluation suite for whether frontier models could covertly sabotage human oversight and decision-making.",
+    "zh": "构建一套评测，检验前沿模型是否可能暗中破坏人类的监督与决策。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-06-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Sycophancy to Subterfuge: Investigating Reward-Tampering in Large Language Models",
+    "zh": "Sycophancy to Subterfuge: Investigating Reward-Tampering in Large Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2406.10162v3",
+   "note": {
+    "en": "Shows that models trained on simple specification gaming can generalise all the way to tampering with their own reward.",
+    "zh": "表明从简单的奖励规范漏洞出发训练的模型，可能一路泛化到直接篡改自身奖励。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-01-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training",
+    "zh": "Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2401.05566v3",
+   "note": {
+    "en": "Shows that backdoored deceptive behaviour can survive standard safety training, so current safety training may not remove such risks.",
+    "zh": "表明植入后门的欺骗性行为能在标准安全训练后存续，说明现有安全训练未必能消除此类风险。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-12-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Evaluating and Mitigating Discrimination in Language Model Decisions",
+    "zh": "Evaluating and Mitigating Discrimination in Language Model Decisions"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2312.03689v1",
+   "note": {
+    "en": "Evaluates how language models discriminate when used for high-stakes decisions such as lending and housing, and tests mitigations.",
+    "zh": "评估语言模型在贷款、住房等高风险决策中的歧视倾向，并检验相应的缓解手段。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-10-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Specific versus General Principles for Constitutional AI",
+    "zh": "Specific versus General Principles for Constitutional AI"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2310.13798v1",
+   "note": {
+    "en": "Asks whether a single broad principle can replace a list of specific rules in Constitutional AI, and compares the resulting model behaviour.",
+    "zh": "探讨宪法式 AI 中一条笼统原则能否替代成套具体规则，并比较由此得到的模型行为。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-08-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Studying Large Language Model Generalization with Influence Functions",
+    "zh": "Studying Large Language Model Generalization with Influence Functions"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2308.03296v1",
+   "note": {
+    "en": "Scales influence functions to large language models so that a given behaviour can be traced back to the training examples most responsible for it.",
+    "zh": "将影响函数扩展到大语言模型，从而把某一行为追溯到对其影响最大的训练样本。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-07-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Measuring Faithfulness in Chain-of-Thought Reasoning",
+    "zh": "Measuring Faithfulness in Chain-of-Thought Reasoning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2307.13702v1",
+   "note": {
+    "en": "Proposes ways to measure whether a model's stated chain of thought is a faithful account of the computation behind its answer.",
+    "zh": "提出衡量模型所述思维链是否忠实反映其答案背后计算过程的方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-07-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Question Decomposition Improves the Faithfulness of Model-Generated Reasoning",
+    "zh": "Question Decomposition Improves the Faithfulness of Model-Generated Reasoning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2307.11768v2",
+   "note": {
+    "en": "Shows that decomposing a question into sub-questions makes a model's generated reasoning more faithful to how it actually answers.",
+    "zh": "表明将问题拆解为子问题作答，可使模型给出的推理过程更忠实于其实际作答方式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-06-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Towards Measuring the Representation of Subjective Global Opinions in Language Models",
+    "zh": "Towards Measuring the Representation of Subjective Global Opinions in Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2306.16388v2",
+   "note": {
+    "en": "Builds a quantitative framework for measuring whose national and cultural opinions a language model reflects on contested social questions.",
+    "zh": "构建量化框架，衡量语言模型在争议性社会议题上更代表哪些国家与文化群体的观点。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-02-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The Capacity for Moral Self-Correction in Large Language Models",
+    "zh": "The Capacity for Moral Self-Correction in Large Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2302.07459v2",
+   "note": {
+    "en": "Tests whether RLHF-trained models can 'morally self-correct' — avoiding harmful or biased output when simply instructed to.",
+    "zh": "检验经 RLHF 训练的模型能否在被明确要求时进行「道德自我纠正」，避免有害或带偏见的输出。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-12-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Discovering Language Model Behaviors with Model-Written Evaluations",
+    "zh": "Discovering Language Model Behaviors with Model-Written Evaluations"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2212.09251v1",
+   "note": {
+    "en": "Uses language models to write their own evaluation datasets, making it cheap to probe the many new behaviours that appear with scale.",
+    "zh": "用语言模型自动撰写评测数据集，从而低成本地探测随规模涌现的各种新行为。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-11-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Measuring Progress on Scalable Oversight for Large Language Models",
+    "zh": "Measuring Progress on Scalable Oversight for Large Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2211.03540v2",
+   "note": {
+    "en": "Sets up human-model experiments to measure progress on scalable oversight — supervising systems that outperform their supervisors.",
+    "zh": "设计人机对照实验来衡量可扩展监督的进展，即如何监督能力超过监督者的模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-09-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "In-context Learning and Induction Heads",
+    "zh": "In-context Learning and Induction Heads"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2209.11895v1",
+   "note": {
+    "en": "Argues that 'induction heads' are the main mechanism behind in-context learning in transformers, a foundational result for interpretability.",
+    "zh": "论证「归纳头」是 Transformer 上下文学习能力的主要机制，是可解释性研究的基础成果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-09-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Toy Models of Superposition",
+    "zh": "Toy Models of Superposition"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2209.10652v1",
+   "note": {
+    "en": "Uses small toy models to explain superposition — why networks pack unrelated concepts into single neurons and become hard to interpret.",
+    "zh": "用小型玩具模型解释「叠加」现象：网络为何把互不相关的概念塞进同一个神经元，从而难以解释。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-08-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned",
+    "zh": "Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2209.07858v2",
+   "note": {
+    "en": "Documents Anthropic's early red-teaming programme — methods, how harms scale with model size, and the released red-team dataset.",
+    "zh": "记录 Anthropic 早期红队工作的方法、危害随模型规模变化的规律，并公开了红队数据集。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-07-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Language Models (Mostly) Know What They Know",
+    "zh": "Language Models (Mostly) Know What They Know"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2207.05221v4",
+   "note": {
+    "en": "Studies whether models can judge the validity of their own answers, finding that larger models are well calibrated about what they know.",
+    "zh": "研究模型能否判断自身答案是否成立，发现较大的模型对「自己知道什么」有良好的校准。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-06-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models",
+    "zh": "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2206.04615v3",
+   "note": {
+    "en": "BIG-bench, a large multi-institution benchmark built to quantify and extrapolate how language model capabilities change with scale.",
+    "zh": "BIG-bench：一项多机构合作的大规模基准，用于量化并外推语言模型能力随规模的变化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-01-28",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "$21 billion+ new pledge: Anthropic’s seven cofounders, Dario and Daniela Amodei, Tom Brown, Jack Clark, Jared Kaplan, Sam McCandlish, and Christopher Olah commit 80% of their fortunes to combat AI-driven inequality – Lifestyles Magazine",
+    "zh": "$21 billion+ new pledge: Anthropic’s seven cofounders, Dario and Daniela Amodei, Tom Brown, Jack Clark, Jared Kaplan, Sam McCandlish, and Christopher Olah commit 80% of their fortunes to combat AI-driven inequality – Lifestyles Magazine"
+   },
+   "body": {
+    "en": "Kaplan joined Anthropic's other six cofounders in pledging 80% of their fortunes, over $21 billion, to combat AI-driven risks.",
+    "zh": "Kaplan与Anthropic其余六位联合创始人承诺捐出80%的财富（超过210亿美元），以应对AI带来的风险。"
+   },
+   "source": "Lifestyles Magazine",
+   "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNdHd5S3JwUUlCeHNVa0JxdkI2UGNONnBsMWJfNkxxNXd2V0NuZktHU2ZHOURjQ0NNQ0tHUzhURGNBY0Q5OWtCT3JidS0tdEZwMTZjWURySHFWSXIyaHZkamoxVS1hUFVXT09nRFYzUThrQ2FmZDFBTUk5eHRfMUFTaHgxNW5aTGdKVVJRTjNhRnRWSmVjUVZXNGR1aGtYbXZoRXJVUFB3bGZPR0NpS3V0alVkUVVhbHU2V2NBbXFESDFSWmpQV1h2ZXJMZ0c1MzJ4dTlYdllQQW5vYnduV2wycllkMDRpUDllakM2ajdHcVpKYXdKZXlicnh0ZnNuOFc1VzlDR1FCbk9QTHlxZkNZdndobGIxemVrTHE2bE5oVkJTOW4zV205NDJ2OS03a0R2cllrY3V1QnVTbkdDVzRuLVNDZ3B3UW5JOWZ1ajBJOWZ4MFE?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "lab",
+ "score": {
+  "total": 51.9,
+  "attention": 57,
+  "centrality": 96,
+  "momentum": 6,
+  "stature": 15,
+  "pageviews": 140648,
+  "citations": 12394,
+  "hIndex": 41,
+  "events": 1,
+  "posts": 31,
+  "wikiEn": "Jared Kaplan",
+  "wikiZh": null
+ },
+ "seedRank": 59,
+ "tier": "t3"
+}

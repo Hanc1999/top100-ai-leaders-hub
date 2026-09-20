@@ -1,0 +1,1827 @@
+{
+ "rank": 9,
+ "id": "lisa-su",
+ "name": {
+  "en": "Lisa Su",
+  "zh": "苏姿丰"
+ },
+ "role": {
+  "en": "Chair & CEO, AMD",
+  "zh": "AMD 董事长兼 CEO"
+ },
+ "org": "AMD",
+ "region": {
+  "en": "United States / Taiwan",
+  "zh": "美国/台湾"
+ },
+ "tags": [
+  "AMD",
+  "MI450",
+  "ROCm",
+  "Instinct",
+  "Helios"
+ ],
+ "why": {
+  "en": "The only leader offering NVIDIA real competition in datacenter AI silicon. The MI400/MI450 line plus ROCm turned AMD into a second source that OpenAI, Meta and Anthropic all now depend on.",
+  "zh": "唯一在数据中心 AI 芯片上对 NVIDIA 构成实质竞争的领导者。MI400/MI450 系列加 ROCm 生态使 AMD 成为 OpenAI、Meta 与 Anthropic 共同依赖的第二供给源。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@LisaSu",
+   "url": "https://x.com/LisaSu",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "AMD Newsroom",
+   "url": "https://www.amd.com/en/newsroom.html",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "AMD Investor Relations",
+   "url": "https://ir.amd.com/",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "AMD newsroom",
+   "url": "https://newsroom.amd.com/",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "AMD press releases (IR newsroom)",
+   "url": "https://ir.amd.com/news-events/press-releases/rss",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Lisa+Su",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Lisa+Su",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Lisa+Su",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Lisa+Su&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Lisa+Su&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=%E8%8B%8F%E5%A7%BF%E4%B8%B0",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Lisa+Su&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Lisa+Su",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Lisa+Su&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lisa_Su",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-01-01",
+   "kind": "talk",
+   "title": {
+    "en": "AI is at an inflection point for meaningful work",
+    "zh": "AI 正处在通向有意义工作的拐点"
+   },
+   "source": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/amd-lisa-su-ai-inflection-point-meaningful-work/",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-01-01",
+   "kind": "report",
+   "title": {
+    "en": "AMD Advancing AI — MI400 lineup and the MI500 roadmap",
+    "zh": "AMD Advancing AI —— MI400 产品线与 MI500 路线图"
+   },
+   "source": "DataCenterDynamics",
+   "url": "https://www.datacenterdynamics.com/en/news/amd-unveils-full-mi400-product-lineup-claims-mi500-chips-will-deliver-1000x-increase-in-ai-performance/",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-06-18",
+   "kind": "report",
+   "title": {
+    "en": "Q2 2026: $5.8B AI datacenter quarter",
+    "zh": "2026 二季度：AI 数据中心收入 58 亿美元"
+   },
+   "source": "AMD",
+   "url": "https://ir.amd.com/",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-09-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Honored to join @aalswaha and @TareqAmin_ at @LEAPandInnovate. Congratulations to @humain on the tremendous progress over the last year. Excited to announce our",
+    "zh": "Honored to join @aalswaha and @TareqAmin_ at @LEAPandInnovate. Congratulations to @humain on the tremendous progress over the last year. Excited to announce our"
+   },
+   "source": "@LisaSu",
+   "url": "https://x.com/LisaSu/status/2094753303305318690",
+   "note": {
+    "en": "Lisa Su announced AMD's first AI compute clusters with Humain and Cisco at the LEAP conference in Saudi Arabia.",
+    "zh": "苏姿丰在沙特LEAP大会上宣布AMD与Humain、思科合作部署首批AI算力集群。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Excited to announce our agreement to acquire @taalas_inc. Phenomenal team working at the bleeding edge of AI inference. Looking forward to all we will do togeth",
+    "zh": "Excited to announce our agreement to acquire @taalas_inc. Phenomenal team working at the bleeding edge of AI inference. Looking forward to all we will do togeth"
+   },
+   "source": "@LisaSu",
+   "url": "https://x.com/LisaSu/status/2085493577316962734",
+   "note": {
+    "en": "Announced AMD's agreement to acquire AI-inference startup Taalas.",
+    "zh": "宣布AMD达成协议收购AI推理初创公司Taalas。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-23",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AMD CEO Lisa Su Live on TBPN | Oliver Cameron, Mohammad Norouzi, Anjney Midha, Lisa Su",
+    "zh": "AMD CEO Lisa Su Live on TBPN | Oliver Cameron, Mohammad Norouzi, Anjney Midha, Lisa Su"
+   },
+   "source": "TBPN",
+   "url": "https://podcasts.apple.com/us/podcast/amd-ceo-lisa-su-live-on-tbpn-oliver-cameron-mohammad/id1772360235?i=1000778095004&uo=4",
+   "note": {
+    "en": "Live TBPN interview in which Su lays out AMD's datacenter AI roadmap and how it is positioning against NVIDIA.",
+    "zh": "苏姿丰在 TBPN 直播访谈中阐述 AMD 数据中心 AI 路线图，以及与英伟达竞争的定位。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-07-23",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "AAI 2026: AMD CEO Lisa Su Launches End-to-End AI Solutions (Keynote Replay)",
+    "zh": "AAI 2026: AMD CEO Lisa Su Launches End-to-End AI Solutions (Keynote Replay)"
+   },
+   "source": "AMD Newsroom",
+   "url": "https://newsroom.amd.com/news/aai-2026-keynote-livestream-replay/",
+   "note": {
+    "en": "Replay of Lisa Su's keynote at Advancing AI 2026, where she launched AMD's end-to-end AI solutions portfolio.",
+    "zh": "苏姿丰在2026 Advancing AI大会主题演讲的回放，她在演讲中发布了AMD的端到端AI解决方案组合。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-07-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Thrilled that @AMD Helios will help power @AnthropicAI’s Claude at gigawatt scale. Thank you @NotTomBrown and @DarioAmodei for your partnership. Excited for all",
+    "zh": "Thrilled that @AMD Helios will help power @AnthropicAI’s Claude at gigawatt scale. Thank you @NotTomBrown and @DarioAmodei for your partnership. Excited for all"
+   },
+   "source": "@LisaSu",
+   "url": "https://x.com/LisaSu/status/2079958797653823627",
+   "note": {
+    "en": "Announced that AMD's Helios rack-scale systems will power Anthropic's Claude at gigawatt scale, a major AI-infrastructure partnership.",
+    "zh": "宣布AMD的Helios机架级系统将以千兆瓦级规模为Anthropic的Claude提供算力支持，这是一项重大的AI基础设施合作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Excited to expand our partnership with @Azure to deploy @AMD Helios with our newest MI455X GPUs, Venice CPUs, and Pensando networking. Thanks @satyanadella @sco",
+    "zh": "Excited to expand our partnership with @Azure to deploy @AMD Helios with our newest MI455X GPUs, Venice CPUs, and Pensando networking. Thanks @satyanadella @sco"
+   },
+   "source": "@LisaSu",
+   "url": "https://x.com/LisaSu/status/2079199442477957596",
+   "note": {
+    "en": "Announced an expanded partnership with Microsoft Azure to deploy AMD Helios systems with new MI455X GPUs, Venice CPUs and Pensando networking.",
+    "zh": "宣布与微软Azure扩大合作，部署搭载全新MI455X GPU、Venice CPU和Pensando网络的AMD Helios系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Great to be at @LDNTechWeek today with @Keir_Starmer and leaders across the UK tech ecosystem. @AMD is proud to expand our presence in the UK with plans to inve",
+    "zh": "Great to be at @LDNTechWeek today with @Keir_Starmer and leaders across the UK tech ecosystem. @AMD is proud to expand our presence in the UK with plans to inve"
+   },
+   "source": "@LisaSu",
+   "url": "https://x.com/LisaSu/status/2064095002632892873",
+   "note": {
+    "en": "Announced AMD plans to invest up to £2 billion in the UK over five years, alongside a visit with PM Keir Starmer.",
+    "zh": "宣布AMD计划未来五年在英国投资至多20亿英镑，并与英国首相斯塔默会面。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Honored to be nominated by @POTUS @WhiteHouse to serve on the President’s Council of Advisors on Science and Technology. Great to join @mkratsios47 @davidsacks4",
+    "zh": "Honored to be nominated by @POTUS @WhiteHouse to serve on the President’s Council of Advisors on Science and Technology. Great to join @mkratsios47 @davidsacks4"
+   },
+   "source": "@LisaSu",
+   "url": "https://x.com/LisaSu/status/2036850461597151332",
+   "note": {
+    "en": "Announced her nomination by the White House to serve on the President's Council of Advisors on Science and Technology (PCAST).",
+    "zh": "宣布获白宫提名，加入总统科学技术顾问委员会（PCAST）。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Big day for @AMD and @Meta as we expand our strategic partnership to deploy 6GW of Instinct GPUs. Excited to partner across silicon, systems and software to hel",
+    "zh": "Big day for @AMD and @Meta as we expand our strategic partnership to deploy 6GW of Instinct GPUs. Excited to partner across silicon, systems and software to hel"
+   },
+   "source": "@LisaSu",
+   "url": "https://x.com/LisaSu/status/2026334138203066414",
+   "note": {
+    "en": "Announced an expanded strategic partnership with Meta to deploy 6GW of AMD Instinct GPUs.",
+    "zh": "宣布与Meta扩大战略合作，部署6吉瓦的AMD Instinct GPU。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-01-10",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Live From CES 2026 With AMD CEO Lisa Su",
+    "zh": "Live From CES 2026 With AMD CEO Lisa Su"
+   },
+   "source": "Everyone Talks To Liz Claman",
+   "url": "https://podcasts.apple.com/us/podcast/live-from-ces-2026-with-amd-ceo-lisa-su/id1463412603?i=1000744580322&uo=4",
+   "note": {
+    "en": "CES 2026 interview with Liz Claman on rising AI demand and where AMD silicon fits in consumer and datacenter systems.",
+    "zh": "CES 2026 现场接受 Liz Claman 访谈，谈 AI 需求增长以及 AMD 芯片在消费级与数据中心系统中的位置。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-01-06",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AMD CEO Lisa Su Talks New Data Center Chip, Demand",
+    "zh": "AMD CEO Lisa Su Talks New Data Center Chip, Demand"
+   },
+   "source": "Bloomberg Talks",
+   "url": "https://podcasts.apple.com/us/podcast/amd-ceo-lisa-su-talks-new-data-center-chip-demand/id1690236827?i=1000744023075&uo=4",
+   "note": {
+    "en": "Bloomberg interview given straight after AMD announced a new datacenter chip, covering the product and customer demand.",
+    "zh": "AMD 发布新款数据中心芯片后接受彭博访谈，介绍该产品与客户需求情况。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-01-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Great to kick off #CES2026 as we work with our entire ecosystem of partners to bring AI everywhere, for everyone. We brought Helios, our rack-scale AI solution",
+    "zh": "Great to kick off #CES2026 as we work with our entire ecosystem of partners to bring AI everywhere, for everyone. We brought Helios, our rack-scale AI solution"
+   },
+   "source": "@LisaSu",
+   "url": "https://x.com/LisaSu/status/2008526949313122469",
+   "note": {
+    "en": "Showcased AMD's Helios rack-scale AI platform and expanded product portfolio at the CES 2026 keynote.",
+    "zh": "在CES 2026主题演讲上展示了AMD的Helios机架级AI平台及扩展后的产品组合。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-11",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AMD CEO Lisa Su Isn’t Afraid of the Competition",
+    "zh": "AMD CEO Lisa Su Isn’t Afraid of the Competition"
+   },
+   "source": "Uncanny Valley | WIRED",
+   "url": "https://podcasts.apple.com/us/podcast/amd-ceo-lisa-su-isnt-afraid-of-the-competition/id266391367?i=1000740861134&uo=4",
+   "note": {
+    "en": "WIRED Big Interview conversation on competing with NVIDIA in AI accelerators.",
+    "zh": "《连线》Big Interview 对谈，谈在 AI 加速器市场与英伟达竞争。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-11-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The Genesis Mission represents a bold national effort to harness AI for scientific discovery and innovation. Thank you @POTUS @SecretaryWright for your leadersh",
+    "zh": "The Genesis Mission represents a bold national effort to harness AI for scientific discovery and innovation. Thank you @POTUS @SecretaryWright for your leadersh"
+   },
+   "source": "@LisaSu",
+   "url": "https://x.com/LisaSu/status/1993304656970498107",
+   "note": {
+    "en": "Praised the White House's Genesis Mission, a national AI initiative for scientific discovery, and AMD's role in supporting it.",
+    "zh": "赞扬白宫的“创世纪使命”国家AI科研倡议，并介绍AMD在其中的支持角色。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-11-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Capping off a very busy week at the SIA dinner. Honored to serve as the new Chair of @SIAAmerica. Congratulations to my great friends C.C. Wei and Mark Liu as w",
+    "zh": "Capping off a very busy week at the SIA dinner. Honored to serve as the new Chair of @SIAAmerica. Congratulations to my great friends C.C. Wei and Mark Liu as w"
+   },
+   "source": "@LisaSu",
+   "url": "https://x.com/LisaSu/status/1991872201495392684",
+   "note": {
+    "en": "Announced she has begun serving as the new Chair of the Semiconductor Industry Association (SIA).",
+    "zh": "宣布自己已就任半导体行业协会（SIA）新任主席。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-11-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Proud to announce our new joint venture with @humain and @Cisco to deliver leading AI solutions with MI450 series to the Kingdom.",
+    "zh": "Proud to announce our new joint venture with @humain and @Cisco to deliver leading AI solutions with MI450 series to the Kingdom."
+   },
+   "source": "@LisaSu",
+   "url": "https://x.com/LisaSu/status/1991261696078307660",
+   "note": {
+    "en": "Announced a new joint venture with Humain and Cisco to deploy AMD MI450-series AI systems in Saudi Arabia.",
+    "zh": "宣布与Humain和思科成立合资企业，在沙特阿拉伯部署AMD MI450系列AI系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Proud to partner with @Cisco and @G42ai to bring leading edge AI to the UAE!",
+    "zh": "Proud to partner with @Cisco and @G42ai to bring leading edge AI to the UAE!"
+   },
+   "source": "@LisaSu",
+   "url": "https://x.com/LisaSu/status/1983164703280128059",
+   "note": {
+    "en": "Announced a partnership with Cisco and G42 to bring AMD AI computing to the UAE.",
+    "zh": "宣布与思科和G42合作，将AMD的AI算力引入阿联酋。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We are honored and proud to power the nation’s 2 newest supercomputers - Discovery and Lux. Thanks to @SecretaryWright, @ENERGY, @ORNL - through public-private",
+    "zh": "We are honored and proud to power the nation’s 2 newest supercomputers - Discovery and Lux. Thanks to @SecretaryWright, @ENERGY, @ORNL - through public-private"
+   },
+   "source": "@LisaSu",
+   "url": "https://x.com/LisaSu/status/1982899151923769356",
+   "note": {
+    "en": "Announced AMD is powering two new U.S. national-lab supercomputers, Discovery and Lux, with the Department of Energy and Oak Ridge.",
+    "zh": "宣布AMD正为美国能源部和橡树岭国家实验室的两台新超级计算机Discovery和Lux提供算力支持。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "A thing of beauty ☺️ - please meet Helios at #OCPSummit25 our new open, rack-scale AI platform built on the Open Rack Wide standard introduced by @Meta - MI450",
+    "zh": "A thing of beauty ☺️ - please meet Helios at #OCPSummit25 our new open, rack-scale AI platform built on the Open Rack Wide standard introduced by @Meta - MI450"
+   },
+   "source": "@LisaSu",
+   "url": "https://x.com/LisaSu/status/1978149980956180773",
+   "note": {
+    "en": "Unveiled Helios, AMD's new open rack-scale AI platform built on the Open Rack Wide standard with MI450-series GPUs, at OCP Summit.",
+    "zh": "在OCP峰会上发布Helios——AMD基于Open Rack Wide标准打造的全新开放式机架级AI平台，搭载MI450系列GPU。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-06",
+   "ts": "2025-10-06T14:44:14Z",
+   "kind": "x",
+   "title": {
+    "en": "Exciting day today! Thrilled to partner with @OpenAI to deploy 6GWs of AMD Instinct GPUs. The world needs more AI compute. Together, we’re bringing the best of",
+    "zh": "Exciting day today! Thrilled to partner with @OpenAI to deploy 6GWs of AMD Instinct GPUs. The world needs more AI compute. Together, we’re bringing the best of"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1975210493796385233",
+   "note": {
+    "en": "Announced a deal to deploy 6 gigawatts of AMD Instinct GPUs for OpenAI, a landmark compute partnership positioning AMD as a primary alternative to Nvidia for frontier AI workloads.",
+    "zh": "苏姿丰宣布与OpenAI达成协议，将部署6吉瓦的AMD Instinct GPU，这是一项里程碑式的算力合作，使AMD成为英伟达在前沿AI算力领域的主要替代选择。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-09-05",
+   "ts": "2025-09-05T17:55:10Z",
+   "kind": "x",
+   "title": {
+    "en": "Honored to join President @realDonaldTrump and other industry leaders at the White House to discuss America’s AI leadership and all we can do to accelerate our",
+    "zh": "Honored to join President @realDonaldTrump and other industry leaders at the White House to discuss America’s AI leadership and all we can do to accelerate our"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1964024520185958571",
+   "note": {
+    "en": "Joined President Trump and other industry leaders at the White House to discuss U.S. AI leadership and how to accelerate innovation.",
+    "zh": "苏姿丰与特朗普总统及其他行业领袖在白宫讨论美国的AI领导地位以及如何加速创新。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-09-04",
+   "ts": "2025-09-04T19:53:31Z",
+   "kind": "x",
+   "title": {
+    "en": "Proud to be at the White House today attending the AI Education Task Force meeting led by @FLOTUS. @AMD is proud to expand our commitment to AI Education throug",
+    "zh": "Proud to be at the White House today attending the AI Education Task Force meeting led by @FLOTUS. @AMD is proud to expand our commitment to AI Education throug"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1963691917163569350",
+   "note": {
+    "en": "Attended the White House AI Education Task Force meeting and announced AMD is expanding its AI education commitment with new AI Learning Labs and open-source curriculum.",
+    "zh": "苏姿丰出席白宫AI教育工作组会议，并宣布AMD将通过新的AI学习实验室和开源课程扩大其AI教育投入。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-08-06",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AMD CEO Lisa Su on the Chipmaker's AI Forecast",
+    "zh": "AMD CEO Lisa Su on the Chipmaker's AI Forecast"
+   },
+   "source": "Bloomberg Tech",
+   "url": "https://podcasts.apple.com/us/podcast/amd-ceo-lisa-su-on-the-chipmakers-ai-forecast/id1611767434?i=1000720930119&uo=4",
+   "note": {
+    "en": "Bloomberg Tech interview on AMD's earnings and its forecast for where AI chip demand is coming from.",
+    "zh": "彭博科技访谈，谈 AMD 财报以及对 AI 芯片需求来源的预判。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-08-05",
+   "ts": "2025-08-05T17:44:57Z",
+   "kind": "x",
+   "title": {
+    "en": "Congrats @sama @OpenAI on today’s launch of gpt-oss! @AMD is proud to be a Day 0 partner enabling these models to run everywhere - across cloud, edge and client",
+    "zh": "Congrats @sama @OpenAI on today’s launch of gpt-oss! @AMD is proud to be a Day 0 partner enabling these models to run everywhere - across cloud, edge and client"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1952787928251355643",
+   "note": {
+    "en": "Congratulated OpenAI on the gpt-oss launch and confirmed AMD as a Day 0 partner enabling the open models to run across cloud, edge and client devices.",
+    "zh": "苏姿丰祝贺OpenAI发布gpt-oss，并确认AMD作为首发合作伙伴，支持这些开源模型在云端、边缘和终端设备上运行。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-07-24",
+   "ts": "2025-07-24T20:41:28Z",
+   "kind": "x",
+   "title": {
+    "en": "Winning the AI Race is all about accelerating innovation, collaboration and running fast. The Trump Administration’s AI Action Plan is an excellent blueprint. P",
+    "zh": "Winning the AI Race is all about accelerating innovation, collaboration and running fast. The Trump Administration’s AI Action Plan is an excellent blueprint. P"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1948483693376667957",
+   "note": {
+    "en": "Endorsed the Trump Administration's AI Action Plan as \"an excellent blueprint\" for winning the AI race through innovation and collaboration.",
+    "zh": "苏姿丰称赞特朗普政府的AI行动计划是通过创新与合作赢得AI竞赛的\"极佳蓝图\"。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-07-23",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Winning the AI Race Part 3: Jensen Huang, Lisa Su, James Litinsky, Chase Lochmiller",
+    "zh": "Winning the AI Race Part 3: Jensen Huang, Lisa Su, James Litinsky, Chase Lochmiller"
+   },
+   "source": "All-In with Chamath, Jason, Sacks & Fr…",
+   "url": "https://podcasts.apple.com/us/podcast/winning-the-ai-race-part-3-jensen-huang-lisa-su-james/id1502871393?i=1000718738622&uo=4",
+   "note": {
+    "en": "Su's segment of the All-In AI summit series, alongside Jensen Huang and others, on what it takes to compete in AI compute.",
+    "zh": "All-In 播客「赢得 AI 竞赛」系列中的苏姿丰访谈段落，与黄仁勋等人同期，谈 AI 算力竞争。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-06-20",
+   "ts": "2025-06-20T19:02:32Z",
+   "kind": "x",
+   "title": {
+    "en": "After a busy few weeks on the road, great to be back home. It was fun visiting our newest Austin lab where I got to take a peek at our Venice and MI400 series p",
+    "zh": "After a busy few weeks on the road, great to be back home. It was fun visiting our newest Austin lab where I got to take a peek at our Venice and MI400 series p"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1936137607663980719",
+   "note": {
+    "en": "Visited AMD's new Austin lab and previewed progress on the next-generation \"Venice\" EPYC CPU and Instinct MI400 series.",
+    "zh": "苏姿丰参观AMD新建的奥斯汀实验室，并预览了下一代\"Venice\" EPYC处理器和Instinct MI400系列的最新进展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-06-17",
+   "ts": "2025-06-17T17:30:34Z",
+   "kind": "x",
+   "title": {
+    "en": "So proud to continue our deep partnership with @Xbox @XboxP3 @BondSarah_Bond to bring the next generation gaming experiences to gamers everywhere!!!!! 😀",
+    "zh": "So proud to continue our deep partnership with @Xbox @XboxP3 @BondSarah_Bond to bring the next generation gaming experiences to gamers everywhere!!!!! 😀"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1935027300090728484",
+   "note": {
+    "en": "Reaffirmed AMD's deepening partnership with Xbox to power next-generation gaming experiences.",
+    "zh": "苏姿丰重申AMD与Xbox不断深化的合作关系，共同打造下一代游戏体验。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-06-13",
+   "ts": "2025-06-13T01:08:30Z",
+   "kind": "x",
+   "title": {
+    "en": "Thanks @sama for joining me on stage today! Always love hearing your vision for AI and the transformational work @OpenAI is doing. So excited about our work tog",
+    "zh": "Thanks @sama for joining me on stage today! Always love hearing your vision for AI and the transformational work @OpenAI is doing. So excited about our work tog"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1933330604847984924",
+   "note": {
+    "en": "Thanked OpenAI's Sam Altman for joining her on stage to discuss his vision for AI and AMD's collaborative work with OpenAI.",
+    "zh": "苏姿丰感谢OpenAI的萨姆·奥特曼与她同台，探讨其AI愿景以及AMD与OpenAI的合作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-06-13",
+   "ts": "2025-06-13T00:48:55Z",
+   "kind": "x",
+   "title": {
+    "en": "Great day today! Excited to unveil our next major step in AI computing alongside some of our closest partners! We introduced the Instinct MI350 series, previewe",
+    "zh": "Great day today! Excited to unveil our next major step in AI computing alongside some of our closest partners! We introduced the Instinct MI350 series, previewe"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1933325677002166534",
+   "note": {
+    "en": "Unveiled the AMD Instinct MI350 series and previewed the upcoming MI400 series and Helios rack-scale AI systems alongside major partners.",
+    "zh": "苏姿丰发布AMD Instinct MI350系列产品，并联合主要合作伙伴预览了即将推出的MI400系列及Helios机架级AI系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-06-11",
+   "ts": "2025-06-11T15:32:26Z",
+   "kind": "x",
+   "title": {
+    "en": "Welcome aboard @realSharonZhou! So happy to have you and the team joining us as we bring @AIatAMD to the world!!!",
+    "zh": "Welcome aboard @realSharonZhou! So happy to have you and the team joining us as we bring @AIatAMD to the world!!!"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1932823245142831149",
+   "note": {
+    "en": "Welcomed AI researcher Sharon Zhou to lead AMD's AI initiatives as the company builds out its AI organization.",
+    "zh": "苏姿丰欢迎AI研究者Sharon Zhou加入，领导AMD的AI业务，助力公司打造AI团队。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-06-10",
+   "ts": "2025-06-10T13:23:57Z",
+   "kind": "x",
+   "title": {
+    "en": "#1 in speed. #1 in AI performance. Leading energy efficiency. El Capitan and Frontier are proof of what’s possible with bold ambition and great partners. Proud",
+    "zh": "#1 in speed. #1 in AI performance. Leading energy efficiency. El Capitan and Frontier are proof of what’s possible with bold ambition and great partners. Proud"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1932428521949020513",
+   "note": {
+    "en": "Highlighted AMD-powered El Capitan and Frontier supercomputers leading in speed, AI performance and energy efficiency.",
+    "zh": "苏姿丰强调由AMD提供算力支持的El Capitan和Frontier超级计算机在速度、AI性能和能效方面均处于领先地位。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-06-04",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Lisa Su Is Still Curious About How Things Work",
+    "zh": "Lisa Su Is Still Curious About How Things Work"
+   },
+   "source": "Stanford GSB: View From The Top",
+   "url": "https://podcasts.apple.com/us/podcast/lisa-su-is-still-curious-about-how-things-work/id1631585216?i=1000711125715&uo=4",
+   "note": {
+    "en": "Stanford GSB View From The Top interview on her engineering background and how curiosity shaped the AMD turnaround.",
+    "zh": "斯坦福商学院 View From The Top 访谈，谈她的工程背景，以及好奇心如何塑造了 AMD 的转型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-05-21",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AMD’s Lisa Su on Experimenting with AI",
+    "zh": "AMD’s Lisa Su on Experimenting with AI"
+   },
+   "source": "HBR On Strategy",
+   "url": "https://podcasts.apple.com/us/podcast/amds-lisa-su-on-experimenting-with-ai/id1683845677?i=1000709253623&uo=4",
+   "note": {
+    "en": "Su discussed AMD's shift toward high-performance and adaptive computing and how AI is used across the company, in an interview for HBR's On Strategy.",
+    "zh": "苏姿丰在《哈佛商业评论》On Strategy节目访谈中，谈及AMD向高性能与自适应计算转型，以及AI在公司内部的应用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-05-13",
+   "ts": "2025-05-13T23:32:31Z",
+   "kind": "x",
+   "title": {
+    "en": "Honored to be in Riyadh today at the US-Saudi Business Summit during @POTUS’s visit to unveil our new partnership with @humain - a $10B initiative to scale an o",
+    "zh": "Honored to be in Riyadh today at the US-Saudi Business Summit during @POTUS’s visit to unveil our new partnership with @humain - a $10B initiative to scale an o"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1922434816126963915",
+   "note": {
+    "en": "Unveiled a $10 billion partnership with Saudi AI firm Humain at the US-Saudi Business Summit to scale open, global AI infrastructure.",
+    "zh": "苏姿丰在美沙商业峰会上宣布与沙特AI公司Humain达成100亿美元合作，共同扩展开放的全球AI基础设施。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-05-08",
+   "ts": "2025-05-08T17:44:46Z",
+   "kind": "x",
+   "title": {
+    "en": "Honored to join the U.S. Senate Commerce committee today for an important discussion about winning the AI race. Thank you @SenTedCruz and @SenatorCantwell for t",
+    "zh": "Honored to join the U.S. Senate Commerce committee today for an important discussion about winning the AI race. Thank you @SenTedCruz and @SenatorCantwell for t"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1920535361014333444",
+   "note": {
+    "en": "Joined a U.S. Senate Commerce Committee discussion on winning the global AI race.",
+    "zh": "苏姿丰出席美国参议院商业委员会会议，讨论如何赢得全球AI竞赛。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-05-01",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AMD CEO Lisa Su on AI Chips, Trump's Tariffs and the Magic of Open Source",
+    "zh": "AMD CEO Lisa Su on AI Chips, Trump's Tariffs and the Magic of Open Source"
+   },
+   "source": "On with Kara Swisher",
+   "url": "https://podcasts.apple.com/us/podcast/amd-ceo-lisa-su-on-ai-chips-trumps-tariffs-and-the/id1643307527?i=1000705671664&uo=4",
+   "note": {
+    "en": "Kara Swisher interview covering AI chips, tariffs and AMD's open-source software strategy.",
+    "zh": "接受 Kara Swisher 访谈，谈 AI 芯片、关税以及 AMD 的开源软件策略。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-04-06",
+   "ts": "2025-04-06T16:34:55Z",
+   "kind": "x",
+   "title": {
+    "en": "Congratulations @AIatMeta - proud to provide Day 0 support for Llama 4!",
+    "zh": "Congratulations @AIatMeta - proud to provide Day 0 support for Llama 4!"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1908921371750510710",
+   "note": {
+    "en": "Congratulated Meta on the Llama 4 launch and confirmed AMD provided Day 0 hardware support for the new models.",
+    "zh": "苏姿丰祝贺Meta发布Llama 4，并确认AMD为新模型提供了首发硬件支持。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-03-06",
+   "ts": "2025-03-06T12:36:10Z",
+   "kind": "x",
+   "title": {
+    "en": "Each new architecture release is very special. Our new @AMD Radeon RX 9000 series with RDNA4 is available on-shelf globally today! Had fun signing a few cards f",
+    "zh": "Each new architecture release is very special. Our new @AMD Radeon RX 9000 series with RDNA4 is available on-shelf globally today! Had fun signing a few cards f"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1897627262498799910",
+   "note": {
+    "en": "Announced the global on-shelf launch of AMD's new Radeon RX 9000 series graphics cards built on RDNA4.",
+    "zh": "苏姿丰宣布采用RDNA4架构的全新AMD Radeon RX 9000系列显卡正式全球上市。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-03-04",
+   "ts": "2025-03-04T12:25:34Z",
+   "kind": "x",
+   "title": {
+    "en": "Huge step forward for advanced chip manufacturing in the U.S. We have seen great results as a lead customer @TSMC in Arizona and we look forward to building eve",
+    "zh": "Huge step forward for advanced chip manufacturing in the U.S. We have seen great results as a lead customer @TSMC in Arizona and we look forward to building eve"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1896899818477519317",
+   "note": {
+    "en": "Cited AMD's role as a lead customer at TSMC's Arizona fab as a milestone for advanced chip manufacturing in the U.S.",
+    "zh": "苏姿丰指出AMD作为台积电亚利桑那工厂的主要客户，标志着美国先进芯片制造的重要进展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-02-14",
+   "ts": "2025-02-14T02:45:08Z",
+   "kind": "x",
+   "title": {
+    "en": "Great week in Europe attending the #AIActionSummit in Paris with many leaders in the AI ecosystem. Excited to announce our partnership with @G42AI and @Core42AI",
+    "zh": "Great week in Europe attending the #AIActionSummit in Paris with many leaders in the AI ecosystem. Excited to announce our partnership with @G42AI and @Core42AI"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1890230767285862897",
+   "note": {
+    "en": "Announced a partnership with G42 and Core42 to establish an AI data center in Grenoble during the AI Action Summit in Paris.",
+    "zh": "苏姿丰在巴黎AI行动峰会上宣布与G42和Core42合作，在格勒诺布尔建立AI数据中心。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-01-23",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "CEO Series: Lisa Su, AMD",
+    "zh": "CEO Series: Lisa Su, AMD"
+   },
+   "source": "Billion Dollar Moves™ with Sarah Chen…",
+   "url": "https://podcasts.apple.com/us/podcast/ceo-series-lisa-su-amd/id1567280883?i=1000685113503&uo=4",
+   "note": {
+    "en": "Long-form CEO-series interview on leading AMD from near-bankruptcy to an AI chip contender.",
+    "zh": "CEO 系列长访谈，讲述她如何带领 AMD 从濒临破产走到 AI 芯片竞争者的位置。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-01-07",
+   "ts": "2025-01-07T19:29:50Z",
+   "kind": "x",
+   "title": {
+    "en": "Excited to bring new Dell Pro AI PCs to market with @AMDRyzen Pro processors. Thanks @MichaelDell @JClarkeatDell @samburd3 for the partnership and look forward",
+    "zh": "Excited to bring new Dell Pro AI PCs to market with @AMDRyzen Pro processors. Thanks @MichaelDell @JClarkeatDell @samburd3 for the partnership and look forward"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1876712870727012830",
+   "note": {
+    "en": "Announced new Dell Pro AI PCs built with AMD Ryzen Pro processors.",
+    "zh": "苏姿丰宣布搭载AMD Ryzen Pro处理器的全新戴尔Dell Pro AI PC正式推出。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-01-06",
+   "ts": "2025-01-06T20:42:54Z",
+   "kind": "x",
+   "title": {
+    "en": "Proud of our new @Ryzen AI PC lineup that @jackhuynh showed off at #CES2025! Lots of new systems from all of our partners!",
+    "zh": "Proud of our new @Ryzen AI PC lineup that @jackhuynh showed off at #CES2025! Lots of new systems from all of our partners!"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1876368871860662377",
+   "note": {
+    "en": "Showcased AMD's new Ryzen AI PC lineup at CES 2025 with numerous partner systems.",
+    "zh": "苏姿丰在CES 2025上展示了AMD全新的Ryzen AI PC产品线及众多合作伙伴系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-11-18",
+   "ts": "2024-11-18T18:16:12Z",
+   "kind": "x",
+   "title": {
+    "en": "Big day at #SC24!! Excited to announce El Capitan, powered by @AMD is now the world's fastest supercomputer at 1.742 exaflops! We now power 5 of the top 10 and",
+    "zh": "Big day at #SC24!! Excited to announce El Capitan, powered by @AMD is now the world's fastest supercomputer at 1.742 exaflops! We now power 5 of the top 10 and"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1858574945527152997",
+   "note": {
+    "en": "Announced that AMD-powered El Capitan became the world's fastest supercomputer at 1.742 exaflops, with AMD now powering 5 of the top 10 systems.",
+    "zh": "苏姿丰宣布由AMD提供支持的El Capitan以1.742百亿亿次浮点运算成为全球最快超级计算机，AMD目前为全球前十超算中的5台提供算力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-11-07",
+   "ts": "2024-11-07T18:16:55Z",
+   "kind": "x",
+   "title": {
+    "en": "The reviews are in and our new @AMDRyzen 7 9800X3D desktop CPU is the gaming champ! Now available globally. Signed a few this morning for some special partners",
+    "zh": "The reviews are in and our new @AMDRyzen 7 9800X3D desktop CPU is the gaming champ! Now available globally. Signed a few this morning for some special partners"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1854588860203745312",
+   "note": {
+    "en": "Celebrated strong reviews and global availability of the new AMD Ryzen 7 9800X3D gaming desktop CPU.",
+    "zh": "苏姿丰庆祝全新AMD锐龙7 9800X3D游戏台式机处理器获得良好评价并全球上市。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-10-17",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Building a Thriving AI Ecosystem with Lisa Su",
+    "zh": "Building a Thriving AI Ecosystem with Lisa Su"
+   },
+   "source": "The a16z Show",
+   "url": "https://podcasts.apple.com/us/podcast/building-a-thriving-ai-ecosystem-with-lisa-su/id842818711?i=1000673423240&uo=4",
+   "note": {
+    "en": "a16z conversation with former Intel CEO Bob Swan on building an open AI hardware and software ecosystem.",
+    "zh": "a16z 播客中与前英特尔 CEO Bob Swan 对谈，讨论如何构建开放的 AI 软硬件生态。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-10-15",
+   "ts": "2024-10-15T21:11:05Z",
+   "kind": "x",
+   "title": {
+    "en": "Happy to announce with @Intel @PGelsinger the x86 advisory group to shape the future of the x86 architecture and enhance the developer and customer experience.",
+    "zh": "Happy to announce with @Intel @PGelsinger the x86 advisory group to shape the future of the x86 architecture and enhance the developer and customer experience."
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1846297770770190513",
+   "note": {
+    "en": "Announced a new x86 ecosystem advisory group with Intel and other founding members to shape the future of the x86 architecture.",
+    "zh": "苏姿丰宣布与英特尔及其他创始成员共同成立x86生态系统顾问小组，共同规划x86架构的未来发展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-10-15",
+   "ts": "2024-10-15T01:02:54Z",
+   "kind": "x",
+   "title": {
+    "en": "Last week was amazing - always love launching new @AMD EPYC, Instinct, Pensando and Ryzen products with our partners, customers and developers! Special thanks t",
+    "zh": "Last week was amazing - always love launching new @AMD EPYC, Instinct, Pensando and Ryzen products with our partners, customers and developers! Special thanks t"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1845993719704781182",
+   "note": {
+    "en": "Recapped a major product week launching new AMD EPYC, Instinct, Pensando and Ryzen products with cloud and AI partners.",
+    "zh": "苏姿丰总结了AMD在EPYC、Instinct、Pensando和锐龙等新产品发布周的成果，并感谢云计算与AI合作伙伴的支持。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-10-10",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Closing Bell Overtime: AMD CEO Lisa Su On New AI Chip, Growing Market Share 10/10/24",
+    "zh": "Closing Bell Overtime: AMD CEO Lisa Su On New AI Chip, Growing Market Share 10/10/24"
+   },
+   "source": "Closing Bell",
+   "url": "https://podcasts.apple.com/us/podcast/closing-bell-overtime-amd-ceo-lisa-su-on-new-ai-chip/id1612281974?i=1000672620659&uo=4",
+   "note": {
+    "en": "CNBC interview recorded straight off the Advancing AI stage on the new accelerator, its production schedule and AMD's software gap.",
+    "zh": "Advancing AI 发布会结束后立即接受 CNBC 访谈，谈新加速器、量产排期与 AMD 的软件短板。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-10-08",
+   "ts": "2024-10-08T13:00:43Z",
+   "kind": "x",
+   "title": {
+    "en": "10 years ago I had the honor of a lifetime to be named @AMD CEO. It’s been an incredible journey with so many proud moments. Today I want to thank the global @A",
+    "zh": "10 years ago I had the honor of a lifetime to be named @AMD CEO. It’s been an incredible journey with so many proud moments. Today I want to thank the global @A"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1843637650017927510",
+   "note": {
+    "en": "Marked her 10th anniversary as AMD CEO, reflecting on the company's turnaround and growth over the decade.",
+    "zh": "苏姿丰纪念其担任AMD首席执行官十周年，回顾了公司十年间的转型与增长历程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-09-03",
+   "ts": "2024-09-03T22:37:19Z",
+   "kind": "x",
+   "title": {
+    "en": "Looking forward to seeing new Copilot+ PCs enabled with our @AMDRyzen AI 300 series later this year! Thanks for the great partnership @pavandavuluri - lots more",
+    "zh": "Looking forward to seeing new Copilot+ PCs enabled with our @AMDRyzen AI 300 series later this year! Thanks for the great partnership @pavandavuluri - lots more"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1831099178891845817",
+   "note": {
+    "en": "Previewed upcoming Copilot+ PCs powered by AMD's Ryzen AI 300 series in partnership with Microsoft.",
+    "zh": "苏姿丰预告了与微软合作、搭载AMD锐龙AI 300系列处理器的即将推出的Copilot+ PC。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-08-19",
+   "ts": "2024-08-19T10:34:35Z",
+   "kind": "x",
+   "title": {
+    "en": "Very excited to announce we have signed an agreement to acquire leading hyperscale solutions provider @ZTSystems. Next major step in our AI strategy combining o",
+    "zh": "Very excited to announce we have signed an agreement to acquire leading hyperscale solutions provider @ZTSystems. Next major step in our AI strategy combining o"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1825481482082894081",
+   "note": {
+    "en": "Announced an agreement to acquire hyperscale solutions provider ZT Systems, a major step in AMD's AI infrastructure strategy.",
+    "zh": "苏姿丰宣布已签署协议收购超大规模解决方案提供商ZT Systems，这是AMD AI基础设施战略的重要一步。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-08-12",
+   "ts": "2024-08-12T21:58:55Z",
+   "kind": "x",
+   "title": {
+    "en": "Huge welcome to @petersarlin and @silo_AI team! So happy to have you join @AMD!",
+    "zh": "Huge welcome to @petersarlin and @silo_AI team! So happy to have you join @AMD!"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1823116983996502318",
+   "note": {
+    "en": "Welcomed Silo AI co-founder Peter Sarlin and the Silo AI team to AMD, strengthening AMD's AI talent following the acquisition.",
+    "zh": "苏姿丰欢迎Silo AI联合创始人Peter Sarlin及其团队加入AMD，此次收购增强了AMD的AI人才储备。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-07-10",
+   "ts": "2024-07-10T13:20:36Z",
+   "kind": "x",
+   "title": {
+    "en": "Super excited to welcome the @silo_AI team to @AMD - adding a phenomenal team of AI scientists and engineers to accelerate the adoption of AMD AI solutions and",
+    "zh": "Super excited to welcome the @silo_AI team to @AMD - adding a phenomenal team of AI scientists and engineers to accelerate the adoption of AMD AI solutions and"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1811027745997979670",
+   "note": {
+    "en": "Welcomed the Silo AI team to AMD, adding AI scientists and engineers to accelerate adoption of AMD's open-source AI software.",
+    "zh": "苏姿丰欢迎Silo AI团队加入AMD，为公司增添AI科学家和工程师，以加速AMD开源AI软件的普及。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-05-21",
+   "ts": "2024-05-21T21:06:31Z",
+   "kind": "x",
+   "title": {
+    "en": "Congratulations @Azure on the launch of the Azure AI infrastructure VM series powered by @AMD Instinct MI300X! We are celebrating this milestone with you and ap",
+    "zh": "Congratulations @Azure on the launch of the Azure AI infrastructure VM series powered by @AMD Instinct MI300X! We are celebrating this milestone with you and ap"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1793025603005718788",
+   "note": {
+    "en": "Lisa Su marked the launch of Microsoft Azure's new AI infrastructure VM series powered by AMD Instinct MI300X, a concrete data-center design win for AMD silicon.",
+    "zh": "苏姿丰宣布微软Azure推出由AMD Instinct MI300X驱动的全新AI基础设施虚拟机系列，这是AMD芯片在数据中心领域的一项实际中标案例。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-05-09",
+   "ts": "2024-05-09T12:59:07Z",
+   "kind": "x",
+   "title": {
+    "en": "Thank you @IEEEorg for recognizing Team @AMD with the 2024 Corporate Innovation Award for our work on chiplet architecture and designs. We made a big bet 10 yea",
+    "zh": "Thank you @IEEEorg for recognizing Team @AMD with the 2024 Corporate Innovation Award for our work on chiplet architecture and designs. We made a big bet 10 yea"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1788554291956863063",
+   "note": {
+    "en": "Lisa Su noted AMD received the IEEE 2024 Corporate Innovation Award for its chiplet architecture work, recognition for a bet the company made a decade earlier.",
+    "zh": "苏姿丰宣布AMD凭借chiplet（芯粒）架构方面的工作获得IEEE 2024年度企业创新奖，这是对公司十年前所下赌注的认可。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-04-08",
+   "ts": "2024-04-08T21:57:29Z",
+   "kind": "x",
+   "title": {
+    "en": "Amazing watching the total eclipse in Austin this afternoon with Team @AMD 😁 https://t.co/FNi2lf5RNC",
+    "zh": "Amazing watching the total eclipse in Austin this afternoon with Team @AMD 😁 https://t.co/FNi2lf5RNC"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/1777455751809618079",
+   "note": {
+    "en": "A personal post about watching the total solar eclipse with the AMD team drew far higher engagement than her typical posts — nearly 600,000 views versus her usual tens of thousands.",
+    "zh": "苏姿丰与AMD团队一同观看日全食的个人动态获得远超她平时水平的互动，浏览量接近60万，远高于她通常的数万次。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2022-10-05",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Lisa Su CEO of AMD",
+    "zh": "Lisa Su CEO of AMD"
+   },
+   "source": "In Good Company with Nicolai Tangen",
+   "url": "https://podcasts.apple.com/us/podcast/lisa-su-ceo-of-amd/id1614211565?i=1000581623355&uo=4",
+   "note": {
+    "en": "In Good Company interview on why semiconductors matter to the global economy and how she ran one of tech's largest turnarounds.",
+    "zh": "In Good Company 访谈，谈半导体对全球经济的重要性，以及她如何完成科技业最大规模的转型之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-07-22",
+   "level": "major",
+   "title": {
+    "en": "AMD to invest up to $5B in Anthropic",
+    "zh": "AMD 将向 Anthropic 投资最多 50 亿美元"
+   },
+   "body": {
+    "en": "Paired with a compute-capacity agreement.",
+    "zh": "与算力供应协议配套。"
+   },
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/07/22/amd-anthropic-ai-chip-investment.html"
+  },
+  {
+   "date": "2026-06-18",
+   "level": "notable",
+   "title": {
+    "en": "$5.8B AI datacenter quarter; Meta signs a 6GW deal",
+    "zh": "单季 AI 数据中心收入 58 亿美元；Meta 签下 6GW 协议"
+   },
+   "body": {
+    "en": "",
+    "zh": ""
+   },
+   "source": "StartupHub",
+   "url": "https://www.startuphub.ai/ai-news/ai-figures/2026/figure-lisa-su-company-financial-breakdown-2026-06-18"
+  },
+  {
+   "date": "2025-10-06",
+   "level": "major",
+   "title": {
+    "en": "OpenAI partnership: 6 gigawatts of AMD GPUs",
+    "zh": "与 OpenAI 达成 6 吉瓦 GPU 合作"
+   },
+   "body": {
+    "en": "First 1GW of MI450 deploys in H2 2026. AMD issued OpenAI a conditional warrant for up to 160M shares — roughly 10% of AMD if fully exercised.",
+    "zh": "首个 1 吉瓦 MI450 于 2026 下半年部署。AMD 向 OpenAI 发行最多 1.6 亿股的附条件认股权证，全部行权约占 AMD 10%。"
+   },
+   "source": "OpenAI",
+   "url": "https://openai.com/index/openai-amd-strategic-partnership/"
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T09:00:26Z",
+   "level": "notable",
+   "title": {
+    "en": "Amid controversy over artificial intelligence (AI) speed control, AMD CEO Lisa Su emphasized opennes..",
+    "zh": "Amid controversy over artificial intelligence (AI) speed control, AMD CEO Lisa Su emphasized opennes.."
+   },
+   "body": {
+    "en": "Amid debate over AI development pace, Su emphasizes AMD's commitment to open computing platforms.",
+    "zh": "在AI发展速度引发争议之际，苏姿丰强调了AMD对开放计算平台的坚持。"
+   },
+   "source": "매일경제",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5THdxYllxeGRWbXAzazVWOURJckMzRjBLYW1JaTV3SEdkU3hvNWMxWUgwMUFYY1VoVHJ2UGtzT3RpdmF2YVA3eU80UQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "AMD CEO Lisa Su on Saudi Arabia’s $10 billion AI investment & HUMAIN partnership",
+    "zh": "AMD CEO Lisa Su on Saudi Arabia’s $10 billion AI investment & HUMAIN partnership"
+   },
+   "body": {
+    "en": "Su discussed AMD's HUMAIN partnership tied to Saudi Arabia's $10 billion AI investment, extending AMD's push into new sovereign AI markets.",
+    "zh": "苏姿丰谈及AMD与HUMAIN的合作，该合作与沙特阿拉伯100亿美元的AI投资相关，标志AMD进一步拓展主权AI市场。"
+   },
+   "source": "Al Arabiya English",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTmNqWjkyVmxqalFHbVhNZWwzQjVtNXZ4V3NlNWFYdGxLYTdXU0hsUXRxNlNzWi1mYXpGRHdzQWRGU2FraWQ0MFVZa2VJTGU0bi1ZWG1ZVHFIVWpQRzFRdFJPbWlXUmdoLTI0aEpsblhZMFJzbUZia1hXZWdPcW1EenpGSHRHTWlzSGhUaFdDVkF3RFByNE50MFU0SVYzd3hlQjVld2ZxRXBibE05SGZ5Q3hwdEhyclduUC1XMFRYakllUEEyMEVsd1hzM2RxMGZYUmU5SUl3YmZUbGEtRDRxTWRFZ0xxWEttY09J0gHrAUFVX3lxTE5OY2paOTJWbGpqUUdtWE1lbDNCNW01dnhXc2U1YVh0bEthN1dTSGxRdHE2U3NaLWZhekZEd3NBZEZTYWtpZDQwVVlrZUlMZTRuLVlYbVlUcUhValBHMVF0Uk9taVdSZ2gtMjRoSmxuWFkwUnNtRmJrWFdlZ09xbUR6ekZIdEdNaXNIaFRoV0NWQXdEUHI0TnQwVTRJVjN3eGVCNWV3ZnFFcGJsTTlIZnlDeHB0SHJyV25QLVcwVFhqSWVQQTIwRWx3WHMzZHEwZlhSZTlJSXdiZlRsYS1ENHFNZEVnTHFYS21jT0k?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "AMD CEO Lisa Su on Saudi Arabia’s $10 billion AI investment & HUMAIN partnership",
+    "zh": "AMD CEO Lisa Su on Saudi Arabia’s $10 billion AI investment & HUMAIN partnership"
+   },
+   "body": {
+    "en": "AMD CEO Lisa Su discussed Saudi Arabia's $10 billion AI investment and a new partnership with HUMAIN.",
+    "zh": "AMD首席执行官苏姿丰谈及沙特阿拉伯100亿美元的人工智能投资以及与HUMAIN的新合作。"
+   },
+   "source": "Al Arabiya English",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTEJULUltT2JDejhEb1NrTDRwdEJjdG1qVmduMTdTYS1IaTlSdm83VVFleC12bGNzWHBqQ3hraldjdWowVFYwQlRyZFZKOXFTdFV6SkkydF91Vko0aHdPMGV4NGlPM0JFaDhhSk1nSlM4MkhhQ1F6UC05YkczOGNqeVkzOXh1Sk5zYTBNLWVJTS1JbjQwMUxqanR3M2w3WG1HY0o2RXVSS2VDTE5UeGlRblNrcHZXWEpNSGZZeVNMMVpXMEFUX0lkVlk4SlhxbUhMUG5FVkJjZHdLQjFERllZRzZUb3ZUQdIB6wFBVV95cUxOTmNqWjkyVmxqalFHbVhNZWwzQjVtNXZ4V3NlNWFYdGxLYTdXU0hsUXRxNlNzWi1mYXpGRHdzQWRGU2FraWQ0MFVZa2VJTGU0bi1ZWG1ZVHFIVWpQRzFRdFJPbWlXUmdoLTI0aEpsblhZMFJzbUZia1hXZWdPcW1EenpGSHRHTWlzSGhUaFdDVkF3RFByNE50MFU0SVYzd3hlQjVld2ZxRXBibE05SGZ5Q3hwdEhyclduUC1XMFRYakllUEEyMEVsd1hzM2RxMGZYUmU5SUl3YmZUbGEtRDRxTWRFZ0xxWEttY09J?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-30",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "苏姿丰：未来10年的新发现，可能超过过去30年",
+    "zh": "苏姿丰：未来10年的新发现，可能超过过去30年"
+   },
+   "body": {
+    "en": "Lisa Su said discoveries over the next decade could exceed those of the past 30 years, a notable public statement on AI's trajectory.",
+    "zh": "苏姿丰表示未来十年的新发现可能超过过去30年，这是她对AI发展轨迹的一个值得关注的公开表态。"
+   },
+   "source": "雪球",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FUnN0Y2Y1ZVo0Ykd4SXhqRi11STJiRE5XQzg5NnRqbmF1OHRWb09kVzdIeXYtblJwX2RpdmY2YUFtM0JaaXNNU3ZDTDA3aHlR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-23",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "AMD Is Investing More Than $10 Billion in Taiwan to Build Advanced Chip Packaging With TSMC. Here's What Lisa Su Is Actually Buying With That Money.",
+    "zh": "AMD Is Investing More Than $10 Billion in Taiwan to Build Advanced Chip Packaging With TSMC. Here's What Lisa Su Is Actually Buying With That Money."
+   },
+   "body": {
+    "en": "AMD, under Lisa Su, is investing more than $10 billion in Taiwan to build advanced chip packaging capacity with TSMC.",
+    "zh": "在苏姿丰领导下，AMD将投资超过100亿美元，与台积电在台湾建设先进芯片封装产能。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVUJidWtBVzFzdk9RSjU0SmhhaGdqVERtTnFxSlRJbTZrbVh2cUNNbWhBVTdJT3FSVFpNOXNralVLV0gzeTc5YUR0bEZWODczVEFuTnMyQkFTSi1SN3F5RENtcmtjTDdTYnhpbDBscWlQQWxLTGhJdWI5U2NsLTZlOVFwNmpYZlBjTXpWREstUVZOemhf?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-12",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Lisa Su Puts Rack-scale AI at Center of AMD’s Next Growth Phase",
+    "zh": "Lisa Su Puts Rack-scale AI at Center of AMD’s Next Growth Phase"
+   },
+   "body": {
+    "en": "Su makes rack-scale systems, not single accelerators, the centre of AMD's next growth phase — the strategic shift behind the Helios line.",
+    "zh": "苏姿丰将机架级整机系统而非单颗加速器定为 AMD 下一阶段增长的核心，这是 Helios 系列背后的战略转向。"
+   },
+   "source": "EE Times Asia",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdFRycmVYbTQzaHdOS29PR3Z4NmpJZHVNZC1NNUtuT3NxNmxfMnFUQUVkcDdhNk5ha2l1bHAwZGo2Rk92QThELUNud2lRbWtid0k3aExDLUNkNElRR25GMDE1aV9pT0s2SFdxMUNzTFNFcWRyMUxjM21ac25wT0tLZ0dzUWE0RDJJbEJVaFNGdE1xU05qYzZtdmtZTU5Mb3hFRXc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-07",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "苏姿丰ASIC布局又+1：AMD官宣收购Taalas 押注“模型即计算机”赛道",
+    "zh": "苏姿丰ASIC布局又+1：AMD官宣收购Taalas 押注“模型即计算机”赛道"
+   },
+   "body": {
+    "en": "AMD announced its acquisition of Taalas under Lisa Su, extending its ASIC strategy and betting on a 'model-as-computer' approach.",
+    "zh": "苏姿丰主导下，AMD官宣收购Taalas，进一步布局ASIC战略，押注「模型即计算机」路线。"
+   },
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ERU1WdEcxd3VjQ1B2ajkyblMtOHZuLTR0TnktUm1MaXVuUGlqN2VlVGxIcVJnWm1MdXZzQlZHeWIyZmlBQXBzVWNGU0Uwekw3V1FQUkVyWHRXZlI1Z0dsYw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-05",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "苏姿丰预估2027年AMD数据中心业务营收翻倍",
+    "zh": "苏姿丰预估2027年AMD数据中心业务营收翻倍"
+   },
+   "body": {
+    "en": "Su forecast that AMD's data center business revenue will double by 2027.",
+    "zh": "苏姿丰预测AMD数据中心业务营收将在2027年翻倍。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9teUJEazR3cExlRkpFVmloaFFxM3hNam13ZzJEQTRnRUFWa3k0dGRWY1NSUTJJa0hYcHF4cEtpOVdmTmdiWWFDWm9kSUw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-26",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "AMD苏姿丰：AI服务器Helios已全面投产，预计Q3末出货",
+    "zh": "AMD苏姿丰：AI服务器Helios已全面投产，预计Q3末出货"
+   },
+   "body": {
+    "en": "Su says AMD's Helios AI server rack has entered full production and should ship by the end of Q3, putting the MI400-generation system she has staked AMD's datacenter case on into volume.",
+    "zh": "苏姿丰表示 AMD 的 Helios AI 服务器已全面投产，预计第三季度末出货，她押注数据中心业务的 MI400 世代整机开始规模交付。"
+   },
+   "source": "集微网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhQ3JpLUVZQ1NLVm1HRG1JbXl1ODA2UGpDck5CT2Z2LV8wYURMSjBkX1BGZUh0OHdGakxnSzFnYVpLWHg5LWFyODcwYU5tVEJTbUx3Q1B6MWVjRmxWLWJjbHZjWjM5VjFFZFBGNnQ5R2ZjUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-24",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Five thoughts from Lisa Su’s keynote at AMD Advancing AI",
+    "zh": "Five thoughts from Lisa Su’s keynote at AMD Advancing AI"
+   },
+   "body": {
+    "en": "Analysis piece distilling five key takeaways from Lisa Su's keynote at AMD's Advancing AI 2026 event.",
+    "zh": "分析文章总结了苏姿丰在AMD 2026 Advancing AI大会主题演讲中的五个要点。"
+   },
+   "source": "SiliconANGLE",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSHV5eE1ZckNpek5BUUNEV0V3NE9zbnNLWFVjZC1iQVFka3VLZDNYQld5U1dEeGdsdkVoZU1sM1pPekhZay05VmpnOHRsbmJ1eEQyd2JjSXRvXzZwbi1UUGdBaUpCRlFQS1pXUVlqVWtnZV9JWVlfTDBmSURMaHZoTGN5UDVEUWFMMmlnMA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-24",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "全球首颗2nm GPU来了！苏姿丰甩出“最强AI机架”，CPU性能干翻英伟达",
+    "zh": "全球首颗2nm GPU来了！苏姿丰甩出“最强AI机架”，CPU性能干翻英伟达"
+   },
+   "body": {
+    "en": "Su unveiled AMD's first 2nm GPU and a new \"strongest AI rack\" system, claiming its CPU performance surpasses NVIDIA's.",
+    "zh": "苏姿丰发布AMD首款2nm GPU及全新\"最强AI机架\"系统，称其CPU性能超越英伟达。"
+   },
+   "source": "智东西",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jWEZnQXhYTnJwbkFJZGl2NGl4RHBocVNuTTlnU0NmVmd3bjEwSVlwSzc5RFVLTS1URWJtOVlCSnhaWVVtazIyWQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-24",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "继英伟达黄仁勋后，AMD苏姿丰也表态支持开源AI模型",
+    "zh": "继英伟达黄仁勋后，AMD苏姿丰也表态支持开源AI模型"
+   },
+   "body": {
+    "en": "Following Nvidia's Jensen Huang, AMD CEO Lisa Su publicly voiced support for open-source AI models.",
+    "zh": "继英伟达黄仁勋之后，AMD首席执行官苏姿丰也公开表态支持开源AI模型。"
+   },
+   "source": "t.cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95Yno2U0Z2LW9ES3BFY09Rbjh6UkFXLXV4UlNjcHU2c3R6dnFtazNKbTdRVExfQXZDRFR3YjVjN0tVTndYZlhPTHdacXdGUUloV1pDbk9qN1ZvenNwY0JVSHhfQjBqdkxCeEpGTFRGRjA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-24",
+   "ts": "2026-07-24T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "挑战英伟达！AMD机架级AI系统全面投产，苏姿丰称智能体兴起拉动GPU需求",
+    "zh": "挑战英伟达！AMD机架级AI系统全面投产，苏姿丰称智能体兴起拉动GPU需求"
+   },
+   "body": {
+    "en": "AMD's rack-scale AI systems entered full production, with Su citing surging agentic-AI demand for GPUs — a direct challenge to Nvidia's datacenter dominance.",
+    "zh": "AMD机架级AI系统全面投产，苏姿丰表示智能体AI兴起正拉动GPU需求，这被视为对英伟达数据中心主导地位的直接挑战。"
+   },
+   "source": "thepaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTcXZrdFNSY0h5ZElkQThjRV8wMXFfcHRjUWlYaWRjb2NJVERHbzhSc0pFRjAxeHRrUmM0N19DYkdNdk1LYVgtcm02QWtSRUg0RG9RSXNSVWVZWnVwWlJTUw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-24",
+   "ts": "2026-07-24T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "全球首颗2nm GPU来了！苏姿丰甩出“最强AI机架”，CPU性能干翻英伟达",
+    "zh": "全球首颗2nm GPU来了！苏姿丰甩出“最强AI机架”，CPU性能干翻英伟达"
+   },
+   "body": {
+    "en": "AMD unveiled what it calls the world's first 2nm GPU alongside a new high-density AI rack platform, claiming a CPU performance edge over Nvidia.",
+    "zh": "AMD发布号称全球首颗2nm GPU及新款高密度AI机架平台，并宣称CPU性能超越英伟达。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR2FRTXBsblF5QlBaQ2FMamRFNlR0cVRMVkFrRFA0MW02OXpuR3hPS1Y0bEVDMXg5TWRnajI1NlptQnBfYzEwUlhPQWZHMTVwVDRRODZyX0pmYnZTV1d2MjJKZXc2SUJNZzFwT081dnF4a0lUR0Vad3dQUDZ3SHU3UHRwWGFXcHJwX0xBNXJuSnBmQjBFbXFF?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-24",
+   "ts": "2026-07-24T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "继英伟达黄仁勋后，AMD苏姿丰也表态支持开源AI模型",
+    "zh": "继英伟达黄仁勋后，AMD苏姿丰也表态支持开源AI模型"
+   },
+   "body": {
+    "en": "Su went on record backing open-source AI models, following Jensen Huang, positioning AMD alongside NVIDIA in favor of open over closed model development.",
+    "zh": "继黄仁勋之后，苏姿丰也公开表态支持开源人工智能模型，使AMD在开源与闭源模型之争中与英伟达站在同一立场。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fNXQwQVpldFZmVVlRT3c3Y1ZjVEliVVZZVVNJb1hUZE1sVGlzX0ZSSl80X2xfd0RmaWZaMy0yVE9PcmE4WV80ajVJVDM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-29",
+   "ts": null,
+   "level": "minor",
+   "title": {
+    "en": "AMD CEO Lisa Su tells grads they shape the future, not AI",
+    "zh": "AMD CEO Lisa Su tells grads they shape the future, not AI"
+   },
+   "body": {
+    "en": "In a commencement address, AMD CEO Lisa Su tells graduates that they, not AI, will shape the future.",
+    "zh": "AMD CEO苏姿丰在毕业演讲中对毕业生表示，塑造未来的是他们自己，而非AI。"
+   },
+   "source": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV05WajlDc0k2T0VJdUEwU2sxRTVxVUlmOGt1UG53MUtsWEZ3OVlIQXNwQVdnYnoxYjdNOWhLS094bGFnbDVzUUNFS2VUd3UyZ25wN2ZxMk5WemZRcDhPSGg5S3l6MFg3d3RNOE5jNnQyYnppQ0xMbnIzdGZ6T01selMxSXlhbVBVYWk5VU9NWC1YNlpmTFhSXzcySDN1LWw4UUkwZjJDcW5TbFRWWWQ3dzNVUTg1OGhWV3o4TA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-20",
+   "ts": "2026-05-20T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Lisa Su meets China's vice premier during China visit — AMD CEO pledges deeper investment days after Trump-Xi summit",
+    "zh": "Lisa Su meets China's vice premier during China visit — AMD CEO pledges deeper investment days after Trump-Xi summit"
+   },
+   "body": {
+    "en": "Lisa Su met China's vice premier during a China visit and pledged deeper AMD investment in the country, days after the Trump-Xi summit.",
+    "zh": "苏姿丰在访华期间会见中国国务院副总理，并在特朗普与习近平会晤后不久承诺加大AMD在华投资。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQXhGNVJjOE5KVzdTeXJkM2hzYTRVaG01cU1ZbXh1ejhnbXRrU2hlX2ZsbS1rbXJwc2llbEtTZi05VFVjR2pjaG5mZ05XcnFCdEtZa0VzRnB1MGNlVTJaaE54cjBJSFNMLTVDbm04V2c1TlNlWU1GT0xJSkh1bW5yeWNSNE1ERHcySDQtYVI0NXlYLWIyakUwY053?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-20",
+   "ts": "2026-05-20T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李开复对话苏姿丰：2026年，AI开始替代整个部门",
+    "zh": "李开复对话苏姿丰：2026年，AI开始替代整个部门"
+   },
+   "body": {
+    "en": "In a dialogue with Kai-Fu Lee, Lisa Su said AI will begin replacing entire departments in 2026, a notable public stance on AI's workplace impact.",
+    "zh": "在与李开复的对话中，苏姿丰表示2026年AI将开始替代整个部门，这是她对AI职场影响的一次重要公开表态。"
+   },
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9raWJTeDZpcGVLMFBfUnprejBfU2FFV0tIc2pjUWM1MjlGcjZySVV1MkZsbGZFZWhTVlRTUTI1elBhT00xYUVIaTh0WUk0a01JV0tsNFJCR00wSC1MRmpsUHNfV2lGNVBsRktQc3VGcw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-19",
+   "ts": "2026-05-19T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "苏姿丰谈AMD对大中华区承诺：中国生态系统令人兴奋，我们的投资超出了需求",
+    "zh": "苏姿丰谈AMD对大中华区承诺：中国生态系统令人兴奋，我们的投资超出了需求"
+   },
+   "body": {
+    "en": "Lisa Su reaffirmed AMD's commitment to Greater China, saying the region's AI ecosystem is exciting and AMD's investment there already exceeds current demand.",
+    "zh": "苏姿丰重申AMD对大中华区的承诺，表示该地区的AI生态系统令人兴奋，AMD在当地的投资已超出当前需求。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUXJGTHU4Sm5FM0JpSTRJRnVyNmxXYWY4STkwVUdVeVNyR0p0NGhhUzExSWd2ZWEyeUxBQ05XNnQyZ0JZVkhNNnVZVXpRUDJTOVBEQ0JMNlNpcXFPdTg5c3pYRWNLUElSajYwemlscktsVUVkU0lCMnFfaFhVSkRhZmo3U0tmeEhNTFV0d0ptRXhqN19MTTFWdFExRVQwa0ppUnNIYmsza1lNb1dJM0ZMRHp2V1lILUNBcjFvd0xCRkpubWZIVzg4N184UUpacXJJM09DUHVFSQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-19",
+   "ts": "2026-05-19T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "美国超威半导体公司董事会主席兼CEO苏姿丰：中国市场极其重要",
+    "zh": "美国超威半导体公司董事会主席兼CEO苏姿丰：中国市场极其重要"
+   },
+   "body": {
+    "en": "Su said the Chinese market remains extremely important to AMD, a stance notable given ongoing U.S. export restrictions on AI chips.",
+    "zh": "苏姿丰表示中国市场对AMD而言极其重要，这一表态在美国对AI芯片持续实施出口限制的背景下颇受关注。"
+   },
+   "source": "app.xinhuanet.com",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmR3d0s5ZnphN3U2Y1pFcnJWVjd6Qi1tTk56eFhWbkQxV1NLa0ZzdTZ0Qk9yRzBhb1Z3MmtNeXlIRE9fR3BDRzUwYTlta2xJdm12QWtoeDd0TzBmWHYwVk45X25MR0FOVlNOdVQtZE02ejYteko1U1Y2SmE3VUJqTUNyY1pkMlJvUzFxV2JBYmNWZF9mM0R1T1BR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-19",
+   "ts": "2026-05-19T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "苏姿丰来华福利拉满：AMD官宣适配小米大模型、300万模型Day0支持+免费AI云上线",
+    "zh": "苏姿丰来华福利拉满：AMD官宣适配小米大模型、300万模型Day0支持+免费AI云上线"
+   },
+   "body": {
+    "en": "During a China visit, AMD announced day-zero support for Xiaomi's large language models plus a free AI cloud offering.",
+    "zh": "苏姿丰访华期间，AMD宣布为小米大模型提供Day 0支持，并推出免费AI云服务。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ySzU3N0pQdE9qUGtUMDZiNWpFaEQyOW9hdkw1SEFHUDZSUW4yeFdLMmVGMWdEcnhVeTZsV1F6UEFKeDhhaURnWWNQUDlvUEZ3NEE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-19",
+   "ts": "2026-05-19T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "苏姿丰现身上海：AMD 大中华区有超 4000 名工程师，预计 2030 年全球将有 50 亿人每日使用 AI",
+    "zh": "苏姿丰现身上海：AMD 大中华区有超 4000 名工程师，预计 2030 年全球将有 50 亿人每日使用 AI"
+   },
+   "body": {
+    "en": "Appearing in Shanghai, Su says AMD's Greater China team has over 4,000 engineers and predicts 5 billion people will use AI daily by 2030.",
+    "zh": "苏姿丰现身上海，表示AMD大中华区拥有超过4000名工程师，并预测到2030年全球将有50亿人每天使用AI。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtQlBtVVVrUFdTc1JjU0lzbm9pVEZESVZVQWJidGhjS2JaT1MzZF9kTlBqLUhDLWhpMVpYamRIUThLTmFUQkVhUm5ONDBYWmVNbTZjWVRnQ3JBZVhhajdQQWRUd1VxdHVkSURvOEdOV2xibzdJanZyaTh6X0Y1QzQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-14",
+   "ts": "2026-05-14T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "黄仁勋苏姿丰，投了田渊栋",
+    "zh": "黄仁勋苏姿丰，投了田渊栋"
+   },
+   "body": {
+    "en": "Report that Jensen Huang and Lisa Su personally invested in a venture by researcher Yuandong Tian, chip industry leaders backing AI research talent directly.",
+    "zh": "报道称黄仁勋与苏姿丰个人投资了研究员田渊栋的创业项目，芯片行业领袖直接支持AI研究人才。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tRVN0TTFKQ3RtYzFEbXMtckt6VUNYQTJzS0w3OVVPc2ExdnEtZjdkSGJuUy1qVmVYaGVpYVZ0dUljLXdScGIwd2xrS3I?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-06",
+   "ts": "2026-05-06T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "AMD CEO苏姿丰：智能体正引爆人工智能周期巨大需求",
+    "zh": "AMD CEO苏姿丰：智能体正引爆人工智能周期巨大需求"
+   },
+   "body": {
+    "en": "Su said AI agents are igniting a huge new wave of demand in the current AI computing cycle.",
+    "zh": "苏姿丰表示智能体正在为本轮AI计算周期引爆巨大的新增需求。"
+   },
+   "source": "Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpeGxYSmF4VDRKQ1F2NTNhZWxSOEpXaDRLeERhTW9BSU82T0pZMEZwcTQyX3ZHUFJJdzRFaGpSQ2h4OHZqYWtHTzZES1FEcjQyTVIw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-03-27",
+   "ts": "2026-03-27T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Lisa Su Hosts Howard Lutnick As Commerce Department Highlights 'Gold Standard' American Tech Stack: AMD C",
+    "zh": "Lisa Su Hosts Howard Lutnick As Commerce Department Highlights 'Gold Standard' American Tech Stack: AMD C"
+   },
+   "body": {
+    "en": "Lisa Su hosted U.S. Commerce Secretary Howard Lutnick at AMD as the department showcased AMD's role in the American tech supply chain.",
+    "zh": "苏姿丰在AMD接待美国商务部长霍华德·卢特尼克，美国商务部借此展示AMD在美国科技产业链中的地位。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU01MQnBkSnVxMGRqRE8yNWtMb05Pd1k4SFZFYzJTRHZaVnRROUU1X1dyYmNwM05XM0xqWElEaUNDVm4zSmVsUlZkRVVnNm9UcjFjWUxLVUFpZmxMa1JHWVFTQ2s2RnpnOXdFTUdwMkxrMzRYU2szcEVzSGt1S1pvZjB1NkNfR3k2b1Rtdi1tcWVvRUZlZ3B0QjR5Sm5TYk1vZHRxMm1YY1EwaFFhZG5qdHY3MWFjT1dMMmc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-03-19",
+   "ts": "2026-03-19T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "三星电子社长卢泰文会见AMD CEO苏姿丰，或扩大合作范围",
+    "zh": "三星电子社长卢泰文会见AMD CEO苏姿丰，或扩大合作范围"
+   },
+   "body": {
+    "en": "Samsung president Roh Tae-moon met AMD CEO Lisa Su to discuss potentially expanding their partnership.",
+    "zh": "三星电子社长卢泰文与AMD CEO苏姿丰会面,双方探讨可能扩大合作范围。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxbWllczV0UjdlWXZaVHc5RldnVVdDZzZiM25GdGJmblV1M2RZaC1COGNwU0hGLUhXQ3NlanNieVFnZWoyNUdzTDdfX1o?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-03-17",
+   "ts": "2026-03-17T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "对黄仁勋说“NO”！苏姿丰发动“去英伟达”战争",
+    "zh": "对黄仁勋说“NO”！苏姿丰发动“去英伟达”战争"
+   },
+   "body": {
+    "en": "Su was described as pushing AMD's \"de-Nvidia\" strategy, positioning the company as a direct alternative to Nvidia in AI chips.",
+    "zh": "报道称苏姿丰正在推动AMD的\"去英伟达\"战略，将公司定位为AI芯片领域对英伟达的直接替代选择。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Vb290eGhkMElYYmNFQ0JPanpLQlBHOGdhazRuNEJmbG1hbm9YaDFxT2pQRkV5Rnd3WTJFVXdnNlRSVW01NzN4TUZrVDBVMFp3aDMxeTJ3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-01-06",
+   "ts": "2026-01-06T08:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "AMD's Lisa Su says AI isn't replacing people, but is changing who gets hired",
+    "zh": "AMD's Lisa Su says AI isn't replacing people, but is changing who gets hired"
+   },
+   "body": {
+    "en": "AMD CEO Lisa Su said AI isn't replacing workers but is changing who gets hired, a notable public stance on AI's labor-market impact from a major chipmaker's chief executive.",
+    "zh": "AMD首席执行官苏姿丰表示，AI并非在取代员工，而是在改变企业招聘的对象，这是一位主要芯片厂商CEO对AI就业市场影响的重要公开表态。"
+   },
+   "source": "cnbc.com",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAydU9JUUNvLXliY1hTRVlieG1XM1RVZG4tU1hwZTVoZXFzMlA1QWVCOHh0UHdxRTQ0V1RsX0ZQdnlqeFFKOGw2REdmcGh0Ym1DTmJ3bkpWbWdYRUdDeXdocmhCeXc4WlAySHowcDY1SXo?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "platform",
+ "score": {
+  "total": 79.3,
+  "attention": 88,
+  "centrality": 72,
+  "momentum": 73,
+  "stature": null,
+  "pageviews": 1032519,
+  "citations": 236,
+  "hIndex": 7,
+  "events": 31,
+  "posts": 62,
+  "wikiEn": "Lisa Su",
+  "wikiZh": "蘇姿丰"
+ },
+ "seedRank": 23,
+ "tier": "t1"
+}

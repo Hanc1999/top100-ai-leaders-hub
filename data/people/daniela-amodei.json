@@ -1,0 +1,506 @@
+{
+ "rank": 16,
+ "id": "daniela-amodei",
+ "name": {
+  "en": "Daniela Amodei",
+  "zh": "Daniela Amodei"
+ },
+ "role": {
+  "en": "Co-founder & President, Anthropic",
+  "zh": "Anthropic 联合创始人兼总裁"
+ },
+ "org": "Anthropic",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "Anthropic",
+  "IPO",
+  "Operations",
+  "Policy"
+ ],
+ "why": {
+  "en": "Runs Anthropic's business, financing and policy, and turned a safety research organisation into a sustainable commercial entity. As the IPO approaches, Dario has delegated operations to her almost entirely.",
+  "zh": "负责 Anthropic 的经营、融资与政策事务，把一个安全研究组织变成可持续的商业实体。随着 IPO 临近，Dario 已几乎将运营全权交予她。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@DanielaAmodei",
+   "url": "https://x.com/DanielaAmodei",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Anthropic News",
+   "url": "https://www.anthropic.com/news",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Daniela+Amodei",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Daniela+Amodei",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Daniela+Amodei",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Daniela+Amodei&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Daniela+Amodei&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Daniela+Amodei",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Daniela+Amodei&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Daniela+Amodei",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Daniela+Amodei&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Daniela_Amodei",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-06-04",
+   "kind": "interview",
+   "title": {
+    "en": "On the pros and cons of an AI startup IPO",
+    "zh": "关于 AI 创业公司上市的利与弊"
+   },
+   "source": "Bloomberg Tech",
+   "url": "https://www.bloomberg.com/news/videos/2026-06-04/anthropic-s-amodei-on-pros-and-cons-of-an-ai-startup-ipo-video",
+   "note": {
+    "en": "Argues that training frontier models is capital-intensive enough to make public markets a structural necessity.",
+    "zh": "主张训练前沿模型的资本密集度已高到使公开市场成为结构性必需。"
+   }
+  },
+  {
+   "date": "2026-07-01",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Daniela Amodei Says Curiosity Is Underrated",
+    "zh": "Daniela Amodei Says Curiosity Is Underrated"
+   },
+   "source": "View From The Top",
+   "url": "https://podcasts.apple.com/us/podcast/daniela-amodei-says-curiosity-is-underrated/id1631585216?i=1000774965167&uo=4",
+   "note": {
+    "en": "A Stanford GSB interview on running Anthropic as a self-described generalist, and how a non-technical background became an asset in leading an AI company.",
+    "zh": "斯坦福商学院的访谈，谈她以自认的“通才”身份管理 Anthropic，以及非技术背景如何成为领导一家 AI 公司的优势。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-06-04",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Anthropic President Daniela Amodei Talks the Future of Claude",
+    "zh": "Anthropic President Daniela Amodei Talks the Future of Claude"
+   },
+   "source": "Bloomberg Talks",
+   "url": "https://podcasts.apple.com/us/podcast/anthropic-president-daniela-amodei-talks-the-future/id1690236827?i=1000771217250&uo=4",
+   "note": {
+    "en": "A Bloomberg interview on Claude's model roadmap, Anthropic's commercialisation strategy and its dealings with the US government.",
+    "zh": "彭博访谈，谈 Claude 的模型路线、Anthropic 的商业化策略以及公司与美国政府的关系。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-05-19",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The Co-Founders of Claude AI Tell Oprah About the Impact Artificial Intelligence Has on Your Life",
+    "zh": "The Co-Founders of Claude AI Tell Oprah About the Impact Artificial Intelligence Has on Your Life"
+   },
+   "source": "The Oprah Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/the-co-founders-of-claude-ai-tell-oprah-about/id1782960381?i=1000768533274&uo=4",
+   "note": {
+    "en": "She and Dario appear together on Oprah's podcast to explain what AI will mean for ordinary life — Anthropic's furthest reach into a mainstream audience.",
+    "zh": "她与 Dario 一同做客奥普拉的播客，向大众解释 AI 将如何影响日常生活，是 Anthropic 触及主流受众最远的一次。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-02-19",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "A Conversation with Daniela Amodei, Co-Founder and President of Anthropic",
+    "zh": "A Conversation with Daniela Amodei, Co-Founder and President of Anthropic"
+   },
+   "source": "It's Not Magic, a Sixth Street podcast",
+   "url": "https://podcasts.apple.com/us/podcast/a-conversation-with-daniela-amodei-co-founder/id1622311675?i=1000750477738&uo=4",
+   "note": {
+    "en": "An interview on building Anthropic as a public benefit corporation and what that structure means for how the company is run.",
+    "zh": "访谈围绕以公益公司（PBC）形式创办 Anthropic，以及这一架构对公司运营方式的影响。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-06-16",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Building the Anthropic Team: Daniela Amodei on Hiring 10x AI Engineers | Frameworks for Growth",
+    "zh": "Building the Anthropic Team: Daniela Amodei on Hiring 10x AI Engineers | Frameworks for Growth"
+   },
+   "source": "Frameworks for Growth",
+   "url": "https://podcasts.apple.com/us/podcast/building-the-anthropic-team-daniela-amodei-on-hiring/id1815547797?i=1000713149970&uo=4",
+   "note": {
+    "en": "Podcast interview in which she describes how Anthropic hires and builds its engineering team.",
+    "zh": "播客访谈，她讲述 Anthropic 如何招人、如何搭建工程团队。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-02-23",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Daniela Amodei (Anthropic) - ‘Helpful, Honest, Harmless’ AI",
+    "zh": "Daniela Amodei (Anthropic) - ‘Helpful, Honest, Harmless’ AI"
+   },
+   "source": "Entrepreneurial Thought Leaders (ETL)",
+   "url": "https://podcasts.apple.com/us/podcast/daniela-amodei-anthropic-helpful-honest-harmless-ai/id80867514?i=1000646668621&uo=4",
+   "note": {
+    "en": "A Stanford ETL talk on Anthropic's \"helpful, honest, harmless\" framing and how she builds and manages the company's leadership team.",
+    "zh": "斯坦福 ETL 讲座，讲述 Anthropic “有用、诚实、无害” 的理念，以及她如何组建和管理公司的领导团队。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-02-23",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "‘Helpful, Honest, Harmless’ AI [Entire Talk]",
+    "zh": "‘Helpful, Honest, Harmless’ AI [Entire Talk]"
+   },
+   "source": "Entrepreneurial Thought Leaders Video…",
+   "url": "https://podcasts.apple.com/us/podcast/helpful-honest-harmless-ai-entire-talk/id1438251033?i=1000646678541&uo=4",
+   "note": {
+    "en": "Daniela Amodei discusses Anthropic's 'helpful, honest, harmless' safety philosophy and her role managing the company's leadership team, in an extended talk for Stanford's Entrepreneurial Thought Leaders series.",
+    "zh": "戴妮拉·阿莫代在斯坦福“创业思想领袖”系列的长篇访谈中，阐述了Anthropic“有用、诚实、无害”的安全理念，以及她管理公司领导团队的角色。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-02-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#177 President & Co-Founder Anthropic, Daniela Amodei: AI Hurricane",
+    "zh": "#177 President & Co-Founder Anthropic, Daniela Amodei: AI Hurricane"
+   },
+   "source": "Grit",
+   "url": "https://podcasts.apple.com/us/podcast/177-president-co-founder-anthropic-daniela-amodei-ai/id1510985491?i=1000645010765&uo=4",
+   "note": {
+    "en": "A long-form interview on scaling Anthropic through its rapid funding growth and on operating a safety-first lab in a competitive market.",
+    "zh": "长篇访谈，谈 Anthropic 在快速融资增长中的扩张，以及如何在激烈竞争中经营一家以安全为先的实验室。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-12-19",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "First Block: Interview with Daniela Amodei, Co-founder of Anthropic",
+    "zh": "First Block: Interview with Daniela Amodei, Co-founder of Anthropic"
+   },
+   "source": "Notion Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/first-block-interview-with-daniela-amodei-co-founder/id1422389039?i=1000639088327&uo=4",
+   "note": {
+    "en": "An interview on the early years of Anthropic and the decisions made while the company was still finding its footing.",
+    "zh": "访谈回顾 Anthropic 的早期岁月，以及公司尚未站稳脚跟时所做的那些决定。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-12-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Discovering Language Model Behaviors with Model-Written Evaluations",
+    "zh": "Discovering Language Model Behaviors with Model-Written Evaluations"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2212.09251v1",
+   "note": {
+    "en": "Co-authored 'Discovering Language Model Behaviors with Model-Written Evaluations,' an early Anthropic paper on using LMs to generate their own evaluation datasets.",
+    "zh": "合著《用模型生成评估发现语言模型行为》，这是Anthropic早期论文，探讨用语言模型自动生成评估数据集的方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-11-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Measuring Progress on Scalable Oversight for Large Language Models",
+    "zh": "Measuring Progress on Scalable Oversight for Large Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2211.03540v2",
+   "note": {
+    "en": "Co-authored 'Measuring Progress on Scalable Oversight for Large Language Models,' an early Anthropic paper on supervising models that may outperform humans.",
+    "zh": "合著《衡量大语言模型可扩展监督的进展》，这是Anthropic早期论文，探讨如何监督可能在多数技能上超越人类的模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-04-29",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Excited to announce our latest fundraising round! We’re genuinely honored to be entrusted with the resources to continue our work in frontier AI safety and rese",
+    "zh": "Excited to announce our latest fundraising round! We’re genuinely honored to be entrusted with the resources to continue our work in frontier AI safety and rese"
+   },
+   "source": "@DanielaAmodei",
+   "url": "https://x.com/DanielaAmodei/status/1520075689747116033",
+   "note": {
+    "en": "Amodei announced Anthropic's early fundraising round, framing it as continued backing for the company's frontier AI safety research.",
+    "zh": "Amodei宣布Anthropic完成早期融资,称这将继续支持公司在前沿AI安全研究上的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2022-03-04",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Daniela and Dario Amodei on Anthropic",
+    "zh": "Daniela and Dario Amodei on Anthropic"
+   },
+   "source": "Future of Life Institute Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/daniela-and-dario-amodei-on-anthropic/id1170991978?i=1000726526359&uo=4",
+   "note": {
+    "en": "She and Dario set out Anthropic's founding case for reliable, interpretable and steerable AI systems shortly after the company launched.",
+    "zh": "公司成立不久后，她与哥哥 Dario 共同阐述 Anthropic 的创立主张：构建可靠、可解释、可引导的 AI 系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-02-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Predictability and Surprise in Large Generative Models",
+    "zh": "Predictability and Surprise in Large Generative Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2202.07785v2",
+   "note": {
+    "en": "Co-authored 'Predictability and Surprise in Large Generative Models,' examining how large-scale pretraining produces both predictable and surprising capabilities.",
+    "zh": "合著《大型生成模型中的可预测性与意外性》，探讨大规模预训练如何同时产生可预测和令人意外的能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-06-04",
+   "level": "notable",
+   "title": {
+    "en": "Defends the IPO push as revenue hits a $47B run rate",
+    "zh": "在营收达 470 亿美元年化时为 IPO 辩护"
+   },
+   "body": {
+    "en": "Up from roughly $9B at the end of 2025.",
+    "zh": "较 2025 年底约 90 亿美元大幅增长。"
+   },
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/"
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Dario and Daniela Amodei: The 100 Most Influential People in AI 2026",
+    "zh": "Dario and Daniela Amodei: The 100 Most Influential People in AI 2026"
+   },
+   "body": {
+    "en": "TIME named her alongside Dario Amodei to its 2026 list of the 100 most influential people in AI.",
+    "zh": "《时代》周刊将她与 Dario Amodei 一同列入 2026 年 AI 领域 100 位最具影响力人物榜单。"
+   },
+   "source": "Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EQ2xfQmdVZ0lfWFNkWXlEX25Ra2t2NFVGb0VzbFVYWWgzNG5sY1hneXNJcHU4VEpXaXFZRUtwX1ZqZjhYWkVuekhFbGxEWXBlQXVvMzJGWmliNkxpYkZqTTRMTUJTNGdENGgtYnF3eWRDeXJDSUtGWjVwUHM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-11",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Could AI face social media-style bans? Anthropic President Daniela Amodei reveals: ‘If we project some of challenges…’",
+    "zh": "Could AI face social media-style bans? Anthropic President Daniela Amodei reveals: ‘If we project some of challenges…’"
+   },
+   "body": {
+    "en": "She warned that AI products could face social-media-style bans if the industry mishandles its risks, a policy stance from the executive who runs Anthropic's policy work.",
+    "zh": "她警告称，若行业未能妥善应对风险，AI 产品可能面临类似社交媒体的封禁；这是主管 Anthropic 政策事务的高管所表达的政策立场。"
+   },
+   "source": "Livemint",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdVozOFNiM2psbG1YMjJfZ1pjVFpHdGVOR0ctemwzM2x0MWQtU01pSWZnN3JFWURfaVUyRFBzNzlCMVRaNXZZQTJkMUJrRWxsaTZUNkotUVUwcTdudGVrTEpzUGVyTzVCaXB2cm5rS3NjQkp3V3M0MlZtc1B5VG0wRjNXUG1ra0k5Rk1wd3J3Qm01THB2SDRRRmVPRmUtcjlkS3dkOW0xajl5MFNKX2dqcUxxZlpOT3dXeE1nNmMwWWdSZkltZ0hfQ3g5Y1d3ckNhLS1JX1hNWFAzQkNhTXFIYTRjbUgzTldIcE53bHpqME5lUVFXUzJ4SWJLdXdtZ9IBgwJBVV95cUxOWHlCMVBnWUxOUXFyeWZIZllzaVFna3FySUFoSkIxbU51MXhEZHlaRWdKZTZqLU02UTV2dlpiS1l6Wk1CMWVmUFhteHR2QmwtcGFNU3FYVGkxYVd3Y0ZTLW13VGg4dS1nTzRRZTY4MkN6V3JoS1FfS2NWN2dCNG1fMUR5TDVYdnoySGRoZEVUMmRoTGJmdS0yR2JfWk9SMGdHY043ZEdNWGpoQ2c2R3FSeno3MFMwdVFoUHF5aVdTdHVEZkVtQ1hEcjFCZ2x4LWhzNWxfRDdkYUhwa3JsNWExdWJoV1FzcnNJS0RTbmNvRFhNMWtUMEkyMjVIemx6LVkzN1l3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-05",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Anthropic’s Daniela Amodei Charts Leaner A.I. Strategy as IPO Race With OpenAI Heats",
+    "zh": "Anthropic’s Daniela Amodei Charts Leaner A.I. Strategy as IPO Race With OpenAI Heats"
+   },
+   "body": {
+    "en": "Amodei sets out a leaner operating strategy for Anthropic as the company moves toward an IPO in parallel with OpenAI.",
+    "zh": "在与 OpenAI 并行推进 IPO 的节点上，Amodei 为 Anthropic 定下更精简的经营策略。"
+   },
+   "source": "observer.com",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BSmZxbmk4NEZZUTlobXZ4blpJak9jRzM0ckxNTzlZSk16QV9UYkc1NHVFRGdnQTYySi1VOTRKbkNHWW1nMXBVRkplSi1ZMXloOE9GSnN5ZDZHcVFOUmtwSVZVTjIzUGlBZmlpZG5EUDJmVHc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-04",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+    "zh": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns"
+   },
+   "body": {
+    "en": "Ahead of Anthropic's IPO she publicly pushed back on doubts about the returns on AI spending, defending the economics of the business she runs.",
+    "zh": "在 Anthropic 上市前夕，她公开回应外界对 AI 投入回报的质疑，为自己主管的业务经济模型辩护。"
+   },
+   "source": "TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMlBKWG9od29YLWVBZ0JUVkxKVVZOZ0N4dXpFSHU4RDZ3Y3VXUmYtVFNWUnJqODRKbkZkY1dwa2tYMzJIV2tvaVFZb19TWjNoUEthSi1LSzdzeDhrSk40X2JQVzNzQTUxX2hxWnlORGQxSXFLNEFZNWVjRWw4dWx6YjhCZHI5T01SdXZLM1BiWVByenJfY2ZTTVlLSTViSG1JOXZzNUxlNWQ0QTFnTU1IQTFhMA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-04",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+    "zh": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns"
+   },
+   "body": {
+    "en": "Ahead of Anthropic's IPO, Daniela Amodei publicly dismissed doubts about whether AI investment will pay off.",
+    "zh": "在Anthropic首次公开募股前夕,达妮埃拉·阿莫迪公开驳斥了外界对AI投资回报的质疑。"
+   },
+   "source": "finance.yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRlo2SE9pN1kwaWg3Sm9BSDhJOF91N205cFZEUl9nN2JkN216MEUzTGxKTmZ3RmMtR1FFbU5qWm5fTzVsYXIzb0VuQ1FpaEphNVprQmQ1NU5KeTlNbWlTc2ZoczdHQlVQaEM4NUFDNnJNMHNTUkwwdjE3dE9tdWtXMEY4cXY0MkFTRGJKei1QWE9mWW9ybUtHWW02YUJlMU8t?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "lab",
+ "score": {
+  "total": 74.7,
+  "attention": 90,
+  "centrality": 96,
+  "momentum": 19,
+  "stature": null,
+  "pageviews": 1232919,
+  "citations": 244,
+  "hIndex": 3,
+  "events": 6,
+  "posts": 15,
+  "wikiEn": "Daniela Amodei",
+  "wikiZh": null
+ },
+ "seedRank": 27,
+ "tier": "t2"
+}

@@ -1,0 +1,1770 @@
+{
+ "rank": 4,
+ "id": "mark-zuckerberg",
+ "name": {
+  "en": "Mark Zuckerberg",
+  "zh": "Mark Zuckerberg"
+ },
+ "role": {
+  "en": "Founder & CEO, Meta",
+  "zh": "Meta 创始人兼 CEO"
+ },
+ "org": "Meta",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "Meta",
+  "Superintelligence Labs",
+  "Muse Spark",
+  "Meta Compute",
+  "Llama"
+ ],
+ "why": {
+  "en": "The Llama releases reshaped the global developer ecosystem; then he spent unprecedented sums rebuilding Meta's AI org and pivoted to closed frontier models. The most aggressive price-setter in the talent market, now betting $115–135B a year on infrastructure.",
+  "zh": "Llama 系列的开源策略重塑了全球开发者生态；随后他以空前代价重组 Meta AI 组织，并转向闭源前沿模型。人才市场最激进的定价者，如今每年押注 1150–1350 亿美元于基础设施。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@finkd",
+   "url": "https://x.com/finkd",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Meta AI Blog",
+   "url": "https://ai.meta.com/blog/",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "Meta Newsroom",
+   "url": "https://about.fb.com/news/",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Meta AI Research",
+   "url": "https://ai.meta.com/research/",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Meta AI Research Publications feed",
+   "url": "https://ai.meta.com/results/?content_types%5B0%5D=publication",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Mark+Zuckerberg",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Mark+Zuckerberg",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Mark+Zuckerberg",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Mark+Zuckerberg&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Mark+Zuckerberg&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Mark+Zuckerberg",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Mark+Zuckerberg&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Mark+Zuckerberg",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Mark+Zuckerberg&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mark_Zuckerberg",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-08-10",
+   "kind": "blog",
+   "title": {
+    "en": "The Future Is for Everyone",
+    "zh": "未来属于每一个人"
+   },
+   "source": "Meta",
+   "url": "https://about.fb.com/",
+   "note": {
+    "en": "A ~6,500-word essay framing individual empowerment as the source of prosperity, invention as superintelligence's purpose, and balance of power as the foundation of safety.",
+    "zh": "约 6500 字长文，将个人赋能视为繁荣之源、发明视为超级智能的目的、力量平衡视为安全的基础。"
+   }
+  },
+  {
+   "date": "2026-04-01",
+   "kind": "report",
+   "title": {
+    "en": "Muse Spark — Meta's first major closed-source system",
+    "zh": "Muse Spark —— Meta 首个重要闭源系统"
+   },
+   "source": "Meta AI",
+   "url": "https://ai.meta.com/blog/",
+   "note": {
+    "en": "The clearest artefact of the turn away from open-weight leadership.",
+    "zh": "从开放权重旗手转向的最明确产物。"
+   }
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T19:10:03Z",
+   "kind": "x",
+   "title": {
+    "en": "Introducing Muse, the personal agent that understands your goals and works 24/7 to get things done for you.",
+    "zh": "Introducing Muse, the personal agent that understands your goals and works 24/7 to get things done for you."
+   },
+   "source": "@finkd",
+   "url": "https://x.com/finkd/status/2097402101332590646",
+   "note": {
+    "en": "Mark Zuckerberg announced Muse, Meta's new personal AI agent designed to understand users' goals and work autonomously to complete tasks for them.",
+    "zh": "Mark Zuckerberg宣布推出Meta的新个人AI智能体Muse，旨在理解用户目标并自主完成任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Muse Spark 1.3 is rolling out today with frontier performance almost too cheap to meter. This is the biggest jump we've made so far on coding and agentic work.",
+    "zh": "Muse Spark 1.3 is rolling out today with frontier performance almost too cheap to meter. This is the biggest jump we've made so far on coding and agentic work."
+   },
+   "source": "@finkd",
+   "url": "https://x.com/finkd/status/2095232032896946311",
+   "note": {
+    "en": "Zuckerberg announced the rollout of Meta's Muse Spark 1.3 model, calling it the biggest jump yet in coding and agentic performance.",
+    "zh": "扎克伯格宣布Meta的Muse Spark 1.3模型上线，称这是该系列在编程和智能体能力上迄今最大的一次提升。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Muse Voice Transcribe is MSL's first real-time audio perception model -- rolling out today. SOTA in streaming speech-to-text, it handles speaker diarization, an",
+    "zh": "Muse Voice Transcribe is MSL's first real-time audio perception model -- rolling out today. SOTA in streaming speech-to-text, it handles speaker diarization, an"
+   },
+   "source": "@finkd",
+   "url": "https://x.com/finkd/status/2094836602681938385",
+   "note": {
+    "en": "Zuckerberg announced Muse Voice Transcribe, MSL's first real-time speech-to-text model with speaker diarization.",
+    "zh": "扎克伯格宣布推出Muse Voice Transcribe，这是Meta超级智能实验室首个具备说话人分离能力的实时语音转文字模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-31",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Muse Code is out of beta and now built to handle bigger, more complex engineering tasks. Developers can get started with one command today: curl -fsSL https://t",
+    "zh": "Muse Code is out of beta and now built to handle bigger, more complex engineering tasks. Developers can get started with one command today: curl -fsSL https://t"
+   },
+   "source": "@finkd",
+   "url": "https://x.com/finkd/status/2094500475710099945",
+   "note": {
+    "en": "Zuckerberg announced Muse Code has exited beta, now built to handle larger, more complex engineering tasks across big repos.",
+    "zh": "扎克伯格宣布Muse Code结束测试阶段，现已能处理大型代码库中更复杂的软件工程任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Today we're also opening the weights for Muse Glimmer, a great 30B parameter dense model that can run locally. Soon we'll also release the weights for Muse Spar",
+    "zh": "Today we're also opening the weights for Muse Glimmer, a great 30B parameter dense model that can run locally. Soon we'll also release the weights for Muse Spar"
+   },
+   "source": "@finkd",
+   "url": "https://x.com/finkd/status/2086755195535413696",
+   "note": {
+    "en": "Zuckerberg announced open weights for Muse Glimmer, a 30B dense model that can run locally, with Muse Spark 1.2 to follow.",
+    "zh": "扎克伯格宣布开源300亿参数的Muse Glimmer稠密模型，可在本地运行，并预告即将发布Muse Spark 1.2。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I believe everyone should have access to superintelligence, and I wrote a long piece about Meta's philosophy and values for building a positive future for every",
+    "zh": "I believe everyone should have access to superintelligence, and I wrote a long piece about Meta's philosophy and values for building a positive future for every"
+   },
+   "source": "@finkd",
+   "url": "https://x.com/finkd/status/2086754845218726027",
+   "note": {
+    "en": "Zuckerberg published a long essay on Meta's philosophy for building toward superintelligence that is accessible to everyone.",
+    "zh": "扎克伯格发表长文，阐述Meta希望让每个人都能获得超级智能的理念与价值观。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Releasing Muse Code in beta today. It's a terminal coding agent that takes on complete software engineering tasks across large repos: planning changes, writing",
+    "zh": "Releasing Muse Code in beta today. It's a terminal coding agent that takes on complete software engineering tasks across large repos: planning changes, writing"
+   },
+   "source": "@finkd",
+   "url": "https://x.com/finkd/status/2085080750034940201",
+   "note": {
+    "en": "Zuckerberg announced the beta release of Muse Code, a terminal coding agent for full software engineering tasks across large repos.",
+    "zh": "扎克伯格宣布Muse Code测试版发布，这是一款可在大型代码库中完成完整软件工程任务的终端编程智能体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-07-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I wrote about why we believe the future is for everyone. More coming about a positive vision for a world with superintelligence soon.",
+    "zh": "I wrote about why we believe the future is for everyone. More coming about a positive vision for a world with superintelligence soon."
+   },
+   "source": "@finkd",
+   "url": "https://x.com/finkd/status/2082160210399948869",
+   "note": {
+    "en": "Zuckerberg teased a forthcoming essay on Meta's positive vision for a world with superintelligence.",
+    "zh": "扎克伯格预告即将发表关于Meta对超级智能世界积极愿景的长文。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-07-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Open source is a positive and important force for both empowering people and preventing centralization. Proud to support this.",
+    "zh": "Open source is a positive and important force for both empowering people and preventing centralization. Proud to support this."
+   },
+   "source": "@finkd",
+   "url": "https://x.com/finkd/status/2080733191237771648",
+   "note": {
+    "en": "Zuckerberg stated that open source is a positive force for empowering people and preventing centralization.",
+    "zh": "扎克伯格表示，开源是赋能个人、防止权力集中的积极且重要的力量。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-07-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "A lot of people asked for this, so Muse Spark 1.1 is now on OpenRouter.",
+    "zh": "A lot of people asked for this, so Muse Spark 1.1 is now on OpenRouter."
+   },
+   "source": "@finkd",
+   "url": "https://x.com/finkd/status/2077804413251354698",
+   "note": {
+    "en": "Zuckerberg announced Muse Spark 1.1 is now available on OpenRouter by popular request.",
+    "zh": "应用户要求，扎克伯格宣布Muse Spark 1.1已上线OpenRouter平台。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-07-09",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Mark Zuckerberg & Priscilla Chan: How AI Will Help Cure Disease",
+    "zh": "Mark Zuckerberg & Priscilla Chan: How AI Will Help Cure Disease"
+   },
+   "source": "The a16z Show",
+   "url": "https://podcasts.apple.com/us/podcast/mark-zuckerberg-priscilla-chan-how-ai-will-help-cure/id842818711?i=1000776108525&uo=4",
+   "note": {
+    "en": "Replay of an a16z conversation in which Zuckerberg and Priscilla Chan joined Ben Horowitz and others to discuss how AI could accelerate disease research and treatment.",
+    "zh": "a16z重播的一期节目中，扎克伯格与普莉希拉·陈同Ben Horowitz等人探讨了AI如何加速疾病研究与治疗。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-07-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "(1) Today we're releasing Muse Spark 1.1 -- a strong agentic and coding model at a very low price. It's available through our new Meta Model API and in Meta AI.",
+    "zh": "(1) Today we're releasing Muse Spark 1.1 -- a strong agentic and coding model at a very low price. It's available through our new Meta Model API and in Meta AI."
+   },
+   "source": "@finkd",
+   "url": "https://x.com/finkd/status/2075218444056707458",
+   "note": {
+    "en": "Zuckerberg announced the release of Muse Spark 1.1, a low-cost agentic and coding model available via Meta's new Model API and Meta AI.",
+    "zh": "扎克伯格宣布发布Muse Spark 1.1，这是一款低成本的智能体与编程模型，可通过Meta新推出的模型API及Meta AI使用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-10-14",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Mark Zuckerberg on the AI bubble and Meta's new display glasses | ACCESS",
+    "zh": "Mark Zuckerberg on the AI bubble and Meta's new display glasses | ACCESS"
+   },
+   "source": "Pivot",
+   "url": "https://podcasts.apple.com/us/podcast/mark-zuckerberg-on-the-ai-bubble-and-metas-new/id1073226719?i=1000731779809&uo=4",
+   "note": {
+    "en": "Interview on the premiere of ACCESS, where he discusses whether AI investment is a bubble and Meta's new display glasses.",
+    "zh": "在播客 ACCESS 首期节目中接受采访，谈人工智能投资是否存在泡沫，以及 Meta 新推出的显示眼镜。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-01-10",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#2255 - Mark Zuckerberg",
+    "zh": "#2255 - Mark Zuckerberg"
+   },
+   "source": "The Joe Rogan Experience",
+   "url": "https://podcasts.apple.com/us/podcast/2255-mark-zuckerberg/id360084272?i=1000683499141&uo=4",
+   "note": {
+    "en": "Long-form Joe Rogan interview in which he explains Meta's change of course on content moderation and its AI direction.",
+    "zh": "在 Joe Rogan 的长访谈中解释 Meta 在内容审核上的转向及其人工智能路线。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-09-18",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The Mark Zuckerberg Interview",
+    "zh": "The Mark Zuckerberg Interview"
+   },
+   "source": "Acquired",
+   "url": "https://podcasts.apple.com/us/podcast/the-mark-zuckerberg-interview/id1050462261?i=1000669898852&uo=4",
+   "note": {
+    "en": "Live Acquired interview at Chase Center walking through Meta's strategy, from the early Facebook years to open models and smart glasses.",
+    "zh": "在 Chase Center 录制的 Acquired 现场访谈，完整梳理 Meta 的战略，从 Facebook 早期一直谈到开源模型与智能眼镜。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-09-28",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#398 – Mark Zuckerberg: First Interview in the Metaverse",
+    "zh": "#398 – Mark Zuckerberg: First Interview in the Metaverse"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/398-mark-zuckerberg-first-interview-in-the-metaverse/id1434243584?i=1000629569268&uo=4",
+   "note": {
+    "en": "Lex Fridman interview conducted inside the metaverse through photorealistic avatars, discussing Meta's avatar research and AI work.",
+    "zh": "与 Lex Fridman 在元宇宙中通过逼真虚拟化身完成的访谈，讨论 Meta 的化身研究与人工智能工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-06-08",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#383 – Mark Zuckerberg: Future of AI at Meta, Facebook, Instagram, and WhatsApp",
+    "zh": "#383 – Mark Zuckerberg: Future of AI at Meta, Facebook, Instagram, and WhatsApp"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/383-mark-zuckerberg-future-of-ai-at-meta-facebook/id1434243584?i=1000616203423&uo=4",
+   "note": {
+    "en": "Lex Fridman interview on the future of AI at Meta and how it is being pushed into Facebook, Instagram and WhatsApp.",
+    "zh": "与 Lex Fridman 的访谈，谈 Meta 人工智能的未来，以及它如何落地到 Facebook、Instagram 和 WhatsApp。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-08-25",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#1863 - Mark Zuckerberg",
+    "zh": "#1863 - Mark Zuckerberg"
+   },
+   "source": "The Joe Rogan Experience",
+   "url": "https://podcasts.apple.com/us/podcast/1863-mark-zuckerberg/id360084272?i=1000644539003&uo=4",
+   "note": {
+    "en": "Joe Rogan interview on Meta's pivot to the metaverse and the platform decisions behind it.",
+    "zh": "在 Joe Rogan 的访谈中谈 Meta 向元宇宙的转型及其背后的平台决策。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-02-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#267 – Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse",
+    "zh": "#267 – Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/267-mark-zuckerberg-meta-facebook-instagram-and/id1434243584?i=1000552308248&uo=4",
+   "note": {
+    "en": "Lex Fridman interview after the rename to Meta, on the company's metaverse bet and its research agenda.",
+    "zh": "公司更名为 Meta 之后与 Lex Fridman 的访谈，谈对元宇宙的押注与研究方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-04-01",
+   "level": "major",
+   "title": {
+    "en": "Muse Spark — Meta's first major closed-source AI system",
+    "zh": "Muse Spark —— Meta 首个重要闭源 AI 系统"
+   },
+   "body": {
+    "en": "The clearest signal of the shift away from open-weight leadership toward proprietary frontier capability.",
+    "zh": "从开放权重旗手转向自研闭源前沿能力的最明确信号。"
+   },
+   "source": "Meta AI",
+   "url": "https://ai.meta.com/blog/"
+  },
+  {
+   "date": "2026-03-01",
+   "level": "notable",
+   "title": {
+    "en": "MSL restructured into 'redundant leadership'",
+    "zh": "MSL 重组为「冗余领导」结构"
+   },
+   "body": {
+    "en": "A parallel Applied AI Engineering unit under Maher Saba reports to CTO Andrew Bosworth, reducing Alexandr Wang's autonomy. Follows ~600 AI job cuts in October 2025.",
+    "zh": "新设由 Maher Saba 领导、向 CTO Andrew Bosworth 汇报的 Applied AI Engineering 部门，削弱 Alexandr Wang 的自主权。此前 2025 年 10 月已裁员约 600 人。"
+   },
+   "source": "Axios",
+   "url": "https://www.axios.com/2025/10/22/meta-superintelligence-tbd-ai-reorg"
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T03:23:43Z",
+   "level": "notable",
+   "title": {
+    "en": "House to summon Meta CEO Mark Zuckerberg over Facebook safety concerns",
+    "zh": "House to summon Meta CEO Mark Zuckerberg over Facebook safety concerns"
+   },
+   "body": {
+    "en": "The U.S. House moved to summon Mark Zuckerberg over Facebook child-safety concerns, a fresh round of congressional pressure on Meta.",
+    "zh": "美国众议院拟传唤马克·扎克伯格，就Facebook儿童安全问题问责，Meta再度面临国会施压。"
+   },
+   "source": "The Filipino Times",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOUNjR3pxSEpzWWsyVjNLZDFIVFF0WTZoeGplM2g3cWFJMlJaU3Z5YmJRMGlVMnV0T05vUVJabmo4MnFiV3dra1NyWF9iZ29kSFpEY0QwRGZmdlhOTktiZkkyWXRUTXZCSmxfLTI3azB1czVpOXdFUW5ISzFKeVp4T2hlQnRVQmlPeDctaGE2MnZPTndOc281Y3ZyMHJhX0RmQ05VNGNyazV3M3pJMGtLNk5mdXc3OUM4ZXJiMw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T06:05:51Z",
+   "level": "notable",
+   "title": {
+    "en": "AI Firms Could Face ‘Significant’ Liability If Their Systems Are Unsafe, Meta CEO Mark Zuckerberg War...",
+    "zh": "AI Firms Could Face ‘Significant’ Liability If Their Systems Are Unsafe, Meta CEO Mark Zuckerberg War..."
+   },
+   "body": {
+    "en": "Zuckerberg warned that AI firms could face significant liability if their systems prove unsafe, a notable public stance on AI accountability from Meta's CEO.",
+    "zh": "扎克伯格警告称，如果AI系统不安全，AI公司可能面临重大法律责任，这是Meta CEO在AI问责问题上的重要表态。"
+   },
+   "source": "Gadgets 360",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM1JiZ3ZSX1VuMEtPYXRWY2Fkem1oM24zc3pnSHhLWVlockktNWQyZ19HZWJobmV6NVZNUk5mSlNoRTNvVVM3ZnlpWXBBeG5yUWZVZlBuYTRveFZES1QteUlPZnBrY1U1R0tjWkthZ2x0TUtLQTc0YjZJdzIxTUU0MG9nRkpKLXg0dHJBdkRVemF5VDdUYzBTRE81THEtNkNsU1gzVUM5OWZhdEpfWC1idVBza0paM1ZtY09LX0p2UDNFcU5LUHl0UUN30gHPAUFVX3lxTFAwUjUxQXVMSkZoQmFraXhzeEMtck8zX1lqdkVGOUdVUEtJZUxpX1N1d2FUcmhWWi1fZ1lBbFpsWDNMeVNMdVFUZGN3Y2JGenRsYUotR0pFTkQtYlVULTg4QjhVdENkQkRJVjFZX21KUE1YbzhmU1ZkNFJCSWI1dk5jV3lqWlFhVlgxN0dMV0RpNU16UGFOSE5QVUpDUUg5LTJhdllfRlpDWXhFNlNsMElnZTh6U0RvQndYNDJEejloM19QeldsWFVScmZabkFjOA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T11:12:55Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk, Mark Zuckerberg and Jensen Huang Convinced Trump Not To Set Up AI Regulator: Report",
+    "zh": "Elon Musk, Mark Zuckerberg and Jensen Huang Convinced Trump Not To Set Up AI Regulator: Report"
+   },
+   "body": {
+    "en": "Report: Elon Musk, Mark Zuckerberg and Jensen Huang lobbied Trump against creating a federal AI regulator.",
+    "zh": "据报道，埃隆·马斯克、马克·扎克伯格与黄仁勋说服特朗普不要设立联邦人工智能监管机构。"
+   },
+   "source": "ndtvprofit.com",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV0VILTBRVkNqOTM0V0RLdnNEU3FiWHNkZDZOQjVKUkVDU09pV1g2TTNqcHg5WkpTQWEzWVFiMUQzaVhCV0RaTnJ2LV91dHNHVXY5a3lXY2dtaTNfOGV5YWtnR0syRGprdXFqUm1jdHdZNmJfU0xBckR4MnB3OFZOU0dHNHhaaElwcHZ6dEVGSEk2dnptbnJ3ZjhBTVZxTTNsY1FSdGpkcTRxcGVzRGo4TDd1VnBKdGhEOGhOVzJNV181WHh1cXh3ZC1DcVQ2MGd5QWVLX0d30gHeAUFVX3lxTFBJQWt0VXZ1WWJfSmo0RHhlb1BmdlRQVENmc2dJVmdzUTRSN0hMV1FrRmVsT1pIVGx5ejRWUEI3U2ttWGhOMVNrUXpFNjRVT3BsNFhuVVlDSzRQOXFOSmM0Y3ZBYlZvZktnRWRCV0w5ZDFtYlVvVjZHM3duX0NPTFNVUUdkSmk2TGdMQXNYTnNvaHdTeUpRZmdhQzQ1c21fNE4zS1h4Y1BVZ3I1QVplUWZMc21WY3NPekVPTjE3WjB6WXBhWjVJano0aVNqdTZJRlBOMlFXdWxUMl8zcjN2QQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T15:53:13Z",
+   "level": "notable",
+   "title": {
+    "en": "House summons Meta’s Zuckerberg over child safety, defers action on 2027 DICT budget The House of Representatives summons Meta Platforms CEO Mark Zuckerberg. This over child safety concerns and how the platform can improve online safety for Filipin",
+    "zh": "House summons Meta’s Zuckerberg over child safety, defers action on 2027 DICT budget The House of Representatives summons Meta Platforms CEO Mark Zuckerberg. This over child safety concerns and how the platform can improve online safety for Filipin"
+   },
+   "body": {
+    "en": "The Philippine House of Representatives summoned Zuckerberg to testify over child-safety concerns at Meta, deferring a related 2027 budget item.",
+    "zh": "菲律宾众议院就Meta的儿童安全问题传唤扎克伯格作证，并暂缓审议相关的2027年预算事项。"
+   },
+   "source": "facebook.com",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaF82VUU2czNCQXV6RldkSXBMUExYUm9QVjBkZlcwRGtSakhtYjZvekhFVHFTWVIzYkEzaTFXOE1sNlFna3dlRlphdnktLXZXUjctcFZfcTFfUjZ0LWUwZFR4QWZMSlJKVGZlQUFRcVVDbnRsMFY5M2p4SVJXRi1vVE1TRkdCYzUwMmF0MlpVRTVLSHhBVGNUSDU4dXBDQ2FyV0MxRU9KUk9FLUxySEJHYVNLWTMyYmdzMmlhRHpzNkppdTA2LXB1TjE4OTNTSUZYalliTjM3LVlnWS1S?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T00:19:23Z",
+   "level": "notable",
+   "title": {
+    "en": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
+    "zh": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown"
+   },
+   "body": {
+    "en": "The New York Times reported on Zuckerberg publicly sparring with Anthropic over whether AI progress is slowing, a rare direct clash between rival lab leaders.",
+    "zh": "《纽约时报》报道扎克伯格与Anthropic就AI发展是否放缓公开交锋，这是两家实验室领导人之间罕见的直接交锋。"
+   },
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDdJR2JuaHlmNmNBV3BFUDN1WVh6amQzM0VnWUcwLUl5MVFzaUJDMlBSQkNEeUhSSG1ZcjIya21VSWh5TXQ4dll4X0pHRE1BeUl3V3dydTctWEtRU0ZYQmE4V3BkcVM4VHV6MzdKVy1mNWE0WUtidXRubkFLZmxIRVFKblBEZ3NwczBLQ1habw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T01:56:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
+    "zh": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate"
+   },
+   "body": {
+    "en": "Zuckerberg sided with Nvidia's Jensen Huang in the industry debate over whether AI development should slow down for safety, pushing back against Anthropic's position.",
+    "zh": "扎克伯格在AI是否应为安全而放缓发展的行业争论中站在英伟达黄仁勋一边，反对Anthropic的立场。"
+   },
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQamJwVnJmQjRaczZCX3ZrNkktNHJ2cWtsZk13cGZsZWwwaVJPMHRhVmtiZjY1OXNkclU4RmN1OElzRFdRSm9DeWF3dHFtSjE3Q3BIMG8yX25vdkhJdXJJQUI5OTRma2pFRjViVnlfekZMMXl5X2RnRVd5VmxEY2FNbWdUaHJJMTRwTk5pSTFMOF80SjRQVVp2SG5n0gGfAUFVX3lxTE9BaENab2dUdmlkWGJ2TzJVT0V2eDRLakRpdFh0c05zb1lkQ29hMW5XcWw1VU1vdmJMSmtVcFp1Y1JjSXh6SWZkOEF4YXpZMWlCR3c4b0VnbW9aX1c4NG9OWjYwVkE4NHh1UENkVVdRdlBIbGVJYl96TEFNdC1zS05Lbkw3NGIxTnF3QmZhWlVhenU4am9zak16QUM3bDJMNA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T02:17:58Z",
+   "level": "notable",
+   "title": {
+    "en": "Mark Zuckerberg Says Meta Delayed Muse For Months to Focus on AI Safety and Didn't Ask Others to Slowdown",
+    "zh": "Mark Zuckerberg Says Meta Delayed Muse For Months to Focus on AI Safety and Didn't Ask Others to Slowdown"
+   },
+   "body": {
+    "en": "Zuckerberg said Meta delayed its Muse model for months to work on AI safety, while stopping short of calling for other labs to slow down.",
+    "zh": "扎克伯格表示Meta将其Muse模型的发布推迟数月以推进AI安全工作，但并未呼吁其他实验室放慢速度。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSHFlQkZUdTV2OUhJT0tUNmxLQkNUdlUweEIxYThlS25XcjFfTFVpV3dnQXJiZ0tpSlB3azNieFU1UmpvdHV6SUF3M3g3cnRfYzd2aGROQVRNQWtDMkdadVlTR29POFB3aWs5SENhbkdQRGgzSDBFWVN0NGZmbkNTT2NodnlLVEtRa09yb2RSVTNBWjAySm9fNXRHU2Nmc0J2ZV9Ec2MzMUdaWTBIc0NHUDRldnQ5b1BWRjZYUWEwY0RnNVE2?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T03:14:17Z",
+   "level": "notable",
+   "title": {
+    "en": "Meta's Mark Zuckerberg says AI labs have enough incentive to build safely",
+    "zh": "Meta's Mark Zuckerberg says AI labs have enough incentive to build safely"
+   },
+   "body": {
+    "en": "Zuckerberg said AI labs already have enough incentive to build safely, pushing back on calls to slow down development.",
+    "zh": "扎克伯格表示AI实验室已有足够动力保证安全开发，回应了要求放慢AI发展的呼声。"
+   },
+   "source": "The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNWEpYMHBKdkpacFRWTVplUDBOZEFPRzlRekVkQksyTGRNS05BRXB6ek5zbmRIOEtRb2tnajhreE51eEI1OF9ucWFwNFJ2QVk4T25aeUxHbndyNzhWYjNXYUQ3cm1yYm5waHptbjNnbWVtTjhqazhFZjdWaFRZeHd6VnVUS3VLY0Jmb1AtbWdiVXNDYUdYSUlHSUt6anF2Ry12clZRb2xoNGJveThBUmtja3JFTV9sb2NoMmZwUWp1V3poZHZWSUpSZ1B4cHhWLUNqMGtJSko1VnpCbV9vNXNrUGdaTGN3Z0ppck1GOElPdGNnQ0dGYzgtTC1GWms5c1N6MUl6dTJ2cW9OLTdpRHZJWVJFR0s3SGV6eXBXTzF2TEFNTk5DNFhQazlId0xWbWZoLTFyVEFVT0RPTDd4THQ0aVVwRU84dks1OVA0Y0JCMTJEQzli0gHwAUFVX3lxTE14bVVQeThhRVdpcDYtbFoxSWlWZVFYaVFBakZHcWlGclVBek9sSUFIOTVsUHBXMEtHYnRhNXhBb2c1QUYtY0IwSnhuZnFPVnd2X2dLdnJCa0JGWGlmN1l3Vjlkb2VLVjhQNUh6WkRydzhrR1FkUUprNFllNXEwT0UzS0FnMEhIamhZVGhPWEpxY0ZnNHhLVjhMNDQ3aFlzcnhTSEtnMDlRTnlaUkpqcUFUY3BUMndPUUF3eFFBbElfU1VmZGFDTFE5U1lqdUZOOWx2YW04Q0N6T2c5RmxKeWtxeXFvOTlublBGcHRCa2M2Sg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T02:26:53Z",
+   "level": "notable",
+   "title": {
+    "en": "Mark Zuckerberg backs independent AI safety checks as tech CEOs debate slowdown",
+    "zh": "Mark Zuckerberg backs independent AI safety checks as tech CEOs debate slowdown"
+   },
+   "body": {
+    "en": "Zuckerberg backed independent AI safety checks while rejecting Anthropic and OpenAI leaders' calls for an industry-wide AI slowdown.",
+    "zh": "扎克伯格支持独立的AI安全审查，但反对Anthropic和OpenAI等公司领导人提出的行业整体减速呼吁。"
+   },
+   "source": "CNBC TV18",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdnRDVXNENEpNWmVJYkNDVHFTeWJwNGZMS3NsVlhFNVMzdUFBdHNFeE93dVY2TGNCcmw2ZVZrWVVPSG9pR1NVS1VBY0tVVFZ0bXpNV2ttZ3lfV2VGUEVTaldmQTkweGI2ZDFWbGxmMExfT3FjN2xHN1ZhUUNjbkJpQkotTlB2andNaGRTSlhrODBwd0tjY3hOeGRuRklsaV9xYmFOMW5WOGMzS3ZoRG9iYzFqQUZ1UWNvX3RtYUoyZ3l5UlFzZDJR0gHMAUFVX3lxTE43YXZvVTVLMzN1enZUWHRna0k5ejZhd2pzeS1iQ2pFNFRKZkMxLXJtWTcwYWcxQUpnTm5qUXduaS1ya3R2ZzEzOWpjWUFGM01zZTJpN0p6bFAwX3QzdXRucmo0d2ptbEtyM3BydVdZcjFwNTVmVUtwb1YtaXgtZGhaRlNHVTVrZFYycmpsa3FKVVRmNGZhckZrRzN0bTM2OTZMN2hzcFlnMFNmXzdtX0FIUTJMZV9seWVoajBScUtOYXA1d2JXbHZNSDVvcg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T05:06:31Z",
+   "level": "notable",
+   "title": {
+    "en": "Billionaires Mark Zuckerberg And Jensen Huang Offer AI Slowdown Counterarguement",
+    "zh": "Billionaires Mark Zuckerberg And Jensen Huang Offer AI Slowdown Counterarguement"
+   },
+   "body": {
+    "en": "Zuckerberg, alongside Nvidia's Jensen Huang, publicly pushed back against calls to slow down AI development.",
+    "zh": "扎克伯格与英伟达的黄仁勋一同公开反对放缓AI发展的呼声。"
+   },
+   "source": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPblVWTjFtbV95YmlkOTAwWHBKZjNwNzdYZy1oMFJHVktEWVl6YkJLT3FsMnhtQ0VVbHRnTWY5MElFYjl2aWJfamdYbWZ0eElHZk4xRmhtMWNpQkVGOWlhVGloak5scXV5ZXp3R2Rmb0ZGM0JkNk5HNzlDTHY4clI3ZnhNZDdzVmhZaFZCUzdXS0lkTWU0eWV1VjBCLWtwR1VZUUJhTXJRMGRNZ09yMlNxeWFVR3psNjJFbFBMdXpJamw0a2VXOGc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T08:01:50Z",
+   "level": "major",
+   "title": {
+    "en": "Mark Zuckerberg says every AI lab has the incentive to build safely",
+    "zh": "Mark Zuckerberg says every AI lab has the incentive to build safely"
+   },
+   "body": {
+    "en": "Zuckerberg said every AI lab has the incentive to build safely, aligning with Huang against calls to slow AI development down.",
+    "zh": "扎克伯格表示每家AI实验室都有安全构建的动机，这一立场与黄仁勋一致，反对放缓AI发展的呼声。"
+   },
+   "source": "The Next Web",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwQ211OEpjUkdXZ2tKUW9vMjNGZmR5MVBxMGVBMU5LYVN3eU9YY19sV19YMWpsRFZFZjUwRElQMHNRaWc1SzlVSHZaUWtEbUkwbE5DX3RCR2pkVEhoMEd6OXdYNy16VElxeXBRVTZoRF9SVG5YSlBNWg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T06:49:16Z",
+   "level": "notable",
+   "title": {
+    "en": "Meta chief Mark Zuckerberg pushes back against calls to slow AI development",
+    "zh": "Meta chief Mark Zuckerberg pushes back against calls to slow AI development"
+   },
+   "body": {
+    "en": "Zuckerberg publicly rejected calls to slow down AI development, staking out a position in the industry's safety-pace debate.",
+    "zh": "扎克伯格公开反对放缓AI发展的呼声，在行业关于AI发展节奏与安全的争论中表明立场。"
+   },
+   "source": "IOL",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYl9KMzQ3V1NlbEt3Q0xrVHJ0TWdEaXdUTjJMTW9kQnVreUdfa0RpY25SdjZIVWFfUjZOakhRd2pVdjd2N2sweGZCWExiQjU5eGlqRkF2Yi1sSzVPdWJ1OW5YM3Z0MTVLRFpoTmxnUXJyYnBmcTNjYTlZXzdsOW9zQ1UtUU1nZGZ0NjZNcFc4Q2RldmRZSC0zaWk5c1ZKX2ZtZlN4TERTSnlqOW1aYlctc0xoelU0RWFBZHYzTHBNbw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T09:24:57Z",
+   "level": "major",
+   "title": {
+    "en": "Meta’s Mark Zuckerberg says AI labs don’t need to slow down: ’Alignment’ will decide who wins",
+    "zh": "Meta’s Mark Zuckerberg says AI labs don’t need to slow down: ’Alignment’ will decide who wins"
+   },
+   "body": {
+    "en": "Zuckerberg argues AI labs don't need to slow down, saying alignment progress — not pace — will determine who wins the race.",
+    "zh": "扎克伯格认为AI实验室无需放缓发展，称决定谁能胜出的将是对齐能力而非速度。"
+   },
+   "source": "businesstoday.in",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSmtsYjN1dllnam83QnFuanpud1RaQVZXdzRwck1HMUpUODlKamZxMmlXcGc0bFF0dVpCMDBvWnpROEZqN2RIcVBUYVVzM05IVU9qb2IwRWhLSGt1RmllTi1aaDJyMExValNENnUzLUFQeEQ0Q3k0Uk5uaGVxMzkxd2drZUdMNklPTG1RUWpOMV84S1RHdW0wVDE4cXFyTldZbjNya0lBM2tMVWFrSzlqaFVGMVFhdlVUeGU2ekRseDBpVm94Vlg3QmlKODlVcmIyMU5HWnptZGViVXZ5ZFVtRkZlbEJnZ09sWHB6OFFR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T09:56:05Z",
+   "level": "notable",
+   "title": {
+    "en": "AI Wars: Mark Zuckerberg pushes back on AI slowdown calls",
+    "zh": "AI Wars: Mark Zuckerberg pushes back on AI slowdown calls"
+   },
+   "body": {
+    "en": "Mark Zuckerberg pushed back on calls to slow AI development, taking the opposite side of the safety-pace debate other industry leaders raised this week.",
+    "zh": "马克·扎克伯格反驳了放缓AI开发的呼声，在本周业界关于安全节奏的辩论中持相反立场。"
+   },
+   "source": "voz.us",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV0lDWXBpUWJCM3pqRGx6eElhMFJGOUprc0ZEVE10Ml85RWdoaXVoem5PTGk0OXo1anZFVEhNdFVIRG1hX1gya2NPQ3lha2NhbjhvQUpCRnVEMkM2aFVEbFhqOHdGVDk3VHZPQ29NQmkzRkJuaXRTZTJMWkZvUS0xS3FKb3V4djFFcXZhQ3RDYUNMVmRFMHZfRXBuVWhxRTNqN3c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T11:07:59Z",
+   "level": "notable",
+   "title": {
+    "en": "Mark Zuckerberg Opposes Dario Amodei's Push For AI Development Slowdown",
+    "zh": "Mark Zuckerberg Opposes Dario Amodei's Push For AI Development Slowdown"
+   },
+   "body": {
+    "en": "Zuckerberg publicly opposed Dario Amodei's push to slow down AI development, a rare open disagreement between two leading AI company CEOs.",
+    "zh": "扎克伯格公开反对Dario Amodei放缓AI发展的主张，这是两位顶尖AI公司CEO之间罕见的公开分歧。"
+   },
+   "source": "Yahoo News Singapore",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcjNQdWhNR2VBUkJETHpGZzhick9KODBkWlhrWkNDbDNFSktrNklEMlhodDBWSUVTcnp0RF8yUGJwX0l6Z3pLcjNWQ2JvZmRGRFBNdHBhZWM1c2Z1cWFCclVUbnh0cGRjOXFJWW1qT05SaVFtbkdYUjlTREtBMGJHSE0yUW8?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T11:56:42Z",
+   "level": "notable",
+   "title": {
+    "en": "Mark Zuckerberg rejects AI slowdown calls, cites market forces",
+    "zh": "Mark Zuckerberg rejects AI slowdown calls, cites market forces"
+   },
+   "body": {
+    "en": "Zuckerberg rejected calls to slow down AI development, citing market forces as the reason a pause isn't realistic.",
+    "zh": "扎克伯格拒绝了放缓AI发展的呼吁，认为市场力量决定了暂停并不现实。"
+   },
+   "source": "qz.com",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nSkY4X1RibkU3enFFRDZwYUpQbWZoMlV6SGlvUVktY0MtTEhwV2wwM2VPLXdRODNIVWh4VUxCY1NhcXRxd0puaTVCMjVUNjNUQ0F0STY3UjNpOFYtVUtqUFVmeC1YeHdiMnZTNnhvbDlIZ0RYdjE2Z0l3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T11:07:59Z",
+   "level": "notable",
+   "title": {
+    "en": "Mark Zuckerberg Opposes Dario Amodei's Push For AI Development Slowdown",
+    "zh": "Mark Zuckerberg Opposes Dario Amodei's Push For AI Development Slowdown"
+   },
+   "body": {
+    "en": "Zuckerberg publicly opposed Dario Amodei's push to slow down AI development.",
+    "zh": "扎克伯格公开反对阿莫迪提出的放缓AI发展的主张。"
+   },
+   "source": "HuffPost",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMHhsNVVucjhBNi1NLXpDQzhyVlMtTVg3NjZLZS1WLTJ4MW5MUDJiNEg4VTJpdDRRV1g3ZU91QnRQeXQtQkpPbmlTSUZQejB2MFpLaWxOR09UQUdQTzNRUkQ3Vl9EYjMzVU5Ed19ZR0gyX282cWFTWk50UUZuVW8xZE1wWEhGRHBJN3lMdkFvaEtRQkJidDl0Q9IBngFBVV95cUxOc1NHbnZmQnZIdHdWR05FWXZqQ2gwTnZvWEppcDBQWmVpQ2J2OXROQV9xa2kzZlJEVWlLUEVMOWpDMGltQmxfVzhRN1RmUkI1U0lZdWc3eTV3bVVfVVl4dkNVWnVpSUIxVmhZc2ZKeVdLZ2NQck1RVGk4alRsMTZIV1NLUk04OW5KeFBId0lQOVNGb05xNkhxN1VDTzJmUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T13:08:44Z",
+   "level": "notable",
+   "title": {
+    "en": "Mark Zuckerberg opposes AI slowdown calls, supports independent oversight",
+    "zh": "Mark Zuckerberg opposes AI slowdown calls, supports independent oversight"
+   },
+   "body": {
+    "en": "Zuckerberg publicly opposed calls to slow AI development while voicing support for independent oversight of the industry.",
+    "zh": "扎克伯格公开反对放缓AI发展的呼声，同时表示支持对行业进行独立监督。"
+   },
+   "source": "Fox Business",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rUEJQbVZwb3dLcF9zZlpKZ2htemdLb2ZvSTJpZ2FFMWh0Tk1GanA3aG5CTXY4aF9qdGw0VU1Qak81dDlfQzhlU1k4bXMzM1hDcWFlZlFGY1JGYVU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T15:26:56Z",
+   "level": "notable",
+   "title": {
+    "en": "Mark Zuckerberg pushes back against industry coordinated AI slowdown",
+    "zh": "Mark Zuckerberg pushes back against industry coordinated AI slowdown"
+   },
+   "body": {
+    "en": "Zuckerberg publicly rejected calls for a coordinated industry-wide slowdown in AI development, aligning Meta against the safety-first camp led by Amodei.",
+    "zh": "扎克伯格公开反对行业协调放缓人工智能发展的呼吁，使Meta站在了以阿莫代伊为代表的安全优先阵营的对立面。"
+   },
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdHNrMHY4RFgwd3NJUEc3OXJDLUFSSXNVUDhpSjJJZGdLTkdhWXU1TEItc1hIS3RoblgzdXZUVXZHSnpnZ0EweUhCRXZRZHY2RF9FNEQ1WVBzczBUa3NTMUN5eVREeERqZXVhMGQ0bW1pdloxUVNkYmxoaGZLUURJX0ZNQVRDTjdIVnBDMmNwVUNjX0VYa1MxWTlDWXlQb1J1QVdkQngxQ0VvNGI5anRFRg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T16:43:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Mark Zuckerberg addresses panic about killer AI – and gives an urgent warning",
+    "zh": "Mark Zuckerberg addresses panic about killer AI – and gives an urgent warning"
+   },
+   "body": {
+    "en": "Zuckerberg addressed public fears of 'killer AI' and issued a warning about AI risk.",
+    "zh": "扎克伯格回应公众对「AI杀手」的恐慌，并就AI风险发出警告。"
+   },
+   "source": "The Independent",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQejBBOWMwOThFSFNGcXRRTk5QS2Y3SVppUTd6cmZYc3ZZdEZnUDZwM0VaT1pnbFFkUVpSRTFrUy1UbE1CY05wU1BpQTlVY1VtZWMxNWVFalg4Q19ISFl6YWszNXZVcU1TT3YtdTZFUm01T2NpaDRpRG1oejcxaEJDY1NKREhxTkp5c3lEVHpSZTFIYnRldGZIdmIwbjA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T17:17:28Z",
+   "level": "notable",
+   "title": {
+    "en": "Mark Zuckerberg, JD Vance reject AI slowdown calls as Bernie Sanders warns Congress",
+    "zh": "Mark Zuckerberg, JD Vance reject AI slowdown calls as Bernie Sanders warns Congress"
+   },
+   "body": {
+    "en": "Zuckerberg and JD Vance publicly rejected calls to slow down AI development, pushing back against Bernie Sanders' warnings to Congress.",
+    "zh": "扎克伯格与JD·万斯公开反对放缓AI发展的呼吁，回应了参议员伯尼·桑德斯向国会发出的警告。"
+   },
+   "source": "foxbusiness.com",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GVzlHcjJBWmRCczhEc1VmTXJxMDJoSWNCdzV2LThGa0JuR3VIVkk0ZFFnaDZyemRzTnRyMF9Uay1mTjBaYW9tRGpfLTRBR3JBUFVGY3FDd3BkUmM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T18:13:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Mark Zuckerberg says market forces can keep AI safe without an industry-wide slowdown",
+    "zh": "Mark Zuckerberg says market forces can keep AI safe without an industry-wide slowdown"
+   },
+   "body": {
+    "en": "Zuckerberg argued market forces can keep AI safe without an industry-wide slowdown, a public stance in the AI safety pacing debate.",
+    "zh": "扎克伯格认为市场力量足以保障AI安全，无需全行业放慢发展速度，这是他在AI安全节奏之争中的公开表态。"
+   },
+   "source": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObnQxYlR2TldmQi1OY29uVk5YYkt4ckFzZVNkWGg1RDQtSVVfb3dPV0tocHFxLVYtMnp2cHpoMEM2eUtNU0EyT2hyeVMwLXdSR1N1ZWd3VWUyZmxZQkZyX3pYZjYwZFJhSmdPZTJzalRXb21RU29PaVUyVmJaOUVzOVF2aXZTT3JXMGpZemxJeDFodw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T11:08:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Zuckerberg addresses panic about killer AI – with a warning",
+    "zh": "Zuckerberg addresses panic about killer AI – with a warning"
+   },
+   "body": {
+    "en": "Mark Zuckerberg addressed public fears about dangerous AI with a warning, breaking from the growing industry consensus that governments may need to intervene.",
+    "zh": "马克·扎克伯格就公众对危险AI的担忧发出警告，其立场偏离了业界日益增长的\"政府或需介入监管\"这一共识。"
+   },
+   "source": "\"Mark Zuckerberg\" - BingNews",
+   "url": "https://www.msn.com/en-gb/news/other/zuckerberg-addresses-panic-about-killer-ai-with-a-warning/ar-AA2cmOVt?ocid=BingNewsVerp",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T11:23:28Z",
+   "level": "major",
+   "title": {
+    "en": "Mark Zuckerberg opposes calls to slow down AI development",
+    "zh": "Mark Zuckerberg opposes calls to slow down AI development"
+   },
+   "body": {
+    "en": "Zuckerberg publicly opposed calls to slow AI development, positioning Meta against the safety-slowdown camp in the industry's live debate over AI risk regulation.",
+    "zh": "扎克伯格公开反对放缓人工智能发展的呼吁，在行业围绕AI风险监管的激烈辩论中，将Meta置于反对放缓的阵营。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTk5MT1lDcGVlOURLYzBDdWhsUWRjU1NsUUNPZWhRME1lSklSOVVQS1JXckl0ZnUtdmotZm1mbmVDeHZXWVVnd3RpR0hPcGlsUnFWbmdVbVpKMXdKR0N6NGt5MC0xVWplSW9vTEJlU1dSRkpIUXlIOElYOHp0eUJKRjJCcHdNaVRz?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T23:27:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Mark Zuckerberg weighs in on AI slowdown debate with OpenAI, Anthropic",
+    "zh": "Mark Zuckerberg weighs in on AI slowdown debate with OpenAI, Anthropic"
+   },
+   "body": {
+    "en": "Zuckerberg weighed in on the AI-slowdown debate alongside OpenAI and Anthropic, a notable public stance in a live industry argument.",
+    "zh": "扎克伯格就AI放缓争论发表看法，与OpenAI和Anthropic的立场形成对比，这是当前行业争论中的重要表态。"
+   },
+   "source": "Fox News",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOam0xX19Ja3JjQjFBX0E3YmpFNkFhOGRSdkNVdHdQRWhvNUFITGFqVm1peGVHRzVrSjMzYUF2QWVIZ2tETmJfekVORXRjN2hfcEtTZk5KeFRIZGRzNU9BRll2d2RGWHVEckNkWVBDc1ZUV2lhczUwZzRhbmVCVU9MSFpUVVRXUVNkNVRaY1RMNGZhWnc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T17:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "House summons Meta CEO Zuckerberg over social media safety",
+    "zh": "House summons Meta CEO Zuckerberg over social media safety"
+   },
+   "body": {
+    "en": "The Philippine House of Representatives summoned Meta CEO Mark Zuckerberg to a hearing on social media safety.",
+    "zh": "菲律宾众议院传唤Meta CEO马克·扎克伯格出席关于社交媒体安全问题的听证会。"
+   },
+   "source": "\"Mark Zuckerberg\" - BingNews",
+   "url": "https://www.dzrh.com.ph/post/house-summons-meta-ceo-zuckerberg-over-social-media-safety",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T20:08:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Meta child safety concerns behind House 'call' for Mark Zuckerberg to hearing",
+    "zh": "Meta child safety concerns behind House 'call' for Mark Zuckerberg to hearing"
+   },
+   "body": {
+    "en": "The Philippine House of Representatives summoned Zuckerberg to a hearing over Meta child-safety concerns, tying his company to a national regulatory inquiry.",
+    "zh": "菲律宾众议院就Meta的儿童安全问题传召扎克伯格出席听证会，使其公司卷入一国的监管调查。"
+   },
+   "source": "\"Mark Zuckerberg\" - BingNews",
+   "url": "https://www.msn.com/en-ph/technology/tech-companies/meta-child-safety-concerns-behind-house-call-for-mark-zuckerberg-to-hearing/ar-AA2covJs?ocid=BingNewsVerp",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T13:22:16Z",
+   "level": "notable",
+   "title": {
+    "en": "Watch Mark Zuckerberg and Senator JD Vance push back on government AI regulation - Mornings with FOX Business",
+    "zh": "Watch Mark Zuckerberg and Senator JD Vance push back on government AI regulation - Mornings with FOX Business"
+   },
+   "body": {
+    "en": "Zuckerberg joined Senator JD Vance in publicly pushing back on government AI regulation.",
+    "zh": "扎克伯格与参议员JD·万斯一同公开反对政府对AI的监管。"
+   },
+   "source": "FOX One",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM0RNOFlVdVd6SFE5NGpFak0xakY0eFowY0h3Q1p1VW44WFpHSGdZSFdERGtPbVBmM0t3SDIwTEpFdTlqN3JoamUwWnFRdUFSd244RlB6RUlpdVFiYy04N2Z4WEo2VDM4MF9UQzF5ZEtDWmdjRG5CMzZKemJiT1o1U3FGVjhUMS0ycWloM2dJV21fQjAtSlZnZVRLSk0xcW0xbnZ3Y1RPWWtKcGlJTlRERGhVZC1OLVh3TzdDTlVYQjRMYmxV?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T11:13:24Z",
+   "level": "notable",
+   "title": {
+    "en": "Mark Zuckerberg says AI doesn’t need an industry-wide slowdown because market forces and competition will push companies to make their models safe",
+    "zh": "Mark Zuckerberg says AI doesn’t need an industry-wide slowdown because market forces and competition will push companies to make their models safe"
+   },
+   "body": {
+    "en": "Zuckerberg said AI doesn't need an industry-wide slowdown because market competition will push companies toward safety, aligning him with Nvidia's Jensen Huang against calls to pump the brakes.",
+    "zh": "扎克伯格表示AI不需要全行业放缓，因为市场竞争会推动企业让模型更安全，这一立场与英伟达黄仁勋一致，站在了减速呼声的对立面。"
+   },
+   "source": "\"Mark Zuckerberg\" - BingNews",
+   "url": "https://www.msn.com/en-au/money/general/mark-zuckerberg-says-ai-doesn-t-need-an-industry-wide-slowdown-because-market-forces-and-competition-will-push-companies-to-make-their-models-safe/ar-AA2cmtNX?ocid=BingNewsVerp",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T13:08:44Z",
+   "level": "notable",
+   "title": {
+    "en": "Mark Zuckerberg opposes AI slowdown calls, supports independent oversight",
+    "zh": "Mark Zuckerberg opposes AI slowdown calls, supports independent oversight"
+   },
+   "body": {
+    "en": "Mark Zuckerberg said the AI industry does not need to slow down and voiced support for independent oversight instead.",
+    "zh": "马克·扎克伯格表示AI行业不需要放缓发展，并转而支持独立监督。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNakI4cDFoOF80ZjJIb084eDNfTl9KWmRlU0hxWGZCYzRKWGxMYkZhVi1OVmNwX2hneS03RmFaWWRfOEppM242b1MzWFFneTVya2VZeTRtNW5DRTV0eUliMFN3WDhLYTU2SmdmT0t3NXVxWm5GVzhRTm1Lc0lxRnpwbFlRVDBHMW1GWlE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T01:56:00Z",
+   "level": "major",
+   "title": {
+    "en": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
+    "zh": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate"
+   },
+   "body": {
+    "en": "Zuckerberg publicly sided with Nvidia's Jensen Huang in the AI safety and slowdown debate, breaking with voices like Hinton who are urging caution.",
+    "zh": "扎克伯格公开在AI安全与放缓发展的争论中支持英伟达黄仁勋的立场，与辛顿等呼吁谨慎的声音形成对立。"
+   },
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQamJwVnJmQjRaczZCX3ZrNkktNHJ2cWtsZk13cGZsZWwwaVJPMHRhVmtiZjY1OXNkclU4RmN1OElzRFdRSm9DeWF3dHFtSjE3Q3BIMG8yX25vdkhJdXJJQUI5OTRma2pFRjViVnlfekZMMXl5X2RnRVd5VmxEY2FNbWdUaHJJMTRwTk5pSTFMOF80SjRQVVp2SG5n?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T17:08:36Z",
+   "level": "notable",
+   "title": {
+    "en": "Mark Zuckerberg addresses panic about killer AI – and gives warning to rival companies",
+    "zh": "Mark Zuckerberg addresses panic about killer AI – and gives warning to rival companies"
+   },
+   "body": {
+    "en": "Zuckerberg publicly addressed fears of dangerous 'killer AI' and issued a warning to rival AI companies, a notable public stance on AI safety.",
+    "zh": "扎克伯格公开回应了对危险杀手AI的担忧，并向竞争对手公司发出警告，这是他在AI安全议题上的一次值得关注的公开表态。"
+   },
+   "source": "newswav.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTnJmeVAtYkp2aTJwWHJyYkFIYkh6eExsTWVvLTNZdGhWRHkweV9GZFZhbl9FdTNtQkhIVnlMWkVxSUxhTEJlQ25oc0xhN3Y3Vi1Xemd6Q2FZQ3dKcXZfbV9hbE4zWkpHeFdabTc1anliaTZiMUQ4cklTRmdjakpBZmVwMHBvZ1BPX0tWTlEtWl9YT0ZER0gyb1gzMldmVE9BQ0FzaXlEV3RpN29LN0dWaWFSZVhQdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T17:17:28Z",
+   "level": "notable",
+   "title": {
+    "en": "Mark Zuckerberg, JD Vance reject AI slowdown calls as Bernie Sanders warns Congress",
+    "zh": "Mark Zuckerberg, JD Vance reject AI slowdown calls as Bernie Sanders warns Congress"
+   },
+   "body": {
+    "en": "Zuckerberg joined JD Vance in rejecting calls to slow AI development, pushing back publicly as Bernie Sanders warned Congress about AI risks.",
+    "zh": "扎克伯格与JD·万斯一同拒绝了放缓AI发展的呼吁，在伯尼·桑德斯向国会发出AI风险警告之际公开表态反对。"
+   },
+   "source": "finance.yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbmVEVG9fTUZVdW1BYy12T3hoT0lSVFYwQUlJVFJCaDhSSkhtMWFTMng4VFA5dTZDVFhua1ZTYXFZQW9oZTJXLXBjVHcxNWF6em1wSjhTZ0xMSlVBc01tUEtBdW9kaktiNFZ2M29COGRKYzdlaXpHOEZpemdaSjh3SkQzUkc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T17:36:21Z",
+   "level": "major",
+   "title": {
+    "en": "What is Meta One? Subscription, price, and features of Mark Zuckerberg’s new AI service",
+    "zh": "What is Meta One? Subscription, price, and features of Mark Zuckerberg’s new AI service"
+   },
+   "body": {
+    "en": "Meta launched Meta One, a new AI subscription service, marking Zuckerberg's latest bet in the consumer AI product market.",
+    "zh": "Meta推出新的AI订阅服务Meta One，这是扎克伯格在消费级AI产品市场上的最新押注。"
+   },
+   "source": "Revista Merca2.0",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdGZvREU3MXpVclRWamxGdVgxb0U5a3htLTFTbnNQTU9BdXJvY0c2bGNNS1p2dnY0SVNCalpPLU9BRVEtZGxycG9kc1FnWnpILThpRTRSTFZQUWprVm1zWW5jU3VWMGNKVEgyT1h6dFlic1ZSbTVMQXBqcXhsdUU4eU9lcU9rWU8wMktmNnFxMDhPdkhlcnFQUThSY05lWjhMaFRxaS1nZ3M1MDJv?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T17:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Mark Zuckerberg Joins the AI Doomsday Talk. What is He Saying?",
+    "zh": "Mark Zuckerberg Joins the AI Doomsday Talk. What is He Saying?"
+   },
+   "body": {
+    "en": "Zuckerberg pushed back on AI 'doomsday' warnings, arguing market pressure already keeps AI labs safe and aligned.",
+    "zh": "扎克伯格反驳AI「末日论」警告，认为市场压力已促使各AI实验室保持安全与对齐。"
+   },
+   "source": "\"Mark Zuckerberg\" - BingNews",
+   "url": "https://tech.yahoo.com/ai/meta-ai/articles/mark-zuckerberg-joins-ai-doomsday-010916421.html",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T08:48:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Mark Zuckerberg’s secret Meta plan could have cut some teams by 60% to make AI run the company",
+    "zh": "Mark Zuckerberg’s secret Meta plan could have cut some teams by 60% to make AI run the company"
+   },
+   "body": {
+    "en": "A leaked internal plan reportedly considered cutting some Meta teams by 60% to let AI handle more of the company's work, signalling how aggressively Zuckerberg is restructuring around AI.",
+    "zh": "据报道，一份内部泄露的计划考虑将Meta部分团队裁减60%，让AI承担更多公司工作，显示扎克伯格围绕AI进行重组的力度之大。"
+   },
+   "source": "WION",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbThodmYySS1UOWZWM2JnNkdFV3NpdVViLU13Q2tISm43MkUyWExrRndmaHI2SHBaOXRQTzBma1JEd1hJLTJLRW5tcXptZHBTbzU3ZmxPLUJWcnJMQUp6NHNLT090R2VYcnBhWUFWbGVpRElheXB4ZFNoanpFTFpQUHVBX0F6WUkwTm40NTZtUk85VHpfZ0U4MDhrcXZrS0xKRDlZeDFrUm96RWwzU0lKNWxDOW52YVBBbHQ0SDI5NllMVTJXcklvZ21RMXk3WGw1X3Y0emctZEo3UdIB3wFBVV95cUxPT0VBZkFuNFo2Rk9QUUNyZTE0eGhmTTRoaDMwMWxRVG5IMk93TnE4OXRFdzlhS3JJQlp3WjJON3llYVVxN1ZNOWYxQnJSR0VKYmM2djNOZGJkTFYwTEJwTTNhYkVnV0c3dmdpWGx2ZzFkbTFERER5aGJ2ejAzeHlGbXVnNFBDSlJrUG4zYVVhc1FLVlRhYmN5enc3RFctbldFODRJQlNtbmdJLUs3RS1lZUhmZHNTcEJBcm5HeGJrU2paZlZTUVk5SkZqYkRJNFRJLWUzaXIzRTJZRHptSzlB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T16:28:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Meta CEO Mark Zuckerberg ran a secret project to make the company 'AI native'; asked teams to study impac",
+    "zh": "Meta CEO Mark Zuckerberg ran a secret project to make the company 'AI native'; asked teams to study impac"
+   },
+   "body": {
+    "en": "Zuckerberg ran an internal project to push Meta to become 'AI native,' directing teams to study the shift's impact across the company.",
+    "zh": "扎克伯格推动了一个内部项目，力图让Meta实现“AI原生”，并要求各团队研究这一转变对公司的影响。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNLUkzY3FZeGUwZUNjSWdQYXhmcW1VN3pVaWtfaHZGenhQU294RFM3T2RZbmo0ZHdIRFZyMnlZTmhYa0RfTm9RcWt1U0NrcktvODE1WlpIYm9BYTR5Q1dNNDBUTE1ES1hUM3h5aHBlRXhod0FYNkZ0XzJYM0xvZUVfU05XQ0w1bEtma3pxd0ZaSjNGcVBFcUI0QjMyV0FSZk05OV9Fa2pVYkNQdnEzXzNTM0wzSWdXWWtJOTh4ZUJHOTJJUzJHdmVBbUt2ZkRtYk9xdHQ0NjJsdWxsWXFFMXlUa1V0UGdUdW9aaGpkWk5vOWVJZEhNNXgtZVBSV1FGVWRGWUtna1Bzd2xTb3hYa0t1NHp2aVNhdzctSlHSAZ8CQVVfeXFMT2FhWUdkMHFHR01pZldCMlRXVjk3eGt0azNWNXlwRFlRMTZyTTQxZF9ncnd3MDc2Z1l0czdPNnU5N2FKSGRZa3JiWjh1dWZjNGw3aFFYa3IxYWJlc1VibzMydFFObmFPc2FKRHZqYW82VVBHcTdpeGlORV9mN2IwWXVfWE5WTS00SVA5VVZBNGxuZ0M2TnIzOGg3LWpELVliVDRSR0ZwUkNEemdtNUZMMjdsVHJ4Yi0yeUhrVWw3clcxZldaVHU1Nk8tZmFmVDgzdXQ1cXBKd0g3S3Y4WF9YbS1BNWhVRWU1aGNSU0xwcDZkdkUwa1kwdDRIOUpZeUd6UWY2UDVNMUxYa0ZCbklFY09ySVNHdnpLTXRrRnpqeDQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T09:16:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Mark Zuckerberg's Meta bet that AI would shrink its management ranks. Now it's quietly rebuilding them",
+    "zh": "Mark Zuckerberg's Meta bet that AI would shrink its management ranks. Now it's quietly rebuilding them"
+   },
+   "body": {
+    "en": "Meta is quietly rebuilding management layers after earlier betting that AI would let it flatten its org, per Fortune — a reversal in Zuckerberg's AI-era management strategy.",
+    "zh": "据《财富》报道，Meta此前曾押注AI能精简管理层，如今却在悄然重建这些管理岗位，标志着扎克伯格AI时代管理策略的转向。"
+   },
+   "source": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT0tRa3ctWV9IcER1UDYxWjU3WVRsWWoybGVaaTVOSHFsczRJaFJVeHBDSGNGVzBBeG1KOWc1a2JESG5CeUttV0pnbmRrNGRCeFhpakJMdlhkc1dfS0FvYXlxTFc1UEN5a2JlbkFaTUNCdkhDZk9aR0VrR2JVWVEyWXFKQk0?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T09:16:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Mark Zuckerberg's Meta bet that AI would shrink its management ranks. Now it's quietly rebuilding them",
+    "zh": "Mark Zuckerberg's Meta bet that AI would shrink its management ranks. Now it's quietly rebuilding them"
+   },
+   "body": {
+    "en": "Meta is quietly rebuilding the management layers it had cut on the bet that AI would shrink them, a reversal in Zuckerberg's AI-driven restructuring.",
+    "zh": "Meta正悄悄重建此前因押注AI能精简管理层而裁撤的管理岗位，这是扎克伯格AI驱动重组策略的一次转向。"
+   },
+   "source": "inkl",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQajRCLXFndHR4Q2cwaFIxaFNwaW1CUVFVYjZVUmVDd2VQRDNXSEY2M2QyYUthdElkLUctdTdYZmpmVjR6cE5KMEYwQkpTbEcxRi1BY2dNanVYVWd0WjBjYmVzdDVrNW82NllnSkoyZ3Zxb2k4WHJHVWdacmZBUEJuMFBUbnh4TG1KQlhQMUhHTy1SbjBpYURGNm5jTThSVmg2SzJGR2sxYTBVVS1RdGFuWUlJQU53UGl5VktOTlAySll5cmM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T09:16:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Mark Zuckerberg’s Meta bet that AI would shrink its management ranks. Now it’s quietly rebuilding them",
+    "zh": "Mark Zuckerberg’s Meta bet that AI would shrink its management ranks. Now it’s quietly rebuilding them"
+   },
+   "body": {
+    "en": "Meta is quietly rebuilding the management layers it had cut on the bet that AI would shrink the need for them, a reversal that speaks to how Zuckerberg is recalibrating the company's AI-driven reorg.",
+    "zh": "Meta正悄悄重建此前因押注AI能减少管理层需求而裁撤的管理岗位，这一转向反映出扎克伯格正在调整公司以AI为核心的组织重组策略。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVC1oNy15ejExcHFzMm0yTTBsYWpTN3JNZzRWY1VZbUFvektnZ2gyQVZnNzJNSzdlWGxoaVJsNkRpMEZ1YnVqSGthLUxENkFmNkxWWmluZXo4WndraWRUWTBMTzVlQTZvQUxFdWtGeGVUbzViZW5EajRoSUV4cUN0S05BRGNPYnpZYVBhWUg1VlctNXZ4Z2c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T04:41:37Z",
+   "level": "major",
+   "title": {
+    "en": "Mark Zuckerberg's Meta Is Charging Consumers for a Personal AI Agent for the First Time. Here's What $20 and $100 a Month Could Add to Revenue.",
+    "zh": "Mark Zuckerberg's Meta Is Charging Consumers for a Personal AI Agent for the First Time. Here's What $20 and $100 a Month Could Add to Revenue."
+   },
+   "body": {
+    "en": "Meta begins charging consumers $20-$100 a month for a personal AI agent, its first paid consumer AI product.",
+    "zh": "Meta开始向消费者收取每月20至100美元的个人AI智能体订阅费，这是其首款面向消费者的付费AI产品。"
+   },
+   "source": "The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPbzBfRmdTYTRLTkZmNy16OVY1V3oxZ19tUEpyekNDMkZNVnFqMkZxelRHR21GYTF3c1JTa2hGVTJDMHYwNVlkckVNUGxTYkd4V19TdFotRWlfMFhpN1o3djN0T3VBd001SFlmcnZIa1JVeVpuYjNoMDNGUDc4Ny1BQ3RNandZZDRKUmphX05mWnh3VTdiQ21ObExoYmd6dndZLUlEVE5DcjNxd2xUZjRkWUMwenJyTUN1WEdlWDE4b01Xdlc5T0lDTHl0bUZhWmRTSGZRZV8tVU13aXhNb3VZaTN1cjRINWxnOU9GcUdFR1RiUnNpRHIxLWFVZkRWOFVvbXgwUEJDM0RmNFV4aE9JRzNCckFBNkE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T13:20:29Z",
+   "level": "major",
+   "title": {
+    "en": "Mark Zuckerberg’s $100-a-Month Muse Bet Signals Meta’s Desperate Pivot Away From Ads",
+    "zh": "Mark Zuckerberg’s $100-a-Month Muse Bet Signals Meta’s Desperate Pivot Away From Ads"
+   },
+   "body": {
+    "en": "Reports describe Zuckerberg's $100-a-month Muse subscription bet as signaling Meta's strategic pivot away from ad-driven revenue toward paid AI products.",
+    "zh": "报道称扎克伯格押注每月100美元的Muse订阅服务，标志着Meta从广告收入模式转向付费AI产品的战略转型。"
+   },
+   "source": "AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwVTZlUU9oRG8wVGVOdDBXSEk2LURuX0k0cWFNamZ3c280TDNBZnBUNDgzQmxfekIycUlxSC1EVWZ4VW8xN2VZMWFCMEx4OEVmV0ZiVUhnZ00tYjRDQ1BiVTJXQnVuc2tVejZ4TGhnRlRIbXZING9RUlZnV3RBLVU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T14:45:57Z",
+   "level": "notable",
+   "title": {
+    "en": "Mark Zuckerberg May Have Found Meta’s Next Hit. Would You Hand It Your Email and Passwords?",
+    "zh": "Mark Zuckerberg May Have Found Meta’s Next Hit. Would You Hand It Your Email and Passwords?"
+   },
+   "body": {
+    "en": "Meta launched an AI agent capable of reaching into other apps to send emails and make payments, raising fresh questions about the credentials it requires.",
+    "zh": "Meta推出了一款可以访问其他应用发送邮件和付款的AI代理，也引发了对其所需权限的质疑。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMHZwbllnYWl4NXg0UzZ5NktOa18xMXo4cFZiSXR2cjVWOG5iRDd1c1ViRjRaWFNmOGRjNFBHMnhZSlNDT25UamhuU2RLTTFSOHpOMzJ4TW9uTmt0Y1dfaG1qOERpWjNZbFlsZkRwSWRHTkp4b1ZzN2t6X2hid0FuVVQ4NXdKcWN5ZXh2ZHFBaVlzcTVUY2dBQjdqZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T16:02:40Z",
+   "level": "minor",
+   "title": {
+    "en": "New Mexico Department of Justice presents Mark Zuckerberg deposition in state’s Facebook case",
+    "zh": "New Mexico Department of Justice presents Mark Zuckerberg deposition in state’s Facebook case"
+   },
+   "body": {
+    "en": "New Mexico's Department of Justice presented a Zuckerberg deposition in its case against Facebook, a real step in the ongoing state litigation.",
+    "zh": "新墨西哥州司法部在其对Facebook的诉讼中提交了扎克伯格的证词，是该州诉讼的一个实际进展。"
+   },
+   "source": "Alamogordo News",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPblhCU2gyV0JkYUY2SFNvVDVXWTdNM21HQUlVYWZtclZ3dzVpLU92dVZvSUh4SHhKcFoyRWJVR3Y3YVZJUGhHbWNwTXRPSFlVU29uWEE5Y0JOVTR5SzlMVmhDelhJUFVvSWtfSG9TUm9DbjhDb0pFazUtZ2JqVm1sd2dOOWg0NTNiV3Mxd2FSUzBaZTVoN2VZbFo5azgtSTVvZkNSdGR1bHR3aThIeDFpMGhYY1pHUG1xcHdJSg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T05:24:54Z",
+   "level": "major",
+   "title": {
+    "en": "Mark Zuckerberg's Meta Is Charging Consumers for a Personal AI Agent for the First Time. Here's What $20 and $100 a Month Could Add to Revenue.",
+    "zh": "Mark Zuckerberg's Meta Is Charging Consumers for a Personal AI Agent for the First Time. Here's What $20 and $100 a Month Could Add to Revenue."
+   },
+   "body": {
+    "en": "Meta began charging consumers $20-$100 a month for a personal AI agent, its first paid consumer AI subscription.",
+    "zh": "Meta开始向消费者收取每月20至100美元的个人AI助手订阅费，这是其首个消费者付费AI产品。"
+   },
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxON0dvZW85LUhBYXBGYUdqWXpWbmQwZzE1amwtWTJTZTc5Qml6UmR4QXY2Q2stdFhHcmIxRllrdlVucnFiR1JfMVgyTVhnQnZHanNkb1lTeGRiMm9sX1YteVBGZjVMb0dsdnk1YTRrQmtRTm5DbmNQNENuVVFnX1BMZHFNTnowdVpRWEFnQkVaM2ViMlVQYmFhZHN4TFZzendNbDRZUVNOQmlsYXV3czI3SFdlNEZoSFgtRFRIQzRuaDg3SWZHNEo4NHVVQlhJR1lDMXY5N21DYjc1bFpaQ3BhYmE3cndxOGFGR25VVkp5TjcwMFdqUU9odmVmcTBGTml5RGhOUHhRR0NFQnpsblZoOUhFZEtGUkZJZnF1dW1QLXBvOW9TaDNCMGVPZmFESHdlaWphSVRMMEhXTUVDR0FEZlZxNFZCQVlp?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T04:57:00Z",
+   "level": "major",
+   "title": {
+    "en": "Mark Zuckerberg's Meta Is Charging Consumers for a Personal AI Agent for the First Time. Here's What $20 and $100 a Month Could Add to Revenue.",
+    "zh": "Mark Zuckerberg's Meta Is Charging Consumers for a Personal AI Agent for the First Time. Here's What $20 and $100 a Month Could Add to Revenue."
+   },
+   "body": {
+    "en": "Meta began charging consumers for a personal AI agent for the first time, with $20 and $100 monthly tiers.",
+    "zh": "Meta首次开始向消费者收费提供个人AI助手服务，推出每月20美元和100美元的付费档位。"
+   },
+   "source": "AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObklLdXRtdHVRQWFmeF96bXE3SGFuUWRXLW5HdWNuVzZvTTRqdjI4LWhld3l5bGJQNGxMWHVmbXJfdWVjU2toYnFXUTZjR3ROOGFYUGdJblpqb2FGVDBtNEZEUGE2c014Sm40d0VWa3VZNEdDRkloS2ltZmlNVW5CdW1hOUxuQWYxMnpJNQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T05:03:43Z",
+   "level": "major",
+   "title": {
+    "en": "Mark Zuckerberg's Meta Is Charging Consumers for a Personal AI Agent for the First Time. Here's What $20 and $100 a Month Could Add to Revenue.",
+    "zh": "Mark Zuckerberg's Meta Is Charging Consumers for a Personal AI Agent for the First Time. Here's What $20 and $100 a Month Could Add to Revenue."
+   },
+   "body": {
+    "en": "Meta began charging consumers for a personal AI agent for the first time, at $20 and $100 monthly tiers, a new monetization move for its AI push.",
+    "zh": "Meta首次开始向消费者收费提供个人AI助理服务，定价每月20美元和100美元两档，是其AI业务的新变现举措。"
+   },
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPcU93dHo2YkZkZjg4MGtDMWU3enNKN05HN2dtbUxoUVhmSl9sSGNEZWs4MXhQNHZuTlF4ZUx2SXBXM2RfS0c1VzY1S3VfM3hVekY5cXNYSlc0aDFRS2xONWFDZEUyMGUzZURiYU1jV3YxVE94amRqQTN0R0RJX2dfTmZ4TkFsUGZXVFZGcEZEVkpISjBXeXk5dFZIa2R0clZDQXpqQ1VRajVxakRvYnllS09lUnFWalZBYzY5Vlo0QVRNN05hcGhLMzg1V0pmSHNPVlp2dW1lU3ZDMlZmRlE5YXdQTE94dUpfalJWZUVfUWpYMlBfYzMyWjA5LXJkZWtXU0VhUnRVNFNzMmhhUVB3bHVLcTg2MWN2Z1VOd0ZUNmhCQXIzWUc1NC1BeE1ETmQ3cC1yTF9DNG4tcU54XzgwaWlOb2E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T03:18:00Z",
+   "level": "major",
+   "title": {
+    "en": "What is Muse? Mark Zuckerberg’s new AI agent that could end up knowing your life better than you do",
+    "zh": "What is Muse? Mark Zuckerberg’s new AI agent that could end up knowing your life better than you do"
+   },
+   "body": {
+    "en": "Zuckerberg introduced Muse, a new personal AI agent from Meta built to learn extensively about its user.",
+    "zh": "扎克伯格推出了Meta的新个人AI助手Muse，其设计目标是深入了解用户的方方面面。"
+   },
+   "source": "The Statesman",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOM3dzWkl2N3FRVWdqS0hRUkVPd25ocHZIbHRjbzRxM0VZZDh5dm1LM28tYmg5VFdQR1JNNmRpREpTcVMzV0tyYWd3NlZYZmh0LU0xM09XYndxMzE1a1d2cUJadDdnS2dvbkdBbVZFX2VtdXZha3R0OHBoT2xpYnhwTG9wdHB2RTFqeXkxakw4cW5BOFdhcHBtcXhsLVVpSEswTjVQR05wcmMyQ3JYQUlHZGwxb0FmakpxeERIbEFMUUtQbmZITWhpVkZ3WFJKV2FYc21sVWNCRzRuNmxkU253VnM3MXpoUDBi0gHuAUFVX3lxTE12czN0UTJ1ZlRHVm00VUNDOXZVaGEtZEF3dXA5NVVoYnN3R0MtaXpEV3A3TFZfejZQRXZHYm12ZEpRZDNhLXFNRWVSYVBMYlpoMVVBeFlwb3dBV0tEX2MxSVZRMFdpVUdFWkQzRzFFSkFkNHZmb1ZwcW4xNmN4bFpUWUxuMlNoZ2V5c1dYbHE5cEhKclQzcjM5eVdwa0oxVTJwUmZldWNHVUpPVU5PQWt3TGJITE1WR2d2blhJQmxJYnFXaktaNzhTYWl3RTVqa3U4UFBTbFhhaHFlVTQxLXk3ZG9ucGNJRWJyMEVxN0E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T22:40:07Z",
+   "level": "notable",
+   "title": {
+    "en": "New Mexico Department of Justice presents Mark Zuckerberg deposition in state’s Facebook case",
+    "zh": "New Mexico Department of Justice presents Mark Zuckerberg deposition in state’s Facebook case"
+   },
+   "body": {
+    "en": "New Mexico's Department of Justice presented Zuckerberg's sworn deposition testimony as evidence in the state's ongoing case against Facebook/Meta.",
+    "zh": "新墨西哥州司法部在该州对Facebook/Meta的诉讼中出示了扎克伯格的宣誓证词记录。"
+   },
+   "source": "Source New Mexico",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa3NWbmJxTHFhRlBOcnZPMGUyeGQ1UUY3aEwtZlkzTUtjcG1la1BVLW9SN0J5cmZXOTJobnpSQk15cTdxSzN6cHc2NUppWXZJWmZBVzRJZjFoZFVadVREX2pWZVNrNVNVN0xqaVNwV1dRUkQzb1QyRzVVSkg4QzNZQTNWcDBlRjcteWZQTzhOLTJsejNYSHBSTjdTYnFVdy1WdmdwTVpCLXJxdldwRWNiT3A5WHczQm9VOU5qSjdUUTA1RmM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T02:50:00Z",
+   "level": "major",
+   "title": {
+    "en": "“Works 24/7 to get things done for you”, says Mark Zuckerberg as Meta enters autonomous AI race with launch of personal AI agent Muse",
+    "zh": "“Works 24/7 to get things done for you”, says Mark Zuckerberg as Meta enters autonomous AI race with launch of personal AI agent Muse"
+   },
+   "body": {
+    "en": "Meta launched Muse, a personal AI agent Zuckerberg says works around the clock for users, marking Meta's entry into the autonomous-agent race.",
+    "zh": "Meta推出个人AI智能体Muse，扎克伯格称其可全天候为用户工作，标志Meta正式进军自主智能体赛道。"
+   },
+   "source": "aninews.in",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQZVY1akU3Vy1XNTN3OEVBSXdFRXBSZEdlSVZLZWgwYVFITmJCR2tYRC1mcER4czhYc3pLY3QzcGROczRaNmUyYlZVSTF2b3hsMWhIeTVPLW14Qkxrc1JuYU96U3lvSkNpTGJBejJ5WVdiYkR4Y2JZb2ZvX3kzTTlwYVdCUDYxZFlOdkl1TFRHN2xTSVBtYlgzYU5UcU80OFh6clg2VzVDZ05OR3NncFlSdU9qai1SYUhUTE9tOWY3dWhlbW12ODBkeDgwenE5RDJEMGpic0ZsVVlaTWhhRi1CUTZQdlM4eWFnX2g4Y2t4RloxU2RWMUdqSE1rZGtOR25YM0ZiYWdiX3ZoQUh3R3RhZmRIaFpTSlE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T03:20:29Z",
+   "level": "major",
+   "title": {
+    "en": "Mark Zuckerberg's Meta launched Muse AI agent that can look at your old saved Instagram reels on a recipe",
+    "zh": "Mark Zuckerberg's Meta launched Muse AI agent that can look at your old saved Instagram reels on a recipe"
+   },
+   "body": {
+    "en": "Coverage of Meta's newly launched Muse AI agent, which can act on a user's saved Instagram content, such as turning saved reels into recipe suggestions.",
+    "zh": "报道了Meta新推出的Muse AI智能体，它能处理用户保存的Instagram内容，例如把收藏的短视频转化为食谱建议。"
+   },
+   "source": "The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQOHFrbkZvQ2hhWE9xX1hkWmVwZGpGNVhrdE5RYXQ5N2V2YUh3WDVrSE5FcXpKSUVNWjUwNDdUR3lBcm9hX2NwWEZJbnNnTXRnaVhEM2hiSFYtczM3ZEVrNmk5QkdxQlc3VDhld3JiRU5HcWpYb1hlb1oyWldCNERqWkFEa2R0aktFTDJJLWhCcHJDQ3ZyTUZNRmZIY2U4ZV9OQnVueFlyZVRDVExMUkRqbHh5ZHZic2lLR2Q4OHFkQ0FFS2VUTENaeGZQX1pVT21iaU53SWVGNEJpbTFvTTJjcDVtUjY2V3VqV1NIeGo5ZFpDRVFHZXU4cnlKWHBIOWc5NHpyb09DbmhnSjU3V2J2VXFpTTVUelZ6ZjkwcXdfUFlkZ0hfemRBazJyeDNhS0tTNDduUm1KUVZkU09nVFZJak9CdjZ0SVhweDhHQkxR0gHTAkFVX3lxTFBXMGVDckJVZ1Y2TnVMXy03aTNxUTFNZzBQd0lrSmZQVF9hWDhyV2d0TmhIN0tLbEstaUxnSHhvdk51d0ExdTRrTGZwSDduOXJoeDFvVkVjQmk2NDRkcGtYV2FVRi1CV3ZTOVg5eHc0UUNVaEg2ZDdSektwRG1MNkJxdUhLSzlmZi1uMUUwQ3Rmek0xWkJtemFtczVDcS1GcERaYkltcC10N0twc3JfSjBNLXUtaFpGMWZZSVBwMS1JRFRaRFNXQmpOLWlncmpjMTRVRVZ2UVJHT29NNEhxZXFCam1SUkJjekttVW15dDQ4ZGNJMnZtTk5hWlV5MURZenU2VXhjdDV5c1Rqb1IxWlAxUE5sZ3VhOUVPbDBOanpWQlNLdWVmazVMaTEwWTY5WHBlN1JnNEtTYnBoTUFnbzY1LTNaYVVUTUlzNUxyLWo5cWxYUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T04:05:55Z",
+   "level": "notable",
+   "title": {
+    "en": "Instagram Muse launched: Mark Zuckerberg unveils Meta's personal AI agent that can complete tasks on your behalf",
+    "zh": "Instagram Muse launched: Mark Zuckerberg unveils Meta's personal AI agent that can complete tasks on your behalf"
+   },
+   "body": {
+    "en": "Zuckerberg unveiled Muse, a personal AI agent inside Meta's apps that can look through saved content like Instagram reels and complete tasks on a user's behalf.",
+    "zh": "扎克伯格发布了Muse，这是Meta应用内的个人AI代理，能够浏览用户保存的Instagram短视频等内容并代为完成任务。"
+   },
+   "source": "Moneycontrol.com",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNak5ydlNQS19WQTZDVmpzOGZGMTF1T2FwVGNRejdGeDdSVHlhZTZ2VWd4SW5RT2xtbEdjcnV3RkUxcXRpalZRVGhJc2lIdnl4a0ZPbEdDSVJuNDZSUVFaenMyTXVQa3ZONzVuSWhhZWgxX1loT3BGLTNRRDVCMU9HekJzTUx6bmM1RXkxcmxVaExUMDI5V1FwRVFBVDY0YmRRQml2NUs4cUxIQXljY1pTWnBfWm1LU25XQkU4TGVhSEl0cWdHUDV2SlVOUkI1elJsdXY3YlJaUUFPNUd5b0dpdWRySHdnWmFRbkR4MC1hUHgtYk9tbDVZQ2dNUzh0Snp2d2VR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T07:06:57Z",
+   "level": "major",
+   "title": {
+    "en": "Meta CEO Mark Zuckerberg Introduces Muse: Meta’s AI Agent That Can Act, Plan & Work For You 24/7",
+    "zh": "Meta CEO Mark Zuckerberg Introduces Muse: Meta’s AI Agent That Can Act, Plan & Work For You 24/7"
+   },
+   "body": {
+    "en": "Meta CEO Mark Zuckerberg introduced Muse, a new Meta AI agent designed to act, plan and work autonomously for users around the clock.",
+    "zh": "Meta CEO马克·扎克伯格发布了新的AI智能体Muse，该产品可以自主行动、规划并全天候为用户工作。"
+   },
+   "source": "Business Today",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOFhwQnpqZVdUOU00S0ljUEh5cTNFTW94OW1MNW9sdDNSVDk4Rkg5R1NaSl8zaGlSMWtFOEpmbzBkSE02c2lnVG9yaHg5TnJ0Ylp4OV9kT2FZOHo2Z29Ib3FQNVRXMXZlM2tIRURUQnowcGFMZ2lwLWtOYU85OENLal9fOTNUbDVNSWlNTmRLOFJYWE1ETktfYmpBRFlONzU1aExVVll1VEc5Z05SblBaMm10dzcwQVdidzhWaWs1cmdVeEhvUVFjNGFzWE55U0VodkdIRWMyT0JfeWU4eVE0S3FNRkZWSHVmSlQ4?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T08:42:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Meta CEO Mark Zuckerberg declares, 'Threads is bigger than X,' as active users surpass Musk's platform",
+    "zh": "Meta CEO Mark Zuckerberg declares, 'Threads is bigger than X,' as active users surpass Musk's platform"
+   },
+   "body": {
+    "en": "Zuckerberg publicly claimed Threads' active users now surpass or rival Musk's X, a notable competitive milestone in the social platform race.",
+    "zh": "扎克伯格公开宣称Threads的活跃用户数已超过或接近马斯克的X，这是社交平台竞争中一个值得关注的里程碑。"
+   },
+   "source": "The News International",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOazItNl9GeE9XWHFvR0V5TFpyZTk0NldKMG9QYmxPMnB1ZngtTmljMHB6SVRWRUxuVHVzeWxaWXhTQTNhWmZEalhmdWFNcjFzTklkcnVhcWVpS1JDTmgxM0N3djY3dHFBVzc0eTF4LThWaWpIVTRoejdrNGxjQ2lnMVVtQkdXemRnODBDY3pURWFUNF9PN2JVMUx3eS1XUllqNzhlQi1xNVlQdGJRWXFubkd1Z3J4ZlFNOHNQel9kb2pwU2ZDTGlGMU1QTUZLR2FhcWNxS2ln0gHSAUFVX3lxTE9keF9zaXlFYndHSzR4RHdJblBHQmk4NGZUVjZFSnpwQmE4bkZSMTFTb2pKcFVYdWVzMFBGbEtaSnRQdTJia2lmR09FVDM5VFFtaklxamhuMGpRU1lBdHdIRzNmWXBxNjRaRF9BaWM3VEZvMlRoUVlYNzAxTHNxaUpLT2tuMGt3R3g4SFlOLWJDYjNMR2lnSG5Lbm5lN0ZvYWxGQ2RvWUJUcXRGSnEtcnRrYkFzNnZyTEFOUEJwcFlSeGV6NVUyZE9pZ0pBQm5LemdCQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T08:34:23Z",
+   "level": "notable",
+   "title": {
+    "en": "Meta Muse Surprise Launch: Get Your 24/7 Functional AI Virtual Machine for Free | Mark Zuckerberg’s Vision for AI to \"Earn Its Own Keep\"",
+    "zh": "Meta Muse Surprise Launch: Get Your 24/7 Functional AI Virtual Machine for Free | Mark Zuckerberg’s Vision for AI to \"Earn Its Own Keep\""
+   },
+   "body": {
+    "en": "Meta surprise-launched Muse, a free 24/7 AI virtual machine app, part of Zuckerberg's push for AI products to 'earn their own keep.'",
+    "zh": "Meta突然推出了Muse，一款免费的24/7 AI虚拟机应用，这是扎克伯格推动AI产品“自我造血”战略的一部分。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMWUtfVkVObTlZYnJ1aXBIeEtYdVIycjA3ajZLVU9uVzhJZEhXWDQwMk9NOGxNdlhvREZPRkZuOXJDcFdHaWtzMHFPZVc3TlJYSzZj?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T11:47:52Z",
+   "level": "notable",
+   "title": {
+    "en": "What is Muse? Mark Zuckerberg introduces Meta’s new personal AI agent and how to use it?",
+    "zh": "What is Muse? Mark Zuckerberg introduces Meta’s new personal AI agent and how to use it?"
+   },
+   "body": {
+    "en": "Mark Zuckerberg introduced Muse, a new personal AI agent from Meta.",
+    "zh": "马克·扎克伯格发布了Muse，这是Meta新推出的个人AI代理产品。"
+   },
+   "source": "ptcpunjabi.co.in",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdm5FRzA5MmRRMXFiZk9OVGxIS0ktc2RhUEJCMzEydHhiU2F6YlR3N19mcXZCVE9WZThfZ2lWTEhSM3Q4VHhEUHZrc3BTRTlwTjRYZV9lVEx6d3RYRzVfYTVWV2NMUy13VFpyODN0cmxKakFLZUo4b2FyTG9laEYwZTIxbnl2UENsODhzdWgzMjk0WUxNcUFNTVhLMnZQTVI1ZVExY0tQdWUzM3drdmRHdTI0QWNiX0lWOTMzekw5WG1pV3pJ0gHKAUFVX3lxTE9OQ1p3bXRzcHV2c0RNOS1JcUFHQmJTbXBoZU1Pd2c4SFFSeXhHV0FhNGJDOTZ6MTVDd1dnMjc0Y0VRYkpzNnlLMGNSdlhkWHF2QlpiZGJWeHE3LVQwNU1DYmVuOVRlWEppWU1ERS0tX1hoVG5pbTFjSHhWaHZZNWQtOEdHRlZ2RnNPaHotWGU5cjRNcmI5bVZucTl3aUgzSzR2SWg0ejc2bUk5cmZ5emtZM3laRHA2WVhLV2hiYVBUQjFKak1BcUhCT3c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T02:52:45Z",
+   "level": "major",
+   "title": {
+    "en": "“Works 24/7 to get things done for you”, says Mark Zuckerberg as Meta enters autonomous AI race with launch of personal AI agent Muse",
+    "zh": "“Works 24/7 to get things done for you”, says Mark Zuckerberg as Meta enters autonomous AI race with launch of personal AI agent Muse"
+   },
+   "body": {
+    "en": "Zuckerberg announced Meta's entry into the autonomous personal-agent race with the launch of Muse, an AI agent pitched as working '24/7' on the user's behalf.",
+    "zh": "扎克伯格宣布Meta推出个人AI代理Muse，正式进军自主智能体赛道，该代理被宣传为可“24/7”替用户处理事务。"
+   },
+   "source": "The Tribune",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQR0N2Uy0tbFlYU3NMbG1BZmw3RkhBSVpaWVpzYXlUdUdtWktobFRjZE9QX1lBYUJZTjQ3ZGJmTFRxNnpXT19WMmdpSm53ZXVRMEx0ekdpeWNUQ0ZzX2lyODUtOHhnSnl2RnlCaDlrRXFUSENYVnZTTlA2LVhYV1BrNUVHanpQY3JVNmhsa1N3RDlOaF80T25Oc1RKUE9YeDZVTG5yU2M0UkZTS0c3ZDh6OGpxb0RtY1QtMWliSUZZYlItMTBTVlAxUUxVcVRHek5qMGQ5UngyNG9aVkZBSmpWVDhic3F0WFBSSHZENlVRbHJvczVQUERHRVVLZFJrWUtjRm9yRNIBiAJBVV95cUxNS1NQT0VFR3I2dkJqdmRwWjRuaTFXTGJkWVMyeF9xRG9JUlA5OXRCNDdGWm1JeXZUdEpRbDlDWG9DUXdtYXY0WTlUOExMeUdKYWZCeW5ObnJsZW9pbVJpbElOazVUM29pc01McmxsUkxMY2RYSjJiREJuQlA0NmVkUURsaDI1cGpqYW1laG5OUXFDbEJkaFhhckNHVWlyXzlWd2tqaWZzeXZmeEVHUjk4RGh2SU92ZEtWU0c2NDN0dXMzM2ZrWkdOdHBwRXZzcjYyVHFpV0s4TkNxWEhjWEd6b3pwMFBKN2x3WEZnTWx3WUpEQU9kNEh3cTQtZ2lLc2ZGMDUxbWo1b1I?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T08:46:30Z",
+   "level": "notable",
+   "title": {
+    "en": "META Stock Rises Premarket: Zuckerberg Says Threads Is ‘Either Bigger Than X’ Or Close In Scale",
+    "zh": "META Stock Rises Premarket: Zuckerberg Says Threads Is ‘Either Bigger Than X’ Or Close In Scale"
+   },
+   "body": {
+    "en": "Zuckerberg said Threads is now either bigger than X or close to it in scale, a claim reported alongside a premarket rise in Meta stock.",
+    "zh": "扎克伯格表示Threads目前的规模已超过X，或已非常接近，该言论与Meta股价盘前上涨的消息一同被报道。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFFnWDRQTmdmM2tQdmNjZ2p4QzZ4Vm5RX0pKMHNRLVRuNjluWmlUek83N3R6NmRRZlBQZnJtaF8xN0YyTWhUYXBHVVVtdzhWbEZ5MVdFSFZpMFJrYkc0SHVpZW5PWVg3cU1fRWNBRE14dFMzRmR2UXd2ZmsyclBPZFphRTVJYVFNNDhXRldjWWlmalJnSWt5dW4tejRySHRpNFd1QQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T04:05:55Z",
+   "level": "major",
+   "title": {
+    "en": "Instagram Muse launched: Mark Zuckerberg unveils Meta's personal AI agent that can complete tasks on your...",
+    "zh": "Instagram Muse launched: Mark Zuckerberg unveils Meta's personal AI agent that can complete tasks on your..."
+   },
+   "body": {
+    "en": "Zuckerberg unveiled Muse, Meta's new personal AI agent built into Instagram that can complete tasks for users, part of Meta's push into consumer AI agents.",
+    "zh": "扎克伯格发布了Meta的新个人AI助手Muse，该功能整合进Instagram，可代用户完成任务，是Meta在消费级AI智能体方向的最新推进。"
+   },
+   "source": "Moneycontrol.com",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNlhjQ2x3aGlBZmtzY256anZOTnUyOGVobHZxU1Y4bDhyaGlfZXF0VlFhMG00T0NudlBPMHhTY0FueHhCUENCR05hOGVQOWp0WEJTQ0JtU2JVZXAwNmdLckl4dTdha1dlWThvMUcyVDU4bV8xa3poRkp4ZGkzanBGc0FvMzhfMTRYUzctdFdFRmpaZUlNYXVWRUFnUXJESWVic3N2NG4xdGNkVUhDQ1hBQ0tZcmJtSGh4X000S2duTWNSeUwxOVhaTjg5bU9VYTdRdDJvTmZiNGxPZnR5UEFsb2tGcHVSaE0yN0pPemJoN0VTZFl3ZVVIQllxTEM1SnfSAYgCQVVfeXFMTkVLdldwanVjS3dCS1k3UTVGZHc2XzZHb1FSVUVfS1RpTTBlaWNQRWFNT1pXTGQ5NmNfaWRMN29YajdhMGpUYWxUMWREcHFhNm9FTTQ1cnFyT1JkSkdrT0ZsblltWTNyYmtPTHRjQm9pWENpMlJrMV9NbnRTLTExbVBMNVlQd29yaDlXY01XVjR0RUJQQWIwUE1zT25yNXZlNW1ZcVV6ZHVRRFRQdEtwVlRHem0yemh1TmM4TVlUUFJlVzNNeF9GMHlDMnRNSlh2UjhLRHpEeXN3M25SX1hfZTh4T3BRRVhJOHBrdjl3QU5TaHgtMDZhdHZCbXFyS1FYRjdhZ1hJTDNM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T22:02:32Z",
+   "level": "major",
+   "title": {
+    "en": "Mark Zuckerberg on Muse, Meta's biggest AI bet yet",
+    "zh": "Mark Zuckerberg on Muse, Meta's biggest AI bet yet"
+   },
+   "body": {
+    "en": "Meta launched Muse, described as Zuckerberg's biggest AI product bet yet, a personal AI agent meant to act on users' behalf.",
+    "zh": "Meta推出Muse，被称为扎克伯格迄今为止在AI领域最大的一次押注，这是一款可代表用户行事的个人AI智能体。"
+   },
+   "source": "Sources | Alex Heath",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55WHdhdFlncEIzZ1VtZHp6Q09mdVFZbzEwUkd5MklXWTFNMWpUZUZ3SzJjek9jYlFmSkZMLXB6MUg3Y1c2SjQtdUp3YU1TZTliTERVYXRsSWNBUkh5WHJmSlRkUlB1dnZxemY0cTUtbXlsZnJjVkVhcw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-05",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Mark Zuckerberg Opposes Federal AI Watchdog in Call With Trump: Report",
+    "zh": "Mark Zuckerberg Opposes Federal AI Watchdog in Call With Trump: Report"
+   },
+   "body": {
+    "en": "Mark Zuckerberg reportedly opposed creating a federal AI watchdog in a call with President Trump.",
+    "zh": "据报道，马克·扎克伯格在与特朗普总统的通话中反对设立联邦AI监管机构。"
+   },
+   "source": "yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVEQ5MVpIalU1REI2SWlWc3FObi1YU0F1VjRkS3NoTFBkY1g4YUZ0Zmc4MjZnSlRlWGk3Y2V5emtmLV9FTXZEOHdVUTNFYU1yY3gyY3ZaR3lwbFFQV1dBcWhoQlR1MldsSU9mbE9WTFFHNkQ5MDdsNlRWN05sWDlMZUpSTl81VENNMFM1al9RbUFSUDFHR2NWTEJn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Mark Zuckerberg Opposes Federal AI Watchdog in Call With Trump: Report",
+    "zh": "Mark Zuckerberg Opposes Federal AI Watchdog in Call With Trump: Report"
+   },
+   "body": {
+    "en": "Zuckerberg privately told Trump he opposes a proposed federal AI safety watchdog, a stance reported to have shifted White House AI policy.",
+    "zh": "扎克伯格在与特朗普的私下通话中表示反对拟议的联邦AI安全监管机构，据报道该立场影响了白宫的AI政策。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVzVWRVJVYWhnT1BaanE1YTBvNThzWUU4bFpscUlkYXZZUGo4NEh2ZVBrRk1LaFZkT0F1Mk9IZE5oRDdoandwb3ZLc0R0NHpQVjB6cUVSa3NLd2RHRndFdEx3a3lFSFBOMklweDJuQ0gtRGVRRmVhX01vUEtQUGxkNDR4dDFTMHpVb3R3dWZaUDBWOTlWcDdqbVk2Wm1rcGVLeVdRRl9xTU8yTGg1SEFFY2xzc1g?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Mark Zuckerberg Opposes Federal AI Watchdog in Call With Trump: Report",
+    "zh": "Mark Zuckerberg Opposes Federal AI Watchdog in Call With Trump: Report"
+   },
+   "body": {
+    "en": "Zuckerberg reportedly opposed creating a federal AI watchdog in a call with Trump, a direct attempt to shape U.S. AI regulation.",
+    "zh": "据报道，扎克伯格在与特朗普的通话中反对设立联邦AI监管机构，直接试图影响美国AI监管走向。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZmtjUEhuVDRraUtzMmUxYnVjOUlhMzVYQ3ZsYThBUUR3aG45WU82cmVUMFJFWHRoMjhZd2RnVFRYWlRmdWVycGtFTjMzSVg4NF8zdV9hZjRNRHV5Rlk0NVRodjN4YUM2NTFnZ24zTTZpRnBOOWRpdy1XUlNjUG9TUjgyZEdmaG11UmpodEFUbkd6cFFyeU8zVTVBeXdjY1E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Meta's New Model Matches Fable 5 Performance, Mark Zuckerberg Says: Fully Open-Source With Ultra-Affordable Cost That Makes Calculations Unnecessary",
+    "zh": "Meta's New Model Matches Fable 5 Performance, Mark Zuckerberg Says: Fully Open-Source With Ultra-Affordable Cost That Makes Calculations Unnecessary"
+   },
+   "body": {
+    "en": "Zuckerberg said Meta's newly released model matches Fable 5's performance while being fully open-source and dramatically cheaper to run, a major open-weight release.",
+    "zh": "扎克伯格表示Meta新发布的模型性能可比肩Fable 5，且完全开源、运行成本大幅降低，是一次重要的开放权重模型发布。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mRzc1RlFXRmpnMzZfalFQUFFiUDA0UkxJTlFib0p3MzB3Q2FhU1Z4YlJXdjgtb3UycndrdHFfQXBHczI0eXl1ZzROVnRTOFRENGN3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Meta CEO Mark Zuckerberg: Opposes National AI Regulatory Agency",
+    "zh": "Meta CEO Mark Zuckerberg: Opposes National AI Regulatory Agency"
+   },
+   "body": {
+    "en": "Zuckerberg came out against creating a national AI regulatory agency in the US, a notable policy stance from Meta's CEO.",
+    "zh": "扎克伯格公开反对美国设立国家级AI监管机构，这是Meta CEO在政策问题上的一次值得关注的表态。"
+   },
+   "source": "ababnews.com",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sTXhENy1RdXo3bjU1ZVZyZ1cxQ0xJUDliWUFjQlB5Tk9NSjFMZFNPMmExOTdCTy1ENXhueXdBSjlTOVVmMk41Y1U4VHNtUjV1UlVCalFYSnRieTcxNzFFUTE0YnlTZTFWQlBYODFEd1I5MUVz?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-01",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "How Mark Zuckerberg and Elon Musk made the case for AI at the G20 meeting",
+    "zh": "How Mark Zuckerberg and Elon Musk made the case for AI at the G20 meeting"
+   },
+   "body": {
+    "en": "Zuckerberg joined Elon Musk in publicly making the case for AI development at the G20 meeting.",
+    "zh": "扎克伯格与埃隆·马斯克在G20会议上共同为AI发展公开发声。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQjRTWTM1cTBzZmo1cllLNElCcGtlU0ViNF9ZY1hKdktlelJ6aloyX0NjdmxPSktPajUxR3JNTUltWVphVWRaalFpZ2tPZ0tuZzFsamZKOXhUYWNsNFNnTVFZOE4yNnJ2QXM4Nk1kVmRhLWZRbExYM2xvZk1fcG43WGU2OUZJTGt6eWhzdlh2dWkyVjNTR2w0dko3VlFJZjlkSlNBOFdRa0VRLXNrTUx3bE9TVUN0MUt6U1lxSA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-31",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "What did Mark Zuckerberg said in his 6,500-word AI manifesto?",
+    "zh": "What did Mark Zuckerberg said in his 6,500-word AI manifesto?"
+   },
+   "body": {
+    "en": "Mark Zuckerberg publishes a 6,500-word manifesto laying out his vision for AI.",
+    "zh": "马克·扎克伯格发表一篇6500字的宣言，阐述他对AI的愿景。"
+   },
+   "source": "Khaosod English",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQVZTeHU0X3NZeXlWWGJvM2kwSXAzRzhLaXFRMEtxSEY4U1pENUhCdHhGb1ZaUzIwSkRRMWtsUWFMYUVpR053Mk9weEhKRUpCU1NfTUx6MXpyMWdmVURXV2VfM085YUc1QkN4bkNmTlVMNUJrbktselFxN2J5UnNfb2RRMzBlTFI0LURZVzVxZklmNkd1WFRBUjBFWGRqMjkwSWphZU9Wb0l3OHPSAbABQVVfeXFMTzhwRVlLQTJFUTRVQ1Z3dEQzV2k0WmJmVkdHVHhvVWtTOTJIVFByQ1EyRkQzcE1DRE1YV1pGNzYycFZQWFIwS2xBNEtnRHlrMjFXR2tLbHZXZmMycGl6NGZiNEJ3LXF4Q2YtNVdXQUJaNERQeHBtUzBFWUlKaG1MclNPekFNd1IyOUNhRExaTmxpVmFvV3dTTW9rcUplYWdyd2F6OUN6VkpFT0dxeFkwczg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-29",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Mark Zuckerberg's Meta Just Open-Sourced Its Most Powerful AI Model to Take on OpenAI and Anthropic. Should Investors Watch Meta's AI Spending Closely?",
+    "zh": "Mark Zuckerberg's Meta Just Open-Sourced Its Most Powerful AI Model to Take on OpenAI and Anthropic. Should Investors Watch Meta's AI Spending Closely?"
+   },
+   "body": {
+    "en": "Meta released its most capable model yet under an open licence, positioning it directly against OpenAI and Anthropic and reopening the question of how long Zuckerberg's AI spending can run.",
+    "zh": "Meta 以开源许可发布了迄今最强的模型，直接对标 OpenAI 与 Anthropic，也让外界重新审视扎克伯格 AI 投入的持续性。"
+   },
+   "source": "The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeU9hNXZXdU1pQ1FleWRXVXpacW90R3NqNG1NVDB6dUNlNzFDUzhyX0RnRVQycG9WajVLS2h0eXFZalVianhKTHRkdHpuWDR6YWdlVHEzUVowRjl0S1hPQ2EtVjMtc3VtdUgwb0tmMEtzamRodFVBOFQxY3dwV3RzRllTbXI5dUZMWFJhTTRCY0lyaUhTdURiZg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-28",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Mark Zuckerberg’s Meta Agreed to a $17 Billion Settlement—Bernie Sanders Calls It a ‘Good Step Forward,’ But Says 'Much More Needs to Be Done' (UPDATED)",
+    "zh": "Mark Zuckerberg’s Meta Agreed to a $17 Billion Settlement—Bernie Sanders Calls It a ‘Good Step Forward,’ But Says 'Much More Needs to Be Done' (UPDATED)"
+   },
+   "body": {
+    "en": "Meta agreed to a settlement of roughly 17 billion dollars over social media harms, with Bernie Sanders calling it a step forward but far from enough.",
+    "zh": "Meta 就社交媒体危害相关诉讼达成约170亿美元的和解，伯尼·桑德斯称这是向前一步，但远远不够。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQnBmMTBURU1rX3l1TFZyVk5qLTBYVmYwdTN2YVktVTVEVE5RcTRaNURqRmlGMkwtSkRmRVh3bGs0WE9DTnF4UjVzZmJOVTZLUEFMNU92bUtkQ1lOai0zZDVBaHpDYVdBNndLdjNpX2dqQkZfT1NYZjRXN0kwZDB3cTJqSlJQQlFrSUwzZXg3VE1WRUNhMmN5TzIxUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Mark Zuckerberg wanted to cut Meta teams by 60%, but AI agents had other plans",
+    "zh": "Mark Zuckerberg wanted to cut Meta teams by 60%, but AI agents had other plans"
+   },
+   "body": {
+    "en": "Reports say Zuckerberg had wanted to cut Meta teams by 60% as AI agents took over more work, revealing how aggressively AI is reshaping the company's staffing plans.",
+    "zh": "报道称扎克伯格曾希望在AI智能体接管更多工作后将Meta团队裁减60%，显示AI正在深刻改变公司的人员规划。"
+   },
+   "source": "India Today",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOWh2cExIODJuakVnb2F2cDVOemRjdksxVGZkN1dfdlFVRDZMb2FkekNYalNRNmp3dzIwMHI2UWEwbjJLT3BNejJPcUlSOGJWeU1qS0dTZVZURU4xd2pmZURrb19zODYzNTZFdmZtYjFQVUtXQkcwZzhUcXZHdmI1eWVMMzQ3Tnprdnp4a3pYbVRXUDNHLWR0ZnllckpfWVR0bklXQUcyMlB3UmtuVWRWam50WTl6ek9nbDQxUkhHdFc0cE1TNktLNWl1QWxiMGdlWUVPMS1NLS1meFnSAeABQVVfeXFMT051R2l6MnpScmVYSEpOZkdVTjJiQ044bW9qaWFLSTJpcGdnWktlQkRBOW9hN3VWVldJejZZQ3hVNk1NTjRnd1lMbXZDb3FRNUJ0MU1iZmxQU2tOS2EyeHFnbndqMjVKMk1IckJwYm5pMzJoVU5vblBNYk91emxfUk15cjFQNTJtWmpMam13cEhFeFVCMG9qUmxBNnNHOWUzeVhFSFczR1RfdnU4anc2N0I1dWFaYVVqMnV6QkZ1UHFHZEVvU2Z0UE8xUURSSm1CRERrUjA5cWI2T0I5M3VyZDA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-17",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "What did Mark Zuckerberg say in his AI manifesto?",
+    "zh": "What did Mark Zuckerberg say in his AI manifesto?"
+   },
+   "body": {
+    "en": "Zuckerberg publishes an AI manifesto laying out Meta's direction, drawing mainstream explainer coverage of the stance.",
+    "zh": "扎克伯格发布 AI 宣言，阐述 Meta 的路线，主流媒体随即对其立场逐条解读。"
+   },
+   "source": "CBC",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUTFETmEydlBHRkhVY1otN3N0Rjg0TndESVJEUzJvbFlCQ0liMjZyclJYak9TRUVmVlRwWXp0cTUxdXBLeXVnSDQ0WmVnS3VIYWFGQk5FY3E2SlZHbE4wdEc1bFZ0Rm12YTlOamJwUXJnUTVKV1B5NHRJOFlOdDdUUG85Z2tuZ29MZk1WYU5VNm53RUlRbEVv?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "platform",
+ "score": {
+  "total": 92.1,
+  "attention": 94,
+  "centrality": 87,
+  "momentum": 94,
+  "stature": null,
+  "pageviews": 2388445,
+  "citations": 891,
+  "hIndex": 15,
+  "events": 73,
+  "posts": 21,
+  "wikiEn": "Mark Zuckerberg",
+  "wikiZh": "马克·扎克伯格"
+ },
+ "seedRank": 13,
+ "tier": "t1"
+}

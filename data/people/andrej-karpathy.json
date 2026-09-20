@@ -1,0 +1,1130 @@
+{
+ "rank": 31,
+ "id": "andrej-karpathy",
+ "name": {
+  "en": "Andrej Karpathy",
+  "zh": "Andrej Karpathy"
+ },
+ "role": {
+  "en": "Pretraining team, Anthropic",
+  "zh": "Anthropic 预训练团队"
+ },
+ "org": "Anthropic",
+ "region": {
+  "en": "United States / Slovakia",
+  "zh": "美国/斯洛伐克"
+ },
+ "tags": [
+  "Anthropic",
+  "nanoGPT",
+  "Software 2.0",
+  "Vibe coding",
+  "Education",
+  "Eureka Labs"
+ ],
+ "why": {
+  "en": "Founding member of OpenAI and former Tesla AI director. Coined 'Software 2.0' and 'vibe coding'; his teaching material is public infrastructure for how the whole industry understands large models. After 22 months running Eureka Labs he joined Anthropic's pretraining team.",
+  "zh": "OpenAI 创始成员与前 Tesla AI 总监。提出「软件 2.0」与「vibe coding」等被广泛采用的概念框架，其教学内容是全行业理解大模型的公共基础设施。在独立运营 Eureka Labs 22 个月后加入 Anthropic 预训练团队。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@karpathy",
+   "url": "https://x.com/karpathy",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "karpathy.bearblog.dev",
+   "url": "https://karpathy.bearblog.dev/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "karpathy.github.io (archive)",
+   "url": "http://karpathy.github.io/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "karpathy.ai",
+   "url": "https://karpathy.ai/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Medium",
+   "url": "https://medium.com/@karpathy",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Personal site",
+   "url": "https://karpathy.github.io/",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @karpathy",
+   "url": "https://github.com/karpathy",
+   "t": 1
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face @karpathy",
+   "url": "https://huggingface.co/karpathy",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "Anthropic Research",
+   "url": "https://www.anthropic.com/research",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Andrej+Karpathy",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Andrej+Karpathy",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Andrej+Karpathy",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Andrej+Karpathy&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Andrej+Karpathy&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Andrej+Karpathy",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Andrej+Karpathy",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Andrej+Karpathy",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Andrej+Karpathy",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Andrej+Karpathy",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Andrej+Karpathy",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Andrej+Karpathy",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Andrej+Karpathy",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Andrej+Karpathy&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Andrej_Karpathy",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2025-03-01",
+   "kind": "blog",
+   "title": {
+    "en": "The append-and-review note",
+    "zh": "追加与回顾式笔记"
+   },
+   "source": "Bear blog",
+   "url": "https://karpathy.bearblog.dev/",
+   "note": {
+    "en": "One of the seed posts of his Bear blog, started March 2025 — sweeping essays on non-human intelligence sit next to notes on sleep trackers.",
+    "zh": "2025 年 3 月开设的 Bear 博客的早期文章之一 —— 关于非人类智能的宏大论述与睡眠追踪器的随笔并列。"
+   }
+  },
+  {
+   "date": "2024-07-16",
+   "kind": "x",
+   "title": {
+    "en": "Announcing Eureka Labs",
+    "zh": "宣布创立 Eureka Labs"
+   },
+   "source": "X",
+   "url": "https://x.com/karpathy/status/1813263734707790301",
+   "note": {
+    "en": "'We are building a new kind of school that is AI native.'",
+    "zh": "「我们正在建造一所 AI 原生的新型学校。」"
+   }
+  },
+  {
+   "date": "2026-04-30",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Sequoia Ascent 2026 summary",
+    "zh": "Sequoia Ascent 2026 summary"
+   },
+   "source": "karpathy",
+   "url": "https://karpathy.bearblog.dev/sequoia-ascent-2026/",
+   "note": {
+    "en": "His own written summary of the talk he gave at Sequoia's AI Ascent 2026, on where coding with agents currently stands.",
+    "zh": "他为自己在红杉 AI Ascent 2026 上的演讲所写的总结，谈当下用智能体写代码走到了哪一步。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-04-30",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Andrej Karpathy: From Vibe Coding to Agentic Engineering",
+    "zh": "Andrej Karpathy: From Vibe Coding to Agentic Engineering"
+   },
+   "source": "Training Data",
+   "url": "https://podcasts.apple.com/us/podcast/andrej-karpathy-from-vibe-coding-to-agentic-engineering/id1750736528?i=1000764662696&uo=4",
+   "note": {
+    "en": "Long-form conversation with Sequoia's Stephanie Zhan in which he traces the year's shift from vibe coding to agentic engineering.",
+    "zh": "与红杉合伙人 Stephanie Zhan 的长篇对谈，梳理这一年从 vibe coding 到智能体工程的转变。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-03-20",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI",
+    "zh": "Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI"
+   },
+   "source": "No Priors: Artificial Intelligence | T…",
+   "url": "https://podcasts.apple.com/us/podcast/andrej-karpathy-on-code-agents-autoresearch-and-the/id1668002688?i=1000756334966&uo=4",
+   "note": {
+    "en": "He joins Sarah Guo on No Priors to discuss code agents, automated research, and what removing the human from the loop would mean.",
+    "zh": "他做客 Sarah Guo 的 No Priors，讨论代码智能体、自动化科研，以及把人从回路中移除意味着什么。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-02-12",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "microgpt",
+    "zh": "microgpt"
+   },
+   "source": "Andrej Karpathy blog",
+   "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+   "note": {
+    "en": "Introduces microgpt, a 200-line dependency-free Python file that trains and runs a GPT, written as a minimal reference implementation.",
+    "zh": "介绍 microgpt：一个 200 行、无依赖的纯 Python 文件，可训练并运行 GPT，作为最小可读的参考实现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2025-12-19",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "2025 LLM Year in Review",
+    "zh": "2025 LLM Year in Review"
+   },
+   "source": "karpathy",
+   "url": "https://karpathy.bearblog.dev/year-in-review-2025/",
+   "note": {
+    "en": "His year-end review of how the LLM paradigm shifted over 2025.",
+    "zh": "他对 2025 年大模型范式变化的年终回顾。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2025-12-18",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Chemical hygiene",
+    "zh": "Chemical hygiene"
+   },
+   "source": "karpathy",
+   "url": "https://karpathy.bearblog.dev/chemical-hygiene/",
+   "note": {
+    "en": "An evolving personal guide to limiting everyday chemical exposure, part of the health writing he keeps on his blog.",
+    "zh": "一份持续更新的个人指南，讲如何减少日常生活中的化学品暴露，属于他博客上的健康类写作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2025-12-10",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Auto-grading decade-old Hacker News discussions with hindsight",
+    "zh": "Auto-grading decade-old Hacker News discussions with hindsight"
+   },
+   "source": "karpathy",
+   "url": "https://karpathy.bearblog.dev/auto-grade-hn/",
+   "note": {
+    "en": "A vibe-coding thought exercise on using LLMs to grade decade-old Hacker News predictions with the benefit of hindsight.",
+    "zh": "一次 vibe coding 式的思想实验：用大模型以事后视角给十年前的 Hacker News 预测打分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2025-11-29",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "The space of minds",
+    "zh": "The space of minds"
+   },
+   "source": "karpathy",
+   "url": "https://karpathy.bearblog.dev/the-space-of-minds/",
+   "note": {
+    "en": "Essay on the space of possible minds and the optimization processes that produce them.",
+    "zh": "关于“心智空间”及催生各种心智的优化过程的随笔。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2025-11-17",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Verifiability",
+    "zh": "Verifiability"
+   },
+   "source": "karpathy",
+   "url": "https://karpathy.bearblog.dev/verifiability/",
+   "note": {
+    "en": "Argues that how easily a task can be verified explains the jagged shape of what LLMs are and are not good at.",
+    "zh": "论证任务是否易于验证，决定了大模型能力边界为何呈现参差不齐的形状。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2025-10-17",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Andrej Karpathy — AGI is still a decade away",
+    "zh": "Andrej Karpathy — AGI is still a decade away"
+   },
+   "source": "Dwarkesh Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/andrej-karpathy-agi-is-still-a-decade-away/id1516093381?i=1000732326311&uo=4",
+   "note": {
+    "en": "Long-form Dwarkesh Podcast interview in which Karpathy argues AGI is still roughly a decade away and explains why reinforcement learning is a poor fit despite the alternatives being worse.",
+    "zh": "在 Dwarkesh Podcast 的长篇访谈中，Karpathy 认为通用人工智能仍需约十年，并解释了强化学习为何并不理想，却仍好过其他所有方案。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-10-01",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Animals vs Ghosts",
+    "zh": "Animals vs Ghosts"
+   },
+   "source": "karpathy",
+   "url": "https://karpathy.bearblog.dev/animals-vs-ghosts/",
+   "note": {
+    "en": "Argues frontier LLM research is summoning ghosts rather than building animals, a widely quoted framing written in response to Sutton's Dwarkesh interview.",
+    "zh": "提出前沿大模型研究不是在造动物、而是在召唤幽灵，是他回应 Sutton 那期 Dwarkesh 访谈时给出的、被广泛引用的比喻。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2025-04-27",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Vibe coding MenuGen",
+    "zh": "Vibe coding MenuGen"
+   },
+   "source": "karpathy",
+   "url": "https://karpathy.bearblog.dev/vibe-coding-menugen/",
+   "note": {
+    "en": "Work log of building the MenuGen app almost entirely by prompting, the post that put concrete detail behind the term he coined.",
+    "zh": "记录几乎全靠提示词写出 MenuGen 应用的过程，为他自创的 vibe coding 一词补上了具体细节。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2025-04-07",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Power to the people: How LLMs flip the script on technology diffusion",
+    "zh": "Power to the people: How LLMs flip the script on technology diffusion"
+   },
+   "source": "karpathy",
+   "url": "https://karpathy.bearblog.dev/power-to-the-people/",
+   "note": {
+    "en": "Argues LLMs invert the usual pattern of technology diffusion by reaching ordinary people before governments and large corporations.",
+    "zh": "论证大模型颠覆了技术扩散的常规路径：普通人比政府和大企业更早用上它。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2025-03-24",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Finding the Best Sleep Tracker",
+    "zh": "Finding the Best Sleep Tracker"
+   },
+   "source": "karpathy",
+   "url": "https://karpathy.bearblog.dev/finding-the-best-sleep-tracker/",
+   "note": {
+    "en": "Compares consumer sleep trackers against his own measurements to find which ones actually agree with the data.",
+    "zh": "用自己的实测数据比较各款消费级睡眠监测设备，看哪一款的结果真正靠得住。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2024-10-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GPT-4o System Card",
+    "zh": "GPT-4o System Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2410.21276v1",
+   "note": {
+    "en": "OpenAI's system card for GPT-4o, the end-to-end omni model spanning text, audio, image and video; he is a listed author.",
+    "zh": "OpenAI 的 GPT-4o 系统卡，介绍这一端到端、覆盖文本／音频／图像／视频的全模态模型，他是署名作者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-10-29",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#333 – Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI",
+    "zh": "#333 – Andrej Karpathy: Tesla AI, Self-Driving, Optimus, Aliens, and AGI"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/333-andrej-karpathy-tesla-ai-self-driving-optimus-aliens/id1434243584?i=1000584342757&uo=4",
+   "note": {
+    "en": "Karpathy appears as Lex Fridman's guest for a wide-ranging conversation covering his time leading Tesla AI, self-driving, Optimus, and AGI.",
+    "zh": "Karpathy 作为嘉宾登上 Lex Fridman 播客，畅谈他在特斯拉AI团队的经历、自动驾驶、Optimus 机器人与 AGI。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-03-14",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Deep Neural Nets: 33 years ago and 33 years from now",
+    "zh": "Deep Neural Nets: 33 years ago and 33 years from now"
+   },
+   "source": "Andrej Karpathy blog",
+   "url": "http://karpathy.github.io/2022/03/14/lecun1989/",
+   "note": {
+    "en": "Reproduces LeCun's 1989 zip-code recognition network in modern tooling to measure 33 years of progress, then extrapolates the same distance forward.",
+    "zh": "用现代工具复现 LeCun 1989 年的邮编识别网络，量化 33 年的进步，并据此外推未来 33 年。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2021-06-21",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "A from-scratch tour of Bitcoin in Python",
+    "zh": "A from-scratch tour of Bitcoin in Python"
+   },
+   "source": "Andrej Karpathy blog",
+   "url": "http://karpathy.github.io/2021/06/21/blockchain/",
+   "note": {
+    "en": "Builds Bitcoin from scratch in pure Python, from elliptic-curve keys through to a signed transaction on the network.",
+    "zh": "用纯 Python 从零实现比特币，从椭圆曲线密钥一路做到向网络广播一笔签名交易。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2021-03-27",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Short Story on AI: Forward Pass",
+    "zh": "Short Story on AI: Forward Pass"
+   },
+   "source": "Andrej Karpathy blog",
+   "url": "http://karpathy.github.io/2021/03/27/forward-pass/",
+   "note": {
+    "en": "Short story written from inside a language model's forward pass, one of his occasional fiction pieces about AI.",
+    "zh": "以语言模型前向传播的内部视角写成的短篇小说，属于他偶尔创作的 AI 题材虚构作品。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2020-06-11",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Biohacking Lite",
+    "zh": "Biohacking Lite"
+   },
+   "source": "Andrej Karpathy blog",
+   "url": "http://karpathy.github.io/2020/06/11/biohacking-lite/",
+   "note": {
+    "en": "Documents his self-experiment in tracking diet and body composition, treating personal health as a measurement problem.",
+    "zh": "记录他在饮食与身体成分上的自我实验，把个人健康当作一个可测量的问题来处理。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2019-04-25",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "A Recipe for Training Neural Networks",
+    "zh": "A Recipe for Training Neural Networks"
+   },
+   "source": "Andrej Karpathy blog",
+   "url": "http://karpathy.github.io/2019/04/25/recipe/",
+   "note": {
+    "en": "His step-by-step methodology for training neural networks without silent bugs, one of the most widely shared practitioner guides in deep learning.",
+    "zh": "他总结的一套逐步训练神经网络、避免静默错误的方法论，是深度学习领域流传最广的实践指南之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2017-11-11",
+   "ts": "2017-11-11T22:18:53Z",
+   "kind": "blog",
+   "title": {
+    "en": "Software 2.0",
+    "zh": "Software 2.0"
+   },
+   "source": "Stories by Andrej Karpathy on Medium",
+   "url": "https://karpathy.medium.com/software-2-0-a64152b37c35?source=rss-ac9d9a35533e------2",
+   "note": {
+    "en": "Karpathy's essay arguing neural networks are a distinct new paradigm of programming ('Software 2.0') rather than just another ML tool — one of the most cited framings in the field.",
+    "zh": "Karpathy在此文中提出神经网络代表一种全新的编程范式（“Software 2.0”），而非仅是又一种机器学习工具，是该领域被引用最广的观点之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2017-05-31",
+   "ts": "2017-05-31T20:41:38Z",
+   "kind": "blog",
+   "title": {
+    "en": "AlphaGo, in context",
+    "zh": "AlphaGo, in context"
+   },
+   "source": "Stories by Andrej Karpathy on Medium",
+   "url": "https://karpathy.medium.com/alphago-in-context-c47718cb95a5?source=rss-ac9d9a35533e------2",
+   "note": {
+    "en": "Karpathy's essay putting AlphaGo's victory over Lee Sedol into technical and historical context for a general audience.",
+    "zh": "Karpathy撰文从技术和历史角度，为大众读者解读AlphaGo战胜李世石的意义。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2017-05-24",
+   "ts": "2017-05-24T19:09:35Z",
+   "kind": "blog",
+   "title": {
+    "en": "ICML accepted papers institution stats",
+    "zh": "ICML accepted papers institution stats"
+   },
+   "source": "Stories by Andrej Karpathy on Medium",
+   "url": "https://karpathy.medium.com/icml-accepted-papers-institution-stats-bad8d2943f5d?source=rss-ac9d9a35533e------2",
+   "note": {
+    "en": "Karpathy analyzed the institutional breakdown of accepted ICML papers, an early example of his data-driven tracking of research trends.",
+    "zh": "Karpathy分析了ICML录用论文的机构分布情况，是他早期以数据驱动追踪研究趋势的一个例子。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2017-04-07",
+   "ts": "2017-04-07T17:43:46Z",
+   "kind": "blog",
+   "title": {
+    "en": "A Peek at Trends in Machine Learning",
+    "zh": "A Peek at Trends in Machine Learning"
+   },
+   "source": "Stories by Andrej Karpathy on Medium",
+   "url": "https://karpathy.medium.com/a-peek-at-trends-in-machine-learning-ab8a1085a106?source=rss-ac9d9a35533e------2",
+   "note": {
+    "en": "Karpathy used his arxiv-sanity database to chart which machine-learning topics were trending, an early public use of that tool.",
+    "zh": "Karpathy利用其arxiv-sanity数据库统计哪些机器学习主题正在升温，是该工具早期的公开应用之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2017-03-14",
+   "ts": "2017-03-14T02:52:52Z",
+   "kind": "blog",
+   "title": {
+    "en": "ICLR 2017 vs arxiv-sanity",
+    "zh": "ICLR 2017 vs arxiv-sanity"
+   },
+   "source": "Stories by Andrej Karpathy on Medium",
+   "url": "https://karpathy.medium.com/iclr-2017-vs-arxiv-sanity-d1488ac5c131?source=rss-ac9d9a35533e------2",
+   "note": {
+    "en": "Karpathy cross-referenced ICLR 2017 decision outcomes against his arxiv-sanity view counts to test whether popularity predicted acceptance.",
+    "zh": "Karpathy将ICLR 2017的评审结果与其arxiv-sanity的浏览量数据进行交叉比对，考察论文热度是否能预测录用结果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2017-01-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications",
+    "zh": "PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1701.05517v1",
+   "note": {
+    "en": "Improves PixelCNN with a discretized logistic mixture likelihood and other simplifications; co-authored with Salimans, Chen and Kingma at OpenAI.",
+    "zh": "用离散化逻辑斯蒂混合似然等改动改进 PixelCNN，是他在 OpenAI 与 Salimans、Chen、Kingma 合作的论文。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2017-01-17",
+   "ts": "2017-01-17T20:26:49Z",
+   "kind": "blog",
+   "title": {
+    "en": "Virtual Reality: still not quite there, again.",
+    "zh": "Virtual Reality: still not quite there, again."
+   },
+   "source": "Stories by Andrej Karpathy on Medium",
+   "url": "https://karpathy.medium.com/virtual-reality-still-not-quite-there-again-5f51f2b43867?source=rss-ac9d9a35533e------2",
+   "note": {
+    "en": "Karpathy reflected on the state of consumer virtual reality, arguing it still hadn't crossed the threshold to mainstream usefulness.",
+    "zh": "Karpathy分析了消费级虚拟现实的现状，认为其仍未跨过成为主流实用技术的门槛。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2016-12-19",
+   "ts": "2016-12-19T19:50:08Z",
+   "kind": "blog",
+   "title": {
+    "en": "Yes you should understand backprop",
+    "zh": "Yes you should understand backprop"
+   },
+   "source": "Stories by Andrej Karpathy on Medium",
+   "url": "https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b?source=rss-ac9d9a35533e------2",
+   "note": {
+    "en": "Karpathy's widely-read argument that practitioners should understand backpropagation at a low level rather than as a black box, drawn from teaching Stanford's CS231n.",
+    "zh": "Karpathy在这篇广为流传的文章中主张从业者应深入理解反向传播的底层原理，而非将其视为黑箱，内容源自他在斯坦福CS231n课程的教学经验。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2016-09-07",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "A Survival Guide to a PhD",
+    "zh": "A Survival Guide to a PhD"
+   },
+   "source": "Andrej Karpathy blog",
+   "url": "http://karpathy.github.io/2016/09/07/phd/",
+   "note": {
+    "en": "Advice on choosing problems, advisors and research taste during a PhD, drawn from his own time at Stanford.",
+    "zh": "结合他在斯坦福读博的经历，谈如何选题、选导师以及培养研究品味。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2016-05-31",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Deep Reinforcement Learning: Pong from Pixels",
+    "zh": "Deep Reinforcement Learning: Pong from Pixels"
+   },
+   "source": "Andrej Karpathy blog",
+   "url": "http://karpathy.github.io/2016/05/31/rl/",
+   "note": {
+    "en": "Derives policy-gradient reinforcement learning from first principles by training an agent to play Pong from raw pixels in 130 lines of code.",
+    "zh": "用 130 行代码从原始像素训练智能体玩 Pong，从第一性原理推导策略梯度强化学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2015-11-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DenseCap: Fully Convolutional Localization Networks for Dense Captioning",
+    "zh": "DenseCap: Fully Convolutional Localization Networks for Dense Captioning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1511.07571v1",
+   "note": {
+    "en": "Introduces dense captioning and DenseCap, a network that localizes and describes many regions of an image at once; with Johnson and Fei-Fei.",
+    "zh": "提出密集描述任务与 DenseCap 网络，可同时定位并描述图像中的多个区域，与 Johnson、李飞飞合作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2015-11-14",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Short Story on AI: A Cognitive Discontinuity.",
+    "zh": "Short Story on AI: A Cognitive Discontinuity."
+   },
+   "source": "Andrej Karpathy blog",
+   "url": "http://karpathy.github.io/2015/11/14/ai/",
+   "note": {
+    "en": "His first short story, imagining a cognitive discontinuity in a machine mind.",
+    "zh": "他的第一篇短篇小说，设想一台机器心智出现的认知断裂。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2015-06-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Visualizing and Understanding Recurrent Networks",
+    "zh": "Visualizing and Understanding Recurrent Networks"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1506.02078v2",
+   "note": {
+    "en": "Opens up trained character-level LSTMs to show interpretable cells and error types, the analysis behind his 'Unreasonable Effectiveness of RNNs' work.",
+    "zh": "剖析训练好的字符级 LSTM，展示其中可解释的神经元与错误类型，是他“RNN 的超凡效力”一文背后的分析工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2014-12-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Deep Visual-Semantic Alignments for Generating Image Descriptions",
+    "zh": "Deep Visual-Semantic Alignments for Generating Image Descriptions"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1412.2306v2",
+   "note": {
+    "en": "Aligns image regions with sentence fragments in a shared embedding to generate region-level image descriptions; his most cited paper, with Fei-Fei.",
+    "zh": "在共享嵌入空间中把图像区域与句子片段对齐，从而生成区域级图像描述，是他与李飞飞合作、被引用最多的论文。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2014-09-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "ImageNet Large Scale Visual Recognition Challenge",
+    "zh": "ImageNet Large Scale Visual Recognition Challenge"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1409.0575v3",
+   "note": {
+    "en": "The ImageNet challenge paper documenting the benchmark and its results; he built and ran the human-accuracy baseline it reports.",
+    "zh": "ImageNet 挑战赛论文，记录该基准及其结果，其中的人类准确率基线由他亲自完成并给出。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2014-06-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Deep Fragment Embeddings for Bidirectional Image Sentence Mapping",
+    "zh": "Deep Fragment Embeddings for Bidirectional Image Sentence Mapping"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1406.5679v1",
+   "note": {
+    "en": "Matches image fragments to sentence fragments for bidirectional image-sentence retrieval, the precursor to his visual-semantic alignment work.",
+    "zh": "将图像片段与句子片段对应起来实现图文双向检索，是他后续视觉—语义对齐工作的前身。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-05-19",
+   "level": "major",
+   "title": {
+    "en": "Joins Anthropic's pretraining team",
+    "zh": "加入 Anthropic 预训练团队"
+   },
+   "body": {
+    "en": "Reports to Nick Joseph, who leads pretraining research. Eureka Labs ran 22 months as an independent company; Karpathy says he remains deeply passionate about education and plans to resume that work in time.",
+    "zh": "向预训练研究负责人 Nick Joseph 汇报。Eureka Labs 独立运营 22 个月；Karpathy 表示仍对教育抱有深切热情，计划在适当时候重拾这项工作。"
+   },
+   "source": "Anthropic",
+   "url": "https://www.anthropic.com/news"
+  },
+  {
+   "date": "2026-07-16",
+   "level": "minor",
+   "title": {
+    "en": "nanoGPT, nanochat and micrograd pass 120,000 combined GitHub stars",
+    "zh": "nanoGPT、nanochat 与 micrograd 合计超过 12 万 GitHub Star"
+   },
+   "body": {
+    "en": "",
+    "zh": ""
+   },
+   "source": "StartupHub",
+   "url": "https://www.startuphub.ai/ai-news/ai-figures/2026/figure-andrej-karpathy-nano-series-technical-contribution-2026-07-16"
+  },
+  {
+   "date": "2026-08-25",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "OpenAI Co-Founder Andrej Karpathy Joins Anthropic in AI Research Shakeup",
+    "zh": "OpenAI Co-Founder Andrej Karpathy Joins Anthropic in AI Research Shakeup"
+   },
+   "body": {
+    "en": "Karpathy joins Anthropic's pretraining team, putting the OpenAI founding member and former Tesla AI director back inside a frontier lab.",
+    "zh": "Karpathy 加入 Anthropic 预训练团队，这位 OpenAI 创始成员、前特斯拉 AI 总监由此重返前沿实验室。"
+   },
+   "source": "TechRepublic",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM05LdThQX01GS1ZMQmFzNDJKWVhXek5xMmU4b3dyZlppZWJyUVVaRUhpZDB1bEVWNm9DUUI1NDgtVHFfSjJ6YV9jazhGRFQxcVRqeV9uTFlhMFN3T1pXaXdSMUlkT2V6bW0zNE10WV8wcFBobkZobkFIRXg2U1JtOGt0TQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-19",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
+    "zh": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team"
+   },
+   "body": {
+    "en": "Karpathy joined Anthropic's pre-training team, his first full-time lab role since leaving Tesla and OpenAI.",
+    "zh": "Karpathy 加入 Anthropic 预训练团队，这是他离开特斯拉和 OpenAI 后首个全职实验室职位。"
+   },
+   "source": "techcrunch.com",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaF9JTmlDUzMtSlNFM3lhWVdTNFVjMjJtQXlYNXpUUVFOU3N6SWFUbW5wUGpoYVI3SWhuNDctQ2ljaWJjb0RRQ0pYMzZFNmFSdXF5UXFxUVowZTdMUm9HNlM3dk1OOEotR2FIQkIxMkNrdy1UOEZ4ZFRxQTNpbVJjNl9leGVQUFF5dndSU3BVdTd4RFlJLXZmOXRJT2c5aGYtNXFBeFBB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-19",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "OpenAI Founding Member Andrej Karpathy Joins Anthropic",
+    "zh": "OpenAI Founding Member Andrej Karpathy Joins Anthropic"
+   },
+   "body": {
+    "en": "Karpathy, an OpenAI founding member, joined Anthropic's pretraining team, the career move reflected in his current role.",
+    "zh": "OpenAI创始成员之一Karpathy加入了Anthropic的预训练团队，这一职业变动与其当前职位一致。"
+   },
+   "source": "NDTV",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZzNydzhHTE9jWXhybVdhVmNkMXFmQUo3Vzd0RjBEMTZPd05HSHJfSjZfY2tBOUlSbF9qUWVQSUtNQ2IxWnMtR2ZwVE42bHRMUWkyN1RibnZVOGR2alpXcFBXWl9Ua0hEWW4wUVVPbHhoXy1ub0RRSExERU5admdJdUEwY3B6OEhOVmNoLU5hdi1YQnBRaUNzcGRWY9IBowFBVV95cUxPT1ZxZXREaXdfVjBfUHFCSlJVZHN4REV2MzZpWk1PRkJpUVhKY0Y2N1NmZ2tIZDNLcVdoZXBRNENneHl1dzVmTWpWR2VkLUVfeTMtZkVfVjlpV3ZyVEJETGE0RktheDRqZ1pET0lBc202SXRuVUZ2b2tJR0YwNkQ0V1pHNUFIUERIMERCSzNjVFl6Q3cwQk8zWjhXR0J4Vld3U3hz?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-19",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Ex-Tesla AI Director Joins Anthropic: How Andrej Karpathy Switched Sides",
+    "zh": "Ex-Tesla AI Director Joins Anthropic: How Andrej Karpathy Switched Sides"
+   },
+   "body": {
+    "en": "Coverage confirmed Karpathy's move to Anthropic's pretraining team, a career shift.",
+    "zh": "报道证实了Karpathy转向Anthropic预训练团队的职业变动。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUE5FSDhnajFOOHlkNUdPRjVMUjFRSkFRcVBiTzdPbDZtT0VueW5heENuUXgzV1NFMFdIckhhUEJCODdIZTFLUWZRanZLZFRXZUFMUFpWdlc4UWh0QnIxZk11VXJ3QThNSHQtUC1LSWNlWHIyVTRqZTRiTEZPYXJkcTNROURHMnprRk51dVBpQl9mV1ZlODU2V09qTQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-19",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Andrej Karpathy Joins Anthropic",
+    "zh": "Andrej Karpathy Joins Anthropic"
+   },
+   "body": {
+    "en": "Karpathy left his post-Tesla/OpenAI independent work to join Anthropic's pretraining team, a significant career move for the field's most visible AI educator.",
+    "zh": "卡帕西加入Anthropic的预训练团队，这是这位业界最具影响力的AI教育者的一次重要职业转变。"
+   },
+   "source": "The Information",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iMjl0S3E1TjVta0NyYVZOaUFIVXFJU0QzQ3I2ejdKMmtyWS03eUZYZGNwWU9DWk9iRTFTb2kwZm9lUDZfMmpYZU40NWo4OU5OYm4zaGVzUV94OFpGZGlvZk56WEt4b1hYZ3V5U3phYjZzRWEwZ1lvTHBSNGQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-19",
+   "ts": "2026-05-19T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Andrej Karpathy joins Anthropic to lead pretraining research | Ukraine news - Межа. Новини України.",
+    "zh": "Andrej Karpathy joins Anthropic to lead pretraining research | Ukraine news - Межа. Новини України."
+   },
+   "body": {
+    "en": "Karpathy joined Anthropic to lead pretraining research, following his departure from OpenAI.",
+    "zh": "Karpathy在离开OpenAI后加入Anthropic，负责领导预训练研究工作。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12LS14QVNVQ2RTdHlSNlFuQXV4dUZka3BEMS1JWm1oYmRBWnpmWlhTVkFyclZ6b0xPNGV1X1lXNnJOSTFuR2hXQlIxaC1vZnlVYVRIQVJFZzFkeFVOY1E0c2g5T3p2QkpBOERv?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-19",
+   "ts": "2026-05-19T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Andrej Karpathy's move to Anthropic is a major win for the AI giant in the talent wars",
+    "zh": "Andrej Karpathy's move to Anthropic is a major win for the AI giant in the talent wars"
+   },
+   "body": {
+    "en": "Karpathy joined Anthropic's pretraining team, a headline hire in the ongoing AI talent wars.",
+    "zh": "Karpathy加入Anthropic预训练团队，是AI人才争夺战中的重磅招聘。"
+   },
+   "source": "AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3MTFjVnctVk5lZVkybTBFRUt3c0RyZ2pWMTNYYWV2Q0dqSXJxS1haYVlUYXYtdnA5OUJvcXh6N0xDR0pwX2ctbDFLZ3R6UDNVZnZKVHQ2OXdoWVg0U2l3R0xpQ1JHM2poejdyZUNJWXNNdFdZVG1HNE9VMkZ0N0k?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-19",
+   "ts": "2026-05-19T17:20:09Z",
+   "level": "major",
+   "title": {
+    "en": "Andrej Karpathy, the Co-founder of OpenAI Joins Anthropic: A Seismic Move in the AI Landscape",
+    "zh": "Andrej Karpathy, the Co-founder of OpenAI Joins Anthropic: A Seismic Move in the AI Landscape"
+   },
+   "body": {
+    "en": "Andrej Karpathy, OpenAI co-founder and former Tesla AI director, joined Anthropic's pretraining team — a major career move for the field's most influential AI educator.",
+    "zh": "OpenAI联合创始人、前特斯拉AI总监安德烈·卡帕西加入Anthropic预训练团队，这是这位业界最具影响力的AI教育者的一次重大职业变动。"
+   },
+   "source": "bbntimes.com",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNelVnRWd3YW14NDZJX1JLRVdTaWE4aURYLXludk9XVEpZMmp1UUdXb3F1aDdUNlF5UVlFcEYtbTJwNG9jOERCX3A5Ui1HQVRCOFY3X1lsMGlFc2dJMHBnRlRtbjlGMmZ4V2NjZ2dIVDFORmZTeXhMNEp0UWY0Sm8xTHZ3eHJXQ0lSVXBYWnZ1aThJMUVSZ0JPTUNtdmhhSnlWV2NOUUNXUDc0UVNRcGQwYm5PSHNyd2ZYMjlNLWlMWXptQzJ4RXc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-19",
+   "ts": "2026-05-19T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "OpenAI Co-founder Andrej Karpathy Joins Anthropic",
+    "zh": "OpenAI Co-founder Andrej Karpathy Joins Anthropic"
+   },
+   "body": {
+    "en": "Reports confirmed OpenAI co-founder Andrej Karpathy left his independent project to join Anthropic's pretraining team, a major career move for one of the field's most influential educators.",
+    "zh": "报道证实OpenAI联合创始人Andrej Karpathy离开个人项目，加入Anthropic预训练团队，这是这位业内极具影响力的教育者的重大职业变动。"
+   },
+   "source": "Blockchain Council",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUjR1MXBWblhXQnFMcUhZMmlMQWFYU1BEWG1pckRQRmNPRjFmLVUzbXVSSlh5QkUzeUdHbTFiRFAyci1oNENyam4tcjh4NXpRM3lUSXNkcldEbDhVaVBBQUE5NlRSX3dsd0IzVDgwUVREYTNrRng4Z3BxdEZSNEF4Ukp0c3RRSVZIWHhFZS0zM3Rwc0Ff?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-19",
+   "ts": "2026-05-19T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Ex-Tesla AI Director Joins Anthropic: How Andrej Karpathy Switched Sides",
+    "zh": "Ex-Tesla AI Director Joins Anthropic: How Andrej Karpathy Switched Sides"
+   },
+   "body": {
+    "en": "Karpathy left Tesla to join Anthropic's pretraining team, a major career move for one of the field's most visible educators and an OpenAI founding member.",
+    "zh": "卡帕西离开特斯拉，加入Anthropic预训练团队，这是这位OpenAI创始成员、知名AI教育者的一次重大职业转变。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeS1ka0hkQklLTnZJVU9RVDY5bW91RWtWSEdHWHNwY3FCRklJS1lvQXhiUFcxbndFYXBEOG5YYWhQWFFyb0dLN2NBd1EzYXF3ZUZNUHFxMi1XTC15YlFudUkyR1lHaEdJaVpWMEU3dnY4NnlhcHRUVmdsZ1FNblR1YzVzZUZteDN6TVhkVVE0SklZSHBCcW84QnFNNWVxSWtVZVZsWEpuc0MwZV9Za1dSMUJ5c0VaRTZzbVUzNVYtblYxb3BwLTV0aENubmg5YnI4VWhicw?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": true,
+ "was": {
+  "en": "Founder, Eureka Labs",
+  "zh": "Eureka Labs 创始人"
+ },
+ "cat": "lab",
+ "score": {
+  "total": 62.9,
+  "attention": 79,
+  "centrality": 46,
+  "momentum": 52,
+  "stature": 63,
+  "pageviews": 695645,
+  "citations": 58963,
+  "hIndex": 20,
+  "events": 12,
+  "posts": 39,
+  "wikiEn": "Andrej Karpathy",
+  "wikiZh": "安德烈·卡帕西"
+ },
+ "seedRank": 74,
+ "tier": "t2"
+}

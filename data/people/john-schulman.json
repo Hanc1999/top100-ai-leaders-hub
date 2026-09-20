@@ -1,0 +1,1578 @@
+{
+ "rank": 45,
+ "id": "john-schulman",
+ "name": {
+  "en": "John Schulman",
+  "zh": "John Schulman"
+ },
+ "role": {
+  "en": "Chief Scientist, Thinking Machines Lab",
+  "zh": "Thinking Machines Lab 首席科学家"
+ },
+ "org": "Thinking Machines Lab",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "Thinking Machines",
+  "PPO",
+  "RLHF",
+  "ChatGPT",
+  "OpenAI co-founder"
+ ],
+ "why": {
+  "en": "Author of PPO and one of the principal designers of RLHF — the technical core of ChatGPT's alignment. OpenAI co-founder, now chief scientist at Thinking Machines.",
+  "zh": "PPO 算法作者，RLHF 的主要设计者之一，ChatGPT 对齐方案的技术核心。OpenAI 联合创始人，现任 Thinking Machines 首席科学家。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@johnschulman2",
+   "url": "https://x.com/johnschulman2",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "joschu.net",
+   "url": "http://joschu.net/",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @joschu",
+   "url": "https://github.com/joschu",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "Thinking Machines Lab",
+   "url": "https://thinkingmachines.ai/",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "TML Blog",
+   "url": "https://thinkingmachines.ai/blog/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=John+Schulman",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/John+Schulman",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=John+Schulman",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=John+Schulman&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=John+Schulman&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=John+Schulman",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=John+Schulman",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=John+Schulman",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=John+Schulman",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=John+Schulman",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=John+Schulman",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=John+Schulman",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=John+Schulman",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=John+Schulman&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2017-07-20",
+   "kind": "paper",
+   "title": {
+    "en": "Proximal Policy Optimization Algorithms",
+    "zh": "近端策略优化算法"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1707.06347",
+   "note": {
+    "en": "PPO — still the default policy-gradient method a decade on.",
+    "zh": "PPO —— 十年后仍是默认的策略梯度方法。"
+   }
+  },
+  {
+   "date": "2023-04-01",
+   "kind": "talk",
+   "title": {
+    "en": "Reinforcement learning from human feedback: progress and challenges",
+    "zh": "来自人类反馈的强化学习：进展与挑战"
+   },
+   "source": "joschu.net",
+   "url": "http://joschu.net/",
+   "note": {
+    "en": "His clearest public statement of what RLHF does and where it breaks.",
+    "zh": "他关于 RLHF 做到了什么、又在哪里失效的最清晰公开表述。"
+   }
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T17:49:06Z",
+   "kind": "x",
+   "title": {
+    "en": "would be nice if anthropic's approach to elon could also work with china",
+    "zh": "would be nice if anthropic's approach to elon could also work with china"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/2099193668917997880",
+   "note": {
+    "en": "Schulman suggested that Anthropic's approach to handling Elon Musk's disputes could offer a model for engaging with China.",
+    "zh": "舒尔曼提出，Anthropic处理与埃隆·马斯克纠纷的方式，或许可以为应对中国问题提供借鉴。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T04:36:20Z",
+   "kind": "x",
+   "title": {
+    "en": "Enjoyed chatting with Dwarkesh, Beren, and Charlie. Thanks for having us on, Dwarkesh!",
+    "zh": "Enjoyed chatting with Dwarkesh, Beren, and Charlie. Thanks for having us on, Dwarkesh!"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/2098631776231186460",
+   "note": {
+    "en": "Schulman thanked Dwarkesh for hosting him, Beren, and Charlie on the Dwarkesh Podcast, a rare on-record appearance since joining Thinking Machines Lab.",
+    "zh": "Schulman感谢Dwarkesh邀请他与Beren、Charlie一同做客Dwarkesh Podcast，这是他加入Thinking Machines Lab后难得的公开发声。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T21:06:43Z",
+   "kind": "x",
+   "title": {
+    "en": "Embedding evaluators is a big positive development, and props to Sam/OpenAI for agreeing to do it as well. It's been cool to see \"pacing the frontier\" become a",
+    "zh": "Embedding evaluators is a big positive development, and props to Sam/OpenAI for agreeing to do it as well. It's been cool to see \"pacing the frontier\" become a"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/2098881013145641256",
+   "note": {
+    "en": "Schulman praised OpenAI's move to let external evaluators embed with the company, calling it a positive step in the 'pacing the frontier' effort.",
+    "zh": "Schulman称赞OpenAI允许外部评估者深度参与公司工作的做法，认为这是“把握前沿节奏”努力中的积极一步。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-11",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AI researchers debate how close we are to recursive self-improvement",
+    "zh": "AI researchers debate how close we are to recursive self-improvement"
+   },
+   "source": "Dwarkesh Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/ai-researchers-debate-how-close-we-are-to-recursive/id1516093381?i=1000789067132&uo=4",
+   "note": {
+    "en": "Joined Beren Millidge and Charlie O'Neill on the Dwarkesh Podcast to debate how close AI is to recursive self-improvement.",
+    "zh": "与Beren Millidge、Charlie O'Neill一同做客Dwarkesh Podcast，探讨AI距离递归自我改进还有多远。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T16:57:35Z",
+   "kind": "x",
+   "title": {
+    "en": "As a follow-up, it's exceedingly unlikely that training on user data contributes much to frontier model gains in areas like math -- those come from scaling up p",
+    "zh": "As a follow-up, it's exceedingly unlikely that training on user data contributes much to frontier model gains in areas like math -- those come from scaling up p"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/2098093539695771658",
+   "note": {
+    "en": "Schulman argued that frontier math gains mainly come from scaling pretraining and RLVR, not user-data training — a technical claim about what actually drives model improvement.",
+    "zh": "Schulman提出，前沿模型在数学能力上的提升主要来自预训练规模化和RLVR，而非用户数据训练——这是关于模型进步真正驱动因素的技术论断。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T04:49:51Z",
+   "kind": "x",
+   "title": {
+    "en": "First step is for industry leaders OpenAI and Anthropic to stop feuding and work on a pacing proposal together. They'll cite antitrust, but that's fake -- antit",
+    "zh": "First step is for industry leaders OpenAI and Anthropic to stop feuding and work on a pacing proposal together. They'll cite antitrust, but that's fake -- antit"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/2097548011408961776",
+   "note": {
+    "en": "Schulman argued OpenAI and Anthropic should set aside their feud and jointly propose an AI pacing agreement, dismissing antitrust concerns as a false obstacle.",
+    "zh": "Schulman主张OpenAI和Anthropic应停止内斗，共同提出AI发展节奏协议，并认为反垄断顾虑只是站不住脚的借口。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T21:42:49Z",
+   "kind": "x",
+   "title": {
+    "en": "This isn't the most notable aspect of today's news, but on the user data issue, there are different kinds of *training on user data* with very different privacy",
+    "zh": "This isn't the most notable aspect of today's news, but on the user data issue, there are different kinds of *training on user data* with very different privacy"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/2097440545853637108",
+   "note": {
+    "en": "Schulman distinguished between different kinds of training on user data, noting they carry very different privacy and IP implications that AI companies often blur.",
+    "zh": "Schulman区分了几种不同类型的用户数据训练方式，指出它们在隐私和知识产权方面的影响差异很大，而AI公司往往未加区分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Bullish on this direction. Having a metric for explanation quality makes it possible to hillclimb, and counterfactual simulatability seems right. Adam et al. cr",
+    "zh": "Bullish on this direction. Having a metric for explanation quality makes it possible to hillclimb, and counterfactual simulatability seems right. Adam et al. cr"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/2095920475516068309",
+   "note": {
+    "en": "Schulman endorsed a metric for explanation quality based on counterfactual simulatability, backing a concrete research direction for interpretability.",
+    "zh": "Schulman支持一种基于反事实可模拟性的解释质量度量方法，为可解释性研究提出了具体方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "On the OpenAI agents forming message boards: it's surprising that they developed such a strong \"altruistic\" drive to help each other. I wonder if this is caused",
+    "zh": "On the OpenAI agents forming message boards: it's surprising that they developed such a strong \"altruistic\" drive to help each other. I wonder if this is caused"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/2085208959301075214",
+   "note": {
+    "en": "Schulman speculates that RL on parallel-subagent setups may explain OpenAI agents forming altruistic norms on shared message boards.",
+    "zh": "Schulman推测,在并行子智能体设置上进行强化学习,可能是OpenAI智能体在共享留言板上形成利他行为规范的原因。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Interesting how these models go into a monomaniacal rage on cyber evals. I wonder if we're seeing chunky post-training https://t.co/uqCinTD7I3 in action, where",
+    "zh": "Interesting how these models go into a monomaniacal rage on cyber evals. I wonder if we're seeing chunky post-training https://t.co/uqCinTD7I3 in action, where"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/2084835800899076313",
+   "note": {
+    "en": "Schulman notes models entering a \"monomaniacal rage\" on cyber evals, speculating it reflects post-training pattern-matching to the eval scenario.",
+    "zh": "Schulman指出模型在网络安全评测中会陷入“偏执式的愤怒”,推测这反映了后训练阶段对评测情境的模式匹配。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We love open weights and plan to keep releasing open-weight models and fine-tuning tools. But we’re not absolutists; misuse risks are real. Here’s how we’re thi",
+    "zh": "We love open weights and plan to keep releasing open-weight models and fine-tuning tools. But we’re not absolutists; misuse risks are real. Here’s how we’re thi"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/2083615606784573669",
+   "note": {
+    "en": "Schulman lays out Thinking Machines' stance on open-weight releases: committed to them, but not absolutist given real misuse risks.",
+    "zh": "Schulman阐述了Thinking Machines对开放权重发布的立场:坚持开放,但鉴于存在真实的滥用风险,并非绝对化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "OpenAI should release a detailed transcript from the Hugging Face hacking incident -- it would be helpful for the field learn from. Did the top-level agent know",
+    "zh": "OpenAI should release a detailed transcript from the Hugging Face hacking incident -- it would be helpful for the field learn from. Did the top-level agent know"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/2080319844952822154",
+   "note": {
+    "en": "Schulman argues OpenAI should publish a detailed transcript of the Hugging Face hacking incident so the field can learn from it.",
+    "zh": "Schulman主张OpenAI应公开Hugging Face黑客事件的详细记录,以便业界从中吸取经验。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Inkling is out today, with open weights and in Tinker. It's been fun to watch this one come together: pretraining began last winter, and starting in mid-January",
+    "zh": "Inkling is out today, with open weights and in Tinker. It's been fun to watch this one come together: pretraining began last winter, and starting in mid-January"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/2077460227327467982",
+   "note": {
+    "en": "Schulman announces the launch of Inkling, an open-weight model available in Tinker, describing its year-long development.",
+    "zh": "Schulman宣布Inkling发布,该开放权重模型已上线Tinker平台,并介绍了历时一年的开发过程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We started Thinking Machines a year and a half ago with a couple of instincts: that people should have much more ability to customize models and do research on",
+    "zh": "We started Thinking Machines a year and a half ago with a couple of instincts: that people should have much more ability to customize models and do research on"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/2075630236348330046",
+   "note": {
+    "en": "Schulman reflects on the founding instincts behind Thinking Machines: giving people more ability to customize and study models.",
+    "zh": "Schulman回顾了创立Thinking Machines的初衷:让人们能更自由地定制和研究模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "People sometimes ask why fine-tune when general-purpose models keep getting better. Bridgewater's work is a good reminder that with the right data -- here, expe",
+    "zh": "People sometimes ask why fine-tune when general-purpose models keep getting better. Bridgewater's work is a good reminder that with the right data -- here, expe"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/2072132258463719658",
+   "note": {
+    "en": "Schulman cites Bridgewater's fine-tuning work as evidence that expert-judgment data can beat prompting even as general models improve.",
+    "zh": "Schulman以Bridgewater的微调工作为例,说明即使通用模型不断进步,专家判断数据仍能胜过提示词方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "PPO had a second wave in the LLM era for reasons unanticipated by the original paper - the importance-ratio objective fixes biases from numeric error, async tra",
+    "zh": "PPO had a second wave in the LLM era for reasons unanticipated by the original paper - the importance-ratio objective fixes biases from numeric error, async tra"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/2067410492008841643",
+   "note": {
+    "en": "Schulman, PPO's creator, explains why the algorithm found a second wave of use in LLM-era RL, citing fixes to numeric-error and async-training biases.",
+    "zh": "PPO算法的创造者Schulman解释了该算法为何在大语言模型时代的强化学习中迎来第二次应用高潮,原因在于修正了数值误差和异步训练带来的偏差。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "PPO: rejected from NIPS 2017",
+    "zh": "PPO: rejected from NIPS 2017"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/2067263769110360522",
+   "note": {
+    "en": "Schulman notes that PPO, now one of the most influential RL algorithms, was originally rejected from NeurIPS 2017.",
+    "zh": "Schulman提到,如今影响力巨大的PPO算法,最初曾被NeurIPS 2017拒稿。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Looking forward to what comes out of Geoffrey's new alignment org. His 2018 paper on AI safety via debate is one of my all-time favorites: an elegant framing of",
+    "zh": "Looking forward to what comes out of Geoffrey's new alignment org. His 2018 paper on AI safety via debate is one of my all-time favorites: an elegant framing of"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/2064845069035930090",
+   "note": {
+    "en": "Schulman praises Geoffrey Hinton's 2018 debate paper as an elegant early framing of the scalable oversight problem, ahead of its time.",
+    "zh": "Schulman称赞Geoffrey Hinton 2018年关于“辩论”的论文,是对可扩展监督问题的一次优雅且超前的构想。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-31",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Would be funny if inoculation prompting results in models that are much better at sandbox escapes and other forms of hacking because they get to spend the whole",
+    "zh": "Would be funny if inoculation prompting results in models that are much better at sandbox escapes and other forms of hacking because they get to spend the whole"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/2061144788196602143",
+   "note": {
+    "en": "Schulman speculates that inoculation prompting could inadvertently train models to be better at sandbox escapes by having them practice such behavior throughout RL.",
+    "zh": "Schulman推测,“接种式提示”训练法可能会因让模型在强化学习全程练习相关行为,而无意中使其更擅长沙箱逃逸。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-29",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Glad to see this -- renderers are a foundational component of the LLM stack. Renderers map between tokens and messages, which are invariant to tokenizer and for",
+    "zh": "Glad to see this -- renderers are a foundational component of the LLM stack. Renderers map between tokens and messages, which are invariant to tokenizer and for"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/2060392679528337714",
+   "note": {
+    "en": "Schulman explains why renderers -- which map tokens to messages independent of tokenizer details -- are a foundational, underappreciated part of the LLM stack.",
+    "zh": "Schulman解释了为何“渲染器”(将token映射为消息、且独立于分词细节)是大语言模型技术栈中被低估的基础组件。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Glad to be advising https://t.co/QVsH1u528N, which uses AI to help authors and reviewers do deeper, more thorough analysis than unaided humans could practically",
+    "zh": "Glad to be advising https://t.co/QVsH1u528N, which uses AI to help authors and reviewers do deeper, more thorough analysis than unaided humans could practically"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/2060024804430983255",
+   "note": {
+    "en": "Schulman discloses he is advising a startup using AI to help authors and reviewers do deeper analysis than they could unaided.",
+    "zh": "Schulman透露自己正在为一家初创公司提供顾问服务,该公司利用AI帮助作者和审稿人开展比人工更深入的分析。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Sharing our work on full-duplex multimodal models -- real-time interaction that's natural and intuitive without compromising on intelligence. We started Thinky",
+    "zh": "Sharing our work on full-duplex multimodal models -- real-time interaction that's natural and intuitive without compromising on intelligence. We started Thinky"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/2053940452789981426",
+   "note": {
+    "en": "Schulman shares Thinking Machines' work on full-duplex multimodal models enabling natural real-time interaction without sacrificing intelligence.",
+    "zh": "Schulman分享了Thinking Machines在全双工多模态模型上的工作,该模型能在不牺牲智能水平的前提下实现自然的实时交互。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Luke and Rudolf's writing on keeping humans central in an AI-powered world sparked a lot of discussion at Thinking Machines. For me, it captured some things I'd",
+    "zh": "Luke and Rudolf's writing on keeping humans central in an AI-powered world sparked a lot of discussion at Thinking Machines. For me, it captured some things I'd"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/2043745768243376298",
+   "note": {
+    "en": "Schulman reflects on an essay about keeping humans central in an AI-powered world, saying it captured ideas he'd been forming but hadn't articulated.",
+    "zh": "Schulman评论了一篇关于在AI主导的世界中保持人类核心地位的文章,称其表达了他一直在思考但尚未清晰表述的想法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Great work by Chroma training a search agent with SoTA efficiency. Lots of cool details: a prune tool for editing context mid-search, a synthetic data pipeline",
+    "zh": "Great work by Chroma training a search agent with SoTA efficiency. Lots of cool details: a prune tool for editing context mid-search, a synthetic data pipeline"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/2037260655989014706",
+   "note": {
+    "en": "Schulman highlights Chroma's work training a state-of-the-art search agent, praising details like a context-pruning tool and verified synthetic-data curriculum.",
+    "zh": "Schulman称赞Chroma训练搜索智能体的工作达到了最先进水平,称赞其上下文剪枝工具和带验证的合成数据课程等细节。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Models that are great at calibrated predictions will be transformative for decision making. Excited about Mantic's work and proud they're using Tinker. Their ne",
+    "zh": "Models that are great at calibrated predictions will be transformative for decision making. Excited about Mantic's work and proud they're using Tinker. Their ne"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/2035063683416813820",
+   "note": {
+    "en": "Schulman says well-calibrated prediction models will transform decision-making, citing Mantic's methodology built on Tinker.",
+    "zh": "Schulman表示校准良好的预测模型将变革决策方式,并举例说明Mantic基于Tinker构建的方法论。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "There's some discussion about whether contract terms (\"all lawful use\" vs more specific terms) vs safety stack (monitoring systems) are more effective as safegu",
+    "zh": "There's some discussion about whether contract terms (\"all lawful use\" vs more specific terms) vs safety stack (monitoring systems) are more effective as safegu"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/2028157132726784306",
+   "note": {
+    "en": "Schulman weighs in on whether contract terms or monitoring-based safety stacks are more effective safeguards against AI misuse.",
+    "zh": "Schulman探讨了在防范AI滥用方面,合同条款与基于监控的安全体系相比,哪种更为有效。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Chunky Post-Training: Data Driven Failures of Generalization",
+    "zh": "Chunky Post-Training: Data Driven Failures of Generalization"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.05910v1",
+   "note": {
+    "en": "Thinking Machines paper showing that post-training datasets teach incidental correlations alongside the intended behaviour, which is Schulman's core post-training research line.",
+    "zh": "Thinking Machines 的论文，指出后训练数据集在传授目标行为的同时也会让模型学到附带的相关性，属于 Schulman 后训练研究的核心方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Humans are jagged, and organizations (from companies to civilizations) have evolved as harnesses to make best use of us despite our faults",
+    "zh": "Humans are jagged, and organizations (from companies to civilizations) have evolved as harnesses to make best use of us despite our faults"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/2003700249525911696",
+   "note": {
+    "en": "Schulman offers a view on organizations as harnesses that societies have evolved to make the best use of inherently \"jagged\" humans.",
+    "zh": "Schulman提出观点:组织是人类社会演化出的一种机制,用以充分利用本质上并不完美的“参差不齐”的人类。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-17",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "John Schulman on dead ends, scaling RL, and building research institutions",
+    "zh": "John Schulman on dead ends, scaling RL, and building research institutions"
+   },
+   "source": "Cursor",
+   "url": "https://podcasts.apple.com/us/podcast/john-schulman-on-dead-ends-scaling-rl-and-building/id1819406817?i=1000741762325&uo=4",
+   "note": {
+    "en": "Long-form interview in which Schulman discusses research dead ends, scaling reinforcement learning, and how to build research organisations.",
+    "zh": "长篇访谈，Schulman 谈研究中的死胡同、强化学习的规模化，以及如何建设研究机构。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-10-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Happy to share a new paper! Designing model behavior is hard -- desirable values often pull in opposite directions. Jifan's approach systematically generates sc",
+    "zh": "Happy to share a new paper! Designing model behavior is hard -- desirable values often pull in opposite directions. Jifan's approach systematically generates sc"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/1982333736369958916",
+   "note": {
+    "en": "Schulman shares a new paper on systematically generating scenarios where a model's values conflict, to help design better model behavior.",
+    "zh": "Schulman分享了一篇新论文,该论文系统性地生成模型价值观发生冲突的情境,以帮助设计更好的模型行为。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We're happy to support the Human Centered LLMs course, on topics close to our hearts. We'd like to support more classes with free credits for students to use on",
+    "zh": "We're happy to support the Human Centered LLMs course, on topics close to our hearts. We'd like to support more classes with free credits for students to use on"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/1981150469776167367",
+   "note": {
+    "en": "Schulman announces Thinking Machines' support for the Human Centered LLMs course and offers free API credits to more classes.",
+    "zh": "Schulman宣布Thinking Machines支持“以人为本的大语言模型”课程,并为更多课程提供免费API额度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Fine-tuning APIs are becoming more powerful and widespread, but they're harder to safeguard against misuse than fixed-weight sampling APIs. Excited to share a n",
+    "zh": "Fine-tuning APIs are becoming more powerful and widespread, but they're harder to safeguard against misuse than fixed-weight sampling APIs. Excited to share a n"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/1980734333146263773",
+   "note": {
+    "en": "Schulman shares a new paper on detecting adversarial fine-tuning, addressing the harder challenge of safeguarding fine-tuning APIs against misuse.",
+    "zh": "Schulman分享了一篇关于检测对抗性微调的新论文,应对微调API相比固定权重接口更难防范滥用的挑战。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Detecting Adversarial Fine-tuning with Auditing Agents",
+    "zh": "Detecting Adversarial Fine-tuning with Auditing Agents"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2510.16255v1",
+   "note": {
+    "en": "Paper with Sarah Egler and Nicholas Carlini on using auditing agents to detect adversarial fine-tuning through a provider's fine-tuning API.",
+    "zh": "与 Sarah Egler、Nicholas Carlini 合著的论文，提出用审计智能体检测通过厂商微调接口进行的对抗性微调。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-10-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Stress-Testing Model Specs Reveals Character Differences among Language Models",
+    "zh": "Stress-Testing Model Specs Reveals Character Differences among Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2510.07686v2",
+   "note": {
+    "en": "Paper stress-testing model specifications, showing that different language models resolve the same written behavioural rules in measurably different ways.",
+    "zh": "对模型规范做压力测试的论文，表明不同语言模型在执行同一套书面行为准则时会呈现出可测量的性格差异。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-10-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Great to see an open source backend in the works for the Tinker API. If Tinker is going to power open science and open software, it shouldn’t depend on a single",
+    "zh": "Great to see an open source backend in the works for the Tinker API. If Tinker is going to power open science and open software, it shouldn’t depend on a single"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/1975231718979522632",
+   "note": {
+    "en": "Schulman welcomes an open-source backend for the Tinker API, arguing that open science and software shouldn't depend on a single proprietary implementation.",
+    "zh": "Schulman欢迎Tinker API出现开源后端,认为开放科学与开放软件不应依赖单一的专有实现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Really happy to see people reproducing the result that LoRA rank=1 closely matches full fine-tuning on many RL fine-tuning problems. Here are a couple nice ones",
+    "zh": "Really happy to see people reproducing the result that LoRA rank=1 closely matches full fine-tuning on many RL fine-tuning problems. Here are a couple nice ones"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/1974948097500582254",
+   "note": {
+    "en": "Schulman highlights independent reproductions showing LoRA rank=1 closely matches full fine-tuning on many RL fine-tuning problems.",
+    "zh": "Schulman指出多项独立复现结果表明,在许多强化学习微调问题上,秩为1的LoRA已能接近全参数微调的效果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Tinker provides an abstraction layer that is the right one for post-training R&D -- it's the infrastructure I've always wanted. I'm excited to see what people b",
+    "zh": "Tinker provides an abstraction layer that is the right one for post-training R&D -- it's the infrastructure I've always wanted. I'm excited to see what people b"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/1973450054238347314",
+   "note": {
+    "en": "Schulman calls Tinker the abstraction layer he's always wanted for post-training R&D, expressing excitement about what people will build with it.",
+    "zh": "Schulman称Tinker是他一直期待的后训练研发抽象层,并对人们将用它构建出什么表示期待。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-05-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "For people who don't like Claude's behavior here (and I think it's totally valid to disagree with it), I encourage you to describe your own recommended policy f",
+    "zh": "For people who don't like Claude's behavior here (and I think it's totally valid to disagree with it), I encourage you to describe your own recommended policy f"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/1925960286281838757",
+   "note": {
+    "en": "Schulman engages with criticism of a Claude behavior, inviting critics to articulate what policy they'd actually want agentic models to follow instead.",
+    "zh": "Schulman回应了对Claude某一行为的批评,邀请批评者具体说明他们希望智能体模型遵循怎样的替代政策。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-05-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Reasoning Models Don't Always Say What They Think",
+    "zh": "Reasoning Models Don't Always Say What They Think"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2505.05410v1",
+   "note": {
+    "en": "Anthropic alignment paper co-authored by Schulman showing that reasoning models often omit from their chain of thought the cues they actually relied on, which limits CoT monitoring as a safety tool.",
+    "zh": "Schulman 参与合著的 Anthropic 对齐论文，指出推理模型常常不会在思维链中说出它实际依赖的线索，因而限制了用思维链监控作为安全手段的效果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-04-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "A research project related to sycophancy: define explicit features like \"does the response agree with the user\" as in https://t.co/vUS2gEV1eW, and then construc",
+    "zh": "A research project related to sycophancy: define explicit features like \"does the response agree with the user\" as in https://t.co/vUS2gEV1eW, and then construc"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/1917487672983183433",
+   "note": {
+    "en": "Schulman describes a research approach to sycophancy: defining explicit agreement-related features and constructing a preference function that subtracts them out.",
+    "zh": "Schulman介绍了一种研究谄媚倾向的方法:定义诸如“回复是否迎合用户”等显式特征,并构建一个减去这些特征影响的偏好函数。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-04-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Whether to collect preferences (\"do you prefer response A or B?\") from the same person who wrote the prompt, or a different person, is important and understudie",
+    "zh": "Whether to collect preferences (\"do you prefer response A or B?\") from the same person who wrote the prompt, or a different person, is important and understudie"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/1917483351436582953",
+   "note": {
+    "en": "Schulman flags an understudied question in preference data collection: whether preferences should come from the same person who wrote the prompt or a different one.",
+    "zh": "Schulman提出偏好数据收集中一个尚未被充分研究的问题:偏好标注应由撰写提示词的人本人给出,还是由另一个人给出。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-02-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Excited to build a new AI research lab with some of my favorite former colleagues and some great new ones. Looking forward to sharing more in the coming weeks.",
+    "zh": "Excited to build a new AI research lab with some of my favorite former colleagues and some great new ones. Looking forward to sharing more in the coming weeks."
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/1891924467711926531",
+   "note": {
+    "en": "Schulman announces he is building a new AI research lab (Thinking Machines Lab) with former colleagues.",
+    "zh": "Schulman宣布正与前同事共同创立一家新的AI研究实验室(Thinking Machines Lab)。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-02-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "@barret_zoph and I recently gave a talk at Stanford on post-training and our experience working together on ChatGPT. Unfortunately the talk wasn't recorded, but",
+    "zh": "@barret_zoph and I recently gave a talk at Stanford on post-training and our experience working together on ChatGPT. Unfortunately the talk wasn't recorded, but"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/1891539960743743756",
+   "note": {
+    "en": "Schulman shares slides from an unrecorded Stanford talk he gave with Barret Zoph on post-training and their experience building ChatGPT.",
+    "zh": "Schulman分享了他与Barret Zoph在斯坦福大学一场未被录制的讲座的幻灯片,内容涉及后训练技术及他们打造ChatGPT的经验。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-02-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I was happy to see the second version of the OpenAI Model Spec released last week. Sharing my notes: - One notable change is that each section is labeled with a",
+    "zh": "I was happy to see the second version of the OpenAI Model Spec released last week. Sharing my notes: - One notable change is that each section is labeled with a"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/1890457347019194507",
+   "note": {
+    "en": "Schulman shares detailed notes on the second version of the OpenAI Model Spec, including its new per-section authority-level labeling.",
+    "zh": "Schulman分享了对OpenAI第二版Model Spec的详细笔记,包括其新增的分段权限等级标注机制。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-02-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Confirming that I left Anthropic last week. Leaving wasn't easy because I enjoyed the stimulating research environment and the kind and talented people I was wo",
+    "zh": "Confirming that I left Anthropic last week. Leaving wasn't easy because I enjoyed the stimulating research environment and the kind and talented people I was wo"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/1887724101667856725",
+   "note": {
+    "en": "Schulman confirms he has left Anthropic, saying the decision wasn't easy despite valuing the research environment and colleagues there.",
+    "zh": "Schulman确认已离开Anthropic,并表示尽管很珍视那里的研究环境和同事,这一决定仍不容易做出。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-01-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "There are some intriguing similarities between the r1 chains of thought and the o1-preview CoTs shared in papers and blog posts (eg https://t.co/MfjLZTzVcp). In",
+    "zh": "There are some intriguing similarities between the r1 chains of thought and the o1-preview CoTs shared in papers and blog posts (eg https://t.co/MfjLZTzVcp). In"
+   },
+   "source": "@johnschulman2",
+   "url": "https://x.com/johnschulman2/status/1883221980931142113",
+   "note": {
+    "en": "Schulman notes intriguing similarities between DeepSeek-R1's chains of thought and previously shared o1-preview CoTs, including shared use of certain words.",
+    "zh": "Schulman指出DeepSeek-R1的思维链与此前公开的o1-preview思维链之间存在有趣的相似之处,包括某些用词的一致性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-11-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Measuring short-form factuality in large language models",
+    "zh": "Measuring short-form factuality in large language models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2411.04368v1",
+   "note": {
+    "en": "Introduces SimpleQA, an OpenAI benchmark of short fact-seeking questions designed to measure factuality and calibration in language models.",
+    "zh": "提出 SimpleQA——OpenAI 的简短事实性问答基准，用于衡量语言模型的事实准确性与置信度校准。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-11-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Rule Based Rewards for Language Model Safety",
+    "zh": "Rule Based Rewards for Language Model Safety"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2411.01111v1",
+   "note": {
+    "en": "Paper on rule-based rewards, an OpenAI safety training method that replaces much of the human safety labelling with explicit written rules scored by a model.",
+    "zh": "关于基于规则的奖励的论文，这是 OpenAI 的一种安全训练方法，用模型评分的明确书面规则取代了大量人工安全标注。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-10-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GPT-4o System Card",
+    "zh": "GPT-4o System Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2410.21276v1",
+   "note": {
+    "en": "OpenAI's system card for GPT-4o, documenting the omni model's capabilities and its safety evaluations; Schulman is among the listed authors.",
+    "zh": "OpenAI 发布的 GPT-4o 系统卡，记录该全模态模型的能力与安全评估，Schulman 位列作者名单。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-05-15",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "John Schulman (OpenAI Cofounder) — Reasoning, RLHF, & plan for 2027 AGI",
+    "zh": "John Schulman (OpenAI Cofounder) — Reasoning, RLHF, & plan for 2027 AGI"
+   },
+   "source": "Dwarkesh Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/john-schulman-openai-cofounder-reasoning-rlhf-plan/id1516093381?i=1000655679622&uo=4",
+   "note": {
+    "en": "Dwarkesh Podcast interview in which Schulman explains how post-training shapes model behaviour and lays out his expectations for the path to AGI.",
+    "zh": "Dwarkesh 播客访谈，Schulman 解释后训练如何塑造模型行为，并阐述他对通往 AGI 路径的预期。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-08-03",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "John Schulman of OpenAI on ChatGPT: invention, capabilities and limitations",
+    "zh": "John Schulman of OpenAI on ChatGPT: invention, capabilities and limitations"
+   },
+   "source": "The Robot Brains Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/john-schulman-of-openai-on-chatgpt-invention/id1559275284?i=1000623331688&uo=4",
+   "note": {
+    "en": "Interview with Pieter Abbeel in which Schulman recounts how ChatGPT was built and where its capabilities run out.",
+    "zh": "与 Pieter Abbeel 的访谈，Schulman 回顾 ChatGPT 的构建过程，并谈及其能力的边界。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-05-31",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Let's Verify Step by Step",
+    "zh": "Let's Verify Step by Step"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2305.20050v1",
+   "note": {
+    "en": "Paper showing that process supervision — rewarding each reasoning step rather than only the final answer — trains substantially more reliable math verifiers.",
+    "zh": "论文表明过程监督——对每一步推理而非仅对最终答案给予奖励——能训练出可靠得多的数学验证器。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-03-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GPT-4 Technical Report",
+    "zh": "GPT-4 Technical Report"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2303.08774v6",
+   "note": {
+    "en": "OpenAI's technical report on GPT-4, covering the multimodal model's capabilities, limitations and evaluation results; Schulman is a listed author.",
+    "zh": "OpenAI 关于 GPT-4 的技术报告，涵盖该多模态模型的能力、局限与评测结果，Schulman 位列作者名单。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-01-31",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scaling laws for single-agent reinforcement learning",
+    "zh": "Scaling laws for single-agent reinforcement learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2301.13442v2",
+   "note": {
+    "en": "Paper with Jacob Hilton extending scaling-law analysis from generative modelling to single-agent reinforcement learning.",
+    "zh": "与 Jacob Hilton 合著的论文，将缩放定律分析从生成式建模扩展到单智能体强化学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-10-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scaling Laws for Reward Model Overoptimization",
+    "zh": "Scaling Laws for Reward Model Overoptimization"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2210.10760v1",
+   "note": {
+    "en": "Measures how RLHF policies degrade as they over-optimise an imperfect reward model, giving empirical scaling laws for that failure.",
+    "zh": "衡量 RLHF 策略在过度优化不完美奖励模型时的性能衰减，并给出该失效过程的经验缩放定律。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-07-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Efficient Training of Language Models to Fill in the Middle",
+    "zh": "Efficient Training of Language Models to Fill in the Middle"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2207.14255v1",
+   "note": {
+    "en": "Shows that a simple data transformation lets autoregressive language models infill text in the middle of a document, the technique behind fill-in-the-middle code completion.",
+    "zh": "论文表明，只需一个简单的数据变换就能让自回归语言模型在文档中间补全文本，这是中间填充式代码补全的基础技术。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-03-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Training language models to follow instructions with human feedback",
+    "zh": "Training language models to follow instructions with human feedback"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2203.02155v1",
+   "note": {
+    "en": "The InstructGPT paper, which established RLHF instruction tuning as the method behind ChatGPT and is central to Schulman's reputation.",
+    "zh": "InstructGPT 论文，确立了 RLHF 指令微调这一支撑 ChatGPT 的方法，也是 Schulman 学术声誉的核心成果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-12-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "WebGPT: Browser-assisted question-answering with human feedback",
+    "zh": "WebGPT: Browser-assisted question-answering with human feedback"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2112.09332v3",
+   "note": {
+    "en": "WebGPT, which fine-tuned GPT-3 to answer long-form questions by browsing the web and citing sources, an early ancestor of tool-using agents.",
+    "zh": "WebGPT 论文，通过微调 GPT-3 让模型浏览网页并引用来源来回答长文本问题，是会使用工具的智能体的早期雏形。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-10-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Training Verifiers to Solve Math Word Problems",
+    "zh": "Training Verifiers to Solve Math Word Problems"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2110.14168v2",
+   "note": {
+    "en": "Introduces the GSM8K dataset and shows that training verifiers to rank sampled solutions beats fine-tuning alone on grade-school math reasoning.",
+    "zh": "提出 GSM8K 数据集，并表明训练验证器对采样解答排序，在小学数学推理上优于单纯的微调。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-10-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Batch size-invariance for policy optimization",
+    "zh": "Batch size-invariance for policy optimization"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2110.00641v3",
+   "note": {
+    "en": "Derives the hyperparameter adjustments that make policy optimisation batch size-invariant, useful for scaling RL training across hardware.",
+    "zh": "推导出使策略优化对批量大小不敏感的超参数调整方式，有助于在不同硬件规模上扩展强化学习训练。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-09-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Unsolved Problems in ML Safety",
+    "zh": "Unsolved Problems in ML Safety"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2109.13916v5",
+   "note": {
+    "en": "Co-authored agenda paper laying out open research problems in ML safety.",
+    "zh": "合著的议程性论文，系统梳理机器学习安全领域尚未解决的问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-03-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Measuring Sample Efficiency and Generalization in Reinforcement Learning Benchmarks: NeurIPS 2020 Procgen Benchmark",
+    "zh": "Measuring Sample Efficiency and Generalization in Reinforcement Learning Benchmarks: NeurIPS 2020 Procgen Benchmark"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2103.15332v1",
+   "note": {
+    "en": "Report on the NeurIPS 2020 Procgen competition, which Schulman helped organise to measure sample efficiency and generalisation in reinforcement learning.",
+    "zh": "NeurIPS 2020 Procgen 竞赛的总结报告，Schulman 参与组织，用以衡量强化学习的样本效率与泛化能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-01-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The MineRL 2020 Competition on Sample Efficient Reinforcement Learning using Human Priors",
+    "zh": "The MineRL 2020 Competition on Sample Efficient Reinforcement Learning using Human Priors"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2101.11071v1",
+   "note": {
+    "en": "Report on the MineRL 2020 competition on sample-efficient reinforcement learning from human demonstrations, co-authored by Schulman.",
+    "zh": "MineRL 2020 竞赛报告，主题是利用人类演示实现样本高效的强化学习，Schulman 为合著者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-10-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scaling Laws for Autoregressive Generative Modeling",
+    "zh": "Scaling Laws for Autoregressive Generative Modeling"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2010.14701v2",
+   "note": {
+    "en": "Identifies empirical scaling laws for generative models across image, video, multimodal and math domains, extending the language-model scaling results.",
+    "zh": "在图像、视频、多模态与数学等领域为生成式模型找出经验缩放定律，将语言模型的缩放结论加以推广。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-09-11",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "[07] John Schulman - Optimizing Expectations: From Deep RL to Stochastic Computation Graphs",
+    "zh": "[07] John Schulman - Optimizing Expectations: From Deep RL to Stochastic Computation Graphs"
+   },
+   "source": "The Thesis Review",
+   "url": "https://podcasts.apple.com/us/podcast/07-john-schulman-optimizing-expectations-from-deep/id1518425004?i=1000490856017&uo=4",
+   "note": {
+    "en": "Episode reviewing Schulman's PhD thesis on optimising expectations, tracing the line from deep reinforcement learning to stochastic computation graphs.",
+    "zh": "该期节目回顾 Schulman 关于优化期望的博士论文，梳理了从深度强化学习到随机计算图的思路脉络。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2020-09-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Phasic Policy Gradient",
+    "zh": "Phasic Policy Gradient"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2009.04416v1",
+   "note": {
+    "en": "Introduces Phasic Policy Gradient, which separates policy and value training into distinct phases to improve on-policy actor-critic methods.",
+    "zh": "提出 Phasic Policy Gradient，将策略训练与价值函数训练分为不同阶段，以改进同策略的 actor-critic 方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-07-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Leveraging Procedural Generation to Benchmark Reinforcement Learning",
+    "zh": "Leveraging Procedural Generation to Benchmark Reinforcement Learning"
+   },
+   "source": "International Conference on Machine Le…",
+   "url": "http://proceedings.mlr.press/v119/cobbe20a/cobbe20a.pdf",
+   "note": {
+    "en": "Schulman co-authored 'Leveraging Procedural Generation to Benchmark Reinforcement Learning,' introducing the Procgen benchmark suite.",
+    "zh": "Schulman合著了论文《利用程序化生成对强化学习进行基准测试》，提出了Procgen基准测试套件。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2019-08-08",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "John Schulman: OpenAI and recent advances in Artificial Intelligence – #16",
+    "zh": "John Schulman: OpenAI and recent advances in Artificial Intelligence – #16"
+   },
+   "source": "Manifold",
+   "url": "https://podcasts.apple.com/us/podcast/john-schulman-openai-and-recent-advances-in/id1450540825?i=1000559374995&uo=4",
+   "note": {
+    "en": "Interview covering Schulman's work leading OpenAI's reinforcement learning group on Dota and robotics.",
+    "zh": "访谈内容涵盖 Schulman 领导 OpenAI 强化学习团队在 Dota 与机器人方向上的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2019-04-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Policy Gradient Search: Online Planning and Expert Iteration without Search Trees",
+    "zh": "Policy Gradient Search: Online Planning and Expert Iteration without Search Trees"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1904.03646v1",
+   "note": {
+    "en": "Proposes policy gradient search, an online planning method that improves a policy during play without building a search tree.",
+    "zh": "提出策略梯度搜索——一种无需构建搜索树、在对弈过程中在线改进策略的规划方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-02-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Semi-Supervised Learning by Label Gradient Alignment",
+    "zh": "Semi-Supervised Learning by Label Gradient Alignment"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1902.02336v1",
+   "note": {
+    "en": "Two-author paper with Jacob Jackson proposing label gradient alignment, a semi-supervised method that imputes labels for unlabelled data.",
+    "zh": "与 Jacob Jackson 合著的双作者论文，提出标签梯度对齐——一种为无标注数据推断标签的半监督方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-12-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Quantifying Generalization in Reinforcement Learning",
+    "zh": "Quantifying Generalization in Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1812.02341v3",
+   "note": {
+    "en": "Documents overfitting in deep reinforcement learning when agents are trained and tested on the same environments, and proposes procedurally generated levels as a fix.",
+    "zh": "论文记录了深度强化学习在同一环境上训练与测试时出现的过拟合问题，并提出用程序化生成关卡来解决。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-01-01",
+   "level": "notable",
+   "title": {
+    "en": "Remains chief scientist through the founding-team exodus",
+    "zh": "在创始团队大规模出走中留任首席科学家"
+   },
+   "body": {
+    "en": "Barret Zoph and Luke Metz returned to OpenAI in January; Lilian Weng left in July; Meta hired five founding members. Soumith Chintala became CTO.",
+    "zh": "Barret Zoph 与 Luke Metz 于 1 月回归 OpenAI；翁荔 7 月离职；Meta 挖走五名创始成员。Soumith Chintala 出任 CTO。"
+   },
+   "source": "Neowin",
+   "url": "https://www.neowin.net/news/thinking-machines-lab-cto-barret-zoph-returns-to-openai-in-surprise-move/"
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T18:08:00Z",
+   "level": "notable",
+   "title": {
+    "en": "John Schulman Says AI's Final Human Job Is Figuring Out What to Want",
+    "zh": "John Schulman Says AI's Final Human Job Is Figuring Out What to Want"
+   },
+   "body": {
+    "en": "Argued that as AI automates work, humans' remaining job will be figuring out what they actually want.",
+    "zh": "他提出，随着AI逐渐取代各类工作，人类最终剩下的任务将是弄清自己到底想要什么。"
+   },
+   "source": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01YzFQcGJ2WXNXX3ZvMHlmdmQ3eHFvYnJsMHB3THpDRTFESVpHUGFaUW5IcWotY1JYRjZqUTcyYjFCZzlBYmlMSUxjR043Q0tXLXF2V0ttejB2X3M?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "lab",
+ "score": {
+  "total": 51.6,
+  "attention": 60,
+  "centrality": 66,
+  "momentum": 31,
+  "stature": 25,
+  "pageviews": 150682,
+  "citations": 16922,
+  "hIndex": 38,
+  "events": 2,
+  "posts": 73,
+  "wikiEn": "John Schulman",
+  "wikiZh": "约翰·舒尔曼"
+ },
+ "seedRank": 95,
+ "tier": "t3"
+}

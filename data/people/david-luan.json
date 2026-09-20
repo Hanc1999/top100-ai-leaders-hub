@@ -1,0 +1,446 @@
+{
+ "rank": 94,
+ "id": "david-luan",
+ "name": {
+  "en": "David Luan",
+  "zh": "David Luan"
+ },
+ "role": {
+  "en": "Founder, new venture (stealth)",
+  "zh": "新创业公司创始人（未公开）"
+ },
+ "org": "Stealth",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "Adept",
+  "AI Agents",
+  "Stealth",
+  "New venture"
+ ],
+ "why": {
+  "en": "First proposed and shipped the 'AI agent that operates software' paradigm at Adept. Amazon absorbed the team in 2024; he left in February 2026 and the AGI Lab was shut down behind him.",
+  "zh": "最早提出并实践「AI Agent 操作软件」范式。2024 年团队被亚马逊吸纳，2026 年 2 月他离职，AGI Lab 随之关闭。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@jluan",
+   "url": "https://x.com/jluan",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "LinkedIn",
+   "url": "https://www.linkedin.com/in/david-luan/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Personal site",
+   "url": "https://davidluan.com",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @jluan",
+   "url": "https://github.com/jluan",
+   "t": 1
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=David+Luan",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/David+Luan",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=David+Luan",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=David+Luan&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=David+Luan&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=David+Luan",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=David+Luan",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=David+Luan",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=David+Luan",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=David+Luan",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=David+Luan",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=David+Luan",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=David+Luan",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=David+Luan&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-02-24",
+   "kind": "blog",
+   "title": {
+    "en": "Leaving to cook up something new",
+    "zh": "离开去捣鼓点新东西"
+   },
+   "source": "LinkedIn",
+   "url": "https://www.linkedin.com/in/david-luan/",
+   "note": {
+    "en": "'I have a bet for what's next' — the stated direction is teaching AI systems brand-new capabilities.",
+    "zh": "「我对下一步有一个赌注」—— 公开表述的方向是教 AI 系统全新的能力。"
+   }
+  },
+  {
+   "date": "2022-09-14",
+   "kind": "report",
+   "title": {
+    "en": "ACT-1: transformer for actions",
+    "zh": "ACT-1：面向动作的 Transformer"
+   },
+   "source": "Adept",
+   "url": "https://www.adept.ai/blog/act-1",
+   "note": {
+    "en": "The first credible demonstration of an agent driving real software.",
+    "zh": "首个可信的、智能体操作真实软件的演示。"
+   }
+  },
+  {
+   "date": "2025-07-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety",
+    "zh": "Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2507.11473v2",
+   "note": {
+    "en": "Cross-lab position paper arguing that chain-of-thought monitorability is a real but fragile safety property worth preserving; Luan is among the authors.",
+    "zh": "跨实验室联合立场论文，主张思维链可监控性是真实但脆弱、值得刻意保留的安全特性；Luan 位列作者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-02-19",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ep 55: Head of Amazon AGI Lab David Luan on DeepSeek’s Significance, What’s Next for Agents & Lessons from OpenAI",
+    "zh": "Ep 55: Head of Amazon AGI Lab David Luan on DeepSeek’s Significance, What’s Next for Agents & Lessons from OpenAI"
+   },
+   "source": "Unsupervised Learning with Jacob Effron",
+   "url": "https://podcasts.apple.com/us/podcast/ep-55-head-of-amazon-agi-lab-david-luan-on-deepseeks/id1672188924?i=1000694029265&uo=4",
+   "note": {
+    "en": "Interview as head of Amazon's AGI Lab on what DeepSeek meant, where agents go next, and what he took from OpenAI.",
+    "zh": "作为亚马逊 AGI 实验室负责人接受访谈，谈 DeepSeek 的意义、智能体的下一步，以及他从 OpenAI 带走的经验。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-05-15",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Product-Led AI: Adept CEO David Luan on Upleveling Human Work",
+    "zh": "Product-Led AI: Adept CEO David Luan on Upleveling Human Work"
+   },
+   "source": "Greymatter",
+   "url": "https://podcasts.apple.com/us/podcast/product-led-ai-adept-ceo-david-luan-on-upleveling-human-work/id1089013200?i=1000655680102&uo=4",
+   "note": {
+    "en": "David Luan, then Adept's co-founder and CEO, discusses his thesis that AI agents should operate software directly, and how that reshapes human work, on Greylock's Product-Led AI podcast.",
+    "zh": "David Luan（时任Adept联合创始人兼CEO）在Greylock的Product-Led AI播客中，阐述其「让AI智能体直接操作软件」的理念，以及这将如何重塑人类的工作方式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-03-22",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Why Google failed to make GPT-3 + why Multimodal Agents are the path to AGI — with David Luan of Adept",
+    "zh": "Why Google failed to make GPT-3 + why Multimodal Agents are the path to AGI — with David Luan of Adept"
+   },
+   "source": "Latent Space: The AI Engineer Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/why-google-failed-to-make-gpt-3-why-multimodal-agents/id1674008350?i=1000650157053&uo=4",
+   "note": {
+    "en": "Latent Space interview on why Google never shipped GPT-3 and why he believes multimodal agents are the route to AGI.",
+    "zh": "Latent Space 访谈，谈谷歌为何始终没有做出 GPT-3，以及他为何认为多模态智能体是通向 AGI 的路径。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-11-29",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Exploring AI's Pace of Evolution, AGI's Future, and Data Dominance with Adept CEO David Luan | E1855",
+    "zh": "Exploring AI's Pace of Evolution, AGI's Future, and Data Dominance with Adept CEO David Luan | E1855"
+   },
+   "source": "This Week in Startups",
+   "url": "https://podcasts.apple.com/us/podcast/exploring-ais-pace-of-evolution-agis-future-and/id315114957?i=1000636948630&uo=4",
+   "note": {
+    "en": "Long-form This Week in Startups interview in which Luan, then CEO of Adept, sets out his view of AI's pace of progress, the path to AGI, and why access to data decides who wins.",
+    "zh": "在 This Week in Startups 的长篇访谈中，时任 Adept CEO 的 Luan 阐述了他对 AI 进展速度、通往 AGI 的路径，以及数据获取为何决定胜负的看法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-03-14",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Adept CEO David Luan and Stanford's Percy Liang | Words into Action",
+    "zh": "Adept CEO David Luan and Stanford's Percy Liang | Words into Action"
+   },
+   "source": "Greymatter",
+   "url": "https://podcasts.apple.com/us/podcast/adept-ceo-david-luan-and-stanfords-percy-liang-words/id1089013200?i=1000604158584&uo=4",
+   "note": {
+    "en": "Greylock conversation with Percy Liang on turning language models into agents that operate real software.",
+    "zh": "Greylock 主持的对谈，与 Percy Liang 讨论如何把语言模型变成能操作真实软件的智能体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-09-20",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Words into Action | Progress from Large Language Models to AGI",
+    "zh": "Words into Action | Progress from Large Language Models to AGI"
+   },
+   "source": "Greymatter",
+   "url": "https://podcasts.apple.com/us/podcast/words-into-action-progress-from-large-language-models/id1089013200?i=1000580091265&uo=4",
+   "note": {
+    "en": "David Luan, co-founder of Adept, joins Greylock's Saam Motamedi and Percy Liang to discuss the path from large language models toward AGI.",
+    "zh": "Adept联合创始人David Luan与Greylock的Saam Motamedi及Percy Liang对谈，探讨从大语言模型迈向通用人工智能（AGI）的路径。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-04-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "PaLM: Scaling Language Modeling with Pathways",
+    "zh": "PaLM: Scaling Language Modeling with Pathways"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2204.02311v5",
+   "note": {
+    "en": "Google's 540B-parameter PaLM model, trained with Pathways; Luan is a listed author, from his Google Brain period.",
+    "zh": "谷歌用 Pathways 训练的 5400 亿参数 PaLM 模型论文；Luan 位列作者，属于其 Google Brain 时期的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-11-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Show Your Work: Scratchpads for Intermediate Computation with Language Models",
+    "zh": "Show Your Work: Scratchpads for Intermediate Computation with Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2112.00114v1",
+   "note": {
+    "en": "Shows that letting a model write intermediate steps to a scratchpad markedly improves multi-step computation — an early chain-of-thought result.",
+    "zh": "表明让模型把中间步骤写入\"草稿纸\"能显著改善多步计算，是思维链方向的早期成果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-07-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Generative Pretraining From Pixels",
+    "zh": "Generative Pretraining From Pixels"
+   },
+   "source": "International Conference on Machine Le…",
+   "url": "http://proceedings.mlr.press/v119/chen20s/chen20s.pdf",
+   "note": {
+    "en": "Co-authored OpenAI's Image GPT paper, showing a GPT-style transformer trained on pixels learns strong image representations, from his time as VP of Engineering at OpenAI.",
+    "zh": "在担任OpenAI工程副总裁期间合著的Image GPT论文,展示了基于像素训练的GPT式Transformer可学习到强大的图像表征。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-02-24",
+   "level": "major",
+   "title": {
+    "en": "Leaves Amazon 'to cook up something new'",
+    "zh": "离开亚马逊，去「捣鼓点新东西」"
+   },
+   "body": {
+    "en": "Announced on LinkedIn; says he has 'a bet for what's next' and will focus on teaching AI systems brand-new capabilities. Amazon's San Francisco AGI Lab was shut down after his exit.",
+    "zh": "在 LinkedIn 宣布，称对「下一步有一个赌注」，将专注于教 AI 系统全新能力。其离职后亚马逊旧金山 AGI Lab 关闭。"
+   },
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/02/24/head-of-amazons-agi-lab-is-leaving-the-company.html"
+  },
+  {
+   "date": "2026-02-26",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Amazon’s head of AI Lab David Luan resigns, annunces on LinkedIn: I will be leaving Amazon at the end of",
+    "zh": "Amazon’s head of AI Lab David Luan resigns, annunces on LinkedIn: I will be leaving Amazon at the end of"
+   },
+   "body": {
+    "en": "Luan announced on LinkedIn that he is leaving Amazon, ending his run as head of the AGI Lab built from the Adept team.",
+    "zh": "卢安在领英宣布离开亚马逊，结束了由 Adept 团队并入后组建的 AGI Lab 负责人任期。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdXFQV0ZSMWw4QU4xclFqLTdZM1Q5VG96SENBRkNIckJlbUdLV3JvSUpQaVh0N2FmTmNSbURRRW1PXzhyWXI0ckFRNXZvMG5HbUNSX0RXZ0Y0Q0V6Z1F6aU00b2JSX1djMS1RUEpzTS1wNXpWcG9VWnVXX2tVbHhadGRIOU05UExWc0IyWkdzN3RpTWlvVzBmSlB1NVRNZG1hYmZUMTBUNnBKVXp1NEpUbEtVcmY0UER1Ukg0eXJkWUNvakhRV1pycllnNnF4VHVaM0QxMXpRWHhYb1HSAeABQVVfeXFMT2tqS3JEOThpN3pDWGNrSVlSWFA0ejZJamVOMjdVMkNYeEJhZWkwV3AwWlM2VVZGNEZUbThhT1dSVEwycWZBZVRPaUY4WkVpa2MwbEp5RlREcUZzUHJTVC0xb19sRnYtQXc4bGFWcFBjYTBDUEVWWUtPTXB5NnZfS243dkpkUFV0bnJaNnBzb3hUYXhOWjV3VU81S3RFUmU1RUk4aEpyRXhtS3dvZW1QdTJaWU9vX1k1VFo0dk95SFBhWk5yZkVOd1dTcjJMak1uaHZBMVJPMlAwTndKUzZEYVU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-02-25",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Who is David Luan — Amazon’s AI Lab lead who joined after startup Adept was acquired by retail giant, is now leaving?",
+    "zh": "Who is David Luan — Amazon’s AI Lab lead who joined after startup Adept was acquired by retail giant, is now leaving?"
+   },
+   "body": {
+    "en": "Luan resigned as head of Amazon's AGI lab in February 2026, ending the Adept team's time inside Amazon and freeing him to start his own AI venture.",
+    "zh": "2026 年 2 月，Luan 辞去亚马逊 AGI 实验室负责人一职，结束了 Adept 团队在亚马逊内部的阶段，转而创办自己的 AI 新公司。"
+   },
+   "source": "Livemint",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPdGEtUng2TnRnVE9FdGlPRWlMeVZmNkdyZ1FneFVzdkRfVWV6ektkSktFdUIxMndDU3o2LTdWczJFT0MxSHBHR1duamJ3UzNLalkzSTl3eFpYazY4TXlXNmpxMlJ1dG00eWt1STNfTHVWaEp4bWFYQmVnRHZZWE9GTkFGX0p0eUh5eHNhUkNycW1rYWxwX04xMGpBanIzNkhTeUtoLTVfVXhNcFBUTElKMVFTLWRGbnZVUGFKU3oxRVR2QVV6azRRZGZCblFESlU0R1dpQXBHZl9FXzNEc1BDbkNBSWlYZG1OMENYNTh5VGRCMzlsbFdxVGIyZXZZWXNKajBjWGc5NEN4cWdPNkHSAZMCQVVfeXFMUHAxTDU4WXFPTTE4a0dTNHFMWlVqSW1zbm9wRDNod3JpbUk0cVN2S1VlZ2ExUGwzc2xCV0I4LWpOUWl5YmRYOHBuX3RjbmVoODVjcV9TRlM5VVZzOXNSckduQlBsMUIxMDk1TjdXdU9Sd3RPd2IxT3FpM014X0liMk1XYjRQZW5DdUVKRl9ybUhTRkhPbGtqRlBKZXZxRDhhQTVJekFaNldkcWtmQnE4U28zMk02QXJQekZUam9CX09xNGNYb3F2WkFkVlVxbEExNUFTTXZET2YtZUstSmo5b3MxVFhBWGEyR0d5YlpCM3JicjNfd2pMM1o1X3ROVU1yQWpiamc4SmNERURiTjN6SWNSc2M?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-02-25",
+   "ts": "2026-02-25T11:41:13Z",
+   "level": "major",
+   "title": {
+    "en": "Amazon’s AGI lab head David Luan leaving company, CNBC reports",
+    "zh": "Amazon’s AGI lab head David Luan leaving company, CNBC reports"
+   },
+   "body": {
+    "en": "David Luan is leaving Amazon, where he led the AGI lab that later shut down, matching his subsequent move to found a stealth startup.",
+    "zh": "戴维·卢安即将离开亚马逊，此前他领导的AGI实验室随后被关闭，这与他后来创立隐身创业公司的动向相符。"
+   },
+   "source": "TipRanks",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1NrQmg1Y3RRV0k3Q1pkWlEtZ2VRX19FQVg1NGtTTzJleDlJUkFncmNiZmNod2VLQkhPWU9tS3pBNkMyMTFoczM2MmpkMklndy1wUHBsX0hwSVBROWxrMTlUei1Eb2s1TndERjFhN3FXcUhnOUU5cHkzR21XWkp1MjBPNldQTUYtaGh2aVNieDF5VnpOXzcxQWZPUmEzUXQ5S1IxVm5IMXFMV2hXU184?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": true,
+ "was": {
+  "en": "Head of Amazon AGI Lab",
+  "zh": "Amazon AGI Lab 负责人"
+ },
+ "cat": "lab",
+ "score": {
+  "total": 18.2,
+  "attention": null,
+  "centrality": 21,
+  "momentum": 15,
+  "stature": null,
+  "pageviews": 0,
+  "citations": 2702,
+  "hIndex": 2,
+  "events": 4,
+  "posts": 12,
+  "wikiEn": null,
+  "wikiZh": null
+ },
+ "seedRank": 31,
+ "tier": "t6"
+}

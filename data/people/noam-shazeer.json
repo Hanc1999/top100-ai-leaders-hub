@@ -1,0 +1,1410 @@
+{
+ "rank": 37,
+ "id": "noam-shazeer",
+ "name": {
+  "en": "Noam Shazeer",
+  "zh": "Noam Shazeer"
+ },
+ "role": {
+  "en": "OpenAI",
+  "zh": "OpenAI"
+ },
+ "org": "OpenAI",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "OpenAI",
+  "Transformer",
+  "MoE",
+  "Multi-query attention",
+  "Character.AI"
+ ],
+ "why": {
+  "en": "One of the original authors of 'Attention Is All You Need' and the key contributor behind MoE and multi-query attention. Returned to Google in 2024 to co-lead Gemini — then left for OpenAI in June 2026.",
+  "zh": "《Attention Is All You Need》第一批作者之一，MoE 与多查询注意力的关键贡献者。2024 年回归 Google 联合领导 Gemini —— 2026 年 6 月转投 OpenAI。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@NoamShazeer",
+   "url": "https://x.com/NoamShazeer",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "noamshazeer.com",
+   "url": "https://www.noamshazeer.com/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Medium",
+   "url": "https://medium.com/@NoamShazeer",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "OpenAI Research",
+   "url": "https://openai.com/research/",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "OpenAI news",
+   "url": "https://openai.com/news/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Noam+Shazeer",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Noam+Shazeer",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Noam+Shazeer",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Noam+Shazeer&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Noam+Shazeer&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Noam+Shazeer",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Noam+Shazeer&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Noam+Shazeer",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?user=wsGvgA8AAAAJ&hl=en",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Noam+Shazeer",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Noam+Shazeer",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Noam+Shazeer",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Noam+Shazeer",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Noam+Shazeer",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ACL Anthology",
+   "url": "https://aclanthology.org/search/?q=Noam+Shazeer",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Noam+Shazeer&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Noam_Shazeer",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2017-06-12",
+   "kind": "paper",
+   "title": {
+    "en": "Attention Is All You Need",
+    "zh": "Attention Is All You Need"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1706.03762",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2019-11-06",
+   "kind": "paper",
+   "title": {
+    "en": "Fast Transformer decoding: one write-head is all you need",
+    "zh": "快速 Transformer 解码：一个写头就够了"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1911.02150",
+   "note": {
+    "en": "Multi-query attention — the reason modern inference is affordable at all.",
+    "zh": "多查询注意力 —— 现代推理之所以负担得起的原因。"
+   }
+  },
+  {
+   "date": "2026-05-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Live from #GoogleIO, we’re introducing Gemini 3.5 Flash, our latest model with frontier performance for agents and coding. We’re rolling it out globally today,",
+    "zh": "Live from #GoogleIO, we’re introducing Gemini 3.5 Flash, our latest model with frontier performance for agents and coding. We’re rolling it out globally today,"
+   },
+   "source": "@NoamShazeer",
+   "url": "https://x.com/NoamShazeer/status/2056795646116720871",
+   "note": {
+    "en": "Shazeer announced the launch of Gemini 3.5 Flash, a new frontier model optimized for agents and coding, unveiled live at Google I/O.",
+    "zh": "Shazeer宣布推出Gemini 3.5 Flash,这是一款针对智能体和编程优化的新前沿模型,在谷歌I/O大会上现场发布。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Gemini 3.1 Flash Live is now available, and it’s built for production-ready reliability. We’ve improved its overall quality so developers and enterprises can bu",
+    "zh": "Gemini 3.1 Flash Live is now available, and it’s built for production-ready reliability. We’ve improved its overall quality so developers and enterprises can bu"
+   },
+   "source": "@NoamShazeer",
+   "url": "https://x.com/NoamShazeer/status/2037195526693929360",
+   "note": {
+    "en": "Shazeer announced Gemini 3.1 Flash Live, built for production-ready reliability to support voice-first agent applications.",
+    "zh": "Shazeer宣布推出Gemini 3.1 Flash Live,专为生产级可靠性打造,以支持语音优先的智能体应用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "📢Introducing Gemini 3.1 Flash-Lite, our fastest and most efficient model, built for high-volume workloads. It outperforms 2.5 Flash in reasoning, reliability, a",
+    "zh": "📢Introducing Gemini 3.1 Flash-Lite, our fastest and most efficient model, built for high-volume workloads. It outperforms 2.5 Flash in reasoning, reliability, a"
+   },
+   "source": "@NoamShazeer",
+   "url": "https://x.com/NoamShazeer/status/2028909105969283565",
+   "note": {
+    "en": "Shazeer introduced Gemini 3.1 Flash-Lite, the fastest and most efficient Gemini model yet, aimed at high-volume workloads.",
+    "zh": "Shazeer发布了Gemini 3.1 Flash-Lite,这是迄今最快、最高效的Gemini模型,面向高负载场景。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Last week we upgraded Gemini 3 Deep Think. Today, we’re shipping the core intelligence that makes those breakthroughs possible: Gemini 3.1 Pro. A noticeably sma",
+    "zh": "Last week we upgraded Gemini 3 Deep Think. Today, we’re shipping the core intelligence that makes those breakthroughs possible: Gemini 3.1 Pro. A noticeably sma"
+   },
+   "source": "@NoamShazeer",
+   "url": "https://x.com/NoamShazeer/status/2024519946764734574",
+   "note": {
+    "en": "Shazeer announced Gemini 3.1 Pro, a smarter and more capable baseline model shipping the core intelligence behind Gemini 3 Deep Think's improvements.",
+    "zh": "Shazeer宣布推出Gemini 3.1 Pro,这是一款更智能、能力更强的基础模型,承载了Gemini 3 Deep Think升级背后的核心智能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "An updated Gemini 3 Deep Think is out today: 📈 Achieves SOTA on ARC-AGI-2, MMMU-Pro, and HLE. 🥇Gold-medal level on Physics &amp; Chemistry Olympiads. It turns o",
+    "zh": "An updated Gemini 3 Deep Think is out today: 📈 Achieves SOTA on ARC-AGI-2, MMMU-Pro, and HLE. 🥇Gold-medal level on Physics &amp; Chemistry Olympiads. It turns o"
+   },
+   "source": "@NoamShazeer",
+   "url": "https://x.com/NoamShazeer/status/2021988459519652089",
+   "note": {
+    "en": "Shazeer announced an updated Gemini 3 Deep Think achieving state-of-the-art results on ARC-AGI-2, MMMU-Pro and HLE, plus gold-medal performance on physics and chemistry olympiads.",
+    "zh": "Shazeer宣布更新版Gemini 3 Deep Think在ARC-AGI-2、MMMU-Pro和HLE上取得了最先进的成绩,并在物理和化学奥赛中达到金牌水平。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Gemini 3 Flash is live. ⚡️ We’ve packed Gemini 3’s Pro-grade reasoning into a leaner model with Flash-level latency, efficiency, and cost. It's my favorite mode",
+    "zh": "Gemini 3 Flash is live. ⚡️ We’ve packed Gemini 3’s Pro-grade reasoning into a leaner model with Flash-level latency, efficiency, and cost. It's my favorite mode"
+   },
+   "source": "@NoamShazeer",
+   "url": "https://x.com/NoamShazeer/status/2001325642374418496",
+   "note": {
+    "en": "Shazeer announced Gemini 3 Flash, packing Gemini 3's pro-grade reasoning into a leaner, lower-latency model.",
+    "zh": "Shazeer宣布推出Gemini 3 Flash,将Gemini 3的专业级推理能力压缩进一款延迟更低、更精简的模型中。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Gemini 3 Deep Think mode is live for Ultra users today. When using parallel lines of thought in this mode, Gemini shows meaningful improvement on key reasoning",
+    "zh": "Gemini 3 Deep Think mode is live for Ultra users today. When using parallel lines of thought in this mode, Gemini shows meaningful improvement on key reasoning"
+   },
+   "source": "@NoamShazeer",
+   "url": "https://x.com/NoamShazeer/status/1996679619031060680",
+   "note": {
+    "en": "Shazeer announced Gemini 3 Deep Think mode going live for Ultra subscribers, using parallel lines of thought to improve results on key reasoning benchmarks.",
+    "zh": "Shazeer宣布Gemini 3 Deep Think模式已面向Ultra订阅用户上线,通过并行思维链提升关键推理基准测试的表现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-08-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Hot ChipsKeynote",
+    "zh": "Hot ChipsKeynote"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.1109/hcs66204.2025.11154409",
+   "note": {
+    "en": "Shazeer's Hot Chips 2025 keynote, 'Predictions for the Next Phase of AI,' arguing compute, memory bandwidth and lower precision will drive the next generation of models.",
+    "zh": "沙泽尔在2025年Hot Chips大会的主题演讲《AI下一阶段的预测》，主张算力、内存带宽和低精度计算将驱动下一代模型发展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-07-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities",
+    "zh": "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2507.06261v6",
+   "note": {
+    "en": "Gemini 2.5 technical report covering the family's reasoning, long-context, multimodal and agentic capabilities.",
+    "zh": "Gemini 2.5 技术报告，介绍该系列模型的推理、长上下文、多模态与智能体能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-03-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemma 3 Technical Report",
+    "zh": "Gemma 3 Technical Report"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2503.19786v1",
+   "note": {
+    "en": "Technical report for Gemma 3, Google's open multimodal model family from 1B to 27B parameters; Shazeer is a senior author on the release.",
+    "zh": "Gemma 3 技术报告，介绍谷歌参数规模从 10 亿到 270 亿的开源多模态模型系列，Shazeer 是该报告的资深作者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-03-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Introducing Gemini 2.5 Pro Experimental. The 2.5 series marks a significant evolution: Gemini models are now fundamentally thinking models. This means the model",
+    "zh": "Introducing Gemini 2.5 Pro Experimental. The 2.5 series marks a significant evolution: Gemini models are now fundamentally thinking models. This means the model"
+   },
+   "source": "@NoamShazeer",
+   "url": "https://x.com/NoamShazeer/status/1904581813215125787",
+   "note": {
+    "en": "Shazeer introduced Gemini 2.5 Pro Experimental, describing it as marking Gemini's evolution into fundamentally 'thinking' models that reason before responding.",
+    "zh": "Shazeer发布了Gemini 2.5 Pro Experimental,称其标志着Gemini演变为在回答前先进行推理的'思维'模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-03-17",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ep 58: Google Researchers Noam Shazeer and Jack Rae on Scaling Test-time Compute, Reactions to Ilya & AGI",
+    "zh": "Ep 58: Google Researchers Noam Shazeer and Jack Rae on Scaling Test-time Compute, Reactions to Ilya & AGI"
+   },
+   "source": "Unsupervised Learning with Jacob Effron",
+   "url": "https://podcasts.apple.com/us/podcast/ep-58-google-researchers-noam-shazeer-and-jack-rae-on/id1672188924?i=1000699518901&uo=4",
+   "note": {
+    "en": "Long-form interview with Shazeer and Jack Rae on scaling test-time compute and where reasoning models go next.",
+    "zh": "Shazeer 与 Jack Rae 的长篇访谈，讨论测试时计算的扩展以及推理模型的下一步方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-02-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI",
+    "zh": "Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI"
+   },
+   "source": "Dwarkesh Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/jeff-dean-noam-shazeer-25-years-at-google-from-pagerank/id1516093381?i=1000691556147&uo=4",
+   "note": {
+    "en": "Dwarkesh Podcast interview with Shazeer and Jeff Dean covering 25 years of Google infrastructure and model work, from PageRank to Gemini.",
+    "zh": "Dwarkesh 播客对 Shazeer 与 Jeff Dean 的访谈，回顾在谷歌二十五年间从 PageRank 到 Gemini 的基础设施与模型工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-01-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Your feedback on Gemini 2.0 Flash Thinking has been incredible—thank you! We’ve taken your suggestions and made an experimental update…",
+    "zh": "Your feedback on Gemini 2.0 Flash Thinking has been incredible—thank you! We’ve taken your suggestions and made an experimental update…"
+   },
+   "source": "@NoamShazeer",
+   "url": "https://x.com/NoamShazeer/status/1881845900659896773",
+   "note": {
+    "en": "Shazeer announced an experimental update to Gemini 2.0 Flash Thinking based on user feedback.",
+    "zh": "Shazeer宣布基于用户反馈对Gemini 2.0 Flash Thinking进行了实验性更新。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-12-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We’ve been *thinking* about how to improve model reasoning and explainability Introducing Gemini 2.0 Flash Thinking, an experimental model trained to think out",
+    "zh": "We’ve been *thinking* about how to improve model reasoning and explainability Introducing Gemini 2.0 Flash Thinking, an experimental model trained to think out"
+   },
+   "source": "@NoamShazeer",
+   "url": "https://x.com/NoamShazeer/status/1869789881637200228",
+   "note": {
+    "en": "Shazeer introduced Gemini 2.0 Flash Thinking, an experimental model trained to reason out loud for stronger performance.",
+    "zh": "Shazeer发布了Gemini 2.0 Flash Thinking,这是一款经过训练可以'出声思考'以提升推理表现的实验性模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-06-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Incredibly proud of the team for our official launch of Character Calls!",
+    "zh": "Incredibly proud of the team for our official launch of Character Calls!"
+   },
+   "source": "@NoamShazeer",
+   "url": "https://x.com/NoamShazeer/status/1806375332863418564",
+   "note": {
+    "en": "Shazeer announced the official launch of Character Calls, a voice-calling feature for Character.AI, the company he co-founded.",
+    "zh": "Shazeer宣布了Character Calls的正式上线,这是他联合创立的Character.AI的语音通话功能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-06-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Character AI is serving 20,000 QPS. Here are the technologies we use to serve hyper-efficiently. [https://t.co/R14Jt9Z5yo ]",
+    "zh": "Character AI is serving 20,000 QPS. Here are the technologies we use to serve hyper-efficiently. [https://t.co/R14Jt9Z5yo ]"
+   },
+   "source": "@NoamShazeer",
+   "url": "https://x.com/NoamShazeer/status/1803790708358410380",
+   "note": {
+    "en": "Shazeer shared that Character.AI was serving 20,000 queries per second and detailed the engineering techniques used to serve models hyper-efficiently at that scale.",
+    "zh": "Shazeer透露Character.AI的服务规模已达到每秒2万次查询,并介绍了支撑这一效率的工程技术。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-02-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "https://t.co/abQu8pN4WJ Check out my first blog post.",
+    "zh": "https://t.co/abQu8pN4WJ Check out my first blog post."
+   },
+   "source": "@NoamShazeer",
+   "url": "https://x.com/NoamShazeer/status/1762733550892401030",
+   "note": {
+    "en": "Shazeer linked to his first personal blog post, sharing it directly with followers.",
+    "zh": "Shazeer分享了他的第一篇个人博客文章的链接。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-11-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "As a friendly competitor in the AI space, we share a core mission of building AI technology that benefits every person. While we don’t know the specifics, we ar",
+    "zh": "As a friendly competitor in the AI space, we share a core mission of building AI technology that benefits every person. While we don’t know the specifics, we ar"
+   },
+   "source": "@NoamShazeer",
+   "url": "https://x.com/NoamShazeer/status/1726683169091641602",
+   "note": {
+    "en": "Shazeer, then at Character.AI, publicly expressed solidarity with OpenAI as a 'friendly competitor' amid OpenAI's leadership turmoil, saying they share a core mission despite not knowing the specifics.",
+    "zh": "当时任职于Character.AI的Shazeer在OpenAI高层动荡期间公开表态,称双方是'友好的竞争对手',共享着建设造福所有人的AI技术这一核心使命,尽管他们并不清楚具体细节。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-09-27",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AI Revolution: Universally Accessible Intelligence with Character.ai's Noam Shazeer",
+    "zh": "AI Revolution: Universally Accessible Intelligence with Character.ai's Noam Shazeer"
+   },
+   "source": "a16z Live",
+   "url": "https://podcasts.apple.com/us/podcast/ai-revolution-universally-accessible-intelligence-with/id1551570777?i=1000629278384&uo=4",
+   "note": {
+    "en": "Shazeer in conversation with a16z on making intelligence universally accessible and the compute required to serve it at Character.AI.",
+    "zh": "Shazeer 与 a16z 对谈，讨论让智能普惠可及的构想，以及 Character.AI 为此所需的算力规模。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-08-31",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "20VC: Spending $2M to Train a Single AI Model: What Matters More; Model Size or Data Size | Hallucinations: Feature or Bug | Will Everyone Have an AI Friend in the Future & Raising $150M from a16z with Noam Shazeer, Co-Founder & CEO @ Character.ai",
+    "zh": "20VC: Spending $2M to Train a Single AI Model: What Matters More; Model Size or Data Size | Hallucinations: Feature or Bug | Will Everyone Have an AI Friend in the Future & Raising $150M from a16z with Noam Shazeer, Co-Founder & CEO @ Character.ai"
+   },
+   "source": "The Twenty Minute VC (20VC): Venture C…",
+   "url": "https://podcasts.apple.com/us/podcast/20vc-spending-%242m-to-train-a-single-ai-model-what/id958230465?i=1000626312826&uo=4",
+   "note": {
+    "en": "Shazeer on 20VC discussing model size versus data size, whether hallucination is a feature or a bug, and Character.AI's $150M raise.",
+    "zh": "Shazeer 做客 20VC，讨论模型规模与数据规模孰重、幻觉是特性还是缺陷，以及 Character.AI 的 1.5 亿美元融资。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-04-13",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Your AI Friends Have Awoken, With Noam Shazeer",
+    "zh": "Your AI Friends Have Awoken, With Noam Shazeer"
+   },
+   "source": "No Priors: Artificial Intelligence | T…",
+   "url": "https://podcasts.apple.com/us/podcast/your-ai-friends-have-awoken-with-noam-shazeer/id1668002688?i=1000608770462&uo=4",
+   "note": {
+    "en": "A No Priors interview in which Shazeer traces the line from co-inventing the Transformer at Google to building conversational AI companions.",
+    "zh": "Shazeer 做客 No Priors 的访谈，讲述了从在谷歌参与发明 Transformer 到打造对话式 AI 伙伴的这条脉络。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-01-21",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "EP 31 Noam Shazeer - Google veteran and AI inventor on future of AI",
+    "zh": "EP 31 Noam Shazeer - Google veteran and AI inventor on future of AI"
+   },
+   "source": "The Aarthi and Sriram Show",
+   "url": "https://podcasts.apple.com/us/podcast/ep-31-noam-shazeer-google-veteran-and-ai-inventor-on/id1624345213?i=1000595849690&uo=4",
+   "note": {
+    "en": "Interview covering Shazeer's path from Transformers, Mesh-TensorFlow and T5 at Google to founding Character.AI.",
+    "zh": "访谈回顾 Shazeer 从谷歌时期的 Transformer、Mesh-TensorFlow 与 T5，到创办 Character.AI 的历程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-04-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "PaLM: Scaling Language Modeling with Pathways",
+    "zh": "PaLM: Scaling Language Modeling with Pathways"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2204.02311v5",
+   "note": {
+    "en": "PaLM, a 540B-parameter dense language model trained with Google's Pathways system, showing strong few-shot performance across tasks.",
+    "zh": "PaLM 论文，介绍使用谷歌 Pathways 系统训练的 5400 亿参数稠密语言模型，在多类任务上展现出色的少样本能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-03-31",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scaling Up Models and Data with $\\texttt{t5x}$ and $\\texttt{seqio}$",
+    "zh": "Scaling Up Models and Data with $\\texttt{t5x}$ and $\\texttt{seqio}$"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2203.17189v1",
+   "note": {
+    "en": "Describes t5x and seqio, the JAX libraries Google used to train and evaluate large language models at scale.",
+    "zh": "介绍 t5x 与 seqio 这两个基于 JAX 的库，谷歌用其大规模训练和评测大语言模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-02-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "ST-MoE: Designing Stable and Transferable Sparse Expert Models",
+    "zh": "ST-MoE: Designing Stable and Transferable Sparse Expert Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2202.08906v2",
+   "note": {
+    "en": "ST-MoE tackles the training instability and poor fine-tuning transfer of sparse expert models, a direct follow-on to Shazeer's MoE line of work.",
+    "zh": "ST-MoE 针对稀疏专家模型的训练不稳定与微调迁移不佳问题提出改进，是 Shazeer 混合专家研究脉络的直接延续。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-01-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "LaMDA: Language Models for Dialog Applications",
+    "zh": "LaMDA: Language Models for Dialog Applications"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2201.08239v3",
+   "note": {
+    "en": "LaMDA, a family of dialog-specialised Transformer language models up to 137B parameters; Shazeer is a lead author and the work later shaped Character.AI.",
+    "zh": "LaMDA 论文，提出面向对话、参数最高达 1370 亿的 Transformer 语言模型系列；Shazeer 是主要作者之一，这项工作后来影响了 Character.AI。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-12-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Searching for Efficient Transformers for Language Modeling",
+    "zh": "Searching for Efficient Transformers for Language Modeling"
+   },
+   "source": "Neural Information Processing Systems",
+   "url": "https://papers.nips.cc/paper/2021/hash/2f3c6a4cd8af177f6456e7e51a916ff3-Abstract.html",
+   "note": {
+    "en": "NeurIPS paper searching for more efficient transformer architectures for language modeling, co-authored by Shazeer.",
+    "zh": "NeurIPS论文，探索面向语言建模的更高效Transformer架构，沙泽尔为共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2021-09-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Primer: Searching for Efficient Transformers for Language Modeling",
+    "zh": "Primer: Searching for Efficient Transformers for Language Modeling"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2109.08668v2",
+   "note": {
+    "en": "Primer uses architecture search to find Transformer variants that reach the same quality at substantially lower training cost.",
+    "zh": "Primer 通过架构搜索寻找 Transformer 变体，以显著更低的训练成本达到同等质量。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-05-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GSPMD: General and Scalable Parallelization for ML Computation Graphs",
+    "zh": "GSPMD: General and Scalable Parallelization for ML Computation Graphs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2105.04663v2",
+   "note": {
+    "en": "GSPMD, a compiler-based system that parallelises ML computation graphs automatically from lightweight user annotations.",
+    "zh": "GSPMD 是一套基于编译器的系统，可依据轻量标注自动并行化机器学习计算图。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-05-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding",
+    "zh": "GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding"
+   },
+   "source": "International Conference on Learning R…",
+   "url": "https://openreview.net/pdf?id=qrwe7XHTmYb",
+   "note": {
+    "en": "GShard paper on scaling giant models via conditional computation and automatic sharding — foundational to Shazeer's mixture-of-experts work.",
+    "zh": "《GShard》论文，通过条件计算和自动分片扩展巨型模型规模，是沙泽尔专家混合研究的奠基性工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2021-02-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Do Transformer Modifications Transfer Across Implementations and Applications?",
+    "zh": "Do Transformer Modifications Transfer Across Implementations and Applications?"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2102.11972v2",
+   "note": {
+    "en": "Systematic study finding that most proposed Transformer modifications do not transfer across implementations and tasks.",
+    "zh": "系统性实验发现，大多数针对 Transformer 的改进换个实现或换个任务后并不能复现收益。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-01-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity",
+    "zh": "Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2101.03961v3",
+   "note": {
+    "en": "Switch Transformers simplify mixture-of-experts routing to one expert per token, scaling to trillion-parameter models at constant compute per example.",
+    "zh": "Switch Transformer 将混合专家路由简化为每个 token 只选一个专家，在单样本计算量不变的前提下扩展到万亿参数模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-03-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Talking-Heads Attention",
+    "zh": "Talking-Heads Attention"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2003.02436v1",
+   "note": {
+    "en": "Talking-heads attention, Shazeer's variation on multi-head attention that adds linear projections across the head dimension around the softmax.",
+    "zh": "Talking-heads 注意力，Shazeer 提出的多头注意力变体，在 softmax 前后沿注意力头维度加入线性投影。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-02-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GLU Variants Improve Transformer",
+    "zh": "GLU Variants Improve Transformer"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2002.05202v1",
+   "note": {
+    "en": "Single-author note showing that gated linear unit variants in the feed-forward layer improve Transformer quality; the source of the now-standard SwiGLU.",
+    "zh": "Shazeer 独著短文，证明在前馈层使用门控线性单元变体可提升 Transformer 质量，也是如今通用的 SwiGLU 的出处。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-02-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "How Much Knowledge Can You Pack Into the Parameters of a Language Model?",
+    "zh": "How Much Knowledge Can You Pack Into the Parameters of a Language Model?"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2002.08910v4",
+   "note": {
+    "en": "Measures how much world knowledge a language model can store in its parameters by fine-tuning T5 to answer questions with no external retrieval.",
+    "zh": "通过微调 T5 在不借助外部检索的情况下回答问题，衡量语言模型参数中能存储多少世界知识。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-01-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Faster Transformer Decoding: N-gram Masked Self-Attention",
+    "zh": "Faster Transformer Decoding: N-gram Masked Self-Attention"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2001.04589v2",
+   "note": {
+    "en": "Proposes n-gram masked self-attention, truncating the target-side window to speed up Transformer decoding with little quality loss.",
+    "zh": "提出 n-gram 掩码自注意力，通过截断目标端窗口加速 Transformer 解码，且质量损失很小。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-10-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+    "zh": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1910.10683v4",
+   "note": {
+    "en": "The T5 paper, which casts every NLP task as text-to-text and systematically compares transfer-learning choices at scale; Shazeer is second author.",
+    "zh": "T5 论文，将所有自然语言处理任务统一为文本到文本形式，并系统比较大规模迁移学习的各项设计选择；Shazeer 为第二作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-09-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "High Resolution Medical Image Analysis with Spatial Partitioning",
+    "zh": "High Resolution Medical Image Analysis with Spatial Partitioning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1909.03108v3",
+   "note": {
+    "en": "Applies spatial partitioning to train CNNs directly on gigapixel CT and pathology images, an application of Shazeer's Mesh-TensorFlow work.",
+    "zh": "利用空间划分直接在十亿像素级的 CT 与病理图像上训练卷积网络，是 Shazeer 的 Mesh-TensorFlow 工作的一项应用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-04-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Corpora Generation for Grammatical Error Correction",
+    "zh": "Corpora Generation for Grammatical Error Correction"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1904.05780v1",
+   "note": {
+    "en": "Generates large synthetic corpora for grammatical error correction to address the data scarcity that limits sequence-to-sequence GEC models.",
+    "zh": "为语法纠错生成大规模合成语料，以缓解制约序列到序列纠错模型的数据稀缺问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-11-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Blockwise Parallel Decoding for Deep Autoregressive Models",
+    "zh": "Blockwise Parallel Decoding for Deep Autoregressive Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1811.03115v1",
+   "note": {
+    "en": "Blockwise parallel decoding predicts several tokens at once and verifies them in parallel, cutting autoregressive decoding latency.",
+    "zh": "分块并行解码一次预测多个 token 并并行验证，从而降低自回归解码的延迟。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-11-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Mesh-TensorFlow: Deep Learning for Supercomputers",
+    "zh": "Mesh-TensorFlow: Deep Learning for Supercomputers"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1811.02084v1",
+   "note": {
+    "en": "Mesh-TensorFlow, Shazeer's framework for splitting model tensors across a mesh of processors so networks too large for data parallelism can be trained.",
+    "zh": "Mesh-TensorFlow 是 Shazeer 主导的框架，将模型张量切分到处理器网格上，使数据并行无法容纳的超大网络得以训练。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-10-31",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Weakly Supervised Grammatical Error Correction using Iterative Decoding",
+    "zh": "Weakly Supervised Grammatical Error Correction using Iterative Decoding"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1811.01710v1",
+   "note": {
+    "en": "Trains a Transformer for grammatical error correction on weakly supervised bitext and improves it with iterative decoding.",
+    "zh": "在弱监督双语文本上训练 Transformer 进行语法纠错，并通过迭代解码进一步提升效果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-09-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Music Transformer",
+    "zh": "Music Transformer"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1809.04281v3",
+   "note": {
+    "en": "Music Transformer adapts relative attention to model the long-range repetition and structure that music depends on.",
+    "zh": "Music Transformer 改进相对注意力机制，用以建模音乐中依赖的长程重复与结构。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-04-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Adafactor: Adaptive Learning Rates with Sublinear Memory Cost",
+    "zh": "Adafactor: Adaptive Learning Rates with Sublinear Memory Cost"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1804.04235v1",
+   "note": {
+    "en": "Adafactor, Shazeer's optimiser that factors the second-moment estimates to train large models with sublinear memory cost.",
+    "zh": "Adafactor 是 Shazeer 提出的优化器，通过分解二阶矩估计，以次线性显存开销训练大模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-03-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Tensor2Tensor for Neural Machine Translation",
+    "zh": "Tensor2Tensor for Neural Machine Translation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1803.07416v1",
+   "note": {
+    "en": "Describes Tensor2Tensor, the library carrying the reference implementation of the Transformer for neural machine translation.",
+    "zh": "介绍 Tensor2Tensor 库，其中包含用于神经机器翻译的 Transformer 参考实现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-06-01",
+   "level": "major",
+   "title": {
+    "en": "Leaves Google for OpenAI",
+    "zh": "离开 Google 加入 OpenAI"
+   },
+   "body": {
+    "en": "The Gemini co-lead's exit was part of a broader DeepMind talent drain — eight prominent researchers left in two months.",
+    "zh": "这位 Gemini 联合负责人的离开是 DeepMind 更大规模人才流失的一部分 —— 两个月内八名知名研究员出走。"
+   },
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html"
+  },
+  {
+   "date": "2026-06-20",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "OpenAI Hires Noam Shazeer and Dean Ball as Company Prepares for IPO",
+    "zh": "OpenAI Hires Noam Shazeer and Dean Ball as Company Prepares for IPO"
+   },
+   "body": {
+    "en": "Reports confirmed OpenAI hired Noam Shazeer, along with Dean Ball, as the company prepares for an IPO.",
+    "zh": "报道证实 OpenAI 聘请了 Noam Shazeer（与 Dean Ball 一同加入），此时公司正在筹备上市。"
+   },
+   "source": "Analytics Insight",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRzhQalhscGY0MDdPQ3ZjNHpHdERvUkdIRklwc2FqQ3pCZDVpMllRTEtxaEtQTm9aOWhsdnk2TEJFNWtONm9ySndzX2pTWGgwc1M5M1RoSHM0anpKUThxV1JOYzFaQ3E3bG8tWWdMMjFlaWZiOGdOTEtnSUhDR05hUVNKVGlzQnNvQW9nTW41STNIZk5KUXpRNXBiZC0wTGs0d0hqRmhmRVPSAbYBQVVfeXFMUGduUEhKc0xlLUFOX0ZsU1VScDBrb2JUUkowYzRlb2tRaTRINDZpaXZhUGxlVzc0LS1TM2VXODJ4eHVVV2o4aEJPSDVRZTZ6algwajRDaXh2aGpBajlMSi1GMTFtaV9UejMyRVh6cW5MTUk1SUFZZjcxMEtWeUowdVVWRzhqTkQ4Z1g0bDFtbDlZVnNfcUt5c3h2MHlXTGxHLWc5Z0dIZmlselFNbmdHWVBDMGNNSnc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-19",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Google AI veteran and Gemini co-lead Noam Shazeer joins OpenAI",
+    "zh": "Google AI veteran and Gemini co-lead Noam Shazeer joins OpenAI"
+   },
+   "body": {
+    "en": "Shazeer leaves Google, where he co-led Gemini, to join OpenAI — the move that sets his current affiliation.",
+    "zh": "Shazeer 离开曾共同领导 Gemini 的谷歌加入 OpenAI，这次变动确定了他目前的任职机构。"
+   },
+   "source": "Firstpost",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNTVzSGtZdkJzSUY5NFdpU1BaLVJpeF9fMks3azlLMzEzUzBZd2lGM3pDaEE3OURmSHVDajgyX1dJNnd3R19NaTZNd3lzTllVWkpWcmZub1VlT252R1FGUTBVZXJkVUJWUDVuQ3lnMGdIbFlmVlhJYzQ0M0ZJZlVZY05nY2Z6eUY4Skl6bnhpckU4OGFNM080aGZQY1pBQkF5aEY0a1Z3dWZVWFXSAbABQVVfeXFMT2VVbVZKenc4alExb0tGUVpBV1plV2NuYmZpdnFoRUdraXF2TVF0WGRXcG52aWtsOXVYTTZSSTAwV2tyNl9JcklaYndVRXZTZERFcE1oUDdWMDFyTUUwVjlUV1k3WW1SODUtWi1NNUJsOFRYVE82VmJ0aWhVTE4wUTVCSk0wb0xoTjc1bk9XVkRkVFRncDJKM3R0R2VmSGJDdUItaHdtRS0tSUlTZTEzM3g?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-19",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Jim Cramer Calls Noam Shazeer’s Jump to OpenAI a ‘Coup’ as the AI Talent War Heats Up",
+    "zh": "Jim Cramer Calls Noam Shazeer’s Jump to OpenAI a ‘Coup’ as the AI Talent War Heats Up"
+   },
+   "body": {
+    "en": "CNBC's Jim Cramer called Shazeer's move from Google back to OpenAI a 'coup' in the ongoing AI talent war.",
+    "zh": "CNBC的吉姆·克莱默称沙泽尔从谷歌重返OpenAI是这场AI人才争夺战中的一次“政变”式挖角。"
+   },
+   "source": "AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yTGJBWHlLRXY2M2g1TkVPd24yeF8xRUlrVkdWQ2NMNG1RU21nY0Njc3RpczFQT1RmUjBscEwxM29LRUZhZlJPOWRTVkNHQzVHV3dzWGZFMVdRc0xxZTRYX1hwWTlhTGtaYUplNFNQOFdHNkpjMjNPNS1sTzFqdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-19",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI",
+    "zh": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI"
+   },
+   "body": {
+    "en": "Noam Shazeer left his role co-leading Google Gemini to join OpenAI ahead of its IPO.",
+    "zh": "Noam Shazeer离开了谷歌Gemini联合负责人的职位，在OpenAI IPO前加入该公司。"
+   },
+   "source": "rappler.com",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFbG9leWxGdEFEaTctV05NS1U3MU92SGNVZl9WSXBwczVJdkh4eG5yTGRoTFZPTHg5cExncEVBOU9tRnRPazhJampXS0N4UG5WaHBacl93TDhpaWwxZ2lma1czVjZ1S3NDVzdqOEZoSHFSTDU0T1owZ05IZFBmYWc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-18",
+   "ts": "2026-06-18T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "OpenAI poach Noam Shazeer from Google Gemini team in major AI talent shift",
+    "zh": "OpenAI poach Noam Shazeer from Google Gemini team in major AI talent shift"
+   },
+   "body": {
+    "en": "Shazeer left Google's Gemini team to rejoin OpenAI, a major talent shift for both labs.",
+    "zh": "沙泽尔离开谷歌Gemini团队重返OpenAI，是两家实验室之间的一次重大人才流动。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaDVnaTNBb0xsT3g3a1ZaNHoxMHJyY3FvZHBzR2pQT3FYNk5Ycl9EckQ5Q0lycmgySEJ0SS1HU2tLanQ0WDJPLURJc0ZfRmc3eHktQVduMExqYzZyYTNBVGtVWUNQU2RmUzNxVGR2dGVtbWJjdDVoaXVMUXV6QmpqcXBDNHNlZnlvSVlJaWhtcVhCNTh4bkZmeWNqeGw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-18",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Two years after a $2.7 billion return to Google, AI pioneer Noam Shazeer is leaving for OpenAI",
+    "zh": "Two years after a $2.7 billion return to Google, AI pioneer Noam Shazeer is leaving for OpenAI"
+   },
+   "body": {
+    "en": "Shazeer leaves Google for OpenAI, two years after the $2.7B Character.AI deal that brought him back to Google.",
+    "zh": "在以 27 亿美元的 Character.AI 交易回归谷歌两年后，Shazeer 离开谷歌加入 OpenAI。"
+   },
+   "source": "calcalistech.com",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Qd3BhajRzTVRoeEstZzZ6ZEtMZGlpWElHVUJQUjV1cEVxOEZwQW1oOXRJX2FKSjE1dTRlLVdEbjN1UmRzTFZnTmpmR0VkTlF6OU10NUdBUUJmV0NhNmlSRGxJYnUyQ2cz?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-18",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "I’m excited to share that I’ll be joining OpenAI and look forward to working with the exceptional team there. It was a difficult decision to move on. I’m incred",
+    "zh": "I’m excited to share that I’ll be joining OpenAI and look forward to working with the exceptional team there. It was a difficult decision to move on. I’m incred"
+   },
+   "body": {
+    "en": "Shazeer announced on X that he is leaving Google to join OpenAI, ending his second stint at Google after returning in 2024 to co-lead Gemini.",
+    "zh": "Shazeer在X上宣布离开谷歌加入OpenAI,结束了他2024年回归谷歌共同领导Gemini项目后的第二段任期。"
+   },
+   "source": "@NoamShazeer",
+   "url": "https://x.com/NoamShazeer/status/2067400851438932297",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-18",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI",
+    "zh": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI"
+   },
+   "body": {
+    "en": "Shazeer left his role co-leading Google's Gemini to join OpenAI ahead of its planned IPO.",
+    "zh": "Shazeer离开谷歌Gemini联合负责人一职,加入即将上市的OpenAI。"
+   },
+   "source": "ET Enterprise AI",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPN2IyVnVVUGpRYUQxMEpWR25zRUF3Tk9PMFNIQllUZTg2Z3dCUFZpUHhPREtxWDhiLTBtX01sWHVfOW5HNjJidG5oYVg2VW03WWZPZjhEN3BabER3VHpUd24xV0FGUkV3SE1OVE41T0NKV3lfLWZudUhaV3A2d2d2eFRQS1VvZXg1WktxYVA3cnN3SWUwTVlNd21IR0tjZ0VXcEs1VmxWZmcwZHpFYmZrY19uRTdYSV9KV3FhVldndGRBZl9DaTJ4ZWl3bFh6ckZLd0VLYjRPdlc4c09JaHFOVXdnRdIB6AFBVV95cUxQOHZOSkNLNVRqUHVTYTA3cEtLUWE4ZkZvSWxLRVZZVnZwVkRBVUppUFpueG9iLUFySDhqa1ZUa0Q3UG13OXZ1Mk9ZVHJMd2ExTVdFX2c5Y0VqbUdFeHBCVERCMFVHUzhDcUhoUnlfc1BhZ2JOVXQzT0hNZWQ2Y1RHTGUtOUJMbS1zRG40MG1HMEhwLXdFOW5uTW1TWi1pLVhYWGlIME1HdE1NeEZPUUdmdnRHcU1XY1VuOGNWSEZxTWk5dVBGYmdDRDU5SFBqTEd6U1NxX2kxLUFEOVU5MkZIOVJ0VHVRRmlD?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-18",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Noam Shazeer Leaves Google for OpenAI",
+    "zh": "Noam Shazeer Leaves Google for OpenAI"
+   },
+   "body": {
+    "en": "Noam Shazeer left Google to join OpenAI, ending his second stint at Google where he had co-led Gemini since 2024.",
+    "zh": "Noam Shazeer离开谷歌加入OpenAI，结束了他自2024年起在谷歌共同领导Gemini项目的第二段任期。"
+   },
+   "source": "FourWeekMBA",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rZEpLZ3FYQ3dIQVczeVdmUU9WQVRlUjJBUnNxSjJDMzNna2Y1V1RISnpQbmVHQURlVnZxOGdpMGNLLWJac1I5ZkhLZTdYOVBXMmZYalEzYzJPR2tOR2o0djJB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-18",
+   "ts": "2026-06-18T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Google Gemini co-lead Noam Shazeer is leaving for OpenAI",
+    "zh": "Google Gemini co-lead Noam Shazeer is leaving for OpenAI"
+   },
+   "body": {
+    "en": "Shazeer left his role co-leading Gemini at Google to join OpenAI.",
+    "zh": "沙泽尔离开在谷歌共同领导Gemini的职位，加入OpenAI。"
+   },
+   "source": "Neowin",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTU5Yc3pFXzViTXZ6cEEtR2pxeW1HSnNMYmNEYVpid3BKLUZNM1FkVlRTOVg5Q01pNnp3Ym5Dc2Y2YXpESW5mU0phTWtTamlrLWlZYmhzWWRYYzEtWklFUkN0U1JZVldpUTJRTUZMVU4wc3pRa1FlU3phN05QYXVkUDBLSThINWUzWWJMRDln?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-18",
+   "ts": "2026-06-18T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI",
+    "zh": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI"
+   },
+   "body": {
+    "en": "Shazeer left his role co-leading Google's Gemini to join OpenAI ahead of its planned IPO.",
+    "zh": "沙泽尔离开谷歌Gemini联合负责人一职，加入即将IPO的OpenAI。"
+   },
+   "source": "Moneycontrol.com",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZUtPd3pKaFkzT2YzaG1ydmZlam1VWFNBNlNLMFFVZzJJbmZsUndKWDhWXy1UZ3RDTkVuaklza2RWSmJBMkJCdnNNaF84MU8wUjd1UTR1SWtLaVB3SEF1SEM0RXBfckRQb1BqTmhVYWlzdVJVYWFqRVREZWdhcXhCczJCYkNjaXBUWnhCRzZwUUpvMjBPWUVwX0lLbUpQZm1zNXJab2lBOXJwTGJoWlZvb1JaZVh1OVBCR1E1RnJaZVNUazZ6T2dqNGlDY3pVRDTSAdQBQVVfeXFMTzBmQ2tLRVFfMFpQWHpta1pIM3A2QWxPYU1xdXl5ZFBOTVYycGZzNGlWaGZoZG1pa3NSdk4yMUQxaUFSREQ4Sm42SzNQN25kR2otLUxXLW1CNXVrRV9KRTZ3UnRxZ2xYUkpZU3hFdS1ncmR6VmpibWVZUTNQdnJ1UllnSGZsdzJ0MV9vbC1YMnZZbzlVSEY3cmJkY1FrS3FjWTVPYlBrZnNuNFBROERmYUxmSnR4dXRGS1JKOWp1N2xQWkhtMHJJYmljREVRSDl3ak5ncWw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-18",
+   "ts": "2026-06-18T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "OpenAI hires Noam Shazeer and Dean Ball to strengthen strategy ahead of IPO | Ukraine news - #Mezha - Межа. Новини України.",
+    "zh": "OpenAI hires Noam Shazeer and Dean Ball to strengthen strategy ahead of IPO | Ukraine news - #Mezha - Межа. Новини України."
+   },
+   "body": {
+    "en": "Shazeer left Google to join OpenAI, hired to strengthen strategy ahead of the company's IPO.",
+    "zh": "沙泽尔离开谷歌加入OpenAI，在公司筹备IPO之际被聘请以加强战略。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwMDlLeXdxejYzeC1UbFh3cDRVRDJlUTZzRUotdjg3aHZ0eGpLV0c2Vy1BYXR5a1gwdDNNSlJQbnBBcnR3M2o2NXB2X3RaMWJsZHo2aGtyRDF1Z3dRdjdSa2NHZ2g?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-18",
+   "ts": "2026-06-18T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Google Gemini Co-Lead Noam Shazeer Leaves for OpenAI After Billion-Dollar Rehire",
+    "zh": "Google Gemini Co-Lead Noam Shazeer Leaves for OpenAI After Billion-Dollar Rehire"
+   },
+   "body": {
+    "en": "Shazeer left his role co-leading Gemini at Google to move to OpenAI, a high-profile departure following his 2024 return to Google.",
+    "zh": "Shazeer离开谷歌Gemini联合负责人一职转投OpenAI，这是他2024年回归谷歌后又一次备受关注的职位变动。"
+   },
+   "source": "Jagran Josh",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWS16WUtxQk1CRmxNY1c4c3M5dXIyUzdFdzVlMUh0NGZGdk1SajVDM1pCUktGeXZGMWpuZXlmd2RxNEREU0ZmUWVBZnY2V1c1LVBmamdycGt2RjB5bXVZeVZNNTFpQ2FnNm9TTlZWandsbXJjMTRpUXJmOEN2Yldpb25Ib0JwYksyZlJFYVRyNER4Q2NJT0h1MWZSX1JZS1AzbWVBdGttTHZydlNCazRnbjVUdzlqVVM3Sk1LVW9sU0pEZXBNblltT1ZHbmZGTkRpcmY0WjdB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-17",
+   "ts": "2026-06-17T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Google Deepmind Researcher Noam Shazeer Is Joining OpenAI - The Information",
+    "zh": "Google Deepmind Researcher Noam Shazeer Is Joining OpenAI - The Information"
+   },
+   "body": {
+    "en": "The Information reports Noam Shazeer, who co-led Gemini at Google DeepMind, is leaving to join OpenAI.",
+    "zh": "The Information报道，曾在谷歌DeepMind共同领导Gemini项目的Noam Shazeer即将加入OpenAI。"
+   },
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNjlYckdUVi1SZG44RVMzaXE2YXhXSGV3ekVxejRqTWYwNkYxNUlTMFNjRllDcDZXT3JJUXBHYV95bXdiQXhZYWFjOElIMmhxdDFfZ250MGRUTF9ZMnpqMU9nQi1OTHZxVm85X05GVm91WWVlYVRiRDNVUVYtR3V2NUZmank0bkZXMHJtOGk1elAzTWpkR0NVSnpzbkdZY2tFZkpBWC1jdlpzbl9xSFVkZGNOLVVEVnkzQ0pCckp1V1BTWmczdDF6Rk1MRTRpbkZqSnlYMm1JcExqLXM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-17",
+   "ts": "2026-06-17T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI By Reuters",
+    "zh": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI By Reuters"
+   },
+   "body": {
+    "en": "Noam Shazeer left his role co-leading Google's Gemini to join OpenAI ahead of its IPO, a major move in the field's talent map.",
+    "zh": "Noam Shazeer离开Google Gemini联席负责人一职，转投即将上市的OpenAI，这是AI人才格局的一次重大变动。"
+   },
+   "source": "Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUFjNzZaVnJQRVBVVDhVUUxnZFVKVFFiSFBjcV9GVDcxUWVmN2dNaFRpRnBpRElVcWNPT1FBZGNzcHJOeEM4Mloxa0Z5ZWdJYWw5NDNUaUxVYmItUVphZ2dxNFlpVkcya21FcjBQd1N4MTJkYWluRnNtYzZYdzJyODZ0MHVPSk9OTjlkYTZlenQyNGlkUkxBTFhTOHNMQ0R6czBBcHVIZ3dJUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-17",
+   "ts": "2026-06-17T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI",
+    "zh": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI"
+   },
+   "body": {
+    "en": "Shazeer left his role co-leading Google's Gemini to join OpenAI ahead of its planned IPO.",
+    "zh": "沙泽尔离开谷歌Gemini联合负责人一职，加入即将IPO的OpenAI。"
+   },
+   "source": "SRN News",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PSVVyR1R6am5EaXBOME1lWEJwZ1g4ZGl1allPVW9RZ1dLYTlxQVNmNnRZczQ5OVhBQmk1VG9PZHJUWElZd2Z5VzcxSGRISnpaZzVGamViTFljNkdYSTlWQ012Nk9XeHl6ejlTU0Z1a3ByblFKSkkzVmFJOA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-17",
+   "ts": "2026-06-17T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI",
+    "zh": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI"
+   },
+   "body": {
+    "en": "Shazeer is leaving Google, where he co-led Gemini after Google acquired his startup Character.AI, to join OpenAI ahead of its IPO.",
+    "zh": "沙泽尔即将离开谷歌——此前谷歌收购了他的初创公司Character.AI后他在谷歌共同领导Gemini项目——转而加入即将IPO的OpenAI。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUJ3c0VRY0F1di1hQ2tsTTlocUtKYnhHaWRQTU42N0l5QzR6NVZSQk01VUVfendrY0kzenc2NG4wUkx6a1JUSGtqSmlrR01oYjlncExlelJWay1mQzdoZGg3TlJaYzdhT1VSWGtWLW1HSDZMSTk4WUVoM25tUF9NRDhnaENId2oyQUppamc3dWgwMG9TbEE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-17",
+   "ts": "2026-06-17T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Google's Gemini co-lead Noam Shazeer to join OpenAI",
+    "zh": "Google's Gemini co-lead Noam Shazeer to join OpenAI"
+   },
+   "body": {
+    "en": "Shazeer left his role co-leading Google's Gemini effort to join OpenAI, a major move in the ongoing competition for top AI research talent.",
+    "zh": "Shazeer离开谷歌Gemini项目联合负责人一职，加入OpenAI，成为AI顶尖研究人才争夺战中的重大人事变动。"
+   },
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR0g5OS1GYnB2ZU9rZWxEa3lGZ3JtTHg0Qm9UTmViaTg3VldkaW41dzhIdktMYnp2VVdhV0JMM093OGc3Wkl2bmlDaXRjVjFjb0xDQlpxTnlSb3N0a0tYanpFd21mcm5NZGdTUVhlMGx3a2lEWWtnSklsVnFpVGlaT2pRcFRSVU83amRIcmVHY1RGV0FPR2diRjF4TDZsN29obmVhX3pjZm5IWUNUcDJrY2k3OGNsay0zSlV6MEp3?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": true,
+ "was": {
+  "en": "Co-lead, Google Gemini",
+  "zh": "Google Gemini 联合技术负责人"
+ },
+ "cat": "lab",
+ "score": {
+  "total": 57.6,
+  "attention": 65,
+  "centrality": 46,
+  "momentum": 68,
+  "stature": 32,
+  "pageviews": 226968,
+  "citations": 20024,
+  "hIndex": 33,
+  "events": 19,
+  "posts": 48,
+  "wikiEn": "Noam Shazeer",
+  "wikiZh": "諾姆·沙澤爾"
+ },
+ "seedRank": 21,
+ "tier": "t3"
+}

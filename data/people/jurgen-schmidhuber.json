@@ -1,0 +1,1010 @@
+{
+ "rank": 67,
+ "id": "jurgen-schmidhuber",
+ "name": {
+  "en": "Jürgen Schmidhuber",
+  "zh": "Jürgen Schmidhuber"
+ },
+ "role": {
+  "en": "Director of the AI Initiative & Co-chair, GenAI Center of Excellence, KAUST",
+  "zh": "KAUST AI 倡议主任；生成式 AI 卓越中心联席主席"
+ },
+ "org": "KAUST",
+ "region": {
+  "en": "Germany / Saudi Arabia",
+  "zh": "德国/沙特"
+ },
+ "tags": [
+  "KAUST",
+  "LSTM",
+  "Gödel Machine",
+  "Meta-learning",
+  "Self-improvement"
+ ],
+ "why": {
+  "en": "Co-inventor of the LSTM, whose early work is widely held to have anticipated GANs, attention and meta-learning. In 2026 his group revived his Gödel Machine idea in working form.",
+  "zh": "LSTM 的共同发明者，其早期工作被认为预示了 GAN、注意力与元学习等多项后来的核心机制。2026 年他的团队以可运行的形式复活了他的哥德尔机构想。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@SchmidhuberAI",
+   "url": "https://x.com/SchmidhuberAI",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "people.idsia.ch/~juergen",
+   "url": "https://people.idsia.ch/~juergen/",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "KAUST profile",
+   "url": "https://cemse.kaust.edu.sa/profiles/jurgen-schmidhuber",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=J%C3%BCrgen+Schmidhuber",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/J%C3%BCrgen+Schmidhuber",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=J%C3%BCrgen+Schmidhuber",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=J%C3%BCrgen+Schmidhuber&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=J%C3%BCrgen+Schmidhuber&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=J%C3%BCrgen+Schmidhuber",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=J%C3%BCrgen+Schmidhuber&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=J%C3%BCrgen+Schmidhuber",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=J%C3%BCrgen+Schmidhuber",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=J%C3%BCrgen+Schmidhuber",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=J%C3%BCrgen+Schmidhuber",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=J%C3%BCrgen+Schmidhuber",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=J%C3%BCrgen+Schmidhuber",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=J%C3%BCrgen+Schmidhuber",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=J%C3%BCrgen+Schmidhuber&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/J%C3%BCrgen_Schmidhuber",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "1997-11-01",
+   "kind": "paper",
+   "title": {
+    "en": "Long Short-Term Memory",
+    "zh": "长短期记忆网络"
+   },
+   "source": "Neural Computation",
+   "url": "https://people.idsia.ch/~juergen/",
+   "note": {
+    "en": "With Sepp Hochreiter. The architecture that carried sequence modelling for two decades.",
+    "zh": "与 Sepp Hochreiter 合著。支撑了序列建模二十年的架构。"
+   }
+  },
+  {
+   "date": "2025-01-01",
+   "kind": "blog",
+   "title": {
+    "en": "Annotated history of modern AI and deep learning",
+    "zh": "现代 AI 与深度学习的注释史"
+   },
+   "source": "people.idsia.ch/~juergen",
+   "url": "https://people.idsia.ch/~juergen/",
+   "note": {
+    "en": "His running, heavily footnoted account of who did what first — contentious and worth reading for exactly that reason.",
+    "zh": "他持续更新、脚注密集的「谁先做了什么」记述 —— 有争议，也正因如此值得一读。"
+   }
+  },
+  {
+   "date": "2026-09-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Some claim that AGI is here now. Ridiculous. No AGI without mastery of the real world! No true self-improvement without self-improving hardware, as opposed to t",
+    "zh": "Some claim that AGI is here now. Ridiculous. No AGI without mastery of the real world! No true self-improvement without self-improving hardware, as opposed to t"
+   },
+   "source": "@schmidhuberai",
+   "url": "https://x.com/SchmidhuberAI/status/2097188806696800715",
+   "note": {
+    "en": "Schmidhuber dismissed claims that AGI has already arrived, arguing true self-improvement requires mastery of the real world and self-improving hardware.",
+    "zh": "Schmidhuber驳斥了AGI已经到来的说法，认为真正的自我改进需要掌握真实世界并具备自我改进的硬件。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "RSI will \"only be seen inside a few frontier AI labs\" ? Nonsense. Concrete RSI algorithms have existed for almost 4 decades. See \"Meta Learning and Recursive Se",
+    "zh": "RSI will \"only be seen inside a few frontier AI labs\" ? Nonsense. Concrete RSI algorithms have existed for almost 4 decades. See \"Meta Learning and Recursive Se"
+   },
+   "source": "@schmidhuberai",
+   "url": "https://x.com/SchmidhuberAI/status/2096870875513459027",
+   "note": {
+    "en": "Schmidhuber pushed back on claims that recursive self-improvement is confined to a few frontier labs, pointing to his own 1987 work on meta-learning and self-improvement as prior art.",
+    "zh": "施密德胡伯反驳了“递归自我改进只存在于少数前沿实验室”的说法，指出他自己1987年关于元学习与自我改进的工作早已提出这一思路。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "RT @SchmidhuberAI: This \"recurrent depth\" is essentially what's in Sec. 5.3 of the 2015 paper: On Learning to Think: Algorithmic Informatio…",
+    "zh": "RT @SchmidhuberAI: This \"recurrent depth\" is essentially what's in Sec. 5.3 of the 2015 paper: On Learning to Think: Algorithmic Informatio…"
+   },
+   "source": "@SchmidhuberAI",
+   "url": "https://x.com/SchmidhuberAI/status/2095903460994474335",
+   "note": {
+    "en": "Schmidhuber reasserted that today's 'recurrent depth' techniques were already described in his 2015 'Learning to Think' paper, a priority claim about the field's lineage.",
+    "zh": "Schmidhuber重申如今的“循环深度”技术早在他2015年的论文《Learning to Think》中就已提出，这是关于该领域源流的优先权主张。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "RT @SchmidhuberAI: @Bass1mpact @elonmusk @Nature In the end, the truth and the facts will win, and plagiators will be stripped of their awa…",
+    "zh": "RT @SchmidhuberAI: @Bass1mpact @elonmusk @Nature In the end, the truth and the facts will win, and plagiators will be stripped of their awa…"
+   },
+   "source": "@SchmidhuberAI",
+   "url": "https://x.com/SchmidhuberAI/status/2095609178853163074",
+   "note": {
+    "en": "Schmidhuber reiterated that Nature has tolerated plagiarism and that credit will eventually go to the true originators, continuing his long-running dispute over attribution of core deep-learning ideas.",
+    "zh": "Schmidhuber重申《自然》杂志纵容抄袭，认为荣誉终将归于真正的原创者，延续了他关于深度学习核心思想归属权的长期争议。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I agree. @Nature tolerates plagiarism. Aside from the Jason Arday case: Geoffrey Hinton never retracted or corrected his Nature papers that republished/misattri",
+    "zh": "I agree. @Nature tolerates plagiarism. Aside from the Jason Arday case: Geoffrey Hinton never retracted or corrected his Nature papers that republished/misattri"
+   },
+   "source": "@SchmidhuberAI",
+   "url": "https://x.com/SchmidhuberAI/status/2095529118624309527",
+   "note": {
+    "en": "Schmidhuber said Nature tolerates plagiarism, arguing Geoffrey Hinton never corrected Nature papers that misattributed techniques he says he invented.",
+    "zh": "Schmidhuber表示《自然》杂志纵容抄袭，称Geoffrey Hinton从未更正那些将他自称发明的技术归错他人的《自然》论文。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "This \"recurrent depth\" is essentially what's in Sec. 5.3 of the 2015 paper: On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinf",
+    "zh": "This \"recurrent depth\" is essentially what's in Sec. 5.3 of the 2015 paper: On Learning to Think: Algorithmic Information Theory for Novel Combinations of Reinf"
+   },
+   "source": "@SchmidhuberAI",
+   "url": "https://x.com/SchmidhuberAI/status/2095203142455410988",
+   "note": {
+    "en": "Schmidhuber pointed out that the \"recurrent depth\" technique now popular in LLM research was already described in Section 5.3 of his 2015 paper on algorithmic information theory for reinforcement learning and recurrent controllers.",
+    "zh": "施密德胡伯指出，目前LLM研究中流行的\"循环深度\"技术早在他2015年关于强化学习与循环控制器算法信息论的论文第5.3节中就已提出。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Wait until each agent in the collective tries to maximise money in a reinforcement learning (RL) \"Economy Of Minds\" (EOM)! From the 2023 paper on \"Mindstorms in",
+    "zh": "Wait until each agent in the collective tries to maximise money in a reinforcement learning (RL) \"Economy Of Minds\" (EOM)! From the 2023 paper on \"Mindstorms in"
+   },
+   "source": "@SchmidhuberAI",
+   "url": "https://x.com/SchmidhuberAI/status/2095187897330573648",
+   "note": {
+    "en": "Schmidhuber revisited his 2023 \"Mindstorms in Natural Language-Based Societies of Minds\" paper to warn what happens when agents in a multi-agent collective start optimizing for money under reinforcement learning — an \"Economy of Minds.\"",
+    "zh": "施密德胡伯重提他2023年的论文《自然语言社会中的头脑风暴》，警告当多智能体集体中的智能体开始在强化学习下以获取金钱为目标进行优化时会发生什么——即\"头脑经济\"。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "RT @SchmidhuberAI: @morew4rd @elonmusk @p_ferragu a quarter century ago, I predicted: large scale general-purpose quantum computation won't…",
+    "zh": "RT @SchmidhuberAI: @morew4rd @elonmusk @p_ferragu a quarter century ago, I predicted: large scale general-purpose quantum computation won't…"
+   },
+   "source": "@SchmidhuberAI",
+   "url": "https://x.com/SchmidhuberAI/status/2094859751146340487",
+   "note": {
+    "en": "Schmidhuber restated a quarter-century-old prediction, made in reply to Elon Musk, that large-scale general-purpose quantum computation would not work as hoped — a long-running stance of his.",
+    "zh": "Schmidhuber在回复Elon Musk时重申了他25年前的预测：大规模通用量子计算不会如人们所期望的那样奏效——这是他一贯坚持的观点。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Creation begins with understanding: LLMs as strategy designers for privacy-preserving tabular data synthesis",
+    "zh": "Creation begins with understanding: LLMs as strategy designers for privacy-preserving tabular data synthesis"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.29674v1",
+   "note": {
+    "en": "Schmidhuber co-authored a paper proposing LLMs as strategy designers for generating privacy-preserving synthetic tabular data.",
+    "zh": "Schmidhuber参与合著论文，提出用大语言模型作为策略设计者，生成具有隐私保护的合成表格数据。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-08-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DiG-bench: Discovery in Games",
+    "zh": "DiG-bench: Discovery in Games"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.12593v1",
+   "note": {
+    "en": "Introduces a benchmark that tests whether AI agents can discover and formulate novel generalisations inside games, extending his long-standing interest in artificial curiosity and machine discovery.",
+    "zh": "提出一个在游戏环境中检验智能体能否发现并归纳出新规律的基准，延续他长期关注的人工好奇心与机器发现主题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Hybrid Advantage Estimation with Unified Critic for VLM Agentic Reinforcement Learning",
+    "zh": "Hybrid Advantage Estimation with Unified Critic for VLM Agentic Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.23605v1",
+   "note": {
+    "en": "Proposes a hybrid advantage estimator with a unified critic for training vision-language models as multi-turn agents by reinforcement learning.",
+    "zh": "提出结合统一价值网络的混合优势估计方法，用强化学习训练视觉语言模型完成多轮交互式智能体任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-23",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#73 Joachim Nareike sucht das Gespräch mit Jürgen Schmidhuber",
+    "zh": "#73 Joachim Nareike sucht das Gespräch mit Jürgen Schmidhuber"
+   },
+   "source": "FONDS professionell PODCAST",
+   "url": "https://podcasts.apple.com/us/podcast/73-joachim-nareike-sucht-das-gespr%C3%A4ch-mit-j%C3%BCrgen-schmidhuber/id1804878543?i=1000778099416&uo=4",
+   "note": {
+    "en": "Interview on the German podcast FONDS professionell on the origins of modern AI, Europe's capacity to innovate, and where he thinks the real risks lie.",
+    "zh": "德国 FONDS professionell 播客访谈，谈现代人工智能的起源、欧洲的创新能力，以及他眼中真正的风险所在。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-07-15",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AI Pioneer Jürgen Schmidhuber: AI Already Feels Pain, Loves, and Is Self-Aware",
+    "zh": "AI Pioneer Jürgen Schmidhuber: AI Already Feels Pain, Loves, and Is Self-Aware"
+   },
+   "source": "Big Technology Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/ai-pioneer-ju-rgen-schmidhuber-ai-already-feels-pain/id1522960417?i=1000776908514&uo=4",
+   "note": {
+    "en": "Big Technology Podcast interview in which he argues that today's AI systems already have something like feeling and self-awareness, and debates whether current methods reach AGI.",
+    "zh": "在 Big Technology 播客中，他主张当今的人工智能系统已具备类似痛感与自我意识的特性，并讨论现有方法能否通向通用人工智能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-07-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Self-Improvements in Modern Agentic Systems: A Survey",
+    "zh": "Self-Improvements in Modern Agentic Systems: A Survey"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.13104v1",
+   "note": {
+    "en": "Surveys how deployed agentic systems adapt and improve themselves with minimal human input — the recursive self-improvement question he has pursued since the Gödel Machine.",
+    "zh": "综述已部署的智能体系统如何在极少人工干预下自我适应与自我改进，正是他自哥德尔机以来一直研究的递归自我改进问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-09",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ep 90: AI Pioneer Jürgen Schmidhuber on the State of AI Today",
+    "zh": "Ep 90: AI Pioneer Jürgen Schmidhuber on the State of AI Today"
+   },
+   "source": "Unsupervised Learning with Jacob Effron",
+   "url": "https://podcasts.apple.com/us/podcast/ep-90-ai-pioneer-j%C3%BCrgen-schmidhuber-on-the-state-of-ai-today/id1672188924?i=1000776119486&uo=4",
+   "note": {
+    "en": "Interview on Unsupervised Learning covering the state of AI today and the lineage running from his lab's early work to transformers, LSTMs and self-improving systems.",
+    "zh": "在 Unsupervised Learning 播客中回顾当下人工智能的现状，以及从他实验室早期工作到 Transformer、LSTM 与自我改进系统的脉络。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-07-06",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The 15-Year-Old Dreamer who became the Father of Modern AI | Jürgen Schmidhuber",
+    "zh": "The 15-Year-Old Dreamer who became the Father of Modern AI | Jürgen Schmidhuber"
+   },
+   "source": "Human By Design",
+   "url": "https://podcasts.apple.com/us/podcast/the-15-year-old-dreamer-who-became-the-father-of/id6791049849?i=1000776865223&uo=4",
+   "note": {
+    "en": "Podcast interview where Schmidhuber argues today's Turing-test-passing systems may just be 'fancy text editors', distinct from what he calls real, physical intelligence.",
+    "zh": "在播客访谈中，Schmidhuber认为如今能通过图灵测试的系统可能只是“高级文本编辑器”，与他所说的真正（具身）智能并不相同。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-06-07",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Jürgen Schmidhuber - Part 2: JEPA, the Road to AGI, and Who Really Invented Modern AI",
+    "zh": "Jürgen Schmidhuber - Part 2: JEPA, the Road to AGI, and Who Really Invented Modern AI"
+   },
+   "source": "The Information Bottleneck",
+   "url": "https://podcasts.apple.com/us/podcast/j%C3%BCrgen-schmidhuber-part-2-jepa-the-road-to-agi-and/id1834616211?i=1000771571820&uo=4",
+   "note": {
+    "en": "Second half of the same interview, on JEPA, the road to AGI, and his account of who really invented modern AI.",
+    "zh": "同一访谈的下集，谈 JEPA、通往通用人工智能之路，以及他对现代人工智能究竟由谁开创的看法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-06-04",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Jürgen Schmidhuber - World Models, RL, and the Year that changed AI (Part 1)",
+    "zh": "Jürgen Schmidhuber - World Models, RL, and the Year that changed AI (Part 1)"
+   },
+   "source": "The Information Bottleneck",
+   "url": "https://podcasts.apple.com/us/podcast/j%C3%BCrgen-schmidhuber-world-models-rl-and-the-year/id1834616211?i=1000771160808&uo=4",
+   "note": {
+    "en": "First half of a long-form interview on world models, reinforcement learning and the year he regards as the turning point for modern AI.",
+    "zh": "长篇访谈的上集，谈世界模型、强化学习，以及他认为改变现代人工智能走向的那一年。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-05-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Interestingness as an Inductive Heuristic for Future Compression Progress",
+    "zh": "Interestingness as an Inductive Heuristic for Future Compression Progress"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.14831v1",
+   "note": {
+    "en": "Formalises 'interestingness' as a heuristic for predicting which tasks will yield future compression progress, a direct extension of his compression-progress theory of curiosity.",
+    "zh": "把“有趣性”形式化为预测哪些任务能带来未来压缩进步的启发式判据，是他压缩进步好奇心理论的直接延伸。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Learning to Forget: Continual Learning with Adaptive Weight Decay",
+    "zh": "Learning to Forget: Continual Learning with Adaptive Weight Decay"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.27063v1",
+   "note": {
+    "en": "Uses adaptive weight decay so that a continual-learning agent with fixed capacity can deliberately forget stale knowledge and free capacity for new tasks.",
+    "zh": "用自适应权重衰减让容量有限的持续学习智能体主动遗忘过时知识，为新任务腾出容量。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "RPRA: Predicting an LLM-Judge for Efficient but Performant Inference",
+    "zh": "RPRA: Predicting an LLM-Judge for Efficient but Performant Inference"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.12634v1",
+   "note": {
+    "en": "Predicts the verdict of an LLM judge in advance so inference cost can be cut without losing output quality on hardware-limited devices.",
+    "zh": "通过提前预测大模型评判者的打分，在算力受限的设备上降低推理开销而不损失输出质量。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Neural Computers",
+    "zh": "Neural Computers"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.06425v2",
+   "note": {
+    "en": "Sets out the Neural Computer agenda — folding computation, memory and I/O into a single learned runtime state, with a completely neural computer as the long-term goal.",
+    "zh": "提出“神经计算机”的研究纲领：把计算、存储与输入输出统一到一个可学习的运行时状态中，并以完全神经化的计算机为长期目标。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Planning to Explore: Curiosity-Driven Planning for LLM Test Generation",
+    "zh": "Planning to Explore: Curiosity-Driven Planning for LLM Test Generation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.05159v1",
+   "note": {
+    "en": "Applies curiosity-driven planning to LLM test generation, steering the model towards code behaviour that existing tests never reach.",
+    "zh": "把好奇心驱动的规划用于大模型自动生成测试，引导模型探索现有测试未覆盖的代码行为。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Efficient Morphology-Control Co-Design via Stackelberg Proximal Policy Optimization",
+    "zh": "Efficient Morphology-Control Co-Design via Stackelberg Proximal Policy Optimization"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.15388v1",
+   "note": {
+    "en": "Treats the joint optimisation of a robot's body and its controller as a Stackelberg game, giving a more stable bi-level RL procedure for morphology-control co-design.",
+    "zh": "将机器人形态与控制器的联合优化建模为 Stackelberg 博弈，为形态—控制协同设计提供更稳定的双层强化学习方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "RACAS: Controlling Diverse Robots With a Single Agentic System",
+    "zh": "RACAS: Controlling Diverse Robots With a Single Agentic System"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.05621v2",
+   "note": {
+    "en": "Presents a single agentic system that drives several different robot platforms through the low-level APIs they already expose.",
+    "zh": "提出用同一套智能体系统，通过各机器人平台已有的底层接口来控制多种不同的机器人。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Multiple Token Divergence: Measuring and Steering In-Context Computation Density",
+    "zh": "Multiple Token Divergence: Measuring and Steering In-Context Computation Density"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.22944v1",
+   "note": {
+    "en": "Introduces a measure of how much in-context computation a language model is actually doing, and uses it to steer reasoning effort — a compression-based reading of model effort.",
+    "zh": "提出衡量语言模型上下文内计算量的指标，并用它调节推理投入，延续以压缩视角刻画模型“思考”强度的思路。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-10-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Huxley-Gödel Machine: Human-Level Coding Agent Development by an Approximation of the Optimal Self-Improving Machine",
+    "zh": "Huxley-Gödel Machine: Human-Level Coding Agent Development by an Approximation of the Optimal Self-Improving Machine"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2510.21614v3",
+   "note": {
+    "en": "Approximates his Gödel Machine with a coding agent that grows and selects its own self-modifications, reaching human-level results on coding-agent benchmarks.",
+    "zh": "以近似哥德尔机的方式构建能不断自我修改并择优的编程智能体，在编程智能体基准上达到人类水平。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-09-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Who invented deep residual learning?",
+    "zh": "Who invented deep residual learning?"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2509.24732v1",
+   "note": {
+    "en": "His priority note tracing residual connections back to earlier work, continuing a long-running campaign over attribution in deep learning.",
+    "zh": "他考证残差连接思想渊源、追溯至更早工作的署名之争短文，延续其对深度学习成果归属的一贯主张。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-09-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Decoupling the \"What\" and \"Where\" With Polar Coordinate Positional Embeddings",
+    "zh": "Decoupling the \"What\" and \"Where\" With Polar Coordinate Positional Embeddings"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2509.10534v3",
+   "note": {
+    "en": "Paper proposing polar-coordinate positional embeddings that separate content from position in Transformer attention.",
+    "zh": "论文提出极坐标位置编码，在 Transformer 注意力中把内容与位置分离开。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-07-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "PhysGym: Benchmarking LLMs in Interactive Physics Discovery with Controlled Priors",
+    "zh": "PhysGym: Benchmarking LLMs in Interactive Physics Discovery with Controlled Priors"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2507.15550v2",
+   "note": {
+    "en": "Benchmarks LLM agents on interactive physics discovery while holding their prior knowledge fixed, isolating how well they actually explore.",
+    "zh": "在可控先验知识的条件下评测大模型智能体的交互式物理发现能力，从而分离出它们真正的探索水平。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-06-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Curious Causality-Seeking Agents Learn Meta Causal World",
+    "zh": "Curious Causality-Seeking Agents Learn Meta Causal World"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2506.23068v3",
+   "note": {
+    "en": "Has curious agents learn a meta causal world model in which the governing causal rule itself changes with context.",
+    "zh": "让具有好奇心的智能体学习“元因果”世界模型，其中支配环境的因果规则本身会随情境变化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-02-23",
+   "ts": "2025-02-23T16:00:03Z",
+   "kind": "x",
+   "title": {
+    "en": "Do you like RL and math? Our collaboration, IDSIA-KAUST-NNAISENSE, has the most detailed exploration of the convergence and stability of modern RL frameworks li",
+    "zh": "Do you like RL and math? Our collaboration, IDSIA-KAUST-NNAISENSE, has the most detailed exploration of the convergence and stability of modern RL frameworks li"
+   },
+   "source": "@schmidhuberai",
+   "url": "https://x.com/SchmidhuberAI/status/1893692306911363408",
+   "note": {
+    "en": "Schmidhuber announces an IDSIA-KAUST-NNAISENSE collaboration studying the convergence and stability of modern RL methods, including Upside-Down RL and Online Decision Transformers.",
+    "zh": "Schmidhuber宣布IDSIA、KAUST与NNAISENSE合作,深入研究现代强化学习方法(包括Upside-Down RL和在线决策Transformer)的收敛性与稳定性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-01-16",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Jurgen Schmidhuber on Humans co-existing with AIs",
+    "zh": "Jurgen Schmidhuber on Humans co-existing with AIs"
+   },
+   "source": "Machine Learning Street Talk (MLST)",
+   "url": "https://podcasts.apple.com/us/podcast/jurgen-schmidhuber-on-humans-co-existing-with-ais/id1510472996?i=1000684299818&uo=4",
+   "note": {
+    "en": "Machine Learning Street Talk interview on how humans and AIs will co-exist, and on his view that much early deep-learning credit is misattributed.",
+    "zh": "在 Machine Learning Street Talk 播客中谈人类与人工智能如何共存，并重申他认为早期深度学习成果归属被误置的看法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-11-21",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Jurgen Schmidhuber: What can artificial intelligence do for you?",
+    "zh": "Jurgen Schmidhuber: What can artificial intelligence do for you?"
+   },
+   "source": "BBVA Aprendemos juntos",
+   "url": "https://podcasts.apple.com/us/podcast/jurgen-schmidhuber-what-can-artificial-intelligence/id1331478791?i=1000677701289&uo=4",
+   "note": {
+    "en": "Interview for BBVA's Aprendemos juntos, told through his own path from the 1980s ambition of building an artificial scientist to what AI can do for ordinary people.",
+    "zh": "在 BBVA“Aprendemos juntos”节目中的对谈，从他 1980 年代想造出“人工科学家”的抱负讲起，谈人工智能能为普通人做什么。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-08-28",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Jürgen Schmidhuber - Neural and Non-Neural AI, Reasoning, Transformers, and LSTMs",
+    "zh": "Jürgen Schmidhuber - Neural and Non-Neural AI, Reasoning, Transformers, and LSTMs"
+   },
+   "source": "Machine Learning Street Talk (MLST)",
+   "url": "https://podcasts.apple.com/us/podcast/j%C3%BCrgen-schmidhuber-neural-and-non-neural-ai-reasoning/id1510472996?i=1000666935438&uo=4",
+   "note": {
+    "en": "Long-form MLST interview on neural and non-neural AI, reasoning, and the history behind transformers and LSTMs.",
+    "zh": "MLST 长篇访谈，谈神经与非神经方法、推理能力，以及 Transformer 与 LSTM 背后的历史。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-05-01",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Jürgen Schmidhuber, \"Vater\" der modernen KI (#693)",
+    "zh": "Jürgen Schmidhuber, \"Vater\" der modernen KI (#693)"
+   },
+   "source": "OMR Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/j%C3%BCrgen-schmidhuber-vater-der-modernen-ki-693/id1056312052?i=1000654117261&uo=4",
+   "note": {
+    "en": "German-language OMR Podcast interview on the opportunities and dangers of AI and on Germany's standing as a place to do the work.",
+    "zh": "德语 OMR 播客访谈，谈人工智能的机遇与风险，以及德国作为研究与产业基地的处境。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-08-14",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Prof. Jürgen Schmidhuber - FATHER OF AI ON ITS DANGERS",
+    "zh": "Prof. Jürgen Schmidhuber - FATHER OF AI ON ITS DANGERS"
+   },
+   "source": "Machine Learning Street Talk (MLST)",
+   "url": "https://podcasts.apple.com/us/podcast/prof-j%C3%BCrgen-schmidhuber-father-of-ai-on-its-dangers/id1510472996?i=1000624384928&uo=4",
+   "note": {
+    "en": "MLST interview in which he sets out his own reading of the dangers of AI and how serious he takes them to be.",
+    "zh": "MLST 访谈，他在其中阐述自己对人工智能危险的判断，以及认为其严重程度几何。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2020-03-16",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Upside-Down Reinforcement Learning with Jürgen Schmidhuber",
+    "zh": "Upside-Down Reinforcement Learning with Jürgen Schmidhuber"
+   },
+   "source": "The TWIML AI Podcast (formerly This We…",
+   "url": "https://podcasts.apple.com/us/podcast/upside-down-reinforcement-learning-with-j%C3%BCrgen/id1116303051?i=1000468523031&uo=4",
+   "note": {
+    "en": "TWIML interview on Upside-Down Reinforcement Learning, his lab's reformulation of RL as supervised learning on commands.",
+    "zh": "TWIML 播客访谈，介绍他实验室提出的“颠倒强化学习”，即把强化学习改写为基于指令的监督学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2018-11-01",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Jürgen Schmidhuber: Neural Networks",
+    "zh": "Jürgen Schmidhuber: Neural Networks"
+   },
+   "source": "Hidden Layers",
+   "url": "https://podcasts.apple.com/us/podcast/j%C3%BCrgen-schmidhuber-neural-networks/id1442518373?i=1000424443674&uo=4",
+   "note": {
+    "en": "Conversation with Jeremy Fain on the Hidden Layers podcast about neural networks.",
+    "zh": "在 Hidden Layers 播客中与 Jeremy Fain 对谈神经网络。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2018-06-15",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Der Gottvater der KI: Jürgen Schmidhuber - Folge 2",
+    "zh": "Der Gottvater der KI: Jürgen Schmidhuber - Folge 2"
+   },
+   "source": "F.A.Z. Digitalwirtschaft",
+   "url": "https://podcasts.apple.com/us/podcast/der-gottvater-der-ki-j%C3%BCrgen-schmidhuber-folge-2/id1392911377?i=1000413867317&uo=4",
+   "note": {
+    "en": "Second part of an F.A.Z. podcast series on him and the deep-learning breakthroughs that trace back to his work.",
+    "zh": "德国《法兰克福汇报》数字经济播客系列的第二集，讲述他其人及可追溯到他工作的深度学习突破。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2017-08-28",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "LSTMs, Plus a Deep Learning History Lesson with Jürgen Schmidhuber - TWiML Talk #44",
+    "zh": "LSTMs, Plus a Deep Learning History Lesson with Jürgen Schmidhuber - TWiML Talk #44"
+   },
+   "source": "The TWIML AI Podcast (formerly This We…",
+   "url": "https://podcasts.apple.com/us/podcast/lstms-plus-a-deep-learning-history-lesson-with-ju/id1116303051?i=1000391569479&uo=4",
+   "note": {
+    "en": "TWIML interview recorded in Switzerland on LSTMs and the history of deep learning.",
+    "zh": "TWIML 播客第 44 期，在瑞士录制的访谈，谈 LSTM 与深度学习的历史。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2011-12-21",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Radio Feature 35: Jurgen Schmidhuber in conversation with Sona Blessing",
+    "zh": "Radio Feature 35: Jurgen Schmidhuber in conversation with Sona Blessing"
+   },
+   "source": "Opalesque Radio",
+   "url": "https://podcasts.apple.com/us/podcast/radio-feature-35-jurgen-schmidhuber-in-conversation/id406316174?i=1000108796034&uo=4",
+   "note": {
+    "en": "Early radio interview with Sona Blessing for Opalesque, from his IDSIA years.",
+    "zh": "2011 年他在 IDSIA 时期接受 Opalesque 电台 Sona Blessing 的访谈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-01-01",
+   "level": "notable",
+   "title": {
+    "en": "KAUST unveils the Huxley-Gödel Machine",
+    "zh": "KAUST 发布 Huxley-Gödel Machine"
+   },
+   "body": {
+    "en": "An AI agent that evolves by rewriting and improving its own code — a working revival of his Gödel Machine proposal.",
+    "zh": "一个通过改写并改进自身代码而进化的智能体 —— 其哥德尔机构想的可运行复活版。"
+   },
+   "source": "The Decoder",
+   "url": "https://the-decoder.com/a-self-rewriting-ai-from-kaust-revives-jurgen-schmidhubers-vision-of-a-godel-machine/"
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "research",
+ "score": {
+  "total": 33.3,
+  "attention": 42,
+  "centrality": 9,
+  "momentum": 21,
+  "stature": 88,
+  "pageviews": 60498,
+  "citations": 185831,
+  "hIndex": 89,
+  "events": 1,
+  "posts": 44,
+  "wikiEn": "Jürgen Schmidhuber",
+  "wikiZh": "于尔根·施密德胡伯"
+ },
+ "seedRank": 82,
+ "tier": "t4"
+}

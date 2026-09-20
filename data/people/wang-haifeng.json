@@ -1,0 +1,638 @@
+{
+ "rank": 60,
+ "id": "wang-haifeng",
+ "name": {
+  "en": "Wang Haifeng",
+  "zh": "王海峰"
+ },
+ "role": {
+  "en": "CTO, Baidu; Director, National Engineering Research Center of Deep Learning",
+  "zh": "百度 CTO；深度学习技术及应用国家工程研究中心主任"
+ },
+ "org": "Baidu",
+ "region": {
+  "en": "China",
+  "zh": "中国"
+ },
+ "tags": [
+  "Baidu",
+  "ERNIE",
+  "PaddlePaddle",
+  "NLP",
+  "ACL"
+ ],
+ "why": {
+  "en": "Drove PaddlePaddle, China's first large-scale deep learning platform, and owns the ERNIE model line technically. First ethnic-Chinese president of ACL.",
+  "zh": "主导了中国最早的大规模深度学习平台飞桨 PaddlePaddle，是文心系列模型的技术负责人。NLP 领域国际学会 ACL 首位华人主席。"
+ },
+ "links": [
+  {
+   "kind": "blog",
+   "label": "Personal site",
+   "url": "https://haifengwang.net/",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "Baidu Research",
+   "url": "http://research.baidu.com/",
+   "t": 2
+  },
+  {
+   "kind": "github",
+   "label": "PaddlePaddle on GitHub",
+   "url": "https://github.com/PaddlePaddle",
+   "t": 2
+  },
+  {
+   "kind": "hf",
+   "label": "ERNIE on Hugging Face",
+   "url": "https://huggingface.co/baidu",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "Baidu ERNIE blog",
+   "url": "https://ernie.baidu.com/blog/",
+   "t": 2
+  },
+  {
+   "kind": "x",
+   "label": "X — search",
+   "url": "https://x.com/search?q=%22Wang+Haifeng%22&f=live",
+   "t": 3
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Wang+Haifeng",
+   "t": 3
+  },
+  {
+   "kind": "weibo",
+   "label": "微博 — 搜索",
+   "url": "https://s.weibo.com/user?q=%E7%8E%8B%E6%B5%B7%E5%B3%B0",
+   "t": 3
+  },
+  {
+   "kind": "zhihu",
+   "label": "知乎 — 搜索",
+   "url": "https://www.zhihu.com/search?type=people&q=%E7%8E%8B%E6%B5%B7%E5%B3%B0",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "微信公众号 — 搜索",
+   "url": "https://weixin.sogou.com/weixin?type=2&query=%E7%8E%8B%E6%B5%B7%E5%B3%B0",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "B 站 — 搜索",
+   "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%B5%B7%E5%B3%B0",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Wang+Haifeng",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Wang+Haifeng",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Wang+Haifeng&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Wang+Haifeng&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=%E7%8E%8B%E6%B5%B7%E5%B3%B0",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Wang+Haifeng&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Wang+Haifeng",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Wang+Haifeng",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Wang+Haifeng",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Wang+Haifeng",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Wang+Haifeng",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Wang+Haifeng",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Wang+Haifeng",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ACL Anthology",
+   "url": "https://aclanthology.org/search/?q=Wang+Haifeng",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Wang+Haifeng&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "中文报道 — 最新",
+   "url": "https://www.google.com/search?q=%E7%8E%8B%E6%B5%B7%E5%B3%B0+AI&tbm=nws&hl=zh-CN",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-05-13",
+   "kind": "talk",
+   "title": {
+    "en": "Baidu Create 2026 — the ERNIE 5.1 rollout",
+    "zh": "Create 2026 百度 AI 开发者大会 —— 文心 5.1 全面推出"
+   },
+   "source": "Baidu",
+   "url": "http://research.baidu.com/",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-09-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "LifeMem: Enabling Lifelong Experience Reuse for LLM Agents",
+    "zh": "LifeMem: Enabling Lifelong Experience Reuse for LLM Agents"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.12655v1",
+   "note": {
+    "en": "Co-authored with NLP researchers from Harbin Institute of Technology and Beijing Institute of Technology, this paper proposes a lifelong memory framework letting LLM agents reuse past experience across tasks.",
+    "zh": "该论文由王海峰与哈尔滨工业大学、北京理工大学的自然语言处理学者合作完成，提出了一种让LLM智能体在不同任务间复用历史经验的终身记忆框架。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition",
+    "zh": "JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.10451v1",
+   "note": {
+    "en": "JarvisGUI proposes a framework for cross-device GUI agents that dynamically compose tasks across multiple devices and platforms, with Wang Haifeng as senior author.",
+    "zh": "JarvisGUI提出了一种跨设备GUI智能体框架，可在多设备、多平台间动态组合任务，王海峰为资深作者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Enough is as good as a feast: A Comprehensive Analysis of How Reinforcement Learning Mitigates Task Conflicts in LLMs",
+    "zh": "Enough is as good as a feast: A Comprehensive Analysis of How Reinforcement Learning Mitigates Task Conflicts in LLMs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.22039v1",
+   "note": {
+    "en": "An ICLR 2026 paper with his Baidu NLP colleagues analysing why reinforcement learning suffers far less from task conflict than model merging when consolidating specialised LLMs.",
+    "zh": "与百度自然语言处理团队合著的 ICLR 2026 论文，分析在整合多个专用大模型时，强化学习为何比模型融合更少出现任务冲突。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "PEC-Home: Interpretation of Progressively Elliptical Commands in Smart Homes",
+    "zh": "PEC-Home: Interpretation of Progressively Elliptical Commands in Smart Homes"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.18636v1",
+   "note": {
+    "en": "An ACL 2026 Findings paper he co-authored on getting smart-home assistants to interpret spoken commands that progressively omit information.",
+    "zh": "他参与合著的 ACL 2026 Findings 论文，研究智能家居助手如何理解逐渐省略信息的口语指令。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DocOS: Towards Proactive Document-Guided Actions in GUI Agents",
+    "zh": "DocOS: Towards Proactive Document-Guided Actions in GUI Agents"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.18048v1",
+   "note": {
+    "en": "A benchmark he co-authored for GUI agents that must search out and follow online documentation to complete unfamiliar tasks.",
+    "zh": "他参与合著的基准测试，考察图形界面智能体在陌生任务中主动检索并遵循在线文档的能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SimReg: Achieving Higher Performance in the Pretraining via Embedding Similarity Regularization",
+    "zh": "SimReg: Achieving Higher Performance in the Pretraining via Embedding Similarity Regularization"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.08809v1",
+   "note": {
+    "en": "Work from his PaddlePaddle team on an embedding-similarity regulariser that speeds up LLM pretraining convergence by over 30%.",
+    "zh": "来自其飞桨团队的研究，提出嵌入相似度正则化方法，将大模型预训练收敛速度提升三成以上。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Sparse Growing Transformer: Training-Time Sparse Depth Allocation via Progressive Attention Looping",
+    "zh": "Sparse Growing Transformer: Training-Time Sparse Depth Allocation via Progressive Attention Looping"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.23998v3",
+   "note": {
+    "en": "An ERNIE-team paper on allocating Transformer depth sparsely during training through progressive attention looping, rather than by reusing parameters recursively.",
+    "zh": "文心团队论文，提出通过渐进式注意力循环在训练阶段稀疏分配 Transformer 深度，而非依赖参数复用的递归执行。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Emulating Clinician Cognition via Self-Evolving Deep Clinical Research",
+    "zh": "Emulating Clinician Cognition via Self-Evolving Deep Clinical Research"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.10677v1",
+   "note": {
+    "en": "A Baidu–Renmin University paper on DxEvolve, a self-evolving clinical diagnosis agent that reaches clinician-comparable accuracy on a reader-study subset.",
+    "zh": "百度与中国人民大学合作论文，提出可自我演进的临床诊断智能体 DxEvolve，在阅片研究子集上达到与临床医生相当的准确率。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Learning to Generate via Understanding: Understanding-Driven Intrinsic Rewarding for Unified Multimodal Models",
+    "zh": "Learning to Generate via Understanding: Understanding-Driven Intrinsic Rewarding for Unified Multimodal Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.06043v1",
+   "note": {
+    "en": "A CVPR 2026 paper from his group that uses a unified multimodal model's own understanding ability as an intrinsic reward to improve its image generation.",
+    "zh": "其团队的 CVPR 2026 论文，将统一多模态模型自身的理解能力作为内在奖励，用以提升图像生成质量。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Mixture of Universal Experts: Scaling Virtual Width via Depth-Width Transformation",
+    "zh": "Mixture of Universal Experts: Scaling Virtual Width via Depth-Width Transformation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.04971v1",
+   "note": {
+    "en": "An ERNIE-team paper that scales mixture-of-experts capacity by trading network depth for virtual width instead of enlarging physical dimensions.",
+    "zh": "文心团队论文，通过深度与宽度的相互转换扩展混合专家模型的虚拟宽度，而非直接增加物理维度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Eureka-Audio: Triggering Audio Intelligence in Compact Language Models",
+    "zh": "Eureka-Audio: Triggering Audio Intelligence in Compact Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.13954v1",
+   "note": {
+    "en": "Baidu's compact audio language model, which he co-authored, matching models 4 to 18 times larger across audio understanding benchmarks.",
+    "zh": "他参与合著的百度轻量级音频语言模型，在多项音频理解基准上媲美参数量大 4 至 18 倍的模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "RRAttention: Dynamic Block Sparse Attention via Per-Head Round-Robin Shifts for Long-Context Inference",
+    "zh": "RRAttention: Dynamic Block Sparse Attention via Per-Head Round-Robin Shifts for Long-Context Inference"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.05853v1",
+   "note": {
+    "en": "A PaddlePaddle-team method for long-context inference that shifts sparse attention blocks round-robin across heads to cut the quadratic cost of attention.",
+    "zh": "飞桨团队提出的长上下文推理方法，在各注意力头之间以轮转方式移动稀疏注意力块，降低注意力的平方级开销。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "ERNIE 5.0 Technical Report",
+    "zh": "ERNIE 5.0 Technical Report"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.04705v1",
+   "note": {
+    "en": "The ERNIE 5.0 technical report, on which he is first author: Baidu's natively autoregressive foundation model unifying understanding and generation across text, image, video and audio.",
+    "zh": "文心 5.0 技术报告，他是第一作者：百度原生自回归基础模型，统一文本、图像、视频与音频的理解与生成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "MEnvAgent: Scalable Polyglot Environment Construction for Verifiable Software Engineering",
+    "zh": "MEnvAgent: Scalable Polyglot Environment Construction for Verifiable Software Engineering"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2601.22859v3",
+   "note": {
+    "en": "An ICML 2026 spotlight paper he co-authored on automatically building executable multi-language environments so software-engineering agents can be verified at scale.",
+    "zh": "他参与合著的 ICML 2026 Spotlight 论文，研究自动构建多语言可执行环境，以便大规模验证软件工程智能体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution",
+    "zh": "OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2601.20380v1",
+   "note": {
+    "en": "Baidu's general-purpose GUI agent for mobile and desktop, co-authored by him, reporting 96.3% on ScreenSpot-V2 and a 79.1% step success rate on AndroidControl.",
+    "zh": "他参与合著的百度通用图形界面智能体，覆盖手机与桌面平台，在 ScreenSpot-V2 上取得 96.3%，在 AndroidControl 上步骤成功率达 79.1%。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "CORD: Bridging the Audio-Text Reasoning Gap via Weighted On-policy Cross-modal Distillation",
+    "zh": "CORD: Bridging the Audio-Text Reasoning Gap via Weighted On-policy Cross-modal Distillation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2601.16547v1",
+   "note": {
+    "en": "Baidu paper with Wang as senior author proposing weighted on-policy cross-modal distillation to close the audio-text reasoning gap in audio language models.",
+    "zh": "百度论文（王海峰为末位/资深作者），提出加权同策略跨模态蒸馏方法，缩小音频语言模型中语音与文本之间的推理差距。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Distributional Clarity: The Hidden Driver of RL-Friendliness in Large Language Models",
+    "zh": "Distributional Clarity: The Hidden Driver of RL-Friendliness in Large Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2601.06911v1",
+   "note": {
+    "en": "A Baidu paper identifying distributional clarity as the property that explains why some model families gain far more from reinforcement learning than others.",
+    "zh": "百度论文提出以分布清晰度这一性质，解释为何部分模型族能从强化学习中获得远超其他模型的收益。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction",
+    "zh": "VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2601.05966v2",
+   "note": {
+    "en": "An ERNIE-team autoregressive video generator that predicts the next frame and the next scale instead of relying on diffusion or flow matching.",
+    "zh": "文心团队提出的自回归视频生成模型，以预测下一帧与下一尺度替代扩散或流匹配式生成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-03-20",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "631.【BAT播报】对话百度AIG总负责人王海峰：AI时代会产生新巨头",
+    "zh": "631.【BAT播报】对话百度AIG总负责人王海峰：AI时代会产生新巨头"
+   },
+   "source": "记忆里轻拂过的风",
+   "url": "https://podcasts.apple.com/us/podcast/631-bat%E6%92%AD%E6%8A%A5-%E5%AF%B9%E8%AF%9D%E7%99%BE%E5%BA%A6aig%E6%80%BB%E8%B4%9F%E8%B4%A3%E4%BA%BA%E7%8E%8B%E6%B5%B7%E5%B3%B0-ai%E6%97%B6%E4%BB%A3%E4%BC%9A%E4%BA%A7%E7%94%9F%E6%96%B0%E5%B7%A8%E5%A4%B4/id1645027834?i=1000605043257&uo=4",
+   "note": {
+    "en": "Wang Haifeng, head of Baidu's AI Group, discusses in an interview why the AI era will produce new industry giants.",
+    "zh": "百度AIG总负责人王海峰在访谈中谈AI时代将如何催生新的行业巨头。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-05-08",
+   "level": "major",
+   "title": {
+    "en": "ERNIE 5.1 becomes the first Chinese LLM in the global Search Arena top 5",
+    "zh": "ERNIE 5.1 成为首个进入全球 Search Arena 前五的中国大模型"
+   },
+   "body": {
+    "en": "Debuted at #4 on the LMArena Search Arena leaderboard with 1,223, behind only two Claude Opus variants and GPT-5.5 Search. A MoE with roughly a third of ERNIE 5.0's total parameters, trained at about 6% of comparable frontier compute cost.",
+    "zh": "以 1223 分位列 LMArena Search Arena 全球第 4，仅次于两个 Claude Opus 版本与 GPT-5.5 Search。MoE 架构，总参数约为 ERNIE 5.0 的三分之一，训练算力成本约为同级前沿模型的 6%。"
+   },
+   "source": "Codersera",
+   "url": "https://codersera.com/blog/baidu-ernie-5-1-launch-2026/"
+  },
+  {
+   "date": "2026-01-22",
+   "level": "notable",
+   "title": {
+    "en": "ERNIE 5.0 released — 2.4T parameters, native full-modality",
+    "zh": "文心 5.0 发布 —— 2.4 万亿参数，原生全模态"
+   },
+   "body": {
+    "en": "Native full-modality unified modelling across text, image, audio and video.",
+    "zh": "原生全模态统一建模，覆盖文本、图像、音频与视频。"
+   },
+   "source": "Baidu Research",
+   "url": "http://research.baidu.com/"
+  },
+  {
+   "date": "2026-03-07",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "李彦宏卸任百度投资董事 马东敏、王海峰成为新任董事",
+    "zh": "李彦宏卸任百度投资董事 马东敏、王海峰成为新任董事"
+   },
+   "body": {
+    "en": "Wang was appointed a director of Baidu's investment arm as Robin Li stepped off that board.",
+    "zh": "李彦宏卸任百度投资董事，王海峰出任该公司新任董事。"
+   },
+   "source": "每日经济新闻",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOd0F4S1IyVkx0UlR6c3lMcUpNbGdRX0sybENEMnZMeHJ3R29tS1ZxMVR0X0ppM01FdV83U2I1Qy1aNmxfOVRQeVNDMmpJRnlnTUtZVU1kR2JsTklIc0RjbXYwN1NRZw?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "lab",
+ "score": {
+  "total": 38.1,
+  "attention": null,
+  "centrality": 50,
+  "momentum": 25,
+  "stature": 36,
+  "pageviews": 0,
+  "citations": 22856,
+  "hIndex": 74,
+  "events": 3,
+  "posts": 20,
+  "wikiEn": null,
+  "wikiZh": null
+ },
+ "seedRank": 34,
+ "tier": "t4"
+}

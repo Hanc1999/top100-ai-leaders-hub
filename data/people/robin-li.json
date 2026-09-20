@@ -1,0 +1,1229 @@
+{
+ "rank": 44,
+ "id": "robin-li",
+ "name": {
+  "en": "Robin Li",
+  "zh": "李彦宏"
+ },
+ "role": {
+  "en": "Founder, Chairman & CEO, Baidu",
+  "zh": "百度创始人、董事长兼 CEO"
+ },
+ "org": "Baidu",
+ "region": {
+  "en": "China",
+  "zh": "中国"
+ },
+ "tags": [
+  "Baidu",
+  "ERNIE",
+  "Kunlun",
+  "Apollo Go",
+  "DAA"
+ ],
+ "why": {
+  "en": "The earliest Chinese entrepreneur to bet on a full in-house stack: Kunlun chips, PaddlePaddle, ERNIE models, and Apollo Go robotaxis. In 2026 he pushed the industry to adopt Daily Active Agents as its defining metric.",
+  "zh": "中国最早押注全栈自研 AI 的企业家：昆仑芯片、飞桨框架、文心模型、萝卜快跑自动驾驶四层布局。2026 年他推动行业以 Daily Active Agents 作为新的核心指标。"
+ },
+ "links": [
+  {
+   "kind": "company",
+   "label": "Baidu Investor Relations",
+   "url": "https://ir.baidu.com/",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Baidu Research",
+   "url": "http://research.baidu.com/",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "Baidu ERNIE blog",
+   "url": "https://ernie.baidu.com/blog/",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "Baidu IR news releases",
+   "url": "https://ir.baidu.com/news-releases/",
+   "t": 2
+  },
+  {
+   "kind": "x",
+   "label": "X — search",
+   "url": "https://x.com/search?q=%22Robin+Li%22&f=live",
+   "t": 3
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Robin+Li",
+   "t": 3
+  },
+  {
+   "kind": "weibo",
+   "label": "微博 — 搜索",
+   "url": "https://s.weibo.com/user?q=%E6%9D%8E%E5%BD%A6%E5%AE%8F",
+   "t": 3
+  },
+  {
+   "kind": "zhihu",
+   "label": "知乎 — 搜索",
+   "url": "https://www.zhihu.com/search?type=people&q=%E6%9D%8E%E5%BD%A6%E5%AE%8F",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "微信公众号 — 搜索",
+   "url": "https://weixin.sogou.com/weixin?type=2&query=%E6%9D%8E%E5%BD%A6%E5%AE%8F",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "B 站 — 搜索",
+   "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%BD%A6%E5%AE%8F",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Robin+Li",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Robin+Li",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Robin+Li&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Robin+Li&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=%E6%9D%8E%E5%BD%A6%E5%AE%8F",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Robin+Li&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Robin+Li",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Robin+Li&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "中文报道 — 最新",
+   "url": "https://www.google.com/search?q=%E6%9D%8E%E5%BD%A6%E5%AE%8F+AI&tbm=nws&hl=zh-CN",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Robin_Li",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-05-01",
+   "kind": "talk",
+   "title": {
+    "en": "Daily Active Agents is the metric that matters now",
+    "zh": "现在真正重要的指标是 Daily Active Agents"
+   },
+   "source": "Baidu",
+   "url": "https://www.stocktitan.net/news/BIDU/baidu-advances-agent-portfolio-to-embrace-the-agent-era-champions-aedc0jjigch1.html",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2024-11-14",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Future of Business: Baidu’s Robin Li on the Technology Trends that Will Transform Business",
+    "zh": "Future of Business: Baidu’s Robin Li on the Technology Trends that Will Transform Business"
+   },
+   "source": "HBR IdeaCast",
+   "url": "https://podcasts.apple.com/us/podcast/future-of-business-baidus-robin-li-on-the/id152022135?i=1000676954429&uo=4",
+   "note": {
+    "en": "HBR IdeaCast interview in which Li explains Baidu's full AI stack — chips, framework, models and autonomous driving — and the business trends he expects it to reshape.",
+    "zh": "《哈佛商业评论》IdeaCast 访谈：李彦宏讲解百度从芯片、框架、模型到自动驾驶的全栈布局，以及他预判将被重塑的商业趋势。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-07-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Vol.132 | 对话李彦宏：智能体正在爆发，大模型对B端影响将超越互联网",
+    "zh": "Vol.132 | 对话李彦宏：智能体正在爆发，大模型对B端影响将超越互联网"
+   },
+   "source": "第一财经",
+   "url": "https://podcasts.apple.com/us/podcast/vol-132-%E5%AF%B9%E8%AF%9D%E6%9D%8E%E5%BD%A6%E5%AE%8F-%E6%99%BA%E8%83%BD%E4%BD%93%E6%AD%A3%E5%9C%A8%E7%88%86%E5%8F%91-%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%AF%B9b%E7%AB%AF%E5%BD%B1%E5%93%8D%E5%B0%86%E8%B6%85%E8%B6%8A%E4%BA%92%E8%81%94%E7%BD%91/id1812602503?i=1000706491330&uo=4",
+   "note": {
+    "en": "In a Yicai (第一财经) dialogue, Robin Li said AI agents are exploding and argued large models' impact on enterprise (B-side) use will exceed that of the internet.",
+    "zh": "在第一财经的对话节目中，李彦宏谈到智能体正在爆发，并认为大模型对产业端（B端）的影响将超越互联网本身。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
+   "date": "2009-09-23",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Robin Li (Baidu) - Lessons From China: The Evolution of The Globe's Largest Search Engine",
+    "zh": "Robin Li (Baidu) - Lessons From China: The Evolution of The Globe's Largest Search Engine"
+   },
+   "source": "Entrepreneurial Thought Leaders (ETL)",
+   "url": "https://podcasts.apple.com/us/podcast/robin-li-baidu-lessons-from-china-the-evolution/id80867514?i=1000060800921&uo=4",
+   "note": {
+    "en": "Stanford Entrepreneurial Thought Leaders talk in which Li recounts how Baidu was built and why understanding Chinese language and culture let it win the domestic search market.",
+    "zh": "斯坦福 ETL 讲座：李彦宏回顾百度的创立与成长，并解释对中文语言与文化的理解如何让百度赢下国内搜索市场。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2009-09-23",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Lessons From China: The Evolution of The Globe's Largest Search Engine [Entire Talk]",
+    "zh": "Lessons From China: The Evolution of The Globe's Largest Search Engine [Entire Talk]"
+   },
+   "source": "Entrepreneurial Thought Leaders Video…",
+   "url": "https://podcasts.apple.com/us/podcast/lessons-from-china-the-evolution-of-the/id1438251033?i=1000488948545&uo=4",
+   "note": {
+    "en": "Li details Baidu's founding and growth into China's dominant search engine, crediting its understanding of Chinese language and market.",
+    "zh": "李彦宏在演讲中讲述了百度作为中国主导搜索引擎的创立与发展历程，强调其对中文语言和市场的深刻理解。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-05-01",
+   "level": "major",
+   "title": {
+    "en": "Core AI business passes half of Baidu's general business revenue",
+    "zh": "核心 AI 业务收入首次超过百度核心非广告业务的一半"
+   },
+   "body": {
+    "en": "Q1 2026: total revenue RMB 26.0B (+2% YoY); core AI-powered business RMB 13.6B (+49%), reaching 52%. AI Cloud infrastructure revenue surged 79% to RMB 8.8B.",
+    "zh": "2026 Q1：总营收 260 亿元（同比 +2%）；核心 AI 业务收入 136 亿元（+49%），占比达 52%。AI 云基础设施收入同比 +79% 至 88 亿元。"
+   },
+   "source": "Baidu IR",
+   "url": "https://ir.baidu.com/news-releases/news-release-details/baidu-announces-first-quarter-2026-results/"
+  },
+  {
+   "date": "2026-05-01",
+   "level": "notable",
+   "title": {
+    "en": "Proposes Daily Active Agents (DAA) as the industry's defining metric",
+    "zh": "提出以 Daily Active Agents (DAA) 作为行业核心指标"
+   },
+   "body": {
+    "en": "Alongside a refreshed agent portfolio: general-purpose agent DuMate and the enterprise edition of coding agent Miaoda.",
+    "zh": "同时发布更新的 agent 产品矩阵：通用 agent DuMate 与编码 agent 秒哒的企业版。"
+   },
+   "source": "StockTitan",
+   "url": "https://www.stocktitan.net/news/BIDU/baidu-advances-agent-portfolio-to-embrace-the-agent-era-champions-aedc0jjigch1.html"
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T08:48:08Z",
+   "level": "notable",
+   "title": {
+    "en": "不及字节二十分之一？李彦宏要重写百度",
+    "zh": "不及字节二十分之一？李彦宏要重写百度"
+   },
+   "body": {
+    "en": "Amid reports that Baidu's scale trails ByteDance by more than 20x, Li signaled a major strategic overhaul of the company.",
+    "zh": "有报道称百度规模不及字节跳动的二十分之一，李彦宏表态要对百度进行重大战略重塑。"
+   },
+   "source": "finance.china.com",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53dEk5SzJtaW9reVA2OGxMQ3VpLU4xZ01KQlhjbVRSczFPOEtzc1AycEp6R3FOYkxvdUtGVmx5VjVVQzB4YmVHMUg4V2ZZcDBuMTllZHFjcmNzOW1iM2ZRRG5WZUlaTm1lRjJJT2Fn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T10:34:00Z",
+   "level": "notable",
+   "title": {
+    "en": "百度拟申请驾驶车辆项目商业化 李彦宏：对港发展充满信心",
+    "zh": "百度拟申请驾驶车辆项目商业化 李彦宏：对港发展充满信心"
+   },
+   "body": {
+    "en": "Baidu is preparing to seek commercial approval for its driverless-vehicle operations, with Robin Li voicing confidence in Hong Kong's development.",
+    "zh": "百度拟申请自动驾驶项目商业化，李彦宏表示对香港的发展充满信心。"
+   },
+   "source": "香港01",
+   "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNTTBrZXctUEozS29fbDJWRGszYmxJSWlyd1pMSXdEak1CaG5pOWtoUHpRQXcxN0g3YWZXbVRYem5RcmRQbkNkaFppOTl6NVQ2eUFBSVNtZTRzQkV3eDk4VnNKallTdDU5VERkM1RvWmFrSE5VYlRJQ0hSZzE4OUsyVDUybDFkUUN6TWE3VmRBd2VJSnQ2SXp5Q3ZVWUxhaEZrX1NjSkJuMmhXanp3MTBhQ3R6TTk5cEpyVDlTZ05kZU1PeVk5Q1NZMTR1ZkR0Q25IakYyQ2tQQUxsei05RFUzMUw1aXh5MFpmU2ZnYnhHeUttdW5ZVnJtTXpqSzBuY3hHcVRtLXh6TDZsOTQ1d2Rqb3lkOVdHS0FHVWpIZjRLQ0R5V1YxaEVwV3B5UldadWxReUJkQlZTUWtxOVV1Z296bDJGb0ZIZmthcVU0Nk5kZ2xrYkFfQVY1bDBHdkMwQ0w4elFZb3FBVXlmMXNBZmhodG50ZWlzUnpoUVY2QVpDMjVRaUtubzJIRmtOWFd2ZlVKc1VKMXJvZlpVb2RPalV3bDZtWHlVLUVJ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T11:27:00Z",
+   "level": "notable",
+   "title": {
+    "en": "不及字节二十分之一？李彦宏要重写百度",
+    "zh": "不及字节二十分之一？李彦宏要重写百度"
+   },
+   "body": {
+    "en": "Facing ByteDance's scale advantage, Robin Li signaled he is moving to overhaul Baidu's strategy and structure.",
+    "zh": "面对字节跳动的规模优势，李彦宏表态将对百度的战略与架构进行重写。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ0h2d190anlINmQ4a010b0dkeGhRWnhRNHZvSkxQemRmeDRZT3ZsN0R6bXdZM0dSc0lUSm5OQnpYZkdUWl8wUzAwMmlycUQ0ZTRMTXk3TU1HbXhXTXpyYUp0VUJnVkt1aWVPRnlHSUx5MkhvdVFQUlRxS3dqcUxVNHJ6SGRGNWViTXhTOVdVUzF3Wk11Ujl6N01YbEp1S3ZVdEUzQkFCRDZfbUxsdDU0ZDZOOGpLLU83SXZhYWFoajB0TlNwTVBSbzM2Mzhod1ZK?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T13:36:00Z",
+   "level": "notable",
+   "title": {
+    "en": "湖北省委书记会见李彦宏，什么信号？",
+    "zh": "湖北省委书记会见李彦宏，什么信号？"
+   },
+   "body": {
+    "en": "Hubei's provincial Party secretary met with Baidu founder Robin Li, a government-relations signal as Baidu expands its AI and robotaxi footprint in China.",
+    "zh": "湖北省委书记会见百度创始人李彦宏，这是百度在中国扩展AI与自动驾驶出租车业务背景下的一个政企关系信号。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT2RCV1UwbTVDYlNHRlF4d1R1OFRqTTRBS050aENhR1BsMndnNzFaU2xxYlNjMkhBRXcydXR1Qk04ZGYzRGhoWEtaWG9GTUpZV282N3Bzd09zWUpKT3ozd19XQWhmQzJ4UlNERHhIT2N4RWRyNldzcjdZLTdxLTZmSjg5MWQ0VTk1VmE2YThkak1ramJTalFJ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T06:09:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李彦宏的新麻烦：百度还在用快播用过的辩护词",
+    "zh": "李彦宏的新麻烦：百度还在用快播用过的辩护词"
+   },
+   "body": {
+    "en": "Report alleges Baidu is reusing a legal defense argument once used by the shuttered piracy platform Kuaibo, adding to Robin Li's legal troubles.",
+    "zh": "报道称百度沿用了曾被快播使用过的辩护词，为李彦宏带来新的法律麻烦。"
+   },
+   "source": "维科号",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85NXY0bERBV3ZfMll6T045U2RKbGRDNXBRTTVGaGctbGhUbU9yQXQ0VFRQTlhvajVFa1dQOWVKR2piNGdVZTJyRGpuangwbG1VX1lDN0ozOA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-02",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "百度完成双重主要上市 李彦宏称昆仑芯和萝卜快跑成竞争差异化来源",
+    "zh": "百度完成双重主要上市 李彦宏称昆仑芯和萝卜快跑成竞争差异化来源"
+   },
+   "body": {
+    "en": "Baidu completed its dual primary listing in Hong Kong and the US, with Robin Li naming the Kunlun chip and Apollo Go robotaxis as the company's key sources of competitive differentiation.",
+    "zh": "百度完成美港双重主要上市，李彦宏表示昆仑芯和萝卜快跑是公司实现差异化竞争的关键来源。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSC16b2ZCYW9NMzRIOERGbUFUa3F5Qm51cGFWS3VuRjJ6QXVlbUYtNVRUWDFacy1aZ2tWdEJ5NHFRMWk4WmdZWkVON3k4b19WOW9jY1I2YmppZXNVcW1wZUNnVXZaLUE4aGtPNmxham1qb3FEd1VxcC1QelNvdGxoNVo3bDlodHc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-01",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "百度完成双重主要上市 李彦宏称昆仑芯和萝卜快跑成竞争差异化来源",
+    "zh": "百度完成双重主要上市 李彦宏称昆仑芯和萝卜快跑成竞争差异化来源"
+   },
+   "body": {
+    "en": "After completing its dual-primary listing in Hong Kong, Robin Li said Baidu's Kunlun chips and Apollo Go robotaxi service are becoming its key sources of competitive differentiation.",
+    "zh": "百度完成港股双重主要上市后，李彦宏表示昆仑芯与萝卜快跑正成为百度实现差异化竞争的关键来源。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPamxpM1FxYnk0M25kOFM2X1d6UW1VaVhnSG41NmVidzBhVXZLVnk4Vkt6WlozNDlCUWFXeVNLcFFaXy1SQ0I5T2ptbWhtcWVrRkhmZTFfZVRvM1VOMGY1Z1FZWV8yYkZUdDBSbi1KN0xNeDFua2pVZjVJM09qMEVyR0hBV2xTQ0syQ1BfYldueU1TQ1NYN251WXhoeWN3VmVkVU82Y0ZLYw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-01",
+   "ts": "2026-09-01T03:54:45Z",
+   "level": "major",
+   "title": {
+    "en": "百度完成双重主要上市 李彦宏称昆仑芯和萝卜快跑成竞争差异化来源",
+    "zh": "百度完成双重主要上市 李彦宏称昆仑芯和萝卜快跑成竞争差异化来源"
+   },
+   "body": {
+    "en": "Baidu completed its dual primary listing, with Robin Li citing the Kunlun chip and the Apollo Go robotaxi service as its key competitive differentiators.",
+    "zh": "百度完成双重主要上市，李彦宏表示昆仑芯片和萝卜快跑自动驾驶出行服务是百度的核心竞争差异化来源。"
+   },
+   "source": "t.cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhT0tPaXZJd0k2MGREZjJFSDBIckdQYjl6aC1xWldnRU5SYkQ0X2FWemd2aTVFUzJpYVJQbktDZVVmVURDU3R1NGtvOGxPUk5KSG5kQTB5NHJSZ0xiY2ZINnI0U2RqMjdGbUlrUnhwMXRPdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-01",
+   "ts": "2026-09-01T03:54:16Z",
+   "level": "major",
+   "title": {
+    "en": "百度完成双重主要上市 李彦宏称昆仑芯和萝卜快跑成竞争差异化来源",
+    "zh": "百度完成双重主要上市 李彦宏称昆仑芯和萝卜快跑成竞争差异化来源"
+   },
+   "body": {
+    "en": "Baidu completed a dual primary listing, with Robin Li naming Kunlunxin chips and Apollo Go robotaxis as the company's key competitive differentiators.",
+    "zh": "百度完成双重主要上市，李彦宏将昆仑芯芯片和萝卜快跑无人驾驶出租车列为公司的主要竞争差异化来源。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMzlaOEpvSnZ3aEVLaTE2VnlJSnVWSDFQalVyQk9tQ0ZjZnZjZ21LTk5mTXl6U2QwSnlZaVhQWHZtQllvOUtESlNEeDQ0VmhyakRnNEtDbEgwdC1XcUNSV2t1aEs2T042cFhxT3I0SHVnSndnRVFteXRRdDkwVnJWT2ZzaVlyRXVJ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-01",
+   "ts": "2026-09-01T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "百度完成双重主要上市 李彦宏称昆仑芯和萝卜快跑成竞争差异化来源",
+    "zh": "百度完成双重主要上市 李彦宏称昆仑芯和萝卜快跑成竞争差异化来源"
+   },
+   "body": {
+    "en": "Baidu completes a dual primary listing, with Li pointing to Kunlun chips and Apollo Go robotaxis as the company's key competitive differentiators.",
+    "zh": "百度完成双重主要上市，李彦宏指出昆仑芯与萝卜快跑是百度的核心差异化竞争优势。"
+   },
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yMFJQaFcxY1N5bGpWekdDZ3VzckVvS2FMQWRuTEdtWnQ1MHZEcGJtYXVnN3JzQTZjR1o2OVRKWkZKRXVWanZNelh4bXR5Y1BickxZTHJHQ2tsQUxidEtWZmdRVXVPS1Y2ZlhjM1c2amFyLTJOVGVMc3AtUDE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-29",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "百度将“双重主要上市” 李彦宏的冒险与兑现- 21世纪经济报道",
+    "zh": "百度将“双重主要上市” 李彦宏的冒险与兑现- 21世纪经济报道"
+   },
+   "body": {
+    "en": "Baidu moves to a dual primary listing in Hong Kong, a capital-markets step read as the test of whether Li's long AI bet is starting to pay out.",
+    "zh": "百度将在香港实施“双重主要上市”，这一资本市场动作被视为对李彦宏长期 AI 押注能否兑现的检验。"
+   },
+   "source": "ZAKER新闻",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56V1V6UkVRdmQzeXc3ZGtHellSSU0zSld4MGZULVZiTnFpTFY2X1RiT3VHMnhITmlPN2JhTG9GT01za0JKZ25xbndBVnV4cUJNWUlnMmt5a1dXWnFiN3Q0ekFuOHdVMk5KeDNEWmctblNVZGdZNDdN?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-28",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "百度将“双重主要上市” 李彦宏的冒险与兑现",
+    "zh": "百度将“双重主要上市” 李彦宏的冒险与兑现"
+   },
+   "body": {
+    "en": "Baidu is pursuing a dual primary listing, a bet Robin Li has been building toward for years.",
+    "zh": "百度正在推进“双重主要上市”，这是李彦宏多年布局后押下的一场赌注。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeHl5MDEyZnlVeDk0ekpMXzV5NWVKdHp6S2hEZWxTUnp3WUpLT0VibE93dlJEeV9EeXJDbnd0UFhuYkt4S2VUSHNkQmdXQi1Zb3pjY0FfcGNZdi1tZDF3OG5pY09wVnNCamI2S19uN29GWTdBbmlFbVV4RUwzZU02dk9VUGFyak0?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-28",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "百度将“双重主要上市” 李彦宏的冒险与兑现",
+    "zh": "百度将“双重主要上市” 李彦宏的冒险与兑现"
+   },
+   "body": {
+    "en": "Baidu is pursuing a dual primary listing, a major structural move in Li's push to reposition the company.",
+    "zh": "百度推进“双重主要上市”,是李彦宏重塑公司定位的重大结构性举措。"
+   },
+   "source": "21财经",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS09FVVEzU0ROVXliREFia3FHMS1VQWVpcVRzZl9mTVdMWW1LZEhKWkEwbl9rd3RIMzhOQzMxY2lyUXB0VjdMb2xXLWxLMXRZSTVSOGNzeFMzOHNzVEkxd0dqa2lXSlk1NFlldDJBUHVwSkppd1BDdWlKY0NidkJkZ2xjMA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "百度双重主要上市 李彦宏的冒险与兑现",
+    "zh": "百度双重主要上市 李彦宏的冒险与兑现"
+   },
+   "body": {
+    "en": "Coverage of Baidu's dual primary listing, framed as a major bet by Robin Li that has paid off for the company's capital strategy.",
+    "zh": "报道百度双重主要上市，称这是李彦宏押下的一场重大赌注，已在公司资本战略上获得回报。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT0d5RVlIUWY2dWFCYTluUmJtbU9hbnhpUEJJZWpRd1dQTC1sT3JSM2daaVdWckFCclJXVE9McmZESm43cUpIU24zNEhwRmlPX3FDelJYcWhoMll3eFpTR1VSQWl0Zzhrem1QMWVLVkpoX3N6UGphU1JDUzZCZGhqWXNsTm0?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "百度双重主要上市 李彦宏的冒险与兑现",
+    "zh": "百度双重主要上市 李彦宏的冒险与兑现"
+   },
+   "body": {
+    "en": "Baidu completed a dual primary listing, a major corporate milestone Robin Li had been pushing for.",
+    "zh": "百度完成双重主要上市，这是李彦宏一直力推的重大公司里程碑事件。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xN281SlkxVUsyRVp4VDVDbnU5WHZicF92cHhFbUdfYlRCN3dYX3FWUlFnNGF2VlhWOURVV1pzZTFxWnpxczdUdzdQWG5RWkdDcmEtZmY2cWExUkZ4YmpaakVTUklmTDA3M0x5a3h3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-20",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "李彦宏提出要让文心回到第一梯队",
+    "zh": "李彦宏提出要让文心回到第一梯队"
+   },
+   "body": {
+    "en": "Li said he wants Baidu's Ernie model back in the first tier of AI models, signaling a renewed push on model competitiveness.",
+    "zh": "李彦宏表示要让文心大模型重回第一梯队，释放出加大模型竞争力投入的信号。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMHNfb3g0SVREa2ZVSEFja0RfUnhOdkYyQTNMb19oUFpyYk9CS0FJSDlHM0F6N1JrcGNkbExWcHI2MWxJakV0VkRaV29HYjFGS1FNSXVFQVdOV0NITVVYQWc5YVd3azdhYTF0ZlVUX3JtYVJ3YkdCekh3eEMybnZwQVF6WDhHdHc0WmxiOHVqUVFoRzVCeW05eDE1QXdZOE1Uc0V1OERqY2ZOdG9xSExRWFpiMmRqZTNCN3JmNmdfZFQ3QnVadFNOaUl3aXQyeTREUGJ4Z2FxdDVmM3c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-20",
+   "ts": "2026-08-20T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李彦宏提出要让文心回到第一梯队",
+    "zh": "李彦宏提出要让文心回到第一梯队"
+   },
+   "body": {
+    "en": "Robin Li said Baidu aims to bring its ERNIE (Wenxin) model line back into the first tier of foundation models, signaling a renewed strategic push.",
+    "zh": "李彦宏表示百度要让文心大模型重回第一梯队，释放出战略发力的信号。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUk9HQkdGUTVERnhkemRSd2dMak5pTGl6S3N4RUpJQ0VCN2RXSWw1bHNMZTQ4WG51bTExUGRNTzlaak9sYjU4WDdVbkVkcUpuQk1DRm41b3VHUVQ4Zm92OWpOUlcxUDVLaHlDWGdsMkdRSFA0ZmdiZVBkOUZwT0kwcTdpOUxORXA1NnI3NFV1VW9KeU1OVmh4X0ItRDNVLWdpellzcDFYUXhTcEpPTWlrc01UOFN6cHY0aTRDSm1NNFRFYVJSYUR6LWFEalRCcDlEZWhyRU1nQkM5YWht?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-20",
+   "ts": "2026-08-20T00:07:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李彦宏提出要让文心回到第一梯队",
+    "zh": "李彦宏提出要让文心回到第一梯队"
+   },
+   "body": {
+    "en": "Robin Li said he wants Baidu's Ernie model back in the first tier of AI models, signaling a renewed strategic push.",
+    "zh": "李彦宏表示希望让百度文心大模型重回第一梯队，释放出加大战略投入的信号。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPamhOUTVoc3dyOWpZR0w2ampuZFBuZjBZN1J5MzZNUjZuSjFJUTZVZXNUcGJEM1JtXzVHUHp6Y3M5V01IeUM2eGoxelZidjBRcllpZVpCSUxfcExsMDJ2MUJtbXNkYVVDMTlFTGtrTk8yMmJLRHJtdXJsY09VOG5HTDgzT2Q?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-19",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "谈大模型、昆仑芯与AI投资，李彦宏：基础大模型竞争还未埃落定，会持续投入",
+    "zh": "谈大模型、昆仑芯与AI投资，李彦宏：基础大模型竞争还未埃落定，会持续投入"
+   },
+   "body": {
+    "en": "On Baidu's Q2 call Li says the foundation-model race is far from settled and Baidu will keep investing, and that Kunlun has now taken three generations of AI chips through to commercial use.",
+    "zh": "在百度第二季度财报电话会上，李彦宏称基础大模型竞争远未尘埃落定、公司会持续投入，并表示昆仑芯已完成三代 AI 芯片的研发与商业化。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OTW56VW9xUzM5YXJvMFRPR01CUGVYWmhBQ29Vczg5WElXRUZLaFB3WVNUZ0tSSm83OElkaC1mZk5LczVUMzJEWG80S0FMaC01RXFteE1SX05PVGpfYW9IX0xqSkJsS3FRREtKck4xcw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-19",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "百度李彦宏：目标让文心回到第一梯队",
+    "zh": "百度李彦宏：目标让文心回到第一梯队"
+   },
+   "body": {
+    "en": "Li says his goal is to bring Baidu's Ernie model back into the first tier of large language models.",
+    "zh": "李彦宏表示目标是让百度文心大模型重回第一梯队。"
+   },
+   "source": "白鲸出海",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2T21Qc2dvZDB6ajhRRGtJQ0hidHVIMk9LVEVrUEMzNmNDWmhkTGVIY1kzcDNjSUM1Q1AzbzljNUQtdUFCdUFHVWp1YkZKVHg2N1NHc3ZmUUc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-18",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录",
+    "zh": "李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录"
+   },
+   "body": {
+    "en": "Account of Baidu's AI reorganisation run by Li, with younger executives promoted and long-serving veterans leaving.",
+    "zh": "报道百度在李彦宏亲自坐镇下的 AI 组织重整：年轻高管上位，多位老将离开。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBsaVVGbGdWTnM4WDJyWTVHMWF4bWU0STFJODFpeHdJbHQ1dlYyRlJQQlFwWjZOQThxa2V4eXBlX0FUWHA5Wmg0bm45LWo?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-18",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "百度李彦宏：目标让文心回到第一梯队",
+    "zh": "百度李彦宏：目标让文心回到第一梯队"
+   },
+   "body": {
+    "en": "Robin Li states his goal of bringing Baidu's ERNIE model back into the first tier of AI models.",
+    "zh": "李彦宏表示，目标是让百度文心大模型重回第一梯队。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05a3gzREk2SVNCM21aX0xNU1dvcGViT2dFN3A2TWJER3hxRVpDMUJkSmRKRGJCelBhdGlIeHdIX1V1VkxpNXY2eTNHSjhfU0YyclJENlhRX3FRRkZtczVFZm12eE5OcjMyU08wNHhGSXU1U0N2eVVOV1M1VGw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-18",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "百度云业务收入暴增！李彦宏：转型为以AI为先的公司",
+    "zh": "百度云业务收入暴增！李彦宏：转型为以AI为先的公司"
+   },
+   "body": {
+    "en": "Robin Li said Baidu's cloud revenue surged as the company completes its transformation into an AI-first business.",
+    "zh": "李彦宏表示，随着百度完成向AI优先企业的转型，其云业务收入大幅增长。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5rNi13Q0dFTHNaRF9VajRtVS04ZUJ1Zml2MFZHOTEza2lRRXBIcDg4cGxMc25tTUd5cGNWQkdyMWJCaVh5aldvQXU3VXdhQXNZWmJtX0ctb1hPVndxNE8tN3lHeWtKVkcybEdRcENpT1ozTU1ISEt3aHFpOVdOZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-18",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "百度Q2 GPU云同比增长283% 李彦宏：昆仑芯已完成三代AI芯片研发和商业化",
+    "zh": "百度Q2 GPU云同比增长283% 李彦宏：昆仑芯已完成三代AI芯片研发和商业化"
+   },
+   "body": {
+    "en": "Li said Baidu's Kunlun chip has completed three generations of development and reached commercialization, as GPU cloud revenue grew 283% year-on-year.",
+    "zh": "李彦宏表示百度昆仑芯片已完成三代研发并实现商业化，同期GPU云收入同比增长283%。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ab281Q2pYcXBpZDloUmtqQ2FHSmR6RXhTOE02ZGtPb1Y0SE5lV1J3N3JySXhIZ18zMnRNek11dFhDMUYtU2V0TEQ1anRXcXRESHRQSk5YVkZlR0JXcW9BMmFnXzFVdzN1MWVkRzNCUzR6ZDl4d1VBSlpSVDR5WHc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-18",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "百度云业务收入暴增！李彦宏：转型为以AI为先的公司",
+    "zh": "百度云业务收入暴增！李彦宏：转型为以AI为先的公司"
+   },
+   "body": {
+    "en": "Li said Baidu Cloud revenue surged as the company transforms into an AI-first business.",
+    "zh": "李彦宏表示百度云业务收入大幅增长，公司正转型为以AI为先的企业。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdUkyckVIc3RuVUp6MWZKLUF0dkJ3R0hDeDBsaUZxZUVIb0tyU1FmVXFEN0IzbXNidTJsSW5pamdnZ1BMOUNUQlFmbV9uWGxfSm96ZktuSDlURVdaaVdZVmtza1BiNi1GbnZ4VHFRdTZ5YnVxaTZKb1Y1V1hDaDI1RjNjakY?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-18",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "李彦宏：昆仑芯已完成三代AI芯片的研发和商业化 未来将继续推进产品布局",
+    "zh": "李彦宏：昆仑芯已完成三代AI芯片的研发和商业化 未来将继续推进产品布局"
+   },
+   "body": {
+    "en": "Li says Baidu's Kunlun chip has completed its third generation of R&D and commercialization, with more products planned.",
+    "zh": "李彦宏表示百度昆仑芯已完成第三代AI芯片的研发与商业化,未来将继续推进产品布局。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00WnM4RW54SHJkUGRBcWdRNUY1QjZWd25TbXQ5eWpIZ29DU0kxV2hTLTdrWlBITGZFTi0yM19tV1hMNVVmempuLXhiU0RmVlFBNEdnZm5EYzktZWc1RFJIMmhVSERBSlI0LTFmNzVRUFVHSVozdS1iMWwyYzE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-18",
+   "ts": "2026-08-18T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "百度Q2 GPU云同比增长283% 李彦宏：昆仑芯已完成三代AI芯片的研发和商业化",
+    "zh": "百度Q2 GPU云同比增长283% 李彦宏：昆仑芯已完成三代AI芯片的研发和商业化"
+   },
+   "body": {
+    "en": "Robin Li said Baidu's Kunlun chip has completed R&D and commercialization through its third generation, as Baidu's Q2 GPU cloud revenue grew 283% year over year.",
+    "zh": "李彦宏表示百度昆仑芯已完成三代芯片的研发与商业化，同期百度Q2 GPU云收入同比增长283%。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MVGhQelAyQWxmbXZCdFpUYmRGTGRjRm9MMmlrcmZiczJ6WEJTbUZxYmRDeGl5MTBHcGZla3lQNmxSTm9taWFsU01kZWhtcm83U19wT2Z6YUd2ZjM1RFczb3A2QW5KaGhDOFpqdTZOa3hiUjhUTGVVMktTQjc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-18",
+   "ts": "2026-08-18T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李彦宏：昆仑芯已完成三代AI芯片的研发和商业化 未来将继续推进产品布局",
+    "zh": "李彦宏：昆仑芯已完成三代AI芯片的研发和商业化 未来将继续推进产品布局"
+   },
+   "body": {
+    "en": "Robin Li said Baidu's Kunlun chip has completed three generations of R&D and commercialization, with further product rollouts planned.",
+    "zh": "李彦宏表示，百度昆仑芯已完成三代AI芯片的研发与商业化，未来将继续推进产品布局。"
+   },
+   "source": "t.cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4V2xHdk5acUtyWkZmVDI1c2Y1WnkwMVRfNm1JRnBUc1JXNDlGeE1OWXpaQk5fVFpnd1BTdGtzSDQ2blFsX2ptWHhqMDFxcXh0Skk5Ukl4MmZPVmdqdjJmZXViQUdqUGJYV3BlcE81c1BlZ0JuY0htSVplZjdpQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-17",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "李彦宏牵头成立的AI生命科学公司，被曝赴港上市",
+    "zh": "李彦宏牵头成立的AI生命科学公司，被曝赴港上市"
+   },
+   "body": {
+    "en": "The AI life-science company Li initiated is reported to be preparing a Hong Kong listing.",
+    "zh": "李彦宏牵头创办的 AI 生命科学公司被曝正在筹备赴港上市。"
+   },
+   "source": "第一财经",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aZEhSaHZyNHc1UWZKd2xqOXRoY05RZ3NfTVhxUGkzbjJhLWFnbUswNkF3VGFHWHdiY3BhS1ctQ3J1TUR4OVZZOXBGZThpZV9pcDFB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-17",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录",
+    "zh": "李彦宏坐镇，年轻人冲锋，老将离场：百度AI重组实录"
+   },
+   "body": {
+    "en": "A detailed account of Baidu's AI reorganization describes Robin Li steering it directly as younger staff rise and veteran executives depart.",
+    "zh": "一篇深度报道记录了百度AI业务重组：李彦宏亲自坐镇，年轻人被推上一线，多位老将离场。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNemVkS3ZudkdhUVo4Z2llQWV1eHc2YXYxOVBVNTFZN3NBV2xFck9VckxNQmJ5VGY0NkMyNUxIRURETUlibkk5cUxhcjhRdVFxMElVN3hqUkR0LVRsSEk1Mm1ZNTR1d3pNNDFEQ0pIYUh3X2VLRy1kbHFpcDBOUmJ6TGZGcXNxWXo4?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-15",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "李彦宏《人民日报》再谈DAA：为智能经济打造科学评价体系",
+    "zh": "李彦宏《人民日报》再谈DAA：为智能经济打造科学评价体系"
+   },
+   "body": {
+    "en": "In a People's Daily article Li again pushes Daily Active Agents as the measurement standard for the intelligent economy.",
+    "zh": "李彦宏在《人民日报》再次撰文，主张以日活跃智能体（DAA）作为智能经济的评价标准。"
+   },
+   "source": "中国科技网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ucGNjbDY3eDNKY2VleWFTRG9wVXdwbTVYdkktcXZ5SktnU0ZRZG9hUHpBNDJ4WkZWUjZDOFZNNDVvV25MYkRZZnc0dDVOb285VVVRakFXbllEczBrUVczeXZVTWdmZzM0QVFMWlgxYTg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-05",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "昆仑芯赴港上市，李彦宏最大IPO来了",
+    "zh": "昆仑芯赴港上市，李彦宏最大IPO来了"
+   },
+   "body": {
+    "en": "Baidu's Kunlun chip unit filed for a Hong Kong IPO, reported as Robin Li's largest IPO to date and a milestone for Baidu's in-house AI chip strategy.",
+    "zh": "百度旗下昆仑芯赴港上市，据报道这是李彦宏迄今规模最大的一次IPO，也是百度自研AI芯片战略的重要里程碑。"
+   },
+   "source": "thepaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJWi1MeDhNandUU2dGaEI3RWtEa2NfeEVxbFdjZ0hvRmhhbzBzSzB3QXBsb1pweDVmMXBmcG8wMFNRRmF0R0pQZk9TaU13d1BYQmlTd1JPd0s1YmdreUE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-31",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "百度无人车新纪录：周订单破35万！李彦宏：开始单城盈利了|无人驾驶|萝卜|自动驾驶|出行|服务_手机新浪网",
+    "zh": "百度无人车新纪录：周订单破35万！李彦宏：开始单城盈利了|无人驾驶|萝卜|自动驾驶|出行|服务_手机新浪网"
+   },
+   "body": {
+    "en": "Li said Baidu's robotaxi unit hit a record of over 350,000 weekly orders and has begun turning a profit in at least one city.",
+    "zh": "李彦宏表示百度无人车业务周订单量创下超过35万单的新纪录，并已在至少一个城市实现单城盈利。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSmhLelpWeVBXNDZVZGFSN2RUaHNhWWJMR1dBTThxZXNmTFpYcXI4N2pWa2xXUXJCaU9nUnBjQmhmSlZMcDRDdjdvVklDS1I2ZUs3N0VnZ202YVI3bzlDSlYtMHRvR2U1R05ia01BMjRmUzZLMW9qeUtucHNySVppQUV5UEVKMy1LRU1xOXJ3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-15",
+   "ts": "2026-05-15T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Baidu CEO Robin Li Proposes DAA as New AI Metric, Challenging Nvidia's Token Economy",
+    "zh": "Baidu CEO Robin Li Proposes DAA as New AI Metric, Challenging Nvidia's Token Economy"
+   },
+   "body": {
+    "en": "Robin Li proposed \"Daily Active Agents\" as a new industry metric for AI adoption, positioning it against Nvidia's token-consumption framing of AI progress.",
+    "zh": "李彦宏提出以“日活跃智能体”（DAA）作为AI普及程度的新行业指标，以此对标英伟达以Token消耗量衡量AI发展的框架。"
+   },
+   "source": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaDlMUjVOMF9ZWThHSnpXSDBKZXAydzV0Wi1sYVRHbktwRGp3QjdIV1k0dmFYQWVhTExiYXlSX0JRQmFDV2dvSFo1Rm4wdV9vckZramg2eld4WTJtQ2RyYXJWc2hIejhYVzZRS0pnTjdRazdHblhWa08zS3JRLUI1Qg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-14",
+   "ts": "2026-05-14T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "李彦宏首提“DAA”概念，百度智能云全面开放AI能力，让超级个体站上C位",
+    "zh": "李彦宏首提“DAA”概念，百度智能云全面开放AI能力，让超级个体站上C位"
+   },
+   "body": {
+    "en": "Robin Li introduced 'Daily Active Agents' (DAA) as a new metric for the industry, as Baidu AI Cloud opened its AI capabilities more broadly.",
+    "zh": "李彦宏首次提出“日活跃智能体”（DAA）概念，作为行业新指标，同时百度智能云全面开放其AI能力。"
+   },
+   "source": "时代在线",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5haGxWWHFmcWs2MGliTEJkYXVvVkwxcnNNVlMxWnVGYmNfY3pzcTNETGZYWVAyVkhVbDg1dkFaU1dMUVJXN292WTJyYTc1RUR6?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-13",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "李彦宏：AI时代度量衡可能是日活智能体数，词元不一定代表终局",
+    "zh": "李彦宏：AI时代度量衡可能是日活智能体数，词元不一定代表终局"
+   },
+   "body": {
+    "en": "Li argued the defining metric of the AI era may be daily active agents rather than tokens processed, pushing the industry toward a new usage benchmark.",
+    "zh": "李彦宏提出AI时代的度量衡可能是日活智能体数而非处理的词元量，推动行业采用新的使用量基准。"
+   },
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5waUF3Y21zdGJub1B5Y1ROeHN4T1FBQjRrT0ozeXV5SjlHbGg5MVFZR2NmZWxDTHRHRUVuQ3QxdEtpMjZ5d09pamtrMlUydzBjNWFrZ21xc191b2RHUW9QZmpQMk9rUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-13",
+   "ts": "2026-05-13T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李彦宏：通用智能体开启AI下一幕，正带来三个改变",
+    "zh": "李彦宏：通用智能体开启AI下一幕，正带来三个改变"
+   },
+   "body": {
+    "en": "Robin Li argued that general-purpose agents are opening AI's next chapter, outlining three resulting changes for businesses.",
+    "zh": "李彦宏认为通用智能体正开启AI的下一幕，并阐述了由此带来的三个变化。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSW54MTd0Y0dGTHMzQW5kZE4yNnhQQ3I0VDJoVURCTEpsYUR4Vzl3WkdTN1YzcWhodzkxa3BHT1NzY25qTTdENmU2WGFNRHktSzVIWFY0Q2lTVjZSRlpJM1lhR0szaDhYMVJMbVNuaThsRklIUHYzSnJfdXIxRFRXWHVib0xiWVpidlFnOS0tNUtXdmVMYTZKM0NmWEp0bkx4NDFiWnFXSl9mbGk0REtKTTRTUXlYTDFpU3FieGdrcHFSa3E3WFB0VHpXZ3RlbllU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-13",
+   "ts": "2026-05-13T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "百度Create大会李彦宏首提DAA指标 美股涨超7%",
+    "zh": "百度Create大会李彦宏首提DAA指标 美股涨超7%"
+   },
+   "body": {
+    "en": "Introduced Daily Active Agents (DAA) as a new industry metric at Baidu's Create conference, sending Baidu's US shares up more than 7%.",
+    "zh": "在百度Create大会上首次提出\"日活跃智能体\"（DAA）这一行业新指标，推动百度美股股价上涨超7%。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GR2pLdmtndmVBbl9vU2hlQzBybzlYSzJqZ3lpYm11Tjg4TjNDVnhSbkFqNC1qQ2ExT1VtZVRpamRVV0UxRnF2OHpSdzZHWC1ySk1aMEZ3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-13",
+   "ts": "2026-05-13T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "李彦宏首提“日活智能体数”（DAA） 预测全球DAA将超百亿- 湖北日报新闻客户端",
+    "zh": "李彦宏首提“日活智能体数”（DAA） 预测全球DAA将超百亿- 湖北日报新闻客户端"
+   },
+   "body": {
+    "en": "Li introduced 'Daily Active Agents' (DAA) as a new industry metric and predicted global DAA will exceed 10 billion, matching his push to make it the field's defining benchmark.",
+    "zh": "李彦宏提出\"日活智能体数\"（DAA）这一新行业指标，并预测全球DAA将超过百亿，呼应他推动该指标成为行业核心标准的努力。"
+   },
+   "source": "湖北日报传媒集团",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40amQtaWEzdFczdHphLXZvcGxuN1dMM01MZVI3T29lbFE3aW5OZEIwTFFYWm9UdlZFMVJEZ0N1RmpmNmtqX2xjWUcxMGdQcHo5UHppWVRsT2w?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-13",
+   "ts": "2026-05-13T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "李彦宏：日活智能体数（DAA）是AI时代的衡量标准|开发者大会|移动互联网|百度AI|Token|个体_手机新浪网",
+    "zh": "李彦宏：日活智能体数（DAA）是AI时代的衡量标准|开发者大会|移动互联网|百度AI|Token|个体_手机新浪网"
+   },
+   "body": {
+    "en": "Robin Li argued at Baidu's developer conference that Daily Active Agents (DAA) should become the defining metric of the AI era.",
+    "zh": "李彦宏在百度开发者大会上提出，日活智能体数（DAA）应成为AI时代的核心衡量标准。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRHVrU2dMRGRSTVQyc3laRG9sa3JYRXBkQzVDQWZISjVuVWNxZnZEYmNieEF1SWlYcGYyb3J6QWIzVnZOVDNqUlpURWh6QzAybUZjMEF2QUtFRk9HTW85QkxIZGVJT1ZhUVE0T3Z5RGU0QV9EWEhIcTFsaGZNcW5ON1lWbE1qNjA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-13",
+   "ts": "2026-05-13T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Create2026百度AI开发者大会，李彦宏提出AI时代进化论，“DAA是AI时代度量衡”",
+    "zh": "Create2026百度AI开发者大会，李彦宏提出AI时代进化论，“DAA是AI时代度量衡”"
+   },
+   "body": {
+    "en": "At Baidu Create 2026, Robin Li proposed Daily Active Agents (DAA) as the defining metric of the AI era.",
+    "zh": "在2026百度AI开发者大会上，李彦宏提出应以「日活跃智能体」(DAA)作为AI时代的核心度量指标。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTHFkdURKY1NqSC1YVVk3cVdjNVRiaWJWVDdQVzZtMUZrYi1VaVVjdlVkWUNQSm1tcXBSMFR0d0R1MTB5bGhKU3pLZm0tSkVMdDQ0dXpzQ0trZVQwUmZZLU81b0NpcWd6VTFOR3dvN0ZnNkZMc3JNNmdqWm5yOXlqRV9VellwM09Sc1dUOA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-13",
+   "ts": "2026-05-13T14:47:38Z",
+   "level": "major",
+   "title": {
+    "en": "百度李彦宏：全球日活智能体数有望超百亿 日活智能体或成AI时代核心衡量标准",
+    "zh": "百度李彦宏：全球日活智能体数有望超百亿 日活智能体或成AI时代核心衡量标准"
+   },
+   "body": {
+    "en": "Robin Li argued global daily-active-AI-agents could exceed 10 billion, pushing the industry to adopt it as the defining metric of the AI era.",
+    "zh": "李彦宏提出全球日活智能体数量有望突破百亿，并推动\"日活智能体\"成为AI时代的核心衡量标准。"
+   },
+   "source": "第一财经",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ka3lMajNJMDFnMHBaVDcyVFRHNE5Udml3VmJNTkppNjNJWWhLamVEMDFrU2ZNVnlIb0ppYjFSRzJIdE05cVk4YjlyTWRmMjUwelFGdA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-13",
+   "ts": "2026-05-13T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "百度Create大会发多项AI成果，李彦宏提出“AI时代进化论”",
+    "zh": "百度Create大会发多项AI成果，李彦宏提出“AI时代进化论”"
+   },
+   "body": {
+    "en": "At Baidu's Create conference, Li unveils multiple new AI results and lays out his 'AI-era evolution theory.'",
+    "zh": "在百度Create大会上，李彦宏发布多项AI新成果，并提出他的“AI时代进化论”。"
+   },
+   "source": "雷科技",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Dd2FldDdzVmYxU0c5TDFKOG1iVXktZTM5VkFRa2JRczAySnlPTzZMUzJWMGgwRVJWSmxJUkNuTGRSVGc0djFtX0RTaGVEQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-13",
+   "ts": "2026-05-13T05:03:20Z",
+   "level": "major",
+   "title": {
+    "en": "百度Create大会发布多项AI成果，李彦宏首提AI时代度量衡“DAA”",
+    "zh": "百度Create大会发布多项AI成果，李彦宏首提AI时代度量衡“DAA”"
+   },
+   "body": {
+    "en": "At Baidu's Create conference, Robin Li unveiled a slate of AI results and proposed 'Daily Active Agents' (DAA) as a new measuring stick for the AI era, a bid to set the industry's defining metric.",
+    "zh": "在百度Create大会上，李彦宏发布多项AI成果，并首次提出以“日活跃智能体”（DAA）作为AI时代的度量衡，意在为行业设定核心指标。"
+   },
+   "source": "风闻",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rRUFWYlFBamlPbjBlRUlDeFZ0ZDdZeXpFMEFpUFZWdThIYVNCRGg1U3hIY25YMF9oSnJ3T0dSV2FCem9QaHhJX0ViQ3pmcElqSnhId1JBa3JsMFdRT05pTndpNnlWY1YxbVE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-13",
+   "ts": "2026-05-13T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李彦宏提出“DAA是AI时代度量衡”的背后逻辑 | 新经济观察",
+    "zh": "李彦宏提出“DAA是AI时代度量衡”的背后逻辑 | 新经济观察"
+   },
+   "body": {
+    "en": "Li laid out the reasoning for treating Daily Active Agents (DAA) as the defining metric of the AI era, the framework he has pushed the industry to adopt.",
+    "zh": "李彦宏阐述了将日活跃智能体（DAA）作为AI时代核心度量衡背后的逻辑，这正是他一直在推动行业采纳的指标。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLdE91ZHhkTDRzUTMyTlJZQTF0eUZBY2NBS21Sc2xNUEV3SkQ4SUxkUm9BZDI0RTlleGhyRmU3NllEMFc3eWhyWEZHRHV1aXZkVWJtTE5ERFpFbXg1UHhXNzZWb1Npa01UUUUxY2FTVjNaWUZ5UVNvdg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-13",
+   "ts": "2026-05-13T07:00:00Z",
+   "level": "minor",
+   "title": {
+    "en": "慧播星升级为百度一镜，李彦宏：数字人就是“看得见”的智能体|开发者大会|百度AI|商业价值|出海|中国企业_手机新浪网",
+    "zh": "慧播星升级为百度一镜，李彦宏：数字人就是“看得见”的智能体|开发者大会|百度AI|商业价值|出海|中国企业_手机新浪网"
+   },
+   "body": {
+    "en": "Baidu rebranded its digital-human livestreaming product Huiboxing as \"Baidu Yijing,\" with Robin Li describing digital humans as a \"visible\" agent.",
+    "zh": "百度将数字人直播产品\"慧播星\"升级为\"百度一镜\",李彦宏称数字人就是\"看得见\"的智能体。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CZGoxZDlPQXpTT3NGZVRQbjlpNklSSTZYTWxCRWlZVzBONzJfSGlLN3UyNjJXblNwbTJHOURVdFA2MkJCVVp0dG5INkowekt2bDBrSmttRFF3bFUzVXVXdEZMV1ZhNVdzYTl1ZGlyMXBCMU9ZalhOSWUxTWVkS3c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-13",
+   "ts": "2026-05-13T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "核心观点 | 李彦宏：日活智能体数（DAA）是AI时代的度量衡",
+    "zh": "核心观点 | 李彦宏：日活智能体数（DAA）是AI时代的度量衡"
+   },
+   "body": {
+    "en": "Robin Li argued Daily Active Agents (DAA) should be the defining metric of the AI era, an attempt to reset how the whole industry measures itself.",
+    "zh": "李彦宏提出应以日活跃智能体数（DAA）作为AI时代的核心度量衡，试图重新定义整个行业的衡量标准。"
+   },
+   "source": "banyuetan.org",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeUtSVTV6eWtzRWpiYXBHSWlhNWR6bEpMZUtSbVVaTWw4aFRZTDY3XzFBZ2xpUUxfTHBBbzFRTENycUthMW56dllGWWpBXzQ3a0w4TU9PRmVVc2dsd3h6LWJtdjR3WGFvQkxlcjRDUXF6QVZ2OHgtcklVd1BDb1U2OGN1Wko5d3gyYzhEbUJhWG8?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-12",
+   "ts": "2026-05-12T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "李彦宏：AI时代的度量衡是日活智能体数(DAA)",
+    "zh": "李彦宏：AI时代的度量衡是日活智能体数(DAA)"
+   },
+   "body": {
+    "en": "Robin Li argued the defining metric of the AI era is Daily Active Agents (DAA), pushing the industry to adopt it as a new yardstick.",
+    "zh": "李彦宏提出AI时代的核心度量衡是日活跃智能体数（DAA），推动行业采用这一新指标。"
+   },
+   "source": "封面新闻",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96aVFJWkI1WW9JMWxSLWlZRUNESlF4Z19tMmV2U05xM0IzMW5xOWw1UExqZFpJMFNfQlVmUWU0MEM2bnZnNEJ1NUw3OEhKNm5GRTl3ZDJ3bzNKWVBhN25CNGZ1ZlpSdFVsT2N5NlRoN29GZjg4cEdv?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-09",
+   "ts": "2026-05-09T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "估值210亿，李彦宏又将收获一个IPO",
+    "zh": "估值210亿，李彦宏又将收获一个IPO"
+   },
+   "body": {
+    "en": "A Baidu-affiliated business is reportedly heading toward an IPO at a valuation of roughly ¥21 billion, another listing under Robin Li.",
+    "zh": "据报道，百度旗下一项业务估值约210亿元，正推进IPO上市，这是李彦宏旗下又一起IPO。"
+   },
+   "source": "投中",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10Mi03RExoaEkybWY4Y2NQYjgwUGh4Vmw1Ry10WXY0aHdLX0RYX051WndoY29oU1V4VUw1RnRVMC1rNkV3czZPNm9NSG9xSWFmbW5CMWYtcFo1RUFWcnhKWTlST0c0TmNSNzZKVTd3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-03-25",
+   "ts": "2026-03-25T07:00:00Z",
+   "level": "minor",
+   "title": {
+    "en": "百度创始人李彦宏等4人加入香港特首顾问团",
+    "zh": "百度创始人李彦宏等4人加入香港特首顾问团"
+   },
+   "body": {
+    "en": "Robin Li was named one of four new advisers to Hong Kong's Chief Executive advisory council.",
+    "zh": "李彦宏被任命为香港特首顾问团四位新增顾问之一。"
+   },
+   "source": "时代在线",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zY215bTNFeVRYdVNSYlgzWktrX01fTHN5anBoUm1RX2xDdDFHbmtfS25HR2xQYWhFaDZMVUYxY216aTJoc3ZoaWlVbw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-03-24",
+   "ts": "2026-03-24T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "百度创始人李彦宏等4人加入香港特首顾问团",
+    "zh": "百度创始人李彦宏等4人加入香港特首顾问团"
+   },
+   "body": {
+    "en": "Robin Li was appointed to a four-member advisory group for Hong Kong's Chief Executive.",
+    "zh": "李彦宏获委任加入香港特首的四人顾问团。"
+   },
+   "source": "chinanews.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnRjQ1YXU3NElxQlhFVjBpeXU4M3FjVnRTckhYRGhUd29oeHlBMTFsdVFIXzhhdVREbEdfdVU0aXQ2RmFhQXhkZ01pQjI2MUpuVTE3b1UzcTBmT2ZYRlV6b09ZVnk5TWVDRmc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-03-23",
+   "ts": "2026-03-23T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李彦宏不“等”了：换帅、推倒重来，百度把半条命交给了“龙虾”",
+    "zh": "李彦宏不“等”了：换帅、推倒重来，百度把半条命交给了“龙虾”"
+   },
+   "body": {
+    "en": "Baidu reshuffled leadership and redirected resources under Li, described as a decisive bet on a new initiative rather than waiting out the AI race.",
+    "zh": "百度在李彦宏主导下进行人事调整并重新调配资源，报道称这是押注新项目、而非坐等AI竞赛结果的重大转向。"
+   },
+   "source": "财富号",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHMUdiTFJhZHdDdXpJcW1yVDVzVXFjZ3VGd3RaVllKREFwYnN5SFB6ak1sT08zWHpmbXNSM1g5QW1GT1A4VEM0QXpuRHpFeTdrY3pkb0RJLTFmbVlHaElTaGMxeGp5d3lGS01Z?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-03-18",
+   "ts": "2026-03-18T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "李彦宏创办的AI公司，要上市了",
+    "zh": "李彦宏创办的AI公司，要上市了"
+   },
+   "body": {
+    "en": "An AI company founded by Robin Li is heading toward an IPO, a new venture beyond his role at Baidu.",
+    "zh": "李彦宏创办的一家AI公司即将上市，这是他在百度之外创立的新业务的重要进展。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE81V2RNb2tnblZRREhWTE1aZzZaU2JVeXlsR2lOeXZLZFBRVDlrb2Z3MXVyZVBrV2FOZi0yZkswTnBYWTBIYTVFODVxcjc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-03-16",
+   "ts": "2026-03-16T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "消息称百度李彦宏牵头成立的AI 生命科学公司百图生科已秘密提交香港IPO 申请，预计融资数亿美元",
+    "zh": "消息称百度李彦宏牵头成立的AI 生命科学公司百图生科已秘密提交香港IPO 申请，预计融资数亿美元"
+   },
+   "body": {
+    "en": "BioMap (百图生科), the AI life-sciences company Robin Li helped found, reportedly filed confidentially for a Hong Kong IPO seeking several hundred million dollars.",
+    "zh": "李彦宏牵头创立的AI生命科学公司百图生科据报已秘密提交香港IPO申请，预计融资数亿美元。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkVy16cml3YnpNd3N0cHNiTExPQzB4SjBfUHprbFVPbHN2NURkTWtiUHRhX1ZKMlA2RHNxY0pYNk8tTGxYUHpyeDJGUlpva2h0UDBhT3ZQSDhfS25WNXA2TEFuSWkxbUR3Yzk3Y3Q4eTMwRS1WNDJWTTFSZDlldFk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-01-04",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "李彦宏，分拆210亿芯片独角兽",
+    "zh": "李彦宏，分拆210亿芯片独角兽"
+   },
+   "body": {
+    "en": "Li spun off a chip unit valued at roughly 21 billion yuan, a major restructuring of Baidu's in-house Kunlun chip business.",
+    "zh": "李彦宏将估值约210亿元人民币的芯片业务分拆，是百度自研昆仑芯片业务的一次重大重组。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVG9vWEJfT1p5RTA0dUtSeHlvRnV3cjBNNzdwT1R2bjU4eko4NUVhQTRUTTJqX0FfeU1pV04xZVdiSE01aHkwZXVnLTlTbHBaZFl3bkZINlMxVXNjMEx4SzZ3Wmx3cVRPSTJYajU0ejJtTm5jQnRfVnprQllMQ3A5enZzSmVyVXVuMXVSSldwWlYySmdKSFllUjZsM0FEdFFKMHFCMG9WZmM3RWF0MXE1cWtLcnh3RGVaTWNkTGUxLVVVT2ZuZHZKQXFLUmYwNmM?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "platform",
+ "score": {
+  "total": 51.8,
+  "attention": 38,
+  "centrality": 63,
+  "momentum": 87,
+  "stature": 7,
+  "pageviews": 52393,
+  "citations": 6903,
+  "hIndex": 8,
+  "events": 57,
+  "posts": 5,
+  "wikiEn": "Robin Li",
+  "wikiZh": "李彦宏"
+ },
+ "seedRank": 36,
+ "tier": "t3"
+}

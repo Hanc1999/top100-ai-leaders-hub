@@ -1,0 +1,1187 @@
+{
+ "rank": 41,
+ "id": "barret-zoph",
+ "name": {
+  "en": "Barret Zoph",
+  "zh": "Barret Zoph"
+ },
+ "role": {
+  "en": "OpenAI",
+  "zh": "OpenAI"
+ },
+ "org": "OpenAI",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "OpenAI",
+  "NAS",
+  "Switch Transformer",
+  "Post-training",
+  "ChatGPT"
+ ],
+ "why": {
+  "en": "Author of neural architecture search and the Switch Transformer, and formerly OpenAI's post-training lead — one of the people who actually built ChatGPT's training system. Returned to OpenAI in January 2026.",
+  "zh": "神经架构搜索 NAS 与 Switch Transformer 作者，前 OpenAI 后训练负责人，ChatGPT 训练体系的实际构建者之一。2026 年 1 月回归 OpenAI。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@barret_zoph",
+   "url": "https://x.com/barret_zoph",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Personal site",
+   "url": "https://barretzoph.github.io/",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @BarretZoph",
+   "url": "https://github.com/BarretZoph",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "OpenAI Research",
+   "url": "https://openai.com/research/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Barret+Zoph",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Barret+Zoph",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Barret+Zoph",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Barret+Zoph&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Barret+Zoph&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Barret+Zoph",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Barret+Zoph",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Barret+Zoph",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Barret+Zoph",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Barret+Zoph",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Barret+Zoph",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Barret+Zoph",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Barret+Zoph",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Barret+Zoph&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2016-11-05",
+   "kind": "paper",
+   "title": {
+    "en": "Neural Architecture Search with reinforcement learning",
+    "zh": "基于强化学习的神经架构搜索"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1611.01578",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2021-01-11",
+   "kind": "paper",
+   "title": {
+    "en": "Switch Transformers: scaling to trillion-parameter models",
+    "zh": "Switch Transformer：扩展到万亿参数模型"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2101.03961",
+   "note": {
+    "en": "Simple, efficient sparsity — the MoE design most later systems are variations on.",
+    "zh": "简单高效的稀疏化 —— 后来多数系统都是这套 MoE 设计的变体。"
+   }
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Excited to announce I am joining Google DeepMind! I started my AI career in the Google Brain Residency class and am excited to rejoin. I am going to be working",
+    "zh": "Excited to announce I am joining Google DeepMind! I started my AI career in the Google Brain Residency class and am excited to rejoin. I am going to be working"
+   },
+   "source": "@barret_zoph",
+   "url": "https://x.com/barret_zoph/status/2092790775524516206",
+   "note": {
+    "en": "Zoph announces he is joining Google DeepMind to work on RL and post-training, returning to Google after starting his career in the Brain Residency program.",
+    "zh": "Barret Zoph宣布加入Google DeepMind，负责强化学习与后训练工作，重返他职业生涯起步的谷歌大脑培训项目所在地。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-01-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Super excited to join the team!",
+    "zh": "Super excited to join the team!"
+   },
+   "source": "@barret_zoph",
+   "url": "https://x.com/barret_zoph/status/2011593621435531355",
+   "note": {
+    "en": "Zoph's announcement of joining a new team, posted the same week press reports said he was leaving Thinking Machines Lab for OpenAI — marking his January 2026 return to OpenAI.",
+    "zh": "Barret Zoph发布加入新团队的消息，与媒体报道他离开Thinking Machines Lab重返OpenAI是同一周，标志着他2026年1月回归OpenAI。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-10-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Excited to release Tinker and see what the community uses it for.",
+    "zh": "Excited to release Tinker and see what the community uses it for."
+   },
+   "source": "@barret_zoph",
+   "url": "https://x.com/barret_zoph/status/1973450921746243821",
+   "note": {
+    "en": "Zoph announces the release of Tinker, a fine-tuning product from Thinking Machines Lab.",
+    "zh": "Barret Zoph宣布发布Tinker，这是Thinking Machines Lab推出的模型微调产品。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-09-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Excited to share our first blog post -- one of many to follow!",
+    "zh": "Excited to share our first blog post -- one of many to follow!"
+   },
+   "source": "@barret_zoph",
+   "url": "https://x.com/barret_zoph/status/1965844095311704517",
+   "note": {
+    "en": "Zoph announces Thinking Machines Lab's first public blog post, signaling the start of the company's public output.",
+    "zh": "Barret Zoph宣布Thinking Machines Lab发布首篇公开博客文章，标志着公司公开输出的开始。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-07-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Super excited to be part of this incredible team and company. Please reach out if you are interested in joining!",
+    "zh": "Super excited to be part of this incredible team and company. Please reach out if you are interested in joining!"
+   },
+   "source": "@barret_zoph",
+   "url": "https://x.com/barret_zoph/status/1945229617885012103",
+   "note": {
+    "en": "Zoph announces joining a new team and company, matching later press reports identifying him as a co-founder of Thinking Machines Lab.",
+    "zh": "Barret Zoph宣布加入一个新团队和公司，与后续媒体报道其为Thinking Machines Lab联合创始人的说法相符。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-12-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "OpenAI o1 System Card",
+    "zh": "OpenAI o1 System Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2412.16720v2",
+   "note": {
+    "en": "System card for OpenAI's o1 reasoning models, covering the safety evaluations of large-scale RL-trained chain-of-thought reasoning; Zoph is a listed author from his time leading post-training.",
+    "zh": "OpenAI o1 推理模型的系统卡，介绍了大规模强化学习训练的思维链推理模型的安全评测；Zoph 在负责后训练期间参与署名。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-10-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GPT-4o System Card",
+    "zh": "GPT-4o System Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2410.21276v1",
+   "note": {
+    "en": "System card for GPT-4o, the end-to-end omni model handling text, audio, image and video; Zoph is among the credited authors.",
+    "zh": "GPT-4o 的系统卡，介绍这一端到端处理文本、音频、图像和视频的全模态模型；Zoph 位列署名作者之中。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-09-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I posted this note to OpenAI. Hey everybody, I have decided to leave OpenAI. This was a very difficult decision as I have has such an incredible time at OpenAI.",
+    "zh": "I posted this note to OpenAI. Hey everybody, I have decided to leave OpenAI. This was a very difficult decision as I have has such an incredible time at OpenAI."
+   },
+   "source": "@barret_zoph",
+   "url": "https://x.com/barret_zoph/status/1839095143397515452",
+   "note": {
+    "en": "Zoph announces he is leaving OpenAI, where he joined shortly before ChatGPT's launch and led post-training work.",
+    "zh": "Barret Zoph宣布离开OpenAI，他在ChatGPT发布前不久加入该公司并负责后训练工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2024-09-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Super excited this is rolling out! Real time speech to speech will be a powerful feature -- I am very bullish on multi-modal being a core component of AI produc",
+    "zh": "Super excited this is rolling out! Real time speech to speech will be a powerful feature -- I am very bullish on multi-modal being a core component of AI produc"
+   },
+   "source": "@barret_zoph",
+   "url": "https://x.com/barret_zoph/status/1838664075842326904",
+   "note": {
+    "en": "Zoph comments on the rollout of real-time speech-to-speech capability, calling multimodal a core part of future AI products.",
+    "zh": "Barret Zoph评论实时语音对话功能上线，称多模态将成为未来AI产品的核心组成部分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-11-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "What an incredible company OpenAI is to work at. I have never seen so many people so committed to the mission of the company and band together when things go wr",
+    "zh": "What an incredible company OpenAI is to work at. I have never seen so many people so committed to the mission of the company and band together when things go wr"
+   },
+   "source": "@barret_zoph",
+   "url": "https://x.com/barret_zoph/status/1727472196908695683",
+   "note": {
+    "en": "Posted during OpenAI's November 2023 leadership crisis, Zoph praises the company's culture and staff solidarity 'when things go wrong.'",
+    "zh": "该推文发布于2023年11月OpenAI领导层危机期间，Zoph称赞公司文化以及员工在\"出问题时\"团结一致。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2023-05-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for Large Language Models",
+    "zh": "Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for Large Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2305.14705v2",
+   "note": {
+    "en": "Shows that instruction tuning and sparse Mixture-of-Experts combine unusually well, with MoE models benefiting far more from instruction tuning than dense ones.",
+    "zh": "研究表明指令微调与稀疏专家混合（MoE）结合效果格外好，MoE 模型从指令微调中获得的收益远高于稠密模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-05-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Pretrainer's Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity",
+    "zh": "A Pretrainer's Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2305.13169v2",
+   "note": {
+    "en": "A systematic study of how pretraining data age, domain coverage, quality and toxicity filtering affect the resulting language model.",
+    "zh": "系统研究了预训练数据的时效性、领域覆盖、质量与毒性过滤如何影响最终的语言模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-03-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GPT-4 Technical Report",
+    "zh": "GPT-4 Technical Report"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2303.08774v6",
+   "note": {
+    "en": "The GPT-4 technical report, documenting the multimodal model's capabilities, evaluations and safety work; Zoph is a listed contributor.",
+    "zh": "GPT-4 技术报告，记录了该多模态模型的能力、评测与安全工作；Zoph 是署名贡献者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-01-31",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The Flan Collection: Designing Data and Methods for Effective Instruction Tuning",
+    "zh": "The Flan Collection: Designing Data and Methods for Effective Instruction Tuning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2301.13688v2",
+   "note": {
+    "en": "Breaks down the design choices behind the Flan 2022 instruction-tuning collection and releases the data and methods publicly.",
+    "zh": "拆解了 Flan 2022 指令微调数据集背后的设计选择，并公开了相应的数据与方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-10-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scaling Instruction-Finetuned Language Models",
+    "zh": "Scaling Instruction-Finetuned Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2210.11416v5",
+   "note": {
+    "en": "The Flan-PaLM paper, showing that scaling the number of instruction-tuning tasks and model size sharply improves generalisation to unseen tasks.",
+    "zh": "Flan-PaLM 论文，表明扩大指令微调任务数量与模型规模能显著提升对未见任务的泛化能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-09-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Want to learn more about how sparse expert models (e.g. MoEs, Switch Transformers, Hash Layers) work and their recent research advancements? Check out our recen",
+    "zh": "Want to learn more about how sparse expert models (e.g. MoEs, Switch Transformers, Hash Layers) work and their recent research advancements? Check out our recen"
+   },
+   "source": "@barret_zoph",
+   "url": "https://x.com/barret_zoph/status/1567527848776454145",
+   "note": {
+    "en": "Zoph promotes a review paper on sparse expert models (MoEs, Switch Transformers, Hash Layers), an area of his own research.",
+    "zh": "Barret Zoph推介一篇关于稀疏专家模型（MoE、Switch Transformer、Hash Layers）的综述论文，这正是他本人的研究领域。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2022-09-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "After 6 years at Google Brain I am excited to announce that I joined OpenAI! Very grateful for all the amazing collaborators and friends I have made at Google o",
+    "zh": "After 6 years at Google Brain I am excited to announce that I joined OpenAI! Very grateful for all the amazing collaborators and friends I have made at Google o"
+   },
+   "source": "@barret_zoph",
+   "url": "https://x.com/barret_zoph/status/1567170632210870272",
+   "note": {
+    "en": "Zoph announces joining OpenAI after six years at Google Brain.",
+    "zh": "Barret Zoph宣布在谷歌大脑工作六年后加入OpenAI。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2022-09-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Review of Sparse Expert Models in Deep Learning",
+    "zh": "A Review of Sparse Expert Models in Deep Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2209.01667v1",
+   "note": {
+    "en": "A survey of sparse expert models in deep learning, written with William Fedus and Jeff Dean, tracing MoE from its origins to modern trillion-parameter systems.",
+    "zh": "与 William Fedus、Jeff Dean 合写的深度学习稀疏专家模型综述，梳理了 MoE 从起源到当代万亿参数系统的发展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-06-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Emergent Abilities of Large Language Models",
+    "zh": "Emergent Abilities of Large Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2206.07682v2",
+   "note": {
+    "en": "Documents abilities that appear only above a certain model scale and cannot be extrapolated from smaller models — one of the most cited framings of scaling behaviour.",
+    "zh": "记录了只有在模型规模超过某一阈值后才出现、无法从小模型外推的能力，是关于规模效应最常被引用的论述之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-06-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Very excited to be able to release these sparse checkpoints to the research community!",
+    "zh": "Very excited to be able to release these sparse checkpoints to the research community!"
+   },
+   "source": "@barret_zoph",
+   "url": "https://x.com/barret_zoph/status/1536870150087266304",
+   "note": {
+    "en": "Zoph announces the release of sparse model checkpoints to the research community, continuing his Switch Transformer/MoE work.",
+    "zh": "Barret Zoph宣布向研究界发布稀疏模型checkpoint，延续其在Switch Transformer/MoE方向的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2022-06-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models",
+    "zh": "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2206.04615v3",
+   "note": {
+    "en": "BIG-bench: a 200-plus-task community benchmark built to measure and extrapolate language model capabilities beyond existing evaluations.",
+    "zh": "BIG-bench：由社区共建的两百多项任务基准，用于衡量并外推语言模型超出现有评测范围的能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-05-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Lots of great work coming out on LLMs generating + understanding code (Codex, Scratch Pad, MBPP/MathQA, etc...) The Alpha code paper by DeepMind is quite impres",
+    "zh": "Lots of great work coming out on LLMs generating + understanding code (Codex, Scratch Pad, MBPP/MathQA, etc...) The Alpha code paper by DeepMind is quite impres"
+   },
+   "source": "@barret_zoph",
+   "url": "https://x.com/barret_zoph/status/1523753902008545280",
+   "note": {
+    "en": "Zoph surveys progress in code-generating LLMs (Codex, MBPP/MathQA) and highlights DeepMind's AlphaCode results as impressive.",
+    "zh": "Barret Zoph评述代码生成类大模型（Codex、MBPP/MathQA等）的进展，并称赞DeepMind的AlphaCode结果令人印象深刻。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2022-04-28",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Efficient Scaling of Language Models",
+    "zh": "Efficient Scaling of Language Models"
+   },
+   "source": "The Data Exchange with Ben Lorica",
+   "url": "https://podcasts.apple.com/us/podcast/efficient-scaling-of-language-models/id1487704458?i=1000558965968&uo=4",
+   "note": {
+    "en": "Zoph and Liam Fedus discussed their work scaling large language models efficiently, as guests on The Data Exchange podcast.",
+    "zh": "Zoph与Liam Fedus做客The Data Exchange播客,探讨如何高效扩展大语言模型的相关研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-04-25",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Sparse Expert Models (Switch Transformers, GLAM, and more... w/ the Authors)",
+    "zh": "Sparse Expert Models (Switch Transformers, GLAM, and more... w/ the Authors)"
+   },
+   "source": "Yannic Kilcher Videos (Audio Only)",
+   "url": "https://podcasts.apple.com/us/podcast/sparse-expert-models-switch-transformers-glam-and/id1566025458?i=1000558654577&uo=4",
+   "note": {
+    "en": "Zoph and William Fedus were interviewed about their Switch Transformer and sparse expert model research.",
+    "zh": "Zoph与William Fedus接受采访,介绍了他们在Switch Transformer与稀疏专家模型方面的研究工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-04-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Thanks @jeremiecharris for having me on your podcast! Super fun chatting about mixture-of-expert models and how they fit into the current large language model l",
+    "zh": "Thanks @jeremiecharris for having me on your podcast! Super fun chatting about mixture-of-expert models and how they fit into the current large language model l"
+   },
+   "source": "@barret_zoph",
+   "url": "https://x.com/barret_zoph/status/1516797218170171398",
+   "note": {
+    "en": "Zoph thanks a podcast host after appearing to discuss mixture-of-experts models and their place in the LLM landscape.",
+    "zh": "Barret Zoph感谢播客主持人邀请他参加节目，探讨专家混合模型（MoE）及其在大语言模型领域中的地位。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2022-04-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "PaLM: Scaling Language Modeling with Pathways",
+    "zh": "PaLM: Scaling Language Modeling with Pathways"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2204.02311v5",
+   "note": {
+    "en": "PaLM, Google's 540B-parameter model trained with the Pathways system, and the scaling and few-shot results that came with it.",
+    "zh": "PaLM——谷歌用 Pathways 系统训练的 5400 亿参数模型，以及随之而来的扩展规律与少样本学习结果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-02-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "ST-MoE: Designing Stable and Transferable Sparse Expert Models",
+    "zh": "ST-MoE: Designing Stable and Transferable Sparse Expert Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2202.08906v2",
+   "note": {
+    "en": "Zoph's ST-MoE paper, which fixes the training instability and transfer problems that had made sparse expert models hard to use in practice.",
+    "zh": "Zoph 的 ST-MoE 论文，解决了此前令稀疏专家模型难以实用的训练不稳定与迁移问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-12-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GLaM: Efficient Scaling of Language Models with Mixture-of-Experts",
+    "zh": "GLaM: Efficient Scaling of Language Models with Mixture-of-Experts"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2112.06905v2",
+   "note": {
+    "en": "GLaM, a 1.2T-parameter Mixture-of-Experts language model that beats GPT-3 on average while using a fraction of the energy to train.",
+    "zh": "GLaM——1.2 万亿参数的专家混合语言模型，平均表现超过 GPT-3，训练能耗却只有其一小部分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-08-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Multi-Task Self-Training for Learning General Representations",
+    "zh": "Multi-Task Self-Training for Learning General Representations"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2108.11353v1",
+   "note": {
+    "en": "Uses multi-task self-training to distil several specialised teachers into one general vision model that transfers well across tasks.",
+    "zh": "用多任务自训练把多个专用教师模型蒸馏成一个通用视觉模型，在多种任务上都能良好迁移。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-06-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Simple Training Strategies and Model Scaling for Object Detection",
+    "zh": "Simple Training Strategies and Model Scaling for Object Detection"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2107.00057v1",
+   "note": {
+    "en": "Shows that simple training strategies and careful model scaling, rather than new architectures, account for much of the gain in object detection.",
+    "zh": "表明目标检测的多数性能提升来自简单的训练策略与谨慎的模型缩放，而非新的网络架构。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-03-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Revisiting ResNets: Improved Training and Scaling Strategies",
+    "zh": "Revisiting ResNets: Improved Training and Scaling Strategies"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2103.07579v1",
+   "note": {
+    "en": "Separates architecture gains from training and scaling gains, showing a modernised ResNet matches much newer architectures.",
+    "zh": "将架构带来的收益与训练方法、缩放策略的收益区分开，证明现代化训练下的 ResNet 可以媲美更新的架构。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-01-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity",
+    "zh": "Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2101.03961v3",
+   "note": {
+    "en": "Switch Transformer — Zoph's best-known language work, simplifying Mixture-of-Experts routing to a single expert per token and scaling to a trillion parameters.",
+    "zh": "Switch Transformer——Zoph 最广为人知的语言模型工作，将专家混合的路由简化为每个 token 只选一个专家，并扩展到万亿参数规模。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-12-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation",
+    "zh": "Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2012.07177v2",
+   "note": {
+    "en": "Shows that simply pasting objects between images is a strong data augmentation for instance segmentation, especially for rare categories.",
+    "zh": "表明简单地在图像间复制粘贴目标就是实例分割的有效数据增强方法，对稀有类别尤其有用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-10-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Does Data Augmentation Benefit from Split BatchNorms",
+    "zh": "Does Data Augmentation Benefit from Split BatchNorms"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2010.07810v1",
+   "note": {
+    "en": "Examines whether separate batch-norm statistics for clean and augmented images explain part of the benefit of strong data augmentation.",
+    "zh": "探讨为原始图像与增强图像分别统计批归一化参数，是否能解释强数据增强收益的一部分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-06-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Rethinking Pre-training and Self-training",
+    "zh": "Rethinking Pre-training and Self-training"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2006.06882v2",
+   "note": {
+    "en": "Finds that self-training helps where ImageNet pre-training stops helping, including under strong augmentation and large labelled datasets.",
+    "zh": "发现在 ImageNet 预训练不再奏效的场景下——例如强数据增强和大规模标注数据——自训练仍然有效。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-05-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Naive-Student: Leveraging Semi-Supervised Learning in Video Sequences for Urban Scene Segmentation",
+    "zh": "Naive-Student: Leveraging Semi-Supervised Learning in Video Sequences for Urban Scene Segmentation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2005.10266v4",
+   "note": {
+    "en": "Uses semi-supervised learning over unlabelled video frames to push urban scene segmentation without extra human annotation.",
+    "zh": "利用未标注视频帧上的半监督学习提升城市场景分割效果，无需额外人工标注。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-04-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Improving 3D Object Detection through Progressive Population Based Augmentation",
+    "zh": "Improving 3D Object Detection through Progressive Population Based Augmentation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2004.00831v2",
+   "note": {
+    "en": "Learns 3D point-cloud augmentation policies automatically through progressive population-based search instead of hand-designing them.",
+    "zh": "用渐进式种群搜索自动学习三维点云的数据增强策略，取代人工设计。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-12-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty",
+    "zh": "AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1912.02781v2",
+   "note": {
+    "en": "AugMix, a simple augmentation-and-mixing scheme that markedly improves robustness and calibration under distribution shift.",
+    "zh": "AugMix——一种简单的增强与混合方案，显著提升了模型在分布偏移下的鲁棒性与置信度校准。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-09-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "RandAugment: Practical automated data augmentation with a reduced search space",
+    "zh": "RandAugment: Practical automated data augmentation with a reduced search space"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1909.13719v2",
+   "note": {
+    "en": "RandAugment paper, cutting automated data augmentation down to a two-parameter search space.",
+    "zh": "RandAugment 论文，把自动数据增强压缩成只有两个参数的搜索空间。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-06-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Learning Data Augmentation Strategies for Object Detection",
+    "zh": "Learning Data Augmentation Strategies for Object Detection"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1906.11172v1",
+   "note": {
+    "en": "Zoph's first-author work extending learned augmentation policies from image classification to object detection.",
+    "zh": "Zoph 的第一作者工作，将学习得到的数据增强策略从图像分类扩展到目标检测。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-01-01",
+   "level": "major",
+   "title": {
+    "en": "Exits Thinking Machines Lab and returns to OpenAI",
+    "zh": "离开 Thinking Machines Lab，回归 OpenAI"
+   },
+   "body": {
+    "en": "The company said he was let go over 'unethical conduct'; he rejoined OpenAI immediately, alongside Luke Metz and Sam Schoenholl. Soumith Chintala succeeded him as TML's CTO.",
+    "zh": "公司称其因「不当行为」被解雇；他随即与 Luke Metz、Sam Schoenholl 一同回归 OpenAI。Soumith Chintala 接任 TML 的 CTO。"
+   },
+   "source": "Neowin",
+   "url": "https://www.neowin.net/news/thinking-machines-lab-cto-barret-zoph-returns-to-openai-in-surprise-move/"
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Exclusive | Thinking Machines Lab Co-Founder Barret Zoph Joins Google",
+    "zh": "Exclusive | Thinking Machines Lab Co-Founder Barret Zoph Joins Google"
+   },
+   "body": {
+    "en": "WSJ's exclusive that Zoph has joined Google as a research VP, a second stint at the company after co-founding Thinking Machines Lab and returning to OpenAI.",
+    "zh": "《华尔街日报》独家报道 Zoph 加入谷歌出任研究副总裁；在联合创办 Thinking Machines Lab 并重返 OpenAI 之后，这是他第二次任职谷歌。"
+   },
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTkRoZWl3bUJjVHhOSWYzN1A1ZnN3RWp6VUJBTjMzX1o1NzAweGVYWF9WdTNsRnJ3TC10RmxfWllkZ3JpeWZBUXY4Z29NOFhLWnoyOWNpRk1Vcl9mZFFjdHNJMHlLbS1Hd3lxUXZhZ0FlXzMxS01JWlBBUmU4TkpjcDRtNDZLT3NrQk43TXNNTDRHWkhOOUZaMkNn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Thinking Machines Lab cofounder Barret Zoph joins Google",
+    "zh": "Thinking Machines Lab cofounder Barret Zoph joins Google"
+   },
+   "body": {
+    "en": "He leaves Thinking Machines Lab, which he co-founded, and joins Google, saying it has all the ingredients to succeed in AI.",
+    "zh": "他离开自己参与创办的 Thinking Machines Lab，加入谷歌，并称谷歌具备在人工智能领域取胜的全部要素。"
+   },
+   "source": "ET Enterprise AI",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWXR2bGNZMjFUZTFMOEU5VmozdVNSdTQ4eXRYUkNZLUtCYllhMnBlLXZuYjF1S3hiUzZLLXRGT3ZLY29JazloMFRKOWpudHJfNDVnR1pGMTdyVTcwdExCUUo3d2FqZ3U1ZHN2V2RlS214QlhWUkZScHV6bnpqVlkxR3VTR2tzLWVGMTJNLUJESnB0ZG13dVg2b0p6eDJlcTdCTGM2NTRYZkMwUDB4djNhN1U2UEpmNFJWNWh2V1J0YTVhSEs2US1sVTNB0gHPAUFVX3lxTFBPYlFRc2c2aTNMVjBjSWlrNmZiNjlqLVl5c2hJSFJpSlg5N0JkWmRsVy1sUG5GQUl6NHc1N19neVNvdzVuekVpd3U5T1B3WU0tU05qSzhsaDdWWmFyeWxJdmpvdFdwM21QMm9pNS1FdjVJbkhsY3FtYjZoMjRFVm9xME42SnI1cHJ6cHRaQmVHOW92UzlvQjFJMzNBMUY3dDNkVmp5Zy1uMFFiZ2hlNkxfTUppSUs3ODBpRzBLR2JTaGlPNmNUcE9jc1BHaS05QQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Thinking Machines Lab co-founder Barret Zoph joins Google",
+    "zh": "Thinking Machines Lab co-founder Barret Zoph joins Google"
+   },
+   "body": {
+    "en": "Press coverage confirms Thinking Machines Lab co-founder Barret Zoph is joining Google, working on Gemini AI research.",
+    "zh": "媒体报道证实Thinking Machines Lab联合创始人Barret Zoph加入谷歌，从事Gemini AI研究工作。"
+   },
+   "source": "The Daily News | Texas' Oldest Newspaper",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeENmYnhubXhkMmhTWlQtcDVJS3dJTC14bjJWNkNaeEFNdk1peGVaR3dudjFyWURZWThaM1hxQkpoamJ5Z2NNVFFYTXUyQ1dHQnlteHdDMjhpdk5WZlFJSTlId2hUVHhBeEt1QUFOc2dndjVnemlyQjdSQ2tnbThaYTJfbTVXallucENia3dRdzJWcXBUbHQwV01FdWs0QTNUMlJZVUU1cTNqZDVtdUZrVjBMdTcxN2JPZHdkcnk0WmpYVlAxbUtydnJVRUQ5Q1FoZVB0a2tiM3lEcFVWaURmc1lrR3Y3cjZxbHc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Barret Zoph joining Google DeepMind as research VP",
+    "zh": "Barret Zoph joining Google DeepMind as research VP"
+   },
+   "body": {
+    "en": "Barret Zoph is leaving OpenAI to join Google DeepMind as a research VP.",
+    "zh": "Barret Zoph 将离开 OpenAI，加入 Google DeepMind 担任研究副总裁。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMXdxNHVpZDN1c3hkQXZZbHJqVzVlRXlHT2RmUTNVclpyOE1ISHhNTV96aWxkbW1VM3kzZWY2RTVPSzJBbkZoRHRHOThkSnRHX2RqVXhoMWxjX0xUUWphWXRnYm5pNXR0TjRiZVhtOV9ObUJqRl9MWEVTTUlmNTJ2SUc0SWhVcndNejFXYjJHQ1puU2JaeFRoWjFOZlhPWENj?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+    "zh": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google"
+   },
+   "body": {
+    "en": "Barret Zoph — the Thinking Machines Lab co-founder who was ousted before he could join OpenAI — has now joined Google, per reporting.",
+    "zh": "据报道，曾是Thinking Machines Lab联合创始人、在加入OpenAI前被排挤出局的Barret Zoph，如今已加入谷歌。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTHV2Zy1OVl9EUFFRYmJaOVozcERNTW1lZzlSS0o5bTlOQ2RHSnV5ZDdFSTg1UlJ0VVBWazNBQlVLY2kxRm1TaVRKeGxMTEdRcm5xV2huaWYxNHBZaHo2blJYYnYyd0piNFNzNkJsOE9YNlhKRGR6LVhrRVMzLWR0Tk9hY1FGVmU3Sk9WaFRjdkZuOWM3d05iYzQ3cGc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Thinking Machines Lab co-founder Barret Zoph joins Google",
+    "zh": "Thinking Machines Lab co-founder Barret Zoph joins Google"
+   },
+   "body": {
+    "en": "Zoph, a Thinking Machines Lab co-founder, has joined Google, another move in his fast-changing career after briefly returning to OpenAI in January 2026.",
+    "zh": "Thinking Machines Lab联合创始人Barret Zoph已加入谷歌，这是他职业生涯中的又一次变动，此前他曾于2026年1月短暂重返OpenAI。"
+   },
+   "source": "channelnewsasia.com",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaVdueVVtdEtIWkZfSHNwNThIN3ZTUEJVdjJPTmZ6bE9xbzR0V1NBelpGdHZwRUpON0dqaUlTNEp3YkRUNG9TNjA0MkNPekI5UkpfaEVpLUY2R3o1WG1hbG1ubnVVTTNmTllJNzUxQ2VsTjdUaUVyMUk1d3QtcWs0cU02a2IzUFdaSFJ3ZUU5TWlZa1E3WHRLZHJuZGthRndzeWVKUFNFRHRhQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Barret Zoph Returns to Google to Lead Gemini AI Research - Межа. Новини України.",
+    "zh": "Barret Zoph Returns to Google to Lead Gemini AI Research - Межа. Новини України."
+   },
+   "body": {
+    "en": "Reported to be leaving Thinking Machines Lab to rejoin Google and lead Gemini AI research.",
+    "zh": "据报道，他将离开Thinking Machines Lab，重回谷歌领导Gemini AI研究。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94YS1PeHlKcUxGblV1cUhMek1jU1ItelBBUUJkS0JwQTJIU3lsMVZ6Rl9HaVpQSUJTbEVVUTlfUU5HbUU2cWlQQl9lMHdnbTcxODFMM1ZzVk9pcXJpUENYN1liQXpSU2M?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-27",
+   "ts": "2026-08-27T06:29:07Z",
+   "level": "major",
+   "title": {
+    "en": "Thinking Machines Lab co-founder Barret Zoph joins Google",
+    "zh": "Thinking Machines Lab co-founder Barret Zoph joins Google"
+   },
+   "body": {
+    "en": "Coverage reports Thinking Machines Lab co-founder Barret Zoph has joined Google, months after he was said to have returned to OpenAI.",
+    "zh": "报道称Thinking Machines Lab联合创始人Barret Zoph已加入谷歌，此前几个月他曾被称已重返OpenAI。"
+   },
+   "source": "DZRH",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcEJTLWxJTFJQbTgtR0w0dWFaYzJ3STNBYXNFZFpmcm5zeFI4Qi1LM0pVbDZOQ3dmQk8wNnFLaGo1U1ZHZ1VYT1dWZXJaMjFGai1pWV9lcWp1UTI0YmtydkxROFQyeV82b1p6bGVWYTJ2OUdkR2dZcGZMb2FyZnBhVEpoRW1qZTM0M1FJQkxlcw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-27",
+   "ts": "2026-08-27T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google",
+    "zh": "Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google"
+   },
+   "body": {
+    "en": "Zoph left OpenAI to join Google DeepMind as VP of Research, working on reinforcement learning and post-training for Gemini — his third move in under a year after Thinking Machines Lab and OpenAI.",
+    "zh": "Zoph离开OpenAI，加入Google DeepMind担任研究副总裁，负责Gemini的强化学习与后训练工作——这是他不到一年内继Thinking Machines Lab和OpenAI之后的第三次任职变动。"
+   },
+   "source": "Benzatine Infotech",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYzZWNkR6WWp1OFQ1WDVNTGRHRVNKaW9OY0x6Y1FGNzhBOVdIYzJDLVEyMHdydC1ETGNqVS1obDN1bE1LNGhyZUZfX01lMng1S09tZzNSTVV5VDZ6VDhwNThBVkRobTRFaTFZMzFPVi1tNGFBVFJad0JmdTJhVXAtVkc5V3E1MG53UngwNUlEc1NKNjI1dE56eE5JZUg1Nmc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-27",
+   "ts": "2026-08-27T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Barret Zoph Joins Google as Vice President of Research",
+    "zh": "Barret Zoph Joins Google as Vice President of Research"
+   },
+   "body": {
+    "en": "Zoph left OpenAI for Google DeepMind as VP of Research, returning to the company after stints at Thinking Machines Lab and OpenAI.",
+    "zh": "扎夫离开OpenAI，加入谷歌DeepMind担任研究副总裁，在辗转Thinking Machines Lab和OpenAI后重返谷歌。"
+   },
+   "source": "briefia.fr",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ1B2R1hoTDRJbXJ4NWE4VVlUZEMyN2tYbGp4d2RDMk5EcmtpLXBDeUR1LUZORmJRbnpzUGlZamRoQlZKSVgtZjBvVTU2bmpPaGxOUy1GMWQ5cTN0RjM2MUlkdWJvR3RtMnB5MHhVUDZ1UGwzVWVsQWdSSHZnSWNsMjB6bzU0X2xSUFdPdHdlbjBQTmQ0Ync?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-26",
+   "ts": "2026-08-26T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Barret Zoph, cofundador de Thinking Machines Lab, se une a Google",
+    "zh": "Barret Zoph, cofundador de Thinking Machines Lab, se une a Google"
+   },
+   "body": {
+    "en": "Zoph, a Thinking Machines Lab co-founder, is reported to have joined Google.",
+    "zh": "报道称，Thinking Machines Lab联合创始人Zoph已加入谷歌。"
+   },
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xQjIyUnloeEtJdFZ3SjM1Q0IxLXhBOWswcVNfYjZCTXpnd20xQTgxYy1sNGwyY2xTVXZrbXJLdWRDTElhMkNhMzktVXA1dFFDMXhXdWRmZ09jZkd1a1djLUVMR0hQRnl5WF9qTzVtUmhkdEJaMzQ1Mw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-18",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Barret Zoph is out at OpenAI again after just five months",
+    "zh": "Barret Zoph is out at OpenAI again after just five months"
+   },
+   "body": {
+    "en": "Zoph left OpenAI again only five months after rejoining.",
+    "zh": "Zoph 在回归仅五个月后再次离开 OpenAI。"
+   },
+   "source": "The Verge",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORjUxTWdPSlFJMV92M1AwMHpld3I1cDlsbW5VRWQ1SG1BSEhUVGExbTh0ZXBIYXZYQVJ3T3pZNkpaekRteEpyVWJmVFp1dG15bHoyZjBURkEzYkVvOFYtd0NvOUxjTmt4NnRXcUJLeTYwR0VBTTVXeEFrNENwbzRvMXQ3V3I1UXlNTDVKLWw2WDJuM2FtZDZFV1QwemhBWlU3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-01-15",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Thinking Machines Lab CTO Barret Zoph returns to OpenAI in surprise move",
+    "zh": "Thinking Machines Lab CTO Barret Zoph returns to OpenAI in surprise move"
+   },
+   "body": {
+    "en": "Zoph returned to OpenAI from Thinking Machines Lab, where he had been CTO.",
+    "zh": "Zoph 从担任 CTO 的 Thinking Machines Lab 回到 OpenAI。"
+   },
+   "source": "Neowin",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNemxBTjhsVlh4MXkzeHpxeTdzSGNkQmpNZjU4ZGREakVaNTIwWGkzYVROZzk1OTNreTg1YmpKRnJUMVJKcjlFa3d1ajE1c0hvNE1NcTRGZmlqUU90SVRlX2FJUF9uZHRyYUFONTFJbVJCaEVqZ2MtaklQSHFZcDBXMWgzTWRoUEVoU0lwOEdwZ2NxS2VETjQ3V0tXeFFZWXFXTVBF0gGiAUFVX3lxTE1QMUktNUs1cU56REh5YkRWbVN0VWp1emVQWTBMWW1odGdnX20xM1ljUnl3TXB6YWdCSm1hN1dKUmdpVjVjb1kwUjUxMGhFQjFtekNOb2tzdHg2d2c3WG1kUXNRU2FreWpVVzBIamJXbmZCR0lYUmVGMUZXQzRxR2xoQlVWTndFWVM5RkpPQ19FZFp3dGNUYjdmWDNhRGo4ODZ3QQ?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": true,
+ "was": {
+  "en": "Co-founder & CTO, Thinking Machines Lab",
+  "zh": "Thinking Machines Lab 联合创始人兼 CTO"
+ },
+ "cat": "lab",
+ "score": {
+  "total": 53.9,
+  "attention": null,
+  "centrality": 46,
+  "momentum": 63,
+  "stature": null,
+  "pageviews": 0,
+  "citations": 0,
+  "hIndex": 0,
+  "events": 14,
+  "posts": 42,
+  "wikiEn": null,
+  "wikiZh": null
+ },
+ "seedRank": 97,
+ "tier": "t3"
+}

@@ -1,0 +1,1320 @@
+{
+ "rank": 81,
+ "id": "daphne-koller",
+ "name": {
+  "en": "Daphne Koller",
+  "zh": "Daphne Koller"
+ },
+ "role": {
+  "en": "Founder & CEO, insitro",
+  "zh": "insitro 创始人兼 CEO"
+ },
+ "org": "insitro",
+ "region": {
+  "en": "United States / Israel",
+  "zh": "美国/以色列"
+ },
+ "tags": [
+  "insitro",
+  "TherML",
+  "Drug discovery",
+  "Coursera",
+  "Probabilistic models"
+ ],
+ "why": {
+  "en": "Foundational scholar of probabilistic graphical models and Coursera co-founder. Now runs the flagship commercialisation of AI for science — machine-learning-driven drug discovery with candidates entering the clinic.",
+  "zh": "概率图模型领域的奠基学者，Coursera 联合创始人。现以机器学习驱动药物发现，是 AI for Science 商业化的代表，候选药物已进入临床阶段。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@DaphneKoller",
+   "url": "https://x.com/DaphneKoller",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Medium",
+   "url": "https://medium.com/@daphne_38275",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "insitro News",
+   "url": "https://www.insitro.com/news/",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "insitro",
+   "url": "https://www.insitro.com/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Daphne+Koller",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Daphne+Koller",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Daphne+Koller",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Daphne+Koller&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Daphne+Koller&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Daphne+Koller",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Daphne+Koller&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Daphne+Koller",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Daphne+Koller",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Daphne+Koller",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Daphne+Koller",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Daphne+Koller",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Daphne+Koller",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Daphne+Koller",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Daphne+Koller&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Daphne_Koller",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-08-01",
+   "kind": "blog",
+   "title": {
+    "en": "Drug discovery has no magic wands",
+    "zh": "药物发现没有魔杖"
+   },
+   "source": "a16z",
+   "url": "https://www.a16z.news/p/drug-discovery-has-no-magic-wands",
+   "note": {
+    "en": "A direct response to the claim that superintelligence will simply cure cancer.",
+    "zh": "对「超级智能将直接治愈癌症」这一说法的正面回应。"
+   }
+  },
+  {
+   "date": "2026-04-29",
+   "kind": "interview",
+   "title": {
+    "en": "A tidal wave of data is enabling AI-powered drug discovery",
+    "zh": "数据的浪潮正在使 AI 驱动的药物发现成为可能"
+   },
+   "source": "The Washington Post",
+   "url": "https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/04/29/ai-tech-brief-daphne-koller-ai-powered-drug-discovery/",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-09-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Changing minds: How AI is transforming the life sciences",
+    "zh": "Changing minds: How AI is transforming the life sciences"
+   },
+   "source": "Cell",
+   "url": "https://doi.org/10.1016/j.cell.2026.08.019",
+   "note": {
+    "en": "Koller was lead author of a Cell perspective on how AI is transforming life-sciences research, drawing on her work applying machine learning to drug discovery at insitro.",
+    "zh": "Koller作为第一作者在《细胞》期刊发表了一篇关于AI如何改变生命科学研究的评论文章，结合她在insitro将机器学习应用于药物研发的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2026-08-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Only about a quarter of human diseases have an approved therapy. By some estimates it's a few percent. Most of those treatments slow a disease rather than stop",
+    "zh": "Only about a quarter of human diseases have an approved therapy. By some estimates it's a few percent. Most of those treatments slow a disease rather than stop"
+   },
+   "source": "@DaphneKoller",
+   "url": "https://x.com/DaphneKoller/status/2084497536434237904",
+   "note": {
+    "en": "Koller argued only a small fraction of human diseases have effective treatments, framing the opportunity AI-driven drug discovery has to close that gap.",
+    "zh": "Koller指出只有一小部分人类疾病拥有有效疗法,阐述了AI驱动的药物发现在弥合这一差距上的机会。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-03",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Daphne Koller - The Future of AI in Biology and Drug Discovery",
+    "zh": "Daphne Koller - The Future of AI in Biology and Drug Discovery"
+   },
+   "source": "The Information Bottleneck",
+   "url": "https://podcasts.apple.com/us/podcast/daphne-koller-the-future-of-ai-in-biology-and-drug-discovery/id1834616211?i=1000779782686&uo=4",
+   "note": {
+    "en": "Long-form interview on where AI in biology and drug discovery is heading, tracing her path from probabilistic graphical models to insitro.",
+    "zh": "长篇访谈，谈人工智能在生物学与药物研发中的走向，回顾她从概率图模型到 insitro 的历程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-04-20",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Learning Probabilistic Models with Daphne Koller",
+    "zh": "Learning Probabilistic Models with Daphne Koller"
+   },
+   "source": "Machine Learning: How Did We Get Here?",
+   "url": "https://podcasts.apple.com/us/podcast/learning-probabilistic-models-with-daphne-koller/id1879433175?i=1000762374465&uo=4",
+   "note": {
+    "en": "Interview on her research at the intersection of machine learning and probabilistic reasoning, and her move from Stanford into building companies.",
+    "zh": "访谈她在机器学习与概率推理交叉领域的研究，以及她从斯坦福转向创业的经历。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-02-04",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Is AI Drug Discovery Finally Here? - with Daphne Koller",
+    "zh": "Is AI Drug Discovery Finally Here? - with Daphne Koller"
+   },
+   "source": "What's Your Number?",
+   "url": "https://podcasts.apple.com/us/podcast/is-ai-drug-discovery-finally-here-with-daphne-koller/id1810695711?i=1000747971951&uo=4",
+   "note": {
+    "en": "Interview asking whether AI-driven drug discovery has finally arrived, argued from insitro's own pipeline.",
+    "zh": "访谈探讨人工智能驱动的药物研发是否终于成真，并以 insitro 自身的管线为依据。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-07-08",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The Machine Learns Medicine: Daphne Koller’s Vision for AI in Biotech",
+    "zh": "The Machine Learns Medicine: Daphne Koller’s Vision for AI in Biotech"
+   },
+   "source": "Leadership Next",
+   "url": "https://podcasts.apple.com/us/podcast/the-machine-learns-medicine-daphne-kollers-vision-for/id1501891506?i=1000716299528&uo=4",
+   "note": {
+    "en": "Koller appeared on Leadership Next to discuss her thesis that AI could transform biology the way calculus transformed physics, drawing on her work at insitro.",
+    "zh": "科勒做客Leadership Next播客,阐述了她认为AI能像微积分改变物理学一样改变生物学的观点,并结合了她在insitro的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-06-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Daphne Koller | How machine learning could save millions of lives",
+    "zh": "Daphne Koller | How machine learning could save millions of lives"
+   },
+   "source": "Strange Loop Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/daphne-koller-how-machine-learning-could-save-millions/id1818186996?i=1000714633433&uo=4",
+   "note": {
+    "en": "Podcast interview on how machine learning applied to human biology could change which medicines reach patients.",
+    "zh": "播客访谈，谈将机器学习应用于人类生物学如何改变最终能够送到患者手中的药物。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-03-05",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Exploring AI Innovation: insitro CEO Daphne Koller On AI In Drug Discovery",
+    "zh": "Exploring AI Innovation: insitro CEO Daphne Koller On AI In Drug Discovery"
+   },
+   "source": "The Minor Consult",
+   "url": "https://podcasts.apple.com/us/podcast/exploring-ai-innovation-insitro-ceo-daphne-koller-on/id1610419911?i=1000697872601&uo=4",
+   "note": {
+    "en": "Conversation with Stanford Medicine dean Lloyd Minor on how machine learning can accelerate drug discovery.",
+    "zh": "与斯坦福医学院院长 Lloyd Minor 对谈，讨论机器学习如何加速药物研发。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-10-17",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "What's next for data-driven medicine - and what AI-powered innovation needs now: insitro CEO Daphne Koller",
+    "zh": "What's next for data-driven medicine - and what AI-powered innovation needs now: insitro CEO Daphne Koller"
+   },
+   "source": "Meet The Leader",
+   "url": "https://podcasts.apple.com/us/podcast/whats-next-for-data-driven-medicine-and-what-ai/id1534915560?i=1000673494537&uo=4",
+   "note": {
+    "en": "Interview on what data-driven medicine needs next and how attitudes to AI in healthcare have shifted.",
+    "zh": "访谈数据驱动医学的下一步需求，以及医疗界对人工智能态度的转变。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-08-05",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Daphne Koller: Changing Lives With Coursera",
+    "zh": "Daphne Koller: Changing Lives With Coursera"
+   },
+   "source": "Pattern Breakers",
+   "url": "https://podcasts.apple.com/us/podcast/daphne-koller-changing-lives-with-coursera/id1488560647?i=1000664340033&uo=4",
+   "note": {
+    "en": "Podcast interview on founding Coursera and moving from machine-learning research into company building.",
+    "zh": "播客访谈，谈创办 Coursera 以及从机器学习研究走向创业的经历。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-04-17",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "From Theory to Therapy: The Evolution of AI in Medicine with Dr. Daphne Koller",
+    "zh": "From Theory to Therapy: The Evolution of AI in Medicine with Dr. Daphne Koller"
+   },
+   "source": "NEJM AI Grand Rounds",
+   "url": "https://podcasts.apple.com/us/podcast/from-theory-to-therapy-the-evolution-of-ai-in/id1657518313?i=1000652737074&uo=4",
+   "note": {
+    "en": "Interview charting her trajectory from early AI research to applying machine learning in medicine.",
+    "zh": "访谈梳理她从早期人工智能研究到将机器学习应用于医学的职业轨迹。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-03-10",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Daphne Koller: The Convergence of A.I. and Digital Biology",
+    "zh": "Daphne Koller: The Convergence of A.I. and Digital Biology"
+   },
+   "source": "Ground Truths",
+   "url": "https://podcasts.apple.com/us/podcast/daphne-koller-the-convergence-of-a-i-and-digital-biology/id1728526108?i=1000648660606&uo=4",
+   "note": {
+    "en": "Conversation with Eric Topol on the convergence of AI and digital biology.",
+    "zh": "与 Eric Topol 对谈人工智能与数字生物学的融合。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-10-03",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "When AI and Genomics Collide",
+    "zh": "When AI and Genomics Collide"
+   },
+   "source": "The a16z Show",
+   "url": "https://podcasts.apple.com/us/podcast/when-ai-and-genomics-collide/id842818711?i=1000630023035&uo=4",
+   "note": {
+    "en": "Daphne Koller joins a16z's Vijay Pande to discuss the convergence of AI and genomics in drug discovery, drawing on her work at insitro.",
+    "zh": "达芙妮·科勒与a16z的Vijay Pande对谈，探讨AI与基因组学在药物发现中的融合，并分享insitro的相关工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-09-27",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AI Revolution: Digital Biology with insitro's Daphne Koller",
+    "zh": "AI Revolution: Digital Biology with insitro's Daphne Koller"
+   },
+   "source": "a16z Live",
+   "url": "https://podcasts.apple.com/us/podcast/ai-revolution-digital-biology-with-insitros-daphne-koller/id1551570777?i=1000629278299&uo=4",
+   "note": {
+    "en": "Conversation with a16z's Vijay Pande on engineering drug discovery with machine learning, including what a language model for cells would mean.",
+    "zh": "与 a16z 的 Vijay Pande 对谈如何用机器学习重构药物研发，包括「细胞的大语言模型」意味着什么。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-03-02",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "How AI can make drug discovery fail less, with Daphne Koller from Insitro",
+    "zh": "How AI can make drug discovery fail less, with Daphne Koller from Insitro"
+   },
+   "source": "No Priors: Artificial Intelligence | T…",
+   "url": "https://podcasts.apple.com/us/podcast/how-ai-can-make-drug-discovery-fail-less-with-daphne/id1668002688?i=1000602459686&uo=4",
+   "note": {
+    "en": "Interview on using machine learning to lower the failure rate of drug discovery.",
+    "zh": "访谈如何用机器学习降低药物研发的失败率。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-02-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "One of the most rewarding aspects of building insitro is our amazing team. I'm thrilled to welcome Philip Tagari, who joins as our inaugural chief scientific of",
+    "zh": "One of the most rewarding aspects of building insitro is our amazing team. I'm thrilled to welcome Philip Tagari, who joins as our inaugural chief scientific of"
+   },
+   "source": "@DaphneKoller",
+   "url": "https://x.com/DaphneKoller/status/1628616468874285056",
+   "note": {
+    "en": "Koller announced Philip Tagari as insitro's inaugural chief scientific officer, a senior research leadership hire for the company.",
+    "zh": "Koller宣布Philip Tagari出任insitro首任首席科学官,这是公司在研究领导层的一次重要招聘。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2022-10-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I am honored to be included in the @Forbes 2022 “50 over 50” list (https://t.co/JeBmXMj2Kh) with incredible women leaders having broad impact across society and",
+    "zh": "I am honored to be included in the @Forbes 2022 “50 over 50” list (https://t.co/JeBmXMj2Kh) with incredible women leaders having broad impact across society and"
+   },
+   "source": "@DaphneKoller",
+   "url": "https://x.com/DaphneKoller/status/1578417192529383424",
+   "note": {
+    "en": "Koller was named to Forbes' 2022 '50 Over 50' list recognizing women with broad impact across industry.",
+    "zh": "Koller入选福布斯2022年'50位50岁以上女性'榜单,该榜单表彰在行业中具有广泛影响力的女性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2022-09-27",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Can computers discover new medicines?",
+    "zh": "Can computers discover new medicines?"
+   },
+   "source": "The Life Scientific",
+   "url": "https://podcasts.apple.com/us/podcast/can-computers-discover-new-medicines/id469912037?i=1000580769639&uo=4",
+   "note": {
+    "en": "BBC Radio 4 profile interview in which she is the sole guest, covering her career and insitro's attempt to let computers find new medicines.",
+    "zh": "BBC Radio 4 人物专访，她是唯一嘉宾，讲述其职业生涯以及 insitro 让计算机寻找新药的尝试。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-09-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Deeply honored to receive the 2022 Technical Leadership Abie Award from @AnitaB_org this week. I dedicate this award to the incredible young women I've mentored",
+    "zh": "Deeply honored to receive the 2022 Technical Leadership Abie Award from @AnitaB_org this week. I dedicate this award to the incredible young women I've mentored"
+   },
+   "source": "@DaphneKoller",
+   "url": "https://x.com/DaphneKoller/status/1573313101084397568",
+   "note": {
+    "en": "Koller received the 2022 Technical Leadership Abie Award, dedicating it to the young women, including her daughters, she has mentored.",
+    "zh": "Koller获得2022年技术领导力Abie奖,并将其献给她指导过的年轻女性,包括她的两个女儿。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2021-11-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Excited to share redun with data scientists everywhere. We hope redun will help democratize data science at scale, and support robust, reproducible science.",
+    "zh": "Excited to share redun with data scientists everywhere. We hope redun will help democratize data science at scale, and support robust, reproducible science."
+   },
+   "source": "@DaphneKoller",
+   "url": "https://x.com/DaphneKoller/status/1456328549225271310",
+   "note": {
+    "en": "Koller open-sourced Redun, insitro's workflow engine, to help data scientists build reproducible pipelines.",
+    "zh": "Koller开源了insitro的工作流引擎Redun,帮助数据科学家构建可复现的计算流水线。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2021-04-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "From an aspirational concept to 77M learners in 9 years. I feel proud to have been able to help learners around the world transform their lives via access to th",
+    "zh": "From an aspirational concept to 77M learners in 9 years. I feel proud to have been able to help learners around the world transform their lives via access to th"
+   },
+   "source": "@DaphneKoller",
+   "url": "https://x.com/DaphneKoller/status/1377480465666334722",
+   "note": {
+    "en": "Koller reflected on Coursera reaching 77 million learners nine years after its founding.",
+    "zh": "Koller回顾了Coursera自创立九年以来已覆盖7700万学习者的历程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2020-11-02",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Daphne Koller: How machine learning is transforming drug discovery",
+    "zh": "Daphne Koller: How machine learning is transforming drug discovery"
+   },
+   "source": "The Future of Everything",
+   "url": "https://podcasts.apple.com/us/podcast/daphne-koller-how-machine-learning-is-transforming/id1235836821?i=1000499106319&uo=4",
+   "note": {
+    "en": "Guest on Stanford's 'The Future of Everything,' discussing how machine learning is transforming drug discovery at insitro.",
+    "zh": "作为嘉宾参加斯坦福播客《The Future of Everything》，探讨机器学习如何在insitro改变药物研发。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2020-10-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Very proud to be included in Academic Influence's list of \"Top 40 women in STEM\", along with some incredible (women) scientists. https://t.co/AO7ZNUpbcr #scient",
+    "zh": "Very proud to be included in Academic Influence's list of \"Top 40 women in STEM\", along with some incredible (women) scientists. https://t.co/AO7ZNUpbcr #scient"
+   },
+   "source": "@DaphneKoller",
+   "url": "https://x.com/DaphneKoller/status/1322019278774661121",
+   "note": {
+    "en": "Koller was named to Academic Influence's 'Top 40 Women in STEM' list.",
+    "zh": "Koller入选Academic Influence评选的'STEM领域40位杰出女性'榜单。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2020-10-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ep79: Daphne Koller on Machine Learning for Drug Discovery",
+    "zh": "Ep79: Daphne Koller on Machine Learning for Drug Discovery"
+   },
+   "source": "The Long Run with Luke Timmerman",
+   "url": "https://podcasts.apple.com/us/podcast/ep79-daphne-koller-on-machine-learning-for-drug-discovery/id1282838969?i=1000496168387&uo=4",
+   "note": {
+    "en": "Interview as insitro's CEO on applying machine learning to drug discovery.",
+    "zh": "以 insitro 首席执行官身份接受访谈，谈机器学习在药物研发中的应用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2020-10-15",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I'm truly excited to go back to education with today's launch of Engageli, a truly immersive, digital learning platform that helps students learn and teachers t",
+    "zh": "I'm truly excited to go back to education with today's launch of Engageli, a truly immersive, digital learning platform that helps students learn and teachers t"
+   },
+   "source": "@DaphneKoller",
+   "url": "https://x.com/DaphneKoller/status/1316613986238951424",
+   "note": {
+    "en": "Koller launched Engageli, a new immersive digital learning platform, marking her return to online education.",
+    "zh": "Koller推出全新沉浸式数字学习平台Engageli,标志着她重返在线教育领域。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2020-09-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Congratulations to Paolo and the @insitro and @GileadSciences teams for the outstanding work, which helped uncover new and exciting NASH biology from an ML anal",
+    "zh": "Congratulations to Paolo and the @insitro and @GileadSciences teams for the outstanding work, which helped uncover new and exciting NASH biology from an ML anal"
+   },
+   "source": "@DaphneKoller",
+   "url": "https://x.com/DaphneKoller/status/1301733370485907457",
+   "note": {
+    "en": "Koller highlighted insitro and Gilead's machine-learning analysis of histopathology data that uncovered new NASH disease biology.",
+    "zh": "Koller介绍了insitro与Gilead合作,通过机器学习分析组织病理数据,发现了NASH疾病的新生物学机制。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2020-07-29",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "E1089 The Next Unicorns E11: insitro CEO Daphne Koller is revolutionizing drug discovery via machine learning & data, shares insights on remote education from time at Coursera & more",
+    "zh": "E1089 The Next Unicorns E11: insitro CEO Daphne Koller is revolutionizing drug discovery via machine learning & data, shares insights on remote education from time at Coursera & more"
+   },
+   "source": "This Week in Startups",
+   "url": "https://podcasts.apple.com/us/podcast/e1089-the-next-unicorns-e11-insitro-ceo-daphne-koller/id315114957?i=1000486522203&uo=4",
+   "note": {
+    "en": "Interview covering insitro's data-driven approach to drug discovery and what she took from building Coursera.",
+    "zh": "访谈，谈 insitro 以数据驱动药物研发的方法，以及她创办 Coursera 的经验。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2020-07-28",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Building a bilingual culture for data-first drug discovery with Daphne Koller (insitro)",
+    "zh": "Building a bilingual culture for data-first drug discovery with Daphne Koller (insitro)"
+   },
+   "source": "The Data Pulse",
+   "url": "https://podcasts.apple.com/us/podcast/building-a-bilingual-culture-for-data-first-drug/id1524299727?i=1000486374386&uo=4",
+   "note": {
+    "en": "Interview on building a team fluent in both machine learning and biomedicine, and what a data-first approach to drug discovery requires.",
+    "zh": "访谈如何组建同时精通机器学习与生物医学的团队，以及数据先行的药物研发方式需要什么。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2020-06-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Immigrants founded over half of $1B startups and they or their children founded 45 percent of Fortune 500 companies. These companies create jobs for Americans,",
+    "zh": "Immigrants founded over half of $1B startups and they or their children founded 45 percent of Fortune 500 companies. These companies create jobs for Americans,"
+   },
+   "source": "@DaphneKoller",
+   "url": "https://x.com/DaphneKoller/status/1275868034435960840",
+   "note": {
+    "en": "Koller cited data showing immigrants founded over half of billion-dollar startups, a widely shared post on the value of high-skill immigration to innovation.",
+    "zh": "Koller援引数据指出,超过一半的十亿美元估值初创公司由移民创立,这条帖子被广泛传播,强调高技能移民对创新的价值。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2020-05-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I am very proud of the team we’ve built at insitro and our accomplishments over the past two years. We are grateful to our investors for supporting us in our go",
+    "zh": "I am very proud of the team we’ve built at insitro and our accomplishments over the past two years. We are grateful to our investors for supporting us in our go"
+   },
+   "source": "@DaphneKoller",
+   "url": "https://x.com/DaphneKoller/status/1265271244758237184",
+   "note": {
+    "en": "Koller reflected on insitro's team and progress two years after founding the company.",
+    "zh": "Koller回顾了insitro创立两年以来的团队建设与业务进展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2020-05-05",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#93 – Daphne Koller: Biomedicine and Machine Learning",
+    "zh": "#93 – Daphne Koller: Biomedicine and Machine Learning"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/93-daphne-koller-biomedicine-and-machine-learning/id1434243584?i=1000473686023&uo=4",
+   "note": {
+    "en": "Long-form Lex Fridman interview on biomedicine and machine learning, spanning her Stanford research, Coursera and insitro.",
+    "zh": "Lex Fridman 长篇访谈，谈生物医学与机器学习，涵盖她在斯坦福的研究、Coursera 与 insitro。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2018-08-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Peptide-Spectra Matching from Weak Supervision",
+    "zh": "Peptide-Spectra Matching from Weak Supervision"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1808.06576v2",
+   "note": {
+    "en": "Uses weak supervision to match peptides to mass spectra without large labelled ground-truth datasets; she is senior author on the Google Brain and Calico collaboration.",
+    "zh": "用弱监督实现肽段与质谱的匹配，无需大规模标注真值数据；她是这项 Google Brain 与 Calico 合作研究的资深作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-07-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Inferring Multidimensional Rates of Aging from Cross-Sectional Data",
+    "zh": "Inferring Multidimensional Rates of Aging from Cross-Sectional Data"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1807.04709v3",
+   "note": {
+    "en": "Method for inferring individual multidimensional rates of aging from cross-sectional data, co-authored with Pierson, Koh, Leskovec and Liang.",
+    "zh": "提出从横截面数据推断个体多维衰老速率的方法，与 Pierson、Koh、Leskovec 和 Liang 合著。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-05-01",
+   "ts": "2018-05-01T17:49:13Z",
+   "kind": "blog",
+   "title": {
+    "en": "insitro: Rethinking drug discovery using machine learning",
+    "zh": "insitro: Rethinking drug discovery using machine learning"
+   },
+   "source": "Stories by Daphne Koller on Medium",
+   "url": "https://medium.com/@daphne_38275/insitro-rethinking-drug-discovery-using-machine-learning-dcb0371870ee?source=rss-e9ca5cf8ba3a------2",
+   "note": {
+    "en": "Daphne Koller's own Medium post laid out insitro's founding thesis: using machine learning to rethink drug discovery.",
+    "zh": "Daphne Koller在其Medium博客中阐述了insitro的创立理念：用机器学习重新构想药物研发。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2016-08-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Excited to join Calico and apply machine learning to improving human health https://t.co/XtBlHEVqyW. Come help build our world-class team!",
+    "zh": "Excited to join Calico and apply machine learning to improving human health https://t.co/XtBlHEVqyW. Come help build our world-class team!"
+   },
+   "source": "@DaphneKoller",
+   "url": "https://x.com/DaphneKoller/status/766123834634149889",
+   "note": {
+    "en": "Koller announced she was joining Calico to apply machine learning to human health research.",
+    "zh": "Koller宣布加入Calico,将机器学习应用于人类健康研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2016-03-31",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Thrilled to work w/ @IllinoisCS to launch a top-ranked master's degree in data science offered entirely on Coursera! https://t.co/dE01XjnPaX",
+    "zh": "Thrilled to work w/ @IllinoisCS to launch a top-ranked master's degree in data science offered entirely on Coursera! https://t.co/dE01XjnPaX"
+   },
+   "source": "@DaphneKoller",
+   "url": "https://x.com/DaphneKoller/status/715333042378711041",
+   "note": {
+    "en": "Koller launched a top-ranked online master's degree in data science with the University of Illinois, delivered entirely through Coursera.",
+    "zh": "Koller与伊利诺伊大学合作,通过Coursera推出一个排名靠前的在线数据科学硕士学位项目。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2013-07-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Tuned Models of Peer Assessment in MOOCs",
+    "zh": "Tuned Models of Peer Assessment in MOOCs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1307.2579v1",
+   "note": {
+    "en": "Models that make peer grading more accurate at MOOC scale, from her Coursera-era work with Chris Piech and Andrew Ng.",
+    "zh": "提出在 MOOC 规模下提升同伴评分准确度的模型，来自她 Coursera 时期与 Chris Piech、吴恩达的合作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2013-03-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Probability Estimation in Face of Irrelevant Information",
+    "zh": "Probability Estimation in Face of Irrelevant Information"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1303.5719v1",
+   "note": {
+    "en": "Early work with Adam Grove on how a decision-theoretic agent should estimate probabilities when much of what it observes is irrelevant.",
+    "zh": "与 Adam Grove 合作的早期工作，研究决策论智能体在观测中大量信息无关时应如何估计概率。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2013-02-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Generating New Beliefs From Old",
+    "zh": "Generating New Beliefs From Old"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1302.6783v1",
+   "note": {
+    "en": "Continues the random-worlds line of work on deriving degrees of belief from a knowledge base as new information arrives.",
+    "zh": "延续「随机世界」方法的研究，探讨在获得新信息时如何从知识库导出信念度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2013-02-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Stochastic Simulation Algorithms for Dynamic Probabilistic Networks",
+    "zh": "Stochastic Simulation Algorithms for Dynamic Probabilistic Networks"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1302.4965v1",
+   "note": {
+    "en": "Stochastic sampling algorithms for approximate posterior inference in dynamic probabilistic networks.",
+    "zh": "提出用于动态概率网络近似后验推断的随机采样算法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2013-02-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Context-Specific Independence in Bayesian Networks",
+    "zh": "Context-Specific Independence in Bayesian Networks"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1302.3562v1",
+   "note": {
+    "en": "Introduces context-specific independence, a finer-grained notion of independence that yields more compact Bayesian networks and faster inference.",
+    "zh": "提出「上下文特定独立性」，一种更细粒度的独立性概念，可获得更紧凑的贝叶斯网络与更快的推断。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2013-02-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Nonuniform Dynamic Discretization in Hybrid Networks",
+    "zh": "Nonuniform Dynamic Discretization in Hybrid Networks"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1302.1555v1",
+   "note": {
+    "en": "Revisits variable discretization for inference in hybrid networks that mix continuous and discrete variables in arbitrary topologies.",
+    "zh": "重新审视混合网络中的变量离散化问题，这类网络在任意拓扑下同时包含连续与离散变量。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2013-02-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Object-Oriented Bayesian Networks",
+    "zh": "Object-Oriented Bayesian Networks"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1302.1554v1",
+   "note": {
+    "en": "Introduces object-oriented Bayesian networks, letting large domains be assembled from reusable model components.",
+    "zh": "提出面向对象贝叶斯网络，使大型领域模型可以由可复用的组件搭建。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2013-02-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Update Rules for Parameter Estimation in Bayesian Networks",
+    "zh": "Update Rules for Parameter Estimation in Bayesian Networks"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1302.1519v1",
+   "note": {
+    "en": "Recasts parameter estimation in Bayesian networks with missing values and hidden variables using online-learning update rules.",
+    "zh": "借助在线学习的更新规则，重新表述含缺失值与隐变量的贝叶斯网络参数估计问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2013-01-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Tractable Inference for Complex Stochastic Processes",
+    "zh": "Tractable Inference for Complex Stochastic Processes"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1301.7362v1",
+   "note": {
+    "en": "Shows that approximation error stays bounded over time when monitoring a stochastic process, the contraction result that makes practical filtering in dynamic Bayesian networks possible.",
+    "zh": "证明在监测随机过程时近似误差随时间保持有界，这一收缩性结果使动态贝叶斯网络的实用滤波成为可能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2013-01-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SPOOK: A System for Probabilistic Object-Oriented Knowledge Representation",
+    "zh": "SPOOK: A System for Probabilistic Object-Oriented Knowledge Representation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1301.6733v1",
+   "note": {
+    "en": "SPOOK, a working system for probabilistic object-oriented knowledge representation built on her object-oriented Bayesian network language.",
+    "zh": "SPOOK，一个基于她的面向对象贝叶斯网络语言构建的概率式面向对象知识表示系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2013-01-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A General Algorithm for Approximate Inference and its Application to Hybrid Bayes Nets",
+    "zh": "A General Algorithm for Approximate Inference and its Application to Hybrid Bayes Nets"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1301.6709v1",
+   "note": {
+    "en": "Generalises the clique tree algorithm so approximate inference also works in hybrid Bayesian networks.",
+    "zh": "推广团树算法，使近似推断同样适用于混合贝叶斯网络。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2013-01-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Discovering the Hidden Structure of Complex Dynamic Systems",
+    "zh": "Discovering the Hidden Structure of Complex Dynamic Systems"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1301.6683v1",
+   "note": {
+    "en": "Learns the structure of dynamic Bayesian networks, hidden variables included, for complex systems where no expert model exists.",
+    "zh": "在没有专家模型可用的复杂系统中，学习包含隐变量的动态贝叶斯网络结构。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2013-01-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Probabilistic Models for Agents' Beliefs and Decisions",
+    "zh": "Probabilistic Models for Agents' Beliefs and Decisions"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1301.3876v1",
+   "note": {
+    "en": "A probabilistic framework for reasoning about the beliefs and decisions of other agents, including their beliefs about each other.",
+    "zh": "提出一个概率框架，用于推理其他智能体的信念与决策，包括它们彼此之间的信念。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2013-01-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Policy Iteration for Factored MDPs",
+    "zh": "Policy Iteration for Factored MDPs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1301.3869v1",
+   "note": {
+    "en": "Policy iteration that exploits factored structure to solve very large MDPs represented as dynamic Bayesian networks.",
+    "zh": "利用因子化结构的策略迭代方法，用以求解以动态贝叶斯网络表示的超大规模 MDP。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2013-01-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Being Bayesian about Network Structure",
+    "zh": "Being Bayesian about Network Structure"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1301.3856v1",
+   "note": {
+    "en": "With Nir Friedman, reasons over the full posterior across network structures instead of selecting a single model, giving better answers about which variable causes which.",
+    "zh": "与 Nir Friedman 合作，在网络结构的完整后验上进行推理而非只选择单一模型，从而更好地判断变量之间的依赖关系。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2013-01-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Utilities as Random Variables: Density Estimation and Structure Discovery",
+    "zh": "Utilities as Random Variables: Density Estimation and Structure Discovery"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1301.3840v1",
+   "note": {
+    "en": "Treats a person's utility as a random variable like any other domain attribute, enabling density estimation and structure discovery over utility functions.",
+    "zh": "把个人效用视为与其他领域属性一样的随机变量，从而可以对效用函数做密度估计与结构发现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2013-01-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Exact Inference in Networks with Discrete Children of Continuous Parents",
+    "zh": "Exact Inference in Networks with Discrete Children of Continuous Parents"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1301.2289v1",
+   "note": {
+    "en": "Early graphical-models paper on exact inference in hybrid Bayesian networks with discrete children of continuous parents.",
+    "zh": "她在概率图模型方向的早期论文，研究连续父节点带离散子节点的混合贝叶斯网络中的精确推断。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2012-12-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Discriminative Probabilistic Models for Relational Data",
+    "zh": "Discriminative Probabilistic Models for Relational Data"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1301.0604v1",
+   "note": {
+    "en": "Relational Markov networks: discriminative models for labelling entities whose labels depend on one another, with Ben Taskar and Pieter Abbeel.",
+    "zh": "关系马尔可夫网络：与 Ben Taskar、Pieter Abbeel 合作，为标签相互依赖的实体提出判别式标注模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2012-12-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Continuous Time Bayesian Networks",
+    "zh": "Continuous Time Bayesian Networks"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1301.0591v1",
+   "note": {
+    "en": "Introduces continuous time Bayesian networks, a language for structured stochastic processes that evolve in continuous rather than discrete time.",
+    "zh": "提出连续时间贝叶斯网络，一种描述在连续时间而非离散时间上演化的结构化随机过程的语言。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2012-12-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Monitoring a Complez Physical System using a Hybrid Dynamic Bayes Net",
+    "zh": "Monitoring a Complez Physical System using a Hybrid Dynamic Bayes Net"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1301.0582v1",
+   "note": {
+    "en": "Applies a hybrid dynamic Bayesian network to unsupervised fault monitoring of a system designed to produce oxygen from the Martian atmosphere.",
+    "zh": "将混合动态贝叶斯网络用于无人监督的故障监测，对象是一套从火星大气中制取氧气的系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2012-12-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Learning Hierarchical Object Maps Of Non-Stationary Environments with mobile robots",
+    "zh": "Learning Hierarchical Object Maps Of Non-Stationary Environments with mobile robots"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1301.0551v1",
+   "note": {
+    "en": "Robot mapping that represents non-stationary environments as hierarchies of objects rather than static unstructured maps.",
+    "zh": "机器人建图方法，将非静态环境表示为对象的层次结构，而非静态的无结构地图。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2012-10-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Learning Module Networks",
+    "zh": "Learning Module Networks"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1212.2517v1",
+   "note": {
+    "en": "Module networks share parameters across related variables so structure can be learned from few samples, applied to gene expression data.",
+    "zh": "模块网络在相关变量间共享参数，使得少量样本也能学出结构，并应用于基因表达数据。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-01-12",
+   "level": "major",
+   "title": {
+    "en": "insitro acquires CombinAbleAI and launches the TherML platform",
+    "zh": "insitro 收购 CombinAbleAI 并发布 TherML 平台"
+   },
+   "body": {
+    "en": "An end-to-end, modality-agnostic system for designing small molecules, antibodies, oligonucleotides and other complex biologics. First development candidate CTRO-1013 nominated, CMC initiated, first-in-human trial design finalised, clinic targeted for 2026.",
+    "zh": "端到端、模态无关的系统，可设计小分子、抗体、寡核苷酸等复杂生物制剂。首个候选药 CTRO-1013 已提名，CMC 启动，首次人体试验设计定稿，目标 2026 年进入临床。"
+   },
+   "source": "BusinessWire",
+   "url": "https://www.businesswire.com/news/home/20260105487677/en/insitro-to-Present-at-the-44th-Annual-J.P.-Morgan-Healthcare-Conference"
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "embodied",
+ "score": {
+  "total": 29.2,
+  "attention": 32,
+  "centrality": 24,
+  "momentum": 13,
+  "stature": 66,
+  "pageviews": 41906,
+  "citations": 61723,
+  "hIndex": 122,
+  "events": 1,
+  "posts": 60,
+  "wikiEn": "Daphne Koller",
+  "wikiZh": "達芙妮·科勒"
+ },
+ "seedRank": 71,
+ "tier": "t5"
+}

@@ -1,0 +1,1878 @@
+{
+ "rank": 74,
+ "id": "shunyu-yao",
+ "name": {
+  "en": "Shunyu Yao",
+  "zh": "姚顺雨"
+ },
+ "role": {
+  "en": "Chief AI Scientist, Tencent",
+  "zh": "腾讯首席 AI 科学家"
+ },
+ "org": "Tencent",
+ "region": {
+  "en": "China / United States",
+  "zh": "中国/美国"
+ },
+ "tags": [
+  "Tencent",
+  "Hunyuan",
+  "ReAct",
+  "Tree of Thoughts",
+  "SWE-bench",
+  "Agents"
+ ],
+ "why": {
+  "en": "First author of ReAct and Tree of Thoughts, and co-author of SWE-bench and WebShop. Nearly every agent framework's reason-act loop descends from his work. Left OpenAI to lead Tencent's newly merged foundation model department.",
+  "zh": "ReAct 与 Tree of Thoughts 的第一作者，也是 SWE-bench 与 WebShop 的共同作者。当前几乎所有 Agent 框架的推理—行动循环都源自其工作。已离开 OpenAI，执掌腾讯新合并的基础模型部。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@ShunyuYao12",
+   "url": "https://x.com/ShunyuYao12",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "ysymyth.github.io",
+   "url": "https://ysymyth.github.io/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "The Second Half",
+   "url": "https://ysymyth.github.io/The-Second-Half/",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @ysymyth",
+   "url": "https://github.com/ysymyth",
+   "t": 1
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face @ysymyth",
+   "url": "https://huggingface.co/ysymyth",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "Tencent Hunyuan",
+   "url": "https://hunyuan.tencent.com/",
+   "t": 2
+  },
+  {
+   "kind": "hf",
+   "label": "Hunyuan on Hugging Face",
+   "url": "https://huggingface.co/tencent",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "Tencent Hunyuan research/news",
+   "url": "https://hy.tencent.com/research",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Tencent Hunyuan Research",
+   "url": "https://hunyuan.tencent.com/research",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Shunyu+Yao",
+   "t": 3
+  },
+  {
+   "kind": "weibo",
+   "label": "微博 — 搜索",
+   "url": "https://s.weibo.com/user?q=%E5%A7%9A%E9%A1%BA%E9%9B%A8",
+   "t": 3
+  },
+  {
+   "kind": "zhihu",
+   "label": "知乎 — 搜索",
+   "url": "https://www.zhihu.com/search?type=people&q=%E5%A7%9A%E9%A1%BA%E9%9B%A8",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "微信公众号 — 搜索",
+   "url": "https://weixin.sogou.com/weixin?type=2&query=%E5%A7%9A%E9%A1%BA%E9%9B%A8",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "B 站 — 搜索",
+   "url": "https://search.bilibili.com/all?keyword=%E5%A7%9A%E9%A1%BA%E9%9B%A8",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Shunyu+Yao",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Shunyu+Yao",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Shunyu+Yao&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Shunyu+Yao&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=%E5%A7%9A%E9%A1%BA%E9%9B%A8",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Shunyu+Yao",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Shunyu+Yao",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Shunyu+Yao",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Shunyu+Yao",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Shunyu+Yao",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Shunyu+Yao",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Shunyu+Yao",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ACL Anthology",
+   "url": "https://aclanthology.org/search/?q=Shunyu+Yao",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Shunyu+Yao&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "中文报道 — 最新",
+   "url": "https://www.google.com/search?q=%E5%A7%9A%E9%A1%BA%E9%9B%A8+AI&tbm=nws&hl=zh-CN",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2025-04-01",
+   "kind": "blog",
+   "title": {
+    "en": "The Second Half",
+    "zh": "下半场"
+   },
+   "source": "ysymyth.github.io",
+   "url": "https://ysymyth.github.io/The-Second-Half/",
+   "note": {
+    "en": "The argument that evaluation now matters more than training — one of the most widely repeated theses in agent research.",
+    "zh": "主张评测比训练更重要 —— Agent 研究中被复述最多的论断之一。"
+   }
+  },
+  {
+   "date": "2026-07-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Hy ai4s is hiring :)",
+    "zh": "Hy ai4s is hiring :)"
+   },
+   "source": "@ShunyuYao12",
+   "url": "https://x.com/ShunyuYao12/status/2082661586066620505",
+   "note": {
+    "en": "Yao announced his Hunyuan AI4Science team at Tencent is hiring, a signal of the group he is building out under the newly merged foundation model department.",
+    "zh": "姚顺雨宣布腾讯混元AI4Science团队正在招聘，显示出他在新合并的基础模型部门下组建团队的进展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-25",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "115. 对OpenAI姚顺雨3小时访谈：6年Agent研究、人与系统、吞噬的边界、既单极又多元的世界",
+    "zh": "115. 对OpenAI姚顺雨3小时访谈：6年Agent研究、人与系统、吞噬的边界、既单极又多元的世界"
+   },
+   "source": "蛋播",
+   "url": "https://podcasts.apple.com/us/podcast/115-%E5%AF%B9openai%E5%A7%9A%E9%A1%BA%E9%9B%A83%E5%B0%8F%E6%97%B6%E8%AE%BF%E8%B0%88-6%E5%B9%B4agent%E7%A0%94%E7%A9%B6-%E4%BA%BA%E4%B8%8E%E7%B3%BB%E7%BB%9F-%E5%90%9E%E5%99%AC%E7%9A%84%E8%BE%B9%E7%95%8C-%E6%97%A2%E5%8D%95%E6%9E%81%E5%8F%88%E5%A4%9A%E5%85%83%E7%9A%84%E4%B8%96%E7%95%8C/id6794360519?i=1000779222302&uo=4",
+   "note": {
+    "en": "Shunyu Yao gives a three-hour interview on his six years of agent research, the human-system boundary, and a world both unipolar and pluralistic.",
+    "zh": "姚顺雨接受三小时访谈，畅谈六年Agent研究、人与系统的边界，以及\"既单极又多元\"的世界。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
+   "date": "2026-07-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Hy2 -&gt; Hy3 preview -&gt; Hy3 Another massive leap forward, under half a year. Not just a leap of reasoning or agentic capabilities. Also a leap of anti-hallu",
+    "zh": "Hy2 -&gt; Hy3 preview -&gt; Hy3 Another massive leap forward, under half a year. Not just a leap of reasoning or agentic capabilities. Also a leap of anti-hallu"
+   },
+   "source": "@ShunyuYao12",
+   "url": "https://x.com/ShunyuYao12/status/2074151389945827744",
+   "note": {
+    "en": "Yao described the rapid Hy2-to-Hy3 progression as a major leap not just in reasoning and agentic ability but in reliability and reduced hallucination, framing the pace of Hunyuan's model iteration.",
+    "zh": "姚顺雨称混元从Hy2到Hy3的快速迭代不仅是推理和智能体能力的飞跃，也是可靠性提升和幻觉减少的重大进步，展现了混元模型迭代的速度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-05",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "汤道生x姚顺雨对谈：腾讯AI下半场",
+    "zh": "汤道生x姚顺雨对谈：腾讯AI下半场"
+   },
+   "source": "AI智识录",
+   "url": "https://podcasts.apple.com/us/podcast/%E6%B1%A4%E9%81%93%E7%94%9Fx%E5%A7%9A%E9%A1%BA%E9%9B%A8%E5%AF%B9%E8%B0%88-%E8%85%BE%E8%AE%AFai%E4%B8%8B%E5%8D%8A%E5%9C%BA/id1889829123?i=1000771268298&uo=4",
+   "note": {
+    "en": "In a public dialogue with Tencent CSIG CEO Tang Daosheng, Shunyu Yao argued AI's 'second half' is just beginning and that the core challenge has shifted from method to finding problems worth solving.",
+    "zh": "姚顺雨与腾讯CSIG CEO汤道生公开对谈，提出AI\"下半场\"才刚刚开始，核心矛盾已从方法论转向寻找值得解决的真问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
+   "date": "2026-04-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "CL-bench Life: Can Language Models Learn from Real-Life Context?",
+    "zh": "CL-bench Life: Can Language Models Learn from Real-Life Context?"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.27043v1",
+   "note": {
+    "en": "Extends his context-learning benchmark to everyday personal settings, testing whether assistants actually learn from real-life context.",
+    "zh": "把其上下文学习基准扩展到日常生活场景，检验助手能否真正从真实生活情境中学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Our goal is to build practical models with comprehensive capabilities beyond open benchmarks. And the only way to do it to co-design with diverse products while",
+    "zh": "Our goal is to build practical models with comprehensive capabilities beyond open benchmarks. And the only way to do it to co-design with diverse products while"
+   },
+   "source": "@ShunyuYao12",
+   "url": "https://x.com/ShunyuYao12/status/2047355369878650898",
+   "note": {
+    "en": "Yao laid out Hunyuan's strategy: building practical, broadly capable models by co-designing with real products at scale rather than chasing open benchmarks, a post that drew nearly a million views.",
+    "zh": "姚顺雨阐述了混元的策略：通过与实际产品大规模协同设计来打造实用、能力全面的模型，而非一味追逐公开基准测试，该帖子浏览量接近百万。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "CL-bench: A Benchmark for Context Learning",
+    "zh": "CL-bench: A Benchmark for Context Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.03587v1",
+   "note": {
+    "en": "Benchmark measuring whether language models can learn from task-specific context instead of relying on pretrained knowledge.",
+    "zh": "提出评测语言模型能否从任务上下文中学习、而非仅依赖预训练知识的基准。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "腾讯姚顺雨、Qwen林俊旸、智谱唐杰的AGI-Next圆桌对话, 2026",
+    "zh": "腾讯姚顺雨、Qwen林俊旸、智谱唐杰的AGI-Next圆桌对话, 2026"
+   },
+   "source": "AI智识录",
+   "url": "https://podcasts.apple.com/us/podcast/%E8%85%BE%E8%AE%AF%E5%A7%9A%E9%A1%BA%E9%9B%A8-qwen%E6%9E%97%E4%BF%8A%E6%97%B8-%E6%99%BA%E8%B0%B1%E5%94%90%E6%9D%B0%E7%9A%84agi-next%E5%9C%86%E6%A1%8C%E5%AF%B9%E8%AF%9D-2026/id1889829123?i=1000758635425&uo=4",
+   "note": {
+    "en": "At the closed-door AGI-Next summit, Shunyu Yao joined a roundtable with Zhipu's Tang Jie, Moonshot's Yang Zhilin and Qwen's Lin Junyang to debate paradigm shifts, agents and China's odds in the AI race.",
+    "zh": "在AGI-Next闭门峰会上，姚顺雨与智谱唐杰、月之暗面杨植麟、Qwen林俊旸同台圆桌，探讨范式变革、智能体与中国AI的胜算。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
+   "date": "2025-07-29",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "How to evaluate llms when we can’t trust benchmark numbers anymore?",
+    "zh": "How to evaluate llms when we can’t trust benchmark numbers anymore?"
+   },
+   "source": "@ShunyuYao12",
+   "url": "https://x.com/ShunyuYao12/status/1950090043344707832",
+   "note": {
+    "en": "Poses the evaluation problem behind his Second Half thesis: how to judge language models once benchmark numbers can no longer be trusted.",
+    "zh": "提出「下半场」论述背后的核心难题：当基准分数不再可信，该如何评估大模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "An awesome piece by @_kevinlu . I find lots of the points connected to my own post https://t.co/WddJkbSfks Pre-training is a genius idea that essentially levera",
+    "zh": "An awesome piece by @_kevinlu . I find lots of the points connected to my own post https://t.co/WddJkbSfks Pre-training is a genius idea that essentially levera"
+   },
+   "source": "@ShunyuYao12",
+   "url": "https://x.com/ShunyuYao12/status/1943156328685539513",
+   "note": {
+    "en": "Connects Kevin Lu's essay to his own argument that pre-training worked because it leveraged the output of billions of people rather than a handful of annotators.",
+    "zh": "呼应 Kevin Lu 的文章，并接上他自己的论点：预训练之所以奏效，是因为它借用了数十亿人的产出，而非少数标注者的劳动。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-06-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Contextual Experience Replay for Self-Improvement of Language Agents",
+    "zh": "Contextual Experience Replay for Self-Improvement of Language Agents"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2506.06698v1",
+   "note": {
+    "en": "Lets language agents self-improve by distilling past trajectories into reusable in-context experience, tested on web navigation.",
+    "zh": "让语言智能体把过往轨迹提炼成可复用的上下文经验，从而自我改进，在网页导航任务上验证。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-06-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "When Models Know More Than They Can Explain: Quantifying Knowledge Transfer in Human-AI Collaboration",
+    "zh": "When Models Know More Than They Can Explain: Quantifying Knowledge Transfer in Human-AI Collaboration"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2506.05579v2",
+   "note": {
+    "en": "Studies whether stronger model reasoning also transfers as usable knowledge to human collaborators.",
+    "zh": "研究模型推理能力增强后，能否把知识有效传递给与之协作的人类。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-05-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Check out our coding agent, which sets new sota on swebench! What agent next?",
+    "zh": "Check out our coding agent, which sets new sota on swebench! What agent next?"
+   },
+   "source": "@ShunyuYao12",
+   "url": "https://x.com/ShunyuYao12/status/1923517351124926683",
+   "note": {
+    "en": "Announces that the coding agent he worked on set a new state of the art on SWE-bench, the benchmark he co-authored.",
+    "zh": "宣布他参与的编程智能体在 SWE-bench 上刷新最好成绩，而该基准正是他的共同作品。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-02-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "An impression for existential AI risk: it’s rather controllable in single-agent (ReAct) setups, where reading human-like sequential traj is doable albeit tediou",
+    "zh": "An impression for existential AI risk: it’s rather controllable in single-agent (ReAct) setups, where reading human-like sequential traj is doable albeit tediou"
+   },
+   "source": "@ShunyuYao12",
+   "url": "https://x.com/ShunyuYao12/status/1890305828248244673",
+   "note": {
+    "en": "His stated view on existential AI risk: readable and largely controllable in single-agent ReAct-style loops, much harder to inspect once agents interact.",
+    "zh": "他对 AI 存在性风险的公开看法：单智能体 ReAct 式回路的轨迹尚可读、可控，多智能体交互一旦出现就难以审视。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-01-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We’re releasing - CUA, the first agent model from OpenAI - Operator, the first agent product from OpenAI - https://t.co/64dDnCi0sC , the first agent job post fr",
+    "zh": "We’re releasing - CUA, the first agent model from OpenAI - Operator, the first agent product from OpenAI - https://t.co/64dDnCi0sC , the first agent job post fr"
+   },
+   "source": "@ShunyuYao12",
+   "url": "https://x.com/ShunyuYao12/status/1882498413805359305",
+   "note": {
+    "en": "Announces OpenAI's release of CUA and Operator, its first agent model and first agent product, which he helped build.",
+    "zh": "宣布 OpenAI 发布 CUA 与 Operator——公司首个智能体模型与首款智能体产品，他参与其中。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-01-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Tree of thoughts is not about llm/cot cant solve game of 24, or you have to use complex prompt engineering or control flow to do it. It’s about multiagent in so",
+    "zh": "Tree of thoughts is not about llm/cot cant solve game of 24, or you have to use complex prompt engineering or control flow to do it. It’s about multiagent in so"
+   },
+   "source": "@ShunyuYao12",
+   "url": "https://x.com/ShunyuYao12/status/1874718740627296272",
+   "note": {
+    "en": "Corrects a common misreading of his own Tree of Thoughts paper, framing it as search at test time rather than prompt engineering.",
+    "zh": "澄清外界对他《思维树》论文的常见误读：论文讲的是测试时的搜索，而不是提示工程技巧。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-12-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I think the biggest surprise for me in 2024 is that small models can also generalize",
+    "zh": "I think the biggest surprise for me in 2024 is that small models can also generalize"
+   },
+   "source": "@ShunyuYao12",
+   "url": "https://x.com/ShunyuYao12/status/1871030183517651453",
+   "note": {
+    "en": "His takeaway from 2024: the biggest surprise was that small models generalize too.",
+    "zh": "他对 2024 年的总结：最大的意外是小模型同样能够泛化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-11-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "It seems increasingly clear \"agi\" wont be a singularity point event thing, unless we fundamentally break the train test barrier from traditional ml",
+    "zh": "It seems increasingly clear \"agi\" wont be a singularity point event thing, unless we fundamentally break the train test barrier from traditional ml"
+   },
+   "source": "@ShunyuYao12",
+   "url": "https://x.com/ShunyuYao12/status/1858250213447602324",
+   "note": {
+    "en": "Argues AGI will not arrive as a single singularity-style event unless the train/test boundary inherited from traditional machine learning is broken.",
+    "zh": "他认为，除非打破传统机器学习遗留的训练/测试界限，AGI 不会以奇点式的单一事件到来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-11-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Had a fun time delivering language agent tutorial (https://t.co/UlDj9S4BfC) with @ysu_nlp @Diyi_Yang @taoyds @emnlpmeeting ! Thanks for joining and asking good",
+    "zh": "Had a fun time delivering language agent tutorial (https://t.co/UlDj9S4BfC) with @ysu_nlp @Diyi_Yang @taoyds @emnlpmeeting ! Thanks for joining and asking good"
+   },
+   "source": "@ShunyuYao12",
+   "url": "https://x.com/ShunyuYao12/status/1857648260011155737",
+   "note": {
+    "en": "Marks the language-agent tutorial he co-delivered with collaborators at EMNLP 2024, with the materials linked.",
+    "zh": "记录他与合作者在 EMNLP 2024 共同讲授的语言智能体教程，并附上教程材料。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-11-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "My mental model of a good paper: 1. Solves some questions 2. Opens up new questions or directions for future research Reviewers nowadays: - Ignores things in 1",
+    "zh": "My mental model of a good paper: 1. Solves some questions 2. Opens up new questions or directions for future research Reviewers nowadays: - Ignores things in 1"
+   },
+   "source": "@ShunyuYao12",
+   "url": "https://x.com/ShunyuYao12/status/1856795478870167901",
+   "note": {
+    "en": "His standard for a good paper — it answers a question and opens new ones — together with a criticism of how reviewers weigh the two.",
+    "zh": "他心目中好论文的标准——既解决问题，又开启新的方向——以及对当下评审只盯前者的批评。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-08-01",
+   "ts": "2024-08-01T00:36:20Z",
+   "kind": "x",
+   "title": {
+    "en": "almost forget to post: i've joined @OpenAI! time to convert the research vision to reality, and expect something exciting to drop out :)",
+    "zh": "almost forget to post: i've joined @OpenAI! time to convert the research vision to reality, and expect something exciting to drop out :)"
+   },
+   "source": "@shunyuyao12",
+   "url": "https://x.com/ShunyuYao12/status/1818807946756997624",
+   "note": {
+    "en": "Yao announced he joined OpenAI to work on turning language-agent research into real products.",
+    "zh": "姚顺雨宣布加入OpenAI,致力于将语言智能体的研究愿景转化为现实产品。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-06-20",
+   "ts": "2024-06-20T17:56:16Z",
+   "kind": "x",
+   "title": {
+    "en": "Excited to share what I did @SierraPlatform with @noahrshinn pedram and @karthik_r_n ! 𝜏-bench evaluates critical agent capabilities omitted by current benchmar",
+    "zh": "Excited to share what I did @SierraPlatform with @noahrshinn pedram and @karthik_r_n ! 𝜏-bench evaluates critical agent capabilities omitted by current benchmar"
+   },
+   "source": "@shunyuyao12",
+   "url": "https://x.com/ShunyuYao12/status/1803849363506237636",
+   "note": {
+    "en": "Yao introduced tau-bench, a new benchmark built with Sierra to evaluate agent capabilities like robustness and complex rule-following that existing benchmarks miss.",
+    "zh": "姚顺雨发布了与Sierra合作推出的τ-bench基准,用于评估现有基准所忽略的智能体能力,如鲁棒性和复杂规则遵循。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-05-11",
+   "ts": "2024-05-11T05:35:41Z",
+   "kind": "x",
+   "title": {
+    "en": "misalignment of ai and humans is not as dangerous as misalignment of our own behavior and desire, or misalignment among our various desires, or misalignment amo",
+    "zh": "misalignment of ai and humans is not as dangerous as misalignment of our own behavior and desire, or misalignment among our various desires, or misalignment amo"
+   },
+   "source": "@shunyuyao12",
+   "url": "https://x.com/ShunyuYao12/status/1789167472614207902",
+   "note": {
+    "en": "Yao argued AI-human misalignment is less dangerous than the misalignment within humans' own behavior and desires, or among people's differing desires.",
+    "zh": "姚顺雨提出观点:AI与人类之间的不一致,其危险程度不及人类自身行为与欲望之间的不一致,或人与人之间欲望的不一致。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-05-10",
+   "ts": "2024-05-10T22:23:44Z",
+   "kind": "x",
+   "title": {
+    "en": "I've defended my PhD! \"Language Agents: From Next-Token Prediction to Digital Automation\" - Talk (WebShop, SWE-bench, ReAct, ToT, CoALA, and on the future of ag",
+    "zh": "I've defended my PhD! \"Language Agents: From Next-Token Prediction to Digital Automation\" - Talk (WebShop, SWE-bench, ReAct, ToT, CoALA, and on the future of ag"
+   },
+   "source": "@shunyuyao12",
+   "url": "https://x.com/ShunyuYao12/status/1789058769982550031",
+   "note": {
+    "en": "Yao announced defending his PhD thesis, 'Language Agents: From Next-Token Prediction to Digital Automation,' covering WebShop, SWE-bench, ReAct, Tree of Thoughts and CoALA.",
+    "zh": "姚顺雨宣布完成博士论文答辩,题目为《语言智能体:从下一词预测到数字自动化》,涵盖WebShop、SWE-bench、ReAct、思维树(ToT)和CoALA等工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-05-06",
+   "ts": "2024-05-06T19:09:12Z",
+   "kind": "x",
+   "title": {
+    "en": "SWE-agent paper: https://t.co/H8gKlbzl1m If you care about - SWE: check detailed design &amp; analysis - agents: check principles &amp; insights for agent-compu",
+    "zh": "SWE-agent paper: https://t.co/H8gKlbzl1m If you care about - SWE: check detailed design &amp; analysis - agents: check principles &amp; insights for agent-compu"
+   },
+   "source": "@shunyuyao12",
+   "url": "https://x.com/ShunyuYao12/status/1787560262775808113",
+   "note": {
+    "en": "Yao described the SWE-agent paper's design and the agent-computer interface (ACI) concept, connecting it to software engineering and HCI/cognitive science.",
+    "zh": "姚顺雨介绍了SWE-agent论文的设计,提出智能体-计算机接口(ACI)概念,并将其与软件工程及人机交互/认知科学相联系。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-04-18",
+   "ts": "2024-04-18T06:39:11Z",
+   "kind": "x",
+   "title": {
+    "en": "Coding is the frontier of AI. Excited to push the two frontiers of AI coding: 1. SWE(-bench/agent) 2. Olympiad programming (this tweet) Introduce USACO benchmar",
+    "zh": "Coding is the frontier of AI. Excited to push the two frontiers of AI coding: 1. SWE(-bench/agent) 2. Olympiad programming (this tweet) Introduce USACO benchmar"
+   },
+   "source": "@shunyuyao12",
+   "url": "https://x.com/ShunyuYao12/status/1780848531051544620",
+   "note": {
+    "en": "Yao introduced the USACO benchmark for olympiad-level programming, extending his push on AI coding alongside SWE-bench/SWE-agent.",
+    "zh": "姚顺雨发布了面向奥林匹克编程水平的USACO基准,延续了他在SWE-bench/SWE-agent之外对AI编程能力的推进。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-04-09",
+   "ts": "2024-04-09T21:11:51Z",
+   "kind": "x",
+   "title": {
+    "en": "When I first saw Tree of Thoughts I also asked myself this😀 great exploration into if next-token prediction can simulate search, and if you're interested in thi",
+    "zh": "When I first saw Tree of Thoughts I also asked myself this😀 great exploration into if next-token prediction can simulate search, and if you're interested in thi"
+   },
+   "source": "@shunyuyao12",
+   "url": "https://x.com/ShunyuYao12/status/1777806655725666651",
+   "note": {
+    "en": "Yao commented on a follow-up exploring whether next-token prediction can simulate search, connecting it to his Tree of Thoughts work.",
+    "zh": "姚顺雨评论了一项探讨下一词预测能否模拟搜索的后续研究,并将其与自己的思维树(Tree of Thoughts)工作联系起来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-04-04",
+   "ts": "2024-04-04T18:08:26Z",
+   "kind": "x",
+   "title": {
+    "en": "Swe-agent achieves ~ Devin while only using &lt; 2min and $4 per case",
+    "zh": "Swe-agent achieves ~ Devin while only using &lt; 2min and $4 per case"
+   },
+   "source": "@shunyuyao12",
+   "url": "https://x.com/ShunyuYao12/status/1775948559860285469",
+   "note": {
+    "en": "Yao reported that SWE-agent matches Devin's performance while costing about $4 and under 2 minutes per case.",
+    "zh": "姚顺雨指出,SWE-agent在效果上接近Devin,但每个案例仅需约4美元和不到2分钟。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-04-02",
+   "ts": "2024-04-02T15:29:19Z",
+   "kind": "x",
+   "title": {
+    "en": "Extremely excited to open-source our SWE-agent that achieves SoTA on SWE-bench😃 Turns out ReAct + Agent-Computer Interface (ACI) can go a long way, very excited",
+    "zh": "Extremely excited to open-source our SWE-agent that achieves SoTA on SWE-bench😃 Turns out ReAct + Agent-Computer Interface (ACI) can go a long way, very excited"
+   },
+   "source": "@shunyuyao12",
+   "url": "https://x.com/ShunyuYao12/status/1775183741427888379",
+   "note": {
+    "en": "Yao announced open-sourcing SWE-agent, which achieves state-of-the-art results on SWE-bench by combining ReAct with an agent-computer interface.",
+    "zh": "姚顺雨宣布开源SWE-agent,该系统结合ReAct与智能体-计算机接口(ACI),在SWE-bench上取得了当时最优结果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-03-14",
+   "ts": "2024-03-14T07:21:35Z",
+   "kind": "x",
+   "title": {
+    "en": "Is it just me or haystack is too stupid for benchmarking long context capabilities? If swe-bench is too hard, at least we need tasks that require reasoning over",
+    "zh": "Is it just me or haystack is too stupid for benchmarking long context capabilities? If swe-bench is too hard, at least we need tasks that require reasoning over"
+   },
+   "source": "@shunyuyao12",
+   "url": "https://x.com/ShunyuYao12/status/1768175628225003994",
+   "note": {
+    "en": "Yao critiqued the 'needle in a haystack' test as inadequate for benchmarking long-context reasoning, arguing for tasks requiring reasoning across multiple parts of long context.",
+    "zh": "姚顺雨批评'大海捞针'测试不足以衡量长上下文推理能力,主张应设计需要跨长文本多个部分进行推理的任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-03-12",
+   "ts": "2024-03-12T18:31:48Z",
+   "kind": "x",
+   "title": {
+    "en": "Solving &gt;10% of our SWE-Bench (https://t.co/gP4rgwPDK3) is THE most impressive result in 2024 so far, and a milestone for the research and application of AI",
+    "zh": "Solving &gt;10% of our SWE-Bench (https://t.co/gP4rgwPDK3) is THE most impressive result in 2024 so far, and a milestone for the research and application of AI"
+   },
+   "source": "@shunyuyao12",
+   "url": "https://x.com/ShunyuYao12/status/1767619515972817360",
+   "note": {
+    "en": "Yao called Cognition Labs solving over 10% of SWE-Bench, the benchmark he co-created, the most impressive AI agent result of 2024 so far.",
+    "zh": "姚顺雨称赞Cognition Labs在他参与创建的SWE-Bench上解决超过10%的问题,是2024年迄今AI智能体领域最令人印象深刻的成果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-03-07",
+   "ts": "2024-03-07T07:03:25Z",
+   "kind": "x",
+   "title": {
+    "en": "Benchmark will be bipolar, objective ones will all be evaluated by code execution, subjective ones human preference (and maybe human simulater)",
+    "zh": "Benchmark will be bipolar, objective ones will all be evaluated by code execution, subjective ones human preference (and maybe human simulater)"
+   },
+   "source": "@shunyuyao12",
+   "url": "https://x.com/ShunyuYao12/status/1765634339726057583",
+   "note": {
+    "en": "Yao predicted benchmarks will split in two: objective ones evaluated by code execution, subjective ones by human (or simulated human) preference.",
+    "zh": "姚顺雨预测未来基准测试将分化为两类:客观类通过代码执行评估,主观类则依赖人类(或模拟人类)偏好评估。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-02-15",
+   "ts": "2024-02-15T18:50:47Z",
+   "kind": "x",
+   "title": {
+    "en": "IMO the most important aspect of video generation is coherent long horizon. It is an indication of capturing the world dynamics beyond pixels, and an important",
+    "zh": "IMO the most important aspect of video generation is coherent long horizon. It is an indication of capturing the world dynamics beyond pixels, and an important"
+   },
+   "source": "@shunyuyao12",
+   "url": "https://x.com/ShunyuYao12/status/1758202212344561768",
+   "note": {
+    "en": "Yao argued coherent long-horizon generation is the most important aspect of video models, seeing it as a step toward capturing world dynamics and 'world models.'",
+    "zh": "姚顺雨认为,连贯的长时程生成是视频生成模型最重要的方面,并将其视为捕捉世界动态、迈向'世界模型'的关键一步。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-02-14",
+   "ts": "2024-02-14T06:00:01Z",
+   "kind": "x",
+   "title": {
+    "en": "Cool work and great extension of WebShop (https://t.co/eCk9bpOP9w) --- We've been thinking about making it personalized for some years, it's great someone start",
+    "zh": "Cool work and great extension of WebShop (https://t.co/eCk9bpOP9w) --- We've been thinking about making it personalized for some years, it's great someone start"
+   },
+   "source": "@shunyuyao12",
+   "url": "https://x.com/ShunyuYao12/status/1757645851227508965",
+   "note": {
+    "en": "Yao praised a personalization extension of his WebShop benchmark, noting his team had long considered building that direction themselves.",
+    "zh": "姚顺雨称赞了一项对其WebShop基准的个性化扩展工作,并提到团队早就设想过朝这个方向发展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2021-07-02",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "129 - Transformers and Hierarchical Structure, with Shunyu Yao",
+    "zh": "129 - Transformers and Hierarchical Structure, with Shunyu Yao"
+   },
+   "source": "NLP Highlights",
+   "url": "https://podcasts.apple.com/us/podcast/129-transformers-and-hierarchical-structure-with/id1235937471?i=1000527659149&uo=4",
+   "note": {
+    "en": "An early interview where Yao discussed his research on how transformers represent bounded-depth hierarchical structure in language, before his later work on ReAct and agents.",
+    "zh": "姚顺雨在ReAct与智能体研究之前的一次早期访谈，探讨了Transformer如何表示语言中有限深度的层级结构。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2021-04-24",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Ungrounded Meaning",
+    "zh": "Ungrounded Meaning"
+   },
+   "source": "Shunyu Yao",
+   "url": "http://ysymyth.github.io/Ungrounded-Meaning/",
+   "note": {
+    "en": "An early blog post responding to work on whether a language model can acquire meaning from ungrounded form alone.",
+    "zh": "早期博文，回应「语言模型能否仅凭无指涉的形式习得意义」这一问题的相关研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-07-01",
+   "level": "major",
+   "title": {
+    "en": "Joins Tencent as Chief AI Scientist",
+    "zh": "加入腾讯任首席 AI 科学家"
+   },
+   "body": {
+    "en": "Tencent merged its Hunyuan multimodal and LLM divisions into a single Foundation Model Department under him — part of a broader wave of Chinese labs recruiting from US frontier labs.",
+    "zh": "腾讯将混元多模态与大语言模型两个部门合并为基础模型部由其统领 —— 属于中国实验室从美国前沿实验室大举招募的更大浪潮。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/news/tencent-restructures-ai-operations-promotes-093000045.html"
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T00:01:12Z",
+   "level": "notable",
+   "title": {
+    "en": "消息称田永龙进入腾讯CEO办公室，向姚顺雨汇报",
+    "zh": "消息称田永龙进入腾讯CEO办公室，向姚顺雨汇报"
+   },
+   "body": {
+    "en": "Tian Yonglong reportedly moved into Tencent's CEO office and now reports to Shunyu Yao, expanding his organizational reach.",
+    "zh": "据报道田永龙进入腾讯CEO办公室，向姚顺雨汇报，姚顺雨的管理范围进一步扩大。"
+   },
+   "source": "sohu.com",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmVhdFZEREZpUmNOSjJEX2F3Ukl1Y3VNZUVLc1p1cjBuSzVjTU9YUlFyTEE2MEFnZGp4VFJQMk11RlUxdzktbjJPVHBWclJna3NaWk5jaTNHTFg3NDJtcS1tS0RKNVJMQWZfZXU1eUZFeFNkQTdZYWhzcFM5WUNIbzdRdUdoVUgt?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T01:22:00Z",
+   "level": "notable",
+   "title": {
+    "en": "腾讯混元团队更迭：前OpenAI研究员田永龙成为混元多模态负责人，向姚顺雨汇报",
+    "zh": "腾讯混元团队更迭：前OpenAI研究员田永龙成为混元多模态负责人，向姚顺雨汇报"
+   },
+   "body": {
+    "en": "Tencent reorganized its Hunyuan team, naming former OpenAI researcher Tian Yonglong as head of multimodal, reporting to Shunyu Yao as the unit's leading scientist.",
+    "zh": "腾讯对混元团队进行调整，前OpenAI研究员田永龙出任多模态负责人，向作为该部门首席科学家的姚顺雨汇报。"
+   },
+   "source": "thepaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00TGZvTk40UnFlSWFfTUxsRkloeUlNWlVEV2xnVHlCX1IxY1RtTkVlTFhTLUEyOE9zZXZ6T3VmN205VzRJZEhsUjJZXzdLU1NYU3dRSVQ3OUd4UERUSTZXOA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T01:36:00Z",
+   "level": "minor",
+   "title": {
+    "en": "消息称田永龙进入腾讯CEO办公室 直接向姚顺雨汇报",
+    "zh": "消息称田永龙进入腾讯CEO办公室 直接向姚顺雨汇报"
+   },
+   "body": {
+    "en": "Reports say Tian Yonglong has joined Tencent's CEO office and now reports directly to Yao, pointing to an expansion of Yao's organizational reach as Tencent's chief AI scientist.",
+    "zh": "据报道田永龙已进入腾讯CEO办公室并直接向姚顺雨汇报，显示姚顺雨作为腾讯首席AI科学家的管理范围有所扩大。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPak1Fb0lrMERReVpMbHdOb1pzMm04TUFRNTNyZWFfWUxnVDZNVGw5Q3JrX0R6T01qaEE4MTFFSWFPRUw2UDlHaWNKTEFMSUkxRlJsTE9aODFucjI4OVVyVWVaSUQxUmpvZ1hFZk85TXJzaEJ0Y0FFNUJxTGo1Q0FReHAzb3hoc0NY?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T03:35:00Z",
+   "level": "notable",
+   "title": {
+    "en": "OpenAI前研究员田永龙被曝进入腾讯CEO办公室 向腾讯首席AI科学家姚顺雨汇报",
+    "zh": "OpenAI前研究员田永龙被曝进入腾讯CEO办公室 向腾讯首席AI科学家姚顺雨汇报"
+   },
+   "body": {
+    "en": "Reports say former OpenAI researcher Tian Yonglong has joined Tencent's CEO office and now reports to Shunyu Yao, pointing to an expansion of Yao's reach as Tencent's chief AI scientist.",
+    "zh": "据报道，前OpenAI研究员田永龙已进入腾讯CEO办公室并向姚顺雨汇报，显示姚顺雨作为腾讯首席AI科学家的管理范围正在扩大。"
+   },
+   "source": "news.mydrivers.com",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5MndZUGxUb0pSaVQxNjEwZlprTXY1OE01bElQZ2E1SEFQTnV3UXlZcmZ0M1czZEN0dTlIcU1FS1UtUzkzbzczUG9Cck5KWmdtX2ZoMHlRSWw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T01:29:31Z",
+   "level": "notable",
+   "title": {
+    "en": "腾讯混元团队更迭：前OpenAI研究员田永龙成为混元多模态负责人 向姚顺雨汇报",
+    "zh": "腾讯混元团队更迭：前OpenAI研究员田永龙成为混元多模态负责人 向姚顺雨汇报"
+   },
+   "body": {
+    "en": "Tencent's Hunyuan team was reorganized, with former OpenAI researcher Tian Yonglong named head of multimodal and reporting directly to Yao — a sign of the talent Tencent is stacking under his leadership.",
+    "zh": "腾讯混元团队重组，前OpenAI研究员田永龙出任多模态负责人，直接向姚顺雨汇报，显示腾讯正在其麾下集结顶尖人才。"
+   },
+   "source": "cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ydDM4OVFrXy03Ri03cWRXZnFZUzl1Q2VhV3FNXzlyR1B2S2pSb3pvQXJFeWw3YkVZWlMwLXpnZE5MM0hRVUdMVEdPMA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T04:36:51Z",
+   "level": "notable",
+   "title": {
+    "en": "OpenAI前研究员田永龙被曝进入腾讯CEO办公室 向腾讯首席AI科学家姚顺雨汇报",
+    "zh": "OpenAI前研究员田永龙被曝进入腾讯CEO办公室 向腾讯首席AI科学家姚顺雨汇报"
+   },
+   "body": {
+    "en": "Reports say former OpenAI researcher Tian Yonglong has joined Tencent's CEO office and now reports to Yao, signaling he is building out his team as Tencent's chief AI scientist.",
+    "zh": "报道称前OpenAI研究员田永龙已进入腾讯CEO办公室，向姚顺雨汇报，显示姚顺雨正在以腾讯首席AI科学家身份扩充团队。"
+   },
+   "source": "finance.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRWRwY2syaFRXVXZmVGJJRWNfLWstQ1ZzaG9aTXl4eGxpMk5VRmF1OGFvOTdKRnlQdnNibmd6LW9iaEhCb3AxVlpabHRfMUdCdmgwQlVHYXNJTzc0Z3FVQTNQbXlIV21aeE9SZXZDZ1lsWjdlelFRTExDd0FBc3Y1RGhCYTJoX0NWUW5sTTJEQlJWZWlGaVF4NG9yRFB1NTBqdE1mZE1WTQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T04:27:00Z",
+   "level": "notable",
+   "title": {
+    "en": "OpenAI前研究员田永龙被曝进入腾讯CEO办公室 向腾讯首席AI科学家姚顺雨汇报",
+    "zh": "OpenAI前研究员田永龙被曝进入腾讯CEO办公室 向腾讯首席AI科学家姚顺雨汇报"
+   },
+   "body": {
+    "en": "Former OpenAI researcher Tian Yonglong has reportedly joined Tencent's CEO office and now reports to Shunyu Yao, signaling the buildout of the foundation-model team Yao leads there.",
+    "zh": "据报道前OpenAI研究员田永龙已加入腾讯CEO办公室，并向姚顺雨汇报，显示出姚顺雨在腾讯组建的大模型团队正在扩充。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYLXdiU3dzeUJhMXU0VTJzYmcyYkJpYjVxa09yZTN5amt6N2lvNkR2eUtzczN3dmw1MmVVRnE1R3pjNFBhREpVOVJBOU02LUZPZU5CMVBfMFdLcEo5V1lhYzUzemphbDhGdGdRQ0RjNGNZY21mLXE3R0ItOGc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T15:06:54Z",
+   "level": "notable",
+   "title": {
+    "en": "田永龙被曝进入腾讯CEO办公室，向姚顺雨汇报，官方暂无回应|麻省理工学院|商汤科技|腾讯AI|大模型|王晓刚_手机新浪网",
+    "zh": "田永龙被曝进入腾讯CEO办公室，向姚顺雨汇报，官方暂无回应|麻省理工学院|商汤科技|腾讯AI|大模型|王晓刚_手机新浪网"
+   },
+   "body": {
+    "en": "Chinese media reported that Tian Yonglong has reportedly moved into Tencent's CEO office and now reports to Shunyu Yao, unconfirmed by the company — a sign of Yao's expanding authority over Tencent's AI organization.",
+    "zh": "有中文媒体报道称，田永龙已进入腾讯CEO办公室，并向姚顺雨汇报，官方尚未回应——这显示姚顺雨在腾讯AI组织中的职权正在扩大。"
+   },
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XSEJUMy0xNG4weGFXeG1rVndxRlJINmlzMnFiMm10M0hvSjg3eVhxWmdWOE1wLXp3YzQyTThyN1cyZVZWcnhkWVJ3S1RmS2hFRnY4RFVFNUJraVVaUVBUSHgybFNRWUE5UHh0ZG00VVNOUGxNYzJac2w1QUV6RTg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T00:01:00Z",
+   "level": "notable",
+   "title": {
+    "en": "消息称田永龙进入腾讯CEO办公室，向姚顺雨汇报",
+    "zh": "消息称田永龙进入腾讯CEO办公室，向姚顺雨汇报"
+   },
+   "body": {
+    "en": "Former OpenAI researcher Tian Yonglong reportedly joined Tencent's CEO office as head of Hunyuan multimodal, reporting to Shunyu Yao.",
+    "zh": "据报道，前OpenAI研究员田永龙已加入腾讯CEO办公室，出任混元多模态负责人，向姚顺雨汇报。"
+   },
+   "source": "鞭牛士",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Jbms5V3lLeUdTSG5uaDV4SDVxSnZXay0xXzdhdG13ejBxZldtbE9mTm96aVlRaTJsZXVpN1dQNVB2dmRVUjRRaWtSNGZSNm1TSGc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T02:41:38Z",
+   "level": "notable",
+   "title": {
+    "en": "腾讯混元团队更迭：前OpenAI研究员田永龙成为混元多模态负责人，向姚顺雨汇报",
+    "zh": "腾讯混元团队更迭：前OpenAI研究员田永龙成为混元多模态负责人，向姚顺雨汇报"
+   },
+   "body": {
+    "en": "Tencent reorganized its Hunyuan team, naming former OpenAI researcher Tian Yonglong head of multimodal, reporting directly to Shunyu Yao.",
+    "zh": "腾讯混元团队重组，前OpenAI研究员田永龙出任多模态负责人，直接向姚顺雨汇报。"
+   },
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pNE9iVS1vUE1NYVZwRnFYdlFBQkpQMFh0bnhJYmxjTE1ZeDdwanJJN3A1Mm5KSkVkVVJ6UElGYlJhdFozVXl4aU5YR3VlNnNKWDMzWXNLUWh2SE95Q0lBUi1IN1BoYk5HbnBlMHJrX1pyb0ktdXJWUA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T07:35:00Z",
+   "level": "notable",
+   "title": {
+    "en": "传OpenAI强援进入腾讯 CEO 办公室，向姚顺雨汇报",
+    "zh": "传OpenAI强援进入腾讯 CEO 办公室，向姚顺雨汇报"
+   },
+   "body": {
+    "en": "Former OpenAI researcher Tian Yonglong reportedly joined Tencent's CEO office and now reports to chief AI scientist Shunyu Yao.",
+    "zh": "据报道，前OpenAI研究员田永龙已进入腾讯CEO办公室，向首席AI科学家姚顺雨汇报。"
+   },
+   "source": "21财经",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ25DSURHSjY0VlhwOUtPakRXd1B1ZFBIWktTSVVZQ2s0cnN2UHFUUi1rTkpkMWMtRzYtNk9ydGYyUmdscFF0YnV0SlBuYmlxSTRDTHo3RmZlOVZZSDNidEpRMlFCSFJVaTJPLVdvTjhIN3dBNXJyMGVMTVVDbnJqMkVpU0txbS1nWllJMQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T01:25:00Z",
+   "level": "notable",
+   "title": {
+    "en": "腾讯混元团队更迭：前OpenAI研究员田永龙成为混元多模态负责人 向姚顺雨汇报",
+    "zh": "腾讯混元团队更迭：前OpenAI研究员田永龙成为混元多模态负责人 向姚顺雨汇报"
+   },
+   "body": {
+    "en": "Tencent's Hunyuan team restructured: former OpenAI researcher Tian Yonglong now leads multimodal work, reporting to Yao.",
+    "zh": "腾讯混元团队人事调整：前OpenAI研究员田永龙出任多模态负责人，向姚顺雨汇报。"
+   },
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sUENyQlpiWmx6eldwMUl0dDN4aDNOV1pZWmVINWlhOTZ1ZVJuZ0oxNFRrRXhxVG1lY1BqSzVuVWJwZFB0S3NHQWNvTXM1M1BtekhaYTNmOUtHalphZFI0UUlfbmpOS2M0WXNN?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T03:35:00Z",
+   "level": "notable",
+   "title": {
+    "en": "OpenAI前研究员田永龙被曝进入腾讯CEO办公室 向腾讯首席AI科学家姚顺雨汇报",
+    "zh": "OpenAI前研究员田永龙被曝进入腾讯CEO办公室 向腾讯首席AI科学家姚顺雨汇报"
+   },
+   "body": {
+    "en": "Former OpenAI researcher Tian Yonglong reportedly joined Tencent's CEO office and now reports to Chief AI Scientist Shunyu Yao, signaling growth of the AI team Yao leads.",
+    "zh": "据报道，前OpenAI研究员田永龙已进入腾讯CEO办公室，现向首席AI科学家姚顺雨汇报，显示姚顺雨领导的AI团队正在扩张。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdmxzX3Q0dWpQRlVQeGdaZHlidnFGV29kMHhzNS1EUUl1R2RRUk5kQW9vMWhLNGc2R3JMSnVZOTBVbldlM1FsR18wMnpqMWJjcndVbTd4VGd0MFZycUpnOEJXRFBDNlNuY0o2d0lKNXVyLVBoRWx1LWI2S1dQckJZWVlJVmpmdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T04:34:53Z",
+   "level": "notable",
+   "title": {
+    "en": "OpenAI前研究员田永龙被曝进入腾讯CEO办公室 向腾讯首席AI科学家姚顺雨汇报",
+    "zh": "OpenAI前研究员田永龙被曝进入腾讯CEO办公室 向腾讯首席AI科学家姚顺雨汇报"
+   },
+   "body": {
+    "en": "Former OpenAI researcher Tian Yonglong reportedly joined Tencent's CEO office, now reporting to chief AI scientist Shunyu Yao — a notable hire for his team.",
+    "zh": "据报道前OpenAI研究员田永龙已加入腾讯CEO办公室，现向首席AI科学家姚顺雨汇报，这是其团队的一项重要人事变动。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IeHNKck5IN21Ia1czRTIwMXFmV2tHNlV1UWI1VmtKc0RybmV2SE4wSTRmRXFaRjJKWFllWDhSWURpTkFZTWUwNVpxSDZBT0dnR05DRzBGdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T06:41:02Z",
+   "level": "notable",
+   "title": {
+    "en": "腾讯混元团队更迭：前OpenAI研究员田永龙成为混元多模态负责人，向姚顺雨汇报",
+    "zh": "腾讯混元团队更迭：前OpenAI研究员田永龙成为混元多模态负责人，向姚顺雨汇报"
+   },
+   "body": {
+    "en": "Former OpenAI researcher Tian Yonglong joined Tencent's Hunyuan team as head of multimodal, reporting to Yao — a concrete hire under his newly merged foundation-model department.",
+    "zh": "前OpenAI研究员田永龙加入腾讯混元团队担任多模态负责人，向姚顺雨汇报——这是他新合并的基础模型部门下的一次实际人事任命。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hNGV4LXkzcUI0TDJ6NGl5dDhRN05URGJ3Tk1jQmwyZjBFeHZrNFRVRXFHMmk2bTctZXczVHEtNTNidVVUQ1pvdllUOTM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "腾讯混元团队更迭：前OpenAI研究员田永龙成为混元多模态负责人 向姚顺雨汇报",
+    "zh": "腾讯混元团队更迭：前OpenAI研究员田永龙成为混元多模态负责人 向姚顺雨汇报"
+   },
+   "body": {
+    "en": "Tencent's Hunyuan multimodal team now reports to Yao under former OpenAI researcher Tian Yonglong, a leadership change inside the department he runs.",
+    "zh": "腾讯混元多模态团队迎来人事变动，前OpenAI研究员田永龙出任负责人并向姚顺雨汇报，这是他所领导部门内部的一次人事调整。"
+   },
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UTmxtNG9BYV90ZFFWRzVTZjZSXzN2UjRIYjNsV200SUdoT3ZtSnRLYmNyeEk3YzQyVl82SnU4Wm4xY1RuV093czRVQVN6THYwb0YxQjNCbFozcEJmaEVRRzVOZ056SE05YWc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-31",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "姚顺雨空降腾讯半年，混元Hy4冲进第一梯队",
+    "zh": "姚顺雨空降腾讯半年，混元Hy4冲进第一梯队"
+   },
+   "body": {
+    "en": "Half a year after Shunyu Yao joined Tencent, the Hunyuan Hy4 model reportedly broke into the first tier, a notable outcome tied to his leadership of the merged foundation-model unit.",
+    "zh": "姚顺雨加入腾讯半年后，混元Hy4据报道跻身第一梯队，这是与他领导的合并后大模型部门相关的一个值得关注的成果。"
+   },
+   "source": "t.cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSaGc5OVpIRWlQNy1uLUI3dUhxVTdyNDdYSXE1YlR0ZTVyWmI0N2dSd3k5ZFptSkVWODdSb0ttZHBzNmNEMXlSWGFoRnp2ZkNyZk9tZ1NzMWkzcDRnR2Q4YVQxRlpqQ3VTVk9ocm9XT3A0dw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-31",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "腾讯姚顺雨最新对谈实录：我不认为ChatGPT和Claude Code是唯一的Super App",
+    "zh": "腾讯姚顺雨最新对谈实录：我不认为ChatGPT和Claude Code是唯一的Super App"
+   },
+   "body": {
+    "en": "In a new interview, Yao said he doesn't believe ChatGPT and Claude Code are the only forms a 'super app' can take.",
+    "zh": "姚顺雨在最新对谈中表示，他不认为ChatGPT和Claude Code是“超级应用”的唯一形态。"
+   },
+   "source": "甲子光年",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pdEVkbFBYX29wcjBRdHBSSXpFdno2dldQY1gwYzdpVkZ6VW1wVDg4VFAweFl0dXVXVHNfNS1mZ0FuWGhueHd6S2diSExxNWNDN1JxdzVmT2lFdXhiRzNj?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-31",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "姚顺雨空降腾讯半年，混元Hy4冲进第一梯队",
+    "zh": "姚顺雨空降腾讯半年，混元Hy4冲进第一梯队"
+   },
+   "body": {
+    "en": "Six months after Yao joined Tencent, its Hunyuan Hy4 model has reportedly moved into the first tier of Chinese foundation models.",
+    "zh": "姚顺雨加入腾讯半年后，其混元Hy4模型据报道已跻身国产大模型第一梯队。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVDZGd3BuTVo1YThpZU5oUW5ZalNkWlljMTFkdHdlRF9FS0dDZF9nNzcycmlPRWxjbnRNaG1MbVpyT3ByelFQc09tUkhNZ19hZUdXRTZuMmF5OW5UdW9jaTVvWHRDNGpyNzFJTzlibW5wSlEzb1pja3lWUXhyWFQyYzMzSkxQb0ty?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-31",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "姚顺雨空降腾讯半年，混元Hy4冲进第一梯队",
+    "zh": "姚顺雨空降腾讯半年，混元Hy4冲进第一梯队"
+   },
+   "body": {
+    "en": "Half a year after Yao joined Tencent, its Hunyuan Hy4 model broke into the first tier of foundation models.",
+    "zh": "姚顺雨加入腾讯半年后，混元Hy4模型跻身第一梯队大模型行列。"
+   },
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdWUtV0RMS2FMQkx2dHRMNHNmeXhjWWxzYlRHY1lQR01aWkFPN1BjSGpRMkZObVhKSDNXS29tV3ZUdTZwTXdQRElzZ2hBWkhlZGpHNTlxNGVHbmVBVERkZUJlNTVIQnZncGR0THE0QVhwYV9XT0VLQnFQZUstQ2tzWXFORExiREI5dHJVVA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-31",
+   "ts": "2026-08-31T10:42:00Z",
+   "level": "notable",
+   "title": {
+    "en": "姚顺雨空降腾讯半年，混元Hy4冲进第一梯队",
+    "zh": "姚顺雨空降腾讯半年，混元Hy4冲进第一梯队"
+   },
+   "body": {
+    "en": "Half a year after Yao joined Tencent, its Hunyuan Hy4 model has broken into the first tier of Chinese foundation models.",
+    "zh": "姚顺雨加入腾讯半年后，混元Hy4模型已跻身中国基础模型第一梯队。"
+   },
+   "source": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE91YVYxRnlpb1kxYzBQTF9YSW5WWGU1R3NHekhXMWNMQUNXcTVGdG5nd3o3WmpUU0pmWEIyM3JYeWxhMUFpTWhNNQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-28",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "排队超5000！姚顺雨“新作业”混元Hy4 preview上线即爆火",
+    "zh": "排队超5000！姚顺雨“新作业”混元Hy4 preview上线即爆火"
+   },
+   "body": {
+    "en": "Tencent's Hunyuan Hy4 preview, the first flagship model released under his leadership of the merged foundation model department, goes live to a queue of more than 5,000.",
+    "zh": "腾讯混元 Hy4 preview 上线，是他执掌合并后的基础模型部以来发布的首个旗舰模型，开放当日排队人数超过 5000。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUTJJVUtldlItZkxuOEM5cmZFOGs4YlU4c2VTU0E2X1FVZ3pTdnZ6VkdCN0VOd205ZWhxS0VwRldudld4a3d6c09waWVlZ2RLWkdfUFZLSFU3dUprMlBhVm82TnRBdlVYMDR1bjBoSzlzREtlcmZHUzZTc2o1eDZaTDRWZTgxb044?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-28",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "腾讯混元Hy4 preview首发实测：姚顺雨的“新作业”能打多少分？",
+    "zh": "腾讯混元Hy4 preview首发实测：姚顺雨的“新作业”能打多少分？"
+   },
+   "body": {
+    "en": "Chinese media reviewed the first hands-on tests of Tencent Hunyuan's Hy4 preview model, the latest release from the foundation model department Yao leads.",
+    "zh": "中国媒体对腾讯混元Hy4 preview模型进行了首发实测评测，这是姚顺雨领导的基础模型部门发布的最新模型。"
+   },
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uanBzc2dlQUI0S29ZWUVpeFIwOFJPdVZkVHdnNlJBTEVXWGI2SGZwd3V0OUxvUUJhTkVJNXZTRk95OFZ1NXFVZG1JVFFuUEFkNXdhU1czUUNOZERNMmJHMGM0anUzZzBaeWFqSnk5VWV4enUzdVJkSWt3dVhCS1E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-28",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "排队超5000！姚顺雨“新作业”混元Hy4 preview上线即爆火",
+    "zh": "排队超5000！姚顺雨“新作业”混元Hy4 preview上线即爆火"
+   },
+   "body": {
+    "en": "Tencent's Hunyuan Hy4 preview model launched under Yao's direction and drew a queue of over 5,000 users, a strong public reception signal.",
+    "zh": "腾讯混元Hy4 preview模型在姚顺雨主导下上线，排队用户超5000人，反响热烈。"
+   },
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MTWd3QXZoX0pCemtWT2haWTBiVEtNZmhOUHozblpEbnFEamhPcG54cHFXUjNiVTU5QUxtNGhudU4zUlF2OFZ3R0VpQTNRWTM0MWtWRzZraFlGbmJJLTZLSw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-28",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "排队超5000！姚顺雨“新作业”混元Hy4 preview上线即爆火",
+    "zh": "排队超5000！姚顺雨“新作业”混元Hy4 preview上线即爆火"
+   },
+   "body": {
+    "en": "Tencent Hunyuan's Hy4 preview model, released under his leadership, drew a queue of over 5,000 people at launch.",
+    "zh": "在他领导下发布的腾讯混元Hy4预览模型上线即引发超5000人排队体验。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUUFHQngyVldyeEFZbWJMVVNuSHc3b1pRYW03LXI4MnFZeVBVcXRfNmhqLXA1OHExNDZ3SlpIMDQyNEkyMjRCN3pDX1A0QU1Ndm9ZMDRQRUhiaWpoUVBxWThVb1pqRXo1WWVPTElGTW9FVWxvYTF4MWdqdEZtODFkbVMyMjNsbGR5dkFQSQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-28",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "排队超5000！姚顺雨“新作业”混元Hy4 preview上线即爆火",
+    "zh": "排队超5000！姚顺雨“新作业”混元Hy4 preview上线即爆火"
+   },
+   "body": {
+    "en": "Tencent's Hunyuan Hy4 preview model, released under Yao's tenure leading the company's newly merged foundation-model unit, drew a queue of over 5,000 users at launch.",
+    "zh": "腾讯混元Hy4 preview模型上线即吸引超5000人排队体验，这是姚顺雨执掌合并后大模型团队以来的一次产品亮相。"
+   },
+   "source": "财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LTWdkTUY3UktvMW9zZk03T1JoTjRlY05SclZ5dDk2Ty1sWDZkSkhKU3kwNnhNbVJHaWRPZE11aHh0eDJsTVZPZg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-19",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "姚顺雨重整腾讯多模态路线：靠拢梁文锋，远离李飞飞",
+    "zh": "姚顺雨重整腾讯多模态路线：靠拢梁文锋，远离李飞飞"
+   },
+   "body": {
+    "en": "Yao is realigning Tencent Hunyuan's multimodal strategy, moving closer to DeepSeek's Liang Wenfeng and away from Fei-Fei Li's approach — a notable strategic pivot for the unit he leads.",
+    "zh": "姚顺雨调整腾讯混元多模态路线，向梁文锋靠拢、远离李飞飞的思路，是其所领导团队的一次重要战略转向。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kNkhGc2c2Zm1NOGlhS0FsUXlfZGduVFpUNTU5WVhNODM2WE9IbXgxVk1ad1Z1LWRxQ2xweHhncklVOWcxWWN1eXozQVE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-19",
+   "ts": "2026-08-19T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "姚顺雨重整腾讯多模态路线：靠拢梁文锋，远离李飞飞",
+    "zh": "姚顺雨重整腾讯多模态路线：靠拢梁文锋，远离李飞飞"
+   },
+   "body": {
+    "en": "As Tencent's Chief AI Scientist, Shunyu Yao is reportedly steering the company's multimodal strategy closer to DeepSeek's Liang Wenfeng and away from Fei-Fei Li's approach, a real strategic shift for Tencent's foundation-model unit.",
+    "zh": "作为腾讯首席AI科学家，姚顺雨据报道正在调整腾讯的多模态战略方向，靠拢DeepSeek的梁文锋而远离李飞飞的路线，是腾讯大模型部门的一次实质性战略转向。"
+   },
+   "source": "tmtpost.com",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE96Ty1GNFFsaUNJazJTNHBSblJDSU42MHlaZ0dybTBSYlhxZFRwMEs3cy04bDFrM0JqcWE0dkdHTU82UGxFalRLTnB3TkQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-31",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "腾讯科研智能体攻破50年未解数学难题，姚顺雨喊话正在招人",
+    "zh": "腾讯科研智能体攻破50年未解数学难题，姚顺雨喊话正在招人"
+   },
+   "body": {
+    "en": "A research agent from his Tencent organisation solved a mathematical problem open for 50 years, and he used the result to announce hiring.",
+    "zh": "他在腾讯所带团队的科研智能体攻克了一道悬置 50 年的数学难题，他借此公开喊话招人。"
+   },
+   "source": "智东西",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBveWV5dVlDNG9pb1IyODlFLUpHaTFDX3cyQkxmM3g3azB0TGsyY0xUTkxZUldBaThtU0pyc2ZCVW5FMFFKR1VQbQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-30",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "腾讯姚顺雨公开为混元AI4S招人",
+    "zh": "腾讯姚顺雨公开为混元AI4S招人"
+   },
+   "body": {
+    "en": "He publicly recruited for a Hunyuan AI-for-Science effort, signaling a new direction under his leadership.",
+    "zh": "他公开为混元 AI4S 团队招人，显示其主导下的新方向。"
+   },
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yeURIdFhWY3h1b0dXVHJvektUS01Ld3Rpa1lpZmlaZTVtbUN5ck1Jejc3bUxvWXRUVXRoRzMtNldvMnExcXpiYUNhNWlrSFFCSlA0VC1nR19IWUJzMXNUdQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-30",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "腾讯两大模型部门合并，姚顺雨统一掌舵混元",
+    "zh": "腾讯两大模型部门合并，姚顺雨统一掌舵混元"
+   },
+   "body": {
+    "en": "Tencent merged its two large-model departments and put him in sole charge of Hunyuan.",
+    "zh": "腾讯将两大模型部门合并，由姚顺雨统一负责混元。"
+   },
+   "source": "thepaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BQWR0U3BfX3c5ZEdHTTlLUWZjelZKeDcyUFNKSnRfaWR4Xy1YaTh4RWwtdUtLQVRnNDBUQTBSQWZMNG9pRFpmTlpuUGVzeWpxR2sySjFIaTU4bXRIcnc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-30",
+   "ts": null,
+   "level": "minor",
+   "title": {
+    "en": "腾讯姚顺雨公开为混元AI4S招人",
+    "zh": "腾讯姚顺雨公开为混元AI4S招人"
+   },
+   "body": {
+    "en": "Yao publicly called for hires to join Tencent Hunyuan's AI4S (AI for Science) team.",
+    "zh": "姚顺雨公开为腾讯混元AI4S（AI for Science）团队招募人才。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTW9RMm0wdXZ4c3VmeXRZdV9QbWlqNzV0YVZiWHUycy1faUdKMGdVOVlLSENDXzNfOV8ybXpEOFY4bXFPcXpHVGdoc1Q1Y2xMTjFBOXBodHdINXZSZ0doejRvUXJFYmdobzFVZXNYQlFPcnJWVHdzVzZVMXNJUW1acjNmRUlHT2Zw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-27",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "姚顺雨全面接掌腾讯混元，原多模态负责人胡瀚离职创业",
+    "zh": "姚顺雨全面接掌腾讯混元，原多模态负责人胡瀚离职创业"
+   },
+   "body": {
+    "en": "Took full control of Tencent's Hunyuan model effort after the former multimodal lead, Hu Han, left to start his own venture.",
+    "zh": "在原多模态负责人胡瀚离职创业后，姚顺雨全面接掌腾讯混元大模型业务。"
+   },
+   "source": "t.cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WNTZvMXNrbVVQa0VPR1lRczl6aU03WFpQZ0JTVDV0SzhSOUNWQ05qYVhqcml5aW0tRHVfd1YybEFXeDlvalI0cWR5TEtvNkZESk4zVk5jcGZlQ3pic2VQaHNzX0E3dUJvOHpTTjlUOTY?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-25",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "腾讯混元组织架构再升级：合并成立基础模型部，姚顺雨统一管理",
+    "zh": "腾讯混元组织架构再升级：合并成立基础模型部，姚顺雨统一管理"
+   },
+   "body": {
+    "en": "Tencent merges its large language model and multimodal teams into a single foundation model department placed under his sole leadership.",
+    "zh": "腾讯将大语言模型团队与多模态团队合并，成立基础模型部，统一由他管理。"
+   },
+   "source": "thepaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wNmVlZjNGNUQtSm1kcmhXX3JXVmRmQmhVdlltU2hrSFI1bVRsdml6MkV0bGRhVzhrUW1iY1NfYnppOC1IZnlCMWI2N1UzbDJUMHEzN3h6YnprMXBjX1E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-24",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "腾讯大模型团队再调整：成立基础模型部，姚顺雨职责扩大",
+    "zh": "腾讯大模型团队再调整：成立基础模型部，姚顺雨职责扩大"
+   },
+   "body": {
+    "en": "Tencent reorganized its large-model teams into a new foundation model department, expanding his remit.",
+    "zh": "腾讯重组大模型团队、成立基础模型部，姚顺雨的职责范围随之扩大。"
+   },
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81a3ljcVFRdEwteWpnRUZJcVdCYTdHa29EekxDLVVoa3hRdnhuR1RBQ0x5R2xWV0ZNN05SSHFnOXJxZWRUeUZVWFVNSVZFQWt3TU5HQVlFbk53NnNDa19mMw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-24",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "姚顺雨，完成腾讯混元组织大一统",
+    "zh": "姚顺雨，完成腾讯混元组织大一统"
+   },
+   "body": {
+    "en": "Yao completed the organizational unification of Tencent's Hunyuan foundation-model group, consolidating the merged department he was brought in to lead.",
+    "zh": "姚顺雨完成了腾讯混元大模型团队的组织大一统，巩固了他受邀领导的合并部门。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yVFJuNWNIQzFBQ09mTFZuTk9KSl93WmtBa2xjWTQ1d3NOYnp6ZjZsSlh5M2N5enlkVWEzNW9KRVVOVFdsZERuN0VRYzl4alN2VzM4dWs0Nlp3Y1hFQ1hscjg4cDdTbnVlMkd0NVJSaW8xSlowNWRtdGUzdDE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-24",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "腾讯混元架构调整，成立基础模型部，姚顺雨负责",
+    "zh": "腾讯混元架构调整，成立基础模型部，姚顺雨负责"
+   },
+   "body": {
+    "en": "Tencent restructured Hunyuan and established a foundation model department under his leadership.",
+    "zh": "腾讯对混元进行架构调整，成立基础模型部，由姚顺雨负责。"
+   },
+   "source": "t.cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zNHpIeGFtREVkNGFVdklySGpqb25uYmdwWVZla2JKYndhcDhfbEF5RWRQQzZ2bFlNTVVzMUV0WWlBNWk1UTN0amhCYkRkczA5UXRxbW85LUppV1hyQW5TUW5rdmRiQVB3RzJSSS1ZRWY?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-24",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "腾讯混元架构调整，成立基础模型部，姚顺雨负责",
+    "zh": "腾讯混元架构调整，成立基础模型部，姚顺雨负责"
+   },
+   "body": {
+    "en": "Tencent restructured Hunyuan and created a new foundation model department with Shunyu Yao in charge.",
+    "zh": "腾讯对混元进行架构调整，成立新的基础模型部，由姚顺雨负责。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV3NQNGJIV0xDQVRORTg1Ujl4RWNZOUsza2hudTFVUGI3bUpBdFhEdEQtdk9CNGd1MVB5bXdmcVVQcEV1VVgtV2tDdU5rSGpUWkNub0RodFk1d2dWQjhSelVIS2xYMThzbHlYR19STXRidE5GZ2RIUlJRUW81ODREMlNnbWY?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-10",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "市值一天暴涨至4万亿，姚顺雨Hy3治愈马化腾的焦虑？",
+    "zh": "市值一天暴涨至4万亿，姚顺雨Hy3治愈马化腾的焦虑？"
+   },
+   "body": {
+    "en": "Tencent's market cap jumped to 4 trillion yuan in a single day, with coverage crediting Yao's Hy3 model for easing investor concerns about the company's AI progress.",
+    "zh": "腾讯市值单日暴涨至4万亿元人民币，报道认为姚顺雨主导的Hy3模型缓解了市场对公司AI进展的担忧。"
+   },
+   "source": "界面新闻",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HMThlRGhsSEh6ZGhrem9qSGRDa1hSR3NUQVkxQ0dHeUZRdnRYbmNQSUNJNmdqM19PVkFtYTZrNTN6ZVhDcVhQMlU3dDY4QTJzcXlfRVZldFQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-08",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Shunyu Yao & Hy3: Can They Successfully Break Through the Paywall Threshold?",
+    "zh": "Shunyu Yao & Hy3: Can They Successfully Break Through the Paywall Threshold?"
+   },
+   "body": {
+    "en": "Yao's team framed Tencent's Hunyuan Hy3 release around tearing down the barriers between model and product, research and engineering, and Hunyuan and Tencent's broader ecosystem — a strategic direction he set as Chief AI Scientist.",
+    "zh": "姚顺雨团队将腾讯混元Hy3的发布定位为拆除模型与产品、研究与工程、混元与腾讯生态之间的“墙”，这是他作为首席AI科学家确立的战略方向。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YaXZKOWNJOUl6UW05bElldjZENGRFYmtndTV0dVE0X1libDZneDNtNkEyeWZFWHFuWExFbzJLTjBTSWlpaFBpY2V6cmlTelFuZ0VV?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-07",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "腾讯AI推出Hy3正式版，姚顺雨公开回应模型能力追赶与产业应用落地难题",
+    "zh": "腾讯AI推出Hy3正式版，姚顺雨公开回应模型能力追赶与产业应用落地难题"
+   },
+   "body": {
+    "en": "Tencent ships the full release of Hunyuan Hy3, with him publicly addressing how far the model has closed the capability gap and where it is being deployed.",
+    "zh": "腾讯发布混元 Hy3 正式版，他公开回应模型能力追赶到什么程度、以及产业落地的难题。"
+   },
+   "source": "虎嗅",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12eTlMX1M4ZGtWUHlqR3RWdjVpdlZxQkdkM0dQTzViLTNWUzh6QVltbDhhNExGOGJUcDNSTzdpSFJncHJWTjJSaFFzMGwxeHcyTng4cw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-08",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "汤道生对谈姚顺雨：AI 下半场，腾讯比什么？ - InfoQ-CN",
+    "zh": "汤道生对谈姚顺雨：AI 下半场，腾讯比什么？ - InfoQ-CN"
+   },
+   "body": {
+    "en": "Yao joined a public conversation with Tencent executive Tang Daosheng on what will differentiate Tencent in the next phase of AI.",
+    "zh": "姚顺雨与腾讯高管汤道生公开对谈，探讨AI下半场腾讯的差异化竞争之道。"
+   },
+   "source": "新闻",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aWGxtWE42TjVVdEJVd3VVWUNfMzVKQklYOEJrRTJZSnVQUjY3LTk1U2tSSU92VUdqb1BTVjQ5d2Q4R1padVJHWFZOSTExLUdLcEZjTGVYQUNMOWNQV2c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-06",
+   "ts": "2026-06-06T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "姚顺雨，给出腾讯AI“隆中对”",
+    "zh": "姚顺雨，给出腾讯AI“隆中对”"
+   },
+   "body": {
+    "en": "Yao laid out a strategic roadmap for Tencent's AI push, likened in Chinese coverage to a 'Longzhong plan' — a rare public statement of direction from him.",
+    "zh": "姚顺雨为腾讯AI业务给出战略路线图，报道将其比作“隆中对”，是他一次罕见的公开战略表态。"
+   },
+   "source": "钛媒体",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE16UXU1eUdGMlo1SUQwc00zYi00RS12WFBGOS02WlQyRE9qaFNScDFQRzQ2UTYzeHZfeXB6ZHNLODVRal90eEg3c0pFVkg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-05",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "姚顺雨正面回应为何选择加入腾讯：最重要的原因是文化",
+    "zh": "姚顺雨正面回应为何选择加入腾讯：最重要的原因是文化"
+   },
+   "body": {
+    "en": "Yao publicly explained his decision to leave OpenAI for Tencent, saying company culture was the most important factor behind the move.",
+    "zh": "姚顺雨公开回应从OpenAI转投腾讯的原因，称文化是他做出这一选择最重要的考量。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kaktWZlg0bEhqYmxaUHprbng0T2VDdndHcHZvRjFyUE5JLWNWN3c0ZXdTM3hVWlNPVjNoRmxTeEFIWU5uYzNSMzRLZnptVGUxTzdvaFp1czU5dk04STYtMWNZeTA0aEVHU3NxUU9fN3BjNEhNcVktVy1DbUpCUkk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-05",
+   "ts": "2026-06-05T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "腾讯汤道生对谈姚顺雨：智能体时代，模型与产品如何Co-Design",
+    "zh": "腾讯汤道生对谈姚顺雨：智能体时代，模型与产品如何Co-Design"
+   },
+   "body": {
+    "en": "Tencent's Tang Daosheng held a public dialogue with Shunyu Yao on how models and products should be co-designed in the agent era, reflecting his role leading Tencent's foundation model research.",
+    "zh": "腾讯汤道生与姚顺雨就智能体时代模型与产品应如何协同设计展开对谈，体现了他在腾讯基础模型研究方面的领导角色。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYXVWQ3NDUkYtdE1JaFludWNYWVEwWkdrUHFWMWM5NDNUTTA2RmpZOWs3MmhIWU8yekRUTWNYWHYtZ21vbHNKT3pCNl80ZzN5RWl3cmFtd0x2NTAyOHl5XzhvVDhxei1vWEZ4SkFUOFNpanlvdk9fUnE4ZUJjU1gyOVBkc3l3eU0?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-05",
+   "ts": "2026-06-05T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "汤道生承认腾讯业务线快慢不一，姚顺雨透露AI下半场主攻三方向|腾讯云|龙虾|产业|科学家|长跑_手机新浪网",
+    "zh": "汤道生承认腾讯业务线快慢不一，姚顺雨透露AI下半场主攻三方向|腾讯云|龙虾|产业|科学家|长跑_手机新浪网"
+   },
+   "body": {
+    "en": "Shunyu Yao outlined Tencent AI's three strategic priorities for the second half, as Tencent Cloud's Tang Daosheng acknowledged uneven progress across business lines.",
+    "zh": "姚顺雨透露腾讯AI下半年将主攻三大方向，腾讯云汤道生同时承认各业务线进展快慢不一。"
+   },
+   "source": "finance.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRDl5QS1iaWJxSmR1VHJZTGdSOFI3SW5hODE2TEVGY2F5WFBnNUJybjlIVmJTNnl3N2V0TjV2ZDBRRE1aZFRZOXZ4ZXVYSk85WExTX1dpX0RRbU9HYzhvSjNtMlFsTzlMN0wtRmtGcER3RnJNOW5LVVcwNWdFMWZ1U2JLV2hhSlZYWTRHUjJOS3ZRUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-05",
+   "ts": "2026-06-05T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "腾讯AI慢了吗？姚顺雨回应汤道生：感觉应该是我问你的问题",
+    "zh": "腾讯AI慢了吗？姚顺雨回应汤道生：感觉应该是我问你的问题"
+   },
+   "body": {
+    "en": "Shunyu Yao publicly pushed back on Tencent Cloud head Tang Daosheng's suggestion that Tencent's AI is lagging, turning the question back on him.",
+    "zh": "面对腾讯云负责人汤道生关于腾讯AI落后的说法，姚顺雨公开回应反问对方，进行了正面交锋。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9nX2pfQ1AtUDRXWkVYSVVhNXZNUU1vM1hLTHdpTnRTX1Z5Zm8xb2tIMTFJQmNoTXlFV3VadU1EQnlZcU9XeW5VREtqU0M?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-05",
+   "ts": "2026-06-05T05:45:03Z",
+   "level": "notable",
+   "title": {
+    "en": "姚顺雨谈AI下半场：从“寻找方法”到“寻找问题”，直言中国企业“爱刷榜”",
+    "zh": "姚顺雨谈AI下半场：从“寻找方法”到“寻找问题”，直言中国企业“爱刷榜”"
+   },
+   "body": {
+    "en": "Yao argued AI's 'second half' is shifting from finding methods to finding problems, and said bluntly that Chinese companies are too focused on chasing benchmark leaderboards.",
+    "zh": "姚顺雨提出AI“下半场”正从“寻找方法”转向“寻找问题”，并直言中国企业过于热衷“刷榜”。"
+   },
+   "source": "风闻",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52Smdhb1NsZEZlTjZmbEZmTE5VLThxUWVBeTdKaGlIVDlfczFFU3A3S3RBTm5PMHlLVEZGcFl2MFJXV20tS0NrMjFaN21xMEFodThteEhTNlFFbk0?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-05",
+   "ts": "2026-06-05T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "AI下半场拼什么？汤道生姚顺雨深度对谈！",
+    "zh": "AI下半场拼什么？汤道生姚顺雨深度对谈！"
+   },
+   "body": {
+    "en": "Shunyu Yao held an in-depth public dialogue with Tencent Cloud's Tang Daosheng on what matters most in AI's next phase.",
+    "zh": "姚顺雨与腾讯云汤道生就AI下半场的核心竞争点进行了深度对谈。"
+   },
+   "source": "t.cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DSjRhUWVfSjdCVzdHaG83S1E4cGcwRDBTenR5Q0t1TEdQRkp4d2R5Wll6a243alRiX2FQVjJzLWVMMFdvYk0wVm1WQnE1UEtMLVNPWmw1X2x3am9XSXQ4VzlFa0ZsRER4ejZmY0JwZ3dTbWxUN1JRVQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-04-24",
+   "ts": "2026-04-24T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "姚顺雨交作业 腾讯迈出“混元重建第一步”",
+    "zh": "姚顺雨交作业 腾讯迈出“混元重建第一步”"
+   },
+   "body": {
+    "en": "Shunyu Yao delivered his first concrete work at Tencent, marking the initial step in rebuilding the Hunyuan model line under his leadership.",
+    "zh": "姚顺雨交出在腾讯的首份\"作业\"，标志着腾讯混元大模型重建工作迈出第一步。"
+   },
+   "source": "cb.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45aHZMeko5RU52UXBscHd1bkRjOHZIaDNBZngyR2xFV2pQeGk3R0dCclphNl80bV9Kd1ZtNnRBaDZzNWFlV3VoREhlVmxTa1FyQjJra3p1WjNhbWN4bXlIcF93?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-04-24",
+   "ts": "2026-04-24T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "大厂最年轻AI一号位姚顺雨交卷：入职腾讯4个月，一边纠偏一边降价",
+    "zh": "大厂最年轻AI一号位姚顺雨交卷：入职腾讯4个月，一边纠偏一边降价"
+   },
+   "body": {
+    "en": "Four months into leading Tencent's merged foundation-model unit, Shunyu Yao gave an update on progress, including course corrections and price cuts.",
+    "zh": "姚顺雨执掌腾讯合并后的大模型部门四个月后交出阶段性成果，包括战略纠偏和降价举措。"
+   },
+   "source": "时代在线",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DVlRYbndpUjJPQWg2RHpMWktTU0Vhdm5DQU9WNHIyUzZJNExNQ1NlVUFER3FJNldwd3pPUUtoX1dGRzZTRWE0SFNlSQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-04-23",
+   "ts": "2026-04-23T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "姚顺雨带队三个月重构混元，Hy3 preview 上线了",
+    "zh": "姚顺雨带队三个月重构混元，Hy3 preview 上线了"
+   },
+   "body": {
+    "en": "Shunyu Yao led a three-month rebuild of Tencent's Hunyuan model, shipping the Hy3 preview.",
+    "zh": "姚顺雨带队用三个月时间重构腾讯混元大模型，推出了Hy3预览版。"
+   },
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5NjVwRlBXemkwMWtEQWctM1RtNExveTRId0U2Z0xZc1BRUjU2cGtUWFM2UTF3aERLWldaQmtXbWQtYVFVcDhIUVdjbGxvc0d5UnhmRG9RVF9ENXpyR3p2a0NJQ0dlT2hpNW1lTzB1Z0lXRlZ2bEFTZDR1MHZ1a0E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-03-22",
+   "ts": "2026-03-22T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "腾讯AI合二为一，姚顺雨第一个大模型混元3.0 稳了？",
+    "zh": "腾讯AI合二为一，姚顺雨第一个大模型混元3.0 稳了？"
+   },
+   "body": {
+    "en": "Following Tencent's merger of its AI teams, Yao is leading development of the group's first flagship model, Hunyuan 3.0.",
+    "zh": "腾讯AI团队合并后，姚顺雨正带领团队打造合并后的首个旗舰大模型混元3.0。"
+   },
+   "source": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpSzVEajhsYXFGaTNkV05PbWVqRnJHYzgyT1RJSG9yRW45dTI1ckpEOS1LNS1KZml6YzNfcm9VR3BVXzRWcWVDdE1mRUtEZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-02-04",
+   "ts": "2026-02-04T08:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "让AI从上下文中学习为何这么难？腾讯姚顺雨团队发布最新研究",
+    "zh": "让AI从上下文中学习为何这么难？腾讯姚顺雨团队发布最新研究"
+   },
+   "body": {
+    "en": "Shunyu Yao's team at Tencent published new research on why in-context learning is difficult for AI models.",
+    "zh": "姚顺雨在腾讯的团队发布了关于AI模型为何难以进行上下文学习的最新研究。"
+   },
+   "source": "潮新闻客户端",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16ZjVaTUVva1NtVU8yVWlhOUI2eC1vOXlkWWhBQjZDSmE1Tm5TOUU1bVdvYUtSSkZtaVBJODlkZVhJMmJYVmlVcE1udmlBZ09RemRUWEh3WQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-02-04",
+   "ts": "2026-02-04T08:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "姚顺雨腾讯首篇论文：给AI下半场指路“上下文学习”",
+    "zh": "姚顺雨腾讯首篇论文：给AI下半场指路“上下文学习”"
+   },
+   "body": {
+    "en": "Coverage of Shunyu Yao's first paper published since joining Tencent, on using in-context learning to guide AI's 'second half.'",
+    "zh": "报道姚顺雨加入腾讯后发表的首篇论文，探讨用\"上下文学习\"为AI下半场指路。"
+   },
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZaG1menlhRTc5ZzAxbkRUa0VRSlRZcGVFYmo4RnJDVUJ6MFVoTVNMNS1Ybm5iVmhEUXpZVC0xVkh5TnJRZzhOY2tmekwwX3ZBVHRtdllGZE9XQzRkbGJ1dmF3RE1FV0phSkRqbUdfYzhFRkF6MFR0dHVIa3dQQQ?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": true,
+ "was": {
+  "en": "Researcher, OpenAI",
+  "zh": "OpenAI 研究员"
+ },
+ "cat": "lab",
+ "score": {
+  "total": 31.8,
+  "attention": 0,
+  "centrality": 50,
+  "momentum": 85,
+  "stature": 2,
+  "pageviews": 93,
+  "citations": 5538,
+  "hIndex": 14,
+  "events": 56,
+  "posts": 37,
+  "wikiEn": "Shunyu Yao",
+  "wikiZh": null
+ },
+ "seedRank": 89,
+ "tier": "t5"
+}

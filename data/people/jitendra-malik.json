@@ -1,0 +1,1666 @@
+{
+ "rank": 78,
+ "id": "jitendra-malik",
+ "name": {
+  "en": "Jitendra Malik",
+  "zh": "Jitendra Malik"
+ },
+ "role": {
+  "en": "Arthur J. Chick Professor, UC Berkeley; Research Director, Meta FAIR",
+  "zh": "UC Berkeley Arthur J. Chick 讲席教授；Meta FAIR 研究总监"
+ },
+ "org": "UC Berkeley / Meta FAIR",
+ "region": {
+  "en": "United States / India",
+  "zh": "美国/印度"
+ },
+ "tags": [
+  "UC Berkeley",
+  "Meta FAIR",
+  "Normalized cuts",
+  "R-CNN",
+  "Embodied vision"
+ ],
+ "why": {
+  "en": "One of computer vision's founding scholars. From image segmentation to embodied vision he has kept setting the direction, and his students hold key positions across the industry.",
+  "zh": "计算机视觉的奠基学者之一，从图像分割到具身视觉持续引领方向，学生遍布产业界要职。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Berkeley page",
+   "url": "https://people.eecs.berkeley.edu/~malik/",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "Meta FAIR",
+   "url": "https://ai.meta.com/research/",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "Berkeley EECS News",
+   "url": "https://eecs.berkeley.edu/news/jitendra-malik-elected-as-a-fellow-of-the-royal-society/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Jitendra+Malik",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Jitendra+Malik",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Jitendra+Malik",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Jitendra+Malik&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Jitendra+Malik&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Jitendra+Malik",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Jitendra+Malik&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Jitendra+Malik",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Jitendra+Malik",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Jitendra+Malik",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Jitendra+Malik",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Jitendra+Malik",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Jitendra+Malik",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Jitendra+Malik",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Jitendra+Malik&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jitendra_Malik",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2000-08-01",
+   "kind": "paper",
+   "title": {
+    "en": "Normalized cuts and image segmentation",
+    "zh": "归一化割与图像分割"
+   },
+   "source": "Berkeley",
+   "url": "https://people.eecs.berkeley.edu/~malik/",
+   "note": {
+    "en": "One of the foundations the whole segmentation line was built on.",
+    "zh": "整条分割研究线赖以建立的基础之一。"
+   }
+  },
+  {
+   "date": "2013-11-11",
+   "kind": "paper",
+   "title": {
+    "en": "Rich feature hierarchies for accurate object detection (R-CNN)",
+    "zh": "面向精确目标检测的丰富特征层次（R-CNN）"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1311.2524",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-09-19",
+   "ts": "2026-09-19T03:55:18Z",
+   "kind": "x",
+   "title": {
+    "en": "Toru raises fundamental concerns with which I agree. It is amazing to see the progress in VLMs such as Astra, building on the work of generations of scientists.",
+    "zh": "Toru raises fundamental concerns with which I agree. It is amazing to see the progress in VLMs such as Astra, building on the work of generations of scientists."
+   },
+   "source": "@jitendramalikcv",
+   "url": "https://x.com/JitendraMalikCV/status/2101158162305036429",
+   "note": {
+    "en": "Malik agreed with a critique that VLMs like Astra fail to cite the generations of prior scientific work they build on.",
+    "zh": "马利克赞同一种批评观点，认为像Astra这样的视觉语言模型没有引用其所依赖的历代科学研究成果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-15",
+   "ts": "2026-09-15T02:02:06Z",
+   "kind": "x",
+   "title": {
+    "en": "In the old days we used to talk about \"graduate student descent\" or \"researcher gradient descent\" as referring to the phase in research where one tries various",
+    "zh": "In the old days we used to talk about \"graduate student descent\" or \"researcher gradient descent\" as referring to the phase in research where one tries various"
+   },
+   "source": "@jitendramalikcv",
+   "url": "https://x.com/JitendraMalikCV/status/2099680122823647681",
+   "note": {
+    "en": "Malik reflects on the earlier era of 'graduate student descent' — the trial-and-error phase of research before more principled methods — offering a historical perspective on how ML research practice has evolved.",
+    "zh": "马利克回顾了早期\"研究生下降法\"（即研究中不断试错的阶段）的说法，从历史视角反思了机器学习研究方法的演变。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T07:44:21Z",
+   "kind": "x",
+   "title": {
+    "en": "An open letter signed by 24 Fields Medalists is worth paying attention. You may want to peruse \"A Severe Misalignment of AI in Mathematics\" https://t.co/8jwxjF8",
+    "zh": "An open letter signed by 24 Fields Medalists is worth paying attention. You may want to peruse \"A Severe Misalignment of AI in Mathematics\" https://t.co/8jwxjF8"
+   },
+   "source": "@jitendramalikcv",
+   "url": "https://x.com/JitendraMalikCV/status/2098679089993580960",
+   "note": {
+    "en": "Jitendra Malik points his followers to an open letter signed by 24 Fields Medalists warning of a severe misalignment in AI-generated mathematics.",
+    "zh": "Jitendra Malik提醒关注者留意一封由24位菲尔兹奖得主联署的公开信，警告AI在数学领域存在严重的“对齐”问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I am seeing claims around LLMs, specifically Astra having made serious progress on robotics. The tasks that are demonstrated are simple pick and place tasks wit",
+    "zh": "I am seeing claims around LLMs, specifically Astra having made serious progress on robotics. The tasks that are demonstrated are simple pick and place tasks wit"
+   },
+   "source": "@jitendramalikcv",
+   "url": "https://x.com/JitendraMalikCV/status/2097173961264284039",
+   "note": {
+    "en": "Malik pushed back on claims that LLMs like Astra have made serious robotics progress, noting demoed tasks are limited to simple pick-and-place with parallel-jaw grippers.",
+    "zh": "Malik反驳了关于Astra等LLM在机器人领域取得重大进展的说法，指出目前演示的任务仅限于平行夹爪的简单抓取放置。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T22:34:44Z",
+   "kind": "x",
+   "title": {
+    "en": "in view of OpenAI's claim about Navier Stokes, it is important that we hear alternative points of view on how it happened. From Tristan Buckmaster, Prof. at NYU",
+    "zh": "in view of OpenAI's claim about Navier Stokes, it is important that we hear alternative points of view on how it happened. From Tristan Buckmaster, Prof. at NYU"
+   },
+   "source": "@jitendramalikcv",
+   "url": "https://x.com/JitendraMalikCV/status/2097453612171759726",
+   "note": {
+    "en": "Malik pushed back on OpenAI's Navier-Stokes claim, pointing to an alternative view from NYU's Tristan Buckmaster.",
+    "zh": "Malik对OpenAI关于Navier-Stokes方程的说法提出质疑，并引用纽约大学Tristan Buckmaster的不同观点。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-08-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Scientific terms should have precision. If we use the terms VLM, VLA, WAM in an indiscriminate fashion, as is becoming common in robotics, we are not helping cl",
+    "zh": "Scientific terms should have precision. If we use the terms VLM, VLA, WAM in an indiscriminate fashion, as is becoming common in robotics, we are not helping cl"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/2091582134955991348",
+   "note": {
+    "en": "Malik argued robotics is using terms like VLM, VLA and WAM too loosely, urging more precision for the sake of clear communication.",
+    "zh": "Malik认为机器人学界对VLM、VLA、WAM等术语的使用过于随意,呼吁更严谨的表述以利于清晰交流。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Nice idea to train to predict future sensory inputs along with action sequences. @ir413 Ilija Radosavovic et al (NeurIPS 2024) showed this for humanoid locomoti",
+    "zh": "Nice idea to train to predict future sensory inputs along with action sequences. @ir413 Ilija Radosavovic et al (NeurIPS 2024) showed this for humanoid locomoti"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/2091565634874474540",
+   "note": {
+    "en": "Malik praised a new approach to predicting future sensory inputs alongside action sequences, noting his student's NeurIPS 2024 work showed the same idea for humanoid locomotion.",
+    "zh": "Malik称赞一种同时预测未来感官输入与动作序列的新方法,并指出他学生在NeurIPS 2024上已就人形机器人运动展示过类似想法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I concur, and the point is broader than just for Biology. Science does not advance by \"pure thinking\" alone. We need to do experiments, and interpret the result",
+    "zh": "I concur, and the point is broader than just for Biology. Science does not advance by \"pure thinking\" alone. We need to do experiments, and interpret the result"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/2085541193379967430",
+   "note": {
+    "en": "Malik argued that science, including biology, cannot advance through 'pure thinking' alone and requires experiments to test and refine hypotheses.",
+    "zh": "Malik指出科学(包括生物学)无法仅靠'纯思考'推进,必须通过实验来检验和完善假设。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-08-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Learning Physical Interaction: A Survey of Tactile- and Force-aware Robot Learning",
+    "zh": "Learning Physical Interaction: A Survey of Tactile- and Force-aware Robot Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.07558v1",
+   "note": {
+    "en": "Survey of tactile- and force-aware robot learning, mapping how robots perceive and regulate physical contact — the contact-rich manipulation line his Berkeley group has driven.",
+    "zh": "关于触觉与力感知机器人学习的综述，梳理机器人如何感知并调节与物理世界的接触，正是他在伯克利的团队长期推进的富接触操作方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Highly performant open weights frontier models such as Kimi are a competitive threat to OpenAI & Anthropic, but probably for everyone else these are a win. Hope",
+    "zh": "Highly performant open weights frontier models such as Kimi are a competitive threat to OpenAI & Anthropic, but probably for everyone else these are a win. Hope"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/2079452067761213587",
+   "note": {
+    "en": "Malik said strong open-weight frontier models like Kimi pose a competitive threat to OpenAI and Anthropic, but are a net win for everyone else, and hoped more US labs would release top open models.",
+    "zh": "Malik表示,像Kimi这样强大的开放权重前沿模型对OpenAI和Anthropic构成竞争威胁,但对其他所有人是净利好,并希望更多美国机构发布顶尖开放模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-07-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Novel approach to training tactile policies..",
+    "zh": "Novel approach to training tactile policies.."
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/2076492139803168840",
+   "note": {
+    "en": "Malik shared a novel approach to training tactile robot policies.",
+    "zh": "Malik分享了一种训练触觉机器人策略的新方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scalable Behavior Cloning with Open Data, Training, and Evaluation",
+    "zh": "Scalable Behavior Cloning with Open Data, Training, and Evaluation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.27375v1",
+   "note": {
+    "en": "Releases ABC, a fully open-source behavior-cloning stack for manipulation, together with ABC-130K, a 3,500-hour teleoperation dataset billed as the largest open one to date.",
+    "zh": "发布全开源的机器人操作模仿学习框架 ABC，并公开 3500 小时的 ABC-130K 遥操作数据集，是目前规模最大的开源同类数据集。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "ForceBand: Learning Forceful Manipulation with sEMG",
+    "zh": "ForceBand: Learning Forceful Manipulation with sEMG"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.26093v1",
+   "note": {
+    "en": "Uses surface EMG from human demonstrators to capture the forces behind a demonstration, so robots can learn forceful manipulation rather than trajectories alone.",
+    "zh": "利用人类演示者的表面肌电信号采集演示背后的用力信息，让机器人学会有力度的操作，而不只是模仿轨迹。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "In computer vision, the field advanced significantly due to openly available datasets and models; hope this will be true in robotics as well.",
+    "zh": "In computer vision, the field advanced significantly due to openly available datasets and models; hope this will be true in robotics as well."
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/2067760322547794007",
+   "note": {
+    "en": "Malik said computer vision advanced significantly thanks to openly available datasets and models, and hoped robotics would follow the same path.",
+    "zh": "Malik表示计算机视觉的显著进步得益于公开可用的数据集与模型,他希望机器人学也能走同样的道路。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We can convert human videos to robot hand-object interaction trajectories in 4D. Enjoy! Paper: https://t.co/AS0ecvTB9I Website: https://t.co/KP4dVqxzUb Code: ht",
+    "zh": "We can convert human videos to robot hand-object interaction trajectories in 4D. Enjoy! Paper: https://t.co/AS0ecvTB9I Website: https://t.co/KP4dVqxzUb Code: ht"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/2067682330760868222",
+   "note": {
+    "en": "Malik's lab released work converting human videos into 4D robot hand-object interaction trajectories, with paper, website and code.",
+    "zh": "Malik实验室发布了将人类视频转换为4D机器人'手-物体'交互轨迹的工作,并公开了论文、网站与代码。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Do as I Do: Dexterous Manipulation Data from Everyday Human Videos",
+    "zh": "Do as I Do: Dexterous Manipulation Data from Everyday Human Videos"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.19333v1",
+   "note": {
+    "en": "Turns everyday human videos into training data for dexterous multi-fingered manipulation, attacking the data bottleneck in robot learning.",
+    "zh": "把日常的人类视频转化为灵巧多指操作的训练数据，针对机器人学习中的数据瓶颈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Contrastive Action-Image Pre-training for Visuomotor Control",
+    "zh": "Contrastive Action-Image Pre-training for Visuomotor Control"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.17256v1",
+   "note": {
+    "en": "Pre-trains visuomotor encoders by contrasting actions against images, addressing the scale bottleneck that makes robot datasets too small for large-scale pre-training.",
+    "zh": "通过动作与图像的对比学习预训练视觉运动编码器，缓解机器人数据集规模不足以支撑大规模预训练的问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "T-Rex: Tactile-Reactive Dexterous Manipulation",
+    "zh": "T-Rex: Tactile-Reactive Dexterous Manipulation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.17055v2",
+   "note": {
+    "en": "A tactile-reactive dexterous manipulation method that lets vision-language-action policies respond to touch signals in real time.",
+    "zh": "提出触觉反应式的灵巧操作方法，让视觉-语言-动作策略能够实时响应触觉信号。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "FARM: Find Anything using Relational Spatial Memory",
+    "zh": "FARM: Find Anything using Relational Spatial Memory"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.15476v3",
+   "note": {
+    "en": "Relational spatial memory that lets a robot find specific object instances in cluttered homes and warehouses, going beyond object-level memory.",
+    "zh": "提出关系型空间记忆，让机器人在杂乱的家庭和仓库环境中找到特定物体实例，超越仅有物体级记忆的做法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I want to offer some unsolicited advice to computer vision researchers jumping into robotics. Don't focus too much on VLMs, VLAs etc. That's fine, but the real",
+    "zh": "I want to offer some unsolicited advice to computer vision researchers jumping into robotics. Don't focus too much on VLMs, VLAs etc. That's fine, but the real"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/2063003262685429778",
+   "note": {
+    "en": "Malik advised computer vision researchers entering robotics not to over-focus on VLMs and VLAs, arguing the real action is at the sensorimotor level.",
+    "zh": "Malik建议转向机器人学的计算机视觉研究者不要过度聚焦VLM、VLA,认为真正的关键在于感觉运动(sensorimotor)层面。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "SAM 3D: 3Dfy Anything in Images received an honorable mention for best paper at CVPR 2026. Even more satisfying, it has enabled learning human-object-interactio",
+    "zh": "SAM 3D: 3Dfy Anything in Images received an honorable mention for best paper at CVPR 2026. Even more satisfying, it has enabled learning human-object-interactio"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/2062985132311818692",
+   "note": {
+    "en": "Malik announced SAM 3D received an honorable mention for best paper at CVPR 2026, and noted it has enabled learning human-object interaction trajectories from video.",
+    "zh": "Malik宣布SAM 3D获得CVPR 2026最佳论文荣誉提名,并指出该工作已助力从视频中学习人-物交互轨迹。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-05-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "MonoDuo: Using One Robot Arm to Learn Bimanual Policies",
+    "zh": "MonoDuo: Using One Robot Arm to Learn Bimanual Policies"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.29298v1",
+   "note": {
+    "en": "Learns bimanual manipulation policies from single-arm robot data, sidestepping the scarcity of two-armed robots and bimanual datasets.",
+    "zh": "用单臂机器人数据学习双臂操作策略，绕开双臂机器人与双臂数据稀缺的限制。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation",
+    "zh": "Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.28812v1",
+   "note": {
+    "en": "A physics-grounded contact representation that narrows the sim-to-real gap for contact-rich dexterous manipulation.",
+    "zh": "提出基于物理的接触表征，缩小富接触灵巧操作中的仿真到真实差距。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We have seen some impressive robot manipulation policies recently. This is great, but for these results to be convincing (and practical) we should insist on gen",
+    "zh": "We have seen some impressive robot manipulation policies recently. This is great, but for these results to be convincing (and practical) we should insist on gen"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/2052587158511493385",
+   "note": {
+    "en": "Malik argued that recent robot manipulation policies need to demonstrate generalization across object locations and other conditions to be convincing and practical.",
+    "zh": "Malik认为,近期的机器人操作策略要真正令人信服和具备实用性,必须证明其在物体位置等条件上的泛化能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "World Model for Robot Learning: A Comprehensive Survey",
+    "zh": "World Model for Robot Learning: A Comprehensive Survey"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.00080v1",
+   "note": {
+    "en": "Survey of world models in robot learning, covering their use for policy learning, planning, simulation and evaluation.",
+    "zh": "关于机器人学习中世界模型的综述，覆盖其在策略学习、规划、仿真与评测中的应用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I see every week on X an announcement or demo which implies that robotic manipulation has been solved. The only reason I don't believe it is because manipulatio",
+    "zh": "I see every week on X an announcement or demo which implies that robotic manipulation has been solved. The only reason I don't believe it is because manipulatio"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/2043151767295475935",
+   "note": {
+    "en": "Malik pushed back on frequent claims that robotic manipulation has been 'solved,' arguing each week's demo is quickly superseded, which shows the problem remains open.",
+    "zh": "Malik反驳了'机器人操作已被解决'的频繁言论,指出每周都有新演示很快被超越,这恰恰说明该问题仍未解决。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "In robotics manipulation, we see many cherry picked demos but no standardized benchmarks. I suggest using STT (Success weighted by normalized inverse Task Time)",
+    "zh": "In robotics manipulation, we see many cherry picked demos but no standardized benchmarks. I suggest using STT (Success weighted by normalized inverse Task Time)"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/2041286654384869794",
+   "note": {
+    "en": "Malik proposed a standardized benchmark metric for robot manipulation, STT (Success weighted by normalized inverse Task Time), analogous to navigation's SPL.",
+    "zh": "Malik提出了一个机器人操作的标准化评测指标STT(按归一化任务时间倒数加权的成功率),类比导航领域的SPL指标。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Rapid progress in world model space. This paper uses point tracks as representation, enabling long range forecasting of animal motion. Led by my PhD student @ne",
+    "zh": "Rapid progress in world model space. This paper uses point tracks as representation, enabling long range forecasting of animal motion. Led by my PhD student @ne"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/2039825381100753009",
+   "note": {
+    "en": "Malik highlighted his PhD student's paper using point tracks to forecast animal motion over long horizons, work from a DeepMind internship.",
+    "zh": "Malik介绍了其博士生的一篇论文,该工作利用点轨迹(point tracks)对动物运动进行长时程预测,成果来自其在DeepMind的实习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-04-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Forecasting Motion in the Wild",
+    "zh": "Forecasting Motion in the Wild"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.01015v1",
+   "note": {
+    "en": "Proposes dense point trajectories as visual tokens for anticipating how agents move, giving vision systems a general representation of motion and behavior.",
+    "zh": "提出以稠密点轨迹作为视觉 token 来预测智能体的运动，为视觉系统提供通用的运动与行为表征。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-29",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Teleoperation was pioneered ~1950 to remotely handle radioactive material. When we use it today to collect robot trajectories for BC, it is still clumsy. Surely",
+    "zh": "Teleoperation was pioneered ~1950 to remotely handle radioactive material. When we use it today to collect robot trajectories for BC, it is still clumsy. Surely"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/2038370379576869004",
+   "note": {
+    "en": "Malik traced teleoperation back to 1950s remote handling of radioactive material, arguing today's use for collecting robot demonstrations is still clumsy and hinting human video is a better path.",
+    "zh": "Malik回顾了遥操作技术始于上世纪50年代的放射性物质远程处理,认为如今用其采集机器人演示数据仍显笨拙,并暗示人类视频可能是更好的路径。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "My keynote talk at @3DVconf gave an intellectual history of reconstructing 3D from a single image, from Roberts (1963) to SAM 3D (2025), and sketched its potent",
+    "zh": "My keynote talk at @3DVconf gave an intellectual history of reconstructing 3D from a single image, from Roberts (1963) to SAM 3D (2025), and sketched its potent"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/2037317839598842061",
+   "note": {
+    "en": "Malik's keynote at 3DV traced the intellectual history of single-image 3D reconstruction from Roberts (1963) to SAM 3D, and sketched its potential for training robots.",
+    "zh": "Malik在3DV会议的主旨演讲回顾了从Roberts(1963年)到SAM 3D的单图像3D重建学术史,并展望了其在训练机器人方面的潜力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "With Emmanuel Dupoux https://t.co/hXpYcacDfs and Yann LeCun @ylecun, we consider a cognitive science inspired AI. We analyse how autonomous learning works in li",
+    "zh": "With Emmanuel Dupoux https://t.co/hXpYcacDfs and Yann LeCun @ylecun, we consider a cognitive science inspired AI. We analyse how autonomous learning works in li"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/2034160125527875594",
+   "note": {
+    "en": "With Emmanuel Dupoux and Yann LeCun, Malik analyzed how autonomous learning works in living organisms and proposed a roadmap for cognitive-science-inspired AI.",
+    "zh": "Malik与Emmanuel Dupoux、Yann LeCun合作,分析了生物体中自主学习的运作方式,并提出了一份受认知科学启发的AI研究路线图。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-03-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Why AI systems don't learn and what to do about it: Lessons on autonomous learning from cognitive science",
+    "zh": "Why AI systems don't learn and what to do about it: Lessons on autonomous learning from cognitive science"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.15381v1",
+   "note": {
+    "en": "Position paper arguing that today's AI models cannot learn autonomously, proposing an architecture drawn from human and animal cognition — the sensorimotor case he has made publicly for years.",
+    "zh": "一篇立场论文，论证当前 AI 模型无法自主学习，并提出借鉴人与动物认知的学习架构，延续他多年来公开主张的感觉运动路线。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "PTLD: Sim-to-real Privileged Tactile Latent Distillation for Dexterous Manipulation",
+    "zh": "PTLD: Sim-to-real Privileged Tactile Latent Distillation for Dexterous Manipulation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.04531v3",
+   "note": {
+    "en": "Distills privileged tactile information available only in simulation into a policy that runs on a real dexterous hand.",
+    "zh": "把仅在仿真中可得的特权触觉信息蒸馏到可在真实灵巧手上运行的策略中。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference",
+    "zh": "How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.03280v1",
+   "note": {
+    "en": "Aligns fine-grained, force-sensitive manipulation such as peeling with human preference, targeting the contact-rich tasks robots still cannot do.",
+    "zh": "把削皮这类精细且对力度敏感的操作与人类偏好对齐，瞄准机器人仍无法胜任的富接触任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "D-REX: Differentiable Real-to-Sim-to-Real Engine for Learning Dexterous Grasping",
+    "zh": "D-REX: Differentiable Real-to-Sim-to-Real Engine for Learning Dexterous Grasping"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.01151v1",
+   "note": {
+    "en": "A differentiable real-to-sim-to-real engine for learning dexterous grasping, built to close the gap between simulated and real dynamics.",
+    "zh": "提出可微分的真实-仿真-真实引擎用于学习灵巧抓取，旨在弥合仿真与真实动力学之间的差距。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Pretraining with dynamics models of motor behavior (aka world models) from video will be much more central to robotics than VLMs. There are multiple choices of",
+    "zh": "Pretraining with dynamics models of motor behavior (aka world models) from video will be much more central to robotics than VLMs. There are multiple choices of"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/2025316024632181125",
+   "note": {
+    "en": "Malik argued pretraining on video-derived dynamics models ('world models') of motor behavior will matter more to robotics than VLMs, though the right representation remains open.",
+    "zh": "Malik认为,基于视频学习运动动力学'世界模型'进行预训练,对机器人学的重要性将超过VLM,但最佳表示形式仍是开放问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Human-level 3D shape perception emerges from multi-view learning",
+    "zh": "Human-level 3D shape perception emerges from multi-view learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.17650v2",
+   "note": {
+    "en": "Shows that human-level 3D shape perception can emerge from multi-view learning, tying vision models to how people infer 3D structure from 2D input.",
+    "zh": "表明人类水平的三维形状感知可以从多视角学习中涌现，将视觉模型与人类从二维输入推断三维结构的方式联系起来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SAM 3D Body: Robust Full-Body Human Mesh Recovery",
+    "zh": "SAM 3D Body: Robust Full-Body Human Mesh Recovery"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.15989v1",
+   "note": {
+    "en": "A promptable model for full-body 3D human mesh recovery from a single image, continuing the human-mesh line of his FAIR group.",
+    "zh": "提出可提示的单图全身三维人体网格重建模型，延续他在 FAIR 的人体网格重建工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "A very nice talk from my PhD student, Toru Lin, filled with great results on dexterous manipulation. Enjoy!",
+    "zh": "A very nice talk from my PhD student, Toru Lin, filled with great results on dexterous manipulation. Enjoy!"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/2023461422529999104",
+   "note": {
+    "en": "Malik shared a talk by his PhD student Toru Lin showcasing strong results on dexterous manipulation.",
+    "zh": "Malik分享了其博士生Toru Lin的一场演讲,展示了灵巧操作方面的出色成果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "TactAlign: Human-to-Robot Policy Transfer via Tactile Alignment",
+    "zh": "TactAlign: Human-to-Robot Policy Transfer via Tactile Alignment"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.13579v1",
+   "note": {
+    "en": "Transfers manipulation policies from tactile-glove human demonstrations to robots by aligning the human and robot tactile signals.",
+    "zh": "通过对齐人与机器人的触觉信号，把触觉手套采集的人类演示策略迁移到机器人上。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "At the RI seminar at CMU yesterday, I presented a 3 level analysis of robot skills &amp; discussed the pros and cons of teleoperation, simulation, and learning",
+    "zh": "At the RI seminar at CMU yesterday, I presented a 3 level analysis of robot skills &amp; discussed the pros and cons of teleoperation, simulation, and learning"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/2022766577737728148",
+   "note": {
+    "en": "At a CMU Robotics Institute seminar, Malik presented a three-level analysis of robot skills and weighed teleoperation, simulation and learning-from-video approaches.",
+    "zh": "在CMU机器人研究所的一场研讨会上,Malik提出了机器人技能的三层次分析框架,并权衡了遥操作、仿真与视频学习等方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "It's great to see the excitement these days about world models and their applications in robotics. World models predate deep learning, and if you're curious, he",
+    "zh": "It's great to see the excitement these days about world models and their applications in robotics. World models predate deep learning, and if you're curious, he"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/2019995305773777093",
+   "note": {
+    "en": "Malik noted world models predate deep learning and pointed to his own history talk on the topic, starting from Craik's early cybernetics work.",
+    "zh": "Malik指出'世界模型'的概念早于深度学习,并分享了他自己关于该主题的历史回顾讲座,追溯至Craik早期的控制论工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-02-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos",
+    "zh": "DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.06949v1",
+   "note": {
+    "en": "A generalist robot world model trained on large-scale human video, simulating the outcomes of actions for dexterous agents.",
+    "zh": "基于大规模人类视频训练的通用机器人世界模型，用于模拟灵巧智能体动作的结果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-24",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Now that phantom citations hallucinated by LLMs have been found in NeurIPS papers, what is to be done? Develop a software tool that authors are expected to run",
+    "zh": "Now that phantom citations hallucinated by LLMs have been found in NeurIPS papers, what is to be done? Develop a software tool that authors are expected to run"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/2014938867980456016",
+   "note": {
+    "en": "After LLM-hallucinated 'phantom citations' were found in NeurIPS papers, Malik proposed a required tool for authors to verify references against Google Scholar.",
+    "zh": "在发现NeurIPS论文中存在LLM幻觉出的'虚假引用'后,Malik提议要求作者使用工具对照Google Scholar核实参考文献。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-01-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "1/4 For the last several years I worked part-time at the FAIR lab at Meta, in addition to being a professor at UC Berkeley. That phase is now over, and starting",
+    "zh": "1/4 For the last several years I worked part-time at the FAIR lab at Meta, in addition to being a professor at UC Berkeley. That phase is now over, and starting"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/2007612632564674724",
+   "note": {
+    "en": "Malik announced that after years working part-time at Meta FAIR alongside his UC Berkeley professorship, that phase has ended, and as of January 5 he is leading a new robotics research effort.",
+    "zh": "Malik宣布,在UC Berkeley教职之外于Meta FAIR兼职工作多年后,这一阶段已经结束,自1月5日起他将领导一项新的机器人研究工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-31",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Coordinated Humanoid Manipulation with Choice Policies",
+    "zh": "Coordinated Humanoid Manipulation with Choice Policies"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.25072v1",
+   "note": {
+    "en": "Whole-body humanoid manipulation system that coordinates head, hands and legs through choice policies.",
+    "zh": "提出通过选择型策略协调头、手和腿的人形机器人全身操作系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Tracking by Predicting 3-D Gaussians Over Time",
+    "zh": "Tracking by Predicting 3-D Gaussians Over Time"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.22489v2",
+   "note": {
+    "en": "Self-supervised video representation that encodes image sequences as Gaussian splats moving over time, yielding tracking as a by-product.",
+    "zh": "自监督视频表征方法，把图像序列编码为随时间运动的高斯基元，并顺带得到跟踪能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Diffusion Forcing for Multi-Agent Interaction Sequence Modeling",
+    "zh": "Diffusion Forcing for Multi-Agent Interaction Sequence Modeling"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.17900v2",
+   "note": {
+    "en": "Models and generates multi-person interaction sequences with diffusion forcing, aimed at robotics and social computing.",
+    "zh": "用 diffusion forcing 建模并生成多人交互序列，面向机器人与社会计算应用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Large Video Planner Enables Generalizable Robot Control",
+    "zh": "Large Video Planner Enables Generalizable Robot Control"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2512.15840v2",
+   "note": {
+    "en": "A large video planner built on multimodal foundation models that generalizes robot control across tasks and environments.",
+    "zh": "基于多模态基础模型的大型视频规划器，让机器人控制能够跨任务与环境泛化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "(5/5)As it is becoming abundantly clear that the current hyper-scaling paradigm for LLMs is not going to lead to AGI / superintelligence, perhaps it is time to",
+    "zh": "(5/5)As it is becoming abundantly clear that the current hyper-scaling paradigm for LLMs is not going to lead to AGI / superintelligence, perhaps it is time to"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/1995705836761686523",
+   "note": {
+    "en": "Closing his thread on AI lab publication norms, Malik suggested that as hyper-scaling looks unlikely to reach AGI, labs may have reason to return to a more cooperative, open publication strategy.",
+    "zh": "在关于AI实验室发表规范的系列推文结尾,Malik认为既然超大规模扩展似乎难以通向AGI,各实验室或有理由重新采取更合作、开放的发表策略。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "(4/5)Sadly, this is no longer true. Open AI’s ChatGPT success was accompanied by their decision to no longer reveal the details of their training strategy – all",
+    "zh": "(4/5)Sadly, this is no longer true. Open AI’s ChatGPT success was accompanied by their decision to no longer reveal the details of their training strategy – all"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/1995705724748599526",
+   "note": {
+    "en": "Malik argued OpenAI's post-ChatGPT shift to withholding training details broke the earlier norm of open publication needed for replication.",
+    "zh": "Malik认为OpenAI在ChatGPT成功后转向保密训练细节,打破了此前支持复现的开放发表惯例。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "(3/5)2016-2021 was a wonderful period for AI research precisely because the leading labs at the time – FAIR, Deep Mind, Google, Open AI – were all publishing fr",
+    "zh": "(3/5)2016-2021 was a wonderful period for AI research precisely because the leading labs at the time – FAIR, Deep Mind, Google, Open AI – were all publishing fr"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/1995705641558835659",
+   "note": {
+    "en": "Malik recalled 2016-2021 as a golden era for AI research because leading labs like FAIR, DeepMind, Google and OpenAI published freely and built on each other's work.",
+    "zh": "Malik回顾2016至2021年是AI研究的黄金时期,因为FAIR、DeepMind、谷歌和OpenAI等顶尖实验室当时都自由发表成果并相互借鉴。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "(2/5)However if just one lab publishes and the other doesn’t, the lab which doesn’t publish (“defect” in prisoner’s dilemma jargon) than that lab will have an a",
+    "zh": "(2/5)However if just one lab publishes and the other doesn’t, the lab which doesn’t publish (“defect” in prisoner’s dilemma jargon) than that lab will have an a"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/1995705540429971520",
+   "note": {
+    "en": "Using game theory, Malik argued a lab that stops publishing gains an advantage over one that keeps sharing, framing it as a 'defect' move in a prisoner's dilemma.",
+    "zh": "Malik用博弈论分析称,停止发表的实验室相对于持续开放的实验室会获得优势,将其类比为囚徒困境中的'背叛'策略。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-12-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "(1/5) Open Publication and the Prisoners dilemma. The prisoner’s dilemma game can offer us much insight into the publication strategy of leading industrial AI r",
+    "zh": "(1/5) Open Publication and the Prisoners dilemma. The prisoner’s dilemma game can offer us much insight into the publication strategy of leading industrial AI r"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/1995705427070537870",
+   "note": {
+    "en": "Malik opened a thread applying the prisoner's dilemma to explain the publication strategies of leading industrial AI research labs.",
+    "zh": "Malik开启了一个系列推文,用囚徒困境模型来解释各大工业界AI实验室的发表策略。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-11-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We can now 3dfy any object from a single real world image. This has been a holy grail in computer vision for many decades. Try it here (you can upload your own",
+    "zh": "We can now 3dfy any object from a single real world image. This has been a holy grail in computer vision for many decades. Try it here (you can upload your own"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/1991242760796373123",
+   "note": {
+    "en": "Malik's lab announced the ability to reconstruct 3D models of any object from a single real-world image, calling it a decades-long holy grail in computer vision, with a public try-it demo.",
+    "zh": "Malik实验室宣布能够从单张真实世界图像重建任意物体的3D模型,称这是计算机视觉领域数十年来的'圣杯'难题,并提供了公开试用演示。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-07-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "@prfsanjeevarora Congrats, OpenAI Team! And yes, you win our bet, Sanjeev. FYI for the curious: I had bet against \"Some AI model will be able to perform at IMO",
+    "zh": "@prfsanjeevarora Congrats, OpenAI Team! And yes, you win our bet, Sanjeev. FYI for the curious: I had bet against \"Some AI model will be able to perform at IMO"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/1947172521658507644",
+   "note": {
+    "en": "Malik conceded a public bet with Sanjeev Arora after an OpenAI model reached IMO gold-medal level performance, a threshold he had wagered would not be met by May 2026.",
+    "zh": "Malik与Sanjeev Arora打赌某AI模型无法在2026年5月前达到IMO金牌水平,OpenAI的模型做到了,他公开认输。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Again the power of tactile sensing and multi-finger hands comes through. This is the future of dexterous manipulation!",
+    "zh": "Again the power of tactile sensing and multi-finger hands comes through. This is the future of dexterous manipulation!"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/1943353418560508003",
+   "note": {
+    "en": "Malik highlighted a demo of tactile sensing and multi-finger hands as evidence for where dexterous robot manipulation is headed.",
+    "zh": "Malik指出一段触觉传感与多指灵巧手的演示,认为这代表了灵巧机器人操作的未来方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-05-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Angjoo Kanazawa @akanazawa and I taught CS 280, graduate computer vision, this semester at UC Berkeley. We found a combination of classical and modern CV materi",
+    "zh": "Angjoo Kanazawa @akanazawa and I taught CS 280, graduate computer vision, this semester at UC Berkeley. We found a combination of classical and modern CV materi"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/1921356730803364079",
+   "note": {
+    "en": "Malik and Angjoo Kanazawa shared that their UC Berkeley graduate computer vision course (CS 280) this semester blended classical and modern material successfully, with course content forthcoming.",
+    "zh": "Malik与Angjoo Kanazawa分享,他们在UC Berkeley开设的研究生计算机视觉课程CS 280将经典与现代内容结合得很成功,课程材料即将公开。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-05-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Enjoy watching a humanoid walking around UC Berkeley. It only looks inebriated :-)",
+    "zh": "Enjoy watching a humanoid walking around UC Berkeley. It only looks inebriated :-)"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/1920326155657494978",
+   "note": {
+    "en": "Malik shared a video of a humanoid robot walking around UC Berkeley, showcasing his lab's embodied-AI progress.",
+    "zh": "Malik分享了一段人形机器人在UC Berkeley校园行走的视频,展示他实验室在具身智能方面的进展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-01-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I'm happy to post course materials for my class at UC Berkeley \"Robots that Learn\", taught with the outstanding assistance of @ToruO_O. Lecture videos at https:",
+    "zh": "I'm happy to post course materials for my class at UC Berkeley \"Robots that Learn\", taught with the outstanding assistance of @ToruO_O. Lecture videos at https:"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/1876072144020644198",
+   "note": {
+    "en": "Malik posted lecture videos and notes from his UC Berkeley course 'Robots that Learn,' taught with Toru Lin.",
+    "zh": "Malik公开了他与Toru Lin共同讲授的UC Berkeley课程《Robots that Learn》的讲座视频与笔记。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-12-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Happy to share these exciting new results on video synthesis of humans in movement. Arguably, these establish the power of having explicit 3D representations. P",
+    "zh": "Happy to share these exciting new results on video synthesis of humans in movement. Arguably, these establish the power of having explicit 3D representations. P"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/1871252153542844724",
+   "note": {
+    "en": "Malik shared new results on video synthesis of humans in motion, arguing explicit 3D representations outperform models like Sora on this task.",
+    "zh": "Malik分享了人体运动视频合成的新成果,认为显式3D表示在此任务上优于Sora等模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-12-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "@deedydas Having 3D representations of the humans may be the way to fix this problem. Check out https://t.co/g8eAlfb6ih",
+    "zh": "@deedydas Having 3D representations of the humans may be the way to fix this problem. Check out https://t.co/g8eAlfb6ih"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/1871254201940193516",
+   "note": {
+    "en": "Replying to a critique of video generation, Malik argued explicit 3D human representations could fix the flaw, linking to a demo.",
+    "zh": "针对一条对视频生成的批评,Malik回应称显式的人体3D表示或可解决该问题,并附上演示链接。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-11-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "@animesh_garg @corl_conf I am honored to be accepted into the robotics community. Many of the central problems on the way to \"AGI\" lie in the space of robotics",
+    "zh": "@animesh_garg @corl_conf I am honored to be accepted into the robotics community. Many of the central problems on the way to \"AGI\" lie in the space of robotics"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/1856368804034687408",
+   "note": {
+    "en": "Accepting a robotics community honor, Malik argued many of the central problems on the path to AGI lie in robotics and embodied AI.",
+    "zh": "在接受机器人学界的一项认可时,Malik表示通往AGI的许多核心问题其实在于机器人学与具身智能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-09-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Autoregressive modeling is not just for language, it can equally be used to model human behavior. This paper shows how..",
+    "zh": "Autoregressive modeling is not just for language, it can equally be used to model human behavior. This paper shows how.."
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/1838776529524027868",
+   "note": {
+    "en": "Malik pointed to a paper showing autoregressive modeling, the technique behind LLMs, can also be used to model human behavior.",
+    "zh": "Malik介绍了一篇论文,展示自回归建模(语言模型背后的技术)同样可用于建模人类行为。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-04-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "@ToruO_O There have been impressive recent results using tele-op trajectories for training robot policies. These are typically for hands that are parallel jaw g",
+    "zh": "@ToruO_O There have been impressive recent results using tele-op trajectories for training robot policies. These are typically for hands that are parallel jaw g"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/1783925765840769510",
+   "note": {
+    "en": "In a technical exchange on tele-operation for robot training, Malik noted recent results are mostly limited to parallel-jaw grippers, work led in his lab.",
+    "zh": "在关于遥操作训练机器人的技术讨论中,Malik指出近期成果大多局限于平行夹爪,相关工作由他实验室主导。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-04-10",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "@jane_h_wu @geopavlakos @georgiagkioxari Exciting results on the ability to 3dfy hands and objects given only a single image. This could pave the way for traini",
+    "zh": "@jane_h_wu @geopavlakos @georgiagkioxari Exciting results on the ability to 3dfy hands and objects given only a single image. This could pave the way for traini"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/1778115987889328447",
+   "note": {
+    "en": "Malik called out new results letting robots '3D-ify' hands and objects from a single image, calling it a path toward training manipulation policies.",
+    "zh": "Malik称赞一项能从单张图像'3D化'手与物体的新成果,认为这为训练操作策略提供了路径。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-03-06",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Another success of sim-to-real for training robot policies! This task, using two multi-fingered hands, requires considerable dexterity, and is hopefully represe",
+    "zh": "Another success of sim-to-real for training robot policies! This task, using two multi-fingered hands, requires considerable dexterity, and is hopefully represe"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/1765184895725498427",
+   "note": {
+    "en": "Malik shared a sim-to-real success using two multi-fingered robot hands on a dexterous task, calling it representative of household manipulation challenges.",
+    "zh": "Malik分享了一项使用双多指机械手完成灵巧任务的仿真到真实(sim-to-real)成果,认为其代表了家庭场景中的操作挑战。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-03-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We cast real-world humanoid control as a next token prediction problem, akin to predicting the next word in language. Check out our robot walking in San Francis",
+    "zh": "We cast real-world humanoid control as a next token prediction problem, akin to predicting the next word in language. Check out our robot walking in San Francis"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/1763440743312752794",
+   "note": {
+    "en": "Malik's lab framed real-world humanoid control as next-token prediction, akin to language modeling, demonstrated on a robot walking in San Francisco.",
+    "zh": "Malik实验室将真实世界的人形机器人控制建模为类似语言模型的'下一步预测'任务,并在旧金山街头演示了机器人行走。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-01-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Want to make your photorealistic 3D avatar dance like your favorite actor? Check this out!",
+    "zh": "Want to make your photorealistic 3D avatar dance like your favorite actor? Check this out!"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/1749685245329420658",
+   "note": {
+    "en": "Malik shared a demo letting a photorealistic 3D avatar mimic the dance moves of a favorite actor.",
+    "zh": "Malik分享了一个演示,可让照片级真实感的3D虚拟形象模仿指定演员的舞蹈动作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-12-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Happy to present LVM (Large Vision Model). Scalable and tasks can be specified via prompts. Enjoy!",
+    "zh": "Happy to present LVM (Large Vision Model). Scalable and tasks can be specified via prompts. Enjoy!"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/1731553367217070413",
+   "note": {
+    "en": "Malik announced LVM (Large Vision Model), a scalable vision model whose tasks can be specified via prompts.",
+    "zh": "Malik发布了LVM(大型视觉模型),这是一个可通过提示词指定任务的可扩展视觉模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-10-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "@fdellaert @maththrills @rodneyabrooks @hiskov @pabbeel @GeorgiaChal @TobiasRobotics @ian__manchester @navindak Frank, That was a tongue-in-cheek remark not to",
+    "zh": "@fdellaert @maththrills @rodneyabrooks @hiskov @pabbeel @GeorgiaChal @TobiasRobotics @ian__manchester @navindak Frank, That was a tongue-in-cheek remark not to"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/1712668870723662069",
+   "note": {
+    "en": "In a multi-way exchange with robotics researchers, Malik clarified an earlier remark and restated his view on the field's direction.",
+    "zh": "在与多位机器人学者的讨论中,Malik澄清了此前的一句评论,并重申了他对该领域方向的看法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-08-17",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Jitendra Malik: Building AI from the ground-up, sensorimotor before language",
+    "zh": "Jitendra Malik: Building AI from the ground-up, sensorimotor before language"
+   },
+   "source": "The Robot Brains Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/jitendra-malik-building-ai-from-the-ground-up/id1559275284?i=1000624716171&uo=4",
+   "note": {
+    "en": "Long-form conversation with Pieter Abbeel on The Robot Brains Podcast, making the case for building AI from the ground up with sensorimotor intelligence before language.",
+    "zh": "在 The Robot Brains 播客中与 Pieter Abbeel 的长篇对谈，主张自下而上构建 AI，感觉运动智能先于语言。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-07-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We can now reconstruct 3D humans from single images (forthcoming, ICCV 2023). Model available to try on your images / videos at https://t.co/sGj6ZfMHvg",
+    "zh": "We can now reconstruct 3D humans from single images (forthcoming, ICCV 2023). Model available to try on your images / videos at https://t.co/sGj6ZfMHvg"
+   },
+   "source": "@JitendraMalikCV",
+   "url": "https://x.com/JitendraMalikCV/status/1681175664848949249",
+   "note": {
+    "en": "Malik's lab announced a model that reconstructs 3D humans from single images, forthcoming at ICCV 2023, with a public demo.",
+    "zh": "Malik实验室发布了一个能从单张图像重建3D人体的模型(将在ICCV 2023发表),并提供公开演示。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-03-24",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Jitendra Malik on the sensorimotor road to artificial intelligence",
+    "zh": "Jitendra Malik on the sensorimotor road to artificial intelligence"
+   },
+   "source": "Berkeley Talks",
+   "url": "https://podcasts.apple.com/us/podcast/jitendra-malik-on-the-sensorimotor-road-to-artificial/id1445592627?i=1000605800033&uo=4",
+   "note": {
+    "en": "His 2023 Martin Meyerson Berkeley Faculty Research Lecture, \"The sensorimotor road to artificial intelligence\", published as a Berkeley Talks episode.",
+    "zh": "他 2023 年的 Martin Meyerson 伯克利教授研究讲座《通往人工智能的感觉运动之路》，由 Berkeley Talks 播客发布。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2020-11-06",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "S1E6: Jitendra Malik with Devi Parikh",
+    "zh": "S1E6: Jitendra Malik with Devi Parikh"
+   },
+   "source": "Humans of AI: Stories, Not Stats",
+   "url": "https://podcasts.apple.com/us/podcast/s1e6-jitendra-malik-with-devi-parikh/id1533570207?i=1000497473750&uo=4",
+   "note": {
+    "en": "Interview with Devi Parikh on Humans of AI, covering his path through computer vision at Berkeley and FAIR.",
+    "zh": "在 Humans of AI 播客中接受 Devi Parikh 访谈，谈他在伯克利与 FAIR 的计算机视觉研究历程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2020-07-21",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#110 – Jitendra Malik: Computer Vision",
+    "zh": "#110 – Jitendra Malik: Computer Vision"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/110-jitendra-malik-computer-vision/id1434243584?i=1000485671396&uo=4",
+   "note": {
+    "en": "Lex Fridman Podcast interview on computer vision before and after the deep learning revolution, from one of the field's seminal figures.",
+    "zh": "在 Lex Fridman 播客中的访谈，作为计算机视觉领域的奠基性人物，谈深度学习革命前后的这门学科。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "research",
+ "score": {
+  "total": 29.8,
+  "attention": 21,
+  "centrality": 14,
+  "momentum": 42,
+  "stature": 81,
+  "pageviews": 12954,
+  "citations": 168758,
+  "hIndex": 144,
+  "events": 0,
+  "posts": 79,
+  "wikiEn": "Jitendra Malik",
+  "wikiZh": "希特德拉·馬利克"
+ },
+ "seedRank": 84,
+ "tier": "t5"
+}

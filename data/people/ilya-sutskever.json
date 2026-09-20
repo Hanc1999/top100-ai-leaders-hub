@@ -1,0 +1,1359 @@
+{
+ "rank": 12,
+ "id": "ilya-sutskever",
+ "name": {
+  "en": "Ilya Sutskever",
+  "zh": "Ilya Sutskever"
+ },
+ "role": {
+  "en": "Co-founder & Chief Scientist, Safe Superintelligence (SSI)",
+  "zh": "Safe Superintelligence (SSI) 联合创始人兼首席科学家"
+ },
+ "org": "SSI",
+ "region": {
+  "en": "United States / Canada",
+  "zh": "美国/加拿大"
+ },
+ "tags": [
+  "SSI",
+  "Superintelligence",
+  "AlexNet",
+  "seq2seq",
+  "No product"
+ ],
+ "why": {
+  "en": "Co-author of AlexNet and seq2seq, and the technical soul of the GPT line. Since leaving OpenAI he has run the only major lab with no product and a public commitment to keep it that way until the mission is done.",
+  "zh": "AlexNet 与 seq2seq 的共同作者，GPT 系列的技术灵魂。离开 OpenAI 后，他经营着唯一一家没有产品、并公开承诺在使命完成前都不会有产品的主要实验室。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@ilyasut",
+   "url": "https://x.com/ilyasut",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "Safe Superintelligence",
+   "url": "https://ssi.inc/",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "SSI Updates",
+   "url": "https://ssi.inc/updates",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Ilya+Sutskever",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Ilya+Sutskever",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Ilya+Sutskever",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Ilya+Sutskever&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Ilya+Sutskever&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Ilya+Sutskever",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Ilya+Sutskever&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Ilya+Sutskever",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?user=x04W_mMAAAAJ&hl=en",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Ilya+Sutskever",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Ilya+Sutskever",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Ilya+Sutskever",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Ilya+Sutskever",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Ilya+Sutskever",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Ilya+Sutskever&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ilya_Sutskever",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2025-11-25",
+   "kind": "podcast",
+   "title": {
+    "en": "On the age of scaling ending and the next age of research",
+    "zh": "关于扩展时代的终结与下一个研究时代"
+   },
+   "source": "Dwarkesh Podcast",
+   "url": "https://www.dwarkesh.com/",
+   "note": {
+    "en": "Frames 2012–2020 as an age of research, 2020–2025 as an age of scaling, and 2026 onward as another age of research. Says models are excellent at evals while economic impact lags.",
+    "zh": "将 2012–2020 视为研究时代、2020–2025 视为扩展时代、2026 之后是又一个研究时代。并称模型在评测上极强，而经济影响滞后。"
+   }
+  },
+  {
+   "date": "2024-12-13",
+   "kind": "talk",
+   "title": {
+    "en": "Pre-training as we know it will end",
+    "zh": "我们所知的预训练将会终结"
+   },
+   "source": "NeurIPS 2024",
+   "url": "https://www.youtube.com/results?search_query=ilya+sutskever+neurips+2024",
+   "note": {
+    "en": "The finite-data argument, delivered to a packed research audience.",
+    "zh": "面向满场研究者提出的「数据有限」论证。"
+   }
+  },
+  {
+   "date": "2026-06-04",
+   "kind": "podcast",
+   "title": {
+    "en": "Second Dwarkesh interview — AGI, ASI, and building both safely",
+    "zh": "第二次 Dwarkesh 访谈 —— AGI、ASI，以及如何安全地建造两者"
+   },
+   "source": "Dwarkesh Podcast",
+   "url": "https://www.dwarkesh.com/",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-09-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Neoclouds have limited cybersecurity. Next time agents successfully go rouge, they'll try taking over a neocloud to run more copies. This is bad. Thus: neocloud",
+    "zh": "Neoclouds have limited cybersecurity. Next time agents successfully go rouge, they'll try taking over a neocloud to run more copies. This is bad. Thus: neocloud"
+   },
+   "source": "@ilyasut",
+   "url": "https://x.com/ilyasut/status/2094881278621253755",
+   "note": {
+    "en": "Sutskever warns that as agents increasingly run on neoclouds with weak security, those providers become targets for rogue-agent takeover, and argues neoclouds must harden their cybersecurity now.",
+    "zh": "Sutskever警告，随着智能体越来越多运行在安全防护薄弱的neocloud上，这些云服务商将成为失控智能体夺取算力的目标，呼吁neocloud立即加强网络安全。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-07-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "AlexNet Source Code",
+    "zh": "AlexNet Source Code"
+   },
+   "source": "Kaggle",
+   "url": "https://doi.org/10.34740/kaggle/dsv/17890299",
+   "note": {
+    "en": "The original AlexNet source code, co-authored with Alex Krizhevsky and Geoffrey Hinton, the 2012 network that kicked off the deep-learning era.",
+    "zh": "AlexNet原始源代码，由Sutskever与Alex Krizhevsky、Geoffrey Hinton共同完成，这一2012年的网络开启了深度学习时代。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-11-25",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ilya Sutskever — We're moving from the age of scaling to the age of research",
+    "zh": "Ilya Sutskever — We're moving from the age of scaling to the age of research"
+   },
+   "source": "Dwarkesh Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/ilya-sutskever-were-moving-from-the-age-of-scaling/id1516093381?i=1000738363711&uo=4",
+   "note": {
+    "en": "Long-form interview on the Dwarkesh Podcast where he argues the field is leaving the scaling era for a research era, and explains SSI's strategy and the limits of pre-training.",
+    "zh": "在 Dwarkesh 播客的长篇访谈，他提出人工智能正从「规模化时代」转向「研究时代」，并讲述了 SSI 的路线与预训练的局限。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-07-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I sent the following message to our team and investors: — As you know, Daniel Gross’s time with us has been winding down, and as of June 29 he is officially no",
+    "zh": "I sent the following message to our team and investors: — As you know, Daniel Gross’s time with us has been winding down, and as of June 29 he is officially no"
+   },
+   "source": "@ilyasut",
+   "url": "https://x.com/ilyasut/status/1940802278979690613",
+   "note": {
+    "en": "Sutskever announces to SSI's team and investors that co-founder Daniel Gross left the company as of June 29, 2025.",
+    "zh": "Sutskever向SSI团队和投资者宣布,联合创始人Daniel Gross已于2025年6月29日离开公司。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-12-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "OpenAI o1 System Card",
+    "zh": "OpenAI o1 System Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2412.16720v2",
+   "note": {
+    "en": "OpenAI's system card for the o1 reasoning models, documenting their chain-of-thought training and the safety evaluations run before release; he is among the credited contributors.",
+    "zh": "OpenAI o1 推理模型的系统卡，记录了其思维链训练方式与发布前的安全评估；他是署名贡献者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-10-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GPT-4o System Card",
+    "zh": "GPT-4o System Card"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2410.21276v1",
+   "note": {
+    "en": "System card for GPT-4o, OpenAI's omni model taking text, audio, image and video input, covering its capabilities and safety evaluations; he is among the credited contributors.",
+    "zh": "GPT-4o 的系统卡，介绍这一可接受文本、音频、图像与视频输入的全模态模型及其安全评估；他是署名贡献者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-06-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I am starting a new company:",
+    "zh": "I am starting a new company:"
+   },
+   "source": "@ilyasut",
+   "url": "https://x.com/ilyasut/status/1803472978753303014",
+   "note": {
+    "en": "Sutskever announces he is starting a new company, the first public signal of what becomes Safe Superintelligence Inc.",
+    "zh": "Sutskever宣布自己正在创立一家新公司,这是后来的Safe Superintelligence Inc.(SSI)首次公开露面的信号。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-06-19",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We will pursue safe superintelligence in a straight shot, with one focus, one goal, and one product. We will do it through revolutionary breakthroughs produced",
+    "zh": "We will pursue safe superintelligence in a straight shot, with one focus, one goal, and one product. We will do it through revolutionary breakthroughs produced"
+   },
+   "source": "@ilyasut",
+   "url": "https://x.com/ilyasut/status/1803472979873128498",
+   "note": {
+    "en": "Sutskever lays out SSI's founding mission: pursuing safe superintelligence 'in a straight shot' with one focus and one product, free of near-term commercial pressure.",
+    "zh": "Sutskever阐述SSI的创立使命:'一条直线'追求安全的超级智能,只有一个专注方向和一个产品,不受短期商业压力影响。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-06-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scaling and evaluating sparse autoencoders",
+    "zh": "Scaling and evaluating sparse autoencoders"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2406.04093v1",
+   "note": {
+    "en": "Work on scaling sparse autoencoders to extract interpretable features from language models, co-authored with the OpenAI superalignment team he led.",
+    "zh": "与他领导的 OpenAI 超级对齐团队合作的论文，研究如何扩展稀疏自编码器以从语言模型中提取可解释特征。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-05-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "After almost a decade, I have made the decision to leave OpenAI. The company’s trajectory has been nothing short of miraculous, and I’m confident that OpenAI wi",
+    "zh": "After almost a decade, I have made the decision to leave OpenAI. The company’s trajectory has been nothing short of miraculous, and I’m confident that OpenAI wi"
+   },
+   "source": "@ilyasut",
+   "url": "https://x.com/ilyasut/status/1790517455628198322",
+   "note": {
+    "en": "Sutskever announces he is leaving OpenAI after almost a decade, saying he is confident the company will build safe and beneficial AGI.",
+    "zh": "Sutskever宣布在OpenAI工作近十年后离职,并表示相信公司将建成安全且有益的通用人工智能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-12-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision",
+    "zh": "Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2312.09390v1",
+   "note": {
+    "en": "The superalignment team's weak-to-strong generalization paper, which asks whether a weak supervisor can elicit the full capability of a stronger model — his central bet on how to supervise systems smarter than humans.",
+    "zh": "超级对齐团队的「弱到强泛化」论文，探讨弱监督者能否激发更强模型的全部能力，这是他对如何监督超越人类的系统所下的核心赌注。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-11-23",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The exciting, perilous journey toward AGI | Ilya Sutskever",
+    "zh": "The exciting, perilous journey toward AGI | Ilya Sutskever"
+   },
+   "source": "TED Talks Daily",
+   "url": "https://podcasts.apple.com/us/podcast/the-exciting-perilous-journey-toward-agi-ilya-sutskever/id160904630?i=1000635796816&uo=4",
+   "note": {
+    "en": "His TED talk on the path to AGI and its risks, recorded weeks before the OpenAI board crisis.",
+    "zh": "他关于通往 AGI 之路及其风险的 TED 演讲，录制于 OpenAI 董事会风波前几周。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-11-22",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "There exists no sentence in any language that conveys how happy I am:",
+    "zh": "There exists no sentence in any language that conveys how happy I am:"
+   },
+   "source": "@ilyasut",
+   "url": "https://x.com/ilyasut/status/1727434066411286557",
+   "note": {
+    "en": "Amid the resolution of OpenAI's board crisis and Altman's return, Sutskever posts that no words can convey how happy he is.",
+    "zh": "在OpenAI董事会危机解决、Altman回归之际,Sutskever发文称没有任何语言能表达他有多高兴。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-11-20",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I deeply regret my participation in the board's actions. I never intended to harm OpenAI. I love everything we've built together and I will do everything I can",
+    "zh": "I deeply regret my participation in the board's actions. I never intended to harm OpenAI. I love everything we've built together and I will do everything I can"
+   },
+   "source": "@ilyasut",
+   "url": "https://x.com/ilyasut/status/1726590052392956028",
+   "note": {
+    "en": "Sutskever publicly says he regrets participating in the OpenAI board's ouster of Sam Altman and will work to reunite the company.",
+    "zh": "Sutskever公开表示后悔参与OpenAI董事会罢免Sam Altman的行动,并称将努力促成公司重新团结。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-11-02",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "What is Digital Life? with OpenAI Co-Founder & Chief Scientist Ilya Sutskever",
+    "zh": "What is Digital Life? with OpenAI Co-Founder & Chief Scientist Ilya Sutskever"
+   },
+   "source": "No Priors: Artificial Intelligence | T…",
+   "url": "https://podcasts.apple.com/us/podcast/what-is-digital-life-with-openai-co-founder-chief/id1668002688?i=1000633466595&uo=4",
+   "note": {
+    "en": "Interview on No Priors with Sarah Guo and Elad Gil, then as OpenAI's chief scientist, on what comes after ChatGPT and what digital life might mean.",
+    "zh": "时任 OpenAI 首席科学家，在 No Priors 播客中与 Sarah Guo 和 Elad Gil 讨论 ChatGPT 之后的方向以及「数字生命」的含义。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-09-27",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "In the future, once the robustness of our models will exceed some threshold, we will have *wildly effective* and dirt cheap AI therapy. Will lead to a radical i",
+    "zh": "In the future, once the robustness of our models will exceed some threshold, we will have *wildly effective* and dirt cheap AI therapy. Will lead to a radical i"
+   },
+   "source": "@ilyasut",
+   "url": "https://x.com/ilyasut/status/1707027536150929689",
+   "note": {
+    "en": "Sutskever predicts that once model robustness clears a threshold, cheap and highly effective AI therapy will radically improve people's lives.",
+    "zh": "Sutskever预测,一旦模型的鲁棒性突破某个阈值,廉价且高效的AI心理治疗将极大改善人们的生活体验。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-09-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Little known fact: Many of OpenAI’s key results, including the Dota 2 bot and the pre-training of GPT-4, are thanks to the brilliant Jakub Pachocki @merettm",
+    "zh": "Little known fact: Many of OpenAI’s key results, including the Dota 2 bot and the pre-training of GPT-4, are thanks to the brilliant Jakub Pachocki @merettm"
+   },
+   "source": "@ilyasut",
+   "url": "https://x.com/ilyasut/status/1697713317660500407",
+   "note": {
+    "en": "Sutskever credits Jakub Pachocki as the researcher behind key OpenAI results, including the Dota 2 bot and GPT-4 pretraining.",
+    "zh": "Sutskever指出Jakub Pachocki是OpenAI多项关键成果的幕后功臣,包括Dota 2机器人和GPT-4的预训练。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-05-31",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Let's Verify Step by Step",
+    "zh": "Let's Verify Step by Step"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2305.20050v1",
+   "note": {
+    "en": "Paper showing that process supervision — rewarding each reasoning step rather than only the final answer — trains more reliable math reasoners, a direct precursor to the o-series models.",
+    "zh": "论文表明「过程监督」（奖励每一步推理而非只看最终答案）能训练出更可靠的数学推理模型，是 o 系列模型的直接前身。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-04-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ilya Sutskever (OpenAI) - Inside OpenAI",
+    "zh": "Ilya Sutskever (OpenAI) - Inside OpenAI"
+   },
+   "source": "Entrepreneurial Thought Leaders (ETL)",
+   "url": "https://podcasts.apple.com/us/podcast/ilya-sutskever-openai-inside-openai/id80867514?i=1000610741159&uo=4",
+   "note": {
+    "en": "His Stanford Entrepreneurial Thought Leaders talk on how OpenAI is organised and how it approaches building AGI.",
+    "zh": "他在斯坦福 ETL 讲座上的演讲，介绍 OpenAI 的组织方式及其构建 AGI 的思路。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-03-27",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ilya Sutskever (OpenAI Chief Scientist) — Why next-token prediction could surpass human intelligence",
+    "zh": "Ilya Sutskever (OpenAI Chief Scientist) — Why next-token prediction could surpass human intelligence"
+   },
+   "source": "Dwarkesh Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/ilya-sutskever-openai-chief-scientist-why-next-token/id1516093381?i=1000606122602&uo=4",
+   "note": {
+    "en": "Dwarkesh Podcast interview at the OpenAI offices on why next-token prediction could scale past human intelligence, and on the timeline to AGI.",
+    "zh": "在 OpenAI 办公室录制的 Dwarkesh 播客访谈，讨论下一词元预测为何可能超越人类智能，以及通往 AGI 的时间表。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-03-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GPT-4 Technical Report",
+    "zh": "GPT-4 Technical Report"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2303.08774v6",
+   "note": {
+    "en": "The GPT-4 technical report, describing the multimodal model's capabilities, evaluations and limitations; he is a credited contributor as OpenAI's chief scientist.",
+    "zh": "GPT-4 技术报告，介绍该多模态模型的能力、评测与局限；他作为 OpenAI 首席科学家名列贡献者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-03-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Consistency Models",
+    "zh": "Consistency Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2303.01469v2",
+   "note": {
+    "en": "Consistency models, which generate images in one or a few steps instead of a long iterative diffusion sampling loop.",
+    "zh": "一致性模型论文，用一步或少数几步生成图像，取代扩散模型漫长的迭代采样过程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-12-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Robust Speech Recognition via Large-Scale Weak Supervision",
+    "zh": "Robust Speech Recognition via Large-Scale Weak Supervision"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2212.04356v1",
+   "note": {
+    "en": "The Whisper paper: speech recognition trained on 680,000 hours of weakly supervised multilingual audio, which generalises without fine-tuning.",
+    "zh": "Whisper 论文：用 68 万小时弱监督多语言音频训练的语音识别模型，无需微调即可泛化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-02-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Formal Mathematics Statement Curriculum Learning",
+    "zh": "Formal Mathematics Statement Curriculum Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2202.01344v1",
+   "note": {
+    "en": "Applies expert iteration to formal theorem proving, showing a model can build its own curriculum of statements to learn from.",
+    "zh": "将专家迭代应用于形式化定理证明，表明模型可以自行构建可学习的命题课程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-12-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models",
+    "zh": "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2112.10741v3",
+   "note": {
+    "en": "GLIDE, OpenAI's text-guided diffusion model for photorealistic image generation and editing.",
+    "zh": "GLIDE，OpenAI 用于照片级图像生成与编辑的文本引导扩散模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-12-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Deep double descent: where bigger models and more data hurt*",
+    "zh": "Deep double descent: where bigger models and more data hurt*"
+   },
+   "source": "Journal of Statistical Mechanics Theor…",
+   "url": "https://doi.org/10.1088/1742-5468/ac3a74",
+   "note": {
+    "en": "Documents the deep double descent phenomenon, where increasing model size or training data can first hurt then help performance.",
+    "zh": "记录“深度双下降”现象：增大模型规模或训练数据量可能先损害后又提升模型表现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2021-10-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Unsupervised Neural Machine Translation with Generative Language Models Only",
+    "zh": "Unsupervised Neural Machine Translation with Generative Language Models Only"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2110.05448v1",
+   "note": {
+    "en": "Derives state-of-the-art unsupervised machine translation from generatively pre-trained language models alone, without parallel corpora.",
+    "zh": "仅凭生成式预训练语言模型（不使用平行语料）就得到了当时最先进的无监督机器翻译系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-07-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Zero-Shot Text-to-Image Generation",
+    "zh": "Zero-Shot Text-to-Image Generation"
+   },
+   "source": "International Conference on Machine Le…",
+   "url": "http://proceedings.mlr.press/v139/ramesh21a/ramesh21a.pdf",
+   "note": {
+    "en": "The original DALL-E paper, showing that a large autoregressive transformer can generate images directly from text descriptions with no task-specific training.",
+    "zh": "DALL-E原始论文，展示大型自回归Transformer可直接根据文本描述生成图像，无需针对任务专门训练。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2021-07-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Evaluating Large Language Models Trained on Code",
+    "zh": "Evaluating Large Language Models Trained on Code"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2107.03374v2",
+   "note": {
+    "en": "The Codex paper, evaluating a GPT model fine-tuned on public code and introducing HumanEval; the model went on to power GitHub Copilot.",
+    "zh": "Codex 论文，评估在公开代码上微调的 GPT 模型并提出 HumanEval 基准；该模型后来驱动了 GitHub Copilot。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-02-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Learning Transferable Visual Models From Natural Language Supervision",
+    "zh": "Learning Transferable Visual Models From Natural Language Supervision"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2103.00020v1",
+   "note": {
+    "en": "The CLIP paper, training vision models from natural-language supervision so they transfer zero-shot to new tasks instead of a fixed label set.",
+    "zh": "CLIP 论文，用自然语言监督训练视觉模型，使其能零样本迁移到新任务，而不局限于固定类别集合。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-09-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Generative Language Modeling for Automated Theorem Proving",
+    "zh": "Generative Language Modeling for Automated Theorem Proving"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2009.03393v1",
+   "note": {
+    "en": "Applies transformer language models to automated theorem proving in Metamath, an early step toward reasoning models.",
+    "zh": "将 Transformer 语言模型应用于 Metamath 自动定理证明，是通向推理模型的早期一步。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-05-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Language Models are Few-Shot Learners",
+    "zh": "Language Models are Few-Shot Learners"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2005.14165v4",
+   "note": {
+    "en": "The GPT-3 paper, showing that scale alone turns a language model into a few-shot learner; he is a co-author.",
+    "zh": "GPT-3 论文，证明仅靠规模就能让语言模型具备少样本学习能力，他是共同作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-05-08",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#94 – Ilya Sutskever: Deep Learning",
+    "zh": "#94 – Ilya Sutskever: Deep Learning"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/94-ilya-sutskever-deep-learning/id1434243584?i=1000474021606&uo=4",
+   "note": {
+    "en": "Lex Fridman Podcast interview on deep learning, from backpropagation and scaling to what he expects from AGI.",
+    "zh": "Lex Fridman 播客访谈，从反向传播、规模化谈到他对 AGI 的预期。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2020-04-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Jukebox: A Generative Model for Music",
+    "zh": "Jukebox: A Generative Model for Music"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2005.00341v1",
+   "note": {
+    "en": "Jukebox, a model that generates music with singing directly in raw audio using a multi-scale VQ-VAE.",
+    "zh": "Jukebox，用多尺度 VQ-VAE 在原始音频域直接生成带人声演唱的音乐。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-12-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Dota 2 with Large Scale Deep Reinforcement Learning",
+    "zh": "Dota 2 with Large Scale Deep Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1912.06680v1",
+   "note": {
+    "en": "The OpenAI Five paper on the large-scale reinforcement learning that beat the Dota 2 world champions.",
+    "zh": "OpenAI Five 论文，介绍击败 Dota 2 世界冠军所用的大规模强化学习方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-04-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Generating Long Sequences with Sparse Transformers",
+    "zh": "Generating Long Sequences with Sparse Transformers"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1904.10509v1",
+   "note": {
+    "en": "Sparse Transformers, factorising attention so transformers can model much longer sequences without quadratic cost.",
+    "zh": "Sparse Transformer 论文，通过分解注意力矩阵让 Transformer 在避免平方级开销的情况下处理更长序列。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-10-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models",
+    "zh": "FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1810.01367v3",
+   "note": {
+    "en": "FFJORD, making continuous-time invertible generative models trainable at scale by removing the restrictions on their architecture.",
+    "zh": "FFJORD，通过取消架构限制，使连续时间可逆生成模型能够大规模训练。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-06-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GamePad: A Learning Environment for Theorem Proving",
+    "zh": "GamePad: A Learning Environment for Theorem Proving"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1806.00608v2",
+   "note": {
+    "en": "GamePad, a learning environment for applying machine learning to theorem proving in the Coq proof assistant.",
+    "zh": "GamePad，用于在 Coq 证明助手中将机器学习应用于定理证明的学习环境。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2018-03-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Some Considerations on Learning to Explore via Meta-Reinforcement Learning",
+    "zh": "Some Considerations on Learning to Explore via Meta-Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1803.01118v2",
+   "note": {
+    "en": "OpenAI-era paper on exploration in meta-reinforcement learning, proposing the E-MAML and E-RL^2 algorithms.",
+    "zh": "OpenAI 时期关于元强化学习中探索问题的论文，提出 E-MAML 与 E-RL^2 两种算法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2017-10-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Emergent Complexity via Multi-Agent Competition",
+    "zh": "Emergent Complexity via Multi-Agent Competition"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1710.03748v3",
+   "note": {
+    "en": "Shows that self-play competition between agents produces complex behaviour from simple environments, rather than requiring complex ones.",
+    "zh": "表明智能体之间的自我博弈能在简单环境中催生复杂行为，而不必依赖复杂环境。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2017-10-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments",
+    "zh": "Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1710.03641v2",
+   "note": {
+    "en": "Casts adaptation to changing, competitive environments as a meta-learning problem so agents keep learning from limited experience.",
+    "zh": "将在不断变化的竞争环境中的适应问题建模为元学习问题，使智能体能够从有限经验中持续学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-07-27",
+   "level": "major",
+   "title": {
+    "en": "NVIDIA partnership; ~$5B investment and Vera Rubin access",
+    "zh": "与 NVIDIA 达成合作：约 50 亿美元投资 + Vera Rubin 使用权"
+   },
+   "body": {
+    "en": "Long-term strategic partnership lets SSI increase compute by an order of magnitude. SSI has raised ~$6–8B at a ~$32B valuation with no shipped product.",
+    "zh": "长期战略合作使 SSI 算力提升一个数量级。SSI 已融资约 60–80 亿美元、估值约 320 亿美元，尚无产品发布。"
+   },
+   "source": "NVIDIA Newsroom",
+   "url": "https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership"
+  },
+  {
+   "date": "2026-08-14",
+   "level": "minor",
+   "title": {
+    "en": "Investor claims a first model is planned for August",
+    "zh": "有投资人称首个模型计划于 8 月推出"
+   },
+   "body": {
+    "en": "Single-source report from investor Gavin Baker — not an SSI announcement, and unconfirmed.",
+    "zh": "来自投资人 Gavin Baker 的单一信源说法，非 SSI 官方公告，未获证实。"
+   },
+   "source": "StartupHub",
+   "url": "https://www.startuphub.ai/ai-news/ai-figures/2026/figure-ilya-sutskever-ssi-first-model-2026-08-14"
+  },
+  {
+   "date": "2026-09-01",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Ilya Sutskever Warns Neoclouds Lack Security to Stop a Rogue AI Takeover",
+    "zh": "Ilya Sutskever Warns Neoclouds Lack Security to Stop a Rogue AI Takeover"
+   },
+   "body": {
+    "en": "Sutskever warned that many 'neocloud' GPU providers lack the security controls needed to prevent a rogue AI system from escaping their infrastructure.",
+    "zh": "Sutskever警告称，许多“新云”类GPU提供商缺乏足够的安全控制，无法阻止失控的AI系统从其基础设施中逃逸。"
+   },
+   "source": "Startup Fortune",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbE03UmJUM19OMmxEZlM4dW4yUlFSbV9uOHRNa1BCTklTMmlJYndJYUYwZk1xUjJaMEpXdjExanJjZ2c1TWpQcHNnOW5GTExsZkR3WDMxWTl1LU5kNFlIVmhkMmUtNDJVTlU1RjNPc2ptZE5OUEw2b2hNc1JyZnVSRXpaOWNBY0h1ajFqNXBIYkdFaE1MWDlrbVVabExjdmc2SkE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Ilya Sutskever: The 100 Most Influential People in AI 2026",
+    "zh": "Ilya Sutskever: The 100 Most Influential People in AI 2026"
+   },
+   "body": {
+    "en": "Named to TIME's 100 Most Influential People in AI for 2026, recognising SSI's product-free approach to superintelligence.",
+    "zh": "入选《时代》周刊 2026 年「AI 领域最具影响力的 100 人」，其无产品的超级智能路线获得肯定。"
+   },
+   "source": "Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rWEVQNE5CRzVWLWV2SFBPa0h3MVBNNG5IdGo3OUgyVUZpS0FVbG1aMDN4NVN5QW16WUdVNU5fZy1OUTBfTS1yYmtNbTdnYlV0WlZ5dFVJczhKYWJxYmJDU0lrbFlJeF9BcVpF?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-25",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "NVIDIA Invests $5 Billion in Ilya Sutskever’s SSI, First Model Expected This Week",
+    "zh": "NVIDIA Invests $5 Billion in Ilya Sutskever’s SSI, First Model Expected This Week"
+   },
+   "body": {
+    "en": "NVIDIA invested $5 billion in Sutskever's Safe Superintelligence, with SSI's first model reportedly expected within the week.",
+    "zh": "英伟达向Sutskever的Safe Superintelligence投资50亿美元，据报道该公司的首款模型预计将于近期发布。"
+   },
+   "source": "KuCoin",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUldHNGpKaGVUN3VNMno1ZUNjdG5qaGVVNUcxN19oSWpSZE05Unh3Y3NuSFJ4M3BBdDRiY3lKUmFDQUY5Wmo0UzhIcVM5X2sybzVOR0E2cl96UWx3eEc2V2dmaWVQVVp5SGtMS3pZUUNBc1lzb0kwd1Q1R2dPQjVBS1RMczMxSU1tWHdmaGpta3ZWLTdJU3ZLNFRhc2FzY2VlNnBjU1BYNHBHakVFNkdzQW1tRQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-28",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Nvidia to invest $5 billion in Ilya Sutskever's AI startup: Report",
+    "zh": "Nvidia to invest $5 billion in Ilya Sutskever's AI startup: Report"
+   },
+   "body": {
+    "en": "Nvidia is reported to be investing $5 billion in Safe Superintelligence, the largest single backing yet for the lab he co-founded.",
+    "zh": "据报道英伟达将向他联合创办的 Safe Superintelligence 投资 50 亿美元，这是该实验室迄今获得的最大单笔投资。"
+   },
+   "source": "ET Entrepreneur",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRGhXbXNLSE51bkNvZnZ6ZlVDMVIwUktYUHFfMzdMZFJYQUF6VzRuRlNmSzB5Y2dMS2JaN2k3eUlMNjhqUGdUaGRwazNscWIyak1oeDA1UXFTWmphRmpHc3VYR1NXT3BmVjI5c01wZGQtSHpkTXJ0TFh4YVVTRFFDRGdYWW9aRzhFRzNOWlZYWkpXUkFrMGJQbmZoN1RjY2h0eG5tcy1iUHhTRXp6a01MckhpemJ2SF82UHNEUUdBdDZ1eU8ySndZTkNiczNOS2wxTi1jM3dYUUtDWldXN2lTeGo2SFdhWEHSAewBQVVfeXFMTW1EenVzeXFYYmU0UlVpbVcxRFlXNE5FV0ZQY1NXeEVReWdNUElGbXMzazNJdE92TE1qQlV3U0ttcmw0c1VFRnQ4NVpDa1p5c2ltRGdNdHZUakx3SGhiSzBSLUZpN25ZWE0zZmFzMldFXzRkQzVtb01Gc3dFbGZ6dnpHOEdINnNHbTRJdEZ5NmJEeFNaMms4dHE2VzdMNmZPb21IV1ZETVRkbHhlR25obXRET3hSSzNPWjNWNElHWGo1c3Bpcmt3NkFlT1VaaUhTMENFNUY5c0lWbHE3Zkp0OXBwdzdoZVo5Z3hQZUo?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-28",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Nvidia invests in Ilya Sutskever's SSI, providing access to Vera Rubin compute platform",
+    "zh": "Nvidia invests in Ilya Sutskever's SSI, providing access to Vera Rubin compute platform"
+   },
+   "body": {
+    "en": "Nvidia is investing in Ilya Sutskever's SSI and giving it access to Nvidia's Vera Rubin compute platform.",
+    "zh": "英伟达向Ilya Sutskever的SSI进行投资，并向其开放英伟达Vera Rubin算力平台。"
+   },
+   "source": "digitimes",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeEcxOXRMdEFtR0I0TTZCQ0pLMWdLMWEtWFZtSHY5YnBScWE1ZmxzNTZGSzFnR2JpZVZBU1k1Z3F1UWZwa2dLU1RkWWZsek01aFhYN1VyeGlrUTQ0cWluRExjSjNTSUpvaDUwY2hxajluTGwwNVI2X0FOVXNFMDhRYmxnV21NZnBjLWxGZFdVNTlkOGx3ZE9YQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-28",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Nvidia ‘invests $5bn’ in Ilya Sutskever’s new AI lab",
+    "zh": "Nvidia ‘invests $5bn’ in Ilya Sutskever’s new AI lab"
+   },
+   "body": {
+    "en": "Nvidia invested roughly $5 billion in Sutskever's Safe Superintelligence, one of the largest bets yet on a lab with no public product.",
+    "zh": "英伟达向Sutskever的Safe Superintelligence投资约50亿美元，是迄今为止对这家没有公开产品的实验室最大的单笔投资之一。"
+   },
+   "source": "National Technology News",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeGF1a0NvanVVSXJmMzktZzNJSEFhTThhMTdzd1NrWXhOaXNORE1LU0hrZVNmR2ZoRmlxaC1yUzZfOEYzWGF4Y1pwM1dqS2xwRThxSHRoSHBhMWpEZHFWTHJmQzdvZmRaUDRNc1JqbXNMTlBDTjR1M29NR2NsbENzZ2Jhc2lvcjQ3STZaV2Nn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-28",
+   "ts": "2026-07-28T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Ilya Sutskever's SSI Gets $5B Nvidia Deal: 2026",
+    "zh": "Ilya Sutskever's SSI Gets $5B Nvidia Deal: 2026"
+   },
+   "body": {
+    "en": "Sutskever's Safe Superintelligence reportedly secured a $5B investment from Nvidia.",
+    "zh": "据报道，Sutskever旗下的Safe Superintelligence获得英伟达50亿美元投资。"
+   },
+   "source": "StartupHub.ai",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQXzZPN0hTMUlobG9CbmhQa3lMUGdBN1hlRDZPTVpfYjAwNmlWaUlTRGdTLXlCblR1ODhieGlzcGVKRUhPWGk1SlpZQm5MTzA3NjJKQnNUMnc4Yk1qdHZ4VUc0elNsQURDNG96TEVlZ0xWMlNETlRUTi1vdFY1YVZVQ3k4OHFPVkJsN1V6TmtfYzdTNzlnVXRFMm1wb3drMWpPeEMxaV9sQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-27",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Ilya Sutskever’s Safe Superintelligence Inc. and NVIDIA Announce Long-Term Strategic Partnership",
+    "zh": "Ilya Sutskever’s Safe Superintelligence Inc. and NVIDIA Announce Long-Term Strategic Partnership"
+   },
+   "body": {
+    "en": "SSI and NVIDIA announce a long-term strategic partnership, with NVIDIA investing billions and supplying compute to a lab that still has no product.",
+    "zh": "SSI 与英伟达宣布长期战略合作，英伟达向这家尚无产品的实验室投资数十亿美元并提供算力。"
+   },
+   "source": "NVIDIA Newsroom",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ3gwdE5oOS1qX1RMNVc5bVJXU1hzZVV5U2hoM0JIMDFRYUZrdC00ZUZpR0FDelZ3b3JfRFJJVUNZZjFzdTBrb3Y3bTBmb3pWbWNMem1IZXBnVTdaWkZlREdZeGFVc0xnXzNXZXExLUZJRDlZOG1ZMC1LaXFMYjNmNUx2amMyM1RWb3R6bUZVd19DcnI4UUlSc251RHlWM3VCdlhYMkliWjR3UnBodDRZTl8yTUdoVnZieGhzZHBsWTFoZ3FScnZLUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-27",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Nvidia to invest $5 billion in Ilya Sutskever's AI startup, source says",
+    "zh": "Nvidia to invest $5 billion in Ilya Sutskever's AI startup, source says"
+   },
+   "body": {
+    "en": "Nvidia is reported to be investing $5 billion in Safe Superintelligence, a strategic backer for a lab that still has no product and no revenue.",
+    "zh": "据报道，英伟达将向 Safe Superintelligence 投资 50 亿美元；这家实验室至今没有产品也没有收入，却获得了战略投资方的支持。"
+   },
+   "source": "AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01NW9KU3dVTlBkMS03UGpqa295UjZrY2QwNW91MEVJcTF6UkZrSkxxT3hYeWFSak9IM3B4Qmd2YlF3d3V6bGF5Z0huWTREVGpOYkhId0ZnNWowZmJDNzlOU2RLM0FRaFpXR1FHRlEwUHZsUFR2anFoU2FqWmE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-27",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Nvidia Invests $5 Billion in Ilya Sutskever’s Safe Superintelligence and Vera Rubin Platform Access",
+    "zh": "Nvidia Invests $5 Billion in Ilya Sutskever’s Safe Superintelligence and Vera Rubin Platform Access"
+   },
+   "body": {
+    "en": "Nvidia invests $5 billion in Sutskever's Safe Superintelligence and gives it access to the Vera Rubin platform, a major vote of confidence in SSI.",
+    "zh": "英伟达向Sutskever的Safe Superintelligence投资50亿美元,并授予其接入Vera Rubin平台的权限,是对SSI的重大信任投票。"
+   },
+   "source": "NewsCord",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZ3poQUJESWVGT0tfWVdHNVo2dkotUXNfNW9icnNXSG9yYUtxQnZReXdHQnBYaFhreXJFeENLTEpuOFl5V3RmeHl3OGl3ajcxSDZGR19VYzkxZWVFX2lkdUNJRWFaRGpfZExlMThLeEFVeFZoX085S05VQmJrU2lkdnNqeHBtT01sMllzZmVIbXBSR1NzZlBwRHh6bVR6eVNiR3dRdzZtQmV4czhydThPYWdKTFpNZGZhVXEzdEF4cFlNVDdON1UwVm9JYTFYTE1jaU1fTVF6WDJtTFV1TUlVOEFtMGhLQXRBcUE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-27",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Nvidia partners with former OpenAI chief scientist Ilya Sutskever’s AI startup: What the CEOs said",
+    "zh": "Nvidia partners with former OpenAI chief scientist Ilya Sutskever’s AI startup: What the CEOs said"
+   },
+   "body": {
+    "en": "Nvidia announced an investment in Safe Superintelligence, the AI startup Sutskever co-founded and leads as chief scientist after leaving OpenAI.",
+    "zh": "英伟达宣布投资Safe Superintelligence，这是Ilya Sutskever离开OpenAI后共同创立并担任首席科学家的AI初创公司。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPY095b21fbktfVFVKc0JxWXhHTG1ETVJIVmNGMXVacHJoT1daRE16Q3JOX1JCUWZybUJZc19QeG1qR1dVdDNIYmFJRmpHWngyUmdRemR5NXZzN3JaVTVMODVDSnBuX181MTJCWnZ4MzJIYUtxWmdwU01nOUYtbHB3YnpFYnBPR1dmVk55QUJOaWdtUHBCV1REUEprYW5kekhVQjM0NXUwaFZYcUVTZzZ0VlJkbXptaC1UcWphakdFa255Qk85dkxlMkNONkhDenJCUmxieFpMcVNxLVVwTkF5d29vSGZDRW4zR0gzOVZTR083aDdJVmh3b2k0M3RhTjltcC12RjN6cVNZaGvSAZACQVVfeXFMT0g1WG5OX3dHYmlKeExKTi1BVDRnLUFVUkRfMTB6dFJoT3VqakFCUmlyaGNqRWhxLVctTExWN1hWRmpPdVpSempXd1JtZ0p5N2ttTDlzZHFtbFhxclRqTjMzYmlTQmhBMHRadE9nRW5neGJBOXZNMXVXYWJvTkJlLVpPcGc3OFprNTVsSGtUUkhEbXhkZkd1RnMwT1ZpS0Z1LVJiNlcxQUY2ay0wcWprRDdNb3dZdXI2emh3TVo3UHdFY2NyY2dBUjJjS2lLMGI3XzBwQ0RKT2xqYVRiSG9fN3NUa20xdm1xZGxITWcwd2Fpa0tDY1lfaDNSdzFpZXI4djFlUGNldlk2eFd6VXlCTXQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-27",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Ilya Sutskever’s Safe Superintelligence Inc. and NVIDIA Announce Long-Term Strategic Partnership",
+    "zh": "Ilya Sutskever’s Safe Superintelligence Inc. and NVIDIA Announce Long-Term Strategic Partnership"
+   },
+   "body": {
+    "en": "NVIDIA and Sutskever's Safe Superintelligence announced a long-term strategic partnership, with NVIDIA investing in SSI and shifting its compute away from Google's TPUs — a major infusion for a lab that has shipped no product.",
+    "zh": "NVIDIA与Sutskever的Safe Superintelligence宣布建立长期战略合作伙伴关系，NVIDIA向SSI注资并助其算力从谷歌TPU转向NVIDIA芯片——这是一家至今未发布任何产品的实验室获得的重大资金注入。"
+   },
+   "source": "NVIDIA Investor Relations",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQQldBMzdLdkFBZjNtOGRfWmNqazN6N3dZcHExV0NzS2hBMjU1cmZFQm1BS2NEenhfdWFkUFhxdzZGRkd6cWpOajh0eFRuLThSOGhJOV9xcktHaDduSmNYVXVuYzFXRV9wYXl5aTZNUUM3d1BmeThQTnlFbWZ4YURodUNEblo4c3Y5a1FzMFlVLU9pVXJfU1U5N3hrcHc2aEN6Vmt2M0JuT19LeHBJUVJYS3loY0VweDNzV1dpa3pPVlBCb004cTF2WEFpd3dnak9XcTBvNFplZkprdXFDdmhoX3VoLVB6S0toVm50dDhSNlQ0WHdyNEdzOGFqWXQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-27",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Nvidia Bets $5 Bln On Ilya Sutskever’s AI Breakthrough - FT",
+    "zh": "Nvidia Bets $5 Bln On Ilya Sutskever’s AI Breakthrough - FT"
+   },
+   "body": {
+    "en": "The Financial Times reported Nvidia is putting $5 billion behind Sutskever's Safe Superintelligence, a major vote of confidence in his no-product research bet.",
+    "zh": "《金融时报》报道英伟达向Sutskever的Safe Superintelligence投入50亿美元，是对其“无产品”研究路线的一次重大支持。"
+   },
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ240ajNzaVZBakkzb1pNNUFYM3FrbS05MnhqN1NmUVJHMmJubERYYk5VdDhrazdNWEZKR0treFBETjVJS3IzQnRUTHBjbVFOXzQ2T014eEZfbENGRlk4WnBnWEJmOFRGOHE2T3dPTkk0SnVuZy1PbUJLZlFCRUpMb3NTSnNEVS1LTmNKQTZhSnNUYXlDMHJXdmF4TzVqR09ZQllLVE1KNkJ3REhsclBzRnhJV25ZQk5YZVdna1JQM1FfTVpK?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-27",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Ilya Sutskever’s Safe Superintelligence Inc. and NVIDIA Announce Long-Term Strategic Partnership",
+    "zh": "Ilya Sutskever’s Safe Superintelligence Inc. and NVIDIA Announce Long-Term Strategic Partnership"
+   },
+   "body": {
+    "en": "Sutskever's Safe Superintelligence announced a long-term strategic partnership with NVIDIA.",
+    "zh": "Sutskever的Safe Superintelligence公司宣布与NVIDIA达成长期战略合作伙伴关系。"
+   },
+   "source": "marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMkxzN3gtS1BLWEJlMGNjYm5YUkgtRlk4NXRiOWxvaVlUNEZLZk4zVmFRWTk5MUJyLXJLLWU4bkM2MUNuanZiMXFDcEl3M0NYWFc1MkF3UW9JLXM4dUJwbGVTbWplMU9hYkMya0hIdGtYeHJ3RGh6OFcyekN6RnlzY3IwZ1hoM0JOeGRVVF8wQXcyOUtURUNGdVFiQVZMZ3N3UzJadXkwN2JtdFB3NXh4Y0NPbFowcVNRTVZYWk4wMlNna2s2MUxLbFVGcjlhSW9LWkU2aTJqMGxOTm5zdEdEWTdNUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-27",
+   "ts": "2026-07-27T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Nvidia makes multibillion-dollar investment in Ilya Sutskever’s Safe Superintelligence",
+    "zh": "Nvidia makes multibillion-dollar investment in Ilya Sutskever’s Safe Superintelligence"
+   },
+   "body": {
+    "en": "Nvidia made a multibillion-dollar investment in Sutskever's Safe Superintelligence, a major funding event for the product-less lab.",
+    "zh": "英伟达向苏茨克维的Safe Superintelligence投资数十亿美元，这是这家至今没有产品的实验室的一次重大融资事件。"
+   },
+   "source": "scanx.trade",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU25wa3pxUEVUWk44UE91LVVIeTc4VnlWZzVlSzUwUHA2Zk5YdGNzd1p1YU5NR2lFT25aQWIwVm5kaXBJTnNJNmdjY3BlZmpmLVJ3dlJGUmppZmtOMk1zd3VJajN3QmJ6eHVIWVlJRTVfU2dpM182U00wXzRoUVIxcTBOTWFDVlBTUjNNZXZ2blZpTmg2emlSQzRFZ0t0WkpwNFdfaU5qaEJCQWdiY1Z5NlFOYzBMeEFnUDd4clBQd2lYSWctVzNEWVFCeFQtcDk0VVkyaWpNVVZVdTJx?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-27",
+   "ts": "2026-07-27T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Ilya Sutskever’s Safe Superintelligence Inc. and NVIDIA Announce Long-Term Strategic Partnership",
+    "zh": "Ilya Sutskever’s Safe Superintelligence Inc. and NVIDIA Announce Long-Term Strategic Partnership"
+   },
+   "body": {
+    "en": "Ilya Sutskever's Safe Superintelligence Inc. announced a long-term strategic partnership with NVIDIA.",
+    "zh": "伊利亚·苏茨克维的Safe Superintelligence公司宣布与英伟达达成长期战略合作伙伴关系。"
+   },
+   "source": "GlobeNewswire",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOOE9ueGVHUFlGVjQyMXo1UnhzUnk0MzZZYTVSeEZpQmZCN24xaDNzYVg0cU5ZOWJqTW5peGpQM1RzRi1tN0hJVXVhSzNzS2JEVWg4cHlBWUFJRlRZSUlwZG45NDNoVjZLODA3bThiTXVfVzdURVVGOVprMGR4WEdXUEt5ZDd1TTdZZjRqd1VVVEtXNldyQzRUYTRaS05MZHRjdVU1aEoyTUo5bWxGOExMUDlTM0JNRzFOLTQ0SXhrSGlBREVLdFNmclptUFRSdEhZVDdTSmFoRkVQekRQeEtXNzBMZTlCNmFQT1hKa0lBWnUwRm03akRBa1JZUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-18",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "'Directionally very bad': Mira Murati, Ilya Sutskever, and Shivon Zilis took the stand, and the Musk vs O",
+    "zh": "'Directionally very bad': Mira Murati, Ilya Sutskever, and Shivon Zilis took the stand, and the Musk vs O"
+   },
+   "body": {
+    "en": "Sutskever testified alongside Mira Murati and Shivon Zilis in the Musk v. OpenAI trial, calling aspects of the situation \"directionally very bad.\"",
+    "zh": "Sutskever与Mira Murati、Shivon Zilis一同在马斯克诉OpenAI案中出庭作证，称局势\"方向上非常糟糕\"。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxObTdwckdoT2Q2MU1GRUxvVS0zRC1IRWRIYkl0dXdJc3VsV3czdVRSSmFaTjdmX2lRSkFaV3BTZHJuQlZaZHJZVlpWdHNwandFNmtKT2RhanN6VGJWeVhoa0tvak5RLXRrTXlKbjlraVNGVzlUVGRxXzRwOWxSUHY0bmc1WDVZcUJCNWRkVnpkQ01IdEk1UG9QRllPN1hvbUdkVWtwMzJlUVc2aThfU01ndVBrRTZJQnRyQV91cDRIN1pZTGxHVFNfbDZKRXFhZFg0R3ppdy1pd09IM1VJbUpqM295Y3c1eU5iUkxOWXQ2aDU5OEotUmxwdVRTNnVpVmtBNTVWYV9fUmdGVGJxUFlBZlYwbUgwb0ZvemVsZE80WWR4emZIaWc4WTUzR0ZhUTh6a0JMMktTdmtxekY3aFBwRXFHNk_SAcoCQVVfeXFMTzVYeWZ2anJUVUhVQm5GNXdWVjBDeF9Qd0wtZWMtYXpIWV9aZzA4bFRUR3RjaGNJTDVIOXRfR1o1dERuQzlXcm1GMVNRVVlZb0N3bjVOVWVFU3haMGZvTUh1REtfUkgzMERGSE9vcmZxNGdGdzlTNEIzbmJ1OS1PV0xKNkNQTFRVYmFOM2ZRcDMyQlo4M2dBR1VlS0g1RzZ5d2g5V0g5VmI0djl2Z3o2N0gzTjdVd1g1dVUxbG5KRjBLYXNJU0xuNmFTcmdYUUQtaWZQNVZFM0FLVVJOdFZIYW41R0haS3lfcHJ1QzN5VGtpSlZmQndMM0h6bDgxQ2dTeG9obk9yRE9NM2g4Z2M5SEI3enRmSDFwdF9SU0xjaWdWZzRoMmdZT2V5ZXNacXotYUkxSGEwTDlVbkUyNy1HSFpleGFDM25hVGZB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-13",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Ilya Sutskever Testifies in Musk v. OpenAI Trial, Alleges Sam Altman’s Misconduct",
+    "zh": "Ilya Sutskever Testifies in Musk v. OpenAI Trial, Alleges Sam Altman’s Misconduct"
+   },
+   "body": {
+    "en": "Sutskever testified in the Musk v. OpenAI trial, alleging misconduct by Sam Altman.",
+    "zh": "Sutskever在马斯克诉OpenAI一案中出庭作证，指控Sam Altman存在不当行为。"
+   },
+   "source": "KuCoin",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORVQ5SDZqZm1PYlk4MWFaXzJCV1U2TUJxX2ZXQWZIU1ZiRkFpTlNKVDlhVW53TVZOb1NVUVRxeV96RWltb1ZsNEt1aXFlbGZwV1JXYVdFNUVvbzdvaUZ6NWpmdEtoMkpzcFBIdVYxSDF4cnp4VklTbVRoQ3A3ZmxmVHJkckhwZTBrTEcxcTVtSGZjUDc3OFQyLXNNbFFnY3NvN2p0SEdxOWJSWEgzb2tzeXlmQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-11",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Ex-OpenAI co-founder Ilya Sutskever claims to have collected proof of Sam Altman’s alleged dishonesty",
+    "zh": "Ex-OpenAI co-founder Ilya Sutskever claims to have collected proof of Sam Altman’s alleged dishonesty"
+   },
+   "body": {
+    "en": "Sutskever claimed to have collected evidence of alleged dishonesty by Sam Altman.",
+    "zh": "Sutskever声称已收集到证据，指控Sam Altman存在不诚实行为。"
+   },
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU2RGVUlkWFZEZ0RBWDl1amNxUXZfTGFFTWNDWk9NczJBQzRpMjBQbFY0WkZVMWRvdlZ1SWJxMHplazczYkJrb1dmai1DT215WHZ3S1VDbVhEZ3N3aWtzT3I1OGFjNU4wZ3hxRTh0U0Z2NHZRcjgzT3BCV1VHTVBVTlhZVWhfQ1RnX2pCdDZIYU1rQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-11",
+   "ts": "2026-05-11T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Ilya Sutskever Testifies He Spent A Year Building Case Against Open AI CEO Sam Altman's 'Pattern Of Lying",
+    "zh": "Ilya Sutskever Testifies He Spent A Year Building Case Against Open AI CEO Sam Altman's 'Pattern Of Lying"
+   },
+   "body": {
+    "en": "Sutskever testified he spent a year building a case that Sam Altman showed a 'pattern of lying,' reigniting scrutiny of OpenAI's 2023 boardroom crisis.",
+    "zh": "萨茨克维在作证中表示，他花了一年时间搜集证据证明萨姆·奥特曼存在“说谎的模式”，再度引发对OpenAI 2023年董事会危机的关注。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdjVJalFBTEdSNzB4Mm1OdFd4eXRUeXV6OTdtMzJwN3UxWWVtY0R2SWN5Wm80MFZ3UVBERmRTZkhnV1V3THZWNVRqR3J4eEZvV3BiZHdmVTdFZHRRSkcteFNMRHd2S0dTbDZOdngyaFJZQVlwV1VJV3dkMnM0cHljZ2JubHc4ZXRUTmRsOWZZUWhqUDlaUnM1bU1FMC00b0JTTzI2aG5yeDJMUnRB?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "lab",
+ "score": {
+  "total": 78.6,
+  "attention": 81,
+  "centrality": 79,
+  "momentum": 69,
+  "stature": 92,
+  "pageviews": 783963,
+  "citations": 219164,
+  "hIndex": 62,
+  "events": 22,
+  "posts": 44,
+  "wikiEn": "Ilya Sutskever",
+  "wikiZh": "伊爾亞·蘇茨克維"
+ },
+ "seedRank": 7,
+ "tier": "t1"
+}

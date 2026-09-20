@@ -1,0 +1,998 @@
+{
+ "rank": 63,
+ "id": "guillermo-rauch",
+ "name": {
+  "en": "Guillermo Rauch",
+  "zh": "Guillermo Rauch"
+ },
+ "role": {
+  "en": "Founder & CEO, Vercel",
+  "zh": "Vercel 创始人兼 CEO"
+ },
+ "org": "Vercel",
+ "region": {
+  "en": "United States / Argentina",
+  "zh": "美国/阿根廷"
+ },
+ "tags": [
+  "Vercel",
+  "Next.js",
+  "v0",
+  "AI Gateway",
+  "Frontend"
+ ],
+ "why": {
+  "en": "Creator of Next.js and v0, and the infrastructure provider for AI-generated frontend code — which makes him a deep influence on how AI applications actually get built.",
+  "zh": "Next.js 与 v0 的缔造者，AI 生成前端代码的基础设施提供方，深度影响了 AI 应用的开发方式。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@rauchg",
+   "url": "https://x.com/rauchg",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "rauchg.com",
+   "url": "https://rauchg.com/",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @rauchg",
+   "url": "https://github.com/rauchg",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Vercel Blog",
+   "url": "https://vercel.com/blog",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Vercel",
+   "url": "https://vercel.com/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Guillermo+Rauch",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Guillermo+Rauch",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Guillermo+Rauch",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Guillermo+Rauch&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Guillermo+Rauch&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Guillermo+Rauch",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Guillermo+Rauch",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Guillermo+Rauch&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Vercel",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-07-09",
+   "kind": "interview",
+   "title": {
+    "en": "Vercel's AI agent strategy: coding and internal automation",
+    "zh": "Vercel 的 AI agent 战略：编码与内部自动化"
+   },
+   "source": "The AI Insider",
+   "url": "https://theaiinsider.tech/2026/07/09/vercel-ceo-guillermo-rauch-details-ai-agent-strategy-as-coding-and-internal-automation-emerge-as-key-use-cases/",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-09-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "▲ ~/𝚛𝚊𝚞𝚌𝚑𝚐/𝚘𝚜𝚜-𝚐𝚛𝚊𝚗𝚝𝚜/ 𝚕𝚜▐ (v2) I'm announcing v2 of my open source grants of $1,000USD to 35 awesome contributors. The themes: ① Agent skills & tools Skills ar",
+    "zh": "▲ ~/𝚛𝚊𝚞𝚌𝚑𝚐/𝚘𝚜𝚜-𝚐𝚛𝚊𝚗𝚝𝚜/ 𝚕𝚜▐ (v2) I'm announcing v2 of my open source grants of $1,000USD to 35 awesome contributors. The themes: ① Agent skills & tools Skills ar"
+   },
+   "source": "@rauchg",
+   "url": "https://x.com/rauchg/status/2097116011384426516",
+   "note": {
+    "en": "Rauch announced the second round of his $1,000 open-source grants, funding 35 contributors focused on agent skills and tools.",
+    "zh": "Rauch宣布第二期开源资助计划，向35位贡献者提供1000美元资金，重点支持智能体技能与工具方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Your software factory needs high quality video recording. 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 delivers. We’re shipping more functionality derived from the lessons of automating the n",
+    "zh": "Your software factory needs high quality video recording. 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 delivers. We’re shipping more functionality derived from the lessons of automating the n"
+   },
+   "source": "@rauchg",
+   "url": "https://x.com/rauchg/status/2097134278358548658",
+   "note": {
+    "en": "Rauch previewed new video-recording capability for agent-browser, built for automating software engineering workflows.",
+    "zh": "Rauch展示了agent-browser新增的高质量视频录制功能，服务于软件工程自动化场景。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T15:23:50Z",
+   "kind": "x",
+   "title": {
+    "en": "https://t.co/3Z4NESzNKd keeps getting faster and smaller libfx now takes &lt;𝟸𝚖𝚜 to initialize cold in @nodejs / @bunjavascript, compared to pure-JS harnesses t",
+    "zh": "https://t.co/3Z4NESzNKd keeps getting faster and smaller libfx now takes &lt;𝟸𝚖𝚜 to initialize cold in @nodejs / @bunjavascript, compared to pure-JS harnesses t"
+   },
+   "source": "@rauchg",
+   "url": "https://x.com/rauchg/status/2097345173302992941",
+   "note": {
+    "en": "Rauch shared that libfx now cold-initializes in under 2ms on Node.js and Bun, far faster than pure-JS harnesses.",
+    "zh": "Rauch透露libfx在Node.js和Bun上的冷启动时间已缩短至2毫秒以内，远快于纯JS方案。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T18:20:52Z",
+   "kind": "x",
+   "title": {
+    "en": "You can now go viral on 𝕏 without the stress of runaway CDN bills. Crucially, without sacrificing our S-tier network performance. AI is making devs and startups",
+    "zh": "You can now go viral on 𝕏 without the stress of runaway CDN bills. Crucially, without sacrificing our S-tier network performance. AI is making devs and startups"
+   },
+   "source": "@rauchg",
+   "url": "https://x.com/rauchg/status/2097389725233586673",
+   "note": {
+    "en": "Rauch argued Vercel's new Flat Rate CDN lets apps go viral on X without runaway bandwidth costs.",
+    "zh": "Rauch表示Vercel新推出的Flat Rate CDN让应用在X上爆红也不用担心带宽费用失控。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T19:35:51Z",
+   "kind": "x",
+   "title": {
+    "en": "Chat has won. It's all chat + computer from this point on",
+    "zh": "Chat has won. It's all chat + computer from this point on"
+   },
+   "source": "@rauchg",
+   "url": "https://x.com/rauchg/status/2097408592290971956",
+   "note": {
+    "en": "Rauch declared that chat interfaces have won as the default paradigm, calling it 'chat + computer' going forward.",
+    "zh": "Rauch宣称聊天界面已成为默认交互范式，认为今后就是'聊天+计算机'的形态。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "\"Where do you want to go today?\" In 1994 Microsoft launched an ad campaign under this motto. I think it represented the potential of computing very well, but it",
+    "zh": "\"Where do you want to go today?\" In 1994 Microsoft launched an ad campaign under this motto. I think it represented the potential of computing very well, but it"
+   },
+   "source": "@rauchg",
+   "url": "https://x.com/rauchg/status/2096991530141782125",
+   "note": {
+    "en": "Rauch reflects on Microsoft's 1994 'Where do you want to go today?' campaign as a lens on how the internet and computing have realized that potential.",
+    "zh": "劳赫以微软1994年\"你今天想去哪里？\"广告语为切入点，反思互联网和计算是如何实现这一愿景的。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The case for *total* Linux victory (desktop, mobile, server, iot, robots, embedded…): 1) Most agent-programmable People will want fully personalized computing e",
+    "zh": "The case for *total* Linux victory (desktop, mobile, server, iot, robots, embedded…): 1) Most agent-programmable People will want fully personalized computing e"
+   },
+   "source": "@rauchg",
+   "url": "https://x.com/rauchg/status/2096995831123734917",
+   "note": {
+    "en": "Rauch argues for a coming 'total Linux victory' across desktop, mobile, server, IoT, robots and embedded devices, driven by agent-programmable computing.",
+    "zh": "劳赫认为在可由智能体编程的计算趋势推动下，Linux将在桌面、移动、服务器、物联网、机器人和嵌入式设备等领域取得\"全面胜利\"。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Super bullish on WebMCP. Much like Tesla FSD meets the world where it is (streets, stoplights, potholes and all), agents *need* to ride the existing WWW infrast",
+    "zh": "Super bullish on WebMCP. Much like Tesla FSD meets the world where it is (streets, stoplights, potholes and all), agents *need* to ride the existing WWW infrast"
+   },
+   "source": "@rauchg",
+   "url": "https://x.com/rauchg/status/2096065378598441431",
+   "note": {
+    "en": "Rauch argues WebMCP lets AI agents work with the web as it exists rather than needing new infrastructure, comparing it to how Tesla FSD operates within existing roads.",
+    "zh": "Rauch认为WebMCP让AI智能体能够在现有网络基础设施上直接工作，而无需全新基建，并将其类比为特斯拉FSD在现有道路体系中运行。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Astra is now the best cybersecurity model in the world on @vercel DeepsecBench. It pulls off in 49 minutes what took Sol ~4 hours, with a better score, at nearl",
+    "zh": "Astra is now the best cybersecurity model in the world on @vercel DeepsecBench. It pulls off in 49 minutes what took Sol ~4 hours, with a better score, at nearl"
+   },
+   "source": "@rauchg",
+   "url": "https://x.com/rauchg/status/2096285043094405491",
+   "note": {
+    "en": "Rauch says OpenAI's Astra now tops Vercel's DeepsecBench for cybersecurity, completing tasks faster and cheaper than the prior leader.",
+    "zh": "Rauch表示OpenAI的Astra模型目前在Vercel的DeepsecBench网络安全测试中排名第一，完成任务的速度更快、成本更低。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Anyone that works in AI is working the hardest they've ever worked in their lives. On the surface it's somewhat ironic (AI should give us back time!), but the r",
+    "zh": "Anyone that works in AI is working the hardest they've ever worked in their lives. On the surface it's somewhat ironic (AI should give us back time!), but the r"
+   },
+   "source": "@rauchg",
+   "url": "https://x.com/rauchg/status/2096375803714138437",
+   "note": {
+    "en": "Rauch argued that everyone working in AI right now is putting in the hardest work of their lives, despite the irony that AI is supposed to save people time.",
+    "zh": "Rauch认为，如今所有从事AI工作的人都在经历人生中最拼的阶段，尽管讽刺的是AI本该为人们节省时间。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "AI software factories will yield bug-free, self-improving software",
+    "zh": "AI software factories will yield bug-free, self-improving software"
+   },
+   "source": "@rauchg",
+   "url": "https://x.com/rauchg/status/2095926173293572467",
+   "note": {
+    "en": "Rauch argued AI software factories will produce bug-free, self-improving software, a stance on where AI coding tools are headed.",
+    "zh": "Rauch提出AI软件工厂将产出无bug、能自我改进的软件，表达了他对AI编程工具发展方向的看法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "“Feedback is a gift” has always been a favorite mantra of mine and a strongly-held belief. Now it’s fact. Each piece of feedback is someone gifting you a prompt",
+    "zh": "“Feedback is a gift” has always been a favorite mantra of mine and a strongly-held belief. Now it’s fact. Each piece of feedback is someone gifting you a prompt"
+   },
+   "source": "@rauchg",
+   "url": "https://x.com/rauchg/status/2095720463397753000",
+   "note": {
+    "en": "Rauch framed user feedback as effectively a prompt gifted to an agent, connecting a personal mantra to AI-driven development workflows.",
+    "zh": "Rauch将用户反馈类比为送给智能体的提示词，把他一贯的信条与AI驱动的开发流程联系起来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "If you intern at Vercel, you can work on incredible projects like this one. Improving Next.js chunking can yield massive efficiency improvements at internet sca",
+    "zh": "If you intern at Vercel, you can work on incredible projects like this one. Improving Next.js chunking can yield massive efficiency improvements at internet sca"
+   },
+   "source": "@rauchg",
+   "url": "https://x.com/rauchg/status/2095640323892629726",
+   "note": {
+    "en": "Rauch praised an intern's writeup on improving Next.js chunking, noting it can yield major efficiency gains at internet scale.",
+    "zh": "Rauch称赞一名实习生关于改进Next.js分块机制的文章，指出该优化可在互联网规模上带来显著效率提升。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Run ▲ ~/ vercel ai-gateway coding-agents setup Points all coding agents to AI Gateway, getting you 100% uptime, observability, budgets, and ease of switching.",
+    "zh": "Run ▲ ~/ vercel ai-gateway coding-agents setup Points all coding agents to AI Gateway, getting you 100% uptime, observability, budgets, and ease of switching."
+   },
+   "source": "@rauchg",
+   "url": "https://x.com/rauchg/status/2095534442198839758",
+   "note": {
+    "en": "Rauch showcased a one-line setup that points coding agents at Vercel's AI Gateway for high uptime, observability and budget controls.",
+    "zh": "Rauch展示了一条命令即可将编码代理接入Vercel AI Gateway，从而获得高可用性、可观测性和预算管控。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Excited to partner with and support @tannerlinsley and team, champion of React, open source, and the web What this means for our customers: whether you choose @",
+    "zh": "Excited to partner with and support @tannerlinsley and team, champion of React, open source, and the web What this means for our customers: whether you choose @"
+   },
+   "source": "@rauchg",
+   "url": "https://x.com/rauchg/status/2094901483414372716",
+   "note": {
+    "en": "Guillermo Rauch announced a Vercel partnership with Tanner Linsley and TanStack, pledging support alongside Next.js for React and the open-source ecosystem.",
+    "zh": "Guillermo Rauch宣布Vercel与Tanner Linsley及TanStack建立合作，承诺与Next.js一样支持React和开源生态。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Fable 5.1 now on @vercel AI Gateway Try it with https://t.co/OL0LzGtvAw. Every model at your fingertips 🥹",
+    "zh": "Fable 5.1 now on @vercel AI Gateway Try it with https://t.co/OL0LzGtvAw. Every model at your fingertips 🥹"
+   },
+   "source": "@rauchg",
+   "url": "https://x.com/rauchg/status/2094867652573528074",
+   "note": {
+    "en": "Guillermo Rauch announced that Claude Fable 5.1 is now available on Vercel's AI Gateway.",
+    "zh": "Guillermo Rauch宣布Claude Fable 5.1已上线Vercel的AI Gateway。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Fluid is the thing that has enabled Vercel's: ◾ Industry-leading Build performance ◾ Sandbox reliability & massive concurrency ◾ 30min Function durations (& soo",
+    "zh": "Fluid is the thing that has enabled Vercel's: ◾ Industry-leading Build performance ◾ Sandbox reliability & massive concurrency ◾ 30min Function durations (& soo"
+   },
+   "source": "@rauchg",
+   "url": "https://x.com/rauchg/status/2094831747037085978",
+   "note": {
+    "en": "Guillermo Rauch explained how Vercel's Fluid compute underpins its build performance, sandbox concurrency and long-running functions.",
+    "zh": "Guillermo Rauch说明了Vercel的Fluid计算如何支撑其构建性能、沙箱并发能力以及长时间运行的函数。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-01",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Vercel 🤝 AWS",
+    "zh": "Vercel 🤝 AWS"
+   },
+   "source": "@rauchg",
+   "url": "https://x.com/rauchg/status/2094805788938424760",
+   "note": {
+    "en": "Guillermo Rauch announced a partnership between Vercel and AWS.",
+    "zh": "Guillermo Rauch宣布Vercel与AWS达成合作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-31",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Your next design system is… Markdown. We wrote about how 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍 is helping solve the hardest problem in AI today: slop. And how you can truly, finally scale",
+    "zh": "Your next design system is… Markdown. We wrote about how 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍 is helping solve the hardest problem in AI today: slop. And how you can truly, finally scale"
+   },
+   "source": "@rauchg",
+   "url": "https://x.com/rauchg/status/2094541309579235680",
+   "note": {
+    "en": "Rauch argued design systems are moving to Markdown, presenting DESIGN.md as a way to scale design taste across large organizations and curb AI-generated \"slop.\"",
+    "zh": "Rauch提出设计系统正在转向Markdown，认为DESIGN.md能帮助大型组织规模化地保持设计品味，并遏制AI生成内容的“劣质化”问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-31",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Coding tokens are basically infrastructure. Yet, the way companies have approached them amounts to: \"Hey all, here's an AWS key. It can spin up anything from a",
+    "zh": "Coding tokens are basically infrastructure. Yet, the way companies have approached them amounts to: \"Hey all, here's an AWS key. It can spin up anything from a"
+   },
+   "source": "@rauchg",
+   "url": "https://x.com/rauchg/status/2094523399280435630",
+   "note": {
+    "en": "Rauch argued coding tokens should be treated as real infrastructure rather than handed out like an unrestricted cloud key.",
+    "zh": "Rauch认为编码token应被当作真正的基础设施来管理，而不是像不受限的云密钥一样随意发放。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "When something goes viral on the internet, especially on X, it attracts all kinds of attention. Including some of the largest botnets on the internet launching",
+    "zh": "When something goes viral on the internet, especially on X, it attracts all kinds of attention. Including some of the largest botnets on the internet launching"
+   },
+   "source": "@rauchg",
+   "url": "https://x.com/rauchg/status/2094141838055940530",
+   "note": {
+    "en": "Rauch discussed how viral moments on X attract large botnets that launch targeted DDoS attacks from hijacked devices.",
+    "zh": "Rauch谈到X上的爆火内容会吸引大型僵尸网络，利用被劫持设备发起针对性的DDoS攻击。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-30",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Two days ago JFrog dropped CVE-2026-82329, a critical authentication bypass in Artifactory. It’s a CVSS 9.8, a disastrous vulnerability score. It’s like a 9.8 e",
+    "zh": "Two days ago JFrog dropped CVE-2026-82329, a critical authentication bypass in Artifactory. It’s a CVSS 9.8, a disastrous vulnerability score. It’s like a 9.8 e"
+   },
+   "source": "@rauchg",
+   "url": "https://x.com/rauchg/status/2094122005193003077",
+   "note": {
+    "en": "Rauch flagged a critical CVSS 9.8 authentication-bypass vulnerability in JFrog Artifactory, comparing its severity to a major earthquake.",
+    "zh": "Rauch指出JFrog Artifactory中存在一个CVSS评分9.8的严重身份验证绕过漏洞，将其严重性比作一场大地震。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-07-10",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ethics, Pivots, and the Future of Work: A Live Q&A with Vercel's Guillermo Rauch",
+    "zh": "Ethics, Pivots, and the Future of Work: A Live Q&A with Vercel's Guillermo Rauch"
+   },
+   "source": "Founders in Arms",
+   "url": "https://podcasts.apple.com/us/podcast/ethics-pivots-and-the-future-of-work-a/id1679703534?i=1000776310188&uo=4",
+   "note": {
+    "en": "Live audience Q&A covering the ethics of AI-generated software, when to pivot, and how agentic tooling changes the shape of engineering work.",
+    "zh": "面向现场观众的问答，谈 AI 生成软件的伦理问题、何时该转型，以及智能体工具如何改变工程工作的形态。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-06-18",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Will Agents Surpass Humans? with Vercel CEO Guillermo Rauch | 🟡🔴🔵 MTS Live",
+    "zh": "Will Agents Surpass Humans? with Vercel CEO Guillermo Rauch | 🟡🔴🔵 MTS Live"
+   },
+   "source": "MTS",
+   "url": "https://podcasts.apple.com/us/podcast/will-agents-surpass-humans-with-vercel-ceo-guillermo/id1891088763?i=1000773307118&uo=4",
+   "note": {
+    "en": "Interview on the growth of AI coding agents, the guardrails enterprises need before letting them deploy autonomously, and how visual and prompt-driven building are converging.",
+    "zh": "访谈聚焦 AI 编码智能体的快速增长、企业允许其自主部署前所需的安全护栏，以及可视化搭建与提示驱动开发的融合。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-05-29",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Guillermo Rauch at Founders in Arms Live: Simplicity, Focus, and the Bet That Built Vercel",
+    "zh": "Guillermo Rauch at Founders in Arms Live: Simplicity, Focus, and the Bet That Built Vercel"
+   },
+   "source": "Founders in Arms",
+   "url": "https://podcasts.apple.com/us/podcast/guillermo-rauch-at-founders-in-arms-live-simplicity/id1679703534?i=1000770217380&uo=4",
+   "note": {
+    "en": "Live podcast conversation in which Rauch traces how Vercel and Next.js were built and the bets behind them.",
+    "zh": "播客现场对谈，Guillermo Rauch 回顾 Vercel 与 Next.js 的构建过程以及背后的几次押注。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-02-04",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Guillermo Rauch: Vercel CEO on how v0 hit 3,200 PRs merged per day (and lets anyone ship)",
+    "zh": "Guillermo Rauch: Vercel CEO on how v0 hit 3,200 PRs merged per day (and lets anyone ship)"
+   },
+   "source": "How I AI",
+   "url": "https://podcasts.apple.com/us/podcast/guillermo-rauch-vercel-ceo-on-how-v0-hit-3-200-prs/id1809663079?i=1000748077601&uo=4",
+   "note": {
+    "en": "Demo-led episode showing how v0 grew from a prototyping tool into a full Git-backed development environment merging thousands of pull requests a day.",
+    "zh": "以演示为主的一期节目，展示 v0 如何从原型工具成长为完整的、接入 Git 工作流的开发环境，每天合并数千个 PR。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-10-29",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Vercel CEO Shows His v0 Workflow to Build 10X Faster (& 5 $1M+ AI Startup Ideas)",
+    "zh": "Vercel CEO Shows His v0 Workflow to Build 10X Faster (& 5 $1M+ AI Startup Ideas)"
+   },
+   "source": "The Startup Ideas Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/vercel-ceo-shows-his-v0-workflow-to-build-10x-faster/id1593424985?i=1000734098333&uo=4",
+   "note": {
+    "en": "Rauch walks through his own v0 workflow for building products fast, as a guest on The Startup Ideas Podcast.",
+    "zh": "Rauch作为嘉宾做客The Startup Ideas Podcast，展示了他用v0快速构建产品的个人工作流程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-10-27",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Suno Sparks Music Rights Firestorm, Travis Kelce’s Six Flags Play | Philip Johnston, Justin Murphy, Darren Rovell, Guillermo Rauch, Brendan Foody",
+    "zh": "Suno Sparks Music Rights Firestorm, Travis Kelce’s Six Flags Play | Philip Johnston, Justin Murphy, Darren Rovell, Guillermo Rauch, Brendan Foody"
+   },
+   "source": "TBPN",
+   "url": "https://podcasts.apple.com/us/podcast/suno-sparks-music-rights-firestorm-travis-kelces-six/id1772360235?i=1000733773771&uo=4",
+   "note": {
+    "en": "Rauch appears as a guest on the TBPN roundtable alongside others discussing Suno's music-rights dispute and Travis Kelce's stake in Six Flags.",
+    "zh": "劳赫作为嘉宾参加TBPN圆桌节目，与其他嘉宾讨论Suno的音乐版权纠纷及Travis Kelce入股Six Flags等话题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-08-13",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Best of the Pod: Vercel's Guillermo Rauch on AI and the Future of Coding",
+    "zh": "Best of the Pod: Vercel's Guillermo Rauch on AI and the Future of Coding"
+   },
+   "source": "AI & I",
+   "url": "https://podcasts.apple.com/us/podcast/best-of-the-pod-vercels-guillermo-rauch-on-ai/id1719789201?i=1000721818697&uo=4",
+   "note": {
+    "en": "Rauch appeared on the AI & I podcast to discuss AI and the future of coding.",
+    "zh": "Rauch做客AI & I播客，探讨AI与编程的未来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-08-06",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Uncapped #20 | Guillermo Rauch from Vercel",
+    "zh": "Uncapped #20 | Guillermo Rauch from Vercel"
+   },
+   "source": "Uncapped with Jack Altman",
+   "url": "https://podcasts.apple.com/us/podcast/uncapped-20-guillermo-rauch-from-vercel/id1801867202?i=1000720867027&uo=4",
+   "note": {
+    "en": "Interview with Jack Altman on building Vercel and on v0's role in how large brands now put their web presence together.",
+    "zh": "与 Jack Altman 的访谈，谈 Vercel 的成长，以及 v0 在大型品牌如今如何搭建网站中所扮演的角色。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-08-05",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Vercel CEO Guillermo Rauch: Building the Generative Web with AI",
+    "zh": "Vercel CEO Guillermo Rauch: Building the Generative Web with AI"
+   },
+   "source": "Training Data",
+   "url": "https://podcasts.apple.com/us/podcast/vercel-ceo-guillermo-rauch-building-the-generative/id1750736528?i=1000720697903&uo=4",
+   "note": {
+    "en": "Sequoia interview on his long project of removing friction between an idea and a deployed site, and what a generative web would mean for software.",
+    "zh": "红杉的访谈，谈他长期致力于消除从想法到上线之间的摩擦，以及生成式网页对软件意味着什么。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-04-13",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Everyone’s an engineer now: Inside v0’s mission to create a hundred million builders | Guillermo Rauch (founder and CEO of Vercel, creators of v0 and Next.js)",
+    "zh": "Everyone’s an engineer now: Inside v0’s mission to create a hundred million builders | Guillermo Rauch (founder and CEO of Vercel, creators of v0 and Next.js)"
+   },
+   "source": "Lenny's Podcast: Product | Career | Gr…",
+   "url": "https://podcasts.apple.com/us/podcast/everyones-an-engineer-now-inside-v0s-mission-to/id1627920305?i=1000703341827&uo=4",
+   "note": {
+    "en": "Lenny's Podcast interview on v0's aim of turning a hundred million people into builders and what that does to the definition of an engineer.",
+    "zh": "Lenny's Podcast 访谈，谈 v0 让一亿人成为开发者的目标，以及这将如何改变「工程师」的定义。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-03-17",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Guillermo Rauch: The Product Visionary Fueling Vercel and Millions of Developers",
+    "zh": "Guillermo Rauch: The Product Visionary Fueling Vercel and Millions of Developers"
+   },
+   "source": "Pattern Breakers",
+   "url": "https://podcasts.apple.com/us/podcast/guillermo-rauch-the-product-visionary-fueling-vercel/id1488560647?i=1000699461362&uo=4",
+   "note": {
+    "en": "Pattern Breakers interview tracing his route from teaching himself to code in Argentina to leading product at Vercel.",
+    "zh": "Pattern Breakers 访谈，回溯他从在阿根廷自学编程到主导 Vercel 产品的历程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-02-27",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Guillermo Rauch — Upbringings, Education, Career, NextJS, Vercel, V0, Advises and More",
+    "zh": "Guillermo Rauch — Upbringings, Education, Career, NextJS, Vercel, V0, Advises and More"
+   },
+   "source": "Dagmawi Babi Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/guillermo-rauch-upbringings-education-career-nextjs/id1778878566?i=1000696531008&uo=4",
+   "note": {
+    "en": "Wide-ranging interview on his upbringing and education, the origins of Next.js, and how Vercel and v0 fit together.",
+    "zh": "内容广泛的访谈，谈他的成长与教育经历、Next.js 的由来，以及 Vercel 与 v0 之间的关系。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-02-18",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Building Web Apps with Just English and AI (with Vercel CEO Guillermo Rauch)",
+    "zh": "Building Web Apps with Just English and AI (with Vercel CEO Guillermo Rauch)"
+   },
+   "source": "ACQ2 by Acquired",
+   "url": "https://podcasts.apple.com/us/podcast/building-web-apps-with-just-english-and-ai-with/id1597212401?i=1000693234167&uo=4",
+   "note": {
+    "en": "ACQ2 interview on Vercel's position as the front-end platform behind companies from Stripe to Adobe, and on building web apps from plain English.",
+    "zh": "ACQ2 访谈，谈 Vercel 作为 Stripe、Adobe 等公司前端平台的定位，以及用自然语言构建网页应用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-02-05",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Vercel’s Guillermo Rauch on What Comes After Coding - Ep. 47",
+    "zh": "Vercel’s Guillermo Rauch on What Comes After Coding - Ep. 47"
+   },
+   "source": "AI & I",
+   "url": "https://podcasts.apple.com/us/podcast/vercels-guillermo-rauch-on-what-comes-after-coding-ep-47/id1719789201?i=1000713445129&uo=4",
+   "note": {
+    "en": "On the AI & I podcast, Guillermo Rauch discussed how AI is reshaping coding and how he now thinks of his own role beyond writing code.",
+    "zh": "Guillermo Rauch在AI & I播客中探讨了AI如何重塑编程，以及他如何重新看待写代码之外的自身角色。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-03-25",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Guillermo Rauch - Vercel, The Front End Cloud",
+    "zh": "Guillermo Rauch - Vercel, The Front End Cloud"
+   },
+   "source": "devtools.fm: Developer Tools, Open Sou…",
+   "url": "https://podcasts.apple.com/us/podcast/guillermo-rauch-vercel-the-front-end-cloud/id1566647758?i=1000648692092&uo=4",
+   "note": {
+    "en": "Rauch appeared on devtools.fm to discuss Vercel, Next.js and how web development is changing.",
+    "zh": "Rauch做客devtools.fm播客，谈论Vercel、Next.js以及网页开发的变化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-11-08",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#1271 Guillermo Rauch | Artificial Intelligence Will Change Everything",
+    "zh": "#1271 Guillermo Rauch | Artificial Intelligence Will Change Everything"
+   },
+   "source": "The Pomp Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/1271-guillermo-rauch-artificial-intelligence-will-change/id1434060078?i=1000634192184&uo=4",
+   "note": {
+    "en": "Interview on how AI changes what developers build and on Vercel's bet on frameworks, workflows and infrastructure for a more personalised web.",
+    "zh": "访谈谈 AI 如何改变开发者的构建方式，以及 Vercel 在框架、工作流与基础设施上押注更个性化网页的思路。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-10-06",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "20VC: Why Great Companies are Defined by How Many Things They Say No To, Why Being First Does Not Matter & Why Market Over Traction or Team is the Most Important Thing with Guillermo Rauch, Founder & CEO @ Vercel",
+    "zh": "20VC: Why Great Companies are Defined by How Many Things They Say No To, Why Being First Does Not Matter & Why Market Over Traction or Team is the Most Important Thing with Guillermo Rauch, Founder & CEO @ Vercel"
+   },
+   "source": "The Twenty Minute VC (20VC): Venture C…",
+   "url": "https://podcasts.apple.com/us/podcast/20vc-why-great-companies-are-defined-by-how-many-things/id958230465?i=1000630432411&uo=4",
+   "note": {
+    "en": "20VC interview on saying no as a company-building discipline, why being first matters less than market, and how he has raised and deployed Vercel's capital.",
+    "zh": "20VC 访谈，谈把「拒绝」当作公司建设的纪律、为何先发不如市场重要，以及他如何为 Vercel 融资与配置资金。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-08-31",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AI Superpowers for Frontend Developers, with Vercel Founder/CEO Guillermo Rauch",
+    "zh": "AI Superpowers for Frontend Developers, with Vercel Founder/CEO Guillermo Rauch"
+   },
+   "source": "No Priors: Artificial Intelligence | T…",
+   "url": "https://podcasts.apple.com/us/podcast/ai-superpowers-for-frontend-developers-with-vercel/id1668002688?i=1000626309271&uo=4",
+   "note": {
+    "en": "No Priors interview arguing that AI development can be front-end-first, and what that gives web developers.",
+    "zh": "No Priors 访谈，他提出 AI 开发也可以「前端优先」，并谈这为网页开发者带来了什么。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-06-09",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Dev infrastructure, with Guillermo Rauch (Vercel) - S03E01",
+    "zh": "Dev infrastructure, with Guillermo Rauch (Vercel) - S03E01"
+   },
+   "source": "Console DevTools",
+   "url": "https://podcasts.apple.com/us/podcast/dev-infrastructure-with-guillermo-rauch-vercel-s03e01/id1572448316?i=1000565744756&uo=4",
+   "note": {
+    "en": "A Console DevTools interview in which Rauch discusses what developer experience actually means and how Vercel absorbs infrastructure complexity on behalf of application developers.",
+    "zh": "在 Console DevTools 播客中接受访谈，讨论「开发者体验」究竟意味着什么，以及 Vercel 如何替应用开发者消化基础设施的复杂度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-04-13",
+   "level": "notable",
+   "title": {
+    "en": "Signals IPO readiness as agent traffic drives revenue",
+    "zh": "随 agent 流量推动收入增长释放 IPO 准备信号"
+   },
+   "body": {
+    "en": "ARR run rate reached ~$340M by end of February 2026, up from $100M at the start of 2024. Vercel serves 6M deployments daily — roughly half triggered by coding agents — and passes over 1 trillion tokens a day through its AI Gateway.",
+    "zh": "截至 2026 年 2 月底 ARR 年化约 3.4 亿美元，2024 年初为 1 亿。Vercel 日均 600 万次部署（约一半由编码 agent 触发），AI Gateway 日均通过超 1 万亿 token。"
+   },
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/"
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T22:09:47Z",
+   "level": "notable",
+   "title": {
+    "en": "Vercel CEO Guillermo Rauch: Software Output Next Year May Exceed Entire Computing History",
+    "zh": "Vercel CEO Guillermo Rauch: Software Output Next Year May Exceed Entire Computing History"
+   },
+   "body": {
+    "en": "Rauch predicted next year's AI-generated software output could exceed the entire history of human computing.",
+    "zh": "劳赫预测明年AI生成的软件产出可能超过人类计算历史的总和。"
+   },
+   "source": "ababnews.com",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qMG5vNlQxRUwxYXdiUHM1eTdEWl9oZHhqOUJNUTQzSkFVUXU4R2lvaUY2b2FCMWM3bEtzZ1QxQjFsMkZ5TXphaUlfWnJkSWQ0UmZyeXM5bC1qSGhfb3oxS1ZUTkROekdsVDlTUGlmTmdvaWtw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-25",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Guillermo Rauch says AI agents now trigger more than half of all Vercel deployments",
+    "zh": "Guillermo Rauch says AI agents now trigger more than half of all Vercel deployments"
+   },
+   "body": {
+    "en": "Rauch said AI agents now trigger more than half of all deployments on Vercel, a concrete data point on AI's role in software delivery.",
+    "zh": "Rauch表示AI智能体目前已触发Vercel上超过一半的部署，这是AI在软件交付中作用的具体数据佐证。"
+   },
+   "source": "Startup Fortune",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdlpYMXh4U2xPV0dhZDZYdG01UGl1NU9SdWJIUi1iajFzUFcyN3pUS0FDV19mTWtMSHlpT3V6VnRyT0VkT1dLeTdzcWJUV1V5Skp0b1VMOVdJRG96d3YtbnhmbnJaeFZYdmNwWG5mQ183Qmp3cnN0WjI2THNSeFN1WXFhbXlUNlRTX2RkaWFDZjl2a3o3Zjl6WHFIS3FNQUhxeEFCd3Jnd0ZNOEozckNINA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-04-13",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+    "zh": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge"
+   },
+   "body": {
+    "en": "Rauch signalled Vercel is ready for an IPO as agent-driven usage lifted revenue.",
+    "zh": "Guillermo Rauch 表示，随着智能体带动收入增长，Vercel 已具备 IPO 条件。"
+   },
+   "source": "techcrunch.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ2tDeVR0TUVrWFVtc1RZdEJIWDBYTHFoUTN5Mzd5MVN0NFhteV9fQnNjemNZVGV2VmtQTnJ6VHZDaXpNYnh0Q2VRb1FoSUZzUzRHNUJZdjVhMENoellBblRvYlJhMm9iclAtZm1wTVJqQ0xXMlFjckk2bkdDMlZWUzI5QXpWX2FqSFFvX0xLQnR3cFJwRTJ0TXFnTEhfTktIUGpZcjFaU0F5REZVTnpJai1yeE42dw?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "product",
+ "score": {
+  "total": 36.7,
+  "attention": null,
+  "centrality": 35,
+  "momentum": 38,
+  "stature": null,
+  "pageviews": 0,
+  "citations": 9,
+  "hIndex": 1,
+  "events": 4,
+  "posts": 42,
+  "wikiEn": null,
+  "wikiZh": null
+ },
+ "seedRank": 68,
+ "tier": "t4"
+}

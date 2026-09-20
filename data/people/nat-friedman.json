@@ -1,0 +1,1308 @@
+{
+ "rank": 58,
+ "id": "nat-friedman",
+ "name": {
+  "en": "Nat Friedman",
+  "zh": "Nat Friedman"
+ },
+ "role": {
+  "en": "Co-lead, Meta Superintelligence Labs (products & applied research)",
+  "zh": "Meta 超级智能实验室联席负责人（产品与应用研究）"
+ },
+ "org": "Meta",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "Meta",
+  "MSL",
+  "GitHub",
+  "Copilot",
+  "Open source"
+ ],
+ "why": {
+  "en": "Former GitHub CEO who shipped Copilot into existence, then spent years as the investor most deeply embedded in the open-model ecosystem. Co-leads Meta's superintelligence org on the product side.",
+  "zh": "前 GitHub CEO，主导 Copilot 诞生，此后多年作为投资人深度介入开源模型生态。现于产品侧联合领导 Meta 超级智能组织。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@natfriedman",
+   "url": "https://x.com/natfriedman",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "nat.org",
+   "url": "https://nat.org/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — @natfriedman",
+   "url": "https://medium.com/@natfriedman",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @nat",
+   "url": "https://github.com/nat",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Meta AI Blog",
+   "url": "https://ai.meta.com/blog/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Nat+Friedman",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Nat+Friedman",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Nat+Friedman",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Nat+Friedman&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Nat+Friedman&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Nat+Friedman",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Nat+Friedman",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Nat+Friedman&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nat_Friedman",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2024-01-01",
+   "kind": "blog",
+   "title": {
+    "en": "nat.org — essays and notes",
+    "zh": "nat.org —— 随笔与笔记"
+   },
+   "source": "nat.org",
+   "url": "https://nat.org/",
+   "note": {
+    "en": "Long-running personal site; the clearest record of how he reads the open-model ecosystem.",
+    "zh": "长期运营的个人站点，是理解他如何看待开源模型生态的最清晰记录。"
+   }
+  },
+  {
+   "date": "2026-07-16",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Vesuvius Challenge has been quietly making a lot of progress; we read a full scroll, developed a new unwrapping algorithm with a global spiral prior, and we jus",
+    "zh": "Vesuvius Challenge has been quietly making a lot of progress; we read a full scroll, developed a new unwrapping algorithm with a global spiral prior, and we jus"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/2077768084471808090",
+   "note": {
+    "en": "Friedman announced Vesuvius Challenge progress — reading a full scroll with a new global-spiral unwrapping algorithm — and launched a new $1M grand prize for reading ancient scrolls.",
+    "zh": "弗里德曼宣布维苏威挑战赛的新进展——用新的全局螺旋展开算法读出了完整的一卷古卷——并为破译古卷设立了新的100万美元大奖。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2026-06-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Complete virtual unwrapping and reading of a rolled Herculaneum papyrus",
+    "zh": "Complete virtual unwrapping and reading of a rolled Herculaneum papyrus"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.29085v1",
+   "note": {
+    "en": "Nat Friedman is a listed author on a paper announcing the complete virtual unwrapping and reading of a rolled Herculaneum papyrus, part of the Vesuvius Challenge he co-founded.",
+    "zh": "Nat Friedman是该论文的署名作者之一，论文宣布了一卷赫库兰尼姆纸莎草古卷的完整虚拟展开与解读，这是他共同发起的“维苏威挑战”项目的一部分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-07-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Started work at Meta this week. My job is to make amazing AI products that billions of people love to use. It won't happen overnight, but a few days in, I'm fee",
+    "zh": "Started work at Meta this week. My job is to make amazing AI products that billions of people love to use. It won't happen overnight, but a few days in, I'm fee"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1940682802644852999",
+   "note": {
+    "en": "Friedman announced he started at Meta to build AI products, confirming his move to co-lead Meta Superintelligence Labs on the product side.",
+    "zh": "弗里德曼宣布他已加入Meta,负责打造AI产品,确认了他转任Meta超级智能实验室产品端联合负责人的身份。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-05-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We found the title of a scroll for the first time! This cylinder of charcoal turns out to be \"On Vices, Book 1\" by Philodemus https://t.co/3RrM0a4M2n",
+    "zh": "We found the title of a scroll for the first time! This cylinder of charcoal turns out to be \"On Vices, Book 1\" by Philodemus https://t.co/3RrM0a4M2n"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1919532247696429380",
+   "note": {
+    "en": "Vesuvius Challenge identified the title of a Herculaneum scroll for the first time: Philodemus's 'On Vices, Book 1.'",
+    "zh": "维苏威挑战赛首次识别出一卷赫库兰尼姆古卷的标题:菲洛德姆斯的《论恶行·卷一》。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-04-17",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Anyone have a mexico government connection? A project I’m supporting to LIDAR the jungle there just got rejected by some bureaucrat. Please DM if you can help.",
+    "zh": "Anyone have a mexico government connection? A project I’m supporting to LIDAR the jungle there just got rejected by some bureaucrat. Please DM if you can help."
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1912902629174444526",
+   "note": {
+    "en": "Friedman revealed he is backing a project to LIDAR-scan jungle in Mexico, after it was rejected by a government official, and sought help unblocking it.",
+    "zh": "弗里德曼透露他在支持一个对墨西哥丛林进行激光雷达扫描的项目,该项目被一名政府官员驳回,他正寻求帮助推动此事。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-03-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Exciting PlasticList update: We were honored to work with @bobaguys to identify and eliminate the sources of BPA contamination, and their teas are now BPA-free!",
+    "zh": "Exciting PlasticList update: We were honored to work with @bobaguys to identify and eliminate the sources of BPA contamination, and their teas are now BPA-free!"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1899641377002025252",
+   "note": {
+    "en": "Friedman's PlasticList project worked with a tea maker to eliminate BPA contamination, and the company's teas are now BPA-free.",
+    "zh": "弗里德曼的PlasticList项目与一家茶叶公司合作消除了BPA污染,该公司的茶叶现已不含BPA。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-02-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We found some words in Scroll 5, which is from the Bodleian Library collection of Herculaneum papyri. Still work to do to prevent our segmentation algorithm fro",
+    "zh": "We found some words in Scroll 5, which is from the Bodleian Library collection of Herculaneum papyri. Still work to do to prevent our segmentation algorithm fro"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1887280141497475362",
+   "note": {
+    "en": "Vesuvius Challenge read words from Scroll 5 (Bodleian Library collection), while working to fix segmentation errors between adjacent sheets.",
+    "zh": "维苏威挑战赛在(牛津博德利图书馆藏)5号卷轴中读出了文字,同时正在修复相邻纸层间的分割算法错误。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-02-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Luke Farritor is a national treasure.",
+    "zh": "Luke Farritor is a national treasure."
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1886503046299181444",
+   "note": {
+    "en": "Friedman publicly praised Luke Farritor, a Vesuvius Challenge prize-winning researcher, calling him a national treasure.",
+    "zh": "弗里德曼公开赞扬维苏威挑战赛获奖研究者卢克·法里托,称他为国家瑰宝。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-02-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Federal spending in 2024 was ~$7T. In 2019 it was ~$4.5T. 🤔 https://t.co/bmKI5ywHnm",
+    "zh": "Federal spending in 2024 was ~$7T. In 2019 it was ~$4.5T. 🤔 https://t.co/bmKI5ywHnm"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1886409014822748322",
+   "note": {
+    "en": "Friedman highlighted that US federal spending rose from about $4.5T in 2019 to about $7T in 2024, a widely shared fiscal observation.",
+    "zh": "弗里德曼指出美国联邦支出从2019年的约4.5万亿美元升至2024年的约7万亿美元,这条财政评论引发了广泛关注。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-02-02",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The White House should require that federal vendors put the United States at the top of all country selector dropdowns.",
+    "zh": "The White House should require that federal vendors put the United States at the top of all country selector dropdowns."
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1886072053461311514",
+   "note": {
+    "en": "Friedman proposed that the White House require federal vendors to place the United States at the top of country-selector dropdowns, a specific government-efficiency suggestion.",
+    "zh": "弗里德曼建议白宫要求联邦供应商在国家选择下拉菜单中将美国置于首位,这是一条具体的政府效率建议。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-01-29",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "TIL: in the 1990s Clinton offered federal workers a $25,000 buyout, and ~150,000 took the deal. He cut federal government spending from 22% to 18% of the econom",
+    "zh": "TIL: in the 1990s Clinton offered federal workers a $25,000 buyout, and ~150,000 took the deal. He cut federal government spending from 22% to 18% of the econom"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1884708071668408362",
+   "note": {
+    "en": "Friedman cited a 1990s Clinton-era federal buyout program that cut federal spending from 22% to 18% of GDP, framing it as a model for reducing government spending.",
+    "zh": "弗里德曼援引克林顿时代1990年代的联邦买断计划,将联邦支出从占GDP的22%降至18%,将其作为削减政府开支的范例。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-01-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "The deepseek team is obviously really good. China is full of talented engineers. Every other take is cope. Sorry.",
+    "zh": "The deepseek team is obviously really good. China is full of talented engineers. Every other take is cope. Sorry."
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1883023712485839204",
+   "note": {
+    "en": "Friedman publicly praised the DeepSeek team's ability, calling China's talent pool undeniable amid the DeepSeek moment.",
+    "zh": "弗里德曼公开称赞DeepSeek团队的实力,在DeepSeek引发热议之际肯定了中国的人才储备。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "backfill"
+  },
+  {
+   "date": "2025-01-19",
+   "ts": "2025-01-19T21:21:14Z",
+   "kind": "x",
+   "title": {
+    "en": "Recently learned that the Starlink facility in Bastrop, TX is on track to be the largest PCB factory in the country.",
+    "zh": "Recently learned that the Starlink facility in Bastrop, TX is on track to be the largest PCB factory in the country."
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1881089559775330565",
+   "note": {
+    "en": "Noted that the Starlink facility in Bastrop, TX is on track to become the largest PCB factory in the US.",
+    "zh": "他指出得州巴斯特罗普的Starlink工厂即将成为美国最大的印刷电路板(PCB)工厂。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-01-13",
+   "ts": "2025-01-13T22:06:07Z",
+   "kind": "x",
+   "title": {
+    "en": "We're planning to scan 100 ancient Roman scrolls this year and we urgently need to hire a contractor to help us design the cases that hold the scrolls while the",
+    "zh": "We're planning to scan 100 ancient Roman scrolls this year and we urgently need to hire a contractor to help us design the cases that hold the scrolls while the"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1878926527972495449",
+   "note": {
+    "en": "Announced a hiring push to help design cases for scanning 100 ancient Roman scrolls as part of the Vesuvius Challenge.",
+    "zh": "他宣布招募承包商,协助设计用于扫描100份古罗马卷轴的容器,这是维苏威挑战赛(Vesuvius Challenge)的一部分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2025-01-02",
+   "ts": "2025-01-02T18:26:14Z",
+   "kind": "x",
+   "title": {
+    "en": "Advice for Food Companies Since we launched PlasticList, we’ve been heartened to have quite a few food companies reach out and ask for help interpreting their r",
+    "zh": "Advice for Food Companies Since we launched PlasticList, we’ve been heartened to have quite a few food companies reach out and ask for help interpreting their r"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1874884925587087434",
+   "note": {
+    "en": "Offered guidance to food companies seeking help interpreting PlasticList's plastic-contamination test results.",
+    "zh": "他为希望解读PlasticList塑料污染检测结果的食品公司提供了建议。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-12-31",
+   "ts": "2024-12-31T19:10:29Z",
+   "kind": "x",
+   "title": {
+    "en": "None of the food brands want this stuff in their food. In my opinion, the most likely source of contamination is the suppliers. If someone wants to run a follow",
+    "zh": "None of the food brands want this stuff in their food. In my opinion, the most likely source of contamination is the suppliers. If someone wants to run a follow"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1874171285393334760",
+   "note": {
+    "en": "Argued that food suppliers, rather than brands, are the most likely source of the plastic contamination PlasticList found in tested foods.",
+    "zh": "他认为,相比食品品牌,供应商更可能是PlasticList检测出的食品塑料污染的来源。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-12-29",
+   "ts": "2024-12-29T19:33:06Z",
+   "kind": "x",
+   "title": {
+    "en": "Interesting theory as to how the plastic gets into beef",
+    "zh": "Interesting theory as to how the plastic gets into beef"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1873452199206096902",
+   "note": {
+    "en": "Flagged a theory for how plastic chemicals get into beef, continuing the PlasticList findings thread.",
+    "zh": "他转发了一个关于塑料化学物质如何进入牛肉的理论,延续PlasticList的研究讨论。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-12-28",
+   "ts": "2024-12-28T14:53:51Z",
+   "kind": "x",
+   "title": {
+    "en": "If you want to support more plastic testing, Million Marker is raising funds to test invisalign and other retainers: https://t.co/p0tXhnSRLq",
+    "zh": "If you want to support more plastic testing, Million Marker is raising funds to test invisalign and other retainers: https://t.co/p0tXhnSRLq"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1873019538272625118",
+   "note": {
+    "en": "Boosted Million Marker's fundraiser to expand plastic-chemical testing to retainers and Invisalign.",
+    "zh": "他为Million Marker的众筹造势,以扩大对牙套/隐适美等产品的塑料化学物质检测。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-12-28",
+   "ts": "2024-12-28T02:05:59Z",
+   "kind": "x",
+   "title": {
+    "en": "We also compiled a list of test results from all the prior studies we could find, covering food in Canada, South Africa, USA, Spain, Taiwan, Tunisia, Belgium, C",
+    "zh": "We also compiled a list of test results from all the prior studies we could find, covering food in Canada, South Africa, USA, Spain, Taiwan, Tunisia, Belgium, C"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1872826299930296693",
+   "note": {
+    "en": "Compiled prior international studies on plastic contamination in food as part of PlasticList's research report.",
+    "zh": "作为PlasticList研究报告的一部分,他汇总了此前多国关于食品塑料污染的研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-12-27",
+   "ts": "2024-12-27T19:37:20Z",
+   "kind": "x",
+   "title": {
+    "en": "We did it! We tested 300 Bay Area foods for plastic chemicals. We found some interesting surprises. Top 5 findings in our test results: 1. Our tests found plast",
+    "zh": "We did it! We tested 300 Bay Area foods for plastic chemicals. We found some interesting surprises. Top 5 findings in our test results: 1. Our tests found plast"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1872728491290189944",
+   "note": {
+    "en": "Announced PlasticList's headline result: plastic chemicals detected in 86% of 300 Bay Area foods tested.",
+    "zh": "他公布了PlasticList的核心结果:在测试的300种湾区食品中,86%检出塑料化学物质。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-12-08",
+   "ts": "2024-12-08T22:35:13Z",
+   "kind": "x",
+   "title": {
+    "en": "We're hiring full-time annotators for the Vesuvius Challenge. Spend hours every day clicking on ancient scrolls to unlock lost knowledge. Pay is $40/hour. https",
+    "zh": "We're hiring full-time annotators for the Vesuvius Challenge. Spend hours every day clicking on ancient scrolls to unlock lost knowledge. Pay is $40/hour. https"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1865887886903787902",
+   "note": {
+    "en": "Posted a paid hiring call for annotators to help the Vesuvius Challenge decode ancient scrolls.",
+    "zh": "他发布招聘启事,以时薪40美元招募标注员,协助维苏威挑战赛破译古卷轴。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-12-06",
+   "ts": "2024-12-06T16:43:53Z",
+   "kind": "x",
+   "title": {
+    "en": "Also the lack of a Claude projects API is really a major oversight.",
+    "zh": "Also the lack of a Claude projects API is really a major oversight."
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1865074696569655361",
+   "note": {
+    "en": "Criticized Anthropic for the lack of a Claude 'projects' API.",
+    "zh": "他批评Anthropic缺少Claude的\"项目(projects)\"API,称这是一个重大疏漏。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-12-06",
+   "ts": "2024-12-06T16:32:53Z",
+   "kind": "x",
+   "title": {
+    "en": "Best hack I learned this week is creating a claude project for all your blood tests / health results, so you can get relevant health advice.",
+    "zh": "Best hack I learned this week is creating a claude project for all your blood tests / health results, so you can get relevant health advice."
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1865071927615987715",
+   "note": {
+    "en": "Recommended creating a Claude project from your blood test results to get more relevant health advice.",
+    "zh": "他建议将血液检测结果整理进Claude项目,以获得更相关的健康建议。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-11-29",
+   "ts": "2024-11-29T22:18:30Z",
+   "kind": "x",
+   "title": {
+    "en": "waldkrauz from the vesuvius challenge community is making some amazing progress on automatic segmentation of the scrolls https://t.co/qjiSZRJEye",
+    "zh": "waldkrauz from the vesuvius challenge community is making some amazing progress on automatic segmentation of the scrolls https://t.co/qjiSZRJEye"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1862622188119183505",
+   "note": {
+    "en": "Highlighted a Vesuvius Challenge community member's progress on automatic segmentation of the scrolls.",
+    "zh": "他点赞了维苏威挑战赛社区成员在卷轴自动分割方面取得的进展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-11-27",
+   "ts": "2024-11-27T16:51:44Z",
+   "kind": "x",
+   "title": {
+    "en": "We scanned another scroll, thanks to the wonderful folks at @bodleianlibs, and have already found some text in it https://t.co/qrIGIpMQTG",
+    "zh": "We scanned another scroll, thanks to the wonderful folks at @bodleianlibs, and have already found some text in it https://t.co/qrIGIpMQTG"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1861815179958472929",
+   "note": {
+    "en": "Announced scanning another Herculaneum scroll with the Bodleian Library and finding text in it.",
+    "zh": "他宣布与博德利图书馆合作扫描了另一份赫库兰尼姆卷轴,并已从中发现文字。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-11-11",
+   "ts": "2024-11-11T16:57:09Z",
+   "kind": "x",
+   "title": {
+    "en": "Mr. Sutskever, tear down this data wall",
+    "zh": "Mr. Sutskever, tear down this data wall"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1856018337857450155",
+   "note": {
+    "en": "Publicly needled Ilya Sutskever over the data wall facing AI model training, in a widely shared post.",
+    "zh": "他公开调侃Ilya Sutskever,呼吁其\"打破\"AI模型训练面临的数据瓶颈,帖子传播广泛。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-11-08",
+   "ts": "2024-11-08T21:37:20Z",
+   "kind": "x",
+   "title": {
+    "en": "Epoch has built a new, hard math benchmark",
+    "zh": "Epoch has built a new, hard math benchmark"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1855001685070168192",
+   "note": {
+    "en": "Noted Epoch AI's release of a new, difficult math benchmark.",
+    "zh": "他提到Epoch AI发布了一个新的高难度数学基准测试。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-11-01",
+   "ts": "2024-11-01T20:30:21Z",
+   "kind": "x",
+   "title": {
+    "en": "Best way to develop good product taste might be to use products and pay very close attention to how you feel while you're using them.",
+    "zh": "Best way to develop good product taste might be to use products and pay very close attention to how you feel while you're using them."
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1852448111610007679",
+   "note": {
+    "en": "Argued the best way to develop good product taste is to use products and pay close attention to how they feel.",
+    "zh": "他认为培养良好产品品味的最佳方式,是使用产品并密切关注使用时的真实感受。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-10-30",
+   "ts": "2024-10-30T19:41:48Z",
+   "kind": "x",
+   "title": {
+    "en": "It is funny how consistently both Claude and ChatGPT output incorrect code for using the Claude and OpenAI APIs.",
+    "zh": "It is funny how consistently both Claude and ChatGPT output incorrect code for using the Claude and OpenAI APIs."
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1851711119536329003",
+   "note": {
+    "en": "Observed that Claude and ChatGPT both consistently write incorrect code for their own respective APIs.",
+    "zh": "他观察到Claude和ChatGPT在生成调用自家API的代码时都常常出错。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-10-18",
+   "ts": "2024-10-18T03:36:40Z",
+   "kind": "x",
+   "title": {
+    "en": "Tried the latest Tesla FSD today in rush hour traffic and I am very impressed. It handled congested high-speed merges better than I would have handled them. No",
+    "zh": "Tried the latest Tesla FSD today in rush hour traffic and I am very impressed. It handled congested high-speed merges better than I would have handled them. No"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1847119581103759664",
+   "note": {
+    "en": "Praised Tesla's latest Full Self-Driving after trying it in rush-hour traffic, saying it outperformed his own driving.",
+    "zh": "他在高峰时段体验了特斯拉最新的完全自动驾驶(FSD)后称赞其表现,认为比自己开车还稳。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-09-15",
+   "ts": "2024-09-15T14:38:28Z",
+   "kind": "x",
+   "title": {
+    "en": "I've had mild but annoying psoriasis for twenty years. This year for unrelated reasons I got a 2 ATM hyperbaric chamber and to my shock I've discovered that two",
+    "zh": "I've had mild but annoying psoriasis for twenty years. This year for unrelated reasons I got a 2 ATM hyperbaric chamber and to my shock I've discovered that two"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1835327328894984523",
+   "note": {
+    "en": "Reported that hyperbaric chamber sessions meaningfully reduced his twenty-year psoriasis symptoms.",
+    "zh": "他透露高压氧舱疗程显著缓解了他持续二十年的牛皮癣症状。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-09-14",
+   "ts": "2024-09-14T19:56:02Z",
+   "kind": "x",
+   "title": {
+    "en": "I really like my Tesla Model X.",
+    "zh": "I really like my Tesla Model X."
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1835044859570536612",
+   "note": {
+    "en": "Said he really likes his Tesla Model X, in a post that reached an outsized audience for his account.",
+    "zh": "他表示很喜欢自己的特斯拉Model X,该帖子的浏览量远超他账号的常规水平。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-08-29",
+   "ts": "2024-08-29T17:24:03Z",
+   "kind": "x",
+   "title": {
+    "en": "I think the HashHop long context eval is really cool. Curious what people make of it!",
+    "zh": "I think the HashHop long context eval is really cool. Curious what people make of it!"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1829208406366007317",
+   "note": {
+    "en": "Friedman called the HashHop long-context evaluation genuinely interesting, flagging it as a benchmark worth watching.",
+    "zh": "Friedman认为HashHop长上下文评测很有意思,认为这是一个值得关注的基准测试。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-08-29",
+   "ts": "2024-08-29T02:48:55Z",
+   "kind": "x",
+   "title": {
+    "en": "Looking for an intern to spend a month or two testing a theory about the Shroud of Turin. Ideally you can start in the next few weeks, and can work full-time. P",
+    "zh": "Looking for an intern to spend a month or two testing a theory about the Shroud of Turin. Ideally you can start in the next few weeks, and can work full-time. P"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1828988168655515745",
+   "note": {
+    "en": "Friedman posted an unusual paid internship call to test a theory about the Shroud of Turin, a post that went viral with over 1.6M views.",
+    "zh": "Friedman发布了一则不同寻常的带薪实习招募启事,用于测试一个关于都灵裹尸布的理论,该帖子获得超过160万次浏览,广泛传播。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-08-21",
+   "ts": "2024-08-21T22:20:06Z",
+   "kind": "x",
+   "title": {
+    "en": "Making progress on automatic unrolling of scrolls https://t.co/OJKjy78sCI",
+    "zh": "Making progress on automatic unrolling of scrolls https://t.co/OJKjy78sCI"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1826383805374234692",
+   "note": {
+    "en": "Friedman shared progress on automatically unrolling ancient scrolls, an update from the Vesuvius Challenge project he backs.",
+    "zh": "Friedman分享了他所支持的维苏威挑战项目在古卷轴自动展开技术上的最新进展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-08-13",
+   "ts": "2024-08-13T21:18:59Z",
+   "kind": "x",
+   "title": {
+    "en": "AI speculation has gotten so unhinged, I'm worried it's causing brain damage in its participants.",
+    "zh": "AI speculation has gotten so unhinged, I'm worried it's causing brain damage in its participants."
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1823469324163801117",
+   "note": {
+    "en": "Friedman said AI speculation has become so unhinged that he worries it's causing brain damage in participants — a pointed jab at the hype cycle.",
+    "zh": "Friedman表示围绕AI的猜测已经变得极其离谱,他担心这正在给参与者造成'脑损伤',对炒作周期提出尖锐批评。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-08-08",
+   "ts": "2024-08-08T20:09:51Z",
+   "kind": "x",
+   "title": {
+    "en": "Our plasticizer testing project is on rails now; we're starting to get a lot of data back and we're busy analyzing it. The number of samples we are testing ball",
+    "zh": "Our plasticizer testing project is on rails now; we're starting to get a lot of data back and we're busy analyzing it. The number of samples we are testing ball"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1821639986812534824",
+   "note": {
+    "en": "Friedman gave a status update on PlasticList, the phthalate-testing project he runs, saying it's now generating and analyzing a growing volume of sample data.",
+    "zh": "Friedman公布了他主导的邻苯二甲酸盐检测项目PlasticList的最新进展,称项目正在产生并分析越来越多的样本数据。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-08-06",
+   "ts": "2024-08-06T15:19:04Z",
+   "kind": "x",
+   "title": {
+    "en": "SAM2 seems really powerful. Anyone using it yet in a serious way?",
+    "zh": "SAM2 seems really powerful. Anyone using it yet in a serious way?"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1820842030400238055",
+   "note": {
+    "en": "Friedman called Meta's SAM2 segmentation model really powerful and asked whether anyone was putting it to serious use.",
+    "zh": "Friedman称Meta的SAM2分割模型非常强大,并询问是否有人已将其用于正式的实际应用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-08-06",
+   "ts": "2024-08-06T00:25:41Z",
+   "kind": "x",
+   "title": {
+    "en": "Do not attempt to regulate what you do not understand",
+    "zh": "Do not attempt to regulate what you do not understand"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1820617203861143932",
+   "note": {
+    "en": "Friedman argued against regulating AI technology that regulators do not yet understand, a stance on AI policy.",
+    "zh": "Friedman主张不应对监管者尚未理解的AI技术进行监管,表明了他在AI政策上的立场。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-07-30",
+   "ts": "2024-07-30T16:59:21Z",
+   "kind": "x",
+   "title": {
+    "en": "The terminal state of AI video isn't to make feature-length Hollywood movies cheaper, just like the terminal state of movies wasn't to record theater plays.",
+    "zh": "The terminal state of AI video isn't to make feature-length Hollywood movies cheaper, just like the terminal state of movies wasn't to record theater plays."
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1818330552862400746",
+   "note": {
+    "en": "Friedman argued AI video's end goal isn't cheaper Hollywood movies, just as film's end goal was never recorded stage plays — a stance on where generative video is headed.",
+    "zh": "Friedman认为AI视频的最终形态并非是让好莱坞电影制作更便宜,就像电影的终极形态从来不是把舞台剧录下来一样——这是他对生成式视频发展方向的看法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-07-24",
+   "ts": "2024-07-24T17:09:26Z",
+   "kind": "x",
+   "title": {
+    "en": "Testing 70 year old gelatine against the modern equivalent for plastic chemicals https://t.co/GoN4n9Tnvx",
+    "zh": "Testing 70 year old gelatine against the modern equivalent for plastic chemicals https://t.co/GoN4n9Tnvx"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1816158764204195996",
+   "note": {
+    "en": "Friedman detailed a PlasticList experiment testing 70-year-old gelatine against its modern equivalent for plastic-related chemicals.",
+    "zh": "Friedman详细介绍了PlasticList的一项实验,将70年前的明胶与现代同类产品进行对比,检测塑料相关化学物质。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-07-23",
+   "ts": "2024-07-23T18:16:05Z",
+   "kind": "x",
+   "title": {
+    "en": "Congrats to the Llama team on a spectacular new model!",
+    "zh": "Congrats to the Llama team on a spectacular new model!"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1815813147997135321",
+   "note": {
+    "en": "Friedman congratulated the Llama team on a spectacular new model release, a nod to his continued investment in the open-model ecosystem.",
+    "zh": "Friedman祝贺Llama团队发布了一款出色的新模型,体现了他对开源模型生态的持续关注。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-07-15",
+   "ts": "2024-07-15T18:37:08Z",
+   "kind": "x",
+   "title": {
+    "en": "Saturating MATH is already priced in. We need new benchmarks.",
+    "zh": "Saturating MATH is already priced in. We need new benchmarks."
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1812919341664641100",
+   "note": {
+    "en": "Friedman said the MATH benchmark is effectively already saturated and that the field needs new benchmarks to measure progress.",
+    "zh": "Friedman表示MATH基准测试实际上已经饱和,业界需要新的基准来衡量进展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-07-08",
+   "ts": "2024-07-08T18:15:10Z",
+   "kind": "x",
+   "title": {
+    "en": "Little tech – companies with no advantages except the customer's volitional preference for their products – is the engine of innovation and progress",
+    "zh": "Little tech – companies with no advantages except the customer's volitional preference for their products – is the engine of innovation and progress"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1810377100786020530",
+   "note": {
+    "en": "Friedman argued that 'little tech' — companies competing purely on customers' free choice — is the real engine of innovation and progress.",
+    "zh": "Friedman认为'小科技'——那些完全依靠客户自主选择而非其他优势竞争的公司——才是创新和进步的真正引擎。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-07-07",
+   "ts": "2024-07-07T15:43:48Z",
+   "kind": "x",
+   "title": {
+    "en": "People managing multiple gmail accounts, what do you do on desktop?",
+    "zh": "People managing multiple gmail accounts, what do you do on desktop?"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1809976620046033151",
+   "note": {
+    "en": "Friedman's casual question about managing multiple Gmail accounts on desktop drew an outsized response — over 500 replies and 427K views, far above his typical reach.",
+    "zh": "Friedman随口提出的一个关于如何在桌面端管理多个Gmail账户的问题,意外引发热烈反响——获得超过500条回复和42.7万次浏览,远超他平时的传播规模。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-07-06",
+   "ts": "2024-07-06T15:52:09Z",
+   "kind": "x",
+   "title": {
+    "en": "Congrats to the team that proved BB(5)! Another win for motley internet groups. https://t.co/kfSBQwWWtk",
+    "zh": "Congrats to the team that proved BB(5)! Another win for motley internet groups. https://t.co/kfSBQwWWtk"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1809616332301955568",
+   "note": {
+    "en": "Friedman congratulated the team that proved the value of the Busy Beaver function BB(5), calling it another win for informal internet research collectives.",
+    "zh": "Friedman祝贺证明了忙碌海狸函数BB(5)数值的团队,称这是非正式互联网研究团体又一次的胜利。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-06-27",
+   "ts": "2024-06-27T07:18:23Z",
+   "kind": "x",
+   "title": {
+    "en": "Interesting paper @rsmurata_17 found – this group in Beijing created a magnetic polymer that attaches to phthalates. You toss the polymer in a liquid sample, it",
+    "zh": "Interesting paper @rsmurata_17 found – this group in Beijing created a magnetic polymer that attaches to phthalates. You toss the polymer in a liquid sample, it"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1806225550345716117",
+   "note": {
+    "en": "Friedman highlighted a Beijing research group's magnetic polymer that binds and removes phthalates from liquid samples, research relevant to his PlasticList project.",
+    "zh": "Friedman分享了一个北京研究团队开发的磁性聚合物,可从液体样本中吸附并去除邻苯二甲酸盐,该研究与他的PlasticList项目相关。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-06-27",
+   "ts": "2024-06-27T06:57:49Z",
+   "kind": "x",
+   "title": {
+    "en": "Congratulations to the @ArcInstitute team on the Nature publication of bridge editing! Patrick's tweet contains a very clear Claude-generated explanation of bri",
+    "zh": "Congratulations to the @ArcInstitute team on the Nature publication of bridge editing! Patrick's tweet contains a very clear Claude-generated explanation of bri"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1806220372972360124",
+   "note": {
+    "en": "Friedman congratulated the Arc Institute team on their Nature publication of bridge editing, a new gene-editing technique.",
+    "zh": "Friedman祝贺Arc Institute团队在《自然》杂志上发表关于'桥接编辑'这一新型基因编辑技术的论文。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-06-25",
+   "ts": "2024-06-25T11:26:58Z",
+   "kind": "x",
+   "title": {
+    "en": "Evolutionary Scale comes out of stealth and announces ESM3, the largest protein language model trained to date, and demonstrates using it to discover a new fluo",
+    "zh": "Evolutionary Scale comes out of stealth and announces ESM3, the largest protein language model trained to date, and demonstrates using it to discover a new fluo"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1805563332478345390",
+   "note": {
+    "en": "Friedman announced Evolutionary Scale's launch of ESM3, the largest protein language model trained to date, and its use to discover a new fluorescent protein.",
+    "zh": "Friedman宣布Evolutionary Scale公司发布ESM3——迄今为止训练规模最大的蛋白质语言模型,并用其发现了一种新的荧光蛋白。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-06-24",
+   "ts": "2024-06-24T18:40:28Z",
+   "kind": "x",
+   "title": {
+    "en": "One reason that testing is hard is that phthalates are in the air: https://t.co/HVs5S8tTuK https://t.co/Y96w4uczhX",
+    "zh": "One reason that testing is hard is that phthalates are in the air: https://t.co/HVs5S8tTuK https://t.co/Y96w4uczhX"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1805310038505877828",
+   "note": {
+    "en": "Friedman explained that testing for phthalates is difficult in part because the chemicals are present in ambient air, a methodological note from the PlasticList project.",
+    "zh": "Friedman解释称,检测邻苯二甲酸盐之所以困难,部分原因是这类化学物质本就存在于空气中,这是PlasticList项目中的一则方法论说明。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-06-20",
+   "ts": "2024-06-20T15:34:27Z",
+   "kind": "x",
+   "title": {
+    "en": "Everyone else speculatively talking about one day decommissioning power hungry obsolete factories for AI, and Elon just goes and does it",
+    "zh": "Everyone else speculatively talking about one day decommissioning power hungry obsolete factories for AI, and Elon just goes and does it"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/1803813671316951292",
+   "note": {
+    "en": "Friedman contrasted others' speculation about repurposing power-hungry factories for AI with Elon Musk actually doing it, a comment on xAI's compute buildout.",
+    "zh": "Friedman将其他人对改造高耗能工厂用于AI计算的空谈,与埃隆·马斯克真正付诸行动做对比,评论了xAI的算力扩张。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2024-05-30",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "88 - Mysteries of the Scrolls — with Nat Friedman",
+    "zh": "88 - Mysteries of the Scrolls — with Nat Friedman"
+   },
+   "source": "Cost of Glory",
+   "url": "https://podcasts.apple.com/us/podcast/88-mysteries-of-the-scrolls-with-nat-friedman/id1580153815?i=1000657288871&uo=4",
+   "note": {
+    "en": "Friedman explains the Vesuvius Challenge, the prize he funded to read the carbonised Herculaneum scrolls with machine learning.",
+    "zh": "弗里德曼介绍维苏威挑战赛——他出资设立的奖项，目标是用机器学习读出赫库兰尼姆碳化古卷。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-04-25",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "2 Ex-AI CEOs Debate the Future of AI w/ Emad Mostaque & Nat Friedman | EP #98",
+    "zh": "2 Ex-AI CEOs Debate the Future of AI w/ Emad Mostaque & Nat Friedman | EP #98"
+   },
+   "source": "Moonshots with Peter Diamandis",
+   "url": "https://podcasts.apple.com/us/podcast/2-ex-ai-ceos-debate-the-future-of-ai-w-emad-mostaque/id1648228034?i=1000653587638&uo=4",
+   "note": {
+    "en": "Friedman debates the next few years of AI with Emad Mostaque and Peter Diamandis, from an investor's view of the open-model ecosystem.",
+    "zh": "弗里德曼与 Emad Mostaque、Peter Diamandis 一同辩论未来数年的 AI 走向，从投资人视角审视开源模型生态。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-04-01",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "(Bonus) Nat Friedman Interview",
+    "zh": "(Bonus) Nat Friedman Interview"
+   },
+   "source": "Tech Brew Ride Home",
+   "url": "https://podcasts.apple.com/us/podcast/bonus-nat-friedman-interview/id1355212895?i=1000651078235&uo=4",
+   "note": {
+    "en": "Interview on what Friedman expected from GPT-5, Microsoft's AI strategy, and how he picks startups to back.",
+    "zh": "访谈：弗里德曼谈他对 GPT-5 的预期、微软的 AI 战略，以及他如何挑选投资标的。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-03-22",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Nat Friedman (Github CEO) — Reading ancient scrolls, open source, & AI",
+    "zh": "Nat Friedman (Github CEO) — Reading ancient scrolls, open source, & AI"
+   },
+   "source": "Dwarkesh Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/nat-friedman-github-ceo-reading-ancient-scrolls-open/id1516093381?i=1000605340304&uo=4",
+   "note": {
+    "en": "Dwarkesh Patel interviews Friedman on reading the Herculaneum papyri, open source, and running GitHub through the Copilot era.",
+    "zh": "Dwarkesh Patel 专访弗里德曼，谈解读赫库兰尼姆古卷、开源，以及他在 Copilot 时代执掌 GitHub 的经历。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2017-05-30",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Announcing the first AI Grant Fellows",
+    "zh": "Announcing the first AI Grant Fellows"
+   },
+   "source": "Stories by Nat Friedman on Medium",
+   "url": "https://medium.com/nat-friedman/announcing-the-first-ai-grant-fellows-ce23603420e?source=rss-1196b1567cfb------2",
+   "note": {
+    "en": "Friedman announces the first cohort of AI Grant fellows, the no-strings grant programme he started for open-source AI work.",
+    "zh": "弗里德曼公布首批 AI Grant 研究员名单——这是他为开源 AI 工作设立的无附加条件资助计划。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2017-04-28",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "New benefits for AI Grant winners",
+    "zh": "New benefits for AI Grant winners"
+   },
+   "source": "Stories by Nat Friedman on Medium",
+   "url": "https://medium.com/nat-friedman/new-benefits-for-ai-grant-winners-f109d5d43ca1?source=rss-1196b1567cfb------2",
+   "note": {
+    "en": "Friedman adds compute credits and mentorship to the AI Grant package days before the application deadline.",
+    "zh": "弗里德曼在申请截止前几天为 AI Grant 追加算力额度与导师资源。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2017-04-17",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "AI Grant gets a sponsor! Thanks, Floodgate",
+    "zh": "AI Grant gets a sponsor! Thanks, Floodgate"
+   },
+   "source": "Stories by Nat Friedman on Medium",
+   "url": "https://medium.com/nat-friedman/ai-grant-gets-a-sponsor-thanks-floodgate-a945afc79470?source=rss-1196b1567cfb------2",
+   "note": {
+    "en": "Friedman reports that Floodgate doubled the AI Grant pool to ten grants after the first week of applications.",
+    "zh": "弗里德曼透露，首周申请之后 Floodgate 出资将 AI Grant 名额翻倍至十个。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2017-04-11",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "AIGrant: Get $5,000 for your open source AI project",
+    "zh": "AIGrant: Get $5,000 for your open source AI project"
+   },
+   "source": "Stories by Nat Friedman on Medium",
+   "url": "https://medium.com/nat-friedman/aigrant-get-5-000-for-your-open-source-ai-project-1118dd7db083?source=rss-1196b1567cfb------2",
+   "note": {
+    "en": "Friedman launches AI Grant, offering $5,000 each to people doing open-source AI work, citing his own broke post-MIT open-source years.",
+    "zh": "弗里德曼发起 AI Grant，向从事开源 AI 工作的人各资助 5000 美元，缘由是他自己 MIT 毕业后一贫如洗却坚持做开源的那段日子。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2013-02-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Herding Code 158: Nat Friedman and Joseph Hill announce Xamarin 2.0",
+    "zh": "Herding Code 158: Nat Friedman and Joseph Hill announce Xamarin 2.0"
+   },
+   "source": "Herding Code",
+   "url": "https://podcasts.apple.com/us/podcast/herding-code-158-nat-friedman-and-joseph-hill/id284067914?i=1000771079457&uo=4",
+   "note": {
+    "en": "Friedman and Joseph Hill announce Xamarin 2.0 — Xamarin Studio, the Component Store and iOS development inside Visual Studio — from his years running Xamarin.",
+    "zh": "弗里德曼与 Joseph Hill 发布 Xamarin 2.0：Xamarin Studio、组件商店以及在 Visual Studio 中开发 iOS 应用，出自他执掌 Xamarin 的时期。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [
+  {
+   "date": "2025-06-30",
+   "level": "notable",
+   "title": {
+    "en": "Joins Meta to co-lead Meta Superintelligence Labs",
+    "zh": "加入 Meta，联合领导超级智能实验室"
+   },
+   "body": {
+    "en": "Oversees AI products and applied research alongside Alexandr Wang.",
+    "zh": "与 Alexandr Wang 共同统管 AI 产品与应用研究。"
+   },
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2025/06/30/mark-zuckerberg-creating-meta-superintelligence-labs-read-the-memo.html"
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "lab",
+ "score": {
+  "total": 39.9,
+  "attention": 51,
+  "centrality": 54,
+  "momentum": 2,
+  "stature": null,
+  "pageviews": 102631,
+  "citations": 8,
+  "hIndex": 2,
+  "events": 1,
+  "posts": 61,
+  "wikiEn": "Nat Friedman",
+  "wikiZh": "奈特·弗里德曼"
+ },
+ "seedRank": 28,
+ "tier": "t4"
+}

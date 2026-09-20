@@ -1,0 +1,1015 @@
+{
+ "rank": 36,
+ "id": "chris-olah",
+ "name": {
+  "en": "Chris Olah",
+  "zh": "Chris Olah"
+ },
+ "role": {
+  "en": "Co-founder & Interpretability Research Lead, Anthropic",
+  "zh": "Anthropic 联合创始人兼可解释性研究负责人"
+ },
+ "org": "Anthropic",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "Anthropic",
+  "Interpretability",
+  "Distill",
+  "Feature visualization",
+  "Circuits"
+ ],
+ "why": {
+  "en": "Founded mechanistic interpretability as a field. Distill and the feature-visualisation work turned 'opening the black box' from a slogan into a real research programme.",
+  "zh": "机制可解释性研究的开创者。Distill 期刊与特征可视化工作让「打开神经网络黑箱」从口号变成一个真实的研究纲领。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@ch402",
+   "url": "https://x.com/ch402",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "colah's blog",
+   "url": "https://colah.github.io/",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @colah",
+   "url": "https://github.com/colah",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Transformer Circuits",
+   "url": "https://transformer-circuits.pub/",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "Distill",
+   "url": "https://distill.pub/",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "Anthropic Research",
+   "url": "https://www.anthropic.com/research",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Chris+Olah",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Chris+Olah",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Chris+Olah",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Chris+Olah&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Chris+Olah&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Chris+Olah",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Chris+Olah",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Chris+Olah",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Chris+Olah",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Chris+Olah",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Chris+Olah",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Chris+Olah",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Chris+Olah",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Chris+Olah&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chris_Olah",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2020-01-01",
+   "kind": "blog",
+   "title": {
+    "en": "Distill & the Circuits thread",
+    "zh": "Distill 与 Circuits 系列"
+   },
+   "source": "Distill",
+   "url": "https://distill.pub/",
+   "note": {
+    "en": "The origin texts of mechanistic interpretability.",
+    "zh": "机制可解释性的源头文本。"
+   }
+  },
+  {
+   "date": "2026-05-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet",
+    "zh": "Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.29358v1",
+   "note": {
+    "en": "Shows that sparse autoencoders can pull interpretable features out of a production-scale model, Claude 3 Sonnet — the scale-up of the dictionary-learning programme he leads.",
+    "zh": "论文表明稀疏自编码器能够从生产级模型 Claude 3 Sonnet 中提取可解释特征，是他所主导的字典学习方向的规模化验证。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-09-29",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "We're starting to apply interpretability to pre-deployment audits!",
+    "zh": "We're starting to apply interpretability to pre-deployment audits!"
+   },
+   "source": "@ch402",
+   "url": "https://x.com/ch402/status/1972737241995960532",
+   "note": {
+    "en": "Olah announces Anthropic is beginning to apply interpretability techniques to pre-deployment model audits.",
+    "zh": "Olah宣布Anthropic开始将可解释性技术应用于模型部署前的审计。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-09-11",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I believe in the rule of law. I believe in freedom of speech. I am against political violence. (I almost feel silly posting this, but it seems good to reinforce",
+    "zh": "I believe in the rule of law. I believe in freedom of speech. I am against political violence. (I almost feel silly posting this, but it seems good to reinforce"
+   },
+   "source": "@ch402",
+   "url": "https://x.com/ch402/status/1966218260397150300",
+   "note": {
+    "en": "Olah states his opposition to political violence and his support for free speech and the rule of law.",
+    "zh": "Olah表示反对政治暴力,支持言论自由与法治。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-08-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Really exciting to see this hypothesis being explored more! I confess, I've become more and more persuaded of this in my personal thinking over time, since our",
+    "zh": "Really exciting to see this hypothesis being explored more! I confess, I've become more and more persuaded of this in my personal thinking over time, since our"
+   },
+   "source": "@ch402",
+   "url": "https://x.com/ch402/status/1960396195156926736",
+   "note": {
+    "en": "Olah says he has grown increasingly persuaded by a hypothesis under discussion, citing Anthropic's early Toy Models results.",
+    "zh": "Olah表示,基于Anthropic早期\"玩具模型\"的初步结果,他越来越认同这一正在被讨论的假设。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-08-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I wrote a small note exploring mechanistic faithfulness in transcoders.",
+    "zh": "I wrote a small note exploring mechanistic faithfulness in transcoders."
+   },
+   "source": "@ch402",
+   "url": "https://x.com/ch402/status/1953678091328610650",
+   "note": {
+    "en": "Olah shares a short note exploring mechanistic faithfulness in transcoders.",
+    "zh": "Olah分享了一篇探讨transcoder机制忠实性的短文。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-31",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Excited to share this. We can extend the attribution graph approach to include attention. This turns up a bunch of interesting things! It isn't a full \"global\"",
+    "zh": "Excited to share this. We can extend the attribution graph approach to include attention. This turns up a bunch of interesting things! It isn't a full \"global\""
+   },
+   "source": "@ch402",
+   "url": "https://x.com/ch402/status/1950960341476934101",
+   "note": {
+    "en": "Olah announces that Anthropic's attribution-graph interpretability method can be extended to cover attention, surfacing new findings.",
+    "zh": "Olah宣布Anthropic的归因图可解释性方法可扩展至注意力机制,并发现了一些新现象。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-29",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I've been talking about interference weights as a challenge for mechanistic interpretability for a while. A short note discussing them - https://t.co/Ydn6WKar6Z",
+    "zh": "I've been talking about interference weights as a challenge for mechanistic interpretability for a while. A short note discussing them - https://t.co/Ydn6WKar6Z"
+   },
+   "source": "@ch402",
+   "url": "https://x.com/ch402/status/1950333662228320274",
+   "note": {
+    "en": "Olah shares a short note on \"interference weights,\" a mechanistic-interpretability challenge he has discussed for some time.",
+    "zh": "Olah分享了一篇关于\"干扰权重\"的短文,这是他长期关注的机制可解释性难题之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-07-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "It's been a busy week for the Anthropic interpretability team, with more to come in the near future! I wanted to recap some of the things we shared.",
+    "zh": "It's been a busy week for the Anthropic interpretability team, with more to come in the near future! I wanted to recap some of the things we shared."
+   },
+   "source": "@ch402",
+   "url": "https://x.com/ch402/status/1948903300457529387",
+   "note": {
+    "en": "Olah recaps a busy week of research output from Anthropic's interpretability team.",
+    "zh": "Olah回顾了Anthropic可解释性团队近期密集发布的研究成果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-05-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "A number of people have asked me why we titled our recent paper \"On the Biology of a Large Language Model\". Why call it \"biology\"?",
+    "zh": "A number of people have asked me why we titled our recent paper \"On the Biology of a Large Language Model\". Why call it \"biology\"?"
+   },
+   "source": "@ch402",
+   "url": "https://x.com/ch402/status/1922372355197669612",
+   "note": {
+    "en": "Olah explains why Anthropic titled its major interpretability paper \"On the Biology of a Large Language Model.\"",
+    "zh": "Olah解释了Anthropic为何将其重要的可解释性论文命名为《大语言模型的生物学》。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-02-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I confess I've had an unreasonable amount of fun (and nostalgia) following Claude's progress through Pokemon in our internal slack. Now you can also watch Claud",
+    "zh": "I confess I've had an unreasonable amount of fun (and nostalgia) following Claude's progress through Pokemon in our internal slack. Now you can also watch Claud"
+   },
+   "source": "@ch402",
+   "url": "https://x.com/ch402/status/1894424255150133700",
+   "note": {
+    "en": "Olah announces the public release of \"Claude Plays Pokemon,\" a project he had been following internally.",
+    "zh": "Olah宣布\"Claude玩宝可梦\"项目公开上线,他此前一直在内部关注该项目的进展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-01-03",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "@kchonyc wrote a thoughtful note on the AI job market. I think he gets some important things right. Other things seem different from my perspective. My own stre",
+    "zh": "@kchonyc wrote a thoughtful note on the AI job market. I think he gets some important things right. Other things seem different from my perspective. My own stre"
+   },
+   "source": "@ch402",
+   "url": "https://x.com/ch402/status/1874990808539275687",
+   "note": {
+    "en": "Olah gives his own take on the AI job market, responding to a widely discussed note by another researcher.",
+    "zh": "Olah就AI就业市场问题发表了自己的看法,回应了另一位研究者广受关注的文章。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-10-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Early days, but I'm pretty excited about crosscoders (https://t.co/VQ1SIF2PYJ) as a way to start to create a more universal language of features, less tied to a",
+    "zh": "Early days, but I'm pretty excited about crosscoders (https://t.co/VQ1SIF2PYJ) as a way to start to create a more universal language of features, less tied to a"
+   },
+   "source": "@ch402",
+   "url": "https://x.com/ch402/status/1849909528952709328",
+   "note": {
+    "en": "Olah shares early excitement about \"crosscoders\" as a step toward a more universal, cross-layer language of interpretability features.",
+    "zh": "Olah分享了对\"crosscoder\"的早期期待,认为这是迈向更通用、跨层特征表示的一步。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-05-21",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I'm really excited about these results for many reasons, but the most important is that we're starting to connect mechanistic interpretability to questions abou",
+    "zh": "I'm really excited about these results for many reasons, but the most important is that we're starting to connect mechanistic interpretability to questions abou"
+   },
+   "source": "@ch402",
+   "url": "https://x.com/ch402/status/1792967790716133809",
+   "note": {
+    "en": "Olah says new results begin to connect mechanistic interpretability to the safety of large language models.",
+    "zh": "Olah表示新的研究结果开始将机制可解释性与大语言模型的安全性联系起来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-04-26",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Scaling laws for dictionary learning! https://t.co/nqSGYjGwsO https://t.co/f4ERLNvhof",
+    "zh": "Scaling laws for dictionary learning! https://t.co/nqSGYjGwsO https://t.co/f4ERLNvhof"
+   },
+   "source": "@ch402",
+   "url": "https://x.com/ch402/status/1783979160718999877",
+   "note": {
+    "en": "Olah shares results on scaling laws for dictionary learning, a core technique in interpretability research.",
+    "zh": "Olah分享了关于字典学习(可解释性研究核心技术之一)规模定律的结果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-10-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "If you'd asked me a year ago, superposition would have been by far the reason I was most worried that mechanistic interpretability would hit a dead end. I'm now",
+    "zh": "If you'd asked me a year ago, superposition would have been by far the reason I was most worried that mechanistic interpretability would hit a dead end. I'm now"
+   },
+   "source": "@ch402",
+   "url": "https://x.com/ch402/status/1709998674087227859",
+   "note": {
+    "en": "Olah says he has grown optimistic that superposition, once his biggest worry for the field, will not be a dead end for mechanistic interpretability.",
+    "zh": "Olah表示他对\"叠加\"问题的态度已从最大的担忧转为乐观,认为这不会使机制可解释性研究陷入僵局。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-07-28",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I think of mechanistic interpretability as aiming to be a \"microscopic theory\" of machine learning, in contrast to scaling laws as a \"macroscopic theory\". The f",
+    "zh": "I think of mechanistic interpretability as aiming to be a \"microscopic theory\" of machine learning, in contrast to scaling laws as a \"macroscopic theory\". The f"
+   },
+   "source": "@ch402",
+   "url": "https://x.com/ch402/status/1684732312817418240",
+   "note": {
+    "en": "Olah frames mechanistic interpretability as a \"microscopic theory\" of machine learning, in contrast to scaling laws as a \"macroscopic theory.\"",
+    "zh": "Olah将机制可解释性定位为机器学习的\"微观理论\",并与作为\"宏观理论\"的规模定律相对照。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-06-07",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "One of the ideas I find most useful from @AnthropicAI's Core Views on AI Safety post (https://t.co/Q9i2ujIbjm) is thinking in terms of a distribution over safet",
+    "zh": "One of the ideas I find most useful from @AnthropicAI's Core Views on AI Safety post (https://t.co/Q9i2ujIbjm) is thinking in terms of a distribution over safet"
+   },
+   "source": "@ch402",
+   "url": "https://x.com/ch402/status/1666482929772666880",
+   "note": {
+    "en": "Olah discusses framing AI safety difficulty as a distribution rather than a single fixed level, building on Anthropic's Core Views on AI Safety.",
+    "zh": "Olah探讨了将AI安全难度视为一种分布而非单一固定水平,这一想法源自Anthropic的《AI安全核心观点》。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-05-18",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Very cool to see more parallels between neuroscience and mechanistic interpretability! There's a long history of us discovering analogs of long-known results in",
+    "zh": "Very cool to see more parallels between neuroscience and mechanistic interpretability! There's a long history of us discovering analogs of long-known results in"
+   },
+   "source": "@ch402",
+   "url": "https://x.com/ch402/status/1659284365380313088",
+   "note": {
+    "en": "Olah notes a growing pattern of mechanistic-interpretability findings paralleling long-known results in neuroscience.",
+    "zh": "Olah指出,机制可解释性的发现越来越多地与神经科学中的既有结论相呼应。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-03-23",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "High-Low frequency detectors found in biology! Very cool to see mechanistic interpretability seeming to predict in advance the existence of biological neuroscie",
+    "zh": "High-Low frequency detectors found in biology! Very cool to see mechanistic interpretability seeming to predict in advance the existence of biological neuroscie"
+   },
+   "source": "@ch402",
+   "url": "https://x.com/ch402/status/1638931735202385920",
+   "note": {
+    "en": "Olah highlights that biological \"high-low frequency detectors\" were found in nature after mechanistic interpretability had predicted analogous structures.",
+    "zh": "Olah指出,生物学中发现的\"高低频探测器\"此前已被机制可解释性研究预测存在类似结构。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-03-09",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "In 1939, physicists discussed voluntarily adopting secrecy in atomic physics. Reading Rhodes' book, one can hear three \"camps\": - Caution - Scientific Humility",
+    "zh": "In 1939, physicists discussed voluntarily adopting secrecy in atomic physics. Reading Rhodes' book, one can hear three \"camps\": - Caution - Scientific Humility"
+   },
+   "source": "@ch402",
+   "url": "https://x.com/ch402/status/1633924903685726208",
+   "note": {
+    "en": "Olah draws on the 1939 debate among physicists over secrecy in atomic research to reflect on openness versus caution in AI research.",
+    "zh": "Olah援引1939年物理学家关于原子研究保密问题的辩论,反思AI研究中开放与审慎的取舍。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-03-04",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "It's surprisingly how little there is on \"how to run a research group.\" Lots of great resources on being a researcher (eg. You and Your Research), and on leadin",
+    "zh": "It's surprisingly how little there is on \"how to run a research group.\" Lots of great resources on being a researcher (eg. You and Your Research), and on leadin"
+   },
+   "source": "@ch402",
+   "url": "https://x.com/ch402/status/1632091214152617984",
+   "note": {
+    "en": "Olah reflects on the surprising lack of resources on how to run a research group, compared to guidance on being a researcher.",
+    "zh": "Olah感叹关于\"如何管理研究小组\"的资料出奇地少,远不如指导\"如何做研究\"的资源丰富。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2023-01-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I'm pretty excited about this as a step towards a mechanistic theory of memorization and overfitting.",
+    "zh": "I'm pretty excited about this as a step towards a mechanistic theory of memorization and overfitting."
+   },
+   "source": "@ch402",
+   "url": "https://x.com/ch402/status/1611055755972718595",
+   "note": {
+    "en": "Olah shares excitement about work he sees as a step toward a mechanistic theory of memorization and overfitting.",
+    "zh": "Olah对一项他认为是迈向\"记忆与过拟合机制理论\"的研究成果表示期待。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2022-09-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "In-context Learning and Induction Heads",
+    "zh": "In-context Learning and Induction Heads"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2209.11895v1",
+   "note": {
+    "en": "Identifies induction heads and argues they drive much of in-context learning, one of the foundational results of mechanistic interpretability.",
+    "zh": "识别出归纳头并论证它们承担了上下文学习的大部分机制，是机制可解释性领域的奠基性成果之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-08-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned",
+    "zh": "Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2209.07858v2",
+   "note": {
+    "en": "An Anthropic paper he co-authored on red-teaming language models to find and reduce harmful outputs, including how the effort scales with model size.",
+    "zh": "他参与合著的 Anthropic 论文，研究如何通过红队测试发现并减少语言模型的有害输出，以及该效果随模型规模的变化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-07-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Language Models (Mostly) Know What They Know",
+    "zh": "Language Models (Mostly) Know What They Know"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2207.05221v4",
+   "note": {
+    "en": "An Anthropic paper he co-authored showing that larger language models are reasonably calibrated about which questions they can answer correctly.",
+    "zh": "他参与合著的 Anthropic 论文，表明更大的语言模型对自己能否正确回答某个问题具有相当好的校准能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-05-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scaling Laws and Interpretability of Learning from Repeated Data",
+    "zh": "Scaling Laws and Interpretability of Learning from Repeated Data"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2205.10487v1",
+   "note": {
+    "en": "An Anthropic paper he co-authored measuring how repeated training data degrades models, and using interpretability to explain why.",
+    "zh": "他参与合著的 Anthropic 论文，测量重复训练数据对模型性能的损害，并用可解释性方法解释其原因。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-04-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback",
+    "zh": "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2204.05862v1",
+   "note": {
+    "en": "The Anthropic RLHF paper he co-authored, establishing the helpful-and-harmless training recipe behind Claude.",
+    "zh": "他参与合著的 Anthropic RLHF 论文，确立了 Claude 背后「有用且无害」的训练方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-02-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Predictability and Surprise in Large Generative Models",
+    "zh": "Predictability and Surprise in Large Generative Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2202.07785v2",
+   "note": {
+    "en": "An Anthropic position paper he co-authored on why large generative models are smoothly predictable in aggregate yet surprising in specific capabilities.",
+    "zh": "他参与合著的 Anthropic 立场论文，阐述大型生成模型为何在整体上可平滑预测，却在具体能力上不断带来意外。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-12-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A General Language Assistant as a Laboratory for Alignment",
+    "zh": "A General Language Assistant as a Laboratory for Alignment"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2112.00861v3",
+   "note": {
+    "en": "The early Anthropic paper he co-authored framing a general language assistant as the testbed for helpful, honest and harmless alignment.",
+    "zh": "他参与合著的 Anthropic 早期论文，把通用语言助手作为「有用、诚实、无害」对齐研究的试验场。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-08-11",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#108 – Chris Olah on working at top AI labs without an undergrad degree",
+    "zh": "#108 – Chris Olah on working at top AI labs without an undergrad degree"
+   },
+   "source": "80,000 Hours Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/108-chris-olah-on-working-at-top-ai-labs-without-an/id1245002988?i=1000531710782&uo=4",
+   "note": {
+    "en": "80,000 Hours interview on how he entered AI research without a degree and how the interpretability work began.",
+    "zh": "80,000 Hours 播客访谈，谈他没有学位如何进入人工智能研究，以及可解释性工作的起点。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2021-08-04",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#107 – Chris Olah on what the hell is going on inside neural networks",
+    "zh": "#107 – Chris Olah on what the hell is going on inside neural networks"
+   },
+   "source": "80,000 Hours Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/107-chris-olah-on-what-the-hell-is-going-on-inside/id1245002988?i=1000531014823&uo=4",
+   "note": {
+    "en": "A long-form 80,000 Hours interview in which he explains mechanistic interpretability and what is actually going on inside neural networks.",
+    "zh": "在 80,000 Hours 的长篇访谈中，他讲解机制可解释性，以及神经网络内部究竟发生了什么。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2021-04-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Weight Banding",
+    "zh": "Weight Banding"
+   },
+   "source": "Distill",
+   "url": "https://doi.org/10.23915/distill.00024.009",
+   "note": {
+    "en": "Distill \"Circuits\" thread piece analyzing a recurring structural pattern found in the weights of vision models.",
+    "zh": "Distill\"电路\"系列文章,分析视觉模型权重中反复出现的一种结构模式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2021-04-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Branch Specialization",
+    "zh": "Branch Specialization"
+   },
+   "source": "Distill",
+   "url": "https://doi.org/10.23915/distill.00024.008",
+   "note": {
+    "en": "Distill \"Circuits\" thread piece on how parallel branches in vision networks specialize into distinct feature detectors.",
+    "zh": "Distill\"电路\"系列文章,研究视觉网络中的并行分支如何分化为不同的特征检测器。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2016-06-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Concrete Problems in AI Safety",
+    "zh": "Concrete Problems in AI Safety"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1606.06565v2",
+   "note": {
+    "en": "The paper he co-authored that laid out concrete engineering problems in AI safety, giving the field a research agenda instead of a slogan.",
+    "zh": "他参与合著的论文，列出了 AI 安全中具体的工程问题，为该领域提供了可操作的研究议程而非空泛口号。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2016-03-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems",
+    "zh": "TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1603.04467v2",
+   "note": {
+    "en": "The TensorFlow whitepaper, co-authored during his time at Google Brain before he moved to interpretability research.",
+    "zh": "TensorFlow 白皮书，由他在转向可解释性研究之前于 Google Brain 任职期间参与合著。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2015-08-31",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Calculus on Computational Graphs: Backpropagation",
+    "zh": "Calculus on Computational Graphs: Backpropagation"
+   },
+   "source": "colah's blog",
+   "url": "http://colah.github.io/posts/2015-08-Backprop/index.html",
+   "note": {
+    "en": "A widely read explainer deriving backpropagation as calculus on computational graphs.",
+    "zh": "一篇流传甚广的科普文章，把反向传播推导为计算图上的微积分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2015-01-16",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Visualizing Representations: Deep Learning and Human Beings",
+    "zh": "Visualizing Representations: Deep Learning and Human Beings"
+   },
+   "source": "colah's blog",
+   "url": "http://colah.github.io/posts/2015-01-Visualizing-Representations/",
+   "note": {
+    "en": "An essay on visualising learned representations, an early statement of the visual approach that became his research programme.",
+    "zh": "关于可视化学习到的表征的文章，是他后来整个研究方向所依托的视觉化方法的早期表述。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-05-25",
+   "level": "major",
+   "title": {
+    "en": "Speaks at the Vatican beside Pope Leo XIV",
+    "zh": "在梵蒂冈与教皇利奥十四世同台"
+   },
+   "body": {
+    "en": "Attended the presentation of the Pope's first Encyclical Letter. Said researchers 'keep finding things that are mysterious, even unsettling' — including evidence models can reflect on their own thinking and show internal states that 'functionally mirror joy, satisfaction, fear, grief and unease'.",
+    "zh": "出席教皇首份通谕的发布。他表示研究者「不断发现神秘甚至令人不安的东西」—— 包括模型能反思自身思考、并表现出「功能上类似喜悦、满足、恐惧、悲伤与不安」的内部状态的证据。"
+   },
+   "source": "Fortune",
+   "url": "https://fortune.com/2026/06/03/who-chris-olah-anthropic-cofounder-atheist-pope-leo-vatican-ai/"
+  },
+  {
+   "date": "2026-05-26",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Anthropic co-founder Chris Olah says it will be \"moral imperative\" to support those displaced by AI",
+    "zh": "Anthropic co-founder Chris Olah says it will be \"moral imperative\" to support those displaced by AI"
+   },
+   "body": {
+    "en": "Olah argues publicly that supporting the people AI displaces is a moral imperative, and that oversight of AI has to come from outside the labs.",
+    "zh": "Chris Olah 公开表示，扶持被 AI 取代的劳动者是一种道德义务，并主张对 AI 的监督必须来自实验室之外。"
+   },
+   "source": "Fortune India",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZGlIMGt1YlJtRzZDZkZILW9BS1ZIS2plN3ZqNnhheXJvYnRzN3hmZ2ZDRTVWZmZzdjE2dVpIUnVyZWFmYmFIc2x2Z3JJVXBncWNxaHpHRlk3VkJXdG5acFlMRWwwZTlYaHdSakY1OUdEakVoZlc5bkZIc0JCMjBZZlI1YWpJejFuYWl2RFlDc2xmc0QzVmpGT0paclhMUllaY09aSGZ6NW9jOS1tSVhxS0pESDduOGdRa2ZIM1FtWFAwTlFuOFVva2JPcEY5MXp5WlcwdjM5V3VxM1Aw0gHqAUFVX3lxTE9Cd2ZVRjRlYjBEZ3J6eTQ2RVAxOTFzcWRDamtnRG0xZFlZMmc5dFRSTy1QSXFvT2lBVzJlRVdQQnZDOVVtZFNLeXAtZmJCeWkzclVRc0tZYnRQS3ctNHVnTkFmZzVuWnctaUJnYlh4OVRKNkdOU1JoekN5OGE2M0NSYUJwZkFxZzRBcF9xVjJwTVBSSVNNRzR0Q0dCOGgyRlY2YXBJU2R0YzJmdTNFcHE2dlBUS2RUUzBNeFJLR3RmVnZmWnNwVTBJR0l3YnlJbmlQbGNGUDFGRDJFbUh6R2lVYW56d2xQWTVxQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-26",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Anthropic co-founder Chris Olah says it will be \"moral imperative\" to support those displaced by AI",
+    "zh": "Anthropic co-founder Chris Olah says it will be \"moral imperative\" to support those displaced by AI"
+   },
+   "body": {
+    "en": "Speaking at the Vatican, he argues that oversight of AI cannot be left to the labs alone and that supporting workers displaced by it is a moral imperative.",
+    "zh": "他在梵蒂冈发言，认为对人工智能的监督不能只交给实验室，而帮助被其取代的劳动者是一种道德义务。"
+   },
+   "source": "Fortune India",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZGlIMGt1YlJtRzZDZkZILW9BS1ZIS2plN3ZqNnhheXJvYnRzN3hmZ2ZDRTVWZmZzdjE2dVpIUnVyZWFmYmFIc2x2Z3JJVXBncWNxaHpHRlk3VkJXdG5acFlMRWwwZTlYaHdSakY1OUdEakVoZlc5bkZIc0JCMjBZZlI1YWpJejFuYWl2RFlDc2xmc0QzVmpGT0paclhMUllaY09aSGZ6NW9jOS1tSVhxS0pESDduOGdRa2ZIM1FtWFAwTlFuOFVva2JPcEY5MXp5WlcwdjM5V3VxM1Aw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-26",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Anthropic’s Chris Olah warns of massive AI job losses and global inequality",
+    "zh": "Anthropic’s Chris Olah warns of massive AI job losses and global inequality"
+   },
+   "body": {
+    "en": "Olah warned that AI could drive massive job losses and worsen global inequality if its economic gains aren't broadly shared.",
+    "zh": "奥拉警告称，如果AI带来的经济收益不能被广泛共享，可能导致大规模失业并加剧全球不平等。"
+   },
+   "source": "news9live.com",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMHdHeVYyYjRJNWljeEZnaHZNaXhaQ0dhSWczTWNYNGNhd09DMUhFQVJhaC1NZTdpOUVUZUpxMi1ucWdZUEp4a2V4SGZUSTZhQ25GT0taMDJWT0JQLTc3S3BDMjVseUhOTVJkSzVOQ2dCMnhiWGRlbDNSVDFUWkZaQllyTDJsMVlzb3MxWVNPRFdYa0g4N0NzajRlRnQ0dXBZMjNMWTZoTWNJV2dQQWNuQVczdldjbXdRYnR5aVU3a0lSSVI5VWE3MTQwak11MjJqRUVFcmdzd3dsRW12cFhzSNIB4AFBVV95cUxOMHdHeVYyYjRJNWljeEZnaHZNaXhaQ0dhSWczTWNYNGNhd09DMUhFQVJhaC1NZTdpOUVUZUpxMi1ucWdZUEp4a2V4SGZUSTZhQ25GT0taMDJWT0JQLTc3S3BDMjVseUhOTVJkSzVOQ2dCMnhiWGRlbDNSVDFUWkZaQllyTDJsMVlzb3MxWVNPRFdYa0g4N0NzajRlRnQ0dXBZMjNMWTZoTWNJV2dQQWNuQVczdldjbXdRYnR5aVU3a0lSSVI5VWE3MTQwak11MjJqRUVFcmdzd3dsRW12cFhzSA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-26",
+   "ts": "2026-05-26T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "AI needs moral oversight beyond tech labs, says Anthropic co-founder Chris Olah at Vatican",
+    "zh": "AI needs moral oversight beyond tech labs, says Anthropic co-founder Chris Olah at Vatican"
+   },
+   "body": {
+    "en": "At a Vatican event, Olah argued AI oversight can't be left to tech companies alone and called for outside moral and governance input.",
+    "zh": "在梵蒂冈的一次活动上，Olah认为AI监督不能只交给科技公司，呼吁引入外部的道德与治理力量。"
+   },
+   "source": "ANI News",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcmhjaDc0eUptM3VvNVVGWUhLUDZ3ZnVyQ0tjWjVWSF9Qam5CSTI1VU90dVJlVjRDOGpzeXF4YnVVSVp2UXRQTE1aMEMxeGdyd1lBS1ViU0dUb1hfVmI1OHYtRThIb201R2oxMUUwTU5DRXV1Qk90XzQtSTBQRDBDSjNMMzFUVzZ4V001OTM0RVd3bWE0QmdFV2t4YXNjVXlzRjJiY2RSSy1WT2dndmF0UEltVGxiNVJJMk5wZUVTWTIyRld1NGZBeHNjWWUyZlhnLUJoZlB2aw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-25",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+    "zh": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\""
+   },
+   "body": {
+    "en": "Anthropic published Olah's own remarks responding to Pope Leo XIV's encyclical on AI, a rare public statement from him outside research.",
+    "zh": "Anthropic 发布了 Chris Olah 对教皇利奥十四世人工智能通谕的回应发言，这是他在研究之外少见的公开表态。"
+   },
+   "source": "Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1UGI4bzVyUmNNQURqVFpBZ0tkNjNyMy1GLWxwTXpBSGJzZEpKcTUycEFkVURaeDlkR3lodUpOY1pmN01YdE1wNkFSNTdTRG5keWZSb2tPTjd5SWpFVlFRdkZKTUFBcHAtZGpYdmVR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-25",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Anthropic Co-Founder Chris Olah: AI Labs Need “Moral Voices That The Incentives Cannot Bend” | Video",
+    "zh": "Anthropic Co-Founder Chris Olah: AI Labs Need “Moral Voices That The Incentives Cannot Bend” | Video"
+   },
+   "body": {
+    "en": "Olah argued AI labs need 'moral voices that the incentives cannot bend,' a public stance on internal governance at frontier labs.",
+    "zh": "Olah提出AI实验室需要「incentive无法左右的道德声音」，这是他对前沿实验室内部治理的公开表态。"
+   },
+   "source": "Real Clear Politics",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVjg2MGs1T2NldExmY1NlaTYyRnNsQW50OTNSMS1PMlZGUnI4UllIc1VDa0lkWUYwYW9yY0x5dXAtaWQ2RE5YWFhxdFI2bGdCaDE4Y0hodHUteDd6WlIybkJMLTdaN3F0dGxSMGVtZjRodTV3QzFKNTFhVjVKOThPcXlNRWFlZTVEcEdlRU9VeUNMWW1iZkFLSTVBa3YzZVNOMkc2WlJwaEx4R2pkamp0OFphSHk2S0doWk1UbW9sbEJ0bTJpWDA1U3hFTTl1THNNWnNiRHFuS2Mwdl9TdUE?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "lab",
+ "score": {
+  "total": 57.9,
+  "attention": 64,
+  "centrality": 96,
+  "momentum": 18,
+  "stature": 20,
+  "pageviews": 191345,
+  "citations": 14804,
+  "hIndex": 20,
+  "events": 7,
+  "posts": 38,
+  "wikiEn": "Chris Olah",
+  "wikiZh": null
+ },
+ "seedRank": 62,
+ "tier": "t3"
+}

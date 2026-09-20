@@ -1,0 +1,1421 @@
+{
+ "rank": 96,
+ "id": "nathan-lambert",
+ "name": {
+  "en": "Nathan Lambert",
+  "zh": "Nathan Lambert"
+ },
+ "role": {
+  "en": "Open model research (new venture); author of Interconnects",
+  "zh": "开放模型研究（新机构）；Interconnects 作者"
+ },
+ "org": "Interconnects",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "OLMo",
+  "Tulu",
+  "RLHF",
+  "Post-training",
+  "Interconnects"
+ ],
+ "why": {
+  "en": "Core driver of the fully open OLMo line and one of the field's most important synthesists of RLHF and post-training method. His newsletter is where much of the open-model community forms its view.",
+  "zh": "OLMo 完全开源模型系列的核心推动者，RLHF 与后训练方法最重要的梳理者之一。他的通讯是开放模型社区形成判断的主要场所。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@natolambert",
+   "url": "https://x.com/natolambert",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Interconnects",
+   "url": "https://www.interconnects.ai/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "natolambert.com",
+   "url": "https://natolambert.com/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Substack",
+   "url": "https://natolambert.substack.com/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Medium",
+   "url": "https://medium.com/@natolambert",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @natolambert",
+   "url": "https://github.com/natolambert",
+   "t": 1
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face @natolambert",
+   "url": "https://huggingface.co/natolambert",
+   "t": 1
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Nathan+Lambert",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Nathan+Lambert",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Nathan+Lambert",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Nathan+Lambert&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Nathan+Lambert&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Nathan+Lambert",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Nathan+Lambert",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Nathan+Lambert",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Nathan+Lambert",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Nathan+Lambert",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Nathan+Lambert",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Nathan+Lambert",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Nathan+Lambert",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Nathan+Lambert&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-06-01",
+   "kind": "blog",
+   "title": {
+    "en": "Farewell Ai2",
+    "zh": "告别 Ai2"
+   },
+   "source": "Interconnects",
+   "url": "https://www.interconnects.ai/p/farewell-ai2",
+   "note": {
+    "en": "On 2.5+ years building OLMo and Tulu, and why he is moving on.",
+    "zh": "关于两年半构建 OLMo 与 Tulu 的经历，以及为何离开。"
+   }
+  },
+  {
+   "date": "2026-01-01",
+   "kind": "blog",
+   "title": {
+    "en": "Olmo Hybrid and future LLM architectures",
+    "zh": "Olmo Hybrid 与未来的 LLM 架构"
+   },
+   "source": "Interconnects",
+   "url": "https://www.interconnects.ai/p/olmo-hybrid-and-future-llm-architectures",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2026-09-19",
+   "ts": "2026-09-19T15:42:20Z",
+   "kind": "blog",
+   "title": {
+    "en": "Why I still haven’t bought into true RSI",
+    "zh": "Why I still haven’t bought into true RSI"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+   "note": {
+    "en": "Lambert lays out why he remains unconvinced by claims of true recursive self-improvement (RSI), offering a moderate read on the trajectory of frontier models.",
+    "zh": "兰伯特阐述了他为何仍不认同“真正的递归自我改进（RSI）”这一说法，对前沿模型的发展轨迹给出了一种温和派的判断。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-09-11",
+   "ts": null,
+   "kind": "report",
+   "title": {
+    "en": "natolambert released book/v0.12 at natolambert/rlhf-book",
+    "zh": "natolambert released book/v0.12 at natolambert/rlhf-book"
+   },
+   "source": "GitHub Public Timeline Feed",
+   "url": "https://github.com/natolambert/rlhf-book/releases/tag/book/v0.12",
+   "note": {
+    "en": "Released v0.12 of his RLHF Book, expanding the canonical post-training recipes with coverage of MOPD.",
+    "zh": "发布了《RLHF Book》v0.12版本，扩展了后训练标准方法，新增了对MOPD的介绍。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "github",
+   "connector": "github"
+  },
+  {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T12:36:25Z",
+   "kind": "blog",
+   "title": {
+    "en": "Open-Source AI & Open Models Reading List",
+    "zh": "Open-Source AI & Open Models Reading List"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+   "note": {
+    "en": "Lambert published a curated reading list for getting up to speed on open models and their implications.",
+    "zh": "Lambert发布了一份精选阅读清单，帮助读者快速了解开源模型及其影响。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-09-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Learning to Solve Hard Problems in RL for LLMs by Never Giving Up",
+    "zh": "Learning to Solve Hard Problems in RL for LLMs by Never Giving Up"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.13443v1",
+   "note": {
+    "en": "Co-authored with Ai2 and Mila researchers, this paper shows RL training for LLMs yields uneven gains, improving easy problems far more than hard ones — directly relevant to Lambert's post-training research.",
+    "zh": "该论文由Ai2和Mila的研究者合著，指出LLM的强化学习训练带来的提升并不均衡——在简单问题上的进步远大于难题，这与Lambert在后训练领域的研究方向直接相关。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T15:28:52Z",
+   "kind": "blog",
+   "title": {
+    "en": "One resignation turned the embers of AI fear into a wildfire",
+    "zh": "One resignation turned the embers of AI fear into a wildfire"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+   "note": {
+    "en": "Lambert writes on Interconnects that a single high-profile resignation reignited broader anxieties about AI, capturing a turbulent week in the field.",
+    "zh": "Nathan Lambert在Interconnects上写道，一起备受关注的离职事件重新点燃了外界对AI的普遍担忧，记录了这动荡的一周。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T11:01:23Z",
+   "kind": "blog",
+   "title": {
+    "en": "When will average people feel AI’s impact?",
+    "zh": "When will average people feel AI’s impact?"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/when-will-average-people-feel-ais",
+   "note": {
+    "en": "In this Interconnects essay, Lambert argues the AI industry is only about five years into a compounding revolution that could play out over a century, and discusses how it should be managed.",
+    "zh": "在这篇Interconnects文章中，兰伯特认为AI行业才进入一场可能持续一个世纪的复合式变革的第五个年头左右，并探讨了这场变革应如何被管理。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T14:15:25Z",
+   "kind": "blog",
+   "title": {
+    "en": "Latest open artifacts (#24): Motif-3, GLM-5.3, Hy4-preview and open model licenses",
+    "zh": "Latest open artifacts (#24): Motif-3, GLM-5.3, Hy4-preview and open model licenses"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
+   "note": {
+    "en": "His newsletter roundup covers new open model releases (Motif-3, GLM-5.3, Hy4-preview) and their licensing terms across the open-model ecosystem.",
+    "zh": "他的Interconnects简报汇总了开源模型的最新发布（Motif-3、GLM-5.3、Hy4-preview）及各自的许可条款。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T13:46:02Z",
+   "kind": "x",
+   "title": {
+    "en": "I put 0% chance any researchers at OpenAI or Anthropic look directly at specific user’s data. The amount of controls on this sort of behavior at tech companies",
+    "zh": "I put 0% chance any researchers at OpenAI or Anthropic look directly at specific user’s data. The amount of controls on this sort of behavior at tech companies"
+   },
+   "source": "@natolambert",
+   "url": "https://x.com/natolambert/status/2097320558559895862",
+   "note": {
+    "en": "He argues AI labs' internal controls make it very unlikely researchers directly view individual users' data, pushing back on a common privacy fear.",
+    "zh": "他认为AI实验室的内部管控机制使研究人员直接查看单个用户数据的可能性极低，回应了一种常见的隐私担忧。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T14:59:34Z",
+   "kind": "x",
+   "title": {
+    "en": "While everyone is raging at me for defending OpenAI/Anthropic in one narrow area, we have got loads of new, fun, and powerful open models. A far better place th",
+    "zh": "While everyone is raging at me for defending OpenAI/Anthropic in one narrow area, we have got loads of new, fun, and powerful open models. A far better place th"
+   },
+   "source": "@natolambert",
+   "url": "https://x.com/natolambert/status/2097339063615254727",
+   "note": {
+    "en": "Responding to backlash over defending OpenAI and Anthropic, he argues the wave of strong new open models deserves more attention than lab drama.",
+    "zh": "针对为OpenAI和Anthropic辩护而招致的批评，他认为大量优秀的新开源模型比实验室纷争更值得关注。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T17:39:37Z",
+   "kind": "x",
+   "title": {
+    "en": "Would love to see scaling laws on the number of agents. Seems very important to a lot of discussions about the future of AI -- if scaling the number of agents i",
+    "zh": "Would love to see scaling laws on the number of agents. Seems very important to a lot of discussions about the future of AI -- if scaling the number of agents i"
+   },
+   "source": "@natolambert",
+   "url": "https://x.com/natolambert/status/2097379342967824600",
+   "note": {
+    "en": "He floats scaling laws for the number of agents in a swarm as an underexplored but potentially important research question.",
+    "zh": "他提出多智能体群体规模的scaling law是一个尚未被充分研究、但可能很重要的问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-09-05",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Got married, best decision ever. Spent the week after hiking with the fam… Seems like I didn’t miss much in the ai world. https://t.co/czDuE1XuHe",
+    "zh": "Got married, best decision ever. Spent the week after hiking with the fam… Seems like I didn’t miss much in the ai world. https://t.co/czDuE1XuHe"
+   },
+   "source": "@natolambert",
+   "url": "https://x.com/natolambert/status/2096201617393479800",
+   "note": {
+    "en": "Nathan Lambert announced he got married and stepped away from AI news for a week, in a post that drew strong engagement from his followers.",
+    "zh": "Nathan Lambert宣布自己结婚并暂别AI新闻一周，这条动态获得了粉丝的强烈关注。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2026-08-17",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Teaching Everyone to Fish for Tokens",
+    "zh": "Teaching Everyone to Fish for Tokens"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
+   "note": {
+    "en": "Interconnects essay on Nvidia pushing companies to train their own models rather than buy tokens from the closed labs.",
+    "zh": "Interconnects 文章：分析英伟达为何推动企业自建模型，而不是向封闭实验室购买 token。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-08-14",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "GLM-5.3: How Chinese labs keep stride with the frontier",
+    "zh": "GLM-5.3: How Chinese labs keep stride with the frontier"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+   "note": {
+    "en": "His analysis of GLM-5.3, arguing Chinese labs keep pace with the frontier through their own training work rather than distillation.",
+    "zh": "他对 GLM-5.3 的分析：中国实验室靠自身训练能力紧跟前沿，而非依赖蒸馏。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-08-12",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "I wrote an AI textbook — how long until AI can do it better?",
+    "zh": "I wrote an AI textbook — how long until AI can do it better?"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+   "note": {
+    "en": "Reflection on writing his RLHF textbook and how close models are to producing that kind of long-form technical work themselves.",
+    "zh": "他回顾撰写 RLHF 教科书的过程，并思考模型距离独立完成这类长篇技术写作还有多远。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-08-10",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "5 useful things you'll learn in my new post-training textbook (shipping now!)",
+    "zh": "5 useful things you'll learn in my new post-training textbook (shipping now!)"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
+   "note": {
+    "en": "Announcement that his post-training textbook is shipping, with a summary of what the book covers.",
+    "zh": "宣布他的后训练教科书正式出版，并概述书中主要内容。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-08-09",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Lessons from the hacks",
+    "zh": "Lessons from the hacks"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+   "note": {
+    "en": "Essay on model alignment and what actually determines the safety of deployed systems.",
+    "zh": "关于模型对齐的文章，讨论究竟是什么决定了已部署系统的安全性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-08-08",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Nathan Lambert: Inside Post-Training and the Open Model Fight",
+    "zh": "Nathan Lambert: Inside Post-Training and the Open Model Fight"
+   },
+   "source": "The Information Bottleneck",
+   "url": "https://podcasts.apple.com/us/podcast/nathan-lambert-inside-post-training-and-the-open/id1834616211?i=1000781096716&uo=4",
+   "note": {
+    "en": "Long-form interview on his OLMo post-training work at Ai2 and the state of the open-model fight, recorded after he left Ai2.",
+    "zh": "深度访谈：谈他在 Ai2 主导的 OLMo 后训练工作，以及离开 Ai2 后对开放模型之争的看法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-08-03",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Introducing our Artifacts Hub and Adoption Dashboard",
+    "zh": "Introducing our Artifacts Hub and Adoption Dashboard"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/introducing-our-artifacts-hub-and",
+   "note": {
+    "en": "Launch of Interconnects' Artifacts Hub and adoption dashboard for tracking the open-model ecosystem.",
+    "zh": "发布 Interconnects 的 Artifacts Hub 与采用度仪表盘，用于追踪开放模型生态。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-08-02",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Latest open artifacts (#23): Laguna S2.1, Inkling, & Kimi K3 show the utility of open models on the Pareto frontier",
+    "zh": "Latest open artifacts (#23): Laguna S2.1, Inkling, & Kimi K3 show the utility of open models on the Pareto frontier"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
+   "note": {
+    "en": "Instalment 23 of his open-artifacts roundup, covering Laguna S2.1, Inkling and Kimi K3.",
+    "zh": "他的开放模型盘点第 23 期，覆盖 Laguna S2.1、Inkling 与 Kimi K3。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-07-22",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Open models recap: more on Kimi K3, Qwen 3.8, Xi's WAIC speech, distillation, the open-closed gap, and what's next",
+    "zh": "Open models recap: more on Kimi K3, Qwen 3.8, Xi's WAIC speech, distillation, the open-closed gap, and what's next"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3",
+   "note": {
+    "en": "Recorded conversation with Florian Brand recapping Kimi K3, Qwen 3.8 and the open-closed capability gap.",
+    "zh": "与 Florian Brand 的播客对谈，回顾 Kimi K3、Qwen 3.8 以及开放与封闭模型之间的能力差距。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-07-20",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Kimi K3: The open-weights escalation",
+    "zh": "Kimi K3: The open-weights escalation"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
+   "note": {
+    "en": "His read on Kimi K3 and what an open-weights release at that level means for the global ecosystem.",
+    "zh": "他解读 Kimi K3，以及这一级别的开放权重发布对全球生态的影响。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-07-12",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "6 months to live for open models",
+    "zh": "6 months to live for open models"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/6-months-to-live-for-open-models",
+   "note": {
+    "en": "Argument that the next six months are the decisive test of open-source AI's viability.",
+    "zh": "他认为未来六个月将是开源 AI 可行性的决定性考验。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-06-28",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Latest open artifacts (#22): Zyphra, Cohere, and Poolside are expanding the breadth of the ecosystem",
+    "zh": "Latest open artifacts (#22): Zyphra, Cohere, and Poolside are expanding the breadth of the ecosystem"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
+   "note": {
+    "en": "Instalment 22 of the open-artifacts roundup, on releases from Zyphra, Cohere and Poolside and why labs open their weights.",
+    "zh": "开放模型盘点第 22 期：Zyphra、Cohere 与 Poolside 的发布，以及各家开放权重的动机。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-06-22",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "GLM-5.2 is the step change for open agents",
+    "zh": "GLM-5.2 is the step change for open agents"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+   "note": {
+    "en": "Assessment of GLM-5.2 as the point where open models became genuinely usable as agents.",
+    "zh": "评估 GLM-5.2：他认为开放模型自此真正可用于智能体场景。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-06-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Tmax: A simple recipe for terminal agents",
+    "zh": "Tmax: A simple recipe for terminal agents"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.23321v1",
+   "note": {
+    "en": "Paper presenting a recipe for RL-trained terminal-using agents, a popular application with little open academic work behind it.",
+    "zh": "论文提出训练终端操作智能体的强化学习方案，填补这一热门应用方向公开研究的空白。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-19",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Banning Open Source AI Would Be A Mistake",
+    "zh": "Banning Open Source AI Would Be A Mistake"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+   "note": {
+    "en": "Op-ed co-written with Kevin Xu arguing against restricting open-source AI, aimed at a policy audience.",
+    "zh": "与 Kevin Xu 合写的评论文章，面向政策读者反对限制开源 AI。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-06-17",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "State of the blog, mid-2026",
+    "zh": "State of the blog, mid-2026"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/state-of-the-blog-mid-2026",
+   "note": {
+    "en": "Three-year retrospective on writing Interconnects weekly, with readership numbers and plans.",
+    "zh": "Interconnects 周更三年回顾，谈读者情况与后续计划。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-06-16",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Frontier post-training recipe review with Finbarr Timbers",
+    "zh": "Frontier post-training recipe review with Finbarr Timbers"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
+   "note": {
+    "en": "Essay arguing AI governance has entered an AGI-scale phase that policy was not prepared for.",
+    "zh": "文章认为 AI 治理已进入通用人工智能量级的阶段，而政策尚未做好准备。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-06-14",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Welcome to the AGI era of AI governance",
+    "zh": "Welcome to the AGI era of AI governance"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/welcome-to-the-agi-era-of-ai-governance",
+   "note": {
+    "en": "Interview with Finbarr Timbers reviewing the post-training recipes frontier labs are using.",
+    "zh": "与 Finbarr Timbers 对谈，梳理前沿实验室采用的后训练配方。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-06-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "ModelTalk: Claude Fable (Nathan's pissed), is AI actually productive, advice for graduates",
+    "zh": "ModelTalk: Claude Fable (Nathan's pissed), is AI actually productive, advice for graduates"
+   },
+   "source": "ChinaTalk",
+   "url": "https://podcasts.apple.com/us/podcast/modeltalk-claude-fable-nathans-pissed-is-ai-actually/id1289062927?i=1000772394490&uo=4",
+   "note": {
+    "en": "Lambert joined ChinaTalk's ModelTalk panel to discuss Claude, Fable, and AI productivity.",
+    "zh": "Lambert参加了ChinaTalk的ModelTalk节目,讨论Claude、Fable及AI生产力问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-06-09",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Claude Fable 5 and new AI safety fables",
+    "zh": "Claude Fable 5 and new AI safety fables"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/claude-fable-5-and-new-ai-safety",
+   "note": {
+    "en": "Commentary on the Claude Fable 5 release and what its new safety fables say about frontier-lab power politics.",
+    "zh": "评论 Claude Fable 5 的发布，以及其中新的 AI 安全寓言折射出的前沿实验室权力格局。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-06-01",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Open and closed models are on different exponentials",
+    "zh": "Open and closed models are on different exponentials"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/open-and-closed-models-are-on-different",
+   "note": {
+    "en": "Argument that open and closed models are improving on different curves, and where extra intelligence does and does not pay.",
+    "zh": "他主张开放与封闭模型走在不同的增长曲线上，并分析额外的智能在哪些场景真正创造价值。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-05-26",
+   "ts": null,
+   "kind": "blog",
+   "title": {
+    "en": "Some ideas for what comes next, May 2026",
+    "zh": "Some ideas for what comes next, May 2026"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may",
+   "note": {
+    "en": "Mid-2026 grab-bag on Gemini Flash 3.5, Mythos, the open-closed balance and America's open-source surge.",
+    "zh": "2026 年年中随笔：谈 Gemini Flash 3.5、Mythos、开放与封闭的平衡，以及美国的开源回潮。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-05-19",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Nathan Lambert Reflects on China’s AI Labs: DeepSeek, Open Models, and the 'Race' with the U.S.",
+    "zh": "Nathan Lambert Reflects on China’s AI Labs: DeepSeek, Open Models, and the 'Race' with the U.S."
+   },
+   "source": "AI Proem Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/nathan-lambert-reflects-on-chinas-ai-labs-deepseek/id1838832643?i=1000768640474&uo=4",
+   "note": {
+    "en": "Podcast interview reporting back from his tour of China's leading AI labs and questioning the 'race' framing.",
+    "zh": "播客访谈：分享他走访中国头部 AI 实验室的见闻，并反思所谓中美“竞赛”的说法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-04-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The ATOM Report: Measuring the Open Language Model Ecosystem",
+    "zh": "The ATOM Report: Measuring the Open Language Model Ecosystem"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.07190v2",
+   "note": {
+    "en": "Measurement study of the open language model ecosystem, cataloguing roughly 1.5K mainline open models and who builds them.",
+    "zh": "对开放语言模型生态的测量研究，梳理约 1500 个主流开放模型及其发布方。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Olmo Hybrid: From Theory to Practice and Back",
+    "zh": "Olmo Hybrid: From Theory to Practice and Back"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.03444v4",
+   "note": {
+    "en": "Study of hybrid recurrence-and-attention architectures applied to the fully open Olmo line.",
+    "zh": "研究将循环与注意力混合的架构用于完全开放的 Olmo 系列模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "TurnWise: The Gap between Single- and Multi-turn Language Model Capabilities",
+    "zh": "TurnWise: The Gap between Single- and Multi-turn Language Model Capabilities"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.16759v1",
+   "note": {
+    "en": "Work measuring the gap between single- and multi-turn language model capability, with open training and evaluation data.",
+    "zh": "研究单轮与多轮对话能力之间的差距，并提供开放的训练与评测数据。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Meta-Reinforcement Learning with Self-Reflection for Agentic Search",
+    "zh": "Meta-Reinforcement Learning with Self-Reflection for Agentic Search"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.11327v2",
+   "note": {
+    "en": "MR-Search, an in-context meta reinforcement learning formulation that lets an agentic search model reflect across episodes.",
+    "zh": "提出用于智能体搜索的上下文元强化学习方法 MR-Search，使模型能跨回合自我反思。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "[LIVE] Anthropic Distillation & How Models Cheat (SWE-Bench Dead) | Nathan Lambert & Sebastian Raschka",
+    "zh": "[LIVE] Anthropic Distillation & How Models Cheat (SWE-Bench Dead) | Nathan Lambert & Sebastian Raschka"
+   },
+   "source": "Latent Space: The AI Engineer Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/live-anthropic-distillation-how-models-cheat-swe-bench/id1674008350?i=1000751812413&uo=4",
+   "note": {
+    "en": "Live Latent Space session where he and Sebastian Raschka discuss distillation and how models game benchmarks like SWE-Bench.",
+    "zh": "Latent Space 现场节目：他与 Sebastian Raschka 讨论蒸馏，以及模型如何刷 SWE-Bench 这类基准。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-02-01",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#490 – State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI",
+    "zh": "#490 – State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/490-state-of-ai-in-2026-llms-coding-scaling-laws/id1434243584?i=1000747523558&uo=4",
+   "note": {
+    "en": "Lambert appeared alongside Sebastian Raschka on the Lex Fridman Podcast (#490) discussing the state of AI in 2026 — LLMs, coding, scaling laws, China, agents, and GPUs.",
+    "zh": "兰伯特与塞巴斯蒂安·拉施卡一同做客Lex Fridman播客(第490期),探讨2026年AI现状——大语言模型、编程、扩展定律、中国、智能体与GPU等话题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-01-15",
+   "ts": null,
+   "kind": "report",
+   "title": {
+    "en": "natolambert/qwen3-dgx-spark-sft",
+    "zh": "natolambert/qwen3-dgx-spark-sft"
+   },
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/natolambert/qwen3-dgx-spark-sft",
+   "note": {
+    "en": "A Qwen3 supervised fine-tune he trained on a DGX Spark box and released on Hugging Face.",
+    "zh": "他在 DGX Spark 上训练并发布到 Hugging Face 的 Qwen3 监督微调模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "huggingface",
+   "connector": "huggingface"
+  },
+  {
+   "date": "2025-11-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Open Character Training: Shaping the Persona of AI Assistants through Constitutional AI",
+    "zh": "Open Character Training: Shaping the Persona of AI Assistants through Constitutional AI"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2511.01689v1",
+   "note": {
+    "en": "An open method for shaping an assistant's persona and apparent values through constitutional AI.",
+    "zh": "提出以宪法式 AI 塑造助手人格与价值取向的开放方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-09-17",
+   "ts": null,
+   "kind": "report",
+   "title": {
+    "en": "natolambert/rlhf-library",
+    "zh": "natolambert/rlhf-library"
+   },
+   "source": "Hugging Face",
+   "url": "https://huggingface.co/datasets/natolambert/rlhf-library",
+   "note": {
+    "en": "The rlhf-library collection on Hugging Face, the reference preference artifacts that accompany his RLHF writing.",
+    "zh": "Hugging Face 上的 rlhf-library 合集，是其 RLHF 著作配套的参考偏好数据。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "huggingface",
+   "connector": "huggingface"
+  },
+  {
+   "date": "2025-07-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Generalizing Verifiable Instruction Following",
+    "zh": "Generalizing Verifiable Instruction Following"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2507.02833v3",
+   "note": {
+    "en": "Work on generalising verifiable instruction following beyond the narrow output constraints used in earlier benchmarks.",
+    "zh": "研究如何将可验证的指令遵循推广到更广的输出约束，而不限于既有基准的窄集合。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-06-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Spurious Rewards: Rethinking Training Signals in RLVR",
+    "zh": "Spurious Rewards: Rethinking Training Signals in RLVR"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2506.10947v2",
+   "note": {
+    "en": "Finding that RLVR can elicit strong mathematical reasoning in some models even when the reward signal is spurious.",
+    "zh": "发现即使奖励信号虚假，可验证奖励强化学习仍能激发部分模型的数学推理能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-06-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "RewardBench 2: Advancing Reward Model Evaluation",
+    "zh": "RewardBench 2: Advancing Reward Model Evaluation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2506.01937v2",
+   "note": {
+    "en": "Second generation of RewardBench, the reward model benchmark he created and the field's default RM evaluation.",
+    "zh": "RewardBench 第二代——他创建的奖励模型基准，也是该领域默认的评测标准。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-04-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Reinforcement Learning from Human Feedback",
+    "zh": "Reinforcement Learning from Human Feedback"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2504.12501v11",
+   "note": {
+    "en": "His book-length treatment of reinforcement learning from human feedback, maintained as a living arXiv document.",
+    "zh": "他撰写的 RLHF 专著，以持续更新的 arXiv 文档形式维护。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-12-31",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "2 OLMo 2 Furious",
+    "zh": "2 OLMo 2 Furious"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2501.00656v3",
+   "note": {
+    "en": "OLMo 2 release paper, covering the 7B, 13B and 32B fully open models and all their training artifacts.",
+    "zh": "OLMo 2 发布论文，介绍 7B、13B、32B 完全开放模型及全部训练产物。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-11-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Tulu 3: Pushing Frontiers in Open Language Model Post-Training",
+    "zh": "Tulu 3: Pushing Frontiers in Open Language Model Post-Training"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2411.15124v5",
+   "note": {
+    "en": "Tulu 3, the open post-training recipe, data and evaluation suite whose post-training work he led.",
+    "zh": "Tulu 3：他主导后训练工作的开放后训练配方、数据与评测套件。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-11-21",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Everything You Wanted to Know About LLM Post-Training, with Nathan Lambert of Allen Institute for AI",
+    "zh": "Everything You Wanted to Know About LLM Post-Training, with Nathan Lambert of Allen Institute for AI"
+   },
+   "source": "\"The Cognitive Revolution\" | AI Builde…",
+   "url": "https://podcasts.apple.com/us/podcast/everything-you-wanted-to-know-about-llm-post-training/id1669813431?i=1000677801656&uo=4",
+   "note": {
+    "en": "Long interview walking through frontier LLM post-training methods, recorded while he led post-training at Ai2.",
+    "zh": "长篇访谈：详解大模型前沿后训练方法，录制于他在 Ai2 负责后训练期间。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-10-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "M-RewardBench: Evaluating Reward Models in Multilingual Settings",
+    "zh": "M-RewardBench: Evaluating Reward Models in Multilingual Settings"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2410.15522v3",
+   "note": {
+    "en": "Extension of reward model evaluation to multilingual settings, built with Cohere For AI collaborators.",
+    "zh": "与 Cohere For AI 合作，将奖励模型评测扩展到多语言场景。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-09-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models",
+    "zh": "Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2409.17146v2",
+   "note": {
+    "en": "Ai2's Molmo vision-language models and the PixMo data, released with both open weights and open data.",
+    "zh": "Ai2 的 Molmo 视觉语言模型与 PixMo 数据集，权重与数据均开放。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-09-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "OLMoE: Open Mixture-of-Experts Language Models",
+    "zh": "OLMoE: Open Mixture-of-Experts Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2409.02060v2",
+   "note": {
+    "en": "OLMoE, a fully open mixture-of-experts model with 7B total and 1B active parameters.",
+    "zh": "OLMoE：完全开放的混合专家模型，总参数 70 亿、每 token 激活 10 亿。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-07-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Self-Directed Synthetic Dialogues and Revisions Technical Report",
+    "zh": "Self-Directed Synthetic Dialogues and Revisions Technical Report"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2407.18421v1",
+   "note": {
+    "en": "Technical report on generating multi-turn synthetic dialogues and revisions for instruction tuning.",
+    "zh": "技术报告：为指令微调生成多轮合成对话与修订数据。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-06-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "WildGuard: Open One-Stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs",
+    "zh": "WildGuard: Open One-Stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2406.18495v3",
+   "note": {
+    "en": "WildGuard, an open moderation tool for detecting malicious prompts, unsafe responses and model refusals.",
+    "zh": "WildGuard：开放的审核工具，用于识别恶意提示、不安全回复与模型拒答。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-06-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback",
+    "zh": "Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2406.09279v2",
+   "note": {
+    "en": "Controlled comparison of DPO and PPO that disentangles what actually drives gains from preference feedback.",
+    "zh": "对 DPO 与 PPO 的受控对比，厘清偏好反馈带来的收益究竟来自何处。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-05-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Towards a Framework for Openness in Foundation Models: Proceedings from the Columbia Convening on Openness in Artificial Intelligence",
+    "zh": "Towards a Framework for Openness in Foundation Models: Proceedings from the Columbia Convening on Openness in Artificial Intelligence"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2405.15802v1",
+   "note": {
+    "en": "Proceedings of the Columbia convening he took part in, framing what 'openness' concretely means for foundation models.",
+    "zh": "他参与的哥伦比亚大学开放性研讨会文集，尝试具体界定基础模型的“开放”含义。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-05-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "D2PO: Discriminator-Guided DPO with Response Evaluation Models",
+    "zh": "D2PO: Discriminator-Guided DPO with Response Evaluation Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2405.01511v2",
+   "note": {
+    "en": "D2PO, a discriminator-guided variant of DPO that trains a response evaluation model alongside the policy.",
+    "zh": "D2PO：在训练策略的同时训练回复评估模型，以判别器引导的 DPO 变体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-04-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Social Choice Should Guide AI Alignment in Dealing with Diverse Human Feedback",
+    "zh": "Social Choice Should Guide AI Alignment in Dealing with Diverse Human Feedback"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2404.10271v2",
+   "note": {
+    "en": "Position paper arguing social choice theory should guide how alignment handles conflicting human feedback.",
+    "zh": "立场论文：主张用社会选择理论指导对齐工作处理相互冲突的人类反馈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-03-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "RewardBench: Evaluating Reward Models for Language Modeling",
+    "zh": "RewardBench: Evaluating Reward Models for Language Modeling"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2403.13787v2",
+   "note": {
+    "en": "The original RewardBench, the first systematic benchmark for evaluating reward models used in RLHF.",
+    "zh": "最初的 RewardBench——首个系统评测 RLHF 奖励模型的基准。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-02-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Survey on Data Selection for Language Models",
+    "zh": "A Survey on Data Selection for Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2402.16827v3",
+   "note": {
+    "en": "Survey of data selection methods for language model pretraining and fine-tuning.",
+    "zh": "综述语言模型预训练与微调中的数据选择方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2024-02-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "OLMo: Accelerating the Science of Language Models",
+    "zh": "OLMo: Accelerating the Science of Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2402.00838v4",
+   "note": {
+    "en": "The first OLMo paper, releasing a language model together with its data, code and training logs.",
+    "zh": "首篇 OLMo 论文，连同数据、代码与训练日志一并公开的语言模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-07-19",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Llama 2: The New Open LLM SOTA (ft. Nathan Lambert, Matt Bornstein, Anton Troynikov, Russell Kaplan, Whole Mars Catalog et al.)",
+    "zh": "Llama 2: The New Open LLM SOTA (ft. Nathan Lambert, Matt Bornstein, Anton Troynikov, Russell Kaplan, Whole Mars Catalog et al.)"
+   },
+   "source": "Latent Space: The AI Engineer Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/llama-2-the-new-open-llm-sota-ft-nathan-lambert-matt/id1674008350?i=1000621643513&uo=4",
+   "note": {
+    "en": "Nathan Lambert appeared as a panelist on Latent Space to discuss Llama 2's release as the new open-weight SOTA, alongside Matt Bornstein, Anton Troynikov and others.",
+    "zh": "Nathan Lambert作为嘉宾出席Latent Space播客，与Matt Bornstein、Anton Troynikov等人讨论Llama 2作为新的开源SOTA模型发布。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-06-01",
+   "level": "major",
+   "title": {
+    "en": "Leaves Ai2 after 2.5+ years on OLMo and Tulu",
+    "zh": "在 OLMo 与 Tulu 上工作两年半后离开 Ai2"
+   },
+   "body": {
+    "en": "Now working on open model research at a new organisation.",
+    "zh": "现于一家新机构从事开放模型研究。"
+   },
+   "source": "Interconnects",
+   "url": "https://www.interconnects.ai/p/farewell-ai2"
+  }
+ ],
+ "changed": true,
+ "was": {
+  "en": "Research Scientist, Allen Institute for AI (AI2)",
+  "zh": "Allen Institute for AI（AI2）研究科学家"
+ },
+ "cat": "product",
+ "score": {
+  "total": 17.0,
+  "attention": 8,
+  "centrality": 6,
+  "momentum": 46,
+  "stature": null,
+  "pageviews": 2796,
+  "citations": 720,
+  "hIndex": 13,
+  "events": 1,
+  "posts": 65,
+  "wikiEn": "Nathan Lambert",
+  "wikiZh": null
+ },
+ "seedRank": 72,
+ "tier": "t6"
+}

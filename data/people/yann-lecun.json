@@ -1,0 +1,2112 @@
+{
+ "rank": 10,
+ "id": "yann-lecun",
+ "name": {
+  "en": "Yann LeCun",
+  "zh": "杨立昆"
+ },
+ "role": {
+  "en": "Co-founder & Chief Scientist, AMI (Advanced Machine Intelligence Labs)",
+  "zh": "AMI（Advanced Machine Intelligence Labs）联合创始人兼首席科学家"
+ },
+ "org": "AMI Labs",
+ "region": {
+  "en": "France / United States",
+  "zh": "法国/美国"
+ },
+ "tags": [
+  "AMI Labs",
+  "World Models",
+  "JEPA",
+  "Turing Award",
+  "CNN",
+  "Paris"
+ ],
+ "why": {
+  "en": "Turing laureate and father of the convolutional network. His position that autoregressive LLMs cannot reach AGI is the most important dissenting voice in the field — and he has now raised over a billion dollars to prove it.",
+  "zh": "图灵奖得主、卷积网络之父。他「自回归大模型走不到 AGI」的立场是这个领域最重要的反共识声音 —— 现在他已募得逾十亿美元来证明它。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@ylecun",
+   "url": "https://x.com/ylecun",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Personal page (NYU)",
+   "url": "https://yann.lecun.com/",
+   "t": 1
+  },
+  {
+   "kind": "github",
+   "label": "GitHub @ylecun",
+   "url": "https://github.com/ylecun",
+   "t": 1
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face @ylecun",
+   "url": "https://huggingface.co/ylecun",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "AMI Labs",
+   "url": "https://ami.inc/",
+   "t": 2
+  },
+  {
+   "kind": "company",
+   "label": "AMI Labs Updates",
+   "url": "https://amilabs.xyz/updates",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Yann+LeCun",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Yann+LeCun",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Yann+LeCun",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Yann+LeCun&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Yann+LeCun&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=%E6%9D%A8%E7%AB%8B%E6%98%86",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Yann+LeCun",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Yann+LeCun",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Yann+LeCun",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Yann+LeCun",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Yann+LeCun",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Yann+LeCun",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Yann+LeCun",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Yann+LeCun&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yann_LeCun",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2026-01-01",
+   "kind": "talk",
+   "title": {
+    "en": "World models and the next AI revolution",
+    "zh": "世界模型与下一次 AI 革命"
+   },
+   "source": "Frontiers of Embodied AI, ETH Zürich",
+   "url": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/yann-lecun-on-world-models-and-the-ai-revolution",
+   "note": {
+    "en": "Contrasts generative architectures with JEPA, which predicts representations rather than pixels.",
+    "zh": "将生成式架构与 JEPA 对比 —— 后者预测的是表征而非像素。"
+   }
+  },
+  {
+   "date": "2025-09-16",
+   "kind": "talk",
+   "title": {
+    "en": "Self-supervised learning, JEPA, world models and the future of AI",
+    "zh": "自监督学习、JEPA、世界模型与 AI 的未来"
+   },
+   "source": "Harvard CMSA",
+   "url": "https://cmsa.fas.harvard.edu/ss_gallery/yann-lecun-self-supervised-learning-jepa-world-models-and-the-future-of-ai",
+   "note": {
+    "en": "",
+    "zh": ""
+   }
+  },
+  {
+   "date": "2022-06-27",
+   "kind": "paper",
+   "title": {
+    "en": "A Path Towards Autonomous Machine Intelligence",
+    "zh": "通向自主机器智能的路径"
+   },
+   "source": "OpenReview",
+   "url": "https://openreview.net/forum?id=BZ5a1r-kVsf",
+   "note": {
+    "en": "The position paper that laid out the whole world-model programme AMI is now funded to build.",
+    "zh": "这篇立场论文奠定了 AMI 如今获得融资去建造的整个世界模型纲领。"
+   }
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "LeVJEPA: Efficient & Scalable Video Pretraining without the Heuristics",
+    "zh": "LeVJEPA: Efficient & Scalable Video Pretraining without the Heuristics"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.27395v1",
+   "note": {
+    "en": "Strips the hand-tuned heuristics out of video pretraining, cutting the cost of learning representations from video at scale.",
+    "zh": "去掉视频预训练中人工调校的启发式技巧，降低大规模视频表征学习的成本。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-08-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Advancing human-centric AI for robust X-ray analysis through holistic self-supervised learning",
+    "zh": "Advancing human-centric AI for robust X-ray analysis through holistic self-supervised learning"
+   },
+   "source": "Nature Communications",
+   "url": "https://doi.org/10.1038/s41467-026-76076-4",
+   "note": {
+    "en": "A Meta FAIR/NYU collaboration applying self-supervised representation learning (RayDINO) to make chest X-ray analysis more robust and clinically reliable.",
+    "zh": "Meta FAIR与纽约大学合作的论文，将自监督表征学习（RayDINO）应用于胸部X光分析，使其更加稳健、更贴近临床需求。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2026-08-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Advancing Open and Reproducible Relational Learning: RelArena-$α$, TabPFN-Rel and RPI",
+    "zh": "Advancing Open and Reproducible Relational Learning: RelArena-$α$, TabPFN-Rel and RPI"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.16319v1",
+   "note": {
+    "en": "A Prior Labs release for relational learning that open-sources a benchmark, a relational variant of TabPFN and a baseline library; he is one of its co-authors.",
+    "zh": "Prior Labs 面向关系学习的开源发布，包含一个基准、TabPFN 的关系版本和一套基线库，他是共同作者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-08-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Self-supervised DXA representations encode multi-system disease risk, biological aging and heritability",
+    "zh": "Self-supervised DXA representations encode multi-system disease risk, biological aging and heritability"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.02208v1",
+   "note": {
+    "en": "Self-supervised representations of whole-body DXA scans that turn out to encode multi-system disease risk, biological aging and heritability — his self-supervised approach applied to medical imaging.",
+    "zh": "用自监督方法学习全身 DXA 扫描的表征，发现其中编码了多系统疾病风险、生理衰老与遗传度——他把自监督学习用到了医学影像上。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-08-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "HP-JEPA: Hierarchical Partitioning for Multi-Resolution Graph Joint-Embedding Predictive Learning",
+    "zh": "HP-JEPA: Hierarchical Partitioning for Multi-Resolution Graph Joint-Embedding Predictive Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2608.00491v1",
+   "note": {
+    "en": "Extends his joint-embedding predictive architecture to graphs, using hierarchical partitioning to learn representations at several resolutions at once.",
+    "zh": "把他提出的联合嵌入预测架构扩展到图数据，通过层次划分同时在多个分辨率上学习表征。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Music-JEPA: Learning a World Model of Sound from Action",
+    "zh": "Music-JEPA: Learning a World Model of Sound from Action"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.22000v1",
+   "note": {
+    "en": "Applies the JEPA framework to audio, learning a world model of sound from action.",
+    "zh": "把 JEPA 框架用于音频，从动作出发学习声音的世界模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Patch Policy: Efficient Embodied Control via Dense Visual Representations",
+    "zh": "Patch Policy: Efficient Embodied Control via Dense Visual Representations"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.18236v1",
+   "note": {
+    "en": "With NYU's robot learning group, shows that dense per-patch vision-transformer features make robot policies more effective than compressing each observation into one global vector.",
+    "zh": "与纽约大学机器人学习团队合作，证明使用 ViT 的稠密图块特征比把每帧观测压缩成单个全局向量更有效。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Separating Representation from Reconstruction Enables Scalable Text Encoders",
+    "zh": "Separating Representation from Reconstruction Enables Scalable Text Encoders"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.04011v1",
+   "note": {
+    "en": "Argues that BERT-style encoders conflate representation with reconstruction, and separates the two to make text encoders scale.",
+    "zh": "指出 BERT 式编码器把表征和重建混为一谈，将两者分离后文本编码器才得以扩展规模。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "AdaJEPA: An Adaptive Latent World Model",
+    "zh": "AdaJEPA: An Adaptive Latent World Model"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.32026v1",
+   "note": {
+    "en": "An adaptive latent world model that keeps updating at test time instead of staying frozen when its predictions start to degrade.",
+    "zh": "一种自适应的隐空间世界模型，在测试阶段预测开始变差时继续更新，而不是保持冻结。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SkyJEPA: Learning Long-Horizon World Models for Zero-Shot Sim-to-Real Control of Quadrotors",
+    "zh": "SkyJEPA: Learning Long-Horizon World Models for Zero-Shot Sim-to-Real Control of Quadrotors"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.23444v2",
+   "note": {
+    "en": "Applies JEPA world models to quadrotor control, transferring long-horizon predictions from simulation to real flight without fine-tuning.",
+    "zh": "把 JEPA 世界模型用于四旋翼控制，将长时程预测零样本地从仿真迁移到真实飞行。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "S-JEPA : Soft Clustering Anchors for Self-Supervised Speech Representation Learning",
+    "zh": "S-JEPA : Soft Clustering Anchors for Self-Supervised Speech Representation Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.19398v1",
+   "note": {
+    "en": "Replaces hard cluster-ID prediction in self-supervised speech encoders with soft clustering anchors, which stops acoustic ambiguity being collapsed at category boundaries.",
+    "zh": "在自监督语音编码器中用软聚类锚点取代硬聚类 ID 预测，避免在类别边界上抹掉声学上的模糊性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "You Don't Need Strong Assumptions: Visual Representation Learning via Temporal Differences",
+    "zh": "You Don't Need Strong Assumptions: Visual Representation Learning via Temporal Differences"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.15956v1",
+   "note": {
+    "en": "Learns visual representations with a temporal-difference objective, arguing that as compute grows the methods assuming least tend to win.",
+    "zh": "用时序差分目标学习视觉表征，并论证随着算力增长，假设越少的方法往往越占优势。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Unifying Object-Centric World Models and Diffusion Policy: A Hierarchical Framework for Multi-Stage Robotic Tasks",
+    "zh": "Unifying Object-Centric World Models and Diffusion Policy: A Hierarchical Framework for Multi-Stage Robotic Tasks"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2606.08775v1",
+   "note": {
+    "en": "Combines object-centric world models with a diffusion policy in a hierarchical controller for multi-stage robotic tasks.",
+    "zh": "把以物体为中心的世界模型与扩散策略结合成一个分层控制器，用于多阶段机器人任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "When Does LeJEPA Learn a World Model?",
+    "zh": "When Does LeJEPA Learn a World Model?"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.26379v1",
+   "note": {
+    "en": "Analyses under what conditions LeJEPA, his joint-embedding predictive architecture line, actually learns a usable world model.",
+    "zh": "分析在什么条件下 LeJEPA（他主张的联合嵌入预测架构路线）才真正学到可用的世界模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "stable-worldmodel: A Platform for Reproducible World Modeling Research and Evaluation",
+    "zh": "stable-worldmodel: A Platform for Reproducible World Modeling Research and Evaluation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.21800v1",
+   "note": {
+    "en": "An open platform that standardises codebases, datasets and evaluation for world-model research, which the paper argues is currently fragmented.",
+    "zh": "一个开放平台，为世界模型研究统一代码库、数据集与评测；论文认为该领域目前过于碎片化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Multi-modal AI for comprehensive breast cancer prognostication",
+    "zh": "Multi-modal AI for comprehensive breast cancer prognostication"
+   },
+   "source": "Nature Communications",
+   "url": "https://doi.org/10.1038/s41467-026-73088-y",
+   "note": {
+    "en": "A large multi-institution study, with LeCun among the authors, building multi-modal AI models to predict breast cancer outcomes from imaging and clinical data.",
+    "zh": "一项多机构合作研究，杨立昆参与其中，构建结合影像与临床数据的多模态AI模型以预测乳腺癌预后。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2026-05-15",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ep 86: Yann LeCun on Leaving Meta, Breaking The LLM Paradigm, & Why Hinton is Wrong",
+    "zh": "Ep 86: Yann LeCun on Leaving Meta, Breaking The LLM Paradigm, & Why Hinton is Wrong"
+   },
+   "source": "Unsupervised Learning with Jacob Effron",
+   "url": "https://podcasts.apple.com/us/podcast/ep-86-yann-lecun-on-leaving-meta-breaking-the-llm/id1672188924?i=1000767956297&uo=4",
+   "note": {
+    "en": "A long interview on why he left Meta, why he holds that the LLM paradigm is a dead end, and where he parts ways with Hinton.",
+    "zh": "长篇访谈，谈他离开 Meta 的原因、为何认为大语言模型路线是死胡同，以及他与辛顿的分歧所在。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-05-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Crys-JEPA: Accelerating Crystal Discovery via Embedding Screening and Generative Refinement",
+    "zh": "Crys-JEPA: Accelerating Crystal Discovery via Embedding Screening and Generative Refinement"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.14759v2",
+   "note": {
+    "en": "Uses JEPA embeddings to screen candidate crystals before generative refinement, aiming at materials that are stable and novel rather than merely realistic.",
+    "zh": "先用 JEPA 嵌入筛选候选晶体，再做生成式精修，目标是稳定且新颖的材料，而不只是看起来合理的材料。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "TabPFN-3: Technical Report",
+    "zh": "TabPFN-3: Technical Report"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.13986v2",
+   "note": {
+    "en": "The technical report for the third generation of TabPFN, Prior Labs' foundation model for tabular data, on which he is a co-author.",
+    "zh": "Prior Labs 表格数据基础模型 TabPFN 第三代的技术报告，他是共同作者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "On Training in Imagination",
+    "zh": "On Training in Imagination"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2605.06732v2",
+   "note": {
+    "en": "Examines model-based reinforcement learning that trains policies on imagined rollouts from a learned dynamics model.",
+    "zh": "研究基于模型的强化学习——用学到的动力学模型生成的想象轨迹来训练策略。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Hierarchical Planning with Latent World Models",
+    "zh": "Hierarchical Planning with Latent World Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2604.03208v2",
+   "note": {
+    "en": "Attacks the compounding prediction error that breaks world-model planners on long-horizon tasks by planning hierarchically in latent space.",
+    "zh": "通过在隐空间中分层规划，解决世界模型规划器在长时程任务上误差累积的问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Why AI systems don't learn and what to do about it: Lessons on autonomous learning from cognitive science",
+    "zh": "Why AI systems don't learn and what to do about it: Lessons on autonomous learning from cognitive science"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.15381v1",
+   "note": {
+    "en": "A position paper with Emmanuel Dupoux and Jitendra Malik on why current AI systems cannot learn autonomously, proposing an architecture drawn from human and animal cognition.",
+    "zh": "与 Emmanuel Dupoux、Jitendra Malik 合写的立场论文，论述当前 AI 系统为何无法自主学习，并提出一种借鉴人类与动物认知的架构。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning",
+    "zh": "V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.14482v3",
+   "note": {
+    "en": "The 2.1 release of V-JEPA, adding dense image and video features to his video self-supervised model family while keeping its global scene understanding.",
+    "zh": "V-JEPA 2.1 版本，在保留全局场景理解能力的同时，为其视频自监督模型系列加入稠密的图像与视频特征。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels",
+    "zh": "LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.19312v3",
+   "note": {
+    "en": "An end-to-end JEPA trained straight from pixels, replacing the fragile multi-term losses earlier world models relied on.",
+    "zh": "一种直接从像素端到端训练的 JEPA，取代了早期世界模型所依赖的脆弱多项损失。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Representation Learning for Spatiotemporal Physical Systems",
+    "zh": "Representation Learning for Spatiotemporal Physical Systems"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.13227v1",
+   "note": {
+    "en": "Moves machine learning for physical systems past next-frame prediction toward representations of the underlying dynamics.",
+    "zh": "让面向物理系统的机器学习超越下一帧预测，转向学习底层动力学的表征。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Temporal Straightening for Latent Planning",
+    "zh": "Temporal Straightening for Latent Planning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.12231v3",
+   "note": {
+    "en": "Reshapes pretrained visual features by straightening their trajectories over time so they suit planning rather than only recognition.",
+    "zh": "通过在时间上“拉直”轨迹来重塑预训练视觉特征，使其适合规划而不只是识别。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The Spike, the Sparse and the Sink: Anatomy of Massive Activations and Attention Sinks",
+    "zh": "The Spike, the Sparse and the Sink: Anatomy of Massive Activations and Attention Sinks"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.05498v1",
+   "note": {
+    "en": "An anatomy of two recurring transformer phenomena — massive activations in a few channels, and attention sinks.",
+    "zh": "剖析 Transformer 中两个反复出现的现象：少数通道上的巨大激活值，以及注意力汇聚点。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "AI+HW 2035: Shaping the Next Decade",
+    "zh": "AI+HW 2035: Shaping the Next Decade"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.05225v1",
+   "note": {
+    "en": "A ten-year community roadmap for AI and hardware co-design, which he signed alongside some thirty other researchers.",
+    "zh": "一份关于 AI 与硬件协同设计的十年社区路线图，他与另外约三十位研究者共同署名。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Beyond Language Modeling: An Exploration of Multimodal Pretraining",
+    "zh": "Beyond Language Modeling: An Exploration of Multimodal Pretraining"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2603.03276v1",
+   "note": {
+    "en": "Maps the design space for native multimodal pretraining, arguing vision is the critical axis for pushing foundation models beyond language.",
+    "zh": "梳理原生多模态预训练的设计空间，主张视觉是推动基础模型超越语言的关键维度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-12-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "What Drives Success in Physical Planning with Joint-Embedding Predictive World Models?",
+    "zh": "What Drives Success in Physical Planning with Joint-Embedding Predictive World Models?"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "https://doi.org/10.48550/arxiv.2512.24497",
+   "note": {
+    "en": "A study probing what makes joint-embedding predictive (JEPA) world models succeed at physical planning tasks — his lab's core research direction.",
+    "zh": "一篇研究联合嵌入预测（JEPA）世界模型在物理规划任务中成功要素的论文，属于其团队的核心研究方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-12-15",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "EP20: Yann LeCun",
+    "zh": "EP20: Yann LeCun"
+   },
+   "source": "The Information Bottleneck",
+   "url": "https://podcasts.apple.com/us/podcast/ep20-yann-lecun/id1834616211?i=1000741412544&uo=4",
+   "note": {
+    "en": "A near two-hour interview on The Information Bottleneck in which he lays out his case that training ever larger LLMs will not reach AGI.",
+    "zh": "在 The Information Bottleneck 播客中近两小时的访谈，他系统阐述了为何不断把大语言模型做大也到不了 AGI。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-12-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "World Models for Learning Dexterous Hand-Object Interactions from Human Videos",
+    "zh": "World Models for Learning Dexterous Hand-Object Interactions from Human Videos"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "http://arxiv.org/abs/2512.13644",
+   "note": {
+    "en": "A world-model approach that learns dexterous robotic hand-object manipulation by watching human videos.",
+    "zh": "一种世界模型方法，通过观看人类操作视频来学习灵巧的机械手–物体交互。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-12-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "VL-JEPA: Joint Embedding Predictive Architecture for Vision-language",
+    "zh": "VL-JEPA: Joint Embedding Predictive Architecture for Vision-language"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "http://arxiv.org/abs/2512.10942",
+   "note": {
+    "en": "Extends his joint-embedding predictive architecture (JEPA) to combined vision-language representation learning.",
+    "zh": "将其提出的联合嵌入预测架构（JEPA）扩展到视觉-语言联合表征学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-11-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "@ChrisMurphyCT You're being played by people who want regulatory capture. They are scaring everyone with dubious studies so that open source models are regulate",
+    "zh": "@ChrisMurphyCT You're being played by people who want regulatory capture. They are scaring everyone with dubious studies so that open source models are regulate"
+   },
+   "source": "@ylecun",
+   "url": "https://x.com/ylecun/status/1989364612651966788",
+   "note": {
+    "en": "Accuses AI-safety alarmism of serving regulatory capture, arguing dubious studies are being used to push open-source models out of the market.",
+    "zh": "他指责渲染AI风险的说法服务于监管俘获，认为这类可疑研究意在将开源模型排挤出市场。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-11-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Cambrian-S: Towards Spatial Supersensing in Video",
+    "zh": "Cambrian-S: Towards Spatial Supersensing in Video"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "http://arxiv.org/abs/2511.04670",
+   "note": {
+    "en": "Introduces Cambrian-S, a video model aimed at 'spatial supersensing' — building richer spatial understanding from video streams.",
+    "zh": "提出Cambrian-S模型，致力于视频中的'空间超感知'，从视频流中构建更丰富的空间理解能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-10-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "MetaMorph: Multimodal Understanding and Generation via Instruction Tuning",
+    "zh": "MetaMorph: Multimodal Understanding and Generation via Instruction Tuning"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.1109/iccv51701.2025.01579",
+   "note": {
+    "en": "Meta FAIR work on MetaMorph, an instruction-tuned model unifying multimodal understanding and generation in one system.",
+    "zh": "Meta FAIR的MetaMorph研究，通过指令微调将多模态理解与生成统一在同一模型中。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-10-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scaling Language-Free Visual Representation Learning",
+    "zh": "Scaling Language-Free Visual Representation Learning"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.1109/iccv51701.2025.00042",
+   "note": {
+    "en": "Shows that purely visual (language-free) representation learning scales competitively with language-supervised approaches — part of his push against language-centric AI.",
+    "zh": "论文表明，纯视觉（无语言监督）的表征学习在扩展规模后可与语言监督方法竞争，呼应其反对以语言为中心的AI路线的立场。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-10-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gaussian Embeddings: How JEPAs Secretly Learn Your Data Density",
+    "zh": "Gaussian Embeddings: How JEPAs Secretly Learn Your Data Density"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "http://arxiv.org/abs/2510.05949",
+   "note": {
+    "en": "Argues that JEPA-style self-supervised models implicitly learn the underlying data density, formalized through Gaussian embeddings.",
+    "zh": "论文提出JEPA类自监督模型实际上隐式学习了数据的概率密度，并通过高斯嵌入加以形式化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-10-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Attention Sinks and Compression Valleys in LLMs are Two Sides of the Same Coin",
+    "zh": "Attention Sinks and Compression Valleys in LLMs are Two Sides of the Same Coin"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "http://arxiv.org/abs/2510.06477",
+   "note": {
+    "en": "Co-authored analysis connecting two known LLM internals phenomena — attention sinks and compression valleys — as the same underlying effect.",
+    "zh": "合著论文将大语言模型中两个已知现象——注意力汇聚（attention sinks）与压缩谷（compression valleys）——联系为同一潜在效应的两面。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-09-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "LLM-JEPA: Large Language Models Meet Joint Embedding Predictive Architectures",
+    "zh": "LLM-JEPA: Large Language Models Meet Joint Embedding Predictive Architectures"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "http://arxiv.org/abs/2509.14252",
+   "note": {
+    "en": "Brings his JEPA framework to large language models, testing the predictive-embedding approach outside vision.",
+    "zh": "将其JEPA框架引入大语言模型，把预测式嵌入方法拓展到视觉领域之外。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-06-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning",
+    "zh": "V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "http://arxiv.org/abs/2506.09985",
+   "note": {
+    "en": "V-JEPA 2, the next generation of his video world-model architecture, enabling understanding, prediction and robotic planning from self-supervised video learning.",
+    "zh": "V-JEPA 2是其视频世界模型架构的新一代版本，通过自监督视频学习实现理解、预测与机器人规划能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-06-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "RoboPEPP: Vision-Based Robot Pose and Joint Angle Estimation through Embedding Predictive Pre-Training",
+    "zh": "RoboPEPP: Vision-Based Robot Pose and Joint Angle Estimation through Embedding Predictive Pre-Training"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.1109/cvpr52734.2025.00650",
+   "note": {
+    "en": "RoboPEPP applies embedding-predictive pre-training, in the spirit of JEPA, to estimate robot pose and joint angles from vision.",
+    "zh": "RoboPEPP将嵌入预测式预训练（延续JEPA思路）应用于通过视觉估计机器人姿态与关节角度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-04-09",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Yann LeCun: Human Intelligence is not General Intelligence",
+    "zh": "Yann LeCun: Human Intelligence is not General Intelligence"
+   },
+   "source": "AI Inside",
+   "url": "https://podcasts.apple.com/us/podcast/yann-lecun-human-intelligence-is-not-general-intelligence/id1726128797?i=1000702902148&uo=4",
+   "note": {
+    "en": "An interview on the limits of today's LLMs and what he thinks is still missing for human-level intelligence.",
+    "zh": "访谈，讨论当今大语言模型的局限，以及他认为通往人类水平智能还缺少什么。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-03-19",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Why Can't AI Make Its Own Discoveries? — With Yann LeCun",
+    "zh": "Why Can't AI Make Its Own Discoveries? — With Yann LeCun"
+   },
+   "source": "Big Technology Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/why-cant-ai-make-its-own-discoveries-with-yann-lecun/id1522960417?i=1000699824574&uo=4",
+   "note": {
+    "en": "He joins Big Technology Podcast to explain why current models have been unable to invent anything genuinely new.",
+    "zh": "做客 Big Technology 播客，解释为什么现有模型始终无法真正发明出新东西。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-03-14",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "New paper: turns out you can train deep nets without normalization layers by replacing them with a parameterized tanh()",
+    "zh": "New paper: turns out you can train deep nets without normalization layers by replacing them with a parameterized tanh()"
+   },
+   "source": "@ylecun",
+   "url": "https://x.com/ylecun/status/1900610590315249833",
+   "note": {
+    "en": "Shares a new result showing deep networks can be trained without normalization layers by replacing them with a parameterized tanh function.",
+    "zh": "分享一项新研究：用参数化的tanh函数替代归一化层，深度网络无需归一化层也能训练。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2025-01-25",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "To people who think \"China is surpassing the US in AI\" the correct thought is \"Open source models are surpassing closed ones\" See ⬇️⬇️⬇️",
+    "zh": "To people who think \"China is surpassing the US in AI\" the correct thought is \"Open source models are surpassing closed ones\" See ⬇️⬇️⬇️"
+   },
+   "source": "@ylecun",
+   "url": "https://x.com/ylecun/status/1882943244679709130",
+   "note": {
+    "en": "Reframes the 'China is surpassing the US in AI' narrative as really being about open-source models surpassing closed ones — a core plank of his open-source advocacy.",
+    "zh": "他将'中国在AI上超越美国'的说法重新定义为'开源模型正在超越闭源模型'，这是他倡导开源的核心论点。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-12-21",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Meta's Chief AI Scientist Yann LeCun Makes the Case for Open Source",
+    "zh": "Meta's Chief AI Scientist Yann LeCun Makes the Case for Open Source"
+   },
+   "source": "On with Kara Swisher",
+   "url": "https://podcasts.apple.com/us/podcast/metas-chief-ai-scientist-yann-lecun-makes-the-case/id1643307527?i=1000681220831&uo=4",
+   "note": {
+    "en": "A live interview with Kara Swisher making his case for open-source AI and answering the risks critics attach to it.",
+    "zh": "与 Kara Swisher 的现场访谈，他为开源 AI 辩护，并回应批评者提出的种种风险。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-11-13",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "I don't wanna say \"I told you so\", but I told you so. Quote: \"Ilya Sutskever, co-founder of AI labs Safe Superintelligence (SSI) and OpenAI, told Reuters recent",
+    "zh": "I don't wanna say \"I told you so\", but I told you so. Quote: \"Ilya Sutskever, co-founder of AI labs Safe Superintelligence (SSI) and OpenAI, told Reuters recent"
+   },
+   "source": "@ylecun",
+   "url": "https://x.com/ylecun/status/1856612196437930332",
+   "note": {
+    "en": "Cites Ilya Sutskever's remark that pre-training scaling has plateaued as vindication of his own long-standing skepticism about scaling laws.",
+    "zh": "他援引伊利亚·苏茨克维关于预训练规模化已见顶的表态，视为对自己长期以来质疑规模化定律的印证。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-10-12",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Worth repeating: Do not confuse retrieval with reasoning. Do not confuse rote learning with understanding. Do not confuse accumulated knowledge with intelligenc",
+    "zh": "Worth repeating: Do not confuse retrieval with reasoning. Do not confuse rote learning with understanding. Do not confuse accumulated knowledge with intelligenc"
+   },
+   "source": "@ylecun",
+   "url": "https://x.com/ylecun/status/1845193021584728365",
+   "note": {
+    "en": "Restates his core argument against LLM-centric AGI claims: don't mistake retrieval for reasoning, or accumulated knowledge for intelligence.",
+    "zh": "重申其反对'LLM即通往AGI之路'论调的核心观点：不要把检索误当作推理，也不要把知识积累误当作智能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-10-08",
+   "ts": null,
+   "kind": "x",
+   "title": {
+    "en": "Congrats John and Geoff! Both are former colleagues. I did my postdoc in Geoff's lab in Toronto. After that, I joined Bell Labs, where John was a part-time scie",
+    "zh": "Congrats John and Geoff! Both are former colleagues. I did my postdoc in Geoff's lab in Toronto. After that, I joined Bell Labs, where John was a part-time scie"
+   },
+   "source": "@ylecun",
+   "url": "https://x.com/ylecun/status/1843781669460816302",
+   "note": {
+    "en": "Congratulates former mentors John Hopfield and Geoffrey Hinton on their Nobel Prize, recalling his postdoc under Hinton and time alongside Hopfield at Bell Labs.",
+    "zh": "祝贺前导师约翰·霍普菲尔德和杰弗里·辛顿获得诺贝尔奖，并回忆自己在辛顿门下做博士后及在贝尔实验室与霍普菲尔德共事的经历。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": "x"
+  },
+  {
+   "date": "2024-03-07",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#416 – Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI & the Future of AI",
+    "zh": "#416 – Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI & the Future of AI"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/416-yann-lecun-meta-ai-open-source-limits-of-llms/id1434243584?i=1000648406568&uo=4",
+   "note": {
+    "en": "A long-form conversation with Lex Fridman on Meta AI, open source, the limits of LLMs and his own route to human-level intelligence.",
+    "zh": "与 Lex Fridman 的长谈，涉及 Meta AI、开源、大语言模型的局限，以及他自己设想的通往人类水平智能的路径。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-01-22",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#258 – Yann LeCun: Dark Matter of Intelligence and Self-Supervised Learning",
+    "zh": "#258 – Yann LeCun: Dark Matter of Intelligence and Self-Supervised Learning"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/258-yann-lecun-dark-matter-of-intelligence-and/id1434243584?i=1000548685064&uo=4",
+   "note": {
+    "en": "A conversation with Lex Fridman on self-supervised learning as the dark matter of intelligence.",
+    "zh": "与 Lex Fridman 对谈，讨论作为智能“暗物质”的自监督学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2019-08-31",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Yann LeCun: Deep Learning, Convolutional Neural Networks, and Self-Supervised Learning",
+    "zh": "Yann LeCun: Deep Learning, Convolutional Neural Networks, and Self-Supervised Learning"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/yann-lecun-deep-learning-convolutional-neural-networks/id1434243584?i=1000448245959&uo=4",
+   "note": {
+    "en": "An early Lex Fridman interview covering deep learning, convolutional networks and self-supervised learning.",
+    "zh": "早期的 Lex Fridman 访谈，涵盖深度学习、卷积网络与自监督学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2016-02-04",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Leçon inaugurale - Yann LeCun : L'apprentissage profond : une révolution en intelligence artificielle",
+    "zh": "Leçon inaugurale - Yann LeCun : L'apprentissage profond : une révolution en intelligence artificielle"
+   },
+   "source": "Informatique et sciences numériques (2…",
+   "url": "https://podcasts.apple.com/us/podcast/le%C3%A7on-inaugurale-yann-lecun-lapprentissage-profond/id1081914549?i=1000513301910&uo=4",
+   "note": {
+    "en": "Recording of LeCun's 2016 inaugural lecture at Collège de France on deep learning as a revolution in AI.",
+    "zh": "杨立昆2016年在法兰西公学院所作的就职讲座录音，主题为“深度学习：人工智能的一场革命”。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-03-10",
+   "level": "major",
+   "title": {
+    "en": "AMI raises $1.03B seed at $3.5B pre-money — Europe's largest ever",
+    "zh": "AMI 完成 10.3 亿美元种子轮，投前估值 35 亿美元，欧洲史上最大"
+   },
+   "body": {
+    "en": "Paris-based, founded December 2025. Co-led by Cathay Innovation, Greycroft, Hiro Capital, HV Capital and Bezos Expeditions. Focus: world models that understand the physical world, hold long-term memory, and plan.",
+    "zh": "总部巴黎，2025 年 12 月成立。Cathay Innovation、Greycroft、Hiro Capital、HV Capital 与 Bezos Expeditions 联合领投。方向：能理解物理世界、保有长期记忆并进行规划的世界模型。"
+   },
+   "source": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-03-10/yann-lecun-s-new-ai-startup-raises-1-billion-in-seed-funding"
+  },
+  {
+   "date": "2025-11-01",
+   "level": "major",
+   "title": {
+    "en": "Announces departure from Meta as Chief AI Scientist",
+    "zh": "宣布卸任 Meta 首席 AI 科学家"
+   },
+   "body": {
+    "en": "Leaves to found his own world-model company; later publicly calls Alexandr Wang 'inexperienced' and predicts further Meta AI departures.",
+    "zh": "离职创立自己的世界模型公司；此后公开称 Alexandr Wang「缺乏经验」并预言 Meta AI 将继续流失人才。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/news/yann-lecun-calls-alexandr-wang-182614902.html"
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T04:53:00Z",
+   "level": "major",
+   "title": {
+    "en": "Dario高喊AI刹车，杨立昆翻旧账：7年前你就这么吓人",
+    "zh": "Dario高喊AI刹车，杨立昆翻旧账：7年前你就这么吓人"
+   },
+   "body": {
+    "en": "LeCun rebutted Amodei's call to slow AI down, noting Amodei made similarly alarmist warnings seven years ago.",
+    "zh": "杨立昆反驳阿莫代伊呼吁放缓AI的言论，指出阿莫代伊七年前也发表过类似的警世言论。"
+   },
+   "source": "qq.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MWGl3Z180SVo4ZDZJSTktNVpxRjBhenczdGs1V0szY3ZrcU82elctRENmWjFGMmU5aVdwWlJ4QnZzdkxPS3ZPZW1SVUNoMkNoNHM0SVB3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T08:38:45Z",
+   "level": "notable",
+   "title": {
+    "en": "杨立昆翻旧账嘲笑达里奥：7年前连GPT-2都觉得危险",
+    "zh": "杨立昆翻旧账嘲笑达里奥：7年前连GPT-2都觉得危险"
+   },
+   "body": {
+    "en": "LeCun publicly mocked Amodei, noting that seven years ago Amodei considered even GPT-2 dangerous, sharpening their public disagreement over AI safety alarm.",
+    "zh": "杨立昆公开嘲讽达里奥·阿莫代伊，指出七年前后者甚至认为GPT-2都很危险，凸显两人在AI安全警示问题上的公开分歧。"
+   },
+   "source": "BlockBeats",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zNUVmLWw2bkxsT0JwMjV1SHpoQUIyZEFkVTd3SkhEcE1XUjROSW5rTEdMTVFhbjkxUTNrVWdiMlJPVlItN1lLTEFZaW5FUkd3N05PYkJ3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T21:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Dario 高喊 AI 刹车，Altman、马斯克罕见同队支持，杨立昆翻旧账：7年前你就这么吓人",
+    "zh": "Dario 高喊 AI 刹车，Altman、马斯克罕见同队支持，杨立昆翻旧账：7年前你就这么吓人"
+   },
+   "body": {
+    "en": "LeCun mocked Amodei's call for an AI slowdown, noting Amodei made similarly alarming warnings seven years ago — pushing back in the ongoing AI-safety debate.",
+    "zh": "杨立昆调侃阿莫代伊呼吁AI刹车一事，指出阿莫代伊七年前就发表过类似的警示言论，在AI安全争论中予以反击。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IcHZPcnNhQnA3eXBRZ3B4Nk9JNU9jZEFRS2VpLWhWWkUyT0lPUkxfUVA5TXA3Z3NSVWhvcWJkMnotVjIxTFg2UFZoTWlFa1oz?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T21:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Dario 高喊 AI 刹车，Altman、马斯克罕见同队支持，杨立昆翻旧账：7年前你就这么吓人",
+    "zh": "Dario 高喊 AI 刹车，Altman、马斯克罕见同队支持，杨立昆翻旧账：7年前你就这么吓人"
+   },
+   "body": {
+    "en": "Yann LeCun pushed back on the new wave of AI-slowdown calls from Amodei, Altman and Musk, noting he raised similar warnings seven years ago, reasserting his longstanding dissent on AI-risk alarmism.",
+    "zh": "杨立昆对Dario Amodei、Sam Altman和马斯克新一轮呼吁放缓AI发展的言论提出反驳，指出他七年前就曾发出类似警告，重申了他对AI风险恐慌论一贯的不同立场。"
+   },
+   "source": "36kr.com",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0NHNzYXlrX0JIV1pIcGZ1aVlOalZCbzYyRno0aU5XSms4QXRwTjdBVGZMcjBFc1p3bWxYaUpRel9JNFRQdmlLTjhkUjFUUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-01",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "TIME Names Yann LeCun Among 2026's Top AI Figures",
+    "zh": "TIME Names Yann LeCun Among 2026's Top AI Figures"
+   },
+   "body": {
+    "en": "TIME named Yann LeCun among its 2026 list of the top figures in AI.",
+    "zh": "TIME将杨立昆列入2026年AI领域最具影响力人物榜单。"
+   },
+   "source": "Dataconomy",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa2lMSlZOeVMzbFMtbFN3aU5jcHV5OFRpV1N3NF9sTGVLN2pCeW8taE42ZEZVRTdKZkJoTnhLWXZCeDkzUnhzZzRRcG8wUktXZTB2YUdkTGZva1VYeGowVmRtZUR3cTlmR1NJMzFfR2MzdGJZbFV0R3duOEFhSkFVbEctMjA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-31",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "“Father of AI” Yann Lecun Raises $1 Billion With Startup Betting That the Industry Is Wrong",
+    "zh": "“Father of AI” Yann Lecun Raises $1 Billion With Startup Betting That the Industry Is Wrong"
+   },
+   "body": {
+    "en": "LeCun's new startup raised $1 billion, betting that the industry's autoregressive-LLM approach to AGI is wrong.",
+    "zh": "杨立昆的新公司完成10亿美元融资，押注业界依赖自回归LLM通往AGI的路线是错的。"
+   },
+   "source": "ZME Science",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYmF6N1d1UWI5S2hoOXpsRzhkY0VtTTdKeXJ4UmFmTUxpYkFfXzh5bUhwSnE1UVFGeU5WNjNuQ3NpY1FaR3JEcC1WU1lyenNUeGVTMjRGTjFuU2Fybi1zX3dCaDR2MUxFS0ZUUU1JbFZrRTFRc3BsNXhteHFQQ0xpdmhMcWhFU2lTVF9IY1dwWm9vUFhueE5tVHlyVnM0d0E1cE9VQTE4WlRBZmVnc3Roa0kzZzN5RVJYYmdEVU1YM3FjWU5aNEdGc1I3bmpXRUp2VlE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-27",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Yann LeCun: The 100 Most Influential People in AI 2026",
+    "zh": "Yann LeCun: The 100 Most Influential People in AI 2026"
+   },
+   "body": {
+    "en": "Named to TIME's 100 Most Influential People in AI 2026.",
+    "zh": "入选《时代》2026 年度全球 AI 百大影响力人物。"
+   },
+   "source": "Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzTm5veWptRDhwazBLdEppZ3h2RkpYUFo4QkNCQ2pJc0JEdjZZWnpRM3owVi0zVG95bGFkdlhxVHJSeG1heXhvUnNoRnlKZm9fczQ4Zmtfb0dJeUFVZGJjVm0zeWV5QQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-25",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "From Meta to Stealth: Yann LeCun Sets Out to Build a World-Model AI Startup",
+    "zh": "From Meta to Stealth: Yann LeCun Sets Out to Build a World-Model AI Startup"
+   },
+   "body": {
+    "en": "Yann LeCun left Meta to launch a stealth startup focused on building world-model AI.",
+    "zh": "杨立昆离开Meta，创立一家专注于构建世界模型AI的隐身初创公司。"
+   },
+   "source": "Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0F2QVc2ZXRLQ2pEVVpwdTcyd2FhM3VpS2xGN0tUeG96bjhET1pvT2ZKTXd3QW5fSWotVnF2M1AzbnlqZ2FZNl9PbGNkZXNPX0JQZ0twLXduY0ljYXVXVHJPc29jd1FuQXMwVTl3ZXJyZlhPLTdqVGk5OFd6Wk1CUDZmU09SZEdud3lxVENidTB3Mk9iRFkxSlQ1UVZobUdqLTRoUnFsRGNrTVE1?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-14",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "AI 教父杨立昆公开开炮：所有人形机器人公司都走错路了",
+    "zh": "AI 教父杨立昆公开开炮：所有人形机器人公司都走错路了"
+   },
+   "body": {
+    "en": "He states publicly that every humanoid robot company is taking the wrong approach, extending his world-model critique from language models to embodied AI.",
+    "zh": "他公开表示所有人形机器人公司都走错了路，把他对语言模型的世界模型式批评延伸到了具身智能。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IN3hCSUdqU3o2R00wUGlmbTNMTFB5UjJreUR3dFdOaEtjWVE4elBFdTVvV0pobHhGSWJLVUJheTVZbG02aWFhLWRBOXdWWTRtcEZQMDV3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-11",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "小扎高调开战闭源AI！推30B智能体模型，消费级显卡就能跑，杨立昆点赞",
+    "zh": "小扎高调开战闭源AI！推30B智能体模型，消费级显卡就能跑，杨立昆点赞"
+   },
+   "body": {
+    "en": "LeCun publicly praised Meta's new 30B open-source agent model, which runs on consumer-grade GPUs, as Zuckerberg pushed back against closed-source AI.",
+    "zh": "扎克伯格高调反对闭源AI并推出可在消费级显卡运行的300亿参数开源智能体模型，杨立昆公开点赞。"
+   },
+   "source": "qq.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FYTljQUJoSGdDZ2hpelN5a1piajJVbGJLTGY0VGZIWXJBVi0ydTBGazR0d1JWNmNHRzJJckZqZ29YbVRQYnhCZ2o2c2JDNGNKcG1LNHdn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-07",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "杨立昆，下场做VC",
+    "zh": "杨立昆，下场做VC"
+   },
+   "body": {
+    "en": "LeCun is reportedly moving into venture investing, expanding his activities beyond his research role at AMI Labs.",
+    "zh": "据报道，杨立昆开始涉足风险投资，在AMI Labs的研究工作之外拓展新的角色。"
+   },
+   "source": "财富号",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TbDhIc0t0aFVXVWZPNzd3Sk9RZHB1RHBzTHhaVnBVcEJTdWV1eHJfVjFocVZnSzYtN2tDNUxfQi1aNkxMWEFuUm1yMWtLSkljRlRQNjZOMEZxcjFDbkY5UW5FeWlaeE1Jekxn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-07",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "杨立昆，下场做VC",
+    "zh": "杨立昆，下场做VC"
+   },
+   "body": {
+    "en": "LeCun is reported to be moving into venture investing, extending his role beyond running AMI Labs.",
+    "zh": "据报道，杨立昆开始涉足风险投资，在运营AMI Labs之外拓展新的角色。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByRjdidm1ZaEU2ZzZ3UGdKTDR3UFhtV3ZqNGZ1aV9UUmpHcW5yVnV2Si1oTFZkM0dyN1lpQ1kyWFlYcmRLR3F1ZVlMY1IyZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-05",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Yann LeCun Joins New AI Investing Firm 224 Ventures",
+    "zh": "Yann LeCun Joins New AI Investing Firm 224 Ventures"
+   },
+   "body": {
+    "en": "He joins 224 Ventures, a new $100M AI investment firm, adding an investor role alongside his own lab.",
+    "zh": "他加入新成立的 1 亿美元人工智能投资机构 224 Ventures，在自己创办的实验室之外增加了投资人身份。"
+   },
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmY2a3U0YkQyXzg1NnNLYm1sQkIzWkxDYUVrdmQwRmtJYjlFaFYxX0FtTnVmRzBUUFVDVVJ5RjlKaXljb0oxTEJkTnV6OTdBMi14MjRObE1CNlkyOFdrWkJzTzFOb0tpYktIYWp5dk5tR0hIMFNtYU85Z240VWZPcnlzMDV1VnJtazA4SkRTdEwyQV9keG50cm1Qc2h2X3hFZUVZeA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-11",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "MIT发现人脑推理不依赖语言，LLM 路线走反了？杨立昆转发力挺",
+    "zh": "MIT发现人脑推理不依赖语言，LLM 路线走反了？杨立昆转发力挺"
+   },
+   "body": {
+    "en": "LeCun endorsed an MIT finding that human reasoning doesn't rely on language, taking it as support for his view that the LLM path to AGI is wrong.",
+    "zh": "杨立昆转发力挺MIT一项发现——人脑推理并不依赖语言，以此佐证他对LLM路线走偏的判断。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOakpSZDNHYWZ3eGNSUWZzbkloR2J1ckdfRVotNV9kUTJOZVdLZjllelFDRXp2RUdfVmh2NWRMVGxfYTFHOC1MYUVuUExfRWtJX1hjdURrUE5mNkFkaHA2elREeGZ3Nm1BYlIxLWM3ZlRqRG9wZDZUSFd0Y2loOHZxeERibnU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-11",
+   "ts": "2026-07-11T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "MIT发现人脑推理不依赖语言，LLM 路线走反了？杨立昆转发力挺",
+    "zh": "MIT发现人脑推理不依赖语言，LLM 路线走反了？杨立昆转发力挺"
+   },
+   "body": {
+    "en": "LeCun endorsed an MIT finding that human brain reasoning does not depend on language, taking it as support for his view that the LLM approach to reasoning is misguided.",
+    "zh": "杨立昆转发支持MIT一项发现——人脑推理并不依赖语言——认为这佐证了他对LLM推理路线走偏的看法。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BS3BtRFZLOGdzaXZPdDVPVzNTVUt1M3FSam1BSkhTWVg3dVBHcXVMaTZLTjFoTUE5QUg2ZDQzQXZaMDVaYkZucjZJVzl6SEhtNE1taVBGbGxFYUpWNFNrZWlJMWdZbktEblpUaW8wZmQ3UkZR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-10",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Exclusive: Yann LeCun’s newly-launched fund shuts as exclusivity relationships emerge",
+    "zh": "Exclusive: Yann LeCun’s newly-launched fund shuts as exclusivity relationships emerge"
+   },
+   "body": {
+    "en": "LeCun's newly launched VC firm, Extelligence Invest, shut down within hours of its announcement after undisclosed exclusivity conflicts with other funds came to light.",
+    "zh": "杨立昆新创立的风投机构Extelligence Invest在成立数小时后即宣告解散，原因是与其他基金存在此前未披露的排他性关系冲突。"
+   },
+   "source": "Sifted",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yVGU4QlE4RU1HR3d1THV3cUVEM1UxTFlZMVkxNG5ka0RYXzNBX3gyQVVheUZCazN6bDJreXV4TkZHbEZrMm1UdTRIRXlPNUUtcm9rTEhONkNqQV84SFE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-06",
+   "ts": "2026-07-06T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "杨立昆批评AGI后 Anthropic发现AGI关键证据引行业热议",
+    "zh": "杨立昆批评AGI后 Anthropic发现AGI关键证据引行业热议"
+   },
+   "body": {
+    "en": "Coverage tied LeCun's continued criticism of the AGI narrative to Anthropic's reported findings, fueling industry debate over the path to AGI.",
+    "zh": "报道将杨立昆对AGI叙事的持续批评与Anthropic披露的相关发现联系起来，引发业界对通往AGI路径的热议。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sRE0xLTRNaHdjckRyQ3N0VFMxSUpEQUg4cVVGbElMOFdyMXVhNUZydHRpbWtrSmpDSEp2QlFvRnJsQ2FITVFsUmFUX0tBbld1OXVv?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-03",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "杨立昆斥资十亿造新AI：大语言模型不懂物理世界",
+    "zh": "杨立昆斥资十亿造新AI：大语言模型不懂物理世界"
+   },
+   "body": {
+    "en": "LeCun said he raised roughly $1 billion for his new AI venture, arguing large language models don't understand the physical world.",
+    "zh": "杨立昆表示为其新AI公司融资约十亿美元，并称大语言模型并不理解物理世界。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa09vMGx6dzBramxwN3lreC10aWpUNXFzdFh6ZE5qQlk1ZnpPQlp3UXpoQTNyOWNiQVFlaS0weDVnSGtDNWFETlFBZ0NvSUJZUVg4R3ptelVhYlBTY1B3QWlKbTVnQzVLWlR6d1NEMXlKQUVYQTdCVUZRYk9IWEVwMGdtVGxOSUFMMzZySw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-22",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "AI教父杨立昆：AI行业正面临“泡沫破裂”风险",
+    "zh": "AI教父杨立昆：AI行业正面临“泡沫破裂”风险"
+   },
+   "body": {
+    "en": "LeCun said the AI industry is facing the risk of a bubble bursting.",
+    "zh": "杨立昆表示AI行业正面临“泡沫破裂”的风险。"
+   },
+   "source": "t.cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oMDJ4bzlWdmZmV0RNZlpYUk5xXzJjLUpTN3VOSlk5MExCY05DRVhKRUxLXzVwMXVKODhoUmVZbkw0bjFGUC1zRFNwZDhNVzlIV0lVNW1WQUl5VWFCalZwZVFET0FxNVV5VU0xTUZYYi1ndw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-18",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Yann LeCun Calls Elon Musk’s xAI ‘Kind Of A Failure’ – Casts Doubt On Ability to Compete Against OpenAI, Anthropic",
+    "zh": "Yann LeCun Calls Elon Musk’s xAI ‘Kind Of A Failure’ – Casts Doubt On Ability to Compete Against OpenAI, Anthropic"
+   },
+   "body": {
+    "en": "LeCun publicly called Elon Musk's xAI \"kind of a failure,\" questioning its ability to compete with OpenAI and Anthropic.",
+    "zh": "杨立昆公开评价埃隆·马斯克的xAI“某种程度上是失败的”，质疑其与OpenAI、Anthropic竞争的能力。"
+   },
+   "source": "Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMThxaUdIUktLbHFnSFpua2NmeHNiNFhHQ1pEYlBEcmNrUEY0cHp0T2pUWWw3MFZROHVJRWpzcHp2TGhlTUFzRjZpb3VKaWwxZ1ZNdVBjUXBINUhSUmVYM2hKX3BQRmRDVmM1ajdxLThOdS1kb1ozdGJGNmlSd0I4bkpLMUowbGgwVTh5QXBlOFFybVdSNkVZTmNPVW1HZTFITElPMUVENi1tM1E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-18",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "“AI教父”杨立昆：马斯克的xAI已成失败案例 行业或面临巨大泡沫破裂",
+    "zh": "“AI教父”杨立昆：马斯克的xAI已成失败案例 行业或面临巨大泡沫破裂"
+   },
+   "body": {
+    "en": "LeCun called Musk's xAI a failure case and warned the AI industry may be facing a major bubble.",
+    "zh": "杨立昆称马斯克的xAI已成失败案例，并警告AI行业或面临巨大泡沫破裂。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE82UDRiWEdIWFBfR0JLSDl2Mk9HTDZFbHJuUF9WQlUwbUhPWXVYcC1tTTJoaGhPUzdPZUVNQXpUOF9kUE5XamRUUlNVLWs?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-18",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "xAI a ‘failure’ due to leadership and talent challenges amid rising costs, says AI pioneer Yann LeCun",
+    "zh": "xAI a ‘failure’ due to leadership and talent challenges amid rising costs, says AI pioneer Yann LeCun"
+   },
+   "body": {
+    "en": "LeCun called xAI a 'failure,' citing leadership turmoil and talent problems amid rising costs.",
+    "zh": "杨立昆称xAI是一次“失败”，指其在成本上升之际面临领导层动荡和人才流失问题。"
+   },
+   "source": "Yahoo Finance UK",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSmUyTFBnM3dNVXNWc1k2RncySEx0ZGhoLTJEUXhvakNsWW5kRmVJQkRDMFJReTFLam56eGNWY0I0bXNuOUxXSnA0cE5hVXk4VTF1dXhVUlZ4TWExUnN2YTd0S1ZxVGp4dGZaakxjeVgzSC1kaTBScE9lcngzeXpZeVNuaGRCM2o5anc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-15",
+   "ts": "2026-06-15T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Anthropic CEO长期警告AI风险换来出口管制 杨立昆：自食其果",
+    "zh": "Anthropic CEO长期警告AI风险换来出口管制 杨立昆：自食其果"
+   },
+   "body": {
+    "en": "LeCun said Anthropic's long-running warnings about AI risk brought export controls on itself, calling it a self-inflicted wound.",
+    "zh": "杨立昆表示，Anthropic长期以来对AI风险的警告招致了出口管制，称这是自食其果。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iT2VwSkRBZU15WFlESFV6UE5xeVAwajdBZ2xsUUxEU3h0dHp1RWc3WHpLaEtKcmJMQ2p6NXVXQnNuLVFGaF9uOWc3V20?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-15",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Anthropic CEO长期警告AI风险换来出口管制 杨立昆：自食其果",
+    "zh": "Anthropic CEO长期警告AI风险换来出口管制 杨立昆：自食其果"
+   },
+   "body": {
+    "en": "LeCun said Anthropic's CEO brought export controls on itself through years of warning about AI risk.",
+    "zh": "杨立昆称Anthropic CEO长期渲染AI风险，如今招致出口管制，是自食其果。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zZUxaQWt5MncxRjMyNWtrdXppQ3NndGhHYXFOZVFKbllYbTR0MGlQN1FPSFllQWxNNWJsTFpzd3JzeG1RdkpTb1RIblJ0bE5HaGc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-19",
+   "ts": "2026-05-19T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "杨立昆的一个转推，宣布Meta AI“已死”",
+    "zh": "杨立昆的一个转推，宣布Meta AI“已死”"
+   },
+   "body": {
+    "en": "LeCun retweeted a post declaring Meta AI 'dead,' a pointed jab at the lab he left to found AMI Labs.",
+    "zh": "杨立昆转发了一条宣称Meta AI“已死”的帖子，语带讽刺地评价他离开后创立AMI实验室的老东家。"
+   },
+   "source": "t.cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mZWhyRGJuS0VIMUJuSEdCazR3VlhOdkp5SDh6UndpVk92SVk3QXJLY3dqWDNwR3lZWURiT1RRSWN1WjBTTW1PYzhPc1Q3Ul9pZGVtLXpuaUc2ZkV3MDhHNXd3QkpDM3JzN2dKVFV6YWlwdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-18",
+   "ts": "2026-05-18T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "杨立昆对话Jacob Effron：LLM不是真智能，世界模型才是",
+    "zh": "杨立昆对话Jacob Effron：LLM不是真智能，世界模型才是"
+   },
+   "body": {
+    "en": "In conversation with Jacob Effron, LeCun restates his central argument that autoregressive LLMs are not real intelligence and that world models are the path forward.",
+    "zh": "在与Jacob Effron的对话中，杨立昆重申了他的核心观点：自回归大语言模型并非真正的智能，世界模型才是正确方向。"
+   },
+   "source": "qq.com",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKU1l3Q3ZvOThab2I0RG5wZ05LeElXaU1yQ3U5S0w0TmRDTTBBNmhHZnpIQWZUSzdqbFRfem1xWkJtNjRubnF1N2d4VndJb0JYU1Q2WHMtUlJIQm1SQUNKTDFPRlNlTW0zbXZqVXUyOHZ3aVJRdng0?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-18",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "杨立昆的一个转推，宣布Meta AI“已死”",
+    "zh": "杨立昆的一个转推，宣布Meta AI“已死”"
+   },
+   "body": {
+    "en": "A retweet by LeCun was read as declaring Meta AI effectively dead.",
+    "zh": "杨立昆的一次转推被解读为宣告Meta AI\"已死\"。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kX2hJTTFNTUtuMGhjUm05YkpsbDVoMmR5a1lzWUJkaFlfRDQ0QnJOZFZjVkg0TTRkcG9sNzhNdktOS25Jc1hyTFNtVkpHZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-04-24",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "Yann LeCun On Why AI Should Be Open Source",
+    "zh": "Yann LeCun On Why AI Should Be Open Source"
+   },
+   "body": {
+    "en": "In a Time Magazine interview, LeCun laid out his case for why AI development should be open source.",
+    "zh": "杨立昆在《时代》杂志专访中阐述了他支持AI开源发展的理由。"
+   },
+   "source": "Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZHNlZ19DZ0JOWU9LYUtvcUpCRkNGWFJrb0ZZMWJudk40TE40UmtQYjNJN0NZZGpNbmJwb2l0RGgtSzJqUG4xWDNEX0QwclY2TjVxN092azQ2Nll6NHpEWmdVbEJSeXJ4a1lLTXZSclktTWdtUlNEd1UxUng3UXRGR2pJOGtIY3ZXUDVFVw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-04-21",
+   "ts": "2026-04-21T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "辛顿警告AI将取代人类工作，杨立昆反对：应该先听这5个人怎么说",
+    "zh": "辛顿警告AI将取代人类工作，杨立昆反对：应该先听这5个人怎么说"
+   },
+   "body": {
+    "en": "LeCun publicly pushed back on Hinton's warning that AI will replace human jobs, pointing to other voices worth hearing first — part of his ongoing dissent from mainstream AI-risk framing.",
+    "zh": "杨立昆公开反驳辛顿关于AI将取代人类工作的警告，认为应先听取其他几位人士的看法，延续了他对主流AI风险论调的一贯质疑。"
+   },
+   "source": "新浪财经_金融信息服务商",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMEhTVkU5V3puNmRsRlVDSEFQaFBfRUczRGplLWt6Z3BMOW9BdkN4ZEFrcjdFZHVQMEFpZ2x4andOSi1uNUFXWVFMY3ZGUmw5ODlKSFVoMUdOQkVWelRqaXZYYVhXNkV6R0hGbkhtXzRSVUJqVENNN3VvM0JGNl96Z2J5aTJ0NG8?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-04-07",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "AI Alliance Announces ‘Project Tapestry’ and Appoints Yann LeCun as Chief Science Advisor",
+    "zh": "AI Alliance Announces ‘Project Tapestry’ and Appoints Yann LeCun as Chief Science Advisor"
+   },
+   "body": {
+    "en": "The AI Alliance appointed Yann LeCun as Chief Science Advisor for its newly announced Project Tapestry.",
+    "zh": "AI Alliance任命杨立昆为其新推出的Project Tapestry项目的首席科学顾问。"
+   },
+   "source": "HPCwire",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLW5qeUllZnBpU0xfQ0kzYlN4eFFrVFhfdEU4Q3QtZlFSb0hyUkJ4ZGxtOU5GUC1ranJNdFJidXZ1Ni1pUnNvM3JmRURBYi0zcEhJRml0RFB2VXNac1ptcF9CeURKWVlWRzVFMzFfNk94NkVUazN6TUxyamk1NlZDN0VnVEUwVW5BaFI3Sm5kR0hJbF9WbmtidEVrSzlrRElIclZJYkpDRkl1M1NIcUQxUUVTNzRranVTQi1CR1ptdXY0aDQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-03-27",
+   "ts": "2026-03-27T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "大模型搞不出AGI，图灵奖得主杨立昆：别迷信Scaling Law，机器学习糟糕了，Meta、DeepSeek可联手训练开源模型",
+    "zh": "大模型搞不出AGI，图灵奖得主杨立昆：别迷信Scaling Law，机器学习糟糕了，Meta、DeepSeek可联手训练开源模型"
+   },
+   "body": {
+    "en": "LeCun reiterated that scaling laws and autoregressive LLMs cannot reach AGI, and floated Meta and DeepSeek jointly training open-source models.",
+    "zh": "杨立昆重申Scaling Law和自回归大模型无法通向AGI，并提出Meta与DeepSeek可联手训练开源模型的设想。"
+   },
+   "source": "qq.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fTUI0M0l6bUEwT0dUT1RjZHRXbkdWTkZHYnFCWjZSbjZ2N0lOa0lHYkVHVDVPMEpVaDh0OFVnandOTVN5WlliUWIwRzFyQ0JuUE4xX3hn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-03-23",
+   "ts": "2026-03-23T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Yann LeCun’s New LeWorldModel (LeWM) Research Targets JEPA Collapse in Pixel-Based Predictive World Modeling",
+    "zh": "Yann LeCun’s New LeWorldModel (LeWM) Research Targets JEPA Collapse in Pixel-Based Predictive World Modeling"
+   },
+   "body": {
+    "en": "Yann LeCun's group published new research on LeWorldModel (LeWM), addressing JEPA collapse in pixel-based predictive world models.",
+    "zh": "杨立昆团队发表了关于LeWorldModel（LeWM）的新研究，探讨基于像素的预测性世界模型中JEPA崩溃的问题。"
+   },
+   "source": "MarkTechPost",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUlIwNG5ZTklyTjdXalFtc0J2NXRvVDFuYkR4bFRPVE5wNmVYNDd4VHZ2dlkzQzV1YmdDa09xcXlhanZ4U1dkalk3VVN0QWYxOVVzWlhXRzRYQjJnaTlnaWxWNW1jeEdwTHJfR0cwb3MwajFNaG16bXJaZkFBa1N2Z0J4YjZMQ0h6NTRFdFljdVhDNkJrd0xxNE5HUl80QnpvVWZPUjZjVWVHN2pkM1dqNmdDWGdFdXZHS2U5SmpPdkdRTlBfSjhsWW43aktJX3lwQkF4a3k4NnltcTFER2U0?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-03-14",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "10.3亿美元，杨立昆融了欧洲最大一笔种子轮 | 融中投融资周报",
+    "zh": "10.3亿美元，杨立昆融了欧洲最大一笔种子轮 | 融中投融资周报"
+   },
+   "body": {
+    "en": "LeCun closed a $1.03 billion seed round, reportedly the largest in Europe, for his new world-model AI startup.",
+    "zh": "杨立昆为其新的世界模型AI初创公司完成10.3亿美元种子轮融资，据报为欧洲最大种子轮。"
+   },
+   "source": "t.cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wWTJSVzNac2ZPbFJrUHdySzU0ZGNJamhla0padGtmVmRjd2h4MV8xUDcwYVVJby1Pb2N2ZGtGZmY5dmRPdFczX1l5SFNoTVFlYlNneGQzVE5IcXFFVnlNYldtcTlIdU91OUFaSXh2VnI?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-03-10",
+   "ts": "2026-03-10T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "杨立昆新公司获10.3亿美元种子轮融资：英伟达三星等企业参投",
+    "zh": "杨立昆新公司获10.3亿美元种子轮融资：英伟达三星等企业参投"
+   },
+   "body": {
+    "en": "Yann LeCun's new company raised a $1.03 billion seed round, with Nvidia and Samsung among the investors.",
+    "zh": "杨立昆的新公司获得10.3亿美元种子轮融资，英伟达、三星等企业参投。"
+   },
+   "source": "Pchome电脑之家",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0YXVhdGpWb3lreUxNS0d3OVNNU0FnazZpVklLNVAtN1hSV1dVQmlWdUVDVjk4ejBoRmgtZS1xa3RCT2FCSkpjSVRDVThwNk5FLWxUYg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-03-10",
+   "ts": "2026-03-10T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Yann LeCun Raises $1B for Physical AI, Betting Against LLMs",
+    "zh": "Yann LeCun Raises $1B for Physical AI, Betting Against LLMs"
+   },
+   "body": {
+    "en": "LeCun raised $1 billion for his new physical-AI venture, a bet that world-model-based systems will surpass LLMs, which he argues cannot reach AGI.",
+    "zh": "杨立昆为其新的物理AI公司筹集10亿美元，押注基于世界模型的系统将超越他认为无法实现AGI的大语言模型。"
+   },
+   "source": "The Tech Buzz",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVHoxT0xKcHlHSmZCX3pwbWpLQnBUYThYM3NLWHltbGZMTWxXOUsxckNpN0k4ZlZiS1NLYms1MFJxYzdLUG1Vb01neWVUZEF6WWxyUjZrOVFqUDZOOFNFZzIwUE80VGc5SS1GLUZqUGMxN1dHVDlqWV91aXZqRm8xYjZCbVRXOVM1cnZOZ0g1Q21CeDFM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-03-10",
+   "ts": "2026-03-10T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "杨立昆AI创企获10.3亿美元种子轮融资，英伟达参投",
+    "zh": "杨立昆AI创企获10.3亿美元种子轮融资，英伟达参投"
+   },
+   "body": {
+    "en": "LeCun's new AI startup raised a $1.03 billion seed round, with Nvidia among the investors.",
+    "zh": "杨立昆的新AI创业公司完成10.3亿美元种子轮融资，英伟达等参投。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85MHVzNEMyelZtTjdPSUYtQTJXdWM0LW9EWWVxSlhIam54M3dDTFp2SEc3eTEzeTI5dXE2bW1ZZG5WbWFoMlpDMFF3OWs3Wl9lV3QyMDRhZFU5N3pmeUUyNGxqOFFPcTVpdXNJaGhNdFFaUUVmUjg4bzhYajJ6MVk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-03-10",
+   "ts": "2026-03-10T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "APPSO独家｜杨立昆再联手谢赛宁，英伟达参投，新公司押注 LLM 之后",
+    "zh": "APPSO独家｜杨立昆再联手谢赛宁，英伟达参投，新公司押注 LLM 之后"
+   },
+   "body": {
+    "en": "LeCun teamed up again with Saining Xie to launch a new company betting on a post-LLM approach to AI, with Nvidia among the investors.",
+    "zh": "杨立昆再度与谢赛宁联手创立一家新公司，押注LLM之后的AI技术路线，英伟达是投资方之一。"
+   },
+   "source": "t.cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15SWpYNVhNT0FkaTNEQUhEVE4wVE9ZeVN3WmhEeXhfQ1Y0Z3VsLVUzM01pQVkxaDJONTNYT2l3OTlYME91OFlNQWVKcFhqOEVqUzlOc29fT09udkF6ZXNSby1uQUc0V2dqZG50Z2ZoRlU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-03-10",
+   "ts": "2026-03-10T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "杨立昆AI初创公司获10.3亿美元融资，英伟达三星参投",
+    "zh": "杨立昆AI初创公司获10.3亿美元融资，英伟达三星参投"
+   },
+   "body": {
+    "en": "LeCun's startup AMI Labs raised $1.03 billion, with Nvidia and Samsung among the investors.",
+    "zh": "杨立昆的初创公司AMI Labs获得10.3亿美元融资，英伟达和三星等参与投资。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQblc0cXRDc1hNQ1ZKM1loZG1DM0FESEhndm90RkZaQVlqVzJKVTdLVVNCRVRRUFNGN3lpOURoNDVKVURBOUFmQk5ibWwtaVVVeEJWM21UUDNTUWhVc3A4RFdzUEFkMF9HeFY4YVMyd0Vsd3BaeW8wcTlFSFlxS01Bc2Fqaw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-03-10",
+   "ts": "2026-03-10T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "刚刚！杨立昆成功融资70亿，黄仁勋参与投资",
+    "zh": "刚刚！杨立昆成功融资70亿，黄仁勋参与投资"
+   },
+   "body": {
+    "en": "LeCun's AMI Labs closed a $7 billion funding round, with Nvidia CEO Jensen Huang participating as an investor.",
+    "zh": "杨立昆创立的AMI Labs完成70亿美元融资，英伟达CEO黄仁勋参与投资。"
+   },
+   "source": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DUWFFV1dsTGFxV0pwQUFQRkQ1QWhtVUdEUmx2eHlQVDRPTlkyNGRYN09YekRZSE5ab1pQYnVhbjJ5ekRBWGFqNWZxVm9QdGtwaTJn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-03-07",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Yann LeCun’s New AI Paper Argues AGI Is Misdefined and Introduces Superhuman Adaptable Intelligence (SAI) Instead",
+    "zh": "Yann LeCun’s New AI Paper Argues AGI Is Misdefined and Introduces Superhuman Adaptable Intelligence (SAI) Instead"
+   },
+   "body": {
+    "en": "LeCun's new paper argues AGI is a poorly defined goal and proposes 'Superhuman Adaptable Intelligence' (SAI) as a better framing.",
+    "zh": "杨立昆新论文认为AGI是一个定义不清的目标，提出以\"超人类适应性智能\"（SAI）作为更好的替代框架。"
+   },
+   "source": "MarkTechPost",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNTNNZ2l2bF9XYnNSVFVObFFfbDJKa1NWMm1FY0oxb0ZRd3M3YWxkMVROcDYwandSQkF3R3FYd2J1c3JJZzJvWlcwLXZocF9rMmtZdnZKNm1XSHN3MC1SYmZPSENTdUstSGVGU2w1LVNpNHBOUUgyTjFrMXJGSjNQcE1sZkF6aGw0a2UwdHMzNlE0T0YtblFDSngtcVpuUEdXSndtdE50RHRvOHJlenhTWGpIQWplTEJiOFppMXdmbHJIeU9hb2hzMHpNQlg4TTVqYlVib01BY0JEck1zR0E4SkpYRkw3d9IB6wFBVV95cUxOQVNxTHJEUkJQTzdSSWx6bDVKRWZsUFJvcktmNUpVSFJQc0R3Yjd1cmkwcEY4VWdQOFJLUUdkTS0wbXhOQWZCXzZPLTJ3NlVnRVVSMFhiTGxzcHd5OEdtOGNjamVLdE1iMzZqbkQ2cmpCV3JJc3NaMUZlU2sxSUF2WjAzOUhzbURVaWtqdHFxTHgzc2dCMWpYNkdEZkJqMkhrS1c0TW1PZS1HZVJEVTZGNzQxajB6OHZ0UW1ZLWVDeHhKSm11d2NYazZKQm50WjlSMFZzRTNXSXdtRW1FVlJwdUZ5QTRfdmZTSW9J?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-01-26",
+   "ts": "2026-01-26T04:45:48Z",
+   "level": "notable",
+   "title": {
+    "en": "人形机器人生产效率不到人类一半？杨立昆泼冷水：没一个聪明的！",
+    "zh": "人形机器人生产效率不到人类一半？杨立昆泼冷水：没一个聪明的！"
+   },
+   "body": {
+    "en": "Yann LeCun publicly dismissed humanoid robots as far from intelligent, noting their production efficiency is still less than half that of humans.",
+    "zh": "杨立昆公开泼冷水，称人形机器人远算不上智能，其生产效率仍不到人类的一半。"
+   },
+   "source": "第一财经",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZZ1kzOGx2TGFEaUxYaF8zNi1qNmkwZWV4Z3ZoQVNSSjlISkE2NkRNT2ZTc2huT3pSWnlGVXJDaDZfOVFaQXI1M2luSUJVZVNBX25v?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-01-22",
+   "ts": "2026-01-22T08:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Nexar Appoints AI Pioneer Yann LeCun to Board as Physical AI Scales Beyond the Lab",
+    "zh": "Nexar Appoints AI Pioneer Yann LeCun to Board as Physical AI Scales Beyond the Lab"
+   },
+   "body": {
+    "en": "LeCun was appointed to the board of Nexar as the company scales physical AI beyond the lab.",
+    "zh": "LeCun被任命为Nexar公司董事会成员，该公司正推动物理AI技术走出实验室、实现规模化应用。"
+   },
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOTFBbGpTN1h5a0JaRE94U2pCel9iMzNxeHoxQTBzQ19uaXpuYjRyb0E4NnJfQm9SWFByOGFzd0psSWhORWtNUkRQS1Zqc1c4aWQ0UE53dEFMd3NyV3lUeHlxZ3dFUnI3eXg4dE1HN3dlWkxTQ0lEUTE0T0V4RzltVm42Tko2cHpUNEVkN0g1WFVpZzlObjBSZllOc1pveWxBd3R3LU9EWE9WbERlZUptMVk0M2U4SWxlNnBHOTJMTkxtQ212NGdRbm8waG9wN1BDOEs4RWk5WDk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-01-22",
+   "ts": "2026-01-22T08:00:00Z",
+   "level": "minor",
+   "title": {
+    "en": "Nexar Appoints AI Pioneer Yann LeCun to Board as Physical AI Scales Beyond the Lab",
+    "zh": "Nexar Appoints AI Pioneer Yann LeCun to Board as Physical AI Scales Beyond the Lab"
+   },
+   "body": {
+    "en": "LeCun joined the board of Nexar, a physical-AI company, as it scales beyond research settings.",
+    "zh": "LeCun加入了物理AI公司Nexar的董事会，该公司业务正从研究环境走向规模化落地。"
+   },
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaGxCS3p4bTI1eWsxajl0UW9Xb0RGVkhXYU5aV0Z6N09rMURDemhXRUNYcnpqazlncnllZUptX2RicnNHN1J6OERVS0MyRndnZXdRZC05UzkxZnlBcm85OHY5VFBiWEN6MEZxdm9SbXUxcEphaExwNUpvY01LQ2trR3FjVHdKaVFlYi10eUFtRnUxUzR0T210aW1ZSXVkMnV1NGtUcDF1dVcxcFF4dnRseUJfM2RTQTNEV0hSYkJfamVfYjhpeldvZzFpRTVtUng0NU41UA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-01-05",
+   "ts": "2026-01-05T08:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "杨立昆自曝离开Meta内幕：与扎克伯格不合，对29岁新上司不满，力挺“世界模型”遭冷落",
+    "zh": "杨立昆自曝离开Meta内幕：与扎克伯格不合，对29岁新上司不满，力挺“世界模型”遭冷落"
+   },
+   "body": {
+    "en": "LeCun gave a detailed account of why he left Meta: friction with Zuckerberg, dissatisfaction with a new 29-year-old superior, and frustration that his push for world models was sidelined.",
+    "zh": "杨立昆详细披露了他离开Meta的内幕：与扎克伯格不合、对29岁新上司不满，以及他力推的'世界模型'路线遭到冷落。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KdHo2Y2tZaHVMWmlfOHo4Z19FNEZ2WGtUOXpnNWl4bUZ2YVFLVVJ1TG16YkNIUGVJUXhQLWVnV0dKLVJTRk5nWEVkWklMS29lR0xnMzc5MkxQWlpGdXFQcW8za1hFTmlPcEd2TzBLdGgzUTAtT1AyZHo0eTBRbVk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-01-05",
+   "ts": "2026-01-05T08:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "雷军回应小字营销：行业陋习，立刻马上就改；破防！腾讯元宝罕见辱骂用户，官方紧急致歉；杨立昆爆猛料：Meta模型靠作弊刷分上榜",
+    "zh": "雷军回应小字营销：行业陋习，立刻马上就改；破防！腾讯元宝罕见辱骂用户，官方紧急致歉；杨立昆爆猛料：Meta模型靠作弊刷分上榜"
+   },
+   "body": {
+    "en": "LeCun was reported to have revealed that Meta's models climbed leaderboard rankings by gaming benchmarks, a pointed claim about his former employer's practices.",
+    "zh": "据报道，杨立昆爆料称Meta的模型是通过“刷分”手段登上排行榜的，这是他对前东家做法的一次尖锐指控。"
+   },
+   "source": "雷峰网",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xdjhHdVVrX3h6UW1yNy0wVC1Sclc5LUx5WHdiUVNwUFkyeWxGZWZwVkk2MFN4cU5mRUNsTVRQNTNrcldIMTJPMGM1VnBzZmRrLXZITXNrZDB2ODZncDhOdmlaNHFfLU1vTlpuTw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-01-04",
+   "ts": "2026-01-04T08:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "杨立昆披露离职Meta内幕，团队被迫作弊刷榜遭边缘化",
+    "zh": "杨立昆披露离职Meta内幕，团队被迫作弊刷榜遭边缘化"
+   },
+   "body": {
+    "en": "LeCun gave his own account of leaving Meta, alleging his team was pressured to game benchmark leaderboards and was sidelined internally.",
+    "zh": "LeCun披露了自己离开Meta的内幕，称团队曾被迫在排行榜上作弊刷分，并在内部遭到边缘化。"
+   },
+   "source": "t.cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yNWZjUTctZWZzMV84TnpOYV9CWkpHNkpCa1o2dVFpemZNUVNOWElocEVPazZxaWJzUl9oY2pVY1JHNzU0MWNRWE45NWFYWXRLcmlILUFWako3T3paU0VIZ19Oczh2Q0NyOUVrU0VQUEw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-01-04",
+   "ts": "2026-01-04T08:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "杨立昆：Meta新人满脑子都是大语言模型但这是一条死胡同- AI 人工智能",
+    "zh": "杨立昆：Meta新人满脑子都是大语言模型但这是一条死胡同- AI 人工智能"
+   },
+   "body": {
+    "en": "LeCun says Meta newcomers are fixated on large language models, which he calls a dead end, reiterating his contrarian stance on the path to AGI.",
+    "zh": "杨立昆表示Meta的新员工满脑子都是大语言模型，他认为这是一条死胡同，重申了他对通往AGI路径的不同看法。"
+   },
+   "source": "cnBeta.COM",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DcjVXX1ktX3BlV19fbnVLLUJkVVZOZW5RYXRQbzE1cjhvM2xocE80UkNsOHFfREpEYlF2UDZISmpfNHE0TGp1NThUX2NQMkt5bi0tanRSZjluRUItdGo0MA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-01-04",
+   "ts": "2026-01-04T08:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "AI 科学家杨立昆离职后曝 Meta 模型作弊刷榜",
+    "zh": "AI 科学家杨立昆离职后曝 Meta 模型作弊刷榜"
+   },
+   "body": {
+    "en": "After leaving Meta, LeCun said Meta's AI models had gamed leaderboard rankings.",
+    "zh": "杨立昆离开Meta后表示，Meta的AI模型曾在排行榜上刷分作弊。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbmNabl9TOTFBMGlGaGhhbDl5Ry1PeWZRU1l4UHR4aDdFRmxEVW03WWVSTEwtMW92ajJTQzFRQUdRNkpscW5vdzBFLXU1NW5sMnIyM09tUFNGNFdLMjB1MDBucVpDaDFySHNYcnJ0YWstbVVaUGk4S25aUUkySzJmanRCVV9wbElNclhVN09B?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-01-04",
+   "ts": "2026-01-04T08:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "杨立昆谈从Meta离职原因 扎克伯格使双方沟通陷入僵局",
+    "zh": "杨立昆谈从Meta离职原因 扎克伯格使双方沟通陷入僵局"
+   },
+   "body": {
+    "en": "LeCun described why he left Meta, saying a breakdown in communication with Zuckerberg was a key factor.",
+    "zh": "杨立昆谈及离开Meta的原因，称与扎克伯格沟通陷入僵局是关键因素之一。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ja0NWMXZPbDc0S0NJdkJMUkxvZFJuZlkyempYQk9wck0tYTZ5NEttUnVhYmctbTNoRmh5M0VQVkZ5T0RycXY4VmgyaFY?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": true,
+ "was": {
+  "en": "Chief AI Scientist, Meta (departing)",
+  "zh": "Meta 首席 AI 科学家（离职中）"
+ },
+ "cat": "embodied",
+ "score": {
+  "total": 79.2,
+  "attention": 78,
+  "centrality": 72,
+  "momentum": 84,
+  "stature": 95,
+  "pageviews": 531264,
+  "citations": 253869,
+  "hIndex": 120,
+  "events": 51,
+  "posts": 57,
+  "wikiEn": "Yann LeCun",
+  "wikiZh": "杨立昆"
+ },
+ "seedRank": 6,
+ "tier": "t1"
+}

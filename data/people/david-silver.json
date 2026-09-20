@@ -1,0 +1,780 @@
+{
+ "rank": 52,
+ "id": "david-silver",
+ "name": {
+  "en": "David Silver",
+  "zh": "David Silver"
+ },
+ "role": {
+  "en": "Founder, Ineffable Intelligence; Professor, UCL",
+  "zh": "Ineffable Intelligence 创始人；UCL 教授"
+ },
+ "org": "Ineffable Intelligence",
+ "region": {
+  "en": "United Kingdom",
+  "zh": "英国"
+ },
+ "tags": [
+  "Ineffable Intelligence",
+  "AlphaGo",
+  "AlphaZero",
+  "MuZero",
+  "Era of Experience",
+  "RL"
+ ],
+ "why": {
+  "en": "Lead researcher on AlphaGo, AlphaZero and MuZero — the proof that self-play can exceed the ceiling of human knowledge. He left DeepMind to build a company on exactly that premise: superintelligence that learns without human data.",
+  "zh": "AlphaGo、AlphaZero、MuZero 的首席研究员，证明了自我博弈可以超越人类知识上限。他离开 DeepMind，正是为了在这个前提上创立一家公司：不依赖人类数据学习的超级智能。"
+ },
+ "links": [
+  {
+   "kind": "blog",
+   "label": "UCL course page",
+   "url": "https://www.davidsilver.uk/",
+   "t": 1
+  },
+  {
+   "kind": "x",
+   "label": "X — search",
+   "url": "https://x.com/search?q=%22David+Silver%22&f=live",
+   "t": 3
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=David+Silver",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/David+Silver",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=David+Silver",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=David+Silver&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=David+Silver&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=David+Silver",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=David+Silver&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=David+Silver",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?user=-8DNE4UAAAAJ&hl=en",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=David+Silver",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=David+Silver",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=David+Silver",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=David+Silver",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=David+Silver",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=David+Silver&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  },
+  {
+   "kind": "wiki",
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/David_Silver_(computer_scientist)",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2025-04-01",
+   "kind": "paper",
+   "title": {
+    "en": "Welcome to the Era of Experience (with Richard Sutton)",
+    "zh": "欢迎来到经验的时代（与 Richard Sutton 合著）"
+   },
+   "source": "Google DeepMind",
+   "url": "https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf",
+   "note": {
+    "en": "Argues progress driven solely by supervised learning from human data is slowing, and a new approach is needed.",
+    "zh": "主张仅靠从人类数据监督学习驱动的进展正在放缓，需要新的路径。"
+   }
+  },
+  {
+   "date": "2025-05-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DataRater: Meta-Learned Dataset Curation",
+    "zh": "DataRater: Meta-Learned Dataset Curation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2505.17895v2",
+   "note": {
+    "en": "DataRater meta-learns which training data is worth keeping, replacing hand-tuned dataset mixtures.",
+    "zh": "DataRater 用元学习判断哪些训练数据值得保留，替代人工调配的数据配比。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2025-04-10",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Is Human Data Enough? With David Silver",
+    "zh": "Is Human Data Enough? With David Silver"
+   },
+   "source": "Google DeepMind: The Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/is-human-data-enough-with-david-silver/id1476316441?i=1000703034260&uo=4",
+   "note": {
+    "en": "DeepMind's own podcast, where he sets out the \"era of experience\" argument that agents must learn beyond the ceiling of human data.",
+    "zh": "DeepMind 官方播客，他在其中阐述\"经验时代\"的主张：智能体必须突破人类数据的上限自行学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-03-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context",
+    "zh": "Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2403.05530v5",
+   "note": {
+    "en": "He is a listed contributor to the Gemini 1.5 technical report, Google's long-context multimodal model family.",
+    "zh": "他是 Gemini 1.5 技术报告的署名贡献者，该模型是谷歌的长上下文多模态模型系列。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2023-12-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gemini: A Family of Highly Capable Multimodal Models",
+    "zh": "Gemini: A Family of Highly Capable Multimodal Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2312.11805v5",
+   "note": {
+    "en": "He is among the lead contributors listed on the original Gemini technical report.",
+    "zh": "他是初代 Gemini 技术报告靠前署名的核心贡献者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2022-06-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning",
+    "zh": "Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2206.15378v1",
+   "note": {
+    "en": "DeepNash reaches expert human level at Stratego, an imperfect-information game, using model-free multi-agent RL.",
+    "zh": "DeepNash 用无模型多智能体强化学习，在不完全信息博弈 Stratego 上达到人类专家水平。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-10-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Self-Consistent Models and Values",
+    "zh": "Self-Consistent Models and Values"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2110.12840v1",
+   "note": {
+    "en": "Trains environment models and value functions to be self-consistent so planning improves rather than compounds error.",
+    "zh": "让环境模型与价值函数彼此自洽，使规划能真正提升表现而不是放大误差。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-09-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Bootstrapped Meta-Learning",
+    "zh": "Bootstrapped Meta-Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2109.04504v2",
+   "note": {
+    "en": "Bootstrapped Meta-Learning overcomes the meta-optimisation bottleneck by having the meta-learner bootstrap its own target.",
+    "zh": "Bootstrapped Meta-Learning 让元学习器自举生成目标，突破元优化的瓶颈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-06-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The Option Keyboard: Combining Skills in Reinforcement Learning",
+    "zh": "The Option Keyboard: Combining Skills in Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2106.13105v1",
+   "note": {
+    "en": "The Option Keyboard composes known skills into new ones for long-horizon reinforcement learning.",
+    "zh": "Option Keyboard 通过组合已有技能生成新技能，服务于长时程强化学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-06-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Proper Value Equivalence",
+    "zh": "Proper Value Equivalence"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2106.10316v2",
+   "note": {
+    "en": "Generalises the value-equivalence principle to characterise which learned models are good enough for planning.",
+    "zh": "推广价值等价原理，刻画哪些学到的模型足以支撑规划。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-04-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Learning and Planning in Complex Action Spaces",
+    "zh": "Learning and Planning in Complex Action Spaces"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2104.06303v1",
+   "note": {
+    "en": "Sampled MuZero extends his planning-with-a-learned-model approach to high-dimensional and continuous action spaces.",
+    "zh": "Sampled MuZero 把“用学到的模型做规划”推广到高维与连续动作空间。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-04-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Online and Offline Reinforcement Learning by Planning with a Learned Model",
+    "zh": "Online and Offline Reinforcement Learning by Planning with a Learned Model"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2104.06294v1",
+   "note": {
+    "en": "MuZero Reanalyse makes learned-model planning work in both online and offline, data-limited settings.",
+    "zh": "MuZero Reanalyse 让基于学习模型的规划在在线与离线的低数据场景下同样可用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-04-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Muesli: Combining Improvements in Policy Optimization",
+    "zh": "Muesli: Combining Improvements in Policy Optimization"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2104.06159v2",
+   "note": {
+    "en": "Muesli matches MuZero's performance with a policy update that folds model learning into an auxiliary loss instead of search.",
+    "zh": "Muesli 用把模型学习作为辅助损失的策略更新，不依赖搜索也能达到 MuZero 的水平。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-02-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Discovery of Options via Meta-Learned Subgoals",
+    "zh": "Discovery of Options via Meta-Learned Subgoals"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2102.06741v1",
+   "note": {
+    "en": "Discovers temporal abstractions (options) automatically by meta-learning subgoals.",
+    "zh": "通过元学习子目标自动发现时间抽象（options）。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-11-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The Value Equivalence Principle for Model-Based Reinforcement Learning",
+    "zh": "The Value Equivalence Principle for Model-Based Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2011.03506v1",
+   "note": {
+    "en": "Introduces the value-equivalence principle: models only need to be accurate where it matters for value prediction.",
+    "zh": "提出价值等价原理：环境模型只需在影响价值预测的方面准确即可。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-07-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Discovering Reinforcement Learning Algorithms",
+    "zh": "Discovering Reinforcement Learning Algorithms"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2007.08794v3",
+   "note": {
+    "en": "Meta-learns the RL update rule itself, automating the discovery of algorithms normally designed by hand.",
+    "zh": "直接元学习强化学习的更新规则本身，把原本靠人工设计的算法交给机器发现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-07-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Meta-Gradient Reinforcement Learning with an Objective Discovered Online",
+    "zh": "Meta-Gradient Reinforcement Learning with an Objective Discovered Online"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2007.08433v1",
+   "note": {
+    "en": "Discovers the RL objective online via meta-gradients rather than fixing it in advance.",
+    "zh": "用元梯度在线发现强化学习的优化目标，而非预先固定。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-07-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Expected Eligibility Traces",
+    "zh": "Expected Eligibility Traces"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2007.01839v2",
+   "note": {
+    "en": "Expected eligibility traces improve credit assignment by propagating credit to states that could have led to an outcome.",
+    "zh": "期望资格迹把信用也分配给“本可能导致该结果”的状态，改进信用分配。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-06-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The Value-Improvement Path: Towards Better Representations for Reinforcement Learning",
+    "zh": "The Value-Improvement Path: Towards Better Representations for Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2006.02243v2",
+   "note": {
+    "en": "Argues RL representations should be judged against the whole sequence of value functions an agent passes through, not one target.",
+    "zh": "主张强化学习的表征应服务于智能体经历的整条价值改进路径，而非单一目标。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-04-03",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#86 – David Silver: AlphaGo, AlphaZero, and Deep Reinforcement Learning",
+    "zh": "#86 – David Silver: AlphaGo, AlphaZero, and Deep Reinforcement Learning"
+   },
+   "source": "Lex Fridman Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/86-david-silver-alphago-alphazero-and-deep/id1434243584?i=1000470443874&uo=4",
+   "note": {
+    "en": "Lex Fridman interview on AlphaGo, AlphaZero and deep reinforcement learning, recorded while he led DeepMind's RL group.",
+    "zh": "Lex Fridman 访谈，谈 AlphaGo、AlphaZero 与深度强化学习，录制于他领导 DeepMind 强化学习团队期间。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2020-02-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Self-Tuning Actor-Critic Algorithm",
+    "zh": "A Self-Tuning Actor-Critic Algorithm"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2002.12928v5",
+   "note": {
+    "en": "A self-tuning actor-critic that adapts its own hyperparameters online via meta-gradients.",
+    "zh": "一种自调优 Actor-Critic 算法，通过元梯度在线自适应调整超参数。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2020-02-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Value-driven Hindsight Modelling",
+    "zh": "Value-driven Hindsight Modelling"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2002.08329v2",
+   "note": {
+    "en": "Uses hindsight information to learn what an agent should have predicted, improving value estimation.",
+    "zh": "利用事后信息学习“本该预测什么”，从而改进价值估计。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-12-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "What Can Learned Intrinsic Rewards Capture?",
+    "zh": "What Can Learned Intrinsic Rewards Capture?"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1912.05500v3",
+   "note": {
+    "en": "Studies what learned intrinsic reward functions can encode beyond the external reward.",
+    "zh": "研究学到的内在奖励函数能够编码哪些外部奖励之外的信息。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2019-11-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model",
+    "zh": "Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1911.08265v2",
+   "note": {
+    "en": "MuZero: mastering Atari, Go, chess and shogi by planning with a learned model, without being told the rules.",
+    "zh": "MuZero：在不给定规则的情况下，用学到的模型进行规划，掌握 Atari、围棋、国际象棋与将棋。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-04-27",
+   "level": "major",
+   "title": {
+    "en": "Raises $1.1B for Ineffable Intelligence",
+    "zh": "为 Ineffable Intelligence 募资 11 亿美元"
+   },
+   "body": {
+    "en": "$1B at a $4B pre-money — among Europe's largest seed rounds ever. The stealth London startup aims at 'endlessly learning superintelligence' via reinforcement learning and world models, deliberately without human data.",
+    "zh": "10 亿美元、投前估值 40 亿美元，欧洲史上最大种子轮之一。这家伦敦隐身创业公司以强化学习与世界模型为路径，刻意不依赖人类数据，目标是「无止境学习的超级智能」。"
+   },
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/"
+  },
+  {
+   "date": "2026-01-01",
+   "level": "major",
+   "title": {
+    "en": "Leaves Google DeepMind after a sabbatical",
+    "zh": "休假后离开 Google DeepMind"
+   },
+   "body": {
+    "en": "",
+    "zh": ""
+   },
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/"
+  },
+  {
+   "date": "2026-09-07",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "David Silver's Ineffable Intelligence names six cofounders from DeepMind, InstaDeep and Flying Fish",
+    "zh": "David Silver's Ineffable Intelligence names six cofounders from DeepMind, InstaDeep and Flying Fish"
+   },
+   "body": {
+    "en": "Silver's new venture Ineffable Intelligence named six cofounders drawn from DeepMind, InstaDeep and Flying Fish, fleshing out the team behind his post-DeepMind superintelligence bet.",
+    "zh": "大卫·西尔弗的新公司Ineffable Intelligence公布了六位联合创始人，分别来自DeepMind、InstaDeep和Flying Fish，充实了他离开DeepMind后押注超级智能的团队。"
+   },
+   "source": "Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUVBtaTZyQlhRd0owc3JFRXhpMmNvOU5ZM3dJSDlMNlFGTFZjRWYxT1RCNmxrbmtKdGthWXB6T1NRcGFySVBZTmljbFdZSGU2UVBYbUZiNldLblZzXzZUekE3cU9Wa0pldGZSRHpLRjJnWlNpS0V5b2VSVy1UdnJ1NG1GVWU5RnFyREpDdk16b1FQNTI4YWtXcDJCSzBEMTY3Wko1LU0zN0J1VE42a0hGZXBVSQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-22",
+   "ts": "2026-06-22T02:02:19Z",
+   "level": "major",
+   "title": {
+    "en": "AlphaGo architect David Silver leaves DeepMind to launch post-LLM AI startup",
+    "zh": "AlphaGo architect David Silver leaves DeepMind to launch post-LLM AI startup"
+   },
+   "body": {
+    "en": "David Silver left DeepMind to found Ineffable Intelligence, a startup pursuing superintelligence through self-play rather than language models.",
+    "zh": "David Silver离开DeepMind，创立Ineffable Intelligence，探索一条不依赖大语言模型、以自我对弈为核心的超级智能路线。"
+   },
+   "source": "Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2Q5bDlUVDMyYUhKc3pOOFlCS2ZyVEpFa0Z1Y2hPQ2I1VGFnU0FKUEVXOHBHYV9VbC1EZUJiZE9qYXBWRU9tOVNudHliR0FaQVAtbks3dnE4RnF1ZnppZHpHRU5OWUZsTk1Pdko2TWsxMV9KdGZ4RzdNSkpRMkt0TXNKaERvenlGcURTczYyQzgyeXc1YVhFWFB0LVIxMXhhUXpXb0ZqZjJORjNadWF3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-16",
+   "ts": null,
+   "level": "notable",
+   "title": {
+    "en": "AlphaGo’s David Silver puts his superintelligence bet on Google Cloud",
+    "zh": "AlphaGo’s David Silver puts his superintelligence bet on Google Cloud"
+   },
+   "body": {
+    "en": "His startup Ineffable Intelligence committed its compute to Google Cloud, setting the infrastructure base for its superintelligence effort.",
+    "zh": "他创办的 Ineffable Intelligence 选择 Google Cloud 作为算力基础，为其超级智能路线定下基础设施。"
+   },
+   "source": "The Next Web",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYkZGVG5xYWcxckVkc0kzc3M3ckdUb2x2VnozaC1GTkU5MjBRV2l3Ym80MmRSRjdHbXlWb0MwclEtYXdvTEtxZFYtTTJ1R2F0MFhqa3BWcl9yVDVIRFJlSnhEM3UtSGxPZkhaZXBQVlRtck5kSE9tanI2bWhiam1pY0JfNTlaZ0NzOE5leEhPTkV3RnhDd0ZQcmZyVWo?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-04-28",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "David Silver’s Ineffable Intelligence raises $1.1bn",
+    "zh": "David Silver’s Ineffable Intelligence raises $1.1bn"
+   },
+   "body": {
+    "en": "Ineffable Intelligence, the company Silver founded after leaving DeepMind, raised $1.1bn to build models that learn without human data.",
+    "zh": "Silver 离开 DeepMind 后创办的 Ineffable Intelligence 完成 11 亿美元融资，目标是训练无需人类数据即可学习的模型。"
+   },
+   "source": "Silicon Republic",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWXh6MlZuaU1tM1FTdm1iSFVjSkxubkwzZGxVUTFFTVdJRWVXRDZmbjlEX205V21OdG1tRzJjOC02aWhsMzZVV3FvM1gyakU4V3hQQk1yQi1iNzVfNjBLN2MtMk9Lcm9pdjZhWVA0eFJvdVNINkZtOWpqTUtya2VCN1NLNUdBOWhOM3F4Ny1tMDhtajlneVVqR0FLZ2kwdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-04-28",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "DeepMind’s David Silver Raises $1.1 Billion to Build AI That Learns Without Human Data",
+    "zh": "DeepMind’s David Silver Raises $1.1 Billion to Build AI That Learns Without Human Data"
+   },
+   "body": {
+    "en": "He leaves DeepMind and raises $1.1B for a new company built on his long-standing bet that agents can learn beyond human data.",
+    "zh": "他离开 DeepMind，为新公司融资 11 亿美元，押注智能体可以在不依赖人类数据的情况下持续学习。"
+   },
+   "source": "CXO Digitalpulse",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ3dhd0k5M0ltalphTjdBZUx3aF9Zc0d1ZDF3QWpVRTRhMXI3a2JRUnpMMTlNaE1pZlFsUGJpQnlkRGJ5bjZFYjZIZldObHdkWlZmSHZzcUFCbmRnU1FBNHhVOG1Wc2wtcXgyOFJ0dUVFd2p6bXp0NnhUYW02UXhDY0lVeGllM0pCYmpSZHBzVzVxeGF4Qk10WHl6WXNpanZoYVMtYVhyVDdiWXNBdndUblNjVzg5bkxH?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-04-28",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "$1.1 Billion Bet on Autonomous Intelligence: David Silver Claims an AI that Teaches Itself",
+    "zh": "$1.1 Billion Bet on Autonomous Intelligence: David Silver Claims an AI that Teaches Itself"
+   },
+   "body": {
+    "en": "Analytics Insight reported a $1.1 billion bet on Silver's startup Ineffable Intelligence, which is building AI systems that teach themselves without relying on human-generated data.",
+    "zh": "Analytics Insight报道称，大卫·西尔弗创办的Ineffable Intelligence获得11亿美元投资，该公司致力于打造无需依赖人类生成数据即可自我学习的AI系统。"
+   },
+   "source": "Analytics Insight",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc0lBWnZTMFB2bUNnSVFBcGlSTFhJdzlVamlnVWpiYXZHbTJOQUlJM2Ita3VZei02NHRSM3RlX3ZpSGNNU05LbDVKNTVpVi1GSHRNQzRGWG5ET1FsWXVxTUNJNGtqTVMzQXFFVkhJRmpFM3ZENkhiTEJVYTJOU1dyZTBUd1RRRE1WZGFwbWxqQUVNc1VUMWp4OWhicGgtVEVaTUxVQk9fWVNZUmg3QUFFbjNicDlBd19aeWtfb3pORHRCVWfSAdABQVVfeXFMTkVqcDFfSjMxMmxiaHBUc2cydTB4Znhucks0ZGxnamVoTmRZYlB6d2ZpeF84dVdrR3RTc2dWTktxTUFNa1NEbXo3TWdvVTVtUTVDSFNoTVFPcXVDMlpjaGc5b2FQMU5iR2wyZWpmMkVzbm12XzJmZHJ4TXNvUGpQRU5Kcm81Sk9IU3I0eUJlVmZqZnU3RGZmX0Rlc1FPQ1U0VUFPVkl6elY1TE56eFRtdDBmSlBmbEZvMDNLRHM3dE1WU1BjbU5MS1Z3QkxFbDNEdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-04-27",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
+    "zh": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data"
+   },
+   "body": {
+    "en": "He raised $1.1B at a $5.1B valuation for Ineffable Intelligence, backed by Sequoia and Nvidia, to build AI that learns without human data.",
+    "zh": "他为 Ineffable Intelligence 融资 11 亿美元、估值 51 亿美元，红杉与英伟达参投，目标是造出无需人类数据即可学习的 AI。"
+   },
+   "source": "techcrunch.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUDhLak52TU9jcThMdW9Rb2ZGUDhNWndaWHU3eVJqdzZKNzB3WXZyRFhGTG9ZYWtZN2ZwZ3U3MjNDZ2YwOUpnX1RocHY2QWVURFp6MkZaeXlWRVhCUEJtZ29nUHlKWDlEc2RVa0ZqT1VOMEhrc0w0NnZldDhreW1JbnZOU1RyU0xqVV91VmFFTExBQmhzTzJqemtsSDMxaUFOUWN1M2N2QmxvWUM5UUYzaDNKNEFMTnpIQUI5RA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-04-27",
+   "ts": null,
+   "level": "major",
+   "title": {
+    "en": "Ex-DeepMind star David Silver raises $1.1B at $5.1B valuation for AI \"superlearner\" startup",
+    "zh": "Ex-DeepMind star David Silver raises $1.1B at $5.1B valuation for AI \"superlearner\" startup"
+   },
+   "body": {
+    "en": "Silver's startup raised $1.1B at a $5.1B valuation to build a self-play-based 'superlearner' AI, a major funding milestone.",
+    "zh": "Silver的创业公司以51亿美元估值完成11亿美元融资，用于打造基于自我对弈的「超级学习者」AI，是一项重大融资进展。"
+   },
+   "source": "Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNUtVSURTM1dpcmxGTWRrYm9YUGktaVB5anBlSmZXazZuanRBaWtSUHlFR2c2eFpiNWljTWVpZXVFQW0yUWd3cUZWN3c4SURlNDlOUDFoY2RhWGRoc1Q0TndvOElaa0JfV1RneEV3MUhxLS1uNm11VE0tLUFEbVo3RTU2dy14VDR5YlBqSXZBdUMwRXFrcnc?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": true,
+ "was": {
+  "en": "Head of RL, Google DeepMind; Professor, UCL",
+  "zh": "Google DeepMind 强化学习负责人；UCL 教授"
+ },
+ "cat": "embodied",
+ "score": {
+  "total": 45.3,
+  "attention": 39,
+  "centrality": 46,
+  "momentum": 40,
+  "stature": 80,
+  "pageviews": 52977,
+  "citations": 166819,
+  "hIndex": 76,
+  "events": 10,
+  "posts": 24,
+  "wikiEn": "David Silver (computer scientist)",
+  "wikiZh": "戴維·西爾弗"
+ },
+ "seedRank": 76,
+ "tier": "t3"
+}

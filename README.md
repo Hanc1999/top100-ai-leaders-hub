@@ -4,7 +4,7 @@ An open, continuously-updated dataset of what the 100 people moving the AI
 frontier are actually publishing and what is being written about them.
 
 **Live site:** https://top100-ai-leaders.vercel.app
-**Updated:** hourly upstream, synced here daily. Last sync: 2026-09-20.
+**Updated:** hourly upstream, synced here daily. Data through 2026-09-20.
 
 Every item is bilingual (English / 简体中文), carries its source URL, and was
 individually judged before it entered the set — none of it is raw crawler

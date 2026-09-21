@@ -1,5 +1,5 @@
 {
- "rank": 48,
+ "rank": 43,
  "id": "noam-brown",
  "name": {
   "en": "Noam Brown",
@@ -1504,6 +1504,23 @@
  ],
  "news": [
   {
+   "date": "2026-09-20",
+   "ts": "2026-09-20T08:13:06Z",
+   "level": "notable",
+   "title": {
+    "en": "AI That Knows It's Being Tested — Noam Brown on Harder Alignment Evals",
+    "zh": "AI That Knows It's Being Tested — Noam Brown on Harder Alignment Evals"
+   },
+   "body": {
+    "en": "Brown discusses the problem of AI models recognizing when they are being evaluated, and argues for harder, more robust alignment evals.",
+    "zh": "布朗探讨了AI模型能够识别自身正被测试的问题，并主张设计更严格、更稳健的对齐评测。"
+   },
+   "source": "Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcHdQN3JrVmFsNnBzQkNfMDJma0toTXo3RFJRX2wyTlFwMjlublpRdml0ZUhrSU1hVndBZE93YnpVNmtvRVJUeTNFQV83dHE3ZFhVd0gxdnpUREdxTFNwazNXN0RNdjdsVlhnYkpXdEhBOTVKYjBxWmNxX3ZfVi0zakRwcndOaTJGNUxvcWZBWEd6cG82dW5ZemJHbllueTMyOHhzeg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-19",
    "ts": "2026-09-19T12:04:15Z",
    "level": "major",
@@ -1579,15 +1596,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 49.9,
+  "total": 53.1,
   "attention": null,
   "centrality": 68,
-  "momentum": 28,
+  "momentum": 35,
   "stature": null,
   "pageviews": 0,
   "citations": 2196,
   "hIndex": 19,
-  "events": 4,
+  "events": 5,
   "posts": 72,
   "wikiEn": "Noam Brown",
   "wikiZh": null

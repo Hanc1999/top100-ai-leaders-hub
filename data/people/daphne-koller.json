@@ -557,6 +557,25 @@
    "connector": "backfill"
   },
   {
+   "date": "2021-06-03",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Dr. Daphne Koller of insitro on Digital Biology and Drug Discovery",
+    "zh": "Dr. Daphne Koller of insitro on Digital Biology and Drug Discovery"
+   },
+   "source": "The AI Health Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/dr-daphne-koller-of-insitro-on-digital-biology-and/id1542731019?i=1000524080586&uo=4",
+   "note": {
+    "en": "Daphne Koller discusses insitro's use of machine learning for drug discovery and 'digital biology' on The AI Health Podcast.",
+    "zh": "Daphne Koller在The AI Health Podcast节目中讨论了insitro如何运用机器学习进行药物研发，即所谓的\"数字生物学\"。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2021-04-01",
    "ts": null,
    "kind": "x",
@@ -1311,7 +1330,7 @@
   "citations": 61723,
   "hIndex": 122,
   "events": 1,
-  "posts": 60,
+  "posts": 61,
   "wikiEn": "Daphne Koller",
   "wikiZh": "達芙妮·科勒"
  },

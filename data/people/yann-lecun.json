@@ -1,5 +1,5 @@
 {
- "rank": 10,
+ "rank": 9,
  "id": "yann-lecun",
  "name": {
   "en": "Yann LeCun",
@@ -1577,6 +1577,23 @@
    "judged": true
   },
   {
+   "date": "2026-06-22",
+   "ts": "2026-06-22T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "AI教父杨立昆：AI行业正面临“泡沫破裂”风险",
+    "zh": "AI教父杨立昆：AI行业正面临“泡沫破裂”风险"
+   },
+   "body": {
+    "en": "LeCun warned that the AI industry is facing the risk of a bubble bursting.",
+    "zh": "杨立昆警告AI行业正面临\"泡沫破裂\"的风险。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tNmZMZW85QktrcVkwMFFVVjdoaGwwUkNhdzdIOXd3Tmx1UWFwZ2JaUzdrS3BPcERRMUhMS3hmS2JuSjBDV3RyYjlVSTNkN2d5RlkzaXBBWktCNTdMeGQ0WWY5Tm40QURXbnN2ZkhSMkVjRU5UZW9B?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-06-18",
    "ts": null,
    "level": "notable",
@@ -1934,6 +1951,23 @@
    "judged": true
   },
   {
+   "date": "2026-02-07",
+   "ts": "2026-02-07T08:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Why Yann LeCun left Meta, and what it means for AI’s next frontier",
+    "zh": "Why Yann LeCun left Meta, and what it means for AI’s next frontier"
+   },
+   "body": {
+    "en": "An analysis of why LeCun left Meta to pursue his non-autoregressive vision for AI, and what his departure signals for the field's next direction.",
+    "zh": "分析了杨立昆为何离开Meta、转而追求其非自回归AI理念，以及这一离职对该领域下一步方向的意义。"
+   },
+   "source": "Medium",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS0U1QkQ3TGEtdmVHbjR4aS1uUmNCN0ROM0Z2aWMtU0IxR1hxdUtQaTRKN1BWTUh5eHdDb0FURG5udzZRR2EwU2hmVWtuM2VrX0phdk1nSkI4djZMV05VTDRLVjMtV0Q0dHRnX3lyZTB5a1VUWW0tS2NvY1V6T21QVHhLcWJKRl8yTFZ1YzhtNi0xWXhxdnQ4d2lpV1lZOWRmNmZsQndScW1aNlMyT0E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-01-26",
    "ts": "2026-01-26T04:45:48Z",
    "level": "notable",
@@ -2094,15 +2128,15 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 79.2,
+  "total": 79.5,
   "attention": 78,
   "centrality": 72,
-  "momentum": 84,
+  "momentum": 85,
   "stature": 95,
   "pageviews": 531264,
   "citations": 253869,
   "hIndex": 120,
-  "events": 51,
+  "events": 53,
   "posts": 57,
   "wikiEn": "Yann LeCun",
   "wikiZh": "杨立昆"

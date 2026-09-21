@@ -1167,6 +1167,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2023-08-27",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Mustafa Suleyman: Will AI save or destroy humanity?",
+    "zh": "Mustafa Suleyman: Will AI save or destroy humanity?"
+   },
+   "source": "The Rest Is Politics: Leading",
+   "url": "https://podcasts.apple.com/us/podcast/mustafa-suleyman-will-ai-save-or-destroy-humanity/id1665265193?i=1000625685186&uo=4",
+   "note": {
+    "en": "Suleyman appears on The Rest Is Politics: Leading to discuss whether AI will save or destroy humanity, drawing on his DeepMind and Inflection background.",
+    "zh": "Mustafa Suleyman做客The Rest Is Politics: Leading节目，结合其DeepMind和Inflection的经历，探讨AI究竟会拯救还是毁灭人类。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2018-09-12",
    "ts": null,
    "kind": "paper",
@@ -1308,6 +1327,23 @@
    },
    "source": "Storyboard18",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQTBqYlJ1VWZLU2Jad2d5WHlsQ2RYTE5ELU13ZGZROTR6aXVpWVFFLU40dTRCZGxoaURGcDlGNU11bVZQNVVhSE50X1pXQjUwV2lNZkNhVXllcnRycm1xQ3lOc1VJTHlpeTJWQjN1dzY2UWhCeURqbGk3VmtfTmxEYkRHeEJadm96Uy1kb1dVN21ycmNEUWdWMVpuM3JLQUdoQUxpSC1PLWwtYmVVakFjNnp0ZTZSdW9NZFNyQU5Id0pOMXU4S1VmMTZha1RyMnBsOFdJ0gHTAUFVX3lxTE1BMGpiUnVVZktTYlp3Z3lYeWxDZFhMTkQtTXdkZlE5NHppdWlZUUUtTjR1NEJkbGhpREZwOUY1TXVtVlA1VWFITnRfWldCNTBXaU1mQ2FVeWVydHJybXFDeU5zVUlMeWl5MlZCM3V3NjZRaEJ5RGpsaTdWa19ObERiREd4Qlp2b3pTLWRvV1U3bXJyY0RRZ1YxWm4zcktBR2hBTGlILU8tbC1iZVVqQWM2enRlNlJ1b01kU3JBTkh3Sk4xdThLVWYxNmFrVHIycGw4V0k?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-20",
+   "ts": "2026-09-20T14:26:57Z",
+   "level": "notable",
+   "title": {
+    "en": "OpenAI’s latest AI incident is a ‘pretty serious situation,’ says Microsoft’s Mustafa Suleyman",
+    "zh": "OpenAI’s latest AI incident is a ‘pretty serious situation,’ says Microsoft’s Mustafa Suleyman"
+   },
+   "body": {
+    "en": "Suleyman publicly called OpenAI's latest AI incident a 'pretty serious situation,' a rare on-record comment from a rival lab's CEO about a competitor's safety failure.",
+    "zh": "苏莱曼公开将OpenAI最新的AI事故称为\"相当严重的情况\"，这是竞争对手实验室CEO就对方安全事故发表的罕见公开评论。"
+   },
+   "source": "cnbctv18.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYVFRa1FLYVNyUTZPVzVSbFNCc1NTWkRrYjAyOUFhdHVIMGxXb1dERVRGUV9KM2E0dkhPQWI3NmxXMXNQR2dZMkVkOHNkZ21scmpnbWsxUjFOa0xQdmlXUTVybjY2OE5lMzZENFhKeEtEay0tb1k4NEctUzNwaEhKbjctbUVELWYxZElQM2lQN2NSUkJmNVRXTmVGVkZuUGZkNmZXWkREVUJoOE1URUFr0gG0AUFVX3lxTE1HYUplWFpDdkFidk9SQXVIaGYtR09DWGxVQm82b1A3LS1FY3dQeDZwR240MDlOM2o4RkRCcWFHOG5lcFd1VlpGMUFudEVlb1Q5dTJJOUhsSWZMZ0JyeGhJNXZXeE1nclltMlg4VU9WT2VoUEtZSzRhRVo2TGZKb25BUEhQY2VOZXVNVnVIcFdieHdUSHAyQXowNkluNTZWYk02d1VuSmkwZEZ6a3dyQjRLNW5CSA?oc=5",
    "auto": true,
    "judged": true
   },
@@ -1744,16 +1780,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 71.9,
+  "total": 72.1,
   "attention": 71,
   "centrality": 87,
-  "momentum": 76,
+  "momentum": 77,
   "stature": 29,
   "pageviews": 382768,
   "citations": 18255,
   "hIndex": 20,
-  "events": 28,
-  "posts": 61,
+  "events": 29,
+  "posts": 62,
   "wikiEn": "Mustafa Suleyman",
   "wikiZh": null
  },

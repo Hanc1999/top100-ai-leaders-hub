@@ -1,5 +1,5 @@
 {
- "rank": 78,
+ "rank": 77,
  "id": "jitendra-malik",
  "name": {
   "en": "Jitendra Malik",
@@ -175,6 +175,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-09-20",
+   "ts": "2026-09-20T16:26:23Z",
+   "kind": "x",
+   "title": {
+    "en": "3D/4D reconstruction is one of the great achievements of computer vision. With roots in photogrammetry, multi-view geometry was much studied (e.g. Hartley & Zis",
+    "zh": "3D/4D reconstruction is one of the great achievements of computer vision. With roots in photogrammetry, multi-view geometry was much studied (e.g. Hartley & Zis"
+   },
+   "source": "@jitendramalikcv",
+   "url": "https://x.com/JitendraMalikCV/status/2101709569521254715",
+   "note": {
+    "en": "Jitendra Malik argues 3D/4D reconstruction is one of computer vision's great achievements, tracing its lineage from photogrammetry and multi-view geometry to recent progress.",
+    "zh": "Jitendra Malik撰文指出3D/4D重建是计算机视觉的重大成就之一，并梳理了从摄影测量学、多视图几何到近期进展的发展脉络。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
   },
   {
    "date": "2026-09-19",
@@ -1564,25 +1583,6 @@
    "connector": "podcasts"
   },
   {
-   "date": "2023-07-18",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "We can now reconstruct 3D humans from single images (forthcoming, ICCV 2023). Model available to try on your images / videos at https://t.co/sGj6ZfMHvg",
-    "zh": "We can now reconstruct 3D humans from single images (forthcoming, ICCV 2023). Model available to try on your images / videos at https://t.co/sGj6ZfMHvg"
-   },
-   "source": "@JitendraMalikCV",
-   "url": "https://x.com/JitendraMalikCV/status/1681175664848949249",
-   "note": {
-    "en": "Malik's lab announced a model that reconstructs 3D humans from single images, forthcoming at ICCV 2023, with a public demo.",
-    "zh": "Malik实验室发布了一个能从单张图像重建3D人体的模型(将在ICCV 2023发表),并提供公开演示。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
    "date": "2023-03-24",
    "ts": null,
    "kind": "podcast",
@@ -1648,10 +1648,10 @@
  },
  "cat": "research",
  "score": {
-  "total": 29.8,
+  "total": 30.2,
   "attention": 21,
   "centrality": 14,
-  "momentum": 42,
+  "momentum": 44,
   "stature": 81,
   "pageviews": 12954,
   "citations": 168758,

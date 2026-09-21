@@ -1,5 +1,5 @@
 {
- "rank": 64,
+ "rank": 62,
  "id": "kaiming-he",
  "name": {
   "en": "Kaiming He",
@@ -820,6 +820,23 @@
    "judged": true
   },
   {
+   "date": "2026-05-15",
+   "ts": "2026-05-15T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "刚刚，何恺明团队新作，「嵌入式语言流」ELF来了",
+    "zh": "刚刚，何恺明团队新作，「嵌入式语言流」ELF来了"
+   },
+   "body": {
+    "en": "Kaiming He's team released 'ELF: Embedded Language Flows,' a continuous diffusion language model operating in embedding space, with Jacob Andreas and Yoon Kim's groups.",
+    "zh": "何恺明团队发布论文《ELF: Embedded Language Flows》，提出在嵌入空间中运行的连续扩散语言模型，与Jacob Andreas、Yoon Kim团队合作完成。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU21tWmRRX2NkRGM1SzNSUkUtd19FRklfTGM3S1JKT2JmTi1GbVBDN0lWa1doVF9wa0lQV2Z4SWFMUmo1Z3p1Q0tmMjBnMEZybEw0QzlpNWVnb01YQ1g1U2I5cC1RdVdhS1dOb2dNTkZ3cFBMQ2FtZ3hVbC1jX3dlN0lYRTY?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-05-13",
    "ts": null,
    "level": "notable",
@@ -997,15 +1014,15 @@
  },
  "cat": "research",
  "score": {
-  "total": 36.1,
+  "total": 37.2,
   "attention": 33,
   "centrality": 2,
-  "momentum": 53,
+  "momentum": 58,
   "stature": 100,
   "pageviews": 46828,
   "citations": 555963,
   "hIndex": 83,
-  "events": 17,
+  "events": 18,
   "posts": 28,
   "wikiEn": "Kaiming He",
   "wikiZh": "何恺明"

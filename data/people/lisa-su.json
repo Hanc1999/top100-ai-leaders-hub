@@ -1,5 +1,5 @@
 {
- "rank": 10,
+ "rank": 9,
  "id": "lisa-su",
  "name": {
   "en": "Lisa Su",
@@ -1598,6 +1598,23 @@
    "judged": true
   },
   {
+   "date": "2026-05-26",
+   "ts": "2026-05-26T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "黄仁勋、苏姿丰、陈立武都来！华人AI三巨头齐聚中国台湾抢产能",
+    "zh": "黄仁勋、苏姿丰、陈立武都来！华人AI三巨头齐聚中国台湾抢产能"
+   },
+   "body": {
+    "en": "Su joined Nvidia's Jensen Huang and Intel's Lip-Bu Tan in Taiwan as the three chip leaders competed for manufacturing capacity.",
+    "zh": "苏姿丰与英伟达的黄仁勋、英特尔的陈立武齐聚中国台湾，三位华人芯片业领袖同赴当地争夺代工产能。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5NanlvYWJLS3psTEN6ZlpiN2NNU2k2LUdBVHRYOE51NzctWndvdUlaWWRZTzlPSml0V2N6bFY3WUF3VFB3Y0Q0STU4Nmo?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-05-20",
    "ts": "2026-05-20T07:00:00Z",
    "level": "major",
@@ -1696,6 +1713,23 @@
    },
    "source": "finance.sina.com.cn",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtQlBtVVVrUFdTc1JjU0lzbm9pVEZESVZVQWJidGhjS2JaT1MzZF9kTlBqLUhDLWhpMVpYamRIUThLTmFUQkVhUm5ONDBYWmVNbTZjWVRnQ3JBZVhhajdQQWRUd1VxdHVkSURvOEdOV2xibzdJanZyaTh6X0Y1QzQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-19",
+   "ts": "2026-05-19T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "何立峰会见AMD CEO苏姿丰！",
+    "zh": "何立峰会见AMD CEO苏姿丰！"
+   },
+   "body": {
+    "en": "Chinese Vice Premier He Lifeng met with AMD CEO Lisa Su, a notable diplomatic engagement amid US-China tensions over AI chip exports.",
+    "zh": "中国国务院副总理何立峰会见AMD CEO苏姿丰，在中美AI芯片出口紧张局势下具有外交意义。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iVVNpSmdmTTV3eFZUOEp6UWEtTDFGeEc1Nks3MzZnMlR2R1JDNlUxem5aVUhyTU9hb0VDQXVCVy1udWpsX0hTOWF3M193c0hPbXlzUmF3?oc=5",
    "auto": true,
    "judged": true
   },
@@ -1800,6 +1834,23 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAydU9JUUNvLXliY1hTRVlieG1XM1RVZG4tU1hwZTVoZXFzMlA1QWVCOHh0UHdxRTQ0V1RsX0ZQdnlqeFFKOGw2REdmcGh0Ym1DTmJ3bkpWbWdYRUdDeXdocmhCeXc4WlAySHowcDY1SXo?oc=5",
    "auto": true,
    "judged": true
+  },
+  {
+   "date": "2026-01-06",
+   "ts": "2026-01-06T08:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "CES 2026首日激战：黄仁勋官宣下一代AI芯片全面投产，苏姿丰获OpenAI站台力证算力需求",
+    "zh": "CES 2026首日激战：黄仁勋官宣下一代AI芯片全面投产，苏姿丰获OpenAI站台力证算力需求"
+   },
+   "body": {
+    "en": "At CES 2026, Su appeared alongside OpenAI to validate demand for AMD's compute, as Huang announced next-gen AI chips entering full production.",
+    "zh": "在CES 2026上，苏姿丰与OpenAI同台，为AMD算力需求提供背书，同时黄仁勋宣布下一代AI芯片全面投产。"
+   },
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81eFhpTkxDTVZLZHd1WDJNa1FLclRJbGhXb0FfOWpZSVdlX3FGVFVaVjlBaDc4TFhNV2g5VVBqZzQ0ZlNIenV4N1NHYUZhV191ZWVVV3RVX0NvcWRoOUlZYQ?oc=5",
+   "auto": true,
+   "judged": true
   }
  ],
  "changed": false,
@@ -1809,15 +1860,15 @@
  },
  "cat": "platform",
  "score": {
-  "total": 79.3,
+  "total": 79.6,
   "attention": 88,
   "centrality": 72,
-  "momentum": 73,
+  "momentum": 74,
   "stature": null,
   "pageviews": 1032519,
   "citations": 236,
   "hIndex": 7,
-  "events": 31,
+  "events": 34,
   "posts": 62,
   "wikiEn": "Lisa Su",
   "wikiZh": "蘇姿丰"

@@ -149,6 +149,63 @@
    }
   },
   {
+   "date": "2026-09-21",
+   "ts": "2026-09-21T01:33:32Z",
+   "kind": "x",
+   "title": {
+    "en": "fun capital allocation game that muse made! could go by the alternate title: “price is right: warren buffett edition”",
+    "zh": "fun capital allocation game that muse made! could go by the alternate title: “price is right: warren buffett edition”"
+   },
+   "source": "@alexandr_wang",
+   "url": "https://x.com/alexandr_wang/status/2101847262775369760",
+   "note": {
+    "en": "Launch-day post previewing a Meta 'Muse' feature that turns capital allocation into a game.",
+    "zh": "发布当天的推文，预告Meta「Muse」的一项功能——把资本配置变成一个游戏。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-21",
+   "ts": "2026-09-21T01:18:25Z",
+   "kind": "x",
+   "title": {
+    "en": "muse will keep you accountable to your long term health!!!",
+    "zh": "muse will keep you accountable to your long term health!!!"
+   },
+   "source": "@alexandr_wang",
+   "url": "https://x.com/alexandr_wang/status/2101843460466819245",
+   "note": {
+    "en": "Launch-day post describing Meta's new 'Muse' app as a tool to keep users accountable to long-term health goals.",
+    "zh": "发布当天的推文，将Meta新推出的「Muse」应用描述为帮助用户坚持长期健康目标的工具。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-21",
+   "ts": "2026-09-21T17:46:05Z",
+   "kind": "x",
+   "title": {
+    "en": "we are excited for muse to be partnering deeply with @Shopify to enable agentic checkout with Shop Pay on all Shopify stores! we want to give our musers access",
+    "zh": "we are excited for muse to be partnering deeply with @Shopify to enable agentic checkout with Shop Pay on all Shopify stores! we want to give our musers access"
+   },
+   "source": "@alexandr_wang",
+   "url": "https://x.com/alexandr_wang/status/2102092011021217911",
+   "note": {
+    "en": "Wang announced that Meta's Muse AI assistant is partnering with Shopify to enable agentic checkout via Shop Pay across Shopify stores.",
+    "zh": "王透露Meta的Muse AI助手将与Shopify合作，通过Shop Pay在其所有店铺内实现代理式结账。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-09-20",
    "ts": "2026-09-20T01:58:49Z",
    "kind": "x",
@@ -1035,63 +1092,6 @@
    "note": {
     "en": "Wang highlighted Vals AI benchmarking showing Muse Spark 1.3 Max matching Claude Fable 5 and GPT-5.6 Sol at 4-8x lower cost, a specific performance/cost claim about a competing model.",
     "zh": "Wang转发Vals AI的评测结果，指出Muse Spark 1.3 Max性能媲美Claude Fable 5和GPT-5.6 Sol，成本却低4到8倍，这是对竞品性价比的具体评价。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
-   "date": "2026-09-04",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "1/ we just publicly released Muse Spark 1.3 max! we see significantly stronger coding and agentic performance on muse spark 1.3 max, so would strongly recommend",
-    "zh": "1/ we just publicly released Muse Spark 1.3 max! we see significantly stronger coding and agentic performance on muse spark 1.3 max, so would strongly recommend"
-   },
-   "source": "@alexandr_wang",
-   "url": "https://x.com/alexandr_wang/status/2095938990197329935",
-   "note": {
-    "en": "Announced the public release of Meta's Muse Spark 1.3 max, saying it shows notably stronger coding and agentic performance.",
-    "zh": "宣布Meta的Muse Spark 1.3 max公开发布，称其在编程和智能体任务上的表现明显更强。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
-   "date": "2026-09-04",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "make your own counterstrike for $1.75",
-    "zh": "make your own counterstrike for $1.75"
-   },
-   "source": "@alexandr_wang",
-   "url": "https://x.com/alexandr_wang/status/2095713324155732140",
-   "note": {
-    "en": "Claimed AI coding agents can now build a game like Counter-Strike for as little as $1.75, underscoring how cheap AI-assisted software development has become.",
-    "zh": "声称如今用AI编程智能体只需1.75美元就能做出一款类似《反恐精英》的游戏，凸显AI辅助软件开发成本已大幅降低。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
-   "date": "2026-09-04",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "updated artificial analysis index—muse spark 1.3 max still performs quite well! the efficient frontier is all Muse, Claude, and GPT",
-    "zh": "updated artificial analysis index—muse spark 1.3 max still performs quite well! the efficient frontier is all Muse, Claude, and GPT"
-   },
-   "source": "@alexandr_wang",
-   "url": "https://x.com/alexandr_wang/status/2096015031515373939",
-   "note": {
-    "en": "Wang highlighted Muse Spark 1.3 Max's strong showing on the Artificial Analysis leaderboard, placing it on the efficient frontier alongside Claude and GPT.",
-    "zh": "王指出Muse Spark 1.3 Max在Artificial Analysis排行榜上表现强劲，与Claude和GPT一同处于效率前沿。"
    },
    "auto": true,
    "judged": true,

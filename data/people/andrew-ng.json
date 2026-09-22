@@ -1,5 +1,5 @@
 {
- "rank": 23,
+ "rank": 24,
  "id": "andrew-ng",
  "name": {
   "en": "Andrew Ng",
@@ -48,6 +48,18 @@
    "kind": "blog",
    "label": "The Batch — Letters from Andrew Ng",
    "url": "https://www.deeplearning.ai/the-batch/tag/letters/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Personal site",
+   "url": "https://www.andrewng.org/writing/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Personal site",
+   "url": "https://www.deeplearning.ai/the-batch/tag/letters",
    "t": 1
   },
   {
@@ -199,6 +211,25 @@
     "en": "Argues recent tech-sector layoffs stem from pandemic-era overhiring, not automation.",
     "zh": "主张近期科技业裁员源于疫情期间的过度招聘，而非自动化。"
    }
+  },
+  {
+   "date": "2026-09-21",
+   "ts": "2026-09-21T20:59:03Z",
+   "kind": "x",
+   "title": {
+    "en": "The loudest voices stoking fears about AI dangers have made tremendous headway in the past two weeks. AI technology has not taken some unexpected, dangerous tur",
+    "zh": "The loudest voices stoking fears about AI dangers have made tremendous headway in the past two weeks. AI technology has not taken some unexpected, dangerous tur"
+   },
+   "source": "@andrewyng",
+   "url": "https://x.com/AndrewYNg/status/2102140576498065758",
+   "note": {
+    "en": "Ng pushed back on AI-doom narratives, arguing recent alarm reflects hype and lobbying rather than any real change in the technology.",
+    "zh": "吴恩达反驳“AI末日”论调，认为近期的恐慌源于炒作和游说，而非技术本身出现了意外的危险转向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
   },
   {
    "date": "2026-09-11",
@@ -3120,16 +3151,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 67.0,
+  "total": 66.6,
   "attention": 69,
   "centrality": 38,
-  "momentum": 92,
+  "momentum": 90,
   "stature": 76,
   "pageviews": 337525,
   "citations": 131102,
   "hIndex": 124,
   "events": 65,
-  "posts": 97,
+  "posts": 98,
   "wikiEn": "Andrew Ng",
   "wikiZh": "吴恩达"
  },

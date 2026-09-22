@@ -169,6 +169,25 @@
    }
   },
   {
+   "date": "2026-09-21",
+   "ts": "2026-09-21T20:12:01Z",
+   "kind": "x",
+   "title": {
+    "en": "Very encouraged to see so many countries coming together to call for mandatory pre-deployment testing & independent evaluation; global coordination on common st",
+    "zh": "Very encouraged to see so many countries coming together to call for mandatory pre-deployment testing & independent evaluation; global coordination on common st"
+   },
+   "source": "@yoshua_bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2102128736409694301",
+   "note": {
+    "en": "Bengio welcomed growing international agreement on mandatory pre-deployment testing, independent evaluation and common safety standards for AI.",
+    "zh": "本吉奥对多国就AI强制性部署前测试、独立评估及统一安全标准达成共识表示鼓舞。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-09-18",
    "ts": "2026-09-18T22:08:55Z",
    "kind": "x",
@@ -2574,6 +2593,40 @@
    "judged": true
   },
   {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T20:05:56Z",
+   "level": "major",
+   "title": {
+    "en": "‘We’re losing control,’ Canadian AI pioneer Yoshua Bengio warns",
+    "zh": "‘We’re losing control,’ Canadian AI pioneer Yoshua Bengio warns"
+   },
+   "body": {
+    "en": "Bengio warned publicly that 'we're losing control' of AI development.",
+    "zh": "Bengio公开警告称人类正在“失去对AI的控制”。"
+   },
+   "source": "vancouverisland.ctvnews.ca",
+   "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPSWZsODJYSVpoUC1BNnhwb2dwcWRZWnJ2WE5ZX3ppNGNnckRqZ2swTlhBNnctVk53RjhHTGZtcEcwTkRxYlYxbVp4ZFhEaG42bUg1NmhXMFBLVV9RbEdqeG1QVEQ2SzVRLVJqT1ZFT3FuUzFiakZHellmT2Z3WEwtWnc0aURrYV9uSlVNbUNfZWhwb2V2UzNYd0hLazN6bG1RRUhPVDBzRXlmaFg3S2hxSkdxVEJTajRIbEE0TlZLNkxoTWhaVmVOcm83OWZEaTB1bnNqamEwUDRVdlM1ZEpzM0d2Y0hfa2UtR1huQ1RfY1JKVnROaEJNVVN6TWNaU1M5T09ndFV5RFJVUkxlOXJLc3JVY1U3WFRlbm9BMmVvOTlNV016RGM4d3pNVUcxalRFZG44SGVBTTBZb3BhbXl3di1XZ3BpR0dCYnVzbDhXZzc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T19:40:20Z",
+   "level": "notable",
+   "title": {
+    "en": "'We're losing control,' AI pioneer Yoshua Bengio tells AFP",
+    "zh": "'We're losing control,' AI pioneer Yoshua Bengio tells AFP"
+   },
+   "body": {
+    "en": "Bengio told AFP 'we're losing control' of AI development, a stark public warning from one of the field's most prominent safety voices.",
+    "zh": "本吉奥在接受法新社采访时表示\"我们正在失去对AI的控制\"，这是这位AI安全领域最具影响力的声音之一发出的严厉公开警告。"
+   },
+   "source": "afp.com",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FcGRZRGpfVGNqODV5akpsb2t5alhPaVNVMXV0WWIzRnR5a3dsMGFzUzBWTnRVZzY3SjhvN01pNEpBZjJZbjRnaHBNVQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-07",
    "ts": null,
    "level": "major",
@@ -2700,16 +2753,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 63.8,
+  "total": 64.0,
   "attention": 67,
   "centrality": 30,
-  "momentum": 83,
+  "momentum": 84,
   "stature": 98,
   "pageviews": 276660,
   "citations": 475043,
   "hIndex": 184,
-  "events": 28,
-  "posts": 109,
+  "events": 30,
+  "posts": 110,
   "wikiEn": "Yoshua Bengio",
   "wikiZh": "约书亚·本希奥"
  },

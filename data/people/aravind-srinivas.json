@@ -963,6 +963,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2023-03-14",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "In Search of Truth with Aravind Srinivas of Perplexity AI",
+    "zh": "In Search of Truth with Aravind Srinivas of Perplexity AI"
+   },
+   "source": "\"The Cognitive Revolution\" | AI Builde…",
+   "url": "https://podcasts.apple.com/us/podcast/in-search-of-truth-with-aravind-srinivas-of-perplexity-ai/id1669813431?i=1000604158115&uo=4",
+   "note": {
+    "en": "Aravind Srinivas discusses competing with Big Tech and Perplexity's product philosophy on \"The Cognitive Revolution\" podcast.",
+    "zh": "Aravind Srinivas在播客《The Cognitive Revolution》中谈论与科技巨头的竞争以及Perplexity的产品理念。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2021-12-06",
    "ts": null,
    "kind": "paper",
@@ -1490,7 +1509,7 @@
   "citations": 2909,
   "hIndex": 15,
   "events": 7,
-  "posts": 65,
+  "posts": 66,
   "wikiEn": null,
   "wikiZh": null
  },

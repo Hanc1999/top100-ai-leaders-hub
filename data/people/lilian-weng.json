@@ -1,5 +1,5 @@
 {
- "rank": 27,
+ "rank": 26,
  "id": "lilian-weng",
  "name": {
   "en": "Lilian Weng",
@@ -1806,6 +1806,23 @@
    "judged": true
   },
   {
+   "date": "2026-07-30",
+   "ts": "2026-07-30T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "北大才女翁荔，又杀回OpenAI，刚从创业公司裸辞2天",
+    "zh": "北大才女翁荔，又杀回OpenAI，刚从创业公司裸辞2天"
+   },
+   "body": {
+    "en": "Lilian Weng returned to OpenAI just two days after resigning from her startup, reversing her earlier departure.",
+    "zh": "翁荔从创业公司裸辞仅两天后即重返OpenAI，逆转了此前的离职决定。"
+   },
+   "source": "t.cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtVjRWQkdiT1NUNDhvaHl0T1kxTmFQXzJURjRRTjRQU3B5QW1mUVZIMDZFakN6ckYyWFNreW82QU1aVXpJRkNOTUIzZjdpRldEYVQ1STIxM1pTQ0xxaUxHYl8xSnJjRmZUaFVGQWg4R2x5QQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-07-29",
    "ts": null,
    "level": "major",
@@ -2112,6 +2129,23 @@
    "judged": true
   },
   {
+   "date": "2026-07-28",
+   "ts": "2026-07-28T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "突发！因身体透支，翁荔官宣离开Thinking Machines Lab",
+    "zh": "突发！因身体透支，翁荔官宣离开Thinking Machines Lab"
+   },
+   "body": {
+    "en": "Lilian Weng announced she is leaving Thinking Machines Lab, citing physical exhaustion.",
+    "zh": "翁荔宣布因身体透支离开Thinking Machines Lab。"
+   },
+   "source": "tech.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Nc0xKMVVwMm5iNHdCdlZTcFMyaktzZHNqUnVDejdnZFJzRWlna0UxVFozYVFWbzFVU2k3R3ZzTU1rdkRIVkE5SnNVZk1HUlREbU1kMWJvZkFhX1JsVlNZWHdYSF9mNU1hU0VQSG5GbTJzOWpQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-07-15",
    "ts": null,
    "level": "notable",
@@ -2316,6 +2350,23 @@
    "judged": true
   },
   {
+   "date": "2026-05-12",
+   "ts": "2026-05-12T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "刚刚，Thinking Machines出手！首款交互模型来了，翁荔出镜实测_手机新浪网",
+    "zh": "刚刚，Thinking Machines出手！首款交互模型来了，翁荔出镜实测_手机新浪网"
+   },
+   "body": {
+    "en": "Lilian Weng appeared on camera to demo Thinking Machines Lab's first interactive model at its launch.",
+    "zh": "翁荔在Thinking Machines Lab首款交互模型发布时出镜实测演示。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS05abW5DcTFsWENCckJRX00tclFnQWlvYVhFeFk0NFkxR0VGVkRnUVI4MDhYczFwY0R5MFNtWkRaN1ZiOU43X0hELXJmdnV1eHlpOWVIYkIydWVpYmczcWxFTXBlUk92amxjLUI1cF9YanB5ZThiTmsyUUl3VVBCazFqNmY5WW8?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-03-11",
    "ts": "2026-03-11T07:00:00Z",
    "level": "major",
@@ -2374,15 +2425,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 64.5,
+  "total": 65.0,
   "attention": null,
   "centrality": 46,
-  "momentum": 86,
+  "momentum": 87,
   "stature": null,
   "pageviews": 0,
   "citations": 3937,
   "hIndex": 16,
-  "events": 47,
+  "events": 50,
   "posts": 73,
   "wikiEn": "Lilian Weng",
   "wikiZh": null

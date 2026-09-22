@@ -886,6 +886,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2023-04-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Nando de Freitas of DeepMind: generalizable AI to benefit everyone",
+    "zh": "Nando de Freitas of DeepMind: generalizable AI to benefit everyone"
+   },
+   "source": "The Robot Brains Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/nando-de-freitas-of-deepmind-generalizable-ai/id1559275284?i=1000610697691&uo=4",
+   "note": {
+    "en": "Abbeel hosts The Robot Brains Podcast and interviews DeepMind's Nando de Freitas about generalizable AI.",
+    "zh": "阿贝尔主持《Robot Brains》播客，本期采访DeepMind的Nando de Freitas，探讨通用人工智能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2023-03-15",
    "ts": null,
    "kind": "x",
@@ -1125,7 +1144,7 @@
   "citations": 79473,
   "hIndex": 123,
   "events": 2,
-  "posts": 49,
+  "posts": 50,
   "wikiEn": "Pieter Abbeel",
   "wikiZh": "彼得·阿比爾"
  },

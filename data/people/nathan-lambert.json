@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-09-21",
+   "ts": "2026-09-21T11:56:56Z",
+   "kind": "blog",
+   "title": {
+    "en": "The current balance of power in open models",
+    "zh": "The current balance of power in open models"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+   "note": {
+    "en": "Lambert expanded his Congressional testimony into an essay laying out the current balance of power among open-model labs.",
+    "zh": "Lambert将其国会证词扩展为一篇文章，阐述了当前开源模型实验室之间的力量格局。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
    "date": "2026-09-19",
    "ts": "2026-09-19T15:42:20Z",
    "kind": "blog",
@@ -1403,16 +1422,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 17.0,
+  "total": 17.2,
   "attention": 8,
   "centrality": 6,
-  "momentum": 46,
+  "momentum": 47,
   "stature": null,
   "pageviews": 2796,
   "citations": 720,
   "hIndex": 13,
   "events": 1,
-  "posts": 65,
+  "posts": 66,
   "wikiEn": "Nathan Lambert",
   "wikiZh": null
  },

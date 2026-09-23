@@ -1,5 +1,5 @@
 {
- "rank": 30,
+ "rank": 27,
  "id": "andrej-karpathy",
  "name": {
   "en": "Andrej Karpathy",
@@ -1103,6 +1103,40 @@
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeS1ka0hkQklLTnZJVU9RVDY5bW91RWtWSEdHWHNwY3FCRklJS1lvQXhiUFcxbndFYXBEOG5YYWhQWFFyb0dLN2NBd1EzYXF3ZUZNUHFxMi1XTC15YlFudUkyR1lHaEdJaVpWMEU3dnY4NnlhcHRUVmdsZ1FNblR1YzVzZUZteDN6TVhkVVE0SklZSHBCcW84QnFNNWVxSWtVZVZsWEpuc0MwZV9Za1dSMUJ5c0VaRTZzbVUzNVYtblYxb3BwLTV0aENubmg5YnI4VWhicw?oc=5",
    "auto": true,
    "judged": true
+  },
+  {
+   "date": "2026-05-19",
+   "ts": "2026-05-19T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Andrej Karpathy joins Anthropic to lead pretraining research | Ukraine news - Межа. Новини України.",
+    "zh": "Andrej Karpathy joins Anthropic to lead pretraining research | Ukraine news - Межа. Новини України."
+   },
+   "body": {
+    "en": "News confirms Karpathy joined Anthropic to lead pretraining research, the move that put him in his current role.",
+    "zh": "报道证实Karpathy加入Anthropic负责预训练研究，这正是他目前职位的由来。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GYzRhQnA4c255N2dDeEJnVDJQYmVnWTl1YWhtUVQzenVqUG53LUtaLTZiYVhfSm5nWWhvLW9NQmpZeUFMNjNtUXhBZVpWNU9BMFVHVlVqNjM2Slp4c1NRam9kMVhRWElpTHc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-04-30",
+   "ts": "2026-04-30T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "“Vibe Coding” Creator Andrej Karpathy Says AI-Generated Code Is “Awkward” and “Gross”",
+    "zh": "“Vibe Coding” Creator Andrej Karpathy Says AI-Generated Code Is “Awkward” and “Gross”"
+   },
+   "body": {
+    "en": "Karpathy, who coined the term \"vibe coding,\" publicly criticized AI-generated code as \"awkward\" and \"gross,\" a notable self-critical stance from the industry's leading advocate of the practice.",
+    "zh": "提出\"vibe coding\"一词的Karpathy公开批评AI生成的代码\"别扭\"\"糟糕\"，这是这一理念最主要倡导者的一次值得关注的自我批评。"
+   },
+   "source": "Techloy",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa0t2RnN2R1pqTk11OVRhQzQ5T3drWXNudGp1Zm54cjlOcnEtMzZTR1JZLXA2S0g3R3hnYXp1YTBERmk0NkRfVUQ4UXdNWDg3OF9DZjExYkpUMWtCTHNhUlFFamdKeTVKUTZlUmpzUkJFTHBTNEJLdG1haGltd21Vek1Xbjl4cVhzUXhybTZTRDFNb1RRU1lfeUc5bm9hWWhJanRPMG0tMA?oc=5",
+   "auto": true,
+   "judged": true
   }
  ],
  "changed": true,
@@ -1112,15 +1146,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 62.9,
+  "total": 64.5,
   "attention": 79,
   "centrality": 46,
-  "momentum": 52,
+  "momentum": 59,
   "stature": 63,
   "pageviews": 695645,
   "citations": 58963,
   "hIndex": 20,
-  "events": 12,
+  "events": 14,
   "posts": 39,
   "wikiEn": "Andrej Karpathy",
   "wikiZh": "安德烈·卡帕西"

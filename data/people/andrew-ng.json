@@ -1,5 +1,5 @@
 {
- "rank": 24,
+ "rank": 23,
  "id": "andrew-ng",
  "name": {
   "en": "Andrew Ng",
@@ -3127,6 +3127,23 @@
    "judged": true
   },
   {
+   "date": "2026-01-16",
+   "ts": "2026-01-16T08:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "吴恩达开新课教OCR！用Agent搞定文档提取",
+    "zh": "吴恩达开新课教OCR！用Agent搞定文档提取"
+   },
+   "body": {
+    "en": "Andrew Ng launched a new course teaching how to use AI agents for OCR and document extraction.",
+    "zh": "吴恩达推出新课程，教授如何用AI Agent完成OCR与文档信息提取。"
+   },
+   "source": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5UVDA3MHlLVmRRU3BITnYwWW5VZy1KTmdDZmdqdmNoVGEwS0RPZk53al9YS0tpanlJMVJDZF9PMVR5SFRLaGg4SA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-01-07",
    "ts": "2026-01-07T08:00:00Z",
    "level": "notable",
@@ -3159,7 +3176,7 @@
   "pageviews": 337525,
   "citations": 131102,
   "hIndex": 124,
-  "events": 65,
+  "events": 66,
   "posts": 98,
   "wikiEn": "Andrew Ng",
   "wikiZh": "吴恩达"

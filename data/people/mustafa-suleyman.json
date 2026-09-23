@@ -160,6 +160,25 @@
    "connector": null
   },
   {
+   "date": "2026-09-20",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Microsoft AI CEO on Growing Concern Over Industry Safety",
+    "zh": "Microsoft AI CEO on Growing Concern Over Industry Safety"
+   },
+   "source": "Fareed Zakaria GPS",
+   "url": "https://podcasts.apple.com/us/podcast/microsoft-ai-ceo-on-growing-concern-over-industry-safety/id377785090?i=1000790811234&uo=4",
+   "note": {
+    "en": "Suleyman spoke with Fareed Zakaria about growing safety concerns roiling the AI industry and whether AI should be regulated.",
+    "zh": "Suleyman与Fareed Zakaria探讨了AI行业日益增长的安全担忧，以及AI是否应受到监管。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-09-15",
    "ts": "2026-09-15T14:45:45Z",
    "kind": "x",
@@ -1893,7 +1912,7 @@
   "citations": 18255,
   "hIndex": 20,
   "events": 34,
-  "posts": 63,
+  "posts": 64,
   "wikiEn": "Mustafa Suleyman",
   "wikiZh": null
  },

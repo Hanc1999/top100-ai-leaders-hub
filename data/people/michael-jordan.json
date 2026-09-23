@@ -474,6 +474,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2026-04-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "UniGuide: Learning Guidance Policies for Multi-Objective Diffusion Sampling",
+    "zh": "UniGuide: Learning Guidance Policies for Multi-Objective Diffusion Sampling"
+   },
+   "source": "HAL (Le Centre pour la Communication S…",
+   "url": "https://hal.science/hal-05755677",
+   "note": {
+    "en": "Co-authored 'UniGuide,' a paper on learning guidance policies for multi-objective diffusion sampling, published via HAL/Inria.",
+    "zh": "合著论文《UniGuide》，研究面向多目标扩散采样的引导策略学习，发表于HAL/Inria平台。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-04-06",
    "ts": null,
    "kind": "podcast",
@@ -805,7 +824,7 @@
   "citations": 181936,
   "hIndex": 163,
   "events": 2,
-  "posts": 32,
+  "posts": 33,
   "wikiEn": "Michael I. Jordan",
   "wikiZh": "迈克尔·乔丹 (学者)"
  },

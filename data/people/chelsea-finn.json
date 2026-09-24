@@ -177,6 +177,44 @@
    }
   },
   {
+   "date": "2026-09-23",
+   "ts": "2026-09-23T16:57:55Z",
+   "kind": "x",
+   "title": {
+    "en": "RL for dynamic tasks requires handling latency. Building on EXPO-FT, we let the base VLA operate on older images while a small edit policy operates in real time",
+    "zh": "RL for dynamic tasks requires handling latency. Building on EXPO-FT, we let the base VLA operate on older images while a small edit policy operates in real time"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2102804667197698532",
+   "note": {
+    "en": "Finn describes new work building on EXPO-FT that lets a VLA operate on stale image frames while a lightweight real-time edit policy compensates for latency, outperforming RTC on dynamic RL tasks.",
+    "zh": "Finn介绍了基于EXPO-FT的新工作：让VLA基础模型在稍旧的图像帧上运行，同时由一个轻量级实时编辑策略进行延迟补偿，在动态RL任务上的表现超过了RTC。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-23",
+   "ts": "2026-09-23T17:05:54Z",
+   "kind": "x",
+   "title": {
+    "en": "New blog post with @perryadong on what we need for robots to be broadly useful in the real world. https://t.co/jxsNeMUhFg Reliability is the one of the biggest",
+    "zh": "New blog post with @perryadong on what we need for robots to be broadly useful in the real world. https://t.co/jxsNeMUhFg Reliability is the one of the biggest"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2102806677074641001",
+   "note": {
+    "en": "Finn announces a new blog post co-authored with Physical Intelligence's Perry Dong arguing that reliability is one of the biggest open challenges to making robot policies broadly useful in the real world.",
+    "zh": "Finn宣布与Physical Intelligence的Perry Dong合作发表新博文，指出可靠性是让机器人策略在真实世界中广泛可用所面临的最大公开挑战之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-09-15",
    "ts": "2026-09-15T01:18:56Z",
    "kind": "x",
@@ -1716,44 +1754,6 @@
    "connector": null
   },
   {
-   "date": "2025-01-16",
-   "ts": "2025-01-16T19:16:08Z",
-   "kind": "x",
-   "title": {
-    "en": "New way to predict robot actions! 🤖 Frequency-space action tokenizer (FAST) enables LLM-like token prediction for dexterous robot actions When we train on the D",
-    "zh": "New way to predict robot actions! 🤖 Frequency-space action tokenizer (FAST) enables LLM-like token prediction for dexterous robot actions When we train on the D"
-   },
-   "source": "@chelseabfinn",
-   "url": "https://x.com/chelseabfinn/status/1879970912063353089",
-   "note": {
-    "en": "Finn introduces FAST, a frequency-space action tokenizer that enables LLM-style token prediction for dexterous robot actions.",
-    "zh": "Finn 推出 FAST，一种频域动作分词器，可实现类似 LLM 的方式来预测灵巧机器人动作。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2024-10-31",
-   "ts": "2024-10-31T17:41:58Z",
-   "kind": "x",
-   "title": {
-    "en": "Very happy to start sharing our work at Pi 🤖❤️ - a 3B pre-trained generalist model trained on 8+ robot platforms - a post-training recipe that allows robots to",
-    "zh": "Very happy to start sharing our work at Pi 🤖❤️ - a 3B pre-trained generalist model trained on 8+ robot platforms - a post-training recipe that allows robots to"
-   },
-   "source": "@chelseabfinn",
-   "url": "https://x.com/chelseabfinn/status/1852043351366996449",
-   "note": {
-    "en": "Physical Intelligence shares its first public work: a 3B-parameter generalist robot model trained across 8+ platforms with a post-training recipe for dexterous, long-horizon tasks.",
-    "zh": "Physical Intelligence 分享了其首个公开成果：一个30亿参数的通用机器人模型，训练自8个以上机器人平台，并配有支持灵巧长时程任务的后训练方案。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2023-03-22",
    "ts": null,
    "kind": "podcast",
@@ -1785,6 +1785,25 @@
    "note": {
     "en": "Stanford's Future of Everything interview on meta-learning — teaching models to learn new tasks from very little data.",
     "zh": "斯坦福 Future of Everything 节目关于元学习的访谈——让模型学会用极少的数据掌握新任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2019-07-16",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Episode 19 - Chelsea Finn",
+    "zh": "Episode 19 - Chelsea Finn"
+   },
+   "source": "Eye On A.I.",
+   "url": "https://podcasts.apple.com/us/podcast/episode-19-chelsea-finn/id1438378439?i=1000444683370&uo=4",
+   "note": {
+    "en": "Finn appears as the guest on Eye on A.I. episode 19, discussing her path into robotics research and her work in meta-learning.",
+    "zh": "Finn作为嘉宾出现在Eye on A.I.播客第19期，讲述她进入机器人研究领域的历程及元学习方面的工作。"
    },
    "auto": true,
    "judged": true,
@@ -1827,7 +1846,7 @@
   "citations": 26696,
   "hIndex": 64,
   "events": 1,
-  "posts": 87,
+  "posts": 88,
   "wikiEn": "Chelsea Finn",
   "wikiZh": null
  },

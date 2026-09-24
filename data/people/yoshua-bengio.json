@@ -169,6 +169,25 @@
    }
   },
   {
+   "date": "2026-09-23",
+   "ts": "2026-09-23T20:12:08Z",
+   "kind": "x",
+   "title": {
+    "en": "I was invited to address the @UN Security Council this afternoon to discuss the unprecedented threat posed by uncontrolled frontier AI agents. Humanity has summ",
+    "zh": "I was invited to address the @UN Security Council this afternoon to discuss the unprecedented threat posed by uncontrolled frontier AI agents. Humanity has summ"
+   },
+   "source": "@yoshua_bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2102853542348501322",
+   "note": {
+    "en": "Bengio posted from the UN Security Council session, warning that uncontrolled frontier AI agents pose an unprecedented threat and calling for humanity to summon the courage to manage the risk.",
+    "zh": "本吉奥在联合国安理会会议上发文，警告失控的前沿AI智能体构成前所未有的威胁，呼吁人类拿出勇气与智慧加以应对。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-09-22",
    "ts": "2026-09-22T12:37:39Z",
    "kind": "x",
@@ -680,6 +699,25 @@
    "judged": true,
    "platform": "x",
    "connector": "backfill"
+  },
+  {
+   "date": "2026-07-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Insuring AI: Incentivising Safe and Secure Deployment",
+    "zh": "Insuring AI: Incentivising Safe and Secure Deployment"
+   },
+   "source": "Harvard Data Science Review",
+   "url": "https://doi.org/10.1162/99608f92.bd811034",
+   "note": {
+    "en": "A paper on insuring AI systems as a mechanism to incentivize safe and secure deployment, extending Bengio's work on AI governance instruments.",
+    "zh": "一篇探讨以AI保险机制激励安全部署的论文，延续了本吉奥在AI治理工具方面的研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2026-07-16",
@@ -1727,6 +1765,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2026-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Behavioural Red Lines as a Safety Framework for Intolerable Levels of Risk",
+    "zh": "Behavioural Red Lines as a Safety Framework for Intolerable Levels of Risk"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.1007/978-3-032-11814-1_1",
+   "note": {
+    "en": "A paper proposing behavioural red lines as a safety framework for AI systems that pose intolerable levels of risk.",
+    "zh": "一篇提出以行为红线作为应对AI系统不可容忍风险等级安全框架的论文。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2025-12-26",
    "ts": null,
    "kind": "paper",
@@ -2289,6 +2346,91 @@
    "url": "https://www.euronews.com/next/2025/06/04/godfather-of-ai-yoshua-bengio-launches-non-profit-to-make-ai-safer-and-more-trustworthy"
   },
   {
+   "date": "2026-09-23",
+   "ts": "2026-09-23T18:39:47Z",
+   "level": "major",
+   "title": {
+    "en": "Canada joins calls for stronger oversight of AI as Yoshua Bengio addresses UN council",
+    "zh": "Canada joins calls for stronger oversight of AI as Yoshua Bengio addresses UN council"
+   },
+   "body": {
+    "en": "Addressed the UN Security Council on AI oversight, with Canada echoing calls for stronger international regulation.",
+    "zh": "在联合国安理会就AI监管问题发表讲话，加拿大呼应了加强国际监管的呼吁。"
+   },
+   "source": "CP24",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSkMwTUNmZGFMREFiZUR2QTdyaDJvMEZ3c1Fwc1p0SkFtU3k5VWI3UzhuemNNekxVYWVEYzR5dXNoTTFiWEQ0Y19fMUZHN0xvSHJwazFidHkxNldpN191WEdPOThRQ25tWGt6TDctUTFKd25jeWRMdk93ZkxWVUxxRWJfMXNDOWdfTkRGTURpekdYQU9INkNjRDNVYTFNUTN5b1pIUXY4cTJibU5YX1ZkYUc5NXhhWmdZcF9qRTJYOGVIM2dFb2I4S3BR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-23",
+   "ts": "2026-09-23T19:29:52Z",
+   "level": "major",
+   "title": {
+    "en": "AI pioneer Yoshua Bengio addresses the UN",
+    "zh": "AI pioneer Yoshua Bengio addresses the UN"
+   },
+   "body": {
+    "en": "Bengio addressed the UN on AI risk, extending his role steering the International AI Safety Report into direct global-governance engagement.",
+    "zh": "本吉奥在联合国就AI风险发表讲话，延续了他在《国际AI安全报告》中推动全球治理的角色。"
+   },
+   "source": "CTV News",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZnBXTWxKMXdLXzFFZ0JyWkQ1ZlVYVGhWZHpFOEFQMnJ6ZmJrZGdhX0VrMXUtZW5zSmZsaTB5NnZKU0tYY1hEWE41LXZMcmlXNnFFSkM2NVZZNVJkdDJkbWNhYXFoQnJkU0NLV3dxVThvbDJlS2ZNRjFkclVXV0ItSmI1VVlmYWJPSkE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-23",
+   "ts": "2026-09-23T20:33:28Z",
+   "level": "notable",
+   "title": {
+    "en": "AI’s dangers ‘real and imminent,’ Canadian AI pioneer Yoshua Bengio tells UN",
+    "zh": "AI’s dangers ‘real and imminent,’ Canadian AI pioneer Yoshua Bengio tells UN"
+   },
+   "body": {
+    "en": "CTV News reported Bengio telling the UN that AI's dangers are 'real and imminent,' amplifying his Security Council warning to a wider audience.",
+    "zh": "CTV新闻报道本吉奥在联合国表示AI的危险\"真实且迫在眉睫\"，将他在安理会的警告传递给更广泛的受众。"
+   },
+   "source": "CTV News",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORkNNNG03VGdXR1gweDNlRWZjclVhODNoajhQS01BOHRlZ2J0NjdhYUlGNVp4REp2NTZqOTd6NGx3WGQ2Z0J5R0ZrR3hOelFzN0FfYXVjR1RPUTltcXpLcnBuV1ZBdFhnc1pCMFpiVTREdnhOemxEMkxSQl8yUl9KZk8wYmlaNHEyckhMVkI1aE1VRmJNcWFzejBNRHJGMmFZWVNldFFxNk9VMUp3N0Y3VmpRNA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-23",
+   "ts": "2026-09-23T21:27:12Z",
+   "level": "major",
+   "title": {
+    "en": "‘An Urgent Mission for Humanity’: Yoshua Bengio Briefs the UNSC on AI Security",
+    "zh": "‘An Urgent Mission for Humanity’: Yoshua Bengio Briefs the UNSC on AI Security"
+   },
+   "body": {
+    "en": "Bengio briefed the UN Security Council on AI security risks, calling it an urgent mission for humanity — a high-profile extension of his role chairing the International AI Safety Report.",
+    "zh": "Bengio向联合国安理会通报人工智能安全风险，称其为'人类的紧急使命'，这是他作为国际AI安全报告主席角色的一次高规格延伸。"
+   },
+   "source": "Policy Magazine",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc05UZHlESUFWVGZhNmlTNzhISE4yMERvTUljNDJ1dzkwMHZvSFdCbHhiVDZjNk9odGVlczNQbzJiWnVnTFZEbG4tRDJTbm9MZUNTUGlVTS1Oby1qek9rT0dZV3lnVkJYT2kxTGVramZzMGFtOVg1cy00ZTNkdFltQTQ5XzE1dFJzYm42MmVzWmRPRFpydGlYX24wZFRwWktxcEZrUW1xakI4QQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-23",
+   "ts": "2026-09-23T16:22:37Z",
+   "level": "major",
+   "title": {
+    "en": "AI’s dangers ‘real and imminent,’ Canadian AI pioneer Yoshua Bengio tells UN",
+    "zh": "AI’s dangers ‘real and imminent,’ Canadian AI pioneer Yoshua Bengio tells UN"
+   },
+   "body": {
+    "en": "Bengio told the UN that AI's dangers are 'real and imminent,' part of the same push for global AI safety standards as Altman and Amodei's address.",
+    "zh": "本吉奥在联合国表示AI的危险“真实且迫在眉睫”，与奥特曼、阿莫代伊呼吁全球AI安全标准的发声相呼应。"
+   },
+   "source": "Toronto Star",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaHdnQjQ5X0JSXy10OGUxYUVYMDZKTzVZUlA5bDJwbTdtOVpxTjVPVHBoLXJ5ZVd3NllBbGtJNWRSMlhGeEhrTlVTTGxidjg5OGRFbC0zdjVJalg0cjBMRl9xeGFZdUhDRWFmMlVYVGc4UHVOVlJ0b1J0MzVKbmR6bURKUzNESnJkbG9xbU5ZbjMyelZ6WEh4WUU4bFhiMHRSXy1yeWt5RDBaNkdpZmxtUEk0Qk55bzB0UnlXclVJUnVNUmlWdDFZVTk4a2tCREZNNHNvMFdhc0tkSUREeEpjM2VPR3B6V2k5RFE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-18",
    "ts": "2026-09-18T15:52:00Z",
    "level": "major",
@@ -2421,6 +2563,23 @@
    },
    "source": "inkl",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbGpvTjNubVB2c0FfS0VVejFjdkg0Sld3a29YZko4cDJBbVktWm1RdUNBQ2RfRVl6QU5Kc3R0WXJ6OHpwVzhNY3RBQ1c3bDZTWHNaaWhsY05peHlINHl6bE9FbG9SaXJKMFFYMW9xTC1oV0ZJSnVBNF9yaW5RVzNsbA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T02:22:00Z",
+   "level": "notable",
+   "title": {
+    "en": "‘We’re losing control,’ AI pioneer Yoshua Bengio tells AFP",
+    "zh": "‘We’re losing control,’ AI pioneer Yoshua Bengio tells AFP"
+   },
+   "body": {
+    "en": "In an AFP interview, Bengio warned 'we're losing control' of AI, continuing his public alarm campaign on safety.",
+    "zh": "本吉奥在接受法新社采访时警告人类“正在失去对AI的控制”，延续了他在AI安全问题上的公开呼吁。"
+   },
+   "source": "The Sun Malaysia",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaGZKYkNlLTBpdlZzMWZuQU1IbWhobjR3dmlyU0NJWmRWOGdmTk5CejZWeTFLNWVCc3M3WFZFSC1xdjNRNWtuWWU1MENxU1ZzOUVhcW5BM1JCTFR1ZnpmU25abFEyRWR3SGFmeTBKQVdibllHYzRPQkNNRURFZHpJOFBFYmgzVjk3a3JwRzROMWFLZ2s?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2789,16 +2948,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 64.0,
+  "total": 64.2,
   "attention": 67,
   "centrality": 30,
-  "momentum": 84,
+  "momentum": 85,
   "stature": 98,
   "pageviews": 276660,
   "citations": 475043,
   "hIndex": 184,
-  "events": 31,
-  "posts": 111,
+  "events": 37,
+  "posts": 114,
   "wikiEn": "Yoshua Bengio",
   "wikiZh": "约书亚·本希奥"
  },

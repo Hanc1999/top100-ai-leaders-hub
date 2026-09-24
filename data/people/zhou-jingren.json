@@ -907,6 +907,40 @@
    "url": "https://www.scmp.com/tech/big-tech/article/3354212/alibaba-unveils-new-qwen-model-custom-chips-bid-become-chinas-ai-factory"
   },
   {
+   "date": "2026-09-23",
+   "ts": "2026-09-23T04:26:00Z",
+   "level": "major",
+   "title": {
+    "en": "周靖人走下主舞台",
+    "zh": "周靖人走下主舞台"
+   },
+   "body": {
+    "en": "Reports say Zhou Jingren is stepping back from the public spotlight at Alibaba, following his earlier exit from the Alibaba Cloud CTO role.",
+    "zh": "有报道称周靖人正逐渐淡出公众视野，此前他已卸任阿里云CTO一职。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTHljLVNPMFR0ZGd3MHhVR3ViNHdZa0UwZ1V0aFFpRHNfZjVKdC1lX0VGY3ZqblZXNV9ZY09VUGduM2lTRXpkTFk1Z2YtTDNMZVZtcFloWXBZWmRxem5NdV93Rk03b2JpU0ZfbFN4S1VDM01GbzJncWVoekdLdFVkQ21lTUpiWFpf?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-22",
+   "ts": "2026-09-22T21:52:05Z",
+   "level": "notable",
+   "title": {
+    "en": "阿里AI换将 周靖人淡出云栖主舞台背后",
+    "zh": "阿里AI换将 周靖人淡出云栖主舞台背后"
+   },
+   "body": {
+    "en": "Reports say Zhou Jingren is stepping back from Alibaba's public-facing AI leadership stage at Yunqi, suggesting an internal reshuffle worth confirming against his current registry role.",
+    "zh": "有报道称周靖人正淡出阿里云栖大会的公开AI领导舞台，暗示内部人事调整，需要核实其在注册信息中的当前职位。"
+   },
+   "source": "茉莉花新闻网",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5GdXlpdUU3cFBVaFVIams1LXpXeXFZSU1icjg4Qk94TDdkZm5FU3VTOEJlMjdPeDNpZzVIaThfb3U2OU5aX3c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-10",
    "ts": "2026-09-10T03:32:00Z",
    "level": "notable",
@@ -1373,15 +1407,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 60.8,
+  "total": 61.1,
   "attention": null,
   "centrality": 67,
-  "momentum": 77,
+  "momentum": 78,
   "stature": 10,
   "pageviews": 0,
   "citations": 8558,
   "hIndex": 47,
-  "events": 29,
+  "events": 31,
   "posts": 36,
   "wikiEn": null,
   "wikiZh": null

@@ -1,5 +1,5 @@
 {
- "rank": 47,
+ "rank": 45,
  "id": "clement-delangue",
  "name": {
   "en": "Clément Delangue",
@@ -903,6 +903,23 @@
    "url": "https://www.cbsnews.com/news/hugging-face-hack-openai-rogue-model/"
   },
   {
+   "date": "2026-09-24",
+   "ts": "2026-09-24T11:45:25Z",
+   "level": "major",
+   "title": {
+    "en": "Transcript: UN Security Council AI Hearing w/ Sam Altman, Dario Amodei & Clément Delangue",
+    "zh": "Transcript: UN Security Council AI Hearing w/ Sam Altman, Dario Amodei & Clément Delangue"
+   },
+   "body": {
+    "en": "Testified before the UN Security Council on AI, appearing alongside OpenAI's Sam Altman and Anthropic's Dario Amodei to discuss AI governance.",
+    "zh": "与OpenAI的Sam Altman和Anthropic的Dario Amodei一同在联合国安理会就AI问题作证，讨论AI治理。"
+   },
+   "source": "The Singju Post",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaDhIai14em5UcU45QmVpTWpkMl9Wbm9CbnhybThsbnBFZjNjdjI1a1hyWDZ4TTM1UExqNEt3bFpEdzQ5dE85OXlVWGFBMENHOE4yYlJaT0VNdllmX1hlQnUwa3pHcWl3RFR1MmVwZ0FDNzFSTFhMc0djNE1QVE9YUUdtSHh5LXNhV25mX0J3dG5zUFk4eW4xLU9JZ3hpd3B1NzBBSmYzclRVZVhD?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-23",
    "ts": "2026-09-23T20:32:57Z",
    "level": "notable",
@@ -1063,15 +1080,15 @@
  },
  "cat": "platform",
  "score": {
-  "total": 50.9,
+  "total": 52.0,
   "attention": null,
   "centrality": 58,
-  "momentum": 58,
+  "momentum": 60,
   "stature": 19,
   "pageviews": 0,
   "citations": 13168,
   "hIndex": 5,
-  "events": 11,
+  "events": 12,
   "posts": 40,
   "wikiEn": null,
   "wikiZh": null

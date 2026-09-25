@@ -169,6 +169,25 @@
    }
   },
   {
+   "date": "2026-09-24",
+   "ts": "2026-09-24T21:13:48Z",
+   "kind": "x",
+   "title": {
+    "en": "One of the key questions for enterprise and government AI is open vs. closed models and data sovereignty. It matters even more for countries building AI capabil",
+    "zh": "One of the key questions for enterprise and government AI is open vs. closed models and data sovereignty. It matters even more for countries building AI capabil"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2103231449197690897",
+   "note": {
+    "en": "Kai-Fu Lee argues the open-vs-closed model choice and data sovereignty matter most for countries building AI capability outside the US and China.",
+    "zh": "李开复认为，对于在中美两大AI超级大国之外发展AI能力的国家而言，开源与闭源模型的选择以及数据主权问题尤为重要。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-09-18",
    "ts": "2026-09-18T18:12:20Z",
    "kind": "x",
@@ -1698,6 +1717,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T11:55:00Z",
+   "level": "notable",
+   "title": {
+    "en": "彭博社专访李开复：AI安全争议升温，企业AI转型不能停步",
+    "zh": "彭博社专访李开复：AI安全争议升温，企业AI转型不能停步"
+   },
+   "body": {
+    "en": "In a Bloomberg interview, Kai-Fu Lee discussed rising controversy over AI safety and argued enterprise AI adoption must keep advancing despite the debate.",
+    "zh": "李开复接受彭博社专访，谈及AI安全争议持续升温，并强调企业AI转型不能因此停滞。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ldjBLRlVPRlZNUm1HYU9iN19GWWlmYWc4TjV6bF9WSG9hZV94cGtxX3hVY2dDSXRhM3c2V0QwTTRwZVF3VEY4NWhqU2ZIdVZicTlCckNR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-11",
    "ts": "2026-09-11T05:11:19Z",
    "level": "minor",
@@ -2504,7 +2540,7 @@
  },
  "cat": "product",
  "score": {
-  "total": 49.8,
+  "total": 50.0,
   "attention": 46,
   "centrality": 30,
   "momentum": 81,
@@ -2512,8 +2548,8 @@
   "pageviews": 77041,
   "citations": 2181,
   "hIndex": 20,
-  "events": 50,
-  "posts": 79,
+  "events": 51,
+  "posts": 80,
   "wikiEn": "Kai-Fu Lee",
   "wikiZh": "李开复"
  },

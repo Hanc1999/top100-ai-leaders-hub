@@ -1,5 +1,5 @@
 {
- "rank": 93,
+ "rank": 94,
  "id": "christopher-manning",
  "name": {
   "en": "Christopher Manning",
@@ -731,6 +731,23 @@
    "url": "https://ai.stanford.edu/news/carlos-guestrin-named-as-new-director-of-the-stanford-ai-lab"
   },
   {
+   "date": "2026-09-24",
+   "ts": "2026-09-24T06:18:12Z",
+   "level": "notable",
+   "title": {
+    "en": "World Models Need Causality, Not Pretty Pixels — Christopher Manning, Moonlake AI｜AI Engineer",
+    "zh": "World Models Need Causality, Not Pretty Pixels — Christopher Manning, Moonlake AI｜AI Engineer"
+   },
+   "body": {
+    "en": "Argued at the AI Engineer conference that world models need causal, object-level understanding rather than pixel prediction, in a talk billed under a new affiliation with startup Moonlake AI alongside his Stanford post.",
+    "zh": "Manning在AI Engineer大会上主张世界模型需要因果、物体级的理解而非单纯预测像素，该演讲显示他在斯坦福教职之外新增了创业公司Moonlake AI的身份。"
+   },
+   "source": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Sa181Si1salIxYVcxbzViNGp2c3ZGclVXNTFEYlhlTXBTUW1xdGNsMGFqbERITjFsN2JUNVBrbTRnWUlnWnlPUHYzRXQ2Z2FTcGxQcEdDcVhIc0IwaTFZ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-03",
    "ts": null,
    "level": "minor",
@@ -755,15 +772,15 @@
  },
  "cat": "research",
  "score": {
-  "total": 20.2,
+  "total": 21.1,
   "attention": 18,
   "centrality": 10,
-  "momentum": 7,
+  "momentum": 11,
   "stature": 85,
   "pageviews": 11749,
   "citations": 178412,
   "hIndex": 134,
-  "events": 2,
+  "events": 3,
   "posts": 30,
   "wikiEn": "Christopher D. Manning",
   "wikiZh": null

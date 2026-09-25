@@ -209,6 +209,25 @@
    }
   },
   {
+   "date": "2026-09-24",
+   "ts": "2026-09-24T01:34:01Z",
+   "kind": "x",
+   "title": {
+    "en": "Marin believes strongly in the power of the open community. There are so many datasets that have been produced, living on Hugging Face. We have built scalable i",
+    "zh": "Marin believes strongly in the power of the open community. There are so many datasets that have been produced, living on Hugging Face. We have built scalable i"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2102934548787126505",
+   "note": {
+    "en": "Percy Liang described Marin's open-community approach, building scalable infrastructure that ingests the many datasets already published on Hugging Face.",
+    "zh": "Percy Liang介绍了Marin项目的开放社区理念，构建可扩展的基础设施来处理已发布在Hugging Face上的大量数据集。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-09-17",
    "ts": "2026-09-17T05:28:56Z",
    "kind": "x",
@@ -1712,7 +1731,7 @@
  },
  "cat": "research",
  "score": {
-  "total": 25.9,
+  "total": 26.1,
   "attention": 12,
   "centrality": 14,
   "momentum": 53,
@@ -1721,7 +1740,7 @@
   "citations": 45211,
   "hIndex": 87,
   "events": 2,
-  "posts": 80,
+  "posts": 81,
   "wikiEn": "Percy Liang",
   "wikiZh": null
  },

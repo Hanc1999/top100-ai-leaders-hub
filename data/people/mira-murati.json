@@ -943,6 +943,23 @@
    "judged": true
   },
   {
+   "date": "2026-07-11",
+   "ts": "2026-07-11T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Mira Murati's Thinking Machines Lab Makes The Technical Case For Human-Centered AI Built On Customizable Model Weights",
+    "zh": "Mira Murati's Thinking Machines Lab Makes The Technical Case For Human-Centered AI Built On Customizable Model Weights"
+   },
+   "body": {
+    "en": "Murati's Thinking Machines Lab made the technical case for human-centered AI built on customizable model weights.",
+    "zh": "Murati的Thinking Machines Lab提出了基于可定制模型权重构建“以人为本”AI的技术主张。"
+   },
+   "source": "MarkTechPost",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaVY5eXh2cXdfRjhTOTFjTUlMWklJU3ZLOGl3aVhYaTJLODZJRzZhZURheHp6bXhQN3pLbVdEY3AzRUJxSlRxX1c1em5uVHVGRjFuVDZhTkxLZ3FTSXF4dWtncklyVDJxZlRraWRJUTU1NkFGdDRQeDBhNDBtODRIa1pGRXlYeExDM1U2d24taHZ2UHFEUkpTb2hGTGZhMjUwR1J5YTF2VUNfNFQ0bEVlbTU4STV5V1ZaOWNGWkRRbjFaV0FkMXZMbzRTRk9xSUF4RlV6NFR4VV84bDhPMFRJWEpLTHZSODVCMFlaX1lfWQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-06-13",
    "ts": null,
    "level": "minor",
@@ -1060,6 +1077,23 @@
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY3NLSnU1b1duT1JCejVGdk84dkUwbmJ2OThYTUtvY0wxU2xGVkhEQjhnb3JwTWdDX05hd2FLWHJGWERDU2hhOEpnRFh2YXVEUkZ0bFNZcFFha3FIVjJhRUNwSTRoTzZCUzJpRnIzbERhMHJjNzMyQ3d1ZTBOcTZfcDZVVHlMUHZyUmfSAZcBQVVfeXFMUGRfVFJRVEgtcmVoOGNEODgtUVcyUS0yMnh3WkpXYnJQVmJjWkFzODF2X3M3S3RLZncwbXVoaFoxelpZZ3l6V1lsYVFOYUZCRUNvV3JvTnNJSHI1a3hiMF9wYWdHeUtKRC1kdzdLUkwtT2NJeENnZkk2LUxtek9iNFhHXzlTVVFvSUJvZGt2SjdpdlZhR0lHUQ?oc=5",
    "auto": true,
    "judged": true
+  },
+  {
+   "date": "2026-03-10",
+   "ts": "2026-03-10T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Nvidia, Mira Murati’s Thinking Machines Lab Announce Strategic Partnership",
+    "zh": "Nvidia, Mira Murati’s Thinking Machines Lab Announce Strategic Partnership"
+   },
+   "body": {
+    "en": "Nvidia and Murati's Thinking Machines Lab announced a strategic partnership.",
+    "zh": "英伟达与Murati的Thinking Machines Lab宣布建立战略合作伙伴关系。"
+   },
+   "source": "The Information",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZU1veHFPNFVlOUp0RGF4OE53X3JtczNyZmlHVEFPTnpOV2VHY19Rak0xY0FJT0ExY2RlWjAyWmZMaGZFbUluU05pQW5OQndCbTU0LWgybUk3LWV5MnZiZklnREh0MThFUW9xRnBKcWhfYlZpaXhtbVNUS3dVUmtZMjhXRmRjanhHamIzTVdYaDNRbHZsRkdoT09Damk2V1NCSENkcmRKZjhoMU42SUlFemhsZw?oc=5",
+   "auto": true,
+   "judged": true
   }
  ],
  "changed": false,
@@ -1069,15 +1103,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 75.0,
+  "total": 75.9,
   "attention": 82,
   "centrality": 72,
-  "momentum": 66,
+  "momentum": 69,
   "stature": null,
   "pageviews": 800593,
   "citations": 1653,
   "hIndex": 3,
-  "events": 21,
+  "events": 23,
   "posts": 32,
   "wikiEn": "Mira Murati",
   "wikiZh": "米拉·穆拉蒂"

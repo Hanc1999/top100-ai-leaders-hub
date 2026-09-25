@@ -2229,6 +2229,23 @@
    "judged": true
   },
   {
+   "date": "2026-08-06",
+   "ts": "2026-08-06T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Google chief scientist Jeff Dean departs, Demis Hassabis steps down as DeepMind CEO",
+    "zh": "Google chief scientist Jeff Dean departs, Demis Hassabis steps down as DeepMind CEO"
+   },
+   "body": {
+    "en": "Demis Hassabis stepped down as CEO of Google DeepMind as part of a broader leadership shakeup that also saw Google chief scientist Jeff Dean depart.",
+    "zh": "作为谷歌高层人事变动的一部分，Demis Hassabis卸任Google DeepMind首席执行官，同期谷歌首席科学家Jeff Dean也已离职。"
+   },
+   "source": "datacenterdynamics.com",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN21CTkdMY3VmekltVENMaXJ0V2JoSExPSUFBNU04dW5US1MtS0xGVExUYW50NXA3MF9sUmI3NkctdHBvS1ZzSzdYUDZsYkYyZTZaeWlwZ0VrTUdRTDI0bWFrSU5RMWg0cUZseDlWLXJhd050aDRQbHl3MUxiVWhnTDJ4cUtpbXlkdEF6YjlkWW9TRHNFb0RyMWpfcUl1WWJpZTRmcTNIaGg1WTNkcURyd3JoeW8wVVpHckRUcXE4WHp3MGI5?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-08-05",
    "ts": null,
    "level": "major",
@@ -2321,15 +2338,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 87.6,
+  "total": 87.5,
   "attention": 89,
   "centrality": 96,
-  "momentum": 74,
+  "momentum": 73,
   "stature": 90,
   "pageviews": 1121478,
   "citations": 195503,
   "hIndex": 92,
-  "events": 23,
+  "events": 24,
   "posts": 94,
   "wikiEn": "Demis Hassabis",
   "wikiZh": "杰米斯·哈萨比斯"

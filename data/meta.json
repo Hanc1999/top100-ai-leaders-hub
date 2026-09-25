@@ -1,6 +1,7 @@
 {
- "data_through": "2026-09-23",
+ "data_through": "2026-09-24",
  "meta": {
+  "board": 100,
   "ranking": {
    "en": "42% public attention · 26% frontier centrality · 22% momentum · 10% research stature. Category and region are filters only. Each page shows its own breakdown.",
    "zh": "42% 公众关注度 · 26% 前沿中心度 · 22% 动态热度 · 10% 学术分量。类别与地区仅作筛选，不参与排名。每页展示各自的得分构成。"
@@ -18,15 +19,17 @@
    "zh": "排名仅供娱乐，聚焦一手资讯。"
   },
   "verifiedOn": "2026-08-18",
-  "lastRun": "2026-09-24T00:20:24Z",
+  "lastRun": "2026-09-25T00:19:20Z",
   "stats": {
    "total": 100,
+   "listed": 101,
+   "offBoard": 1,
    "changed": 30,
-   "posts": 4575,
-   "news": 2882,
-   "links": 2017,
-   "withPosts": 100,
-   "withNews": 97
+   "posts": 4585,
+   "news": 3066,
+   "links": 2034,
+   "withPosts": 101,
+   "withNews": 98
   }
  },
  "tiers": [

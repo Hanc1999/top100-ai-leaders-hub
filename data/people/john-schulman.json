@@ -1,5 +1,5 @@
 {
- "rank": 46,
+ "rank": 47,
  "id": "john-schulman",
  "name": {
   "en": "John Schulman",
@@ -1045,6 +1045,25 @@
    "connector": "backfill"
   },
   {
+   "date": "2025-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Quantifying Elicitation of Latent Capabilities in Language Models",
+    "zh": "Quantifying Elicitation of Latent Capabilities in Language Models"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.52202/085713-5029",
+   "note": {
+    "en": "A paper on quantifying how well techniques elicit a language model's latent capabilities, in Schulman's core area of model evaluation and alignment.",
+    "zh": "一篇关于如何量化评估技术在多大程度上激发语言模型潜在能力的论文，属于Schulman在模型评估与对齐方面的核心研究领域。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2024-11-07",
    "ts": null,
    "kind": "paper",
@@ -1560,16 +1579,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 51.4,
+  "total": 51.2,
   "attention": 60,
   "centrality": 66,
-  "momentum": 30,
+  "momentum": 29,
   "stature": 25,
   "pageviews": 150682,
   "citations": 16922,
   "hIndex": 38,
   "events": 2,
-  "posts": 73,
+  "posts": 74,
   "wikiEn": "John Schulman",
   "wikiZh": "约翰·舒尔曼"
  },

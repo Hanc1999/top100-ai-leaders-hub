@@ -1,0 +1,324 @@
+{
+ "rank": 93,
+ "id": "diogo-almeida",
+ "name": {
+  "en": "Diogo Almeida",
+  "zh": "Diogo Almeida"
+ },
+ "role": {
+  "en": "Co-founder & CEO, TypeSafe AI",
+  "zh": "TypeSafe AI 联合创始人兼 CEO"
+ },
+ "org": "TypeSafe AI",
+ "region": {
+  "en": "United States",
+  "zh": "美国"
+ },
+ "tags": [
+  "TypeSafe AI",
+  "Jev",
+  "RLHF",
+  "InstructGPT",
+  "OpenAI",
+  "Structured output"
+ ],
+ "why": {
+  "en": "Co-author of InstructGPT, the work that turned RLHF into the alignment method behind ChatGPT and, with it, the shape of every assistant model since. Left OpenAI in 2024 and came out of stealth in September 2026 with TypeSafe AI and Jev — a transformer that emits calibrated probabilities and structured judgements instead of text, on the argument that most production uses of a model want a decision and are paying for prose to get one.",
+  "zh": "InstructGPT 的共同作者——正是这项工作把 RLHF 变成了 ChatGPT 背后的对齐方法，也定下了此后所有助手类模型的形态。2024 年离开 OpenAI，2026 年 9 月带着 TypeSafe AI 与 Jev 走出隐身：那是一个不输出文本、而是直接输出校准概率与结构化判断的 Transformer，其论点是——生产环境里对模型的多数调用要的是一个决策，却在为得到它而支付散文的成本。"
+ },
+ "links": [
+  {
+   "kind": "x",
+   "label": "@CompleteSkeptic",
+   "url": "https://x.com/CompleteSkeptic",
+   "t": 1
+  },
+  {
+   "kind": "company",
+   "label": "TypeSafe AI",
+   "url": "https://typesafe.ai/",
+   "t": 2
+  },
+  {
+   "kind": "linkedin",
+   "label": "LinkedIn — search",
+   "url": "https://www.linkedin.com/search/results/people/?keywords=Diogo+Almeida",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Substack — search",
+   "url": "https://substack.com/search/Diogo+Almeida",
+   "t": 3
+  },
+  {
+   "kind": "blog",
+   "label": "Medium — search",
+   "url": "https://medium.com/search?q=Diogo+Almeida",
+   "t": 3
+  },
+  {
+   "kind": "video",
+   "label": "YouTube — talks",
+   "url": "https://www.youtube.com/results?search_query=Diogo+Almeida&sp=CAI%253D",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "Podcasts — appearances",
+   "url": "https://www.listennotes.com/search/?q=Diogo+Almeida&sort_by_date=1",
+   "t": 3
+  },
+  {
+   "kind": "podcast",
+   "label": "小宇宙 — 搜索",
+   "url": "https://www.xiaoyuzhoufm.com/search?q=Diogo+Almeida",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Diogo+Almeida&type=users",
+   "t": 3
+  },
+  {
+   "kind": "hf",
+   "label": "Hugging Face — search",
+   "url": "https://huggingface.co/models?search=Diogo+Almeida",
+   "t": 3
+  },
+  {
+   "kind": "scholar",
+   "label": "Google Scholar",
+   "url": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Diogo+Almeida",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "arXiv",
+   "url": "https://arxiv.org/search/?searchtype=author&query=Diogo+Almeida",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "Semantic Scholar",
+   "url": "https://www.semanticscholar.org/search?sort=pub-date&q=Diogo+Almeida",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "DBLP",
+   "url": "https://dblp.org/search?q=Diogo+Almeida",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "OpenReview",
+   "url": "https://openreview.net/search?query=Diogo+Almeida",
+   "t": 3
+  },
+  {
+   "kind": "paper",
+   "label": "ORCID",
+   "url": "https://orcid.org/orcid-search/search?searchQuery=Diogo+Almeida",
+   "t": 3
+  },
+  {
+   "kind": "news",
+   "label": "News — latest",
+   "url": "https://news.google.com/search?q=Diogo+Almeida&hl=en-US&gl=US&ceid=US%3Aen",
+   "t": 3
+  }
+ ],
+ "posts": [
+  {
+   "date": "2022-03-04",
+   "kind": "paper",
+   "title": {
+    "en": "Training language models to follow instructions with human feedback",
+    "zh": "训练语言模型遵循人类指令"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2203.02155",
+   "note": {
+    "en": "InstructGPT. Human demonstrations, preference rankings and reinforcement learning, combined into the recipe ChatGPT shipped on eight months later.",
+    "zh": "即 InstructGPT。人类示范、偏好排序与强化学习三者结合，八个月后 ChatGPT 正是照此配方发布。"
+   }
+  },
+  {
+   "date": "2026-09-21",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
+    "zh": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI"
+   },
+   "source": "Latent Space: The AI Engineer Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/jev-system-one-models-for-prod-not-god-with-diogo/id1674008350?i=1000791005427&uo=4",
+   "note": {
+    "en": "Almeida appeared on the Latent Space podcast to discuss TypeSafe AI's approach of building production-grade 'System One' models rather than chasing AGI.",
+    "zh": "阿尔梅达做客Latent Space播客，讨论TypeSafe AI打造面向生产环境的\"系统一\"模型、而非追求通用人工智能的思路。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2016-10-23",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Diogo Almeida - Deep Learning: Modular in Theory, Inflexible in Practice - TWiML Talk #8",
+    "zh": "Diogo Almeida - Deep Learning: Modular in Theory, Inflexible in Practice - TWiML Talk #8"
+   },
+   "source": "The TWIML AI Podcast (formerly This We…",
+   "url": "https://podcasts.apple.com/us/podcast/diogo-almeida-deep-learning-modular-in-theory-inflexible/id1116303051?i=1000377004210&uo=4",
+   "note": {
+    "en": "Archival TWiML AI interview from when Almeida was a senior data scientist at healthcare startup Enlitic, discussing the limits of modular deep learning.",
+    "zh": "TWiML AI播客旧访谈，阿尔梅达当时任医疗初创公司Enlitic高级数据科学家，谈深度学习模块化方法的局限。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  }
+ ],
+ "news": [
+  {
+   "date": "2026-09-15",
+   "level": "major",
+   "title": {
+    "en": "TypeSafe AI leaves stealth with a $40M seed at a $200M valuation",
+    "zh": "TypeSafe AI 走出隐身，4000 万美元种子轮，估值 2 亿美元"
+   },
+   "body": {
+    "en": "Led by DCVC. Founded with Erik Gafni and Sasha Sheng to build machine-native models meant to sit inside software as a primitive rather than answer a person in a chat window.",
+    "zh": "由 DCVC 领投。与 Erik Gafni、Sasha Sheng 共同创立，目标是做「机器原生」模型——作为软件内部的一个原语存在，而不是在对话框里回答人类。"
+   },
+   "source": "Forbes",
+   "url": "https://www.forbes.com/sites/the-prompt/2026/09/15/this-200-million-startup-wants-to-fix-ais-overconfidence-problem/"
+  },
+  {
+   "date": "2026-09-18",
+   "level": "notable",
+   "title": {
+    "en": "Jev ships: a frontier model that does not speak",
+    "zh": "Jev 发布：一个不说话的前沿模型"
+   },
+   "body": {
+    "en": "Trained only on synthetic data, it returns probabilities and confidence over a schema the caller fixes in advance — so there is nothing for it to hallucinate — at sub-100ms latency and up to 100x cheaper than a frontier LLM. Named after William Stanley Jevons.",
+    "zh": "仅用合成数据训练，返回的是调用方预先固定的结构上的概率与置信度——因而没有可供它幻觉的空间——延迟低于 100 毫秒，成本最多为前沿大模型的百分之一。名字取自经济学家 William Stanley Jevons。"
+   },
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/"
+  },
+  {
+   "date": "2026-09-23",
+   "ts": "2026-09-23T05:03:14Z",
+   "level": "notable",
+   "title": {
+    "en": "Diogo Almeida: Why did I make Jev?",
+    "zh": "Diogo Almeida: Why did I make Jev?"
+   },
+   "body": {
+    "en": "Almeida explained his motivation for building Jev, TypeSafe AI's coding automation product.",
+    "zh": "阿尔梅达阐述了他打造TypeSafe AI编程自动化产品Jev的初衷。"
+   },
+   "source": "深潮TechFlow",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJSUlWSUYwZmZVa0VINF9WX3JKbGpMQktlaTdSbjUybG1RWUdqOWFnbFQxZ0IwSTA3eFNONGRha29XZWxkVldIQ3J0dDUtY0hzTTE4WllUSU1Lcmpw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-22",
+   "ts": "2026-09-22T00:08:00Z",
+   "level": "notable",
+   "title": {
+    "en": "TypeSafe's Diogo Almeida: The $1 Trillion Token Surge That Proves 'Code Is the New Consumer'",
+    "zh": "TypeSafe's Diogo Almeida: The $1 Trillion Token Surge That Proves 'Code Is the New Consumer'"
+   },
+   "body": {
+    "en": "Almeida argued the surge in AI token usage shows 'code is the new consumer,' framing software automation as the next major market.",
+    "zh": "阿尔梅达认为AI token用量激增表明\"代码正成为新的消费者\"，将软件自动化视为下一个主要市场。"
+   },
+   "source": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10SGxoQUZrM0FpcXctaWxMUnZ1bXRXTmw2YUhFeGJfYjhQazhXQ3RMTDNDTTIxSzE0WkpESU83SUlaRkt2ODRLWVNuaU9KSFBwdEM5VThWV2QxaUU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-22",
+   "ts": "2026-09-22T21:53:00Z",
+   "level": "major",
+   "title": {
+    "en": "Diogo Almeida: Why did I make Jev?",
+    "zh": "Diogo Almeida: Why did I make Jev?"
+   },
+   "body": {
+    "en": "Almeida explained why he built Jev, TypeSafe AI's fast 'System One' judgment model, in a career-defining interview after leaving OpenAI's RLHF work behind.",
+    "zh": "Almeida在一次专访中解释了他为何打造Jev——TypeSafe AI主打快思考判断的System One模型，标志着他离开OpenAI RLHF工作后的新方向。"
+   },
+   "source": "\"Diogo Almeida\" - BingNews",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab5b0a4d108481595ff5c1d1edae085&url=https%3a%2f%2fwww.techflowpost.com%2fen-US%2farticle%2f34191&c=11360122697658844405&mkt=en-sg",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T20:19:07Z",
+   "level": "major",
+   "title": {
+    "en": "OpenAI Researcher Diogo Almeida Launches New AI Model Jev to Transform Software Automation",
+    "zh": "OpenAI Researcher Diogo Almeida Launches New AI Model Jev to Transform Software Automation"
+   },
+   "body": {
+    "en": "Almeida launched Jev, TypeSafe AI's new model for software automation, marking his new company's public debut.",
+    "zh": "阿尔梅达发布Jev——TypeSafe AI面向软件自动化的新模型，标志着他的新公司正式公开亮相。"
+   },
+   "source": "SSBCrack",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMmc0UGZGY0JJUTlWeHVXY29hM1FuVEtwMjljejdwNEZwUlgwQjZveGtRQ052bDB2R2ZIM0RwRWhwbnQ5dWJmMDlDY3p5Uy1Sd3JJOGdwLU9GYmdOMGtXcHppR1l3SU16REpqQlJaU2l6dXpnZmxvbldRUmY1ZFhVWWhNVktRYW41YU1nc0xNWFhTWXk0c2VIWWRvd3dkdldGal9aeERyV3U2MTV6SDVDcWs5dWdOQV9D?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-31",
+   "ts": "2026-07-31T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Diogo Almeida: The RLHF Co-Author Who Says ChatGPT Was a 'Weird Detour' From Real Automation",
+    "zh": "Diogo Almeida: The RLHF Co-Author Who Says ChatGPT Was a 'Weird Detour' From Real Automation"
+   },
+   "body": {
+    "en": "Almeida, a co-author of the InstructGPT/RLHF paper, said ChatGPT was a 'weird detour' from the real goal of automating software work.",
+    "zh": "作为InstructGPT/RLHF论文的共同作者，阿尔梅达表示ChatGPT是通往软件自动化这一真正目标的\"奇怪弯路\"。"
+   },
+   "source": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PZFhSLXVMSDNQanhYM291cm5ReVB0NU1ESkNVSWktT2dxam5RMjAxMG5kSnVnZUtOM0w1TEV2cF95SW83WXVPUzd4UldlckpEWFFRMjhXR0sxOHc?oc=5",
+   "auto": true,
+   "judged": true
+  }
+ ],
+ "changed": false,
+ "was": {
+  "en": "",
+  "zh": ""
+ },
+ "cat": "product",
+ "score": {
+  "total": 21.3,
+  "attention": null,
+  "centrality": 14,
+  "momentum": 30,
+  "stature": null,
+  "pageviews": 0,
+  "citations": 0,
+  "hIndex": 0,
+  "events": 7,
+  "posts": 3,
+  "wikiEn": null,
+  "wikiZh": null
+ },
+ "seedRank": 101,
+ "tier": "t6"
+}

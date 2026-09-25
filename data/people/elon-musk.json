@@ -156,6 +156,63 @@
    }
   },
   {
+   "date": "2026-09-24",
+   "ts": "2026-09-24T01:00:30Z",
+   "kind": "x",
+   "title": {
+    "en": "Made with nickel cathode manufactured locally at Gigafactory Texas!",
+    "zh": "Made with nickel cathode manufactured locally at Gigafactory Texas!"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2102926113173627069",
+   "note": {
+    "en": "Musk noted Tesla's new battery cell uses a nickel cathode manufactured locally at Gigafactory Texas.",
+    "zh": "马斯克表示特斯拉新电池采用在德州超级工厂本地生产的镍正极材料。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-24",
+   "ts": "2026-09-24T02:46:03Z",
+   "kind": "x",
+   "title": {
+    "en": "Preparing for launch on Monday",
+    "zh": "Preparing for launch on Monday"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2102952674727784693",
+   "note": {
+    "en": "Musk announced on X that SpaceX is preparing for a launch on Monday.",
+    "zh": "马斯克在X上宣布SpaceX正在为周一的发射做准备。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-24",
+   "ts": "2026-09-24T18:22:56Z",
+   "kind": "x",
+   "title": {
+    "en": "The amount of compute in space will obviously round up to 100% of all compute",
+    "zh": "The amount of compute in space will obviously round up to 100% of all compute"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2103188449960313173",
+   "note": {
+    "en": "Original post arguing that space-based compute will eventually account for essentially all compute capacity, reflecting his push to move AI infrastructure off Earth.",
+    "zh": "他发文称太空算力最终将占据几乎全部计算能力，反映其推动把AI基础设施搬上太空的立场。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-09-23",
    "ts": "2026-09-23T16:35:15Z",
    "kind": "x",
@@ -1049,63 +1106,6 @@
    "connector": "x"
   },
   {
-   "date": "2026-09-07",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "FSD Supervised approved in Slovenia 🇸🇮",
-    "zh": "FSD Supervised approved in Slovenia 🇸🇮"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2097066172780831194",
-   "note": {
-    "en": "Musk announced Tesla's FSD Supervised has been approved for use in Slovenia, extending the rollout to another European market.",
-    "zh": "马斯克宣布特斯拉FSD Supervised已获准在斯洛文尼亚使用，将其推广至又一个欧洲市场。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
-   "date": "2026-09-07",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Tesla Superchargers are built in New York State",
-    "zh": "Tesla Superchargers are built in New York State"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2097100094638100572",
-   "note": {
-    "en": "Musk noted Tesla Superchargers are now being built in New York State.",
-    "zh": "马斯克指出特斯拉超级充电桩现已在纽约州生产建造。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
-   "date": "2026-09-06",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "If you’re bored and want to find something to be upset about, this app will take care of that need!",
-    "zh": "If you’re bored and want to find something to be upset about, this app will take care of that need!"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2096505360232395188",
-   "note": {
-    "en": "Musk mocked an app built purely to feed users things to be upset about, a jab that drew heavy engagement on X.",
-    "zh": "马斯克调侃了一款专门制造焦虑话题的应用，这条吐槽在X上获得了大量互动。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
    "date": "2026-07-23",
    "ts": null,
    "kind": "podcast",
@@ -1205,6 +1205,125 @@
    },
    "source": "xAI",
    "url": "https://x.ai/news"
+  },
+  {
+   "date": "2026-09-24",
+   "ts": "2026-09-24T03:38:08Z",
+   "level": "notable",
+   "title": {
+    "en": "OpenAI Asks Texas Court to Dismiss Elon Musk’s xAI Antitrust Lawsuit - Межа. Новини України.",
+    "zh": "OpenAI Asks Texas Court to Dismiss Elon Musk’s xAI Antitrust Lawsuit - Межа. Новини України."
+   },
+   "body": {
+    "en": "OpenAI has asked a Texas court to dismiss xAI's antitrust lawsuit against it, a real development in the ongoing legal fight between the two labs.",
+    "zh": "OpenAI已要求德克萨斯州法院驳回xAI对其提起的反垄断诉讼，这是两家实验室之间持续法律纠纷中的实质性进展。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GZXlTbERtYktsTjZ0Q3BiQXk4c1V0emNWcFAzVGFYQ3pWRmY1YlJMSGN4S05QaFpqV283RmdYQ0NJNXdUR1Bsc0xoajZBS2FCTEU1V0hreXBhLURMQ1BadXNZQXY?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-24",
+   "ts": "2026-09-24T14:38:00Z",
+   "level": "major",
+   "title": {
+    "en": "Starship Flight 14: How to watch Elon Musk’s megarocket heading to orbit for the first time",
+    "zh": "Starship Flight 14: How to watch Elon Musk’s megarocket heading to orbit for the first time"
+   },
+   "body": {
+    "en": "SpaceX's Starship Flight 14 launched toward orbit for the first time, a major milestone for the vehicle under Musk's direction.",
+    "zh": "SpaceX的星舰14号首次发射前往轨道，这是马斯克主导下该型号火箭的重要里程碑。"
+   },
+   "source": "Yahoo News UK",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR29OYjdkQ1U2T21Kc3EwSGMzSGJvX2lUXy1jU1hzR0F0ZzhBVmNhRzNpdXByeWVnSW14a2I5SllkSjZzOHpZMmhDRUZiVk03ZFRfVWliUDJ3WnRhbmxmYm9lWm5aMkpWTUp2NDk3M0JrZ0xwalBZdzg0cm1Bd3plaFpFVG4?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-24",
+   "ts": "2026-09-24T18:30:17Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Says SpaceX’s AI Model May Surpass Anthropic And OpenAI’s In 6 Months",
+    "zh": "Elon Musk Says SpaceX’s AI Model May Surpass Anthropic And OpenAI’s In 6 Months"
+   },
+   "body": {
+    "en": "Musk predicted SpaceX's in-house AI model could overtake Anthropic's and OpenAI's within six months, citing rapid progress despite starting AI work only three years ago.",
+    "zh": "马斯克预测SpaceX自研AI模型可能在六个月内超越Anthropic和OpenAI，理由是尽管其AI业务仅起步三年，但进展迅速。"
+   },
+   "source": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN1NTSWxjbnFsclcxZ3V0ekV1V0tkMWs0bWx2Z2FfbVdMYXZacEtwNDRMWjMwV1RnWmpkbDVsT2ExeGUxTjlTeUpNSGNtTFhLcGJGVHlhTW5lLVVta0EzQTdlOHJqTFJFODRXREdBZjZXZUpydmNEUkQxb1NJQUZGNVE0dHNUSXF2V1BWLUpNSlNzaUZmcGhFeUJJRGxMcmEyNHdOTGR6Y3VXS3VuMDBSdnJxRkVKQTczSmp3YjBzX2wtOXd2d0JFZV80TnZlRjZLdHc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-24",
+   "ts": "2026-09-24T18:47:56Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Has Left the Door Open to a Tesla-SpaceX Merger. Here's What Shareholders of Both Stocks Should Do.",
+    "zh": "Elon Musk Has Left the Door Open to a Tesla-SpaceX Merger. Here's What Shareholders of Both Stocks Should Do."
+   },
+   "body": {
+    "en": "Musk again declined to rule out merging Tesla and SpaceX, fueling ongoing analyst speculation about consolidating his AI, auto and rocket businesses.",
+    "zh": "马斯克再次未排除特斯拉与SpaceX合并的可能，持续引发分析师对其整合AI、汽车与火箭业务的猜测。"
+   },
+   "source": "The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON3pJYlpMZXZTOGFSYXZMSWFoUjdGQml2LWNySUF1RWNHYkpuOGd6WkdwQUZCSHpINFJCM2tQTzdvRTI4TEhhM09hUGNMNTliLXdwSkVGcUlpRFhJaEVJdkF4M1dyc3ZtYXZXbFczTjRIZkN4R3lsYlNZZGdxWVdqTDRpTTYwUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-24",
+   "ts": "2026-09-24T20:47:00Z",
+   "level": "notable",
+   "title": {
+    "en": "U.S. Files to Intervene With E.U. Decision on X, Elon Musk",
+    "zh": "U.S. Files to Intervene With E.U. Decision on X, Elon Musk"
+   },
+   "body": {
+    "en": "The U.S. government moved to join X's legal challenge against the EU's fine on the platform, a rare federal intervention in a European tech-regulation dispute.",
+    "zh": "美国政府介入马斯克旗下X平台对欧盟罚款的上诉，联邦政府罕见地卷入欧洲科技监管纠纷。"
+   },
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV0NDYi1PbV9TT0RxQWM4djdDOHlxVlZpOEVoelNNMnNUQ01iVTFOT1dldmdhNWE1OUN3VGFOQmw1dnl3OG1oYmZjb2d0bDB4WFFGM2FYbm1uU2NmcFBybWNSbWFfYkVtTzFZRWFEVFI1aVhxbU54c0JKSC1TZGJvaVJWMmVsLVl5cERfcHNQZGwzdUk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-24",
+   "ts": "2026-09-24T22:34:49Z",
+   "level": "major",
+   "title": {
+    "en": "U.S. Intercedes for Elon Musk’s X Over European Fine",
+    "zh": "U.S. Intercedes for Elon Musk’s X Over European Fine"
+   },
+   "body": {
+    "en": "The US government intervened on Musk's behalf in his legal challenge against an EU fine on X, a significant transatlantic regulatory clash.",
+    "zh": "美国政府介入支持马斯克对欧盟就X平台罚款提出的法律挑战，构成一次重大的跨大西洋监管冲突。"
+   },
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeV9fdkhEYW1GZ0RLTllWY0dDN0FZTURySnIzMmV1cFpyZVhDdTVvdFJGTmtHS1NHeGlYckpIZW1BTWswazgxeEw1X0lXZVNtQmJBUHNYRW5kMU04Xzh6VzRtT1JHQXFIdTFYdDBqcE5zMi1feTJEcU91N2tiUEN4dXVHTQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-24",
+   "ts": "2026-09-24T13:43:00Z",
+   "level": "minor",
+   "title": {
+    "en": "Elon Musk revives 200 mph Texas hyperloop pitch, but there's still no route, timeline, or cost",
+    "zh": "Elon Musk revives 200 mph Texas hyperloop pitch, but there's still no route, timeline, or cost"
+   },
+   "body": {
+    "en": "Musk revived his pitch for a 200mph Texas hyperloop, though still without a route, timeline or cost — a minor, speculative update.",
+    "zh": "马斯克重提时速200英里的德克萨斯超级高铁计划，但仍未公布路线、时间表或造价，属于一次较小的、仍处于设想阶段的动态。"
+   },
+   "source": "yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc01pNFhHSnVJdjdUbjNXWmtvc2IzN0lGcW42NC16UF85MUhWQTl5VWtnX3gzLXVFRDFkTEpsTVBZYVNBRGZDczcyRTk4NEJNdmNCbzlaeXFEa0dWdFlWOGVLM0hkS3BoY21OaUFTcTRFZWxZNnJWRm9POWdodHg2TmJCcG9fdw?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-09-23",
@@ -1611,6 +1730,23 @@
    },
    "source": "KVUE",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTjRjZVVwVDdqSEtoSGxVeXZHVTB4MFIzNHRSSjdhRlU4YWNpUzFKRFd0VTYxTlVpdmRkMDhaYXB0b1VjbjRtZks1RGxPcmdEdEk1dUhqS20tM1l1OGV2OXBsMTFjUVUxQW1VN0lKUGpYRXNnQUVKNjhfWEM3ek1DV0ZzM2dQbDVGbGU2ck1lX0FxOEtvVnhqYXZQMW95Q2JXdkw0RFJpeTN3T2g4V2VYcmxkTmpoZ1RCX1VWT3N4SzI5SWlsdjBrdjh6LUM0Zw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-22",
+   "ts": "2026-09-22T00:30:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Agrees Viral Robot Moves Were ‘Essentially Remote Controlled’ — Tesla AI Chief Warns Robot Safety is a Bigger Challenge Than AI Safety",
+    "zh": "Elon Musk Agrees Viral Robot Moves Were ‘Essentially Remote Controlled’ — Tesla AI Chief Warns Robot Safety is a Bigger Challenge Than AI Safety"
+   },
+   "body": {
+    "en": "Musk acknowledged Tesla's viral Optimus robot demo was remote-controlled, while Tesla's AI chief said robot safety now poses a bigger challenge than AI safety.",
+    "zh": "马斯克承认特斯拉Optimus机器人走红视频中的动作系遥控完成，特斯拉AI负责人表示机器人安全已成为比AI安全更大的挑战。"
+   },
+   "source": "Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcm9TSnVobVZ4QjNvSkhROUY4YTJTZ3F2THZhZklWaTF4LTd3N2drd2xCcDQyX0wzeWIzOGpUQnpWcllfbHNxbkM1Sm43S2pBTlg5aVpDbUhTVXdNN1YzWmwydVFOU0poSHpmUUVvcU9yenJJVHNQT09TT19OWTN2anQ1dWdCYTdPSi1ZZm5zOA?oc=5",
    "auto": true,
    "judged": true
   },
@@ -4240,7 +4376,7 @@
  },
  "cat": "lab",
  "score": {
-  "total": 95.7,
+  "total": 95.8,
   "attention": 100,
   "centrality": 87,
   "momentum": 98,
@@ -4248,7 +4384,7 @@
   "pageviews": 9295513,
   "citations": 1280,
   "hIndex": 3,
-  "events": 181,
+  "events": 189,
   "posts": 56,
   "wikiEn": "Elon Musk",
   "wikiZh": "埃隆·马斯克"

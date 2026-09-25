@@ -149,6 +149,25 @@
    }
   },
   {
+   "date": "2026-09-24",
+   "ts": "2026-09-24T19:45:15Z",
+   "kind": "x",
+   "title": {
+    "en": "Can our TPUs survive and operate in space? Well, we're going to find out. Project Suncatcher is hitching a ride aboard @SpaceX's Transporter-18 mission, testing",
+    "zh": "Can our TPUs survive and operate in space? Well, we're going to find out. Project Suncatcher is hitching a ride aboard @SpaceX's Transporter-18 mission, testing"
+   },
+   "source": "@sundarpichai",
+   "url": "https://x.com/sundarpichai/status/2103209164072010051",
+   "note": {
+    "en": "Pichai announced Project Suncatcher, testing whether Google's TPUs can survive and operate in space, with a prototype satellite launching on SpaceX's Transporter-18 mission.",
+    "zh": "Pichai宣布了Suncatcher项目，测试谷歌TPU能否在太空中生存和运行，原型卫星将搭载SpaceX的Transporter-18任务发射。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-09-15",
    "ts": "2026-09-15T17:22:07Z",
    "kind": "x",
@@ -1643,16 +1662,16 @@
  },
  "cat": "platform",
  "score": {
-  "total": 85.7,
+  "total": 85.5,
   "attention": 92,
   "centrality": 87,
-  "momentum": 73,
+  "momentum": 72,
   "stature": null,
   "pageviews": 1299595,
   "citations": 1,
   "hIndex": 1,
   "events": 24,
-  "posts": 60,
+  "posts": 61,
   "wikiEn": "Sundar Pichai",
   "wikiZh": "孙达尔·皮柴"
  },

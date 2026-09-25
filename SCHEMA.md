@@ -29,14 +29,14 @@ join.
 
 | Column | Meaning |
 |---|---|
-| `rank` | 1–100, by `score_total`. |
+| `rank` | By `score_total`, recomputed every build. **Can exceed 100** — see below. |
 | `id` | The stable slug. |
 | `name_en` / `name_zh` | For many Western names the two are identical; that is intentional, not a missing translation. |
 | `role_en` / `role_zh` | Current role, hand-verified. |
 | `org` | Primary affiliation. |
 | `region_en` | Country. |
 | `category` | `lab`, `bigtech`, `academia`, `startup`, `infra`, `investor` — a filter, not part of the ranking. |
-| `tier` | `t1`–`t4`, a coarse banding of rank. |
+| `tier` | `t1`–`t6`, a coarse banding of rank. Empty past rank 100. |
 | `score_total` | 0–100 composite. See below. |
 | `posts` / `news` | Item counts currently on the board for this person. |
 | `tags` | `\|`-separated topic tags. |
@@ -73,6 +73,21 @@ total = 42% attention + 26% centrality + 22% momentum + 10% stature
 **Read the ranking as one view, not a fact.** The weights are a choice. They are
 published in `meta.json` → `meta.ranking` precisely so you can disagree with
 them and recompute.
+
+## People ranked past the board
+
+Every person carries a `rank`, recomputed from `score_total` on **every build**.
+The leaderboard is the top 100 of that ordering — `stats.json` gives the cut as
+`board` — and **a rank above it is real but not displayed on the site**.
+
+That makes the hundred a daily measurement rather than a membership list:
+someone at 101 is inside it tomorrow if their score says so, and someone at 100
+can fall out. They keep being collected and published either way; only the
+display of the number changes.
+
+For analysis: filter to `rank <= board` to reproduce the leaderboard, and keep
+everyone to study what this set of people publishes. `tier` is empty past the
+board, because the tiers are bands within it.
 
 ## Caveats worth knowing before you analyse
 

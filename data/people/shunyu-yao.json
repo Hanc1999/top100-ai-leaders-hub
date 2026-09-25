@@ -1,5 +1,5 @@
 {
- "rank": 74,
+ "rank": 73,
  "id": "shunyu-yao",
  "name": {
   "en": "Shunyu Yao",
@@ -1241,6 +1241,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "消息称田永龙进入腾讯CEO办公室，向姚顺雨汇报",
+    "zh": "消息称田永龙进入腾讯CEO办公室，向姚顺雨汇报"
+   },
+   "body": {
+    "en": "Reports say Tian Yonglong has moved into Tencent's CEO office and now reports to Yao, signaling an expansion of his organizational scope.",
+    "zh": "据报道田永龙进入腾讯CEO办公室，向姚顺雨汇报，显示其管理范围有所扩大。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wcmJzcklJLWhmVm02THpaNF82YjlPRWc4ZEJlb3pCOXJLVWN6ZDQ5SW5zZTBFN00yMEdxMTg4ZV9kQ3c5ck1sd0NJZHdIWVR5UTY0?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-08",
    "ts": "2026-09-08T07:00:00Z",
    "level": "notable",
@@ -1819,6 +1836,23 @@
    "judged": true
   },
   {
+   "date": "2026-06-05",
+   "ts": "2026-06-05T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "汤道生 x 姚顺雨：腾讯AI下半场",
+    "zh": "汤道生 x 姚顺雨：腾讯AI下半场"
+   },
+   "body": {
+    "en": "Joint feature with Tencent Cloud head Tang Daosheng on the 'second half' of Tencent's AI strategy.",
+    "zh": "与腾讯云负责人汤道生共同探讨腾讯AI战略的“下半场”。"
+   },
+   "source": "华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Sa1YzMEZpc3pOcnhiNDVQZmFRczNBYWgxVFNjV1ZpanlqaTlrWlpiRmQtajdHZXFkZGFxVW5SM2JuczZBeHgwSjlwelhpUDV0c3pJ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-04-24",
    "ts": "2026-04-24T07:00:00Z",
    "level": "major",
@@ -1945,7 +1979,7 @@
  },
  "cat": "lab",
  "score": {
-  "total": 31.4,
+  "total": 31.6,
   "attention": 0,
   "centrality": 50,
   "momentum": 83,
@@ -1953,7 +1987,7 @@
   "pageviews": 93,
   "citations": 5538,
   "hIndex": 14,
-  "events": 61,
+  "events": 63,
   "posts": 37,
   "wikiEn": "Shunyu Yao",
   "wikiZh": null

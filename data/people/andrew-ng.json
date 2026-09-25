@@ -1,5 +1,5 @@
 {
- "rank": 24,
+ "rank": 23,
  "id": "andrew-ng",
  "name": {
   "en": "Andrew Ng",
@@ -2141,6 +2141,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T05:14:05Z",
+   "level": "notable",
+   "title": {
+    "en": "吴恩达批评AI灭绝论： 堪比科幻小说新一波造势或意在影响监管",
+    "zh": "吴恩达批评AI灭绝论： 堪比科幻小说新一波造势或意在影响监管"
+   },
+   "body": {
+    "en": "Andrew Ng publicly criticized AI-extinction narratives as comparable to science fiction, suggesting the latest wave of doom messaging may be aimed at influencing AI regulation.",
+    "zh": "吴恩达公开批评AI灭绝论，称其堪比科幻小说，认为新一轮造势可能意在影响AI监管政策。"
+   },
+   "source": "cnbeta.com.tw",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93WnQwMXZyT0RNQldpcjZMWm9xWE1hdzRDZVlyZnNHRnZycXptd082cWswOFN3MDFpbF8xSlFUeVI2YUJxYXljdVlwQ0V1TGUzdkRTWWVxQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-17",
    "ts": "2026-09-17T00:00:00Z",
    "level": "notable",
@@ -3168,15 +3185,15 @@
  },
  "cat": "research",
  "score": {
-  "total": 66.6,
+  "total": 66.7,
   "attention": 69,
-  "centrality": 38,
+  "centrality": 39,
   "momentum": 90,
   "stature": 76,
   "pageviews": 337525,
   "citations": 131102,
   "hIndex": 124,
-  "events": 66,
+  "events": 67,
   "posts": 98,
   "wikiEn": "Andrew Ng",
   "wikiZh": "吴恩达"

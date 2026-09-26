@@ -1,5 +1,5 @@
 {
- "rank": 28,
+ "rank": 29,
  "id": "lilian-weng",
  "name": {
   "en": "Lilian Weng",
@@ -1857,6 +1857,23 @@
    "judged": true
   },
   {
+   "date": "2026-07-30",
+   "ts": "2026-07-30T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "这这这…翁荔光速回OpenAI上班了",
+    "zh": "这这这…翁荔光速回OpenAI上班了"
+   },
+   "body": {
+    "en": "Lilian Weng returned to OpenAI after her stint at Thinking Machines Lab, another shift in her career trajectory.",
+    "zh": "翁荔在Thinking Machines Lab任职后又回到OpenAI工作，是其职业轨迹的又一次变动。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMEFkajBtUEJRSFQwbGJSTHVGbVpsS1phMzBfamhpN2RLZWk4V3M4bVVoazdwTUNEdmIwVVBsUlY4MXpLUmRfakQzbXM0TzZEY0ZaTFlmbU5rdWpKdDRMMG1FQm93ZnpLWHFGMlpGTVNFNWhlNWJXbzduTTZ6bFd5MWFLQ1hSS3g0Z05V?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-07-29",
    "ts": null,
    "level": "major",
@@ -2476,15 +2493,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 64.9,
+  "total": 64.4,
   "attention": null,
   "centrality": 47,
-  "momentum": 86,
+  "momentum": 85,
   "stature": null,
   "pageviews": 0,
   "citations": 3937,
   "hIndex": 16,
-  "events": 53,
+  "events": 54,
   "posts": 73,
   "wikiEn": "Lilian Weng",
   "wikiZh": null

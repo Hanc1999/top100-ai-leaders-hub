@@ -1,5 +1,5 @@
 {
- "rank": 67,
+ "rank": 66,
  "id": "jurgen-schmidhuber",
  "name": {
   "en": "Jürgen Schmidhuber",
@@ -983,6 +983,23 @@
    },
    "source": "The Decoder",
    "url": "https://the-decoder.com/a-self-rewriting-ai-from-kaust-revives-jurgen-schmidhubers-vision-of-a-godel-machine/"
+  },
+  {
+   "date": "2026-09-24",
+   "ts": "2026-09-24T19:18:47Z",
+   "level": "major",
+   "title": {
+    "en": "Jürgen Schmidhuber Joins Sakana AI to Lead an RSI Laboratory",
+    "zh": "Jürgen Schmidhuber Joins Sakana AI to Lead an RSI Laboratory"
+   },
+   "body": {
+    "en": "Schmidhuber is reported to be joining Sakana AI to lead a recursive self-improvement (RSI) laboratory, moving on from his KAUST post.",
+    "zh": "据报道，施密德胡伯将加入Sakana AI，领导一个递归自我改进（RSI）实验室，意味着他将离开KAUST现职。"
+   },
+   "source": "Brief IA",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMHVKenlSYzZqSUVvWG1FMzlmd1RJLTA5bGx4SVIxR0JiV1ZiVGl6V2pHNU1pOC1Ma21WLXp3VGFfU2FlWEc2NFdPWW90VFNBbnFfaFhrQ29rTFg5aEZtd3gtUTFvSzJQUDc5ZGk2cU1oalFsLTZVblJsdTVRLUdad0VxV2V3dnBOR2h3cWFCQUxKbDRtU2U5WFR0TjRrRVpZNEVDWg?oc=5",
+   "auto": true,
+   "judged": true
   }
  ],
  "changed": false,
@@ -992,15 +1009,15 @@
  },
  "cat": "research",
  "score": {
-  "total": 33.3,
+  "total": 35.3,
   "attention": 42,
   "centrality": 9,
-  "momentum": 21,
+  "momentum": 30,
   "stature": 88,
   "pageviews": 60498,
   "citations": 185831,
   "hIndex": 89,
-  "events": 1,
+  "events": 2,
   "posts": 44,
   "wikiEn": "Jürgen Schmidhuber",
   "wikiZh": "于尔根·施密德胡伯"

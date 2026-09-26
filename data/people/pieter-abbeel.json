@@ -924,6 +924,25 @@
    "connector": "x"
   },
   {
+   "date": "2023-03-15",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Yoshua Bengio: equipping AI with higher level cognition and creativity",
+    "zh": "Yoshua Bengio: equipping AI with higher level cognition and creativity"
+   },
+   "source": "The Robot Brains Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/yoshua-bengio-equipping-ai-with-higher-level-cognition/id1559275284?i=1000604293586&uo=4",
+   "note": {
+    "en": "Pieter Abbeel hosts Yoshua Bengio on his Robot Brains Podcast for a conversation on large language models, higher-level cognition and responsible AI.",
+    "zh": "Pieter Abbeel在其主持的The Robot Brains播客节目中对谈Yoshua Bengio，讨论大语言模型、高阶认知与负责任的人工智能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2022-06-01",
    "ts": null,
    "kind": "x",
@@ -1144,7 +1163,7 @@
   "citations": 79473,
   "hIndex": 123,
   "events": 2,
-  "posts": 50,
+  "posts": 51,
   "wikiEn": "Pieter Abbeel",
   "wikiZh": "彼得·阿比爾"
  },

@@ -1,5 +1,5 @@
 {
- "rank": 26,
+ "rank": 24,
  "id": "xiao-hong",
  "name": {
   "en": "Xiao Hong",
@@ -416,6 +416,40 @@
    "judged": true
   },
   {
+   "date": "2026-09-01",
+   "ts": "2026-09-01T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "刚刚！Manus宣布恢复独立运营，肖弘张涛季逸超继续领导公司",
+    "zh": "刚刚！Manus宣布恢复独立运营，肖弘张涛季逸超继续领导公司"
+   },
+   "body": {
+    "en": "Manus announced it is resuming independent operations, with Xiao Hong, Zhang Tao and Peak Ji continuing to lead the company.",
+    "zh": "Manus宣布恢复独立运营，肖弘、张涛与季逸超将继续领导公司。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xOGkwb0VhNUY2TFpYU1B6WWszcEQwTkJoZFQ3czJTQnFDTVJHVE5mdkVPaEtFTThPRGE4Q0xRbDhPV3MwLUpqTFlKS3I2cF83U3pR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-01",
+   "ts": "2026-09-01T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Manus宣布正式恢复独立运营，创始人肖弘及团队留任",
+    "zh": "Manus宣布正式恢复独立运营，创始人肖弘及团队留任"
+   },
+   "body": {
+    "en": "Manus announced it has resumed fully independent operations, with founder Xiao Hong and the core team staying on.",
+    "zh": "Manus宣布正式恢复独立运营，创始人肖弘及核心团队留任。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jOXhtNWpNUG5OUGdDbmZLN2poVUJON0xXS3VMOTcwR1RvZzNrYUkxa1JIS0Y4NmVsX29jN0xXVEJhUlk5V2F0dkV1aTVKT3ZXWHFz?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-08-27",
    "ts": null,
    "level": "notable",
@@ -518,6 +552,23 @@
    "judged": true
   },
   {
+   "date": "2026-05-22",
+   "ts": "2026-05-22T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "消息称 Manus 创始人肖弘、季逸超、张涛考虑融资 10 亿美元回购公司，后续或赴港 IPO",
+    "zh": "消息称 Manus 创始人肖弘、季逸超、张涛考虑融资 10 亿美元回购公司，后续或赴港 IPO"
+   },
+   "body": {
+    "en": "Manus founders including Xiao Hong are reportedly considering a $1B buyback of the company, with a possible Hong Kong IPO to follow.",
+    "zh": "据报道，包括肖弘在内的Manus创始人正考虑融资10亿美元回购公司，后续可能在香港上市。"
+   },
+   "source": "手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNb05LcG13TWkxaUMwbTdFcTl0aUtQMzlTMEY1aEFKekpPT0VOcl9ib01GSmlQMVpNeVppNVJkbktUZVFfOEw4eDJxelZjdkRfcEZyYVppVTBrS3FCcTE5aEdEejJlemtHZkdYd2cyM1llRkd1UDRTUUZuaFB4RXVuSWVwdXF3R3VsejRxVkhHTUlueXBPYjdSOGx3ZGpaS0htellkS2g5NlFKNDJZYVE3QV9HT2hoNlNLa1dyVHJvOEo2UDlkcG9KY1RaUk0wcmJHb2w5ZlRoS0JqYWoxTE9CR1pDd0wzUGpfYXNDNGxlNDVPSzBfN3UxVkN4QS1GUmhNSDlTZFRDSWtmdVdtanVWQkVkM0IzMWFKTm1Cb2tuUWdtaFh0Y2JGRDY2Yk44UHI3OC1hNWFMTEUxSDhSUWNwSVVoNUt5RWxOVXotZ29Eajh6UXhBRENjWTJUdTFHdHpOWFNGNmZmSmxKV1VLd3JhSTlNRnUweXVFWC1oQW1fcWFoeVVvMmdkWjlLTlI4SmRJSlduLWs2ZWdScWFaM015QUpLVksxT0ZTOHUyM2dtc1BQTjFOTUY2c0NB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-04-28",
    "ts": "2026-04-28T07:00:00Z",
    "level": "major",
@@ -610,15 +661,15 @@
  },
  "cat": "product",
  "score": {
-  "total": 65.4,
+  "total": 66.5,
   "attention": 74,
   "centrality": 52,
-  "momentum": 64,
+  "momentum": 69,
   "stature": 64,
   "pageviews": 422825,
   "citations": 60154,
   "hIndex": 121,
-  "events": 22,
+  "events": 25,
   "posts": 5,
   "wikiEn": "Manus (AI agent)",
   "wikiZh": "Manus"

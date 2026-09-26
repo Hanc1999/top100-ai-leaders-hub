@@ -169,6 +169,25 @@
    }
   },
   {
+   "date": "2026-09-25",
+   "ts": "2026-09-25T12:39:48Z",
+   "kind": "x",
+   "title": {
+    "en": "When I posted my blog post on the misaligned behavior of AI agents, I invited people to ask me technical questions. Watch the full Q&amp;A here: [https://t.co/L",
+    "zh": "When I posted my blog post on the misaligned behavior of AI agents, I invited people to ask me technical questions. Watch the full Q&amp;A here: [https://t.co/L"
+   },
+   "source": "@yoshua_bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2103464486678012190",
+   "note": {
+    "en": "Bengio shared a full Q&A video answering technical questions prompted by his blog post on misaligned behavior in AI agents.",
+    "zh": "本吉奥分享了一段完整问答视频，回答了他关于AI智能体错位行为的博文所引发的技术问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-09-23",
    "ts": "2026-09-23T20:12:08Z",
    "kind": "x",
@@ -1511,25 +1530,6 @@
    "note": {
     "en": "Bengio recounts appearing on BBC Newsnight to discuss AI's recent capability gains and risks of harm and power concentration.",
     "zh": "本吉奥讲述在BBC Newsnight节目中探讨AI近期能力提升及其带来的危害与权力集中风险。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
-   "date": "2026-04-08",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Today, our group at @Mila_Quebec and the lab of @francesarnold at @Caltech just released a new paper I contributed to, exploring how multimodal generative model",
-    "zh": "Today, our group at @Mila_Quebec and the lab of @francesarnold at @Caltech just released a new paper I contributed to, exploring how multimodal generative model"
-   },
-   "source": "@Yoshua_Bengio",
-   "url": "https://x.com/Yoshua_Bengio/status/2041929520421151043",
-   "note": {
-    "en": "Bengio announces a new paper with Frances Arnold's Caltech lab exploring how multimodal generative modeling could accelerate protein science.",
-    "zh": "本吉奥宣布与Frances Arnold位于加州理工的实验室合作发表新论文,探讨多模态生成建模如何加速蛋白质科学研究。"
    },
    "auto": true,
    "judged": true,
@@ -2926,6 +2926,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T20:22:49Z",
+   "level": "notable",
+   "title": {
+    "en": "AI pioneer Yoshua Bengio wishes Canada's AI legislation was further along by now",
+    "zh": "AI pioneer Yoshua Bengio wishes Canada's AI legislation was further along by now"
+   },
+   "body": {
+    "en": "Bengio publicly said he wishes Canada's AI legislation were further along, staking out a stance on the pace of domestic AI regulation.",
+    "zh": "本吉奥公开表示希望加拿大的AI立法进程能够更快，就国内AI监管的推进速度表明立场。"
+   },
+   "source": "CTV News",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaS1WNHRpNnFnNlQ2eU1xN3JaSWZMMGhQa0VQckJPb0xjbklxc2ZZQy1yZDJwcTMxR0gxTVdWa2Q1U3lFOGdYb0locnBQYlRyMmpiWU1KdTJSZGlyTk56d3FYWjM1V190VGI4b3JSQ3M1a0VYWFlNelptM2t3d2VvbGdLVi1HbjlDRDVhNXZKSkhzMDRMcmtWblVfazJMajlYVEtjOTVvNm9hSEwzbFQ1a05jZXNZMmlOcU85SA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-07",
    "ts": null,
    "level": "major",
@@ -3060,7 +3077,7 @@
   "pageviews": 276660,
   "citations": 475043,
   "hIndex": 184,
-  "events": 42,
+  "events": 43,
   "posts": 115,
   "wikiEn": "Yoshua Bengio",
   "wikiZh": "约书亚·本希奥"

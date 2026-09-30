@@ -193,6 +193,44 @@
    }
   },
   {
+   "date": "2026-09-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "KITE: KV-Invariant Transformer Expansion for Efficient Agentic LLM Scaling",
+    "zh": "KITE: KV-Invariant Transformer Expansion for Efficient Agentic LLM Scaling"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.27294v1",
+   "note": {
+    "en": "Co-authored KITE, a KV-cache-invariant transformer expansion method aimed at scaling agentic LLM inference more efficiently.",
+    "zh": "合著论文提出KITE，一种KV缓存不变的Transformer扩展方法，旨在更高效地扩展智能体大模型的推理规模。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
+    "zh": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.24983v1",
+   "note": {
+    "en": "Co-authored onPanda, an interactive tool for token-level correction when annotating LLM alignment and agent-trajectory data.",
+    "zh": "合著论文提出onPanda，一款用于标注大模型对齐数据和智能体轨迹数据的交互式工具，核心是token级别的修正。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-12",
    "ts": null,
    "kind": "paper",
@@ -932,6 +970,25 @@
    "judged": true,
    "platform": "openalex",
    "connector": "openalex"
+  },
+  {
+   "date": "2025-06-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Mixture-of-Experts Can Surpass Dense LLMs Under Strictly Equal Resource",
+    "zh": "Mixture-of-Experts Can Surpass Dense LLMs Under Strictly Equal Resource"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "https://arxiv.org/abs/2506.12119",
+   "note": {
+    "en": "Co-authored a paper showing sparsely activated Mixture-of-Experts models can outperform dense LLMs when compute and parameters are held strictly equal, a result that bears on StepFun's own model design choices.",
+    "zh": "合著论文表明，在严格保持计算量和参数量相等的条件下，稀疏混合专家（MoE）模型可以超越稠密大模型，这一结果与阶跃星辰自身的模型设计选择直接相关。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   }
  ],
  "news": [
@@ -962,6 +1019,23 @@
    },
    "source": "21jingji",
    "url": "https://www.21jingji.com/article/20260126/herald/ab49c627b94f150c3ff9d87ff4c50ebc.html"
+  },
+  {
+   "date": "2026-09-28",
+   "ts": "2026-09-28T13:35:07Z",
+   "level": "notable",
+   "title": {
+    "en": "o1发布后，信息量最大的圆桌对话：杨植麟、姜大昕、朱军探讨大模型技术路径",
+    "zh": "o1发布后，信息量最大的圆桌对话：杨植麟、姜大昕、朱军探讨大模型技术路径"
+   },
+   "body": {
+    "en": "Joined a widely discussed roundtable with Moonshot's Yang Zhilin and Zhu Jun to debate the technical path for large models after OpenAI's o1, a rare joint public appearance by three Chinese lab leaders.",
+    "zh": "与月之暗面杨植麟、朱军共同参与了一场广受关注的圆桌对话，探讨o1发布后大模型的技术路径，是三位中国实验室负责人罕见的联合公开亮相。"
+   },
+   "source": "geekpark.net",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XUURXMUR4WHJaSExwXzRHZ2JLZFpmSnAxb2l4dGJ0ejA3eXlJWXhseVNJZVBhX3lQbUdTV3Fzb2lxNzA0V1NRd3VzUDQ?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-09-17",
@@ -1098,8 +1172,8 @@
   "pageviews": 0,
   "citations": 12459,
   "hIndex": 45,
-  "events": 9,
-  "posts": 40,
+  "events": 10,
+  "posts": 43,
   "wikiEn": null,
   "wikiZh": null
  },

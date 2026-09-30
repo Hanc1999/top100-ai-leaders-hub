@@ -753,6 +753,23 @@
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNUtVSURTM1dpcmxGTWRrYm9YUGktaVB5anBlSmZXazZuanRBaWtSUHlFR2c2eFpiNWljTWVpZXVFQW0yUWd3cUZWN3c4SURlNDlOUDFoY2RhWGRoc1Q0TndvOElaa0JfV1RneEV3MUhxLS1uNm11VE0tLUFEbVo3RTU2dy14VDR5YlBqSXZBdUMwRXFrcnc?oc=5",
    "auto": true,
    "judged": true
+  },
+  {
+   "date": "2026-04-27",
+   "ts": "2026-04-27T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "David Silver Raises $1.1 Billion for Ineffable Intelligence at $5.1 Billion Valuation",
+    "zh": "David Silver Raises $1.1 Billion for Ineffable Intelligence at $5.1 Billion Valuation"
+   },
+   "body": {
+    "en": "Silver's Ineffable Intelligence raised $1.1 billion at a $5.1 billion valuation, a major funding milestone for his post-DeepMind venture.",
+    "zh": "Silver创办的Ineffable Intelligence完成11亿美元融资，估值达51亿美元，是他离开DeepMind后创业的重要融资里程碑。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbkk5SWV0WU9qVUJUUFRwSlZDcWt6LXhQMGgyVXdFOGEzOHc5a1pueDlNNm01SVBPMUxlOG1TX3Z0a2I3TGsydmZsSnhSVm4zbWZpOFBQX2h5Um1HN1dDcVE4ZjhsaUoxUnU5dDN1OVhyeGVpR1paZFB3eTE5d0hpQWU4YUplemd1WkxiS29Uem9UMHpCSWkw?oc=5",
+   "auto": true,
+   "judged": true
   }
  ],
  "changed": true,
@@ -762,15 +779,15 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 45.1,
+  "total": 45.8,
   "attention": 39,
   "centrality": 47,
-  "momentum": 39,
+  "momentum": 42,
   "stature": 80,
   "pageviews": 52977,
   "citations": 166819,
   "hIndex": 76,
-  "events": 10,
+  "events": 11,
   "posts": 24,
   "wikiEn": "David Silver (computer scientist)",
   "wikiZh": "戴維·西爾弗"

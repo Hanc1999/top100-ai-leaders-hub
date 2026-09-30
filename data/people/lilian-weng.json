@@ -1636,6 +1636,23 @@
    "judged": true
   },
   {
+   "date": "2026-08-18",
+   "ts": "2026-08-18T17:38:59Z",
+   "level": "major",
+   "title": {
+    "en": "翁荔离开Thinking Machines Lab：首个大模型发布两周后，又一位联合创始人退场",
+    "zh": "翁荔离开Thinking Machines Lab：首个大模型发布两周后，又一位联合创始人退场"
+   },
+   "body": {
+    "en": "Lilian Weng left Thinking Machines Lab two weeks after its first model release, becoming another co-founder to depart.",
+    "zh": "翁荔在Thinking Machines Lab发布首个大模型两周后离职，成为又一位离场的联合创始人。"
+   },
+   "source": "麻省理工科技评论",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JZmxiSHV4UE5EQXRFdTNkMXNDOEdXaUh6Mi1rZkJHMHVucE9WYWc0R1c2akdQT2hFVjJPRDhyMkpOaFowN0ZMeDRVUjVYRUFkaHc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-07-30",
    "ts": null,
    "level": "major",
@@ -1870,6 +1887,23 @@
    },
    "source": "新浪财经",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMEFkajBtUEJRSFQwbGJSTHVGbVpsS1phMzBfamhpN2RLZWk4V3M4bVVoazdwTUNEdmIwVVBsUlY4MXpLUmRfakQzbXM0TzZEY0ZaTFlmbU5rdWpKdDRMMG1FQm93ZnpLWHFGMlpGTVNFNWhlNWJXbzduTTZ6bFd5MWFLQ1hSS3g0Z05V?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-30",
+   "ts": "2026-07-30T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "啊哈？翁荔又回 OpenAI 了？",
+    "zh": "啊哈？翁荔又回 OpenAI 了？"
+   },
+   "body": {
+    "en": "Lilian Weng returned to OpenAI after her stint at Thinking Machines Lab, according to Chinese-language reporting.",
+    "zh": "据中文媒体报道，翁荔在短暂加入 Thinking Machines Lab 后重新回到 OpenAI。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PUjBzN3FkYzVWWVZsMnlmbW9KeUtYaWEwc3BzWW1iSjA1MWw2STJVTDNZTVpwYkNHQklxYmZtRXVsUTQ2eE9qT3hpS1c3NVdwMnVNMDYyR0ljZ2FtbTd3Y2FOUjJFVXZhUlJ3eDNuNHIyekVFN2EzdE9sVF93SVE?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2493,15 +2527,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 64.4,
+  "total": 64.0,
   "attention": null,
   "centrality": 47,
-  "momentum": 85,
+  "momentum": 84,
   "stature": null,
   "pageviews": 0,
   "citations": 3937,
   "hIndex": 16,
-  "events": 54,
+  "events": 56,
   "posts": 73,
   "wikiEn": "Lilian Weng",
   "wikiZh": null

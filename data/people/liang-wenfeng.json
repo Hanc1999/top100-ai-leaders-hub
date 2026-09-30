@@ -1,5 +1,5 @@
 {
- "rank": 21,
+ "rank": 20,
  "id": "liang-wenfeng",
  "name": {
   "en": "Liang Wenfeng",
@@ -225,6 +225,44 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-09-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DeepSeek Elastic Compute (DSec): A Sandbox Infrastructure for Effective Agentic Training at Scale",
+    "zh": "DeepSeek Elastic Compute (DSec): A Sandbox Infrastructure for Effective Agentic Training at Scale"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.22978v1",
+   "note": {
+    "en": "\"DeepSeek Elastic Compute (DSec)\": a paper on sandbox infrastructure for large-scale agentic training and evaluation, describing the isolated execution environments behind DeepSeek's agent work.",
+    "zh": "《DeepSeek弹性计算（DSec）》：一篇关于大规模智能体训练与评估沙箱基础设施的论文，介绍了支撑DeepSeek智能体工作的隔离执行环境。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression",
+    "zh": "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.19969v1",
+   "note": {
+    "en": "\"DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression\" — a technical paper on cutting the cost of long-context, input-heavy agent workloads.",
+    "zh": "《DeepSeek-V4.1-Flash》：探讨KV缓存压缩极限的技术论文，旨在降低长上下文、输入密集型智能体工作负载的成本。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-07-06",
@@ -518,6 +556,74 @@
    "url": "https://decodethefuture.org/en/deepseek-r2-explained/"
   },
   {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T13:40:27Z",
+   "level": "notable",
+   "title": {
+    "en": "刚刚，DeepSeek Harness桌面端上线，梁文锋开送Token了",
+    "zh": "刚刚，DeepSeek Harness桌面端上线，梁文锋开送Token了"
+   },
+   "body": {
+    "en": "DeepSeek launched a desktop version of Harness and began distributing free usage tokens.",
+    "zh": "DeepSeek上线Harness桌面端，并开始向用户发放免费使用Token。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE05cmdVb3lfNGFUdDdVV0tUMjBTY3pXUTNhdnY4SnlGRDg0bVFUbXdOdlRxMG5qZWpMMkxseEhNTEd3Yl9XMV9xQU9KbUM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T14:22:10Z",
+   "level": "notable",
+   "title": {
+    "en": "刚刚，DeepSeek Harness桌面端上线，梁文锋开送Token了",
+    "zh": "刚刚，DeepSeek Harness桌面端上线，梁文锋开送Token了"
+   },
+   "body": {
+    "en": "DeepSeek launched its Harness desktop app, with Liang Wenfeng offering free tokens to mark the release.",
+    "zh": "DeepSeek Harness桌面端正式上线，梁文锋借此机会开放赠送Token。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVUZsWTR1aXpEdVVHc0NsUDc2SU5wQ3VTOTVvdElZcmJTWWdjOUwwVkVGV1BQS0J0WVlBSUc1MlhNUlNwSGVDUmdPY001YUpHT2Z3amZTYk4yTDhCUk5rRzFvR3ZOVDdBM2NCRU10N1BGa3lwV01iSTJiMk9xc1k1cTA3NWRWSGRVT3ZTVXpDU2s2amNyVWFQQkhKbzRZdUpnQ0x3Uk13Y0N6OW9LenUxWHdn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T14:06:13Z",
+   "level": "notable",
+   "title": {
+    "en": "刚刚，DeepSeek Harness桌面端上线，梁文锋开送Token了",
+    "zh": "刚刚，DeepSeek Harness桌面端上线，梁文锋开送Token了"
+   },
+   "body": {
+    "en": "DeepSeek launched a desktop version of DeepSeek Harness, with Liang Wenfeng giving away free tokens.",
+    "zh": "DeepSeek Harness桌面端上线，梁文锋宣布赠送Token。"
+   },
+   "source": "新浪新闻_手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb0poS2hxOF9ndDluS3hVX2Ywbm16Z0VsWVN4UU8zTHhsY01rclRfdk52YnI3OHRJRl9aN0M5bjNuQ3NLZl9nTXJ1bk02R2Y4UEh5T3BUTEVJNGV1RV90bEtTYU5QVWthSFRhNThBbGZoOXZvbE50QzFuZEtQV2w3YnNCRTVHMzJjbWRrVTRDYlFINkFwcmR3Z3JxdHp6M042Z2NBSlNxN2RyQkk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T13:43:48Z",
+   "level": "major",
+   "title": {
+    "en": "刚刚，DeepSeek Harness桌面端上线，梁文锋开送Token了",
+    "zh": "刚刚，DeepSeek Harness桌面端上线，梁文锋开送Token了"
+   },
+   "body": {
+    "en": "DeepSeek launched a desktop client for its Harness agent tool, with Liang giving away free tokens to mark the release.",
+    "zh": "DeepSeek推出Harness桌面客户端，梁文锋在发布之际赠送免费Token。"
+   },
+   "source": "智东西",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5TbjVHSDdHQXVCbXg4WjVoYlpPTGJ3WWpzM1NiZG1OY0pqRWFVRi05UkxRSGt2VDM2UFVWX0RUalgyLVZyUlE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-25",
    "ts": "2026-09-25T07:23:27Z",
    "level": "notable",
@@ -701,6 +807,40 @@
    },
    "source": "thepaper.cn",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DVG1GcmJRNkhtaldwUUJzRlUyUTlvX1ZtekhBOURRbktJTWI0WTJyam0teXhHNVBtaFBVZXAtaHZvTnVCZkFIejFLRnlpZ0VQelBNX1JuMmRpTm5zenpocw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-24",
+   "ts": "2026-09-24T00:58:00Z",
+   "level": "notable",
+   "title": {
+    "en": "DeepSeek最新智能体论文：梁文锋署名，单集群每天运行300万个沙盒，还要防AI“作弊”",
+    "zh": "DeepSeek最新智能体论文：梁文锋署名，单集群每天运行300万个沙盒，还要防AI“作弊”"
+   },
+   "body": {
+    "en": "DeepSeek published a new paper on its agent-training infrastructure, disclosing a cluster running 3 million sandboxes a day (the 'DSec' platform behind V4.1) with built-in defenses against AI agents learning to cheat during training; Liang Wenfeng is listed among its 130+ authors.",
+    "zh": "DeepSeek发布了一篇关于其智能体训练基础设施的新论文，披露单集群每日运行300万个沙盒（支撑V4.1的DSec平台），并内置防止AI在训练中学会「作弊」的机制；梁文锋位列130多位作者之中。"
+   },
+   "source": "thepaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mYzE0VUQ1ekZGbjV1R1FhRFZGeGFsSV80T2E5LUdUTEJVSm9VWDBUTXhpZDZjQ3E0QXY0akZveXAxQzNuQTczdUdxc0RSaVhjV0VoWW1pM3gybVN0b2c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-24",
+   "ts": "2026-09-24T04:11:00Z",
+   "level": "minor",
+   "title": {
+    "en": "梁文锋找了个学环保的投资人，做DeepSeek的CFO",
+    "zh": "梁文锋找了个学环保的投资人，做DeepSeek的CFO"
+   },
+   "body": {
+    "en": "DeepSeek hired Yan Wentao, a young investor with an environmental-science background from Fudan University, as the company's CFO, a Liang Wenfeng-led appointment reported alongside news of an upcoming second funding round.",
+    "zh": "DeepSeek聘请拥有复旦大学环境科学背景的年轻投资人严文韬出任公司CFO，这是梁文锋主导的人事任命，恰逢公司筹备第二轮融资的消息传出之际。"
+   },
+   "source": "腾讯新闻",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBudTk4SVdSY3VwRTVtZVRrZkhJUi1CbHNMZ0NHZHhXYi11MzlCaW9DeEd5LTd3ZEVTNWR1NXFscGpuaGhVelRNV1llU2FibjF4c2IxQ3h3?oc=5",
    "auto": true,
    "judged": true
   },
@@ -1011,6 +1151,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-23",
+   "ts": "2026-09-23T13:11:28Z",
+   "level": "notable",
+   "title": {
+    "en": "梁文锋署名！DeepSeek最新论文公开，交出Agent训练“焚决”",
+    "zh": "梁文锋署名！DeepSeek最新论文公开，交出Agent训练“焚决”"
+   },
+   "body": {
+    "en": "Coverage noting Liang Wenfeng is personally credited as an author on DeepSeek's newest agent-training paper — a rare public byline for a founder who typically stays off DeepSeek's papers.",
+    "zh": "报道指出梁文锋亲自署名DeepSeek最新的智能体训练论文——这位通常不在DeepSeek论文中署名的创始人罕见地公开挂名。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT3I3WWIzVzdLUGNTNzRkTU1kLWFvQjIwNDdCN3luZmJjSjFISVlYMnp6aHBUOXpSQXhtdDRual8tVEtCNGpEdjNpS21SQVJPaTZrX1U1WFoxSEM1cV9XQkx0TndjVUVaT2hnbzdWT2pSWTJzV2k5TUQ2VC0zQkJ2c1VKeW9zWm04?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-22",
    "ts": "2026-09-22T02:22:58Z",
    "level": "notable",
@@ -1177,6 +1334,23 @@
    },
    "source": "36kr.com",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10UHc5YVo0UDFMQXNQX1o0bHBkMWlNM1k3M2FYNlpRM0dGQ3NDczRQNFc2X1F0b0NheVJhd2R0c3R6bWp2a2V4MGcyVE5IQkxE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-22",
+   "ts": "2026-09-22T23:29:46Z",
+   "level": "notable",
+   "title": {
+    "en": "DeepSeek被曝将向联合国安理会作通报 梁文锋或不出席",
+    "zh": "DeepSeek被曝将向联合国安理会作通报 梁文锋或不出席"
+   },
+   "body": {
+    "en": "DeepSeek is reportedly set to brief the UN Security Council on AI, though Liang Wenfeng may not attend in person.",
+    "zh": "据报道DeepSeek将向联合国安理会就AI问题作通报，但梁文锋本人可能不会出席。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ramUyZnRobENLdFdGYkxPRy1lcUF0TThCMnJNdDZmMURBdkhWdkpMeDhuSzFSeHk3WDhwN1BRNmhNTENtbGEzMVEtRkdQOWxaTEg1Vi1EVFhQMjA2OWlZckp2MVBLcF9lcG5lSHhKS2tTR08zbURCT3pIYU5wajg?oc=5",
    "auto": true,
    "judged": true
   },
@@ -1415,6 +1589,23 @@
    },
    "source": "tmtpost.com",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTMGxqeHNpRlIybDY0V25wT2hYaHBVQS12OWt0RkY5TF84TjFzRDQ4SjFPSWxlWW5sZFhuTFhadm1LYXBhWERPOWc0YnQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "高瓴90后合伙人出任DeepSeek首任CFO，梁文锋的“资本翻译官”就位",
+    "zh": "高瓴90后合伙人出任DeepSeek首任CFO，梁文锋的“资本翻译官”就位"
+   },
+   "body": {
+    "en": "DeepSeek appointed its first CFO, a Hillhouse Capital partner in her thirties, formalizing the company's finance and capital-markets structure as it scales.",
+    "zh": "DeepSeek任命首任CFO，人选为高瓴资本一位90后合伙人，标志着公司在扩张过程中正式建立财务与资本运作体系。"
+   },
+   "source": "财富号",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wblNPYmdpUW51aFpUVlN0OFFMbEJoTDB0NjJzWFZwRHMwMHlhUmhiRGpFX3RPVUFxVVhFcWZsWkttYXpjNWZJQk9QYTcxYldHbnBGTlhoTkV5YnppX3R0TnAzX3RsTmNzQ01B?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2337,6 +2528,23 @@
    "judged": true
   },
   {
+   "date": "2026-08-09",
+   "ts": "2026-08-09T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "1.41亿，锁仓3年！梁文锋杀入宇树科技",
+    "zh": "1.41亿，锁仓3年！梁文锋杀入宇树科技"
+   },
+   "body": {
+    "en": "Liang Wenfeng, via his High-Flyer fund, invested RMB 141 million in humanoid-robotics maker Unitree with a three-year lockup, extending his footprint from AI models into robotics.",
+    "zh": "梁文锋通过其幻方基金向人形机器人公司宇树科技投资1.41亿元人民币，锁仓三年，将其布局从AI模型延伸至机器人领域。"
+   },
+   "source": "凤凰网财经",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iQ2lrNXVaVFI2SDBHOW9ZZlhKbzFZVkRROVBTcTFnUjNnRkFsSmFnUDdFUjhTNENkTlc4cEdaOC1VWGhkQkR3OVVoT3JLQW9k?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-07-27",
    "ts": "2026-07-27T01:18:08Z",
    "level": "notable",
@@ -2590,8 +2798,8 @@
   "pageviews": 186365,
   "citations": 5692,
   "hIndex": 37,
-  "events": 124,
-  "posts": 16,
+  "events": 134,
+  "posts": 18,
   "wikiEn": "Liang Wenfeng",
   "wikiZh": "梁文锋"
  },

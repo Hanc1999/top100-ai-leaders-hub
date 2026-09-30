@@ -202,6 +202,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2026-07-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching",
+    "zh": "Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.15607/rss.2026.xxii.020",
+   "note": {
+    "en": "Presents a system that lets a humanoid robot perform parkour by chaining dynamic human motion-matching skills, with Abbeel among the co-authors.",
+    "zh": "提出一种让人形机器人通过链接动态人类动作匹配技能来完成跑酷动作的系统，Abbeel 是合著者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-06-29",
    "ts": null,
    "kind": "paper",
@@ -506,25 +525,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2026-02-17",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching",
-    "zh": "Perceptive Humanoid Parkour: Chaining Dynamic Human Skills via Motion Matching"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2602.15827v2",
-   "note": {
-    "en": "Chains dynamic human skills through motion matching to give a humanoid perceptive parkour, going beyond stable walking to highly agile motion.",
-    "zh": "通过动作匹配将人类的动态技能串联起来，让人形机器人具备感知式跑酷能力，从稳定行走进阶到高度敏捷的运动。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2026-02-06",
    "ts": null,
    "kind": "paper",
@@ -618,6 +618,25 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2026-01-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SOMBRL: Scalable and Optimistic Model-Based RL",
+    "zh": "SOMBRL: Scalable and Optimistic Model-Based RL"
+   },
+   "source": "Repository for Publications and Resear…",
+   "url": "http://hdl.handle.net/20.500.11850/793059",
+   "note": {
+    "en": "Presents SOMBRL, a scalable model-based reinforcement learning algorithm built on an optimism-driven exploration principle.",
+    "zh": "提出 SOMBRL，一种基于乐观探索原则、可扩展的基于模型的强化学习算法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2025-12-17",
@@ -1163,7 +1182,7 @@
   "citations": 79473,
   "hIndex": 123,
   "events": 2,
-  "posts": 51,
+  "posts": 52,
   "wikiEn": "Pieter Abbeel",
   "wikiZh": "彼得·阿比爾"
  },

@@ -211,6 +211,120 @@
    }
   },
   {
+   "date": "2026-09-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Unified Trajectory Matching Policy Optimization: Diverse T2I Generation and VLA Generalization",
+    "zh": "Unified Trajectory Matching Policy Optimization: Diverse T2I Generation and VLA Generalization"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.34688v1",
+   "note": {
+    "en": "Co-authored a reinforcement-learning method (unified trajectory matching policy optimization) that improves diversity in text-to-image generation and generalization in vision-language-action robot policies.",
+    "zh": "合著了一种强化学习方法（统一轨迹匹配策略优化），可提升文本生成图像的多样性，并改善视觉-语言-动作机器人策略的泛化能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "InternW0-$Δ$: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data",
+    "zh": "InternW0-$Δ$: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.31394v1",
+   "note": {
+    "en": "InternW0-Δ bridges predictive world-model dynamics with robot action generation, trained on over 20,000 hours of open manipulation data.",
+    "zh": "InternW0-Δ将预测性世界动力学与机器人动作生成相结合，基于超过2万小时的开放数据训练。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "PFArena: Benchmarking Language Models for Protein Modification",
+    "zh": "PFArena: Benchmarking Language Models for Protein Modification"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.28921v1",
+   "note": {
+    "en": "PFArena benchmarks language models on protein-modification tasks, co-authored by Zhou alongside Shanghai AI Lab and Tsinghua collaborators.",
+    "zh": "PFArena对语言模型在蛋白质改造任务上的表现进行基准测试，周伯文与上海人工智能实验室及清华大学的合作者共同完成该研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "InternW0: A Foundational Physical World Model for Efficient Real-World Interactions",
+    "zh": "InternW0: A Foundational Physical World Model for Efficient Real-World Interactions"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.27656v1",
+   "note": {
+    "en": "InternW0 introduces a foundational physical world model meant to keep predictions actionable as the world changes.",
+    "zh": "InternW0提出了一个基础物理世界模型，力图在世界不断变化时保持预测的可操作性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Block-Sparse Attention with Semantic-Geometric Decoupled Routing",
+    "zh": "Block-Sparse Attention with Semantic-Geometric Decoupled Routing"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.22884v1",
+   "note": {
+    "en": "Proposes block-sparse attention with semantic-geometric decoupled routing to cut the cost of long-context inference.",
+    "zh": "提出了带有语义-几何解耦路由的块稀疏注意力机制，以降低长上下文推理的成本。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents",
+    "zh": "RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.22000v2",
+   "note": {
+    "en": "RecreationWorld proposes scalable, verifiable environments for agents that combine GUI interaction with code and command-line work.",
+    "zh": "RecreationWorld为兼具图形界面操作与代码/命令行能力的智能体提出了可扩展、可验证的环境。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-14",
    "ts": null,
    "kind": "paper",
@@ -722,6 +836,44 @@
    "judged": true,
    "platform": "openalex",
    "connector": "openalex"
+  },
+  {
+   "date": "2025-01-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning",
+    "zh": "Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning"
+   },
+   "source": "IEEE Transactions on Circuits and Syst…",
+   "url": "https://doi.org/10.1109/tcsvt.2025.3529423",
+   "note": {
+    "en": "A few-shot continual learning method using contrastive graph-to-graph memory interaction; Zhou is a co-author via his Tsinghua Electronic Engineering affiliation.",
+    "zh": "该论文提出了一种用于少样本持续学习的对比增强图到图记忆交互方法，周伯文以清华大学电子工程系身份参与合著。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "BrainOmni: A Brain Foundation Model for Unified EEG and MEG Signals",
+    "zh": "BrainOmni: A Brain Foundation Model for Unified EEG and MEG Signals"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.52202/085713-1375",
+   "note": {
+    "en": "BrainOmni proposes a brain foundation model that unifies EEG and MEG signal processing, co-authored by Zhou with Tsinghua and Shanghai AI Lab collaborators.",
+    "zh": "BrainOmni提出了一个统一处理脑电（EEG）和脑磁（MEG）信号的脑基础模型，周伯文与清华大学及上海人工智能实验室的合作者共同完成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   }
  ],
  "news": [
@@ -1095,6 +1247,23 @@
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KZmVUWDR3UmJrTzFETm9lVTM4cmQ1NHg3OWd1MmU1bjVkVzJkalJndURPSDJzNW4ySDdVMXBsVmpaSVMweXJBSnBINGIzOHhtVU04?oc=5",
    "auto": true,
    "judged": true
+  },
+  {
+   "date": "2026-06-25",
+   "ts": "2026-06-25T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "周伯文团队提出NatureBench：AI写的论文，能登上顶刊Nature吗？",
+    "zh": "周伯文团队提出NatureBench：AI写的论文，能登上顶刊Nature吗？"
+   },
+   "body": {
+    "en": "Bowen Zhou's team proposed NatureBench, a benchmark testing whether AI-written papers could pass muster at top journals like Nature, per 36Kr coverage.",
+    "zh": "据36氪报道，周伯文团队提出了NatureBench基准，用以检验AI撰写的论文能否达到《自然》等顶级期刊的发表水平。"
+   },
+   "source": "36kr.com",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WUENjYmZXQ29Hd196bFc5eDFOU2ZiQVdRZ1ZHcXV1U0toR3pialRNNjZOTm5aZXEtMzFzQ3liZ19yUXJXUG1XbzVaQjJydw?oc=5",
+   "auto": true,
+   "judged": true
   }
  ],
  "changed": false,
@@ -1112,8 +1281,8 @@
   "pageviews": 928,
   "citations": 16676,
   "hIndex": 51,
-  "events": 22,
-  "posts": 28,
+  "events": 23,
+  "posts": 36,
   "wikiEn": "Bowen Zhou",
   "wikiZh": null
  },

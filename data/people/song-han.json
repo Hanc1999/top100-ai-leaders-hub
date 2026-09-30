@@ -1,5 +1,5 @@
 {
- "rank": 92,
+ "rank": 93,
  "id": "song-han",
  "name": {
   "en": "Song Han",
@@ -228,6 +228,44 @@
    }
   },
   {
+   "date": "2026-09-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "d-OPD: Future-Aware On-Policy Distillation for Block Diffusion Language Models",
+    "zh": "d-OPD: Future-Aware On-Policy Distillation for Block Diffusion Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.35362v1",
+   "note": {
+    "en": "Song Han co-authored d-OPD, an on-policy distillation method that makes block diffusion language models generate more efficiently by anticipating future tokens.",
+    "zh": "韩松合著d-OPD论文，提出一种在线策略蒸馏方法，通过预判未来token让块扩散语言模型生成更高效。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Sol-H3: Recursive Self-Improvement for MiniMax-H3 Inference Acceleration on Sol-Engine across Cloud and Edge",
+    "zh": "Sol-H3: Recursive Self-Improvement for MiniMax-H3 Inference Acceleration on Sol-Engine across Cloud and Edge"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.35110v1",
+   "note": {
+    "en": "Song Han co-authored Sol-H3, a recursive self-improvement method that accelerates MiniMax-H3 video-diffusion inference across cloud and edge devices.",
+    "zh": "韩松合著Sol-H3论文，提出一种递归自我提升方法，加速MiniMax-H3视频扩散模型在云端与边缘设备上的推理。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-23",
    "ts": "2026-09-23T15:46:02Z",
    "kind": "x",
@@ -245,6 +283,25 @@
    "judged": true,
    "platform": "x",
    "connector": null
+  },
+  {
+   "date": "2026-09-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
+    "zh": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.20519v1",
+   "note": {
+    "en": "SoL-Pi, co-authored with longtime collaborators Ligeng Zhu and Enze Xie, scales recursive auto-research loops for building efficient long-horizon coding agents.",
+    "zh": "SoL-Pi论文由韩松与长期合作者朱立庚、谢恩泽等共同撰写，探讨如何递归扩展自动研究循环以构建高效的长程编程智能体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-09-14",
@@ -1362,7 +1419,7 @@
   "citations": 32832,
   "hIndex": 58,
   "events": 1,
-  "posts": 61,
+  "posts": 64,
   "wikiEn": null,
   "wikiZh": "韩松"
  },

@@ -562,6 +562,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2025-09-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The Future of Software Creation with Replit CEO Amjad Masad",
+    "zh": "The Future of Software Creation with Replit CEO Amjad Masad"
+   },
+   "source": "Y Combinator Startup Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/the-future-of-software-creation-with-replit-ceo-amjad-masad/id1236907421?i=1000726516882&uo=4",
+   "note": {
+    "en": "Masad discussed the future of software creation and Replit's trajectory as a guest on the Y Combinator Startup Podcast.",
+    "zh": "Masad作为嘉宾做客Y Combinator创业播客，讨论软件创作的未来与Replit的发展方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2025-08-06",
    "ts": null,
    "kind": "podcast",
@@ -688,6 +707,25 @@
    "note": {
     "en": "A founder interview on building Replit as a programming environment for non-programmers, and on the scale it now serves.",
     "zh": "一场创始人访谈，讲述如何把 Replit 打造成面向非程序员的编程环境，以及它目前的用户规模。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-11-21",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Behind the product: Replit | Amjad Masad (co-founder and CEO)",
+    "zh": "Behind the product: Replit | Amjad Masad (co-founder and CEO)"
+   },
+   "source": "Lenny's Podcast: Product | Career | Gr…",
+   "url": "https://podcasts.apple.com/us/podcast/behind-the-product-replit-amjad-masad-co-founder-and-ceo/id1627920305?i=1000677768493&uo=4",
+   "note": {
+    "en": "Amjad Masad appeared on Lenny's Podcast to discuss building Replit's AI-native coding platform and its growth to millions of users.",
+    "zh": "Amjad Masad做客Lenny's Podcast，畅谈打造Replit AI原生编程平台及其用户增长历程。"
    },
    "auto": true,
    "judged": true,
@@ -840,6 +878,25 @@
    "note": {
     "en": "Masad walks through Replit's thesis that software creation should be open to the next billion people, and how the browser-based environment gets there.",
     "zh": "Masad 阐述了 Replit 的核心主张——让下一个十亿人也能创作软件，以及浏览器端开发环境如何实现这一目标。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-12-08",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Designing The Future Of Software Engineering with Amjad Masad from Replit",
+    "zh": "Designing The Future Of Software Engineering with Amjad Masad from Replit"
+   },
+   "source": "FYI - For Your Innovation",
+   "url": "https://podcasts.apple.com/us/podcast/designing-the-future-of-software-engineering-with/id1271691895?i=1000589386975&uo=4",
+   "note": {
+    "en": "Masad appeared on the FYI podcast to discuss the future of software engineering and Replit's approach.",
+    "zh": "Masad在FYI播客中作客，探讨软件工程的未来以及Replit的产品理念。"
    },
    "auto": true,
    "judged": true,
@@ -1053,6 +1110,23 @@
    "url": "https://replit.com/news/funding-announcement"
   },
   {
+   "date": "2026-09-25",
+   "ts": "2026-09-25T07:53:29Z",
+   "level": "notable",
+   "title": {
+    "en": "Replit's Amjad Masad: AI Safety Is a Cyber Security Problem",
+    "zh": "Replit's Amjad Masad: AI Safety Is a Cyber Security Problem"
+   },
+   "body": {
+    "en": "Masad argues publicly that AI safety is fundamentally a cybersecurity problem, framing Replit's approach to securing AI-built software.",
+    "zh": "Masad公开表示AI安全本质上是一个网络安全问题，这也是Replit在保护AI生成软件方面的立场。"
+   },
+   "source": "app.dealroom.co",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSTl6bEpqeHlYdWtJQmducEJUOEpSbUpuMlNROWptYlkxSWF1VDliakFGVGhEZzV3dG5aeUhPNzV2SGdhYV9IeGdVak5Za3N0VjgxMVdGblFQckdHMFpRUnltVkZ2X1NneEI5cDF1eDR4Z3c3VjhfWnl1azhJN01WQ3YtQnlmMzZPaUMzQ1E4bll4aDJjZ0tv?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-05-02",
    "ts": "2026-05-02T07:00:00Z",
    "level": "notable",
@@ -1111,16 +1185,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 42.3,
+  "total": 42.5,
   "attention": 49,
   "centrality": 39,
-  "momentum": 34,
+  "momentum": 35,
   "stature": null,
   "pageviews": 87011,
   "citations": 0,
   "hIndex": 0,
-  "events": 4,
-  "posts": 48,
+  "events": 5,
+  "posts": 51,
   "wikiEn": "Amjad Masad",
   "wikiZh": null
  },

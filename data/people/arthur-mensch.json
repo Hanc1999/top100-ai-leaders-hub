@@ -177,6 +177,25 @@
    }
   },
   {
+   "date": "2026-09-28",
+   "ts": "2026-09-28T18:36:52Z",
+   "kind": "x",
+   "title": {
+    "en": "Only an open ecosystem can guarantee the safety of AI",
+    "zh": "Only an open ecosystem can guarantee the safety of AI"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/2104641506820935784",
+   "note": {
+    "en": "Mensch argues that only an open AI ecosystem can guarantee safety, reiterating his case for open-weight models over closed labs.",
+    "zh": "Mensch认为只有开放的AI生态才能保证安全，重申了他支持开放权重模型而非封闭实验室路线的立场。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-09-20",
    "ts": "2026-09-20T16:01:25Z",
    "kind": "x",
@@ -1347,6 +1366,40 @@
    "url": "https://www.cnbc.com/2026/05/28/mistral-arthur-mensch-design-chips-ai-data-centers.html"
   },
   {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T11:20:44Z",
+   "level": "notable",
+   "title": {
+    "en": "Mistral CEO Arthur Mensch slams U.S. AI safety debate",
+    "zh": "Mistral CEO Arthur Mensch slams U.S. AI safety debate"
+   },
+   "body": {
+    "en": "Mensch publicly criticized the U.S. approach to AI safety regulation, a stance from Mistral's CEO on how Europe's AI champion thinks the field should be governed.",
+    "zh": "Mensch公开批评美国的AI安全监管方式，这是Mistral CEO就欧洲AI旗舰企业认为该领域应如何被监管发表的立场。"
+   },
+   "source": "Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ0plS3NJRlhOdHkybmRuMlR6cFppZUJ2Qnd0MG81WlRnU2ZPR1hySXpMRFlrZFJ6aGRQd3ljVFo2d25FTGZUdmtGVC1yU3VFekZWRWpRTE9uTVpBM0tPUHktNlFRVER1aE1WcUxJMEIxZDdrMjFPcFRGVnAxTmF4bnhXQ3lvcGJW?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T11:21:22Z",
+   "level": "notable",
+   "title": {
+    "en": "Mistral CEO Arthur Mensch slams U.S. AI safety debate",
+    "zh": "Mistral CEO Arthur Mensch slams U.S. AI safety debate"
+   },
+   "body": {
+    "en": "Mensch publicly criticized the U.S. debate over AI safety regulation, a notable public stance from Europe's leading open-model CEO.",
+    "zh": "Mensch公开批评了美国关于AI安全监管的争论，这是欧洲领先开源模型公司CEO的一次公开表态。"
+   },
+   "source": "qz.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FbDQyanFPRUdGY1BtWnAxTUptSUFyYjJwbGRJYnNycFhyMGpSaHRJbTZhQmttbi1LUllvdmJXcnRSTXpSOTdIUTVVdmU5cWVrQXpJNGN2NnNXelZwQ0ExbHN2bEt3cEJyQ0xIMjlRVlRRSGExQ2c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-24",
    "ts": "2026-09-24T09:17:07Z",
    "level": "notable",
@@ -1507,16 +1560,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 58.7,
+  "total": 58.9,
   "attention": 53,
   "centrality": 79,
-  "momentum": 46,
+  "momentum": 47,
   "stature": null,
   "pageviews": 103916,
   "citations": 3847,
   "hIndex": 10,
-  "events": 11,
-  "posts": 62,
+  "events": 13,
+  "posts": 63,
   "wikiEn": "Arthur Mensch",
   "wikiZh": null
  },

@@ -161,6 +161,44 @@
    }
   },
   {
+   "date": "2026-09-28",
+   "ts": "2026-09-28T20:11:28Z",
+   "kind": "x",
+   "title": {
+    "en": "So excited to welcome @theworldlabs and @drfeifei to the @AMD family! I’ve always been a huge fan of Fei-Fei and her pioneering research in AI. Together, we’ll",
+    "zh": "So excited to welcome @theworldlabs and @drfeifei to the @AMD family! I’ve always been a huge fan of Fei-Fei and her pioneering research in AI. Together, we’ll"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/2104665313170354674",
+   "note": {
+    "en": "Lisa Su announced on X that AMD is acquiring World Labs and welcoming Fei-Fei Li to lead AI model research for the company.",
+    "zh": "苏姿丰在X上宣布AMD收购World Labs，并欢迎李飞飞加入公司主导AI模型研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-25",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "How AMD's Lisa Su Views the Future of AI",
+    "zh": "How AMD's Lisa Su Views the Future of AI"
+   },
+   "source": "Harvard Business Review",
+   "url": "https://podcasts.apple.com/us/podcast/how-amds-lisa-su-views-the-future-of-ai/id1886705492?i=1000756327576&uo=4",
+   "note": {
+    "en": "Lisa Su joined Harvard Business Review editor-in-chief Adi Ignatius to discuss how AMD is evolving toward high-performance AI computing and where she sees the industry heading.",
+    "zh": "苏姿丰做客《哈佛商业评论》主编Adi Ignatius的访谈节目，探讨AMD向高性能AI计算演进的路径及她对行业未来的判断。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-09-01",
    "ts": null,
    "kind": "x",
@@ -292,6 +330,25 @@
    "judged": true,
    "platform": "x",
    "connector": "backfill"
+  },
+  {
+   "date": "2026-05-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Are We in an AI Bubble? AMD’s Lisa Su speaks out in Taiwan 【Taiwanology Ep.60】",
+    "zh": "Are We in an AI Bubble? AMD’s Lisa Su speaks out in Taiwan 【Taiwanology Ep.60】"
+   },
+   "source": "Taiwanology",
+   "url": "https://podcasts.apple.com/us/podcast/are-we-in-an-ai-bubble-amds-lisa-su-speaks-out-in/id1673884319?i=1000769599581&uo=4",
+   "note": {
+    "en": "On the Taiwanology podcast, Lisa Su discussed whether the AI boom is a bubble and why Taiwan remains central to it.",
+    "zh": "苏姿丰在Taiwanology播客中探讨AI热潮是否是泡沫，以及台湾为何仍是其核心。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   },
   {
    "date": "2026-03-25",
@@ -539,6 +596,25 @@
    "judged": true,
    "platform": "x",
    "connector": null
+  },
+  {
+   "date": "2025-09-24",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Lisa Su on semiconductors, compute, and big bets",
+    "zh": "Lisa Su on semiconductors, compute, and big bets"
+   },
+   "source": "Possible",
+   "url": "https://podcasts.apple.com/us/podcast/lisa-su-on-semiconductors-compute-and-big-bets/id1677184070?i=1000728188128&uo=4",
+   "note": {
+    "en": "On the Possible podcast, Lisa Su spoke about semiconductors, compute demand, and AMD's big strategic bets.",
+    "zh": "苏姿丰在Possible播客中谈到半导体、算力需求以及AMD的重大战略押注。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   },
   {
    "date": "2025-09-05",
@@ -824,6 +900,25 @@
    "judged": true,
    "platform": "x",
    "connector": null
+  },
+  {
+   "date": "2025-05-10",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AMD CEO Lisa Su on the “Dead Sexy” AI Chips Race - On with Kara Swisher",
+    "zh": "AMD CEO Lisa Su on the “Dead Sexy” AI Chips Race - On with Kara Swisher"
+   },
+   "source": "Pivot",
+   "url": "https://podcasts.apple.com/us/podcast/amd-ceo-lisa-su-on-the-dead-sexy-ai-chips-race-on/id1073226719?i=1000707844411&uo=4",
+   "note": {
+    "en": "On Kara Swisher's Pivot podcast, Lisa Su discussed AMD's turnaround and the competitive AI chip race.",
+    "zh": "苏姿丰在Kara Swisher的Pivot播客中谈及AMD的转型及AI芯片竞赛。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   },
   {
    "date": "2025-05-08",
@@ -1326,6 +1421,414 @@
    "url": "https://openai.com/index/openai-amd-strategic-partnership/"
   },
   {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T00:44:49Z",
+   "level": "major",
+   "title": {
+    "en": "AMD 82亿美元收购World Labs：苏姿丰、李飞飞联合回应战略意图",
+    "zh": "AMD 82亿美元收购World Labs：苏姿丰、李飞飞联合回应战略意图"
+   },
+   "body": {
+    "en": "AMD announced an $8.2 billion acquisition of Fei-Fei Li's World Labs, with Su and Li jointly outlining the strategic rationale.",
+    "zh": "AMD宣布以82亿美元收购李飞飞的World Labs，苏姿丰与李飞飞联合阐述了此次收购的战略意图。"
+   },
+   "source": "i.ifeng.com",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OdjRKU1FsSWh0SGQ2NW9kZXVvMU1MQzdMRGpsVEl3M2J2MkFyNjZHSFR2VHlrWWVBQTVfY1JPTm9GMk1mYkdjUg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T03:05:00Z",
+   "level": "notable",
+   "title": {
+    "en": "苏姿丰、李飞飞谈AI安全：任何技术都是一把双刃剑，有责任确保技术的安全",
+    "zh": "苏姿丰、李飞飞谈AI安全：任何技术都是一把双刃剑，有责任确保技术的安全"
+   },
+   "body": {
+    "en": "Discussing the World Labs deal, Su and Fei-Fei Li said any technology is a double-edged sword and stressed the responsibility to keep it safe.",
+    "zh": "在谈及World Labs收购案时，苏姿丰与李飞飞表示任何技术都是双刃剑，并强调确保技术安全的责任。"
+   },
+   "source": "thepaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02R2V1cVJ2SFhOTzdZcWVTdk1ZN0hoTm5BTm5vOFB5VklGRHlHYl9DRGRLS3BOMEVEMmF5aDBFNnc4U3VlczRTdHZJSy1Nc2dGc1FzUV9vb1Z6YUNZQi1nWQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T03:04:00Z",
+   "level": "major",
+   "title": {
+    "en": "AMD82亿美元收购WorldLabs，苏姿丰、李飞飞：AI未来在于软硬件协同进化",
+    "zh": "AMD82亿美元收购WorldLabs，苏姿丰、李飞飞：AI未来在于软硬件协同进化"
+   },
+   "body": {
+    "en": "AMD agreed to acquire Fei-Fei Li's World Labs for $8.2 billion in an all-stock deal; Su and Li framed it as a bet that AI's future depends on tight hardware-software co-evolution, bringing spatial/world-model expertise in-house.",
+    "zh": "AMD宣布以82亿美元全股票交易收购李飞飞创立的World Labs；苏姿丰与李飞飞表示，此举押注AI的未来在于软硬件的深度协同进化，将空间智能/世界模型能力纳入AMD体系。"
+   },
+   "source": "thepaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ba2Vod0p5ZlZYYnRkaFRsTTdJSTh1Mzg0WWRqa3pmVklkMm1RRGpnZW9tU2Z4SXZ3WUh5MXJ2S3VWMWE2RldkYmhKdmRITlgtdmxJZ2Q1NlEzeXkxS1FFeg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T01:47:00Z",
+   "level": "major",
+   "title": {
+    "en": "AMD以82亿美元收购李飞飞公司，李飞飞出任首席科学家向苏姿丰汇报",
+    "zh": "AMD以82亿美元收购李飞飞公司，李飞飞出任首席科学家向苏姿丰汇报"
+   },
+   "body": {
+    "en": "AMD, led by Lisa Su, acquired Fei-Fei Li's World Labs for $8.2 billion; Li joins as Chief Scientist reporting to Su.",
+    "zh": "苏姿丰领导的AMD以82亿美元收购李飞飞的World Labs，李飞飞将出任首席科学家，向苏姿丰汇报。"
+   },
+   "source": "新京报",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wOG9GU0Uzb2VGeTd3clpTVXFHTW56N1ZtVzF0U0Vrem9sWm1VTldCMXA1MVlWRTNOWlQ1X09uQmZDdE9UR0JsYjBJME84WVZ5cjFBYUpXendVTlZ4VF9PUXE0N1E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T07:35:49Z",
+   "level": "major",
+   "title": {
+    "en": "550亿，苏姿丰买下李飞飞-36氪",
+    "zh": "550亿，苏姿丰买下李飞飞-36氪"
+   },
+   "body": {
+    "en": "AMD, led by Lisa Su, is acquiring Fei-Fei Li's World Labs for roughly $8.2B, a major move into spatial-intelligence AI.",
+    "zh": "苏姿丰领导的AMD以约82亿美元收购李飞飞创立的World Labs，是其在空间智能AI领域的重大布局。"
+   },
+   "source": "36kr.com",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zaHVSakRtUTVqUkIxVmx0Q0pVa2JaY0puV0RFZ1ZSNGtVc3lVNDRkdDlmYTQ4bkhDM05DMF9GQUxxRExJNzNuMnlQQWlEX09j?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T10:08:47Z",
+   "level": "notable",
+   "title": {
+    "en": "清华大学经济管理学院顾问委员会新增3人：英伟达黄仁勋、AMD苏姿丰、瑞士百达集团百达铭",
+    "zh": "清华大学经济管理学院顾问委员会新增3人：英伟达黄仁勋、AMD苏姿丰、瑞士百达集团百达铭"
+   },
+   "body": {
+    "en": "Su joined Tsinghua University's School of Economics and Management advisory committee, one of three new members alongside Nvidia's Jensen Huang and a Pictet Group executive.",
+    "zh": "苏姿丰加入清华大学经济管理学院顾问委员会，与英伟达黄仁勋、瑞士百达集团高管同为新增的三名委员之一。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTd1TkRiWlcwak5aNHZ3cFllbFNKLUJVYVk2Tkt6UUJPTGg0bmNxNlEwbkdlMThuaHUzUVZuVGs0aGxwajE5V1I5Z0NOdTRBZThmMnpuWW13VWMwclFyLU1oOThnZVdoR3VqWGlCX1dZbVE1YXdSektiVUdQazk2SHdLTFhqeEV4?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T11:09:33Z",
+   "level": "minor",
+   "title": {
+    "en": "黄仁勋、苏姿丰，担任清华大学经管学院顾问委员会委员",
+    "zh": "黄仁勋、苏姿丰，担任清华大学经管学院顾问委员会委员"
+   },
+   "body": {
+    "en": "Su was named a member of Tsinghua University's School of Economics and Management advisory committee alongside Jensen Huang.",
+    "zh": "苏姿丰与黄仁勋一同获聘为清华大学经济管理学院顾问委员会委员。"
+   },
+   "source": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBHRWgzaVNCR25Gbi1ka1Q1QjJuWXpCeHJLYVRDZnBnbjJRUUh2T0JTMGxPM1NOQXZkOXNxUDNMbWxzcGJiSFp2WHVDMVQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T09:27:36Z",
+   "level": "major",
+   "title": {
+    "en": "苏姿丰550亿拿下李飞飞：两大华人女王合体，抢下一代AI",
+    "zh": "苏姿丰550亿拿下李飞飞：两大华人女王合体，抢下一代AI"
+   },
+   "body": {
+    "en": "AMD agreed to acquire Fei-Fei Li's World Labs for roughly $8.2 billion, one of the largest deals yet in the world-model/physical-AI space.",
+    "zh": "AMD同意以约82亿美元收购李飞飞的World Labs，是目前世界模型/物理AI领域规模最大的交易之一。"
+   },
+   "source": "华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sUXBjN203MGJuNW91RllLcVFTaTE3bEs5WUs1MFExWXBiYk5nWFk4R2x0M19GSkZyYXItX0NFUTlLcTdDdTNMYk5DbEpnTzVOdUE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T11:33:00Z",
+   "level": "minor",
+   "title": {
+    "en": "黄仁勋、苏姿丰，担任清华大学经管学院顾问委员会委员",
+    "zh": "黄仁勋、苏姿丰，担任清华大学经管学院顾问委员会委员"
+   },
+   "body": {
+    "en": "Lisa Su and Jensen Huang were appointed to the advisory committee of Tsinghua University's School of Economics and Management.",
+    "zh": "苏姿丰与黄仁勋获聘为清华大学经济管理学院顾问委员会委员。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIWFZuY2N0ekh1SURLSnZUVTRDdXhNSXpfcWxhY0VvUnFyaG1ZWkZ0elZ6bWRCV2FhM25sYktnMUlqeU1MaGUzR1lhendSY3JGcnlPN2lkUEdUdzhoUDliN2RtQTVCellKYVYwRVhaemJvZGtsb0U2Mg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T10:11:00Z",
+   "level": "major",
+   "title": {
+    "en": "AMD豪掷82亿美元“买模型也买人”！李飞飞跻身核心管理层，市场热议其未来或“接棒”苏姿丰",
+    "zh": "AMD豪掷82亿美元“买模型也买人”！李飞飞跻身核心管理层，市场热议其未来或“接棒”苏姿丰"
+   },
+   "body": {
+    "en": "AMD's $8.2B acquisition of Fei-Fei Li's World Labs brings her into AMD's leadership, prompting market speculation she could eventually succeed Lisa Su as CEO.",
+    "zh": "AMD以82亿美元收购李飞飞的World Labs并将其纳入管理层，市场猜测她未来或有可能接棒苏姿丰出任CEO。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0YlVpbVJkaGlrZ0E1MzRiQUVJMVpiYUMyQ1RxaEpMWnd6WFE1eUZOMUxfUzhaX1VvcktLeUZBVjBGQmpWT2N1ekpfT05BWDVtQUtrZFNtdU1aUlp4UWxLV2RKUXd0Q1RFWGtQbURlYjV1YWFuMmV6UA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T12:33:00Z",
+   "level": "minor",
+   "title": {
+    "en": "黄仁勋、苏姿丰等担任清华大学经管学院顾问委员会委员",
+    "zh": "黄仁勋、苏姿丰等担任清华大学经管学院顾问委员会委员"
+   },
+   "body": {
+    "en": "Su joined Jensen Huang on the advisory committee of Tsinghua University's School of Economics and Management.",
+    "zh": "苏姿丰与黄仁勋一同获聘为清华大学经济管理学院顾问委员会委员。"
+   },
+   "source": "thepaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56dWViMkhGYjktZ3VPLXByTGc4c3lJVjVwdXQ4ejM2RHZrbWJIZXlkUWdCV2ZpWFVZSkhBMnlac3ZBUXYyOXJIUXM0dF80a2ozR3dxNUd1ZFNTWUFNMzFMdA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T10:43:25Z",
+   "level": "major",
+   "title": {
+    "en": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
+    "zh": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地"
+   },
+   "body": {
+    "en": "AMD agreed to acquire Fei-Fei Li's World Labs for roughly $8.2B, one of the largest world-model deals to date, with Li reporting directly to Su.",
+    "zh": "AMD同意以约82亿美元收购李飞飞的World Labs，为迄今世界模型领域最大交易之一，李飞飞将直接向苏姿丰汇报。"
+   },
+   "source": "手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMDFGa1Izb01fUDBpcC1PZGFOcEdZb0habnBibVVFb3pFa2lENFVNUFp2d2RndG1NUTNGOHgxTU1sUjhYWlE4Y0g0cTRFcUZIN0pPRGNXc195amZSZlJKTEtFUlJTMEZqVEllQzhXS2tQWEt1M203Q3JrTW1SSE1wR3NR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T02:25:00Z",
+   "level": "major",
+   "title": {
+    "en": "AMD 官宣82亿美元收购World Labs：李飞飞加入，苏姿丰押注物理AI",
+    "zh": "AMD 官宣82亿美元收购World Labs：李飞飞加入，苏姿丰押注物理AI"
+   },
+   "body": {
+    "en": "AMD officially announced its $8.2 billion acquisition of World Labs, with Lisa Su betting on physical AI as Fei-Fei Li joins the company.",
+    "zh": "AMD正式宣布以82亿美元收购World Labs，苏姿丰押注物理AI，李飞飞随之加入公司。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaOUNERmhza2pqOEFHUDNsYm9tVjg4d1dEQk42TURwSGVfVzJjYUUycFlFT09NQlBOV1d0VUZkUGpIaTlmQ0xHSGRkdi1UbDJ1VDFqUkU4elFIblVzRWc2Q1J3MnRVRXNMNHF4c3ZoTXN3R0JPR0xwZU8wdVM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T14:05:21Z",
+   "level": "minor",
+   "title": {
+    "en": "黄仁勋、苏姿丰任清华大学经管学院顾问委员会委员",
+    "zh": "黄仁勋、苏姿丰任清华大学经管学院顾问委员会委员"
+   },
+   "body": {
+    "en": "Lisa Su was named to Tsinghua University's School of Economics and Management advisory board, alongside Jensen Huang.",
+    "zh": "苏姿丰与黄仁勋共同受聘为清华大学经济管理学院顾问委员会委员。"
+   },
+   "source": "文学城",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YRmpHTWk1cGIyZlpyeExuV1V0NVlzNmhJWG55bVBTbkdnTW85ZmZKLUtLQmpfYVVVbWYzdlBGTkRpWE1VbUJfVk5MTXN2Zm1JdHJMejZqT09rZVJxSjRMa1BLeDdmTWFnWnE3YkZ2YlVldHp5NDJjZA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T15:48:50Z",
+   "level": "minor",
+   "title": {
+    "en": "清华大学经管学院顾问委员会新增三名委员，包括黄仁勋和苏姿丰，两人还是远房亲戚",
+    "zh": "清华大学经管学院顾问委员会新增三名委员，包括黄仁勋和苏姿丰，两人还是远房亲戚"
+   },
+   "body": {
+    "en": "Tsinghua University's School of Economics and Management added Lisa Su and Jensen Huang, distant relatives, to its advisory board.",
+    "zh": "清华大学经济管理学院顾问委员会新增苏姿丰和黄仁勋（两人是远房亲戚）为委员。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMTJaVXZ2M3BWaS1xbGlVM3JMTVNHTFpFOUhob29GNndRdnY5ZTBpNGw0WVR2Q2xaSndDRFlveGk3N3I3SDF4MFhUYUVqX241M3phTTl4NXowQ0FJNzhrQmFfWGZPeFJYQ01nbk0weGZDUVZfZWc0NHJlQzVfeUN4YjFhUU1zUm9zWXlBRA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T10:11:00Z",
+   "level": "major",
+   "title": {
+    "en": "AMD豪掷82亿美元“买模型也买人”！李飞飞跻身核心管理层，市场热议其未来或“接棒”苏姿丰",
+    "zh": "AMD豪掷82亿美元“买模型也买人”！李飞飞跻身核心管理层，市场热议其未来或“接棒”苏姿丰"
+   },
+   "body": {
+    "en": "AMD is paying $8.2 billion to acquire World Labs and bring Fei-Fei Li into its core leadership, with markets speculating she could eventually succeed Lisa Su.",
+    "zh": "AMD斥资82亿美元收购World Labs并将李飞飞纳入核心管理层，市场猜测她未来或将接棒苏姿丰。"
+   },
+   "source": "每日经济新闻",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZNmVCWGpkVDN0WGdEaS11ZXlCX3ZheWNWZ2FBX1paZXJoUEw2aUd2TDlvbkVJZnFDM2EyMFZuRmp0MG84SnNVcTRqUVJBb3hXa3Q1WXpYY3FGV0ttTk5vdFQzZmlIUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T16:17:00Z",
+   "level": "major",
+   "title": {
+    "en": "With AMD’s $8.2 billion World Labs deal, Lisa Su and Fei-Fei Li show what a different AI future could look like",
+    "zh": "With AMD’s $8.2 billion World Labs deal, Lisa Su and Fei-Fei Li show what a different AI future could look like"
+   },
+   "body": {
+    "en": "Fortune covered AMD's $8.2 billion acquisition of Fei-Fei Li's World Labs as Su's signature move into world-model and spatial AI.",
+    "zh": "《财富》杂志将苏姿丰主导的AMD以82亿美元收购李飞飞World Labs一事，视为其布局世界模型与空间智能的标志性举措。"
+   },
+   "source": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYXhfcHcxVHdJd2RMODhyazJNeXBJeWdDZ2d0V2pWVFNXb3pUQXVFQVBUV0dxNThqbkp5MExSX3hIMmFvVVFfQlg5MW9aQU1Ndkp6NTl3Ykc1Qnh5d2RUcTF2eGNLYWFmSFJSekU3VEVfVGhEZmVOZFpSZnJYUTROQ1ZjRWZKaGplU0ZxZmVPZkw1d1RGV2c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T13:43:10Z",
+   "level": "minor",
+   "title": {
+    "en": "黄仁勋、苏姿丰出任清华经顾委委员，库克仍任主席",
+    "zh": "黄仁勋、苏姿丰出任清华经顾委委员，库克仍任主席"
+   },
+   "body": {
+    "en": "Su and Jensen Huang were appointed to Tsinghua University's economics and management advisory committee, with Tim Cook continuing as chair.",
+    "zh": "苏姿丰与黄仁勋获聘为清华大学经济管理学院顾问委员会委员，库克继续担任主席。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZV9UUXVFYk5NcVVVcmRUZDRZbnF5STlLU0kzUFpHeEMyMG4zcW03Sk4wcHN4OXRCWjNoWGR1SHNNNm1EZ283UzJKalBRM2drb2ltOTBobnd4ZGNJSVZLaXg3dDgzbnliVGVza1BoVmMzZVh2OW5FcVdiSmpjaEdSYUtlQkJacGszcmZ2cQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T15:31:00Z",
+   "level": "notable",
+   "title": {
+    "en": "黄仁勋、苏姿丰，在华有了新身份！担任清华大学经管学院顾问委员会委员",
+    "zh": "黄仁勋、苏姿丰，在华有了新身份！担任清华大学经管学院顾问委员会委员"
+   },
+   "body": {
+    "en": "Lisa Su and Jensen Huang were named to the advisory committee of Tsinghua University's School of Economics and Management.",
+    "zh": "苏姿丰与黄仁勋获聘清华大学经济管理学院顾问委员会委员。"
+   },
+   "source": "每日经济新闻",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vc0tIRDc2QU1jRlh0N1RWb01hak82WHdWM2phTEV0VzcwSHVYSFR3NmJEaF9yUjQzMkdfQ054Y1BleTNGTjAxdHg4eFQ5bVBLeDlZQ3NtSTJoS0pLcUtzTy14cHh2dw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T12:56:55Z",
+   "level": "notable",
+   "title": {
+    "en": "黄仁勋、苏姿丰等新增成为清华大学经管学院顾问委员会委员",
+    "zh": "黄仁勋、苏姿丰等新增成为清华大学经管学院顾问委员会委员"
+   },
+   "body": {
+    "en": "Lisa Su and Jensen Huang were named to Tsinghua University's School of Economics and Management advisory committee.",
+    "zh": "苏姿丰与黄仁勋新增担任清华大学经济管理学院顾问委员会委员。"
+   },
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11aG0yeEhQamZrVHFGa1ZucklaQnZQWFdqcDUxWGxKMkdYcGQxaXRkd1pWOG1XbEp4bDY1dmFsOGtKbUNvQ2JjRm9TOXlHRnJxMUpVSUx0dlE2WFM4TlRyM3d4QWxUZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T19:07:30Z",
+   "level": "minor",
+   "title": {
+    "en": "黄仁勋、苏姿丰、百达铭，担任清华大学经管学院顾问委员会委员，学院现任顾问委员会主席为苹果公司库克",
+    "zh": "黄仁勋、苏姿丰、百达铭，担任清华大学经管学院顾问委员会委员，学院现任顾问委员会主席为苹果公司库克"
+   },
+   "body": {
+    "en": "Su was named to Tsinghua's School of Economics and Management advisory board alongside Jensen Huang and other executives.",
+    "zh": "苏姿丰与黄仁勋等高管一同被聘为清华大学经济管理学院顾问委员会委员。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaS1PaTJNTkh2c0lic254QTJLT2R0c01pVlRnWi1FLV85dGNXVC15LU5vdWVMZzB5UV9WR3lKMHZXR1RIaWZ4ZTJrS2FSck40MTJ4RHg0UTBtclpYM3NBVlFtN1RXMHJWZExwN21aT3NqcEtJTnlhSXByVG52cUd2NS1HTWNEdUJaNzYw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T10:10:30Z",
+   "level": "minor",
+   "title": {
+    "en": "黄仁勋、苏姿丰，在华有了新身份",
+    "zh": "黄仁勋、苏姿丰，在华有了新身份"
+   },
+   "body": {
+    "en": "Su was named to Tsinghua School of Economics and Management's advisory board alongside Jensen Huang.",
+    "zh": "苏姿丰与黄仁勋一同获聘为清华大学经济管理学院顾问委员会委员。"
+   },
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDRzdjQUVDZHdwSnBXOTNEcmE4bGtSVkxTMG1oRjlTNmJKNkFkaUNnY19ieDB6d3ZEX3VLLTllaElSS3I1WXhqcjl1QWJjQzVzb201MUpxQkVSWW4xNVJ3T2otWXhqUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T13:43:10Z",
+   "level": "minor",
+   "title": {
+    "en": "黄仁勋、苏姿丰出任清华经顾委委员，库克仍任主席",
+    "zh": "黄仁勋、苏姿丰出任清华经顾委委员，库克仍任主席"
+   },
+   "body": {
+    "en": "Lisa Su was named to Tsinghua University's School of Economics and Management advisory board, alongside Jensen Huang, with Tim Cook continuing as chair.",
+    "zh": "苏姿丰与黄仁勋一同获聘为清华大学经济管理学院顾问委员会委员，库克继续担任主席。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcjdXRkdidGlhSEh5N2Y2VmVOcmtLZk53X2taRURVNlItLWpqTU10UlVLck9kTUV6UzNiQTZycElubzhTUEdHcjZEZG1EdDBjN3NaVUl2SFJleVhSS3otUWlYazduWG5OUlJmMHJiNzR6Y1FaZW9ncEd4TFJkdGJ1REJGbHI3eFZYSEJGVzcwVQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T03:55:00Z",
+   "level": "major",
+   "title": {
+    "en": "苏姿丰：收购World Labs深耕AI算力 AMD首席执行官*「收购World Labs让AMD更深入了解尖端AI模型演进，开发运行模型所需的芯片和计算系统」*就收购World Labs发布新闻稿表示",
+    "zh": "苏姿丰：收购World Labs深耕AI算力 AMD首席执行官*「收购World Labs让AMD更深入了解尖端AI模型演进，开发运行模型所需的芯片和计算系统」*就收购World Labs发布新闻稿表示"
+   },
+   "body": {
+    "en": "AMD announced its roughly $8.2B acquisition of Fei-Fei Li's World Labs, with Su saying it deepens AMD's understanding of frontier AI model development and the chips and systems needed to run it.",
+    "zh": "AMD宣布以约82亿美元收购李飞飞的World Labs，苏姿丰表示此举将使AMD更深入理解前沿AI模型的演进及其所需的芯片与计算系统。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4bWJROVY5elVmZDdsYVVyR3BLaEZNM0RfVlFuNGhZUl9jVTlmWm4tV3JEUWFiUGpPZFMyTVRRQ3dDU3l6UVdrUEJSX1oyOTh6LWh2N29jRVlFYXloTEJGTFU0VmtzWFk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-25",
    "ts": "2026-09-25T00:36:43Z",
    "level": "notable",
@@ -1377,6 +1880,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-24",
+   "ts": "2026-09-24T05:04:57Z",
+   "level": "notable",
+   "title": {
+    "en": "AMD盘中市值首破万亿美元：苏姿丰带队12年，靠什么逆转 从濒临破产到万亿关口，AMD的逆袭密码是AI算力战略兑现",
+    "zh": "AMD盘中市值首破万亿美元：苏姿丰带队12年，靠什么逆转 从濒临破产到万亿关口，AMD的逆袭密码是AI算力战略兑现"
+   },
+   "body": {
+    "en": "AMD's market capitalization crossed $1 trillion intraday for the first time, capping Lisa Su's 12-year turnaround of the company.",
+    "zh": "AMD盘中市值首次突破一万亿美元，是苏姿丰执掌公司12年实现逆转的重要节点。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPM1hiZnNOMDZlbzY3WDNHTWZrc1RDYVNkcjd5aTlkRXpteDRuLU1zWEJBSmtGVGNONS0zc2VyZ3hDRFQyVWxvVnZiMFFwMERfRjdmRjUyTkRBeGZHVFlKVkJKUHFQVFU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-23",
    "ts": "2026-09-23T06:21:39Z",
    "level": "notable",
@@ -1424,6 +1944,23 @@
    },
    "source": "Pluang",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa2wya3ZxYVE1dFdvbmpxR0x2QXpvTmFzQ2Jxb3p1TE5aZjltakZHaER0QlJJR01RNmNIZHBFSE5qQXA2Y1U3V3JsWXp6amNVRHkwQ21wZkxmMDRhaTNqcVVlX1dJTlF6aHhpdGRMSXpQc2xNdFpESnptZGlnRGJxYlZaWkU2ZzQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-23",
+   "ts": "2026-09-23T21:57:00Z",
+   "level": "notable",
+   "title": {
+    "en": "梅拉尼娅·特朗普、苏姿丰在纽约证券交易所敲响开市钟，发起女性商业领袖倡议IMPERIA",
+    "zh": "梅拉尼娅·特朗普、苏姿丰在纽约证券交易所敲响开市钟，发起女性商业领袖倡议IMPERIA"
+   },
+   "body": {
+    "en": "Lisa Su joined Melania Trump to ring the opening bell at the NYSE, launching the IMPERIA initiative for women business leaders.",
+    "zh": "苏姿丰与梅拉尼娅·特朗普在纽约证券交易所共同敲响开市钟，发起女性商业领袖倡议IMPERIA。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85QWVHUEZTcmpqaUpnVU8zZGFZQ1gzM2JPTWp0VENjaU45RlhSMkwxNUdlSHJBcVk0NlE2ejRZbksxUDAySUhGb21Va1pHMUlaRy0zRlhR?oc=5",
    "auto": true,
    "judged": true
   },
@@ -1768,6 +2305,23 @@
    "judged": true
   },
   {
+   "date": "2026-07-24",
+   "ts": "2026-07-24T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "继黄仁勋后，AMD首席执行官苏姿丰表态支持开源AI模型",
+    "zh": "继黄仁勋后，AMD首席执行官苏姿丰表态支持开源AI模型"
+   },
+   "body": {
+    "en": "Following Jensen Huang, Lisa Su publicly voiced support for open-source AI models.",
+    "zh": "继黄仁勋之后，苏姿丰公开表态支持开源AI模型。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT2hBa1EzMldRU0p3UHJxNHJabTJsQnJZT2ZoZ3R2cEtLVkVXdnNSenN4c285MzZHeFcwaDZaSlNBdXhKaGVRV0JacmhFZVFuN0VXREVHQkViSDFiS0ZGemMxQ3ktMGdBeGU5OUJTaENQMjFFbFZUMks0Y09WdWpjMDJIWVMwdEk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-07-23",
    "ts": "2026-07-23T07:00:00Z",
    "level": "major",
@@ -1781,6 +2335,23 @@
    },
    "source": "36kr.com",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92dEpVeDNic084NXdmUXRGYlBKcXFjek45RWd5clpnR0FKbGp2V0RNa0pfcnZobHQ5QklyREZ5TlpYRVFXZG1WaFNuY2xyZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-23",
+   "ts": "2026-07-23T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "AAI 2026: AMD CEO Lisa Su Launches End-to-End AI Solutions (Keynote Replay)",
+    "zh": "AAI 2026: AMD CEO Lisa Su Launches End-to-End AI Solutions (Keynote Replay)"
+   },
+   "body": {
+    "en": "At AAI 2026, Lisa Su used her keynote to launch AMD's end-to-end AI compute solutions lineup.",
+    "zh": "在AAI 2026大会上，苏姿丰通过主题演讲发布了AMD端到端AI计算解决方案产品线。"
+   },
+   "source": "newsroom.amd.com",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56LW5Vb2VjOVBubUhsUDI0RjRDWTliVjJjN3ljaDl5ajA2NlNlM1JrUlVCRHlPaFNBdjZlZnIwY2J1TEVaamtpOGRoenR4Q3ZFMjlUMkxhVEs4UURwb0xaVXp2TmxBR1pXc3UwNlZRVXI2cFk?oc=5",
    "auto": true,
    "judged": true
   },
@@ -1989,6 +2560,23 @@
    "judged": true
   },
   {
+   "date": "2026-05-19",
+   "ts": "2026-05-19T07:00:00Z",
+   "level": "minor",
+   "title": {
+    "en": "AMD CEO苏姿丰访华，称未来5年将有50亿人每日使用AI",
+    "zh": "AMD CEO苏姿丰访华，称未来5年将有50亿人每日使用AI"
+   },
+   "body": {
+    "en": "During a visit to China, Lisa Su predicted that within five years 5 billion people will use AI daily.",
+    "zh": "苏姿丰访华期间预测，未来五年将有50亿人每天使用AI。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNS3RGNW01cEZkRGN1NlVUN3dqbG9yZEJHZjFUb1BaVEs0WWQ2c0ZCamJQQjdVSjBQaExqQWV1U1hpemJJbnNDNlhNWHd4WkpUVEV3bzdyb1JhMFJQVWpkQzR0Njg1algwZDdZLUQyejJ5M1ViUHRuS0FqWjRfWlQ1a3hVZlg1dVd1TjZtUDJQX0xqbS1jZVYxY2NwR3lJMm9hMlpzdGZ3MGlpOEswVWltemRqOFVxbHc5TEJ6RU9zM2toZE11TkhucHNaUE5NanBJazcxbk40eC1FSDJ3VHhnWjA2b2owa0U0UE5zeTlaXzBOZjBpekRMdmVVUGdYd0FHeWF6Y3JEVm1WMVpKMGxEN21sZEJuM1hsSzhhNXd2SkNvTVVaR1JfOTR6eVM2cVlLX1JoXy1qdklKOUJmUWtVZDNuMWJiUEh1NlZTb1FsOA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-05-14",
    "ts": "2026-05-14T07:00:00Z",
    "level": "notable",
@@ -2115,16 +2703,16 @@
  },
  "cat": "platform",
  "score": {
-  "total": 80.9,
+  "total": 83.1,
   "attention": 88,
   "centrality": 72,
-  "momentum": 79,
+  "momentum": 88,
   "stature": null,
   "pageviews": 1032519,
   "citations": 236,
   "hIndex": 7,
-  "events": 49,
-  "posts": 62,
+  "events": 78,
+  "posts": 67,
   "wikiEn": "Lisa Su",
   "wikiZh": "蘇姿丰"
  },

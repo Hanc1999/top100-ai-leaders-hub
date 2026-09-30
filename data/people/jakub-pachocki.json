@@ -557,6 +557,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2019-11-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Learning dexterous in-hand manipulation",
+    "zh": "Learning dexterous in-hand manipulation"
+   },
+   "source": "The International Journal of Robotics…",
+   "url": "https://doi.org/10.1177/0278364919887447",
+   "note": {
+    "en": "Co-authored OpenAI's \"Learning Dexterous In-Hand Manipulation,\" the Rubik's-cube-solving robot hand paper trained largely with simulation and domain randomization.",
+    "zh": "合著OpenAI《学习灵巧的手内操作》论文,即那项主要通过仿真与领域随机化训练、能解魔方的机械手研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2018-08-16",
    "ts": null,
    "kind": "paper",
@@ -569,25 +588,6 @@
    "note": {
     "en": "Proves that every graph is spectrally similar to the union of a constant number of forests, part of his spectral-sparsification line at CMU.",
     "zh": "证明任意图在谱意义上都可由常数个森林的并集近似，属于他在 CMU 的谱稀疏化系列工作。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2018-08-01",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Learning Dexterous In-Hand Manipulation",
-    "zh": "Learning Dexterous In-Hand Manipulation"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/1808.00177v5",
-   "note": {
-    "en": "OpenAI's robotics result: a Shadow Hand trained entirely in simulation learns to reorient objects on real hardware.",
-    "zh": "OpenAI 的机器人成果：完全在仿真中训练的 Shadow Hand 学会在真实硬件上重新定向物体。"
    },
    "auto": true,
    "judged": true,
@@ -874,10 +874,10 @@
  },
  "cat": "lab",
  "score": {
-  "total": 48.6,
+  "total": 48.1,
   "attention": 36,
   "centrality": 87,
-  "momentum": 27,
+  "momentum": 25,
   "stature": null,
   "pageviews": 51141,
   "citations": 3664,

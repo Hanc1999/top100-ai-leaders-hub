@@ -952,6 +952,40 @@
    "judged": true
   },
   {
+   "date": "2026-07-25",
+   "ts": "2026-07-25T07:00:00Z",
+   "level": "minor",
+   "title": {
+    "en": "Andrej Karpathy says he remains at Anthropic, denying departure rumors",
+    "zh": "Andrej Karpathy says he remains at Anthropic, denying departure rumors"
+   },
+   "body": {
+    "en": "Karpathy publicly denied rumors that he had left Anthropic, confirming he remains on the pretraining team.",
+    "zh": "Karpathy公开辟谣离职传闻，确认自己仍在Anthropic预训练团队任职。"
+   },
+   "source": "RuntimeWire",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUlZVX3U4MTg3clRvWEFJaGVjdnVZeUo2cndDVTBaaXhVUTNsTFdyQ25YcTZHX3h0VkVUXzFTNXp5UW11VFB3N2liY2dEX2hrb2hoZ1R4VzBsREdFRFNNWXdpQ1lCNTBWcXF6MWE3UTgxdG1jLVRMVFA1aUs5MEpsZEZtX2NtOGNDY09hMFZWRDRXbUdhT0cyd2tKWEFVb2Ri?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-25",
+   "ts": "2026-06-25T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Andrej Karpathy Says AI Is No Longer A Chatbot—It’s Becoming Your Teammate",
+    "zh": "Andrej Karpathy Says AI Is No Longer A Chatbot—It’s Becoming Your Teammate"
+   },
+   "body": {
+    "en": "Karpathy argued publicly that AI is shifting from a chatbot paradigm to a \"teammate\" model for how people work with it.",
+    "zh": "Karpathy公开表示，AI正从聊天机器人范式转向与人协作的“队友”模式。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZUg3SW5MZHp2Wk1LNV9FdzdLRTNXZTQ1bnFwd2tvQkV1V2JqWjVhZlZ3S21IaGlkOVRwOGZqRWxqNk9MYkFEX25HZUNaZWVhbTlNUXlIMEVRQm1FODAtYnZQa01MX0RBWUc0cWxVdGY1eDZYc2p5dDNPWVA2amxCeHo5X0x3MWoxUGdNM1J4Vkg5VUNpeFA4TmVNS1Y0QS1BTXJIb2VfLUlnOUlsWXdhQnpWTjlQcGdmbm5vSmozUVNaQ3NR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-05-19",
    "ts": null,
    "level": "major",
@@ -1146,15 +1180,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 64.5,
+  "total": 64.3,
   "attention": 79,
   "centrality": 47,
-  "momentum": 58,
+  "momentum": 57,
   "stature": 63,
   "pageviews": 695645,
   "citations": 58963,
   "hIndex": 20,
-  "events": 14,
+  "events": 16,
   "posts": 39,
   "wikiEn": "Andrej Karpathy",
   "wikiZh": "安德烈·卡帕西"

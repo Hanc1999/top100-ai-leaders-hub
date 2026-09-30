@@ -1,5 +1,5 @@
 {
- "rank": 77,
+ "rank": 76,
  "id": "jitendra-malik",
  "name": {
   "en": "Jitendra Malik",
@@ -177,6 +177,25 @@
    }
   },
   {
+   "date": "2026-09-26",
+   "ts": "2026-09-26T01:55:35Z",
+   "kind": "x",
+   "title": {
+    "en": "Three data sources are popular for robot learning today (1) Humans tele-operating robots (2) Humans acting as humans doing tasks (3) Robots acting in the \"safe",
+    "zh": "Three data sources are popular for robot learning today (1) Humans tele-operating robots (2) Humans acting as humans doing tasks (3) Robots acting in the \"safe"
+   },
+   "source": "@jitendramalikcv",
+   "url": "https://x.com/JitendraMalikCV/status/2103664752136499555",
+   "note": {
+    "en": "Weighed in on X on the three main data sources used for robot learning today—teleoperation, human demonstration, and simulation—laying out the tradeoffs of each.",
+    "zh": "在X上就当前机器人学习的三种主要数据来源——遥操作、人类示范和仿真——发表看法，梳理了各自的取舍。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-09-23",
    "ts": "2026-09-23T18:32:49Z",
    "kind": "x",
@@ -194,6 +213,44 @@
    "judged": true,
    "platform": "x",
    "connector": null
+  },
+  {
+   "date": "2026-09-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Morphometric Imitation: From Morphology and Contact Aware Hand Retargeting to Sim-to-Real Visuomotor Policy",
+    "zh": "Morphometric Imitation: From Morphology and Contact Aware Hand Retargeting to Sim-to-Real Visuomotor Policy"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.28660v1",
+   "note": {
+    "en": "Co-authored work on morphology-aware hand retargeting for sim-to-real dexterous manipulation from human hand-object interaction videos.",
+    "zh": "合著论文研究形态感知的手部动作迁移方法，用于从人类手-物交互视频中实现从仿真到真实的灵巧操作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "AgentSTAR: Agentic Shape Tracking and Reconstruction from Monocular Videos",
+    "zh": "AgentSTAR: Agentic Shape Tracking and Reconstruction from Monocular Videos"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.24487v1",
+   "note": {
+    "en": "Co-authored AgentSTAR, a method for agentic shape tracking and 3D reconstruction from monocular video.",
+    "zh": "合著论文提出AgentSTAR，一种基于智能体的单目视频形状追踪与三维重建方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-09-20",
@@ -232,6 +289,25 @@
    "judged": true,
    "platform": "x",
    "connector": null
+  },
+  {
+   "date": "2026-09-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Scene Language Model for Open-Vocabulary Scene Mapping",
+    "zh": "A Scene Language Model for Open-Vocabulary Scene Mapping"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.21400v1",
+   "note": {
+    "en": "Co-authored a scene language model for open-vocabulary 3D scene mapping, building persistent object-level representations of environments.",
+    "zh": "合著论文提出一种面向开放词汇3D场景建图的场景语言模型，用于构建环境中物体级别的持久化表示。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-09-15",
@@ -650,6 +726,25 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2026-05-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "OSMO: Open-Source Tactile Glove for Human-to-Robot Skill Transfer",
+    "zh": "OSMO: Open-Source Tactile Glove for Human-to-Robot Skill Transfer"
+   },
+   "source": "IEEE Robotics and Automation Letters",
+   "url": "https://doi.org/10.1109/lra.2026.3692034",
+   "note": {
+    "en": "Co-authored OSMO, an open-source tactile glove for transferring human manipulation skills to robots.",
+    "zh": "合著论文提出OSMO，一款开源触觉手套，用于将人类的操作技能迁移到机器人上。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2026-05-08",
@@ -1087,6 +1182,25 @@
    "judged": true,
    "platform": "x",
    "connector": "backfill"
+  },
+  {
+   "date": "2026-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Deep Sensorimotor Control by Imitating Predictive Models of Human Motion: Leveraging Visual Understanding of Motion for Policy Learning",
+    "zh": "Deep Sensorimotor Control by Imitating Predictive Models of Human Motion: Leveraging Visual Understanding of Motion for Policy Learning"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.5220/0014774200004067",
+   "note": {
+    "en": "Co-authored work on deep sensorimotor control that imitates predictive models of human motion to train robot policies from visual understanding of movement.",
+    "zh": "合著论文研究深度感觉运动控制，通过模仿人类运动的预测模型，利用对运动的视觉理解来训练机器人策略。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2025-12-31",
@@ -1545,25 +1659,6 @@
    "connector": "x"
   },
   {
-   "date": "2023-12-04",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Happy to present LVM (Large Vision Model). Scalable and tasks can be specified via prompts. Enjoy!",
-    "zh": "Happy to present LVM (Large Vision Model). Scalable and tasks can be specified via prompts. Enjoy!"
-   },
-   "source": "@JitendraMalikCV",
-   "url": "https://x.com/JitendraMalikCV/status/1731553367217070413",
-   "note": {
-    "en": "Malik announced LVM (Large Vision Model), a scalable vision model whose tasks can be specified via prompts.",
-    "zh": "Malik发布了LVM(大型视觉模型),这是一个可通过提示词指定任务的可扩展视觉模型。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
    "date": "2023-08-17",
    "ts": null,
    "kind": "podcast",
@@ -1648,16 +1743,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 30.2,
+  "total": 30.4,
   "attention": 21,
   "centrality": 14,
-  "momentum": 44,
+  "momentum": 45,
   "stature": 81,
   "pageviews": 12954,
   "citations": 168758,
   "hIndex": 144,
   "events": 0,
-  "posts": 79,
+  "posts": 84,
   "wikiEn": "Jitendra Malik",
   "wikiZh": "希特德拉·馬利克"
  },

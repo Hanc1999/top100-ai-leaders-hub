@@ -172,6 +172,25 @@
    }
   },
   {
+   "date": "2026-09-26",
+   "ts": "2026-09-26T15:31:17Z",
+   "kind": "x",
+   "title": {
+    "en": "The safety data for Waymo gets better and better. Comparison w/ human drivers on rate of crashes with serious injury: Latest data: 270M miles, 20X better Mar 20",
+    "zh": "The safety data for Waymo gets better and better. Comparison w/ human drivers on rate of crashes with serious injury: Latest data: 270M miles, 20X better Mar 20"
+   },
+   "source": "@jeffdean",
+   "url": "https://x.com/JeffDean/status/2103870029599228312",
+   "note": {
+    "en": "Shared Waymo's latest safety data showing autonomous rides are now roughly 20x safer than human drivers for serious-injury crash rates, up from 13x a few months earlier.",
+    "zh": "分享了Waymo最新的安全数据,显示其自动驾驶在严重伤害事故率上已达到人类司机约20倍的安全水平,较几个月前的13倍有所提升。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-09-24",
    "ts": "2026-09-24T05:40:09Z",
    "kind": "x",
@@ -1859,6 +1878,23 @@
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN3Z5cDEwVlg3RXBldFF6WGFrbzFqQXl2bC1kMGVVU19rMTlPT29mR2NuZUxseXBiRDNlbEZOb3JOWURSamZTQmktZE5lY29mWmNrS1RkQ2tCLVFNWU9VWEVqU3pFcmxlR0d5VnBoZ24yQkNCYktnTWt6YUxWNGFvSTEzeDJrOUhnS05lOW1vdHJSTjZpYzFHWkdYc0VoVk9BV0FfMjBPNzY1VzNnMG5STGExV0VCWXBzOGJEV1p3NjNyc1dDTXFmUnlUOEwtSC1pdlE?oc=5",
    "auto": true,
    "judged": true
+  },
+  {
+   "date": "2026-08-05",
+   "ts": "2026-08-05T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Google reshuffles its AI leadership as Demis Hassabis steps down and Jeff Dean leaves",
+    "zh": "Google reshuffles its AI leadership as Demis Hassabis steps down and Jeff Dean leaves"
+   },
+   "body": {
+    "en": "Jeff Dean stepped down from his role at Google after 27 years, part of a broader AI leadership reshuffle that also saw Demis Hassabis's role change; he went on to co-found Discovery Loop.",
+    "zh": "Jeff Dean在谷歌工作27年后卸任,这是一次包括Demis Hassabis职位变动在内的AI高层重组的一部分;此后他联合创立了Discovery Loop。"
+   },
+   "source": "neowin.net",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON01FcllRN2dqckxMU2JNeTR0SmM1TDFRRlVETGI0UTlTbVdtVm9ieFU5UVdxcXVUMXN4R3AzbFZsMkw4QXF5cFFyU0phdk1QLUo5RXBOMXpLaENta3BUckF1ZWgyclFrVjRJcDFWUVRNS3dDNm9rWDZnRDQzRDlqcllQVmpGdC1kZW5WbXk4UUtHYjdTaFF0Y1JqQnJqb2F5RXRuZ2Y2ZW9xSkVBeFlNWWJ4X3U?oc=5",
+   "auto": true,
+   "judged": true
   }
  ],
  "changed": true,
@@ -1876,8 +1912,8 @@
   "pageviews": 159064,
   "citations": 36789,
   "hIndex": 30,
-  "events": 29,
-  "posts": 65,
+  "events": 30,
+  "posts": 66,
   "wikiEn": "Jeff Dean",
   "wikiZh": "傑夫·迪恩"
  },

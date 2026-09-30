@@ -770,6 +770,25 @@
    "connector": "openalex"
   },
   {
+   "date": "2025-11-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "RLAC: Reinforcement Learning with Adversarial Critic for Free-Form Generation Tasks",
+    "zh": "RLAC: Reinforcement Learning with Adversarial Critic for Free-Form Generation Tasks"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "http://arxiv.org/abs/2511.01758",
+   "note": {
+    "en": "Introduces RLAC, a reinforcement-learning method that uses an adversarial critic to catch and correct failure modes in open-ended generation tasks like text and code.",
+    "zh": "提出RLAC方法，通过对抗性评论模型发现并纠正文本、代码等开放式生成任务中的失败模式，从而改进强化学习训练。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2025-10-11",
    "ts": null,
    "kind": "x",
@@ -1572,16 +1591,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 29.4,
+  "total": 29.0,
   "attention": 11,
   "centrality": 43,
-  "momentum": 31,
+  "momentum": 29,
   "stature": 68,
   "pageviews": 4213,
   "citations": 63110,
   "hIndex": 112,
   "events": 1,
-  "posts": 73,
+  "posts": 74,
   "wikiEn": "Sergey Levine",
   "wikiZh": null
  },

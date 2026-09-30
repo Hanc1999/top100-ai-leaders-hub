@@ -1,5 +1,5 @@
 {
- "rank": 91,
+ "rank": 92,
  "id": "hongxia-yang",
  "name": {
   "en": "Hongxia Yang",
@@ -185,6 +185,25 @@
     "en": "One of China's earliest trillion-parameter multimodal systems.",
     "zh": "中国最早的万亿参数多模态系统之一。"
    }
+  },
+  {
+   "date": "2026-09-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "AI Smart Glasses for Wearable Intelligence: From Egocentric Sensing to Agentic Personalization",
+    "zh": "AI Smart Glasses for Wearable Intelligence: From Egocentric Sensing to Agentic Personalization"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.19793v1",
+   "note": {
+    "en": "Yang co-authored a survey on AI smart glasses for wearable intelligence, from egocentric sensing to agentic personalization, with PolyU colleagues.",
+    "zh": "杨红霞与香港理工大学同事合著了一篇关于可穿戴智能AI眼镜的综述，涵盖第一视角感知到智能体化个性服务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-08-04",
@@ -814,6 +833,40 @@
    "judged": true
   },
   {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T05:43:00Z",
+   "level": "notable",
+   "title": {
+    "en": "香港AI专家杨红霞：领域模型几百亿参数就够，内地医院专用模型准确率远超Gemini-3",
+    "zh": "香港AI专家杨红霞：领域模型几百亿参数就够，内地医院专用模型准确率远超Gemini-3"
+   },
+   "body": {
+    "en": "Yang argued that domain-specific models with tens of billions of parameters are enough, citing hospital-specific models in mainland China that outperform Gemini-3 on accuracy.",
+    "zh": "杨红霞提出，几百亿参数的领域专用模型已经足够，并举例内地医院专用模型在准确率上超越Gemini-3。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BVFVqdGE0c1Rpd2tjcWxKZWw5b0k5bmpWc3BJMFctX080QUcwQ0JmMUVCUHFfaVEtU0F4WlY1T3BLODNGLUFKRTl5alZ5bkxlVlRB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T05:33:59Z",
+   "level": "notable",
+   "title": {
+    "en": "香港AI专家杨红霞：如果未来所有数据被几家公司掌握是极其恐怖的",
+    "zh": "香港AI专家杨红霞：如果未来所有数据被几家公司掌握是极其恐怖的"
+   },
+   "body": {
+    "en": "Yang warned that it would be extremely frightening if all future data ends up controlled by a handful of companies, a public stance on AI data concentration risk.",
+    "zh": "杨红霞警告说，如果未来所有数据都被少数几家公司掌控，那将极其可怕，这是她对人工智能数据集中风险的公开表态。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zQWNnSzlQakpoUnllNWhQaEdyTEFCazNQamlPMGNrNVhEQXRwVzJsNUpCTEUyanlwV0Y1aTQtSm9NTER1MHhVSTBaaWY1bkQ3b19sMlBEYzc0UXowUEhlN1VMamJpM0VYT0xj?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-06-14",
    "ts": null,
    "level": "notable",
@@ -838,16 +891,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 21.7,
+  "total": 22.0,
   "attention": null,
   "centrality": 7,
-  "momentum": 45,
+  "momentum": 46,
   "stature": 8,
   "pageviews": 0,
   "citations": 7252,
   "hIndex": 40,
-  "events": 10,
-  "posts": 26,
+  "events": 12,
+  "posts": 27,
   "wikiEn": null,
   "wikiZh": null
  },

@@ -1,5 +1,5 @@
 {
- "rank": 23,
+ "rank": 24,
  "id": "andrew-ng",
  "name": {
   "en": "Andrew Ng",
@@ -211,6 +211,44 @@
     "en": "Argues recent tech-sector layoffs stem from pandemic-era overhiring, not automation.",
     "zh": "主张近期科技业裁员源于疫情期间的过度招聘，而非自动化。"
    }
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T16:11:18Z",
+   "kind": "x",
+   "title": {
+    "en": "Workera is being acquired by Pearson! It's been a privilege to support CEO @kiankatan and the whole Workera team through this journey. Back in 2019, Kian had th",
+    "zh": "Workera is being acquired by Pearson! It's been a privilege to support CEO @kiankatan and the whole Workera team through this journey. Back in 2019, Kian had th"
+   },
+   "source": "@andrewyng",
+   "url": "https://x.com/AndrewYNg/status/2104967263757713432",
+   "note": {
+    "en": "Ng announced Pearson is acquiring Workera, the AI skills-assessment company he co-founded with CEO Kian Katanforoosh in 2019.",
+    "zh": "吴恩达宣布培生（Pearson）收购Workera——他自2019年起与CEO Kian Katanforoosh共同创立的AI技能评测公司。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-28",
+   "ts": "2026-09-28T19:51:44Z",
+   "kind": "x",
+   "title": {
+    "en": "The OpenAI-Hugging Face hack was enabled by weak sandboxing. It is great that Nvidia is releasing open source tools for sandboxing AI agents. OpenWorker, our op",
+    "zh": "The OpenAI-Hugging Face hack was enabled by weak sandboxing. It is great that Nvidia is releasing open source tools for sandboxing AI agents. OpenWorker, our op"
+   },
+   "source": "@andrewyng",
+   "url": "https://x.com/AndrewYNg/status/2104660347730969087",
+   "note": {
+    "en": "Ng commented on the OpenAI-Hugging Face security breach, attributing it to weak sandboxing, and pointed to OpenWorker, his team's open-source agent harness with sandboxing support.",
+    "zh": "吴恩达就OpenAI与Hugging Face的安全事件发表评论，认为其根源是沙箱防护薄弱，并提及其团队开源的智能体运行框架OpenWorker所提供的沙箱支持。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
   },
   {
    "date": "2026-09-21",
@@ -1543,6 +1581,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2024-08-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Deep learning for detecting and characterizing oil and gas well pads in satellite imagery",
+    "zh": "Deep learning for detecting and characterizing oil and gas well pads in satellite imagery"
+   },
+   "source": "Nature Communications",
+   "url": "https://doi.org/10.1038/s41467-024-50334-9",
+   "note": {
+    "en": "Ng co-authored a Nature Communications paper applying deep learning to detect and characterize oil and gas well pads from satellite imagery.",
+    "zh": "吴恩达合著发表于《自然·通讯》的论文，运用深度学习从卫星图像中检测和识别油气井场。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2024-08-08",
    "ts": null,
    "kind": "podcast",
@@ -2039,6 +2096,57 @@
  ],
  "news": [
   {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T10:32:44Z",
+   "level": "notable",
+   "title": {
+    "en": "吴恩达：AI技术并未出现危险转向，恐慌由公关活动推动",
+    "zh": "吴恩达：AI技术并未出现危险转向，恐慌由公关活动推动"
+   },
+   "body": {
+    "en": "Ng pushed back on AI-safety alarm, saying the technology has not taken a dangerous turn and that the panic is being driven by PR campaigns.",
+    "zh": "吴恩达反驳AI风险恐慌论，称AI技术并未出现危险转向，这种恐慌是由公关活动推动的。"
+   },
+   "source": "虎嗅网",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uYjVXNXVudEFYaTlaZGpFNy1pYUdNT1BobjBLVDl2aE9uenRCV3p1N2ZQeEoxMF9RSElZTDRfakVHeUhEdUJFLU0yQ3habGN2dkYtUHM0N0pXYVJJaEpz?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T10:32:44Z",
+   "level": "notable",
+   "title": {
+    "en": "吴恩达：AI技术并未出现危险转向，恐慌由公关活动推动",
+    "zh": "吴恩达：AI技术并未出现危险转向，恐慌由公关活动推动"
+   },
+   "body": {
+    "en": "Ng argued AI has not taken a dangerous turn and that the current wave of public panic is being driven by PR campaigns rather than the technology itself.",
+    "zh": "吴恩达表示AI技术并未出现危险转向，当前的恐慌情绪是由公关活动而非技术本身推动的。"
+   },
+   "source": "虎嗅网",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3YTJ0bFlYZ3VYZEhjbFNINU1sRlRCOVlGalBlcFBMTXNNT0JHc1ExQ3p5R3pHRHp0OHhGMWt4YXcyNFNZcEZtSnRpbkpOVnBpa0E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-24",
+   "ts": "2026-09-24T04:23:56Z",
+   "level": "notable",
+   "title": {
+    "en": "吴恩达炮轰「AI就业末日论」：贩卖失业焦虑，其实就是一门生意",
+    "zh": "吴恩达炮轰「AI就业末日论」：贩卖失业焦虑，其实就是一门生意"
+   },
+   "body": {
+    "en": "Ng pushed back on \"AI job-apocalypse\" narratives, arguing that selling unemployment anxiety has become its own business.",
+    "zh": "吴恩达反驳“AI就业末日论”，指出贩卖失业焦虑本身已成为一门生意。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOSGR5YW1hdXZzZ0gxR0JyaFF4ZFgwSHQ0bFNGbV83Ni1zdjJVdFJWdkh6MlViZzE1UThLRGhOYjlKVGJUcUt0dDhWMUI0WGVETU9fNXVoUE15d2VDRFczUHljTi0zMklYQ3dxUlJnLTh2R0RicW9lVkx3Q3J1NVA2QkJzUExWVkVDNXdNZnlLVE1YdVhxbEJFb05tcDFsVk1RMW5zR2ZpTno1WVhtNDBHMHhVcG5xV3FmeXhDRnFKZFBORXdiLUZoanctR3JuX2NZWlA5M281N2pvSmpCa050U08taDRwSzdHTVd3RUZSSXNoSmhDaS00UGhFUURKSUFNUmVjeXZTV0RheFFxSWt4YmNrdzQ2ckJkM0JULUxWR0NvQW5SQ2FjTnlzZXpRc2x3V3c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-19",
    "ts": "2026-09-19T10:42:35Z",
    "level": "major",
@@ -2154,6 +2262,23 @@
    },
    "source": "cnbeta.com.tw",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93WnQwMXZyT0RNQldpcjZMWm9xWE1hdzRDZVlyZnNHRnZycXptd082cWswOFN3MDFpbF8xSlFUeVI2YUJxYXljdVlwQ0V1TGUzdkRTWWVxQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T03:10:13Z",
+   "level": "notable",
+   "title": {
+    "en": "吴恩达批评AI灭绝论：堪比科幻小说，新一波造势或意在影响监管",
+    "zh": "吴恩达批评AI灭绝论：堪比科幻小说，新一波造势或意在影响监管"
+   },
+   "body": {
+    "en": "Ng publicly criticized AI-extinction predictions as science-fiction-level exaggeration, suggesting the latest wave of alarm is aimed at shaping regulation.",
+    "zh": "吴恩达公开批评AI灭绝论堪比科幻小说式的夸大，认为最新一波论调意在影响监管政策。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQnNoNmo2c0NqQk03WkdsNUE2VUc3YkljdjluUjRLNWJ5WGFLVVJrWU8tZ1lqeEtialpIRnNieDZ3bVpHTnJiS1dJc1NoZ24xWUJkVzc3QUstN1JYUHBqdjltcWFpcjVSWEVjLXEwVUo3eFd2ckVUbXg0RmcwVU4zU1hDaFNqVDZP?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2566,6 +2691,23 @@
    "judged": true
   },
   {
+   "date": "2026-08-29",
+   "ts": "2026-08-29T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "吴恩达参与斯坦福新作：丢掉中间推理Token，长思考最高提速3倍",
+    "zh": "吴恩达参与斯坦福新作：丢掉中间推理Token，长思考最高提速3倍"
+   },
+   "body": {
+    "en": "Ng contributed to a new Stanford paper showing that dropping intermediate reasoning tokens can speed up long-chain reasoning by up to 3x.",
+    "zh": "吴恩达参与斯坦福大学新研究，通过丢弃中间推理Token，将长链推理速度最高提升3倍。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02cnk3aVoyNDdocF9nS2ZQR1AtRVhrV185bm9zOXdlNDUzLUFzOUpHdWVaRGhKMGdPRUZ0eWtCX1FfWUZDVk11NW5QUEloRjgwN3U4?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-08-28",
    "ts": null,
    "level": "notable",
@@ -2651,6 +2793,23 @@
    "judged": true
   },
   {
+   "date": "2026-08-07",
+   "ts": "2026-08-07T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李飞飞、辛顿与吴恩达，三大AI顶尖科学家巅峰对谈",
+    "zh": "李飞飞、辛顿与吴恩达，三大AI顶尖科学家巅峰对谈"
+   },
+   "body": {
+    "en": "Ng joined Fei-Fei Li and Geoffrey Hinton for a joint conversation among three leading AI scientists.",
+    "zh": "吴恩达与李飞飞、杰弗里·辛顿三位顶尖AI科学家展开对谈。"
+   },
+   "source": "qq.com",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qUURnUmNnOHVCSHVNZGl4MGphVV9fbWlNSlE0MWlqWXZlcm9QWl82VFpDbXhjek5SZFkxV0JmZzROOUFDN2RKRExyT1VXZXoxX3pxQnN0RQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-08-03",
    "ts": "2026-08-03T07:00:00Z",
    "level": "major",
@@ -2681,6 +2840,23 @@
    },
    "source": "techinafrica.com",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaW5TbUVzOEk2UXRPWmo0bEVGTV9NenZVVjlUMTZKSE40Ql9xeW1UOU83czhVX1k3VEV5SGdSY1dJSUNURHNJbUFxX24xREg1RXZYZE5rT0Z1bDlOSWZLYUdsaU1RTnBZNjV6aVNoaFYtWjkwaVBiTGpMUU90T1d3andlUUVfMS1HUTdqZ1h0a1pIMlV6YUNISnRZVmIzUlRxRE9WaE9B?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-03",
+   "ts": "2026-08-03T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Coursera makes $100mln strategic investment in LearnVector, a new AI-native learning company founded by Andrew Ng",
+    "zh": "Coursera makes $100mln strategic investment in LearnVector, a new AI-native learning company founded by Andrew Ng"
+   },
+   "body": {
+    "en": "Coursera invested $100M in LearnVector, a new AI-native learning company founded by Andrew Ng.",
+    "zh": "Coursera向吴恩达新创立的AI原生教育公司LearnVector投资1亿美元。"
+   },
+   "source": "Zawya",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTHBmQWs3T3hMdW0yRUREVzZJNWRJNExFVnQ3Qmd5Z0ZIUzFsN0hIX0tmbkJFemtDU1dsX3o1SUVsbjhUZnNMMDVJVEF2RlA5ODVHYzJxVnlUWEg1R1d1ZzZEZEJVUDJOQUh3ODByMktua3JPbmJIdkFYVnB4UVV2LTBILWdacFhxLW1PamVYMEo3V2pGTXNacWxoazNObmtmZFVnUkZFMHpZMkE4VC1XM3UtWDhUUTJxeUYtTGpESlI1UU9GY2lqRTZRYjh4WUpNSWFPblp5aGpJaGhPQl9VZ3dHWDVjM2t1ZkR1Vm5qME4xSFB6a0FSZDBFX0JxbUhNQVE?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2766,6 +2942,23 @@
    },
    "source": "thepaper.cn",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCcU9oT3RKajVBZWttQjRLNWFSZmE0Mk05NkxEZFRBLVN4bG84ZU1MV2N6ZUNIdENBTml5OGJFTmZKZHkxbDEzVEdoTnh5VjZuenBqRTctd3VGX19XQllkRg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-29",
+   "ts": "2026-07-29T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "吴恩达推出面向白领的 AI 教育初创公司 LearnVector，获得 Coursera 1 亿美元投资",
+    "zh": "吴恩达推出面向白领的 AI 教育初创公司 LearnVector，获得 Coursera 1 亿美元投资"
+   },
+   "body": {
+    "en": "Ng launched LearnVector, a new AI education startup for working professionals, with Coursera making a $100M strategic investment.",
+    "zh": "吴恩达推出面向职场人士的AI教育新公司LearnVector，Coursera对其战略投资1亿美元。"
+   },
+   "source": "CryptoRank",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16NDl4Z05vTk1GWWZqd3o5eVdXRW9hc3ZyeVJHRU5UZkU2Q2Rjbl9WTnVEamFncUNFdDMzVE9qbWh1MmJrQW1SRzZDcmppX2I4T1FjbFVmV3dsNmw3?oc=5",
    "auto": true,
    "judged": true
   },
@@ -3076,6 +3269,23 @@
    "judged": true
   },
   {
+   "date": "2026-05-13",
+   "ts": "2026-05-13T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Andrew Ng Dismisses AI-Driven Mass Unemployment as a Myth",
+    "zh": "Andrew Ng Dismisses AI-Driven Mass Unemployment as a Myth"
+   },
+   "body": {
+    "en": "Ng publicly dismissed the idea of AI-driven mass unemployment as a myth.",
+    "zh": "吴恩达公开表示，AI导致大规模失业的说法是一种迷思。"
+   },
+   "source": "KuCoin",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPei1QR0FXWlB2UU5mRUNsekJxV0gwNTdrcGNKSTBPczhuMmxESDdZVXZETWwzNU9faE50SWZuNGdVYVhxZElhS0JHTFBhcTVzRFlDSlFPXzVZRU1sRC1BNk12c2tMQnFwbjBZMllIVlR4ZDFHLU40S19rT3pxdG1odldoVlFSc21nT1h4enZFNnRvRTdMcUE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-03-20",
    "ts": null,
    "level": "major",
@@ -3193,8 +3403,8 @@
   "pageviews": 337525,
   "citations": 131102,
   "hIndex": 124,
-  "events": 67,
-  "posts": 98,
+  "events": 76,
+  "posts": 101,
   "wikiEn": "Andrew Ng",
   "wikiZh": "吴恩达"
  },

@@ -768,6 +768,40 @@
    "url": "https://news.qq.com/rain/a/20260410A040JI00"
   },
   {
+   "date": "2026-09-28",
+   "ts": "2026-09-28T13:35:07Z",
+   "level": "notable",
+   "title": {
+    "en": "o1发布后，信息量最大的圆桌对话：杨植麟、姜大昕、朱军探讨大模型技术路径",
+    "zh": "o1发布后，信息量最大的圆桌对话：杨植麟、姜大昕、朱军探讨大模型技术路径"
+   },
+   "body": {
+    "en": "Zhu Jun joins Yang Zhilin and Jiang Daxin in a roundtable on large-model technical paths following the release of OpenAI's o1.",
+    "zh": "o1发布后，朱军与杨植麟、姜大昕就大模型技术路径展开圆桌对话。"
+   },
+   "source": "geekpark.net",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XUURXMUR4WHJaSExwXzRHZ2JLZFpmSnAxb2l4dGJ0ejA3eXlJWXhseVNJZVBhX3lQbUdTV3Fzb2lxNzA0V1NRd3VzUDQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-24",
+   "ts": "2026-09-24T07:41:00Z",
+   "level": "minor",
+   "title": {
+    "en": "生数科技创始人、清华教授朱军：不建议学生过度依赖AI",
+    "zh": "生数科技创始人、清华教授朱军：不建议学生过度依赖AI"
+   },
+   "body": {
+    "en": "Zhu Jun, Tsinghua professor and Shengshu Technology chief scientist, says in an interview that students should not over-rely on AI.",
+    "zh": "清华大学教授、生数科技首席科学家朱军在采访中表示，不建议学生过度依赖AI。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hVmNRM0x6SHhzRVAxN2g5My1IOTZpMUszMW1OdURuZ0lSY3FFREVJMDh6OENtclNwQmJnZ3pQakNTcUg0TjdpelRUMW44Q1JwQ0o1N21n?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-11",
    "ts": "2026-09-11T09:19:25Z",
    "level": "notable",
@@ -832,6 +866,23 @@
    },
    "source": "cj.sina.cn",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qZXFpdEpJTmFBMC1GdnREcU9pS0NsT3FEOVlhLTBPZm4zYW10M19FcnFta1hpTEpMejU0dUxxb2ExY2xob0tCTzFxbDk4NVlCU203cXFiM0kyZEFabEZuQU80YVVzaHhWOGIyYmlSa0hxYl9wc2t3VVNOb01NQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "世界模型到底是什么？李飞飞、朱军等如何解读？",
+    "zh": "世界模型到底是什么？李飞飞、朱军等如何解读？"
+   },
+   "body": {
+    "en": "Zhu Jun joins Fei-Fei Li and other researchers in a roundtable discussion of what \"world models\" actually are, reflecting Shengshu's push from video generation into world models.",
+    "zh": "朱军与李飞飞等研究者一同探讨“世界模型”究竟是什么，呼应生数科技从视频生成向世界模型方向的延伸。"
+   },
+   "source": "36kr.com",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45Y2x5ZXlnNXVsbHRoNFVZRVRwZ3czaHdQM0dPT0J4N3ZtTFJVVkthWVdPRm82Sm5YXzYyVzNWUXVSWGFpMElWNFR0cjVOUQ?oc=5",
    "auto": true,
    "judged": true
   },
@@ -945,15 +996,15 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 32.4,
+  "total": 32.7,
   "attention": 19,
   "centrality": 20,
-  "momentum": 59,
+  "momentum": 60,
   "stature": 61,
   "pageviews": 12694,
   "citations": 56229,
   "hIndex": 118,
-  "events": 12,
+  "events": 15,
   "posts": 30,
   "wikiEn": "Zhu Jun",
   "wikiZh": "朱军"

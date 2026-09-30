@@ -1,5 +1,5 @@
 {
- "rank": 94,
+ "rank": 90,
  "id": "diogo-almeida",
  "name": {
   "en": "Diogo Almeida",
@@ -146,6 +146,44 @@
    }
   },
   {
+   "date": "2026-09-28",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AI Can Write Code. Why Isn’t Software Better?",
+    "zh": "AI Can Write Code. Why Isn’t Software Better?"
+   },
+   "source": "The a16z Show",
+   "url": "https://podcasts.apple.com/us/podcast/ai-can-write-code-why-isnt-software-better/id842818711?i=1000792002745&uo=4",
+   "note": {
+    "en": "Almeida joins a16z's Ben Horowitz and Martin Casado to discuss why AI coding gains haven't translated into better software, drawing on his work at TypeSafe AI.",
+    "zh": "Almeida与a16z的Ben Horowitz和Martin Casado对谈,结合其在TypeSafe AI的工作,探讨为何AI编程能力提升未能带来更好的软件。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-09-24",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Meta Connect Reactions, Zuck's Beer Pong Controversy, New Bentley EV | Shalev Lifshitz & Romi Lifshitz, Leif Abraham, Diogo Almeida, Hooman Reza Nezhad, Jordan Nanos, Erika Alden DeBenedictis",
+    "zh": "Meta Connect Reactions, Zuck's Beer Pong Controversy, New Bentley EV | Shalev Lifshitz & Romi Lifshitz, Leif Abraham, Diogo Almeida, Hooman Reza Nezhad, Jordan Nanos, Erika Alden DeBenedictis"
+   },
+   "source": "TBPN",
+   "url": "https://podcasts.apple.com/us/podcast/meta-connect-reactions-zucks-beer-pong-controversy/id1772360235?i=1000791522621&uo=4",
+   "note": {
+    "en": "Almeida appears as a guest panelist on TBPN discussing Meta Connect reactions, shortly after taking TypeSafe AI's Jev model out of stealth.",
+    "zh": "Almeida作为嘉宾出席TBPN节目讨论Meta Connect相关反应,此前不久他刚将TypeSafe AI的Jev模型公开发布。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-09-21",
    "ts": null,
    "kind": "podcast",
@@ -165,6 +203,44 @@
    "connector": "podcasts"
   },
   {
+   "date": "2023-03-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GPT-4 Technical Report",
+    "zh": "GPT-4 Technical Report"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2303.08774v6",
+   "note": {
+    "en": "Almeida is a co-author of the GPT-4 Technical Report, OpenAI's release paper for its large multimodal model.",
+    "zh": "Almeida是GPT-4技术报告的合著者之一,该报告是OpenAI发布其大型多模态模型的论文。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2021-06-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Generalizable Approach to Learning Optimizers",
+    "zh": "A Generalizable Approach to Learning Optimizers"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2106.00958v2",
+   "note": {
+    "en": "Almeida co-authors \"A Generalizable Approach to Learning Optimizers\" with Wojciech Zaremba, proposing a learned optimizer that generalizes to unseen tasks.",
+    "zh": "Almeida与Wojciech Zaremba合著《一种可泛化的学习优化器方法》,提出一种能泛化到未见任务的学习型优化器。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2016-10-23",
    "ts": null,
    "kind": "podcast",
@@ -182,6 +258,82 @@
    "judged": true,
    "platform": "apple-podcasts",
    "connector": "podcasts"
+  },
+  {
+   "date": "2016-05-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Genetic Architect: Discovering Genomic Structure with Learned Neural Architectures",
+    "zh": "Genetic Architect: Discovering Genomic Structure with Learned Neural Architectures"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1605.07156v1",
+   "note": {
+    "en": "Almeida co-authors \"Genetic Architect\" with Laura Deming and Sasha Targ, a neural architecture search method for discovering genomic structure, from his time at Enlitic.",
+    "zh": "Almeida与Laura Deming、Sasha Targ合著《Genetic Architect》,提出一种用于发现基因组结构的神经架构搜索方法,发表于其在Enlitic工作期间。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2016-03-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Resnet in Resnet: Generalizing Residual Architectures",
+    "zh": "Resnet in Resnet: Generalizing Residual Architectures"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1603.08029v1",
+   "note": {
+    "en": "Almeida co-authors \"Resnet in Resnet,\" a dual-stream architecture generalizing ResNets, from his time as a deep learning researcher at Enlitic.",
+    "zh": "Almeida合著《Resnet in Resnet》,提出一种泛化ResNet的双流架构,发表于其在Enlitic担任深度学习研究员期间。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2016-03-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units",
+    "zh": "Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1603.05201v2",
+   "note": {
+    "en": "Almeida co-authors a paper on Concatenated ReLU (CReLU) activations that improve convolutional neural network performance, from his research at Enlitic.",
+    "zh": "Almeida合著论文,提出拼接式ReLU(CReLU)激活函数以提升卷积神经网络性能,发表于其在Enlitic的研究工作期间。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2015-11-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GradNets: Dynamic Interpolation Between Neural Architectures",
+    "zh": "GradNets: Dynamic Interpolation Between Neural Architectures"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/1511.06827v1",
+   "note": {
+    "en": "Almeida co-authors \"GradNets\" with Nate Sauder at Enlitic, a method for dynamically interpolating between neural network architectures during training.",
+    "zh": "Almeida与Nate Sauder在Enlitic合著《GradNets》,提出一种在训练过程中动态插值神经网络架构的方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   }
  ],
  "news": [
@@ -212,6 +364,23 @@
    },
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/"
+  },
+  {
+   "date": "2026-09-28",
+   "ts": "2026-09-28T16:08:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Jev Founder Diogo Almeida: AI Coding Agents Are Writing the Same Software Faster, Not Better Software",
+    "zh": "Jev Founder Diogo Almeida: AI Coding Agents Are Writing the Same Software Faster, Not Better Software"
+   },
+   "body": {
+    "en": "Almeida, founder of TypeSafe AI (Jev), argues in an interview that AI coding agents are producing the same software faster rather than better software.",
+    "zh": "TypeSafe AI(Jev)创始人Almeida在采访中表示,AI编程智能体只是让相同的软件写得更快,而非写出更好的软件。"
+   },
+   "source": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aQ2xtMElxY0NPSGJNZldGZTlKeUpxV1JUeGlZS2ZJSzJ1SUgzaGR2WnVXN2F5Wkd5YzF1Yk1lX3A5aHZ4T1BmZ2VEUTh3LTgtbC1KYnB4QVVQY3c?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-09-23",
@@ -306,16 +475,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 20.9,
+  "total": 24.1,
   "attention": null,
   "centrality": 14,
-  "momentum": 29,
+  "momentum": 36,
   "stature": null,
   "pageviews": 0,
   "citations": 0,
   "hIndex": 0,
-  "events": 7,
-  "posts": 3,
+  "events": 8,
+  "posts": 11,
   "wikiEn": null,
   "wikiZh": null
  },

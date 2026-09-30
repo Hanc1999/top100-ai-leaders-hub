@@ -1,5 +1,5 @@
 {
- "rank": 83,
+ "rank": 84,
  "id": "michael-jordan",
  "name": {
   "en": "Michael I. Jordan",
@@ -187,6 +187,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-09-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "PICPIs: Prediction-Interval-Conditional Prediction Intervals",
+    "zh": "PICPIs: Prediction-Interval-Conditional Prediction Intervals"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.25388v1",
+   "note": {
+    "en": "New paper introducing prediction-interval-conditional prediction intervals for conformal uncertainty quantification, with economist Guido Imbens among the co-authors.",
+    "zh": "提出预测区间条件化预测区间的新论文，用于保形不确定性量化，合著者包括经济学家Guido Imbens。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-08-28",
@@ -815,16 +834,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 27.0,
+  "total": 27.2,
   "attention": 31,
   "centrality": 0,
-  "momentum": 25,
+  "momentum": 26,
   "stature": 86,
   "pageviews": 40320,
   "citations": 181936,
   "hIndex": 163,
   "events": 2,
-  "posts": 33,
+  "posts": 34,
   "wikiEn": "Michael I. Jordan",
   "wikiZh": "迈克尔·乔丹 (学者)"
  },

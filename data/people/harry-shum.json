@@ -652,6 +652,25 @@
    "judged": true,
    "platform": "openalex",
    "connector": "openalex"
+  },
+  {
+   "date": "2005-07-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Bayesian Mixture Model for Multi-View Face Alignment",
+    "zh": "A Bayesian Mixture Model for Multi-View Face Alignment"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.1109/cvpr.2005.17",
+   "note": {
+    "en": "Shum co-authored a Bayesian mixture model for multi-view face alignment at Microsoft Research Asia, part of his computer vision research there.",
+    "zh": "沈向洋在微软亚洲研究院合著了一篇关于多视角人脸对齐贝叶斯混合模型的论文，是他在该机构计算机视觉研究工作的一部分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   }
  ],
  "news": [
@@ -737,7 +756,7 @@
   "citations": 1500,
   "hIndex": 10,
   "events": 4,
-  "posts": 25,
+  "posts": 26,
   "wikiEn": "Harry Shum",
   "wikiZh": "沈向洋"
  },

@@ -1,5 +1,5 @@
 {
- "rank": 60,
+ "rank": 61,
  "id": "wang-haifeng",
  "name": {
   "en": "Wang Haifeng",
@@ -203,6 +203,44 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-09-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Positions Are Not Facts: The Mismatch Between KV Caches and Memory",
+    "zh": "Positions Are Not Facts: The Mismatch Between KV Caches and Memory"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.33759v1",
+   "note": {
+    "en": "Wang Haifeng co-authored a paper on how language models should update stale facts held in their KV cache memory, working alongside longtime ERNIE collaborator Hua Wu.",
+    "zh": "王海峰与长期合作者吴华共同撰写论文，探讨语言模型应如何更新其KV缓存中记忆的过时事实。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "PersonaPath: Towards Knowledge-Centric Personalized Learning Path Planning",
+    "zh": "PersonaPath: Towards Knowledge-Centric Personalized Learning Path Planning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.18861v1",
+   "note": {
+    "en": "Co-authored paper on knowledge-centric personalized learning path planning, with Chinese NLP researchers including Min Zhang and Kehai Chen.",
+    "zh": "与张民、陈可海等中国自然语言处理学者合著的论文，研究面向知识中心的个性化学习路径规划。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-09-11",
@@ -620,16 +658,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 37.9,
+  "total": 37.5,
   "attention": null,
   "centrality": 50,
-  "momentum": 24,
+  "momentum": 23,
   "stature": 36,
   "pageviews": 0,
   "citations": 22856,
   "hIndex": 74,
   "events": 3,
-  "posts": 20,
+  "posts": 22,
   "wikiEn": null,
   "wikiZh": null
  },

@@ -215,6 +215,25 @@
    "connector": null
   },
   {
+   "date": "2026-09-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Reinforcement Learning for Real-Time Vision-Language-Action Policies",
+    "zh": "Reinforcement Learning for Real-Time Vision-Language-Action Policies"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.18207v1",
+   "note": {
+    "en": "Investigates reinforcement-learning fine-tuning for making vision-language-action robot policies work reliably in real time despite their scale.",
+    "zh": "研究如何对大规模视觉-语言-动作机器人策略进行强化学习微调，以实现可靠的实时运行。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-15",
    "ts": "2026-09-15T01:18:56Z",
    "kind": "x",
@@ -1837,16 +1856,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 34.4,
+  "total": 34.6,
   "attention": 22,
   "centrality": 39,
-  "momentum": 50,
+  "momentum": 51,
   "stature": 39,
   "pageviews": 14192,
   "citations": 26696,
   "hIndex": 64,
   "events": 1,
-  "posts": 88,
+  "posts": 89,
   "wikiEn": "Chelsea Finn",
   "wikiZh": null
  },

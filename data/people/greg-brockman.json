@@ -1,5 +1,5 @@
 {
- "rank": 20,
+ "rank": 21,
  "id": "greg-brockman",
  "name": {
   "en": "Greg Brockman",
@@ -1279,6 +1279,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-14",
+   "ts": "2026-09-14T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Greg Brockman says OpenAI has already slowed cutting-edge AI developments over safety concerns",
+    "zh": "Greg Brockman says OpenAI has already slowed cutting-edge AI developments over safety concerns"
+   },
+   "body": {
+    "en": "Brockman said OpenAI has already slowed some cutting-edge AI development over safety concerns, a rare public admission of self-imposed caution.",
+    "zh": "布罗克曼表示，OpenAI已出于安全考虑主动放慢了部分前沿人工智能的开发速度，这是一次罕见的公开自我克制表态。"
+   },
+   "source": "AOL.ca",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONjdQek5OelRnS3NUcmFDTVh6bkxhNE9Bbk5lLWxCYnNWcmh5M2QtMnNzdGdFbHNiY0VHeklCZHY1Nkl4dlVwVkQ4ZW02VV9hZlYxMGd4bmFlbWY0c21GSER2c3pOY3pvNlh4cFRvUHA2eVdUNDFoNWhaeXlaSlFLbXN3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-11",
    "ts": "2026-09-11T16:58:09Z",
    "level": "major",
@@ -1507,15 +1524,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 70.2,
+  "total": 69.9,
   "attention": 72,
   "centrality": 96,
-  "momentum": 67,
+  "momentum": 66,
   "stature": 0,
   "pageviews": 406921,
   "citations": 5238,
   "hIndex": 11,
-  "events": 19,
+  "events": 20,
   "posts": 56,
   "wikiEn": "Greg Brockman",
   "wikiZh": "格雷格·布羅克曼"

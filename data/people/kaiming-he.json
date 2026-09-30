@@ -1,5 +1,5 @@
 {
- "rank": 63,
+ "rank": 65,
  "id": "kaiming-he",
  "name": {
   "en": "Kaiming He",
@@ -888,6 +888,23 @@
    "judged": true
   },
   {
+   "date": "2026-05-13",
+   "ts": "2026-05-13T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "何恺明首个语言模型：105M参数，不走GPT自回归老路|ChatGPT|Token|离散|训练|论文_手机新浪网",
+    "zh": "何恺明首个语言模型：105M参数，不走GPT自回归老路|ChatGPT|Token|离散|训练|论文_手机新浪网"
+   },
+   "body": {
+    "en": "Chinese coverage of He's first language model release (105M parameters), noting it departs from GPT-style autoregressive training.",
+    "zh": "中文媒体报道何恺明发布其首个语言模型（1.05亿参数），指出该模型没有采用GPT式的自回归训练路径。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON3FONTJTZk5qUFJqeFhyaFV1bVY3VUNEOGhObGFiYms5RE1iM0R1dXZEYWZVNVE5dVN2cWJsWmJPbHNoamltcUZOTkNKMlNIQVRlWld6YnJoTHdqYlhqWS1rQUJFVUxCdkNtRzNYQVNsNmpndDFqRzNiMW9xdGZLbTlvb1lPa1dSbGhFcEwzbThHZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-05-12",
    "ts": null,
    "level": "notable",
@@ -1014,15 +1031,15 @@
  },
  "cat": "research",
  "score": {
-  "total": 36.6,
+  "total": 36.0,
   "attention": 33,
   "centrality": 2,
-  "momentum": 55,
+  "momentum": 52,
   "stature": 100,
   "pageviews": 46828,
   "citations": 555963,
   "hIndex": 83,
-  "events": 18,
+  "events": 19,
   "posts": 28,
   "wikiEn": "Kaiming He",
   "wikiZh": "何恺明"

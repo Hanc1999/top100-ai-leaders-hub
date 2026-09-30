@@ -1,5 +1,5 @@
 {
- "rank": 12,
+ "rank": 11,
  "id": "sergey-brin",
  "name": {
   "en": "Sergey Brin",
@@ -420,6 +420,25 @@
    "judged": true,
    "platform": "openalex",
    "connector": "openalex"
+  },
+  {
+   "date": "1998-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Beyond Market Baskets: Generalizing Association Rules to Dependence Rules",
+    "zh": "Beyond Market Baskets: Generalizing Association Rules to Dependence Rules"
+   },
+   "source": "Data Mining and Knowledge Discovery",
+   "url": "https://doi.org/10.1023/a:1009713703947",
+   "note": {
+    "en": "Brin's early data-mining research with Rajeev Motwani and colleagues, generalizing association-rule mining to statistical dependence rules — part of the Stanford work that preceded Google.",
+    "zh": "布林与Rajeev Motwani等人合作的早期数据挖掘研究，将关联规则挖掘推广为统计依赖规则——这是他在斯坦福大学从事、早于创立谷歌的研究工作之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   }
  ],
  "news": [
@@ -436,6 +455,23 @@
    },
    "source": "Storyboard18",
    "url": "https://www.storyboard18.com/how-it-works/whats-behind-googles-gemini-reset-sergey-brin-pushes-ai-team-to-move-faster-107647.htm"
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T16:10:43Z",
+   "level": "notable",
+   "title": {
+    "en": "Sergey Brin Donates $102 Million to Oppose California Billionaire Tax - Межа. Новини України.",
+    "zh": "Sergey Brin Donates $102 Million to Oppose California Billionaire Tax - Межа. Новини України."
+   },
+   "body": {
+    "en": "Brin donated $102 million to oppose a proposed California billionaire tax.",
+    "zh": "布林捐款1.02亿美元，反对加州拟议的“亿万富翁税”。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pcmlTQ1ZOeVBiTnlWVEc1TDBOS20tbENHNkVuNURhQ25wYVZ0Qk1OZTg1eGhHanlSS05UdUxKYWNmSmptTWRQdmZIMHJEUDFOajJpV2xPd1VrTDZKMHZ6OUdqUzZqM0k?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-09-15",
@@ -625,6 +661,23 @@
    "judged": true
   },
   {
+   "date": "2026-08-11",
+   "ts": "2026-08-11T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Sergey Brin Spends $100 Million To Fight Billionaire Tax",
+    "zh": "Sergey Brin Spends $100 Million To Fight Billionaire Tax"
+   },
+   "body": {
+    "en": "Brin committed $100 million to oppose a California billionaire tax, a rare direct political intervention.",
+    "zh": "布林出资1亿美元反对加州的“亿万富翁税”，这是他一次罕见的直接政治干预。"
+   },
+   "source": "iHeart",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdEF4MHUySXZ4MnhGUktTNFY0UWxUR2RpUnhSSU1KTHRWWE9pQ0JyVkQxN2ttby1pUDZUT2NBelR2dE04cUhrVlRjUjd6cmdISDNYTFFTUzk5WjkyTFBKR1ZjWW5OenI4WlZrRGI4bFlSSG1tS2NiUXktcUVJa3NCdmNCOTQzUnYyd2M4VlRXbjdlQTNmYTQtNlNUUjI2X2_SAacBQVVfeXFMTzV5RUhTS2QxXzZELXhBLWVRbnJ1b05wT2VBMXZ3MVhua3lsWkpFZFpTSVdiT1JXbGVJUThuMDJqXzVhbWVzYmdEMWVzSWpQSjAweG0tbHQxdDQ1WjlPRXBwd0V4bVJwLTBPTDU3NnI2NHE4bkhLU1VxbnFSZDF6TjZqYl9pNG1NZDJPLWRlYUp3RTN0bXhIZkw3emtqWlBCbXc1Nm9ZdVE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-08-10",
    "ts": "2026-08-10T07:00:00Z",
    "level": "notable",
@@ -717,16 +770,16 @@
  },
  "cat": "platform",
  "score": {
-  "total": 78.1,
+  "total": 78.7,
   "attention": 93,
   "centrality": 87,
-  "momentum": 52,
+  "momentum": 55,
   "stature": 49,
   "pageviews": 1423098,
   "citations": 38377,
   "hIndex": 23,
-  "events": 17,
-  "posts": 15,
+  "events": 19,
+  "posts": 16,
   "wikiEn": "Sergey Brin",
   "wikiZh": "谢尔盖·布林"
  },

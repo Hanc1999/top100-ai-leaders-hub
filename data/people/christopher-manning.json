@@ -1,5 +1,5 @@
 {
- "rank": 93,
+ "rank": 94,
  "id": "christopher-manning",
  "name": {
   "en": "Christopher Manning",
@@ -371,6 +371,25 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2025-08-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The Surprising Victory of NLP: From Philosophy to Agentic Language Models",
+    "zh": "The Surprising Victory of NLP: From Philosophy to Agentic Language Models"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.1145/3711896.3736801",
+   "note": {
+    "en": "A position piece by Manning arguing that the rise of agentic language models has, in practice, settled long-running philosophical debates in NLP.",
+    "zh": "这是Manning的一篇立场文章，认为智能体语言模型的兴起在实践中终结了NLP领域长期的哲学争论。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2025-07-24",
@@ -781,7 +800,7 @@
   "citations": 178412,
   "hIndex": 134,
   "events": 3,
-  "posts": 30,
+  "posts": 31,
   "wikiEn": "Christopher D. Manning",
   "wikiZh": null
  },

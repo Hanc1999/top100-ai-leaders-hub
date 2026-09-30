@@ -348,6 +348,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2024-09-04",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Daphne Koller on drug discovery and AI",
+    "zh": "Daphne Koller on drug discovery and AI"
+   },
+   "source": "Possible",
+   "url": "https://podcasts.apple.com/us/podcast/daphne-koller-on-drug-discovery-and-ai/id1677184070?i=1000668292001&uo=4",
+   "note": {
+    "en": "Koller appears as a guest on Reid Hoffman's Possible podcast to discuss how AI and machine learning are accelerating drug discovery at insitro.",
+    "zh": "科勒作为嘉宾登上里德·霍夫曼的播客Possible,探讨insitro如何利用人工智能和机器学习加速药物研发。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2024-08-05",
    "ts": null,
    "kind": "podcast",
@@ -1330,7 +1349,7 @@
   "citations": 61723,
   "hIndex": 122,
   "events": 1,
-  "posts": 61,
+  "posts": 62,
   "wikiEn": "Daphne Koller",
   "wikiZh": "達芙妮·科勒"
  },

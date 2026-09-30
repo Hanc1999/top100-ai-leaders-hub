@@ -1057,6 +1057,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2018-05-10",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "How do you become a CTO - with Microsoft's CTO Kevin Scott",
+    "zh": "How do you become a CTO - with Microsoft's CTO Kevin Scott"
+   },
+   "source": "Hanselminutes with Scott Hanselman",
+   "url": "https://podcasts.apple.com/us/podcast/how-do-you-become-a-cto-with-microsofts-cto-kevin-scott/id117488860?i=1000411131900&uo=4",
+   "note": {
+    "en": "2018 Hanselminutes interview with Kevin Scott as Microsoft's CTO, discussing his path from early career through LinkedIn to the role.",
+    "zh": "2018年Hanselminutes播客采访微软CTO Kevin Scott，讲述他从早年经历、LinkedIn任职到出任CTO的职业历程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2014-03-10",
    "ts": null,
    "kind": "blog",
@@ -1108,7 +1127,7 @@
   "citations": 38763,
   "hIndex": 96,
   "events": 1,
-  "posts": 51,
+  "posts": 52,
   "wikiEn": "Kevin Scott (businessman)",
   "wikiZh": null
  },

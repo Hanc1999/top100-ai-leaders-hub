@@ -796,6 +796,44 @@
    "connector": "openalex"
   },
   {
+   "date": "2021-03-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Multimodal Neurons in Artificial Neural Networks",
+    "zh": "Multimodal Neurons in Artificial Neural Networks"
+   },
+   "source": "Distill",
+   "url": "https://doi.org/10.23915/distill.00030",
+   "note": {
+    "en": "Identifies multimodal neurons in CLIP that respond to the same concept across images and text, an early landmark in interpretability research.",
+    "zh": "该研究发现CLIP模型中存在多模态神经元，能够对图像和文本中的同一概念做出响应，是可解释性研究的早期里程碑成果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2021-02-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Visualizing Weights",
+    "zh": "Visualizing Weights"
+   },
+   "source": "Distill",
+   "url": "https://doi.org/10.23915/distill.00024.007",
+   "note": {
+    "en": "Explores techniques for directly visualizing neural network weights, extending the feature-visualization research program Olah pioneered.",
+    "zh": "探讨了直接可视化神经网络权重的技术，延续了Olah开创的特征可视化研究方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2016-06-21",
    "ts": null,
    "kind": "paper",
@@ -1006,7 +1044,7 @@
   "citations": 14804,
   "hIndex": 20,
   "events": 7,
-  "posts": 38,
+  "posts": 40,
   "wikiEn": "Chris Olah",
   "wikiZh": null
  },

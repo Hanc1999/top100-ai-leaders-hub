@@ -1,5 +1,5 @@
 {
- "rank": 65,
+ "rank": 66,
  "id": "wang-jian",
  "name": {
   "en": "Wang Jian",
@@ -875,6 +875,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-01",
+   "ts": "2026-09-01T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "王坚：把算力送上太空，让每个年轻人都能成为创造者",
+    "zh": "王坚：把算力送上太空，让每个年轻人都能成为创造者"
+   },
+   "body": {
+    "en": "Wang Jian spoke on putting compute into space, tying into the satellite-compute constellation initiative he now leads at Zhejiang Lab.",
+    "zh": "王坚谈将算力送上太空，呼应他目前在之江实验室主导的卫星算力星座项目。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BLUV4dzEtOVJFcGp3XzB4QlRaZWVYazZ5cnhta29mWkRZVEV6X1BhZWNqcWc0YWRibVpZaFFKUFYwMmlBV256cUlZaW9faW9KMmQwN0dRRFVsV0RSTG9reA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-08-31",
    "ts": null,
    "level": "notable",
@@ -1103,15 +1120,15 @@
  },
  "cat": "platform",
  "score": {
-  "total": 35.3,
+  "total": 34.8,
   "attention": 14,
   "centrality": 22,
-  "momentum": 76,
+  "momentum": 74,
   "stature": 71,
   "pageviews": 7842,
   "citations": 69647,
   "hIndex": 46,
-  "events": 50,
+  "events": 51,
   "posts": 5,
   "wikiEn": "Wang Jian (computer scientist)",
   "wikiZh": "王坚 (信息技术专家)"

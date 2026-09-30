@@ -582,6 +582,25 @@
    "connector": "web"
   },
   {
+   "date": "2026-07-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Unpacking Open Source Artificial Intelligence: Toward a Framework for Openness in Foundation Models",
+    "zh": "Unpacking Open Source Artificial Intelligence: Toward a Framework for Openness in Foundation Models"
+   },
+   "source": "Communications of the ACM",
+   "url": "https://doi.org/10.1145/3778264",
+   "note": {
+    "en": "Co-authored a Communications of the ACM piece proposing a shared framework for measuring openness in foundation models, alongside figures like Yann LeCun and Mozilla's Mark Surman.",
+    "zh": "与Yann LeCun、Mozilla的Mark Surman等人合著《美国计算机协会通讯》文章，提出衡量基础模型开放程度的共同框架。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-07-22",
    "ts": null,
    "kind": "blog",
@@ -1114,6 +1133,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2025-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Research Agenda for Sociotechnical Approaches to AI Safety",
+    "zh": "Research Agenda for Sociotechnical Approaches to AI Safety"
+   },
+   "source": "SSRN Electronic Journal",
+   "url": "https://doi.org/10.2139/ssrn.5097286",
+   "note": {
+    "en": "Contributed to a multi-author research agenda proposing sociotechnical approaches to AI safety.",
+    "zh": "参与撰写了一份倡导以社会技术方法应对AI安全问题的多作者研究议程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2024-12-31",
    "ts": null,
    "kind": "paper",
@@ -1441,16 +1479,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 17.1,
+  "total": 16.1,
   "attention": 8,
   "centrality": 6,
-  "momentum": 47,
+  "momentum": 43,
   "stature": null,
   "pageviews": 2796,
   "citations": 720,
   "hIndex": 13,
   "events": 1,
-  "posts": 67,
+  "posts": 69,
   "wikiEn": "Nathan Lambert",
   "wikiZh": null
  },

@@ -169,6 +169,25 @@
    }
   },
   {
+   "date": "2026-09-28",
+   "ts": "2026-09-28T21:56:54Z",
+   "kind": "x",
+   "title": {
+    "en": "Automating more and more of the AI R&amp;D could lead to AI progress radically accelerating in a very risky uncontrolled “intelligence explosion”. Many collabor",
+    "zh": "Automating more and more of the AI R&amp;D could lead to AI progress radically accelerating in a very risky uncontrolled “intelligence explosion”. Many collabor"
+   },
+   "source": "@yoshua_bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2104691846584713464",
+   "note": {
+    "en": "Bengio warned that automating AI R&D could trigger an uncontrolled 'intelligence explosion,' summarizing a collaborative assessment of the evidence and policy options.",
+    "zh": "本吉奥警告称，AI研发的自动化可能引发不可控的“智能爆炸”，并总结了他与合作者对相关证据和政策选项的评估。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-09-25",
    "ts": "2026-09-25T12:39:48Z",
    "kind": "x",
@@ -186,6 +205,25 @@
    "judged": true,
    "platform": "x",
    "connector": null
+  },
+  {
+   "date": "2026-09-25",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "KI-Pionier Yoshua Bengio über Doomsday-Szenarien, Experimente an der Menschheit und sichere KI",
+    "zh": "KI-Pionier Yoshua Bengio über Doomsday-Szenarien, Experimente an der Menschheit und sichere KI"
+   },
+   "source": "Handelsblatt Disrupt - Der Podcast übe…",
+   "url": "https://podcasts.apple.com/us/podcast/ki-pionier-yoshua-bengio-%C3%BCber-doomsday-szenarien-experimente/id1462660628?i=1000791558104&uo=4",
+   "note": {
+    "en": "Bengio discussed doomsday AI risk scenarios and how to build safe AI in an interview on Handelsblatt's German business podcast.",
+    "zh": "本吉奥在德国商业播客Handelsblatt Disrupt的访谈中，讨论了AI的末日风险情景以及如何构建安全的AI。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   },
   {
    "date": "2026-09-23",
@@ -813,6 +851,25 @@
    "judged": true,
    "platform": "x",
    "connector": "backfill"
+  },
+  {
+   "date": "2026-07-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Realigning AI technology towards the Sustainable Development Goals",
+    "zh": "Realigning AI technology towards the Sustainable Development Goals"
+   },
+   "source": "Nature Machine Intelligence",
+   "url": "https://doi.org/10.1038/s42256-026-01271-3",
+   "note": {
+    "en": "Co-authored a Nature Machine Intelligence paper arguing for realigning AI development toward the UN Sustainable Development Goals.",
+    "zh": "合著发表于《自然-机器智能》的论文，主张将AI技术的发展方向与联合国可持续发展目标对齐。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2026-07-13",
@@ -1518,25 +1575,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2026-04-17",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "I went on @BBCNewsnight this week to discuss the recent developments in AI's capabilities, as well as the potential harms and concentration of power they could",
-    "zh": "I went on @BBCNewsnight this week to discuss the recent developments in AI's capabilities, as well as the potential harms and concentration of power they could"
-   },
-   "source": "@Yoshua_Bengio",
-   "url": "https://x.com/Yoshua_Bengio/status/2045157562962633198",
-   "note": {
-    "en": "Bengio recounts appearing on BBC Newsnight to discuss AI's recent capability gains and risks of harm and power concentration.",
-    "zh": "本吉奥讲述在BBC Newsnight节目中探讨AI近期能力提升及其带来的危害与权力集中风险。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
    "date": "2026-04-06",
    "ts": null,
    "kind": "paper",
@@ -1554,6 +1592,25 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2026-04-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Discussion on “The ICML 2023 Ranking Experiment: Examining Author Self-Assessment in ML/AI Peer Review”",
+    "zh": "A Discussion on “The ICML 2023 Ranking Experiment: Examining Author Self-Assessment in ML/AI Peer Review”"
+   },
+   "source": "Journal of the American Statistical As…",
+   "url": "https://doi.org/10.1080/01621459.2025.2549338",
+   "note": {
+    "en": "With Dinghuai Zhang, published a discussion piece on the ICML 2023 ranking experiment examining how well ML/AI peer reviewers' self-assessed confidence predicts accuracy.",
+    "zh": "与张鼎怀合作发表评论文章，讨论ICML 2023排名实验，探讨机器学习/AI同行评审者对自身判断信心的自评是否准确。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2026-03-30",
@@ -1630,6 +1687,44 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Leveraging Differentiable Climate-Economy Models for Hybrid Modeling and Inverse Problems",
+    "zh": "Leveraging Differentiable Climate-Economy Models for Hybrid Modeling and Inverse Problems"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.5194/egusphere-egu26-11690",
+   "note": {
+    "en": "Contributed to an EGU General Assembly paper on differentiable climate-economy models for hybrid modeling and inverse problems, part of his climate-AI research line.",
+    "zh": "参与欧洲地球科学联合会大会论文，研究用于混合建模与逆问题求解的可微分气候-经济模型，属于其气候AI研究方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2026-03-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Extendable Planning via Multiscale Diffusion",
+    "zh": "Extendable Planning via Multiscale Diffusion"
+   },
+   "source": "Proceedings of the AAAI Conference on…",
+   "url": "https://doi.org/10.1609/aaai.v40i24.39084",
+   "note": {
+    "en": "Co-authored an AAAI 2026 paper, 'Extendable Planning via Multiscale Diffusion,' proposing a diffusion-based planning method for reinforcement learning.",
+    "zh": "合著发表于AAAI 2026的论文《Extendable Planning via Multiscale Diffusion》，提出一种基于扩散模型的强化学习规划方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2026-02-26",
@@ -1725,6 +1820,25 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2026-02-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Imagining and building wise machines: the centrality of AI metacognition",
+    "zh": "Imagining and building wise machines: the centrality of AI metacognition"
+   },
+   "source": "Trends in Cognitive Sciences",
+   "url": "https://doi.org/10.1016/j.tics.2026.01.002",
+   "note": {
+    "en": "Co-authored a Trends in Cognitive Sciences position paper, 'Imagining and Building Wise Machines,' on the centrality of metacognition to AI safety, with Schölkopf, Mitchell, Rahwan and others.",
+    "zh": "与Schölkopf、Mitchell、Rahwan等人合著发表于《认知科学趋势》的立场论文《构想并构建智慧机器》，探讨元认知在AI安全中的核心作用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2026-01-16",
@@ -2518,6 +2632,40 @@
    "judged": true
   },
   {
+   "date": "2026-09-23",
+   "ts": "2026-09-23T18:39:47Z",
+   "level": "major",
+   "title": {
+    "en": "Canada joins calls for stronger oversight of AI as Yoshua Bengio addresses UN council",
+    "zh": "Canada joins calls for stronger oversight of AI as Yoshua Bengio addresses UN council"
+   },
+   "body": {
+    "en": "Bengio addressed the UN Security Council on AI risk, as Canada joined international calls for stronger AI oversight.",
+    "zh": "本吉奥在联合国安理会就AI风险发表讲话，加拿大同时呼吁国际社会加强对AI的监管。"
+   },
+   "source": "CTV News",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbGRiQzdwTFZRcXhqd1hoYTNldDg4aTl0by1OWE1rbUU3SzJWUUF3d19wNTctbWptUU5XNlhzc3JsRHBTVGw1TnNPZ2FoZnlrd2hOaWJGdU4ybjlXUmYxSm1fSFR3bE5rN0tHWFp5cnFWc1NPMVpwVUNwS21pRUVaTGszWXd6dFVVR3d5Tmh2d3JoX3VOVzdkcnVJeWpXcW5fMFVvUDM3a2tibVdXb09SQllicFJLd2lqLUl6aFN1bnVobFNL?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-23",
+   "ts": "2026-09-23T20:20:36Z",
+   "level": "notable",
+   "title": {
+    "en": "Canada joins calls for stronger oversight of AI as Yoshua Bengio addresses UN council",
+    "zh": "Canada joins calls for stronger oversight of AI as Yoshua Bengio addresses UN council"
+   },
+   "body": {
+    "en": "Bengio addressed the UN Security Council on AI oversight, as Canada joined calls for stronger global regulation.",
+    "zh": "本吉奥在联合国安理会就AI监管问题发表讲话，加拿大也加入呼吁加强全球监管的行列。"
+   },
+   "source": "CityNews Vancouver",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX3g1U2xYVlRtNXFBU1pnVUhmclFaSjlpTGpucHZ5cnQ2SHdEblA1Zl9uNEFoa05pdzFGR2pESV8ydXc0VE92ZFRGN3k0X0EyUzYtMEY4VlBleGd4US1GYjgxZE5RWUJuOURyN091TlVjYjFCWVdWclljUldzWTJva25qZTQ4MWNYRzVEU0dEc19yRzZUX3czZlVEZEdYaWFSaUkxaERBTWY?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-18",
    "ts": "2026-09-18T15:52:00Z",
    "level": "major",
@@ -3077,8 +3225,8 @@
   "pageviews": 276660,
   "citations": 475043,
   "hIndex": 184,
-  "events": 43,
-  "posts": 115,
+  "events": 45,
+  "posts": 121,
   "wikiEn": "Yoshua Bengio",
   "wikiZh": "约书亚·本希奥"
  },

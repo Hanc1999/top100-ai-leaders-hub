@@ -198,6 +198,44 @@
    }
   },
   {
+   "date": "2026-09-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "AD-E2E-JEPA: A Joint-Embedding Predictive Architecture For End-to-End Autonomous Driving",
+    "zh": "AD-E2E-JEPA: A Joint-Embedding Predictive Architecture For End-to-End Autonomous Driving"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.34085v1",
+   "note": {
+    "en": "Yann LeCun co-authored AD-E2E-JEPA, applying his Joint-Embedding Predictive Architecture to end-to-end autonomous driving world models.",
+    "zh": "杨立昆合著AD-E2E-JEPA论文，将其联合嵌入预测架构（JEPA）应用于端到端自动驾驶世界模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "TabPFN-3.5: Technical Report",
+    "zh": "TabPFN-3.5: Technical Report"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.17895v2",
+   "note": {
+    "en": "LeCun co-authors the technical report for TabPFN-3.5, the new flagship tabular foundation model that outperforms its predecessor and existing baselines across tabular problems.",
+    "zh": "杨立昆是TabPFN-3.5技术报告的合著者之一，这一新旗舰表格基础模型在多种表格任务上超越前代及现有基线。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-08-27",
    "ts": null,
    "kind": "paper",
@@ -215,6 +253,25 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2026-08-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "LpWM: A Case for Sparse Representations in World Models",
+    "zh": "LpWM: A Case for Sparse Representations in World Models"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "https://arxiv.org/abs/2608.22764",
+   "note": {
+    "en": "LeCun co-authors LpWM, arguing for sparse latent representations as a more efficient basis for world models.",
+    "zh": "杨立昆合著论文《LpWM》，主张用稀疏潜在表示作为世界模型更高效的基础。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2026-08-20",
@@ -920,82 +977,6 @@
    "connector": "openalex"
   },
   {
-   "date": "2025-10-07",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Attention Sinks and Compression Valleys in LLMs are Two Sides of the Same Coin",
-    "zh": "Attention Sinks and Compression Valleys in LLMs are Two Sides of the Same Coin"
-   },
-   "source": "arXiv (Cornell University)",
-   "url": "http://arxiv.org/abs/2510.06477",
-   "note": {
-    "en": "Co-authored analysis connecting two known LLM internals phenomena — attention sinks and compression valleys — as the same underlying effect.",
-    "zh": "合著论文将大语言模型中两个已知现象——注意力汇聚（attention sinks）与压缩谷（compression valleys）——联系为同一潜在效应的两面。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-09-11",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "LLM-JEPA: Large Language Models Meet Joint Embedding Predictive Architectures",
-    "zh": "LLM-JEPA: Large Language Models Meet Joint Embedding Predictive Architectures"
-   },
-   "source": "arXiv (Cornell University)",
-   "url": "http://arxiv.org/abs/2509.14252",
-   "note": {
-    "en": "Brings his JEPA framework to large language models, testing the predictive-embedding approach outside vision.",
-    "zh": "将其JEPA框架引入大语言模型，把预测式嵌入方法拓展到视觉领域之外。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-06-11",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning",
-    "zh": "V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning"
-   },
-   "source": "arXiv (Cornell University)",
-   "url": "http://arxiv.org/abs/2506.09985",
-   "note": {
-    "en": "V-JEPA 2, the next generation of his video world-model architecture, enabling understanding, prediction and robotic planning from self-supervised video learning.",
-    "zh": "V-JEPA 2是其视频世界模型架构的新一代版本，通过自监督视频学习实现理解、预测与机器人规划能力。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-06-10",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "RoboPEPP: Vision-Based Robot Pose and Joint Angle Estimation through Embedding Predictive Pre-Training",
-    "zh": "RoboPEPP: Vision-Based Robot Pose and Joint Angle Estimation through Embedding Predictive Pre-Training"
-   },
-   "source": "OpenAlex",
-   "url": "https://doi.org/10.1109/cvpr52734.2025.00650",
-   "note": {
-    "en": "RoboPEPP applies embedding-predictive pre-training, in the spirit of JEPA, to estimate robot pose and joint angles from vision.",
-    "zh": "RoboPEPP将嵌入预测式预训练（延续JEPA思路）应用于通过视觉估计机器人姿态与关节角度。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
    "date": "2025-04-09",
    "ts": null,
    "kind": "podcast",
@@ -1288,6 +1269,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-21",
+   "ts": "2026-09-21T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Moderna's Bob Langer and AI pioneer Yann LeCun join…",
+    "zh": "Moderna's Bob Langer and AI pioneer Yann LeCun join…"
+   },
+   "body": {
+    "en": "LeCun joins the scientific advisory board of Cellular Intelligence, alongside Moderna co-founder Bob Langer, to bring AI methods into cell biology and drug discovery.",
+    "zh": "杨立昆与Moderna联合创始人Bob Langer共同加入Cellular Intelligence科学顾问委员会，将AI方法引入细胞生物学与药物研发。"
+   },
+   "source": "inkl",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOU1VLOUZybHNlVUV1Z1kwVzEtWjlqb1RieVRFdmd1TzBVQ1BPYmRiSThwYU8xQnFOTG8xc0F6dHdQS3hCcERrWWxBVnJYUTE2VlA1Um5VUjRiczF0eTNqWmp3UmpSV1BBdHVqeS01Q0JiX2tJMVpWalRFNXI1aXV5ME9IczNhZWdQSXI0djN4SENMWmRNekQ3cUItX1ktTDVEMFBpZGRLQ0JpQUhpNk42dDFNVExpMFVfNHBUTGdzZGlSSlE1WVhJdmFuWFBNSENYazdDR3JFNDJQQnhsSTdaTTlYRlpuSFF4MS1Z?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-17",
    "ts": "2026-09-17T06:44:00Z",
    "level": "notable",
@@ -1543,6 +1541,23 @@
    "judged": true
   },
   {
+   "date": "2026-08-07",
+   "ts": "2026-08-07T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "杨立昆，下场做VC",
+    "zh": "杨立昆，下场做VC"
+   },
+   "body": {
+    "en": "LeCun begins investing as a venture capitalist, backing startups outside his own company — a new role alongside running AMI Labs.",
+    "zh": "杨立昆开始以风险投资人身份对外投资初创公司——这是他在经营AMI Labs之外的新身份。"
+   },
+   "source": "投资界",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9PN1lFVWZWb3VFbFI1WEFSSnZENnhzcGEzdW1CRU11NVFPMzg1TVVTVlJIU1RsM0l4UnFJX1R4WENIMVdZLTBjd0xST3h6MUliYmxydGV3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-08-05",
    "ts": null,
    "level": "notable",
@@ -1628,6 +1643,23 @@
    "judged": true
   },
   {
+   "date": "2026-07-07",
+   "ts": "2026-07-07T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic发现Claude自发形成类似人类意识的J-space区域，杨立昆质疑AGI定义",
+    "zh": "Anthropic发现Claude自发形成类似人类意识的J-space区域，杨立昆质疑AGI定义"
+   },
+   "body": {
+    "en": "LeCun publicly dismisses the 'G' in AGI as meaningless, arguing exam performance isn't intelligence, just as Anthropic reports Claude spontaneously forming a consciousness-like 'J-space' structure — reigniting the debate over what AGI means.",
+    "zh": "杨立昆公开表示AGI中的“G”（通用）是胡扯，认为通过考试不等于拥有智能；与此同时Anthropic报告Claude自发形成类似意识的“J-space”结构，双方观点再次引发关于AGI定义的争论。"
+   },
+   "source": "虎嗅网",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15YV9qZmowWVNvRDh5eEc3LVhuRTIyWUZKMWdPYjVtUWM0N1lVc1FIZFhiUC1jVEdMdXdEVEZuYTBWSkFQZTNHWVZheHJRbU55SnNYNA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-07-06",
    "ts": "2026-07-06T07:00:00Z",
    "level": "notable",
@@ -1658,6 +1690,23 @@
    },
    "source": "Sohu",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa09vMGx6dzBramxwN3lreC10aWpUNXFzdFh6ZE5qQlk1ZnpPQlp3UXpoQTNyOWNiQVFlaS0weDVnSGtDNWFETlFBZ0NvSUJZUVg4R3ptelVhYlBTY1B3QWlKbTVnQzVLWlR6d1NEMXlKQUVYQTdCVUZRYk9IWEVwMGdtVGxOSUFMMzZySw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-28",
+   "ts": "2026-06-28T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "重磅！杨立昆团队JEPA首登无人机：纯仿真训练、零样本实机迁移，硬件改动误差降低30%_无人机非完整约束动力学示意图",
+    "zh": "重磅！杨立昆团队JEPA首登无人机：纯仿真训练、零样本实机迁移，硬件改动误差降低30%_无人机非完整约束动力学示意图"
+   },
+   "body": {
+    "en": "LeCun's team puts JEPA world models on a drone for the first time, training purely in simulation and transferring zero-shot to real hardware with a 30% error reduction.",
+    "zh": "杨立昆团队首次将JEPA世界模型应用于无人机，纯仿真训练后零样本迁移至真实硬件，误差降低30%。"
+   },
+   "source": "blog.csdn.net",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSZGFEQ0wxcHpDNzQzY2lpQlBwcHAzWEs5SHhsVEJzWE0zYi1QaVp1WWZRMm5OZjVNZV85LTVIckZ6SUl5c1I1SUdMbk5hTEpPaTFyNGNRVDhPd1J5d0FESzlJTmdZYmZVcXRGQzlR?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2070,6 +2119,23 @@
    "judged": true
   },
   {
+   "date": "2026-03-10",
+   "ts": "2026-03-10T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Yann LeCun's AMI Labs secures $1B+ in bet on world models",
+    "zh": "Yann LeCun's AMI Labs secures $1B+ in bet on world models"
+   },
+   "body": {
+    "en": "LeCun's new venture AMI Labs raises over $1 billion in seed funding to build world models as an alternative to LLMs — a record-setting round for a European AI startup.",
+    "zh": "杨立昆的新公司AMI Labs完成超10亿美元种子轮融资，用于开发作为大模型替代路线的世界模型——创下欧洲AI初创公司融资纪录。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WRmc5UDZKTWlOY0ttUFRTYTNIRXZGVTlnSXNkUHNramw5QUhxdGNmaVB4VldYUnJ2bWxpU1g4RnRfWW13VHZPdFluU2xZbjlrQVg5UEh2czhNVnd5bkhoWF94SEZ1bzZ1YTRqR185TmhYZmJTUXdYVEhWQjVuUXc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-03-07",
    "ts": null,
    "level": "major",
@@ -2100,6 +2166,23 @@
    },
    "source": "Medium",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS0U1QkQ3TGEtdmVHbjR4aS1uUmNCN0ROM0Z2aWMtU0IxR1hxdUtQaTRKN1BWTUh5eHdDb0FURG5udzZRR2EwU2hmVWtuM2VrX0phdk1nSkI4djZMV05VTDRLVjMtV0Q0dHRnX3lyZTB5a1VUWW0tS2NvY1V6T21QVHhLcWJKRl8yTFZ1YzhtNi0xWXhxdnQ4d2lpV1lZOWRmNmZsQndScW1aNlMyT0E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-01-30",
+   "ts": "2026-01-30T08:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "杨立昆离开 Meta 后不止创一份业：押注与大模型不同的路线，加入硅谷初创董事会",
+    "zh": "杨立昆离开 Meta 后不止创一份业：押注与大模型不同的路线，加入硅谷初创董事会"
+   },
+   "body": {
+    "en": "LeCun leaves Meta and pursues a different direction from large language models, joining the board of a Silicon Valley startup — the first public confirmation of his departure.",
+    "zh": "杨立昆离开Meta，选择与大模型不同的技术路线，并加入一家硅谷初创公司董事会——这是他离职的首次公开确认。"
+   },
+   "source": "finance.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YVHRsQnp5TzVXUmY3LU1MQkNnYURkT2dDUi1GdXJ2UHpaREFIVm16UldYdldDUFZSV19aSlZsV3NxNFdzXzhhZmh6cW9wUVFqUTB0WUI0eENJSmNncm9zMnN5c0NiUUE0bmZPOGE3VkJrcHJBSi1yOERTbGJuYlk?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2264,16 +2347,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 79.4,
+  "total": 79.1,
   "attention": 78,
   "centrality": 72,
-  "momentum": 84,
+  "momentum": 83,
   "stature": 95,
   "pageviews": 531264,
   "citations": 253869,
   "hIndex": 120,
-  "events": 61,
-  "posts": 57,
+  "events": 67,
+  "posts": 56,
   "wikiEn": "Yann LeCun",
   "wikiZh": "杨立昆"
  },

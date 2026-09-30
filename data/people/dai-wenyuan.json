@@ -364,6 +364,101 @@
    "connector": "openalex"
   },
   {
+   "date": "2020-01-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Transfer Learning in Reinforcement Learning",
+    "zh": "Transfer Learning in Reinforcement Learning"
+   },
+   "source": "Cambridge University Press eBooks",
+   "url": "https://doi.org/10.1017/9781139061773.010",
+   "note": {
+    "en": "Book chapter surveying how transfer-learning techniques apply to reinforcement learning, part of the Cambridge University Press textbook Dai co-authored.",
+    "zh": "书籍章节,综述迁移学习技术在强化学习中的应用,是戴文渊参与撰写的剑桥大学出版社教材的一部分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2020-01-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Multi-task Learning",
+    "zh": "Multi-task Learning"
+   },
+   "source": "Cambridge University Press eBooks",
+   "url": "https://doi.org/10.1017/9781139061773.011",
+   "note": {
+    "en": "Book chapter covering multi-task learning methods, from the transfer-learning textbook Dai co-authored with Qiang Yang and colleagues.",
+    "zh": "书籍章节,介绍多任务学习方法,出自戴文渊与杨强等合著的迁移学习教材。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2020-01-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Model-Based Transfer Learning",
+    "zh": "Model-Based Transfer Learning"
+   },
+   "source": "Cambridge University Press eBooks",
+   "url": "https://doi.org/10.1017/9781139061773.006",
+   "note": {
+    "en": "Book chapter on model-based approaches to transfer learning, part of the same Cambridge University Press textbook.",
+    "zh": "书籍章节,讨论基于模型的迁移学习方法,出自同一本剑桥大学出版社教材。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2020-01-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "AutoTL: Learning to Transfer Automatically",
+    "zh": "AutoTL: Learning to Transfer Automatically"
+   },
+   "source": "Cambridge University Press eBooks",
+   "url": "https://doi.org/10.1017/9781139061773.014",
+   "note": {
+    "en": "Book chapter on AutoTL, a method for automating what to transfer between tasks — a line of work close to Dai's own research.",
+    "zh": "书籍章节,介绍AutoTL方法,用于自动化选择任务间的迁移内容,与戴文渊本人的研究方向密切相关。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2020-01-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Feature-Based Transfer Learning",
+    "zh": "Feature-Based Transfer Learning"
+   },
+   "source": "Cambridge University Press eBooks",
+   "url": "https://doi.org/10.1017/9781139061773.005",
+   "note": {
+    "en": "Book chapter on feature-based transfer learning techniques, from the same Cambridge University Press textbook.",
+    "zh": "书籍章节,介绍基于特征的迁移学习技术,出自同一本剑桥大学出版社教材。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2019-04-29",
    "ts": null,
    "kind": "paper",
@@ -473,7 +568,7 @@
   "citations": 4662,
   "hIndex": 20,
   "events": 2,
-  "posts": 14,
+  "posts": 19,
   "wikiEn": null,
   "wikiZh": null
  },

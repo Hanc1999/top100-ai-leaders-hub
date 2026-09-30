@@ -190,6 +190,63 @@
    }
   },
   {
+   "date": "2026-09-28",
+   "ts": "2026-09-28T09:12:26Z",
+   "kind": "x",
+   "title": {
+    "en": "Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry. Artificial intelligence is",
+    "zh": "Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry. Artificial intelligence is"
+   },
+   "source": "@jensenhuang",
+   "url": "https://x.com/JensenHuang/status/2104499465055023424",
+   "note": {
+    "en": "Huang announced NVIDIA's Open Agent Safety Platform with over 100 industry partners, combining OpenShell and Sentry to keep AI agents from acting unsafely.",
+    "zh": "黄仁勋宣布英伟达联合100多家行业伙伴推出开放智能体安全平台，整合OpenShell与Sentry，防止AI智能体失控。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#739.黄仁勋：「五层蛋糕」里，最重要的是应用层",
+    "zh": "#739.黄仁勋：「五层蛋糕」里，最重要的是应用层"
+   },
+   "source": "跨国串门儿计划",
+   "url": "https://podcasts.apple.com/us/podcast/739-%E9%BB%84%E4%BB%81%E5%8B%8B-%E4%BA%94%E5%B1%82%E8%9B%8B%E7%B3%95-%E9%87%8C-%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E6%98%AF%E5%BA%94%E7%94%A8%E5%B1%82/id1850900599?i=1000791748390&uo=4",
+   "note": {
+    "en": "Ezra Klein interviews Huang at NVIDIA's Santa Clara headquarters; Huang argues AI-doom alarmism has gone too far and lays out his view on AI safety and regulation.",
+    "zh": "Ezra Klein在英伟达圣克拉拉总部采访黄仁勋，他表示AI末日论调已经过头，并阐述了自己对AI安全与监管的看法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
+   "date": "2026-09-23",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Jensen Huang Thinks A.I. Alarmism Has Gone Too Far",
+    "zh": "Jensen Huang Thinks A.I. Alarmism Has Gone Too Far"
+   },
+   "source": "The Ezra Klein Show",
+   "url": "https://podcasts.apple.com/us/podcast/jensen-huang-thinks-a-i-alarmism-has-gone-too-far/id1548604447?i=1000791251478&uo=4",
+   "note": {
+    "en": "In a wide-ranging interview at Nvidia's headquarters, Huang told Ezra Klein that alarmism about AI risk has gone too far.",
+    "zh": "在英伟达总部接受Ezra Klein的深度专访时，黄仁勋表示外界对AI风险的恐慌已经过头。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-09-15",
    "ts": "2026-09-15T22:24:34Z",
    "kind": "blog",
@@ -703,6 +760,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2024-09-30",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Acquired LIVE from Chase Center (with Daniel Ek, Emily Chang, Jensen Huang and Mark Zuckerberg)",
+    "zh": "Acquired LIVE from Chase Center (with Daniel Ek, Emily Chang, Jensen Huang and Mark Zuckerberg)"
+   },
+   "source": "Acquired",
+   "url": "https://podcasts.apple.com/us/podcast/acquired-live-from-chase-center-with-daniel-ek-emily/id1050462261?i=1000671250518&uo=4",
+   "note": {
+    "en": "Huang joined Daniel Ek, Emily Chang and Mark Zuckerberg on stage for Acquired's live show at Chase Center, a rare multi-CEO panel appearance.",
+    "zh": "黄仁勋与丹尼尔·埃克、艾米莉·张和马克·扎克伯格一同出席Acquired在大通中心举办的现场直播节目，罕见地同台参与多位CEO对谈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2024-04-25",
    "ts": null,
    "kind": "podcast",
@@ -797,6 +873,873 @@
    },
    "source": "NVIDIA Newsroom",
    "url": "https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership"
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T00:26:22Z",
+   "level": "minor",
+   "title": {
+    "en": "Jensen Huang receives Van Fleet Award for contribution to Korea-U.S. relations",
+    "zh": "Jensen Huang receives Van Fleet Award for contribution to Korea-U.S. relations"
+   },
+   "body": {
+    "en": "Huang received the Van Fleet Award recognizing his contribution to Korea-U.S. relations, during a week of high-level meetings with Samsung and SK leadership.",
+    "zh": "黄仁勋获颁范弗里特奖，以表彰他对韩美关系的贡献，正值他与三星、SK高层密集会晤之际。"
+   },
+   "source": "Korea JoongAng Daily",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOem9UU3R0V1NqUnB5a0lwSmJOTTl2VUJMMlo0MmJkZkhtYWVxUUVUbUJIdVVwSGJVZXQxc3VjYUFVbmlwVm41bTZUWk9xQkZQMmloUW9PbnZSM0kwUGV5Z0lDeTNXc0N3c0dRNFZaeW02ZEpGdEtRdGE1ZWpEWVBPNmFYQ3REckJRSW1sb2pxQ1hzV2xVYlZNWVdEMUpJcGg3MW1tRTJPbVhtQjlYZDhCamVMT2ZrOHRWUkRDRlFDWVhyTUFWU1I4?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T03:39:57Z",
+   "level": "notable",
+   "title": {
+    "en": "AI时代不需要软件工程师了？黄仁勋：大错特错！",
+    "zh": "AI时代不需要软件工程师了？黄仁勋：大错特错！"
+   },
+   "body": {
+    "en": "Huang pushed back on the claim that the AI era no longer needs software engineers, calling it flatly wrong.",
+    "zh": "黄仁勋反驳“AI时代不再需要软件工程师”的说法，称这种看法“大错特错”。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNckRlaVM0Vzhnc3VQeHNybGFCeWZsTFppdkxkdzJKYVlHV212c0JKa1VxUU1pUnNzcmNNbVBRWGdRTU5lekhzel85czRicDBEek02SnQ2X1Z6ZktMV2IyZW04UEpRQlNVMUFTOHdhSTNyY1hFZE1YcFRtekxEVXF4RENwQzctdlhh?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T05:05:31Z",
+   "level": "major",
+   "title": {
+    "en": "英伟达黄仁勋反驳“AI教父”辛顿：我爱他，但我恨他的预测",
+    "zh": "英伟达黄仁勋反驳“AI教父”辛顿：我爱他，但我恨他的预测"
+   },
+   "body": {
+    "en": "Huang publicly rejected Geoffrey Hinton's claim that AI carries roughly a 10% chance of causing human extinction, saying he respects Hinton personally but calls the prediction unscientific and frames AI safety as an engineering problem.",
+    "zh": "黄仁勋公开反驳\"AI教父\"杰弗里·辛顿关于AI有约10%概率导致人类灭绝的预测，称自己敬重辛顿本人，但认为该预测毫无科学依据，并将AI安全定义为工程问题而非末日预言。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMW1NMzNWMkJIcnN2X056UWx6Mm82YXJzNWIwSW10ajY0TV9VTG5helZmeHJIVmtfQ3RxVGdHZWhobDEyMDhYaFlwMVIwY0Y1R2JLd0owUGl4YWNkMEJrVEVUaEdyS080bGN4aWgwbktaZUU4Q0RBRHd2am1BakY3a0RVdS1hbllqU1FwMEZzUFFqVUVhWmxvdVVoUWxJUVRPY3Z4c3RQNA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T05:20:17Z",
+   "level": "notable",
+   "title": {
+    "en": "‘Important and consequential’: Jensen Huang on US-China AI race, risk management",
+    "zh": "‘Important and consequential’: Jensen Huang on US-China AI race, risk management"
+   },
+   "body": {
+    "en": "Huang called the U.S.-China AI race 'important and consequential' and discussed how the industry should manage its risks, in an interview with the South China Morning Post.",
+    "zh": "黄仁勋在接受《南华早报》采访时称中美AI竞赛\"重要且影响深远\"，并谈及行业应如何管理相关风险。"
+   },
+   "source": "South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQVNfSzV5azFFMnhubTBnaDY2MjZWVGRaQUlHNDlRU3dVM2R4UHFsN0JNVElxV09WVUJ0LWs2aWcxNUI3aGh4QUVwWlZqMUowNXo3eEZqdlJ6YldhVjJnUW5PV2tIYW9qTnpkN1lKd3FkMzUyN1U3d0sxUXJ6SXlDTVlnM2JMZVRyM0tTVmtTTW12V1Z6eF9WZ1Zmbjk4VmFRaVlMeUJFdE45YmYyUVB2ZUl1eGVzRjNLVUhlcHlEQ3RZYlVZNTl4Z1RCRjlOR3Zab1HSAdIBQVVfeXFMTUc4ZUptZUpqOW92SDNDYjNTb0NXTi03aTR4N1lEUkpFRVlUMk00OEZyemM4b3hwSG1FSkZBZGY4TUZxM2s1SlAzUkkwYjI0V2dJVm1sdEVMekJ4TGZnM3lhRXZqYS05N1EyN2I1VWRtT2w4Zi0zQVJFaWg2MTB2NUxJSDVhejl4VkNfUEZtMm5vckxmdTRYOGFhX3VMZlNSM2JKa0VaLV92T3Y2ODl0RXlvajZuaU45UHZLUUUyNHpwODYzSWlWX2pBc2VCc2pmaTNB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T05:29:44Z",
+   "level": "minor",
+   "title": {
+    "en": "Trump's AI Lunch Will Bring Together Mark Zuckerberg, Jensen Huang, Other Tech Bigwigs: Here's Who Else Is Invited",
+    "zh": "Trump's AI Lunch Will Bring Together Mark Zuckerberg, Jensen Huang, Other Tech Bigwigs: Here's Who Else Is Invited"
+   },
+   "body": {
+    "en": "Huang was among the tech leaders, including Mark Zuckerberg, invited to a White House AI-focused lunch hosted by Trump.",
+    "zh": "黄仁勋与马克·扎克伯格等科技高管一同受邀参加特朗普在白宫举行的AI主题午宴。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVUJWRXJ0Yk01QVpQeGw0d3BFNk52MldRZUxEVWxWTlZKM2M0Qmd6Qy1QMzNwOF9Iem9GcXVpRm1LNDltckZjdmM3eTBVd21CMmZPSGpueExQemQ0XzNybTNhRW1IeVFOR01LZ28xY25JOThzLUZ4WlNPWFJ4RkR3YTlFeDNJS3RSLWtUZVhVb0hadTJiQnpVeUVMdDgwN0ZVSzBMc2V2dmZ2VzVRY2FTTlZYNkVyTlk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T05:07:17Z",
+   "level": "notable",
+   "title": {
+    "en": "Pope Leo challenges Nvidia CEO Jensen Huang over AI safety and regulation",
+    "zh": "Pope Leo challenges Nvidia CEO Jensen Huang over AI safety and regulation"
+   },
+   "body": {
+    "en": "Pope Leo publicly challenged Huang over Nvidia's approach to AI safety and regulation, a notable instance of the Vatican weighing directly into the AI-risk debate around him.",
+    "zh": "教皇利奥公开就AI安全与监管问题向黄仁勋和英伟达发难，这是梵蒂冈罕见地直接介入围绕他的AI风险争论。"
+   },
+   "source": "Firstpost",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdTUwLVNBN1pDeTR2ZGxpWUd1YTgySVBLWE41LWZyOVFlamNTQ2E0amJEWTByall0X2tpejlUeXM1bE1PZzR5bHFRb0dPUWREUnpvSHduTzdoX3ZmUk1QeTJBWW1iZ1c1NHd2UTRpd2lrYlVGT3Y2Nl9ZMDlXVTl0UWtTZDhjb0ZsbWdpLWhxbXgtX1VpTXpLSElmTjVKX0RNZHpFc3hUQ2NCMjF1N29zeXo4S1AzaWNwc0HSAb8BQVVfeXFMUE9kYkZQOEFZT1EtbVIwenVOV3Qya2NMMlZmUE9yWmhWSlNGUUEtdlZBR0pMNlRqQ0w5d19xRzlxczhTblVKSWlaempFYlhqS0hudmVYSlhoQURoSXBOY3hzeUhaQ0pJMDR5TkR3WndBR0JwZWlTTlkweFlSdFR5RVozbGJoMlY1dk5jTmZNbnhLYWlQa1QtSWFSVjFhbGdOaWJHbV85ZmItN2hWdks1RWh1VkZfVVdXaGpWdEhmd1k?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T07:49:02Z",
+   "level": "minor",
+   "title": {
+    "en": "Samsung, SK go all out to celebrate Jensen Huang's Van Fleet Award",
+    "zh": "Samsung, SK go all out to celebrate Jensen Huang's Van Fleet Award"
+   },
+   "body": {
+    "en": "Samsung and SK Group publicly celebrate Huang receiving the Van Fleet Award, recognizing his contribution to US-Korea technology ties.",
+    "zh": "三星和SK集团公开庆祝黄仁勋获得范弗里特奖，以表彰他对美韩科技合作的贡献。"
+   },
+   "source": "The Korea Times",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUVBfZTFZa0YwelBLQ09aRHQ0dzU1N1BrZWhHTW1HMnVqVXNZUXRpQTI3YXdYY29XdWREQnd0WnVIcHR6clBSX0tseXRaS1d6S1NuMVhYYWd6R1RRNS1UbDNfX2V1dUF5VUJJV0g4QTN2X04zYUJrUUtsNnZQQWo3LXZHSmxJWHNQeEZBY19LM0QtNEpva05LZWRRWmxxNjBzenlGTDMzaWp1YmhSQm1DTzZqdndSdmc3RXVxdGJPYWZSUdIBxwFBVV95cUxOemZ4R3hRYnVNQW1TQzlvc0E2ZEVjQkxRRF9yOHA0TDJzcU9oWVFxbURiM3o2OVdDRzJNRkdoV1NlRnZFWklwU3lwbWg0Zml3NnJzbnN4d0dRei1FVUdMbGNNa0wzMm04STNLRkZhaVhieHFXcm1yVkxqbDA5aURtMjlOdWxNN2dFYWMtUFRNc0tINFpaTkdmVWk0a2otVHo5NnRZRWNrNlp5Q09FcUhqczE3RXBqcDZhbzhreTR2MVlWckhZZ0xJ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T08:29:00Z",
+   "level": "notable",
+   "title": {
+    "en": "教宗罕见开炮！批黄仁勋淡化AI风险恐威胁人类| 国际 | 2026-09-29",
+    "zh": "教宗罕见开炮！批黄仁勋淡化AI风险恐威胁人类| 国际 | 2026-09-29"
+   },
+   "body": {
+    "en": "The Pope publicly criticized Huang for downplaying the risks of AI, an unusually pointed rebuke of a tech CEO from the Vatican.",
+    "zh": "教宗公开批评黄仁勋淡化AI风险，这是梵蒂冈方面对一位科技公司CEO异常尖锐的公开指责。"
+   },
+   "source": "光明日报",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPcVFZR1EtVHVhQXI3eFBxa2ZHV0x6YXZGVjNMbHQ4SXBlLUdpb09RbjJZdFdSd19nMHdfU0RkOUwwbnlZS0hzbWpDeWROME1nbTRpVWdEdzkxd0dtb0NrZzNNQ0dvcFF4cURnSWFlRHVsbTFzOHhyRGE4NmxRV01lazhvWnZLdnFCdThqdnpOSnV3d0dWa2UyeWlmUUg0ZTJBUHR5R3JabVZYOGFpLTBXM1prbXdkOWZUbW9kc2xoQncxeDZBN2ZiYUlVZnYybDdSWjJmMHM5SjRMUkF5VlExd29FUWpfb0gxeU9NclBnTzF1c01fYU1CTjlWSHk4QXFIc1VCd1hDSFY5d055WVVJX21lZTJrZWlfa0g1VnNFQW5sOUkxYUE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T09:53:32Z",
+   "level": "notable",
+   "title": {
+    "en": "Pope Leo XIV Slams Nvidia CEO Jensen Huang Over His No-Government AI Regulation Stance: 'He’s The Same One...'",
+    "zh": "Pope Leo XIV Slams Nvidia CEO Jensen Huang Over His No-Government AI Regulation Stance: 'He’s The Same One...'"
+   },
+   "body": {
+    "en": "Pope Leo XIV publicly criticized Jensen Huang's opposition to government AI regulation.",
+    "zh": "教皇良十四世公开批评黄仁勋反对政府对AI进行监管的立场。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSGx4Tm1TNVQ3My1PYmgzYVY3WjViZGVwbE1oVXpURGU4clROaW9TNy0wZ0lxeXRoQmxRX09DZFdKQWtxLTBMNXdxMU5jSWFLWU5WeFZOb0JVTHNsZ1NfZEJYZXlkdnZ0WFJrcVlSUVFxSU9JRVBTSWJxUTlRb1lzQTJoMi04Z3Jkd3h4ekdyMlFISWFVdVYwbzZheUJhSmJHdm42NXBmaUloU0FfT0NxRHBhOFhrWUdNcmdqSDdrZnhGYW9ZbDJaLTl1bU14T3FVaEo4QjV5U1lEUlBoQjg0NURNWnJBaHlWYl9OMmVn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T09:30:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Anthropic CEO called Jensen Huang 'kind of Trump-like' during heated dinner — Nvidia CEO reportedly called Anthropic executive a 'bean counter' after Google TPU comparison",
+    "zh": "Anthropic CEO called Jensen Huang 'kind of Trump-like' during heated dinner — Nvidia CEO reportedly called Anthropic executive a 'bean counter' after Google TPU comparison"
+   },
+   "body": {
+    "en": "Reports surfaced of a heated dinner where Anthropic's CEO called Jensen Huang 'Trump-like' and Huang reportedly called an Anthropic executive a 'bean counter,' exposing real tension between the two companies.",
+    "zh": "据报道，在一次气氛紧张的晚宴上，Anthropic CEO称黄仁勋'有点像特朗普'，而黄仁勋则称一位Anthropic高管为'账房先生'，双方矛盾公开化。"
+   },
+   "source": "Tom's Hardware",
+   "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNQTVkMlYzbFZYaWlRMFc1T2ZFMUFnR2NxYWZEY1hVcGRidjg1WmpuaVNSNXcyWXMzbVNMUVZxV0xFVGxvN1AxY1NWcllDQ0hWVHNyUDlnRnNHN2tiYVVyR3NjZ2E4eDdCZlRPamJhOXM4UHMzRXg0MlAtZDdiYk5tNmJ1NjhFM29NNVJwd1BWWTV4RTl3R0NKc0xkUEZ5NExMSjBMdXJRbTlJaXRvajhmT01TM2dQOXJRM0JiQk40cGMxTzRfOTZFUjV5YjZMM05QQ0M2UTVKU2hMa0tscFhZdGlrZkZuUGJvaWs2NjhkeGtfM1ZxS2l3emRKX2pXVkgweTUzd29oemVxODdMcXdxeFdodFFQa1RDN19fQXFNRzZOSWZsa2I4Ql8zckVQV2djZDJwUUx2RTM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T09:47:53Z",
+   "level": "minor",
+   "title": {
+    "en": "Samsung Celebrates Jensen Huang’s Van Fleet Award in Times Square",
+    "zh": "Samsung Celebrates Jensen Huang’s Van Fleet Award in Times Square"
+   },
+   "body": {
+    "en": "Samsung honored Jensen Huang with the Van Fleet Award in a Times Square ceremony.",
+    "zh": "三星在时代广场举行的仪式上向黄仁勋颁发范弗里特奖。"
+   },
+   "source": "Businesskorea",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xV2oxTTctM1pSVW1adjZPMzlDdlJoV2JUS0ZQWkRXSDFEakpNRUxYZDZuNUN1VFBFZUVoRG9MTzc3Y2dYQ3otbHpPX0RmR0tzYXBWcksybGFXeThEdTVDdmtUUjJ0NHRFZ3NudXl3YU5idmEy?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T09:37:41Z",
+   "level": "notable",
+   "title": {
+    "en": "Jensen Huang defends AI as students forget basic maths, says 'does it matter'",
+    "zh": "Jensen Huang defends AI as students forget basic maths, says 'does it matter'"
+   },
+   "body": {
+    "en": "Jensen Huang dismissed concerns about students' declining basic math skills in the AI era, questioning whether it still matters.",
+    "zh": "黄仁勋对学生基础数学能力下降的担忧不以为然，质疑这是否还重要。"
+   },
+   "source": "Firstpost",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMC1Md2pzeHNqTjdGdkduNXlVWm1QVnZkY1hxbzc5elM2NWZYNlJURGZFMF81a0Y4Q29CUUZadEw1YUJMLWNpUmQzczVYU3B4SjdRMGQyTkRlbzF4bjMzVTdHY1A2Rm5QYVlCSnU4Z1JKOGF3UjFyTjZNbWVFWnBSRm9sX0xjdUJoejhPSExMVDhmR1ZCbWhjLWUwVzBoLTRhUEpOS05lcXJGQjRvR2hVcFF6Q0ZWRkZheTdZ0gHAAUFVX3lxTFBRODNiTzBjMW00T2Q4LU5Jelh6cEtaQ2w3UWtFNXdlenRKVThVd2FlMmRfVEdnRWRmakZPREU1c09lRVU1VkNmYi0xVFdBS3lUc0RMWDllZ1dqM2RoRGNkMWRBdmN2R3dLVTVxdFFTRUo1d3lUZE9SS3htNFI1UzlwRjVYaHllMmpkVWNES0RrbFREVVJyeHN6dC10TlpERURvTWhUNmEtb0x4SXZrOGxhbHZueThVeFRSLUN2X3ZYMw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T09:41:07Z",
+   "level": "notable",
+   "title": {
+    "en": "特朗普将在白宫宴请AI巨头：黄仁勋、扎克伯格、阿莫代伊等在列",
+    "zh": "特朗普将在白宫宴请AI巨头：黄仁勋、扎克伯格、阿莫代伊等在列"
+   },
+   "body": {
+    "en": "Trump is set to host a White House dinner for AI industry leaders including Jensen Huang, Mark Zuckerberg and Dario Amodei.",
+    "zh": "特朗普将在白宫宴请包括黄仁勋、扎克伯格、阿莫代伊在内的AI行业领袖。"
+   },
+   "source": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPQVRkMGJseGh4WFhWOVl1N2VHbDYtNGxDajc4YllxeEhkTmh0THRVVHFVMUx4ekpReTAtOWhQVjB3N3pucGg4SHhQZFE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T10:32:21Z",
+   "level": "notable",
+   "title": {
+    "en": "Nvidia Reportedly Turns To Insurers To De-Risk AI Chip Loans As Jensen Huang Pushes Beyond Big Tech — Cou",
+    "zh": "Nvidia Reportedly Turns To Insurers To De-Risk AI Chip Loans As Jensen Huang Pushes Beyond Big Tech — Cou"
+   },
+   "body": {
+    "en": "Nvidia is reportedly turning to insurers to de-risk AI chip financing as Huang pushes the company's business beyond big hyperscaler customers.",
+    "zh": "据报道，英伟达正寻求保险公司为AI芯片贷款降低风险，黄仁勋正推动公司业务扩展至大型云厂商客户之外。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQVFhYVmZTMGdLdTNUTVVRTFFZamR3a3hpbHBHOXNlVW9lR1lIeW5GbmlRMF9CcDkySi1scjZvUXdRRjVCelZQazUxbHR6ZTlneGc2NXNuUGsybkZzSVhGams5X19ham5UZ2doTFJLVkNLZmJZaDFsNklsUHpyOHE1SmZtU0xiaWl2VWZvR1BEbU1LSTJpSm1EbEhZZE1uWmU1RVBLNE5PM0psMG5pdnREMl9UbjNkSkZ2RjF0SUZYbUN0QVRXODNvdUUybnBxYTNHUTlYcUMwcHJMOWV5Y0o1MndQRk9ON2RvSHZTS1pLTTRyc0trRWtfUC15bjJHUVNIeXBxdjVMVFdrYkRsNlVhSWdtaVdiTE1zai1fYmJybTVlYWN6bFIyM1Y2el94UQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T10:26:34Z",
+   "level": "minor",
+   "title": {
+    "en": "Samsung, SK Congratulate Nvidia’s Jensen Huang on Van Fleet Award",
+    "zh": "Samsung, SK Congratulate Nvidia’s Jensen Huang on Van Fleet Award"
+   },
+   "body": {
+    "en": "Samsung and SK publicly congratulated Huang on receiving the Van Fleet Award.",
+    "zh": "三星和SK公开祝贺黄仁勋荣获范弗里特奖。"
+   },
+   "source": "thelec.net",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HOFdGZHRsb1pPQURISU1LaF9lNFBKay1jVGN1ZGJORGF5bjZHMWhBdDNTVU9Ca2ZmdzFpTTYwaFQxU1JjSnNLX0dKSWpoeW9JQTdVdUE5b1NkZ3B1YXNoS3ZyTFdEVUk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T10:21:14Z",
+   "level": "notable",
+   "title": {
+    "en": "黄仁勋、苏姿丰，担任清华大学经管学院顾问委员会委员",
+    "zh": "黄仁勋、苏姿丰，担任清华大学经管学院顾问委员会委员"
+   },
+   "body": {
+    "en": "Huang joined Tsinghua University's School of Economics and Management advisory committee alongside AMD's Lisa Su.",
+    "zh": "黄仁勋与AMD苏姿丰共同加入清华大学经济管理学院顾问委员会。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQaVdRNGtYb0ZXQ25iZjhsR0tCTWxfMU1YT3lmRU5uZzdzbG41VHlISEtMa0FiazZwYW5kRlZFYnpiUXFzYTRadDE1UElhelNFSUhIdi04ZV9RZVEtcWhqVm5CRlB6WklDMVhKSGtwb3k0SUs0V0pERFp1Wi1oX0x2UzVFcm5CeUEwZ294RWNsS3VGRkpJamJDUjRMSWJPUDBlTTNpZHhWTG42YTV1RFkxSmpUQzZfTXU2Z1pJcG5VUl9Ic1lhSXQ0cGNCRndSWWdaWUZHdVBTZVI4RmdHWEl6R1JHUWxLWGszdFNKRllfcEEwN01FWWtsN0QtOEIwMDV4dklQdGd3VXVwRGJKS3V0M0hJTVpjYjF5eUcxeTRWekJjMUx0bmdmU19hdmFvN1U1UDgwVXZwZ2VXUjR3VEFZUXljMlFObTNMV00xaWtyLS1KUE84UlkzM0dNWnpPcEJ0Q3I1Y0dnVnBaUkc2Q25Hdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T11:00:00Z",
+   "level": "minor",
+   "title": {
+    "en": "黄仁勋担任清华大学经管学院顾问委员会委员",
+    "zh": "黄仁勋担任清华大学经管学院顾问委员会委员"
+   },
+   "body": {
+    "en": "Huang was named a member of Tsinghua University's School of Economics and Management advisory committee, one of several foreign tech CEOs added to the board.",
+    "zh": "黄仁勋获聘为清华大学经济管理学院顾问委员会委员，是新增的多位外国科技公司CEO之一。"
+   },
+   "source": "新京报",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SUW5pMm9RZGFvLVpFckdQSzlrVk1qalhiRVBJR0ZVM3JmbElqRzNRSGhQQTNMa1dkNi1ObnhGSFhOWkVERmNKSTRXcXkycVAzc25TV3A1UW84S0xoc3RUbjZnVlY?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T10:10:30Z",
+   "level": "minor",
+   "title": {
+    "en": "黄仁勋、苏姿丰，在华有了新身份",
+    "zh": "黄仁勋、苏姿丰，在华有了新身份"
+   },
+   "body": {
+    "en": "Jensen Huang and Lisa Su were named to the advisory committee of Tsinghua University's School of Economics and Management.",
+    "zh": "黄仁勋与苏姿丰获聘为清华大学经济管理学院顾问委员会委员。"
+   },
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDRzdjQUVDZHdwSnBXOTNEcmE4bGtSVkxTMG1oRjlTNmJKNkFkaUNnY19ieDB6d3ZEX3VLLTllaElSS3I1WXhqcjl1QWJjQzVzb201MUpxQkVSWW4xNVJ3T2otWXhqUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T13:58:51Z",
+   "level": "notable",
+   "title": {
+    "en": "Jensen Huang and other AI leaders to meet with Trump & lawmakers today",
+    "zh": "Jensen Huang and other AI leaders to meet with Trump & lawmakers today"
+   },
+   "body": {
+    "en": "Huang joined other AI industry leaders for meetings with Trump and lawmakers in Washington.",
+    "zh": "黄仁勋与其他AI行业领袖一同在华盛顿与特朗普及国会议员会面。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU0dLNHdTeXBRdHBMQTMxTnZ6Mm9vSlk5U1c4ZnlaVXN5YjVoOS12NmNWa2Y1dE9laWFPZWI1SVJDT0tiakcwSEpSMTFxOGloOEdhVGRJbnY2ZHhfVzJUWmYwSzZmSU1iSlBFZDBnRnFCcmFaMDB0eFRZUWJscUM1OTFB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T01:39:00Z",
+   "level": "notable",
+   "title": {
+    "en": "硬科技早报|黄仁勋称蒸馏不是盗窃；AMD收购李飞飞；苹果回应严重漏洞",
+    "zh": "硬科技早报|黄仁勋称蒸馏不是盗窃；AMD收购李飞飞；苹果回应严重漏洞"
+   },
+   "body": {
+    "en": "Huang pushed back on claims that using model distillation constitutes theft, amid an ongoing industry debate over the practice.",
+    "zh": "黄仁勋回应称，使用模型蒸馏技术并不构成\"盗窃\"，回应了业内围绕该技术的争议。"
+   },
+   "source": "观察者网",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwQ3dJeEVLMDQwVGowMHR3MlB0ZWRocFQtSmpTVDljR1F3NFhUdWJDcm1mSndzQ2xSSl9EQUxRYXR3RlpPVUJ3SHp4WEsyV2VSelpta3AtemcwV2FaTFNDVVhjWEs?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T13:38:47Z",
+   "level": "minor",
+   "title": {
+    "en": "黄仁勋等担任清华大学经济管理学院顾问委员会委员",
+    "zh": "黄仁勋等担任清华大学经济管理学院顾问委员会委员"
+   },
+   "body": {
+    "en": "Huang was named to the advisory committee of Tsinghua University's School of Economics and Management.",
+    "zh": "黄仁勋获聘为清华大学经济管理学院顾问委员会委员。"
+   },
+   "source": "chinanews.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tdGZyb25oNlg1MS1laWlSbGJmbVBCZjNCUkQzYWllNEFpRFM2S3FfOTU3MFdlb21qLVVWSzhrRklKcEZFdm9TTlZ4UkFJZlZNNW9EdXhYTDYtbHhPeE9KNTJpSXl6ZTh4T0E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T14:49:18Z",
+   "level": "notable",
+   "title": {
+    "en": "'This is a problem': The pope counters Jensen Huang on AI safety - Yahoo! Finance Canada",
+    "zh": "'This is a problem': The pope counters Jensen Huang on AI safety - Yahoo! Finance Canada"
+   },
+   "body": {
+    "en": "Pope Leo XIV publicly pushed back on Jensen Huang's stance on AI safety, calling it 'a problem.'",
+    "zh": "教皇公开反驳黄仁勋在AI安全问题上的立场，称其'是个问题'。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMTV0YWx2dFVnY2lOeDVYWnpEWjlGY1V2VnFnSDN3UWJOdmppYTZ2Y01ZbUxsamJPMXVPY053cmV2OGxBX2ZPa0VOMnEwa0pxU01qV1RlT0ZKdjZ2OE94eWppZzFka0gtYkxJSnFnX1ZKTnFhMjJuNFZZR0ZkYWcwZzZ6UXJfcWxXVkRFb0VtbTZFOHpIZHAtNmN5LWs2VWxuU3F1bWxwT080a2ZsMzRZUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T12:33:00Z",
+   "level": "minor",
+   "title": {
+    "en": "黄仁勋、苏姿丰等担任清华大学经管学院顾问委员会委员",
+    "zh": "黄仁勋、苏姿丰等担任清华大学经管学院顾问委员会委员"
+   },
+   "body": {
+    "en": "Jensen Huang was named to Tsinghua University's School of Economics and Management advisory board, alongside Lisa Su.",
+    "zh": "黄仁勋与苏姿丰共同受聘为清华大学经济管理学院顾问委员会委员。"
+   },
+   "source": "thepaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56dWViMkhGYjktZ3VPLXByTGc4c3lJVjVwdXQ4ejM2RHZrbWJIZXlkUWdCV2ZpWFVZSkhBMnlac3ZBUXYyOXJIUXM0dF80a2ozR3dxNUd1ZFNTWUFNMzFMdA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T08:10:00Z",
+   "level": "notable",
+   "title": {
+    "en": "特朗普将在白宫宴请AI巨头：阿莫代伊、黄仁勋、扎克伯格在列，美众议长称要找“平衡”",
+    "zh": "特朗普将在白宫宴请AI巨头：阿莫代伊、黄仁勋、扎克伯格在列，美众议长称要找“平衡”"
+   },
+   "body": {
+    "en": "Jensen Huang is reportedly among the AI leaders, alongside Dario Amodei and Mark Zuckerberg, invited to a White House dinner as Trump seeks industry input.",
+    "zh": "据报道，黄仁勋将与阿莫代伊、扎克伯格等AI业界领袖一同受邀出席特朗普在白宫举办的晚宴。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd1lHanczODhmb2E2Y0Fna3NiZDQ0LWlGaVF0ZEp6U3hlcnItQ2ZGd3JUMEhGRTk4NVVmWHVEbUdaUEJBVzZ4bGJnLW8xcDhoWVEwRWpHQXdySjhoa3ZHYUJSRVBpUmpoVU96eDZBNnZBOVkzSUdEU2lBdU1mUVo3XzVJM181QTRnWWVhNA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T15:48:50Z",
+   "level": "minor",
+   "title": {
+    "en": "清华大学经管学院顾问委员会新增三名委员，包括黄仁勋和苏姿丰，两人还是远房亲戚",
+    "zh": "清华大学经管学院顾问委员会新增三名委员，包括黄仁勋和苏姿丰，两人还是远房亲戚"
+   },
+   "body": {
+    "en": "Tsinghua University's School of Economics and Management added Jensen Huang and Lisa Su, distant relatives, to its advisory board.",
+    "zh": "清华大学经济管理学院顾问委员会新增黄仁勋和苏姿丰（两人是远房亲戚）为委员。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMTJaVXZ2M3BWaS1xbGlVM3JMTVNHTFpFOUhob29GNndRdnY5ZTBpNGw0WVR2Q2xaSndDRFlveGk3N3I3SDF4MFhUYUVqX241M3phTTl4NXowQ0FJNzhrQmFfWGZPeFJYQ01nbk0weGZDUVZfZWc0NHJlQzVfeUN4YjFhUU1zUm9zWXlBRA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T15:58:24Z",
+   "level": "notable",
+   "title": {
+    "en": "英伟达(NVDA.O)CEO黄仁勋，马斯克将在白宫的人工智能午餐会上与美国总统特朗普同坐。",
+    "zh": "英伟达(NVDA.O)CEO黄仁勋，马斯克将在白宫的人工智能午餐会上与美国总统特朗普同坐。"
+   },
+   "body": {
+    "en": "Jensen Huang was seated alongside Elon Musk and President Trump at a White House AI industry lunch.",
+    "zh": "黄仁勋在白宫人工智能行业午餐会上与马斯克、特朗普总统同席而坐。"
+   },
+   "source": "news.futunn.com",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZTF4Q1N0NUU4TGVXc19uUkVUZkh2RnNHVXJLZkk1dlozQWZydHFhV3pjRnk0NVZqSmhHZ1RjUl9fVjRuMnhaZnNyUFBTY0xNUTRTcndBcXRSd3lkaFZaeFctUHVtc3BQQ2N0WkZqclZiZ2dwTVI3dklJNUtXQldRN1djOUp1RHZRMEZNemVWaGtMb2xUQVM5Zw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T15:31:00Z",
+   "level": "notable",
+   "title": {
+    "en": "黄仁勋、苏姿丰，在华有了新身份！担任清华大学经管学院顾问委员会委员",
+    "zh": "黄仁勋、苏姿丰，在华有了新身份！担任清华大学经管学院顾问委员会委员"
+   },
+   "body": {
+    "en": "Jensen Huang and Lisa Su were named to the advisory committee of Tsinghua University's School of Economics and Management.",
+    "zh": "黄仁勋与苏姿丰获聘清华大学经济管理学院顾问委员会委员。"
+   },
+   "source": "每日经济新闻",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vc0tIRDc2QU1jRlh0N1RWb01hak82WHdWM2phTEV0VzcwSHVYSFR3NmJEaF9yUjQzMkdfQ054Y1BleTNGTjAxdHg4eFQ5bVBLeDlZQ3NtSTJoS0pLcUtzTy14cHh2dw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T11:01:00Z",
+   "level": "notable",
+   "title": {
+    "en": "黄仁勋回应“蒸馏即盗窃”指控：英伟达也被拆到只剩骨架- AI 人工智能",
+    "zh": "黄仁勋回应“蒸馏即盗窃”指控：英伟达也被拆到只剩骨架- AI 人工智能"
+   },
+   "body": {
+    "en": "Huang responded to accusations that distilling from NVIDIA chips amounts to theft, saying NVIDIA itself has been \"stripped down to the skeleton.\"",
+    "zh": "黄仁勋回应“蒸馏即盗窃”的指控，称英伟达自身也被“拆到只剩骨架”。"
+   },
+   "source": "cnBeta.COM",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nQnAwc3B2dEtuQ05oMTB3dlBPb1VndGNnMVNJMUNuaXVyZUZqMlExa0dCWlNZR25oZk9JVVdQU3ZzZ0VHUDF6R05fQ2xtY3BJN1dnLW1mYmhkU0VkZHplNw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T12:56:55Z",
+   "level": "notable",
+   "title": {
+    "en": "黄仁勋、苏姿丰等新增成为清华大学经管学院顾问委员会委员",
+    "zh": "黄仁勋、苏姿丰等新增成为清华大学经管学院顾问委员会委员"
+   },
+   "body": {
+    "en": "Jensen Huang and Lisa Su were named to Tsinghua University's School of Economics and Management advisory committee.",
+    "zh": "黄仁勋与苏姿丰新增担任清华大学经济管理学院顾问委员会委员。"
+   },
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11aG0yeEhQamZrVHFGa1ZucklaQnZQWFdqcDUxWGxKMkdYcGQxaXRkd1pWOG1XbEp4bDY1dmFsOGtKbUNvQ2JjRm9TOXlHRnJxMUpVSUx0dlE2WFM4TlRyM3d4QWxUZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T14:49:18Z",
+   "level": "notable",
+   "title": {
+    "en": "'This is a problem': The pope counters Jensen Huang on AI safety",
+    "zh": "'This is a problem': The pope counters Jensen Huang on AI safety"
+   },
+   "body": {
+    "en": "Pope Leo publicly pushed back on Huang's stance that AI innovation and safety are not in conflict, escalating the debate over AI's risks.",
+    "zh": "教皇公开反驳黄仁勋关于AI创新与安全并不冲突的观点，使AI风险争论进一步升温。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU0pjZlBYRXlhWjdiQmY2VFpjOTFpV0ExbW4ybGJHNk9YeTBfc0E1QkdRS0pZcjdOYllDUWlRcW5FRjJrSUZaeWRQTUxER0ItMDFBcnlBWUFpX2QtNE10cXJ0RzYyMEtCdXJXQVdQaUtRMHFMN2ZGWGlBLVRDVmZ1LXNqZnlPSEpX?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T19:07:30Z",
+   "level": "minor",
+   "title": {
+    "en": "黄仁勋、苏姿丰、百达铭，担任清华大学经管学院顾问委员会委员，学院现任顾问委员会主席为苹果公司库克",
+    "zh": "黄仁勋、苏姿丰、百达铭，担任清华大学经管学院顾问委员会委员，学院现任顾问委员会主席为苹果公司库克"
+   },
+   "body": {
+    "en": "Huang was named to Tsinghua's School of Economics and Management advisory board alongside Lisa Su and other executives.",
+    "zh": "黄仁勋与苏姿丰等高管一同被聘为清华大学经济管理学院顾问委员会委员。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaS1PaTJNTkh2c0lic254QTJLT2R0c01pVlRnWi1FLV85dGNXVC15LU5vdWVMZzB5UV9WR3lKMHZXR1RIaWZ4ZTJrS2FSck40MTJ4RHg0UTBtclpYM3NBVlFtN1RXMHJWZExwN21aT3NqcEtJTnlhSXByVG52cUd2NS1HTWNEdUJaNzYw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T20:02:50Z",
+   "level": "notable",
+   "title": {
+    "en": "英伟达的黄仁勋表示 人工智能创新与安全之间不存在冲突",
+    "zh": "英伟达的黄仁勋表示 人工智能创新与安全之间不存在冲突"
+   },
+   "body": {
+    "en": "Huang stated publicly that there is no inherent conflict between AI innovation and safety, a direct rebuttal to critics including the Vatican.",
+    "zh": "黄仁勋公开表示人工智能的创新与安全之间并不存在必然冲突，直接回应包括梵蒂冈在内的批评者。"
+   },
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WZWRNN2liMzBlekVDMWRBVmJ6OGNhWl9TNHR3NFRkOW12MFNGZGV0ejIyRVpud2NTN0xMbUhWLVFRSWktRm9nS2oxOE02ZF9vaUVRVEZ6emhNVExmUEE1Nklhaw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T13:43:10Z",
+   "level": "notable",
+   "title": {
+    "en": "黄仁勋、苏姿丰出任清华经顾委委员，库克仍任主席",
+    "zh": "黄仁勋、苏姿丰出任清华经顾委委员，库克仍任主席"
+   },
+   "body": {
+    "en": "Jensen Huang and AMD's Lisa Su were named to Tsinghua University's School of Economics and Management advisory board, with Tim Cook continuing as chair.",
+    "zh": "黄仁勋与AMD苏姿丰获聘为清华大学经济管理学院顾问委员会委员，库克继续担任主席。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZV9UUXVFYk5NcVVVcmRUZDRZbnF5STlLU0kzUFpHeEMyMG4zcW03Sk4wcHN4OXRCWjNoWGR1SHNNNm1EZ283UzJKalBRM2drb2ltOTBobnd4ZGNJSVZLaXg3dDgzbnliVGVza1BoVmMzZVh2OW5FcVdiSmpjaEdSYUtlQkJacGszcmZ2cQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T21:44:33Z",
+   "level": "notable",
+   "title": {
+    "en": "Jensen Huang: AI data center push will create 1 million US jobs",
+    "zh": "Jensen Huang: AI data center push will create 1 million US jobs"
+   },
+   "body": {
+    "en": "Huang said the AI data-center buildout will create a million US jobs.",
+    "zh": "黄仁勋表示，AI数据中心建设将在美国创造一百万个就业岗位。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NY2V1Q3h0eDJoS0pyczVZNGFZUXh1MDhoeVlSU1hBeFVIV2xGcGlCZVdBLWl6OExPYzVuamlzakp0YzVacTlERkkwcmpRQUY4dnc5dm9hUExWME9HcnFwQzR0VEZzVjZqbVpGeHNvdFZGdWJ6LXdwYmdJNDhEWlk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T21:11:11Z",
+   "level": "notable",
+   "title": {
+    "en": "英伟达CEO黄仁勋：我们过去称之为数据中心，但我们现在正在建造的其实是超级智能（SI）工厂。",
+    "zh": "英伟达CEO黄仁勋：我们过去称之为数据中心，但我们现在正在建造的其实是超级智能（SI）工厂。"
+   },
+   "body": {
+    "en": "Huang reframed what the industry used to call data centers as 'superintelligence factories.'",
+    "zh": "黄仁勋将行业过去所称的“数据中心”重新定义为“超级智能工厂”。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xMGNsd25TOHpLVUt5U1o1aEw5cjI4SlBERVFIYWJUdklTVFVPa3lOVGtIX2JLSTVQOFNaX2FrUG9WN3ktTHFaT3lnVQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T21:14:37Z",
+   "level": "major",
+   "title": {
+    "en": "英伟达CEO黄仁勋：白宫达成的宣言具有强有力的约束力。",
+    "zh": "英伟达CEO黄仁勋：白宫达成的宣言具有强有力的约束力。"
+   },
+   "body": {
+    "en": "Huang endorsed the White House AI accord as carrying strong binding force, backing the industry's joint self-regulation pledge.",
+    "zh": "黄仁勋表示白宫达成的AI协议具有强有力的约束力，认可这份行业联合自律承诺。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zeW5mN0RnaVo3cGtXX2JHTXFieERYeDhMM0dBbTVRb0NGXzZ0TEFXWHhwR0MzZjB6WlRfNGt5aWM5X2Q0bUpSSy1waw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T10:02:00Z",
+   "level": "notable",
+   "title": {
+    "en": "蒸馏不算偷！黄仁勋回应蒸馏即盗窃指控：英伟达也被拆到只剩骨架",
+    "zh": "蒸馏不算偷！黄仁勋回应蒸馏即盗窃指控：英伟达也被拆到只剩骨架"
+   },
+   "body": {
+    "en": "Huang publicly rejected the claim that AI model distillation is theft, arguing Nvidia's own technology has likewise been reverse-engineered down to the studs — a notable public defense of the practice.",
+    "zh": "黄仁勋公开反驳“蒸馏等于窃取”的说法，称英伟达自身的技术同样也曾被拆解到只剩骨架——这是他对该做法的一次值得关注的公开辩护。"
+   },
+   "source": "驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40bTVqMXFpRGtmMGQ1R2RsNjF2RTVOQU5lS1ZsSWFpOF9rVHFPaV9ORTJKeWtPUWRTS251ZWhxWkRQdy1SYWN0X0hfNnN4ZE9ZelZSR3N3MFk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T10:29:08Z",
+   "level": "minor",
+   "title": {
+    "en": "#黄仁勋等3人加入清华经管顾问委员会#",
+    "zh": "#黄仁勋等3人加入清华经管顾问委员会#"
+   },
+   "body": {
+    "en": "Huang joined Tsinghua University's School of Economics and Management advisory committee alongside two others, a minor honorary appointment.",
+    "zh": "黄仁勋与另外两人一同加入清华大学经济管理学院顾问委员会，属于一项较小的荣誉性任命。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2dlcEtZODhyYTRPXzFrZk00QlA1ZWVqS1VYLS1zTGZiNFlXNmlmX2pycmxvUXVvUlY4WFY1cVdLT0R2cnItbEd3enkzZGxqWmpYaHlqTnRvcU9ZRXFCS2kwRkltbmZha1hwNVlrZTFZdzg3TW9mMTNBRjhxSXY4c2ZscFNZQ0t3NVI5cFhzLUZxc3MxWEo2MFo4VVFQS3NM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-28",
+   "ts": "2026-09-28T01:32:51Z",
+   "level": "notable",
+   "title": {
+    "en": "黄仁勋说了句大实话：美国该怕的根本不是中国模型",
+    "zh": "黄仁勋说了句大实话：美国该怕的根本不是中国模型"
+   },
+   "body": {
+    "en": "Huang argued that what the U.S. should actually fear in the AI race isn't Chinese models, breaking from the usual China-threat framing.",
+    "zh": "黄仁勋表示，美国在AI竞赛中真正该担心的并非中国模型，这一说法有别于常见的“中国威胁论”论调。"
+   },
+   "source": "手机网易网",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45STRrWEtWN0h3NWZwNUgtU0lnUzRsa2ZFNXl3WDlCVU5WY25NVUFoUmZGVjUzaHdsM3VkNG1NQllCSnVoc2hXQkpkRzd1Z1EyVU1SbA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-28",
+   "ts": "2026-09-28T10:31:35Z",
+   "level": "notable",
+   "title": {
+    "en": "Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd'",
+    "zh": "Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd'"
+   },
+   "body": {
+    "en": "NVIDIA launched an AI agent safety platform days after Huang called Anthropic and OpenAI's safety warnings 'odd,' pairing the product launch with a public rebuttal to rival labs.",
+    "zh": "在黄仁勋称Anthropic和OpenAI的安全警告“奇怪”数日后，英伟达推出AI智能体安全平台，将产品发布与对同行言论的公开反驳结合在一起。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeGNaelh2QkxHVU41WVVXMGlUSjBLaTBKeEtUYlNyMUI3M1o2X1lMY1ZPVG5PazNfNFV1OFBEMFFWVkhmVUN4QTZkTk1SSDB5OUpVc2l2VWtFX2ZhRHhaTUZzcmtDNW52TXdXWExqVEdZZGJQRTBTSUJiZDhiazBfcVI2QS1DT01BQi1XR0duTjAwRU9qOFpScEVSMHhhY2JRYU5DbVdSSjFiOXM5X3RWRXFfQXZkQkt1TnNkZlIxekRuLThVZDdRdlUtelRCV0dfSXpSZkdoVUhtdVdtQ19WZnNVcw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-28",
+   "ts": "2026-09-28T13:55:33Z",
+   "level": "notable",
+   "title": {
+    "en": "Jensen Huang says AI distillation is 'competition.' Scott Bessent has called it 'theft'",
+    "zh": "Jensen Huang says AI distillation is 'competition.' Scott Bessent has called it 'theft'"
+   },
+   "body": {
+    "en": "Huang called AI model distillation 'competition,' pushing back on Treasury Secretary Scott Bessent's characterization of it as 'theft.'",
+    "zh": "黄仁勋将AI模型蒸馏称为“竞争”行为，反驳美国财政部长贝森特将其定性为“窃取”的说法。"
+   },
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLUdBTWUtSVlNaU1tdEtJc2ZHNnZyeW1VaG50S1FvSV9mX1NvNGdtZGowNERtbnVKaTJaNTJMaVNOTVM1ck9IZ2VnMmN1M2NldGsxMnpqOXBLWWxBNkRkbU5jSVZyYTNUdTM3ZGlqRGRPQUtrRDV1T2VvdF9xNzVRTTRpM042UdIBiwFBVV95cUxPaFFuWWxrLTNrVHJSSk5HM3V0LVVLSVZZQUc4R0ZGYTJSQ25iOWtaS29fM0EwZk5kVFJ3RU1qejBIbjdkMlVwU2h2VzBzeHoxUDcwdnc1Z0czSml6T2ZQdFNUV0JMdUxwQzJKd2JSS0JiVEZQU0pvLUc3cC1oc25TNEU4SE1mNTB2bURr?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-28",
+   "ts": "2026-09-28T10:00:53Z",
+   "level": "notable",
+   "title": {
+    "en": "Jensen Huang Calls OpenAI ‘One Of The Most Consequential Companies In History’ – Says It Can 'Use Whatever Part' Of OpenShell It Wants",
+    "zh": "Jensen Huang Calls OpenAI ‘One Of The Most Consequential Companies In History’ – Says It Can 'Use Whatever Part' Of OpenShell It Wants"
+   },
+   "body": {
+    "en": "Huang called OpenAI 'one of the most consequential companies in history' and said it can use whatever part of NVIDIA's OpenShell it wants.",
+    "zh": "黄仁勋称OpenAI是“历史上最具影响力的公司之一”，并表示OpenAI可以随意使用英伟达OpenShell的任何部分。"
+   },
+   "source": "Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMW5DTnNIOGxDUHJyUW1nRkJJNmFLUkVhWG1MbnNoamt0bDUwbk9SamZDdWdkTmdRWVJ2bWJpT1lMVHYya3hJTF8tZWY2bjNHek4wTm14MzN3V08zYnVHenVHbDlyYnlTOXBjVU1yYjZ2bHN5YzlSWldHSC1IT1puLXFTTVlnYm4xWXE1SjUwUGktdmFxa1hzZVZ2QzBVZXdqOHhHSUJHSlJ0TDZ1MVl5d2lfV3pLdGtFT2tfVU43VFc0Ry1iQWlYU2FUNWY5UEk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-28",
+   "ts": "2026-09-28T14:33:31Z",
+   "level": "notable",
+   "title": {
+    "en": "Nvidia’s Jensen Huang Says There’s a ‘0% Chance’ AI Wipes Out Humanity by 2030",
+    "zh": "Nvidia’s Jensen Huang Says There’s a ‘0% Chance’ AI Wipes Out Humanity by 2030"
+   },
+   "body": {
+    "en": "Huang rejected Geoffrey Hinton's warning that AI has a 10% chance of wiping out humanity, saying there's a '0% chance' of that happening by 2030.",
+    "zh": "黄仁勋驳斥杰弗里·辛顿“AI有10%概率毁灭人类”的警告，称到2030年这种情况发生的概率是“0%”。"
+   },
+   "source": "entrepreneur.com",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRU1GeHRxUVppTXVIT3djOHh4NDAxcmllaDQxVGkxTmpTZHZEMEFZVmNab0J5LWRRdFk1Sy1MeHFxNVpVczhCRW92S29GY3FNVkNrLV9wYjgxQ1hteUhlTWZCc0dza1JuQnVDZGs3aVBhMDNWVjY1aWdadW5mSHhxTzZ6R3dXbG83YTV0MzFEMkRpbEFXYmtRYklMaThUNU1Hb1pHdWJkd0FwVHBZOE1GVVFsaXRpM2M?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-28",
+   "ts": "2026-09-28T16:05:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Jensen Huang: \"AI Model Distillation Is Competition, Not Theft\" — Directly Contradicting U.S. Government Stance",
+    "zh": "Jensen Huang: \"AI Model Distillation Is Competition, Not Theft\" — Directly Contradicting U.S. Government Stance"
+   },
+   "body": {
+    "en": "Huang argued that AI model distillation is legitimate competition rather than theft, directly contradicting the U.S. government's characterization of the practice.",
+    "zh": "黄仁勋主张AI模型蒸馏是正当的市场竞争而非窃取技术，这一立场直接与美国政府对该行为的定性相冲突。"
+   },
+   "source": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tbnlMYTdYU3BnUS1nOFFJR1BRTWNjWl9CZ0RLemdHSF9TVUF6V3hNQXlNcEt4cnhqTVo4WVJGMXVmX0ZRUVExSUhkZlVPb1YtVGJxM3JhNGdvLUR4ZXZlWnBuWW5feExLb2lJQUsyaVliX2lqQ1E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-28",
+   "ts": "2026-09-28T17:24:42Z",
+   "level": "major",
+   "title": {
+    "en": "Jensen Huang Kills Two Birds With One Stone: NVIDIA’s New AI Agent Guardrails Craftily Counter The Calls For Pacing AI Development, While Increasing The Demand For Its Own Products",
+    "zh": "Jensen Huang Kills Two Birds With One Stone: NVIDIA’s New AI Agent Guardrails Craftily Counter The Calls For Pacing AI Development, While Increasing The Demand For Its Own Products"
+   },
+   "body": {
+    "en": "Nvidia launched an Open Agent Safety Platform to secure AI agents from testing through deployment, a move framed as Huang's practical answer to calls for slowing AI development.",
+    "zh": "英伟达推出开放式智能体安全平台（Open Agent Safety Platform），覆盖从测试到部署的AI智能体安全治理，这被视为黄仁勋对\"放缓AI发展\"呼声的务实回应。"
+   },
+   "source": "Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOaUtmeUVFTlI5R1c0dFFmZTdaX2lIMlBtYjNZRnRUUHBMb09INXBkckhvVFA2cXFhS2lCNjRuNkctMVR1NnNmUC1WZVZOa1BOX3N3b2VzUDdfd3VlMUp1N1dyWHZiQ3Z3NlVmT0FnQk0tUDdIc2NveE1VV3htd25xS0oyajZxRWpUNjROcTVUYi1DQWF6S0xDM2NXNXNxY19DSkExWlVUeW85clhyM2VjQ2d2TXJqOUpQS1p3VHY3ZDlONU9ZUXE1SWN0V1ZtOXhQZGNCZTFHbGZyR2VMb21nN1BwX0ZCU2E4MWRrcFZ4dlpEcWJPSFhfaEIzWUJBMGgxSEt4RlNKUXc0RGNEU3psYmpzb2RfLWc5eUEybXZHaVpkSWpDaHfSAasCQVVfeXFMT0s5OTNwa1M5SzJvendZc2hsbjVtMWdlQlFQTENYaU5xMVZINlNPUnJJX0FoYnJKRlJXcGg2ajRWeUxkMTVrc2hibWtHVkhvdW1Pd0xpMHlwaUV2STVxa2JtWWcyM2V6M0ZZT1FyelZUT3Q1Umh0YzhWZkVYZmJmUnUydmlrOW5CZzJ6dDByOHlNZ3JIbWxueUlDTk9fZmpxWVEtU3c1dXJrZGxSQ2xwcGdPb3ZGM3g0NHFPQlFkRmpuOUJJSERZUlNqV0FMMEpDa3pzQzYxamd4U1dDcnM3dEFEWmRkREVEMV9Fa3RLRkNxT09WSDFTUjVyb1Q0eHNHN0V2RjVwd1FjQjRTRVRYSkZOS2xlWU5aYS1Hd0QwcndCOXo0QXBsRTlFMmM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-28",
+   "ts": "2026-09-28T17:19:12Z",
+   "level": "notable",
+   "title": {
+    "en": "Jensen Huang Just Gave Investors 150 Billion Reasons to Buy Nvidia Stock",
+    "zh": "Jensen Huang Just Gave Investors 150 Billion Reasons to Buy Nvidia Stock"
+   },
+   "body": {
+    "en": "Nvidia increased its share buyback authorization by $150 billion, one of the largest repurchase programs in U.S. corporate history, under Huang's leadership.",
+    "zh": "在黄仁勋领导下，英伟达将股票回购授权额度提高1500亿美元，是美国企业史上规模最大的回购计划之一。"
+   },
+   "source": "The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS05xQ2V5ME82ZUVQNXlsaDQxckNEblJUWEV4NHZ6MnBMUHhhZmtKQXdTR1BzZ0h4dGtEbkRlVWRCekoyTnRobUo4RzRjVHdpTzVoT1pxOXFnaVFOMS1pU1RTUDd5dl9VV0E3NlRLZTNyamdJTkxUS1VWZXltRDdEYnZneEg2S0JMLWtSRXpqTEExNkhpRnVoSw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-28",
+   "ts": "2026-09-28T13:53:28Z",
+   "level": "notable",
+   "title": {
+    "en": "Jensen Huang Calls OpenAI ‘One Of The Most Consequential Companies In History’ – Says It Can 'Use Whatever Part' Of OpenShell It Wants",
+    "zh": "Jensen Huang Calls OpenAI ‘One Of The Most Consequential Companies In History’ – Says It Can 'Use Whatever Part' Of OpenShell It Wants"
+   },
+   "body": {
+    "en": "Huang called OpenAI 'one of the most consequential companies in history' and said it can use Nvidia's technology as it sees fit, underscoring the depth of the Nvidia-OpenAI relationship.",
+    "zh": "黄仁勋称OpenAI是\"历史上最具影响力的公司之一\"，并表示OpenAI可以按自己的意愿使用英伟达的技术，凸显了英伟达与OpenAI关系之深厚。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZTZCQ0xjaDFLZFBnbG56OXUxNHEtbW96T0pjNjdPcDJRWUZ2WFpKdWJOOVpjWmRXbEZ2WkttVjNtU2huVFUzamYyNVFHR1plVVpsdGFFMkhSOWJ2NG9PUnJsN3dPU25GUVA0Z3c1V1F4RXZDaEF5TXdYX3UzUFV0Mkd5NnNQTlJkV0pXM3dLLWM1ZnMxSF9ZLQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-28",
+   "ts": "2026-09-28T21:40:09Z",
+   "level": "notable",
+   "title": {
+    "en": "Jensen Huang Holds Private Meetings with Samsung and SK Leaders in New York; 8th-Generation HBM and AI Factories Take Center Stage",
+    "zh": "Jensen Huang Holds Private Meetings with Samsung and SK Leaders in New York; 8th-Generation HBM and AI Factories Take Center Stage"
+   },
+   "body": {
+    "en": "Huang held private meetings in New York with Samsung's Lee Jae-yong and SK's Chey Tae-won focused on 8th-generation HBM supply and AI factory cooperation.",
+    "zh": "黄仁勋在纽约与三星李在镕、SK崔泰源举行私下会晤，重点讨论第八代HBM供应及AI工厂领域的合作。"
+   },
+   "source": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90SHhTb3h5c1Z1ZzRaWFY3czhuczF5NW5jTEZ4aWdCSDJMWmZnNmFmZ29vN2wtUXhpcFNjUG9TWFFTSFRqVkRzWmk3LWFrMXJjamRIWlBQX3JEMS14ZjBwLWo4bU5GTjZiRy1MR3dKbXZJdWdNVEE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-28",
+   "ts": "2026-09-28T19:28:36Z",
+   "level": "notable",
+   "title": {
+    "en": "消息人士称:英伟达CEO黄仁勋预计将于当地时间周二出席在白宫举行的会议",
+    "zh": "消息人士称:英伟达CEO黄仁勋预计将于当地时间周二出席在白宫举行的会议"
+   },
+   "body": {
+    "en": "Huang was reportedly expected to attend a White House meeting, per sources cited by Chinese financial media.",
+    "zh": "据消息人士透露，黄仁勋预计将出席白宫举行的一场会议。"
+   },
+   "source": "eastmoney.com",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YU2ROU0RJSWc4OGVwUTJORnBydXFVTkJVSDAyUHdCX3N3bE9hX25KVWtNd2ZySTVNcHZBWnFaR0R3dmRrSVF4cllHZ2hISlpWT3hlMEQxVnRpU2VIdG9MUg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-27",
+   "ts": "2026-09-27T12:02:27Z",
+   "level": "notable",
+   "title": {
+    "en": "Jensen Huang won't flee California's Billionaire Tax, says it’s a privilege to pay $8 billion tax — Nvidia chief stays as fellow tech billionaires exit state",
+    "zh": "Jensen Huang won't flee California's Billionaire Tax, says it’s a privilege to pay $8 billion tax — Nvidia chief stays as fellow tech billionaires exit state"
+   },
+   "body": {
+    "en": "Huang said he won't leave California over its new billionaire tax, calling it a privilege to pay an estimated $8 billion, even as other tech billionaires relocate to avoid it.",
+    "zh": "黄仁勋表示不会因加州新出台的\"亿万富翁税\"而离开该州，称缴纳预计约80亿美元税款是一种荣幸，尽管其他科技富豪纷纷迁出以避税。"
+   },
+   "source": "Tom's Hardware",
+   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPdEVVdmlQMXlDNGZkZ1ptRWRodThJaDhHNFBCSnJ5eHFjc251NmhNOHcza0NySnE3cm9qSUJjRTNac0N3b2ZfX2Mza2ZhYkpIYzlVLUh4ajlyaHkxa2E2WGlfRzJ4MjZGVlNYakVSOXlZOWRhMm1MSXNXY18yaUc4MU9vUnNLbHMzcWl4S0E2UlA0czNvYTJ1SVhmbGUwSHJvZlVoWWp4NDllTG54MGZ5LTlrMzk3LXNpZlIyRHdNYVBxZ2JkSjUwMnNIblYxc3k0NDAyaWI5V01NOFJDMFZYZHlmLURBSGc3TmtRMWdiU0dDaWZjUTdEXy11SjJlUV9EdVBTRkFvbWkzQUJyMTlUeDl4SWxRcFNJSlRycWFZc1pSTG91aXl0Z194Zw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-27",
+   "ts": "2026-09-27T15:21:33Z",
+   "level": "major",
+   "title": {
+    "en": "Jensen Huang: AI Labs Must Self-Police, Not Regulate",
+    "zh": "Jensen Huang: AI Labs Must Self-Police, Not Regulate"
+   },
+   "body": {
+    "en": "Huang argues AI labs should self-police rather than be regulated, and that any lab unable to control its systems should shut down — a widely quoted stance in the AI safety and regulation debate from NVIDIA's CEO.",
+    "zh": "黄仁勋主张AI实验室应自我约束而非接受监管，并表示若实验室无法控制自身系统就应立即停止开发——这是英伟达CEO在AI安全与监管辩论中被广泛引用的立场。"
+   },
+   "source": "shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SWE9VYVg3UHhiS0REeFkxZVNxZDhLR0FGbnRwMHF2VEdRQV9Kckh0eUVZZUVSZE9YMXZrYXZPVF9ZSHVGQmJnUlFIRzZaU3M4b21BTXdZRFIybnA2RnVhb2taNHV3enZ2ZVA4V04wRjN5QXAtRzZ6Qw?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-09-25",
@@ -948,6 +1891,23 @@
    },
    "source": "TechSpot",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTTZ5OWhnbzFfZ2FGYmx3clk1dS1kTzFvUE9GLXNRcDV2UFVTRkdGb0VKUWtnX09oMTFpMjJPX3oyeXAzMk9YRFIyLTZRMGx5ZkRjc0JEeDBqZ1IxQmVEY2RMYUVoUVB3QUg0OG1uZ0d3S25ydkhUQXRVV0ZqSEZNZW1wT2hLcy1SWHVtcXdfVHowREU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-25",
+   "ts": "2026-09-25T11:00:08Z",
+   "level": "notable",
+   "title": {
+    "en": "Jensen Huang Says AI Boom Will Eventually Hit a 'Period of Digestion,' But Not for 2-3 Years",
+    "zh": "Jensen Huang Says AI Boom Will Eventually Hit a 'Period of Digestion,' But Not for 2-3 Years"
+   },
+   "body": {
+    "en": "Huang predicts the AI investment boom will eventually hit a 'period of digestion,' but not for another 2-3 years — a closely watched read on the AI capex cycle from NVIDIA's CEO.",
+    "zh": "黄仁勋预测AI投资热潮终将进入\"消化期\"，但认为这至少还要2到3年——作为英伟达CEO，他对AI资本开支周期的判断备受关注。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZDZ3RVVnemtBa3FjeFVVVkpNcUU3TE1zOUZISTZPVGNYYWNGUWhZaHE1ZnFMZGRBYlJaLXhOemlrYXpwWFJnMWRmcU1rQ1V0MVZ6ZncyaGZ6WnlDcTBDX2JZRzdFT2hMZWxnMjFyRm5zMjgtdHJQNmZDVVd2Z2tyT3BreUl6enhXbHdSR3BFMzgxQlU?oc=5",
    "auto": true,
    "judged": true
   },
@@ -1798,6 +2758,40 @@
    },
    "source": "blog.csdn.net",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDYTQ0SnVidmlucmx4VDNxTmJ5Sk5sQ05pdXJIN2FYeGRScEFKUkQydHdxNVgtYnQyMmtMNDhOUzlobzByMXJCenY1R2RqVUk0ZFplWU92aXQtblNzVTNJdWdDTGtjR2ZVSHE0bExn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-23",
+   "ts": "2026-09-23T04:31:00Z",
+   "level": "notable",
+   "title": {
+    "en": "替代大学？硅谷风投办AI新型学院：黄仁勋、奥尔特曼授课，学费或对标哈佛，不发文凭",
+    "zh": "替代大学？硅谷风投办AI新型学院：黄仁勋、奥尔特曼授课，学费或对标哈佛，不发文凭"
+   },
+   "body": {
+    "en": "A Silicon Valley venture firm is launching a new AI-focused college with tuition benchmarked to Harvard and no diploma issued, with Huang and Sam Altman among the instructors.",
+    "zh": "一家硅谷风投机构正在筹办一所AI新型学院，学费对标哈佛且不颁发文凭，黄仁勋与奥特曼将担任授课人。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdzc1VHN6aGNoWVQxbEZiZU5fTGxTUWJ3TFZEWVpoRkJpelQxSlY5R1pHdW9rYU1WN2F0bXBjRHZJQTVhd2RvdDgzdkdvaTc2MzZYeXViM2tYWDR6WGg4ZzBsS2VLTGJMS3ZNZVZOSjg2c25JRl83VWx0ck5aRVFnZlRyZF9SZVdaM094TQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-23",
+   "ts": "2026-09-23T23:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Nvidia CEO Jensen Huang Gives OpenAI and Anthropic an Ultimatum",
+    "zh": "Nvidia CEO Jensen Huang Gives OpenAI and Anthropic an Ultimatum"
+   },
+   "body": {
+    "en": "Huang told OpenAI and Anthropic that if they cannot keep their AI systems under control, the labs should shut down — a pointed rebuttal to Altman's and Amodei's public warnings about AI risk.",
+    "zh": "黄仁勋向OpenAI和Anthropic喊话：如果无法控制好自家的AI系统，那么实验室就应该关闭——这是对奥特曼和阿莫迪公开AI风险警告的针锋相对回应。"
+   },
+   "source": "Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPY1lfQ2xhWm1KdmpKNm1udGFabVp5VUZSekZNS1g3bG9qYlVpRm0zTFByZEpWQWtQWUJmM3RjMzVWS1NQZ0JrWTJHNTR1V25PRkZjRWV5RXFkLUgydF81elJLVlNIZk9NUFZHYno5UFJSMkR3Skg3M1B2WkcxMm0taHdsZnVnZw?oc=5",
    "auto": true,
    "judged": true
   },
@@ -4994,6 +5988,23 @@
    },
    "source": "新浪财经",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdE55X0tXX3pvYmxHVHplZTBQckNVWXhyblNvemk5U3dSRFE0UGxkTGEwV3ZBU3BRRkg0ZE1pc21QWHpnSEFPdGxLLWc0RHdRQ3B3cmpqNnV4aUU0Yk9LX1RyMW4xc1c0THZtb0lkeXRxb2pIZl9KZXlIaldnZGlnMEJycnUteGZFaTVmNjhXenJsM0pIVHR0WlRXMEJfQURlMVJQUmh3T0VONUJHaURHdjRQeDY5bkZPZzltSG5DbHNkV0doRWpZSUo0Y1Z6bms?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T19:42:50Z",
+   "level": "notable",
+   "title": {
+    "en": "英伟达CEO黄仁勋：明年公司芯片销量将翻倍",
+    "zh": "英伟达CEO黄仁勋：明年公司芯片销量将翻倍"
+   },
+   "body": {
+    "en": "Huang told investors he expects Nvidia's chip shipments to roughly double next year, a bullish signal on sustained AI infrastructure demand.",
+    "zh": "黄仁勋向投资者表示，预计英伟达明年的芯片出货量将较今年翻倍，释放出AI基础设施需求持续强劲的信号。"
+   },
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LVU1BUnNrUEdRR1FRXzRrdFozQ1htdG1CLW9CWmc0X0FDbkFUU3EycG1HNTNFT3dhc21iOGhGYWxaak1HdjF5STQxSGt4aERSUEdYSDJrRVRocFJkdkQ1dQ?oc=5",
    "auto": true,
    "judged": true
   },
@@ -8515,8 +9526,8 @@
   "pageviews": 3963246,
   "citations": 0,
   "hIndex": 0,
-  "events": 457,
-  "posts": 34,
+  "events": 512,
+  "posts": 38,
   "wikiEn": "Jensen Huang",
   "wikiZh": "黃仁勳"
  },

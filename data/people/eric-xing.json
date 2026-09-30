@@ -163,6 +163,44 @@
    }
   },
   {
+   "date": "2026-09-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "WM-VLM: Probing Internal World Models for Interleaved Visual-Textual Reasoning",
+    "zh": "WM-VLM: Probing Internal World Models for Interleaved Visual-Textual Reasoning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.34826v1",
+   "note": {
+    "en": "Co-authored WM-VLM, probing whether vision-language models build internal world models to support interleaved visual-textual reasoning.",
+    "zh": "合著了WM-VLM论文，探究视觉-语言模型是否为交错的视觉-文本推理构建了内部世界模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Broken Symmetry in BF16 Attention: Why FlashAttention Gradients Blow Up Late in Training",
+    "zh": "Broken Symmetry in BF16 Attention: Why FlashAttention Gradients Blow Up Late in Training"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.34272v1",
+   "note": {
+    "en": "Co-authored a study showing FlashAttention gradients can blow up late in BF16 training due to a broken numerical symmetry, a practical pitfall for large-scale pretraining.",
+    "zh": "合著研究发现，在BF16训练后期，FlashAttention的梯度会因数值对称性被破坏而出现爆炸，这是大规模预训练中的一个实际隐患。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-17",
    "ts": "2026-09-17T16:42:08Z",
    "kind": "x",
@@ -296,6 +334,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2026-09-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "World-Action Models for Robot Learning and Control: A Survey",
+    "zh": "World-Action Models for Robot Learning and Control: A Survey"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.16074v1",
+   "note": {
+    "en": "Co-authored a survey mapping world-action models for robot learning and control, an area matching his stated push into world/agent models.",
+    "zh": "合著一篇综述论文，系统梳理了用于机器人学习与控制的世界-动作模型研究现状，呼应其近期在世界/智能体模型方向的布局。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-12",
    "ts": "2026-09-12T22:42:25Z",
    "kind": "x",
@@ -332,6 +389,25 @@
    "judged": true,
    "platform": "x",
    "connector": null
+  },
+  {
+   "date": "2026-09-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Magenta: Closing the Loop Between Mathematical Reasoning and Lean Verification",
+    "zh": "Magenta: Closing the Loop Between Mathematical Reasoning and Lean Verification"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.11319v2",
+   "note": {
+    "en": "Co-authored Magenta, a system linking LLM-based mathematical reasoning to formal verification in the Lean proof assistant.",
+    "zh": "合著论文Magenta，将大语言模型的数学推理与Lean形式化验证工具连接形成闭环。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-09-09",
@@ -1514,16 +1590,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 31.4,
+  "total": 31.2,
   "attention": 25,
   "centrality": 14,
-  "momentum": 54,
+  "momentum": 53,
   "stature": 54,
   "pageviews": 21312,
   "citations": 41656,
   "hIndex": 97,
   "events": 2,
-  "posts": 70,
+  "posts": 74,
   "wikiEn": "Eric Xing",
   "wikiZh": "邢波"
  },

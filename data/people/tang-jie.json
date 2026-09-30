@@ -217,6 +217,63 @@
    }
   },
   {
+   "date": "2026-09-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "From Anomalies to Failures: Constructing Causal Error Graphs for Agentic Trace Diagnosis",
+    "zh": "From Anomalies to Failures: Constructing Causal Error Graphs for Agentic Trace Diagnosis"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.32514v1",
+   "note": {
+    "en": "Tang Jie co-authored a paper on constructing causal error graphs to diagnose failures in long agentic traces, distinguishing anomalies from root-cause errors.",
+    "zh": "唐杰合著论文，提出通过构建因果错误图来诊断智能体长轨迹中的失败，区分异常现象与根本错误。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Enabling a Unified Cross-Domain Representation for Two-Finger Gripper Manipulation via Interaction-Centric Modeling",
+    "zh": "Enabling a Unified Cross-Domain Representation for Two-Finger Gripper Manipulation via Interaction-Centric Modeling"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.31207v1",
+   "note": {
+    "en": "Paper on a unified cross-domain representation for robotic gripper manipulation, co-authored with his regular Tsinghua KEG lab collaborators.",
+    "zh": "与其清华KEG实验室长期合作者共同撰写的论文，研究跨领域统一表征在机械手抓取操作中的应用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "CARE: Condition-Aware Representation Regularization for Diffusion Models",
+    "zh": "CARE: Condition-Aware Representation Regularization for Diffusion Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.28561v1",
+   "note": {
+    "en": "Paper on condition-aware representation regularization for diffusion models, co-authored with Zhuoyi Yang, a frequent Tsinghua KEG/Zhipu collaborator.",
+    "zh": "一篇关于扩散模型条件感知表征正则化的论文，与清华KEG/智谱常年合作者杨卓翼共同撰写。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-17",
    "ts": "2026-09-17T07:08:33Z",
    "kind": "x",
@@ -1281,6 +1338,25 @@
    "connector": "backfill"
   },
   {
+   "date": "2026-02-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Knit: Toward Alleviating Large Language Model Fact Knowledge Hallucinations in Knowledge Graph Completion",
+    "zh": "Knit: Toward Alleviating Large Language Model Fact Knowledge Hallucinations in Knowledge Graph Completion"
+   },
+   "source": "Big Data Mining and Analytics",
+   "url": "https://doi.org/10.26599/bdma.2025.9020057",
+   "note": {
+    "en": "Paper on mitigating LLM factual hallucinations during knowledge graph completion, squarely in Tang Jie's core knowledge-graph research line.",
+    "zh": "一篇关于在知识图谱补全中缓解大语言模型事实性幻觉的论文，属于唐杰长期深耕的知识图谱研究方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-01-15",
    "ts": null,
    "kind": "podcast",
@@ -1442,6 +1518,23 @@
    },
    "source": "Z.ai",
    "url": "https://z.ai/"
+  },
+  {
+   "date": "2026-09-23",
+   "ts": "2026-09-23T11:01:23Z",
+   "level": "notable",
+   "title": {
+    "en": "智谱ZCode信任风波，唐杰“当学”马斯克",
+    "zh": "智谱ZCode信任风波，唐杰“当学”马斯克"
+   },
+   "body": {
+    "en": "Amid a trust controversy over Zhipu's ZCode, Tang Jie responded by invoking Musk's playbook, a public stance on how the company should handle the fallout.",
+    "zh": "在智谱ZCode引发的信任风波中，唐杰以类似马斯克的方式回应，这是他就公司应如何应对此事发表的公开立场。"
+   },
+   "source": "财经号",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BNW1xeU12ejNEOEVMbHRjVENOSF9jdWNIOUJ6RGZsS1lpZkFrbUtndjZoRlFsMU9MZjN0d3g2QTJWSzRTZnZ2bFNWRkVmeXM5Y3g3ZkJLbms1U0FQNmhxcl9zVm5LSXhjTlNn?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-09-22",
@@ -1750,6 +1843,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-21",
+   "ts": "2026-09-21T06:08:44Z",
+   "level": "notable",
+   "title": {
+    "en": "造谣踢到铁板上！智谱创始人唐杰亲自上小红书投诉网友造谣侵权",
+    "zh": "造谣踢到铁板上！智谱创始人唐杰亲自上小红书投诉网友造谣侵权"
+   },
+   "body": {
+    "en": "Zhipu founder Tang Jie personally filed a complaint on Xiaohongshu over rumors accusing the company of stealing code, pushing back publicly under his own name.",
+    "zh": "智谱创始人唐杰就网络上关于公司“偷代码”的不实传言，以实名方式在小红书投诉造谣者，公开回应侵权言论。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR3k3T092eTlYUjNIU0pOQzlWNjRjajk1ZVVBeERKRXV3Y0dIVjZEdzcyQURrSGZvNlBnWHM2bTlBV1JjSVVMempsYVlYa0toTVFwVHRzcmh4TkhlTWxScEVNaFIzdlEzelVDaUlWQVR3dVEwdDEzQUhPaXIyMURFejNpN21ObXlM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-20",
    "ts": "2026-09-20T20:05:01Z",
    "level": "notable",
@@ -2018,6 +2128,40 @@
    },
    "source": "智东西",
    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBIczRtR194UUM5SzdvaHFtYk5DM1VjM3Bfel9mX21yWWktN2x6ZnZQenNIZ3VUTlNRbHhST1FDallxYk9nZVE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T10:01:54Z",
+   "level": "major",
+   "title": {
+    "en": "唐杰、GLM 团队长文披露智谱 RSI 最新进展：GLM-5.3 已摸到门槛，“正一步步走向取代我们” - InfoQ-CN",
+    "zh": "唐杰、GLM 团队长文披露智谱 RSI 最新进展：GLM-5.3 已摸到门槛，“正一步步走向取代我们” - InfoQ-CN"
+   },
+   "body": {
+    "en": "Tang Jie and Zhipu's GLM team published a long report on the model line's recursive self-improvement progress, saying GLM-5.3 is nearing the threshold of optimizing itself.",
+    "zh": "唐杰与智谱GLM团队发布长文，披露GLM系列在递归自我改进（RSI）方面的最新进展，称GLM-5.3已逼近让系统自主优化的门槛。"
+   },
+   "source": "新闻",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nSTZYd3FvWTc5c2d1aktUdHpmMmpyRkdlQk52SF9HMjlBcEhLUWZMb3FsYkhqd3NabXdUZl9yd2U5U0lsdlpGNlR3RTdOQUM1blhtcENSNlY0VTdJTXc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-18",
+   "ts": "2026-09-18T07:00:00Z",
+   "level": "minor",
+   "title": {
+    "en": "智谱创始人唐杰清华开课爆火，设大量作业“劝退”学生",
+    "zh": "智谱创始人唐杰清华开课爆火，设大量作业“劝退”学生"
+   },
+   "body": {
+    "en": "Tang Jie's Tsinghua course went viral for its heavy workload, a small but real glimpse of his teaching alongside his role at Zhipu.",
+    "zh": "唐杰在清华开设的课程因作业量大而走红，从侧面展现了他在智谱之外的教学一面。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ia29zU3N6Q1FOTmt1MzVxbDRkQVV0QldtcWdiNkFOUWVESjhkZkMyWUVMSXJXVUsxTDVuVldtR09oNHBFV2xPWnV3aFVMWHFrZnZXOWd3?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2889,6 +3033,23 @@
    "judged": true
   },
   {
+   "date": "2026-07-11",
+   "ts": "2026-07-11T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "智谱创始人唐杰发布内部信：官宣摸高计划，未来直指AGI",
+    "zh": "智谱创始人唐杰发布内部信：官宣摸高计划，未来直指AGI"
+   },
+   "body": {
+    "en": "In an internal letter, Tang Jie announced Zhipu's 'reach higher' plan aimed squarely at AGI, a public statement of the company's strategic direction.",
+    "zh": "唐杰在内部信中宣布智谱的\"摸高计划\"，明确将目标指向AGI，是对公司战略方向的公开表态。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05dzUtUUxiR1JRMUNRWGo4dDNrN1lXRDNWVF9TcjZmM1c5M0owYnN6RzY2Zl9kdlZQampoUUw1b0EycV80V1NjcU9NQXZwS21MMVF0a0JzZmNKLXlBbVBfMVFZVXN6VjdRazZ4OXVpclVlajVNZ3dVejdmSXU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-06-22",
    "ts": "2026-06-22T07:00:00Z",
    "level": "major",
@@ -2989,8 +3150,8 @@
   "pageviews": 0,
   "citations": 30390,
   "hIndex": 83,
-  "events": 92,
-  "posts": 64,
+  "events": 97,
+  "posts": 68,
   "wikiEn": null,
   "wikiZh": null
  },

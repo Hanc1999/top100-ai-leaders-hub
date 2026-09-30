@@ -1,5 +1,5 @@
 {
- "rank": 66,
+ "rank": 64,
  "id": "jurgen-schmidhuber",
  "name": {
   "en": "Jürgen Schmidhuber",
@@ -171,6 +171,25 @@
    }
   },
   {
+   "date": "2026-09-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Predictive Semantic Safety: From Visual Physical Reasoning to Safety-Critical Control",
+    "zh": "Predictive Semantic Safety: From Visual Physical Reasoning to Safety-Critical Control"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.34356v1",
+   "note": {
+    "en": "Paper introducing Predictive Semantic Safety, a framework linking visual physical reasoning to safety-critical robot control by anticipating hazards not visible in current geometry.",
+    "zh": "论文提出\"预测性语义安全\"（Predictive Semantic Safety）框架，将视觉物理推理与安全关键的机器人控制相连接，用以预判当前几何信息中不可见的潜在危险。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-08",
    "ts": null,
    "kind": "x",
@@ -188,6 +207,25 @@
    "judged": true,
    "platform": "x",
    "connector": "x"
+  },
+  {
+   "date": "2026-09-08",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#5 — Jürgen Schmidhuber: The GOAT of AI on Deep Learning, Robotics, the AI Bubble, AGI, and What Comes Next",
+    "zh": "#5 — Jürgen Schmidhuber: The GOAT of AI on Deep Learning, Robotics, the AI Bubble, AGI, and What Comes Next"
+   },
+   "source": "Europe on Edge",
+   "url": "https://podcasts.apple.com/us/podcast/5-j%C3%BCrgen-schmidhuber-the-goat-of-ai-on-deep/id1896853726?i=1000788420596&uo=4",
+   "note": {
+    "en": "Sat for a long-form interview on the \"Europe on Edge\" podcast covering deep learning's missing pieces, robotics, the AI bubble, and AGI.",
+    "zh": "接受播客“Europe on Edge”的长篇专访，谈及深度学习尚缺的部分、机器人、AI泡沫与通用人工智能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   },
   {
    "date": "2026-09-07",
@@ -397,6 +435,25 @@
    "judged": true,
    "platform": "apple-podcasts",
    "connector": "podcasts"
+  },
+  {
+   "date": "2026-07-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Self-State Attacks on Self-Hosted AI Agents: How Far Can OS Defenses Go?",
+    "zh": "Self-State Attacks on Self-Hosted AI Agents: How Far Can OS Defenses Go?"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.17986v2",
+   "note": {
+    "en": "Co-authored a security paper on self-state attacks against self-hosted AI agents, examining how far OS-level defenses can go, with KAUST cybersecurity colleagues.",
+    "zh": "与KAUST网络安全同事合著论文，研究针对自托管AI智能体的自身状态攻击，探讨操作系统级防御的能力边界。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-07-15",
@@ -646,6 +703,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2026-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Medical Referring Image Segmentation: Addressing Multi-Lesion Reference and Annotation Uncertainty via Vision-Language Fusion",
+    "zh": "Medical Referring Image Segmentation: Addressing Multi-Lesion Reference and Annotation Uncertainty via Vision-Language Fusion"
+   },
+   "source": "Lecture notes in computer science",
+   "url": "https://doi.org/10.1007/978-3-032-09513-8_36",
+   "note": {
+    "en": "Co-authored a medical image segmentation paper (MedRIS) addressing multi-lesion references and annotation uncertainty via vision-language fusion.",
+    "zh": "合著医学图像分割论文（MedRIS），通过视觉-语言融合解决多病灶指代和标注不确定性问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2025-12-28",
    "ts": null,
    "kind": "paper",
@@ -760,6 +836,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2025-03-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Accelerating the inference of string generation-based chemical reaction models for industrial applications",
+    "zh": "Accelerating the inference of string generation-based chemical reaction models for industrial applications"
+   },
+   "source": "Journal of Cheminformatics",
+   "url": "https://doi.org/10.1186/s13321-025-00974-w",
+   "note": {
+    "en": "Co-authored work on speculative decoding that speeds up transformer-based chemical reaction prediction models more than threefold for industrial use, with no loss of accuracy.",
+    "zh": "合著论文提出推测解码方法，将基于Transformer的化学反应预测模型推理速度提升三倍以上且不损失精度，面向工业应用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2025-02-23",
    "ts": "2025-02-23T16:00:03Z",
    "kind": "x",
@@ -867,6 +962,25 @@
    "note": {
     "en": "MLST interview in which he sets out his own reading of the dangers of AI and how serious he takes them to be.",
     "zh": "MLST 访谈，他在其中阐述自己对人工智能危险的判断，以及认为其严重程度几何。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-05-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Azeem’s Picks: AI’s Near Future with Jürgen Schmidhuber",
+    "zh": "Azeem’s Picks: AI’s Near Future with Jürgen Schmidhuber"
+   },
+   "source": "Azeem Azhar's Exponential View",
+   "url": "https://podcasts.apple.com/us/podcast/azeems-picks-ais-near-future-with-j%C3%BCrgen-schmidhuber/id1172218725?i=1000612776857&uo=4",
+   "note": {
+    "en": "Featured in a rebroadcast of an earlier interview on Exponential View discussing AI's near-term trajectory.",
+    "zh": "在Exponential View播客重播的一期早期访谈中亮相，讨论AI近期发展趋势。"
    },
    "auto": true,
    "judged": true,
@@ -1009,16 +1123,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 35.3,
+  "total": 36.1,
   "attention": 42,
   "centrality": 9,
-  "momentum": 30,
+  "momentum": 34,
   "stature": 88,
   "pageviews": 60498,
   "citations": 185831,
   "hIndex": 89,
   "events": 2,
-  "posts": 44,
+  "posts": 50,
   "wikiEn": "Jürgen Schmidhuber",
   "wikiZh": "于尔根·施密德胡伯"
  },

@@ -1,5 +1,5 @@
 {
- "rank": 41,
+ "rank": 40,
  "id": "barret-zoph",
  "name": {
   "en": "Barret Zoph",
@@ -1145,6 +1145,23 @@
    "judged": true
   },
   {
+   "date": "2026-06-18",
+   "ts": "2026-06-18T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Barret Zoph is out at OpenAI again after just five months",
+    "zh": "Barret Zoph is out at OpenAI again after just five months"
+   },
+   "body": {
+    "en": "Zoph left OpenAI again just five months after rejoining in January 2026, ending his second stint leading enterprise AI there.",
+    "zh": "扎夫在2026年1月重返OpenAI仅五个月后再次离职，结束了他在OpenAI负责企业AI业务的第二段任期。"
+   },
+   "source": "CediRates",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTGViWjF1dzBkSXJWV3NnZzFWWDhBVE5PZ3Q4UFNuUjBKTHlmVXJzcDJaZ3FHdW13ZFZJMFN5dXJGVl9NbVlFbDluOGZaZlZDTzAtdXYxX29TVkZNZXIzZTBXalhSRXY5UTFOT3VDOXB5TS1fY3Y4Q3R6dnlQRVFoenVMbmFOdjV0OURkbA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-01-15",
    "ts": null,
    "level": "major",
@@ -1186,15 +1203,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 53.4,
+  "total": 53.9,
   "attention": null,
   "centrality": 47,
-  "momentum": 61,
+  "momentum": 62,
   "stature": null,
   "pageviews": 0,
   "citations": 0,
   "hIndex": 0,
-  "events": 15,
+  "events": 16,
   "posts": 42,
   "wikiEn": null,
   "wikiZh": null

@@ -209,6 +209,25 @@
    }
   },
   {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T02:33:17Z",
+   "kind": "x",
+   "title": {
+    "en": "Given how many people have tried their hand at NanoGPT, I really didn't expect a 40% reduction in a single go!",
+    "zh": "Given how many people have tried their hand at NanoGPT, I really didn't expect a 40% reduction in a single go!"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2104761401701208202",
+   "note": {
+    "en": "Praised a 40% training-efficiency reduction achieved on NanoGPT, noting how many people had already tried to improve it.",
+    "zh": "称赞了NanoGPT训练效率提升40%的成果，并指出此前已有许多人尝试改进它。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-09-24",
    "ts": "2026-09-24T01:34:01Z",
    "kind": "x",
@@ -226,6 +245,25 @@
    "judged": true,
    "platform": "x",
    "connector": null
+  },
+  {
+   "date": "2026-09-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "MobileCybench: Evaluating Agent Vulnerability Discovery via Executable Probes",
+    "zh": "MobileCybench: Evaluating Agent Vulnerability Discovery via Executable Probes"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.23980v1",
+   "note": {
+    "en": "New paper, 'MobileCybench,' evaluating AI agents' ability to discover vulnerabilities via executable probes, with Stanford security researchers including Dan Boneh and Dawn Song.",
+    "zh": "与Dan Boneh、Dawn Song等斯坦福安全研究者合作的新论文《MobileCybench》，通过可执行探针评估AI智能体发现漏洞的能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-09-17",
@@ -1007,6 +1045,25 @@
    "connector": "backfill"
   },
   {
+   "date": "2026-02-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "stanford-crfm/helm: v0.5.13",
+    "zh": "stanford-crfm/helm: v0.5.13"
+   },
+   "source": "Zenodo (CERN European Organization for…",
+   "url": "https://doi.org/10.5281/zenodo.18775893",
+   "note": {
+    "en": "Released version 0.5.13 of HELM, his Stanford CRFM evaluation framework, on Zenodo.",
+    "zh": "在Zenodo上发布了他在斯坦福CRFM的评测框架HELM的0.5.13版本。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-02-23",
    "ts": null,
    "kind": "paper",
@@ -1159,6 +1216,25 @@
    "connector": "backfill"
   },
   {
+   "date": "2026-01-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Holistic evaluation of large language models for medical tasks with MedHELM",
+    "zh": "Holistic evaluation of large language models for medical tasks with MedHELM"
+   },
+   "source": "Nature Medicine",
+   "url": "https://doi.org/10.1038/s41591-025-04151-2",
+   "note": {
+    "en": "Co-authored 'MedHELM' in Nature Medicine, extending his HELM framework to holistic evaluation of LLMs on medical tasks.",
+    "zh": "在《自然·医学》合著发表'MedHELM'，将他的HELM评测框架扩展到对LLM医疗任务的全面评估。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-01-19",
    "ts": null,
    "kind": "x",
@@ -1176,6 +1252,25 @@
    "judged": true,
    "platform": "x",
    "connector": "backfill"
+  },
+  {
+   "date": "2026-01-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The 2025 Foundation Model Transparency Index",
+    "zh": "The 2025 Foundation Model Transparency Index"
+   },
+   "source": "SuperIntelligence - Robotics - Safety…",
+   "url": "https://doi.org/10.70777/si.v2i4.17165",
+   "note": {
+    "en": "Published the 2025 Foundation Model Transparency Index, his ongoing project tracking how transparent major AI labs are about their models.",
+    "zh": "发布了2025年基础模型透明度指数，这是他持续跟踪各大AI实验室模型透明度的项目。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2026-01-08",
@@ -1271,25 +1366,6 @@
    "judged": true,
    "platform": "x",
    "connector": "backfill"
-  },
-  {
-   "date": "2025-12-11",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "The 2025 Foundation Model Transparency Index",
-    "zh": "The 2025 Foundation Model Transparency Index"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2512.10169v1",
-   "note": {
-    "en": "The 2025 edition of the Foundation Model Transparency Index he helped launch, scoring how openly the major developers report their practices.",
-    "zh": "他参与发起的基础模型透明度指数 2025 年版，评估主要开发者披露自身实践的开放程度。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
   },
   {
    "date": "2025-12-11",
@@ -1731,16 +1807,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 26.1,
+  "total": 26.4,
   "attention": 12,
   "centrality": 14,
-  "momentum": 53,
+  "momentum": 54,
   "stature": 56,
   "pageviews": 5245,
   "citations": 45211,
   "hIndex": 87,
   "events": 2,
-  "posts": 81,
+  "posts": 85,
   "wikiEn": "Percy Liang",
   "wikiZh": null
  },

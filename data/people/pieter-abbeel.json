@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-09-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation",
+    "zh": "Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.38172v1",
+   "note": {
+    "en": "Abbeel co-authored a paper using counterfactual video generation to scale humanoid loco-manipulation skills like carrying diverse objects.",
+    "zh": "阿贝尔合著论文，利用反事实视频生成来扩展人形机器人移动操作能力，例如搬运各种物体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-02",
    "ts": null,
    "kind": "paper",
@@ -1173,16 +1192,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 32.8,
+  "total": 32.6,
   "attention": 29,
   "centrality": 23,
-  "momentum": 33,
+  "momentum": 32,
   "stature": 73,
   "pageviews": 37345,
   "citations": 79473,
   "hIndex": 123,
   "events": 2,
-  "posts": 52,
+  "posts": 53,
   "wikiEn": "Pieter Abbeel",
   "wikiZh": "彼得·阿比爾"
  },

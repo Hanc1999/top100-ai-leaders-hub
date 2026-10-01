@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-09-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Context Language Models",
+    "zh": "Context Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.37725v1",
+   "note": {
+    "en": "Lambert co-authored 'Context Language Models,' introducing CLMs that manage their own context by treating it as an editable file.",
+    "zh": "兰伯特合著论文《Context Language Models》，提出能将上下文当作可编辑文件、自主管理自身上下文的CLM模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-22",
    "ts": "2026-09-22T13:37:45Z",
    "kind": "blog",
@@ -1479,16 +1498,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 16.1,
+  "total": 16.4,
   "attention": 8,
   "centrality": 6,
-  "momentum": 43,
+  "momentum": 44,
   "stature": null,
   "pageviews": 2796,
   "citations": 720,
   "hIndex": 13,
   "events": 1,
-  "posts": 69,
+  "posts": 70,
   "wikiEn": "Nathan Lambert",
   "wikiZh": null
  },

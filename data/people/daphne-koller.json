@@ -424,6 +424,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2024-01-09",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Past, Present, and Future of AI with Vijay Pande",
+    "zh": "Past, Present, and Future of AI with Vijay Pande"
+   },
+   "source": "Raising Health",
+   "url": "https://podcasts.apple.com/us/podcast/past-present-and-future-of-ai-with-vijay-pande/id1529318900?i=1000641037533&uo=4",
+   "note": {
+    "en": "Koller joined Andrew Ng, Aviv Regev and Jakob Uszkoreit as a guest on the Raising Health podcast (formerly Bio Eats World), reflecting on AI's past, present and future.",
+    "zh": "Koller与Andrew Ng、Aviv Regev、Jakob Uszkoreit一同作为嘉宾参加Raising Health播客（原Bio Eats World），回顾AI的过去、现在与未来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2023-10-03",
    "ts": null,
    "kind": "podcast",
@@ -1349,7 +1368,7 @@
   "citations": 61723,
   "hIndex": 122,
   "events": 1,
-  "posts": 62,
+  "posts": 63,
   "wikiEn": "Daphne Koller",
   "wikiZh": "達芙妮·科勒"
  },

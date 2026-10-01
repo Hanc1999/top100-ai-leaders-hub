@@ -1,5 +1,5 @@
 {
- "rank": 25,
+ "rank": 26,
  "id": "jeff-dean",
  "name": {
   "en": "Jeff Dean",
@@ -1761,6 +1761,23 @@
    "judged": true
   },
   {
+   "date": "2026-08-06",
+   "ts": "2026-08-06T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Why Google Chief Scientist Jeff Dean Is Leaving To Launch An AI Startup With Indian-American Tech Veteran",
+    "zh": "Why Google Chief Scientist Jeff Dean Is Leaving To Launch An AI Startup With Indian-American Tech Veteran"
+   },
+   "body": {
+    "en": "Coverage of Jeff Dean's departure from Google after 27 years to launch a new AI startup with an Indian-American tech veteran.",
+    "zh": "报道称杰夫·迪恩在谷歌工作27年后离职，与一位印度裔美国科技老将共同创办新的AI初创公司。"
+   },
+   "source": "NDTV",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMlRBalhDNjhpQTlhUlZfRDJSTXlfOVRCZElLb0ZiVHdVZ3ZZQ2YtektGc2ZLa1JYbk04MFY1THZQY0F4LXdLNy1tMUo5RHh4emliS09ZUXhkaUNRdlVDRUJsRzBNOWdabmNIbHlUMS1ZWjNnMEtmajA5VUpuekQzM3FHTmdSaXktRkd2Q1BmS0FOVHk3c1NuQ21yb3FhX2JIY1Y1dDJQSzlUQTI0VlREaFZ5N29CeTlmYWRDS240VjRHcHpSWGx4eU5zeG1ZSEpyUnkzZEdHNDRDUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-08-05",
    "ts": "2026-08-05T07:00:00Z",
    "level": "major",
@@ -1904,15 +1921,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 66.3,
+  "total": 66.1,
   "attention": 61,
   "centrality": 72,
-  "momentum": 78,
+  "momentum": 77,
   "stature": 47,
   "pageviews": 159064,
   "citations": 36789,
   "hIndex": 30,
-  "events": 30,
+  "events": 31,
   "posts": 66,
   "wikiEn": "Jeff Dean",
   "wikiZh": "傑夫·迪恩"

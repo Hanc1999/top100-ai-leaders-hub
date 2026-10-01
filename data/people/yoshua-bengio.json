@@ -188,6 +188,25 @@
    "connector": null
   },
   {
+   "date": "2026-09-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "What if automating AI R&D triggers an intelligence explosion?",
+    "zh": "What if automating AI R&D triggers an intelligence explosion?"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.36054v1",
+   "note": {
+    "en": "Co-authored with Hinton, Dawn Song, Jack Clark and others, this paper examines whether automating AI R&D itself could trigger a runaway intelligence explosion - a central question in frontier AI governance.",
+    "zh": "与Hinton、Dawn Song、Jack Clark等人合著，该论文探讨了AI研发自动化本身是否可能触发失控的“智能爆炸”——这是前沿AI治理领域的核心问题之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-25",
    "ts": "2026-09-25T12:39:48Z",
    "kind": "x",
@@ -2126,25 +2145,6 @@
    "connector": "openalex"
   },
   {
-   "date": "2025-09-11",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Illusions of AI consciousness",
-    "zh": "Illusions of AI consciousness"
-   },
-   "source": "Science",
-   "url": "https://doi.org/10.1126/science.adn4935",
-   "note": {
-    "en": "Co-authored a Science paper examining why AI systems can create illusory impressions of consciousness.",
-    "zh": "合著《科学》期刊论文，探讨AI系统为何会造成意识的错觉。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
    "date": "2025-06-03",
    "ts": null,
    "kind": "blog",
@@ -2662,6 +2662,40 @@
    },
    "source": "CityNews Vancouver",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX3g1U2xYVlRtNXFBU1pnVUhmclFaSjlpTGpucHZ5cnQ2SHdEblA1Zl9uNEFoa05pdzFGR2pESV8ydXc0VE92ZFRGN3k0X0EyUzYtMEY4VlBleGd4US1GYjgxZE5RWUJuOURyN091TlVjYjFCWVdWclljUldzWTJva25qZTQ4MWNYRzVEU0dEc19yRzZUX3czZlVEZEdYaWFSaUkxaERBTWY?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-23",
+   "ts": "2026-09-23T20:41:13Z",
+   "level": "major",
+   "title": {
+    "en": "AI’s dangers ‘real and imminent,’ Canadian AI pioneer Yoshua Bengio tells UN",
+    "zh": "AI’s dangers ‘real and imminent,’ Canadian AI pioneer Yoshua Bengio tells UN"
+   },
+   "body": {
+    "en": "Bengio told the United Nations that AI risks are 'real and imminent,' pressing for urgent global governance action.",
+    "zh": "Bengio在联合国表示AI风险“真实且迫在眉睫”，呼吁尽快采取全球治理行动。"
+   },
+   "source": "Medicine Hat News",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS1dVSjlWMG1RVmlYc0prUlBRNVNlYWVybVJJZUtIMG1ZM1FvR01aejVGZ1JmVUhLQndsRkFKaThYSXZVVWlFLWtidnlFVnNLN2I5Mmx5aDlzbkNYVlRRYklVV3ZwNG5fYVh0eUYwMVpUV3MzZnZNc0lWT3JfVWVDQnBDQU1YRE5vSXQtaW0yYlluTFN1VjRTMG9ycFNldS02S3pRVmJUTUNoV3lhS0ZoWjlfZkhRWGNzR1BxTjY3emdiV0c3aFU3U0dWVQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-23",
+   "ts": "2026-09-23T23:11:29Z",
+   "level": "major",
+   "title": {
+    "en": "AI's dangers 'real and imminent,' Canadian AI pioneer Yoshua Bengio tells UN",
+    "zh": "AI's dangers 'real and imminent,' Canadian AI pioneer Yoshua Bengio tells UN"
+   },
+   "body": {
+    "en": "Bengio told the UN that AI's dangers are \"real and imminent,\" a major public warning from the chair of the International AI Safety Report.",
+    "zh": "本吉奥在联合国表示人工智能的危险“真实且迫在眉睫”，这是这位《国际人工智能安全报告》主席发出的重大公开警告。"
+   },
+   "source": "National Newswatch",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcU9ZeG13N1BHeS1VdWREQ21MZ294MEZseEM0WGpLTHFkREIzeGtTd3NSMjJ5SkF5SFNCbjA1eElDeE15aUpFZFU0ZGpTTktJdGlmVkNYcm9yTTVsY2ZUZUNDSkNhaWR3V0RQQWhnam1TY0tTbEFqX0dRWDR6RXFZT3loYzlzRVZMcnNMVjNtM0cxQVBnZThma2haT2V1MXhER1p0ell5S2d3cTZNUEN1blNVNA?oc=5",
    "auto": true,
    "judged": true
   },
@@ -3225,7 +3259,7 @@
   "pageviews": 276660,
   "citations": 475043,
   "hIndex": 184,
-  "events": 45,
+  "events": 47,
   "posts": 121,
   "wikiEn": "Yoshua Bengio",
   "wikiZh": "约书亚·本希奥"

@@ -198,6 +198,44 @@
    }
   },
   {
+   "date": "2026-09-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SCOPE: Observation-Conditioned Full-Target Prediction for Sparse PDE Inference",
+    "zh": "SCOPE: Observation-Conditioned Full-Target Prediction for Sparse PDE Inference"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.36527v1",
+   "note": {
+    "en": "With longtime collaborator Ravid Shwartz-Ziv, LeCun co-authored a diffusion-based method for reconstructing complete physical fields from sparse sensor observations.",
+    "zh": "与长期合作者Ravid Shwartz-Ziv合著，LeCun提出了一种基于扩散模型的方法，可从稀疏传感器观测数据重建完整的物理场。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "PDE-OBS: Controlled Evaluation Across Observation Patterns",
+    "zh": "PDE-OBS: Controlled Evaluation Across Observation Patterns"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.36521v1",
+   "note": {
+    "en": "A companion benchmark paper evaluating PDE field-reconstruction models across varying observation densities and spatial layouts.",
+    "zh": "这是一篇配套的基准测试论文，评估偏微分方程场重建模型在不同观测密度与空间布局下的表现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-28",
    "ts": null,
    "kind": "paper",
@@ -932,44 +970,6 @@
    "note": {
     "en": "Meta FAIR work on MetaMorph, an instruction-tuned model unifying multimodal understanding and generation in one system.",
     "zh": "Meta FAIR的MetaMorph研究，通过指令微调将多模态理解与生成统一在同一模型中。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-10-19",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Scaling Language-Free Visual Representation Learning",
-    "zh": "Scaling Language-Free Visual Representation Learning"
-   },
-   "source": "OpenAlex",
-   "url": "https://doi.org/10.1109/iccv51701.2025.00042",
-   "note": {
-    "en": "Shows that purely visual (language-free) representation learning scales competitively with language-supervised approaches — part of his push against language-centric AI.",
-    "zh": "论文表明，纯视觉（无语言监督）的表征学习在扩展规模后可与语言监督方法竞争，呼应其反对以语言为中心的AI路线的立场。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-10-07",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Gaussian Embeddings: How JEPAs Secretly Learn Your Data Density",
-    "zh": "Gaussian Embeddings: How JEPAs Secretly Learn Your Data Density"
-   },
-   "source": "arXiv (Cornell University)",
-   "url": "http://arxiv.org/abs/2510.05949",
-   "note": {
-    "en": "Argues that JEPA-style self-supervised models implicitly learn the underlying data density, formalized through Gaussian embeddings.",
-    "zh": "论文提出JEPA类自监督模型实际上隐式学习了数据的概率密度，并通过高斯嵌入加以形式化。"
    },
    "auto": true,
    "judged": true,

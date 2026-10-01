@@ -185,6 +185,25 @@
    }
   },
   {
+   "date": "2026-09-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "What if automating AI R&D triggers an intelligence explosion?",
+    "zh": "What if automating AI R&D triggers an intelligence explosion?"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.36054v1",
+   "note": {
+    "en": "Hinton co-signed a position paper with Bengio, Pachocki, Dawn Song and others examining whether automating AI R&D could trigger a runaway intelligence explosion.",
+    "zh": "辛顿与本吉奥、Pachocki、宋晓冬等人联署立场论文，探讨AI研发自动化是否可能引发失控的智能爆炸。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-08-08",
    "ts": null,
    "kind": "x",
@@ -2492,7 +2511,7 @@
   "citations": 452436,
   "hIndex": 137,
   "events": 51,
-  "posts": 78,
+  "posts": 79,
   "wikiEn": "Geoffrey Hinton",
   "wikiZh": "杰弗里·辛顿"
  },

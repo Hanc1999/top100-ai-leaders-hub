@@ -1,5 +1,5 @@
 {
- "rank": 82,
+ "rank": 81,
  "id": "zhang-peng",
  "name": {
   "en": "Zhang Peng",
@@ -309,6 +309,23 @@
    "judged": true
   },
   {
+   "date": "2026-04-01",
+   "ts": "2026-04-01T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "智谱CEO张鹏：一季度API涨价83%，算力租赁概念再度活跃",
+    "zh": "智谱CEO张鹏：一季度API涨价83%，算力租赁概念再度活跃"
+   },
+   "body": {
+    "en": "Zhipu AI CEO Zhang Peng said API prices rose 83% in Q1 as compute-leasing demand surged, signaling strong enterprise pull for GLM.",
+    "zh": "智谱AI CEO张鹏表示一季度API价格上涨83%，算力租赁需求走强，显示企业市场对GLM的强劲拉动。"
+   },
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iRnFwSXVsdDV5VWhqRFpCZTA5MW1hVWRHYUhIdC1fWTVJWE9JRkNrTnAyUEFMTG9JYWVfYWJJcGdVeFBrZjF6UXVMTy01UklWSkhsZWFkUnEydTdCUmQwT1BGMlpKQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-03-31",
    "ts": "2026-03-31T07:00:00Z",
    "level": "notable",
@@ -367,15 +384,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 27.8,
+  "total": 28.4,
   "attention": 1,
   "centrality": 58,
-  "momentum": 28,
+  "momentum": 31,
   "stature": 59,
   "pageviews": 166,
   "citations": 52382,
   "hIndex": 118,
-  "events": 9,
+  "events": 10,
   "posts": 4,
   "wikiEn": "Zhang Peng",
   "wikiZh": null

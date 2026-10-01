@@ -177,6 +177,44 @@
    }
   },
   {
+   "date": "2026-09-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation",
+    "zh": "Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.38172v1",
+   "note": {
+    "en": "Malik co-authored a paper with Pieter Abbeel, C. Karen Liu and Angjoo Kanazawa on using counterfactual video generation to scale humanoid loco-manipulation training.",
+    "zh": "马利克与阿贝尔、C. Karen Liu、Angjoo Kanazawa合著论文，利用反事实视频生成来扩展人形机器人移动操作的训练规模。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "OmniTaskonomy: When Does Visual Generation Improve Visual Understanding?",
+    "zh": "OmniTaskonomy: When Does Visual Generation Improve Visual Understanding?"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.38079v1",
+   "note": {
+    "en": "Malik co-authored a paper examining when visual-generation training actually improves visual understanding, with Ranjay Krishna and Trevor Darrell among the co-authors.",
+    "zh": "马利克合著论文，探讨视觉生成训练在何种情况下能真正提升视觉理解能力，合著者包括Ranjay Krishna和Trevor Darrell。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-26",
    "ts": "2026-09-26T01:55:35Z",
    "kind": "x",
@@ -1752,7 +1790,7 @@
   "citations": 168758,
   "hIndex": 144,
   "events": 0,
-  "posts": 84,
+  "posts": 86,
   "wikiEn": "Jitendra Malik",
   "wikiZh": "希特德拉·馬利克"
  },

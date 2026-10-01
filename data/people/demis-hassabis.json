@@ -217,6 +217,44 @@
    }
   },
   {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T17:27:07Z",
+   "kind": "x",
+   "title": {
+    "en": "Biosecurity is one of the most urgent challenges for the AI era. Bringing SynthID to biology so AI-generated proteins can be watermarked is a critical step - an",
+    "zh": "Biosecurity is one of the most urgent challenges for the AI era. Bringing SynthID to biology so AI-generated proteins can be watermarked is a critical step - an"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2105348732464070823",
+   "note": {
+    "en": "Hassabis announces Google DeepMind is open-sourcing SynthID Bio, tools to watermark AI-generated proteins for biosecurity.",
+    "zh": "哈萨比斯宣布谷歌DeepMind开源SynthID Bio工具，用于为AI生成的蛋白质添加水印以保障生物安全。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T21:59:21Z",
+   "kind": "x",
+   "title": {
+    "en": "Very excited to announce Gemini 4 Argon, our new Frontier AI model, and a huge step forward across key capabilities. We’re focused on rolling it out responsibly",
+    "zh": "Very excited to announce Gemini 4 Argon, our new Frontier AI model, and a huge step forward across key capabilities. We’re focused on rolling it out responsibly"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2105417239432200636",
+   "note": {
+    "en": "Hassabis announced Gemini 4 Argon, Google DeepMind's new frontier model, with a phased rollout starting with government and trusted partners.",
+    "zh": "哈萨比斯宣布推出Gemini 4 Argon，谷歌DeepMind的新一代前沿模型，将从政府和可信合作伙伴开始分阶段推出。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-09-16",
    "ts": "2026-09-16T13:13:47Z",
    "kind": "x",
@@ -2389,16 +2427,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 87.5,
+  "total": 87.2,
   "attention": 89,
   "centrality": 96,
-  "momentum": 73,
+  "momentum": 72,
   "stature": 90,
   "pageviews": 1121478,
   "citations": 195503,
   "hIndex": 92,
   "events": 27,
-  "posts": 94,
+  "posts": 96,
   "wikiEn": "Demis Hassabis",
   "wikiZh": "杰米斯·哈萨比斯"
  },

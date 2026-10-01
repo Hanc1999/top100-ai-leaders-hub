@@ -213,6 +213,25 @@
    }
   },
   {
+   "date": "2026-09-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "T$^2$Mem: Learning Test-Time Memory for Robotics",
+    "zh": "T$^2$Mem: Learning Test-Time Memory for Robotics"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.36720v1",
+   "note": {
+    "en": "Fei-Fei Li co-authored a paper with longtime collaborator Jiajun Wu on test-time memory for robotic manipulation, letting policies retain and reuse information no longer visible in the current observation.",
+    "zh": "李飞飞与长期合作者吴佳俊合著论文，提出面向机器人操作的测试时记忆方法，让策略能够保留并复用当前观测中已不可见的信息。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-28",
    "ts": "2026-09-28T20:06:36Z",
    "kind": "blog",
@@ -249,6 +268,25 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-28",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AMD’s Lisa Su, Fei-Fei Li Discuss $8.2 Billion World Labs Deal",
+    "zh": "AMD’s Lisa Su, Fei-Fei Li Discuss $8.2 Billion World Labs Deal"
+   },
+   "source": "Bloomberg Talks",
+   "url": "https://podcasts.apple.com/us/podcast/amds-lisa-su-fei-fei-li-discuss-%248-2-billion-world-labs-deal/id1690236827?i=1000792086292&uo=4",
+   "note": {
+    "en": "Fei-Fei Li joined AMD CEO Lisa Su on Bloomberg Talks to discuss AMD's $8.2 billion acquisition of her company, World Labs.",
+    "zh": "李飞飞与AMD首席执行官苏姿丰在彭博社节目中谈及AMD以82亿美元收购她创立的World Labs一事。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   },
   {
    "date": "2026-09-25",
@@ -2238,6 +2276,193 @@
    "url": "https://www.techtimes.com/articles/317927/20260606/feifei-lis-world-labs-splits-world-model-three-types-marble-targets-simulation-linchpin.htm"
   },
   {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T00:24:09Z",
+   "level": "major",
+   "title": {
+    "en": "芯片女王联手AI教母：AMD 550亿收购World Labs，李飞飞出任首席科学家_精彩视频为您呈现",
+    "zh": "芯片女王联手AI教母：AMD 550亿收购World Labs，李飞飞出任首席科学家_精彩视频为您呈现"
+   },
+   "body": {
+    "en": "AMD agreed to acquire Fei-Fei Li's World Labs for about $8.2B in an all-stock deal; she becomes AMD's EVP and Chief Scientist, reporting to CEO Lisa Su.",
+    "zh": "AMD以约82亿美元的全股票交易收购李飞飞创立的World Labs；她将出任AMD执行副总裁兼首席科学家，直接向CEO苏姿丰汇报。"
+   },
+   "source": "36kr.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MTXRxa3RORXJrNjlXNHpaNklTOHJwa3FGNWRaOW9wWG90MmwwMzVVUHZCcXJuRlZuSUNWYUpkQTFRVWxUMWVqUlM3VmVqOEN4bzBxbk1n?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T02:13:00Z",
+   "level": "major",
+   "title": {
+    "en": "AMD以82亿美元全股票收购李飞飞创立的World Labs",
+    "zh": "AMD以82亿美元全股票收购李飞飞创立的World Labs"
+   },
+   "body": {
+    "en": "AMD agreed to acquire Fei-Fei Li's World Labs for $8.2 billion in an all-stock deal, folding her spatial-intelligence startup into a major chipmaker.",
+    "zh": "AMD同意以82亿美元全股票交易收购李飞飞创立的World Labs，将其空间智能初创公司并入这家主要芯片厂商。"
+   },
+   "source": "huxiu.com",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJTHprUXFlZ1JCdzlZYlYwRnFrMUNvUUZxSERpNHhqZ0lsdUlhaExCZXN1bEJNd2FPeEt5WW9jcEo0b2Jla20wQ1doV2xtOWotbUxYLQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T01:14:00Z",
+   "level": "major",
+   "title": {
+    "en": "AMD史上第二大收购：82亿美元“拿下”李飞飞初创公司",
+    "zh": "AMD史上第二大收购：82亿美元“拿下”李飞飞初创公司"
+   },
+   "body": {
+    "en": "AMD's roughly $8.2B acquisition of Fei-Fei Li's startup World Labs, AMD's second-largest deal ever, with Li reportedly joining AMD's core leadership team.",
+    "zh": "AMD以约82亿美元收购李飞飞创立的World Labs，为其史上第二大收购，据报道李飞飞将进入AMD核心管理层。"
+   },
+   "source": "通信世界网",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Fb0YwOUkxUnlnS2JUU2RrVnptY082QTE4SXhEQ2F2TnZ1aEIwUlRlakZHQU5GcFJuVENCNWF0bEpMY2lvRUlHdHA2QW05Z1hl?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T00:32:36Z",
+   "level": "major",
+   "title": {
+    "en": "AI领域华裔顶级女性联手：“AI教母”李飞飞名下公司被82亿美元收购",
+    "zh": "AI领域华裔顶级女性联手：“AI教母”李飞飞名下公司被82亿美元收购"
+   },
+   "body": {
+    "en": "AMD agreed to acquire Fei-Fei Li's spatial-intelligence startup World Labs for $8.2 billion.",
+    "zh": "AMD同意以82亿美元收购李飞飞创立的空间智能公司World Labs。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTGJXMzUzajc5ZHlFMlpxUk43NTgwbGR0NkktTzVsaWctRlpFLXRhV3N2NzBhZUpXamVJUG9tenYyT0Y2U1JYU2Z0RWtyX3NLUHA4NmJMMk91TmJ2RU9ydnhuaVhYQV9OaHFRRHVWa1JZZlFEMmJqS1p6dXBVMGNKR3UwX0JGRWo0?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T06:53:14Z",
+   "level": "major",
+   "title": {
+    "en": "AMD宣布收购李飞飞公司，AI领域两位华裔女性强强联手，世界模型要走向软硬一体？",
+    "zh": "AMD宣布收购李飞飞公司，AI领域两位华裔女性强强联手，世界模型要走向软硬一体？"
+   },
+   "body": {
+    "en": "AMD announced it is acquiring Fei-Fei Li's World Labs, with Li joining AMD as an executive vice president reporting to CEO Lisa Su.",
+    "zh": "AMD宣布收购李飞飞创立的World Labs，李飞飞将加入AMD担任执行副总裁，向首席执行官苏姿丰汇报。"
+   },
+   "source": "mrjjxw.com",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53SjhjeTZvSHlTek1WcjB1Y3dVZDVQbmVlVzYyWG50M0N6MmpNNEhVcHF1aFdudTZCR2V5MUVSSVFkZkhMdkNzZThzd2FfR2FKTlFOWW5vTFdyR25zQlJrdnBQMlFldw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T08:40:35Z",
+   "level": "major",
+   "title": {
+    "en": "World Labs co-founder Fei-Fei Li on the AMD deal: “The universe isn’t made up of words; it’s made of real things…”",
+    "zh": "World Labs co-founder Fei-Fei Li on the AMD deal: “The universe isn’t made up of words; it’s made of real things…”"
+   },
+   "body": {
+    "en": "Li commented on AMD's acquisition of World Labs, saying AI needs to be grounded in real-world physics, not just language.",
+    "zh": "李飞飞就AMD收购World Labs发表评论，认为AI需要基于真实世界的物理规律，而不仅仅是语言。"
+   },
+   "source": "Martin Cid Magazine",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRzNjT2FBTC1RbHlXYTEwMjdPeFVWYjdhY3ZHZU1uR3BIZE1nUXk1VEpNbTd3aTRobTZ3eHd4dEZrN1lUT2tTTGh2dE1RbGloOElBMEFiQ3h6WUZ2ZHdYbzE3eTBqdFVKelFYeUMyV3djdndNdkhOQ3JKMmkwbTlfOGZiVUltZzZsRmNieXFGb1RWbVJlQk53VXZteE5kdmVKZUVwbXN2QnY?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T09:30:00Z",
+   "level": "major",
+   "title": {
+    "en": "AMD acquires AI legend Fei-Fei Li's World Labs for $8.2 billion — ImageNet pioneer will become AMD chief scientist as the chipmaker brings her lab in-house",
+    "zh": "AMD acquires AI legend Fei-Fei Li's World Labs for $8.2 billion — ImageNet pioneer will become AMD chief scientist as the chipmaker brings her lab in-house"
+   },
+   "body": {
+    "en": "AMD is acquiring Fei-Fei Li's World Labs for $8.2 billion; she becomes AMD's chief scientist as the lab moves in-house.",
+    "zh": "AMD以82亿美元收购李飞飞的World Labs，她将出任AMD首席科学家，该实验室并入公司内部。"
+   },
+   "source": "Tom's Hardware",
+   "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPTFhrdGExVWp0RXM2Z2xiSDZhQUZLSzNJaGduLUtzSUpxQWRFRnNsdzVvU2oyamIwVGY4VW16MG0yb25IM1J3WkNBT1RxWUd0MGYzaFd3b2pWS2tOdDdYWHBJYmlPb0Q2eWRYYm1aQ0plYjlaZzhYNER2aDdIZ1lRaklFY3VrQmtpemRLaXZOYm1PUXVpYVNkaUcwZlc5eVVWZ0FYU0dZODBpR1R4VjVydUhoY0RQRWtlM09uWXZFcTdEVS05VFZjYmtDLW83bE5oNGpDV05TRFRHamVLSV9FSlFITHJGbHRHUkhBZDNtS2JaX3NsTmpFcjRNVnFHWTFMQk45YmJmRURmYTBxclBxWC1SMnVTWTZ0QlBLYW1MN3VmbWhhQzhPRWw1dHhOelVGU1UyQkVWVFloQ216OEVGU29CQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T08:10:53Z",
+   "level": "major",
+   "title": {
+    "en": "AMD豪掷550亿元，买下李飞飞公司- 21世纪经济报道",
+    "zh": "AMD豪掷550亿元，买下李飞飞公司- 21世纪经济报道"
+   },
+   "body": {
+    "en": "AMD agreed to acquire Fei-Fei Li's World Labs for about $8.2 billion, folding her spatial-intelligence startup into AMD's push into physical AI.",
+    "zh": "AMD同意以约82亿美元收购李飞飞创立的World Labs，将她的空间智能创业公司并入AMD的物理AI布局。"
+   },
+   "source": "app.myzaker.com",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OMDRLSVJtV1JKbjFoSkhFYmdQQzc1bjJpRlo2bXkyc1BJME5tTEx2SzNuNVk4UEJDb1gxVl9hT3VERDFXYzJRZzJXX1RwSFRrcTVfV3BTckNNbUlvSG13RmM2el9DWnEwWmVmbkxBRVNwdEJQZ3Uw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T09:40:37Z",
+   "level": "major",
+   "title": {
+    "en": "AMD收购李飞飞公司背后：AI芯片巨头开始“抢”AI定义权？",
+    "zh": "AMD收购李飞飞公司背后：AI芯片巨头开始“抢”AI定义权？"
+   },
+   "body": {
+    "en": "AMD is reported to be acquiring Fei-Fei Li's spatial-intelligence startup World Labs for roughly $8.2B, folding her venture into AMD's AI stack.",
+    "zh": "据报道，AMD将以约82亿美元收购李飞飞的空间智能公司World Labs，把她的创业公司并入AMD的AI产品线。"
+   },
+   "source": "ZAKER新闻",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1UWJjN0p5VHhId3BjM2o1VUdaekhDZ1lva3JXcVJuRlY3UkZBLUU0cFpFR2ZXZkp0Nkw4X182N3F5dHgzNUdZbVk4UXFWSGYzZ2ZGZElKbDFGMG12MFBiSExHOEQtYjVDekEycVA1SHdxMmpTTnZB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T02:05:03Z",
+   "level": "major",
+   "title": {
+    "en": "李飞飞的公司卖了550亿，员工有望分55亿",
+    "zh": "李飞飞的公司卖了550亿，员工有望分55亿"
+   },
+   "body": {
+    "en": "AMD acquired Fei-Fei Li's World Labs for roughly $8.2B and made her EVP & Chief Scientist, with employees set to share a large payout from the deal.",
+    "zh": "AMD以约82亿美元收购李飞飞创立的World Labs，并任命她为执行副总裁兼首席科学家，员工也将从中获得可观的收益分成。"
+   },
+   "source": "铅笔道",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UUUpxdi1DT25UZ3JBZkg3UmV1bWp3VWczQXlJVlZaQkFsdXV5dThvQnYzQ09uWnhzSUpvckRuYzdKRFNOZlpTbzhOeHloX1E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T16:39:27Z",
+   "level": "major",
+   "title": {
+    "en": "AMD to Acquire World Labs for $8.2B in Stock, With Fei-Fei Li Joining as Chief Scientist",
+    "zh": "AMD to Acquire World Labs for $8.2B in Stock, With Fei-Fei Li Joining as Chief Scientist"
+   },
+   "body": {
+    "en": "AMD is acquiring Fei-Fei Li's startup World Labs for $8.2 billion in stock, and she is joining AMD as Chief Scientist.",
+    "zh": "AMD将以82亿美元股票收购李飞飞创办的World Labs，她本人将出任AMD首席科学家。"
+   },
+   "source": "storagereview.com",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNTFQNEVNcXZlTFlFTUxobWpxS3d3elRSRHlTQUJuMTNmSGU5NHZxTmZfZjJxQ1l4aUxQQUdPdi1Nc21HcGtkZzk5UHVpMGtFRWI2UXp0ZW45cVotdVh5NjBWWGFid1E1NU53UGtkTXNtR1ozM2h5YmFWWlpBMzBrQXgxWVlBSkNpbW5GNHZnLTBDdzB5d3ZXUTdTLTBVajRJc3BPaNIBqgFBVV95cUxPSFJURVVYdWRJNVo2bTdzRjlQdmZfNm1VU25Ib2x3SkE2QmpjVHV5M2d1SEJaWkxQZ0RwSG1ZMElNdV85VW1xUWVOY0plemZrQXItZTI5OXpEbjlyRF9vVWlLVUZRNmZUVElDaVM3czdMR2ExRFFKYU9kQXA0VzJ4OXliNDIyTjBDWWhnT2pVWEZsYWVtbjkzRm9Ic0Y4NDUzX0c1Y2ZveTdkUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-29",
    "ts": "2026-09-29T02:11:01Z",
    "level": "major",
@@ -2557,6 +2782,159 @@
    },
    "source": "MIXED Reality News",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSndWUWh0amY3RlFrd0xaRlRMZmdfcUNtMjVha3doelFkT0pmX2g0S1J0ak41UDVkc0thRXJWZGxTUERFVGNXN0QyZWQ5Y2pQbThzbUlaZUNJLXlUWmtyeWhuUWJpRkI5SkNyUy02WEV2cWI0Njl1cFdfRkFLNGlqRG1KMjl6cEk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T15:28:17Z",
+   "level": "major",
+   "title": {
+    "en": "AMD Is Betting More Than $8 Billion On Fei-Fei Li's World Labs. Its Stock Is Up.",
+    "zh": "AMD Is Betting More Than $8 Billion On Fei-Fei Li's World Labs. Its Stock Is Up."
+   },
+   "body": {
+    "en": "AMD agreed to acquire Fei-Fei Li's World Labs for more than $8 billion, betting on spatial AI models that understand the physical world; the stock market reacted by lifting AMD shares.",
+    "zh": "AMD同意以超过80亿美元收购李飞飞创立的World Labs，押注能够理解物理世界的空间AI模型，消息公布后AMD股价上涨。"
+   },
+   "source": "inkl",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOTlpTWdMNmd4ZmNIZUtLREhxM0h2ek5zTm9kRkJoMWtGa3I1S1dKZU9TWE5PYkFwdzVjeXRlWWptdjhHSjRPc2pEVnRSeHhkbXNxTDlxVVNiUzNZU1h2aE9lc2M0OGM4MFowWk1QREJrRTV6MURiYlczeWJRaENkcExCT1p4S0F2NzFQOGZ5Q0hlSkVydmE1VXl4Y1ROeW9iY0NBOQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T05:43:00Z",
+   "level": "major",
+   "title": {
+    "en": "AMD官宣82亿美元收购World Labs：李飞飞加入，苏姿丰押注物理AI",
+    "zh": "AMD官宣82亿美元收购World Labs：李飞飞加入，苏姿丰押注物理AI"
+   },
+   "body": {
+    "en": "AMD officially announced an $8.2 billion acquisition of Fei-Fei Li's startup World Labs, with Li joining AMD as chief scientist as Lisa Su bets on 'physical AI.'",
+    "zh": "AMD正式宣布以82亿美元收购李飞飞创立的World Labs，李飞飞将加入AMD出任首席科学家，苏姿丰借此押注\"物理AI\"。"
+   },
+   "source": "thepaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uMDNxYVFrMkxuVldZY3FfZ1p4QXdlclVGalIzczVnZGdfLXFHa2xmLUV0dUhmVkxNb01WY25KdTdYd2EyS3puT0hmSkM1bWl1cXRIOHVkN2VJUzNaM2JETjFnTHZyOHFyc3FHaWFXSW9Zdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T13:46:56Z",
+   "level": "major",
+   "title": {
+    "en": "视频|AMD 82亿美元收购李飞飞的World Labs 它真正买的是什么?",
+    "zh": "视频|AMD 82亿美元收购李飞飞的World Labs 它真正买的是什么?"
+   },
+   "body": {
+    "en": "AMD agreed to acquire Fei-Fei Li's World Labs for roughly $8.2 billion, folding her spatial-intelligence startup into AMD.",
+    "zh": "AMD同意以约82亿美元收购李飞飞创办的World Labs，将其空间智能创业公司并入AMD。"
+   },
+   "source": "finance.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQMlN3MnNFenlJQWpoTFRDNnlneUFPalZsa1Q3OXhMM0NESlF5dk0wOHFNeDFIR3BaTlk4Z1oxVm5mYjhCanR5QTB4a2Nlb2xmZWh3dGd5aXVHZkFRYklhdXhXMUdKYnc2d3BOZnk3N3NOZ2t6M3dnay16VFZEMVM1eXhXcjBEdTM4eThqR2lKVGZ1VTNseER4WTJpa2JMVmRnTl9BOFdqXzg1cDFtVWdHRnBXNXNqaDNXYldldHZETXJBemthd01QLUROQXhyN1NZZWF5am0wWTdVMVRIN09hTmZucmtlOWdCTFBMdEQ3Zld2eXJDUGU5aEJCN0xzUldHZkg0LWhEQ3dSVlRP?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T03:48:00Z",
+   "level": "major",
+   "title": {
+    "en": "美国芯片公司AMD斥资82亿美元收购李飞飞世界模型公司(含视频)",
+    "zh": "美国芯片公司AMD斥资82亿美元收购李飞飞世界模型公司(含视频)"
+   },
+   "body": {
+    "en": "AMD agreed to acquire Fei-Fei Li's World Labs for $8.2 billion, a major bet on 'physical AI' that brings her spatial-intelligence company under AMD.",
+    "zh": "AMD同意以82亿美元收购李飞飞创立的World Labs，重注“物理AI”，将其空间智能公司并入AMD旗下。"
+   },
+   "source": "财新",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rUDROVU5NbWpoRTAwYTFpeWUzTGFVZ2ptVDBOZjk1MTAzVUtXYjRTYXRrSTVaVXlMVFRYTjhHOC1BNFI3S0ZPcG5iaWt3cDYtUVJkemZoeGFCWDFxNktId0txYklKbUU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T15:52:00Z",
+   "level": "major",
+   "title": {
+    "en": "“连人带模型一起买”，美国巨头豪掷82亿美元买下“AI教母”李飞飞创立公司！李飞飞跻身核心管理层，未来有望接班？",
+    "zh": "“连人带模型一起买”，美国巨头豪掷82亿美元买下“AI教母”李飞飞创立公司！李飞飞跻身核心管理层，未来有望接班？"
+   },
+   "body": {
+    "en": "AMD agreed to acquire Fei-Fei Li's World Labs for about $8.2B in an all-stock deal, with Li set to join AMD's executive team as EVP & Chief Scientist reporting to Lisa Su.",
+    "zh": "AMD以约82亿美元全股票交易收购李飞飞创立的World Labs，李飞飞将加入AMD高管团队，出任执行副总裁兼首席科学家，向苏姿丰汇报。"
+   },
+   "source": "每日经济新闻",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iOXJtT1pYck5vS2NqUjFnajJOS0xMa1ZSRHdua0xSLXhObzFEbmNRU2lIOENxODhHQ0x1dmhGbDZiRVJHWkRlMXhuTE1wbXVPYlo1c2s0RVRRSHYzTnRQTk01OUtnQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T09:11:59Z",
+   "level": "major",
+   "title": {
+    "en": "AMD花550亿买下李飞飞的世界模型公司，李飞飞出任首席科学家",
+    "zh": "AMD花550亿买下李飞飞的世界模型公司，李飞飞出任首席科学家"
+   },
+   "body": {
+    "en": "AMD agreed to acquire Fei-Fei Li's World Labs for roughly $8.2B (¥55B) in an all-stock deal; Li becomes AMD's chief scientist while World Labs continues as an independent research org in San Francisco.",
+    "zh": "AMD以全股票交易方式、约82亿美元（550亿元人民币）收购李飞飞创立的World Labs，李飞飞出任AMD首席科学家，World Labs将作为独立研究机构保留在旧金山。"
+   },
+   "source": "机器人大讲堂",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04REFld09aWU9rTFB1akdKOTFFemZGWDc4dHQ5VFFWczhNRmxOelpJa3ZvX0xfTWVsWVJ4YkRxUTZJQTlxVngta1JLZXY?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T15:47:12Z",
+   "level": "major",
+   "title": {
+    "en": "AMD Buys World Labs: Fei-Fei Li Will Now Shape the Chips That Run Physical AI",
+    "zh": "AMD Buys World Labs: Fei-Fei Li Will Now Shape the Chips That Run Physical AI"
+   },
+   "body": {
+    "en": "AMD acquired Fei-Fei Li's World Labs for $8.2B and named her EVP & Chief Scientist, putting her in charge of shaping AMD's physical-AI chip strategy.",
+    "zh": "AMD以82亿美元收购李飞飞创立的World Labs，并任命她为执行副总裁兼首席科学家，负责塑造AMD的物理AI芯片战略。"
+   },
+   "source": "Tech Times",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa2RhekhOMDA3VFNHVWc5dTIyYVlRMXlUcUkxS1Q1ZHZzWW1kWFg3OW0xekIydlhhMDJXVEp6MXFoY2drajNqOHhnc1BVN1AxaDZQY1J5czNsZ1FsMlV6Tm5XdjFUaTVBVnlVWDhSX3J1dFQ1ak15R1ZiWHM2dVFQSkxPamRVaVFoSHJ0UXhZSUhSNTc3U0hlMDNHcGZxYmdWY0JhSFFVM25TdVRITjZJcEFhSXlFbVpBci1BMmI2bUgzdmV6WFE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T23:41:00Z",
+   "level": "major",
+   "title": {
+    "en": "550亿！李飞飞，卖了…",
+    "zh": "550亿！李飞飞，卖了…"
+   },
+   "body": {
+    "en": "AMD announced an all-stock deal to acquire Fei-Fei Li's World Labs for roughly $8.2B; she will become AMD's EVP and Chief Scientist, reporting to CEO Lisa Su, AMD's second-largest acquisition ever after Xilinx.",
+    "zh": "AMD宣布以全股票方式收购李飞飞创立的World Labs，交易金额约82亿美元；她将出任AMD执行副总裁兼首席科学家，向CEO苏姿丰汇报，这是继收购赛灵思之后AMD史上第二大收购案。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83bS1McVdNSlFrRXl2bF9JYjl5R2tpc1Zvb05CekVzcWxSc1V1YWNtYURHWXpVZkluYzRjWnZFSF9VYjRZcHdsYTBMejRCak05TW0tREJnNHNWdWVjRnFFdE14enJzX3ZXc2s1OTBPWUlQX1VtM1UwbQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T02:38:55Z",
+   "level": "major",
+   "title": {
+    "en": "AMD to buy Fei-Fei Li’s World Labs in $8.2 billion bet on ‘physical AI’",
+    "zh": "AMD to buy Fei-Fei Li’s World Labs in $8.2 billion bet on ‘physical AI’"
+   },
+   "body": {
+    "en": "AMD agreed to acquire Li's World Labs for $8.2 billion, folding her spatial-AI venture into AMD's physical AI push.",
+    "zh": "AMD同意以82亿美元收购李飞飞的World Labs，将她的空间AI初创公司并入AMD的物理AI布局。"
+   },
+   "source": "102.7 WBOW",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa21mdzNkTzBOaDVhd2FETUc3bEk2RzVYNkgxeGRIc3JnbzZTNWNIejVpYnVTd3ZNYjhIZWNVVmlyWC0yblN5ZHFlU2RDLTVHazJxQW4wWVd4dzdUc3MwbElsUWJlRzg5RXBQb1BLVzFhYm9TOUtFQ3VPUmR0ZDBHUkRnS1FTM3JpT01KVlRTZ3V4SWhy?oc=5",
    "auto": true,
    "judged": true
   },
@@ -4523,16 +4901,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 77.6,
+  "total": 77.8,
   "attention": 76,
   "centrality": 58,
-  "momentum": 96,
+  "momentum": 97,
   "stature": 93,
   "pageviews": 423813,
   "citations": 222997,
   "hIndex": 137,
-  "events": 136,
-  "posts": 107,
+  "events": 156,
+  "posts": 109,
   "wikiEn": "Fei-Fei Li",
   "wikiZh": "李飛飛"
  },

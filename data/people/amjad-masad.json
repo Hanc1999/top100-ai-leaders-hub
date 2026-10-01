@@ -676,6 +676,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2025-06-30",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Amjad Masad of Replit: 10xing in a Year and Building the Future of Code | Frameworks for Growth",
+    "zh": "Amjad Masad of Replit: 10xing in a Year and Building the Future of Code | Frameworks for Growth"
+   },
+   "source": "Frameworks for Growth",
+   "url": "https://podcasts.apple.com/us/podcast/amjad-masad-of-replit-10xing-in-a-year-and/id1815547797?i=1000715188175&uo=4",
+   "note": {
+    "en": "Vanta CEO Christina Cacioppo interviews Amjad Masad about scaling Replit and building an agent-native coding platform.",
+    "zh": "Vanta首席执行官Christina Cacioppo采访Amjad Masad，谈论Replit的快速增长以及构建面向智能体的编程平台。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2025-04-15",
    "ts": null,
    "kind": "podcast",
@@ -1185,16 +1204,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 42.5,
+  "total": 42.3,
   "attention": 49,
   "centrality": 39,
-  "momentum": 35,
+  "momentum": 34,
   "stature": null,
   "pageviews": 87011,
   "citations": 0,
   "hIndex": 0,
   "events": 5,
-  "posts": 51,
+  "posts": 52,
   "wikiEn": "Amjad Masad",
   "wikiZh": null
  },

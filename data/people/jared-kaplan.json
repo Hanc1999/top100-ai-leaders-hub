@@ -1,5 +1,5 @@
 {
- "rank": 44,
+ "rank": 42,
  "id": "jared-kaplan",
  "name": {
   "en": "Jared Kaplan",
@@ -717,6 +717,23 @@
  ],
  "news": [
   {
+   "date": "2026-09-23",
+   "ts": "2026-09-23T11:01:21Z",
+   "level": "notable",
+   "title": {
+    "en": "Anthropic: Jared Kaplan Warns of the Risks of Self-Training AI",
+    "zh": "Anthropic: Jared Kaplan Warns of the Risks of Self-Training AI"
+   },
+   "body": {
+    "en": "Kaplan publicly warned about the risks of AI systems trained on their own outputs.",
+    "zh": "Jared Kaplan公开警告AI系统使用自身输出进行自我训练所带来的风险。"
+   },
+   "source": "Brief IA",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUk9RWFdSUzlJVzEzbkRzNmRXeGhvQlBWTTNYZUQ0Z0ZXV1VNVTBOSDdKUmc1NjFieHBXa29QZ05ReXI4RlE2aGtsanEtU2xrNFBEZEk2TklYd2FZcWJCZXFjRDJ0Ymx1bTNaYTBHOVQ4bTk3V3hMTGxkNkRDcHZYNjNoamxGaHpTQjMxSlJBNjN5N3JuZjg2dEgzQ3dTclBTd3c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-01-28",
    "ts": null,
    "level": "major",
@@ -741,15 +758,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 51.6,
+  "total": 52.7,
   "attention": 57,
   "centrality": 96,
-  "momentum": 5,
+  "momentum": 10,
   "stature": 15,
   "pageviews": 140648,
   "citations": 12394,
   "hIndex": 41,
-  "events": 1,
+  "events": 2,
   "posts": 31,
   "wikiEn": "Jared Kaplan",
   "wikiZh": null

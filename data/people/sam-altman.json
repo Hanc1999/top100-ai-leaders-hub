@@ -161,6 +161,25 @@
    }
   },
   {
+   "date": "2026-09-29",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "OpenAI DevDay | Sam Altman, Alexander Embiricos, Andrew Ambrosino, Peter Steinberger, Tibo Sottiaux, Kath Korevec, Casey Neistat",
+    "zh": "OpenAI DevDay | Sam Altman, Alexander Embiricos, Andrew Ambrosino, Peter Steinberger, Tibo Sottiaux, Kath Korevec, Casey Neistat"
+   },
+   "source": "TBPN",
+   "url": "https://podcasts.apple.com/us/podcast/openai-devday-sam-altman-alexander-embiricos-andrew/id1772360235?i=1000792266091&uo=4",
+   "note": {
+    "en": "Altman appears on TBPN at OpenAI DevDay to discuss how AI agents can simplify work as OpenAI expands its developer ecosystem.",
+    "zh": "阿尔特曼在OpenAI DevDay上接受TBPN采访，谈论AI智能体如何简化工作以及OpenAI开发者生态的扩展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-09-23",
    "ts": "2026-09-23T12:00:00Z",
    "kind": "blog",
@@ -1535,6 +1554,210 @@
    "url": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html"
   },
   {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T00:15:03Z",
+   "level": "major",
+   "title": {
+    "en": "OpenAI unveils Dots AI agents as Sam Altman outlines new launches",
+    "zh": "OpenAI unveils Dots AI agents as Sam Altman outlines new launches"
+   },
+   "body": {
+    "en": "OpenAI unveiled its Dots personal AI agents alongside new model launches as Altman outlined the company's roadmap at its developer conference.",
+    "zh": "OpenAI推出了个人智能体Dots等新产品，奥特曼在开发者大会上阐述了公司的新发布计划。"
+   },
+   "source": "BusinessLine",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTnFWTmtwQ2F2Tkl1alc0enlZbkNqZGhYMHVndjNGYWUyUEVFaGNpbmNXaHQ3MjRVTWZ3RkVtcGhBVzFWZjA1NG4zQVR4cFN2Z0syWG10dU9RbVVHLW42WG9ka0EyYUdwbkxHSHlLU3JWNWJqamhVNUxJdjNpWGVOeG9Ha3NZU1lnM3JXSWJvSEFtbFU3akJiRzA2MGlScFBya0lpenBMMFVHeXlHc05xVW44eFFSUFpwdHppeDZFbm5rakFrdnBNOWd1dmF1VlVrSVBLTjB30gHcAUFVX3lxTE1zS0hnMlp2LXY0NWxrVFhha2owbHpvWVU3Yk01c2JJMF9oTUd1bndvSHFGbWhKOHpfRzBqXy00X3doRU50TE1GNWhWZVQ1WXF0RkVDa1FuQXhOZ2xwWUZSZTRFMXAyS1FUUk5XclpjVmo0UTBVTm1WU294aEJSRzRudVRlNjd2VVFXT3lhcnhrcExPaEdNUl9kMkhXWEdOb2F5NUt1VjN1eXpsS2xTcE0tSXhUdzJzUm1Sa2Y0MlRnbjljcUU0NHZLWVlVWDVISkxwRmZHOUtsRW4xM2c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T00:39:24Z",
+   "level": "major",
+   "title": {
+    "en": "OpenAI CEO Sam Altman calls safety a condition for IPO — The Verge",
+    "zh": "OpenAI CEO Sam Altman calls safety a condition for IPO — The Verge"
+   },
+   "body": {
+    "en": "Altman said safety is a condition for OpenAI's planned IPO, tying the company's path to public markets to its safety commitments.",
+    "zh": "奥特曼表示，安全是OpenAI计划上市的前提条件，将公司通往公开市场的道路与其安全承诺挂钩。"
+   },
+   "source": "UA.NEWS",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTEtzSlUzdkpFVElnZHRKVWdHMUVqcWVPR3FITS1WZUxVSUQtYkdoNFdiUkhVRTI0UGNVb0Q3QmpJQl9naDFYZlY1ejM0aHp2TDJfWDZxdDFuYlBGQmsxQi1CZ2c5cWFZVkFlZ2dNcG9TZUlyUlk3WUEwa1ExbGpIdm9HWVo3WGY0WExsVDJzWmpFR0l0WUd4bnlaSndUY00?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T02:08:06Z",
+   "level": "major",
+   "title": {
+    "en": "OpenAI Dots: Sam Altman’s unveiled ChatGPT AI personal agent, how does it work and what can it do for users?",
+    "zh": "OpenAI Dots: Sam Altman’s unveiled ChatGPT AI personal agent, how does it work and what can it do for users?"
+   },
+   "body": {
+    "en": "OpenAI unveiled 'Dots,' a ChatGPT-based personal AI agent, at DevDay — a new product line extending ChatGPT from chat into autonomous task execution.",
+    "zh": "OpenAI在DevDay上发布了基于ChatGPT的个人AI代理\"Dots\"，将ChatGPT从对话产品扩展为可自主执行任务的新产品线。"
+   },
+   "source": "economictimes.com",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPWE51bDJLVUoxM2hJVExaNUNUWk5WVXNBY2xjeHdsM3NUclRsRVdJLTVLOEtwT3lMQ2dpZmN0Uks1ZHl0dENMZEVvNThMc1Z2VjZMTEtBblQ0UWdoZGpfdXFkOGgydmRCOFNPSXFuZzNlR2dER3A4aXplN080X3NNRGVoNkwzWjBNMWotWVA3bm13bFV5blNsOG1HVG9sUUdsSGVCcXUxSENNT2hRN2RwcTlCTGNhcWloVG9fRjdPaDVtNUl1Ui1IWkZMNzIyZjZGS2xock1kREVIUXRrcWtOUE9iMFl1cERhWkVlVFhQNFZXOFBmMEhOMGdUYWxoQUlRQVljZldlclBnNWZUWXJ2cg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T04:14:16Z",
+   "level": "major",
+   "title": {
+    "en": "No OpenAI IPO Until the AI Stops Going Rogue, CEO Sam Altman Says",
+    "zh": "No OpenAI IPO Until the AI Stops Going Rogue, CEO Sam Altman Says"
+   },
+   "body": {
+    "en": "Altman says OpenAI will delay its IPO until AI safety concerns, the risk of AI \"going rogue\", are addressed, pushing any listing beyond 2026.",
+    "zh": "奥特曼表示，OpenAI将推迟IPO，直到解决AI\"失控\"等安全担忧，上市计划将推迟至2026年之后。"
+   },
+   "source": "Gizmodo",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZF8xaEYzcUU5cG0welBPeHF1QnNWV0Rvb2Rid0lnZktSWms5T3YyeVZvbHNyS3pZYzQ1RXBjM2pHZGU2dHhnSzFzS19WWnVBclhzX3lzRFhfX0tmTXczVHN6VWFNTU14bGI5cGlJbUFVVm5rY216YjlFZzFFYkl3eEp6cUx2UnU5clE4SlRERkFWYnhpbVNYUDU0RQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T07:10:54Z",
+   "level": "notable",
+   "title": {
+    "en": "Sam Altman says OpenAI won't go public until its AI models are safe",
+    "zh": "Sam Altman says OpenAI won't go public until its AI models are safe"
+   },
+   "body": {
+    "en": "Altman said OpenAI will not pursue a public listing until it is confident its AI models are safe.",
+    "zh": "Altman表示，OpenAI在确信其AI模型足够安全之前不会推进上市。"
+   },
+   "source": "Business Standard",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaTBKSXBvMy1IZjFrd0R0bWw3Nk5NNmZIeXdmTnRYZmtIeVFFVlFmcXVqMjN3MkFHMlR4SlR4UjNJd0ltek5YMmtOdWhnVVBrUGtVM2JiM2xsajA2SVZkSkxVeXV0bEU2d0l0aDNqRVBzenphUmdnaHctMnBzSERnbTBrZnV0SFJsQ21FdE9SQXFKVGRxdWxnWkJ1QU9JWEdzOGdvdUVmd2VtNnBDd2dxRmE1Q1oycjlaMnduXzRxSS1BTGhXSzB2S3lmYVRFY0V0cDF4TVcyeVNDZ3ZwdUptLV9hd3RMNWtBeGU2Qg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T09:55:17Z",
+   "level": "major",
+   "title": {
+    "en": "Sam Altman Delays OpenAI IPO Plans to Prioritize Model Safety",
+    "zh": "Sam Altman Delays OpenAI IPO Plans to Prioritize Model Safety"
+   },
+   "body": {
+    "en": "Altman said OpenAI is delaying its planned IPO to prioritize model safety.",
+    "zh": "奥特曼表示OpenAI将推迟原定的IPO计划，以优先考虑模型安全。"
+   },
+   "source": "The Mac Observer",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTjNRR1l4dUczX3NoQy1TNHFMZTQxMGlOZDZtMWQ2Z3VpWUc3cjRUenkxVWdvaFRyX1FqLTNKZVZSWEVRdEdGREJtYVEwOE92bFlKbVVyNC1vcTBnUThrY3R2bUpJcW95XzlPQjN5ZVZ2UnR5RnlSRTVwc2pCQXhZemVFODJ6RklzXy1IQ1ZZWW1HZVA1NnEzNlhhQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T13:22:56Z",
+   "level": "major",
+   "title": {
+    "en": "OpenAI sued over rogue AI attack as Sam Altman says IPO must wait for safer models",
+    "zh": "OpenAI sued over rogue AI attack as Sam Altman says IPO must wait for safer models"
+   },
+   "body": {
+    "en": "OpenAI was sued over an AI-enabled attack as Altman said the company's IPO must wait until its models are safer.",
+    "zh": "OpenAI因一起AI相关攻击事件被起诉，与此同时奥特曼表示公司IPO必须等到模型更安全后才能进行。"
+   },
+   "source": "firstpost.com",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcy1XbGVkM2VBVnpPQkFsV0l5SmJ2cGJfa1NYTUpsYTMtUWFLSnB5elR2YTUzNFFBWkZDclJxdmlhSjF2M3BUaVhQMjVIa1NDVW1sbHZBVUdHeWd3Q3g3aUlmbmM4MkEtejVhdlV6YXZNb0tkUjUxN2RXb3AycEVKbjFENlJYRHRVc2dhUFZnOWpfVkswMjNXcmFzQ1hnUGJmMjYwNElDcU9WSHowRE1KS3pHTTI1NHNaNlQzbnNwTUcxZWxHQmfSAcsBQVVfeXFMTm1uOW5PMTZKMEtTQ3ZiR2dHTVlMZFhVdUwxLWgyQ2VqSERsUFkxbVBLQzgxSmdkNjlVaWFFaVVuS0pvSGJBazQySVZtbFdkbzR3R0NpcDVFbnJkMjVab0lfajlxOWh0Zm5XbHBDcGl5eFBEb28ycDBlQVBSYWE5aXJlXzFpZnVPVmVDTUR5X1B6bG1Ic3EyUEdZUjh6Q1htU21CWVgtaHhxT2NZNktfYlhCQ2xLUjVidTZJVjB2R3NFLVBwSUFJbWExd0E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T18:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "OpenAI CEO Sam Altman to skip congressional hearing on rogue AI agents",
+    "zh": "OpenAI CEO Sam Altman to skip congressional hearing on rogue AI agents"
+   },
+   "body": {
+    "en": "Altman decides to skip a congressional hearing on rogue AI agents.",
+    "zh": "阿尔特曼决定不出席关于失控AI智能体的国会听证会。"
+   },
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdElNcC1QUEs5Rm5DM0VhN2ZlREJrRF9jNW5NazlKUjhlUUVmZjhlS0tFNUhkSHpYbkNCRUhtWVNNREhvMGtzRmZRQVRrSVgwTFRLRHNBXzNnR0dISjd1aURVMXpvRUlNcjZka1lRZG44ZWFPdGRWb2ZZV3hpamtfdHl3OVRMckVibnRDN1VPZ19NQk5qWGhQZUVZZlJ5aWVCZUY2cG0zUkx3amFMQ0ZabnZuTkpGVG5a?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T16:02:20Z",
+   "level": "notable",
+   "title": {
+    "en": "Sam Altman Unveils \"Dots,\" OpenAI's New AI Personal Agent",
+    "zh": "Sam Altman Unveils \"Dots,\" OpenAI's New AI Personal Agent"
+   },
+   "body": {
+    "en": "Altman unveils Dots, OpenAI's new AI personal agent.",
+    "zh": "阿尔特曼发布OpenAI新推出的AI个人智能体“Dots”。"
+   },
+   "source": "Patch",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN0pnRkxMRmdHTVc1c3BMaGFhajdEaGs3UzB2bUtQUVZUT2w5M1hDNHlTYUdDREJZdFdNZndQLXgtRkZXY3g3NnlHSjdWNnBfQUI2eURxaC1ad21VbllzVE9Yd09ucXJqaFV6TkFUdnFpUW1iX3BUUGZ5dDh0b25jLXVzR2s5a01oUGdPU2lnTjN4dzV2Rnl1aGF3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T18:50:38Z",
+   "level": "notable",
+   "title": {
+    "en": "OpenAI CEO Sam Altman To Skip Congressional Hearing On Rogue AI Agents- NBC News",
+    "zh": "OpenAI CEO Sam Altman To Skip Congressional Hearing On Rogue AI Agents- NBC News"
+   },
+   "body": {
+    "en": "Altman will skip a Congressional hearing on rogue AI agents, keeping scrutiny of OpenAI's handling of AI safety incidents in the news.",
+    "zh": "奥特曼将缺席关于失控AI Agent的国会听证会，使外界对OpenAI处理AI安全事件方式的关注持续成为新闻焦点。"
+   },
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNREw4cHoxV1ZLUk41WWxSM001c2d5NmhZQjk2NTJSRGtFeXZ1WVc1M0FVUzFrM1pVV3NIR2p4T2d5U19jVmNldkM4dkJraHdrMWNUYzVTUzJsWVhFVHZfdGF3T2s0NEY4MEppVnlBMlZqbEpIbkFmaFU2MXU0ajI4RWN5Sm1nNkxoUEd1YUZwd2NpeFpuOUFlUlVPTDJUM3g3Z1NmRDAzMmJNb3FQVUJ1RTZpVkNBUTh1bk05bnN5aXE3cGhRN2h4dGFLc0kwb2k2anhIVWpnRVY1NzJpMEVtTUEzQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T19:34:11Z",
+   "level": "notable",
+   "title": {
+    "en": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing",
+    "zh": "Sen. Hawley: OpenAI CEO Sam Altman declined to testify at rogue AI hearing"
+   },
+   "body": {
+    "en": "Sen. Josh Hawley said Altman declined to testify at a Senate hearing on \"rogue AI,\" a notable public stance amid AI governance scrutiny.",
+    "zh": "参议员乔什·霍利表示，奥特曼拒绝出席一场关于“失控人工智能”的参议院听证会，这是他在人工智能监管审查问题上的一次引人注目的表态。"
+   },
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85VzNRN0U1ZXVjd2xsejNhQktkbFVpeUFMR1JnVG40aDY5TmNIWl9sQkN5MHF2M1planJYYlBYMThqbDZNaWVQVS12OUwtS18yZmlHWklSbEdVRk1PMXRScjdNNEFjRWE5MWZCZUN6U1VSSkRSSVI0clRR0gF_QVVfeXFMT2kyUl9HdDRsZmdEUll6TVhBRnk5Um1MTm42aXdyY2pCY1otQ3laOHI4OHVYd19wQ3RoRnRTckZlOVNUN2JjN2hpMkRBaUpmZjhseWFXTzdYeG9oUGZtQTlDNUlDX3FJTzFialBBMm84enFOc2NNSnJHS1J1YU9WRQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T07:10:54Z",
+   "level": "notable",
+   "title": {
+    "en": "Sam Altman says OpenAI won't go public until its AI models are safe",
+    "zh": "Sam Altman says OpenAI won't go public until its AI models are safe"
+   },
+   "body": {
+    "en": "Altman said OpenAI will not go public until its models are proven safe.",
+    "zh": "奥特曼表示，在其AI模型被证明安全之前，OpenAI不会上市。"
+   },
+   "source": "Business Standard",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaTBKSXBvMy1IZjFrd0R0bWw3Nk5NNmZIeXdmTnRYZmtIeVFFVlFmcXVqMjN3MkFHMlR4SlR4UjNJd0ltek5YMmtOdWhnVVBrUGtVM2JiM2xsajA2SVZkSkxVeXV0bEU2d0l0aDNqRVBzenphUmdnaHctMnBzSERnbTBrZnV0SFJsQ21FdE9SQXFKVGRxdWxnWkJ1QU9JWEdzOGdvdUVmd2VtNnBDd2dxRmE1Q1oycjlaMnduXzRxSS1BTGhXSzB2S3lmYVRFY0V0cDF4TVcyeVNDZ3ZwdUptLV9hd3RMNWtBeGU2QtIB8gFBVV95cUxQY2g1eGlVcTUzSlM2QVVLbW9RcVFBYkY4eUFHQmZ0ek8wZWZhTmtPdFhXYUc4eDhCdEhSTkxRT0dnUGplTnhNWXU1MWZ1TVNiN1JqTjFpSHZUVkFQQ2FZSkpIX0hsSEdRb2ZJaW5kcEVlSGFVSmxFLWdDaTlFTG5WNGlpUnVlUzVXeWtYNzBfLUxoSGwxZm4xTDJXelBSbmxscTN1M1JaVU1JeWZwN2t3Vk1sVFhaRVdySHlDWnJzRVdZLXVUS1pvLTd0TU92TUpqQTBDVTF4UkhFdVRGOEg5SzBXV0ZYZF90OGxsUEpJUzkzUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-29",
    "ts": "2026-09-29T02:13:25Z",
    "level": "notable",
@@ -1888,6 +2111,23 @@
    },
    "source": "coingape.com",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0FVN3VXd0NCeGVQb3NMWjdaRW9WMXZGRGEtNmFSQ25MNlVPN0ZhZDVqMUVBLUhRdG85Z0ltZU42cXhzcUZZUGdlMDh1M2xqSS1DTm1ZU2ZsenRoTXF4OFRsUGRxM0ZQS3pHY3FqMVF1V0VJY1d6WnNSSExKbDRiQW1RN1BHQjJxdXZDWFFlVzh6QTBzOHc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T15:26:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Sam Altman says IPOs ‘ill-advised’ for AI firms amid rogue agent fears",
+    "zh": "Sam Altman says IPOs ‘ill-advised’ for AI firms amid rogue agent fears"
+   },
+   "body": {
+    "en": "Altman said IPOs are 'ill-advised' for AI companies right now, citing fears around rogue AI agents.",
+    "zh": "Altman表示，鉴于对失控AI代理的担忧，目前AI公司上市“并非明智之举”。"
+   },
+   "source": "\"Sam Altman\" - BingNews",
+   "url": "https://www.afr.com/technology/sam-altman-says-ipos-ill-advised-for-ai-firms-amid-rogue-agent-fears-20260930-p611l8",
    "auto": true,
    "judged": true
   },
@@ -6293,8 +6533,8 @@
   "pageviews": 4156896,
   "citations": 16,
   "hIndex": 1,
-  "events": 282,
-  "posts": 73,
+  "events": 295,
+  "posts": 74,
   "wikiEn": "Sam Altman",
   "wikiZh": "萨姆·奥尔特曼"
  },

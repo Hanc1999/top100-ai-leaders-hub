@@ -175,6 +175,25 @@
    }
   },
   {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T13:50:52Z",
+   "kind": "x",
+   "title": {
+    "en": "Kinda crazy new models from @Nils_Reimers and team. Extremely scalable, SOTA accuracy, and like always fully privately deployable and accessible on Model Vault!",
+    "zh": "Kinda crazy new models from @Nils_Reimers and team. Extremely scalable, SOTA accuracy, and like always fully privately deployable and accessible on Model Vault!"
+   },
+   "source": "@aidangomez",
+   "url": "https://x.com/aidangomez/status/2105294307716690263",
+   "note": {
+    "en": "Gomez highlighted new, highly scalable models from Nils Reimers' team at Cohere, touting SOTA accuracy and full private deployment through Model Vault.",
+    "zh": "Gomez重点介绍了Cohere由Nils Reimers团队打造的新款高可扩展模型，强调其顶尖准确率并可通过Model Vault实现完全私有化部署。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-09-17",
    "ts": "2026-09-17T14:00:50Z",
    "kind": "x",
@@ -1308,25 +1327,6 @@
    "note": {
     "en": "Gomez criticized LMSYS/Chatbot Arena's handling of a leaderboard controversy, arguing it should acknowledge failures in its prior system rather than deny them.",
     "zh": "Gomez批评了LMSYS（Chatbot Arena）在排行榜争议中的处理方式，认为其应承认此前系统的问题而非否认。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2025-04-30",
-   "ts": "2025-04-30T08:37:20Z",
-   "kind": "x",
-   "title": {
-    "en": "Worth a read. The strategies of large untrustworthy players is to flood LmSys with submissions and massively overfit the tester distribution, gaming results.",
-    "zh": "Worth a read. The strategies of large untrustworthy players is to flood LmSys with submissions and massively overfit the tester distribution, gaming results."
-   },
-   "source": "@aidangomez",
-   "url": "https://x.com/aidangomez/status/1917498492898992251",
-   "note": {
-    "en": "Gomez further argued that large, untrustworthy players were flooding LMSYS's leaderboard with submissions to overfit the test distribution and game the results.",
-    "zh": "Gomez进一步指出，一些大型且不可信的参与者向LMSYS排行榜大量提交结果，以过拟合测试分布、操纵排名。"
    },
    "auto": true,
    "judged": true,

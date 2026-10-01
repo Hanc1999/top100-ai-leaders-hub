@@ -1,5 +1,5 @@
 {
- "rank": 93,
+ "rank": 92,
  "id": "song-han",
  "name": {
   "en": "Song Han",
@@ -226,6 +226,82 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-09-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization",
+    "zh": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.38166v1",
+   "note": {
+    "en": "Co-authored with longtime collaborators Kurt Keutzer and Baris Kasikci, this paper introduces an accurate quantization scheme for the recurrent states in linear-attention LLMs like Gated DeltaNet and Kimi Delta Attention.",
+    "zh": "与长期合作者Kurt Keutzer、Baris Kasikci合著，该论文提出了一种针对线性注意力大模型（如Gated DeltaNet、Kimi Delta Attention）循环状态的高精度量化方案。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "LongLive-Plug: Once-for-All Distillation for Video Generation",
+    "zh": "LongLive-Plug: Once-for-All Distillation for Video Generation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.38154v1",
+   "note": {
+    "en": "A once-for-all distillation method to speed up video generation models, building on his lab's real-time long-video generation line of work.",
+    "zh": "一种“一次蒸馏、多场景适用”的视频生成加速方法，延续了其实验室在实时长视频生成方向的研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SoL-Refiner: Speed-of-Light One-Step Refinement for High-Resolution Video",
+    "zh": "SoL-Refiner: Speed-of-Light One-Step Refinement for High-Resolution Video"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.37969v1",
+   "note": {
+    "en": "A one-step refinement technique that speeds up high-resolution video generation toward near speed-of-light latency without sacrificing quality.",
+    "zh": "一种单步精炼技术，可在几乎不损失质量的情况下大幅加快高分辨率视频生成的速度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Delta-Matching: Closing the Final Gap of Native 8-bit Training for LLMs",
+    "zh": "Delta-Matching: Closing the Final Gap of Native 8-bit Training for LLMs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.37852v1",
+   "note": {
+    "en": "Identifies and fixes forward-backward inconsistencies that have blocked reliable native 8-bit (FP8) training for large language models.",
+    "zh": "找出并修正了阻碍大语言模型实现可靠原生8位（FP8）训练的前向-反向不一致问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-09-28",
@@ -1410,16 +1486,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 21.7,
+  "total": 22.4,
   "attention": 4,
   "centrality": 18,
-  "momentum": 48,
+  "momentum": 51,
   "stature": 46,
   "pageviews": 888,
   "citations": 32832,
   "hIndex": 58,
   "events": 1,
-  "posts": 64,
+  "posts": 68,
   "wikiEn": null,
   "wikiZh": "韩松"
  },

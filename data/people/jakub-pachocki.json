@@ -177,6 +177,25 @@
    }
   },
   {
+   "date": "2026-09-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "What if automating AI R&D triggers an intelligence explosion?",
+    "zh": "What if automating AI R&D triggers an intelligence explosion?"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.36054v1",
+   "note": {
+    "en": "Pachocki co-signed a cross-lab position paper with Hinton, Bengio and others on whether automating AI R&D could trigger an intelligence explosion.",
+    "zh": "Pachocki与辛顿、本吉奥等人联署跨实验室立场论文，探讨AI研发自动化是否可能引发智能爆炸。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-06",
    "ts": null,
    "kind": "blog",
@@ -874,16 +893,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 48.1,
+  "total": 48.3,
   "attention": 36,
   "centrality": 87,
-  "momentum": 25,
+  "momentum": 26,
   "stature": null,
   "pageviews": 51141,
   "citations": 3664,
   "hIndex": 15,
   "events": 6,
-  "posts": 33,
+  "posts": 34,
   "wikiEn": "Jakub Pachocki",
   "wikiZh": "雅库布·帕霍基"
  },

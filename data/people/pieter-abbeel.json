@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-09-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Tactile Curiosity Drives Robot Interaction",
+    "zh": "Tactile Curiosity Drives Robot Interaction"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.40134v1",
+   "note": {
+    "en": "A new paper using tactile-curiosity-driven exploration to make reinforcement learning for robot manipulation more sample-efficient.",
+    "zh": "一篇新论文利用触觉好奇心驱动的探索方法，提升机器人操作强化学习的样本效率。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-29",
    "ts": null,
    "kind": "paper",
@@ -1201,7 +1220,7 @@
   "citations": 79473,
   "hIndex": 123,
   "events": 2,
-  "posts": 53,
+  "posts": 54,
   "wikiEn": "Pieter Abbeel",
   "wikiZh": "彼得·阿比爾"
  },

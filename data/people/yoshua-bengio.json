@@ -1,5 +1,5 @@
 {
- "rank": 27,
+ "rank": 28,
  "id": "yoshua-bengio",
  "name": {
   "en": "Yoshua Bengio",
@@ -167,6 +167,25 @@
     "en": "A formal safety case for Scientist AI: an AI that predicts but has no hidden agenda.",
     "zh": "为「科学家 AI」给出的形式化安全论证：一个只做预测、没有隐藏议程的 AI。"
    }
+  },
+  {
+   "date": "2026-10-01",
+   "ts": "2026-10-01T13:46:48Z",
+   "kind": "x",
+   "title": {
+    "en": "J’étais récemment de passage au nouveau balado Hors des ondes de Patrice Roy pour échanger sur l'évolution rapide des capacités grandissantes de l’IA et les ris",
+    "zh": "J’étais récemment de passage au nouveau balado Hors des ondes de Patrice Roy pour échanger sur l'évolution rapide des capacités grandissantes de l’IA et les ris"
+   },
+   "source": "@yoshua_bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2105655675363762438",
+   "note": {
+    "en": "Bengio shared that he recently guested on Patrice Roy's new podcast Hors des ondes to discuss AI's rapidly growing capabilities and the major risks they pose.",
+    "zh": "Bengio分享他最近做客Patrice Roy的新播客《Hors des ondes》，探讨AI能力的快速演进及其带来的重大风险。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
   },
   {
    "date": "2026-09-28",
@@ -1537,25 +1556,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-04-20",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Je suis passé à Découverte de @CBCRadioCanada pour discuter des risques de l’IA, des raisons scientifiques qui expliquent certains des comportements inquiétants",
-    "zh": "Je suis passé à Découverte de @CBCRadioCanada pour discuter des risques de l’IA, des raisons scientifiques qui expliquent certains des comportements inquiétants"
-   },
-   "source": "@Yoshua_Bengio",
-   "url": "https://x.com/Yoshua_Bengio/status/2046346869966864546",
-   "note": {
-    "en": "Bengio recounts appearing on CBC Radio-Canada's Découverte to discuss AI risks and the science behind concerning model behaviors.",
-    "zh": "本吉奥讲述在CBC Radio-Canada的Découverte节目中探讨AI风险及令人担忧的模型行为背后的科学原因。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
    "date": "2026-04-19",
    "ts": null,
    "kind": "paper",
@@ -2700,6 +2700,40 @@
    "judged": true
   },
   {
+   "date": "2026-09-23",
+   "ts": "2026-09-23T19:56:29Z",
+   "level": "notable",
+   "title": {
+    "en": "AI pioneer Yoshua Bengio addresses the UN",
+    "zh": "AI pioneer Yoshua Bengio addresses the UN"
+   },
+   "body": {
+    "en": "Bengio addressed the United Nations on AI risk and governance, extending his role bridging AI research and global policy.",
+    "zh": "本吉奥在联合国就AI风险与治理发表讲话，延续了他在AI研究与全球政策之间架起桥梁的角色。"
+   },
+   "source": "YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiT3N5Ym5FR3VWWjJaSGlDM0c5dDR6b0p5Tld2U1FyQXk1RmFFUUlhMHNzX0dhcVVUOFdzRVFMTk5mMUlhU1RoZG1EZTRiQWRjVFo0U1daNTJZODNO?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-23",
+   "ts": "2026-09-23T19:29:52Z",
+   "level": "notable",
+   "title": {
+    "en": "AI pioneer Yoshua Bengio addresses the UN",
+    "zh": "AI pioneer Yoshua Bengio addresses the UN"
+   },
+   "body": {
+    "en": "Bengio addressed the UN Security Council on AI risks, part of his ongoing push to bridge AI research and global governance.",
+    "zh": "Bengio在联合国安理会就AI风险发表讲话，延续他推动AI研究与全球治理对接的努力。"
+   },
+   "source": "CTV News",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSGVkQWFfbUlCSElEZUJZd2ZhUXFVbzZPWW9mU2lYVHVPNUh0VVZmaThCU0E5MUV2MGFDZXZBZ1hrV1M3SFQ4YTYwVFpGbWw2YjQybWlBNkJ1MGF1VWw5aHdSRnpRdmlZcy13OThSOWgxclg4c1RFRkRLcDBlSDdOYTdpcldJOGp1QklXYlBR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-18",
    "ts": "2026-09-18T15:52:00Z",
    "level": "major",
@@ -3259,7 +3293,7 @@
   "pageviews": 276660,
   "citations": 475043,
   "hIndex": 184,
-  "events": 47,
+  "events": 49,
   "posts": 121,
   "wikiEn": "Yoshua Bengio",
   "wikiZh": "约书亚·本希奥"

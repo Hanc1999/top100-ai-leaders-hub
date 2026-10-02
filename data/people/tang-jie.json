@@ -217,6 +217,44 @@
    }
   },
   {
+   "date": "2026-09-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "OSWorld-Science: A Benchmark of Computer Use Agents for Learning and Using Scientific Software",
+    "zh": "OSWorld-Science: A Benchmark of Computer Use Agents for Learning and Using Scientific Software"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.39903v1",
+   "note": {
+    "en": "Tang Jie co-authors OSWorld-Science, a benchmark testing computer-use agents on real scientific-software workflows; fellow Tsinghua KEG professor Juanzi Li co-authors, confirming this is him.",
+    "zh": "唐杰合著OSWorld-Science，一个评测计算机操作智能体在真实科研软件工作流中表现的基准；清华KEG同事李涓子参与合著，确认作者身份。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GFD-OPD: Guidance-Folded On-Policy Distillation of Diffusion Models Across Scales",
+    "zh": "GFD-OPD: Guidance-Folded On-Policy Distillation of Diffusion Models Across Scales"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.39692v1",
+   "note": {
+    "en": "Tang Jie co-authors GFD-OPD, a method for distilling diffusion models across scales via guidance-folded on-policy distillation, with his Zhipu CogView collaborators.",
+    "zh": "唐杰与智谱CogView团队合著GFD-OPD，一种通过「引导折叠在策略蒸馏」在不同规模间蒸馏扩散模型的方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-26",
    "ts": null,
    "kind": "paper",
@@ -2540,6 +2578,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-08",
+   "ts": "2026-09-08T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "《求是》专访唐杰教授| 国产大模型：差距、底气与未来",
+    "zh": "《求是》专访唐杰教授| 国产大模型：差距、底气与未来"
+   },
+   "body": {
+    "en": "In a Qiushi magazine interview, Tang Jie discussed the gap, confidence and future of domestic Chinese large models.",
+    "zh": "在《求是》杂志的专访中，唐杰谈及国产大模型的差距、底气与未来。"
+   },
+   "source": "腾讯新闻",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4ejg0NWhiR0NfcVZxVzhVNzU2M1ZfREc1NldaNDYzWkpJbGJSaGNBSEZRZFN4eDZfSW5iQVRWWjVtclFDcnFWMDNHT3FPTHVVcl81S09n?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-07",
    "ts": null,
    "level": "notable",
@@ -2863,6 +2918,23 @@
    "judged": true
   },
   {
+   "date": "2026-07-24",
+   "ts": "2026-07-24T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "唐杰预告「GLM史诗级升级」！技术论文入选顶会COLM",
+    "zh": "唐杰预告「GLM史诗级升级」！技术论文入选顶会COLM"
+   },
+   "body": {
+    "en": "Tang Jie previewed an \"epic upgrade\" to GLM and announced a related technical paper accepted at COLM, signaling a major step for Zhipu AI's model line.",
+    "zh": "唐杰预告GLM将迎来\"史诗级升级\"，并宣布相关技术论文入选顶会COLM，这是智谱AI模型线的重要进展。"
+   },
+   "source": "智源社区",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lNURGeTRxZHFPa19iX0FvQ0ktNDViY1M1NGNZMVlwWjM2eFRpaUpjMFZISXNnLTJlRXhkOWdZTi1kbWYwTGQwSQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-07-23",
    "ts": "2026-07-23T07:00:00Z",
    "level": "notable",
@@ -3159,16 +3231,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 67.8,
+  "total": 67.4,
   "attention": null,
   "centrality": 58,
-  "momentum": 91,
+  "momentum": 90,
   "stature": 42,
   "pageviews": 0,
   "citations": 30390,
   "hIndex": 83,
-  "events": 98,
-  "posts": 68,
+  "events": 100,
+  "posts": 70,
   "wikiEn": null,
   "wikiZh": null
  },

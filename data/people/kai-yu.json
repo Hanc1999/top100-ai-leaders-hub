@@ -187,6 +187,44 @@
    }
   },
   {
+   "date": "2026-09-30",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Horizon Robotics CEO: Car Chips, Mind-Off Driving and China's Speed",
+    "zh": "Horizon Robotics CEO: Car Chips, Mind-Off Driving and China's Speed"
+   },
+   "source": "In Good Company with Nicolai Tangen",
+   "url": "https://podcasts.apple.com/us/podcast/horizon-robotics-ceo-car-chips-mind-off-driving-and/id1614211565?i=1000792303820&uo=4",
+   "note": {
+    "en": "Kai Yu joined Norges Bank Investment Management CEO Nicolai Tangen's \"In Good Company\" podcast to discuss Horizon Robotics' automotive chips and the pace of autonomous driving in China.",
+    "zh": "余凯做客挪威银行投资管理CEO Nicolai Tangen的播客《In Good Company》，谈及地平线机器人的车规级芯片与中国自动驾驶发展的速度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-09-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces",
+    "zh": "Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.40362v1",
+   "note": {
+    "en": "Co-authored Multimodal Flow, a unified continuous generative model spanning language and vision, with longtime Horizon Robotics collaborators Xinggang Wang, Qian Zhang and Chang Huang.",
+    "zh": "与长期合作者王兴刚、张钱、黄畅等人合著论文《Multimodal Flow》，提出了一个统一建模语言与视觉的连续生成模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-19",
    "ts": "2026-09-19T02:00:40Z",
    "kind": "blog",
@@ -791,6 +829,40 @@
    },
    "source": "finance.sina.cn",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbVJfZjRzWXlmb3VUWkVFTks3N0Y2MmVsUmcyWFg1cFdZNnNld2hiWDRva08wTVJkUFRJbmRteG84SGI1bjZHQXprYWRPZnBuSUJRbHFLTnhyOWtyZmxNZFJybXJyaVVHUm5hay1oMDlKanJhdW5hNDVhU1NSYTVhVmpianRURnRkX3RKc1BOcXVnVUZPTWh1RjU1NzdYMTNBcXZWS2t1REc5Q1RtVTY2alBVUFVMYkFVYzVwcm0zQk04Z29hX1UxRjBMalRHVzg2?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-20",
+   "ts": "2026-09-20T01:23:00Z",
+   "level": "notable",
+   "title": {
+    "en": "【高端访谈】2027年目标是高阶智驾芯片市场全国第一——访地平线创始人兼CEO余凯",
+    "zh": "【高端访谈】2027年目标是高阶智驾芯片市场全国第一——访地平线创始人兼CEO余凯"
+   },
+   "body": {
+    "en": "In an interview, Yu Kai said Horizon Robotics aims to become China's number-one maker of high-end autonomous-driving chips by 2027.",
+    "zh": "余凯在专访中表示，地平线的目标是到2027年成为高阶智能驾驶芯片市场的全国第一。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOUxsRzFFdTdFT29KUHNxOTBYakdWUGFCSnpwNENUUGt1bkhrU24tUHQxN2R6UF9INzJGUklMYXNqVDdXRTUtTkU4dmlfei1wbVFjYmFudnV3ekZLSk50X0d5MmhOX0JRYkc5Qm80N1VxN0hNVXV6Zm5oaTZ4eWlSQTlDYmczYnM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-20",
+   "ts": "2026-09-20T01:23:00Z",
+   "level": "minor",
+   "title": {
+    "en": "【高端访谈】2027年目标是高阶智驾芯片市场全国第一——访地平线创始人兼CEO余凯",
+    "zh": "【高端访谈】2027年目标是高阶智驾芯片市场全国第一——访地平线创始人兼CEO余凯"
+   },
+   "body": {
+    "en": "In an interview, Yu set a goal for Horizon Robotics to become the top domestic supplier of high-end autonomous-driving chips by 2027.",
+    "zh": "余凯在采访中表示，地平线的目标是到2027年成为国内高阶智能驾驶芯片市场第一。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1OXFlMGZPbjNyd29GUF9JbXZKUWRYSDlzN2FmNm5SVGNWRnpOSEZFZmt2WENWVXo0eVMxX0t4c3NlZGsyWGlxd252dDNjTmp2dEswTlAzd25xMjlONkx0Y3NvbndtNUx4eEZaVUU4ZHpOZXh6Ti1INQ?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2546,6 +2618,40 @@
    "judged": true
   },
   {
+   "date": "2026-04-28",
+   "ts": "2026-04-28T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "地平线创始人余凯：不做“内卷”要“外卷”，16万的车必须能卖19万|消费者|价值|供应商|麦当劳|画中画_手机新浪网",
+    "zh": "地平线创始人余凯：不做“内卷”要“外卷”，16万的车必须能卖19万|消费者|价值|供应商|麦当劳|画中画_手机新浪网"
+   },
+   "body": {
+    "en": "Kai Yu argued Horizon should compete by expanding outward rather than fighting price wars at home, saying a 160k-yuan car needs to be able to sell for 190k.",
+    "zh": "余凯提出地平线应向外扩张而非陷入国内价格内卷，称一辆16万元的车必须能卖到19万元。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vTzNFeGtnWWY3UzdRd0dpNGY1S2dDd0RxTkVOVmxhVEliX3kta2RzbVo5UWphUjRQcXZScUpFeDh3UGE4cVpzX2pNcUZKMGEtLUE5NUVBbGlaUHhzU09URmVYMEYzQ0h6Y3JXT1FfZnRmNGJoZXdhTEt1SnhENjg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-04-28",
+   "ts": "2026-04-28T07:00:00Z",
+   "level": "minor",
+   "title": {
+    "en": "地平线创始人余凯：不做“内卷”要“外卷”，16万的车必须能卖19万",
+    "zh": "地平线创始人余凯：不做“内卷”要“外卷”，16万的车必须能卖19万"
+   },
+   "body": {
+    "en": "Yu argued Horizon should compete by growing the market rather than racing competitors to the bottom, saying a car priced at 160k RMB must be able to sell for 190k.",
+    "zh": "余凯表示地平线应该靠“外卷”（做大市场）而非内卷取胜，称一辆16万元的车必须能卖到19万元。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcUVqX3ZnMU5RTkthZDlZcDU5bzZfYTVlVTByQVZpTFkzZVJWbTN1cU1JUmw4RXdKVXJoY0E2WnlVSVgzZXRfWUM0OHZoNWRuOXlMWHNrbE1MNzd4Qy1hNjQzaTBBZzJDcjRlem9zWUFrWGE4czFaeDFYSUcwb0tTbm12b1psT01YZTF3dHRYdlM5M192ZGhQOGVlR2RTT2hjMTk3WkcxbHZLc2VLNE9qLXN6WnRMYi1ibkNlQ2VmMmZjYkFyNTJudTRsUWE3alFm?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-04-25",
    "ts": "2026-04-25T07:00:00Z",
    "level": "notable",
@@ -2706,16 +2812,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 31.5,
+  "total": 31.3,
   "attention": 3,
   "centrality": 25,
-  "momentum": 93,
+  "momentum": 92,
   "stature": 34,
   "pageviews": 700,
   "citations": 21491,
   "hIndex": 66,
-  "events": 129,
-  "posts": 18,
+  "events": 133,
+  "posts": 20,
   "wikiEn": null,
   "wikiZh": "余凯"
  },

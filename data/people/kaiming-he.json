@@ -1,5 +1,5 @@
 {
- "rank": 64,
+ "rank": 62,
  "id": "kaiming-he",
  "name": {
   "en": "Kaiming He",
@@ -718,6 +718,40 @@
    "url": "https://www.eecs.mit.edu/people/kaiming-he/"
   },
   {
+   "date": "2026-10-01",
+   "ts": "2026-10-01T04:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "何恺明团队新作：看猫片就能学会ARC挑战",
+    "zh": "何恺明团队新作：看猫片就能学会ARC挑战"
+   },
+   "body": {
+    "en": "He's team published new work showing a model can learn to solve ARC-style reasoning challenges just from watching cat videos.",
+    "zh": "何恺明团队发表新研究，展示模型仅通过观看猫咪视频就能学会解决类似ARC挑战的推理任务。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2pjekJPdjBJbGRsVW16WDRNUEtvWFg4eWdTYVNHbm1lWnlfbGFYemluUktuSXZfVFBPb3RtNFNvTEN4bzNJMWZQbnlzS19uLXBzcmQ2SlAxRmlMN0Zjb2NtV0MxMVRJckVPb3JUZVVtU0VkbTY4dHpDSUpJc2R4aG94UWlLVnA1?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-01",
+   "ts": "2026-10-01T14:54:00Z",
+   "level": "notable",
+   "title": {
+    "en": "何恺明团队新作：看猫片就能学会ARC挑战",
+    "zh": "何恺明团队新作：看猫片就能学会ARC挑战"
+   },
+   "body": {
+    "en": "He's team published new work showing a model can learn to solve ARC-style reasoning challenges just from watching cat videos, a notable new research result.",
+    "zh": "何恺明团队发表新研究，展示模型可以通过观看猫片学会解决类ARC推理挑战，是一项值得关注的新成果。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pQlpLWFBVaHlXakZQVW1JN2UwODZkX2l2OV9weXpBY0FYMjNUT0JGYnh6bXZCSlh0RGVwTjlLdU1wYW0xZTFvWGlMd0hCYzlYMGRJd2ZpTHN2NnpNczh2R3dIYjdPZ1dIX2twdEtXV0YxcGZhd3J0ZUFMOFc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-14",
    "ts": "2026-09-14T01:50:58Z",
    "level": "notable",
@@ -1031,15 +1065,15 @@
  },
  "cat": "research",
  "score": {
-  "total": 36.0,
+  "total": 36.6,
   "attention": 33,
   "centrality": 2,
-  "momentum": 52,
+  "momentum": 55,
   "stature": 100,
   "pageviews": 46828,
   "citations": 555963,
   "hIndex": 83,
-  "events": 19,
+  "events": 21,
   "posts": 28,
   "wikiEn": "Kaiming He",
   "wikiZh": "何恺明"

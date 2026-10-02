@@ -228,6 +228,25 @@
    }
   },
   {
+   "date": "2026-09-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model",
+    "zh": "Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.40358v1",
+   "note": {
+    "en": "Song Han co-authors an NVIDIA Research paper proposing a self-evolving symbolic language to make video world models respect physical laws; co-authors Ming-Yu Liu and Han Cai confirm this is his NVIDIA Efficient AI group, not a namesake.",
+    "zh": "韩松与NVIDIA团队合作提出一种自我演化的物理语言表示，使视频世界模型更好地遵守物理规律；合著者刘明宇（Ming-Yu Liu）和蔡涵确认这是他在NVIDIA高效AI团队的工作，而非同名之误。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-29",
    "ts": null,
    "kind": "paper",
@@ -1495,7 +1514,7 @@
   "citations": 32832,
   "hIndex": 58,
   "events": 1,
-  "posts": 68,
+  "posts": 69,
   "wikiEn": null,
   "wikiZh": "韩松"
  },

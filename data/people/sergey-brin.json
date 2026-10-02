@@ -175,6 +175,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2026-06-03",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The Moonshot Mindset with Adam Savage and Sergey Brin",
+    "zh": "The Moonshot Mindset with Adam Savage and Sergey Brin"
+   },
+   "source": "The Moonshot Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/the-moonshot-mindset-with-adam-savage-and-sergey-brin/id1797994496?i=1000770957709&uo=4",
+   "note": {
+    "en": "Brin joins Adam Savage on The Moonshot Podcast's season finale to reflect on systematizing moonshot thinking.",
+    "zh": "谢尔盖·布林在《The Moonshot Podcast》第二季的收官节目中与亚当·萨维奇对谈，探讨如何将\"登月思维\"系统化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2025-12-12",
    "ts": null,
    "kind": "podcast",
@@ -627,6 +646,23 @@
    "judged": true
   },
   {
+   "date": "2026-08-12",
+   "ts": "2026-08-12T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Google's Sergey Brin Has Reportedly Urged AI Talent To Go All In On Gemini Models To Tackle Rivals",
+    "zh": "Google's Sergey Brin Has Reportedly Urged AI Talent To Go All In On Gemini Models To Tackle Rivals"
+   },
+   "body": {
+    "en": "Brin reportedly urged Google's AI talent to focus entirely on Gemini models to compete with rivals.",
+    "zh": "据报道，布林敦促谷歌的AI人才全力投入Gemini模型的研发，以应对竞争对手。"
+   },
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObkVHMlYwUzZOYVVBNlRDVmNCR0lvSlVIbTduT1RiSnh2eUdhODdNQlBqMUtUN0lJMmpmc2tjdi1EZ0o5T2FGWngxWm91LXp6bUM5UFktNWJ1YzM3Qy1DZTZpTEszMy1vbVJhenNTUVRPRnNsUUVtc0dyVXJ3UHo0aHVoOTJiVDgyRWY2SXl2UWpzT1J0RGZ6c3NlR051Z05LMXhCY0k0dGxrQVpmMll1VFAzRllLSEw4SmdVUlc4MzktajVzU0d6aGlJb2RvVG5MOFo2V2REVXN5RllsQXo3LXdkU0Mwc3BFY2UtLUV2NA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-08-11",
    "ts": null,
    "level": "notable",
@@ -804,16 +840,16 @@
  },
  "cat": "platform",
  "score": {
-  "total": 78.9,
+  "total": 79.2,
   "attention": 93,
   "centrality": 87,
-  "momentum": 56,
+  "momentum": 57,
   "stature": 49,
   "pageviews": 1423098,
   "citations": 38377,
   "hIndex": 23,
-  "events": 21,
-  "posts": 16,
+  "events": 22,
+  "posts": 17,
   "wikiEn": "Sergey Brin",
   "wikiZh": "谢尔盖·布林"
  },

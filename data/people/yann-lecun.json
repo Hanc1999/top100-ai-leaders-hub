@@ -198,6 +198,25 @@
    }
   },
   {
+   "date": "2026-09-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Learning Functional Subspaces for Neural Network Compression",
+    "zh": "Learning Functional Subspaces for Neural Network Compression"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.40127v1",
+   "note": {
+    "en": "LeCun co-authors a method for compressing neural networks by learning low-dimensional functional subspaces instead of dense low-rank factorizations; co-author Ravid Shwartz-Ziv is his regular NYU collaborator, confirming the match.",
+    "zh": "勒昆合著一种神经网络压缩方法，通过学习低维功能子空间而非密集低秩分解来实现；合著者拉维德·施瓦茨-齐夫（Ravid Shwartz-Ziv）是他在纽约大学的常年合作者，确认了作者身份。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-29",
    "ts": null,
    "kind": "paper",
@@ -882,44 +901,6 @@
    "connector": "podcasts"
   },
   {
-   "date": "2025-12-15",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "World Models for Learning Dexterous Hand-Object Interactions from Human Videos",
-    "zh": "World Models for Learning Dexterous Hand-Object Interactions from Human Videos"
-   },
-   "source": "arXiv (Cornell University)",
-   "url": "http://arxiv.org/abs/2512.13644",
-   "note": {
-    "en": "A world-model approach that learns dexterous robotic hand-object manipulation by watching human videos.",
-    "zh": "一种世界模型方法，通过观看人类操作视频来学习灵巧的机械手–物体交互。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-12-11",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "VL-JEPA: Joint Embedding Predictive Architecture for Vision-language",
-    "zh": "VL-JEPA: Joint Embedding Predictive Architecture for Vision-language"
-   },
-   "source": "arXiv (Cornell University)",
-   "url": "http://arxiv.org/abs/2512.10942",
-   "note": {
-    "en": "Extends his joint-embedding predictive architecture (JEPA) to combined vision-language representation learning.",
-    "zh": "将其提出的联合嵌入预测架构（JEPA）扩展到视觉-语言联合表征学习。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
    "date": "2025-11-14",
    "ts": null,
    "kind": "x",
@@ -937,44 +918,6 @@
    "judged": true,
    "platform": "x",
    "connector": "x"
-  },
-  {
-   "date": "2025-11-06",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Cambrian-S: Towards Spatial Supersensing in Video",
-    "zh": "Cambrian-S: Towards Spatial Supersensing in Video"
-   },
-   "source": "arXiv (Cornell University)",
-   "url": "http://arxiv.org/abs/2511.04670",
-   "note": {
-    "en": "Introduces Cambrian-S, a video model aimed at 'spatial supersensing' — building richer spatial understanding from video streams.",
-    "zh": "提出Cambrian-S模型，致力于视频中的'空间超感知'，从视频流中构建更丰富的空间理解能力。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-10-19",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "MetaMorph: Multimodal Understanding and Generation via Instruction Tuning",
-    "zh": "MetaMorph: Multimodal Understanding and Generation via Instruction Tuning"
-   },
-   "source": "OpenAlex",
-   "url": "https://doi.org/10.1109/iccv51701.2025.01579",
-   "note": {
-    "en": "Meta FAIR work on MetaMorph, an instruction-tuned model unifying multimodal understanding and generation in one system.",
-    "zh": "Meta FAIR的MetaMorph研究，通过指令微调将多模态理解与生成统一在同一模型中。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
   },
   {
    "date": "2025-04-09",
@@ -1233,6 +1176,91 @@
    },
    "source": "Yahoo Finance",
    "url": "https://finance.yahoo.com/news/yann-lecun-calls-alexandr-wang-182614902.html"
+  },
+  {
+   "date": "2026-10-01",
+   "ts": "2026-10-01T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "AI 'godfather' Yann LeCun has 'zero concerns' about human extinction, says Anthropic CEO Dario Amodei is 'deluded'",
+    "zh": "AI 'godfather' Yann LeCun has 'zero concerns' about human extinction, says Anthropic CEO Dario Amodei is 'deluded'"
+   },
+   "body": {
+    "en": "LeCun said he has 'zero concerns' about human extinction from AI and called Anthropic CEO Dario Amodei 'deluded' for suggesting otherwise.",
+    "zh": "杨立昆表示对AI导致人类灭绝“毫无担忧”，并称Anthropic CEO Dario Amodei的说法是“妄想”。"
+   },
+   "source": "fortune.com",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVTdsMkZYX05jXy1jNC1KQXphOEF2TTRvQmZTY2dMNUxuank3UUw5M3hQR1ZjVms1WFZKck91RTRfTDdsOThiNnJGaTZEVV90anplTlBtVHZyaXljLTVMMEtLdkJCYVp1ZEljYURmODFLUW5UMzRwbGNrdXUxaFkwWnFadU1ubi0yYVRMREFZSXJSS1NibUxoTzhFV3JBTGdlOUNjSFRfSVNoNUpTc3VodGZiM1lVSjUxQW0tSDAydEJQaTI2MzBsczVIeUVsdTUxd0lYaQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-01",
+   "ts": "2026-10-01T10:06:00Z",
+   "level": "notable",
+   "title": {
+    "en": "AI ‘godfather’ Yann LeCun: Anthropic CEO Dario Amodei is ‘deluded,’ ‘crazy,’ and doesn’t understand cybersecurity",
+    "zh": "AI ‘godfather’ Yann LeCun: Anthropic CEO Dario Amodei is ‘deluded,’ ‘crazy,’ and doesn’t understand cybersecurity"
+   },
+   "body": {
+    "en": "LeCun publicly called Anthropic CEO Dario Amodei \"deluded\" and \"crazy\" and said he doesn't understand cybersecurity, sharpening their ongoing public disagreement over AI risk.",
+    "zh": "杨立昆公开称Anthropic首席执行官Dario Amodei\"糊涂\"\"疯狂\"，并表示他不懂网络安全，使两人在AI风险问题上的公开分歧进一步升级。"
+   },
+   "source": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdUxXaW9wZ3RjVXV6ZUNKRFBJVTdMZXNhU0I3eUNhRnI0alc0MmNMbmR4TlZVb3VKRUdYNmRiMW1jM3lyZUk1elphb1VvWVRXTmpKM3IyMmRfbVdvSjZIb2I2LVZWaVdqQ0taQTBUZzBHZTJyNkZRcnR3NWVoT3JNSHhObkxEdHo2cC1kUmw4Tml6RnRWVkhMVXdqN0R4QQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-01",
+   "ts": "2026-10-01T11:15:30Z",
+   "level": "notable",
+   "title": {
+    "en": "The Competitive Calculus Behind Yann LeCun’s Attack on Anthropic",
+    "zh": "The Competitive Calculus Behind Yann LeCun’s Attack on Anthropic"
+   },
+   "body": {
+    "en": "Coverage examines LeCun's public attack on Anthropic, framed as part of the competitive dynamics between his new venture and the rest of the field.",
+    "zh": "报道分析了杨立昆公开抨击Anthropic一事，认为这与他的新公司与业界其他力量之间的竞争态势有关。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc0xCeDJkTnpRdHM1eHBUOXZNaE80QzM4VVhQYmczbHZfdU4tWHg5VkdmclB4VkgzMHdhYUZrWVEwY0Nxck9rbWh6QVR0MC1VeWE4R0JIUnpESGxGY2p0WF9CemZ0R1NZQnRGRUlaQi1SMk5zekNUOGlENTR5d2tpWGdLUzR3eURBNWo5ZDZkSG5XYnVJZzU0Z1I1bWlBcXdPRmxkNQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-01",
+   "ts": "2026-10-01T13:26:39Z",
+   "level": "notable",
+   "title": {
+    "en": "Yann LeCun calls Dario Amodei deluded and crazy over AI cybersecurity claims",
+    "zh": "Yann LeCun calls Dario Amodei deluded and crazy over AI cybersecurity claims"
+   },
+   "body": {
+    "en": "LeCun publicly called Dario Amodei \"deluded and crazy\" for his AI-cybersecurity warnings, sharpening their ongoing public disagreement over AI risk.",
+    "zh": "杨立昆公开称Dario Amodei在AI网络安全言论上\"糊涂且疯狂\",使两人在AI风险问题上的公开争论进一步升级。"
+   },
+   "source": "Startup Fortune",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeVMtTFNiUFZNZU4zZWRYTDBTNnREWE8yeVE1LUotNk1HSllSYWpZVnpBTEJZLXM1X3BtdFpYeUg1YS1NeW9iU1pOMWI2SHExeElxeF82T21oR2Z1REp0VjhXM0IyTFhTNnNXaDFWMVFsNDZsZUJGV3h1N1M1VEMwMDd5TkdDeG9tMW14cktwZ1BId29VV1dJUzQ3cHZ1My1Nb245WHQ3WQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-01",
+   "ts": "2026-10-01T10:18:00Z",
+   "level": "notable",
+   "title": {
+    "en": "杨立昆：AI失控事件可通过工程改进预防，AMI Labs将于近期推出首款产品",
+    "zh": "杨立昆：AI失控事件可通过工程改进预防，AMI Labs将于近期推出首款产品"
+   },
+   "body": {
+    "en": "LeCun said AI loss-of-control incidents can be prevented through engineering fixes, and said AMI Labs will launch its first product soon.",
+    "zh": "杨立昆表示AI失控事件可以通过工程改进加以预防,并称AMI Labs将很快推出首款产品。"
+   },
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LRG52ZXliLURoV1BJTUJZZnNBNFhfTWJTVVY1eUE5cHNsN2JqalAxOEdMdzFSVG1tY3ZJdHhnaWpodmNTbi15M3JoTk5Fc1F0TTBrTkF0VGxRWC16dHRUM1l2SGhUUQ?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-09-21",
@@ -2338,6 +2366,23 @@
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ja0NWMXZPbDc0S0NJdkJMUkxvZFJuZlkyempYQk9wck0tYTZ5NEttUnVhYmctbTNoRmh5M0VQVkZ5T0RycXY4VmgyaFY?oc=5",
    "auto": true,
    "judged": true
+  },
+  {
+   "date": "2026-01-04",
+   "ts": "2026-01-04T08:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "杨立昆爆猛料：Meta Llama造假，小扎因此大换血",
+    "zh": "杨立昆爆猛料：Meta Llama造假，小扎因此大换血"
+   },
+   "body": {
+    "en": "LeCun alleged Meta's Llama results were faked, a claim reported to have triggered a major team reshuffle under Zuckerberg.",
+    "zh": "杨立昆爆料称Meta的Llama成果存在造假，据报道该说法促使扎克伯格对相关团队进行了大规模改组。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9iRUxNcWJmTEUxMm5LcG5pUFNscWJhQWZKVTBnNDBUd29DZFRlcER1aTBfRlQ5UzFsR3ZVSkJqbklDdWlNMWw2MEduUmw?oc=5",
+   "auto": true,
+   "judged": true
   }
  ],
  "changed": true,
@@ -2347,16 +2392,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 79.1,
+  "total": 79.6,
   "attention": 78,
   "centrality": 72,
-  "momentum": 83,
+  "momentum": 85,
   "stature": 95,
   "pageviews": 531264,
   "citations": 253869,
   "hIndex": 120,
-  "events": 67,
-  "posts": 56,
+  "events": 73,
+  "posts": 53,
   "wikiEn": "Yann LeCun",
   "wikiZh": "杨立昆"
  },

@@ -149,6 +149,25 @@
    }
   },
   {
+   "date": "2026-10-01",
+   "ts": "2026-10-01T20:44:03Z",
+   "kind": "x",
+   "title": {
+    "en": "muse can watch for cancellations and get you last-minute super-hard-to-get appointments and reservations!",
+    "zh": "muse can watch for cancellations and get you last-minute super-hard-to-get appointments and reservations!"
+   },
+   "source": "@alexandr_wang",
+   "url": "https://x.com/alexandr_wang/status/2105760679609135459",
+   "note": {
+    "en": "Wang previewed Muse, a Meta AI assistant feature that can watch for cancellations and snag hard-to-get reservations and appointments.",
+    "zh": "王透露Meta AI助手Muse的新功能：可自动监控退订并抢到难订的预约和餐位。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-09-30",
    "ts": "2026-09-30T17:38:15Z",
    "kind": "x",
@@ -1080,25 +1099,6 @@
    "connector": null
   },
   {
-   "date": "2026-09-16",
-   "ts": "2026-09-16T05:09:54Z",
-   "kind": "x",
-   "title": {
-    "en": "i swear muse code is actually good!! the same model behind muse app powers muse code!",
-    "zh": "i swear muse code is actually good!! the same model behind muse app powers muse code!"
-   },
-   "source": "@alexandr_wang",
-   "url": "https://x.com/alexandr_wang/status/2100089775525151032",
-   "note": {
-    "en": "Wang said Muse Code, a coding tool, runs on the same model that powers the Muse app, tying the two products together.",
-    "zh": "Alexandr Wang表示，编程工具Muse Code与Muse应用背后使用的是同一个模型，两款产品由此形成关联。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2026-07-31",
    "ts": null,
    "kind": "podcast",
@@ -1168,6 +1168,25 @@
    "note": {
     "en": "Long interview as Scale AI CEO on training data, AI in defence, and the company's origins.",
     "zh": "以 Scale AI CEO 身份接受长访谈，谈训练数据、AI 在国防中的应用以及公司的起步。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-05-02",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Scale AI’s Alexandr Wang on Securing U.S. AI Leadership",
+    "zh": "Scale AI’s Alexandr Wang on Securing U.S. AI Leadership"
+   },
+   "source": "The AI Policy Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/scale-ais-alexandr-wang-on-securing-u-s-ai-leadership/id1726253148?i=1000705882932&uo=4",
+   "note": {
+    "en": "Wang discusses securing U.S. AI leadership in a CSIS Wadhwani AI Center talk, recorded while he was still Scale AI's founder and CEO before the Meta deal.",
+    "zh": "Alexandr Wang在CSIS Wadhwani AI中心的对谈中讨论如何确保美国的AI领先地位，彼时他仍是Scale AI的创始人兼CEO，尚未加入Meta。"
    },
    "auto": true,
    "judged": true,
@@ -1801,16 +1820,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 78.6,
+  "total": 78.4,
   "attention": 86,
   "centrality": 76,
-  "momentum": 68,
+  "momentum": 67,
   "stature": null,
   "pageviews": 965908,
   "citations": 34,
   "hIndex": 3,
   "events": 21,
-  "posts": 71,
+  "posts": 72,
   "wikiEn": "Alexandr Wang",
   "wikiZh": "汪滔 (程式設計師)"
  },

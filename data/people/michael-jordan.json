@@ -189,6 +189,44 @@
    }
   },
   {
+   "date": "2026-09-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Inference Auctions",
+    "zh": "Inference Auctions"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.40070v1",
+   "note": {
+    "en": "A new paper proposing auction mechanisms to allocate scarce LLM inference capacity among users with different latency tolerances.",
+    "zh": "一篇新论文提出用拍卖机制在延迟容忍度不同的用户间分配稀缺的大模型推理算力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Always-On Experimentation",
+    "zh": "Always-On Experimentation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.38695v1",
+   "note": {
+    "en": "A paper on always-on experimentation frameworks for continuously testing treatments as generative AI accelerates the pace of new interventions.",
+    "zh": "一篇论文探讨在生成式AI加速新方案产生的背景下，用于持续测试干预效果的常态化实验框架。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-21",
    "ts": null,
    "kind": "paper",
@@ -834,16 +872,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 27.0,
+  "total": 27.9,
   "attention": 31,
   "centrality": 0,
-  "momentum": 25,
+  "momentum": 29,
   "stature": 86,
   "pageviews": 40320,
   "citations": 181936,
   "hIndex": 163,
   "events": 2,
-  "posts": 34,
+  "posts": 36,
   "wikiEn": "Michael I. Jordan",
   "wikiZh": "迈克尔·乔丹 (学者)"
  },

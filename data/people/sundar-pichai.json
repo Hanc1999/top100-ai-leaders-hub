@@ -149,6 +149,44 @@
    }
   },
   {
+   "date": "2026-10-02",
+   "ts": "2026-10-02T00:30:29Z",
+   "kind": "x",
+   "title": {
+    "en": "I remember the first meeting where the team pitched the idea of putting compute in space - exciting idea! Today's successful launch with our partner @planet pro",
+    "zh": "I remember the first meeting where the team pitched the idea of putting compute in space - exciting idea! Today's successful launch with our partner @planet pro"
+   },
+   "source": "@sundarpichai",
+   "url": "https://x.com/sundarpichai/status/2105817662651777367",
+   "note": {
+    "en": "Pichai marked a successful launch of a prototype satellite built with partner Planet, part of an effort to put compute in space.",
+    "zh": "皮查伊宣布与合作伙伴Planet成功发射一颗原型卫星，这是将算力送入太空计划的一部分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-02",
+   "ts": "2026-10-02T01:12:06Z",
+   "kind": "x",
+   "title": {
+    "en": "In a busy week, SynthID Bio, our watermarking tech for AI-designed proteins, was a big big step forward for scientific integrity and biosecurity! Congrats to th",
+    "zh": "In a busy week, SynthID Bio, our watermarking tech for AI-designed proteins, was a big big step forward for scientific integrity and biosecurity! Congrats to th"
+   },
+   "source": "@sundarpichai",
+   "url": "https://x.com/sundarpichai/status/2105828136428691774",
+   "note": {
+    "en": "Sundar Pichai highlighted SynthID Bio, Google DeepMind's new watermarking tool for AI-designed proteins, calling it a step forward for scientific integrity and biosecurity.",
+    "zh": "Sundar Pichai宣传了Google DeepMind新推出的SynthID Bio——一款为AI设计蛋白质加水印的工具，称其是科学诚信与生物安全方面的一大进步。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-09-30",
    "ts": "2026-09-30T02:25:14Z",
    "kind": "x",
@@ -1319,6 +1357,23 @@
    "url": "https://www.axios.com/2026/08/06/googles-ai-leadership-shuffle"
   },
   {
+   "date": "2026-10-02",
+   "ts": "2026-10-02T08:06:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Google sends its 'chips' to space in a refrigerator-sized satellite; CEO Sundar Pichai says: I remember t",
+    "zh": "Google sends its 'chips' to space in a refrigerator-sized satellite; CEO Sundar Pichai says: I remember t"
+   },
+   "body": {
+    "en": "Google launched refrigerator-sized satellites carrying its chips into orbit as part of an early space-based datacenter effort, with Pichai commenting on the milestone.",
+    "zh": "谷歌将搭载自研芯片的冰箱大小卫星送入轨道，作为太空数据中心早期尝试的一部分，皮查伊对此发表了评论。"
+   },
+   "source": "timesofindia.indiatimes.com",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNU3I2cHVXdGtiSW1DdFE3YWtqUC1zQklDNlR5NHBEaGpKSldpb01rbnRmd0NDMzRmTjBWU3BEMkZldWE2T0NtbWdzQ0g5Ym5XdnRGbFRvWXh4a29DRGNOeWdPQzBUQjF4Z1JpTnpiclZQMUlBRnp3ZXFyRHFhaEQ2eEl4WldYWWt5XzMyYzZKaDRwUFlrMU5oVDdRN1VCbWdKY21VNXBwT01PS1lPSmNCalFjVk1aR21tVUdxY25qX3NmTm53RFJ2T25PNUk0amhnRHkwbkVlUEZDbl90YXlJR0lWUUZkdEtkczlxRmlFRjdoLWFlUjBfY3BaekNqdHRld1cwOG1xWmtMYXlCS0RIWDhsSGtDRmxHVVRxbld3YXljVlBrQjMtd2E2NkYxTlXSAbQCQVVfeXFMTmFqajlqVlNRdlpZWjNUSUJnSGJ1eFpTbFZ0MGpZNlAwSnV6SDlLYnpya1pvVE4td25TTWVEMTdwb2RPQzI0NVlBVXRGZHBiazhFT1dGVXBLLUl4UGtINlpzcHl2THJXNVlqV0dyOGFfRlZzRVluZnJLaE92UGczZU04TWpEaFc5VFVlcW1PSGx4LVZpRFZlUkRDdEhsa0VuS21MZUNvb09TNjFtbXhtTUgzd0hDTzFwS3ZxeHI5SHl6ZVRRdmh6RjE4aUNfTHgzYjh4Zi1URTRENTNaV1k2OGk5dHAyeG9mSjRvUGtLTW9UaGRWMC1GemZPWE9NNEczZ28zUmxmVTFUZDVGTy1RRzdOMVRHYTVpYU13aTJRWEltdE1HY3JCX3YyNjVnYjF4cURDWnM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-01",
    "ts": "2026-10-01T04:37:00Z",
    "level": "major",
@@ -2091,16 +2146,16 @@
  },
  "cat": "platform",
  "score": {
-  "total": 87.5,
+  "total": 87.2,
   "attention": 92,
   "centrality": 87,
-  "momentum": 80,
+  "momentum": 79,
   "stature": null,
   "pageviews": 1299595,
   "citations": 1,
   "hIndex": 1,
-  "events": 47,
-  "posts": 63,
+  "events": 48,
+  "posts": 65,
   "wikiEn": "Sundar Pichai",
   "wikiZh": "孙达尔·皮柴"
  },

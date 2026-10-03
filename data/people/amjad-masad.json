@@ -695,6 +695,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2025-06-24",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Hims & Hers Stock Drops Over 30%, All-In Launches Ultra Premium Tequila | Crémieux, Clément Delangue, Emmett Shear, Brendan Foody, Sam Schwager, Zach Lloyd, Dara Ladjevardian, Amjad Masad, Angus Muffatti",
+    "zh": "Hims & Hers Stock Drops Over 30%, All-In Launches Ultra Premium Tequila | Crémieux, Clément Delangue, Emmett Shear, Brendan Foody, Sam Schwager, Zach Lloyd, Dara Ladjevardian, Amjad Masad, Angus Muffatti"
+   },
+   "source": "TBPN",
+   "url": "https://podcasts.apple.com/us/podcast/hims-hers-stock-drops-over-30-all-in-launches-ultra/id1772360235?i=1000714414098&uo=4",
+   "note": {
+    "en": "Amjad Masad was named among the day's guests on TBPN's tech roundtable, joining other founders (Delangue, Shear, Lloyd and others) for a conversation spanning AI and industry news.",
+    "zh": "Amjad Masad与Delangue、Shear、Lloyd等其他创始人一同被列为TBPN科技圆桌节目当天的嘉宾，参与了一场涉及AI与行业新闻的对谈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2025-04-15",
    "ts": null,
    "kind": "podcast",
@@ -1204,16 +1223,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 42.3,
+  "total": 42.0,
   "attention": 49,
   "centrality": 39,
-  "momentum": 34,
+  "momentum": 33,
   "stature": null,
   "pageviews": 87011,
   "citations": 0,
   "hIndex": 0,
   "events": 5,
-  "posts": 52,
+  "posts": 53,
   "wikiEn": "Amjad Masad",
   "wikiZh": null
  },

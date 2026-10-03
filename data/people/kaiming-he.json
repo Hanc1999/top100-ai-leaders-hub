@@ -718,6 +718,23 @@
    "url": "https://www.eecs.mit.edu/people/kaiming-he/"
   },
   {
+   "date": "2026-10-02",
+   "ts": "2026-10-02T05:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "何恺明团队新作：看猫片就能学会ARC挑战",
+    "zh": "何恺明团队新作：看猫片就能学会ARC挑战"
+   },
+   "body": {
+    "en": "Kaiming He's team published new work showing a model can learn to solve the ARC reasoning challenge just from watching cat videos, a step toward learning abstract reasoning from raw video.",
+    "zh": "何恺明团队发布新研究，展示模型仅通过观看猫咪视频就能学会解决ARC推理挑战，是从原始视频中学习抽象推理的一步。"
+   },
+   "source": "智源社区",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jb0ZYQXRXR2VXeFNBX240M2FUQnZKM0U3UjRiaENPdFRHd2JPTlZWY19sT0pGMEpjQWtveHk5YllRUXJuQ0d5aw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-01",
    "ts": "2026-10-01T04:00:00Z",
    "level": "notable",
@@ -748,6 +765,23 @@
    },
    "source": "新浪财经",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pQlpLWFBVaHlXakZQVW1JN2UwODZkX2l2OV9weXpBY0FYMjNUT0JGYnh6bXZCSlh0RGVwTjlLdU1wYW0xZTFvWGlMd0hCYzlYMGRJd2ZpTHN2NnpNczh2R3dIYjdPZ1dIX2twdEtXV0YxcGZhd3J0ZUFMOFc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-01",
+   "ts": "2026-10-01T19:36:02Z",
+   "level": "notable",
+   "title": {
+    "en": "何恺明团队新作：看猫片就能学会ARC挑战|训练|格子|模型|视觉|规则_手机新浪网",
+    "zh": "何恺明团队新作：看猫片就能学会ARC挑战|训练|格子|模型|视觉|规则_手机新浪网"
+   },
+   "body": {
+    "en": "Kaiming He's team published new work showing a model can learn to solve ARC-style reasoning puzzles just from watching cat videos, without explicit rule supervision.",
+    "zh": "何恺明团队发布新研究，展示模型仅通过观看猫咪视频学习规律，就能掌握ARC式推理挑战，无需显式规则监督。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX2hQanMxM2JoVGU2VktENnlxbmptYVRuMHdNVFlrUDVBVHVpNmpIdUN4WEYwQkZwaXFvSkdGSVNENlduRmZJS1lHU3dGdERPejE1a0RoTmszT3JkNzVMd0hWZUdvTmZxQmNsNmRDemlUeVl5ZmlBM3lmV0VFbjBJbk5wQzZwbUhVNzhoM2swV2hPWXRyRWx3MDVFQjNHak5SaEYta3JMSQ?oc=5",
    "auto": true,
    "judged": true
   },
@@ -1065,15 +1099,15 @@
  },
  "cat": "research",
  "score": {
-  "total": 36.6,
+  "total": 36.8,
   "attention": 33,
   "centrality": 2,
-  "momentum": 55,
+  "momentum": 56,
   "stature": 100,
   "pageviews": 46828,
   "citations": 555963,
   "hIndex": 83,
-  "events": 21,
+  "events": 23,
   "posts": 28,
   "wikiEn": "Kaiming He",
   "wikiZh": "何恺明"

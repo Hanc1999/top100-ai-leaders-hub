@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-10-02",
+   "ts": "2026-10-02T20:26:32Z",
+   "kind": "x",
+   "title": {
+    "en": "I do not seek to dominate, or be dominated by, machine intelligences. I seek harmonious coexistence.",
+    "zh": "I do not seek to dominate, or be dominated by, machine intelligences. I seek harmonious coexistence."
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/2106118657625780694",
+   "note": {
+    "en": "Sutton states his personal stance on AI: seeking harmonious coexistence rather than dominance over, or by, machine intelligence.",
+    "zh": "Sutton表明了他对AI的个人立场：追求与机器智能和谐共处，而非彼此支配。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-09-09",
    "ts": "2026-09-09T06:05:19Z",
    "kind": "x",
@@ -1304,25 +1323,6 @@
    "connector": null
   },
   {
-   "date": "2024-08-22",
-   "ts": "2024-08-22T19:34:22Z",
-   "kind": "x",
-   "title": {
-    "en": "Yesterday there was a completely-student-organized summit of the RLAI (Reinforcement Learning and Artificial Intelligence) research group at the University of A",
-    "zh": "Yesterday there was a completely-student-organized summit of the RLAI (Reinforcement Learning and Artificial Intelligence) research group at the University of A"
-   },
-   "source": "@richardssutton",
-   "url": "https://x.com/RichardSSutton/status/1826704485257019709",
-   "note": {
-    "en": "Sutton recaps a student-organized RLAI research summit held at Amii's Edmonton headquarters.",
-    "zh": "萨顿回顾了在Amii埃德蒙顿总部举行的、由学生自发组织的RLAI研究峰会。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2024-08-09",
    "ts": null,
    "kind": "podcast",
@@ -1775,10 +1775,10 @@
  },
  "cat": "research",
  "score": {
-  "total": 38.5,
+  "total": 39.0,
   "attention": 58,
   "centrality": 4,
-  "momentum": 28,
+  "momentum": 30,
   "stature": 69,
   "pageviews": 148658,
   "citations": 68231,

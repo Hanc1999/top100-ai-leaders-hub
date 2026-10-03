@@ -175,6 +175,25 @@
    }
   },
   {
+   "date": "2026-10-02",
+   "ts": "2026-10-02T12:14:21Z",
+   "kind": "x",
+   "title": {
+    "en": "It’s quite disturbing that Anthropic has been running a campaign to lobby the major faiths to adopt their own philosophical interpretation of AI, rather than ta",
+    "zh": "It’s quite disturbing that Anthropic has been running a campaign to lobby the major faiths to adopt their own philosophical interpretation of AI, rather than ta"
+   },
+   "source": "@aidangomez",
+   "url": "https://x.com/aidangomez/status/2105994794883502168",
+   "note": {
+    "en": "Gomez criticized Anthropic for lobbying major religious faiths to adopt its own philosophical framing of AI rather than seeking their input.",
+    "zh": "Gomez批评Anthropic游说各大宗教采纳其自身对AI的哲学解读，而非征询这些宗教的意见。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-09-30",
    "ts": "2026-09-30T13:50:52Z",
    "kind": "x",
@@ -1315,25 +1334,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2025-05-04",
-   "ts": "2025-05-04T15:55:48Z",
-   "kind": "x",
-   "title": {
-    "en": "The best way forward for LmSys is to acknowledge the failures their prior system allowed (rather than denying them) and restructure processes to protect against",
-    "zh": "The best way forward for LmSys is to acknowledge the failures their prior system allowed (rather than denying them) and restructure processes to protect against"
-   },
-   "source": "@aidangomez",
-   "url": "https://x.com/aidangomez/status/1919058386668200029",
-   "note": {
-    "en": "Gomez criticized LMSYS/Chatbot Arena's handling of a leaderboard controversy, arguing it should acknowledge failures in its prior system rather than deny them.",
-    "zh": "Gomez批评了LMSYS（Chatbot Arena）在排行榜争议中的处理方式，认为其应承认此前系统的问题而非否认。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2025-04-15",
    "ts": null,
    "kind": "podcast",
@@ -2131,10 +2131,10 @@
  },
  "cat": "product",
  "score": {
-  "total": 44.9,
+  "total": 44.7,
   "attention": 44,
   "centrality": 43,
-  "momentum": 63,
+  "momentum": 62,
   "stature": 12,
   "pageviews": 68965,
   "citations": 8859,

@@ -1,5 +1,5 @@
 {
- "rank": 65,
+ "rank": 64,
  "id": "jurgen-schmidhuber",
  "name": {
   "en": "Jürgen Schmidhuber",
@@ -169,6 +169,25 @@
     "en": "His running, heavily footnoted account of who did what first — contentious and worth reading for exactly that reason.",
     "zh": "他持续更新、脚注密集的「谁先做了什么」记述 —— 有争议，也正因如此值得一读。"
    }
+  },
+  {
+   "date": "2026-10-02",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Informatiker Jürgen Schmidhuber: Der KI-Enthusiast",
+    "zh": "Informatiker Jürgen Schmidhuber: Der KI-Enthusiast"
+   },
+   "source": "Im Gespräch",
+   "url": "https://podcasts.apple.com/us/podcast/informatiker-j%C3%BCrgen-schmidhuber-der-ki-enthusiast/id477112317?i=1000792721200&uo=4",
+   "note": {
+    "en": "In this German radio interview, Schmidhuber discusses his lifelong ambition to build a machine smarter than himself and his predictions for AI's near future.",
+    "zh": "在这期德语广播访谈中，施米德胡贝谈到自己毕生梦想打造比人类更聪明的机器，并分享了他对AI近期发展的预测。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   },
   {
    "date": "2026-09-28",
@@ -1123,16 +1142,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 35.9,
+  "total": 36.1,
   "attention": 42,
   "centrality": 9,
-  "momentum": 33,
+  "momentum": 34,
   "stature": 88,
   "pageviews": 60498,
   "citations": 185831,
   "hIndex": 89,
   "events": 2,
-  "posts": 50,
+  "posts": 51,
   "wikiEn": "Jürgen Schmidhuber",
   "wikiZh": "于尔根·施密德胡伯"
  },

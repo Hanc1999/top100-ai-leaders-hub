@@ -1,5 +1,5 @@
 {
- "rank": 20,
+ "rank": 19,
  "id": "koray-kavukcuoglu",
  "name": {
   "en": "Koray Kavukcuoglu",
@@ -835,6 +835,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-23",
+   "ts": "2026-09-23T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Exclusive: Koray Kavukcuoglu's First Interview Since Taking Over Google DeepMind",
+    "zh": "Exclusive: Koray Kavukcuoglu's First Interview Since Taking Over Google DeepMind"
+   },
+   "body": {
+    "en": "Koray Kavukcuoglu gave his first interview since taking over as head of Google DeepMind, confirming he now runs the lab's day-to-day operations.",
+    "zh": "Koray Kavukcuoglu在接任Google DeepMind负责人后首次接受专访，确认他已全面执掌该实验室的日常运营。"
+   },
+   "source": "The Information",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yeUo4b1pZUXhXb0JWdElZeU9RN01HdnFTYnFRNXRJYzllWk5EWjd2cURIc1ZYV2FyNkE3bmtxd0psVXdSbkRBNnU1Vnc5YTNvSUE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-08-12",
    "ts": null,
    "level": "major",
@@ -944,15 +961,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 70.6,
+  "total": 71.8,
   "attention": null,
   "centrality": 87,
-  "momentum": 48,
+  "momentum": 51,
   "stature": 78,
   "pageviews": 0,
   "citations": 166549,
   "hIndex": 73,
-  "events": 9,
+  "events": 10,
   "posts": 35,
   "wikiEn": null,
   "wikiZh": null

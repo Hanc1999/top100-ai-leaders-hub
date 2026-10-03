@@ -810,6 +810,25 @@
    "connector": "backfill"
   },
   {
+   "date": "2023-03-24",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Special Guest Kevin Scott",
+    "zh": "Special Guest Kevin Scott"
+   },
+   "source": "ShopNotes Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/special-guest-kevin-scott/id1494711931?i=1000605669772&uo=4",
+   "note": {
+    "en": "Scott appeared as the guest on the ShopNotes Podcast, discussing his work as Microsoft's CTO alongside his hobby of woodworking.",
+    "zh": "斯科特作为嘉宾登上ShopNotes播客，谈及他作为微软CTO的工作以及木工爱好。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2023-03-21",
    "ts": null,
    "kind": "x",
@@ -1127,7 +1146,7 @@
   "citations": 38763,
   "hIndex": 96,
   "events": 1,
-  "posts": 52,
+  "posts": 53,
   "wikiEn": "Kevin Scott (businessman)",
   "wikiZh": null
  },

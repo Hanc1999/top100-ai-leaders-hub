@@ -576,6 +576,25 @@
    "connector": "backfill"
   },
   {
+   "date": "2022-08-11",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "EP 83: Daphne Koller, Founder & CEO of Insitro - Integrating machine learning and biology at scale to reimagine drug discovery",
+    "zh": "EP 83: Daphne Koller, Founder & CEO of Insitro - Integrating machine learning and biology at scale to reimagine drug discovery"
+   },
+   "source": "The Genetics Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/ep-83-daphne-koller-founder-ceo-of-insitro/id1462418412?i=1000625364364&uo=4",
+   "note": {
+    "en": "Daphne Koller appeared on The Genetics Podcast to discuss how Insitro integrates machine learning and biology at scale to reimagine drug discovery.",
+    "zh": "Daphne Koller作客The Genetics Podcast节目，讲述Insitro如何大规模整合机器学习与生物学以重塑药物发现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2021-11-04",
    "ts": null,
    "kind": "x",
@@ -1359,16 +1378,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 29.4,
+  "total": 29.2,
   "attention": 32,
   "centrality": 25,
-  "momentum": 13,
+  "momentum": 12,
   "stature": 66,
   "pageviews": 41906,
   "citations": 61723,
   "hIndex": 122,
   "events": 1,
-  "posts": 63,
+  "posts": 64,
   "wikiEn": "Daphne Koller",
   "wikiZh": "達芙妮·科勒"
  },

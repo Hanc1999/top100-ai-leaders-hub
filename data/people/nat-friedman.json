@@ -127,6 +127,25 @@
    }
   },
   {
+   "date": "2026-10-02",
+   "ts": "2026-10-02T19:09:57Z",
+   "kind": "x",
+   "title": {
+    "en": "🚨 side project alert 🚨 Announcing Muse Gadgets, an open source ESP32 firmware and Linux sdk so that you can make hardware devices that work with Muse. Grab an A",
+    "zh": "🚨 side project alert 🚨 Announcing Muse Gadgets, an open source ESP32 firmware and Linux sdk so that you can make hardware devices that work with Muse. Grab an A"
+   },
+   "source": "@natfriedman",
+   "url": "https://x.com/natfriedman/status/2106099383037309211",
+   "note": {
+    "en": "Nat Friedman announced Muse Gadgets, an open-source ESP32 firmware and Linux SDK for building hardware devices that interoperate with Muse.",
+    "zh": "Nat Friedman发布了Muse Gadgets，这是一套开源ESP32固件和Linux SDK，用于制作与Muse兼容的硬件设备。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-07-16",
    "ts": null,
    "kind": "x",
@@ -1077,25 +1096,6 @@
    "connector": null
   },
   {
-   "date": "2024-06-20",
-   "ts": "2024-06-20T15:34:27Z",
-   "kind": "x",
-   "title": {
-    "en": "Everyone else speculatively talking about one day decommissioning power hungry obsolete factories for AI, and Elon just goes and does it",
-    "zh": "Everyone else speculatively talking about one day decommissioning power hungry obsolete factories for AI, and Elon just goes and does it"
-   },
-   "source": "@natfriedman",
-   "url": "https://x.com/natfriedman/status/1803813671316951292",
-   "note": {
-    "en": "Friedman contrasted others' speculation about repurposing power-hungry factories for AI with Elon Musk actually doing it, a comment on xAI's compute buildout.",
-    "zh": "Friedman将其他人对改造高耗能工厂用于AI计算的空谈,与埃隆·马斯克真正付诸行动做对比,评论了xAI的算力扩张。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2024-05-30",
    "ts": null,
    "kind": "podcast",
@@ -1324,10 +1324,10 @@
  },
  "cat": "lab",
  "score": {
-  "total": 42.5,
+  "total": 42.8,
   "attention": 51,
   "centrality": 54,
-  "momentum": 12,
+  "momentum": 13,
   "stature": null,
   "pageviews": 102631,
   "citations": 8,

@@ -986,6 +986,23 @@
    "judged": true
   },
   {
+   "date": "2026-06-25",
+   "ts": "2026-06-25T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Andrej Karpathy Says AI Is No Longer A Chatbot—It’s Becoming Your Teammate",
+    "zh": "Andrej Karpathy Says AI Is No Longer A Chatbot—It’s Becoming Your Teammate"
+   },
+   "body": {
+    "en": "Karpathy argued AI is shifting from a chatbot model to functioning as a teammate, a framing he has pushed since leaving OpenAI.",
+    "zh": "Karpathy提出AI正从聊天机器人模式转向扮演\"队友\"角色，这一说法延续了他离开OpenAI后的一贯观点。"
+   },
+   "source": "Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbjVqOUg3SnE1bUkxS05PV25JcXRRc1BidkRVdzJUSVlORDZiZ0NYR1k4MHFST1p0a0VVX0k2QXY4bWdVUEZzZF9CTGRYVnJhNmQyUXJ2aC1FVmFsbnZZZHc1NFNkQ2F3VHE0Q29tbXNkdWl0S1VQYVZNTXNLQ1dEX0lzdnZRRlNUdktR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-05-19",
    "ts": null,
    "level": "major",
@@ -1248,15 +1265,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 65.4,
+  "total": 65.6,
   "attention": 79,
   "centrality": 47,
-  "momentum": 62,
+  "momentum": 63,
   "stature": 63,
   "pageviews": 695645,
   "citations": 58963,
   "hIndex": 20,
-  "events": 20,
+  "events": 21,
   "posts": 39,
   "wikiEn": "Andrej Karpathy",
   "wikiZh": "安德烈·卡帕西"

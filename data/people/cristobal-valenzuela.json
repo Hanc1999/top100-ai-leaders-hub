@@ -467,6 +467,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2026-04-01",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "De artista en Chile a $5,300M en AI | Cristobal Valenzuela, Runway",
+    "zh": "De artista en Chile a $5,300M en AI | Cristobal Valenzuela, Runway"
+   },
+   "source": "Startupeable: Emprendimiento | Tecnolo…",
+   "url": "https://podcasts.apple.com/us/podcast/de-artista-en-chile-a-%245-300m-en-ai/id1547337414?i=1000758648625&uo=4",
+   "note": {
+    "en": "Spanish-language podcast interview with Runway co-founder Cristóbal Valenzuela on his path from film student in Chile to building a $5.3B AI video company.",
+    "zh": "西班牙语播客专访Runway联合创始人Cristóbal Valenzuela，讲述他从智利电影爱好者成长为一家53亿美元AI视频公司创始人的经历。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2025-11-06",
    "ts": null,
    "kind": "podcast",
@@ -718,16 +737,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 23.0,
+  "total": 23.2,
   "attention": 17,
   "centrality": 39,
-  "momentum": 16,
+  "momentum": 17,
   "stature": null,
   "pageviews": 11021,
   "citations": 16,
   "hIndex": 2,
   "events": 1,
-  "posts": 29,
+  "posts": 30,
   "wikiEn": "Cristóbal Valenzuela",
   "wikiZh": null
  },

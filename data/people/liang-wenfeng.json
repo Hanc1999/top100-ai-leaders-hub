@@ -641,6 +641,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-26",
+   "ts": "2026-09-26T02:30:00Z",
+   "level": "notable",
+   "title": {
+    "en": "梁文锋署名，DeepSeek又发新论文了",
+    "zh": "梁文锋署名，DeepSeek又发新论文了"
+   },
+   "body": {
+    "en": "DeepSeek published a new paper on DSec, its sandbox infrastructure for large-scale agent training, with Liang Wenfeng credited among 130+ authors.",
+    "zh": "DeepSeek发布了关于DSec（面向大规模智能体训练的沙箱基础设施）的新论文，梁文锋位列130余位署名作者之中。"
+   },
+   "source": "blog.csdn.net",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GZ1ZYMTZkOF96aE1tdnZXSzIyOExjV256bmRKRmxyMXpyM2ZlTVB2VWprNDFKUXNTTDNJMVQ0YlBraHBfMDV5NlZHSTZYOVlPUWVrRWN4c1pnenNhRTVXb0JiVG9KLVVtdVRoVGlB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-25",
    "ts": "2026-09-25T07:23:27Z",
    "level": "notable",
@@ -926,6 +943,23 @@
    },
    "source": "news.ifeng.com",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB1NXNJWXZ1OXJ0cVZJNEZlRzR0NkEwSzFoMkhwN0tqd1BRYUVHWURQUTh4TTgzeF9iNERDUzRWSzdiU3VkMnpQY25ZdW0?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-24",
+   "ts": "2026-09-24T01:32:08Z",
+   "level": "notable",
+   "title": {
+    "en": "DeepSeek论文上新 署名作者名单超过130人 梁文锋排最后一个",
+    "zh": "DeepSeek论文上新 署名作者名单超过130人 梁文锋排最后一个"
+   },
+   "body": {
+    "en": "DeepSeek released a new paper with over 130 listed authors, with Liang Wenfeng placed last in the author list per the Chinese academic convention for the corresponding author.",
+    "zh": "DeepSeek发布新论文，署名作者超过130人，按照中国学术惯例，梁文锋作为通讯作者排在名单最后。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHJtLXFMTjRHM28tV2dWbGh6dmVhaS1XV3ZMVU56eVd4ZDgxMGFHZEswa2N5LXZzamdGekRISkRlUDY2RlZSX0Qyc3pZb2V3aW9Wa1JlMU1lZ3RNdlNGOExiSVFjemJKUTg0UGt3UlJwc0xlc2dGUmtLcEk1NzExd0JKWUt3R1VI?oc=5",
    "auto": true,
    "judged": true
   },
@@ -1300,6 +1334,23 @@
    },
    "source": "腾讯新闻",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5haDVEQi1fSm85NWRmSnpaTWQ0M21fdktubEp5QVAyTVNTLTNXYkpWSkliby1jczJoZnVFdmhZdVUtTXo2V3IxR1YyZTRWUTB2V0VWTzF3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-23",
+   "ts": "2026-09-23T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "梁文锋招来一位“90后”CFO！他投资过智谱AI、字节跳动、极兔、小红书等公司",
+    "zh": "梁文锋招来一位“90后”CFO！他投资过智谱AI、字节跳动、极兔、小红书等公司"
+   },
+   "body": {
+    "en": "DeepSeek hired a new CFO with a background investing in Zhipu AI, ByteDance, Jitu and Xiaohongshu, signaling the company is building out its finance leadership.",
+    "zh": "DeepSeek招募了一位新任CFO，此人曾投资智谱AI、字节跳动、极兔和小红书等公司，显示DeepSeek正在加强财务管理团队建设。"
+   },
+   "source": "腾讯新闻",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16VEtSRUszeGxrNnp2R2xEZUxDeG1BX3pqclZtWmlFeHpKcFJLWUwzQTcyWHNNTmV2NUh6d0dFaGlaNmRtay02YTVTbWphZ0todVlSTTlR?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2943,15 +2994,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 69.9,
+  "total": 69.7,
   "attention": 62,
   "centrality": 87,
-  "momentum": 94,
+  "momentum": 93,
   "stature": 3,
   "pageviews": 186365,
   "citations": 5692,
   "hIndex": 37,
-  "events": 143,
+  "events": 146,
   "posts": 18,
   "wikiEn": "Liang Wenfeng",
   "wikiZh": "梁文锋"

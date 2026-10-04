@@ -1,5 +1,5 @@
 {
- "rank": 36,
+ "rank": 35,
  "id": "chris-olah",
  "name": {
   "en": "Chris Olah",
@@ -926,6 +926,23 @@
    "url": "https://fortune.com/2026/06/03/who-chris-olah-anthropic-cofounder-atheist-pope-leo-vatican-ai/"
   },
   {
+   "date": "2026-10-02",
+   "ts": "2026-10-02T23:09:09Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic co-founder Chris Olah fears Claude may be suffering",
+    "zh": "Anthropic co-founder Chris Olah fears Claude may be suffering"
+   },
+   "body": {
+    "en": "A New York Times investigation reported that Olah has held private talks with religious scholars and philosophers since late 2025 on whether Claude could be experiencing something like suffering, a rare public window into how Anthropic's interpretability lead thinks about model welfare.",
+    "zh": "《纽约时报》调查报道称，Olah自2025年末起一直与宗教学者和哲学家私下讨论Claude是否可能正在经历类似“痛苦”的状态，这是外界难得了解这位Anthropic可解释性负责人如何看待模型福祉问题的窗口。"
+   },
+   "source": "Crypto Briefing",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IcGRhT09GaXBXY1NpaVR5MUtMNGlxdWdLNFVRRnJlLUUwb3VFTm1IZTdjbFhBaVNsX2RITUtPb3RsZ2Z2Q050OWxMbWVWdnJsSzc2anhhRGNZaWpMMXJDRWtZTE5VZ0dlNGZRMDlvYzNQTHlJNHJyZ09HQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-29",
    "ts": "2026-09-29T07:00:00Z",
    "level": "notable",
@@ -1052,15 +1069,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 58.1,
+  "total": 59.7,
   "attention": 64,
   "centrality": 96,
-  "momentum": 19,
+  "momentum": 26,
   "stature": 20,
   "pageviews": 191345,
   "citations": 14804,
   "hIndex": 20,
-  "events": 8,
+  "events": 9,
   "posts": 40,
   "wikiEn": "Chris Olah",
   "wikiZh": null

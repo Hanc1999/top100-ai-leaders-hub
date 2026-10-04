@@ -255,6 +255,25 @@
    "connector": null
   },
   {
+   "date": "2026-09-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Function-preserving watermarking of AI-generated proteins",
+    "zh": "Function-preserving watermarking of AI-generated proteins"
+   },
+   "source": "Nature",
+   "url": "https://doi.org/10.1038/s41586-026-10965-y",
+   "note": {
+    "en": "Hassabis co-authored a Nature paper introducing SynthID Bio, a function-preserving watermarking method for AI-designed proteins meant to deter bioweapon misuse without degrading the proteins' intended function.",
+    "zh": "Hassabis合著了一篇Nature论文，提出SynthID Bio方法，可在不破坏AI设计蛋白质原有功能的前提下为其添加水印，旨在防止生物武器滥用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-09-16",
    "ts": "2026-09-16T13:13:47Z",
    "kind": "x",
@@ -2487,7 +2506,7 @@
   "citations": 195503,
   "hIndex": 92,
   "events": 30,
-  "posts": 96,
+  "posts": 97,
   "wikiEn": "Demis Hassabis",
   "wikiZh": "杰米斯·哈萨比斯"
  },

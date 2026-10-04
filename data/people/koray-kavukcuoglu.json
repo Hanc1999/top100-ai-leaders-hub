@@ -576,6 +576,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2021-10-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Applying and improving AlphaFold at CASP14",
+    "zh": "Applying and improving AlphaFold at CASP14"
+   },
+   "source": "Proteins Structure Function and Bioinf…",
+   "url": "https://doi.org/10.1002/prot.26257",
+   "note": {
+    "en": "Kavukcuoglu co-authored the landmark paper on applying and improving AlphaFold at CASP14, the protein-structure contest that established AlphaFold's breakthrough accuracy.",
+    "zh": "Kavukcuoglu是AlphaFold在CASP14蛋白质结构预测竞赛中应用与改进这一里程碑论文的共同作者，该竞赛确立了AlphaFold的突破性准确度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2020-06-13",
    "ts": null,
    "kind": "paper",
@@ -970,7 +989,7 @@
   "citations": 166549,
   "hIndex": 73,
   "events": 10,
-  "posts": 35,
+  "posts": 36,
   "wikiEn": null,
   "wikiZh": null
  },

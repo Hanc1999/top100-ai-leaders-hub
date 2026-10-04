@@ -183,6 +183,44 @@
    }
   },
   {
+   "date": "2026-10-03",
+   "ts": "2026-10-03T19:48:35Z",
+   "kind": "x",
+   "title": {
+    "en": "The PhD thesis of my 15th PhD student, Shibhansh Dohare (@ShibhanshD), is now available. Title: Learning Forever using Artificial Neural Networks Url: https://t",
+    "zh": "The PhD thesis of my 15th PhD student, Shibhansh Dohare (@ShibhanshD), is now available. Title: Learning Forever using Artificial Neural Networks Url: https://t"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/2106471496126505132",
+   "note": {
+    "en": "Sutton announced that the dissertation of his 15th PhD student, Shibhansh Dohare, 'Learning Forever using Artificial Neural Networks,' is now publicly available.",
+    "zh": "萨顿宣布其第15位博士生Shibhansh Dohare的学位论文《用人工神经网络永远学习》已公开发布。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-03",
+   "ts": "2026-10-03T21:44:42Z",
+   "kind": "x",
+   "title": {
+    "en": "The PhD thesis of my 16th PhD student, Fernando Hernandez Garcia, is now available. Title: Selective Reinitialization Algorithms for Preventing Plasticity Loss",
+    "zh": "The PhD thesis of my 16th PhD student, Fernando Hernandez Garcia, is now available. Title: Selective Reinitialization Algorithms for Preventing Plasticity Loss"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/2106500715254587572",
+   "note": {
+    "en": "Sutton announced the completed PhD thesis of his 16th doctoral student, Fernando Hernandez Garcia, on selective reinitialization algorithms to prevent plasticity loss in neural networks.",
+    "zh": "萨顿宣布其第16位博士生Fernando Hernandez Garcia的论文已完成，研究主题是防止神经网络可塑性丧失的选择性重新初始化算法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-02",
    "ts": "2026-10-02T20:26:32Z",
    "kind": "x",
@@ -1285,44 +1323,6 @@
    "connector": null
   },
   {
-   "date": "2024-08-25",
-   "ts": "2024-08-25T22:06:52Z",
-   "kind": "x",
-   "title": {
-    "en": "This is my interview with Dan Fagella on the future of AI. I argued for a future in which people and AIs cooperate. Cooperation means participants interacting v",
-    "zh": "This is my interview with Dan Fagella on the future of AI. I argued for a future in which people and AIs cooperate. Cooperation means participants interacting v"
-   },
-   "source": "@richardssutton",
-   "url": "https://x.com/RichardSSutton/status/1827830024856285593",
-   "note": {
-    "en": "Sutton describes his interview with Dan Fagella, framing a future built on voluntary human-AI cooperation for mutual benefit.",
-    "zh": "萨顿谈及与Dan Fagella的访谈，提出人类与AI应基于自愿合作、互惠互利的未来构想。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2024-08-24",
-   "ts": "2024-08-24T18:17:22Z",
-   "kind": "x",
-   "title": {
-    "en": "A year later and our work on Loss of Plasticity is finally published, in Nature no less! The Nature version is totally rewritten and has many new results: https",
-    "zh": "A year later and our work on Loss of Plasticity is finally published, in Nature no less! The Nature version is totally rewritten and has many new results: https"
-   },
-   "source": "@richardssutton",
-   "url": "https://x.com/RichardSSutton/status/1827409881890222214",
-   "note": {
-    "en": "Sutton announces the Nature publication of his Loss of Plasticity work, rewritten with new results a year after the original release.",
-    "zh": "萨顿宣布其\"可塑性丧失\"研究成果发表于《自然》杂志，该版本较原版全面重写并新增结果。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2024-08-09",
    "ts": null,
    "kind": "podcast",
@@ -1775,10 +1775,10 @@
  },
  "cat": "research",
  "score": {
-  "total": 39.0,
+  "total": 39.2,
   "attention": 58,
   "centrality": 4,
-  "momentum": 30,
+  "momentum": 31,
   "stature": 69,
   "pageviews": 148658,
   "citations": 68231,

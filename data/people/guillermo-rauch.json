@@ -127,6 +127,25 @@
    }
   },
   {
+   "date": "2026-10-02",
+   "ts": null,
+   "kind": "report",
+   "title": {
+    "en": "rauchg made this repository public",
+    "zh": "rauchg made this repository public"
+   },
+   "source": "GitHub Public Timeline Feed",
+   "url": "https://github.com/rauchg/skills",
+   "note": {
+    "en": "Rauch open-sourced a new GitHub repo, rauchg/skills, a collection of agent skills.",
+    "zh": "Rauch开源了新的GitHub仓库rauchg/skills，收录了一系列智能体（agent）技能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "github",
+   "connector": "github"
+  },
+  {
    "date": "2026-09-08",
    "ts": null,
    "kind": "x",
@@ -989,7 +1008,7 @@
   "citations": 9,
   "hIndex": 1,
   "events": 4,
-  "posts": 42,
+  "posts": 43,
   "wikiEn": null,
   "wikiZh": null
  },

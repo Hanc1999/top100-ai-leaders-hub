@@ -318,6 +318,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2026-02-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Artificial Intelligence as the Fourth Decentering Revolution: From Cosmic, Biological, and Psychological Displacement to Cognitive Decentering",
+    "zh": "Artificial Intelligence as the Fourth Decentering Revolution: From Cosmic, Biological, and Psychological Displacement to Cognitive Decentering"
+   },
+   "source": "Cognitive Computation",
+   "url": "https://doi.org/10.1007/s12559-026-10569-8",
+   "note": {
+    "en": "Hinton co-authored a Cognitive Computation paper arguing AI constitutes a fourth 'decentering' revolution in how humans understand their place in the universe, after Copernicus, Darwin and Freud.",
+    "zh": "Hinton与多位学者合著论文，提出AI构成继哥白尼、达尔文、弗洛伊德之后人类认知史上第四次「去中心化」革命。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-02-24",
    "ts": null,
    "kind": "paper",
@@ -620,6 +639,25 @@
    "judged": true,
    "platform": "apple-podcasts",
    "connector": "podcasts"
+  },
+  {
+   "date": "2025-08-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Nobel Lecture: Boltzmann machines",
+    "zh": "Nobel Lecture: Boltzmann machines"
+   },
+   "source": "Reviews of Modern Physics",
+   "url": "https://doi.org/10.1103/revmodphys.97.030502",
+   "note": {
+    "en": "Hinton's published Nobel Lecture on Boltzmann machines, the stochastic neural network model that helped win him the 2024 Nobel Prize in Physics.",
+    "zh": "Hinton发表的诺贝尔演讲文稿，讲述玻尔兹曼机——这一随机神经网络模型帮助他获得2024年诺贝尔物理学奖。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2025-06-26",
@@ -2547,7 +2585,7 @@
   "citations": 452436,
   "hIndex": 137,
   "events": 52,
-  "posts": 80,
+  "posts": 82,
   "wikiEn": "Geoffrey Hinton",
   "wikiZh": "杰弗里·辛顿"
  },

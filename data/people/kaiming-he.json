@@ -208,6 +208,25 @@
    }
   },
   {
+   "date": "2026-10-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "VISTA: A Visual Harness for Reasoning in an Interactive World",
+    "zh": "VISTA: A Visual Harness for Reasoning in an Interactive World"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.02200v1",
+   "note": {
+    "en": "He co-authored VISTA, a visual harness that gives multimodal models a persistent visual memory, sharply improving their efficiency on interactive reasoning benchmarks like ARC-AGI-3.",
+    "zh": "何恺明与他人合著《VISTA》，为多模态模型提供持久视觉记忆的「视觉支架」，显著提升其在ARC-AGI-3等交互式推理基准上的效率。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-07-10",
    "ts": null,
    "kind": "paper",
@@ -735,6 +754,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-02",
+   "ts": "2026-10-02T08:54:57Z",
+   "level": "notable",
+   "title": {
+    "en": "何恺明团队新作：看猫片就能学会ARC挑战|训练|格子|模型|视觉|规则_手机新浪网",
+    "zh": "何恺明团队新作：看猫片就能学会ARC挑战|训练|格子|模型|视觉|规则_手机新浪网"
+   },
+   "body": {
+    "en": "Chinese media covered He's team's new work showing a model can learn ARC-style visual puzzles after training on cat videos, an example of their visual-memory research drawing wider attention.",
+    "zh": "中文媒体报道了何恺明团队的新成果，展示模型通过观看猫咪视频学会解决ARC类视觉谜题，其视觉记忆研究由此获得更广泛关注。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxOWHlnYVJUcUJpTUhndTUxQkRxY2NxX1MtOEhRZ05CTWFsRHRUdUdhcm9pV0lMd19vZDdHdUtKdUFObjk3RkFIblNkYkVkQkxZanBWT0RYUUZiT3M1dHJqOWhKYVVuY3ZNd3ZFTjI1WmZleEZ2d0dWQ1gtcW90Q0RjNkxibzBnQzEyY2pmWHdOLS1jVmx5RWpiaHlfa1pYcGpXRk9JcnZYNlQ0dTM2M1M3S1pnNVl1d2Q0TjdOUEJ4UTNrY2hkS040dHhBYWtOZm9WT3ZYQl85MXVsNkwtc0VwOXJ2VDFmRjlOSVo3LUZ0QjFzVElSS0ptT1oybWliVmdRUzlBSi1ZYkhSUE5pTzNOWGtxQzJiSk1QSEFpTFE0ZG5pWDhIWlNHSmgzaERRQVZMUXpYdmw0Sy1WdVRlTi0zWDlJYXc0MGVOWW5hRjlNSFVmaUpXRG85VTRkWUFRcFJCX1lXSGhidTJtRWREMUtZZFhfU2hiUTVqWWZMR0NxSGFod3RZNEtGb1liOUF6ZWprMmgxSk51UXJfVTR4RG1TekhkZnpUVjBzZ29IQjZ5UUZiTHlFem9BLWpWNkJrRjVLXzRnaUlqVWN3ZWJfSGxncnpqSEJ0eV9KeDM1VEpFdWV0Wm85UmZuLWtMMldNZWpJNmR3Sml0TXJZSnhJMGdxOTRCXzlBWWhpcElkc0J6cGVqNUJva2t3cEt6QjY0a0dPVmlpSGR4R29NTkkzYm1tRmFtNzVpcXlxeUlSY29WczJkX1g4NVIyRmkzaFpvQmNxdExHUWtYUmhtVHVCQ0c4TExheHltaGVobVlj?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-01",
    "ts": "2026-10-01T04:00:00Z",
    "level": "notable",
@@ -1099,16 +1135,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 36.8,
+  "total": 37.1,
   "attention": 33,
   "centrality": 2,
-  "momentum": 56,
+  "momentum": 57,
   "stature": 100,
   "pageviews": 46828,
   "citations": 555963,
   "hIndex": 83,
-  "events": 23,
-  "posts": 28,
+  "events": 24,
+  "posts": 29,
   "wikiEn": "Kaiming He",
   "wikiZh": "何恺明"
  },

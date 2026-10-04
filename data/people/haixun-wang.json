@@ -224,6 +224,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2026-09-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Gradient-Aligned Pair Selection for Personalized Preference Optimization",
+    "zh": "Gradient-Aligned Pair Selection for Personalized Preference Optimization"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.00061v1",
+   "note": {
+    "en": "Wang co-authored GAP-DPO, a new method for personalizing LLM preference optimization by aligning preference-pair selection with per-user utility gradients, with long-time collaborator Ruoming Jin's group.",
+    "zh": "王海勋与长期合作者Ruoming Jin团队共同提出GAP-DPO方法，通过将偏好对选择与用户效用梯度对齐，实现大语言模型的个性化偏好优化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-07-28",
    "ts": "2026-07-28T05:07:41Z",
    "kind": "x",
@@ -1064,16 +1083,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 6.4,
+  "total": 6.8,
   "attention": null,
   "centrality": 5,
-  "momentum": 8,
+  "momentum": 9,
   "stature": null,
   "pageviews": 0,
   "citations": 0,
   "hIndex": 0,
   "events": 1,
-  "posts": 45,
+  "posts": 46,
   "wikiEn": null,
   "wikiZh": null
  },

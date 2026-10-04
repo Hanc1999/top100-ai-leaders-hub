@@ -156,6 +156,44 @@
    }
   },
   {
+   "date": "2026-10-03",
+   "ts": "2026-10-03T04:27:29Z",
+   "kind": "x",
+   "title": {
+    "en": "Robotaxi operating hours moved from 10pm to 11pm. The main thing we’re trying to solve is making sure that we don’t run over pets when they’re hard to see at ni",
+    "zh": "Robotaxi operating hours moved from 10pm to 11pm. The main thing we’re trying to solve is making sure that we don’t run over pets when they’re hard to see at ni"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2106239692866019479",
+   "note": {
+    "en": "Musk pushed Tesla's Robotaxi service hours back from 10pm to 11pm, citing difficulty spotting animals like grey cats at night as the main safety concern.",
+    "zh": "马斯克将特斯拉Robotaxi的运营时间从晚上10点推迟到11点，称主要是为了避免夜间难以看清灰猫等小动物而发生意外。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-03",
+   "ts": "2026-10-03T18:42:17Z",
+   "kind": "x",
+   "title": {
+    "en": "Starship deploying Starlink V3 satellites https://t.co/TG7b8iHYkY",
+    "zh": "Starship deploying Starlink V3 satellites https://t.co/TG7b8iHYkY"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2106454808676716916",
+   "note": {
+    "en": "Musk posted video of a SpaceX Starship deploying Starlink V3 satellites, the latest step in scaling the next-generation satellite constellation.",
+    "zh": "马斯克发布了星舰部署星链V3卫星的视频，这是下一代卫星星座扩展计划的最新进展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-01",
    "ts": "2026-10-01T06:20:45Z",
    "kind": "x",
@@ -1068,44 +1106,6 @@
    "connector": null
   },
   {
-   "date": "2026-09-18",
-   "ts": "2026-09-18T18:13:28Z",
-   "kind": "x",
-   "title": {
-    "en": "My guess is that AI roughly doubles US GDP growth next year from ~2% to ~4%. Maybe even more.",
-    "zh": "My guess is that AI roughly doubles US GDP growth next year from ~2% to ~4%. Maybe even more."
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2101011740574052697",
-   "note": {
-    "en": "Musk predicted AI could roughly double US GDP growth next year, from about 2% to 4%.",
-    "zh": "马斯克预测人工智能明年可能让美国GDP增速翻倍，从约2%升至4%。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-09-17",
-   "ts": "2026-09-17T04:49:48Z",
-   "kind": "x",
-   "title": {
-    "en": "Starlink V5 terminal is in production",
-    "zh": "Starlink V5 terminal is in production"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2100447103927353423",
-   "note": {
-    "en": "Musk announced that SpaceX's Starlink V5 terminal has entered production, a concrete hardware milestone for the Starlink network.",
-    "zh": "马斯克宣布SpaceX的Starlink V5终端已投入量产，这是Starlink网络的一项具体硬件里程碑。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2026-07-23",
    "ts": null,
    "kind": "podcast",
@@ -1205,6 +1205,108 @@
    },
    "source": "xAI",
    "url": "https://x.ai/news"
+  },
+  {
+   "date": "2026-10-03",
+   "ts": "2026-10-03T05:55:00Z",
+   "level": "notable",
+   "title": {
+    "en": "TSMC Reportedly Evaluating Partnership with Elon Musk's Terafab; Texas Fab Plans Surface",
+    "zh": "TSMC Reportedly Evaluating Partnership with Elon Musk's Terafab; Texas Fab Plans Surface"
+   },
+   "body": {
+    "en": "TSMC is reportedly evaluating a partnership with Musk's new Terafab chip plant, with plans for a Texas facility surfacing.",
+    "zh": "据报道，台积电正在评估与马斯克旗下Terafab芯片工厂的合作，德克萨斯新厂计划浮出水面。"
+   },
+   "source": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXVC01NnRqdmszUkg0YkVyVzRFZEJyd2l5UGktT1pkanRQLXIzT3VQa09RbVljNGJpV1NIcWpLWlRKRlBNN1lZM0EzMVNIb0dvOTJacEVfeV9zMWdIVmg5LTY5M3czYThjRmVXS1BOV21iZEp0Zmc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-03",
+   "ts": "2026-10-03T05:44:40Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Joins Pentagon's Meridian Project Amid Conflict Concerns",
+    "zh": "Elon Musk Joins Pentagon's Meridian Project Amid Conflict Concerns"
+   },
+   "body": {
+    "en": "Musk reportedly joined the Pentagon's Meridian project, raising conflict-of-interest concerns given his existing SpaceX and Tesla government contracts.",
+    "zh": "有报道称马斯克加入了五角大楼的Meridian项目，鉴于他旗下SpaceX和特斯拉已有政府合同，此举引发了利益冲突方面的担忧。"
+   },
+   "source": "조선일보",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeGVlV2ZrdFh4dlJLTmZydEJtX3dlMVpkdGhqbTJXdGVlemdnLUtyZnRJcXVVdU5xNW5reVhUdGtxN2k3SkFHc2c5MWNoVndCY193VlBabjlTX2oyMGN0LXhqQTNWcm5TcjFEeXRtcFNxdnZfclpuRWxZdFcyVW5BS2xqQ3I?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-03",
+   "ts": "2026-10-03T11:36:42Z",
+   "level": "notable",
+   "title": {
+    "en": "TSMC Explores Collaboration with Elon Musk's Terafab Project",
+    "zh": "TSMC Explores Collaboration with Elon Musk's Terafab Project"
+   },
+   "body": {
+    "en": "TSMC is reportedly exploring a collaboration on Musk's Terafab chip-fabrication project, a new front in his push for in-house AI compute capacity.",
+    "zh": "据报道，台积电正探讨与马斯克的Terafab芯片制造项目合作，这是他打造自有AI算力产能的最新举措。"
+   },
+   "source": "TechPowerUp",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRkFvb0dFSWVSSUtXSWZhdHpOU0lSdXdnc08tOGpBRVpaQk1mcEUxLVQzNDFIbE1pcDBMWnFpZXE0bVdwWEF6emwwSUMyNUVUNkpwYWxsRDJpTzBQNlkyR3l1UkJOSXo2S3lIbUZNN09JazJIVEJnNFRjZTd1djQ3ZTZOZVZYeGRTVnhIcW50Z0pvZnkyUWU2TUFB0gGfAUFVX3lxTE11NFZheFJlZUU0T2pYQnBwNEQxRzFxSDVfMTVzaTdGLTQ3RFgtMDlzbnh6RXRMWElRXzlDeG9ON19Sb1BSZDNQMWg2em9ScG1pSkJscl9iWkhVVlhhYmRpVC1qUmlfeGNZOFdsTEx1eFFmQnBnR1BlTGxmcVdGZDJMYk1tbmZOM3JiMGVQanVhVjdOdnhNN2JiS3gtSXpGaw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-03",
+   "ts": "2026-10-03T12:39:19Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s SpaceXAI expected to testify at City Council AI hearing after subpoena",
+    "zh": "Elon Musk’s SpaceXAI expected to testify at City Council AI hearing after subpoena"
+   },
+   "body": {
+    "en": "Elon Musk's SpaceXAI unit was subpoenaed and is expected to testify at a City Council hearing on AI, pulling the company into local regulatory scrutiny.",
+    "zh": "埃隆·马斯克旗下的SpaceXAI被传唤，预计将在市议会的AI听证会上作证，使该公司面临地方监管审查。"
+   },
+   "source": "amNewYork",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1LU1ydHY5aVZyRS1WZTQyckp3QWxHc1NJdUVxLXhSajdrWkdDN2t0MjZ6Y1lJR1dkQldzQzdNOFFxZkM3dGFNYy1PRGJ0RUNUWnRFMDg0eUVLODhoQTlhT3lDcnBOUHpZaDVzWHh5MVZaZnQ4?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-03",
+   "ts": "2026-10-03T13:15:05Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Hints at Tesla-SpaceX Merger: “Who Can Imagine What Action One Might Take”",
+    "zh": "Elon Musk Hints at Tesla-SpaceX Merger: “Who Can Imagine What Action One Might Take”"
+   },
+   "body": {
+    "en": "Musk publicly floated a possible Tesla-SpaceX merger, raising the prospect of unifying his car, rocket and AI ventures under one corporate structure.",
+    "zh": "马斯克公开暗示特斯拉与SpaceX可能合并，意味着其汽车、火箭与AI业务或将整合到同一企业架构下。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWwwMkNhUHppOS1qcXpnMWc3WWVvSVF3ekhjaWxuWWdRTnp5bDROcU1VS2NYakwwLVB4ZjY2VXQ2Rlg5THNiZi01blgtQ1pfUWpRZjd6VElQWTVEUGU5UHo2cWJKTG1SNFh6TE1ta3JzSWVUNExLaGdIMmNDbEZhanJjNnNRRTJnU2JJWnV3VzMtVXQxNmN1eA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-03",
+   "ts": "2026-10-03T14:50:50Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk confirms discussions with TSMC about Terafab chipmaking collaboration — Intel is the only other named partner, Terafab to exclusively supply Tesla, SpaceX, and xAI",
+    "zh": "Elon Musk confirms discussions with TSMC about Terafab chipmaking collaboration — Intel is the only other named partner, Terafab to exclusively supply Tesla, SpaceX, and xAI"
+   },
+   "body": {
+    "en": "Musk confirmed talks with TSMC about a Terafab chipmaking venture that would supply Tesla, SpaceX and xAI exclusively, with Intel as the only other named partner — a direct extension of his compute-stack strategy.",
+    "zh": "马斯克确认正与台积电商讨名为Terafab的芯片制造合作，该工厂将专供特斯拉、SpaceX和xAI，英特尔是唯一被提及的另一合作方——这是其算力版图战略的直接延伸。"
+   },
+   "source": "Tom's Hardware",
+   "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNeXItamxLWmIyc21RQWhkVFlValdBRFZZWF9aamZYcmZrdFBXM1BZSHAzZFhydlFHcUNpMlE3bV83dlJLZ0ZIQnZtWGFuNmp4Vzh1QVA2WFFFZk5faHU2U0ZyZlE0RzJxdWplX3pFTm1QTVdibHZTMUZFOHRmTGFjWk1XRnQtSVFLTmpoVjd1cV9HR3dlRDB1TW5jdnpIMk9WZjJhUFRINXFqMWFlNjFVNldTUWxxQk1zeXJlQ1lwRzNaOHpZemdEaWNtUnd3RXdCSEpuNWphVWxuMXZpeGM5cXBYaUlRU0dVVnpGaUF1d09pMWM5MkhQY2FWQnlWeHROQ2RibUZwWVY4VXNtS1JjZ0lzZGZWS183UjZpZVJfZU9UV0NKa05Oam1SY2JNeFhMWjd5RTdYNmVnQWUzZ0lrb21GaVJpR2lWTGc?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-02",
@@ -1492,6 +1594,40 @@
    },
    "source": "KOKH",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOY3hvTWV3QV9OWG52RVhXd3FsSGYtcjY1bVlsMExYNG4yT0FrT1c2TXA4eHJyOXZkbVYyMmZyNlRZLVRqTHZsUlhaakIwXzVjNDktWkNUc2NoU2UxLXlnbE9sX3ZmdjdoMmRmQ3NhYVpISUxZaG9NcFExLXZUV3g3UXhSYmZvNVRFTndRMjNBaXlGNllQY1BGV2xyUDNOd2NSaU5sVG5JdmZEWFRURXRVOS1WMElKLWFDTWl4NnAzZllDbnZDLXRtMUxvOHRtN203MjdMdlBUM0xkUVZkd3Aw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-02",
+   "ts": "2026-10-02T15:10:38Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk to return to the White House to co-lead study on the future of war: report",
+    "zh": "Elon Musk to return to the White House to co-lead study on the future of war: report"
+   },
+   "body": {
+    "en": "Reports say Musk will return to the White House to co-lead a government study on the future of warfare.",
+    "zh": "有报道称马斯克将重返白宫，共同主持一项关于未来战争的政府研究。"
+   },
+   "source": "WKRC",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSTZRVVAxOVQ1eTdpLUt2RjZoVFgtNDUwNjNXaEJBX3BHd1VNcWRUM2FSZlhwdWpleTNSTENCUVVaYmd2bU9CNWNpYWZqZ3cwcGhEREZwdDVvTXg3dERnTnZlODgta29zWklGYzVBd0dyODA0MXprT2FzYTQ1eDhQcjk5ajdESENCbzJfcjE5YmRQbGlQNkVWLUxtMl9vTU9TV2g3ZTlNRi1wUkNMRlpGbzRJTkVMdEVraHRvdTRCcExnaVVfOHBFTGdlbHl2a2k1WFRuc3RVWkRoelpQb1RaOQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-02",
+   "ts": "2026-10-02T15:46:00Z",
+   "level": "minor",
+   "title": {
+    "en": "Elon Musk says Delta CEO 'will lose his job over this' after Starlink snub",
+    "zh": "Elon Musk says Delta CEO 'will lose his job over this' after Starlink snub"
+   },
+   "body": {
+    "en": "Musk said Delta's CEO 'will lose his job' after Delta declined to offer Starlink Wi-Fi, escalating a public dispute over satellite connectivity on commercial flights.",
+    "zh": "马斯克在达美航空拒绝采用星链卫星Wi-Fi后公开表示达美CEO\"将因此丢掉工作\"，使这场围绕商业航班卫星网络的争端进一步升级。"
+   },
+   "source": "finance.yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaFZTamk0d3E1d1M5MmVKbE9SQ2c2alRhcnZiNUF0STA0eVVkSzh6SEpMRkllVUFmb01FRUV5Qk5zU09FV2tyWjU4SE1Bck4zVmxyOWZTLWRYeEdYMXVIYjJPQVlBdXd1ZnNSS3FYQWpUMzZjRnNhcVB2UndSY0ZLWmFpa2t6Uy1lRTRMTUxB?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2172,6 +2308,57 @@
    },
    "source": "Pirate Wires",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ncFluSTdXbUg3cmhRMDVoN1N3MkpoUlNlVnA1SWhsVXdTanRrWDVFZGZvMzZCZk5KU2h6ZkgwdzBlUHgya1piUW53Z25IaU00OGlDTzZpLWl4a3RLSmZUTVNEWVRwNU9pUnlhZjdGN3I?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T19:55:02Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk, Palmer Luckey and Newt Gingrich to help Pentagon with warfare initiative, Hegseth says",
+    "zh": "Elon Musk, Palmer Luckey and Newt Gingrich to help Pentagon with warfare initiative, Hegseth says"
+   },
+   "body": {
+    "en": "Musk, Palmer Luckey and Newt Gingrich were named to a Pentagon task force on the future of warfare, per Defense Secretary Hegseth.",
+    "zh": "据美国防长赫格塞思透露，马斯克与帕尔默·勒基、牛顿·金里奇将加入五角大楼关于未来战争的工作组。"
+   },
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORHhORUloOEFhdGNocEV0Mm1kSzZRVFB1b081VUJUUXhkT2EyU3VOTDlpY1pzRGZTV19iVkJkNDlvcmJRcFdaa2d5dVhmUlFCdmkyaEdVTEZmeW92eTNzUkExalg4MUN0Tmh1T3oxaHljU2ctd1lBT2diZjVMSTdaTw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T20:54:47Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk lands new Trump admin role shaping future of American warfare",
+    "zh": "Elon Musk lands new Trump admin role shaping future of American warfare"
+   },
+   "body": {
+    "en": "Musk, Palmer Luckey and Newt Gingrich were named to a Pentagon task force on the future of American warfare, per Defense Secretary Hegseth.",
+    "zh": "据美国防长赫格塞思透露，马斯克与帕尔默·勒基、牛顿·金里奇将加入五角大楼关于美国未来战争形态的工作组。"
+   },
+   "source": "Fox News",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbUFkemhXRXgxVEFqWFhVSk5ZdENkVGZHMVVQSjhQWDZoWnVUU0FkVGdLaVp6NmM5N1QtNU9tSUhYWENHTmJCZUxVcW5NT3VsZ3Fud2piaWh5a3d4VGhkd1NYYUpSa3FzSUM3WXh3dmhLOV8yU3pVbnhxQ2t3dll4dldUNk8yTE5NVHpQdW02NXpMVXZpeHRHQXhxaWRPalM3RHpV?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T21:42:36Z",
+   "level": "notable",
+   "title": {
+    "en": "Ontario ministers defend secret payout to Elon Musk's SpaceX over nixed Starlink deal",
+    "zh": "Ontario ministers defend secret payout to Elon Musk's SpaceX over nixed Starlink deal"
+   },
+   "body": {
+    "en": "Ontario's government secretly paid SpaceX to settle a cancelled Starlink contract, a controversy over the deal's terms now becoming public.",
+    "zh": "安大略省政府因取消Starlink合同而秘密向SpaceX支付赔偿，该交易条款曝光后引发政治争议。"
+   },
+   "source": "CTV News",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS25zd2xmYUdOY2p6cmpqeFY4MkkxMFlfQlp5T25VbVJfSmlfMWwzZzBfS1plV3RodjRoZmpqU0NfajhZMDBrRnBVa0RKVUVzdkJoN0xMbjJJbDRhc1hTSWpNeEY1YnlpamtTT2s2RGZCdXFqLWlteDRZckxoQ0tfOTlIMUJQcmRkZk05MEZHNU1zYkk2d0tPS3NzSjN3dklWbmFDWjgwUm9FSFJhRzlzak4tVkN2Z2ZrNjdJWVNSZzhMak8zam1qNkEtcE9TLS1LV2tuM2tTU21wS3BiaWc?oc=5",
    "auto": true,
    "judged": true
   },
@@ -6594,7 +6781,7 @@
   "pageviews": 9295513,
   "citations": 1280,
   "hIndex": 3,
-  "events": 319,
+  "events": 330,
   "posts": 56,
   "wikiEn": "Elon Musk",
   "wikiZh": "埃隆·马斯克"

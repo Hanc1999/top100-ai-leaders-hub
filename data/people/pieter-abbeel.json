@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-10-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+    "zh": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.02204v1",
+   "note": {
+    "en": "Abbeel co-authored a framework letting embodied robot agents improve autonomously through offline practice and simulation, lifting manipulation accuracy from 28.6% to 95% across 22 tasks.",
+    "zh": "Abbeel合著的框架让具身机器人智能体通过离线练习与仿真实现自主提升，在22项任务中将操作准确率从28.6%提高到95%。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-30",
    "ts": null,
    "kind": "paper",
@@ -1211,16 +1230,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 32.6,
+  "total": 32.8,
   "attention": 29,
   "centrality": 23,
-  "momentum": 32,
+  "momentum": 33,
   "stature": 73,
   "pageviews": 37345,
   "citations": 79473,
   "hIndex": 123,
   "events": 2,
-  "posts": 54,
+  "posts": 55,
   "wikiEn": "Pieter Abbeel",
   "wikiZh": "彼得·阿比爾"
  },

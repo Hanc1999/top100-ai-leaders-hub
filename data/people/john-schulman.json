@@ -1,5 +1,5 @@
 {
- "rank": 45,
+ "rank": 46,
  "id": "john-schulman",
  "name": {
   "en": "John Schulman",
@@ -1178,6 +1178,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2023-04-24",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "ChatGPT developer John Schulman on making AI more truthful",
+    "zh": "ChatGPT developer John Schulman on making AI more truthful"
+   },
+   "source": "Berkeley Talks",
+   "url": "https://podcasts.apple.com/us/podcast/chatgpt-developer-john-schulman-on-making-ai-more-truthful/id1445592627?i=1000610458081&uo=4",
+   "note": {
+    "en": "Schulman discusses on Berkeley Talks how language models hallucinate convincingly and what techniques can make them more truthful.",
+    "zh": "舒尔曼在Berkeley Talks节目中讨论了语言模型如何产生看似可信的虚假内容，以及可以用哪些技术使其更加真实可靠。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2023-03-15",
    "ts": null,
    "kind": "paper",
@@ -1579,16 +1598,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 50.5,
+  "total": 50.3,
   "attention": 60,
   "centrality": 66,
-  "momentum": 26,
+  "momentum": 25,
   "stature": 25,
   "pageviews": 150682,
   "citations": 16922,
   "hIndex": 38,
   "events": 2,
-  "posts": 74,
+  "posts": 75,
   "wikiEn": "John Schulman",
   "wikiZh": "约翰·舒尔曼"
  },

@@ -133,6 +133,25 @@
    }
   },
   {
+   "date": "2026-10-02",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "OpenAI Co-Founder: Start Building With AI Before You Feel Ready | Greg Brockman",
+    "zh": "OpenAI Co-Founder: Start Building With AI Before You Feel Ready | Greg Brockman"
+   },
+   "source": "Silicon Valley Girl: AI, Tech and Care…",
+   "url": "https://podcasts.apple.com/us/podcast/openai-co-founder-start-building-with-ai-before-you/id1819090545?i=1000792835630&uo=4",
+   "note": {
+    "en": "Brockman appeared on the Silicon Valley Girl podcast, urging people to start building with AI before they feel ready.",
+    "zh": "Brockman做客播客节目Silicon Valley Girl，呼吁人们在准备好之前就开始尝试用AI构建产品。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-09-14",
    "ts": null,
    "kind": "podcast",
@@ -1652,7 +1671,7 @@
   "citations": 5238,
   "hIndex": 11,
   "events": 27,
-  "posts": 56,
+  "posts": 57,
   "wikiEn": "Greg Brockman",
   "wikiZh": "格雷格·布羅克曼"
  },

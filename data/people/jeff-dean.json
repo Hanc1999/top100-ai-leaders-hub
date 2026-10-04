@@ -571,6 +571,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2025-11-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "From University Research to Global Impact",
+    "zh": "From University Research to Global Impact"
+   },
+   "source": "Communications of the ACM",
+   "url": "https://doi.org/10.1145/3760438",
+   "note": {
+    "en": "Dean joined a Communications of the ACM conversation on how federally funded university research — including the work behind Google's own founding technologies — drives global technology impact.",
+    "zh": "Dean参与ACM通讯的一篇访谈，探讨联邦资助的大学研究——包括催生谷歌早期技术的研究——如何带来全球性的技术影响。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2025-11-07",
    "ts": null,
    "kind": "x",
@@ -702,6 +721,25 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2025-07-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Equilibrium Efficiency and Learning in Budgeted Procurement Marketplaces",
+    "zh": "Equilibrium Efficiency and Learning in Budgeted Procurement Marketplaces"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.1145/3736252.3742683",
+   "note": {
+    "en": "Dean co-authored a game-theory paper on how decentralized learning lets API-module marketplaces with budget constraints reach efficient equilibria.",
+    "zh": "Dean与他人合著一篇博弈论论文，研究在预算约束下的API模块市场中，去中心化学习如何达到高效均衡。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2025-05-16",
@@ -913,6 +951,25 @@
    "connector": "x"
   },
   {
+   "date": "2025-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DataRater: Meta-Learned Dataset Curation",
+    "zh": "DataRater: Meta-Learned Dataset Curation"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.52202/085713-0677",
+   "note": {
+    "en": "Dean co-authored DataRater, a meta-learning method that automatically scores and curates training data for large models.",
+    "zh": "Dean与他人合著《DataRater》，提出一种通过元学习自动评分和筛选大模型训练数据的方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2024-12-20",
    "ts": null,
    "kind": "x",
@@ -1027,6 +1084,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2024-09-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Addendum: A graph placement methodology for fast chip design",
+    "zh": "Addendum: A graph placement methodology for fast chip design"
+   },
+   "source": "Nature",
+   "url": "https://doi.org/10.1038/s41586-024-08032-5",
+   "note": {
+    "en": "Dean co-authored a Nature addendum correcting and extending the earlier graph-placement methodology Google used for fast chip design.",
+    "zh": "Dean与他人合著《自然》期刊的一篇勘误/补充文章，修正并扩展了谷歌此前用于快速芯片设计的图布局方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2024-09-11",
    "ts": null,
    "kind": "podcast",
@@ -1139,6 +1215,25 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2023-08-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Exciting Directions for ML Models and the Implications for Computing Hardware",
+    "zh": "Exciting Directions for ML Models and the Implications for Computing Hardware"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.1109/hcs59251.2023.10254704",
+   "note": {
+    "en": "Dean co-authored a position piece on emerging directions for ML models and their implications for future computing hardware.",
+    "zh": "Dean与他人合著一篇展望性文章，探讨机器学习模型的新方向及其对未来计算硬件的影响。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2023-05-29",
@@ -1947,7 +2042,7 @@
   "citations": 36789,
   "hIndex": 30,
   "events": 32,
-  "posts": 66,
+  "posts": 71,
   "wikiEn": "Jeff Dean",
   "wikiZh": "傑夫·迪恩"
  },

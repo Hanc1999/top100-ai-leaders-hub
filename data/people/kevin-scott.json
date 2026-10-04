@@ -1038,6 +1038,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2020-01-30",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Chris Urmson: Aurora CEO - Autonomous Driving",
+    "zh": "Chris Urmson: Aurora CEO - Autonomous Driving"
+   },
+   "source": "Behind The Tech with Kevin Scott",
+   "url": "https://podcasts.apple.com/us/podcast/chris-urmson-aurora-ceo-autonomous-driving/id1381008946?i=1000464184730&uo=4",
+   "note": {
+    "en": "On his own podcast, Kevin Scott interviews Aurora CEO Chris Urmson about the state of autonomous-driving technology.",
+    "zh": "在自己主持的播客节目中，Kevin Scott采访了Aurora公司CEO Chris Urmson，探讨自动驾驶技术的发展现状。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2019-09-26",
    "ts": null,
    "kind": "podcast",
@@ -1069,6 +1088,25 @@
    "note": {
     "en": "Long-form Lex Fridman interview with Scott on his path from Google mobile ads to LinkedIn engineering to the Microsoft CTO role.",
     "zh": "Lex Fridman 对斯科特的长篇访谈，谈他从谷歌移动广告、领英工程负责人到微软 CTO 的一路经历。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2018-06-20",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Anders Hejlsberg: A craftsman of computer language",
+    "zh": "Anders Hejlsberg: A craftsman of computer language"
+   },
+   "source": "Behind The Tech with Kevin Scott",
+   "url": "https://podcasts.apple.com/us/podcast/anders-hejlsberg-a-craftsman-of-computer-language/id1381008946?i=1000414258302&uo=4",
+   "note": {
+    "en": "Kevin Scott opens his podcast series by interviewing C# creator Anders Hejlsberg about his decades-long career building programming languages.",
+    "zh": "Kevin Scott在他的播客系列首期采访了C#语言之父Anders Hejlsberg，探讨其数十年打造编程语言的职业生涯。"
    },
    "auto": true,
    "judged": true,
@@ -1146,7 +1184,7 @@
   "citations": 38763,
   "hIndex": 96,
   "events": 1,
-  "posts": 53,
+  "posts": 55,
   "wikiEn": "Kevin Scott (businessman)",
   "wikiZh": null
  },

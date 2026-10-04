@@ -169,6 +169,25 @@
    }
   },
   {
+   "date": "2026-10-02",
+   "ts": "2026-10-02T22:48:25Z",
+   "kind": "x",
+   "title": {
+    "en": "Je suis honoré d’avoir été sélectionné par le premier ministre @MarkJCarney pour rejoindre le nouveau Conseil national sur l’intelligence artificielle, qui aura",
+    "zh": "Je suis honoré d’avoir été sélectionné par le premier ministre @MarkJCarney pour rejoindre le nouveau Conseil national sur l’intelligence artificielle, qui aura"
+   },
+   "source": "@yoshua_bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2106154362921795605",
+   "note": {
+    "en": "Bengio announced he was selected by PM Mark Carney to join Canada's new National AI Council.",
+    "zh": "Bengio宣布他被加拿大总理马克·卡尼选中，加入新成立的国家人工智能委员会。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-01",
    "ts": "2026-10-01T13:46:48Z",
    "kind": "x",
@@ -319,6 +338,25 @@
    "judged": true,
    "platform": "x",
    "connector": null
+  },
+  {
+   "date": "2026-09-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "pce-uncertainty-attribution: code for \"Interpretable attribution of decision-relevant uncertainty in AI\"",
+    "zh": "pce-uncertainty-attribution: code for \"Interpretable attribution of decision-relevant uncertainty in AI\""
+   },
+   "source": "Zenodo (CERN European Organization for…",
+   "url": "https://doi.org/10.5281/zenodo.22904514",
+   "note": {
+    "en": "Code release accompanying a Nature Machine Intelligence paper Bengio co-authored with IBM Research on interpretably attributing decision-relevant uncertainty in AI systems.",
+    "zh": "本吉奥与IBM研究院合作，为其发表于《自然-机器智能》的论文发布配套代码，研究如何可解释地归因AI系统中与决策相关的不确定性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2026-09-21",
@@ -547,6 +585,25 @@
    "judged": true,
    "platform": "x",
    "connector": "x"
+  },
+  {
+   "date": "2026-09-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Reducing Catastrophic Risk from AI with Systematic Monitoring and Evaluation of Rogue AI Progression",
+    "zh": "Reducing Catastrophic Risk from AI with Systematic Monitoring and Evaluation of Rogue AI Progression"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "https://arxiv.org/abs/2609.03189",
+   "note": {
+    "en": "Bengio co-authored this multi-institution paper proposing systematic monitoring and evaluation protocols to catch 'rogue AI' progression before it becomes catastrophic.",
+    "zh": "本吉奥与多机构团队合著此文，提出通过系统化监测与评估协议，在'失控AI'演化为灾难性风险之前将其识别出来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2026-09-01",
@@ -1537,25 +1594,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-04-23",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "I’m in Madrid this week for the first in-person meeting of the United Nations Independent International Scientific Panel on AI. I'm thrilled to be part of this",
-    "zh": "I’m in Madrid this week for the first in-person meeting of the United Nations Independent International Scientific Panel on AI. I'm thrilled to be part of this"
-   },
-   "source": "@Yoshua_Bengio",
-   "url": "https://x.com/Yoshua_Bengio/status/2047358007562953213",
-   "note": {
-    "en": "Bengio reports attending the first in-person meeting in Madrid of the UN's Independent International Scientific Panel on AI.",
-    "zh": "本吉奥报告在马德里出席联合国AI独立国际科学小组的首次线下会议。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
    "date": "2026-04-19",
    "ts": null,
    "kind": "paper",
@@ -2069,82 +2107,6 @@
    "connector": "openalex"
   },
   {
-   "date": "2025-10-24",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Deep-learning-based virtual screening of antibacterial compounds",
-    "zh": "Deep-learning-based virtual screening of antibacterial compounds"
-   },
-   "source": "Nature Biotechnology",
-   "url": "https://doi.org/10.1038/s41587-025-02814-6",
-   "note": {
-    "en": "Co-authored Nature Biotechnology paper on deep-learning-based virtual screening for new antibacterial compounds.",
-    "zh": "合著《自然·生物技术》论文，介绍基于深度学习的抗菌化合物虚拟筛选方法。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-10-21",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "A Definition of AGI",
-    "zh": "A Definition of AGI"
-   },
-   "source": "arXiv (Cornell University)",
-   "url": "http://arxiv.org/abs/2510.18212",
-   "note": {
-    "en": "Co-authored a proposed formal definition of artificial general intelligence, aiming to ground AGI debates in measurable criteria.",
-    "zh": "合著论文提出通用人工智能（AGI）的正式定义，力图为AGI讨论建立可衡量的标准。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-10-16",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Navigating ternary doping in Li-ion cathodes with closed-loop multi-objective Bayesian optimization",
-    "zh": "Navigating ternary doping in Li-ion cathodes with closed-loop multi-objective Bayesian optimization"
-   },
-   "source": "ChemRxiv",
-   "url": "https://doi.org/10.26434/chemrxiv-2025-9f5ts",
-   "note": {
-    "en": "Co-authored work applying closed-loop, multi-objective Bayesian optimization to design ternary-doped lithium-ion battery cathodes.",
-    "zh": "合著论文将闭环多目标贝叶斯优化应用于三元掺杂锂离子电池正极材料设计。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-10-15",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "International AI Safety Report 2025: First Key Update: Capabilities and Risk Implications",
-    "zh": "International AI Safety Report 2025: First Key Update: Capabilities and Risk Implications"
-   },
-   "source": "arXiv (Cornell University)",
-   "url": "http://arxiv.org/abs/2510.13653",
-   "note": {
-    "en": "Contributed to the International AI Safety Report 2025 First Key Update on frontier AI capabilities and risk implications, the report he chairs.",
-    "zh": "参与其主持的《国际人工智能安全报告2025》首次关键更新，评估前沿AI能力与风险影响。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
    "date": "2025-06-03",
    "ts": null,
    "kind": "blog",
@@ -2477,6 +2439,23 @@
    },
    "source": "Euronews",
    "url": "https://www.euronews.com/next/2025/06/04/godfather-of-ai-yoshua-bengio-launches-non-profit-to-make-ai-safer-and-more-trustworthy"
+  },
+  {
+   "date": "2026-09-24",
+   "ts": "2026-09-24T07:27:52Z",
+   "level": "notable",
+   "title": {
+    "en": "Canada joins calls for stronger oversight of AI as Yoshua Bengio addresses UN council",
+    "zh": "Canada joins calls for stronger oversight of AI as Yoshua Bengio addresses UN council"
+   },
+   "body": {
+    "en": "Bengio addressed the UN Security Council on AI oversight, part of a push, joined by Canada, for stronger international governance of AI.",
+    "zh": "本吉奥在联合国安理会就AI监管问题发表讲话，这是包括加拿大在内多方推动加强国际AI治理努力的一部分。"
+   },
+   "source": "CityNews Montreal",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMW9vMnVLRXhtdVhGcmc2UTkwckhzb055ckhOTWxEOTBNb1FDbkdISkFpY24wRDBrci1sR0d4bTlORFZKSlNRY2JXM2lYc3FlQURYcldoUVJ2emFkSlR1VmZWeWhpMWJhS0VoVklWbEFpWmtzdVd4eXNObTlPVzJSWnB1VDNrMDdqQ2pTVTRUaGFtWXlhUmZyYmJONDl2aUlGaHVlTEJhQQ?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-09-23",
@@ -3176,6 +3155,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "‘We’re losing control,’ Canadian AI pioneer Yoshua Bengio warns",
+    "zh": "‘We’re losing control,’ Canadian AI pioneer Yoshua Bengio warns"
+   },
+   "body": {
+    "en": "Bengio warned publicly that humanity is 'losing control' of AI development.",
+    "zh": "Bengio公开警告人类正在“失去对AI发展的控制”。"
+   },
+   "source": "CTV News",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNejVvTjVlOTdGNUh4UzVtbGU1OHNBN2R4Y1pPelpBc01nczA0SHY1NEVpMmRReEJUMXNQZ0VWRnNSTnFLX3NKSExBRThkQW9KQkl1dTRfWTVxRjN0LWFDQzZkZXZnRzJ1ZF9VR0l0XzEtdmIzNmxhQXJyTi1YM3JXcU1WSzJaWEptM3BNV0E0YWljZ3pEUko0bTlWejZPQ2JYU1JORHB3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-07",
    "ts": null,
    "level": "major",
@@ -3310,8 +3306,8 @@
   "pageviews": 276660,
   "citations": 475043,
   "hIndex": 184,
-  "events": 50,
-  "posts": 121,
+  "events": 52,
+  "posts": 119,
   "wikiEn": "Yoshua Bengio",
   "wikiZh": "约书亚·本希奥"
  },

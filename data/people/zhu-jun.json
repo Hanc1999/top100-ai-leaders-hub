@@ -1,5 +1,5 @@
 {
- "rank": 70,
+ "rank": 71,
  "id": "zhu-jun",
  "name": {
   "en": "Zhu Jun",
@@ -185,6 +185,25 @@
     "en": "Delivered alongside the release of Vidu S1.",
     "zh": "与 Vidu S1 发布同场。"
    }
+  },
+  {
+   "date": "2026-10-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Towards Subject Consistency over Dynamic Subject Sets in Video Generation",
+    "zh": "Towards Subject Consistency over Dynamic Subject Sets in Video Generation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.01052v1",
+   "note": {
+    "en": "Zhu Jun co-authored (with longtime Tsinghua TSAIL collaborator Jianfei Chen) a new benchmark, DynSC-Eval, for measuring subject consistency in long-form video generation as the set of on-screen subjects changes over time.",
+    "zh": "朱军与清华TSAIL团队的长期合作者陈键飞合著论文，提出DynSC-Eval评测框架，用于衡量长视频生成中主体集合动态变化时的主体一致性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-09-10",
@@ -1013,16 +1032,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 32.0,
+  "total": 31.8,
   "attention": 19,
   "centrality": 20,
-  "momentum": 57,
+  "momentum": 56,
   "stature": 61,
   "pageviews": 12694,
   "citations": 56229,
   "hIndex": 118,
   "events": 16,
-  "posts": 30,
+  "posts": 31,
   "wikiEn": "Zhu Jun",
   "wikiZh": "朱军"
  },

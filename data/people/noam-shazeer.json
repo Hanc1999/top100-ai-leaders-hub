@@ -57,6 +57,12 @@
    "t": 2
   },
   {
+   "kind": "blog",
+   "label": "OpenAI news (rss)",
+   "url": "https://openai.com/news/rss.xml",
+   "t": 2
+  },
+  {
    "kind": "linkedin",
    "label": "LinkedIn — search",
    "url": "https://www.linkedin.com/search/results/people/?keywords=Noam+Shazeer",
@@ -1113,6 +1119,23 @@
    "judged": true
   },
   {
+   "date": "2026-06-20",
+   "ts": "2026-06-20T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "OpenAI Hires Noam Shazeer and Dean Ball Ahead of Its IPO",
+    "zh": "OpenAI Hires Noam Shazeer and Dean Ball Ahead of Its IPO"
+   },
+   "body": {
+    "en": "OpenAI hired Noam Shazeer (along with Dean Ball) ahead of its IPO, marking his departure from Google/Gemini for OpenAI.",
+    "zh": "OpenAI在上市前聘用了Noam Shazeer（及Dean Ball），标志着他离开Google/Gemini转投OpenAI。"
+   },
+   "source": "Pasquale Pillitteri",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FdlU5dnROSmg0UnQ2STVLQzZVakNaYXluUm1tdXRHU19USzJYeWdSQjlJX0VHQ1NUNTNLdXBjVnVGSXJ3eGFBSjJMd3hNdXpTUGZPSHh3NkhueTVZS0FlRGpGeFgxbllUWnVHR1RRUDVHcFprWGxkRnA0cUctZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-06-19",
    "ts": null,
    "level": "major",
@@ -1468,7 +1491,7 @@
   "pageviews": 226968,
   "citations": 20024,
   "hIndex": 33,
-  "events": 23,
+  "events": 24,
   "posts": 48,
   "wikiEn": "Noam Shazeer",
   "wikiZh": "諾姆·沙澤爾"

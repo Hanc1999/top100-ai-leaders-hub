@@ -213,6 +213,25 @@
    }
   },
   {
+   "date": "2026-10-04",
+   "ts": "2026-10-04T06:27:23Z",
+   "kind": "x",
+   "title": {
+    "en": "The current large knowledge models are very useful and likely to create a trillion-dollar industry. But there is no doubt that it is based on only a tiny piece",
+    "zh": "The current large knowledge models are very useful and likely to create a trillion-dollar industry. But there is no doubt that it is based on only a tiny piece"
+   },
+   "source": "@yimatweets",
+   "url": "https://x.com/YiMaTweets/status/2106632256735662485",
+   "note": {
+    "en": "Yi Ma argued that today's large 'knowledge models,' while commercially valuable, capture only a small piece of the full puzzle of intelligence.",
+    "zh": "马毅提出，当前的大型“知识模型”虽然商业价值巨大，但仅触及智能全貌中很小的一部分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-02",
    "ts": "2026-10-02T18:21:57Z",
    "kind": "x",
@@ -1203,16 +1222,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 23.7,
+  "total": 23.5,
   "attention": 7,
   "centrality": 8,
-  "momentum": 59,
+  "momentum": 58,
   "stature": 58,
   "pageviews": 2604,
   "citations": 46806,
   "hIndex": 81,
   "events": 13,
-  "posts": 42,
+  "posts": 43,
   "wikiEn": "Yi Ma",
   "wikiZh": null
  },

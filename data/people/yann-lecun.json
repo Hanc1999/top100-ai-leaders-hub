@@ -1,5 +1,5 @@
 {
- "rank": 10,
+ "rank": 11,
  "id": "yann-lecun",
  "name": {
   "en": "Yann LeCun",
@@ -1365,6 +1365,40 @@
    "judged": true
   },
   {
+   "date": "2026-10-01",
+   "ts": "2026-10-01T10:18:00Z",
+   "level": "major",
+   "title": {
+    "en": "杨立昆：AI失控事件可通过工程改进预防，AMI Labs将于近期推出首款产品",
+    "zh": "杨立昆：AI失控事件可通过工程改进预防，AMI Labs将于近期推出首款产品"
+   },
+   "body": {
+    "en": "LeCun argued AI loss-of-control incidents can be prevented through engineering improvements, and said AMI Labs will launch its first product soon.",
+    "zh": "杨立昆表示AI失控事件可以通过工程改进来预防，并称AMI Labs即将推出首款产品。"
+   },
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wZXpJcXl4UDUzUjVQbTJqQkxiVUlvbFMyRlpBNkFfWDFlOFJuNmEycTZ6SG9KaU1EWDd1NkNmQy10RDVCOEp2cVlsRFBPT0piOXY1R2ZOaExDZXdpTnFYb3AxRGUyMEU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-01",
+   "ts": "2026-10-01T00:34:00Z",
+   "level": "major",
+   "title": {
+    "en": "图灵奖双雄彻底决裂！杨立昆怒撕大模型是“高级搜索引擎”，辛顿苏茨克维绝地反杀",
+    "zh": "图灵奖双雄彻底决裂！杨立昆怒撕大模型是“高级搜索引擎”，辛顿苏茨克维绝地反杀"
+   },
+   "body": {
+    "en": "LeCun reignited his feud with fellow Turing laureates, calling large language models mere 'advanced search engines' that compress existing human knowledge rather than a path to human-level intelligence, drawing pushback from Hinton and Sutskever.",
+    "zh": "杨立昆再次与图灵奖同侪交锋，称大语言模型不过是压缩人类已有知识的“高级搜索引擎”，并非通往人类水平智能的道路，此言论招致辛顿与苏茨克维的反驳。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUWs3c3pGUDNCMWM2aWlWMURPRWF1eWY4RUlpMzdjRDR0eG4xb3B3NWFBNzJTZW1rRlpzQUVtTFdlNk16azgxOTc0TXFjcmpWWVJNdXpUUlpwdnloelVCS3phQlJCeDB5aDA5TTJnMDhKTmtvWXJvOXhCRlVJOEpXbHc4bnZZMURaNDV1RFN6aVZGalhBMEQydXdwN3RXWVZ6SzRZOVIwcVBlTFNONEhFUHZSZTN3RlcwVG0wMFdVbWdISlpWcDllbnBvcVFRUGJRYkw1WUV0aTZJRHVM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-21",
    "ts": "2026-09-21T07:00:00Z",
    "level": "notable",
@@ -2528,15 +2562,15 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 79.8,
+  "total": 80.0,
   "attention": 78,
   "centrality": 72,
-  "momentum": 86,
+  "momentum": 87,
   "stature": 95,
   "pageviews": 531264,
   "citations": 253869,
   "hIndex": 120,
-  "events": 81,
+  "events": 83,
   "posts": 53,
   "wikiEn": "Yann LeCun",
   "wikiZh": "杨立昆"

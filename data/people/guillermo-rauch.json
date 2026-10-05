@@ -127,6 +127,25 @@
    }
   },
   {
+   "date": "2026-10-04",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#42 – AI Era Playbook for Developers (Guillermo Rauch) – RE:moat",
+    "zh": "#42 – AI Era Playbook for Developers (Guillermo Rauch) – RE:moat"
+   },
+   "source": "AIDEA Podkast",
+   "url": "https://podcasts.apple.com/us/podcast/42-ai-era-playbook-for-developers-guillermo-rauch-re-moat/id1458349827?i=1000793109268&uo=4",
+   "note": {
+    "en": "Rauch appeared as the guest on RE:moat's AI Developer Summit episode, discussing an AI-era playbook for developers.",
+    "zh": "劳赫作为嘉宾出现在RE:moat播客的AI开发者峰会特别节目中，探讨面向开发者的AI时代打法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-10-02",
    "ts": null,
    "kind": "report",
@@ -999,16 +1018,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 36.5,
+  "total": 36.9,
   "attention": null,
   "centrality": 36,
-  "momentum": 37,
+  "momentum": 38,
   "stature": null,
   "pageviews": 0,
   "citations": 9,
   "hIndex": 1,
   "events": 4,
-  "posts": 43,
+  "posts": 44,
   "wikiEn": null,
   "wikiZh": null
  },

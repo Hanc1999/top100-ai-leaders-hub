@@ -247,6 +247,25 @@
    "connector": "x"
   },
   {
+   "date": "2026-09-08",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Greg Brockman on Astra and the Future of OpenAI",
+    "zh": "Greg Brockman on Astra and the Future of OpenAI"
+   },
+   "source": "TBPN",
+   "url": "https://podcasts.apple.com/us/podcast/greg-brockman-on-astra-and-the-future-of-openai/id1772360235?i=1000788540576&uo=4",
+   "note": {
+    "en": "Brockman discusses OpenAI's work on the Navier-Stokes Millennium Prize problem and what the Astra project signals about the future of computer use, in an interview on TBPN.",
+    "zh": "布罗克曼在TBPN的采访中谈到OpenAI在纳维-斯托克斯千禧年大奖难题上的工作，以及Astra项目对未来计算机使用方式的意义。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-09-07",
    "ts": null,
    "kind": "x",
@@ -1213,6 +1232,23 @@
    "url": "https://www.axios.com/2026/08/14/openai-executive-greg-brockman-ipo"
   },
   {
+   "date": "2026-10-03",
+   "ts": "2026-10-03T23:30:08Z",
+   "level": "notable",
+   "title": {
+    "en": "OpenAI President Greg Brockman Pulls Planned Second $25 Million Donation to AI Super PAC, Says He Felt 'Terrible': Report",
+    "zh": "OpenAI President Greg Brockman Pulls Planned Second $25 Million Donation to AI Super PAC, Says He Felt 'Terrible': Report"
+   },
+   "body": {
+    "en": "Brockman withdrew a planned second $25 million donation to an AI-focused Super PAC, saying he felt 'terrible' about the first one.",
+    "zh": "布罗克曼撤回了原计划向一个AI相关超级政治行动委员会追加的第二笔2500万美元捐款，称自己对首笔捐款感到“糟糕”。"
+   },
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWkVCYzRSR0pLOEQtcDdhMHh1RjhxNnJwd2pkYUVZeTZyTlJpdlRFREQwVXRXQjFiOTUzdzZoWDczWmpBVjFGdHZtS1VfX1RzcWdPMEFEcmpUcnFkc01DcHRKYUZWOEhEeG5MOW5IRC1ZdHVjUE9wdVVOTXF5QVhfQ0tQU09SaGx6LU1SSFhfLUFuWUZOOUhEdDBLYW8?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-01",
    "ts": "2026-10-01T10:50:03Z",
    "level": "notable",
@@ -1670,8 +1706,8 @@
   "pageviews": 406921,
   "citations": 5238,
   "hIndex": 11,
-  "events": 27,
-  "posts": 57,
+  "events": 28,
+  "posts": 58,
   "wikiEn": "Greg Brockman",
   "wikiZh": "格雷格·布羅克曼"
  },

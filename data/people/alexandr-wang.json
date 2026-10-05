@@ -149,6 +149,44 @@
    }
   },
   {
+   "date": "2026-10-04",
+   "ts": "2026-10-04T03:13:45Z",
+   "kind": "x",
+   "title": {
+    "en": "muse gadgets vision https://t.co/HYZ7jEzavT",
+    "zh": "muse gadgets vision https://t.co/HYZ7jEzavT"
+   },
+   "source": "@alexandr_wang",
+   "url": "https://x.com/alexandr_wang/status/2106583527290781747",
+   "note": {
+    "en": "Wang posted a teaser video laying out Meta's vision for AI-powered \"Muse\" gadgets.",
+    "zh": "Alexandr Wang发布了一段预告视频，展示了Meta对AI智能设备\"Muse\"系列的愿景。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-04",
+   "ts": "2026-10-04T19:10:51Z",
+   "kind": "x",
+   "title": {
+    "en": "what we've shipped: muse ♥️ ton of connectors 🔧 muse invite codes 💌 muse phone call beta ☎️ muse for mac  muse in canada 🇨🇦 muse connector platform 🛠️ muse mac",
+    "zh": "what we've shipped: muse ♥️ ton of connectors 🔧 muse invite codes 💌 muse phone call beta ☎️ muse for mac  muse in canada 🇨🇦 muse connector platform 🛠️ muse mac"
+   },
+   "source": "@alexandr_wang",
+   "url": "https://x.com/alexandr_wang/status/2106824386850521335",
+   "note": {
+    "en": "Wang recapped a wave of new Muse releases — invite codes, a phone-call beta, Mac and Canada availability, a connector platform, and computer-use support — as Meta's AI assistant expands quickly.",
+    "zh": "王列出了Muse最新发布的一系列功能：邀请码、电话通话测试版、Mac和加拿大上线、连接器平台以及电脑操作功能，显示Meta的AI助手正在快速扩张。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-02",
    "ts": "2026-10-02T20:18:42Z",
    "kind": "x",
@@ -1061,44 +1099,6 @@
    "connector": null
   },
   {
-   "date": "2026-09-18",
-   "ts": "2026-09-18T23:58:53Z",
-   "kind": "x",
-   "title": {
-    "en": "we're opening muse connectors to developers! we have seen so much excitement in the developer community, integrating muse into everything from robots to mood li",
-    "zh": "we're opening muse connectors to developers! we have seen so much excitement in the developer community, integrating muse into everything from robots to mood li"
-   },
-   "source": "@alexandr_wang",
-   "url": "https://x.com/alexandr_wang/status/2101098666048303589",
-   "note": {
-    "en": "Alexandr Wang announced Meta is opening Muse connectors to third-party developers, enabling integrations from robotics to smart lighting.",
-    "zh": "Alexandr Wang宣布Meta向第三方开发者开放Muse连接器，支持从机器人到智能灯具等多种集成。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-09-17",
-   "ts": "2026-09-17T22:43:21Z",
-   "kind": "x",
-   "title": {
-    "en": "the most underrated part of muse is the model that powers it. thank you to the MSL research team—some of the most technically brilliant, hardworking scientists",
-    "zh": "the most underrated part of muse is the model that powers it. thank you to the MSL research team—some of the most technically brilliant, hardworking scientists"
-   },
-   "source": "@alexandr_wang",
-   "url": "https://x.com/alexandr_wang/status/2100717269861167524",
-   "note": {
-    "en": "Wang publicly credits Meta Superintelligence Labs' research team for the model powering Muse, Meta's new AI agent.",
-    "zh": "王公开感谢Meta超级智能实验室研究团队，称赞他们打造了支撑Muse（Meta新推出的AI代理）的模型。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2026-07-31",
    "ts": null,
    "kind": "podcast",
@@ -1346,18 +1346,18 @@
    "connector": "podcasts"
   },
   {
-   "date": "2023-07-10",
+   "date": "2023-10-20",
    "ts": null,
    "kind": "podcast",
    "title": {
     "en": "War, AI and the new global arms race | Alexandr Wang",
     "zh": "War, AI and the new global arms race | Alexandr Wang"
    },
-   "source": "TED Talks Daily",
-   "url": "https://podcasts.apple.com/us/podcast/war-ai-and-the-new-global-arms-race-alexandr-wang/id160904630?i=1000620631762&uo=4",
+   "source": "TED Tech",
+   "url": "https://podcasts.apple.com/us/podcast/war-ai-and-the-new-global-arms-race-alexandr-wang/id470624027?i=1000631100953&uo=4",
    "note": {
-    "en": "His TED talk arguing that data, not algorithms, is the decisive asset in AI-powered warfare.",
-    "zh": "他的 TED 演讲，主张在 AI 驱动的战争中，决定性资产是数据而非算法。"
+    "en": "On TED Tech, Wang argues that data — not just compute — will be the decisive strategic asset as AI-powered warfare, from facial-recognition drones to autonomous fighter jets, takes shape.",
+    "zh": "在TED Tech的访谈中，王探讨了随着人脸识别无人机、自主战机等AI战争形态的出现，数据（而非算力）将成为决定性的战略资源。"
    },
    "auto": true,
    "judged": true,

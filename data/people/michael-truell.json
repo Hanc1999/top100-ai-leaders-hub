@@ -63,6 +63,12 @@
    "t": 2
   },
   {
+   "kind": "blog",
+   "label": "Cursor blog",
+   "url": "https://cursor.com/atom.xml",
+   "t": 2
+  },
+  {
    "kind": "linkedin",
    "label": "LinkedIn — search",
    "url": "https://www.linkedin.com/search/results/people/?keywords=Michael+Truell",
@@ -547,10 +553,10 @@
  },
  "cat": "product",
  "score": {
-  "total": 47.6,
+  "total": 47.3,
   "attention": 35,
   "centrality": 79,
-  "momentum": 35,
+  "momentum": 34,
   "stature": null,
   "pageviews": 50879,
   "citations": 0,

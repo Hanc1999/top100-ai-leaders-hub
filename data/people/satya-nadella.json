@@ -180,6 +180,25 @@
    "connector": null
   },
   {
+   "date": "2026-09-25",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Satya Nadella on Microsoft's agent bet and AI’s trust problem",
+    "zh": "Satya Nadella on Microsoft's agent bet and AI’s trust problem"
+   },
+   "source": "Sources with Alex Heath",
+   "url": "https://podcasts.apple.com/us/podcast/satya-nadella-on-microsofts-agent-bet-and-ais-trust-problem/id1840154537?i=1000791642481&uo=4",
+   "note": {
+    "en": "Nadella discusses Microsoft's bet on AI agents and the industry's trust problem in an interview with Alex Heath around the new Copilot unveiling.",
+    "zh": "纳德拉在接受Alex Heath采访时，围绕新版Copilot的发布，谈到了微软对AI智能体的押注以及行业面临的信任问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-09-15",
    "ts": "2026-09-15T19:03:03Z",
    "kind": "x",
@@ -1066,6 +1085,25 @@
    "note": {
     "en": "Live All-In interview from Davos on what agents do to the SaaS business model and how Microsoft's OpenAI relationship fits its own model plans.",
     "zh": "在达沃斯录制的 All-In 现场访谈，谈智能体对 SaaS 商业模式的冲击，以及微软与 OpenAI 的关系如何与自研模型规划相衔接。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-11-29",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Microsoft CEO Satya Nadella: AI Boom, Energy Battle & His Complicated Alliance with Sam Altman",
+    "zh": "Microsoft CEO Satya Nadella: AI Boom, Energy Battle & His Complicated Alliance with Sam Altman"
+   },
+   "source": "MD MEETS",
+   "url": "https://podcasts.apple.com/us/podcast/microsoft-ceo-satya-nadella-ai-boom-energy-battle-his/id1843043635?i=1000738914515&uo=4",
+   "note": {
+    "en": "Nadella talks with Mathias Döpfner about the AI boom's strain on energy grids and his complicated alliance with Sam Altman.",
+    "zh": "纳德拉与Mathias Döpfner探讨了AI热潮对电网造成的压力，以及他与Sam Altman之间复杂的联盟关系。"
    },
    "auto": true,
    "judged": true,
@@ -2474,16 +2512,16 @@
  },
  "cat": "platform",
  "score": {
-  "total": 84.3,
+  "total": 83.8,
   "attention": 83,
   "centrality": 87,
-  "momentum": 83,
+  "momentum": 81,
   "stature": null,
   "pageviews": 828227,
   "citations": 231,
   "hIndex": 3,
   "events": 61,
-  "posts": 70,
+  "posts": 72,
   "wikiEn": "Satya Nadella",
   "wikiZh": "薩蒂亞·納德拉"
  },

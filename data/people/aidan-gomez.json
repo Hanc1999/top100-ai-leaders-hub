@@ -63,6 +63,12 @@
    "t": 2
   },
   {
+   "kind": "blog",
+   "label": "Cohere Labs research blog",
+   "url": "https://cohere-labs-community.github.io/blog",
+   "t": 2
+  },
+  {
    "kind": "linkedin",
    "label": "LinkedIn — search",
    "url": "https://www.linkedin.com/search/results/people/?keywords=Aidan+Gomez",
@@ -2131,10 +2137,10 @@
  },
  "cat": "product",
  "score": {
-  "total": 44.7,
+  "total": 44.2,
   "attention": 44,
   "centrality": 43,
-  "momentum": 62,
+  "momentum": 60,
   "stature": 12,
   "pageviews": 68965,
   "citations": 8859,

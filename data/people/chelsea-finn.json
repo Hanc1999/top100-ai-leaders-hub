@@ -177,6 +177,25 @@
    }
   },
   {
+   "date": "2026-10-04",
+   "ts": "2026-10-04T15:38:00Z",
+   "kind": "x",
+   "title": {
+    "en": "Scientific discovery is one of the most exciting applications of LLMs, but we lack data & evals on the scientific process. ScholarCatalyst captures which prior",
+    "zh": "Scientific discovery is one of the most exciting applications of LLMs, but we lack data & evals on the scientific process. ScholarCatalyst captures which prior"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2106770820773433485",
+   "note": {
+    "en": "Finn previewed ScholarCatalyst, a project to capture which prior papers can advance new scientific research as data/evals for LLM-driven discovery.",
+    "zh": "Finn介绍了ScholarCatalyst项目，旨在收集哪些前序论文能够推动新科研进展，作为评估LLM辅助科学发现能力的数据与基准。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-01",
    "ts": null,
    "kind": "paper",
@@ -1773,25 +1792,6 @@
    "connector": null
   },
   {
-   "date": "2025-01-22",
-   "ts": "2025-01-22T20:11:46Z",
-   "kind": "x",
-   "title": {
-    "en": "Why is action chunking crucial for robot dexterity? 🤖 - We identify a natural tradeoff between temporal consistency and reactivity - New policy decoding techniq",
-    "zh": "Why is action chunking crucial for robot dexterity? 🤖 - We identify a natural tradeoff between temporal consistency and reactivity - New policy decoding techniq"
-   },
-   "source": "@chelseabfinn",
-   "url": "https://x.com/chelseabfinn/status/1882159240955265376",
-   "note": {
-    "en": "She explains why action chunking matters for robot dexterity, introducing a decoding technique balancing temporal consistency and reactivity.",
-    "zh": "她解释了动作分块对机器人灵巧性的重要性，并介绍了一种兼顾时间一致性和反应速度的解码技术。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2023-03-22",
    "ts": null,
    "kind": "podcast",
@@ -1875,10 +1875,10 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 34.2,
+  "total": 34.4,
   "attention": 22,
   "centrality": 39,
-  "momentum": 49,
+  "momentum": 50,
   "stature": 39,
   "pageviews": 14192,
   "citations": 26696,

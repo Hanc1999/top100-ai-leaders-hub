@@ -1214,6 +1214,23 @@
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ3FLWTExRnVhRXgyOUo3cTJmWUthdWNYR1Vud09hSTV0VW43amc5Z3ZXcEdEYXRpc1NjYmIxZ3JILUJocmdjM3FLbXdHYUdfUlMzY3BfU0doTE9iNHNnc1ZGd2Nyd0NZNEMyMGRRLUJJdnZvSk1FcjlSU2NLdl8tVzFyanlfWG93VnoxdjdQLWREdw?oc=5",
    "auto": true,
    "judged": true
+  },
+  {
+   "date": "2026-01-15",
+   "ts": "2026-01-15T08:00:00Z",
+   "level": "minor",
+   "title": {
+    "en": "Arabic.AI partners with Amjad Masad’s Replit to launch free, fully localised Arabic coding courses across MENA",
+    "zh": "Arabic.AI partners with Amjad Masad’s Replit to launch free, fully localised Arabic coding courses across MENA"
+   },
+   "body": {
+    "en": "Replit partnered with Arabic.AI to offer free, localized Arabic-language coding courses across the MENA region, extending Replit's reach into a new market.",
+    "zh": "Replit与Arabic.AI合作，在中东北非地区推出免费的本地化阿拉伯语编程课程，拓展了Replit在新市场的影响力。"
+   },
+   "source": "FWDStart",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUmRVaHpGOHh2MEZHTjRkYW5fRkdHbFdUMGVlUHhGNXotTWw0bm93WkEtOWdTa0xUdzRpbmJOUzJ5bzdXdXZiQWdMdXdWQ0p0MGFGYlNNTUV2LXV1NlBqQW5hUUc2ZktubnlwdndGajl6NFo5Y3NMQlZOdlFlRHMwTmZYeVFXWWJBaHVtUEVQOEhtZDJrMEU4ZzY0Uk9ZX2tBZVFjSHpLMGV6RVFuazZqS2ZXMFI5VGJNRDROdllveUhVQW10?oc=5",
+   "auto": true,
+   "judged": true
   }
  ],
  "changed": false,
@@ -1223,15 +1240,15 @@
  },
  "cat": "product",
  "score": {
-  "total": 41.8,
+  "total": 42.8,
   "attention": 49,
   "centrality": 39,
-  "momentum": 32,
+  "momentum": 36,
   "stature": null,
   "pageviews": 87011,
   "citations": 0,
   "hIndex": 0,
-  "events": 5,
+  "events": 6,
   "posts": 53,
   "wikiEn": "Amjad Masad",
   "wikiZh": null

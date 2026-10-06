@@ -1,5 +1,5 @@
 {
- "rank": 60,
+ "rank": 59,
  "id": "kaiming-he",
  "name": {
   "en": "Kaiming He",
@@ -737,6 +737,91 @@
    "url": "https://www.eecs.mit.edu/people/kaiming-he/"
   },
   {
+   "date": "2026-10-05",
+   "ts": "2026-10-05T05:30:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Claude满分、GPT 99分！何恺明团队把AGI考试打穿了",
+    "zh": "Claude满分、GPT 99分！何恺明团队把AGI考试打穿了"
+   },
+   "body": {
+    "en": "Kaiming He's team built an AGI benchmark exam on which Claude scored full marks and GPT scored 99, drawing attention for how thoroughly frontier models now clear it.",
+    "zh": "何恺明团队设计的一项AGI测试中，Claude获得满分、GPT获得99分，这一结果因前沿模型几乎“打穿”该测试而受到关注。"
+   },
+   "source": "智源社区",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4dENXYjFFcDJfUzFVRllRT2RvWGRLbTFBUl9xM2ZUakNUN1hnckxqV2VOUV94MmsyTGZYU0dFdlREb0k4ZTVURA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-05",
+   "ts": "2026-10-05T09:25:46Z",
+   "level": "major",
+   "title": {
+    "en": "何恺明团队新作：给大模型加上“视觉记忆”，AGI基准测试从40分升到100分",
+    "zh": "何恺明团队新作：给大模型加上“视觉记忆”，AGI基准测试从40分升到100分"
+   },
+   "body": {
+    "en": "Kaiming He's team published VISTA, a visual interaction and memory framework that lets existing multimodal models retain context across long interactions, lifting Claude Opus 5's score on the ARC-AGI-3 benchmark from about 41 to 100.",
+    "zh": "何恺明团队发布VISTA——一种视觉交互与记忆框架，使现有多模态模型能在长时间交互中保留上下文，将Claude Opus 5在ARC-AGI-3基准上的得分从约41分提升到100分。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM1lPLXhidlM0X1pUZm5LX28xSWZBNUhQZlRua0YxN28yMzBXS1VDbnRKdnhXUlY4S3VocVltOVhlTkFYRlZrWlh4bXl5ZVFsR204TDJQRnJ2andGV3IzS1BQRkxLRWd3T1JJZ3dCcExDc1A3bk5YaWVFSWtocHNKakQ4NUx5d0NSWjFMem5RUjVPRnV0eWZXSFRPVzRxaUxUcXVQOGJmWQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-05",
+   "ts": "2026-10-05T09:25:00Z",
+   "level": "major",
+   "title": {
+    "en": "Kaiming He's Team Unveils VISTA Framework: Without Touching Model Parameters, Claude Jumps from 40 to a Perfect Score on ARC-AGI-3",
+    "zh": "Kaiming He's Team Unveils VISTA Framework: Without Touching Model Parameters, Claude Jumps from 40 to a Perfect Score on ARC-AGI-3"
+   },
+   "body": {
+    "en": "Kaiming He's team unveiled the VISTA framework, which lifts Claude's ARC-AGI-3 score from 40 to a perfect result without touching model parameters.",
+    "zh": "何恺明团队发布VISTA框架，无需改动模型参数即可将Claude在ARC-AGI-3上的得分从40分提升至满分。"
+   },
+   "source": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xMElvbXh0MmVZUk0zblFWUnBHNVMtT0p5cF9tbmRCd21FbHJBRU5ZaXhXbW9QRm1oWWVnNzRmYzV1UzVmZjdzaVJRRGJsMUY2NFRGeDk0TGVvS1Zjcko4YmVaOXRta3VzQVpaaTRjUEhCWmV5UWc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-05",
+   "ts": "2026-10-05T08:53:57Z",
+   "level": "major",
+   "title": {
+    "en": "何恺明团队新作：给大模型加上“视觉记忆”，AGI基准测试从40分升到100分",
+    "zh": "何恺明团队新作：给大模型加上“视觉记忆”，AGI基准测试从40分升到100分"
+   },
+   "body": {
+    "en": "Kaiming He's team published new work adding a 'visual memory' mechanism to large models, reportedly raising an AGI benchmark score from 40 to 100.",
+    "zh": "何恺明团队发表新作，为大模型加入“视觉记忆”机制，据称将某AGI基准测试成绩从40分提升到100分。"
+   },
+   "source": "麻省理工科技评论",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SZ0RHYUZfdVNBNVB2VThWdGY4UDZPS2VhaFZ0TzZzbFVKS0p1T2pPS2o5Q3VHOF91MlhWd3JzUnVtb2NpR0hSNkozcloycW9wN3dOQ0RPcw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-05",
+   "ts": "2026-10-05T07:13:44Z",
+   "level": "notable",
+   "title": {
+    "en": "Claude满分、GPT 99分！何恺明团队把AGI考试打穿了",
+    "zh": "Claude满分、GPT 99分！何恺明团队把AGI考试打穿了"
+   },
+   "body": {
+    "en": "Kaiming He's team built a tough new AGI benchmark exam on which Claude scored full marks and GPT scored 99, drawing wide attention to how far frontier models have progressed.",
+    "zh": "何恺明团队推出了一套高难度的AGI测试，Claude在其中获得满分，GPT获得99分，引发了外界对前沿模型进展程度的广泛关注。"
+   },
+   "source": "finance.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMisARBVV95cUxNRGVaM1Q0SHp2VjByTEF4VHVnMTB3VnFtbjVzSHhSblRZNE1icUNCbUpFOTBBQnd1MkNpQTNsRzdqZk1SUXRpdWZIWURxajNZeWs2QXZ1MUhnVU9XT1VrT1dwVlpGVWJHeVNrTlUzc1FfU1BDOGVwLU5vMnl3VHg2Q241bUo1YnFZM2xHSnE1eC1zZzhNOFo5VGdCRHk1QTJQejVVRl9KTk44dW80MDJoMlF6NTctaWZXdFNfd3pZbU9kMlp6SXJvbVJhM1JuNXVuNG0yYkFMYjZQcFBvOXNiRlJzQzZlUmVGRXpiUVFMRnZ2bzlJZkd2elotbnVCRUFtUFFsUHNKejFCSlNDV0UtYkJ1SUd2NnpBT0xQRG9hYWcxRHRpTFoyVTU2cWNvYWRYRFFzMWlVLVBaa2k5OW11cWg2b01FRXk3ckZNNTBpTGtYdkVfWkpjLXo1RWhKM2RHQlhoUWh2NDRoLVltV09LQ2M0MVplZXVmOTBKckItTlVjcUF2U3l6VDdNalR3OXc4RUNWS3h2RWtpR3RyR2JKN0ctQzUzSmF0VWVMU0pKVXh6cFNSY2t6WFl4WWhUb3V6OHZMWl94ZkxYWEJOaG1fQi1vMHE4Qkk0RnBBTTY5U0dkWFdQZWVCeFdMUDNicWZQMDhKVTV4T28xMEt1TjFPNk5tQWNMclBRck5rcmNDazlvZnBSeWpSUE5Rd09QaXViX3BlX2FHbENkekZJVEZjUw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-04",
    "ts": "2026-10-04T04:53:29Z",
    "level": "notable",
@@ -788,6 +873,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-04",
+   "ts": "2026-10-04T18:17:31Z",
+   "level": "notable",
+   "title": {
+    "en": "Claude满分、GPT 99分！何恺明团队把AGI考试打穿了-yeeyi",
+    "zh": "Claude满分、GPT 99分！何恺明团队把AGI考试打穿了-yeeyi"
+   },
+   "body": {
+    "en": "Kaiming He's research team built a new AGI-style exam on which Claude scored a perfect mark and GPT scored 99, highlighting how far frontier models have progressed on hard reasoning benchmarks.",
+    "zh": "何恺明的研究团队推出了一套新的AGI测试，Claude在测试中获得满分，GPT获得99分，凸显前沿模型在高难度推理基准上的进步。"
+   },
+   "source": "yeeyi",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1c0xtanFtNWEzX3dTQjdIckZJemsxMVM4WXlyOTF3UVhwbl95OUlMQWZ6dHd3YUlwQlp0OTNuVWRBOG96dVlSMWJBNHNBb3hNYTRtdUdB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-02",
    "ts": "2026-10-02T05:00:00Z",
    "level": "notable",
@@ -818,6 +920,23 @@
    },
    "source": "新浪财经",
    "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxOWHlnYVJUcUJpTUhndTUxQkRxY2NxX1MtOEhRZ05CTWFsRHRUdUdhcm9pV0lMd19vZDdHdUtKdUFObjk3RkFIblNkYkVkQkxZanBWT0RYUUZiT3M1dHJqOWhKYVVuY3ZNd3ZFTjI1WmZleEZ2d0dWQ1gtcW90Q0RjNkxibzBnQzEyY2pmWHdOLS1jVmx5RWpiaHlfa1pYcGpXRk9JcnZYNlQ0dTM2M1M3S1pnNVl1d2Q0TjdOUEJ4UTNrY2hkS040dHhBYWtOZm9WT3ZYQl85MXVsNkwtc0VwOXJ2VDFmRjlOSVo3LUZ0QjFzVElSS0ptT1oybWliVmdRUzlBSi1ZYkhSUE5pTzNOWGtxQzJiSk1QSEFpTFE0ZG5pWDhIWlNHSmgzaERRQVZMUXpYdmw0Sy1WdVRlTi0zWDlJYXc0MGVOWW5hRjlNSFVmaUpXRG85VTRkWUFRcFJCX1lXSGhidTJtRWREMUtZZFhfU2hiUTVqWWZMR0NxSGFod3RZNEtGb1liOUF6ZWprMmgxSk51UXJfVTR4RG1TekhkZnpUVjBzZ29IQjZ5UUZiTHlFem9BLWpWNkJrRjVLXzRnaUlqVWN3ZWJfSGxncnpqSEJ0eV9KeDM1VEpFdWV0Wm85UmZuLWtMMldNZWpJNmR3Sml0TXJZSnhJMGdxOTRCXzlBWWhpcElkc0J6cGVqNUJva2t3cEt6QjY0a0dPVmlpSGR4R29NTkkzYm1tRmFtNzVpcXlxeUlSY29WczJkX1g4NVIyRmkzaFpvQmNxdExHUWtYUmhtVHVCQ0c4TExheHltaGVobVlj?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-02",
+   "ts": "2026-10-02T06:00:17Z",
+   "level": "notable",
+   "title": {
+    "en": "何恺明团队新作：看猫片就能学会ARC挑战|训练|格子|模型|视觉|规则_手机新浪网",
+    "zh": "何恺明团队新作：看猫片就能学会ARC挑战|训练|格子|模型|视觉|规则_手机新浪网"
+   },
+   "body": {
+    "en": "Kaiming He's group released new work showing a model can learn to tackle ARC-style reasoning challenges by watching cat videos, a notable research result from his MIT lab.",
+    "zh": "何恺明团队发布新研究，展示模型可通过观看猫片视频学会应对ARC式推理挑战，这是其MIT实验室一项值得关注的研究成果。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMivARBVV95cUxQWE1kLVNDc1plTmtqeFFyNEdQbEVSOUMyUmZwaW51TURVX05lOTgyVWNQdWw4Rm53NGpqSXhyTXluMmtnRS1YZ1lISWlKUFl2QjJ1Qi1MR3F2UEdnX3FCMmJzaUlyd2NjdjhjbF9vSnFpUC04bldiZV9QSGxTblJuSUM1Q3hZeWVlZE9NTnI5LV9WXzc1NzdwUUFISXc2T3ZSRXRPZUlNWFEzV013MG1EV3Q4M2lJWVhuZW9ZNzVMU2xEaUYtRTJUZk5STE9YWlQzRVJXcnNwc19JTHB3Z3JaUG4xQVpNb2wtUjlLU3F4UzVkeDRyMWJFYzUzQXNJT2pDdFRUcktzcWh3ZGYyTVU5QkNqZUNaNU4yWTNiT0RqZXJrMlVmdFhKOTdFQzFlZ0pFOVlvc3ZpNllSd3RpTXBxd2RMWlRnUDJZbXpCaDZJYjIzS0Jyc05Cb0RoT0hndzBySHdGTjF5RFA3XzZpVjNlVFVBVzQ0OWRvUFE1ZXpIa2tmVFZPU1Y0YWg1V2lZOTRtSzdYQ1hpRXRfUUJDenZHanFfYk5lclgtZ3U4WHEzM1Z1ZnZQbzl3V2VWd29kNU5wcGg2RFZRTkFiZlZGbGRMNHFMeVJsYnVBbTZPTlQ4S0VzSHdCcDV0Q1RZa2N3VkxFRjNSdnpuLXYwcHdHY2NoaGk5Nk82SHYwaVpEazlneXI4d01mUU04YnJfNy1CY0pHMHFidDJqc1BIRmRVTFZQMnNHYlVKY2tlSUhNcQ?oc=5",
    "auto": true,
    "judged": true
   },
@@ -886,6 +1005,40 @@
    },
    "source": "yeeyi",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10am80Z2lBdE45ZzlTRWZJS1JaZkpKX1JZTUQ4WWxOUzFOQkhqMHZ0Rlp2YmdhWC1YRmItUmNOd0N1WXlLbTh2dGFsSkRnbE90SnphY2hR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-01",
+   "ts": "2026-10-01T04:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "何恺明团队新作：看猫片就能学会ARC挑战",
+    "zh": "何恺明团队新作：看猫片就能学会ARC挑战"
+   },
+   "body": {
+    "en": "Kaiming He's team published new work showing a model can learn to solve ARC-style reasoning puzzles just from watching cat videos.",
+    "zh": "何恺明团队发表新研究，展示模型仅通过观看猫咪视频即可学会解决类ARC推理挑战。"
+   },
+   "source": "sohu.com",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tSS1URjM4djFKMTh3TmVER1daT1lGdFVuNjRfZWxKeFZjQjBnZTI0Y0ZiRHhraVYxZTdUbG12OXpoVnNxNlJmM0FlbURHa2N0WVE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-01",
+   "ts": "2026-10-01T05:11:19Z",
+   "level": "notable",
+   "title": {
+    "en": "何恺明团队新作：看猫片就能学会ARC挑战-yeeyi",
+    "zh": "何恺明团队新作：看猫片就能学会ARC挑战-yeeyi"
+   },
+   "body": {
+    "en": "He's research team published new work showing a model can learn to tackle the ARC reasoning challenge after training on videos of cats.",
+    "zh": "何恺明团队发表新研究，展示模型在观看猫咪视频训练后能够学会应对ARC推理挑战。"
+   },
+   "source": "yeeyi",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM2xncTducjNpQWw2WFNmUkU2WFRsZ0Zqc3plN2x3SGxKZ0FiS3M3Q0RycThpXzNYY2JNZEZHSnhRcThHNm4wVDEwWlg5LWNVYU5xWUVqLWFteUlfMTAwNmJuaTRCMTdfeTU4V2E1c2hiSEhfU0RrWnVYOXJXNWlKRUh3?oc=5",
    "auto": true,
    "judged": true
   },
@@ -1203,15 +1356,15 @@
  },
  "cat": "research",
  "score": {
-  "total": 38.4,
+  "total": 39.5,
   "attention": 33,
   "centrality": 2,
-  "momentum": 63,
+  "momentum": 68,
   "stature": 100,
   "pageviews": 46828,
   "citations": 555963,
   "hIndex": 83,
-  "events": 28,
+  "events": 37,
   "posts": 29,
   "wikiEn": "Kaiming He",
   "wikiZh": "何恺明"

@@ -209,6 +209,101 @@
    "connector": "podcasts"
   },
   {
+   "date": "2026-09-11",
+   "ts": "2026-09-11T16:59:33Z",
+   "kind": "blog",
+   "title": {
+    "en": "Lies, Damned Lies, and Benchmarks",
+    "zh": "Lies, Damned Lies, and Benchmarks"
+   },
+   "source": "Complete Skeptic",
+   "url": "https://www.completeskeptic.com/p/lies-damned-lies-and-benchmarks",
+   "note": {
+    "en": "Almeida argued that AI benchmarks have become a fourth kind of lie, joining the famous trio of lies, damned lies and statistics.",
+    "zh": "Almeida撰文指出，AI基准测试已成为继'谎言、该死的谎言和统计数字'之后的第四种谎言。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T17:02:01Z",
+   "kind": "blog",
+   "title": {
+    "en": "The Bitterest Lesson",
+    "zh": "The Bitterest Lesson"
+   },
+   "source": "Complete Skeptic",
+   "url": "https://www.completeskeptic.com/p/the-bitterest-lesson",
+   "note": {
+    "en": "Almeida wrote that compute drives AI progress, but questioned the value of that progress when it is not aimed at the right task.",
+    "zh": "Almeida撰文指出，算力推动了AI的进步，但如果进步没有用在正确的任务上，这种进步的价值就值得怀疑。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T17:22:05Z",
+   "kind": "blog",
+   "title": {
+    "en": "(KV) Cache Rules Everything Around Me",
+    "zh": "(KV) Cache Rules Everything Around Me"
+   },
+   "source": "Complete Skeptic",
+   "url": "https://www.completeskeptic.com/p/kv-cache-rules-everything-around",
+   "note": {
+    "en": "Almeida explained that an agent's biggest cost to developers is re-reading its own context via the KV cache, which costs providers almost nothing to serve.",
+    "zh": "Almeida解释道，智能体对开发者而言最大的成本是不断重新读取自身上下文（KV缓存），而这对服务提供商而言几乎没有成本。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-07-24",
+   "ts": "2026-07-24T03:23:16Z",
+   "kind": "blog",
+   "title": {
+    "en": "Is it even possible for the Chinese Labs to distill US models?",
+    "zh": "Is it even possible for the Chinese Labs to distill US models?"
+   },
+   "source": "Complete Skeptic",
+   "url": "https://www.completeskeptic.com/p/is-it-even-possible-for-the-chinese",
+   "note": {
+    "en": "Almeida argued that Chinese labs can in fact distill US frontier models, and explained why the mechanics of how it works are unintuitive.",
+    "zh": "Almeida认为中国实验室确实能够蒸馏美国前沿模型，并解释了其中违反直觉的技术原理。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-07-04",
+   "ts": "2026-07-04T05:22:37Z",
+   "kind": "blog",
+   "title": {
+    "en": "Scaling Laws, Honestly",
+    "zh": "Scaling Laws, Honestly"
+   },
+   "source": "Complete Skeptic",
+   "url": "https://www.completeskeptic.com/p/scaling-laws-honestly",
+   "note": {
+    "en": "Almeida wrote that the original scaling-laws findings were wrong due to a bug, revisiting research he co-authored at OpenAI.",
+    "zh": "Almeida撰文指出，最初的scaling laws（缩放定律）研究结论因一处错误而有误，重新审视了他在OpenAI时参与的这项研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
    "date": "2023-03-15",
    "ts": null,
    "kind": "paper",
@@ -481,16 +576,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 23.6,
+  "total": 24.5,
   "attention": null,
   "centrality": 14,
-  "momentum": 35,
+  "momentum": 37,
   "stature": null,
   "pageviews": 0,
   "citations": 0,
   "hIndex": 0,
   "events": 8,
-  "posts": 11,
+  "posts": 16,
   "wikiEn": null,
   "wikiZh": null
  },

@@ -208,6 +208,25 @@
    }
   },
   {
+   "date": "2026-10-05",
+   "ts": "2026-10-05T19:24:49Z",
+   "kind": "blog",
+   "title": {
+    "en": "Position: Stop Reactively Patching Your Model Every Time and Start Proactive Test-Driven AI Development",
+    "zh": "Position: Stop Reactively Patching Your Model Every Time and Start Proactive Test-Driven AI Development"
+   },
+   "source": "Research",
+   "url": "https://research.nvidia.com/publication/2026-07_position-stop-reactively-patching-your-model-every-time-and-start-proactive",
+   "note": {
+    "en": "Jim Fan co-authored a position paper arguing AI developers should shift from reactively patching models to proactive, test-driven AI development.",
+    "zh": "范麟熙合著了一篇立场文章，主张AI开发者应从被动修补模型转向主动的测试驱动式AI开发。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
    "date": "2026-09-16",
    "ts": "2026-09-16T04:41:28Z",
    "kind": "blog",
@@ -1150,7 +1169,7 @@
   "citations": 0,
   "hIndex": 0,
   "events": 2,
-  "posts": 49,
+  "posts": 50,
   "wikiEn": null,
   "wikiZh": null
  },

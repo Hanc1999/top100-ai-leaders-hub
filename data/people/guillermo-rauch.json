@@ -146,7 +146,7 @@
    "connector": "podcasts"
   },
   {
-   "date": "2026-10-02",
+   "date": "2026-10-04",
    "ts": null,
    "kind": "report",
    "title": {
@@ -154,10 +154,10 @@
     "zh": "rauchg made this repository public"
    },
    "source": "GitHub Public Timeline Feed",
-   "url": "https://github.com/rauchg/skills",
+   "url": "https://github.com/rauchg/gdp-ts",
    "note": {
-    "en": "Rauch open-sourced a new GitHub repo, rauchg/skills, a collection of agent skills.",
-    "zh": "Rauch开源了新的GitHub仓库rauchg/skills，收录了一系列智能体（agent）技能。"
+    "en": "Rauch made his TypeScript project gdp-ts public on GitHub.",
+    "zh": "Rauch在GitHub上公开了他的TypeScript项目gdp-ts。"
    },
    "auto": true,
    "judged": true,
@@ -960,6 +960,23 @@
    "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/"
   },
   {
+   "date": "2026-10-05",
+   "ts": "2026-10-05T08:04:33Z",
+   "level": "notable",
+   "title": {
+    "en": "Vercel Founder Guillermo Rauch: AI Will Ultimately Be Free",
+    "zh": "Vercel Founder Guillermo Rauch: AI Will Ultimately Be Free"
+   },
+   "body": {
+    "en": "Rauch argued in an interview that AI access will ultimately become free, a position relevant to how Vercel prices its AI-assisted development tools.",
+    "zh": "Rauch在采访中提出AI最终将变得免费的观点，这一立场关系到Vercel如何为其AI辅助开发工具定价。"
+   },
+   "source": "ababnews.com",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40QTBtaW85QTR1WE1CNnp6dmJmQUtiNUFfdlQxSUwtZDFHSWJzWE9pb3dZZmJWSUFIUUFFLThJZHdQc1JSN2FtVHdjTkRPSVdBME1LbFdERGZvQjBRSlJIT04yaGYxUDBjT0I3SS1lSUllQXhf?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-17",
    "ts": "2026-09-17T22:09:47Z",
    "level": "notable",
@@ -1026,7 +1043,7 @@
   "pageviews": 0,
   "citations": 9,
   "hIndex": 1,
-  "events": 4,
+  "events": 5,
   "posts": 44,
   "wikiEn": null,
   "wikiZh": null

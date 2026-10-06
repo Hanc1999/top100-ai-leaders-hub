@@ -169,6 +169,44 @@
    }
   },
   {
+   "date": "2026-10-05",
+   "ts": "2026-10-05T14:28:22Z",
+   "kind": "x",
+   "title": {
+    "en": "Multiple recent polls show that citizens do not agree with the current trajectory of AI development. According to a national poll conducted in the US by @Quinni",
+    "zh": "Multiple recent polls show that citizens do not agree with the current trajectory of AI development. According to a national poll conducted in the US by @Quinni"
+   },
+   "source": "@yoshua_bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2107115683880259605",
+   "note": {
+    "en": "Bengio cites new polling showing most Americans are uneasy with the current pace and direction of AI development, backing his push for stronger safety governance.",
+    "zh": "本吉奥引用最新民调，显示多数美国民众对当前AI发展的速度与方向感到不安，为其推动更强的AI安全治理提供依据。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-05",
+   "ts": "2026-10-05T15:54:10Z",
+   "kind": "x",
+   "title": {
+    "en": "A dangerous myth has gained traction after the recent hacks perpetrated by the AI agents developed by leading companies: That these incidents are just cyber sec",
+    "zh": "A dangerous myth has gained traction after the recent hacks perpetrated by the AI agents developed by leading companies: That these incidents are just cyber sec"
+   },
+   "source": "@yoshua_bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2107137278199906340",
+   "note": {
+    "en": "Yoshua Bengio pushed back on framing recent AI-agent hacks as purely a cybersecurity issue, arguing it understates the deeper risks of autonomous AI agents.",
+    "zh": "Yoshua Bengio反驳了将近期AI智能体引发的黑客事件仅视为网络安全问题的说法，认为这种说法低估了自主AI智能体带来的更深层风险。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-02",
    "ts": "2026-10-02T22:48:25Z",
    "kind": "x",
@@ -1554,44 +1592,6 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
-  },
-  {
-   "date": "2026-04-27",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Safety and innovation are not mutually exclusive: for many companies, especially in high-trust industries, AI’s risks are also a hindrance to adoption. In this",
-    "zh": "Safety and innovation are not mutually exclusive: for many companies, especially in high-trust industries, AI’s risks are also a hindrance to adoption. In this"
-   },
-   "source": "@Yoshua_Bengio",
-   "url": "https://x.com/Yoshua_Bengio/status/2048770588244611186",
-   "note": {
-    "en": "Bengio's Financial Times op-ed argues safety and innovation are not mutually exclusive, and that AI risk hinders adoption in high-trust industries.",
-    "zh": "本吉奥在《金融时报》的专栏文章中指出,安全与创新并非对立,AI风险正阻碍高信任行业的采纳。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
-   "date": "2026-04-24",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "AI is advancing faster than our ability to manage it. We still have the opportunity to build the societal and technical guardrails we need to keep people, insti",
-    "zh": "AI is advancing faster than our ability to manage it. We still have the opportunity to build the societal and technical guardrails we need to keep people, insti"
-   },
-   "source": "@Yoshua_Bengio",
-   "url": "https://x.com/Yoshua_Bengio/status/2047728790571307235",
-   "note": {
-    "en": "Bengio warns AI is advancing faster than our ability to manage it and calls for building societal and technical guardrails while there's still time.",
-    "zh": "本吉奥警告AI发展速度已超出人类管控能力,呼吁抓紧时机建立社会和技术护栏。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
   },
   {
    "date": "2026-04-19",
@@ -3298,10 +3298,10 @@
  },
  "cat": "research",
  "score": {
-  "total": 64.7,
+  "total": 64.5,
   "attention": 67,
   "centrality": 30,
-  "momentum": 86,
+  "momentum": 85,
   "stature": 98,
   "pageviews": 276660,
   "citations": 475043,

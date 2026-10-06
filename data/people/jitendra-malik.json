@@ -177,6 +177,25 @@
    }
   },
   {
+   "date": "2026-10-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
+    "zh": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.03710v1",
+   "note": {
+    "en": "Malik co-authored EyeRobot 2.0, a framework using active robotic gaze with a single stereo camera for precise bimanual manipulation without wrist-mounted cameras.",
+    "zh": "Malik合著了EyeRobot 2.0，该框架利用主动视觉注视和单个立体摄像头实现精确的双臂操作，无需腕部摄像头。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-29",
    "ts": null,
    "kind": "paper",
@@ -1790,7 +1809,7 @@
   "citations": 168758,
   "hIndex": 144,
   "events": 0,
-  "posts": 86,
+  "posts": 87,
   "wikiEn": "Jitendra Malik",
   "wikiZh": "希特德拉·馬利克"
  },

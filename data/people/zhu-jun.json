@@ -187,6 +187,25 @@
    }
   },
   {
+   "date": "2026-10-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SymRegFlow: Symmetry-Regularized Flow Matching for Video World Models",
+    "zh": "SymRegFlow: Symmetry-Regularized Flow Matching for Video World Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.02726v1",
+   "note": {
+    "en": "Zhu Jun's group proposes a symmetry-regularized flow-matching method for multi-view video world models that generalizes to freely varying camera poses.",
+    "zh": "朱军团队提出对称正则化的流匹配方法，用于支持自由变化相机位姿的多视角视频世界模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-01",
    "ts": null,
    "kind": "paper",
@@ -1041,7 +1060,7 @@
   "citations": 56229,
   "hIndex": 118,
   "events": 16,
-  "posts": 31,
+  "posts": 32,
   "wikiEn": "Zhu Jun",
   "wikiZh": "朱军"
  },

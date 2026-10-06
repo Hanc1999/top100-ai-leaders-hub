@@ -411,6 +411,25 @@
    "connector": "web"
   },
   {
+   "date": "2025-06-19",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Andrej Karpathy: Software Is Changing (Again)",
+    "zh": "Andrej Karpathy: Software Is Changing (Again)"
+   },
+   "source": "Y Combinator Startup Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/andrej-karpathy-software-is-changing-again/id1236907421?i=1000713636573&uo=4",
+   "note": {
+    "en": "Karpathy's keynote at AI Startup School in San Francisco on how large models are changing software development, drawing on his Stanford, OpenAI and Tesla experience.",
+    "zh": "卡帕西在旧金山AI创业学校的主题演讲，结合他在斯坦福、OpenAI和特斯拉的经历，讲述大模型如何重塑软件开发方式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2025-04-27",
    "ts": null,
    "kind": "blog",
@@ -1274,7 +1293,7 @@
   "citations": 58963,
   "hIndex": 20,
   "events": 21,
-  "posts": 39,
+  "posts": 40,
   "wikiEn": "Andrej Karpathy",
   "wikiZh": "安德烈·卡帕西"
  },

@@ -217,6 +217,25 @@
    }
   },
   {
+   "date": "2026-10-06",
+   "ts": "2026-10-06T04:23:58Z",
+   "kind": "x",
+   "title": {
+    "en": "GLM-5.3 is on Amazon Bedrock! https://t.co/WjsZcJqFll",
+    "zh": "GLM-5.3 is on Amazon Bedrock! https://t.co/WjsZcJqFll"
+   },
+   "source": "@jietang",
+   "url": "https://x.com/jietang/status/2107325969480720713",
+   "note": {
+    "en": "Tang Jie announced that GLM-5.3 is now available on Amazon Bedrock, expanding distribution of Zhipu's model line.",
+    "zh": "唐杰宣布GLM-5.3已上线Amazon Bedrock，扩大了智谱模型系列的分发渠道。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-09-30",
    "ts": null,
    "kind": "paper",
@@ -2935,6 +2954,23 @@
    "judged": true
   },
   {
+   "date": "2026-08-19",
+   "ts": "2026-08-19T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "智谱唐杰：大模型只看参数的时代，结束了",
+    "zh": "智谱唐杰：大模型只看参数的时代，结束了"
+   },
+   "body": {
+    "en": "Tang Jie, Zhipu AI's chief scientist, said publicly that the era of judging large models purely by parameter count is over, a stance on how progress in frontier models should now be measured.",
+    "zh": "智谱首席科学家唐杰公开表示，大模型只比拼参数规模的时代已经结束，这是他对未来应如何衡量大模型进展的公开表态。"
+   },
+   "source": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUay13bExRMVBwTjhNVzVlcWpWOEJ6M0RlVy1IeFZfUGZKQmpsSUZNRTlSUjlOdkh0ZmRZTllaSk8tSExLaFQzeQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-08-15",
    "ts": null,
    "level": "notable",
@@ -3358,8 +3394,8 @@
   "pageviews": 0,
   "citations": 30390,
   "hIndex": 83,
-  "events": 107,
-  "posts": 70,
+  "events": 108,
+  "posts": 71,
   "wikiEn": null,
   "wikiZh": null
  },

@@ -228,6 +228,25 @@
    "connector": null
   },
   {
+   "date": "2026-09-28",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Jensen Huang on AI Safety & Bob Chapek on His Disney Ouster 9/28/26",
+    "zh": "Jensen Huang on AI Safety & Bob Chapek on His Disney Ouster 9/28/26"
+   },
+   "source": "Squawk Pod",
+   "url": "https://podcasts.apple.com/us/podcast/jensen-huang-on-ai-safety-bob-chapek-on-his-disney/id1480890290?i=1000792057163&uo=4",
+   "note": {
+    "en": "In an extended interview, Huang explains Nvidia's new AI safety software, part of an effort to build what he calls a browser for AI.",
+    "zh": "在一次深度访谈中，黄仁勋介绍了英伟达新的AI安全软件，这是打造他所说的'AI浏览器'努力的一部分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-09-26",
    "ts": null,
    "kind": "podcast",
@@ -894,6 +913,40 @@
    "url": "https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership"
   },
   {
+   "date": "2026-10-06",
+   "ts": "2026-10-06T00:31:00Z",
+   "level": "minor",
+   "title": {
+    "en": "清华经管学院顾问委员会扩容 黄仁勋、苏姿丰等成新增委员",
+    "zh": "清华经管学院顾问委员会扩容 黄仁勋、苏姿丰等成新增委员"
+   },
+   "body": {
+    "en": "Jensen Huang and Lisa Su join the expanded advisory committee of Tsinghua's School of Economics and Management.",
+    "zh": "黄仁勋与苏姿丰加入清华大学经济管理学院扩容后的顾问委员会。"
+   },
+   "source": "财新",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qd0hsLWFEdmczQTVxNEh1LTh3RVdtR3lMRXU4blc4bEJjZXJ4bG9FZmlSTE5UTUIydlNxWHlrNDV6OVZqc2JHS2paeXV2SDcxT1pfei1FaVg5a1JEMG9VaXdn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-06",
+   "ts": "2026-10-06T09:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk, Mark Zuckerberg and Jensen Huang embrace Trump's 'super intelligence' rebrand of AI — Sam Altman holds out",
+    "zh": "Elon Musk, Mark Zuckerberg and Jensen Huang embrace Trump's 'super intelligence' rebrand of AI — Sam Altman holds out"
+   },
+   "body": {
+    "en": "Huang joined Zuckerberg in publicly embracing Trump's push to rebrand AI as 'superintelligence,' while Altman declined to follow.",
+    "zh": "黄仁勋与扎克伯格公开支持特朗普将AI改称为“超级智能”的提法，而奥特曼未跟进表态。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWEdKSHZiSXRQcnBiZUdyRGtOdWpPNkNVUmtSU29FRUc1ZXh2RFhUcElRUEFlNllaUVRFbUluck94TE5yN2hSaWFoZ0dpenh4N2J2dWx3Wi1PRTAwdUMyQmdtN0VCbm90WkxWNFRyMk8tN3dxTjFFM2o2MjVtY0ZMTDhMSzBPY2ZwbEJFeE1FTXNYbjlNZnp5dV9Ea2Q?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-05",
    "ts": "2026-10-05T01:33:44Z",
    "level": "notable",
@@ -975,6 +1028,23 @@
    },
    "source": "搜狐网",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZGZUSUluUGpxTUQ2OUp1V1JEU0o4X2hscVAwaUM3akFQdll3ejhfMkdKdDBhb0R4RnA5WDllRGlfTXB4ZHdiNkhQN3JNSVBZdFA1SHE2dmtCWk41d0EtcGhtMEc1V2o4VTJaYWFfSjBYMUgzSDRJb3VfWE9kYkhmcV9mLThiUTl5ZTZRMQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-05",
+   "ts": "2026-10-05T20:00:28Z",
+   "level": "notable",
+   "title": {
+    "en": "算力资产寿命的多空之争：黄仁勋说能用六年，空头说三年就该报废",
+    "zh": "算力资产寿命的多空之争：黄仁勋说能用六年，空头说三年就该报废"
+   },
+   "body": {
+    "en": "Huang says AI compute hardware can run productively for six years, pushing back against bearish claims that GPUs should be written off after three.",
+    "zh": "黄仁勋表示AI算力硬件可用六年，反驳了空头认为GPU应三年报废的说法。"
+   },
+   "source": "finance.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY0pYZzNneUJBbmZsVk9yVGQzOE9oZ1IwSUZiamhFRG1qN2RVUWN4RzRLek5sbTlkblItb3FIQll3NDhtejc5eG1FZVFKRDFMMU9FYkhxS2xuOUx1dnExZnRkODNrdFlMQXRuVXRZamhROTM2OTdmVnpBamJyRWxUZW1ISEZZSVlEeDZtTC1sdTVuTk1DSEtvTHpxWjNGUlM1WHoxR0pfWng4UXg0dHRlaFln?oc=5",
    "auto": true,
    "judged": true
   },
@@ -1111,6 +1181,23 @@
    },
    "source": "新浪财经",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdmNZZWF5YUdOdmppU1dDb2FkVnUtVlV5N3V1S0lQZnZJM2wzNmV6dkhyNXFTNEhDZW9NWEFsd0UxajNNODNPeGFsRGgtTnljdUtBZmgwNUZBdE1WNDM4OHpFX2tIWkxBNnEzSVdURFAtQURBLWNvQ0tTWlZQNkFMa1FXaWJsRG8?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-03",
+   "ts": "2026-10-03T11:08:33Z",
+   "level": "notable",
+   "title": {
+    "en": "黄仁勋最害怕的事成真！ 华为AI芯片中国市占狂飙50%",
+    "zh": "黄仁勋最害怕的事成真！ 华为AI芯片中国市占狂飙50%"
+   },
+   "body": {
+    "en": "Reports say Huawei's AI chip share in China has surged to roughly 50%, the competitive threat Huang had previously warned about becoming real.",
+    "zh": "报道称华为AI芯片在中国市场份额已飙升至约50%，这正是黄仁勋此前警告过的竞争威胁已经成为现实。"
+   },
+   "source": "KLSE Screener",
+   "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQWkFOZkFRdVVCRDhHQk1HZGd5eE84YnltLWtmT1RuR0tZUmVaOXVOdlpHLVh1T01oa09nemVvQjBHTlE1T2VheFFLWFpqa2RuOVdJaVJoV29nT2Z4bEJwMjI4aTZ5YWZWbk9VTDBIdGJEVGdTNnlFcDUwU1Z6UEVFdjltaTdEalRDck9uNE1iYURGZkFHbUZFNE1Za1lTYWViazhQaFd3bXAwUWlENGtWNmhSMmo0Qkk2NXR0N3dNUkNWLWV6eGRIS25LU2xHNmdPdnRyZnZyVUlfaG1UTXNuZTlTWVlhVTRiVVR1V0N2NHYzVGZvT0pBMHdaVk1aQUJhT2lTN1U0TjJMU3BzYTlSMF82c0prd2dvdVhsV2ltbHdQR1htYUZVMHV6X1M2d3FxbW9oRVA1Qi02OFg3VGxSRndZUkhhekhnRlB0OUlBR2lyYlpOelE?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2441,6 +2528,57 @@
    "judged": true
   },
   {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T06:40:00Z",
+   "level": "notable",
+   "title": {
+    "en": "特朗普为何要给AI改名？黄仁勋、马斯克都已改口叫“SI”",
+    "zh": "特朗普为何要给AI改名？黄仁勋、马斯克都已改口叫“SI”"
+   },
+   "body": {
+    "en": "Following Trump's executive order replacing \"Artificial Intelligence\" with \"Super Intelligence\" terminology, Huang has switched to using \"SI\" in his own language, alongside Musk.",
+    "zh": "特朗普签署行政令，要求将\"人工智能\"改称\"超级智能\"后，黄仁勋已和马斯克一样改口使用\"SI\"这一说法。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNWhJQ3FKbmZKWWV5MUdtcUFkcTlvR0lLNTJKUmtzS0xQMGpIOXh2Q0Q2SnVEWWlWRzFMdXUtaU9xZ2dSZGNEWW1EMWNwZWN6OXNJcHlZWmxQMkwyNUwtYWhBdWRpMm1lVWtCMVhzdDlXLS1WdTFPaXd1Z3RobzZDMHRsdk92ZGxmRWVLUEJfejBzQVM3VUlZTnoxUUwwdm1UVVItRGVldEZTdmw0S2ZOeDVwS1FxLVZhNmEwQmU2SHFnby1LZ05sZU43Y2x4Zml6?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T06:40:00Z",
+   "level": "minor",
+   "title": {
+    "en": "特朗普为何要给AI改名？黄仁勋、马斯克都已改口叫“SI”",
+    "zh": "特朗普为何要给AI改名？黄仁勋、马斯克都已改口叫“SI”"
+   },
+   "body": {
+    "en": "Report says Huang and Musk have both started using the term \"SI\" instead of \"AI,\" echoing Trump's push to rename the technology.",
+    "zh": "报道称，黄仁勋和马斯克已开始改用\"SI\"一词取代\"AI\"，呼应特朗普推动为该技术改名的说法。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOT1dnQlhRNVFxeU5qM1pqLUNuN2dJRjQ0bktxYjd1QmVfNHVTYkNKWDNfbzhVZWNVUUpFSk9GaTF2U1Z1MGV4Zk9VeGxETV96VDFxZjBIOHpubklBeF80TlpRVHRINF9DRTRwaXB0cnNVaWhFZFhRbkV6WmZUTTRXS2YyZGhUZHBtaDhkbGRCNk5jWm9kMjV2RTJtZEk2OGFYRE5YWGxyVUg1ZDQ5SWJwWXZOQng0TDY3dHNuNXF0bHY0bFRQZG4zUFNYWGJtcDQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T06:40:00Z",
+   "level": "minor",
+   "title": {
+    "en": "特朗普为何要给AI改名？黄仁勋、马斯克都已改口叫“SI”",
+    "zh": "特朗普为何要给AI改名？黄仁勋、马斯克都已改口叫“SI”"
+   },
+   "body": {
+    "en": "Huang, alongside Musk, has started calling AI 'SI' (superintelligence) following Trump's push to rename the term.",
+    "zh": "在特朗普推动改名之后，黄仁勋与马斯克已开始将AI称为“SI”（超级智能）。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd0FSRThNcFJ0bE51VmhtX2xieE1saHlvMkNaOS1WeHFuXzBYaVNNNDdPVy02SGRhS2NhS2FmNWxMUVdLVm83NVpFYTlJUzd2VXEyQ1hTcE9nbEl4WE41eGtqa1pkemhkcTEwZ0p6dGZYU0otWUtXeEdqN1JrR2pIUF8ybEZaLTJSZ2ltR1hZb2YzNUd5WHNucTZ3NGYxOGdqLVpNYkF3TE1EaEhEcGg3VmtHanM4ZTZvandOU3BhTlpleWh2MzRVSExrdXdndjYy?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-29",
    "ts": "2026-09-29T00:26:22Z",
    "level": "minor",
@@ -3308,6 +3446,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T10:16:00Z",
+   "level": "minor",
+   "title": {
+    "en": "黄仁勋任清华经管学院顾问委员会新增委员",
+    "zh": "黄仁勋任清华经管学院顾问委员会新增委员"
+   },
+   "body": {
+    "en": "Huang was named a new member of Tsinghua University's School of Economics and Management advisory board.",
+    "zh": "黄仁勋新当选为清华大学经济管理学院顾问委员会委员。"
+   },
+   "source": "京报网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RbUNNNHlnYml6ZmxLUGdFWVpvQnM0azRoTnN3Y3VmUmh6d2E1b0Q4SXdaZGpQRnZBY0U0TVVDaVI4Q1dFSVdrUmphV19mVDQ1VmxFV0UxUUVsRlo0aGR2S0E2b3NIMFdCZ0ZFdkE5LTFnQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-28",
    "ts": "2026-09-28T01:32:51Z",
    "level": "notable",
@@ -3916,6 +4071,91 @@
    },
    "source": "新浪财经",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd01aV0ktU2cxS1hxeWdzb2JVRm9MZ2NYaGhEdVY2d09CUU1uVmsxR04wVTVpcUlpMktGWXhzQnhOUXpDTFo4UVZyNEV0YnhjaFhkVDJOT0UwZTRIRjQ0ZkVIMFBaOEowNExEdy1jUXVuUEJmR1cxOEVJTkd1ell0WDctRTZnNkJVS1JiTFJNZUl2RXpPXzZXYzVZWnJUR3NmSW0xb2RMWW5hdldNWE9DbE1oVGMzYW1GOXJDQnVUNUhiOVpxcldreEVwUnlzY1U4bEZTdE9oV3FwNU56Mndn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-27",
+   "ts": "2026-09-27T07:33:00Z",
+   "level": "notable",
+   "title": {
+    "en": "黄仁勋：驳斥AI末日论，AI是工程革命而非神秘超自然力量",
+    "zh": "黄仁勋：驳斥AI末日论，AI是工程革命而非神秘超自然力量"
+   },
+   "body": {
+    "en": "Huang publicly rejected AI-doom framing, calling AI an engineering revolution rather than a mystical force.",
+    "zh": "黄仁勋公开驳斥AI末日论，称AI是一场工程革命，而非神秘的超自然力量。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOWZwUUJnRk1wSTR1YUJiUHlEa2l2NkF1MV9ZczJzdE9XaFlQajNPOXNlT2pvcm1sZDN3bl81VkRPemR2M0JORXdDMGV2Nmt6R0VxRXpuTl9yLWx6cmJram9WTDlNcktBSGg2Y3FVbnkya2lMU3pITjFPQWlGS0lWNFZRX2J6eG9jRDBQQm9ZMjVyU2wxa05jcUlNZDdTOU1oekF1dkQzUmdfTG8zZFhmMTBZdll1WWFNaXZIcndQOThqczJUTE5ma0RkT09kTEFfenJlWThzZ3VMS3ExX2pv?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-27",
+   "ts": "2026-09-27T06:22:00Z",
+   "level": "notable",
+   "title": {
+    "en": "黄仁勋在纽约时报的访谈，推荐每个人看一遍",
+    "zh": "黄仁勋在纽约时报的访谈，推荐每个人看一遍"
+   },
+   "body": {
+    "en": "Huang gave a widely circulated New York Times interview that Chinese commentators are urging people to watch, reflecting his continued high-profile public visibility as NVIDIA's chief.",
+    "zh": "黄仁勋接受了《纽约时报》的访谈，引发广泛关注，评论者建议大家都看一看，体现出他作为英伟达掌门人持续的高曝光度。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzdBaEU4Y243bUpXM2lKaEpXN3AxNWdiTTg3ckNYQzR0Wmd6UWljUjJKZWR6bG1UekQybzZQUVlnaHNTc2xDS2dWNEFNZEdscEFvNG1HZS1YZVJSQzJlQnpkY2tBb0V0OXZuZXBMb2ZTaGhDckJXaU8yczhGQmVTODFEYU5ET0p3LU8zZnhtb0pzNl82c2pndnR2NWJUTUZlNEtVTUdlcmxObnp1Skl2OTZVUktmbHU0ZlY2YVVhbUcxbWN4aW5RbFd2Z3hBeTQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-27",
+   "ts": "2026-09-27T07:33:00Z",
+   "level": "notable",
+   "title": {
+    "en": "黄仁勋：驳斥AI末日论，AI是工程革命而非神秘超自然力量",
+    "zh": "黄仁勋：驳斥AI末日论，AI是工程革命而非神秘超自然力量"
+   },
+   "body": {
+    "en": "Huang publicly rejected AI doomsday narratives, framing AI progress as an engineering achievement rather than a mysterious or supernatural force.",
+    "zh": "黄仁勋公开驳斥AI末日论，强调AI的进步是工程层面的成就，而非神秘的超自然力量。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVVFMFU0UXR0U29wUG5Jbk5DQ3JSTkNEc1MzTUJjamtqc2d0U3FkWFJRS2ZDeENKaUVYLWZxN1RRcVdlaHltcE5qLXBTU1djUUVQTHpxSThhSEdmMm9zTDBiOEpQV3VfSWJDRnFvT1VKQktaZGl3bFFKS0otZHRyWFY3eFB5LS1Pc3ZCZEZfams1R3Z5cFkta2F4X0x4dFBmRG1uampZU1dUdzZMNmRsZmtxNmVPYjB3aENXSk5wakVsSzBfMGdnUGFhMFhITE9Zb2JPeGpUbDdidk1ULWxz?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-27",
+   "ts": "2026-09-27T07:33:00Z",
+   "level": "notable",
+   "title": {
+    "en": "黄仁勋：驳斥AI末日论，AI是工程革命而非神秘超自然力量",
+    "zh": "黄仁勋：驳斥AI末日论，AI是工程革命而非神秘超自然力量"
+   },
+   "body": {
+    "en": "Huang pushed back on AI-doom narratives, arguing AI is an engineering revolution rather than a mysterious or supernatural force.",
+    "zh": "黄仁勋驳斥AI末日论，认为人工智能是一场工程革命，而非神秘的超自然力量。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdU9pZzBlTk1wM2F3elBVLWQ0MjdfZEtWRHRkZ1JSbVBNYmV3bW5Tcko2WWU1ZE1vZGhVeUNXZ1RvN3phWjhvZlB6QVNWUmR2b2FFbFZKWllyYVhGQ04wYWdoS255Rk1UWTNsT2xMdndfQ2E2TUk5bFZDQ3Z2Tm9uajFSb2pQdFpmMG5pUnR1ODNwMlZrYWhmbUYzVXR1UUtNOHhzYWItbHVsZklLNE5Vb2JZRnpSc0pUUzBHUWQ3WWZoZzJ3NmFBaThaX2tleVBFdDJ5cURMNVhPc2puR3cw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-27",
+   "ts": "2026-09-27T06:22:00Z",
+   "level": "notable",
+   "title": {
+    "en": "黄仁勋在纽约时报的访谈，推荐每个人看一遍",
+    "zh": "黄仁勋在纽约时报的访谈，推荐每个人看一遍"
+   },
+   "body": {
+    "en": "Huang gave an interview to The New York Times that circulated widely in Chinese financial media as must-watch.",
+    "zh": "黄仁勋接受《纽约时报》专访，该访谈在中文财经媒体中被广泛推荐为必看内容。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeUJEeFktd2JtcWM1OUFMdlZLV2RESENpLWc1aXBsX2dtTy1JdkQ0WThkYlBfRkNMYVYzWUJsNWR1RDhtbjNKTVl0aWdSbDY5OUthLWJ1RGNlWjVXUGNPUEJ0dFpOeC1MMUNaa0V6U3hxdHBGdXhzTGpVY3liN1VmMmh1NTVjbDZDRWoxMGFwVnloZ2ZfY3MzbVdydUgyR3NNdm1rU1pHSkZyNHM4N0VEZGRfRVZOX1pBU29EWFJqNnNUMy1rX2JFdEsxR2FQVkNH?oc=5",
    "auto": true,
    "judged": true
   },
@@ -8952,6 +9192,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "黄仁勋再驳“AI末日论”：人类不会因AI在2030年灭亡，AI不需要新的法律和监管|Salesforce|马克·贝尼奥夫|芯片|硅谷|英伟达",
+    "zh": "黄仁勋再驳“AI末日论”：人类不会因AI在2030年灭亡，AI不需要新的法律和监管|Salesforce|马克·贝尼奥夫|芯片|硅谷|英伟达"
+   },
+   "body": {
+    "en": "Huang again rejects AI-doom predictions, arguing humanity won't be wiped out by AI by 2030 and that AI needs no new laws or regulation.",
+    "zh": "黄仁勋再次驳斥AI末日论，称人类不会在2030年因AI灭亡，AI也不需要新的法律和监管。"
+   },
+   "source": "finance.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY1JPY2l5VE5JcVhaVDg5ZGxBbDNpUDFvOV9CM3EtUldmQTJaa1l4QmJ6XzNTVUh2UXk3cXFvQ29OZWRGemdhWWRCdVVQSi0xemx4Mm1nejFBZnhqQm05aER5d2FWNlJXejQxYi1wYko4UDJZR3Jpa2ZZQ1dkUFphV3F6UEZzWU15cFRiRHEwUGVJRHVxdkJOU2VlZnJ4T0k2YkZDUEdOWW1CYWRLLU1uSGsyMGcwTmVmZ3BhMDBmWk92M0J4ZU5sVE56NE13OFQ4V1E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-15",
    "ts": "2026-09-15T01:30:39Z",
    "level": "notable",
@@ -11789,8 +12046,8 @@
   "pageviews": 3963246,
   "citations": 0,
   "hIndex": 0,
-  "events": 644,
-  "posts": 39,
+  "events": 658,
+  "posts": 40,
   "wikiEn": "Jensen Huang",
   "wikiZh": "黃仁勳"
  },

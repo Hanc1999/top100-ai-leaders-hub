@@ -156,6 +156,63 @@
    }
   },
   {
+   "date": "2026-10-06",
+   "ts": "2026-10-06T15:36:58Z",
+   "kind": "x",
+   "title": {
+    "en": "Grok @Bot can be your personal chief financial officer!",
+    "zh": "Grok @Bot can be your personal chief financial officer!"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2107495338873389121",
+   "note": {
+    "en": "Musk claims Grok can serve as a personal chief financial officer, a new positioning for the assistant's finance capabilities.",
+    "zh": "马斯克表示Grok可以充当个人首席财务官，这是该助手在理财功能上的新定位。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-06",
+   "ts": "2026-10-06T15:32:43Z",
+   "kind": "x",
+   "title": {
+    "en": "Grok 4.7 is excellent at dealing with large code repositories",
+    "zh": "Grok 4.7 is excellent at dealing with large code repositories"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2107494267816186338",
+   "note": {
+    "en": "Musk says Grok 4.7 handles large code repositories well, pointing to a coding-capability upgrade in the new model version.",
+    "zh": "马斯克表示Grok 4.7在处理大型代码仓库方面表现出色，显示新版本模型在编程能力上有所提升。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-06",
+   "ts": "2026-10-06T20:22:51Z",
+   "kind": "x",
+   "title": {
+    "en": "SpaceX will provide connectivity throughout the solar system and beyond",
+    "zh": "SpaceX will provide connectivity throughout the solar system and beyond"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2107567281480028562",
+   "note": {
+    "en": "Musk declared SpaceX's ambition to extend connectivity across the entire solar system, not just Earth orbit.",
+    "zh": "马斯克宣称SpaceX的目标是将连接能力扩展到整个太阳系，而不仅限于地球轨道。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-05",
    "ts": "2026-10-05T00:37:51Z",
    "kind": "x",
@@ -1049,63 +1106,6 @@
    "connector": null
   },
   {
-   "date": "2026-09-21",
-   "ts": "2026-09-21T16:11:47Z",
-   "kind": "x",
-   "title": {
-    "en": "In 7 days, the first Starship launch to orbit will be carrying Starlink V3 satellites intended for operational use",
-    "zh": "In 7 days, the first Starship launch to orbit will be carrying Starlink V3 satellites intended for operational use"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2102068280156414171",
-   "note": {
-    "en": "Musk announced that in 7 days the first orbital Starship launch will carry Starlink V3 satellites for operational use.",
-    "zh": "马斯克宣布7天后星舰首次入轨发射将搭载用于实际运营的星链V3卫星。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-09-21",
-   "ts": "2026-09-21T17:06:20Z",
-   "kind": "x",
-   "title": {
-    "en": "Grok 4.7 places @SpaceXAI as third, after Anthropic &amp; OpenAI, for agentic coding. When factoring in that Grok is significantly faster &amp; lower cost, it’s",
-    "zh": "Grok 4.7 places @SpaceXAI as third, after Anthropic &amp; OpenAI, for agentic coding. When factoring in that Grok is significantly faster &amp; lower cost, it’s"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2102082011233931762",
-   "note": {
-    "en": "Musk claimed Grok 4.7 ranks third behind Anthropic and OpenAI on agentic coding, calling it faster and cheaper.",
-    "zh": "马斯克称Grok 4.7在智能体编程方面排名第三，仅次于Anthropic和OpenAI，并称其速度更快、成本更低。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-09-21",
-   "ts": "2026-09-21T17:13:58Z",
-   "kind": "x",
-   "title": {
-    "en": "Grok 4.7 works extremely well with our Build harness https://t.co/qeSIpwH1Jp",
-    "zh": "Grok 4.7 works extremely well with our Build harness https://t.co/qeSIpwH1Jp"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2102083930107101382",
-   "note": {
-    "en": "Musk said Grok 4.7 performs extremely well with xAI's coding tool, a public endorsement of the model's agentic capability.",
-    "zh": "马斯克表示Grok 4.7与xAI的编程工具配合效果极佳，是对该模型智能体能力的公开背书。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2026-07-23",
    "ts": null,
    "kind": "podcast",
@@ -1205,6 +1205,210 @@
    },
    "source": "xAI",
    "url": "https://x.ai/news"
+  },
+  {
+   "date": "2026-10-06",
+   "ts": "2026-10-06T08:33:06Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk agrees to rename SpaceXAI as Trump pushes 'super intelligence' — why no one wants to say 'AI' anymore",
+    "zh": "Elon Musk agrees to rename SpaceXAI as Trump pushes 'super intelligence' — why no one wants to say 'AI' anymore"
+   },
+   "body": {
+    "en": "Musk agreed to rename SpaceXAI, folding the unit into Trump's push to brand advanced AI as 'super intelligence'.",
+    "zh": "马斯克同意将SpaceXAI更名，这一品牌调整呼应了特朗普将先进人工智能称为\"超级智能\"的论调。"
+   },
+   "source": "moneywise.com",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdXM5ZmxwbkgzY2JTM3djU05tdzlUMnpLeFF3Z3FrZE5lZXc5NkE2VzYyOG1xLWtQVWNGdS13YlNkX2VnQ3NIdHU3LTBiNl9EUkZuYjlJUmljZVhwLTVNSEQtaVpDTVdxYXBLUG1qQV94UGM0UG5sOFlGblNUXzJtX1FvUkp5TnBDTGJ0bnk5VW54MVVzUnUtT29oLWlPSFE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-06",
+   "ts": "2026-10-06T10:30:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk pledges SpaceXSI rebrand after Trump's executive order to use 'Super Intelligence' moniker — President Trump has signed the executive order to replace 'Artificial Intelligence'",
+    "zh": "Elon Musk pledges SpaceXSI rebrand after Trump's executive order to use 'Super Intelligence' moniker — President Trump has signed the executive order to replace 'Artificial Intelligence'"
+   },
+   "body": {
+    "en": "After Trump's executive order renaming \"Artificial Intelligence\" to \"Super Intelligence,\" Musk pledged to rebrand his SpaceX AI unit as SpaceXSI.",
+    "zh": "特朗普签署行政令将\"人工智能\"更名为\"超级智能\"后，马斯克宣布将把旗下SpaceX AI部门更名为SpaceXSI。"
+   },
+   "source": "Tom's Hardware",
+   "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQR0tENkhjRVVSaGpZNlB2Rml5TlNic1c0dGk3d0VhRWhLcUZhaUtWS2l6RUc0WEpFQ1pwNlBJa1g2ekc0T0ctbUhZUnBpWjhXMHppbC1tYTNMVkRVNC1ROGhYRkFodEh3TDItU1dvWkNCT3Iwd20wYUQ5bnVPM0kyRFdSMTFDV0hnX1p6YVQ5dHFjVUJfOVZlOVZJZ3M5RFdKb0NqNkhzQ1NidFduc0tNbzNUbkNOTzlqVDNQemZCQl9rdU83MjNpU01XQUFoN0NMMzdLd2RqNXdKUm1pa0pOREpObUFobXVBeDlqMzhQUFc2N1ItRXNsYzhoaXlfLTU5aE50azBMYkRJZnRiS3NGMVhJM1V6eWNDY0NRcmd6Q1duaGg3dlBQNnp1U1BDSFdjM2F5SzNXbHhaNjZPRGZJa1pZNzduTG11V2VMbHlLc3kzZWVhSlRKWDdXell1S19FYmhNcA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-06",
+   "ts": "2026-10-06T12:45:44Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Is a Trillionaire Again After SpaceX’s 15% Two-Day Run",
+    "zh": "Elon Musk Is a Trillionaire Again After SpaceX’s 15% Two-Day Run"
+   },
+   "body": {
+    "en": "Musk's net worth crossed back into trillionaire territory after a 15% two-day surge in SpaceX's valuation.",
+    "zh": "在SpaceX估值两日暴涨15%后，马斯克的身价重新突破万亿美元。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNHpkdVFHYkJMckRYdDNyeWV5YkQyZUprbjM0QmZhQjd3V2dfWENqc1B5ZE50ZkswLWtQek95OG00YjNOeEs5ZVJJZ0dTOUoxY2tjY1JZY09OWFZnckc1OHJJSkRSclBsWGllTU5SZnZvWnNVbDZtWWlldzUzaGFhNi1QOWFBUjJvVnIwZFEzWndPb29jMzhIQlI4eTZBUkZldFE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-06",
+   "ts": "2026-10-06T09:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk, Mark Zuckerberg and Jensen Huang embrace Trump's 'super intelligence' rebrand of AI — Sam Altman holds out",
+    "zh": "Elon Musk, Mark Zuckerberg and Jensen Huang embrace Trump's 'super intelligence' rebrand of AI — Sam Altman holds out"
+   },
+   "body": {
+    "en": "Musk joined Zuckerberg and Jensen Huang in embracing Trump's 'superintelligence' rebranding of AI, while Altman held back.",
+    "zh": "马斯克与扎克伯格、黄仁勋一同拥抱特朗普对AI的'超级智能'重新定位，而奥尔特曼则有所保留。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWEdKSHZiSXRQcnBiZUdyRGtOdWpPNkNVUmtSU29FRUc1ZXh2RFhUcElRUEFlNllaUVRFbUluck94TE5yN2hSaWFoZ0dpenh4N2J2dWx3Wi1PRTAwdUMyQmdtN0VCbm90WkxWNFRyMk8tN3dxTjFFM2o2MjVtY0ZMTDhMSzBPY2ZwbEJFeE1FTXNYbjlNZnp5dV9Ea2Q?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-06",
+   "ts": "2026-10-06T15:34:11Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk warns Delta CEO Ed Bastian 'will lose his job' after airline picks Amazon over Starlink for in-flight Wi-Fi",
+    "zh": "Elon Musk warns Delta CEO Ed Bastian 'will lose his job' after airline picks Amazon over Starlink for in-flight Wi-Fi"
+   },
+   "body": {
+    "en": "Musk publicly warned Delta's CEO he 'will lose his job' after the airline chose Amazon over Starlink for in-flight Wi-Fi, a pointed competitive jab.",
+    "zh": "马斯克公开警告达美航空CEO将'丢掉工作'，原因是该航空公司在机上Wi-Fi上选择了亚马逊而非星链，这是一次针对性的竞争喊话。"
+   },
+   "source": "moneywise.com",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQTJhNmJkbERRRXpPaFJwMjI4SndrY1hPQ3haNS1rVzI3S3VJTHRNaFFMUHJvcGVwWHhOSzJfWkF2R01IRHJ1bUg3aDUxU3FDYTNRTHpEWlhiRWtONWtseEIxQUxTakxMck9iNkR0SHBManZIVHk1V2ZVVkJWR2h1Xy1Bc1JHdmVNdkhtVmhnNXBwYjQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-06",
+   "ts": "2026-10-06T16:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk threatens Delta CEO Ed Bastian 'will lose his job' after airline chooses Amazon over Starlink",
+    "zh": "Elon Musk threatens Delta CEO Ed Bastian 'will lose his job' after airline chooses Amazon over Starlink"
+   },
+   "body": {
+    "en": "Musk threatened that Delta CEO Ed Bastian \"will lose his job\" after the airline chose Amazon over Starlink for inflight Wi-Fi.",
+    "zh": "在达美航空选择亚马逊而非星链提供机上Wi-Fi后，马斯克威胁称达美CEO埃德·巴斯蒂安\"将失去工作\"。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRlZsbFVyTnZTVHNPaHM4YUhZdmRhZmQ4VC1QWTZsQk9rZU92dFhQVFBtV3p5RVpob0UySlpGQi1uc2NOVFZLejM5M3NVZ1lHUGZvYjJzWXExTTBvLU00M1VfNEhnOHlzSVNtX196ZjQtUno3cEg3TDdXRG9zTXlLRWF1QzkzcFI4SHpPWGx5dEZLZlVScGM0S2NR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-06",
+   "ts": "2026-10-06T16:21:14Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s xAI Blocks Minnesota’s Landmark Ban on AI Nudification Apps",
+    "zh": "Elon Musk’s xAI Blocks Minnesota’s Landmark Ban on AI Nudification Apps"
+   },
+   "body": {
+    "en": "Musk's xAI moved to block Minnesota's new law banning AI \"nudification\" apps.",
+    "zh": "马斯克旗下xAI出手阻止明尼苏达州新出台的AI\"去衣\"应用禁令。"
+   },
+   "source": "PetaPixel",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTRqdmtSaDhrbWdHVzRELUpha3RIcWphbmIxUlRVdGIwdkNsZ2ZCMmdudVY5UENrQmJZUzdneXpHYU1QTmJNN1RiZmNEcTlESTRCdG9TamtpdWlGcHk3OU5PcEh4aWozcVJqZ2xvNlBKcUIzZXVoMXF5d2FrQ2NMbVl2ZW1jSVlPR0pUZ0c2b2JpbWdxcTM0aWhPQTNac29TeWFaWi1R?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-06",
+   "ts": "2026-10-06T17:16:35Z",
+   "level": "notable",
+   "title": {
+    "en": "Wall Street says Elon Musk's Terafab talks with TSMC could spell bad news for Intel",
+    "zh": "Wall Street says Elon Musk's Terafab talks with TSMC could spell bad news for Intel"
+   },
+   "body": {
+    "en": "Reports say Musk's proposed Terafab chip venture is in talks with TSMC, a move analysts suggest could pressure Intel's foundry business.",
+    "zh": "有报道称马斯克筹划中的Terafab芯片项目正与台积电洽谈，分析认为此举可能对英特尔的代工业务构成压力。"
+   },
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdVlMZWlRNHI2cVp2RGJEZUd5WXJaYTQzbEZ1Rkh2MDZvbktBWmswcTFGa0lVc2IzOHRLX3NETXNycGFEYXlocmdWYzVUTWk0VjhHbHZZWWtpYmI2TUc5Zk44V29nZmNCV3lsclk5MENNNHVKbHN4ZVhLZ0h6dWNHZUE0bE9pUmFiaDB1dGJLdExvV21sZzhVbWJRYzdSb1NYYTRwRTJITGhaN2laVXRhQUtNcHZWYVU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-06",
+   "ts": "2026-10-06T18:41:53Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s xAI Wins Block of Minnesota’s AI ‘Nudification’ Ban",
+    "zh": "Elon Musk’s xAI Wins Block of Minnesota’s AI ‘Nudification’ Ban"
+   },
+   "body": {
+    "en": "xAI won a court block on Minnesota's AI 'nudification' ban, a regulatory win shaping how xAI's tools are governed.",
+    "zh": "xAI在诉讼中阻止了明尼苏达州针对AI“去衣”生成内容的禁令生效，这是一项影响其产品监管的法律胜诉。"
+   },
+   "source": "Law Commentary",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRVZmVGhCXzU4Q010TzB2dFR0RHpNMmo3aDdqbEN1S1h4Y2pvS1NFemxEczNGaWNMUDMxUV9zaHp6dmw4YmJlSE8wT1JqV0VsSU9BX2xkQjQ4d2t3bVhqYzFUXzlfTDQzZ3pFcHdCMTVrc3JtdXR5TWJibVFMR3FwczBBV013U1A4S19JNWNQWG9Zejlx?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-06",
+   "ts": "2026-10-06T20:00:28Z",
+   "level": "minor",
+   "title": {
+    "en": "Elon Musk Is Renaming SpaceX’s AI Arm for the Third Time. Shareholders Should Ask Why",
+    "zh": "Elon Musk Is Renaming SpaceX’s AI Arm for the Third Time. Shareholders Should Ask Why"
+   },
+   "body": {
+    "en": "SpaceX renamed its AI division for the third time, prompting shareholder scrutiny over the repeated rebranding.",
+    "zh": "SpaceX第三次更改其AI部门的名称，引发股东对这一反复改名行为的质疑。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeWpsOVdjN0VOTk5JZzFpeXRwR2ZXTzBsVTJPQS1xb3lfcTNDeW5uaUxwYkpFd0ppZWozX1ZKaFNtSEhTNWx3dmZFcjBrYkozR2hQOHY1LXhQRE9BNkpfUjdscTVSdXdFV21ZdldhRG1QMHQtU2EwT09MYzZHMWVBMnVCRVBLaWdNbDJBUF96ZGJpMGRMSzNJ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-06",
+   "ts": "2026-10-06T20:48:24Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk says Terafab is weighing another partner besides Intel - Austin American-Statesman",
+    "zh": "Elon Musk says Terafab is weighing another partner besides Intel - Austin American-Statesman"
+   },
+   "body": {
+    "en": "Musk said the Terafab chip-manufacturing project is weighing partners besides Intel for producing AI chips.",
+    "zh": "马斯克表示Terafab芯片制造项目正考虑除英特尔之外的合作伙伴来生产AI芯片。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNckd4TTNHc1RFLWZsdWthZ1FCSU1IcGNfc2RENmRJTm4yMjFqMm5pWjFRNHdZZEdBSkxaNm56NW9Bc25rRFQzYkw4YnRZdmg3dnYwbVNaZ2NCcGxET3VmUWNhdjAwRUNjYVdzVlB3UkVDS2hiTzJCQ0pzRWxvbDNXM2hrOEtyeVN6dmE2MGduZmdUZV9uaE44TQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-06",
+   "ts": "2026-10-06T15:56:43Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk’s $17 Billion AI Chip Bet: Inside The Terafab Plan",
+    "zh": "Elon Musk’s $17 Billion AI Chip Bet: Inside The Terafab Plan"
+   },
+   "body": {
+    "en": "Musk's companies are reportedly committing $17 billion to the Texas Terafab chip manufacturing project, a major bet on building in-house AI chip supply.",
+    "zh": "马斯克旗下公司据报将投入170亿美元用于得克萨斯州Terafab芯片制造项目，是其自建AI芯片供应链的重大押注。"
+   },
+   "source": "Cheddar",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX2tNcGpta0puMWxYeG1DZ25JNVA4MW4wTGN4b25Cd2UwdDFkNGFPajFYRXlTRkFRMmkxMDF5anQ4aTRnVjVwS0I1bDYyZm9jeTR5dXJoMUVtSXhSOTFDeGdyTWw4cHR4NEo2ajhvZWY2azZXNnJ4MmRfckowSnB1TVBvT2JJMFdzMmt6c0dRcHR5UQ?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-05",
@@ -7376,7 +7580,7 @@
   "pageviews": 9295513,
   "citations": 1280,
   "hIndex": 3,
-  "events": 365,
+  "events": 377,
   "posts": 56,
   "wikiEn": "Elon Musk",
   "wikiZh": "埃隆·马斯克"

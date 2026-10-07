@@ -270,6 +270,25 @@
    "connector": null
   },
   {
+   "date": "2026-09-17",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "OpenAI Reports New AI Safety Incidents; AI CEOs Weigh In on AI Debate",
+    "zh": "OpenAI Reports New AI Safety Incidents; AI CEOs Weigh In on AI Debate"
+   },
+   "source": "Bloomberg Tech",
+   "url": "https://podcasts.apple.com/us/podcast/openai-reports-new-ai-safety-incidents-ai-ceos-weigh/id1611767434?i=1000790395258&uo=4",
+   "note": {
+    "en": "Andrew Ng joined Bloomberg Tech's roundup on OpenAI's new AI safety incident tracking and the wider AI-safety debate, alongside Databricks CEO Ali Ghodsi.",
+    "zh": "吴恩达在Bloomberg Tech节目中就OpenAI新的AI安全事故追踪机制及更广泛的AI安全争论发表看法，与Databricks CEO Ali Ghodsi同场。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-09-11",
    "ts": "2026-09-11T17:11:40Z",
    "kind": "x",
@@ -3252,6 +3271,23 @@
    "judged": true
   },
   {
+   "date": "2026-07-25",
+   "ts": "2026-07-25T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "吴恩达开源AI同事OpenWorker，我给它汉化了",
+    "zh": "吴恩达开源AI同事OpenWorker，我给它汉化了"
+   },
+   "body": {
+    "en": "Andrew Ng open-sourced an AI agent tool called OpenWorker, picked up and localized by Chinese tech media.",
+    "zh": "吴恩达开源了一款名为OpenWorker的AI智能体工具，被中国科技媒体关注并汉化报道。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUHJua0VrT2REWjJWcV9BMzJpX1FqYTNnUm84VXdVVFhCZVZrLV94M3JrbjNPazBkemVmRzB3RXlOU1Q1cFNZeHA2RlJSNy15WWtNTFEwTC13aEJnNEVvNy1fQTIyMEhLQUZyc2llUDdNbmd2Z1AyMDNpSV9veEItRVdKQ20xdHZtRktCOVA2YVVzb25PWWs0SUpXc0pUeXct?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-07-23",
    "ts": "2026-07-23T07:00:00Z",
    "level": "notable",
@@ -3488,8 +3524,8 @@
   "pageviews": 337525,
   "citations": 131102,
   "hIndex": 124,
-  "events": 81,
-  "posts": 101,
+  "events": 82,
+  "posts": 102,
   "wikiEn": "Andrew Ng",
   "wikiZh": "吴恩达"
  },

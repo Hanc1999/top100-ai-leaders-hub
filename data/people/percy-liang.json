@@ -209,6 +209,44 @@
    }
   },
   {
+   "date": "2026-10-06",
+   "ts": "2026-10-06T16:04:06Z",
+   "kind": "x",
+   "title": {
+    "en": "🚢Marin 535B-A23B training has crossed the halfway mark! Some observations and learnings so far: https://t.co/tNhEWle6Mp",
+    "zh": "🚢Marin 535B-A23B training has crossed the halfway mark! Some observations and learnings so far: https://t.co/tNhEWle6Mp"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2107502164902031487",
+   "note": {
+    "en": "Liang shared progress notes as Marin's 535B-A23B training run passed the halfway mark, with early observations on the process.",
+    "zh": "Percy Liang分享了Marin 535B-A23B模型训练过半时的进展记录，并给出了初步观察与心得。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-06",
+   "ts": "2026-10-06T21:06:19Z",
+   "kind": "x",
+   "title": {
+    "en": "What is the probability that Astra today can generate/forecast a particular new paper past its cutoff date? Naive sampling is intractable (tail probability is a",
+    "zh": "What is the probability that Astra today can generate/forecast a particular new paper past its cutoff date? Naive sampling is intractable (tail probability is a"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2107578221378281491",
+   "note": {
+    "en": "Percy Liang raises a concrete technical question about estimating the probability that a model like Astra could generate a specific paper past its training cutoff, pointing to tractable approximations for an otherwise intractable tail probability.",
+    "zh": "Percy Liang提出一个具体的技术问题：如何估计像Astra这样的模型在训练截止日期之后生成某篇特定论文的概率，并指出了针对这一本来难以处理的尾概率的可行近似方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-09-29",
    "ts": "2026-09-29T02:33:17Z",
    "kind": "x",
@@ -1816,7 +1854,7 @@
   "citations": 45211,
   "hIndex": 87,
   "events": 2,
-  "posts": 85,
+  "posts": 87,
   "wikiEn": "Percy Liang",
   "wikiZh": null
  },

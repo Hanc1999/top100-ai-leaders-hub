@@ -140,6 +140,25 @@
    }
   },
   {
+   "date": "2026-10-01",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Navigating the AI Revolution: Who Wins, Who Loses, and How to Prepare | Emad Mostaque",
+    "zh": "Navigating the AI Revolution: Who Wins, Who Loses, and How to Prepare | Emad Mostaque"
+   },
+   "source": "Tom Bilyeu's Impact Theory",
+   "url": "https://podcasts.apple.com/us/podcast/navigating-the-ai-revolution-who-wins-who-loses-and/id1191775648?i=1000792531134&uo=4",
+   "note": {
+    "en": "Mostaque discusses how AI will reshape the value of labor and who wins or loses in the AI revolution, as a guest on Tom Bilyeu's Impact Theory podcast.",
+    "zh": "Emad Mostaque作为嘉宾登上Tom Bilyeu的Impact Theory播客，探讨AI将如何重塑劳动力价值，以及AI革命中谁将获益、谁将受损。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-09-15",
    "ts": null,
    "kind": "podcast",
@@ -1292,7 +1311,7 @@
   "citations": 485,
   "hIndex": 2,
   "events": 3,
-  "posts": 59,
+  "posts": 60,
   "wikiEn": "Emad Mostaque",
   "wikiZh": null
  },

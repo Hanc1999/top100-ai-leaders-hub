@@ -1530,6 +1530,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2023-04-17",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Episode 163: Cohere AI CEO Aidan Gomez on the Emerging Legal and Regulatory Challenges for Artificial Intelligence",
+    "zh": "Episode 163: Cohere AI CEO Aidan Gomez on the Emerging Legal and Regulatory Challenges for Artificial Intelligence"
+   },
+   "source": "Law Bytes",
+   "url": "https://podcasts.apple.com/us/podcast/episode-163-cohere-ai-ceo-aidan-gomez-on-the-emerging/id1455262794?i=1000609278336&uo=4",
+   "note": {
+    "en": "Gomez appears as the guest on the Law Bytes podcast, discussing AI's emerging legal and regulatory challenges.",
+    "zh": "Gomez作为嘉宾出现在播客Law Bytes中，探讨AI新兴的法律与监管挑战。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2022-09-27",
    "ts": null,
    "kind": "paper",
@@ -2146,7 +2165,7 @@
   "citations": 8859,
   "hIndex": 15,
   "events": 13,
-  "posts": 92,
+  "posts": 93,
   "wikiEn": "Aidan Gomez",
   "wikiZh": "艾丹·高梅茲"
  },

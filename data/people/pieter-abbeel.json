@@ -981,6 +981,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2023-03-29",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Alexandr Wang of ScaleAI: in AI your data writes the program",
+    "zh": "Alexandr Wang of ScaleAI: in AI your data writes the program"
+   },
+   "source": "The Robot Brains Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/alexandr-wang-of-scaleai-in-ai-your-data-writes-the-program/id1559275284?i=1000606435853&uo=4",
+   "note": {
+    "en": "Pieter Abbeel hosted Scale AI's Alexandr Wang on The Robot Brains Podcast to discuss data labeling, foundation models and RLHF.",
+    "zh": "Pieter Abbeel在The Robot Brains播客中主持对话Scale AI的Alexandr Wang，讨论数据标注、基础模型与RLHF。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2023-03-15",
    "ts": null,
    "kind": "x",
@@ -1230,16 +1249,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 32.6,
+  "total": 32.3,
   "attention": 29,
   "centrality": 23,
-  "momentum": 32,
+  "momentum": 31,
   "stature": 73,
   "pageviews": 37345,
   "citations": 79473,
   "hIndex": 123,
   "events": 2,
-  "posts": 55,
+  "posts": 56,
   "wikiEn": "Pieter Abbeel",
   "wikiZh": "彼得·阿比爾"
  },

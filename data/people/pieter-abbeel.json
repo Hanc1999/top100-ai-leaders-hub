@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-10-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GOTT: Object-centric Dexterous Manipulation with a Reusable Cross-Embodiment Primitive",
+    "zh": "GOTT: Object-centric Dexterous Manipulation with a Reusable Cross-Embodiment Primitive"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.03861v1",
+   "note": {
+    "en": "Paper introduces GOTT, a reusable cross-embodiment primitive for object-centric dexterous manipulation with multi-fingered robot hands.",
+    "zh": "论文提出GOTT，一种可复用、跨本体的以物体为中心的灵巧操作基元，用于多指机器人手的操控。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-01",
    "ts": null,
    "kind": "paper",
@@ -1258,7 +1277,7 @@
   "citations": 79473,
   "hIndex": 123,
   "events": 2,
-  "posts": 56,
+  "posts": 57,
   "wikiEn": "Pieter Abbeel",
   "wikiZh": "彼得·阿比爾"
  },

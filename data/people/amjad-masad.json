@@ -904,6 +904,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2023-01-29",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The AI moment, AI vs crypto: a heated debate with Amjad Masad, Flo Crivello, and Nathan Labenz",
+    "zh": "The AI moment, AI vs crypto: a heated debate with Amjad Masad, Flo Crivello, and Nathan Labenz"
+   },
+   "source": "\"Moment of Zen\"",
+   "url": "https://podcasts.apple.com/us/podcast/the-ai-moment-ai-vs-crypto-a-heated-debate-with/id1661672738?i=1000597115576&uo=4",
+   "note": {
+    "en": "Panel debate on the \"Moment of Zen\" podcast pitting the AI moment against crypto, with Masad as one of three named guests alongside Flo Crivello and Nathan Labenz.",
+    "zh": "在播客《Moment of Zen》的一期节目中，Masad 与 Flo Crivello、Nathan Labenz 一同就\"AI 时刻\"与加密货币展开辩论，三人均为嘉宾。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2023-01-08",
    "ts": null,
    "kind": "podcast",
@@ -1259,16 +1278,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 42.0,
+  "total": 41.8,
   "attention": 49,
   "centrality": 39,
-  "momentum": 33,
+  "momentum": 32,
   "stature": null,
   "pageviews": 87011,
   "citations": 0,
   "hIndex": 0,
   "events": 6,
-  "posts": 54,
+  "posts": 55,
   "wikiEn": "Amjad Masad",
   "wikiZh": null
  },

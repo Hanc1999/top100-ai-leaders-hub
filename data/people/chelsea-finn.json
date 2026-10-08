@@ -177,6 +177,25 @@
    }
   },
   {
+   "date": "2026-10-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Mulligan: Performance-Guided Data Collection for Efficient On-Robot Learning",
+    "zh": "Mulligan: Performance-Guided Data Collection for Efficient On-Robot Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.05882v1",
+   "note": {
+    "en": "Finn co-authored Mulligan, a performance-guided data collection method that makes on-robot learning more sample-efficient.",
+    "zh": "Finn 合著了 Mulligan，提出基于表现引导的数据采集方法，提升机器人在线学习的样本效率。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-04",
    "ts": "2026-10-04T15:38:00Z",
    "kind": "x",
@@ -1884,7 +1903,7 @@
   "citations": 26696,
   "hIndex": 64,
   "events": 1,
-  "posts": 90,
+  "posts": 91,
   "wikiEn": "Chelsea Finn",
   "wikiZh": null
  },

@@ -151,6 +151,44 @@
    }
   },
   {
+   "date": "2026-10-07",
+   "ts": "2026-10-07T16:53:15Z",
+   "kind": "x",
+   "title": {
+    "en": "The Navier-Stokes moment was always much more about the figure below than about the Navier-Stokes problem itself. The run represents a decade of mathematical pr",
+    "zh": "The Navier-Stokes moment was always much more about the figure below than about the Navier-Stokes problem itself. The run represents a decade of mathematical pr"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/2107876922147668198",
+   "note": {
+    "en": "Mark Chen said the \"Navier-Stokes moment\" matters less for the specific problem than for showing a decade of mathematical progress compressed into a week.",
+    "zh": "Mark Chen表示，\"Navier-Stokes时刻\"的意义不在于解决这个具体问题本身，而在于它展示了十年的数学进展被压缩到一周内完成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-07",
+   "ts": "2026-10-07T21:33:07Z",
+   "kind": "x",
+   "title": {
+    "en": "Try out Intelligent UI - every ChatGPT completion now has the potential to create a custom UI. Phenomenal for learning new things!",
+    "zh": "Try out Intelligent UI - every ChatGPT completion now has the potential to create a custom UI. Phenomenal for learning new things!"
+   },
+   "source": "@markchen90",
+   "url": "https://x.com/markchen90/status/2107947355115028880",
+   "note": {
+    "en": "Mark Chen highlighted ChatGPT's new 'Intelligent UI' capability, which lets any completion generate a custom interface.",
+    "zh": "Mark Chen推荐了ChatGPT新的\"智能UI\"功能，该功能让任何回复都能生成定制化界面。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-09-08",
    "ts": "2026-09-08T17:32:42Z",
    "kind": "x",
@@ -1027,16 +1065,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 43.3,
+  "total": 43.1,
   "attention": 28,
   "centrality": 87,
-  "momentum": 18,
+  "momentum": 17,
   "stature": 51,
   "pageviews": 30671,
   "citations": 38393,
   "hIndex": 64,
   "events": 2,
-  "posts": 45,
+  "posts": 47,
   "wikiEn": "Mark Chen",
   "wikiZh": "陳唐山"
  },

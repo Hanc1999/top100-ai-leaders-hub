@@ -1,5 +1,5 @@
 {
- "rank": 73,
+ "rank": 74,
  "id": "eric-xing",
  "name": {
   "en": "Eric Xing",
@@ -161,6 +161,44 @@
     "en": "Argues the next phase will not come from scaling models larger but from redesigning AI to understand the world and plan within it.",
     "zh": "主张下一阶段不来自把模型做得更大，而来自重新设计能理解世界并在其中规划的 AI。"
    }
+  },
+  {
+   "date": "2026-10-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Towards Looped Models Done Right, Part II: Rethinking at Fixed Points",
+    "zh": "Towards Looped Models Done Right, Part II: Rethinking at Fixed Points"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.06833v1",
+   "note": {
+    "en": "Xing co-authored a study on looped language models, analyzing how recurrent states approach fixed points to cut training, decoding and RL costs.",
+    "zh": "邢波合著研究了循环（looped）语言模型，分析循环状态逼近不动点的过程，以降低训练、解码与强化学习的开销。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-10-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "FACET: Factorized Asymmetric Conditioning for Efficient Transport in High-Fidelity Fluorescence Microscopy Synthesis",
+    "zh": "FACET: Factorized Asymmetric Conditioning for Efficient Transport in High-Fidelity Fluorescence Microscopy Synthesis"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.05353v1",
+   "note": {
+    "en": "Xing co-authored FACET, a method that synthesizes high-fidelity fluorescence microscopy images from protein sequence and cell morphology.",
+    "zh": "邢波合著了 FACET，提出一种基于蛋白质序列和细胞形态生成高保真荧光显微图像的方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-09-28",
@@ -1590,16 +1628,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 31.0,
+  "total": 30.8,
   "attention": 25,
   "centrality": 14,
-  "momentum": 52,
+  "momentum": 51,
   "stature": 54,
   "pageviews": 21312,
   "citations": 41656,
   "hIndex": 97,
   "events": 2,
-  "posts": 74,
+  "posts": 76,
   "wikiEn": "Eric Xing",
   "wikiZh": "邢波"
  },

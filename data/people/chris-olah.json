@@ -1,5 +1,5 @@
 {
- "rank": 35,
+ "rank": 34,
  "id": "chris-olah",
  "name": {
   "en": "Chris Olah",
@@ -943,6 +943,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-02",
+   "ts": "2026-10-02T23:30:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Anthropic co-founder Chris Olah reportedly threatened to back out of Pope Leo XIV's AI encyclical launch",
+    "zh": "Anthropic co-founder Chris Olah reportedly threatened to back out of Pope Leo XIV's AI encyclical launch"
+   },
+   "body": {
+    "en": "Olah reportedly threatened to withdraw from the Vatican's AI encyclical launch with Pope Leo XIV, a public rift over how Anthropic's interpretability lead wanted AI ethics framed.",
+    "zh": "据报道，Olah 曾威胁退出教宗良十四世的人工智能通谕发布活动，围绕AI伦理议题的表述方式与梵蒂冈方面出现公开分歧。"
+   },
+   "source": "Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTUNrYVk2OUZ2NUliaUFLb0Y1MlkwWFJrZ3FOM2FNZkRBRWlCNGJZYmsyakxQcEFFUmVZN1RrS2o2ZzRfNEtWdXotNTd1czFKUUZpSl9sNkFpNFlZVzBVU3l2Z1RuZDVoVzVKTE1FTlkxZ2hKNWRJMVhlbVNTNHZOLXpPVEc0RkVwX1F4QWJSZmJldw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-29",
    "ts": "2026-09-29T07:00:00Z",
    "level": "notable",
@@ -1069,15 +1086,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 59.7,
+  "total": 60.1,
   "attention": 64,
   "centrality": 96,
-  "momentum": 26,
+  "momentum": 28,
   "stature": 20,
   "pageviews": 191345,
   "citations": 14804,
   "hIndex": 20,
-  "events": 9,
+  "events": 10,
   "posts": 40,
   "wikiEn": "Chris Olah",
   "wikiZh": null

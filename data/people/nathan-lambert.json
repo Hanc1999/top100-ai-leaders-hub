@@ -1,5 +1,5 @@
 {
- "rank": 97,
+ "rank": 98,
  "id": "nathan-lambert",
  "name": {
   "en": "Nathan Lambert",
@@ -181,6 +181,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-10-06",
+   "ts": "2026-10-06T14:22:41Z",
+   "kind": "blog",
+   "title": {
+    "en": "The Cyber Risk Discourse is Broken",
+    "zh": "The Cyber Risk Discourse is Broken"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
+   "note": {
+    "en": "Lambert argues the discourse around AI cyber risk conflates open-weight models with unrelated ideological fights, and pushes for acknowledging real trade-offs instead.",
+    "zh": "Lambert认为围绕AI与网络安全风险的讨论把开放权重模型和无关的意识形态争论混为一谈，主张正视其中真实的利弊权衡。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
   },
   {
    "date": "2026-09-29",
@@ -1498,16 +1517,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 16.4,
+  "total": 16.1,
   "attention": 8,
   "centrality": 6,
-  "momentum": 44,
+  "momentum": 43,
   "stature": null,
   "pageviews": 2796,
   "citations": 720,
   "hIndex": 13,
   "events": 1,
-  "posts": 70,
+  "posts": 71,
   "wikiEn": "Nathan Lambert",
   "wikiZh": null
  },

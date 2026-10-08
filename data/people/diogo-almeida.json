@@ -1,5 +1,5 @@
 {
- "rank": 88,
+ "rank": 90,
  "id": "diogo-almeida",
  "name": {
   "en": "Diogo Almeida",
@@ -150,6 +150,25 @@
     "en": "InstructGPT. Human demonstrations, preference rankings and reinforcement learning, combined into the recipe ChatGPT shipped on eight months later.",
     "zh": "即 InstructGPT。人类示范、偏好排序与强化学习三者结合，八个月后 ChatGPT 正是照此配方发布。"
    }
+  },
+  {
+   "date": "2026-10-06",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Why Jev Is Changing How We Build With AI with Diogo Almeida",
+    "zh": "Why Jev Is Changing How We Build With AI with Diogo Almeida"
+   },
+   "source": "The TWIML AI Podcast (formerly This We…",
+   "url": "https://podcasts.apple.com/us/podcast/why-jev-is-changing-how-we-build-with-ai-with-diogo-almeida/id1116303051?i=1000793524963&uo=4",
+   "note": {
+    "en": "Diogo Almeida, TypeSafe AI's co-founder and CEO, appears on the TWIML AI Podcast to discuss Jev, the startup's new model for embedding fast, reliable intelligence directly into software.",
+    "zh": "TypeSafe AI联合创始人兼CEO Diogo Almeida做客TWIML AI Podcast，介绍Jev——该公司新发布的、旨在将快速可靠的智能直接嵌入软件的模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   },
   {
    "date": "2026-09-28",
@@ -576,19 +595,19 @@
  },
  "cat": "product",
  "score": {
-  "total": 24.5,
+  "total": 24.1,
   "attention": null,
   "centrality": 14,
-  "momentum": 37,
+  "momentum": 36,
   "stature": null,
   "pageviews": 0,
   "citations": 0,
   "hIndex": 0,
   "events": 8,
-  "posts": 16,
+  "posts": 17,
   "wikiEn": null,
   "wikiZh": null
  },
  "seedRank": 101,
- "tier": "t5"
+ "tier": "t6"
 }

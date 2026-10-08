@@ -1,5 +1,5 @@
 {
- "rank": 84,
+ "rank": 85,
  "id": "michael-jordan",
  "name": {
   "en": "Michael I. Jordan",
@@ -187,6 +187,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-10-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Valid Stopping in Adaptive Generator-Verifier Loops",
+    "zh": "Valid Stopping in Adaptive Generator-Verifier Loops"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.06432v1",
+   "note": {
+    "en": "Paper on when to stop adaptive generator-verifier loops in agentic workflows, formalizing stopping guarantees for generate-then-verify pipelines.",
+    "zh": "论文研究智能体工作流中生成器-验证器循环的自适应停止策略，为“生成后验证”流程给出可靠的停止保证。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-09-30",
@@ -872,16 +891,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 27.6,
+  "total": 27.4,
   "attention": 31,
   "centrality": 0,
-  "momentum": 28,
+  "momentum": 27,
   "stature": 86,
   "pageviews": 40320,
   "citations": 181936,
   "hIndex": 163,
   "events": 2,
-  "posts": 36,
+  "posts": 37,
   "wikiEn": "Michael I. Jordan",
   "wikiZh": "迈克尔·乔丹 (学者)"
  },

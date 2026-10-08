@@ -1,5 +1,5 @@
 {
- "rank": 11,
+ "rank": 10,
  "id": "yann-lecun",
  "name": {
   "en": "Yann LeCun",
@@ -196,6 +196,44 @@
     "en": "The position paper that laid out the whole world-model programme AMI is now funded to build.",
     "zh": "这篇立场论文奠定了 AMI 如今获得融资去建造的整个世界模型纲领。"
    }
+  },
+  {
+   "date": "2026-10-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning",
+    "zh": "H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.06805v1",
+   "note": {
+    "en": "A new paper extends LeCun's JEPA approach to hierarchical world models for multi-timescale visual planning.",
+    "zh": "一篇新论文将杨立昆的JEPA方法扩展为分层世界模型，用于多时间尺度的视觉规划。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-10-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SheetSage2: Coherent Lead-Sheet Transcription with Synthetic Supervision",
+    "zh": "SheetSage2: Coherent Lead-Sheet Transcription with Synthetic Supervision"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.05336v1",
+   "note": {
+    "en": "LeCun co-authored a paper on transcribing music into coherent lead sheets using synthetic supervision to work around scarce annotated recordings.",
+    "zh": "杨立昆合著的一篇论文探讨用合成监督方法解决标注录音稀缺的问题，将音乐转录为连贯的主旋律谱。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-09-30",
@@ -844,44 +882,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2026-03-03",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Beyond Language Modeling: An Exploration of Multimodal Pretraining",
-    "zh": "Beyond Language Modeling: An Exploration of Multimodal Pretraining"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2603.03276v1",
-   "note": {
-    "en": "Maps the design space for native multimodal pretraining, arguing vision is the critical axis for pushing foundation models beyond language.",
-    "zh": "梳理原生多模态预训练的设计空间，主张视觉是推动基础模型超越语言的关键维度。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2025-12-30",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "What Drives Success in Physical Planning with Joint-Embedding Predictive World Models?",
-    "zh": "What Drives Success in Physical Planning with Joint-Embedding Predictive World Models?"
-   },
-   "source": "arXiv (Cornell University)",
-   "url": "https://doi.org/10.48550/arxiv.2512.24497",
-   "note": {
-    "en": "A study probing what makes joint-embedding predictive (JEPA) world models succeed at physical planning tasks — his lab's core research direction.",
-    "zh": "一篇研究联合嵌入预测（JEPA）世界模型在物理规划任务中成功要素的论文，属于其团队的核心研究方向。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
    "date": "2025-12-15",
    "ts": null,
    "kind": "podcast",
@@ -1484,6 +1484,40 @@
    "judged": true
   },
   {
+   "date": "2026-10-01",
+   "ts": "2026-10-01T00:34:00Z",
+   "level": "major",
+   "title": {
+    "en": "图灵奖双雄彻底决裂！杨立昆怒撕大模型是“高级搜索引擎”，辛顿苏茨克维绝地反杀",
+    "zh": "图灵奖双雄彻底决裂！杨立昆怒撕大模型是“高级搜索引擎”，辛顿苏茨克维绝地反杀"
+   },
+   "body": {
+    "en": "LeCun publicly clashed with fellow Turing laureates Hinton and Sutskever, reiterating that large language models are merely 'advanced search engines' and cannot reach AGI.",
+    "zh": "杨立昆与另两位图灵奖得主辛顿、苏茨克维公开交锋，重申大语言模型只是\"高级搜索引擎\"，无法通向AGI。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLTFvUjA1ZElIbmVBSjF6aDdyUmVVNFJiVXhGZ0Q2R1ZMai1KY056SThKNTMtMkgzN1lJR2RnZFpIZ0Y1NVhlNkN4OE0xOGU3VWZZdDU1NWx6RUo1elpGMllTRG96SGpTZ19nV2FYUFVZRWt3US1Hd21TdjVGUWZFWXF2aHVTQnNjN2Ezel9pY0xJVFRzX0NxUUFldGhrREZ4WEJMTkxWclF1VTYyRDlQa2FHeXFSQm9sNExyOXBHU0NYbFBJTTNuWmRnRkpPZUFOVEFCUThIN251S3FLbnc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-01",
+   "ts": "2026-10-01T00:34:00Z",
+   "level": "major",
+   "title": {
+    "en": "图灵奖双雄彻底决裂！杨立昆怒撕大模型是“高级搜索引擎”，辛顿苏茨克维绝地反杀",
+    "zh": "图灵奖双雄彻底决裂！杨立昆怒撕大模型是“高级搜索引擎”，辛顿苏茨克维绝地反杀"
+   },
+   "body": {
+    "en": "LeCun publicly broke with Hinton and Sutskever, attacking large language models as mere 'advanced search engines' incapable of reaching AGI.",
+    "zh": "杨立昆与辛顿、苏茨克维公开决裂，抨击大语言模型只是\"高级搜索引擎\"，无法通向通用人工智能。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTHZkWmhDTUJ6SmdLdjZzaUtGSDE5azdvRVBMMnU4MzE1Umw5S0JCSGJqNXFqVWFTcVNCajNxUkdHT0E1azY5MmlQQWM1dlAxS0hJRlVUdmJzWkc3eDZpcnF3Q0NKQlU5Y2U0YmlPQnBydEdHVHlaem9vQU1pWEgzNkxWSXNZenU4T3Z6M3FrcV9Zb3Y4bzkwM1otQnEzbThPUTVQLUxVNF9Qc21jT3RQQVZKWE1xWVhrUHpQZVB2eDJOekZ6MzFZbzY5Mk5mbEZvOUwzRVh0d2NHc3p6RkE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-21",
    "ts": "2026-09-21T07:00:00Z",
    "level": "notable",
@@ -2075,6 +2109,23 @@
    },
    "source": "Yahoo Finance UK",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSmUyTFBnM3dNVXNWc1k2RncySEx0ZGhoLTJEUXhvakNsWW5kRmVJQkRDMFJReTFLam56eGNWY0I0bXNuOUxXSnA0cE5hVXk4VTF1dXhVUlZ4TWExUnN2YTd0S1ZxVGp4dGZaakxjeVgzSC1kaTBScE9lcngzeXpZeVNuaGRCM2o5anc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-18",
+   "ts": "2026-06-18T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "xAI a ‘failure’ due to leadership and talent challenges amid rising costs, says AI pioneer Yann LeCun - Yahoo! Finance Canada",
+    "zh": "xAI a ‘failure’ due to leadership and talent challenges amid rising costs, says AI pioneer Yann LeCun - Yahoo! Finance Canada"
+   },
+   "body": {
+    "en": "LeCun called xAI a 'failure' over leadership and talent problems amid rising costs, a pointed public jab at a rival lab.",
+    "zh": "杨立昆称xAI因领导层与人才问题及成本上升而“失败”，对竞争实验室发出尖锐的公开批评。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORHVtOFlSU3I4MVhSbGVjLV9OeDYzNG00ZUp6ZUc2bExxRkdsQl9tVXU1MWZZMHNlUmlQMDhGR3hSaVAxelhZNVliTFc1alhQUUJzRWtDalo0MHpEd2RHbW5NNVY2dFh0SmxHX3hkdl92eHFucmpsZXBtYXFHWjlfd3BKRnZvQ2lSdUE?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2689,7 +2740,7 @@
   "pageviews": 531264,
   "citations": 253869,
   "hIndex": 120,
-  "events": 90,
+  "events": 93,
   "posts": 53,
   "wikiEn": "Yann LeCun",
   "wikiZh": "杨立昆"

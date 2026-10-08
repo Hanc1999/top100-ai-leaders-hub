@@ -1,5 +1,5 @@
 {
- "rank": 85,
+ "rank": 86,
  "id": "percy-liang",
  "name": {
   "en": "Percy Liang",
@@ -245,6 +245,25 @@
    "judged": true,
    "platform": "x",
    "connector": null
+  },
+  {
+   "date": "2026-10-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Priced Guidance: Can Language Models Generate Future Research Ideas?",
+    "zh": "Priced Guidance: Can Language Models Generate Future Research Ideas?"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.04976v1",
+   "note": {
+    "en": "Paper evaluates whether language models can generate genuinely novel research ideas, framing the question through compression and probability bounds.",
+    "zh": "论文探讨语言模型能否生成真正新颖的研究想法，并用压缩与概率下界的视角来界定这一问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-09-29",
@@ -1845,16 +1864,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 26.1,
+  "total": 25.9,
   "attention": 12,
   "centrality": 14,
-  "momentum": 53,
+  "momentum": 52,
   "stature": 56,
   "pageviews": 5245,
   "citations": 45211,
   "hIndex": 87,
   "events": 2,
-  "posts": 87,
+  "posts": 88,
   "wikiEn": "Percy Liang",
   "wikiZh": null
  },

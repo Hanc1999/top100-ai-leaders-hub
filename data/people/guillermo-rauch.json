@@ -830,6 +830,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2025-02-14",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Guillermo Rauch, founder of Vercel: Developer Experience, AI and v0",
+    "zh": "Guillermo Rauch, founder of Vercel: Developer Experience, AI and v0"
+   },
+   "source": "Scaling DevTools",
+   "url": "https://podcasts.apple.com/us/podcast/guillermo-rauch-founder-of-vercel-developer/id1620866569?i=1000692318212&uo=4",
+   "note": {
+    "en": "Rauch is the guest on the Scaling DevTools podcast, discussing Vercel's developer experience strategy and the AI-driven v0 product.",
+    "zh": "Rauch作为嘉宾做客播客Scaling DevTools，谈论Vercel的开发者体验战略以及AI驱动的v0产品。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2025-02-05",
    "ts": null,
    "kind": "podcast",
@@ -1035,16 +1054,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 36.9,
+  "total": 36.5,
   "attention": null,
   "centrality": 36,
-  "momentum": 38,
+  "momentum": 37,
   "stature": null,
   "pageviews": 0,
   "citations": 9,
   "hIndex": 1,
   "events": 5,
-  "posts": 44,
+  "posts": 45,
   "wikiEn": null,
   "wikiZh": null
  },

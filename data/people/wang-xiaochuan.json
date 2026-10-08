@@ -1,5 +1,5 @@
 {
- "rank": 83,
+ "rank": 82,
  "id": "wang-xiaochuan",
  "name": {
   "en": "Wang Xiaochuan",
@@ -605,6 +605,23 @@
    "judged": true
   },
   {
+   "date": "2026-05-22",
+   "ts": "2026-05-22T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "A Conversation with WANG Xiaochuan: Post-Departure from the Mainstream of General Artificial Intelligence",
+    "zh": "A Conversation with WANG Xiaochuan: Post-Departure from the Mainstream of General Artificial Intelligence"
+   },
+   "body": {
+    "en": "In an interview, Wang Xiaochuan described Baichuan's departure from the general-AGI mainstream, consistent with the company's pivot to focus on medical AI.",
+    "zh": "在一次访谈中，王小川谈及百川脱离通用AGI主流赛道的转向，这与公司聚焦医疗AI的战略一致。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pNmpqekJiUW8yX1AzMzRvQkNsUzVTbHVoQmVrbl9QTlljUGFEZHFNcEVvdlRMRm5VUlBTeXpmYlczNEQ4VVpuYVFrOEZpeG9NbUEw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-01-22",
    "ts": "2026-01-22T05:27:02Z",
    "level": "notable",
@@ -816,15 +833,15 @@
  },
  "cat": "product",
  "score": {
-  "total": 27.8,
+  "total": 28.1,
   "attention": 15,
   "centrality": 30,
-  "momentum": 59,
+  "momentum": 60,
   "stature": 5,
   "pageviews": 8841,
   "citations": 6754,
   "hIndex": 46,
-  "events": 27,
+  "events": 28,
   "posts": 12,
   "wikiEn": "Wang Xiaochuan",
   "wikiZh": "王小川"

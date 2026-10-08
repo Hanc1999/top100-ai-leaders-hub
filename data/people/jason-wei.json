@@ -1,5 +1,5 @@
 {
- "rank": 87,
+ "rank": 88,
  "id": "jason-wei",
  "name": {
   "en": "Jason Wei",
@@ -162,6 +162,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-10-06",
+   "ts": "2026-10-06T03:55:43Z",
+   "kind": "blog",
+   "title": {
+    "en": "The Best Three Hours in San Francisco",
+    "zh": "The Best Three Hours in San Francisco"
+   },
+   "source": "Blog - Jason Wei",
+   "url": "https://www.jasonwei.net/blog/the-best-three-hours-in-san-francisco",
+   "note": {
+    "en": "Wei posted a personal essay on his blog reflecting on San Francisco's duality for first-time visitors.",
+    "zh": "Wei 在个人博客上发文，以随笔方式分享他对初来旧金山者眼中这座城市“双重性”的观察。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
   },
   {
    "date": "2026-09-15",
@@ -1868,7 +1887,7 @@
   "citations": 4944,
   "hIndex": 19,
   "events": 1,
-  "posts": 89,
+  "posts": 90,
   "wikiEn": null,
   "wikiZh": null
  },

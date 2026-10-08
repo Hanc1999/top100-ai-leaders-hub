@@ -1,5 +1,5 @@
 {
- "rank": 28,
+ "rank": 27,
  "id": "yoshua-bengio",
  "name": {
   "en": "Yoshua Bengio",
@@ -205,6 +205,25 @@
    "judged": true,
    "platform": "x",
    "connector": null
+  },
+  {
+   "date": "2026-10-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "PyINE: A Framework for Scalable Elicitation and Oversight via Code Execution",
+    "zh": "PyINE: A Framework for Scalable Elicitation and Oversight via Code Execution"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.04737v1",
+   "note": {
+    "en": "A paper co-authored by Bengio proposes a framework for scalable AI oversight and elicitation via code execution, addressing models that give plausible but misleading answers.",
+    "zh": "本吉奥合著的新论文提出了一个通过代码执行实现可扩展AI监督与引导的框架，应对模型给出看似合理却具有误导性答案的问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-10-02",
@@ -865,6 +884,25 @@
    "note": {
     "en": "Bengio co-authors a large position paper on building trustworthy physical AI systems across their full life cycle.",
     "zh": "本吉奥合著一篇大型立场论文，探讨如何在物理AI系统的全生命周期中构建可信赖性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Towards Trustworthy Physical Intelligence: From Theory to Practice Across Life Cycle",
+    "zh": "Towards Trustworthy Physical Intelligence: From Theory to Practice Across Life Cycle"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.22877v4",
+   "note": {
+    "en": "A survey co-authored by Bengio maps trustworthiness requirements for physically embodied AI systems across their full life cycle.",
+    "zh": "本吉奥合著的综述论文探讨了具身物理智能系统在全生命周期中的可信性要求。"
    },
    "auto": true,
    "judged": true,
@@ -2050,63 +2088,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2025-12-07",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "International AI Safety Report 2025: Second Key Update: Technical Safeguards and Risk Management",
-    "zh": "International AI Safety Report 2025: Second Key Update: Technical Safeguards and Risk Management"
-   },
-   "source": "SuperIntelligence - Robotics - Safety…",
-   "url": "https://doi.org/10.70777/si.v2i4.16671",
-   "note": {
-    "en": "Contributed to the International AI Safety Report 2025 Second Key Update on technical safeguards and risk management, the report he chairs.",
-    "zh": "参与其主持的《国际人工智能安全报告2025》第二次关键更新，聚焦技术防护措施与风险管理。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-11-11",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "A HOT Dataset: 150,000 Buildings for HVAC Operations Transfer Research",
-    "zh": "A HOT Dataset: 150,000 Buildings for HVAC Operations Transfer Research"
-   },
-   "source": "OpenAlex",
-   "url": "https://doi.org/10.1145/3736425.3770110",
-   "note": {
-    "en": "Co-authored a large building-operations dataset (150,000 buildings) for transfer-learning research on HVAC systems, part of Mila's climate/energy-efficiency ML work.",
-    "zh": "合著论文发布一个包含15万栋建筑的数据集，用于HVAC系统的迁移学习研究，属于Mila气候与能效相关的机器学习工作。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-11-10",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Identifying indicators of consciousness in AI systems",
-    "zh": "Identifying indicators of consciousness in AI systems"
-   },
-   "source": "Trends in Cognitive Sciences",
-   "url": "https://doi.org/10.1016/j.tics.2025.10.011",
-   "note": {
-    "en": "Co-authored a Trends in Cognitive Sciences paper proposing indicators for assessing consciousness in AI systems.",
-    "zh": "合著论文发表于《认知科学趋势》，提出评估AI系统意识的指标框架。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
    "date": "2025-06-03",
    "ts": null,
    "kind": "blog",
@@ -2454,6 +2435,23 @@
    },
    "source": "CityNews Montreal",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMW9vMnVLRXhtdVhGcmc2UTkwckhzb055ckhOTWxEOTBNb1FDbkdISkFpY24wRDBrci1sR0d4bTlORFZKSlNRY2JXM2lYc3FlQURYcldoUVJ2emFkSlR1VmZWeWhpMWJhS0VoVklWbEFpWmtzdVd4eXNObTlPVzJSWnB1VDNrMDdqQ2pTVTRUaGFtWXlhUmZyYmJONDl2aUlGaHVlTEJhQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-24",
+   "ts": "2026-09-24T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "'We're losing control,' AI pioneer Yoshua Bengio tells AFP",
+    "zh": "'We're losing control,' AI pioneer Yoshua Bengio tells AFP"
+   },
+   "body": {
+    "en": "Yoshua Bengio told AFP 'we're losing control' of AI development, a stark public warning from one of the field's most cited researchers.",
+    "zh": "Yoshua Bengio在接受法新社采访时表示人类“正在失去对AI的控制”，这是这位该领域被引用最多的研究者之一发出的严厉公开警告。"
+   },
+   "source": "WFMZ.com",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM1lSSXA0ZVBvQnR3aWJwTU5LVDdkTDFFNk96bEdZWW9yTXEyVnctY3U3TlZvVkJhTzN0d1NUWTJ5dzJpYXFaYjlOYUE3cFpXUHVKLTVPMkJVQjdmU0pyTERRTWl0OXYyRWhNYVZJQVBHLWlLUk5qSUhMNkl6RXJtRWxTeGx4SW5MN3dkaGd3U2syVDcwWlFTWm9kQlVBTUpCazI2SGdWZDgycWNtMEJ4RzVyZW55NEcxOUNjYmJoSzFSdGI0MU5yOVNnOC0xQUFvcTdkYw?oc=5",
    "auto": true,
    "judged": true
   },
@@ -3172,6 +3170,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T20:40:36Z",
+   "level": "major",
+   "title": {
+    "en": "'We're losing control,' AI pioneer Yoshua Bengio tells AFP",
+    "zh": "'We're losing control,' AI pioneer Yoshua Bengio tells AFP"
+   },
+   "body": {
+    "en": "Yoshua Bengio warned AFP that humanity is 'losing control' of AI development, a stark public stance from one of the field's most influential AI-safety voices.",
+    "zh": "Yoshua Bengio在接受法新社采访时警告人类正在\"失去对AI的控制\"，这是这位AI安全领域最具影响力的声音之一发出的强烈公开表态。"
+   },
+   "source": "AFP.com",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yU296ZTlXMWR0SldRaDFqejdlai0tV1JpZ21GS294Rm5LYUNGcElMaUlWZk5vREVFbEFiNmhGYTU2dDZSR1NtX2tZYw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-07",
    "ts": null,
    "level": "major",
@@ -3298,16 +3313,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 64.5,
+  "total": 64.7,
   "attention": 67,
   "centrality": 30,
-  "momentum": 85,
+  "momentum": 86,
   "stature": 98,
   "pageviews": 276660,
   "citations": 475043,
   "hIndex": 184,
-  "events": 52,
-  "posts": 119,
+  "events": 54,
+  "posts": 118,
   "wikiEn": "Yoshua Bengio",
   "wikiZh": "约书亚·本希奥"
  },

@@ -142,6 +142,63 @@
    }
   },
   {
+   "date": "2026-10-07",
+   "ts": "2026-10-07T18:17:05Z",
+   "kind": "x",
+   "title": {
+    "en": "Today marks a new chapter for Windows, as we bring unmetered intelligence to every desk and every home, and make every PC a place where agents can work securely",
+    "zh": "Today marks a new chapter for Windows, as we bring unmetered intelligence to every desk and every home, and make every PC a place where agents can work securely"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2107898018112647313",
+   "note": {
+    "en": "Nadella announced that Windows is bringing \"unmetered intelligence\" to every PC, positioning Windows as a platform where AI agents can work securely on the user's behalf.",
+    "zh": "纳德拉宣布 Windows 将为每台电脑带来\"不限量的智能\"，并将 Windows 定位为可让 AI 代理安全地代表用户工作的平台。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-07",
+   "ts": "2026-10-07T19:43:06Z",
+   "kind": "x",
+   "title": {
+    "en": "We’re supercharging Copilot on Windows with Hybrid Intelligence. With your permission, Copilot can tap into the context on your PC, take action for you, and use",
+    "zh": "We’re supercharging Copilot on Windows with Hybrid Intelligence. With your permission, Copilot can tap into the context on your PC, take action for you, and use"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2107919668514295908",
+   "note": {
+    "en": "Nadella announced Hybrid Intelligence for Copilot on Windows, letting it access on-PC context, take actions, and use local models when appropriate.",
+    "zh": "纳德拉宣布Windows版Copilot将推出\"混合智能\"功能，可在用户授权下读取电脑上下文、代理执行操作，并在适当时使用本地模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-07",
+   "ts": "2026-10-07T21:02:25Z",
+   "kind": "x",
+   "title": {
+    "en": "Great to partner with NVIDIA as we kick off this next chapter for Windows. Thank you @JensenHuang and @sriramk for joining us today! https://t.co/Jh1os7T9Zu",
+    "zh": "Great to partner with NVIDIA as we kick off this next chapter for Windows. Thank you @JensenHuang and @sriramk for joining us today! https://t.co/Jh1os7T9Zu"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2107939627898400819",
+   "note": {
+    "en": "Announces a new Nvidia partnership for the next chapter of Windows, thanking Jensen Huang for joining the launch.",
+    "zh": "宣布与英伟达达成新合作以开启Windows下一章，并感谢黄仁勋出席发布活动。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-09-25",
    "ts": "2026-09-25T12:05:37Z",
    "kind": "x",
@@ -1187,63 +1244,6 @@
    "connector": "x"
   },
   {
-   "date": "2025-10-09",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Another first for our AI fleet... a supercomputing cluster of NVIDIA GB300s with 4600+ GPUs and featuring next gen InfiniBand. First of many as we scale to hund",
-    "zh": "Another first for our AI fleet... a supercomputing cluster of NVIDIA GB300s with 4600+ GPUs and featuring next gen InfiniBand. First of many as we scale to hund"
-   },
-   "source": "@satyanadella",
-   "url": "https://x.com/satyanadella/status/1976322455288545343",
-   "note": {
-    "en": "Nadella highlighted a new Azure supercomputing cluster with over 4,600 NVIDIA GB300 GPUs and next-gen InfiniBand, part of a planned scale-up to hundreds of thousands of GB300s.",
-    "zh": "纳德拉介绍了Azure新建的超算集群,搭载4600多颗NVIDIA GB300 GPU及新一代InfiniBand网络,并计划扩展到数十万颗GB300。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
-   "date": "2025-09-29",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Welcome Grok 4 to Azure AI Foundry!",
-    "zh": "Welcome Grok 4 to Azure AI Foundry!"
-   },
-   "source": "@satyanadella",
-   "url": "https://x.com/satyanadella/status/1972707360662757796",
-   "note": {
-    "en": "Nadella announced Grok 4's availability on Azure AI Foundry.",
-    "zh": "纳德拉宣布Grok 4已上线Azure AI Foundry。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
-   "date": "2025-09-18",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "If intelligence is the log of compute… it starts with a lot of compute! And that’s why we’re scaling our GPU fleet faster than anyone else. Just last year, we a",
-    "zh": "If intelligence is the log of compute… it starts with a lot of compute! And that’s why we’re scaling our GPU fleet faster than anyone else. Just last year, we a"
-   },
-   "source": "@satyanadella",
-   "url": "https://x.com/satyanadella/status/1968677244861379012",
-   "note": {
-    "en": "Nadella framed intelligence as a function of compute and said Microsoft added over 2 gigawatts of new data center capacity in the past year to scale its GPU fleet faster than competitors.",
-    "zh": "纳德拉将智能视为算力的函数,称微软去年新增超过2吉瓦数据中心容量,以比对手更快的速度扩充GPU集群。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
    "date": "2025-06-25",
    "ts": null,
    "kind": "podcast",
@@ -1500,6 +1500,40 @@
    },
    "source": "StartupHub",
    "url": "https://www.startuphub.ai/ai-news/ai-figures/2026/figure-satya-nadella-venture-portfolio-breakdown-2026-08-13"
+  },
+  {
+   "date": "2026-10-07",
+   "ts": "2026-10-07T12:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Microsoft Windows and Surface event 2026: Live updates as Satya Nadella and Jensen Huang take the stage",
+    "zh": "Microsoft Windows and Surface event 2026: Live updates as Satya Nadella and Jensen Huang take the stage"
+   },
+   "body": {
+    "en": "Nadella hosted Jensen Huang on stage at Microsoft's Windows and Surface 2026 event, highlighting the companies' AI hardware partnership.",
+    "zh": "纳德拉在微软2026 Windows and Surface发布会上与黄仁勋同台亮相，凸显两家公司在AI硬件上的合作关系。"
+   },
+   "source": "Engadget",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWTk5WG1OR2o2VTV3bVJXbFVQY19jekFEaEwzMzQyMDctWnJ0S3MyTzZiR24zbzZBOWtUaTB1bENtVy0wNXdzaUJsR2FJTFh3WUlwMUhabUtaUWdUQUNCeGhnNGxtbGJQTy1LbmE3QjlCLUpRR0ItYk9zUFJXa2JoZ2QwSUlBWHV1OUpwbHpZbkt5U2g0ZjVJT3E5UEZRc194bGhMRC01QXJYcDgtYkhJ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-06",
+   "ts": "2026-10-06T02:30:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Chamath Palihapitiya Backs Satya Nadella’s Warning on Closed AI Models: Companies Could Be Paying for Intelligence Twice — Here’s Why",
+    "zh": "Chamath Palihapitiya Backs Satya Nadella’s Warning on Closed AI Models: Companies Could Be Paying for Intelligence Twice — Here’s Why"
+   },
+   "body": {
+    "en": "Investor Chamath Palihapitiya publicly endorsed Nadella's warning that reliance on closed AI models risks enterprises paying twice for intelligence.",
+    "zh": "投资人沙马斯·帕里哈皮蒂亚公开支持纳德拉的警告，即依赖封闭AI模型可能导致企业为智能\"支付两次\"。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSzF2UEYzUll3SDZRRDRYZUhPdXdxRmpsVFhSZnN4eVVZLXRyVXhpNGU4M0ZNWDVSTXl3dGQ1SzRtV3ZDTFgydkVqNk9ZTDktbDM4dzAwcHdGR3B1dXZmNDBDdEdzQjhYeHpneUZmSmJ2eU5fak5Ra1dQc2s5cHJTYVZEa1NteGt0cXgtSnpXTXdVUThnWS13c29UVFdkWHJhMWFVRElYdw?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-05",
@@ -2537,7 +2571,7 @@
   "pageviews": 828227,
   "citations": 231,
   "hIndex": 3,
-  "events": 62,
+  "events": 64,
   "posts": 72,
   "wikiEn": "Satya Nadella",
   "wikiZh": "薩蒂亞·納德拉"

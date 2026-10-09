@@ -1,5 +1,5 @@
 {
- "rank": 28,
+ "rank": 27,
  "id": "andrej-karpathy",
  "name": {
   "en": "Andrej Karpathy",
@@ -1260,6 +1260,23 @@
    "judged": true
   },
   {
+   "date": "2026-05-19",
+   "ts": "2026-05-19T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic hires OpenAI co-founder Andrej Karpathy to build next-generation Claude AI models",
+    "zh": "Anthropic hires OpenAI co-founder Andrej Karpathy to build next-generation Claude AI models"
+   },
+   "body": {
+    "en": "Karpathy left his prior role to join Anthropic's pretraining team to help build next-generation Claude models.",
+    "zh": "卡帕西离职加入Anthropic的预训练团队，协助打造新一代Claude模型。"
+   },
+   "source": "Livemint",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUnJSZHZVTTdGeGhVdHJVMTYxd2dlMDNOTmlwem50SG9FbzZmWU14S3dOakR1ZzJkT2dQdHVJbmFTRzEwTXI4Tk9ONFhOUHNYTHRHLWxEbnZ6cEF0ZndLVjI1SHBuNjk3eFZJUVB0YjVCbnVteGtSQXgxMWZ3TjUxakFwdUdmZ0lkZmU2cEVsRHVMTW9UaFFmbDNlMXpkOVJGRXRDUENNZU5CQzQyakFzVDREOWdncEtZbkw1ekF2OUliTDU4cDJsU2Flem02WVpDMDZDUUhHckYxZXpUdW9Fc0V2UXc5MFB20gHuAUFVX3lxTFBocHk4b2czMnpTbmVYSzNrWDhkSWFLelplaHhCcUZLWHhvekcyTHVsaktmTHFTdEZXaEdiX2cwbVFQWDBNbXpBNVV0TXU3blhuSlBmZEJmeUxEN1JCMkV5VzhrOUh5bGdGNHA4WndUbkh3S2NPTDlPdDBITkVEaHlXVjZINWZVVWNHd0FjRmJfa0lmNUJoQmI2UjhxLW9SMHBydVlNTGJNVV9pWU1USmVWTTBFY2xvcEJuRVpZMm9wbE53TE9WQlNEN05UWXZlVjRfbGctemNaU2RqSHk5RDJHNXhfNFVReGFEWmlEV3c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-04-30",
    "ts": "2026-04-30T07:00:00Z",
    "level": "notable",
@@ -1284,15 +1301,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 64.7,
+  "total": 64.9,
   "attention": 79,
   "centrality": 47,
-  "momentum": 59,
+  "momentum": 60,
   "stature": 63,
   "pageviews": 695645,
   "citations": 58963,
   "hIndex": 20,
-  "events": 21,
+  "events": 22,
   "posts": 40,
   "wikiEn": "Andrej Karpathy",
   "wikiZh": "安德烈·卡帕西"

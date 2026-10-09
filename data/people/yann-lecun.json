@@ -198,6 +198,25 @@
    }
   },
   {
+   "date": "2026-10-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Preserving Unstable Modes Through Inverse Dynamics in JEPA World Models",
+    "zh": "Preserving Unstable Modes Through Inverse Dynamics in JEPA World Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.07540v1",
+   "note": {
+    "en": "A new paper extends LeCun's JEPA world-model framework, showing how to preserve unstable dynamical modes via inverse dynamics for robotic control.",
+    "zh": "一篇新论文扩展了杨立昆的JEPA世界模型框架，提出通过逆动力学在机器人控制中保留不稳定模态的方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-05",
    "ts": null,
    "kind": "paper",
@@ -844,44 +863,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2026-03-05",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "The Spike, the Sparse and the Sink: Anatomy of Massive Activations and Attention Sinks",
-    "zh": "The Spike, the Sparse and the Sink: Anatomy of Massive Activations and Attention Sinks"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2603.05498v1",
-   "note": {
-    "en": "An anatomy of two recurring transformer phenomena — massive activations in a few channels, and attention sinks.",
-    "zh": "剖析 Transformer 中两个反复出现的现象：少数通道上的巨大激活值，以及注意力汇聚点。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-03-05",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "AI+HW 2035: Shaping the Next Decade",
-    "zh": "AI+HW 2035: Shaping the Next Decade"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2603.05225v1",
-   "note": {
-    "en": "A ten-year community roadmap for AI and hardware co-design, which he signed alongside some thirty other researchers.",
-    "zh": "一份关于 AI 与硬件协同设计的十年社区路线图，他与另外约三十位研究者共同署名。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2025-12-15",
    "ts": null,
    "kind": "podcast",
@@ -1514,6 +1495,125 @@
    },
    "source": "新浪财经",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTHZkWmhDTUJ6SmdLdjZzaUtGSDE5azdvRVBMMnU4MzE1Umw5S0JCSGJqNXFqVWFTcVNCajNxUkdHT0E1azY5MmlQQWM1dlAxS0hJRlVUdmJzWkc3eDZpcnF3Q0NKQlU5Y2U0YmlPQnBydEdHVHlaem9vQU1pWEgzNkxWSXNZenU4T3Z6M3FrcV9Zb3Y4bzkwM1otQnEzbThPUTVQLUxVNF9Qc21jT3RQQVZKWE1xWVhrUHpQZVB2eDJOekZ6MzFZbzY5Mk5mbEZvOUwzRVh0d2NHc3p6RkE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-01",
+   "ts": "2026-10-01T00:34:00Z",
+   "level": "notable",
+   "title": {
+    "en": "图灵奖双雄彻底决裂！杨立昆怒撕大模型是“高级搜索引擎”，辛顿苏茨克维绝地反杀",
+    "zh": "图灵奖双雄彻底决裂！杨立昆怒撕大模型是“高级搜索引擎”，辛顿苏茨克维绝地反杀"
+   },
+   "body": {
+    "en": "LeCun publicly clashed with Hinton and Sutskever, dismissing large language models as merely 'advanced search engines' rather than a path to AGI.",
+    "zh": "杨立昆公开与辛顿、苏茨克维交锋，批评大语言模型只是「高级搜索引擎」，而非通向AGI的路径。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMkpBMGhvLVNPTU1ENG52TGMyV3ZmTjMxQlZNenNLaFVZeGs0cXc1Um96MTczZXRJQm5sTnlvd1RiYW9fLXQyeVdJLXMxYnJiVVNXRk9BUmhHMHRzZGZ4cHdHSzNZcUVRTWlGZFlYbzZmR0loQml1SXhQYk1qdDBVMXpGMkZ4cHhtRWpwcmFKTGJiYUhyTnZIZkVNYWVqX24yREpja0pMbFh1M3R4SDJzc1NzZENpT2NqVmtXbjFvcjJ6d0FrcEpHbFhyYWd3M0tzTVZwTEFNT05UV2xwOHc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-01",
+   "ts": "2026-10-01T00:34:00Z",
+   "level": "notable",
+   "title": {
+    "en": "图灵奖双雄彻底决裂！杨立昆怒撕大模型是“高级搜索引擎”，辛顿苏茨克维绝地反杀",
+    "zh": "图灵奖双雄彻底决裂！杨立昆怒撕大模型是“高级搜索引擎”，辛顿苏茨克维绝地反杀"
+   },
+   "body": {
+    "en": "LeCun publicly clashed with Hinton and Sutskever, calling large language models merely 'advanced search engines' in an escalating debate among Turing Award laureates over whether LLMs can reach AGI.",
+    "zh": "杨立昆与辛顿、苏茨克维公开交锋，称大模型只是\"高级搜索引擎\"，图灵奖得主之间围绕大模型能否实现AGI的争论升级。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT3BSU3YzZF9RSmU3dXBSc2E4RnlEbUY4VFJ3dzJBMDJuZEFpaXFEb3JydUczWkc2N3VSYTl3T21ydUJ2MHFuSVpxWXdFZC11OTl5YXdWd2R5WXFOWmFqc3hhSEIxdHp3SHVuOWlKT0FSeHRXVWR1d3p6TDlWdEhRcVFwcHd6S3pORWRVWVN4ckEweVllWFhDZFBjeWFFbnozVDZMLVhGU3ZnRndTZGsydXZvc1hwN1EyUWJlODZibTdHemM2WXBqbU15UFQtMklaYzktbm1rYzRUUXFNclE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-01",
+   "ts": "2026-10-01T00:34:00Z",
+   "level": "major",
+   "title": {
+    "en": "图灵奖双雄彻底决裂！杨立昆怒撕大模型是“高级搜索引擎”，辛顿苏茨克维绝地反杀",
+    "zh": "图灵奖双雄彻底决裂！杨立昆怒撕大模型是“高级搜索引擎”，辛顿苏茨克维绝地反杀"
+   },
+   "body": {
+    "en": "LeCun publicly clashed with Hinton and Sutskever, calling large language models merely \"advanced search engines\" — a sharpening of his dissent that LLMs can't reach AGI.",
+    "zh": "杨立昆与辛顿、苏茨克维公开决裂，怒斥大模型只是“高级搜索引擎”，进一步强化了他认为大模型无法通向AGI的异见立场。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcmdMU3BMWWh4ZkVHbzRBbVdpZVBwci1jaGduQ2VFZTEwbTlYcmI1QzQ2TTZjOEVTaXBOSDRWTU9MdTdFeG5YOE50U1FhZmkzcmRpSXY2SG8tZTdUSXNHaExxTFFHQUtQN2tHc1VJZnRGcG0xMkZQcWFCaDhyMlAtNFpKa01la1FtZE1mWFhSUWhmS0FRNzMzLVNpeFhOSG5MSmRWVGwxNlM5c0NiYUh6eUoxb1Z0Tmd3QTM1ZnN4VWNwVGxBOG1LSC1rQkhoNkJEcjBjNVFFT2J6SGlrRmc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-01",
+   "ts": "2026-10-01T00:34:00Z",
+   "level": "notable",
+   "title": {
+    "en": "图灵奖双雄彻底决裂！杨立昆怒撕大模型是“高级搜索引擎”，辛顿苏茨克维绝地反杀",
+    "zh": "图灵奖双雄彻底决裂！杨立昆怒撕大模型是“高级搜索引擎”，辛顿苏茨克维绝地反杀"
+   },
+   "body": {
+    "en": "LeCun escalated his public dispute with Hinton and Sutskever, calling large language models merely 'advanced search engines' — reasserting his core argument that LLMs can't reach AGI.",
+    "zh": "杨立昆升级了与辛顿、苏茨克维的公开争论，称大模型不过是“高级搜索引擎”，再次重申其“大模型无法通向AGI”的核心立场。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNemtZUDhVUWdESG5yeGhqN1pLRG5TazJXbTJYMHdicXNmZGtBWWZpdm5fNW9ZNFdnaFQxcDVXY0JUNVQ0TjVUTkQyTUd3aUFFQXM1V21fckVDeFYxcUxjeV92WDVfaWt3VGRZLW9jdktnb3NaVTBDU09jQ01sdmFWSV9CLXRqMGhEbHlCLVU0MHdMUVlVQlBzYjhzRXRSWUQ5ZG1sLW9VbXdrcmVvRGpBQm9Hd2NLclRjOXV5dUdKMmpYYVg2LVFSejkteVJIazViN2ZINGJDNTNIajh2?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-01",
+   "ts": "2026-10-01T00:34:00Z",
+   "level": "notable",
+   "title": {
+    "en": "图灵奖双雄彻底决裂！杨立昆怒撕大模型是“高级搜索引擎”，辛顿苏茨克维绝地反杀",
+    "zh": "图灵奖双雄彻底决裂！杨立昆怒撕大模型是“高级搜索引擎”，辛顿苏茨克维绝地反杀"
+   },
+   "body": {
+    "en": "LeCun sharply dismissed large language models as \"advanced search engines\" in a public clash with fellow Turing laureates Hinton and Sutskever.",
+    "zh": "杨立昆公开抨击大语言模型只是“高级搜索引擎”，与图灵奖同行辛顿、苏茨克维爆发激烈争论。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdGNnY3gyMkpaeU42RC1jZGNRc2JvY1hJYm51WUVLWjFFbjdNb0pCUDMtdUJ2NGR5ZWVjNjlybklrbm1SdjBZRHV5V2tSeVpueUoxd2sza2lQLUwtVS1FX3RDZThoVFZDT1IzTWhuZFFpa1BWSUpOUmM4cHZQY2ZXMU5pV2pQa1pvU0ZjcHZvOGVzaWhVV2xqSVlubHJfb1JhSVNhd0RZRldBRUEtNnRjZ2VSMDA5dG5aaWdqaVpfQklncWUwa3BfY0FxSWFZR1VhOEdCdGNqNjZKYWhU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-01",
+   "ts": "2026-10-01T00:34:00Z",
+   "level": "major",
+   "title": {
+    "en": "图灵奖双雄彻底决裂！杨立昆怒撕大模型是“高级搜索引擎”，辛顿苏茨克维绝地反杀",
+    "zh": "图灵奖双雄彻底决裂！杨立昆怒撕大模型是“高级搜索引擎”，辛顿苏茨克维绝地反杀"
+   },
+   "body": {
+    "en": "LeCun publicly broke with Hinton and Sutskever, dismissing large language models as mere \"advanced search engines\" in a sharp escalation of the Turing laureates' debate over the path to AGI.",
+    "zh": "杨立昆与辛顿、苏茨克维公开决裂，斥责大模型只是“高级搜索引擎”，图灵奖得主们围绕通向AGI路径的争论进一步激化。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONEJFZjNGeXJHRjkzT0VSQjNoWmdUSUxTeFV1SVBXV2dad3htLV9iZkdWNXZkSmRTUmp1QWVBcy1pQXdrNHAzdTdwV2xmQXBPamhwNzBtUkNCXzEzRWtISXJwUWRFR0VTNUx4WDh3b2ZVLVdHUDVxT0NKSUJVajNESUJpb1hzaHhKdU0weDEtUjRVOE42YmFFdE1xMi1oYW9mOWRPX1Q3b0x2cW93UFZYcF9XZV8xRTBfT2JlcmJmMTZycmpVSk9SOUp3T0lfRjZVUkdLYTE2SVJzLXRXUHc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-01",
+   "ts": "2026-10-01T00:34:00Z",
+   "level": "notable",
+   "title": {
+    "en": "图灵奖双雄彻底决裂！杨立昆怒撕大模型是“高级搜索引擎”，辛顿苏茨克维绝地反杀",
+    "zh": "图灵奖双雄彻底决裂！杨立昆怒撕大模型是“高级搜索引擎”，辛顿苏茨克维绝地反杀"
+   },
+   "body": {
+    "en": "LeCun publicly clashed again with Hinton and Sutskever, dismissing large language models as merely 'advanced search engines' — restating the dissenting view that has defined his break from the mainstream LLM consensus.",
+    "zh": "杨立昆再次与辛顿、苏茨克维公开交锋，将大语言模型斥为“高级搜索引擎”，重申了他与主流LLM共识决裂的异见立场。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbzAyenk3UHVUNFVWT0xrQTExS0FHbFVKc3c3MXM0ZE9za2ktRW0zNVJRRGhSLTMzT2ZKV1NXMFhybVYxRkQtZ3lTTnRWWDVMbmJzTjQ0clNjUENoUk1qVG9HU3NaOXVyWVV0WmQwWlpVUGVhakpPQXNwcTdtZmhtN1AxTWxTczBpZTVGN3RTMUdtYmFxeEFjZFFaZE9oZEJyV3RSckgzSlRwZFE4M0t6dmM0Z2dIalMwT3lsUmdrUFVTQ3V1UmFZT19yUWRnTVFMempvWTVIcGJZZTFLd2c?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2732,16 +2832,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 80.2,
+  "total": 80.5,
   "attention": 78,
   "centrality": 72,
-  "momentum": 88,
+  "momentum": 89,
   "stature": 95,
   "pageviews": 531264,
   "citations": 253869,
   "hIndex": 120,
-  "events": 93,
-  "posts": 53,
+  "events": 100,
+  "posts": 52,
   "wikiEn": "Yann LeCun",
   "wikiZh": "杨立昆"
  },

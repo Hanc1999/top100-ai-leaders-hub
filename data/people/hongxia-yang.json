@@ -1,5 +1,5 @@
 {
- "rank": 93,
+ "rank": 91,
  "id": "hongxia-yang",
  "name": {
   "en": "Hongxia Yang",
@@ -185,6 +185,63 @@
     "en": "One of China's earliest trillion-parameter multimodal systems.",
     "zh": "中国最早的万亿参数多模态系统之一。"
    }
+  },
+  {
+   "date": "2026-10-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "OnlineQAT: On-Policy Distillation for Ultra-Low-Bit Large Language Models",
+    "zh": "OnlineQAT: On-Policy Distillation for Ultra-Low-Bit Large Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.09346v1",
+   "note": {
+    "en": "Yang co-authored OnlineQAT, an on-policy distillation method that recovers accuracy lost when large language models are quantized to ultra-low bit widths.",
+    "zh": "杨红霞合著的OnlineQAT论文提出了一种在线策略蒸馏方法，用于恢复大语言模型在超低比特量化后损失的精度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-10-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "TRIAGE: Direction-Aware Mismatch Stabilization of Native NVFP4 Reinforcement Learning",
+    "zh": "TRIAGE: Direction-Aware Mismatch Stabilization of Native NVFP4 Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.07043v1",
+   "note": {
+    "en": "Yang co-authored TRIAGE, a method for stabilizing reinforcement learning under low-precision (NVFP4) execution in large language models.",
+    "zh": "杨红霞合著了TRIAGE方法，用于在大语言模型的低精度（NVFP4）执行环境下稳定强化学习训练。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "InfiMed2: A Generalist Medical Multimodal Foundation Model from Contextual Evidence and Stability-Aware Supervision",
+    "zh": "InfiMed2: A Generalist Medical Multimodal Foundation Model from Contextual Evidence and Stability-Aware Supervision"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.34798v2",
+   "note": {
+    "en": "Yang co-authored InfiMed2, a generalist medical multimodal foundation model built with contextual-evidence and stability-aware supervision.",
+    "zh": "杨红霞合著的InfiMed2论文提出了一种通用医学多模态基础模型，结合上下文证据与稳定性感知监督进行训练。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-09-17",
@@ -925,16 +982,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 22.8,
+  "total": 23.6,
   "attention": null,
   "centrality": 7,
-  "momentum": 48,
+  "momentum": 50,
   "stature": 8,
   "pageviews": 0,
   "citations": 7252,
   "hIndex": 40,
   "events": 14,
-  "posts": 27,
+  "posts": 30,
   "wikiEn": null,
   "wikiZh": null
  },

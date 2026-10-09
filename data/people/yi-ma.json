@@ -1,5 +1,5 @@
 {
- "rank": 91,
+ "rank": 92,
  "id": "yi-ma",
  "name": {
   "en": "Yi Ma",
@@ -211,6 +211,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-10-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Video-Conditioned Generative Joint 2D-3D Hand Motion Recovery",
+    "zh": "Video-Conditioned Generative Joint 2D-3D Hand Motion Recovery"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.10512v1",
+   "note": {
+    "en": "With HKU/Berkeley collaborators including Brent Yi and Shenghua Gao, Yi Ma co-authors a method for recovering joint 2D-3D hand motion from video using generative conditioning.",
+    "zh": "马毅与港大/伯克利的合作者（包括Brent Yi和高盛华）合著了一种基于生成式视频条件的2D-3D手部运动联合恢复方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-10-06",
@@ -1267,7 +1286,7 @@
   "citations": 46806,
   "hIndex": 81,
   "events": 14,
-  "posts": 44,
+  "posts": 45,
   "wikiEn": "Yi Ma",
   "wikiZh": null
  },

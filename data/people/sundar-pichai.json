@@ -149,6 +149,25 @@
    }
   },
   {
+   "date": "2026-10-08",
+   "ts": "2026-10-08T18:05:25Z",
+   "kind": "x",
+   "title": {
+    "en": "Great to be with 700+ @googlecloud customers at the historic NASA Hangar One for Gemini at Work! Today, we introduced the new Gemini agent, a single, universal",
+    "zh": "Great to be with 700+ @googlecloud customers at the historic NASA Hangar One for Gemini at Work! Today, we introduced the new Gemini agent, a single, universal"
+   },
+   "source": "@sundarpichai",
+   "url": "https://x.com/sundarpichai/status/2108257472553386059",
+   "note": {
+    "en": "Sundar Pichai announced a new universal Gemini agent for enterprise work at a Google Cloud event with 700+ customers at NASA's Hangar One.",
+    "zh": "桑达尔·皮查伊在NASA一号机库举行的Google Cloud活动上，向700多家企业客户宣布推出面向办公场景的全新通用Gemini智能体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-06",
    "ts": "2026-10-06T16:03:21Z",
    "kind": "x",
@@ -909,6 +928,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2025-11-21",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Sundar Pichai, CEO of Google: AI prone to errors",
+    "zh": "Sundar Pichai, CEO of Google: AI prone to errors"
+   },
+   "source": "The Interview",
+   "url": "https://podcasts.apple.com/us/podcast/sundar-pichai-ceo-of-google-ai-prone-to-errors/id494517111?i=1000737609739&uo=4",
+   "note": {
+    "en": "In an interview with Faisal Islam, Pichai said current AI models are prone to errors and users must learn what the tools are and aren't good for.",
+    "zh": "在接受费萨尔·伊斯兰采访时，皮查伊表示当前的AI模型容易出错，用户需要了解这些工具的能力边界。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2025-11-18",
    "ts": null,
    "kind": "x",
@@ -1194,25 +1232,6 @@
    "connector": "x"
   },
   {
-   "date": "2024-12-16",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Introducing Veo 2, our new, state-of-the-art video model (with better understanding of real-world physics &amp; movement, up to 4K resolution). You can join the",
-    "zh": "Introducing Veo 2, our new, state-of-the-art video model (with better understanding of real-world physics &amp; movement, up to 4K resolution). You can join the"
-   },
-   "source": "@sundarpichai",
-   "url": "https://x.com/sundarpichai/status/1868709099644334518",
-   "note": {
-    "en": "Pichai introduced Veo 2, Google's new video generation model with improved physics understanding and up to 4K resolution.",
-    "zh": "皮查伊发布了Veo 2,这是Google最新的先进视频生成模型,对物理规律的理解更强,分辨率可达4K。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
    "date": "2023-05-25",
    "ts": null,
    "kind": "podcast",
@@ -1282,6 +1301,25 @@
    "note": {
     "en": "Pichai discusses managing Alphabet's 144,000-person workforce and the future of work in an interview on WSJ's The Journal.",
     "zh": "皮查伊在《华尔街日报》The Journal节目的采访中谈论管理Alphabet 14.4万名员工及未来工作的话题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2020-11-10",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Sundar Pichai - \"You Will Prevail\" Class of 2020",
+    "zh": "Sundar Pichai - \"You Will Prevail\" Class of 2020"
+   },
+   "source": "Famous Speeches",
+   "url": "https://podcasts.apple.com/us/podcast/sundar-pichai-you-will-prevail-class-of-2020/id1539317163?i=1000497871758&uo=4",
+   "note": {
+    "en": "A recording of Pichai's 2020 commencement address to graduates, in which he recounts his own struggles and encourages the class of 2020.",
+    "zh": "皮查伊2020年毕业演讲的录音，他在其中讲述了自己经历的困难，并勉励2020届毕业生。"
    },
    "auto": true,
    "judged": true,
@@ -2291,7 +2329,7 @@
   "citations": 1,
   "hIndex": 1,
   "events": 56,
-  "posts": 65,
+  "posts": 67,
   "wikiEn": "Sundar Pichai",
   "wikiZh": "孙达尔·皮柴"
  },

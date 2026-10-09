@@ -1,5 +1,5 @@
 {
- "rank": 69,
+ "rank": 70,
  "id": "pieter-abbeel",
  "name": {
   "en": "Pieter Abbeel",
@@ -181,6 +181,44 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-10-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "QF3: Fast Flow RL with Filtered Q-Gradients",
+    "zh": "QF3: Fast Flow RL with Filtered Q-Gradients"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.08789v1",
+   "note": {
+    "en": "Pieter Abbeel co-authors QF3, a method using filtered Q-gradients to speed up reinforcement learning fine-tuning of flow-based robot policies.",
+    "zh": "Pieter Abbeel共同撰写了QF3论文，提出用过滤后的Q梯度加速基于流的机器人策略的强化学习微调。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-10-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Workhorse: Learning Robust Whole-Body Humanoid Loco-Manipulation from Human Data",
+    "zh": "Workhorse: Learning Robust Whole-Body Humanoid Loco-Manipulation from Human Data"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.09117v1",
+   "note": {
+    "en": "Pieter Abbeel co-authored Workhorse, a system that teaches humanoid robots contact-rich, whole-body manipulation by learning from human demonstration video instead of robot data.",
+    "zh": "Pieter Abbeel参与的Workhorse系统让人形机器人通过学习人类示范视频（而非机器人数据）来掌握全身接触式操作能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-10-02",
@@ -1268,16 +1306,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 32.3,
+  "total": 32.6,
   "attention": 29,
   "centrality": 23,
-  "momentum": 31,
+  "momentum": 32,
   "stature": 73,
   "pageviews": 37345,
   "citations": 79473,
   "hIndex": 123,
   "events": 2,
-  "posts": 57,
+  "posts": 59,
   "wikiEn": "Pieter Abbeel",
   "wikiZh": "彼得·阿比爾"
  },

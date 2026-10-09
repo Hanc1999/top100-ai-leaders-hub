@@ -228,6 +228,44 @@
    }
   },
   {
+   "date": "2026-10-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Long-WAM: Scaling the Context of World-Action Models",
+    "zh": "Long-WAM: Scaling the Context of World-Action Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.10528v1",
+   "note": {
+    "en": "Long-WAM, co-authored with NVIDIA researchers including Linxi Fan and Sifei Liu, scales the context length of world-action models for real-time robot control.",
+    "zh": "Long-WAM由韩松与NVIDIA研究者（包括范霖曦、刘思飞等）合著，旨在为实时机器人控制扩展世界-动作模型的上下文长度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-10-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Humanize: Judgement Engineering for Agentic Coding",
+    "zh": "Humanize: Judgement Engineering for Agentic Coding"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.08900v1",
+   "note": {
+    "en": "Humanize, with longtime collaborator Ligeng Zhu, proposes judgement-engineering techniques so an agentic coding system can better tell whether generated code is actually done.",
+    "zh": "《Humanize》与长期合作者朱力耕共同完成，提出“判断工程”技术，让智能编程代理系统能更好地判断生成的代码是否真正完成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-30",
    "ts": null,
    "kind": "paper",
@@ -1505,16 +1543,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 21.5,
+  "total": 21.7,
   "attention": 4,
   "centrality": 18,
-  "momentum": 47,
+  "momentum": 48,
   "stature": 46,
   "pageviews": 888,
   "citations": 32832,
   "hIndex": 58,
   "events": 1,
-  "posts": 69,
+  "posts": 71,
   "wikiEn": null,
   "wikiZh": "韩松"
  },

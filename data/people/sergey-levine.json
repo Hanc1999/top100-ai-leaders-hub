@@ -1,5 +1,5 @@
 {
- "rank": 83,
+ "rank": 81,
  "id": "sergey-levine",
  "name": {
   "en": "Sergey Levine",
@@ -179,6 +179,44 @@
     "en": "Open-sourced February 2025; generalises across laundry, coffee-making, box assembly and vegetable peeling.",
     "zh": "2025 年 2 月开源；可泛化到叠衣服、冲咖啡、组装纸箱与削蔬菜等任务。"
    }
+  },
+  {
+   "date": "2026-10-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The Geometry of Empowerment",
+    "zh": "The Geometry of Empowerment"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.07796v1",
+   "note": {
+    "en": "A new paper examines the mathematical structure of empowerment as an information-theoretic measure of an agent's control over its environment.",
+    "zh": "一篇新论文研究了「授权」（empowerment）作为衡量智能体对环境控制力的信息论指标的数学结构。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-10-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Behavioral Cloning Mystery",
+    "zh": "Behavioral Cloning Mystery"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.07056v1",
+   "note": {
+    "en": "A new paper investigates why behavioral cloning keeps improving as models overfit more to demonstration data, a counterintuitive property of imitation learning.",
+    "zh": "一篇新论文探讨了为何行为克隆模型在对示范数据过拟合增多时性能反而持续提升，这是模仿学习中的一个反直觉现象。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-09-07",
@@ -1591,16 +1629,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 28.1,
+  "total": 28.6,
   "attention": 11,
   "centrality": 43,
-  "momentum": 25,
+  "momentum": 27,
   "stature": 68,
   "pageviews": 4213,
   "citations": 63110,
   "hIndex": 112,
   "events": 1,
-  "posts": 74,
+  "posts": 76,
   "wikiEn": "Sergey Levine",
   "wikiZh": null
  },

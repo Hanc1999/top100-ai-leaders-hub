@@ -737,6 +737,40 @@
    "url": "https://www.eecs.mit.edu/people/kaiming-he/"
   },
   {
+   "date": "2026-10-08",
+   "ts": "2026-10-08T13:56:53Z",
+   "level": "notable",
+   "title": {
+    "en": "何恺明团队新作：视觉Harness VISTA，让Claude满分通关25款ARC-AGI-3公开游戏- 产业链",
+    "zh": "何恺明团队新作：视觉Harness VISTA，让Claude满分通关25款ARC-AGI-3公开游戏- 产业链"
+   },
+   "body": {
+    "en": "Kaiming He's team released VISTA, a visual harness that let Claude achieve a perfect score across 25 public ARC-AGI-3 games.",
+    "zh": "何恺明团队发布视觉Harness VISTA，使Claude在25款公开的ARC-AGI-3游戏中取得满分。"
+   },
+   "source": "光通信Pro",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GcTd3RXBuSktwcTB0b29EVENxM3gxYTJlNmZvZHUtTHdRWkFOaWZGcG1JUm1aZ3NUdHZaUkhucXZJSWdrZXB0Z3VZY3RidDB0TjFTRWt4MA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-07",
+   "ts": "2026-10-07T22:50:00Z",
+   "level": "notable",
+   "title": {
+    "en": "何恺明团队新作：视觉Harness VISTA，让Claude满分通关25款ARC-AGI-3公开游戏",
+    "zh": "何恺明团队新作：视觉Harness VISTA，让Claude满分通关25款ARC-AGI-3公开游戏"
+   },
+   "body": {
+    "en": "Kaiming He's team released VISTA, a visual harness that enabled Claude to achieve a perfect score across 25 public ARC-AGI-3 games.",
+    "zh": "何恺明团队发布视觉Harness VISTA，使Claude在25款公开的ARC-AGI-3游戏中取得满分。"
+   },
+   "source": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jY0dkeXl6ZzFIeEFxSUI2NUppYjRQSzRIVkw2cXB2RFRqeGJUWS05UlZzUjNVbnczRFZhbTVySEI4NUtBVExoeUdGby1sQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-05",
    "ts": "2026-10-05T05:30:00Z",
    "level": "notable",
@@ -1281,6 +1315,23 @@
    "judged": true
   },
   {
+   "date": "2026-05-13",
+   "ts": "2026-05-13T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "刚刚，何恺明团队新作，「嵌入式语言流」ELF来了",
+    "zh": "刚刚，何恺明团队新作，「嵌入式语言流」ELF来了"
+   },
+   "body": {
+    "en": "Kaiming He's team unveiled a new method, ELF ('Embedded Language Flow'), from their research group.",
+    "zh": "何恺明团队发布了新方法ELF（“嵌入式语言流”）。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84ZHdvWWFNWjh2LUl2MjNEQ0g3Z3hFNEc5V1QzZm1oaWRYd1loVVZTTUt5RV8wNzYwRk9qQ0pGeWEtQUY4SzhXMU5nd25ZU1ItNVZkYWo0WDFSbXByOGFrMS1mVW5oUThoZWxTdUMxNnAzSWhxWjRIbGhEMlBJRWs?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-05-12",
    "ts": null,
    "level": "notable",
@@ -1407,15 +1458,15 @@
  },
  "cat": "research",
  "score": {
-  "total": 39.7,
+  "total": 39.5,
   "attention": 33,
   "centrality": 2,
-  "momentum": 69,
+  "momentum": 68,
   "stature": 100,
   "pageviews": 46828,
   "citations": 555963,
   "hIndex": 83,
-  "events": 40,
+  "events": 43,
   "posts": 29,
   "wikiEn": "Kaiming He",
   "wikiZh": "何恺明"

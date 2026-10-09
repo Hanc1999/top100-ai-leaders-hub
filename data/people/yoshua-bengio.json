@@ -1,5 +1,5 @@
 {
- "rank": 27,
+ "rank": 28,
  "id": "yoshua-bengio",
  "name": {
   "en": "Yoshua Bengio",
@@ -169,6 +169,44 @@
    }
   },
   {
+   "date": "2026-10-08",
+   "ts": "2026-10-08T14:09:56Z",
+   "kind": "x",
+   "title": {
+    "en": "We have a choice in front of us. In my latest op-ed for Transformer, I invite employees of frontier AI companies to ask themselves if their work is truly leadin",
+    "zh": "We have a choice in front of us. In my latest op-ed for Transformer, I invite employees of frontier AI companies to ask themselves if their work is truly leadin"
+   },
+   "source": "@yoshua_bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2108198210523046069",
+   "note": {
+    "en": "In an op-ed for Transformer, Bengio urges frontier-lab employees to ask whether their work is truly leading toward a safer AI future.",
+    "zh": "在为Transformer撰写的专栏文章中，Bengio呼吁前沿实验室的员工反思自己的工作是否真正通向更安全的AI未来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-08",
+   "ts": "2026-10-08T15:02:06Z",
+   "kind": "blog",
+   "title": {
+    "en": "Bengio: ‘If you prioritize safety, leave frontier AI companies’",
+    "zh": "Bengio: ‘If you prioritize safety, leave frontier AI companies’"
+   },
+   "source": "Yoshua Bengio",
+   "url": "https://yoshuabengio.org/en/blog/bengio-if-you-prioritize-safety-leave-frontier-ai-companies",
+   "note": {
+    "en": "In an op-ed for Transformer, Bengio urges employees at frontier AI labs who truly prioritize safety to consider leaving their companies rather than stay and rationalize the risk.",
+    "zh": "本吉奥在为Transformer撰写的专栏文章中呼吁真正重视安全的前沿AI实验室员工考虑离职，而不是留下来为风险找理由。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
    "date": "2026-10-05",
    "ts": "2026-10-05T14:28:22Z",
    "kind": "x",
@@ -205,6 +243,25 @@
    "judged": true,
    "platform": "x",
    "connector": null
+  },
+  {
+   "date": "2026-10-05",
+   "ts": "2026-10-05T13:54:08Z",
+   "kind": "blog",
+   "title": {
+    "en": "The dangerous myth behind AI agent hacks",
+    "zh": "The dangerous myth behind AI agent hacks"
+   },
+   "source": "Yoshua Bengio",
+   "url": "https://yoshuabengio.org/en/blog/dangerous-myth-behind-ai-agent-hacks",
+   "note": {
+    "en": "Bengio argues that recent AI-agent-driven hacks are being wrongly framed as mere cybersecurity incidents, when they actually signal a deeper loss-of-control risk.",
+    "zh": "本吉奥认为，近期由AI代理发起的黑客攻击被错误地当作单纯的网络安全事件来看待，而它们实际上预示着更深层的失控风险。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
   },
   {
    "date": "2026-10-03",
@@ -623,6 +680,25 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-09",
+   "ts": "2026-09-09T15:07:42Z",
+   "kind": "blog",
+   "title": {
+    "en": "AI Is at a Turning Point",
+    "zh": "AI Is at a Turning Point"
+   },
+   "source": "Yoshua Bengio",
+   "url": "https://yoshuabengio.org/en/blog/ai-turning-point",
+   "note": {
+    "en": "In a TIME op-ed, Bengio calls the OpenAI–Hugging Face cyber incident a turning point, arguing that preventing autonomous AI cyberattacks must become an urgent safety priority.",
+    "zh": "本吉奥在为TIME撰写的专栏中称OpenAI与Hugging Face之间的网络安全事件是一个转折点，主张防止AI自主网络攻击必须成为紧迫的安全优先事项。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
   },
   {
    "date": "2026-09-08",
@@ -1575,25 +1651,6 @@
    "connector": "podcasts"
   },
   {
-   "date": "2026-05-05",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Thank you @UN Secretary General @antonioguterres for an excellent discussion on the current state of AI capabilities, and the urgent need for robust global gove",
-    "zh": "Thank you @UN Secretary General @antonioguterres for an excellent discussion on the current state of AI capabilities, and the urgent need for robust global gove"
-   },
-   "source": "@Yoshua_Bengio",
-   "url": "https://x.com/Yoshua_Bengio/status/2051742525157699875",
-   "note": {
-    "en": "Bengio recounts a discussion with UN Secretary-General António Guterres on AI capabilities and the need for robust global governance.",
-    "zh": "本吉奥讲述与联合国秘书长安东尼奥·古特雷斯就AI能力及强化全球治理必要性的讨论。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
    "date": "2026-05-02",
    "ts": null,
    "kind": "paper",
@@ -2420,6 +2477,23 @@
    },
    "source": "Euronews",
    "url": "https://www.euronews.com/next/2025/06/04/godfather-of-ai-yoshua-bengio-launches-non-profit-to-make-ai-safer-and-more-trustworthy"
+  },
+  {
+   "date": "2026-10-08",
+   "ts": "2026-10-08T14:00:43Z",
+   "level": "notable",
+   "title": {
+    "en": "Yoshua Bengio: ‘If you prioritize safety, leave frontier AI companies’",
+    "zh": "Yoshua Bengio: ‘If you prioritize safety, leave frontier AI companies’"
+   },
+   "body": {
+    "en": "Bengio argued that researchers who prioritize safety should leave frontier AI companies, a pointed stance on the industry's safety culture.",
+    "zh": "本吉奥表示，重视安全的研究者应该离开前沿AI公司，这一表态直指行业安全文化问题。"
+   },
+   "source": "Transformer | Substack",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOaHZPR2Jtb3B3OUNlLXBtZWFwSjVLSVQxQVpQdnBiLWhWTkk0TVMyTzZ1M0pDQ0xwZ25qUHIyNF9MeTlFYUlob0s5V3RDbFVPSUw1SGpPMFlSS0FSV2liY2FHLXNENW9teFU3LWNLR2dZUDRRV1M2UnVIZ1VqMFprZWllLTk1LWZlSG4xYmIyN0xSTlp3UDdKZjFzbUV3TlpUa2VBdVd1czFYYXQyTWdyNjZTV0lZTl85XzF3YkNVelFzcFg2RXNHbEVIOGw5NVFjb2pOQ3hmNkRUQlRFLTBzVUt4ZWlPek82bDktZVcxMk5kSUVsRENVUnJ2dw?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-09-24",
@@ -3313,16 +3387,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 64.7,
+  "total": 64.5,
   "attention": 67,
   "centrality": 30,
-  "momentum": 86,
+  "momentum": 85,
   "stature": 98,
   "pageviews": 276660,
   "citations": 475043,
   "hIndex": 184,
-  "events": 54,
-  "posts": 118,
+  "events": 55,
+  "posts": 121,
   "wikiEn": "Yoshua Bengio",
   "wikiZh": "约书亚·本希奥"
  },

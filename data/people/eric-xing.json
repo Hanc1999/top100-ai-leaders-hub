@@ -163,6 +163,44 @@
    }
   },
   {
+   "date": "2026-10-08",
+   "ts": "2026-10-08T13:32:55Z",
+   "kind": "x",
+   "title": {
+    "en": "It was a true pleasure to sit down with @nxthompson of Atlantic to share my thoughts on Open Source AI, World Model, and AI for Science. If you like to know my",
+    "zh": "It was a true pleasure to sit down with @nxthompson of Atlantic to share my thoughts on Open Source AI, World Model, and AI for Science. If you like to know my"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2108188896802869633",
+   "note": {
+    "en": "Xing shared highlights from his interview with The Atlantic's Nicholas Thompson on open-source AI, world models and AI for science.",
+    "zh": "邢波分享了他与《大西洋月刊》尼古拉斯·汤普森的访谈内容，话题涉及开源AI、世界模型与科学智能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-07",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Building Models That See the World - Eric Xing with Nicholas Thompson",
+    "zh": "Building Models That See the World - Eric Xing with Nicholas Thompson"
+   },
+   "source": "The Most Interesting Thing in AI",
+   "url": "https://podcasts.apple.com/us/podcast/building-models-that-see-the-world-eric-xing-with/id1783154139?i=1000793625177&uo=4",
+   "note": {
+    "en": "Eric Xing joined Nicholas Thompson on The Most Interesting Thing in AI to discuss building models that understand the physical world.",
+    "zh": "邢波做客播客节目The Most Interesting Thing in AI，与Nicholas Thompson探讨如何构建能够理解物理世界的模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-10-05",
    "ts": null,
    "kind": "paper",
@@ -1628,16 +1666,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 30.8,
+  "total": 31.0,
   "attention": 25,
   "centrality": 14,
-  "momentum": 51,
+  "momentum": 52,
   "stature": 54,
   "pageviews": 21312,
   "citations": 41656,
   "hIndex": 97,
   "events": 2,
-  "posts": 76,
+  "posts": 78,
   "wikiEn": "Eric Xing",
   "wikiZh": "邢波"
  },

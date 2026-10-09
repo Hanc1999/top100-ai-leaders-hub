@@ -1,5 +1,5 @@
 {
- "rank": 23,
+ "rank": 22,
  "id": "xiao-hong",
  "name": {
   "en": "Xiao Hong",
@@ -261,6 +261,23 @@
    },
    "source": "Asia Times",
    "url": "https://asiatimes.com/2026/05/chinas-manus-ai-case-sets-red-lines-to-bar-singapore-washing/"
+  },
+  {
+   "date": "2026-10-08",
+   "ts": "2026-10-08T13:38:48Z",
+   "level": "major",
+   "title": {
+    "en": "Manus经历收购风波后融资5亿美元 创始人肖弘已解除边控",
+    "zh": "Manus经历收购风波后融资5亿美元 创始人肖弘已解除边控"
+   },
+   "body": {
+    "en": "Manus raised $500M following acquisition turmoil, and founder Xiao Hong had his exit ban lifted.",
+    "zh": "Manus在经历收购风波后完成5亿美元融资，创始人肖弘的出境限制已被解除。"
+   },
+   "source": "联合早报",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54QkRQMXlWa2pRT1VUcWtiMUdDdHNOT1dJQ00tSko1RGtWOGJVOWN4VVZRVFNMckVoVUVRMU5OYkJEOTItdVJtX2pvdkk1THdfN2h6TUc4WEx5TE4yekxzdDd4NHdPaXFEOWc?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-09-30",
@@ -1018,15 +1035,15 @@
  },
  "cat": "product",
  "score": {
-  "total": 67.4,
+  "total": 67.6,
   "attention": 74,
   "centrality": 52,
-  "momentum": 73,
+  "momentum": 74,
   "stature": 64,
   "pageviews": 422825,
   "citations": 60154,
   "hIndex": 121,
-  "events": 46,
+  "events": 47,
   "posts": 5,
   "wikiEn": "Manus (AI agent)",
   "wikiZh": "Manus"

@@ -1,5 +1,5 @@
 {
- "rank": 29,
+ "rank": 30,
  "id": "lilian-weng",
  "name": {
   "en": "Lilian Weng",
@@ -2333,6 +2333,23 @@
    "judged": true
   },
   {
+   "date": "2026-07-28",
+   "ts": "2026-07-28T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Thinking Machines Lab cofounder Lilian Weng steps down, citing startup-related stress and illness",
+    "zh": "Thinking Machines Lab cofounder Lilian Weng steps down, citing startup-related stress and illness"
+   },
+   "body": {
+    "en": "Lilian Weng stepped down as a cofounder of Thinking Machines Lab, citing startup-related stress and illness.",
+    "zh": "翁荔因创业压力和健康问题，辞去Thinking Machines Lab联合创始人职务。"
+   },
+   "source": "AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORmU4TkM3TzJ2V2hnX2d5UGxSQnlyMktldHZBN3pNbjhjbV9yQ0ROb0liWjZyNVJTdzVUS1J4XzlrTWF2cDd3X3dudTZxXzBObjdaTC00aW5IQXl1aW0zazFhXzYtRHBkZzRUV3ltNzN1bG9DN3NVMVpxUV92NFZHNlAwLXFPM0ktVUE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-07-27",
    "ts": "2026-07-27T07:00:00Z",
    "level": "major",
@@ -2680,15 +2697,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 63.5,
+  "total": 63.0,
   "attention": null,
   "centrality": 47,
-  "momentum": 83,
+  "momentum": 82,
   "stature": null,
   "pageviews": 0,
   "citations": 3937,
   "hIndex": 16,
-  "events": 65,
+  "events": 66,
   "posts": 73,
   "wikiEn": "Lilian Weng",
   "wikiZh": null

@@ -1,5 +1,5 @@
 {
- "rank": 87,
+ "rank": 88,
  "id": "albert-gu",
  "name": {
   "en": "Albert Gu",
@@ -161,6 +161,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-10-09",
+   "ts": "2026-10-09T21:48:32Z",
+   "kind": "x",
+   "title": {
+    "en": "really excited to see an application built on top of Hydra (bidirectional Mamba https://t.co/rqflKHQLZh)! at small scales we had done some DNA language modeling",
+    "zh": "really excited to see an application built on top of Hydra (bidirectional Mamba https://t.co/rqflKHQLZh)! at small scales we had done some DNA language modeling"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2108676008601866246",
+   "note": {
+    "en": "Gu reacts to a new application built on his bidirectional Hydra (Mamba) architecture, sharing early DNA-language-modeling evidence that Mamba outperforms alternatives.",
+    "zh": "Gu对一个基于其双向Hydra（Mamba）架构构建的新应用表示关注，并分享了早期DNA语言建模方面的证据，显示Mamba优于其他方案。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
   },
   {
    "date": "2026-09-17",
@@ -1415,7 +1434,7 @@
   "citations": 2983,
   "hIndex": 21,
   "events": 0,
-  "posts": 66,
+  "posts": 67,
   "wikiEn": null,
   "wikiZh": null
  },

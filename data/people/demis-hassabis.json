@@ -1,5 +1,5 @@
 {
- "rank": 7,
+ "rank": 6,
  "id": "demis-hassabis",
  "name": {
   "en": "Demis Hassabis",
@@ -215,6 +215,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-10-08",
+   "ts": "2026-10-08T22:57:45Z",
+   "kind": "x",
+   "title": {
+    "en": "Excited to support the Genesis Mission @WhiteHouse @ENERGY and Director @mkratsios47 with $150M in investments this week. Looking forward to collaborating on th",
+    "zh": "Excited to support the Genesis Mission @WhiteHouse @ENERGY and Director @mkratsios47 with $150M in investments this week. Looking forward to collaborating on th"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2108331042083872882",
+   "note": {
+    "en": "Hassabis announced $150M in investments supporting the White House and Department of Energy's Genesis Mission, pledging to collaborate on the future of science.",
+    "zh": "哈萨比斯宣布为白宫与能源部的“创世纪计划”投入1.5亿美元，承诺在科学的未来方面展开合作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
   },
   {
    "date": "2026-10-07",
@@ -2475,6 +2494,23 @@
    "judged": true
   },
   {
+   "date": "2026-08-05",
+   "ts": "2026-08-05T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Google AI leader leaves, Demis Hassabis to be chair in seismic moves",
+    "zh": "Google AI leader leaves, Demis Hassabis to be chair in seismic moves"
+   },
+   "body": {
+    "en": "News reports that Demis Hassabis is stepping into the Chair role at Google DeepMind as part of a major leadership reshuffle.",
+    "zh": "报道称，Demis Hassabis将在Google DeepMind的重大人事变动中出任董事长。"
+   },
+   "source": "SiliconValley.com",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUDl0a0p0VDh0UFVJQ2JOWDRTNnBBR2dhRmhpWE55VXFzZ0czam8zb2gtZWxkdzN6LXczeHJkYzlDZDJLRWFvQ0tVNDItajBJT3U2eDJLcm1kNXlodXdxMWQ0dm1waHBoWjRCbDdpeDhGZ25VMUc5NWJzcGVGeld2NERSOW0ycl9JT3FwVWtUS2hfeUR4LXhWYThuRUt6d2FzSl9TOFN3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-07-27",
    "ts": null,
    "level": "notable",
@@ -2516,16 +2552,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 87.0,
+  "total": 87.2,
   "attention": 89,
   "centrality": 96,
-  "momentum": 71,
+  "momentum": 72,
   "stature": 90,
   "pageviews": 1121478,
   "citations": 195503,
   "hIndex": 92,
-  "events": 30,
-  "posts": 98,
+  "events": 31,
+  "posts": 99,
   "wikiEn": "Demis Hassabis",
   "wikiZh": "杰米斯·哈萨比斯"
  },

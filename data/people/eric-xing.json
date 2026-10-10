@@ -182,6 +182,25 @@
    "connector": null
   },
   {
+   "date": "2026-10-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "WOVEN: Weaving Visual World Modeling into Multimodal LLMs",
+    "zh": "WOVEN: Weaving Visual World Modeling into Multimodal LLMs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.12417v1",
+   "note": {
+    "en": "Paper on WOVEN, a method weaving visual world modeling into multimodal LLMs to address spatial, physical and temporal reasoning gaps, co-authored by Eric P. Xing with longtime collaborator Manling Li.",
+    "zh": "论文提出WOVEN方法，将视觉世界建模融入多模态大语言模型，以弥补其在空间、物理与时间推理上的不足，由邢波（Eric P. Xing）与长期合作者李曼玲等共同完成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-07",
    "ts": null,
    "kind": "podcast",
@@ -1675,7 +1694,7 @@
   "citations": 41656,
   "hIndex": 97,
   "events": 2,
-  "posts": 78,
+  "posts": 79,
   "wikiEn": "Eric Xing",
   "wikiZh": "邢波"
  },

@@ -183,6 +183,44 @@
    }
   },
   {
+   "date": "2026-10-09",
+   "ts": "2026-10-09T21:33:47Z",
+   "kind": "blog",
+   "title": {
+    "en": "I expect rapid progress but not towards general superintelligence",
+    "zh": "I expect rapid progress but not towards general superintelligence"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+   "note": {
+    "en": "Lambert argues AI progress will keep accelerating but is not on a path to general superintelligence.",
+    "zh": "Lambert认为人工智能的进步将持续加速，但并未走在通往通用超级智能的道路上。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-10-09",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Why Open Science Is Dying at Frontier AI Labs | Nathan Lambert",
+    "zh": "Why Open Science Is Dying at Frontier AI Labs | Nathan Lambert"
+   },
+   "source": "MTS",
+   "url": "https://podcasts.apple.com/us/podcast/why-open-science-is-dying-at-frontier-ai-labs-nathan-lambert/id1891088763?i=1000793984274&uo=4",
+   "note": {
+    "en": "On the MTS podcast, Lambert announces the launch of Trillium Labs, a new nonprofit for frontier AI research, and discusses the decline of open science at frontier labs.",
+    "zh": "在MTS播客节目中，Lambert宣布创立非营利机构Trillium Labs，专注前沿AI研究，并讨论了前沿实验室开放科学精神的衰落。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-10-06",
    "ts": "2026-10-06T14:22:41Z",
    "kind": "blog",
@@ -1517,16 +1555,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 16.1,
+  "total": 15.9,
   "attention": 8,
   "centrality": 6,
-  "momentum": 43,
+  "momentum": 42,
   "stature": null,
   "pageviews": 2796,
   "citations": 720,
   "hIndex": 13,
   "events": 1,
-  "posts": 71,
+  "posts": 73,
   "wikiEn": "Nathan Lambert",
   "wikiZh": null
  },

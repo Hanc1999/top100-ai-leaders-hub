@@ -1,5 +1,5 @@
 {
- "rank": 92,
+ "rank": 91,
  "id": "yi-ma",
  "name": {
   "en": "Yi Ma",
@@ -211,6 +211,63 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-10-09",
+   "ts": "2026-10-09T02:53:53Z",
+   "kind": "x",
+   "title": {
+    "en": "I have repeatedly advocated to my colleagues in the HKU School of Computing and to the public that automating deduction and programming are in fact great for bo",
+    "zh": "I have repeatedly advocated to my colleagues in the HKU School of Computing and to the public that automating deduction and programming are in fact great for bo"
+   },
+   "source": "@yimatweets",
+   "url": "https://x.com/YiMaTweets/status/2108390464147874184",
+   "note": {
+    "en": "Ma argued on X that automating deduction and programming is valuable for both mathematics and computer science, pushing back on skepticism from HKU colleagues.",
+    "zh": "马毅在X上发文主张，自动化演绎与编程对数学和计算机科学都大有价值，回应了港大同事的质疑。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-09",
+   "ts": "2026-10-09T08:26:22Z",
+   "kind": "x",
+   "title": {
+    "en": "To a large extent, our new open-sourced book https://t.co/ihPBCkI3x5, subtitle of which is \"A Mathematical Theory of Memory,\" is an attempt to provide a theoret",
+    "zh": "To a large extent, our new open-sourced book https://t.co/ihPBCkI3x5, subtitle of which is \"A Mathematical Theory of Memory,\" is an attempt to provide a theoret"
+   },
+   "source": "@yimatweets",
+   "url": "https://x.com/YiMaTweets/status/2108474135240458398",
+   "note": {
+    "en": "Ma announced an open-sourced book, 'A Mathematical Theory of Memory,' offering a theoretical framework linking memory to his broader program of explaining deep learning through parsimony and self-consistency.",
+    "zh": "马毅发布开源新书《记忆的数学理论》，提出一个理论框架，将记忆与其以简约性和自洽性解释深度学习的研究方向联系起来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "YOCO: You Only Calibrate Once! Fast Mocap Calibration for Dexterous Teleoperation",
+    "zh": "YOCO: You Only Calibrate Once! Fast Mocap Calibration for Dexterous Teleoperation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.11657v1",
+   "note": {
+    "en": "YOCO, a fast few-shot calibration method for motion-capture gloves used in dexterous robot teleoperation, co-authored with HKU and Shenzhen Loop Area Institute collaborators.",
+    "zh": "YOCO是一种用于灵巧机器人遥操作的快速少样本动捕手套校准方法，由马毅与港大、深圳前沿产业研究院的合作者共同完成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-10-07",
@@ -1277,16 +1334,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 23.3,
+  "total": 23.7,
   "attention": 7,
   "centrality": 8,
-  "momentum": 57,
+  "momentum": 59,
   "stature": 58,
   "pageviews": 2604,
   "citations": 46806,
   "hIndex": 81,
   "events": 14,
-  "posts": 45,
+  "posts": 48,
   "wikiEn": "Yi Ma",
   "wikiZh": null
  },

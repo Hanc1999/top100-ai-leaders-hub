@@ -1,5 +1,5 @@
 {
- "rank": 91,
+ "rank": 92,
  "id": "hongxia-yang",
  "name": {
   "en": "Hongxia Yang",
@@ -237,6 +237,25 @@
    "note": {
     "en": "Yang co-authored InfiMed2, a generalist medical multimodal foundation model built with contextual-evidence and stability-aware supervision.",
     "zh": "杨红霞合著的InfiMed2论文提出了一种通用医学多模态基础模型，结合上下文证据与稳定性感知监督进行训练。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SMAT: Simple and Efficient Merge-Aware Training",
+    "zh": "SMAT: Simple and Efficient Merge-Aware Training"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.33437v2",
+   "note": {
+    "en": "Paper on SMAT, a merge-aware training method that optimizes expert models so they merge into one model without losing performance.",
+    "zh": "论文提出SMAT（合并感知训练）方法，在训练专家模型时兼顾后续合并环节，使多个专家模型合并后仍能保持性能。"
    },
    "auto": true,
    "judged": true,
@@ -991,7 +1010,7 @@
   "citations": 7252,
   "hIndex": 40,
   "events": 14,
-  "posts": 30,
+  "posts": 31,
   "wikiEn": null,
   "wikiZh": null
  },

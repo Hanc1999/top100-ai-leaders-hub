@@ -171,6 +171,25 @@
    }
   },
   {
+   "date": "2026-10-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "EvoAlloc: A Self-Evolving Resource Allocation Agent for Efficient Program Evolution",
+    "zh": "EvoAlloc: A Self-Evolving Resource Allocation Agent for Efficient Program Evolution"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.12086v1",
+   "note": {
+    "en": "Paper on EvoAlloc, a self-evolving resource-allocation agent that improves the efficiency of program-evolution search, extending Schmidhuber's long-running work on self-referential, self-improving systems.",
+    "zh": "论文提出EvoAlloc，一种自我演化的资源分配智能体，用于提升程序演化搜索的效率，延续了施米德胡贝尔在自指与自我改进系统方面的长期研究方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-02",
    "ts": null,
    "kind": "podcast",
@@ -1151,7 +1170,7 @@
   "citations": 185831,
   "hIndex": 89,
   "events": 2,
-  "posts": 51,
+  "posts": 52,
   "wikiEn": "Jürgen Schmidhuber",
   "wikiZh": "于尔根·施密德胡伯"
  },

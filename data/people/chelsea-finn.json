@@ -177,6 +177,25 @@
    }
   },
   {
+   "date": "2026-10-09",
+   "ts": "2026-10-09T21:38:20Z",
+   "kind": "x",
+   "title": {
+    "en": "As robots become more reliable, DAgger becomes far less efficient. eg 90% success means the person spends &gt;90% of the time passively watching the robot Key i",
+    "zh": "As robots become more reliable, DAgger becomes far less efficient. eg 90% success means the person spends &gt;90% of the time passively watching the robot Key i"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2108673441314566158",
+   "note": {
+    "en": "Finn argues that as robot policies become more reliable, DAgger-style human-in-the-loop data collection grows inefficient, since operators spend most of their time passively watching successful runs.",
+    "zh": "Finn指出，随着机器人策略变得更可靠，DAgger式的人机协同数据收集方式会变得低效，因为操作者大部分时间只是被动地看着机器人成功运行。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-05",
    "ts": null,
    "kind": "paper",
@@ -1792,25 +1811,6 @@
    "connector": null
   },
   {
-   "date": "2025-01-23",
-   "ts": "2025-01-23T17:07:37Z",
-   "kind": "x",
-   "title": {
-    "en": "Disappointed with your ICLR paper being rejected? Ten years ago today, Sergey and I finished training some of the first end-to-end neutral nets for robot contro",
-    "zh": "Disappointed with your ICLR paper being rejected? Ten years ago today, Sergey and I finished training some of the first end-to-end neutral nets for robot contro"
-   },
-   "source": "@chelseabfinn",
-   "url": "https://x.com/chelseabfinn/status/1882475284315971998",
-   "note": {
-    "en": "Finn recalls finishing training some of the first end-to-end neural networks for robot control ten years earlier with Sergey Levine, a formative moment for the field.",
-    "zh": "Finn 回顾了十年前与 Sergey Levine 一起完成早期端到端神经网络机器人控制训练的经历，这是该领域的一个奠基性时刻。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2023-03-22",
    "ts": null,
    "kind": "podcast",
@@ -1894,10 +1894,10 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 33.7,
+  "total": 33.9,
   "attention": 22,
   "centrality": 39,
-  "momentum": 47,
+  "momentum": 48,
   "stature": 39,
   "pageviews": 14192,
   "citations": 26696,

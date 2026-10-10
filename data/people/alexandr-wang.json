@@ -149,6 +149,25 @@
    }
   },
   {
+   "date": "2026-10-09",
+   "ts": "2026-10-09T07:15:38Z",
+   "kind": "x",
+   "title": {
+    "en": "we launched muse a month ago today for the past month, reality felt like a dream. we watched the world catch fire with muse. every day we read stories of people",
+    "zh": "we launched muse a month ago today for the past month, reality felt like a dream. we watched the world catch fire with muse. every day we read stories of people"
+   },
+   "source": "@alexandr_wang",
+   "url": "https://x.com/alexandr_wang/status/2108456337374065097",
+   "note": {
+    "en": "Wang marks one month since the launch of Muse, pointing to user reports of real time and money saved as a sign the product is landing.",
+    "zh": "王回顾Muse上线一个月以来的情况，列举用户反馈的省时省钱案例，说明产品已产生实际影响。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-07",
    "ts": "2026-10-07T15:34:21Z",
    "kind": "x",
@@ -1080,25 +1099,6 @@
    "connector": null
   },
   {
-   "date": "2026-09-18",
-   "ts": "2026-09-18T22:12:48Z",
-   "kind": "x",
-   "title": {
-    "en": "muse can book your flights!",
-    "zh": "muse can book your flights!"
-   },
-   "source": "@alexandr_wang",
-   "url": "https://x.com/alexandr_wang/status/2101071968699363455",
-   "note": {
-    "en": "Alexandr Wang revealed that Meta's Muse assistant can now book flights.",
-    "zh": "Alexandr Wang透露Meta的Muse助手现在可以帮用户预订机票。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2026-07-31",
    "ts": null,
    "kind": "podcast",
@@ -1871,10 +1871,10 @@
  },
  "cat": "lab",
  "score": {
-  "total": 78.1,
+  "total": 77.9,
   "attention": 86,
   "centrality": 76,
-  "momentum": 66,
+  "momentum": 65,
   "stature": null,
   "pageviews": 965908,
   "citations": 34,

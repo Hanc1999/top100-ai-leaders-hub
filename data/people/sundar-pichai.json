@@ -1,5 +1,5 @@
 {
- "rank": 6,
+ "rank": 7,
  "id": "sundar-pichai",
  "name": {
   "en": "Sundar Pichai",
@@ -161,6 +161,25 @@
    "note": {
     "en": "Sundar Pichai announced a new universal Gemini agent for enterprise work at a Google Cloud event with 700+ customers at NASA's Hangar One.",
     "zh": "桑达尔·皮查伊在NASA一号机库举行的Google Cloud活动上，向700多家企业客户宣布推出面向办公场景的全新通用Gemini智能体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-08",
+   "ts": "2026-10-08T22:50:26Z",
+   "kind": "x",
+   "title": {
+    "en": "Today @TheLancet published our AMIE study with @BIDMC_Medicine, the first prospective study of patient-facing conversational diagnostics in a real clinic. AMIE",
+    "zh": "Today @TheLancet published our AMIE study with @BIDMC_Medicine, the first prospective study of patient-facing conversational diagnostics in a real clinic. AMIE"
+   },
+   "source": "@sundarpichai",
+   "url": "https://x.com/sundarpichai/status/2108329198955958339",
+   "note": {
+    "en": "Pichai announced The Lancet published Google's AMIE study, the first prospective trial of patient-facing conversational AI diagnostics in a real clinic.",
+    "zh": "皮查伊宣布《柳叶刀》发表了谷歌AMIE研究，这是首个在真实诊所中进行的患者对话式AI诊断前瞻性研究。"
    },
    "auto": true,
    "judged": true,
@@ -1206,25 +1225,6 @@
    "note": {
     "en": "Pichai recapped Google I/O announcements including a reimagined Search, Agent Mode, and Veo 3.",
     "zh": "皮查伊总结了Google I/O大会的发布内容,包括重塑后的搜索、Agent模式和Veo 3。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
-   "date": "2025-02-11",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Delighted to meet with PM @narendramodi today while in Paris for the AI Action Summit. We discussed the incredible opportunities AI will bring to India and ways",
-    "zh": "Delighted to meet with PM @narendramodi today while in Paris for the AI Action Summit. We discussed the incredible opportunities AI will bring to India and ways"
-   },
-   "source": "@sundarpichai",
-   "url": "https://x.com/sundarpichai/status/1889391509755048372",
-   "note": {
-    "en": "Pichai met India's PM Modi at the Paris AI Action Summit to discuss AI opportunities and cooperation with India.",
-    "zh": "皮查伊在巴黎人工智能行动峰会上会见印度总理莫迪,讨论了AI机遇及与印度的合作。"
    },
    "auto": true,
    "judged": true,

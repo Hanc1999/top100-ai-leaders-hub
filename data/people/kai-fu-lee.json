@@ -169,6 +169,25 @@
    }
   },
   {
+   "date": "2026-10-09",
+   "ts": "2026-10-09T13:30:00Z",
+   "kind": "x",
+   "title": {
+    "en": "Three years ago, when I spoke with CEOs about AI, most of the questions were technical. This year, the conversation has shifted. CEOs are asking organizational",
+    "zh": "Three years ago, when I spoke with CEOs about AI, most of the questions were technical. This year, the conversation has shifted. CEOs are asking organizational"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2108550549578850522",
+   "note": {
+    "en": "Lee observed that CEO conversations about AI have shifted from technical questions to organizational ones about how AI will reshape the economy.",
+    "zh": "李开复指出，CEO们关于AI的讨论已从技术问题转向组织层面——AI将如何重塑经济。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-07",
    "ts": null,
    "kind": "podcast",
@@ -2252,6 +2271,23 @@
    "judged": true
   },
   {
+   "date": "2026-08-27",
+   "ts": "2026-08-27T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李开复：AI时代不仅有“独角兽”，更有闭环周期短、易启动、生命力强的“骆驼”",
+    "zh": "李开复：AI时代不仅有“独角兽”，更有闭环周期短、易启动、生命力强的“骆驼”"
+   },
+   "body": {
+    "en": "Kai-Fu Lee argued the AI era rewards not just fast-moving 'unicorns' but resilient, quick-cash-cycle 'camels'.",
+    "zh": "李开复提出，AI时代不仅需要快速奔跑的“独角兽”，更需要闭环周期短、生命力强的“骆驼”企业。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mU29CbTRfblRMZ0ZVR1ZDbTVXZG9XcVhTSUQ5ZWxqRnl0TjhBUTJJQzhPbFZiaThNRm1Hd0wtVUxyVnVibFdFQXVIYUh0cFhreks5OEhmUEw2QTBVbWJfLUw3M293cC1hZHdXQ1BDaVJkUmZGQUhRN3E5NHk5cTQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-08-14",
    "ts": "2026-08-14T07:00:00Z",
    "level": "notable",
@@ -2656,6 +2692,23 @@
    },
    "source": "TradingView",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FREt1dmVFb2UtcFcxa1VLX2dNcmJBVnFEcnNySDAxVjdMLXlxcXNqTmFoUm4wV1NoclpBWlpkNkFDSzdhUUFTcWRfNEFWRjNicjZDVXdPOHVmeXIzZVBOTnBwblo1Z3pieWtseDBrV0V6WGFKQldB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-19",
+   "ts": "2026-07-19T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "AI pioneer Kai-Fu Lee's startup targets Hong Kong IPO next year",
+    "zh": "AI pioneer Kai-Fu Lee's startup targets Hong Kong IPO next year"
+   },
+   "body": {
+    "en": "Kai-Fu Lee's startup is targeting a Hong Kong IPO next year, a major step toward 01.AI/Sinovation going public.",
+    "zh": "李开复旗下公司计划明年在香港上市，这是零一万物/创新工场迈向公开上市的重要一步。"
+   },
+   "source": "Yahoo Finance Singapore",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lc0c5N3hncUgyNV8wWlg1SjdsOF9OUHMweUFtbUpwYXlnRm5La3BTemlqdEVtTGcta1d4Yl9ZUHRabHlmMzhzeF96Q3V3ZHI0ZTFCdEhnUm1iQlBRQ3hMRFRmQkNMN1Y5YUo4aWZxTkZGeUtOakpfZmlWdw?oc=5",
    "auto": true,
    "judged": true
   },
@@ -3109,16 +3162,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 49.8,
+  "total": 50.0,
   "attention": 46,
   "centrality": 30,
-  "momentum": 80,
+  "momentum": 81,
   "stature": null,
   "pageviews": 77041,
   "citations": 2181,
   "hIndex": 20,
-  "events": 80,
-  "posts": 84,
+  "events": 82,
+  "posts": 85,
   "wikiEn": "Kai-Fu Lee",
   "wikiZh": "李开复"
  },

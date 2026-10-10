@@ -211,6 +211,25 @@
    }
   },
   {
+   "date": "2026-10-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "ReSI: Recursive Safety Improvement toward Resistant and Resilient AI",
+    "zh": "ReSI: Recursive Safety Improvement toward Resistant and Resilient AI"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.12233v1",
+   "note": {
+    "en": "Paper proposing Recursive Safety Improvement (ReSI), a framework for keeping AI systems resistant and resilient as they help improve their own capabilities — co-authored with fellow Shanghai AI Lab safety researcher Chaochao Lu, matching Zhou's AI-safety-governance focus.",
+    "zh": "论文提出\"递归式安全改进\"（ReSI）框架，旨在AI系统参与自身能力提升的过程中保持抗性与韧性，与上海人工智能实验室安全研究员陆超超合作完成，契合周伯文在AI安全治理方面的研究方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-28",
    "ts": null,
    "kind": "paper",
@@ -1299,7 +1318,7 @@
   "citations": 16676,
   "hIndex": 51,
   "events": 24,
-  "posts": 36,
+  "posts": 37,
   "wikiEn": "Bowen Zhou",
   "wikiZh": null
  },

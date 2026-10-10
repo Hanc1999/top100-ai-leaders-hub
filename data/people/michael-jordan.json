@@ -664,6 +664,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2026-02-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "V-ECE: Estimating General Expected Calibration Errors",
+    "zh": "V-ECE: Estimating General Expected Calibration Errors"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2602.24230v2",
+   "note": {
+    "en": "Jordan co-authors V-ECE, a new method for estimating general expected calibration error in probabilistic classifiers.",
+    "zh": "Jordan合著了V-ECE，一种用于估计概率分类器一般期望校准误差的新方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-02-19",
    "ts": null,
    "kind": "paper",
@@ -891,16 +910,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 27.2,
+  "total": 27.4,
   "attention": 31,
   "centrality": 0,
-  "momentum": 26,
+  "momentum": 27,
   "stature": 86,
   "pageviews": 40320,
   "citations": 181936,
   "hIndex": 163,
   "events": 2,
-  "posts": 37,
+  "posts": 38,
   "wikiEn": "Michael I. Jordan",
   "wikiZh": "迈克尔·乔丹 (学者)"
  },

@@ -238,6 +238,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2026-10-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Cross-Embodiment Robot Foundation World Models with Latent Actions",
+    "zh": "Cross-Embodiment Robot Foundation World Models with Latent Actions"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.10846v1",
+   "note": {
+    "en": "Paper introducing a latent-action-conditioned robot world model that generalizes across different robot embodiments, co-authored with longtime Stanford collaborator Jiajun Wu.",
+    "zh": "论文提出一种基于潜在动作条件的机器人世界模型，可在不同机器人形态间泛化，由李飞飞与斯坦福长期合作者吴佳俊等共同完成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-06",
    "ts": null,
    "kind": "paper",
@@ -2358,6 +2377,23 @@
    "url": "https://www.techtimes.com/articles/317927/20260606/feifei-lis-world-labs-splits-world-model-three-types-marble-targets-simulation-linchpin.htm"
   },
   {
+   "date": "2026-10-09",
+   "ts": "2026-10-09T12:30:00Z",
+   "level": "major",
+   "title": {
+    "en": "分析丨AMD82亿美元买下World Labs，苏姿丰和李飞飞要的究竟是什么？",
+    "zh": "分析丨AMD82亿美元买下World Labs，苏姿丰和李飞飞要的究竟是什么？"
+   },
+   "body": {
+    "en": "Chinese tech press analyzed AMD's $8.2B acquisition of Fei-Fei Li's World Labs, examining what Lisa Su and Li each gain from a deal that makes Li an AMD chief scientist.",
+    "zh": "中国科技媒体分析了AMD以82亿美元收购李飞飞旗下World Labs的交易，探讨苏姿丰和李飞飞各自从中获得了什么——李飞飞将出任AMD首席科学家。"
+   },
+   "source": "电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zM09JaUFjcHVDeDhkN3ZmS1BqQ0pwWWZTYzNVZnhLS2VsTGFKMFFseGZhMTFoMU1WRUhkdzNQZEhteUdybW9STzBTQXdYdzNSTWhV?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-08",
    "ts": "2026-10-08T03:50:00Z",
    "level": "major",
@@ -2405,6 +2441,40 @@
    },
    "source": "新浪财经",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82YlZMdHVhOWQ5a2UwT2tHN3U5a29hV0wwekVyQ3NFU1NzdnZCWU9WRVMwNVpSTE9rQXZWUWdyUUVDNW1ZTEZZczZnb1hodDByc0t3YzhrdWhYSVZoZDJGRWVrM1BHM3IxODdvZEd2NDhWUTVXSFA4TA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-08",
+   "ts": "2026-10-08T08:21:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李飞飞团队研发世界动作模型 更换底座后机器人任务成功率大幅飙升",
+    "zh": "李飞飞团队研发世界动作模型 更换底座后机器人任务成功率大幅飙升"
+   },
+   "body": {
+    "en": "Fei-Fei Li's Stanford team released a world-action model framework for robotics; swapping in the new base model sharply raised task success rates.",
+    "zh": "李飞飞的斯坦福团队发布了面向机器人的世界动作模型框架，更换新底座后任务成功率大幅提升。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MemVsTG5hWmtRYWFDZ3dvZnhtc1RYbHIyMU9NdWpoZG5IUHVGV0k0LWc0cGt2dFdFRW9Nc0V1N2pTZ24xVzZzRmhmUzg1VTRBNTI4?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-08",
+   "ts": "2026-10-08T23:53:05Z",
+   "level": "notable",
+   "title": {
+    "en": "Li Fei-Fei Team Develops World Action Model: New Base Switching Technology Skyrockets Robot Success Rate",
+    "zh": "Li Fei-Fei Team Develops World Action Model: New Base Switching Technology Skyrockets Robot Success Rate"
+   },
+   "body": {
+    "en": "Fei-Fei Li's team at World Labs unveiled a 'world action model' using a new base-switching technique that sharply improves robot task success rates.",
+    "zh": "李飞飞在World Labs的团队发布了一种“世界行动模型”，采用新的基座切换技术大幅提升机器人任务成功率。"
+   },
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42dWVuczhLU2xxZEdYZjkyMTBXWXJ2aDR0MlByR1ZnZWdDaHhfUFRsbkR2TERJcWxuQnZ2LVVYbXFGRWlrNnZqRERhWWpUVjN5T3Rj?oc=5",
    "auto": true,
    "judged": true
   },
@@ -4615,6 +4685,91 @@
    },
    "source": "36Kr",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15enFsX3hNNGVtQ1NQVXZEWlJqeWROYy1rc0ozdVc2ZkpWS3U4bXhQbm5vN0lOUWpDWlN1aVVxM3lORm91X1R2aDc5Mkk2QQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T08:27:11Z",
+   "level": "major",
+   "title": {
+    "en": "82亿美元买下李飞飞，AMD在抢什么？_国内经济",
+    "zh": "82亿美元买下李飞飞，AMD在抢什么？_国内经济"
+   },
+   "body": {
+    "en": "Chinese coverage of AMD's $8.2B acquisition of Fei-Fei Li's World Labs, with Li joining AMD as chief scientist.",
+    "zh": "报道AMD以82亿美元收购李飞飞的World Labs，李飞飞将加入AMD担任首席科学家。"
+   },
+   "source": "证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWRzY5Tl8zOVBiMDY3Xy10Q3FLRVdFYnEzN2VJNk9fRGZuUEZZM0t1Y0Z1a2M4RlhnUWhISEVvUjhQOVZ3dWxkVVQ1YkpteFZySy1SVDJyYzliUUNtNVlYUW5saW8?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T02:02:00Z",
+   "level": "major",
+   "title": {
+    "en": "李飞飞卖掉 World Labs，550亿",
+    "zh": "李飞飞卖掉 World Labs，550亿"
+   },
+   "body": {
+    "en": "Fei-Fei Li sold World Labs in a deal reported at roughly ¥55 billion (~$8.2B), as the spatial-intelligence startup moves to new ownership.",
+    "zh": "李飞飞以约550亿元人民币（约82亿美元）的价格出售了World Labs，这家空间智能创业公司迎来新归属。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qQzNYeWNsZlVtZ29Dd0RSVm5LN3NBS3FIanU0emdIQXdZeGE0SEl5dGx1WDRpMGoybmdsNWdZV01zQ2doMjlwOEMtTmlDM3BYZnp2VXpB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T08:32:36Z",
+   "level": "major",
+   "title": {
+    "en": "82亿美元买下李飞飞，AMD在抢什么？",
+    "zh": "82亿美元买下李飞飞，AMD在抢什么？"
+   },
+   "body": {
+    "en": "AMD is acquiring Fei-Fei Li's World Labs for $8.2 billion, with Li joining AMD as EVP and chief scientist under CEO Lisa Su.",
+    "zh": "AMD以82亿美元收购李飞飞的World Labs，李飞飞将加入AMD，在CEO苏姿丰领导下担任执行副总裁兼首席科学家。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4weklLaExZdDM3OFZ1UlBnS0ZHVENpSzlNWWdVSTV4bGtJME5aTzVYYlZYOXRHSkVoNXBCb1M2SVB4ZmhoZEpnTk9fM0oyNmFVMXRtcE5qVzBjNlBnQkE2ZUZIM2U1RWs?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T02:10:00Z",
+   "level": "major",
+   "title": {
+    "en": "AMD 82亿美元收购World Labs，李飞飞出任执行副总裁兼首席科学家",
+    "zh": "AMD 82亿美元收购World Labs，李飞飞出任执行副总裁兼首席科学家"
+   },
+   "body": {
+    "en": "AMD agreed to acquire Fei-Fei Li's World Labs for $8.2 billion; she becomes AMD's Executive Vice President and Chief Scientist.",
+    "zh": "AMD宣布以82亿美元收购李飞飞创立的World Labs，她将出任AMD执行副总裁兼首席科学家。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FM19jYmczaGZWdjd6Wm04TV9LVlg1N2Rpb0pmNFhlTl9qUHFuekxkS0tzaFJfY285M3JKSmxYU09QakpZLWxZTEZMbF9vS1JyWEVkNHNR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "“连人带模型一起买”，美国巨头豪掷82亿美元买下“AI教母”李飞飞创立公司！李飞飞跻身核心管理层，未来有望接班？",
+    "zh": "“连人带模型一起买”，美国巨头豪掷82亿美元买下“AI教母”李飞飞创立公司！李飞飞跻身核心管理层，未来有望接班？"
+   },
+   "body": {
+    "en": "AMD acquires Fei-Fei Li's World Labs for $8.2B; she joins AMD's core leadership team, with speculation she could eventually succeed Lisa Su.",
+    "zh": "AMD以82亿美元收购李飞飞创立的World Labs，她也进入AMD核心管理层，外界猜测她未来或有望接班苏姿丰。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR05BTmd6VnNvRDJJLThwVnVaQmxpUWJ1SWQ0Zm5sZEhvQkU5WURXdzhoMnp2QWw0bDI4d1NESHYzSFJDMEx0U29SZFpRajAwTl9TdmtDSTdUUVM5NVhXY1ZMRTl1M2x6LXc3MGhGdGd6bm9tU0c3UTYwTXRkYm9EZ3VIOXNCdw?oc=5",
    "auto": true,
    "judged": true
   },
@@ -6878,8 +7033,8 @@
   "pageviews": 423813,
   "citations": 222997,
   "hIndex": 137,
-  "events": 267,
-  "posts": 113,
+  "events": 275,
+  "posts": 114,
   "wikiEn": "Fei-Fei Li",
   "wikiZh": "李飛飛"
  },

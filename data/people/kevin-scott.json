@@ -316,6 +316,25 @@
    "connector": "backfill"
   },
   {
+   "date": "2024-07-09",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Sal Khan, Founder and CEO of Khan Academy",
+    "zh": "Sal Khan, Founder and CEO of Khan Academy"
+   },
+   "source": "Behind The Tech with Kevin Scott",
+   "url": "https://podcasts.apple.com/us/podcast/sal-khan-founder-and-ceo-of-khan-academy/id1381008946?i=1000661662128&uo=4",
+   "note": {
+    "en": "Kevin Scott hosts Khan Academy founder Sal Khan on his own show, Behind the Tech, discussing Khan's path from curious kid to global education-tech leader.",
+    "zh": "Kevin Scott在他主持的播客《Behind the Tech》中访谈可汗学院创始人萨尔·可汗，探讨其从好奇的孩子成长为全球教育科技领袖的历程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2024-06-11",
    "ts": null,
    "kind": "x",
@@ -1203,7 +1222,7 @@
   "citations": 38763,
   "hIndex": 96,
   "events": 1,
-  "posts": 56,
+  "posts": 57,
   "wikiEn": "Kevin Scott (businessman)",
   "wikiZh": null
  },

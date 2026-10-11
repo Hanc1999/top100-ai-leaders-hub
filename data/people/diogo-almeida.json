@@ -1,5 +1,5 @@
 {
- "rank": 87,
+ "rank": 86,
  "id": "diogo-almeida",
  "name": {
   "en": "Diogo Almeida",
@@ -571,6 +571,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-19",
+   "ts": "2026-09-19T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Diogo Almeida (ex-OpenAI) reveals JEV: 200x faster, 400x cheaper, zero hallucinations.",
+    "zh": "Diogo Almeida (ex-OpenAI) reveals JEV: 200x faster, 400x cheaper, zero hallucinations."
+   },
+   "body": {
+    "en": "Almeida's TypeSafe AI launched its first model, Jev, a decision-only model that returns typed, probability-scored outputs instead of generated text and is pitched as unable to hallucinate.",
+    "zh": "Diogo Almeida的TypeSafe AI发布了首款模型Jev，这是一款只做决策、返回带概率评分的类型化输出而非生成文本的模型，号称不会产生幻觉。"
+   },
+   "source": "YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rZUpxWTJNbGdQdTkwV0t0YTdWbWprMzV0UWtSUzJ1YXpLcy1PeEt2UmZOV1p4V0ozdjdxbkR2aGRjSkM2a2pkTU9BdW5tS2pOWk82TjFKeEM1cm1l?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-18",
    "ts": "2026-09-18T20:19:07Z",
    "level": "major",
@@ -612,15 +629,15 @@
  },
  "cat": "product",
  "score": {
-  "total": 25.5,
+  "total": 26.4,
   "attention": null,
   "centrality": 14,
-  "momentum": 39,
+  "momentum": 41,
   "stature": null,
   "pageviews": 0,
   "citations": 0,
   "hIndex": 0,
-  "events": 9,
+  "events": 10,
   "posts": 17,
   "wikiEn": null,
   "wikiZh": null

@@ -263,6 +263,25 @@
    "connector": "weibo"
   },
   {
+   "date": "2026-01-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "印奇阶跃星辰——从AI1.0到2.0",
+    "zh": "印奇阶跃星辰——从AI1.0到2.0"
+   },
+   "source": "蛋播",
+   "url": "https://podcasts.apple.com/us/podcast/%E5%8D%B0%E5%A5%87%E9%98%B6%E8%B7%83%E6%98%9F%E8%BE%B0-%E4%BB%8Eai1-0%E5%88%B02-0/id6794360519?i=1000778326445&uo=4",
+   "note": {
+    "en": "Yin Qi discussed StepFun's shift from AI 1.0 to AI 2.0 on the 蛋播 podcast, framing breakthroughs as step-function emergence and naming Nvidia as a beneficiary of the compute step-change.",
+    "zh": "印奇在\"蛋播\"播客中探讨阶跃星辰从AI1.0到AI2.0的转变，将技术突破类比为\"阶跃函数\"式涌现，并指出英伟达是算力需求突变的受益者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
    "date": "2025-09-28",
    "ts": null,
    "kind": "blog",
@@ -1329,7 +1348,7 @@
   "citations": 1762,
   "hIndex": 22,
   "events": 54,
-  "posts": 12,
+  "posts": 13,
   "wikiEn": "Yin Qi",
   "wikiZh": "印奇"
  },

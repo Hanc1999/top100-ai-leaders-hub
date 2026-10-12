@@ -737,6 +737,23 @@
    "url": "https://www.eecs.mit.edu/people/kaiming-he/"
   },
   {
+   "date": "2026-10-11",
+   "ts": "2026-10-11T08:59:06Z",
+   "level": "notable",
+   "title": {
+    "en": "何恺明团队发布多模态Harness框架",
+    "zh": "何恺明团队发布多模态Harness框架"
+   },
+   "body": {
+    "en": "Kaiming He's team released a new multimodal \"Harness\" framework, extending his lab's work on perception and multimodal learning.",
+    "zh": "何恺明团队发布了一套新的多模态Harness框架，延续了其实验室在感知与多模态学习方向的研究。"
+   },
+   "source": "量子位",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85TVBHVm9XckpiNjdQYUFic1VqazFfUXZSeVFXU2hjWF9icmJfX3hYWmttc1BuTkhReXdnTDlRN2pKMUNuX3dPdmdfcFcwY0NheHVCSw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-09",
    "ts": "2026-10-09T02:41:11Z",
    "level": "notable",
@@ -1594,15 +1611,15 @@
  },
  "cat": "research",
  "score": {
-  "total": 39.9,
+  "total": 39.7,
   "attention": 33,
   "centrality": 2,
-  "momentum": 70,
+  "momentum": 69,
   "stature": 100,
   "pageviews": 46828,
   "citations": 555963,
   "hIndex": 83,
-  "events": 51,
+  "events": 52,
   "posts": 29,
   "wikiEn": "Kaiming He",
   "wikiZh": "何恺明"

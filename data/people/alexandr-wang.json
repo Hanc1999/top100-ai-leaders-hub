@@ -149,6 +149,44 @@
    }
   },
   {
+   "date": "2026-10-11",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Creating Muse: The Fastest-Growing AI Product Since ChatGPT | Alexandr Wang, Meta",
+    "zh": "Creating Muse: The Fastest-Growing AI Product Since ChatGPT | Alexandr Wang, Meta"
+   },
+   "source": "David Senra",
+   "url": "https://podcasts.apple.com/us/podcast/creating-muse-the-fastest-growing-ai-product-since/id1836497887?i=1000795226761&uo=4",
+   "note": {
+    "en": "Alexandr Wang is interviewed by David Senra about building Meta's Muse AI product, why Meta prioritized personal agents over coding, and working with Mark Zuckerberg.",
+    "zh": "Alexandr Wang接受David Senra采访，谈及打造Meta的Muse AI产品的过程、Meta为何优先发展个人智能助手而非编程工具，以及与马克·扎克伯格的合作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-10-11",
+   "ts": "2026-10-11T21:47:04Z",
+   "kind": "x",
+   "title": {
+    "en": "fun interview. we cover: - story of muse - why my 19th bday attendees are now all billionaires - diamond mining vs building skyscrapers - my 200+ direct reports",
+    "zh": "fun interview. we cover: - story of muse - why my 19th bday attendees are now all billionaires - diamond mining vs building skyscrapers - my 200+ direct reports"
+   },
+   "source": "@alexandr_wang",
+   "url": "https://x.com/alexandr_wang/status/2109400417218248748",
+   "note": {
+    "en": "Wang previewed a wide-ranging interview covering the origin story behind \"Muse,\" the billionaire friends from his 19th-birthday circle, a diamond-mining-vs-skyscraper-building metaphor, and managing 200+ direct reports in his current role.",
+    "zh": "王把一场访谈预告发了出来，内容涉及\"Muse\"的起源故事、他19岁生日派对上后来成为亿万富翁的朋友圈、\"钻石开采与建造摩天大楼\"的比喻，以及他目前管理200多名直接下属的经历。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-09",
    "ts": "2026-10-09T07:15:38Z",
    "kind": "x",
@@ -1080,25 +1118,6 @@
    "connector": null
   },
   {
-   "date": "2026-09-18",
-   "ts": "2026-09-18T20:56:13Z",
-   "kind": "x",
-   "title": {
-    "en": "muse could accelerate the pace of human innovation 10x+",
-    "zh": "muse could accelerate the pace of human innovation 10x+"
-   },
-   "source": "@alexandr_wang",
-   "url": "https://x.com/alexandr_wang/status/2101052699269886249",
-   "note": {
-    "en": "Alexandr Wang says Muse, a Meta AI product, could accelerate the pace of human innovation by more than 10x.",
-    "zh": "Alexandr Wang表示Meta的AI产品Muse有望将人类创新的速度提升10倍以上。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2026-07-31",
    "ts": null,
    "kind": "podcast",
@@ -1287,6 +1306,25 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2024-12-13",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Alexandr Wang, Scale AI, & the Startup Hunger Games",
+    "zh": "Alexandr Wang, Scale AI, & the Startup Hunger Games"
+   },
+   "source": "Minus One",
+   "url": "https://podcasts.apple.com/us/podcast/alexandr-wang-scale-ai-the-startup-hunger-games/id1759014294?i=1000680305427&uo=4",
+   "note": {
+    "en": "As founder and CEO of Scale AI, Alexandr Wang talks about navigating early startup pressure and the brewing US-China AI competition.",
+    "zh": "作为Scale AI创始人兼CEO，Alexandr Wang在访谈中讲述了创业初期如何应对压力，以及正在升温的中美AI竞争。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   },
   {
    "date": "2024-10-04",
@@ -1880,7 +1918,7 @@
   "citations": 34,
   "hIndex": 3,
   "events": 24,
-  "posts": 72,
+  "posts": 74,
   "wikiEn": "Alexandr Wang",
   "wikiZh": "汪滔 (程式設計師)"
  },

@@ -1306,6 +1306,25 @@
    "connector": "backfill"
   },
   {
+   "date": "2023-01-19",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Geoffrey Hinton: Unpacking The Forward-Forward Algorithm",
+    "zh": "Geoffrey Hinton: Unpacking The Forward-Forward Algorithm"
+   },
+   "source": "Eye On A.I.",
+   "url": "https://podcasts.apple.com/us/podcast/geoffrey-hinton-unpacking-the-forward-forward-algorithm/id1438378439?i=1000595387738&uo=4",
+   "note": {
+    "en": "Hinton explains his Forward-Forward learning algorithm, an alternative to backpropagation, in a long-form interview.",
+    "zh": "欣顿在一次长篇访谈中讲解了他提出的前向-前向（Forward-Forward）学习算法，这是反向传播的一种替代方案。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2022-12-27",
    "ts": null,
    "kind": "paper",
@@ -2755,7 +2774,7 @@
   "citations": 452436,
   "hIndex": 137,
   "events": 62,
-  "posts": 82,
+  "posts": 83,
   "wikiEn": "Geoffrey Hinton",
   "wikiZh": "杰弗里·辛顿"
  },

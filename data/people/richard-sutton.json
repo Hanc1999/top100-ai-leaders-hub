@@ -1700,6 +1700,23 @@
    "url": "https://www.amii.ca/people/richard-s-sutton"
   },
   {
+   "date": "2026-08-19",
+   "ts": "2026-08-19T07:00:00Z",
+   "level": "minor",
+   "title": {
+    "en": "Richard Sutton Advocates for AI Learning on Real-World Data",
+    "zh": "Richard Sutton Advocates for AI Learning on Real-World Data"
+   },
+   "body": {
+    "en": "Sutton restated his position that AI should learn from real-world experience rather than curated datasets.",
+    "zh": "萨顿重申其立场：AI应从真实世界经验中学习，而非依赖人工整理的数据集。"
+   },
+   "source": "Brief IA",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMnAxeFBFc0l0ekZpMnliR1ptRkZ0WnVwcEl4RGVwRjYtUG8tRlA4V0JwR1RpbGpRMWJWbGdJVUQzQ1RwRnVnb1ZNR2ctNzkxUW5xYTNTZzBmSklPVHI2M3ItVHpDeWVsOFZBUzJ5X1l1ZTEwMmRHTnpBckcwVzJoRkRLUVdMU0RzTXFVQXJ1RzlINHk2S3JrNzlxSURHbEhPUHY0Y1RR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-07-14",
    "ts": null,
    "level": "major",
@@ -1775,15 +1792,15 @@
  },
  "cat": "research",
  "score": {
-  "total": 38.7,
+  "total": 39.0,
   "attention": 58,
   "centrality": 4,
-  "momentum": 29,
+  "momentum": 30,
   "stature": 69,
   "pageviews": 148658,
   "citations": 68231,
   "hIndex": 67,
-  "events": 5,
+  "events": 6,
   "posts": 81,
   "wikiEn": "Richard S. Sutton",
   "wikiZh": "理查德·S·薩頓"

@@ -2451,6 +2451,23 @@
    "judged": true
   },
   {
+   "date": "2026-06-15",
+   "ts": "2026-06-15T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Anthropic长期警告AI风险换来出口管制AI科学家杨立昆：自食其果|Yann Lecun|美国|OpenAI|模型|谷歌",
+    "zh": "Anthropic长期警告AI风险换来出口管制AI科学家杨立昆：自食其果|Yann Lecun|美国|OpenAI|模型|谷歌"
+   },
+   "body": {
+    "en": "LeCun argued that Anthropic's AI-risk warnings backfired by prompting export controls that now constrain the US itself.",
+    "zh": "杨立昆认为，Anthropic对AI风险的警告适得其反，促成的出口管制反而制约了美国自身。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd0EyRDM4WU16eHh1NnVwdGhHVE5UQTFRSS13UFRxOHRUOWx6ZUp0UTdLWnkxQWxZSE85YzhFbzFTUTRjS3dPRlBKNlp3QXhlRnNBSUxIY2tBVHBhemFkVzlVUmtmOFYyWnlJVlJwTEdDXzVEdVBDaWxvRExXeHNFQVZIbmtCZ2s?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-06-07",
    "ts": "2026-06-07T07:00:00Z",
    "level": "major",
@@ -2791,6 +2808,23 @@
    "judged": true
   },
   {
+   "date": "2026-03-10",
+   "ts": "2026-03-10T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "AI ‘Godfather’Yann LeCun raises nearly $1 billion for his startup",
+    "zh": "AI ‘Godfather’Yann LeCun raises nearly $1 billion for his startup"
+   },
+   "body": {
+    "en": "LeCun raised nearly $1 billion in funding for his new startup, Advanced Machine Intelligence Labs, to pursue his alternative to autoregressive LLMs.",
+    "zh": "杨立昆为其新创立的Advanced Machine Intelligence实验室筹集了近10亿美元资金，以推进他替代自回归大语言模型的研究路线。"
+   },
+   "source": "Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ3MwYnc0WThOXzRsYzE0bkZWUmV6Q09hVDdEeWV2cEdZeTNHdGtqZXpYWUlwcFhZZk1BVWRqTm9KX3FzNzlZWVBRZ2VobFBiTWIwTGVmdzdMbTMyNDZkNXZqdEZ5UnRiTXlnczZlVVY2UFhESmswRlBrWFJ5NnU4bHJQMW5xaUhEY0Q1eHZ5MmJoVnB1QlowNXdxTGZnV3NWZWVTdTQzd19VTnE3cFVxZ09lZmlmTURRNWk5Rw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-03-07",
    "ts": null,
    "level": "major",
@@ -2838,6 +2872,23 @@
    },
    "source": "finance.sina.cn",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YVHRsQnp5TzVXUmY3LU1MQkNnYURkT2dDUi1GdXJ2UHpaREFIVm16UldYdldDUFZSV19aSlZsV3NxNFdzXzhhZmh6cW9wUVFqUTB0WUI0eENJSmNncm9zMnN5c0NiUUE0bmZPOGE3VkJrcHJBSi1yOERTbGJuYlk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-01-29",
+   "ts": "2026-01-29T08:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "别再迷信大语言模型！图灵奖得主杨立昆：真正的AI革命才刚刚开始院士智慧阁2026-01-29AI导读\"大语言模型...",
+    "zh": "别再迷信大语言模型！图灵奖得主杨立昆：真正的AI革命才刚刚开始院士智慧阁2026-01-29AI导读\"大语言模型..."
+   },
+   "body": {
+    "en": "LeCun reiterated his view that large language models are overhyped and that the real AI revolution, moving beyond autoregressive LLMs, is only just beginning.",
+    "zh": "杨立昆重申其观点：大语言模型被过度炒作，真正的AI革命——超越自回归大语言模型——才刚刚开始。"
+   },
+   "source": "雪球",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOTnRwcjRXUE1XdGQyeXNIcnFFc0lvMnF3UXltTjVocGpXeXA0ZmNyNGlNSEJOWE5SOEM1T2xQOGJSaFZ0dkZLeXN0bjJick1U?oc=5",
    "auto": true,
    "judged": true
   },
@@ -3019,15 +3070,15 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 80.7,
+  "total": 80.5,
   "attention": 78,
   "centrality": 72,
-  "momentum": 90,
+  "momentum": 89,
   "stature": 95,
   "pageviews": 531264,
   "citations": 253869,
   "hIndex": 120,
-  "events": 111,
+  "events": 114,
   "posts": 52,
   "wikiEn": "Yann LeCun",
   "wikiZh": "杨立昆"

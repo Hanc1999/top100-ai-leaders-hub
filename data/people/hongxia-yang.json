@@ -187,6 +187,25 @@
    }
   },
   {
+   "date": "2026-10-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Competence-Aware Orchestration for LLM-Based Multi-Agent Systems",
+    "zh": "Competence-Aware Orchestration for LLM-Based Multi-Agent Systems"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.13144v1",
+   "note": {
+    "en": "Proposes competence-aware orchestration to allocate roles and collaboration structure in LLM-based multi-agent systems based on each agent's assessed capability.",
+    "zh": "提出一种\"能力感知\"编排方法，根据各智能体的能力评估来分配角色和协作结构，用于基于大语言模型的多智能体系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-07",
    "ts": null,
    "kind": "paper",
@@ -1001,16 +1020,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 23.6,
+  "total": 23.2,
   "attention": null,
   "centrality": 7,
-  "momentum": 50,
+  "momentum": 49,
   "stature": 8,
   "pageviews": 0,
   "citations": 7252,
   "hIndex": 40,
   "events": 14,
-  "posts": 31,
+  "posts": 32,
   "wikiEn": null,
   "wikiZh": null
  },

@@ -1,5 +1,5 @@
 {
- "rank": 79,
+ "rank": 80,
  "id": "bowen-zhou",
  "name": {
   "en": "Bowen Zhou",
@@ -209,6 +209,25 @@
     "en": "The 'specializable generalist' thesis: a feasible path to AGI.",
     "zh": "「可专业化的通才」论点：一条通向 AGI 的可行路径。"
    }
+  },
+  {
+   "date": "2026-10-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "OWLET: On-Policy Weighted Learning via Evidence Transfer for Video Large Language Model Post-Training",
+    "zh": "OWLET: On-Policy Weighted Learning via Evidence Transfer for Video Large Language Model Post-Training"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.13272v1",
+   "note": {
+    "en": "Co-authored with Shanghai AI Lab/Tsinghua collaborators, OWLET proposes on-policy weighted learning via evidence transfer to improve reasoning post-training for video large language models.",
+    "zh": "周伯文与上海人工智能实验室/清华大学团队合作提出OWLET方法，通过证据迁移的同策略加权学习来提升视频大语言模型后训练阶段的推理能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-10-08",
@@ -1309,16 +1328,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 29.3,
+  "total": 29.1,
   "attention": 6,
   "centrality": 43,
-  "momentum": 61,
+  "momentum": 60,
   "stature": 24,
   "pageviews": 928,
   "citations": 16676,
   "hIndex": 51,
   "events": 24,
-  "posts": 37,
+  "posts": 38,
   "wikiEn": "Bowen Zhou",
   "wikiZh": null
  },

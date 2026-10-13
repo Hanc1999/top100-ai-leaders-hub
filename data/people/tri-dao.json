@@ -1,5 +1,5 @@
 {
- "rank": 80,
+ "rank": 78,
  "id": "tri-dao",
  "name": {
   "en": "Tri Dao",
@@ -161,6 +161,25 @@
     "en": "Designed with inference efficiency as the primary goal — a departure from Mamba-2's training-speed optimisation. Adds a more expressive recurrence formula, complex-valued state tracking, and a MIMO variant.",
     "zh": "以推理效率为首要目标设计，与 Mamba-2 优化训练速度的取向相反。引入更具表达力的递归公式、复数值状态追踪与 MIMO 变体。"
    }
+  },
+  {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T17:01:49Z",
+   "kind": "x",
+   "title": {
+    "en": "SSMs had the nice asymptotics but kept missing out on the inference goodies Transformers get for free like spec decode and quantization. Turns out we were just",
+    "zh": "SSMs had the nice asymptotics but kept missing out on the inference goodies Transformers get for free like spec decode and quantization. Turns out we were just"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/2109691017570201965",
+   "note": {
+    "en": "Dao argued that state-space models underperformed transformers mainly due to missing inference optimizations like speculative decoding and quantization, not architecture, pointing to IO-aware caching as the fix.",
+    "zh": "Tri Dao 指出，状态空间模型（SSM）此前表现不及Transformer的主要原因并非架构本身，而是缺少推测解码、量化等推理优化，关键在于采用IO感知的缓存方式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
   },
   {
    "date": "2026-09-22",
@@ -1573,16 +1592,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 29.3,
+  "total": 29.8,
   "attention": null,
   "centrality": 27,
-  "momentum": 32,
+  "momentum": 33,
   "stature": null,
   "pageviews": 0,
   "citations": 2310,
   "hIndex": 17,
   "events": 1,
-  "posts": 74,
+  "posts": 75,
   "wikiEn": null,
   "wikiZh": null
  },

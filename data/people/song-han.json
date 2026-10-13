@@ -228,6 +228,44 @@
    }
   },
   {
+   "date": "2026-10-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Humanize Olympiad Agents: A Multi-Session Workflow for Olympiad Problem Solving with Solve, Review, Wiki, Verify",
+    "zh": "Humanize Olympiad Agents: A Multi-Session Workflow for Olympiad Problem Solving with Solve, Review, Wiki, Verify"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.13632v1",
+   "note": {
+    "en": "Han's MIT lab, with longtime collaborators Ligeng Zhu and Sihao Liu, proposes a multi-session agent workflow — solve, review, wiki, verify — for olympiad-level problem solving.",
+    "zh": "韩松所在的MIT实验室联合长期合作者朱力耕、刘思浩，提出了一套面向奥林匹克级问题求解的多阶段智能体工作流：求解、复核、维基、验证。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-10-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Humanize MLE Agents: Multi-Agent Session Alternation Beyond Single-Agent Limits",
+    "zh": "Humanize MLE Agents: Multi-Agent Session Alternation Beyond Single-Agent Limits"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.13494v1",
+   "note": {
+    "en": "A companion paper from Han's group proposes alternating multi-agent sessions to push long-horizon machine-learning-engineering agents past single-agent limits.",
+    "zh": "韩松团队的另一篇论文提出通过多智能体轮替会话的方式，突破单智能体在长程机器学习工程任务上的局限。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-07",
    "ts": null,
    "kind": "paper",
@@ -1534,6 +1572,23 @@
    },
    "source": "MIT HAN Lab",
    "url": "https://hanlab.mit.edu/"
+  },
+  {
+   "date": "2026-10-09",
+   "ts": "2026-10-09T12:12:04Z",
+   "level": "notable",
+   "title": {
+    "en": "英伟达、韩松团队新作：机器人边干活边长记性，宇树G1叠杯成功率95%",
+    "zh": "英伟达、韩松团队新作：机器人边干活边长记性，宇树G1叠杯成功率95%"
+   },
+   "body": {
+    "en": "Song Han's team with NVIDIA published new work letting robots build memory while performing tasks, reporting a 95% success rate stacking cups with the Unitree G1 humanoid.",
+    "zh": "韩松团队与英伟达合作发表新成果，让机器人在执行任务的同时积累记忆，使用宇树G1人形机器人叠杯子的成功率达到95%。"
+   },
+   "source": "智东西",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CbHpOUnhuMmdmaDN2WjZNYnVwQTRQdzU1Zm9sbnRnSG1DS0FmZ2ZMU3ZQeWo2cDZDWmZMUkNDNFI0RGpPZl9yVw?oc=5",
+   "auto": true,
+   "judged": true
   }
  ],
  "changed": false,
@@ -1543,16 +1598,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 21.5,
+  "total": 22.4,
   "attention": 4,
   "centrality": 18,
-  "momentum": 47,
+  "momentum": 51,
   "stature": 46,
   "pageviews": 888,
   "citations": 32832,
   "hIndex": 58,
-  "events": 1,
-  "posts": 71,
+  "events": 2,
+  "posts": 73,
   "wikiEn": null,
   "wikiZh": "韩松"
  },

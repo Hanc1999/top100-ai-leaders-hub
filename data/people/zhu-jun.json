@@ -187,6 +187,25 @@
    }
   },
   {
+   "date": "2026-10-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Controlled-Minimax: Stabilizing Adversarial Optimization via Control Theory",
+    "zh": "Controlled-Minimax: Stabilizing Adversarial Optimization via Control Theory"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.12915v1",
+   "note": {
+    "en": "A new paper with longtime collaborator Jianfei Chen stabilizes adversarial minimax optimization using control theory, addressing limit cycles and divergence in GAN-style training.",
+    "zh": "朱军与长期合作者陈建飞的新论文借助控制理论稳定对抗式minimax优化，解决GAN类训练中的极限环与不收敛问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-02",
    "ts": null,
    "kind": "paper",
@@ -1077,7 +1096,7 @@
   "citations": 56229,
   "hIndex": 118,
   "events": 17,
-  "posts": 32,
+  "posts": 33,
   "wikiEn": "Zhu Jun",
   "wikiZh": "朱军"
  },

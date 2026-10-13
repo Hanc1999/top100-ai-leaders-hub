@@ -925,6 +925,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2023-09-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "S9E4: Guillermo Rauch, Co-Author of Next.js, is Revolutionizing Web Development with Vercel",
+    "zh": "S9E4: Guillermo Rauch, Co-Author of Next.js, is Revolutionizing Web Development with Vercel"
+   },
+   "source": "The Room Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/s9e4-guillermo-rauch-co-author-of-next-js-is/id1539670094?i=1000629260870&uo=4",
+   "note": {
+    "en": "Rauch appeared on The Room Podcast to discuss building Next.js and Vercel's role in modern web development.",
+    "zh": "Rauch在The Room Podcast节目中做客，谈论Next.js的开发以及Vercel在现代网页开发中的角色。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2023-08-31",
    "ts": null,
    "kind": "podcast",
@@ -1063,7 +1082,7 @@
   "citations": 9,
   "hIndex": 1,
   "events": 5,
-  "posts": 45,
+  "posts": 46,
   "wikiEn": null,
   "wikiZh": null
  },

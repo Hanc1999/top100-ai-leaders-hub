@@ -213,6 +213,25 @@
    }
   },
   {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T17:41:06Z",
+   "kind": "x",
+   "title": {
+    "en": "I am offering a new course on Principles of Deep Representation Learning at HKU based on our new open-sourced book: https://t.co/leZlkURb7j The first six lectur",
+    "zh": "I am offering a new course on Principles of Deep Representation Learning at HKU based on our new open-sourced book: https://t.co/leZlkURb7j The first six lectur"
+   },
+   "source": "@yimatweets",
+   "url": "https://x.com/YiMaTweets/status/2109700904073228675",
+   "note": {
+    "en": "Ma announced a new HKU course on Principles of Deep Representation Learning based on his team's newly open-sourced book, with the first six lectures already recorded.",
+    "zh": "马毅宣布在港大开设基于其团队新开源教材的《深度表征学习原理》课程，前六讲已录制完成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-09",
    "ts": "2026-10-09T02:53:53Z",
    "kind": "x",
@@ -1334,16 +1353,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 23.7,
+  "total": 23.5,
   "attention": 7,
   "centrality": 8,
-  "momentum": 59,
+  "momentum": 58,
   "stature": 58,
   "pageviews": 2604,
   "citations": 46806,
   "hIndex": 81,
   "events": 14,
-  "posts": 48,
+  "posts": 49,
   "wikiEn": "Yi Ma",
   "wikiZh": null
  },

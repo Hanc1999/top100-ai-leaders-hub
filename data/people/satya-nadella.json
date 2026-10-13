@@ -142,6 +142,25 @@
    }
   },
   {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T13:03:45Z",
+   "kind": "x",
+   "title": {
+    "en": "Today we are announcing our biggest bet yet on our own silicon. Starting next calendar year, we will scale our Maia family to multi-gigawatt deployments, making",
+    "zh": "Today we are announcing our biggest bet yet on our own silicon. Starting next calendar year, we will scale our Maia family to multi-gigawatt deployments, making"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2109631106404487523",
+   "note": {
+    "en": "Nadella announced Microsoft's largest-ever bet on its own silicon, scaling the Maia chip family to multi-gigawatt deployments as the primary inference system for its services.",
+    "zh": "纳德拉宣布微软史上最大规模的自研芯片投入，将把Maia芯片系列扩展到吉瓦级部署，作为其服务的主要推理系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-09",
    "ts": "2026-10-09T18:37:28Z",
    "kind": "x",
@@ -1149,25 +1168,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-04-26",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Really fun to try this app while in Sydney this week, which uses our tools to help fans deep dive into cricket matches, players, and history. https://t.co/D1wgp",
-    "zh": "Really fun to try this app while in Sydney this week, which uses our tools to help fans deep dive into cricket matches, players, and history. https://t.co/D1wgp"
-   },
-   "source": "@satyanadella",
-   "url": "https://x.com/satyanadella/status/2048194324391936364",
-   "note": {
-    "en": "Nadella tried an app using Microsoft's AI tools to help cricket fans explore match and player history during a trip to Sydney.",
-    "zh": "纳德拉在悉尼出差期间试用了一款利用微软AI工具帮助板球迷查阅赛事和球员历史的应用。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
    "date": "2026-01-21",
    "ts": null,
    "kind": "podcast",
@@ -1502,6 +1502,261 @@
    "url": "https://www.startuphub.ai/ai-news/ai-figures/2026/figure-satya-nadella-venture-portfolio-breakdown-2026-08-13"
   },
   {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T03:04:53Z",
+   "level": "major",
+   "title": {
+    "en": "Satya Nadella calls for ‘emergency brake’ on advanced AI, says companies cannot outsource responsibility",
+    "zh": "Satya Nadella calls for ‘emergency brake’ on advanced AI, says companies cannot outsource responsibility"
+   },
+   "body": {
+    "en": "Nadella called for an 'emergency brake' mechanism on powerful AI systems, saying companies cannot outsource responsibility for treating them as security threats.",
+    "zh": "Nadella呼吁为强大的AI系统设立'紧急制动'机制，并表示企业不能把对待AI系统为安全威胁的责任外包出去。"
+   },
+   "source": "CNBC TV18",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc2dyUFE0RF9hVW9CWnkwcWd4WERzckJBb3dUWncxOFlOR3FicWd1QXVPWTdmc0NISHpON1htSmd3QlZ2aWlTWHpsM1I3a2ItSWVMSnhJcHhDY1Vpa1lFTnNlNEptX0RUazRoS2twRHZmdTdhNGRvS280cjdMYV9kWms4RC16WlpFWDhTMWFWUG9UclNnSTVCbXpoU0NLMF9DRGZqOXJ4Y2F4bEROZEtYV0h2dUh6LXplTGVfUjBSMDNYSmp0SGR1VDdsLTF1eEpDTVN1Q1JMdWxKRnVUYUVIekV0bFDSAeoBQVVfeXFMTTF2dXhmYlBKcmhRVDN2NHR1YnJaQzVKVmZaVUJBeUhibVN4akFxd3F1MDBKQk9BdnRRalplQVB4NjJGVGxzeTBPSlBzTmNlWW1vcWo0SmJGc2praGRVcGs4Vm5IZGQ1YXllR1I3T3NMYng2VVNtcnp6RkNSbEx1el8yTE9STk8xMmk0NWZGcGZlbm1aLU1NZEVzanR0QUpBeHg3WVpvRk5TYnRoMDdPVUdKalZUZDFFWlJQaERUS1dIRktpX2lCS3gweERDVHJkblB5dks0aVhGM2c0cVpnRkVFR011SUFsUDVB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T05:18:03Z",
+   "level": "notable",
+   "title": {
+    "en": "Satya Nadella’s AI safety plan: Treat models as ‘compromised’ from the start",
+    "zh": "Satya Nadella’s AI safety plan: Treat models as ‘compromised’ from the start"
+   },
+   "body": {
+    "en": "Nadella outlined an AI safety approach that treats models as compromised by default rather than trustworthy.",
+    "zh": "纳德拉提出一种AI安全方针：默认将模型视为已被入侵，而非可信任。"
+   },
+   "source": "The Indian Express",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZVlHSDN5RXhPd21NMTN0UWNhSVk4SmllZTZidjVIZlNHY3V3QzFfYlc1RnBaUEJrYk5LNVBOOFNTem4zRjRGby1wa0ZWamR3NWE5LTA1WktsVTFlYVZTcFZ0YVllMUdsRXlid1lnU0hQSG90UV9kSmJMamZHajRxRDFrRzYyV1hqTUFVRENtcFVVbXFIU1dYdWRxMzZFazduWGliM1dndERUNzBPU0tVcVk3Ykw5ajJ1R21pdVBR0gHEAUFVX3lxTE0zdmtMYlZ4c0U0RDBXX1VOTlp6WDNTNE01YjBNbFRqWmRYeGYtczYxOHNFd1VSanMzR19IUWRadnBIcnNzZkpXV1NTSDdZNGRlTW9WOHR4aDFDbVlnUjNnWXJxbjJrWmtuZWR5akp4b2VmM0hTS0VadC1ZSzhPckMwNFpuUndqOVB2ZERJN0FVNGdWT3p0U0g1RDdDekdBLVhPVktyc29aVVpWS2F3VUVqVE5pejRTSVRCdTZtNW5qZVNNcGo?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T07:47:11Z",
+   "level": "notable",
+   "title": {
+    "en": "Unexpected call from Microsoft's CEO: Satya Nadella calls for the introduction of an “emergency brake” and independent controls for advanced artificial intelligence systems",
+    "zh": "Unexpected call from Microsoft's CEO: Satya Nadella calls for the introduction of an “emergency brake” and independent controls for advanced artificial intelligence systems"
+   },
+   "body": {
+    "en": "Satya Nadella called for an \"emergency brake\" and independent oversight mechanisms for advanced AI systems.",
+    "zh": "萨提亚·纳德拉呼吁为先进人工智能系统设立“紧急制动”机制和独立监管。"
+   },
+   "source": "Informat.ro",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONWxidUw2cDBRb0JwVGhzbUN4bTc2WTRkT1hNVXJSNk9JZDUtVVRER2VkVG9uX2F1RC1hZVRxZ1dfaFBKWk5JU2pTLUVqLTVfdkdNd3BKMFJraUJGdk42eDl5N1BwZWVBR1daRXh0TEJKSk9pamIwUXZiWWl0NGx2ZXBULXhXbXFRUWNodlAyeEVDcUhNQ1dqWm11RW9SZFVaY3FZ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T08:12:19Z",
+   "level": "notable",
+   "title": {
+    "en": "Satya Nadella Says All AI Models Should Be Treated as Compromised",
+    "zh": "Satya Nadella Says All AI Models Should Be Treated as Compromised"
+   },
+   "body": {
+    "en": "Nadella said all AI models should be treated as potentially compromised, urging a security-first posture when deploying them.",
+    "zh": "纳德拉表示，所有AI模型都应被视为可能已被攻陷，呼吁企业以安全优先的态度部署AI。"
+   },
+   "source": "The Mac Observer",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQTZERHRaeWV0aEFjYlRRY1piQjFFcS1DbGZSVkk0dXowOXFtTXVKb3B0b2V4WVk0eHgyNTQ4YllacmJtajUtVkpLVTNLNE9RVEE1ekd0YkctY2txYV9Oa0M5b0YycHZHSDNqa001TGFHcm1pZndSbktPZmhjbFVFWUZQYWJ3MnZBWlBjMEhKa1liMTNMV2VWWEtRSzc1MzJB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T09:57:56Z",
+   "level": "notable",
+   "title": {
+    "en": "Satya Nadella warns of AI insider risks, seeks stronger safety controls",
+    "zh": "Satya Nadella warns of AI insider risks, seeks stronger safety controls"
+   },
+   "body": {
+    "en": "Nadella warned about insider risks from AI systems and called for stronger safety controls.",
+    "zh": "纳德拉警告AI系统存在内部风险，并呼吁建立更强的安全管控机制。"
+   },
+   "source": "Business Standard",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTG40VXpuOUhWRVRkX0ZjTWNQRTdtRjNpTDNDZDNJRVdxTHdEc3hsSEkyc2hwY0ExN3FBbmlWR3pzR1hwT2owNGV2NXBTeWtKVk92S2t5SFdNY1RQZU05MjRGaUM5SmU1Ri1kYkp3YmVTTHJRRXdWR0lZOUZDaVNrSU5iZk0yYlVYd2lFUEZvV0FQX0RaZ2k1dVRkMGM1TExZQjI2ZldNTDY2aE1uZWVneHowNHl2RWE0SE1tLXRfUDRDSTdkb2hKM2tscE51TlpoVFQwYVF2ZHp2RVJGbEFFbzZVX3Jnd2FUeVdHdHd5Qk8?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T11:10:10Z",
+   "level": "major",
+   "title": {
+    "en": "Microsoft CEO Satya Nadella calls for new AI controls",
+    "zh": "Microsoft CEO Satya Nadella calls for new AI controls"
+   },
+   "body": {
+    "en": "Nadella called for advanced AI systems to ship with an 'emergency brake' — independent human controls that can pause or shut down a model mid-task — plus tamper-proof logs and outside audits.",
+    "zh": "纳德拉呼吁为先进AI系统配备可由人类掌控的\"紧急制动\"机制，能在模型执行任务中途将其暂停或关闭，并要求配套防篡改日志和第三方审计。"
+   },
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS1IyYUpSQzZLbmhwbVFWMlpvQXFwbU96TnAzX01KRnEtSFgyZGsxbVlWM2w0TnRvNXJCWU5HMml3aFJqc3VYX3M2VTBqRHc5c2FDbkdpU0ZZNjJMVnIwZ2ZEMVhOMkxKd3Z5TUl6allMRzhFbm1LQWNFUGdoRnBYVExDTmdNM0ZLV0xEMmJ0WEhwTEU4WHhQZ0xiQjA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T09:41:50Z",
+   "level": "notable",
+   "title": {
+    "en": "Microsoft CEO Satya Nadella Calls for an AI ‘Emergency Brake’",
+    "zh": "Microsoft CEO Satya Nadella Calls for an AI ‘Emergency Brake’"
+   },
+   "body": {
+    "en": "Nadella publicly called for an AI 'emergency brake' kept under human control, a notable public stance on AI safety from Microsoft's CEO.",
+    "zh": "纳德拉公开呼吁为AI设置由人类掌控的“紧急制动”机制，这是微软CEO在AI安全问题上的一次重要公开表态。"
+   },
+   "source": "PCMag",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb2pyN0JBZWEwUE5UcWRIczJoX2FDYV83UGZJNzl6RThzdTFJVE52bm9GTDRrbnlsdnJaMjIyMUVfeVpSUGdHS25ZQkJVV3RYUXJMRFQ4dEVTMk0zUDB1WkxubWM4OGFZbGJNLXl3WFBTellTUS1KVDdLSkxtMDl0YW5LN1doY3ZzV0YtR1Vkbw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T13:07:34Z",
+   "level": "notable",
+   "title": {
+    "en": "Microsoft Chief Satya Nadella Calls for Emergency Brake Controls on Advanced AI Systems",
+    "zh": "Microsoft Chief Satya Nadella Calls for Emergency Brake Controls on Advanced AI Systems"
+   },
+   "body": {
+    "en": "Nadella called for 'emergency brake' controls on advanced AI systems, a notable public stance on AI safety from one of the industry's most influential executives.",
+    "zh": "纳德拉呼吁为先进AI系统设置\"紧急制动\"式的控制机制，这是这位行业最具影响力高管之一在AI安全问题上值得关注的公开表态。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdzNmdVp6RjdMVGZqTVR3MHNZLVNlQ0k2OGhPTHZodkoxX2lxMEh3Mk9jMnRfdFJ2ZzFncThuSzg0c0pqMlVpSmtSZEQ0bHRJUHJhQVpQNFZ4Rk85a2JYcTQ5V3ZzREU2Zi0wWmFzYUhaV0Q1RWpOdkNZNmY1ZExYYTJBaWtqTzR3MEtCUEUwRlhjWW9XUUczQXA0dlNOcGRn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T14:27:03Z",
+   "level": "major",
+   "title": {
+    "en": "Microsoft CEO Satya Nadella calls for emergency brake on AI",
+    "zh": "Microsoft CEO Satya Nadella calls for emergency brake on AI"
+   },
+   "body": {
+    "en": "Nadella publicly called for an 'emergency brake' on AI development, a striking stance from a leading AI company CEO that could shape the policy debate.",
+    "zh": "纳德拉公开呼吁为AI发展设置\"紧急制动\"，这一来自顶级AI公司CEO的罕见表态可能影响政策讨论走向。"
+   },
+   "source": "Fox Business",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByc3Z4ZGFWcEw2TTlJVTJObE11UVdzbFpnR1RZVW9fOUNPUndkTkllM0lra20tUFdFRktHT3NkbVdZS3pzTmdnVDNQc0dCNWNmUC14LTFiV2Fnbnc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T14:34:31Z",
+   "level": "notable",
+   "title": {
+    "en": "Microsoft CEO Satya Nadella Calls for Emergency Brake Controls on AI Models",
+    "zh": "Microsoft CEO Satya Nadella Calls for Emergency Brake Controls on AI Models"
+   },
+   "body": {
+    "en": "Nadella called for advanced AI systems to be built with containment and an independent human-controlled 'emergency brake' to pause or shut down a model mid-task.",
+    "zh": "纳德拉呼吁为先进AI系统建立遏制机制和由人类独立控制的“紧急制动”装置，以便在模型执行任务过程中随时暂停或关闭。"
+   },
+   "source": "AI Insider",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeE5tOGV3eFlvYW1rejVFNnRtVXFEbFlnTEJTTXA3SS0zeTczQTZVeHBLVzV0Si13dnBRSS1yQ09KeV9Od09IWWlhcXZLSDVDYllQZjZpZUNqU1VuN1RBalBtMHBtVnFkS3V5emlHT0c0REZlbzlSVHFHbjZtX1NDZmtPMnJzN3UzemhIOXE2MW9qSUVjZjBZb3hYQ3ZHT3drMXVpVVpsLXhibmVsQURlcmE5UQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T11:33:20Z",
+   "level": "major",
+   "title": {
+    "en": "Microsoft CEO Satya Nadella called for an 'emergency brake' on advanced AI models",
+    "zh": "Microsoft CEO Satya Nadella called for an 'emergency brake' on advanced AI models"
+   },
+   "body": {
+    "en": "Nadella publicly called for an 'emergency brake' mechanism on advanced AI models, a notable safety stance from the CEO of one of the largest AI investors.",
+    "zh": "Nadella公开呼吁为先进AI模型设置\"紧急制动\"机制，这是这家最大AI投资方之一的CEO在安全议题上作出的重要表态。"
+   },
+   "source": "Quartz",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41aVpqUmx5eF9UUzZNcWg4eUFpM05qMDBjTXlCbTBkaEZKYUJmZmkzSkZ3cG5qS3VvS2NUVnI3Qjg3OXNudGRBaUxMMDlZbnJQaGkxeDdUVThjQnBORHByUlp2U0hwX3RIa3pQa2IzU2g0ckFGaU84Q3VacVlLUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T17:33:00Z",
+   "level": "major",
+   "title": {
+    "en": "Microsoft announces Maia 300, CEO Satya Nadella calls it ‘biggest bet yet on our own silicon’",
+    "zh": "Microsoft announces Maia 300, CEO Satya Nadella calls it ‘biggest bet yet on our own silicon’"
+   },
+   "body": {
+    "en": "Nadella announced Microsoft's Maia 300 AI chip, calling it the company's 'biggest bet yet' on its own silicon.",
+    "zh": "纳德拉宣布微软新一代AI芯片Maia 300，称其为公司在自研芯片上“迄今最大的投入”。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQeU1xOEVKeng4dG5LYmo3d2ZNSnZrZnNkTHhZeDVBc3ZJZU1uUlZMWFZQZmV1Y1cxTnZzZ21oZjFTQkhRdFhZM05YaHFUV3VEOF93ZzFSNEFuTUdUV3E4Y2dWUFBKTzQ4MUZjQVRsM1ZQb1NHdXJjT1lTMjJUdVZvbEhFY2Y1amk5UXFqcEljVjB3NVBtOWxPazBBUm5GY2xZaXk4UHFqb1EzY2c5N1Fnb1M2QUYzakJZeV80d21ETmh2ZTdqREVIQXdFdm92RDlHZVM4aXAyM2x2WWpncEUybDZLbHIybWRwd21DQmlPYWRwY0p4SDJmWVJoSl9jM3h2dUZN0gGIAkFVX3lxTE13cjFLWElqbkkwRG9zY1Z3R0V3ekJ1dS1GcWhKTl9fZmJ0UWtrdDJtODhaaGpaOTZ6MUdQblhJY0ZDTjZVQXN5ZWg2Y0pzd2h3Y2Y1ajlub1lodS1nYk5oVHROcnlDbFdOTHRYWHZyLTRmbUhyOGExUG5POFBFazVKVGtCTXdMc0lENVlKV3lMZ1NMbDlWNDlPcUZYbU1PdU5zenMxQU1oU3lNUG9RUzVJcHBKUnJJeGtVaGREeFVwbjhHT0ZvOXI2R0xzQktlR2pnOU50MFl6UDZEOEhKaUtIanVmWmt6aF95bDMyRjE5MkxtVjNpMVNoT3QyWWlHMEloNWNoVTRDWQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T12:00:19Z",
+   "level": "notable",
+   "title": {
+    "en": "Donald Trump honoured Microsoft CEO Satya Nadella just hours after his administration suspended Microsoft from a key green card sponsorship programme. Vice President JD Vance accused the company of laying off 6,000 American workers while obtaining",
+    "zh": "Donald Trump honoured Microsoft CEO Satya Nadella just hours after his administration suspended Microsoft from a key green card sponsorship programme. Vice President JD Vance accused the company of laying off 6,000 American workers while obtaining"
+   },
+   "body": {
+    "en": "Nadella received a White House honor from Trump hours after the administration suspended Microsoft from a green-card sponsorship program, with VP Vance accusing the company of favoring foreign hires.",
+    "zh": "特朗普政府在暂停微软绿卡担保资质数小时后授予纳德拉白宫表彰，副总统万斯同时指责该公司偏向外籍雇员。"
+   },
+   "source": "LinkedIn",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbEVhbU51RnNBWXA5dURYcGV5NTFyMXZWUXBZSTlaaVZoQVU0Q3VjZFhLTV9RbkhDbjBKMzQ4ZUZsOC05QXUtaTd6TlBHeGxCOXlmY0tRZEZUWWRSMGFuQUhaRVR1ZGgtSHJ5bnlESUs1Tmdvb1phZXR0V2pxRWlqSU1ud0ZPVGx2R3c1dm1lTk5wYWVXSm1DTldLT1AtVzVRUVY2b1BQZkpLTFJzTVR5NlVIWGx2a3A3VGt6bEhoNTRSZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T19:40:46Z",
+   "level": "notable",
+   "title": {
+    "en": "Satya Nadella Urges Tech Leaders to Set Emergency Brakes on Every AI Agent",
+    "zh": "Satya Nadella Urges Tech Leaders to Set Emergency Brakes on Every AI Agent"
+   },
+   "body": {
+    "en": "Nadella calls on tech leaders to install an emergency brake on every AI agent, a notable public stance on AI safety governance.",
+    "zh": "纳德拉呼吁科技界领袖为每个AI智能体设置「紧急制动」机制，这是他在AI安全治理上的重要公开表态。"
+   },
+   "source": "Android Headlines",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRTEzNmhIa0s2ek0yQ2xIRHM3T3JpN0pibjNkVm1wdkNIS0ZGcV9nM3BNWHVvazlUNGYwVXpiNXZEUUVMSTBqYi1LaFJhN1hmWkxqcnUzY2JhWnFza3E1ck1YdmhKZ0hzT0Ezd1lVdFMtbXZiZ2JMNnlCV2Vrd0p2ZjAwR3htcGtKU2kwbURnQ1Y0UThmSHVlQmdWcUw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T09:57:56Z",
+   "level": "notable",
+   "title": {
+    "en": "Satya Nadella warns of AI insider risks, seeks stronger safety controls",
+    "zh": "Satya Nadella warns of AI insider risks, seeks stronger safety controls"
+   },
+   "body": {
+    "en": "Nadella warned that companies should treat AI outputs with the skepticism of an emergency broadcast rather than blind trust, and called for stronger safety controls against AI-driven insider risk.",
+    "zh": "纳德拉警告企业应以紧急广播式的审慎态度对待AI输出，而非盲目信任，并呼吁加强针对AI驱动的内部风险的安全管控。"
+   },
+   "source": "Business Standard",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTG40VXpuOUhWRVRkX0ZjTWNQRTdtRjNpTDNDZDNJRVdxTHdEc3hsSEkyc2hwY0ExN3FBbmlWR3pzR1hwT2owNGV2NXBTeWtKVk92S2t5SFdNY1RQZU05MjRGaUM5SmU1Ri1kYkp3YmVTTHJRRXdWR0lZOUZDaVNrSU5iZk0yYlVYd2lFUEZvV0FQX0RaZ2k1dVRkMGM1TExZQjI2ZldNTDY2aE1uZWVneHowNHl2RWE0SE1tLXRfUDRDSTdkb2hKM2tscE51TlpoVFQwYVF2ZHp2RVJGbEFFbzZVX3Jnd2FUeVdHdHd5Qk_SAfYBQVVfeXFMTkZxSTQ4Mk1FOUx1VDF4UXlnRmJyRXUxNlR3aFZJbzJ0OWs3bUxlNnNITE00UXcyQkJ3RzBpUHFqOHZSYU0weGVadjQxQ1dPRXdsWF9KR2JtazN0T3dQNVpzQV9KV0R3eTJ5bTEzbUE2Zzc1dFdYQzMxcFJCelE3SXZDeWUteUhZRWUxYzJxUFcxcVBoY2lXQkdpSEtTRENZcjVkVWhZallRQWd5dG1VZjBzQko3WEZqMTVHQWlaWmFfVFZncXBPWTAyZGtzdElOdndCck9UTWpxQUQtUFFqWmZxdXVtYlRPZkpXOWNrRkRCUTZHSHV3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-11",
    "ts": "2026-10-11T01:33:38Z",
    "level": "notable",
@@ -1736,6 +1991,23 @@
    },
    "source": "Stocktwits",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSEhSUk1sSldHb182SzIyeFRIeVBlbk02MEtvbnl4ZE9RWE5DSVdBM3ZhTVBaQ0lVa1VHbGFFZlFIb05ZNGU2eXFXTjVzNzNMV0dHNW9SY0FPblZ6N1ZocEJGcmlIRUF3QWE4MURwb1BOYXY2NkxxSGlxLVpmZXRZWXM4Y21UTmRFcDZyM18xdEFyS3ZCbUhsLXZOYl84bU1RQ2JnUUZHYnFSYUFaQkFpOXZ3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-11",
+   "ts": "2026-10-11T12:02:55Z",
+   "level": "notable",
+   "title": {
+    "en": "Microsoft CEO Satya Nadella Urges AI Stop Buttons, Saying ‘Think of it Like an Emergency Brake’",
+    "zh": "Microsoft CEO Satya Nadella Urges AI Stop Buttons, Saying ‘Think of it Like an Emergency Brake’"
+   },
+   "body": {
+    "en": "Satya Nadella publicly called for AI systems to have a built-in 'emergency brake' to guard against loss of control.",
+    "zh": "萨提亚·纳德拉公开呼吁为AI系统设置“紧急制动”机制，以防止AI失控。"
+   },
+   "source": "TipRanks",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNm52TUZra1dRUTd6Ny1fUW0yVFRtQXlMdFBjN3hXY21Ed2ZGYmJmMzUyTUVFUlFyRnJTa2tnQ0ZzUTdMMFVDcWRtdlVmOWFGSHhqelROTU9tZmJ6OFgzNW5zcEEyRlFzSkdwNldhc0MxekdKeUdiM0s1X0FoQzVVZWhvOVduVUxpNEJVVWFoY2syRHJNcWdjaEFXWDBfYUhBbkNNTElZQWg5VGZiQ1Z6ajVfQ1Zjd0ZLbTZsbFlYbGhFaTN3?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2042,6 +2314,23 @@
    },
    "source": "The Indian EYE",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUlFSZ0dPMU5lZmpDR1N6U1ZuRWhYVE1RZUhtNXlucFIyYlQyMlJteTVRbjhLSkN4RkxtV0JiQk8tX1dBRTlkQkF4T0hYWnU4U1VzbUJ3MzZqVC15bXNiZnROVnlYSE4wYzZCdlhVVG9JUnBYQkstMm5LODJ0UmhKVmowZXdDX0gtX0djTFVDXzRjTVdNQ1ZaQW95WmJqcUVzWUI2VWdkbl9ZWXJzcG91TjBR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-09",
+   "ts": "2026-10-09T00:15:00Z",
+   "level": "minor",
+   "title": {
+    "en": "Satya Nadella, Lisa Su, Elon Musk…: 5 of 6 tech leaders Trump just clapped for were born outside US",
+    "zh": "Satya Nadella, Lisa Su, Elon Musk…: 5 of 6 tech leaders Trump just clapped for were born outside US"
+   },
+   "body": {
+    "en": "Trump publicly recognized Nadella, alongside Lisa Su and Elon Musk, among tech leaders born outside the US.",
+    "zh": "特朗普公开表彰纳德拉及苏姿丰、马斯克等出生在美国以外的科技领袖。"
+   },
+   "source": "\"Satya Nadella\" - BingNews",
+   "url": "https://www.firstpost.com/world/trump-tech-leaders-satya-nadella-elon-musk-lisa-su-14051633.html",
    "auto": true,
    "judged": true
   },
@@ -3345,15 +3634,15 @@
  },
  "cat": "platform",
  "score": {
-  "total": 86.0,
+  "total": 86.5,
   "attention": 83,
   "centrality": 87,
-  "momentum": 90,
+  "momentum": 92,
   "stature": null,
   "pageviews": 828227,
   "citations": 231,
   "hIndex": 3,
-  "events": 110,
+  "events": 127,
   "posts": 72,
   "wikiEn": "Satya Nadella",
   "wikiZh": "薩蒂亞·納德拉"

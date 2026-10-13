@@ -141,6 +141,25 @@
    }
   },
   {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T14:40:02Z",
+   "kind": "x",
+   "title": {
+    "en": "Our new silicon is 🔥 40% more tokens per watt!",
+    "zh": "Our new silicon is 🔥 40% more tokens per watt!"
+   },
+   "source": "@mustafasuleyman",
+   "url": "https://x.com/mustafasuleyman/status/2109655335250366752",
+   "note": {
+    "en": "Suleyman announced Microsoft AI's new in-house silicon delivers 40% more tokens per watt, a concrete efficiency claim for its hardware push.",
+    "zh": "苏莱曼宣布微软AI自研新芯片实现每瓦特多40%的token处理量，这是其自研芯片能效提升的具体数据。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-10",
    "ts": "2026-10-10T16:36:46Z",
    "kind": "x",
@@ -1160,6 +1179,25 @@
    "note": {
     "en": "Kara Swisher interview on AI \"friends\", Microsoft's sibling relationship with OpenAI, and the energy cost of agentic AI.",
     "zh": "Kara Swisher 专访：谈\"AI 朋友\"、微软与 OpenAI 的\"兄弟\"关系，以及智能体 AI 的能耗代价。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-09-17",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Mustafa Suleyman on Intelligence and Power in the Twenty-First Century, Part One",
+    "zh": "Mustafa Suleyman on Intelligence and Power in the Twenty-First Century, Part One"
+   },
+   "source": "Intelligence Squared",
+   "url": "https://podcasts.apple.com/us/podcast/mustafa-suleyman-on-intelligence-and-power-in-the/id708371900?i=1000669869633&uo=4",
+   "note": {
+    "en": "Suleyman appeared on the Intelligence Squared stage for a two-part conversation on intelligence and power in the twenty-first century.",
+    "zh": "苏莱曼在Intelligence Squared节目中就21世纪的智能与权力进行了分两部分的对谈。"
    },
    "auto": true,
    "judged": true,
@@ -2270,16 +2308,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 72.2,
+  "total": 72.0,
   "attention": 71,
   "centrality": 87,
-  "momentum": 77,
+  "momentum": 76,
   "stature": 29,
   "pageviews": 382768,
   "citations": 18255,
   "hIndex": 20,
   "events": 50,
-  "posts": 69,
+  "posts": 71,
   "wikiEn": "Mustafa Suleyman",
   "wikiZh": null
  },

@@ -1,5 +1,5 @@
 {
- "rank": 73,
+ "rank": 74,
  "id": "kai-yu",
  "name": {
   "en": "Kai Yu",
@@ -2278,6 +2278,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-05",
+   "ts": "2026-09-05T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "地平线余凯放话：明年大算力自动驾驶芯片国内市占率要超过英伟达",
+    "zh": "地平线余凯放话：明年大算力自动驾驶芯片国内市占率要超过英伟达"
+   },
+   "body": {
+    "en": "Yu said Horizon Robotics' high-compute autonomous-driving chips will overtake Nvidia's domestic market share next year.",
+    "zh": "余凯表示地平线明年大算力自动驾驶芯片的国内市占率将超过英伟达。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PUm92RkRwNE9uaWJMeGxpcTZyUW5XN3V3Wm1GTmo1ZkJkd3FzbFVNdE1NcUpOWVg2dml6bXYwX2xpQzlyUHpYSXNzdVN5THRldVFDQkVEdHAzOHVKWURLU0doWkYzNUhIb1FzLVJDV25IQVdQQU1DZ1NNcUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-04",
    "ts": null,
    "level": "notable",
@@ -2856,6 +2873,23 @@
    "judged": true
   },
   {
+   "date": "2026-04-28",
+   "ts": "2026-04-28T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "地平线创始人余凯：不做“内卷”要“外卷”，16万的车必须能卖19万",
+    "zh": "地平线创始人余凯：不做“内卷”要“外卷”，16万的车必须能卖19万"
+   },
+   "body": {
+    "en": "Horizon Robotics founder Kai Yu argues the company should compete by expanding the market rather than racing on price, saying a car priced at 160k RMB must be able to sell at 190k.",
+    "zh": "地平线创始人余凯主张公司应靠\"外卷\"扩大市场而非\"内卷\"压价竞争，称一款16万元定价的车必须能卖到19万元。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObW5XaE1WTGlZcE50bWdnZUF1Q2MybTB4bGNNeXBPN2o2REdwTGpBVUxSMDROSkZhR3BCSkJ6LTFDRDh0cHdwU2dRdDhjaXl4Yno0SGxvZkNMTGRBVTdfSEtmYVNiaHJsOFVoclNTajEybWhvQm4tTlNJX0MtelBiNlU1ZXljclo0cjRTMktxOWV1NW4wSnlCc1RIdnJ4MGc2SW10MmlqMFBYT3ExbjNKN3RyRFdiY2JFeGEyMVhQemczZkxjVHhjNS1ZTHQwYU40?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-04-27",
    "ts": "2026-04-27T07:00:00Z",
    "level": "notable",
@@ -3101,15 +3135,15 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 31.1,
+  "total": 30.6,
   "attention": 3,
   "centrality": 25,
-  "momentum": 91,
+  "momentum": 89,
   "stature": 34,
   "pageviews": 700,
   "citations": 21491,
   "hIndex": 66,
-  "events": 150,
+  "events": 152,
   "posts": 20,
   "wikiEn": null,
   "wikiZh": "余凯"

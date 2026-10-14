@@ -140,6 +140,25 @@
    }
   },
   {
+   "date": "2026-10-03",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "We're in the AI Slavery Era | Alex Wissner-Gross x Emad Mostaque | ASI Pill EP297",
+    "zh": "We're in the AI Slavery Era | Alex Wissner-Gross x Emad Mostaque | ASI Pill EP297"
+   },
+   "source": "ASI pill",
+   "url": "https://podcasts.apple.com/us/podcast/were-in-the-ai-slavery-era-alex-wissner-gross-x-emad/id1754827681?i=1000792941116&uo=4",
+   "note": {
+    "en": "Mostaque joins Alex Wissner-Gross on ASI Pill to discuss what they call the 'AI Slavery Era', a segment excerpted from a longer Moonshots conversation.",
+    "zh": "Mostaque与Alex Wissner-Gross在ASI Pill节目中对谈，讨论他们所称的“AI奴役时代”，该片段取自一次更长的Moonshots对话。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-10-01",
    "ts": null,
    "kind": "podcast",
@@ -152,6 +171,25 @@
    "note": {
     "en": "Mostaque discusses how AI will reshape the value of labor and who wins or loses in the AI revolution, as a guest on Tom Bilyeu's Impact Theory podcast.",
     "zh": "Emad Mostaque作为嘉宾登上Tom Bilyeu的Impact Theory播客，探讨AI将如何重塑劳动力价值，以及AI革命中谁将获益、谁将受损。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-09-28",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Why Jensen and Zuck think the doomers are wrong (plus AI get’s a rebrand) | #294 MOONSHOTS Live",
+    "zh": "Why Jensen and Zuck think the doomers are wrong (plus AI get’s a rebrand) | #294 MOONSHOTS Live"
+   },
+   "source": "Moonshots with Peter Diamandis",
+   "url": "https://podcasts.apple.com/us/podcast/why-jensen-and-zuck-think-the-doomers-are-wrong-plus/id1648228034?i=1000791881436&uo=4",
+   "note": {
+    "en": "Mostaque joins the Moonshots with Peter Diamandis panel to discuss Jensen Huang's and Mark Zuckerberg's pushback on AI doomers and the rebranding of AGI as 'superintelligence'.",
+    "zh": "Mostaque参加Peter Diamandis主持的Moonshots节目，讨论黄仁勋和扎克伯格对AI悲观论者的反驳，以及将AGI重新包装为“超级智能”的趋势。"
    },
    "auto": true,
    "judged": true,
@@ -1311,7 +1349,7 @@
   "citations": 485,
   "hIndex": 2,
   "events": 3,
-  "posts": 60,
+  "posts": 62,
   "wikiEn": "Emad Mostaque",
   "wikiZh": null
  },

@@ -169,6 +169,25 @@
    }
   },
   {
+   "date": "2026-10-13",
+   "ts": "2026-10-13T17:33:52Z",
+   "kind": "x",
+   "title": {
+    "en": "Over 400 researchers and I have signed this open letter calling for the AI and security communities to come together to improve alignment and containment approa",
+    "zh": "Over 400 researchers and I have signed this open letter calling for the AI and security communities to come together to improve alignment and containment approa"
+   },
+   "source": "@yoshua_bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2110061471937757320",
+   "note": {
+    "en": "Bengio announced that he and over 400 researchers signed an open letter urging the AI and security communities to collaborate on alignment and containment.",
+    "zh": "本吉奥宣布他与400多名研究人员联合签署公开信，呼吁AI与安全领域共同推进对齐与风险遏制工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-08",
    "ts": "2026-10-08T14:09:56Z",
    "kind": "x",
@@ -1613,25 +1632,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-05-08",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Thank you to @robertwiblin for inviting me on the @80000Hours podcast to discuss the research progress we’re making at @LawZero_ to create safe-by-design AI sys",
-    "zh": "Thank you to @robertwiblin for inviting me on the @80000Hours podcast to discuss the research progress we’re making at @LawZero_ to create safe-by-design AI sys"
-   },
-   "source": "@Yoshua_Bengio",
-   "url": "https://x.com/Yoshua_Bengio/status/2052737200203121147",
-   "note": {
-    "en": "Bengio thanks Rob Wiblin for hosting him on the 80,000 Hours podcast to discuss LawZero's progress on safe-by-design AI systems.",
-    "zh": "本吉奥感谢Rob Wiblin邀请他上80000 Hours播客,介绍LawZero在设计即安全AI系统上的研究进展。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
    "date": "2026-05-07",
    "ts": null,
    "kind": "podcast",
@@ -2477,6 +2477,40 @@
    },
    "source": "Euronews",
    "url": "https://www.euronews.com/next/2025/06/04/godfather-of-ai-yoshua-bengio-launches-non-profit-to-make-ai-safer-and-more-trustworthy"
+  },
+  {
+   "date": "2026-10-13",
+   "ts": "2026-10-13T11:41:00Z",
+   "level": "major",
+   "title": {
+    "en": "Geoffrey Hinton, Yoshua Bengio join 400 scientists calling for global AI oversight body",
+    "zh": "Geoffrey Hinton, Yoshua Bengio join 400 scientists calling for global AI oversight body"
+   },
+   "body": {
+    "en": "Bengio joined Geoffrey Hinton and roughly 400 other scientists in calling for a global body to oversee AI development, continuing his push for international AI governance.",
+    "zh": "本吉奥与杰弗里·辛顿等约400名科学家联名呼吁建立全球AI监管机构，延续其推动国际AI治理的努力。"
+   },
+   "source": "The News International",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVV9TbkFOZHRnVDBPVVA2ME05VWNUNHlqQzFZcmU4YUR1UW5GbVJuNU9GOGJpU2lqWEh3Rmp5QWJIZnotQmh5RzhJVm5IYk1HNEpNNkI5WTduaEp6R3YzdHZHMjEzR01sNFFTZjBhbXRrS3pCR1pyb3cwOFdhazhaOUtfTWp5NGdic2VtdXdjTEd4MjZfNW1oWXI1UVk5R0ppajNiQVotcUxJanR6U3l0TkVmNUFYYmQzNmpOM19iNU9wRmJzdXZN0gHDAUFVX3lxTE9zcnZWdUtMMlluOHRwTTZuMHppeXpXSkMyZUtXenZPS2xuSTdZSFlPcUtyNWE0VnpNNktKcGd2MW52WExaaDlBQWN0SjRVVHJMMlM2R2c3dnQyQ254S01ScGpNb1l4X1hwRVVEa3IxdlhxSzJJMmo4d0hDNmR4OEgxX1N0dy1udGplY0UxRC1DY0VvbEhCOTU5cFl3MnB1cHJSdTdFbmg1aF9NZksyNTJhQzBIVkoxaTd6dk1JY3BZQzBDOA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-13",
+   "ts": "2026-10-13T17:13:10Z",
+   "level": "notable",
+   "title": {
+    "en": "Geoffrey Hinton, Yoshua Bengio join 400 scientists calling for international AI regulator",
+    "zh": "Geoffrey Hinton, Yoshua Bengio join 400 scientists calling for international AI regulator"
+   },
+   "body": {
+    "en": "Bengio joined Hinton and roughly 400 other scientists in calling for the creation of an international AI regulator.",
+    "zh": "本吉奥与辛顿等约400名科学家联合呼吁设立国际AI监管机构。"
+   },
+   "source": "BetaKit",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNEFXRzhUdnNjSWQya2xZLURfRE9NdHFOOV9mbnMzaF9laXRSa0M1WWhNT0hNcDA0QzBoTWJ4aGV1cGFUSEthbzBuckVZcVg5RGJ1TzQtSEJ1U3d2Um9tWGlBMDIwSEwxVGZQeHBoSWd2M3Z2Z0VRM180cjRrbFROX0RHT3NhZ1FCV3ZuU0M1VGV6VmQ0U0JHTENvSUFKd0dxSzJDSGFRdWdlN1MyMVE?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-10",
@@ -3480,7 +3514,7 @@
   "pageviews": 276660,
   "citations": 475043,
   "hIndex": 184,
-  "events": 60,
+  "events": 62,
   "posts": 121,
   "wikiEn": "Yoshua Bengio",
   "wikiZh": "约书亚·本希奥"

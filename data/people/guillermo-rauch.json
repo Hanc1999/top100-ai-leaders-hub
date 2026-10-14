@@ -980,6 +980,25 @@
    "judged": true,
    "platform": "apple-podcasts",
    "connector": "podcasts"
+  },
+  {
+   "date": "2021-09-19",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Guillermo Rauch: Founder of Vercel & Next.js",
+    "zh": "Guillermo Rauch: Founder of Vercel & Next.js"
+   },
+   "source": "First Generation",
+   "url": "https://podcasts.apple.com/us/podcast/guillermo-rauch-founder-of-vercel-next-js/id1586376912?i=1000535878791&uo=4",
+   "note": {
+    "en": "Rauch discussed founding Vercel and Next.js and his path from Argentina to the US as a guest on the First Generation podcast.",
+    "zh": "劳赫作为嘉宾在播客《First Generation》中讲述了创立Vercel和Next.js的经历，以及从阿根廷到美国的成长之路。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   }
  ],
  "news": [
@@ -1082,7 +1101,7 @@
   "citations": 9,
   "hIndex": 1,
   "events": 5,
-  "posts": 46,
+  "posts": 47,
   "wikiEn": null,
   "wikiZh": null
  },

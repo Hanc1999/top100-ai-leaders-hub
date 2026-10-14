@@ -161,6 +161,63 @@
    }
   },
   {
+   "date": "2026-10-13",
+   "ts": "2026-10-13T04:22:45Z",
+   "kind": "x",
+   "title": {
+    "en": "Had fun @OpenComputePrj today. A year ago we showed Helios and now we’re ramping Helios in production. Today we introduced Helion, an open, flexible rack for ag",
+    "zh": "Had fun @OpenComputePrj today. A year ago we showed Helios and now we’re ramping Helios in production. Today we introduced Helion, an open, flexible rack for ag"
+   },
+   "source": "@lisasu",
+   "url": "https://x.com/LisaSu/status/2109862381795033230",
+   "note": {
+    "en": "Su showcased AMD's Helios rack now in production and introduced Helion, a new open rack design for agentic AI, plus the upcoming 'Verano' chip, at the Open Compute Project summit.",
+    "zh": "苏姿丰在开放计算项目(OCP)峰会上展示了已投入量产的Helios机架，并推出面向智能体AI的全新开放机架Helion，以及即将推出的新款芯片「Verano」。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-13",
+   "ts": "2026-10-13T00:00:00Z",
+   "kind": "blog",
+   "title": {
+    "en": "OCP 2026 Keynote Replay: Building the Next Era of AI Infrastructure",
+    "zh": "OCP 2026 Keynote Replay: Building the Next Era of AI Infrastructure"
+   },
+   "source": "AMD Newsroom",
+   "url": "https://newsroom.amd.com/news/ocp-2026-keynote-replay-next-era-ai-infrastructure/",
+   "note": {
+    "en": "Replay of Lisa Su's OCP 2026 keynote on AMD's open, full-stack AI infrastructure for agentic workloads.",
+    "zh": "苏姿丰在OCP 2026大会的主题演讲回放，介绍AMD面向智能体工作负载的开放全栈AI基础设施。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T00:00:00Z",
+   "kind": "blog",
+   "title": {
+    "en": "OCP 2026: AMD CEO Lisa Su Highlights Open Infrastructure for the Future of AI",
+    "zh": "OCP 2026: AMD CEO Lisa Su Highlights Open Infrastructure for the Future of AI"
+   },
+   "source": "AMD Newsroom",
+   "url": "https://newsroom.amd.com/news/ocp-2026-amd-ceo-lisa-su-keynote-takeaways/",
+   "note": {
+    "en": "AMD recaps Su's OCP 2026 keynote on building open infrastructure for the next era of AI.",
+    "zh": "AMD总结苏姿丰在OCP 2026上的演讲要点，阐述面向下一代AI打造开放基础设施的思路。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
    "date": "2026-10-08",
    "ts": "2026-10-08T20:59:57Z",
    "kind": "x",
@@ -1497,6 +1554,142 @@
    "url": "https://openai.com/index/openai-amd-strategic-partnership/"
   },
   {
+   "date": "2026-10-13",
+   "ts": "2026-10-13T02:16:00Z",
+   "level": "major",
+   "title": {
+    "en": "当“空间智能”撞上芯片铁幕——苏姿丰与李飞飞的联手，正在改写AI竞赛的底层逻辑",
+    "zh": "当“空间智能”撞上芯片铁幕——苏姿丰与李飞飞的联手，正在改写AI竞赛的底层逻辑"
+   },
+   "body": {
+    "en": "Chinese coverage frames AMD's acquisition of Fei-Fei Li's World Labs as Lisa Su pairing AMD's chip strategy with spatial-intelligence research.",
+    "zh": "中文报道将AMD收购李飞飞的World Labs解读为苏姿丰把AMD的芯片战略与空间智能研究相结合。"
+   },
+   "source": "www.or100.cc",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5OUTBuY3IyUHVOVTlLdHNtdm5IS19KVkhOak9EY1lzMUpGWW5zZVlxYjFYT2dRNXE5RFI2dmxacTgxbERp?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-13",
+   "ts": "2026-10-13T06:17:19Z",
+   "level": "notable",
+   "title": {
+    "en": "[OCP in Focus] Lisa Su Calls 2026 “Year of Inference” as AMD Lifts 2030 CPU TAM Forecast to $200B+",
+    "zh": "[OCP in Focus] Lisa Su Calls 2026 “Year of Inference” as AMD Lifts 2030 CPU TAM Forecast to $200B+"
+   },
+   "body": {
+    "en": "At OCP, Lisa Su declared 2026 the 'year of inference' and raised AMD's 2030 CPU total addressable market forecast above $200B, a public bet on inference-driven demand.",
+    "zh": "苏姿丰在OCP峰会上宣称2026年是“推理之年”，并将AMD对2030年CPU市场规模的预测上调至2000亿美元以上，公开押注推理驱动的需求增长。"
+   },
+   "source": "TrendForce",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSWtkN2x5NjJmTzRvb21ZMVpHemFDNHZKN2JDYmJQbjJKS3FRRmQyVWZzSUZ3dWFrT3JmZzVDZXFHVTFKeXlCRTM5NDNlUFFIcjBCOENBTnE5bG5lUFN6UEFhZUFQajJ6RTdValA1clpMbHp2b21HZlFFX0M3a0pxWm5lV0QteUU4QmdONFVHQml6MzFLX1VNYzFIRXM0Qlk5TG02em41REZ2SVFUMXhqVTNvcldZc3d6amNDLW1QVW45TWM3SW9ZcDFFLXhyc2NGM3c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-13",
+   "ts": "2026-10-13T13:40:46Z",
+   "level": "notable",
+   "title": {
+    "en": "苏姿丰称2026年是“推理之年” AMD上调2030年CPU市场规模预期至2000亿美元以上",
+    "zh": "苏姿丰称2026年是“推理之年” AMD上调2030年CPU市场规模预期至2000亿美元以上"
+   },
+   "body": {
+    "en": "AMD CEO Lisa Su called 2026 the 'year of inference' and raised AMD's 2030 CPU market forecast to over $200 billion.",
+    "zh": "AMD首席执行官苏姿丰将2026年定调为“推理之年”，并将2030年CPU市场规模预期上调至2000亿美元以上。"
+   },
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kQURKSzMzOGU3aE9UU1gyOUNiQVZWajU3cnNZYzRTUkhHZS1FRlRwZDZIYWQxck1TOFk4OGdJZ3EwSHdDSmFYNkFLZFczd09IVHp0YU9HeGYxZ0s4aVZIbmtTaw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-13",
+   "ts": "2026-10-13T13:16:00Z",
+   "level": "notable",
+   "title": {
+    "en": "苏姿丰：智能体AI工作负载将驱动CPU市场爆发式增长",
+    "zh": "苏姿丰：智能体AI工作负载将驱动CPU市场爆发式增长"
+   },
+   "body": {
+    "en": "Lisa Su said agentic AI workloads will drive explosive growth in the CPU market in the coming years.",
+    "zh": "苏姿丰表示，智能体AI工作负载将在未来数年内驱动CPU市场实现爆发式增长。"
+   },
+   "source": "搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR0ZMVU1tVVBleTFBbkcyTTB2Y3ZvRjdPbEdqSEZtb0NMVDg3OGxyUVBrWURzdm9DX0R5a0NyaVJnemxzeDl5dGl2T3pJblJSR21fQ2g5RmhUUFRscXRkb3dGX1BwM0M1ZFY3OU9JbWllc1JkNFFmR0dyenNFTnBOSXBtRXYzZHNo?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-13",
+   "ts": "2026-10-13T14:26:35Z",
+   "level": "notable",
+   "title": {
+    "en": "AMD发布Helion智能体AI机架 苏姿丰预计2030年CPU市场超2000亿美元",
+    "zh": "AMD发布Helion智能体AI机架 苏姿丰预计2030年CPU市场超2000亿美元"
+   },
+   "body": {
+    "en": "AMD launched its Helion agentic-AI rack, with CEO Lisa Su projecting the CPU market will exceed $200B by 2030.",
+    "zh": "AMD发布Helion智能体AI机架，CEO苏姿丰预计到2030年CPU市场规模将超过2000亿美元。"
+   },
+   "source": "观点网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVT0VYZjlORjVLRlhkV21jREh0blcwa3pXeXcxdjh4X1NRRng2Sld5UmFPRlE3cFBNeGY5SG50THlQUlotNVFGbVU1b1MxTkVGeFE2UTA0WU1wb3hJcWh1cGVn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-13",
+   "ts": "2026-10-13T12:03:00Z",
+   "level": "notable",
+   "title": {
+    "en": "AMD苏姿丰：2026为 “推理之年”，智能体AI驱动CPU市场爆发",
+    "zh": "AMD苏姿丰：2026为 “推理之年”，智能体AI驱动CPU市场爆发"
+   },
+   "body": {
+    "en": "Lisa Su called 2026 the \"year of inference,\" arguing agentic AI will drive explosive growth in the CPU market.",
+    "zh": "苏姿丰称2026年为“推理之年”，认为智能体AI将推动CPU市场出现爆发式增长。"
+   },
+   "source": "搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONnRIaEp0TjU4TDNfWktpRmxhLW5DZ0FZQ2FLWTFlOTNpYjh1ZDBRTE8xYU5zNUpCdkpnYTNRNGZKUWd2VjMtTWxzcWNlWnM0dm1EMzh5MWg3V2xEUGV4SVJmY01sRFItZ054SzI0ejNuYnFmOUY2NFU0V2tzbzNzcVhZN1VWMEM3S21HSA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-13",
+   "ts": "2026-10-13T12:03:00Z",
+   "level": "notable",
+   "title": {
+    "en": "苏姿丰：2026年为“推理之年”",
+    "zh": "苏姿丰：2026年为“推理之年”"
+   },
+   "body": {
+    "en": "Su declared 2026 the 'year of inference,' framing AMD's roadmap around inference-stage compute demand.",
+    "zh": "苏姿丰宣称2026年是“推理之年”，将AMD的发展路线聚焦于推理阶段的算力需求。"
+   },
+   "source": "电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EcXJwUlNEQ21aT2lySGFYaUNidEkzT09zdWxrTXlCLXdSeXZDZEpoeVFHQ1lUbDJzRDBxd0VhVm1ONjFEZVpCRXAweVhZTzExbEpV?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-13",
+   "ts": "2026-10-13T08:58:41Z",
+   "level": "notable",
+   "title": {
+    "en": "AMD CEO Lisa Su Sees AI Inference Boom Fueling $1.5T Demand By 2030: 'About 60% Of The Market Going Forward'",
+    "zh": "AMD CEO Lisa Su Sees AI Inference Boom Fueling $1.5T Demand By 2030: 'About 60% Of The Market Going Forward'"
+   },
+   "body": {
+    "en": "Su projects AI inference will drive about 60% of a $1.5 trillion compute market by 2030, a bullish read on where AMD's silicon demand is headed.",
+    "zh": "苏姿丰预测到2030年AI推理将占到1.5万亿美元计算市场约60%的份额，释放出对AMD芯片需求前景乐观的信号。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUUpsS1NwNjRmUnV1RER3WjZoMmZPd1Z2MEVpd09mV1dSdVRFclhkakdTbXJnTjlyS1V6aXhVbHZ0UkxrSmxXYnFHRWE2MFNOV09HZUhrS0hFTndvZzg2R09nWUtJa1RBcUdLV1JDZjJSN1JWenl6bERxV3NiNFh2Y0duRmdqWmxwWC0zTA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-12",
    "ts": "2026-10-12T11:06:06Z",
    "level": "notable",
@@ -1510,6 +1703,40 @@
    },
    "source": "EEHerald",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QZDZoQUlfalFlUDZCS3JTRVF6UjFmdEwtNkpaVFQwUmpLRld1QkhWbDdETHA2Y21HdUhsQl8wY1ZsVlRZZHg2Z2h2MVBsbXdWNVdBSkprZmduUW0zZThPaWw4SEdVVVFjV3JLamRZYk5fRUlXM0JN?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T23:50:02Z",
+   "level": "notable",
+   "title": {
+    "en": "OCP 2026: AMD CEO Lisa Su Highlights Open Infrastructure for the Future of AI",
+    "zh": "OCP 2026: AMD CEO Lisa Su Highlights Open Infrastructure for the Future of AI"
+   },
+   "body": {
+    "en": "Su delivered a keynote at OCP 2026 highlighting AMD's push for open infrastructure in AI computing.",
+    "zh": "苏姿丰在2026年OCP峰会上发表主题演讲，强调AMD在AI计算领域推动开放基础设施建设。"
+   },
+   "source": "AMD",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XS3ZTNHFfNlM4RFBLdUhvWjZiMjR2SGZqY25ZYkZlT0E0UXdFbHQzdU50ZzBHNW1rb190WHVGOG1uOUM5Y2ttT005Vi0zSHJHYVVSTjYwVVVjYkI0MFc0M1RreGwtSTRFYnlnX0JlRnRMN3BPZHZyWFlDSFJ0QQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T18:00:29Z",
+   "level": "notable",
+   "title": {
+    "en": "AMD CEO Lisa Su Sees AI Inference Boom Fueling $1.5T Demand By 2030: 'About 60% Of The Market Going Forward'",
+    "zh": "AMD CEO Lisa Su Sees AI Inference Boom Fueling $1.5T Demand By 2030: 'About 60% Of The Market Going Forward'"
+   },
+   "body": {
+    "en": "Lisa Su forecast AI inference will drive $1.5 trillion in demand by 2030, around 60% of the overall AI market.",
+    "zh": "苏姿丰预测到2030年AI推理将带来1.5万亿美元的需求，约占AI整体市场的60%。"
+   },
+   "source": "Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNa2U1cHpFVVlpbnpxWDAteGN2UW5seWhfaTV5M2ZaeWVYUGhQaGh0aUFjcDM3UFpCQjdGZUtmbVFxZmJSOURxdjhyVGY1SmlsWUxIb2dfQUZCMWozb3ROUlp4LTNaODNTMGVlNWNKQkh6MHNRMHJINS1ycjV0RTdiTXJMd2ZCUkx6Y0pucGoxa0lUNk0tX2Z3X1cyOU1WRnk2bzZTVTJfckZUREFQNjJtN0IxMVVaVy1qOTJ2aWhEWG5FS1VmdXNkQXRWNloxWE1oU3VWb19WdXBqQVN2OXZvYnJtelkwNkFXZ3prQzBQMklscVlnOFF3akI1a1Y?oc=5",
    "auto": true,
    "judged": true
   },
@@ -1578,6 +1805,23 @@
    },
    "source": "新浪财经",
    "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWVo4TE9RWWdMRnpxaHl0R1E3bk1lR05mUlZ2bVhhdjU3a3F5Rm9vbDFrMGozbGNJeXphX25YMmlEOXd1aTFlcVNKaFFFR0ROeHFFLUQwc0g5VHNCcGVoNk1UN1BDUTRXMlY3cGxETFJkOE1GRkIyVjFfdUc0WWlUdVhUbWxoMXNTcXd3X25Bd3JTVmpZMW1uQ05WRzFRQ3gteWVhTmM3RU1TNU0wdjRvaWw5YlprdFlJbE1hdzJ2TzBBbktFeUlFeS1mQnFjTjhKMzlVWXRjYUR2T2JtbzNGNGtiOHZyTTJrQ28zcnUxT25DWVlHdEM2YmhJcldnUTdOWDdJTmN4VDRJMGVFUUVudkViVlBVZTdWa0REWGZoRmR6b29nclJKNkt3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-10",
+   "ts": "2026-10-10T10:32:00Z",
+   "level": "notable",
+   "title": {
+    "en": "苏姿丰访韩全球AI芯片供应链再博弈，国产替代机会在哪",
+    "zh": "苏姿丰访韩全球AI芯片供应链再博弈，国产替代机会在哪"
+   },
+   "body": {
+    "en": "Su traveled to South Korea amid renewed competition over the global AI chip supply chain, as Korean players weigh opportunities for domestic substitution.",
+    "zh": "苏姿丰访问韩国，正值全球AI芯片供应链竞争再度升温，韩国业界在权衡国产替代的机会。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91NU9IUjhVMEdsVmtYMEdFdTItbHpBWU03ZDdFV1dSNjNzNksydWd0WlJIWHp0eWJOUjRKV1E3MUZlSmJkeFFITHF5eHdoQUIxc0VCVFB3?oc=5",
    "auto": true,
    "judged": true
   },
@@ -1714,6 +1958,23 @@
    },
    "source": "新浪财经",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNHVUSXk0SmZaejE3N2hTbUlGejFscGtqWmRSZmNQTHVTV3U0YXBudWRBZHgtRmFyZ1lITXFvR3JHaExWTlVPVGdwSW5kYm5tNG9yd25sS2dqYU90T29oY3pTaGxlUkFrYjc5djE2RTNlR2cxR19RZy0zZ0d0dVNYdTlES0hUVHlFU3pjUFk0eG9jTVZOZmZ0ZHlwVEx0QzN1S0FZbm5SMA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-09",
+   "ts": "2026-10-09T20:21:49Z",
+   "level": "notable",
+   "title": {
+    "en": "特朗普向马斯克、黄仁勋、苏姿丰、布林颁发国家科学奖|唐纳德·特朗普|Google|微软|英伟达|谷歌",
+    "zh": "特朗普向马斯克、黄仁勋、苏姿丰、布林颁发国家科学奖|唐纳德·特朗普|Google|微软|英伟达|谷歌"
+   },
+   "body": {
+    "en": "Su was among the tech leaders awarded the National Medal of Science by Trump, alongside Musk, Huang and Brin.",
+    "zh": "苏姿丰与马斯克、黄仁勋、布林等人一同获特朗普颁发美国国家科学奖。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNXy1jeGFYMkdVaThvMWVOYUN4VC1JNlBacG9tdklKN3I0QmwzbUlnNXNtS1N6Ni00MkVCZXNxaXQzM0RqTG5oaUdGaTUwZzNyc0NSeTRxYS1kWXpMTGRLVEsxYjVLb1g1bHhYZXN5b1F5S3FXUjJRbndOTjR2aU9kSHVGZ2FEbURmNDJGVDB5WUNtUDRrakhzRjB6UWRTa2lmU0h5Nm5YNlliSEsxeTQzMzR3?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2517,6 +2778,74 @@
    "judged": true
   },
   {
+   "date": "2026-10-08",
+   "ts": "2026-10-08T03:22:39Z",
+   "level": "notable",
+   "title": {
+    "en": "首次！特朗普亲颁国家奖章：黄仁勋、苏姿丰、马斯克等领奖",
+    "zh": "首次！特朗普亲颁国家奖章：黄仁勋、苏姿丰、马斯克等领奖"
+   },
+   "body": {
+    "en": "Lisa Su received a National Medal personally presented by Trump, alongside Jensen Huang and Elon Musk, marking formal recognition of her role in the AI/chip industry.",
+    "zh": "苏姿丰与黄仁勋、马斯克等人一同获特朗普亲自颁发国家奖章，是对她在AI芯片行业地位的正式肯定。"
+   },
+   "source": "搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMnhud3VRby1fMjJtY2tOSTRaNmlncnRUNFBvRklvNkZNZ1pmNzlvVndQdlZIaFdMSENUTFUzLXp0TVJ4bkpTYkRlOU05S1h3NHNvMmtoczBJNFJzRXoxM0pXNTJWVzE4XzU1dmJYUDFCeGFXT2p3R1c4MnlXVzYyT2p1WVRRZHYx?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-08",
+   "ts": "2026-10-08T02:05:00Z",
+   "level": "notable",
+   "title": {
+    "en": "特朗普将授予马斯克、黄仁勋、苏姿丰等美国最高科学奖章，美国科研体制大洗牌",
+    "zh": "特朗普将授予马斯克、黄仁勋、苏姿丰等美国最高科学奖章，美国科研体制大洗牌"
+   },
+   "body": {
+    "en": "Trump plans to award Lisa Su the National Medal of Science alongside Elon Musk and Jensen Huang, recognizing her leadership of AMD.",
+    "zh": "特朗普计划向苏姿丰颁发美国国家科学奖章，马斯克与黄仁勋同获此荣誉，以表彰她对AMD的领导。"
+   },
+   "source": "观察者网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZaWVLNGxITERGNXlFQm1FRDFfN3hhSHIxMm91b0lQVGZ1ZXBIbUZucDBBUmdkRE1qVU5YZTJNbUNMc2ZKbHpWNVB3c1NBRUJFSmRJODZWT2lNUTM3U2k4Yk1YMTFsY2JmaE5WckM1Yk4?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-08",
+   "ts": "2026-10-08T08:21:25Z",
+   "level": "minor",
+   "title": {
+    "en": "AMD苏姿丰访韩，会见三星电子联席CEO全永铉",
+    "zh": "AMD苏姿丰访韩，会见三星电子联席CEO全永铉"
+   },
+   "body": {
+    "en": "Lisa Su traveled to South Korea and met Samsung Electronics co-CEO Jun Young-hyun, part of AMD's chip supply-chain ties with Samsung.",
+    "zh": "苏姿丰访问韩国，会见三星电子联席CEO全永铉，涉及AMD与三星在芯片供应链上的合作关系。"
+   },
+   "source": "搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUWJJVzZPczZ0bi1GQnNQa1EtR3JJQjBSV1RLdlhXSTlrNEZNdzdKNGF6ZGF2TUpxdGdTQ1RHZ2dCaEF0bmJxaXZJNDZlcko0M3Z6Rm9tZEFmUnVTU3JmWFNTaVVzTjFGWGw5MWpITzNlS2tvMGpFYnlRdGwyemdqYXJSOUtXb1VM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-08",
+   "ts": "2026-10-08T03:52:00Z",
+   "level": "notable",
+   "title": {
+    "en": "苏姿丰：AMD2027 年将大幅增加 AI 算力芯片供应",
+    "zh": "苏姿丰：AMD2027 年将大幅增加 AI 算力芯片供应"
+   },
+   "body": {
+    "en": "Su says AMD plans a major increase in AI compute chip supply by 2027, signaling confidence in meeting surging demand.",
+    "zh": "苏姿丰表示AMD计划到2027年大幅增加AI算力芯片供应，显示公司对满足激增需求的信心。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNemRWZS1xTkdRTm1wNWN5N0NETkMtTXJGMFdjWUNFVFp2RGV4QmhCcThja1FIWXBpZDBPWDluYmhkSTlOLXdERTRveHdvOXpIUzhyWUNMSk9VcUdkb2NhNnhUTDdvVmRTdjZRbjk1XzEyeEc3cXBxVGtYZlc0aGpLSWNXdU8?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-07",
    "ts": "2026-10-07T00:43:52Z",
    "level": "notable",
@@ -3180,6 +3509,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-07",
+   "ts": "2026-10-07T13:34:40Z",
+   "level": "notable",
+   "title": {
+    "en": "AMD苏姿丰承诺2027年大幅增加AI数据中心芯片供应",
+    "zh": "AMD苏姿丰承诺2027年大幅增加AI数据中心芯片供应"
+   },
+   "body": {
+    "en": "Lisa Su pledged to sharply increase AMD's AI data-center chip supply by 2027.",
+    "zh": "苏姿丰承诺AMD将在2027年大幅增加AI数据中心芯片供应。"
+   },
+   "source": "搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmNybXU1Z3MtaXFRT05JSjQ3N3JTel91cHhaT3J6cUNoWm5sVzFiMF9tdG5qOXQxX3pjQ2hqcWo5RDlzUnRCUDBwVDk1UXo0Ylo1X0p5V2JoaGtuWUNlbUpEM2ttSGVxWDlmdjhTNzN0dllYMUY1TUg3MGF3Ym9FZjNvNEppUHR3Q0NJMA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-06",
    "ts": "2026-10-06T00:31:00Z",
    "level": "minor",
@@ -3635,6 +3981,23 @@
    },
    "source": "QQ News",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vRHpjOUtwb1FCY1BxZGZrLVplVmtiMlFiSURmVXVqTU5LMGM5LUhIZ3ZhckRCWldHOWxBcUlwbFkxZTFHUEFKcGdFSXNlUWJmOEFpV3lB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-06",
+   "ts": "2026-10-06T10:36:09Z",
+   "level": "notable",
+   "title": {
+    "en": "苏姿丰：将持续大幅扩产",
+    "zh": "苏姿丰：将持续大幅扩产"
+   },
+   "body": {
+    "en": "Su said AMD will keep ramping production capacity significantly, signaling confidence in demand for its AI chips.",
+    "zh": "苏姿丰表示AMD将持续大幅扩大产能，显示公司对AI芯片需求的信心。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vU0Zab19aNlg1U1dLUW9wa1FIbjJvZFVtZE5IRjJXbWg2TVFZTGIzdE1LQTlMNlhzaGZubGhPbzEwX0dmSEtBSjBtbHZUTzRGdFRBc0Z1NHJjUW96RkpLbzhRdHoySlhPRjEwQ29B?oc=5",
    "auto": true,
    "judged": true
   },
@@ -5985,6 +6348,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "AMD官宣82亿美元收购World Labs：李飞飞加入，苏姿丰押注物理AI",
+    "zh": "AMD官宣82亿美元收购World Labs：李飞飞加入，苏姿丰押注物理AI"
+   },
+   "body": {
+    "en": "AMD officially announced its $8.2B acquisition of World Labs, bringing Fei-Fei Li aboard as Su bets on 'physical AI.'",
+    "zh": "AMD正式宣布以82亿美元收购World Labs，李飞飞加入，苏姿丰借此押注\"物理AI\"。"
+   },
+   "source": "ThePaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JLWtsajVIeUlIa21QLWE0aXBEQU9qellGRmFsT1lwUlZwQktqYjktamQ0eE41NkpSTGxrZUZPTGxKMGUzTzlNT2ZySmdpU20taDdRbUoyTzJtYlBTN3c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-28",
    "ts": "2026-09-28T23:58:00Z",
    "level": "major",
@@ -6918,8 +7298,8 @@
   "pageviews": 1032519,
   "citations": 236,
   "hIndex": 7,
-  "events": 321,
-  "posts": 71,
+  "events": 340,
+  "posts": 74,
   "wikiEn": "Lisa Su",
   "wikiZh": "蘇姿丰"
  },

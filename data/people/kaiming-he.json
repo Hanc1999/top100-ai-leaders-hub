@@ -1383,6 +1383,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-01",
+   "ts": "2026-10-01T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "何恺明团队新作：看猫片就能学会ARC挑战",
+    "zh": "何恺明团队新作：看猫片就能学会ARC挑战"
+   },
+   "body": {
+    "en": "Kaiming He's team published new work showing a model can learn to solve the ARC reasoning challenge just from watching cat videos, pushing self-supervised visual learning toward abstract reasoning.",
+    "zh": "何恺明团队发表新研究，展示模型仅通过观看猫咪视频就能学会解决ARC推理挑战，将自监督视觉学习推向抽象推理领域。"
+   },
+   "source": "茉莉花新闻网",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBxbTFXeVZ1YTFsME9hZEdTNWlraWk5Z1JTTHV1X1ZFSlpmcVROSzVfZmkyaHdJVjNGZDYwel91WUVVZVBXOHc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-14",
    "ts": "2026-09-14T01:50:58Z",
    "level": "notable",
@@ -1396,6 +1413,23 @@
    },
    "source": "新浪网",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQblJrRERzNVlPN3E1ck1kMTVSZXJxWUQ2UFA3YTVmT1RiTGVNOWpxMXNXd3pXWGJ0QzRfYmJEUmJ2R2VDRWxvY0RqckFlWHFLODlxWVlTeTg5bVY5SS1oYkRQcGFHc1lfTUhEQk5mclg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-22",
+   "ts": "2026-06-22T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "何恺明团队新作：删掉VAE和私有数据后，文生图竟然更强了",
+    "zh": "何恺明团队新作：删掉VAE和私有数据后，文生图竟然更强了"
+   },
+   "body": {
+    "en": "He's team released new work showing that removing the VAE and private training data from a text-to-image model actually makes it stronger.",
+    "zh": "何恺明团队新研究显示，去掉VAE和私有数据后，文生图模型反而表现更强。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVzY0OGZsSm54MTZMSThnUXZfUUl1VUdwWVV3V08xcElDSHlKdE1rU3NDdTlOaUo5UWNrVmcwYUN0eFFxalNackZGZkVtU3c3dk14c0FucWpLYktIOUdLcHQzaGJWbXgtdTVRRXhZRm1RNFM0VlVpNjFEOElzWms1UmRVbw?oc=5",
    "auto": true,
    "judged": true
   },
@@ -1738,7 +1772,7 @@
   "pageviews": 46828,
   "citations": 555963,
   "hIndex": 83,
-  "events": 59,
+  "events": 61,
   "posts": 29,
   "wikiEn": "Kaiming He",
   "wikiZh": "何恺明"

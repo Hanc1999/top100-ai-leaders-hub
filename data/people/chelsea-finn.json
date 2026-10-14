@@ -177,6 +177,25 @@
    }
   },
   {
+   "date": "2026-10-13",
+   "ts": "2026-10-13T21:48:51Z",
+   "kind": "x",
+   "title": {
+    "en": "The Pi API is officially in beta! 🤖 Many people have already been using it to fine-tune π models for their robots -- below are a few We’re hoping to expand test",
+    "zh": "The Pi API is officially in beta! 🤖 Many people have already been using it to fine-tune π models for their robots -- below are a few We’re hoping to expand test"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2110125641819668636",
+   "note": {
+    "en": "Finn announced that Physical Intelligence's Pi API has entered public beta, letting developers fine-tune the company's π robot models.",
+    "zh": "Finn宣布Physical Intelligence的Pi API已进入公测阶段,开发者可以借此微调该公司的π机器人模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-09",
    "ts": "2026-10-09T21:38:20Z",
    "kind": "x",
@@ -1792,25 +1811,6 @@
    "connector": null
   },
   {
-   "date": "2025-02-04",
-   "ts": "2025-02-04T19:32:21Z",
-   "kind": "x",
-   "title": {
-    "en": "Our first open-source release at Pi 🤖 - π₀ and π₀-FAST model weights - code for model, on-robot inference, &amp; fine-tuning - fine-tuned checkpoints that can b",
-    "zh": "Our first open-source release at Pi 🤖 - π₀ and π₀-FAST model weights - code for model, on-robot inference, &amp; fine-tuning - fine-tuned checkpoints that can b"
-   },
-   "source": "@chelseabfinn",
-   "url": "https://x.com/chelseabfinn/status/1886860362580197744",
-   "note": {
-    "en": "Physical Intelligence releases its first open-source models, π₀ and π₀-FAST, with weights and fine-tuning code.",
-    "zh": "Physical Intelligence 发布了首个开源模型 π₀ 和 π₀-FAST，包含权重和微调代码。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2023-03-22",
    "ts": null,
    "kind": "podcast",
@@ -1894,10 +1894,10 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 33.7,
+  "total": 33.9,
   "attention": 22,
   "centrality": 39,
-  "momentum": 47,
+  "momentum": 48,
   "stature": 39,
   "pageviews": 14192,
   "citations": 26696,

@@ -677,6 +677,25 @@
    "connector": "backfill"
   },
   {
+   "date": "2023-08-03",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Kevin Scott: Putting AI into the hands of people everywhere",
+    "zh": "Kevin Scott: Putting AI into the hands of people everywhere"
+   },
+   "source": "Tools and Weapons with Brad Smith",
+   "url": "https://podcasts.apple.com/us/podcast/kevin-scott-putting-ai-into-the-hands-of-people-everywhere/id1632459165?i=1000623337683&uo=4",
+   "note": {
+    "en": "Kevin Scott discusses his rural Virginia roots and his philosophy that humans must stay at the center of AI development, in conversation with Brad Smith.",
+    "zh": "Kevin Scott在与Brad Smith的对话中谈及自己在弗吉尼亚州乡村的成长经历，以及“人类必须始终处于AI发展核心”的理念。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2023-08-01",
    "ts": null,
    "kind": "x",
@@ -1222,7 +1241,7 @@
   "citations": 38763,
   "hIndex": 96,
   "events": 1,
-  "posts": 57,
+  "posts": 58,
   "wikiEn": "Kevin Scott (businessman)",
   "wikiZh": null
  },

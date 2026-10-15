@@ -1,5 +1,5 @@
 {
- "rank": 90,
+ "rank": 89,
  "id": "jason-wei",
  "name": {
   "en": "Jason Wei",
@@ -162,6 +162,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-10-14",
+   "ts": "2026-10-14T18:52:39Z",
+   "kind": "x",
+   "title": {
+    "en": "In our health workstream at Meta we did a project where we wanted to see what research papers medical experts could write using a Muse Wonder coding scaffold th",
+    "zh": "In our health workstream at Meta we did a project where we wanted to see what research papers medical experts could write using a Muse Wonder coding scaffold th"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/2110443686782013909",
+   "note": {
+    "en": "Wei described a Meta health-team project where medical experts used a Muse Wonder coding scaffold with access to a 5M-record database to write research papers.",
+    "zh": "魏描述了Meta健康团队的一个项目：医学专家使用可访问500万条病历数据库的Muse Wonder编程脚手架来撰写研究论文。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
   },
   {
    "date": "2026-10-12",
@@ -1285,25 +1304,6 @@
    "connector": "x"
   },
   {
-   "date": "2024-12-23",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Realization: the old style of “hallucinations research” via self-calibration is probably going to die down. I used to be very excited about it but now I am skep",
-    "zh": "Realization: the old style of “hallucinations research” via self-calibration is probably going to die down. I used to be very excited about it but now I am skep"
-   },
-   "source": "@_jasonwei",
-   "url": "https://x.com/_jasonwei/status/1871285864690815053",
-   "note": {
-    "en": "Wei predicts self-calibration approaches to hallucination research will fade, now that models increasingly have internet access to check themselves against.",
-    "zh": "Wei预测基于自我校准的幻觉研究方向将逐渐式微,因为模型正越来越多地获得联网核实的能力。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
    "date": "2024-12-21",
    "ts": null,
    "kind": "paper",
@@ -1878,10 +1878,10 @@
  },
  "cat": "lab",
  "score": {
-  "total": 24.6,
+  "total": 25.1,
   "attention": null,
   "centrality": 34,
-  "momentum": 13,
+  "momentum": 14,
   "stature": null,
   "pageviews": 0,
   "citations": 4944,

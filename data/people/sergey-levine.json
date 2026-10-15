@@ -181,6 +181,25 @@
    }
   },
   {
+   "date": "2026-10-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scaling Online Optimal Transport Minibatches for Flow Matching",
+    "zh": "Scaling Online Optimal Transport Minibatches for Flow Matching"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.18838v1",
+   "note": {
+    "en": "Levine and a collaborator improve how source and data samples are paired in flow matching, helping stabilize training when scaling to large online minibatches.",
+    "zh": "莱文与合作者改进了流匹配中源样本与数据样本的配对方式，有助于在线扩展至大批量训练时保持稳定性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-09",
    "ts": null,
    "kind": "paper",
@@ -1657,7 +1676,7 @@
   "citations": 63110,
   "hIndex": 112,
   "events": 1,
-  "posts": 77,
+  "posts": 78,
   "wikiEn": "Sergey Levine",
   "wikiZh": null
  },

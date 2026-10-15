@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-10-14",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Can Open Models Keep Up With the AI Frontier? | Nathan Lambert",
+    "zh": "Can Open Models Keep Up With the AI Frontier? | Nathan Lambert"
+   },
+   "source": "The a16z Show",
+   "url": "https://podcasts.apple.com/us/podcast/can-open-models-keep-up-with-the-ai-frontier-nathan-lambert/id842818711?i=1000796289780&uo=4",
+   "note": {
+    "en": "Lambert joined a16z's podcast to argue open models can still keep pace with frontier labs despite the compute, data and talent gap.",
+    "zh": "兰伯特受邀参加a16z播客，论述尽管在算力、数据和人才上存在差距，开源模型仍有能力追赶前沿实验室。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-10-09",
    "ts": "2026-10-09T21:33:47Z",
    "kind": "blog",
@@ -1564,7 +1583,7 @@
   "citations": 720,
   "hIndex": 13,
   "events": 1,
-  "posts": 73,
+  "posts": 74,
   "wikiEn": "Nathan Lambert",
   "wikiZh": null
  },

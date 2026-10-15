@@ -1,5 +1,5 @@
 {
- "rank": 73,
+ "rank": 74,
  "id": "eric-xing",
  "name": {
   "en": "Eric Xing",
@@ -161,6 +161,25 @@
     "en": "Argues the next phase will not come from scaling models larger but from redesigning AI to understand the world and plan within it.",
     "zh": "主张下一阶段不来自把模型做得更大，而来自重新设计能理解世界并在其中规划的 AI。"
    }
+  },
+  {
+   "date": "2026-10-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Taming Softmax at the Limits of Muon: A Unified Approach through Hilbert Geometry",
+    "zh": "Taming Softmax at the Limits of Muon: A Unified Approach through Hilbert Geometry"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.17588v1",
+   "note": {
+    "en": "Xing co-authored a paper reframing Muon's weight-update geometry through a unified Hilbert-geometry lens to better handle the nonlinearity softmax introduces.",
+    "zh": "邢波合著了一篇论文，通过统一的希尔伯特几何视角重新阐释Muon优化器的权重更新机制，以更好地处理softmax带来的非线性问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-10-08",
@@ -1685,16 +1704,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 30.8,
+  "total": 30.6,
   "attention": 25,
   "centrality": 14,
-  "momentum": 51,
+  "momentum": 50,
   "stature": 54,
   "pageviews": 21312,
   "citations": 41656,
   "hIndex": 97,
   "events": 2,
-  "posts": 79,
+  "posts": 80,
   "wikiEn": "Eric Xing",
   "wikiZh": "邢波"
  },

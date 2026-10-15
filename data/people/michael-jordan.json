@@ -189,6 +189,25 @@
    }
   },
   {
+   "date": "2026-10-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Strategic Multi-Agent Resource Allocation via Statistical Contracts",
+    "zh": "Strategic Multi-Agent Resource Allocation via Statistical Contracts"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.18336v1",
+   "note": {
+    "en": "Jordan and collaborators (Chugg, Ramdas) study strategic hypothesis testing and statistical contracts for allocating resources among self-interested agents who control relevant data.",
+    "zh": "乔丹与合作者（Chugg、Ramdas）研究战略性假设检验与统计契约问题，用于在掌握相关数据的利益相关主体之间分配资源。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-05",
    "ts": null,
    "kind": "paper",
@@ -927,16 +946,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 28.1,
+  "total": 27.9,
   "attention": 31,
   "centrality": 0,
-  "momentum": 30,
+  "momentum": 29,
   "stature": 86,
   "pageviews": 40320,
   "citations": 181936,
   "hIndex": 163,
   "events": 3,
-  "posts": 38,
+  "posts": 39,
   "wikiEn": "Michael I. Jordan",
   "wikiZh": "迈克尔·乔丹 (学者)"
  },

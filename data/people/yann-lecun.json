@@ -198,6 +198,25 @@
    }
   },
   {
+   "date": "2026-10-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "LeHami: Symplectic Latent Dynamics for World Models",
+    "zh": "LeHami: Symplectic Latent Dynamics for World Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.15267v1",
+   "note": {
+    "en": "LeCun co-authors a new paper, with longtime JEPA collaborator Randall Balestriero, on symplectic latent dynamics for world models, addressing latent-space contraction over long autoregressive rollouts.",
+    "zh": "杨立昆与长期合作者Randall Balestriero合著新论文，提出用于世界模型的辛结构潜在动力学方法，解决长时程自回归预测中潜空间收缩的问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-06",
    "ts": null,
    "kind": "paper",
@@ -844,25 +863,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2026-03-12",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Temporal Straightening for Latent Planning",
-    "zh": "Temporal Straightening for Latent Planning"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2603.12231v3",
-   "note": {
-    "en": "Reshapes pretrained visual features by straightening their trajectories over time so they suit planning rather than only recognition.",
-    "zh": "通过在时间上“拉直”轨迹来重塑预训练视觉特征，使其适合规划而不只是识别。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2025-12-15",
    "ts": null,
    "kind": "podcast",
@@ -1159,6 +1159,23 @@
    "url": "https://finance.yahoo.com/news/yann-lecun-calls-alexandr-wang-182614902.html"
   },
   {
+   "date": "2026-10-14",
+   "ts": "2026-10-14T05:21:08Z",
+   "level": "major",
+   "title": {
+    "en": "AI safety or control? Yann LeCun challenges Anthropic over calls to slow down development",
+    "zh": "AI safety or control? Yann LeCun challenges Anthropic over calls to slow down development"
+   },
+   "body": {
+    "en": "LeCun publicly challenged Anthropic's calls to slow AI development, reasserting his dissenting position that safety-driven deceleration is the wrong approach.",
+    "zh": "杨立昆公开反驳Anthropic关于放慢AI发展速度的呼吁，重申他认为以安全为由减速是错误做法的异见立场。"
+   },
+   "source": "Firstpost",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSW1XQzNsUGs1dWpMVl9KRHRIUlhlcUdoZW9QX1dFUk11Njl4MU1fdVF3X2poSllEUmZ4bWI1M0Jwb2FRSWtoakNQSHI0NUJPTlBMZWVWREFqLXZaZWNONWl1eG1WVjVJMUhDWmd3aWZlU3ZTQ0JhZTExODhEdVdwTWdEMGJaQ2NUSmZibkZEb2NjWGxBTm51MlBLRm13NkJHVE5od1VHbWNtTGlXOExNbU5IcDRxMU9kMS1wSHcyUC05NUJJZF80SUVKdkVyZ9IB0wFBVV95cUxOTkdlQjlEYzBGRWlpWUc3SDZ4MHhxU2tkN0hQbHNVclBaVl9iV0x0LTk4RDZVb2NVUFdvUTU1WFFyTmdqN20td1RwTTJ4ZWV6aWlwY3dNMGhmV2lieHdrNHVTMjNHQ240cDdMMllyUGRpZHgtZzgtb2M1X0VUblhqUU9jRll1UEFjZ3JpVzFoODdONlNCZ3o5VmlZcldHQ0hfRDNiTHRVT1lLSXN5TExscHlVSTAwNlZzb1N2MUZWQTR2Q0Z0RE0yc2x4d2Rkc2dCTUU4?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-13",
    "ts": "2026-10-13T17:11:00Z",
    "level": "notable",
@@ -1172,6 +1189,23 @@
    },
    "source": "The Times of India",
    "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPaTRPZ3hsSXd1MXpnTW84aUxIUGhtUW1JeUJFNWlfeGtHcThXeTdfM1FidGVvWEZSd3RqMEhBaDBQVzZCeU94b19zUGpoRUpVYlNlNlNSZU9iOVlRODZFUm5yWTFDVVhucFo1Ti1yZGRWalJWd2cyTV9VOWhQWjJ4SXFqSjZHdkEySUY2YWxka05jQVhHWks0bFBLLUFQVXYxN1lpc203MVhHbkFlc2VYUHp2TGFyOFJ2LW14bUlTSkhIRm9IZmlEeElWWDlQY05XUHJjMU12WjIwRl9MSllxTmpYNlV0YVFUemo3YlR4bVZsWU93OUZhMGxfc1c0Mk9yUTZ5QWhIZzRGU0wzMkhiYWdjWnFERXk0YmFPRkc5cUpPNndjZlJYeGxoaTE3dDFHTVhxTGZwLXFpU25pMnkxU2lYRkVod9IBywJBVV95cUxQMGxJdTZKMnJGemdkbWpiQVhPOVFDdDlpdU1aa2t0MnlXMndhcUtMT1VTc2dNSGZNNF9jMXdUR2IxMGZuMlB6c3RIa1VxaWIzdFNvMTZNWmZ1X0M2ZDF1NEtxSUl6UmVLZE5YNTB0eUE0V3U1bjljNy11Y3FfWWNDUGw4aGtDTDRiSVNTa3psYXZCQjE1NkRMcjJnV0I2SHdxUE45Z0FnVGdTeWlGN1ZjbFlldDRCVHdicjZWRnNjekMtT3hZSDdKVXVmVDc5TUEwRnpuX0xObE1CSHQxNnV1MEN4LVZtbjl4RVZmN2p3Zzd6ZWNZUUkybHNyc2VfNkpCb3BrWHFWVVBnU1cwUVlRQ2pxZVczNDI1NmVEeEVkNjNjQ1NFYlowVTExb04wRTJZOHUxOHR6dzhNMFU3THA4dk9XZzhxaHlXMUcw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-13",
+   "ts": "2026-10-13T17:31:31Z",
+   "level": "notable",
+   "title": {
+    "en": "Yann LeCun pushes back on Dario Amodei's AI slowdown call",
+    "zh": "Yann LeCun pushes back on Dario Amodei's AI slowdown call"
+   },
+   "body": {
+    "en": "LeCun publicly pushed back on Dario Amodei's call for an AI slowdown.",
+    "zh": "勒昆公开反驳了达里奥·阿莫代伊关于AI放缓的呼吁。"
+   },
+   "source": "NewsBytes",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUGZER1NNVVRsZTZSTl9fTXFlYVJheXNLclVGOGNpYnQyWDhJd0lEMmh0cEVMdzluNFNpZVpBa1dFMGN3MkVSUDVtR1ZKZ2pvNzl2ZkJQMlRlM3Q2eDZBaXNHVkFHN0hRbDVSek55VTBmcmhFZGV1LUw4TER1OTdmQk1JUlVncnhaa3J4U3RMbkRGVFoyZ3dBSHoxODhETVNSMC1penN3?oc=5",
    "auto": true,
    "judged": true
   },
@@ -1393,6 +1427,40 @@
    },
    "source": "新浪财经",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZGMxSlc5c3Y1eU9tWUJYNlotMXU1QWx5bFU1QkVnRlV5M2lxT2VPU2M1aWZXUndwVWI1NVlBRUpUNVBYcWR0dmdnaWRYa2RJLUZlNW1ObzBGSGw5Sk5JMWxEYm1ZUExTS25CSW9qRHkzRnQyZzZMaG9pc0pHYTV0ajBWbDdnZm83eFRmcjVQd3pmVUxaaXloemQxbkF3UTlFUzhhaXJwdGx4YVlPWG9vdTFmTThZNDZDR0JXZm5BUDZkUW1MRTdxV25DWFdtc1V1SHpmSjRnczZNeU5EZlVZ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T14:13:10Z",
+   "level": "notable",
+   "title": {
+    "en": "图灵奖得主杨立昆：AI下一阶段突破将来自世界模型，失控风险可通过工程技术控制",
+    "zh": "图灵奖得主杨立昆：AI下一阶段突破将来自世界模型，失控风险可通过工程技术控制"
+   },
+   "body": {
+    "en": "LeCun reiterated that the next breakthrough in AI will come from world models rather than scaling LLMs, and said runaway risk can be managed through engineering — his core dissenting thesis.",
+    "zh": "杨立昆重申，AI下一阶段的突破将来自世界模型而非扩大LLM规模，并表示失控风险可通过工程技术加以控制，这是他一贯主张的核心观点。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVWY4cjlQSkNVZ1dWUm44YlRHOGVZc1JFeG9kRVVuRXBiblBhcHpNUGZmV2NYc28xNDZXUThaM3FtbEQzWU5DZDNfaUlqX202dTJBQ1VzRC1JYVVaN0FNVW15X01XWHhNclV5R2NJamZyYW9EMS0wZmZWMFM5ZFBNQ1ZuOExNak5Zcm1TemxGRUhxRjE3ZGlv?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T06:41:54Z",
+   "level": "notable",
+   "title": {
+    "en": "Yann LeCun: \"AI doomsday theory is science fiction… Korea has opportunity in physical AI revolution\" (Comprehensive)",
+    "zh": "Yann LeCun: \"AI doomsday theory is science fiction… Korea has opportunity in physical AI revolution\" (Comprehensive)"
+   },
+   "body": {
+    "en": "LeCun reiterated that AI-doomsday fears are 'science fiction' and argued Korea has an opening in physical/embodied AI — consistent with his AMI Labs bet against pure LLM scaling toward AGI.",
+    "zh": "杨立昆重申AI末日论是\"科幻小说\"，并认为韩国在物理（具身）AI领域有机会——这与他在AMI Labs押注非纯语言模型路线通往AGI的立场一致。"
+   },
+   "source": "머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzVmFoQ0swSjdvUG9JZjE2bmUydXF5TkJvdHAzMXh4QjBuZlBJM3hEZlV4V2s3aE5paHA5TGRsVGUtbGxmcE8yWTZ4SDczVjVBLV90WTRXMDVobDZ5V05vbk0ySDZFTnh3ejR3?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2124,6 +2192,23 @@
    },
    "source": "inkl",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOU1VLOUZybHNlVUV1Z1kwVzEtWjlqb1RieVRFdmd1TzBVQ1BPYmRiSThwYU8xQnFOTG8xc0F6dHdQS3hCcERrWWxBVnJYUTE2VlA1Um5VUjRiczF0eTNqWmp3UmpSV1BBdHVqeS01Q0JiX2tJMVpWalRFNXI1aXV5ME9IczNhZWdQSXI0djN4SENMWmRNekQ3cUItX1ktTDVEMFBpZGRLQ0JpQUhpNk42dDFNVExpMFVfNHBUTGdzZGlSSlE1WVhJdmFuWFBNSENYazdDR3JFNDJQQnhsSTdaTTlYRlpuSFF4MS1Z?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-21",
+   "ts": "2026-09-21T07:00:00Z",
+   "level": "minor",
+   "title": {
+    "en": "Yann LeCun, Bob Langer, Jens Nielsen and Fabian Theis Join Cellular Intelligence Scientific Advisory Board",
+    "zh": "Yann LeCun, Bob Langer, Jens Nielsen and Fabian Theis Join Cellular Intelligence Scientific Advisory Board"
+   },
+   "body": {
+    "en": "LeCun joined the scientific advisory board of a new venture, Cellular Intelligence, alongside other prominent scientists.",
+    "zh": "杨立昆加入新公司Cellular Intelligence的科学顾问委员会，与其他多位知名科学家同列。"
+   },
+   "source": "Morningstar",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPb3dGQ1JZSnpUbzFOVmE5TWsyeDY2UjhhYWlHcTlCMWtSeG1KMWpmY21EVlItWWFYNWhpWm9SSzgxSDBKcTZQM0pWTWNmcTZ1Qjd2d3A1VExwbmt4RVNkYTJ5VGhMSGdzYjNFZVNGV3RrWFAzYTNIWWN0UlQ3ak5hTlNLQXBSMkVhT01tY1M3bUxHUE5CNGpPZkdvenZENzlhSlZ3eGlxbDBmYjRGTjFjTzJ4SXBQdG1GaEZCUVdzTlJQTW54bHRrTVhvamMzZGFaVEctTExUUDhnRTdCTXNvUVk3YkR3RjlOVi1iaGhxdDJ2X2hIbXhkaQ?oc=5",
    "auto": true,
    "judged": true
   },
@@ -3401,7 +3486,7 @@
   "pageviews": 531264,
   "citations": 253869,
   "hIndex": 120,
-  "events": 133,
+  "events": 138,
   "posts": 52,
   "wikiEn": "Yann LeCun",
   "wikiZh": "杨立昆"

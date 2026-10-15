@@ -301,6 +301,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2026-09-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "From Parameters to Behaviors: A Survey of Model Fusion for Large Language Models",
+    "zh": "From Parameters to Behaviors: A Survey of Model Fusion for Large Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2609.19553v2",
+   "note": {
+    "en": "Yang co-authored a survey of model-fusion techniques for combining capabilities from multiple large language models into a single target model.",
+    "zh": "杨红霞合著了一篇关于模型融合技术的综述，探讨如何将多个大语言模型的能力整合到一个目标模型中。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-08-04",
    "ts": null,
    "kind": "paper",
@@ -1046,7 +1065,7 @@
   "citations": 7252,
   "hIndex": 40,
   "events": 15,
-  "posts": 32,
+  "posts": 33,
   "wikiEn": null,
   "wikiZh": null
  },

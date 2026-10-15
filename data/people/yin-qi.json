@@ -1,5 +1,5 @@
 {
- "rank": 75,
+ "rank": 76,
  "id": "yin-qi",
  "name": {
   "en": "Yin Qi",
@@ -187,6 +187,25 @@
    }
   },
   {
+   "date": "2026-07-25",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "131. 印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程",
+    "zh": "131. 印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程"
+   },
+   "source": "蛋播",
+   "url": "https://podcasts.apple.com/us/podcast/131-%E5%8D%B0%E5%A5%87%E5%87%BA%E4%BB%BB%E9%98%B6%E8%B7%83%E6%98%9F%E8%BE%B0%E8%91%A3%E4%BA%8B%E9%95%BF%E7%9A%84%E8%AE%BF%E8%B0%88-%E8%81%AA%E6%98%8E%E4%BA%BA%E7%9A%84%E8%AF%B1%E6%83%91-%E5%8F%96%E8%88%8D-%E8%B6%85%E9%95%BF%E9%93%BE%E8%B7%AF%E6%AE%8B%E9%85%B7%E6%B7%98%E6%B1%B0%E8%B5%9B-%E9%98%B6%E8%B7%83%E5%87%BD%E6%95%B0%E5%92%8C%E8%B6%85%E5%A4%9A%E5%85%83%E6%96%B9%E7%A8%8B/id6794360519?i=1000779222238&uo=4",
+   "note": {
+    "en": "Yin Qi gave an extended interview on taking the chairman role at StepFun, discussing why foundation-model companies can't be purely to-B or to-C and must pair models with physical devices.",
+    "zh": "印奇就出任阶跃星辰董事长接受长篇访谈，谈到基模公司既不能只做to B也不能只做纯to C软件，必须让\"大脑\"长出\"身体\"。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
    "date": "2026-02-12",
    "ts": null,
    "kind": "blog",
@@ -218,25 +237,6 @@
    "note": {
     "en": "An interview recorded in Silicon Valley in which he contrasts the lessons of AI 1.0 with the mistakes he wants to avoid in AI 2.0, and answers the \"are you cosplaying Elon Musk\" question directly.",
     "zh": "在硅谷录制的访谈，他对比 AI 1.0 时代的教训与 AI 2.0 要避开的错误，并正面回应了「你是在 Cosplay 马斯克吗」的提问。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "apple-podcasts",
-   "connector": "podcasts"
-  },
-  {
-   "date": "2026-01-26",
-   "ts": null,
-   "kind": "podcast",
-   "title": {
-    "en": "131. 印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程",
-    "zh": "131. 印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程"
-   },
-   "source": "张小珺Jùn｜商业访谈录",
-   "url": "https://podcasts.apple.com/us/podcast/131-%E5%8D%B0%E5%A5%87%E5%87%BA%E4%BB%BB%E9%98%B6%E8%B7%83%E6%98%9F%E8%BE%B0%E8%91%A3%E4%BA%8B%E9%95%BF%E7%9A%84%E8%AE%BF%E8%B0%88-%E8%81%AA%E6%98%8E%E4%BA%BA%E7%9A%84%E8%AF%B1%E6%83%91-%E5%8F%96%E8%88%8D-%E8%B6%85%E9%95%BF%E9%93%BE%E8%B7%AF%E6%AE%8B%E9%85%B7%E6%B7%98%E6%B1%B0%E8%B5%9B-%E9%98%B6%E8%B7%83%E5%87%BD%E6%95%B0%E5%92%8C%E8%B6%85%E5%A4%9A%E5%85%83%E6%96%B9%E7%A8%8B/id1634356920?i=1000746623201&uo=4",
-   "note": {
-    "en": "His first long interview after becoming chairman of StepFun, on the new role, the brutal shakeout among Chinese model companies, and how he intends to reposition the firm.",
-    "zh": "他出任阶跃星辰董事长后的首次长访谈，谈新身份、大模型公司的残酷淘汰赛，以及他打算如何重新定位阶跃。"
    },
    "auto": true,
    "judged": true,
@@ -1145,6 +1145,23 @@
    "judged": true
   },
   {
+   "date": "2026-01-29",
+   "ts": "2026-01-29T08:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "为什么是阶跃星辰？印奇挂帅拿下50亿融资！",
+    "zh": "为什么是阶跃星辰？印奇挂帅拿下50亿融资！"
+   },
+   "body": {
+    "en": "Yin led StepFun to a 5-billion-yuan funding round as the company pushes into robotics-era compute.",
+    "zh": "印奇带领阶跃星辰完成50亿元融资，公司正加速布局机器人时代的计算平台。"
+   },
+   "source": "手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUcTF4VlIxTldhUlJWZDVzS0VCRzRkMWFSZWdma2lvSUtyQWMxWUdSNGpobEJwcEdtNlNZWUxRUHBGbVdfdnp3cFpnNVBXdjJHMHJuNGh2MGJGajl5UENvUXZpQmtyaXM4NW15MkkwRXk0UQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-01-27",
    "ts": "2026-01-27T08:00:00Z",
    "level": "major",
@@ -1281,6 +1298,23 @@
    "judged": true
   },
   {
+   "date": "2026-01-26",
+   "ts": "2026-01-26T08:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "阶跃星辰获超50亿元人民币B+轮融资，领跑大模型融资榜！印奇正式挂帅",
+    "zh": "阶跃星辰获超50亿元人民币B+轮融资，领跑大模型融资榜！印奇正式挂帅"
+   },
+   "body": {
+    "en": "StepFun closed a B+ funding round of over RMB 5 billion, topping China's large-model financing rankings, as Yin Qi formally took the helm of the company.",
+    "zh": "阶跃星辰完成超50亿元人民币B+轮融资，领跑中国大模型融资榜，印奇正式挂帅执掌公司。"
+   },
+   "source": "上观新闻",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15S0pOdHBzN2tPTGdGWHJJUTlaaWhiQVE2bXlQYklMenFSckJGSjB5Tm1CeGduaDQ5Tjc3YklnUEI3Z3R4R1dIaVZVYWNFdE42azcwZ3kxdEFJcHM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-01-25",
    "ts": "2026-01-25T08:00:00Z",
    "level": "major",
@@ -1339,15 +1373,15 @@
  },
  "cat": "product",
  "score": {
-  "total": 30.5,
+  "total": 30.2,
   "attention": 10,
   "centrality": 30,
-  "momentum": 70,
+  "momentum": 69,
   "stature": null,
   "pageviews": 3395,
   "citations": 1762,
   "hIndex": 22,
-  "events": 54,
+  "events": 56,
   "posts": 13,
   "wikiEn": "Yin Qi",
   "wikiZh": "印奇"

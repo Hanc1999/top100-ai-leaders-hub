@@ -715,6 +715,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2024-08-28",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Scott Wu, Cognition, & Creating an AI Programmer",
+    "zh": "Scott Wu, Cognition, & Creating an AI Programmer"
+   },
+   "source": "Minus One",
+   "url": "https://podcasts.apple.com/us/podcast/scott-wu-cognition-creating-an-ai-programmer/id1759014294?i=1000666943055&uo=4",
+   "note": {
+    "en": "Wu discusses going from competitive-programming medalist to founding Cognition and building an AI programmer.",
+    "zh": "吴谈及自己如何从竞赛编程奖牌选手成长为Cognition创始人，并打造出一名AI程序员。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2024-05-02",
    "ts": null,
    "kind": "podcast",
@@ -884,7 +903,7 @@
   "citations": 243,
   "hIndex": 6,
   "events": 7,
-  "posts": 34,
+  "posts": 35,
   "wikiEn": "Scott Wu",
   "wikiZh": null
  },

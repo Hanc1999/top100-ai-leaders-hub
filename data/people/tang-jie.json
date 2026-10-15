@@ -2597,6 +2597,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-17",
+   "ts": "2026-09-17T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "刚刚，唐杰发文：智谱实现了RSI的最小循环",
+    "zh": "刚刚，唐杰发文：智谱实现了RSI的最小循环"
+   },
+   "body": {
+    "en": "Tang Jie disclosed Zhipu's first recursive self-improvement (RSI) result: a GLM-5.3-driven Infra Agent that autonomously optimized its own inference service across 100,000+ domestic chips, tripling throughput in two weeks — a concrete step toward models improving the systems that serve them.",
+    "zh": "唐杰披露了智谱首个递归自我改进（RSI）成果：由GLM-5.3驱动的Infra Agent在十万余张国产芯片集群上自主优化推理服务，两周内吞吐量提升约3倍，是模型反过来改进自身服务系统的具体进展。"
+   },
+   "source": "鞭牛士",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LYXBGT0ZtZFdIVC1fcUpialV5VDFuUUJJRVVvZm1qOEdOeUhJU0o3c0oxbGNoVC1YUnJENXhUR3RqQi1DaEtKYS1UbEp6MDBRN1I1THlocHRvdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-14",
    "ts": "2026-09-14T02:24:58Z",
    "level": "notable",
@@ -2763,6 +2780,23 @@
    },
    "source": "搜狐网",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2MXhhcXFlX3l2TGNhRzlOS25lV2ZydlZ3RE93NGViN0R3amd5NUYtLWhKU2lFVS1nMGw2YzhCbmF4SldXQU5BcG1tNWlPcTNQMEE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-02",
+   "ts": "2026-09-02T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "唐杰解读智谱半年报：Scaling从未停止 GLM-6方向是自进化",
+    "zh": "唐杰解读智谱半年报：Scaling从未停止 GLM-6方向是自进化"
+   },
+   "body": {
+    "en": "Tang said Zhipu's scaling push continues unabated, with GLM-6 aimed at self-evolving capability.",
+    "zh": "唐杰表示智谱的Scaling从未停止，GLM-6的方向是自我进化。"
+   },
+   "source": "财富号",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41OHBJUnR6eVJibTJLV0o1UWExaHppUS1VRmtBLU92cXY1OHUwN2hyZFRDeEYxeENYb3d3REpfaktTZzlqalV2R1ZIblYwcmJIenFUUmotUmV4czJrXzhYMnhhYXpOX0x0Yy13?oc=5",
    "auto": true,
    "judged": true
   },
@@ -3462,7 +3496,7 @@
   "pageviews": 0,
   "citations": 30390,
   "hIndex": 83,
-  "events": 112,
+  "events": 114,
   "posts": 71,
   "wikiEn": null,
   "wikiZh": null

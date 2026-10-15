@@ -156,6 +156,25 @@
    }
   },
   {
+   "date": "2026-10-14",
+   "ts": "2026-10-14T21:32:41Z",
+   "kind": "x",
+   "title": {
+    "en": "Grok Voice 3.0 is now the world’s leading conversational voice model",
+    "zh": "Grok Voice 3.0 is now the world’s leading conversational voice model"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2110483960312799675",
+   "note": {
+    "en": "Musk announced Grok Voice 3.0, calling it the world's leading conversational voice model, in an X post that drew strong engagement (2,200+ likes, 440k+ views).",
+    "zh": "马斯克在X上宣布Grok Voice 3.0，称其为全球领先的对话式语音模型，该帖获得了可观的互动量（2200多个赞，44万多次浏览）。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-13",
    "ts": "2026-10-13T04:43:10Z",
    "kind": "x",
@@ -1087,25 +1106,6 @@
    "connector": null
   },
   {
-   "date": "2026-10-06",
-   "ts": "2026-10-06T20:22:51Z",
-   "kind": "x",
-   "title": {
-    "en": "SpaceX will provide connectivity throughout the solar system and beyond",
-    "zh": "SpaceX will provide connectivity throughout the solar system and beyond"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2107567281480028562",
-   "note": {
-    "en": "Musk declared SpaceX's ambition to extend connectivity across the entire solar system, not just Earth orbit.",
-    "zh": "马斯克宣称SpaceX的目标是将连接能力扩展到整个太阳系，而不仅限于地球轨道。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2026-07-23",
    "ts": null,
    "kind": "podcast",
@@ -1205,6 +1205,244 @@
    },
    "source": "xAI",
    "url": "https://x.ai/news"
+  },
+  {
+   "date": "2026-10-14",
+   "ts": "2026-10-14T06:19:58Z",
+   "level": "minor",
+   "title": {
+    "en": "Elon Musk says Micron is 'reasonable' on memory prices while others are 'extortionate'",
+    "zh": "Elon Musk says Micron is 'reasonable' on memory prices while others are 'extortionate'"
+   },
+   "body": {
+    "en": "Musk called Micron's memory pricing 'reasonable' compared to what he termed 'extortionate' elsewhere, a public comment on the memory-chip costs underpinning AI compute buildouts.",
+    "zh": "马斯克称美光（Micron）的内存价格\"合理\"，并指责其他厂商\"漫天要价\"，这是他对支撑AI算力建设的存储芯片成本的一次公开评论。"
+   },
+   "source": "digitimes",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONmJfb3N5QmFyeXJIWnV4OUltSlJUQnpDbnZ5Rkh5RjQyNE02Nldyc3lOaXZFMm0zUHVjY1BGcU9RTmRKcHlhdTNjT2NjMzV3YVFKTmpZWnA2N3ZMRDhsTG1QdHpYYmpaWVVpdGplUWhYSDB3eklJWHNIUE1qN0VSZ2FoWEY?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-14",
+   "ts": "2026-10-14T08:43:38Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk has donated $276M to Republican midterm campaigns, reports say",
+    "zh": "Elon Musk has donated $276M to Republican midterm campaigns, reports say"
+   },
+   "body": {
+    "en": "Musk became the largest known individual donor to the 2026 Republican midterm campaigns, giving roughly $276M.",
+    "zh": "马斯克已成为2026年中期选举中已知最大的个人共和党捐款人，捐款约2.76亿美元。"
+   },
+   "source": "NPR",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc3ZXWi1JbThkLVpLZVBxTTBMQUFsSHlkWnFpNG1nWUkxMThyWU5BVzlVeXYzRzJEWThuQ2NELUxvRWV3WnF6azFleC15eHo5VHk3bVp0SUJJQ01MbDB5NEl4cEkyR3lmaG5NQjFkbnp6RjdRV0o3RUxzUGxKRlF3RDJMNml1SHdiNV9oVFYtLXI0Rlh3VlBsZWNLZVNFaXRLMUZiZV9NLUdWcUcxOVdfSUdBamtOQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-14",
+   "ts": "2026-10-14T09:31:00Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk turns on Ukraine by limiting Starlink",
+    "zh": "Elon Musk turns on Ukraine by limiting Starlink"
+   },
+   "body": {
+    "en": "Musk restricted Starlink service to Ukraine, a reversal of his earlier full-throated support and a geopolitically consequential move given SpaceX's central role in the war.",
+    "zh": "马斯克限制乌克兰使用Starlink服务，这是他此前全力支持立场的转变，鉴于SpaceX在俄乌战争中的核心作用，此举具有重大地缘政治影响。"
+   },
+   "source": "The Telegraph",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRkZ4UFJ1aVhkVDBkR01IU2pEdnJDemJ3UEtyMldNeW5aT1FEZEJfQW5yeTd4dC02T2t3cG1MTE1OekJYTWlqbkhvekpLOGtjNTZ2M1ZaNmh5MFI3V1NYR2hMVXBhTWtHUGJCMXpBNHZKTjZ6U2FZTVhDOEFKa3Zfcm0xanNmUjVoRWFvZzk1RHFoWDVCRGF4bQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-14",
+   "ts": "2026-10-14T10:37:41Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Has a Warning for AI Data Center Investors, Says Funding Is Only Half the Battle: 'SpaceX Has a",
+    "zh": "Elon Musk Has a Warning for AI Data Center Investors, Says Funding Is Only Half the Battle: 'SpaceX Has a"
+   },
+   "body": {
+    "en": "Musk warned AI data-center investors that funding alone won't be enough, pointing to SpaceX's power and supply-chain position as the real constraint on buildout.",
+    "zh": "马斯克警告AI数据中心投资者，仅靠资金远远不够，并指出SpaceX在电力与供应链上的优势才是制约扩张的真正因素。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPNUFpc2ZrbFBZSzhzZkgxZFRIczc5WUV3NWNNVGNLSTJWSjRYbmxZdjdxUVZnWnREbVVfWnpjUWMyTzRkMWgycnpmSTNnTDFxSGtjeVdkcjc0Y3VNYVltTUFmcUpyMlU5UzFqTmFnakJNc0IxVFl4Y3ZoWktIMDFqWXpsWkZ1eFRpQXkwLVBON2k0SkpBZE1mM19GbVAtc3E1WlJOc0V3R2R5RTM3Vl9weTlqaUdTMmVmbDZwMk5ndG55Q08xeEVoQ3llNGhjYUw5WmN0TWpwZW1xNGI4R0tFVXRDaFNjc2ZJVVRVWGxqNDVKWFRmQWd3SExvdjk5NGVhTzk4Q24yQ1JEV2JBdktQZ3dtOVowME5QQlBnRnFkeExOQmotWXB4aVJhMDlWQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-14",
+   "ts": "2026-10-14T10:46:01Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Becomes Biggest 2026 Midterm Donor: $276 Million Have Gone to Republican Groups.",
+    "zh": "Elon Musk Becomes Biggest 2026 Midterm Donor: $276 Million Have Gone to Republican Groups."
+   },
+   "body": {
+    "en": "Musk gave $276 million to Republican groups ahead of the 2026 midterms, making him the single largest known donor of the cycle.",
+    "zh": "马斯克在2026年中期选举前向共和党团体捐款2.76亿美元，成为该选举周期已知的最大单一捐助者。"
+   },
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLUJlWU9DS2k3aHFTclprMktBUno5Tk9aNFZtdWhpRGxvbWhfYkwtUk9DczEySWJIMV9qOGFWa1JOQTVYTGdpYXFFUjFCb3lSLU9oTmE4cEszVlhvQlRERDhpSW8zaGVWenFvNDFzenRDSk1qSGkwN1ZhVjgybHRFNko5dXMweUF4QXZjbWhkdWs4Mk0w?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-14",
+   "ts": "2026-10-14T13:08:21Z",
+   "level": "notable",
+   "title": {
+    "en": "Ukraine says Elon Musk’s Starlink imposed curbs without warning",
+    "zh": "Ukraine says Elon Musk’s Starlink imposed curbs without warning"
+   },
+   "body": {
+    "en": "Ukraine said Musk's Starlink imposed new usage restrictions without warning, renewing scrutiny of his control over wartime satellite infrastructure.",
+    "zh": "乌克兰称马斯克旗下星链在未事先通知的情况下施加了新的使用限制，再次引发对他掌控战时卫星基础设施的关注。"
+   },
+   "source": "The Times",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWE5obWZ5MkpoX3dPVkpDdml1OGFnX3hOeGNiWEhtMzM1Skk1WHVZZmZ4cU03bnMyLXU2cGNRWDJ6Q2txUlFjSFZ3OTJwWDhWTGhvaXJnLXBZa3djWEdjaGJGUFc2SUpMR3ZDazJscEQweVdmOTlyYjdZWnpVZWJPcUE4Yk1KeWt6NzhDSm1MdHYzVmVvZjI3YUVSS1VfTExyZVRkRkl4RGpTY0F6SUE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-14",
+   "ts": "2026-10-14T14:53:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk says he's had AI 'psychosis' half a dozen times in the last year",
+    "zh": "Elon Musk says he's had AI 'psychosis' half a dozen times in the last year"
+   },
+   "body": {
+    "en": "Musk said he has experienced AI-induced 'psychosis' episodes about half a dozen times over the past year.",
+    "zh": "马斯克表示，过去一年中他经历了大约六次由AI引发的“精神错乱”状态。"
+   },
+   "source": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tdFpidUZrWDhnUUNnSFlkSmRFTXZGSUtIbERhWFVwWkwwWDVhMG92clREellIVzNWN0V4UWlLVERhR282c1NENkVXbUxWdmFZT2lqUEl3UjFyNmNEbTFJWWYyQ0djWEwtRTNXeWxFaw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-14",
+   "ts": "2026-10-14T15:47:19Z",
+   "level": "notable",
+   "title": {
+    "en": "How Elon Musk’s surprise Starlink limits could spell disaster for Ukraine",
+    "zh": "How Elon Musk’s surprise Starlink limits could spell disaster for Ukraine"
+   },
+   "body": {
+    "en": "Musk's SpaceX reportedly imposed surprise limits on Starlink access that could hamper Ukraine's war effort, a significant strategic move in his satellite business.",
+    "zh": "马斯克旗下SpaceX被曝对星链（Starlink）接入实施意外限制，可能影响乌克兰的战事，是其卫星业务的一次重大战略举动。"
+   },
+   "source": "The Times",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR1h0V2paZ1hhSWt4Wmw3YUN4TE9RVWRzWUQzekZDQVFPUnNtWkdCbmZFY0NZY1A2OGowQU1sZWt6YS1Qc0lfVy1SYzJMTnVkM2ZCYllNM0pYTE5JWHYySWFLQjAwUW1vRDc3REFzT3FZTHAtR0tRR1Bwb2FtT0IzeEtQaFZVT3Z6ZEZhR1hobW1vTi1tdFVWQks3blBvUWx1?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-14",
+   "ts": "2026-10-14T17:20:26Z",
+   "level": "notable",
+   "title": {
+    "en": "Ukraine accuses Elon Musk’s SpaceX of throttling Starlink terminals",
+    "zh": "Ukraine accuses Elon Musk’s SpaceX of throttling Starlink terminals"
+   },
+   "body": {
+    "en": "Ukraine accused Musk's SpaceX of throttling Starlink terminals, a policy with direct consequences for the war effort.",
+    "zh": "乌克兰指控马斯克的SpaceX限制星链终端服务，该政策直接影响其战事。"
+   },
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYmhqaDlBdi1WelRGSUZ4b0FQaWVkd21JUEkyTFpFdE9LcVlreHAwYU5WdkZBcDBPeGZFdHhRdnBxUjFacTloOWUwcUJGRlpqSHJrVHNGRTRWTVFxVU5uVUJvYkR5RW1ZaEk2NC0wZUQ4SWlKZU9lYlBuZUVrczlrVTFweG42R0taaGdaNGhxMFpjQWJicTQwRF9tMk4zNDM4cWRhTnFsQWpUMjdn0gGyAUFVX3lxTE51Tjl2WlZUNzVXWjRydjF6cl9kWGxIX3RiT2ZNeld2akhUSEo1bW84dnV6WmVfRnRmWGJ2TllNa1FxaURrOVRGaThQX2RIWFg4NDYzUlZaY1VDdHNvdzhXcWxoaVBKZmdNT3M3S0dPVXV2V1oyYVlXNDZkS0IzRWlNNWQyeG9URzA2RFN3UHZ0bVFJNUgxYmhDS0lwZGZCcUdCd3RkYTFmWmJ2TVF5VGxqenc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-14",
+   "ts": "2026-10-14T07:53:58Z",
+   "level": "minor",
+   "title": {
+    "en": "Elon Musk says he's had AI psychosis half a dozen times in the last year",
+    "zh": "Elon Musk says he's had AI psychosis half a dozen times in the last year"
+   },
+   "body": {
+    "en": "Musk said he has experienced what he calls 'AI psychosis' several times in the past year.",
+    "zh": "马斯克表示，过去一年里他有过几次自称“AI精神失常”的经历。"
+   },
+   "source": "\"Elon Musk\" - BingNews",
+   "url": "https://www.msn.com/en-us/news/other/elon-musk-says-hes-had-ai-psychosis-half-a-dozen-times-in-the-last-year/ar-AA2eeynH?ocid=BingNewsVerp",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-14",
+   "ts": "2026-10-14T17:32:17Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk’s SpaceX imposes stunning restrictions on Ukraine that could have deadly consequences",
+    "zh": "Elon Musk’s SpaceX imposes stunning restrictions on Ukraine that could have deadly consequences"
+   },
+   "body": {
+    "en": "SpaceX, under Musk, imposed new restrictions on Starlink terminal use in Ukraine that Kyiv says could degrade battlefield communications.",
+    "zh": "马斯克旗下SpaceX对乌克兰的星链终端使用实施新限制，基辅方面称这可能影响战场通信。"
+   },
+   "source": "Fox News",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSWhkcVFGMGFlVkJ0U1RyX0lFMGVIVmJtU3BCTmMyRm9uM3RMN0U4NnMtN2owY2xRRDN4SDRqaUY0QWRYMGNrQXpoX3dkWll4c0dDNEJPdEdzT1FBTXA3YU85T2RNVkFGeXJablUtUjJBLXlHWFc5ZGxmQnhvbTQ1Rk9xNmRxZUdYTzE2Ulg0enZsR2hGTnA1d1Y5cGRIWk1YbE5GS2JSV2Q3N1pBNFJfOUwwM0FtX0xYVHfSAb8BQVVfeXFMTTNhaGppTWV4cVAweFRodXdIR04tMTNmSnMwc3p3ZFBlcElHZWxUcml0aXkxelRCMFoyYnc4YVdramw1YVhmOURid2tlQWstOEh3dWp0M0g2M0hCY053WXZ2TFlQejdJSk1sRWpDY1lJSGJtZEJKTEI1cm9RSHUxNzRPdVl4SHFzbFpydmxTa3l6aXNuZlpCU09feGI4a2VEYXJzTDhmYXBfRl9OUE1OTHNXNkhGSjZjS245dUVaZzg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-14",
+   "ts": "2026-10-14T19:53:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk blames Trump admin for Starshield throttling in Ukraine that Zelenksy warns will cost lives",
+    "zh": "Elon Musk blames Trump admin for Starshield throttling in Ukraine that Zelenksy warns will cost lives"
+   },
+   "body": {
+    "en": "Musk publicly blamed the Trump administration for throttling Starshield satellite service to Ukraine, a dispute Zelensky warned could cost lives.",
+    "zh": "马斯克公开指责特朗普政府限制向乌克兰提供的星盾（Starshield）卫星服务，泽连斯基警告此举可能造成人员伤亡。"
+   },
+   "source": "New York Post",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSGwzMkRHODNBNkJwMzY1VFF4Y1ZqNS1rLU8zR0ZvZ0thbGVfd3ZSQi1CQ3Q5bWZHeFhjMkxxOTBwNWhYdF92ZzFic0Z3bU9WOWtKQjIwcHFGUE9JOEVramZITFRUQ3RhV3BmUEJyY2xnaHBEa0pqZ2otNjBDT1ROLVd4YjdzT0F3dDZYRWRGVTd5M1JEYlIwZUtIcm9HbUg5NFlqcFdjVUEwRy14cWRMdFY0X1YxempsRFBJUzdzOFRWblRLZnVicW9YYXNWSEdvUzdj?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-14",
+   "ts": "2026-10-14T19:37:56Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk: Don't Blame Me For New Starlink Restriction In Ukraine",
+    "zh": "Elon Musk: Don't Blame Me For New Starlink Restriction In Ukraine"
+   },
+   "body": {
+    "en": "Musk publicly denied responsibility for a new Starlink restriction affecting Ukraine, a notable dispute over Starlink/Starshield's role in the war.",
+    "zh": "马斯克公开否认对影响乌克兰的新星链限制负责，这是关于星链/星盾在战争中作用的一次引人关注的公开争议。"
+   },
+   "source": "PCMag",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTXFyNEFldXRXYTlETkF0ckJRZGh0U0t6UzdrdVJPbzF5NUh5ZDJwSHlBUHdjWUZGelNjVi1hT0lNamxVeGw1ZWdUTHFyQkZ5ZDlvTm1aTmRDYmlCVGdCMUh4Y0p1Qk1WQlJOb0xyYmlaLUljTVo3SVI0SG5wODJ0bVdJTEVaaWlZTVJDZ1c2Rkp2YnJw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-14",
+   "ts": "2026-10-14T21:47:34Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk takes aim at the customer service industry",
+    "zh": "Elon Musk takes aim at the customer service industry"
+   },
+   "body": {
+    "en": "Musk said Grok already handles the bulk of Starlink's customer-service calls (~20,000/day, ~70% resolved without a human) and predicted AI will rapidly displace outsourced call-center work.",
+    "zh": "马斯克表示Grok已经处理了Starlink大部分客服通话（约每天2万通，约70%无需人工介入），并预测AI将迅速取代外包呼叫中心业务。"
+   },
+   "source": "Yahoo Finance Singapore",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeDVjQXJ0SFZiMVVrcVFzSjAtenItNXVJamtDNVhuVWsyYTNJRE9PYi10WlJxS1FBdy13MVVJeFNJNDQybG9VOURBcWl2TkxmZjQ4MEhwNnFXU1M4YnR3d3hHeVZGM0xBWUtuekNaSk5CN19fZ3VrSFF1cklESFNkZm9zbw?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-13",
@@ -1492,6 +1730,23 @@
    },
    "source": "Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN1dTYkh4VXJQc1o3YXVfZTdmRlIwRWhoSjB6bllpaUhvLUk5bjlRMFU5dlhWUWlyYzdqcWx2T3lHQzRFYWdxaHk0YUVHVlpjNGpLOHdFdlh3TTBxczBZc3kxRFpGQl8wVE9CRnpRQkRXTFhMa2hpVUsxaGZyUGtoWlNZMkdEalFBeUl3bTh6N3dVc1k?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-13",
+   "ts": "2026-10-13T20:01:12Z",
+   "level": "notable",
+   "title": {
+    "en": "Judge says Elon Musk engaged in 'little more than state sanctioned intimidation' when he accused a DHS official of a crime",
+    "zh": "Judge says Elon Musk engaged in 'little more than state sanctioned intimidation' when he accused a DHS official of a crime"
+   },
+   "body": {
+    "en": "A judge ruled Musk engaged in 'little more than state sanctioned intimidation' after he accused a DHS official of a crime, a notable legal rebuke.",
+    "zh": "一名法官裁定，马斯克在指控一名国土安全部官员犯罪时的行为“不过是国家纵容的恐吓”，这是一次引人关注的法律谴责。"
+   },
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWGhYZTFvZDF0MG9pSkJNNmgxd1ZzdUVNSFBYbWhwYjJrc0o4aXJkblZENTc2cnY2eEJJZ0pWN2k3Z1ZJMGFsZTQ1QzBFMG8wMnZPZ0VoUUx6eUJIYktlV01oUmV4U21tel9MRmlDZGFIZzZlYVpZNmFLNHVSTjlsODFoUVJZdG9TdDBLWU1udWt6QQ?oc=5",
    "auto": true,
    "judged": true
   },
@@ -1985,6 +2240,23 @@
    },
    "source": "Wccftech",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcTNmUmpmUXlFUk9YOFJUTExPTmhzNk9YS2Uyb1dkeVF6VWNSZ1VoMFpWeGIzVnBMS2pvRUZJMmpoNXR0X05KOXNtSlUyT3ZMblR1cmZzdWk0dEl4bnliYThJbXFhNjI5Z3RYV0FUNUw2RFM0c2dRNDh3STg4Wmd1UGpNS1J1SFMteGIwQngxYmFpeXNXYVJ0SFJycW1XMFpzeGNlRzZIa2dzSVNOVl9NVEdzNHJCR0R0eXZYSk1aRURzODJiNmdGTnBpS1UxVU1GVEx1N25HUEjSAd4BQVVfeXFMTkVTTVZaaG9uNWZqMW9kRHc5TFhHWHVGMUxQdDZ6RlFfR2dVMDJmbDNUS3ZudVhsZ2xUd2o1N1NMMDFaSXVFVm44WERNbnM1Q3RsaDhFdXozbW9BSy1adjhOLXFHTFZiY2JxZWlITmE5aHRLbjV1OGZTdUFqeE96VEptalRsZ1BCYTg5Q19XbUV2dG1TZnlzLWkwTFZET2NrbGxmc24xUFRFWlk5VWl1SXFBdkVQcERRaHZ0NFhYa2RFVFZhSjA3YzBsLUtTcXctbXhKQUp2Y2pLYUNDekhR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-11",
+   "ts": "2026-10-11T09:56:36Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Pitches SpaceX's Starlink As An Affordable Option To Bring Internet To Indians Ahead Of Ambani's Jio IPO",
+    "zh": "Elon Musk Pitches SpaceX's Starlink As An Affordable Option To Bring Internet To Indians Ahead Of Ambani's Jio IPO"
+   },
+   "body": {
+    "en": "Musk pitched Starlink as an affordable internet option for India ahead of Reliance Jio's IPO, signaling a push into one of the world's largest unconnected markets.",
+    "zh": "马斯克在安巴尼旗下Jio IPO前夕，将Starlink作为面向印度的廉价互联网方案进行推介，意味着SpaceX正进军全球最大的未联网市场之一。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd0tYVWE4YTVPYzJURURZQTV3dmhabGFJaG9GVkZOMUNJSElWOUpDaEhwTFB4b3hRX1JMY0ZfOVB2YXdBbnpjZ2owazF5ZVlNVTM1QUpKMEFHbmFZV1piZW1BUmhBbU4zSEI4dDh2QlNvUDJIS2xoM0VFRlJPQUNxT1NlQzBUd2wwRVFDaXlPWWthelhGWmpnM1U5NA?oc=5",
    "auto": true,
    "judged": true
   },
@@ -10232,7 +10504,7 @@
   "pageviews": 9295513,
   "citations": 1280,
   "hIndex": 3,
-  "events": 533,
+  "events": 549,
   "posts": 56,
   "wikiEn": "Elon Musk",
   "wikiZh": "埃隆·马斯克"

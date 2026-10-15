@@ -152,6 +152,25 @@
    }
   },
   {
+   "date": "2026-10-13",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "David Silver and Lasse Espeholt of Ineffable Intelligence: A Superlearner for the Age of Experience",
+    "zh": "David Silver and Lasse Espeholt of Ineffable Intelligence: A Superlearner for the Age of Experience"
+   },
+   "source": "Training Data",
+   "url": "https://podcasts.apple.com/us/podcast/david-silver-and-lasse-espeholt-of/id1750736528?i=1000796105304&uo=4",
+   "note": {
+    "en": "Silver and Ineffable Intelligence co-founder Lasse Espeholt discuss moving beyond human data after AlphaGo, toward self-play-driven 'superlearners' built for the age of experience.",
+    "zh": "席尔瓦与Ineffable Intelligence联合创始人拉斯·埃斯佩霍尔特探讨了在AlphaGo之后摆脱人类数据、依靠自我对弈构建面向\"经验时代\"的\"超级学习者\"。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2025-05-23",
    "ts": null,
    "kind": "paper",
@@ -830,16 +849,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 46.2,
+  "total": 46.4,
   "attention": 39,
   "centrality": 47,
-  "momentum": 44,
+  "momentum": 45,
   "stature": 80,
   "pageviews": 52977,
   "citations": 166819,
   "hIndex": 76,
   "events": 14,
-  "posts": 24,
+  "posts": 25,
   "wikiEn": "David Silver (computer scientist)",
   "wikiZh": "戴維·西爾弗"
  },

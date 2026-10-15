@@ -1,5 +1,5 @@
 {
- "rank": 66,
+ "rank": 65,
  "id": "jurgen-schmidhuber",
  "name": {
   "en": "Jürgen Schmidhuber",
@@ -169,6 +169,44 @@
     "en": "His running, heavily footnoted account of who did what first — contentious and worth reading for exactly that reason.",
     "zh": "他持续更新、脚注密集的「谁先做了什么」记述 —— 有争议，也正因如此值得一读。"
    }
+  },
+  {
+   "date": "2026-10-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "JevGPT: Thinking Fast and Slow in Autonomous Research",
+    "zh": "JevGPT: Thinking Fast and Slow in Autonomous Research"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.18272v1",
+   "note": {
+    "en": "New paper co-authored by Schmidhuber proposes JevGPT, a 'thinking fast and slow' architecture for autonomous research agents operating under limited evidence budgets.",
+    "zh": "Schmidhuber合著的新论文提出JevGPT，一种面向自主研究智能体的'快思考与慢思考'架构，用于在有限证据预算下进行推理。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-10-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "History Replays Itself: Unleashing Long-Context Capability in Linear Attention",
+    "zh": "History Replays Itself: Unleashing Long-Context Capability in Linear Attention"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.15715v1",
+   "note": {
+    "en": "New paper co-authored by Schmidhuber addresses long-context limitations of linear attention by letting models replay earlier computation state.",
+    "zh": "Schmidhuber合著的新论文通过让模型重新利用早期计算状态，解决了线性注意力机制在长上下文场景中的局限性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-10-08",
@@ -1161,16 +1199,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 34.8,
+  "total": 35.5,
   "attention": 42,
   "centrality": 9,
-  "momentum": 28,
+  "momentum": 31,
   "stature": 88,
   "pageviews": 60498,
   "citations": 185831,
   "hIndex": 89,
   "events": 2,
-  "posts": 52,
+  "posts": 54,
   "wikiEn": "Jürgen Schmidhuber",
   "wikiZh": "于尔根·施密德胡伯"
  },

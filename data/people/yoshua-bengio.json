@@ -188,6 +188,63 @@
    "connector": null
   },
   {
+   "date": "2026-10-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The Smart Buildings Challenge: Learning Foundation Models for Real-World Optimization at Scale",
+    "zh": "The Smart Buildings Challenge: Learning Foundation Models for Real-World Optimization at Scale"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.18511v1",
+   "note": {
+    "en": "Bengio co-authors a NeurIPS 2026 competition paper on foundation models for real-world building-energy optimization, targeting the HVAC systems responsible for a large share of building carbon emissions.",
+    "zh": "本吉奥合著一篇NeurIPS 2026竞赛论文，研究用于现实世界建筑能源优化的基础模型，针对占建筑碳排放很大比例的暖通空调系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-10-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Mixture of GFlowNets",
+    "zh": "Mixture of GFlowNets"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.17007v1",
+   "note": {
+    "en": "Bengio co-authors a paper on Mixture of GFlowNets, extending the GFlowNet sampling framework he introduced to mixtures of policies for compositional generation.",
+    "zh": "本吉奥合著论文《Mixture of GFlowNets》，将他本人提出的GFlowNet采样框架扩展为用于组合式生成的策略混合模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-10-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Multi-Objective Amortized CDRH3 Sequence Sampling Diversifies Promising Antibody Candidates",
+    "zh": "Multi-Objective Amortized CDRH3 Sequence Sampling Diversifies Promising Antibody Candidates"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.16920v1",
+   "note": {
+    "en": "Bengio co-authors a paper applying amortized, GFlowNet-style sampling to diversify promising antibody candidate sequences for therapeutic design.",
+    "zh": "本吉奥合著论文，将摊销式GFlowNet采样方法用于使具有潜力的抗体候选序列多样化，服务于治疗性抗体设计。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-08",
    "ts": "2026-10-08T14:09:56Z",
    "kind": "x",
@@ -2050,63 +2107,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2026-01-01",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Behavioural Red Lines as a Safety Framework for Intolerable Levels of Risk",
-    "zh": "Behavioural Red Lines as a Safety Framework for Intolerable Levels of Risk"
-   },
-   "source": "OpenAlex",
-   "url": "https://doi.org/10.1007/978-3-032-11814-1_1",
-   "note": {
-    "en": "A paper proposing behavioural red lines as a safety framework for AI systems that pose intolerable levels of risk.",
-    "zh": "一篇提出以行为红线作为应对AI系统不可容忍风险等级安全框架的论文。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-12-26",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "A Comedy of Estimators: On KL Regularization in RL Training of LLMs",
-    "zh": "A Comedy of Estimators: On KL Regularization in RL Training of LLMs"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2512.21852v3",
-   "note": {
-    "en": "A Mila study with Aaron Courville and Pablo Samuel Castro of how the choice of KL estimator changes the outcome of reinforcement-learning training for LLMs.",
-    "zh": "与 Aaron Courville、Pablo Samuel Castro 合作的 Mila 研究，分析 KL 估计量的选择如何改变大模型强化学习训练的结果。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2025-12-19",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "The Future of the AI Summit Series",
-    "zh": "The Future of the AI Summit Series"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2601.02383v1",
-   "note": {
-    "en": "A policy memo Bengio co-signed on where the international AI Summit series should go after Bletchley, Seoul and Paris.",
-    "zh": "Bengio 联署的一份政策备忘录，讨论国际人工智能峰会系列在布莱切利、首尔和巴黎之后应走向何方。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2025-12-18",
    "ts": null,
    "kind": "podcast",
@@ -2124,25 +2124,6 @@
    "judged": true,
    "platform": "apple-podcasts",
    "connector": "podcasts"
-  },
-  {
-   "date": "2025-12-15",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Sliding Window Recurrences for Sequence Models",
-    "zh": "Sliding Window Recurrences for Sequence Models"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2512.13921v1",
-   "note": {
-    "en": "A hierarchical decomposition of linear recurrences for multi-hybrid sequence architectures, with Michael Poli and Stefano Massaroli.",
-    "zh": "与 Michael Poli、Stefano Massaroli 合作，为多重混合序列架构提出线性递归的分层分解方法。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
   },
   {
    "date": "2025-06-03",
@@ -3506,16 +3487,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 64.5,
+  "total": 64.2,
   "attention": 67,
   "centrality": 30,
-  "momentum": 85,
+  "momentum": 84,
   "stature": 98,
   "pageviews": 276660,
   "citations": 475043,
   "hIndex": 184,
   "events": 62,
-  "posts": 121,
+  "posts": 120,
   "wikiEn": "Yoshua Bengio",
   "wikiZh": "约书亚·本希奥"
  },

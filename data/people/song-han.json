@@ -1574,6 +1574,23 @@
    "url": "https://hanlab.mit.edu/"
   },
   {
+   "date": "2026-10-10",
+   "ts": "2026-10-10T11:08:00Z",
+   "level": "notable",
+   "title": {
+    "en": "英伟达、韩松团队新作：机器人边干活边长记性，宇树G1叠杯成功率95%",
+    "zh": "英伟达、韩松团队新作：机器人边干活边长记性，宇树G1叠杯成功率95%"
+   },
+   "body": {
+    "en": "Han's NVIDIA team released new work letting robots build persistent memory while working, with a Unitree G1 reaching a 95% success rate stacking cups.",
+    "zh": "韩松在英伟达的团队发布新研究，让机器人在工作中持续积累记忆，宇树 G1 机器人叠杯成功率达到95%。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FS25URS1ZUjNMVE1WMEhISEIyMkRMcUhYbnZpSy1renM2SmlfSWxkam9NRjhRTHVxdHdHMUpNaTJLUnVaUmc0QmE0cmIyM0FaTXJUbGt3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-09",
    "ts": "2026-10-09T12:12:04Z",
    "level": "notable",
@@ -1598,15 +1615,15 @@
  },
  "cat": "research",
  "score": {
-  "total": 22.1,
+  "total": 22.8,
   "attention": 4,
   "centrality": 18,
-  "momentum": 50,
+  "momentum": 53,
   "stature": 46,
   "pageviews": 888,
   "citations": 32832,
   "hIndex": 58,
-  "events": 2,
+  "events": 3,
   "posts": 73,
   "wikiEn": null,
   "wikiZh": "韩松"

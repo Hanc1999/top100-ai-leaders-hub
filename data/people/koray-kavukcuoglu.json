@@ -164,6 +164,44 @@
    }
   },
   {
+   "date": "2026-10-13",
+   "ts": "2026-10-13T16:00:00Z",
+   "kind": "blog",
+   "title": {
+    "en": "Gemini 4 Argon comes to the Gemini app.",
+    "zh": "Gemini 4 Argon comes to the Gemini app."
+   },
+   "source": "Koray Kavukcuoglu",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/",
+   "note": {
+    "en": "Gemini 4 Argon, Google's frontier reasoning and agentic coding model, rolls out to the consumer Gemini app for Pro and Ultra subscribers.",
+    "zh": "Gemini 4 Argon——谷歌具备前沿推理与智能体编程能力的模型——已向Gemini应用的Pro/Ultra订阅用户开放。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-10-13",
+   "ts": "2026-10-13T16:00:00Z",
+   "kind": "blog",
+   "title": {
+    "en": "Gemini 4 Argon is now available for developers.",
+    "zh": "Gemini 4 Argon is now available for developers."
+   },
+   "source": "Koray Kavukcuoglu",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
+   "note": {
+    "en": "Gemini 4 Argon also becomes available to developers through the Gemini API for building software and security workflows.",
+    "zh": "Gemini 4 Argon同时通过Gemini API向开发者开放，支持构建软件开发与安全工作流。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
    "date": "2026-09-03",
    "ts": null,
    "kind": "podcast",
@@ -986,16 +1024,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 70.3,
+  "total": 70.6,
   "attention": null,
   "centrality": 87,
-  "momentum": 47,
+  "momentum": 48,
   "stature": 78,
   "pageviews": 0,
   "citations": 166549,
   "hIndex": 73,
   "events": 10,
-  "posts": 36,
+  "posts": 38,
   "wikiEn": null,
   "wikiZh": null
  },

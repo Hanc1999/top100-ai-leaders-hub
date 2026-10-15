@@ -231,6 +231,25 @@
    }
   },
   {
+   "date": "2026-10-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Cowork-Gym: Synthesizing Interactive Work Environments at Scale",
+    "zh": "Cowork-Gym: Synthesizing Interactive Work Environments at Scale"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.17670v1",
+   "note": {
+    "en": "Zhou Jingren co-authors Cowork-Gym, an Alibaba paper (with DAMO Academy researchers Bolin Ding and Yaliang Li) on synthesizing interactive multi-agent work environments at scale for training cowork agents.",
+    "zh": "周靖人与阿里巴巴达摩院研究员丁博麟、李亚亮合著论文《Cowork-Gym》，研究大规模合成交互式多智能体协作环境以训练协同办公智能体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-07-25",
    "ts": null,
    "kind": "paper",
@@ -1634,16 +1653,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 59.1,
+  "total": 58.7,
   "attention": null,
   "centrality": 67,
-  "momentum": 72,
+  "momentum": 71,
   "stature": 10,
   "pageviews": 0,
   "citations": 8558,
   "hIndex": 47,
   "events": 41,
-  "posts": 39,
+  "posts": 40,
   "wikiEn": null,
   "wikiZh": null
  },

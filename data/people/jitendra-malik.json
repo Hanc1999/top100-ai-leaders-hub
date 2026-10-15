@@ -177,6 +177,25 @@
    }
   },
   {
+   "date": "2026-10-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Force-Modulated Dexterity: Unified Compliance for Contact-Rich Manipulation",
+    "zh": "Force-Modulated Dexterity: Unified Compliance for Contact-Rich Manipulation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.17161v1",
+   "note": {
+    "en": "New paper co-authored by Jitendra Malik proposes a unified force-and-motion compliance method for contact-rich robot manipulation.",
+    "zh": "Jitendra Malik合著的新论文提出了一种统一的力与运动柔顺控制方法，用于处理接触丰富的机器人操作任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-02",
    "ts": null,
    "kind": "paper",
@@ -1809,7 +1828,7 @@
   "citations": 168758,
   "hIndex": 144,
   "events": 0,
-  "posts": 87,
+  "posts": 88,
   "wikiEn": "Jitendra Malik",
   "wikiZh": "希特德拉·馬利克"
  },

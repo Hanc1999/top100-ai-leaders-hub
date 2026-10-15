@@ -1,5 +1,5 @@
 {
- "rank": 70,
+ "rank": 71,
  "id": "pieter-abbeel",
  "name": {
   "en": "Pieter Abbeel",
@@ -810,25 +810,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2025-06-21",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "DexterityGen: Foundation Controller for Unprecedented Dexterity",
-    "zh": "DexterityGen: Foundation Controller for Unprecedented Dexterity"
-   },
-   "source": "OpenAlex",
-   "url": "https://doi.org/10.15607/rss.2025.xxi.103",
-   "note": {
-    "en": "Abbeel co-authors DexterityGen, a foundation controller that pretrains large-scale dexterous motion primitives with RL and stabilizes in-hand manipulation 10-100x, enabling tool use like pens and screwdrivers.",
-    "zh": "Abbeel参与的DexterityGen是一个基础控制器，通过强化学习预训练大规模灵巧运动基元，将手内操作稳定性提升10到100倍，实现了握笔、拧螺丝刀等工具使用。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
    "date": "2025-05-29",
    "ts": null,
    "kind": "x",
@@ -1306,16 +1287,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 32.3,
+  "total": 32.1,
   "attention": 29,
   "centrality": 23,
-  "momentum": 31,
+  "momentum": 30,
   "stature": 73,
   "pageviews": 37345,
   "citations": 79473,
   "hIndex": 123,
   "events": 2,
-  "posts": 59,
+  "posts": 58,
   "wikiEn": "Pieter Abbeel",
   "wikiZh": "彼得·阿比爾"
  },

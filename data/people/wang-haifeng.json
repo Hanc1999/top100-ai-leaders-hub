@@ -1,5 +1,5 @@
 {
- "rank": 61,
+ "rank": 60,
  "id": "wang-haifeng",
  "name": {
   "en": "Wang Haifeng",
@@ -634,6 +634,23 @@
    "url": "http://research.baidu.com/"
   },
   {
+   "date": "2026-10-09",
+   "ts": "2026-10-09T09:26:05Z",
+   "level": "major",
+   "title": {
+    "en": "消息称百度CTO王海峰离职",
+    "zh": "消息称百度CTO王海峰离职"
+   },
+   "body": {
+    "en": "Reports say Baidu CTO Wang Haifeng has left the company, a potential departure from the role he has held since co-building the ERNIE line and PaddlePaddle platform.",
+    "zh": "有消息称百度CTO王海峰已离职，若属实，将意味着他离开了这一主导ERNIE大模型与飞桨平台建设的职位。"
+   },
+   "source": "DoNews",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8ySWtkUF9qTVhsSHdNT2t5YnNHdm9vR1pydEZuNm5uUGYxR1dLaDBaRUktdFQxQndJUHFJVVp4U2JCSWg2OG4xLVhzVllTY2lxSVBNLURVdk9sVWNuQmc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-03-07",
    "ts": null,
    "level": "notable",
@@ -675,15 +692,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 37.9,
+  "total": 39.0,
   "attention": null,
   "centrality": 50,
-  "momentum": 24,
+  "momentum": 27,
   "stature": 36,
   "pageviews": 0,
   "citations": 22856,
   "hIndex": 74,
-  "events": 4,
+  "events": 5,
   "posts": 22,
   "wikiEn": null,
   "wikiZh": null

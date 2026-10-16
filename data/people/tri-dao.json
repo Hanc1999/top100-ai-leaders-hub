@@ -163,6 +163,25 @@
    }
   },
   {
+   "date": "2026-10-14",
+   "ts": "2026-10-14T22:43:49Z",
+   "kind": "x",
+   "title": {
+    "en": "TPUs have different bottlenecks from GPUs: few cores so you don’t need yo think about parallelism as much, large VMEM so easier to fuse kernels, but vector unit",
+    "zh": "TPUs have different bottlenecks from GPUs: few cores so you don’t need yo think about parallelism as much, large VMEM so easier to fuse kernels, but vector unit"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/2110501861258314023",
+   "note": {
+    "en": "Dao explained that TPUs have different performance bottlenecks than GPUs — fewer cores simplify parallelism reasoning and large VMEM eases kernel fusion, but weaker vector-unit throughput changes what's worth fusing.",
+    "zh": "Tri Dao分析了TPU与GPU的瓶颈差异：核心更少使并行性更易推理，更大的VMEM便于融合内核，但向量单元吞吐较低，改变了哪些操作值得融合的判断。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-12",
    "ts": "2026-10-12T17:01:49Z",
    "kind": "x",
@@ -1601,7 +1620,7 @@
   "citations": 2310,
   "hIndex": 17,
   "events": 1,
-  "posts": 75,
+  "posts": 76,
   "wikiEn": null,
   "wikiZh": null
  },

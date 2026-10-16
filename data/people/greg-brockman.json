@@ -1,5 +1,5 @@
 {
- "rank": 21,
+ "rank": 20,
  "id": "greg-brockman",
  "name": {
   "en": "Greg Brockman",
@@ -1232,6 +1232,23 @@
    "url": "https://www.axios.com/2026/08/14/openai-executive-greg-brockman-ipo"
   },
   {
+   "date": "2026-10-15",
+   "ts": "2026-10-15T11:08:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Greg Brockman: Security Spend Should Vastly Outstrip Software Spend",
+    "zh": "Greg Brockman: Security Spend Should Vastly Outstrip Software Spend"
+   },
+   "body": {
+    "en": "Brockman argued that security spending should far outpace software spending, a stance on how AI labs should prioritize investment as systems scale.",
+    "zh": "Brockman提出，随着AI系统规模扩大，安全投入应远超软件投入，表明他对实验室资源分配优先级的立场。"
+   },
+   "source": "BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tY3ROdVFMSHdsS0QtN29iQV9MZnN5Vk5hRTFrNGx6cUtzcjRkSU1Bb2Zza3g4azZ3Nk9NblVCaTc4MXB4WTVPMHVwRHpkdDhlWkJyTnJKZmJkUjg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-03",
    "ts": "2026-10-03T23:30:08Z",
    "level": "notable",
@@ -1740,6 +1757,23 @@
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaVpSX0JPbG14bXFpbVladmp4bjVfYmJNaFRmM2FkRktzdVp3b01wYUFoM255STBGdGw4NEdMaUtvb2hVQjhtTmtmTGVhQ2FJX0xaUmpETkFvcDdYMkVPNDhQNXBsUXI5eFU3bERiWGdIZEJrd29kSFR0aUFLR1lqcUtCQ0NFbWlfUFppd1BkNnplZ3UxQXA2Y01qWHlrOTd4M1E?oc=5",
    "auto": true,
    "judged": true
+  },
+  {
+   "date": "2026-05-15",
+   "ts": "2026-05-15T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Greg Brockman Takes Over OpenAI Product Leadership",
+    "zh": "Greg Brockman Takes Over OpenAI Product Leadership"
+   },
+   "body": {
+    "en": "Brockman took over OpenAI's product leadership in the 2026 pre-IPO reorganization, expanding his role beyond engineering.",
+    "zh": "在2026年IPO前的重组中，布罗克曼接管了OpenAI的产品领导职责，职责范围从工程扩展开来。"
+   },
+   "source": "SQ Magazine",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rUUlZam55ZWZhLVZYTnRoaUp3RVNfMGRlcFljU1pzLW1WSDZjOXBxUEVvdlRXaktudzFHMFlTZTZXWFZzSktJVUpnX2drcUNvTmdlRm5vUS1fUmNFNl9IVkRXLUdabVlpd3RoeldUTWRzWkk?oc=5",
+   "auto": true,
+   "judged": true
   }
  ],
  "changed": false,
@@ -1749,15 +1783,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 69.9,
+  "total": 70.4,
   "attention": 72,
   "centrality": 96,
-  "momentum": 66,
+  "momentum": 68,
   "stature": 0,
   "pageviews": 406921,
   "citations": 5238,
   "hIndex": 11,
-  "events": 31,
+  "events": 33,
   "posts": 58,
   "wikiEn": "Greg Brockman",
   "wikiZh": "格雷格·布羅克曼"

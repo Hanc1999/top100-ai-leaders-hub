@@ -943,6 +943,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2023-07-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Woody Hoburg: NASA Astronaut directly from the International Space Station",
+    "zh": "Woody Hoburg: NASA Astronaut directly from the International Space Station"
+   },
+   "source": "The Robot Brains Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/woody-hoburg-nasa-astronaut-directly-from-the/id1559275284?i=1000620871820&uo=4",
+   "note": {
+    "en": "Abbeel hosted NASA astronaut Woody Hoburg on his Robot Brains Podcast, talking live from the International Space Station.",
+    "zh": "Abbeel在他主持的Robot Brains播客中连线国际空间站，专访NASA宇航员Woody Hoburg。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2023-07-06",
    "ts": null,
    "kind": "podcast",
@@ -1296,7 +1315,7 @@
   "citations": 79473,
   "hIndex": 123,
   "events": 2,
-  "posts": 58,
+  "posts": 59,
   "wikiEn": "Pieter Abbeel",
   "wikiZh": "彼得·阿比爾"
  },

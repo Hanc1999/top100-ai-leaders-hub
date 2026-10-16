@@ -1,5 +1,5 @@
 {
- "rank": 35,
+ "rank": 36,
  "id": "zhou-jingren",
  "name": {
   "en": "Zhou Jingren",
@@ -1102,6 +1102,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "阿里周靖人现身外滩大会：模型不理解人是因为缺少上下文",
+    "zh": "阿里周靖人现身外滩大会：模型不理解人是因为缺少上下文"
+   },
+   "body": {
+    "en": "Zhou Jingren said at the Bund Summit that models fail to understand people because they lack context.",
+    "zh": "周靖人在外滩大会上表示，模型无法理解人是因为缺少上下文。"
+   },
+   "source": "电商派",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPR1VFR09JRWtjT1dnUFBlYmp1QjRGM2RxSnFuTzJkZnN5SjQ3XzVTclM3dkNuOVZlSkc2SGI4YmhFUDR4MTRESlh3ZW03aVVvMTQ2bmZPOUtNaEdsWjUxRFBfZUE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-08-15",
    "ts": null,
    "level": "notable",
@@ -1653,15 +1670,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 58.7,
+  "total": 58.3,
   "attention": null,
   "centrality": 67,
-  "momentum": 71,
+  "momentum": 70,
   "stature": 10,
   "pageviews": 0,
   "citations": 8558,
   "hIndex": 47,
-  "events": 41,
+  "events": 42,
   "posts": 40,
   "wikiEn": null,
   "wikiZh": null

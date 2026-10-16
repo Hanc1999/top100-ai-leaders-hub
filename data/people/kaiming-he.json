@@ -754,6 +754,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T03:49:05Z",
+   "level": "notable",
+   "title": {
+    "en": "何恺明团队新作：给大模型加上“视觉记忆”，AGI基准测试从40分升到100分",
+    "zh": "何恺明团队新作：给大模型加上“视觉记忆”，AGI基准测试从40分升到100分"
+   },
+   "body": {
+    "en": "Kaiming He's team reports a new method that gives large models a form of 'visual memory,' lifting their score on an AGI benchmark from 40 to 100.",
+    "zh": "何恺明团队提出一种为大模型加入“视觉记忆”的新方法，使其在某项AGI基准测试中的得分从40分提升到100分。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxNMGV5MGx2alpjUXM2enQtcTE3TnZVcm9HS0hTT2lGWWxXYnlUSlBiMXl5UGlSdG5LMUczekMyNk5Dc01Xam81Rm9BOXJLaGtiSWNJSXZ6cmg5TXpFMHFBRnJfUVpXVDdtcUpSQW5KUlBzQWNQU1VDZG1VTmc0WGNmM21EZFUtRzV4b0Frb3hXN09UczRLdkpfbWhadGxDRUxCUU9Cb09MOS1vbmdYdHpwanB4dC04eFFCbjVrV01rR3ZKaXNZTlA1TUVNTGx4SWREYXF5UkVUVGYyVkI0LUV2WVlRVlVJTEtnWTJkdllSUHk4aXpPS1ZvMmdOQzhrSWdSVkpqU1RreDFCQlk0LXgyaWdaNXZCLTFrSzJ3Vm5oRG1lT0ZfOGRPblJNOHFITVhBSWpFRXdmVWd3WENseUdoczlmLUM5d3JrOXdHMmNRSUhkV2Qzd2FKTzhfUzFRZWYtMllRRjIyR1JfeFhOZndFTEt2OEF6dXIyV0UxMExGR3k1MUxVYTF3Z2NNaHBJOHBSc1hWbXhJd3dMSkpNMWxESUhQcFoySEwycVpSOFNoWnlRZjdWaE9CcVEtLUNoek1hWEhUYkZYcTM4eW8zYTc5OUtYQl9GcDJIU21zYlItYkN0SGlUaXZub29JOHcwYjIyS2VIQnBHQ3NuUjZLV3RENW8zV0RpU1JpQUdJU005OXQyRW5pb3Y3N0hDNTFndTVKNVhTc045dU8?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-11",
    "ts": "2026-10-11T08:59:06Z",
    "level": "notable",
@@ -1434,6 +1451,23 @@
    "judged": true
   },
   {
+   "date": "2026-06-22",
+   "ts": "2026-06-22T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "何恺明团队新作：删掉VAE和私有数据后，文生图竟然更强了|MiniT2I|注意力机制|OpenAI|模型|训练",
+    "zh": "何恺明团队新作：删掉VAE和私有数据后，文生图竟然更强了|MiniT2I|注意力机制|OpenAI|模型|训练"
+   },
+   "body": {
+    "en": "Kaiming He's team showed a text-to-image model gets stronger after removing the VAE and private training data.",
+    "zh": "何恺明团队的研究显示，去掉VAE和私有训练数据后，文生图模型反而效果更强。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNN0JTaGZHUFp3STgyenU2YzVvQnR0WHRDdDFIUVdURDdXOWk2UDBxOHpTa1k2YnhvYzJHZ3ROYmFWZExQVko0c3BrZ3FWSUN6VktpRGRWalJXUHJJODRONlVkNjZkd255bmw4MVFOeld2eFZwUVR5T3RicXQxVXI3Yk1zVjA2NXAyTk9jZlQ1S3ZNcTJYR0NHSmRIVlhTVFNXX1NCU285SWlKZnJVNWtuTHpBRjZhUEdCNC1TQlV6S29LX2k1MWlScFVYU2JhNXdnRWxiR0ZGdTlTcHVuS2pTT1VfRVNzSDMtUWJSOXE0elN1V3ZPc2N3NzU1cGJ0VEoyOFktclFBOEkwWEtnY1l6MXBlZHU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-06-21",
    "ts": "2026-06-21T07:00:00Z",
    "level": "notable",
@@ -1764,15 +1798,15 @@
  },
  "cat": "research",
  "score": {
-  "total": 40.6,
+  "total": 41.0,
   "attention": 33,
   "centrality": 2,
-  "momentum": 73,
+  "momentum": 75,
   "stature": 100,
   "pageviews": 46828,
   "citations": 555963,
   "hIndex": 83,
-  "events": 61,
+  "events": 63,
   "posts": 29,
   "wikiEn": "Kaiming He",
   "wikiZh": "何恺明"

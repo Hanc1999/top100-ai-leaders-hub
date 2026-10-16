@@ -1,5 +1,5 @@
 {
- "rank": 81,
+ "rank": 80,
  "id": "daphne-koller",
  "name": {
   "en": "Daphne Koller",
@@ -175,6 +175,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-10-13",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Daphne Koller and Stephan Mergenthaler on the future of science discoveries using AI",
+    "zh": "Daphne Koller and Stephan Mergenthaler on the future of science discoveries using AI"
+   },
+   "source": "SRI’s PARC Forum",
+   "url": "https://podcasts.apple.com/us/podcast/daphne-koller-and-stephan-mergenthaler-on-the/id1807631791?i=1000796200395&uo=4",
+   "note": {
+    "en": "Koller joined SRI CEO David Parekh and WEF CTO Stephan Mergenthaler on SRI's PARC Forum to discuss AI as an accelerator for scientific discovery.",
+    "zh": "Koller与SRI首席执行官David Parekh、世界经济论坛首席技术官Stephan Mergenthaler在SRI的PARC Forum对谈，探讨AI作为科学发现加速器的作用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   },
   {
    "date": "2026-09-01",
@@ -1378,16 +1397,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 28.9,
+  "total": 29.2,
   "attention": 32,
   "centrality": 25,
-  "momentum": 11,
+  "momentum": 12,
   "stature": 66,
   "pageviews": 41906,
   "citations": 61723,
   "hIndex": 122,
   "events": 1,
-  "posts": 64,
+  "posts": 65,
   "wikiEn": "Daphne Koller",
   "wikiZh": "達芙妮·科勒"
  },

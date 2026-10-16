@@ -207,6 +207,25 @@
    "connector": null
   },
   {
+   "date": "2026-10-13",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AI Native with Kai-Fu Lee",
+    "zh": "AI Native with Kai-Fu Lee"
+   },
+   "source": "Thinkers & Ideas",
+   "url": "https://podcasts.apple.com/us/podcast/ai-native-with-kai-fu-lee/id1450867110?i=1000796138064&uo=4",
+   "note": {
+    "en": "Lee appears on the Thinkers & Ideas podcast to argue that AI advantage comes from rebuilding a company around AI, not just buying access to the strongest model.",
+    "zh": "李开复在Thinkers & Ideas播客中指出，AI竞争优势来自围绕AI重构企业，而不仅仅是购买最强模型的使用权。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-10-09",
    "ts": "2026-10-09T13:30:00Z",
    "kind": "x",
@@ -2496,6 +2515,23 @@
    "judged": true
   },
   {
+   "date": "2026-08-11",
+   "ts": "2026-08-11T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李开复：中国开源大模型让美国人很担忧",
+    "zh": "李开复：中国开源大模型让美国人很担忧"
+   },
+   "body": {
+    "en": "Kai-Fu Lee said China's open-source large models have become a source of concern for Americans.",
+    "zh": "李开复表示，中国的开源大模型已让美国人感到担忧。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ETm13UXhBREpyOHh3QVpYSXVUbUV0NVZyZUZlVkF2anIwNUZ0dndSanY1VDd0R2dhVzJFaDVDVm5hZHpibUpaNE1OWWFiU000S1NN?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-08-09",
    "ts": "2026-08-09T04:57:24Z",
    "level": "notable",
@@ -2781,6 +2817,23 @@
    },
    "source": "guandian.cn",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Bc0ZBS2kwQU4xWHV2RU1DSFh2enlRRW1OMEI4OXhyTmU0RHJpbHBJWTFLbUxTWktXbEhMNTM2enVpVk5BMGdINmdPWGtNdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-20",
+   "ts": "2026-07-20T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "李开复：零一万物计划2027 年赴港IPO|世界人工智能大会|彭博社|DeepSeek|人工智能|谷歌_手机新浪网",
+    "zh": "李开复：零一万物计划2027 年赴港IPO|世界人工智能大会|彭博社|DeepSeek|人工智能|谷歌_手机新浪网"
+   },
+   "body": {
+    "en": "Lee said 01.AI plans to IPO in Hong Kong in 2027, a major move for the company's funding trajectory.",
+    "zh": "李开复表示零一万物计划于2027年赴港IPO，这是该公司融资进程中的重大事件。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNHFPUGxLTl9HNFk4VmZubFMwLVoweHpwbEFzSEx0R0JRU3NlWW82c2F3SG1xNUMyeVJVWFBrQ0YyVnM2bWxDWE1LbGZjbXFGNFBUQU5uRWJEZ2EyaXFLOU45T1NKQ1VsbkRxUXVyZ3MxNF9RZmY1NWJhWWZEQlZ2dndFeXRwUW5PRXpHbmFiUlFVNF9Da3g2b0NFWF9lZS11SnNSUWpObWI1ZHlVT2xqT1FNa2lTSmhldVlBOFE4dHdCR1VmWEhDVlFMdE5xRGVfUnZYdm9YMnRDSnJKd2U2ZVAyVHlEbUNZRjZFbkVmaUFpT0kzM2E0UWsza19VNXppTTc0UHZWQkUtZ2s?oc=5",
    "auto": true,
    "judged": true
   },
@@ -3344,8 +3397,8 @@
   "pageviews": 77041,
   "citations": 2181,
   "hIndex": 20,
-  "events": 90,
-  "posts": 87,
+  "events": 92,
+  "posts": 88,
   "wikiEn": "Kai-Fu Lee",
   "wikiZh": "李开复"
  },

@@ -1,5 +1,5 @@
 {
- "rank": 81,
+ "rank": 80,
  "id": "bowen-zhou",
  "name": {
   "en": "Bowen Zhou",
@@ -209,6 +209,25 @@
     "en": "The 'specializable generalist' thesis: a feasible path to AGI.",
     "zh": "「可专业化的通才」论点：一条通向 AGI 的可行路径。"
    }
+  },
+  {
+   "date": "2026-10-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Reinforcement Learning-driven Diffusion Models: Language, Vision, and Beyond",
+    "zh": "Reinforcement Learning-driven Diffusion Models: Language, Vision, and Beyond"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.21539v1",
+   "note": {
+    "en": "Zhou co-authored a survey on reinforcement learning-driven diffusion models spanning language, vision and beyond.",
+    "zh": "周伯文合著了一篇关于强化学习驱动扩散模型的综述，涵盖语言、视觉等多个领域。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-10-13",
@@ -1356,7 +1375,7 @@
   "citations": 16676,
   "hIndex": 51,
   "events": 24,
-  "posts": 39,
+  "posts": 40,
   "wikiEn": "Bowen Zhou",
   "wikiZh": null
  },

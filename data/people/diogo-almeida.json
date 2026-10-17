@@ -152,6 +152,25 @@
    }
   },
   {
+   "date": "2026-10-15",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Jev: The AI That Makes Decisions, Not Text - and Why It Changes Everything (Diogo Almeida)",
+    "zh": "Jev: The AI That Makes Decisions, Not Text - and Why It Changes Everything (Diogo Almeida)"
+   },
+   "source": "The MAD Podcast: How AI Gets Built — w…",
+   "url": "https://podcasts.apple.com/us/podcast/jev-the-ai-that-makes-decisions-not-text-and-why/id1686238724?i=1000796481894&uo=4",
+   "note": {
+    "en": "Diogo Almeida discussed TypeSafe's Jev, a 'decision model' that makes fast, calibrated decisions without generating text, as a guest on The MAD Podcast.",
+    "zh": "Diogo Almeida作为嘉宾在The MAD Podcast中介绍了TypeSafe的Jev——一种不生成文本、而是做出快速、经过校准决策的“决策模型”。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-10-06",
    "ts": null,
    "kind": "podcast",
@@ -638,7 +657,7 @@
   "citations": 0,
   "hIndex": 0,
   "events": 10,
-  "posts": 17,
+  "posts": 18,
   "wikiEn": null,
   "wikiZh": null
  },

@@ -208,6 +208,25 @@
    }
   },
   {
+   "date": "2026-10-16",
+   "ts": "2026-10-16T16:15:02Z",
+   "kind": "x",
+   "title": {
+    "en": "We are open-sourcing V1.0 of our agentic robotics framework, ASPIRE, with full real robot skill discovery and self improvement capabilities! On the day Astra ar",
+    "zh": "We are open-sourcing V1.0 of our agentic robotics framework, ASPIRE, with full real robot skill discovery and self improvement capabilities! On the day Astra ar"
+   },
+   "source": "@drjimfan",
+   "url": "https://x.com/DrJimFan/status/2111128797181567466",
+   "note": {
+    "en": "Jim Fan's team open-sourced ASPIRE v1.0, an agentic robotics framework with real-robot skill discovery and self-improvement, timed to the arrival of NVIDIA's Astra robot.",
+    "zh": "范麟熙团队开源了ASPIRE v1.0，这是一个具备真实机器人技能发现和自我提升能力的智能体机器人框架，恰逢NVIDIA Astra机器人到来之际。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-07",
    "ts": "2026-10-07T14:36:33Z",
    "kind": "x",
@@ -1179,16 +1198,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 55.8,
+  "total": 56.3,
   "attention": null,
   "centrality": 87,
-  "momentum": 19,
+  "momentum": 20,
   "stature": null,
   "pageviews": 0,
   "citations": 0,
   "hIndex": 0,
   "events": 2,
-  "posts": 51,
+  "posts": 52,
   "wikiEn": null,
   "wikiZh": null
  },

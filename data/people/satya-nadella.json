@@ -142,6 +142,25 @@
    }
   },
   {
+   "date": "2026-10-16",
+   "ts": "2026-10-16T21:17:37Z",
+   "kind": "x",
+   "title": {
+    "en": "In @Nature this week, our new research shows how machine learning can improve weather forecasts two to six weeks out, a timeframe that's historically been very",
+    "zh": "In @Nature this week, our new research shows how machine learning can improve weather forecasts two to six weeks out, a timeframe that's historically been very"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2111204941801128366",
+   "note": {
+    "en": "Nadella highlighted new Nature research showing machine learning can extend weather-forecast skill to two-to-six-week timeframes, previously very hard to predict.",
+    "zh": "Nadella介绍了《自然》杂志发表的新研究，显示机器学习可以将天气预报的有效范围延长到两到六周，这在以往很难预测。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-12",
    "ts": "2026-10-12T13:03:45Z",
    "kind": "x",
@@ -1149,25 +1168,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-04-27",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Super to see Accenture roll out 740,000+ M365 Copilot seats—our largest deployment to date! https://t.co/4sIMBwcRAV",
-    "zh": "Super to see Accenture roll out 740,000+ M365 Copilot seats—our largest deployment to date! https://t.co/4sIMBwcRAV"
-   },
-   "source": "@satyanadella",
-   "url": "https://x.com/satyanadella/status/2048829906478682304",
-   "note": {
-    "en": "Nadella highlighted Accenture's rollout of over 740,000 Microsoft 365 Copilot seats, Microsoft's largest deployment to date.",
-    "zh": "纳德拉介绍埃森哲部署超过74万个Microsoft 365 Copilot席位,这是微软迄今最大规模的部署案例。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
    "date": "2026-01-21",
    "ts": null,
    "kind": "podcast",
@@ -1500,6 +1500,23 @@
    },
    "source": "StartupHub",
    "url": "https://www.startuphub.ai/ai-news/ai-figures/2026/figure-satya-nadella-venture-portfolio-breakdown-2026-08-13"
+  },
+  {
+   "date": "2026-10-16",
+   "ts": "2026-10-16T16:33:53Z",
+   "level": "notable",
+   "title": {
+    "en": "UWM alumn Satya Nadella recognized by the White House for tech achievement - UW-Milwaukee",
+    "zh": "UWM alumn Satya Nadella recognized by the White House for tech achievement - UW-Milwaukee"
+   },
+   "body": {
+    "en": "Nadella was recognized by the White House for technology achievement, noted by his alma mater UW-Milwaukee.",
+    "zh": "Nadella因技术成就获得白宫表彰，其母校密尔沃基威斯康星大学对此进行了报道。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUGhsRWY1cThQcVU5eTdXWWZFalFRR0tyQUhhR2loRWxCZjNPUDhxVV83anR6QXFvLVhTYy0tZlRFVE5lTnlHckVEaUZPWmUtUXpPQ000VVl2WExfWkpZRHhyYnVqR1plY0FKd0MwcW5XblQ1cHBxak9mUFVhQWhOZmhpMGpwNm04c0VIX3VPNGF0X3pxTjg2LWJfTHo?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-15",
@@ -3804,15 +3821,15 @@
  },
  "cat": "platform",
  "score": {
-  "total": 86.5,
+  "total": 86.3,
   "attention": 83,
   "centrality": 87,
-  "momentum": 92,
+  "momentum": 91,
   "stature": null,
   "pageviews": 828227,
   "citations": 231,
   "hIndex": 3,
-  "events": 137,
+  "events": 138,
   "posts": 72,
   "wikiEn": "Satya Nadella",
   "wikiZh": "薩蒂亞·納德拉"

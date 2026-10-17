@@ -518,6 +518,40 @@
  ],
  "news": [
   {
+   "date": "2026-08-20",
+   "ts": "2026-08-20T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "第四范式冀解决AI落地贵 降企业建构成本「千万变数千」 创始人戴文渊对将来利润乐观",
+    "zh": "第四范式冀解决AI落地贵 降企业建构成本「千万变数千」 创始人戴文渊对将来利润乐观"
+   },
+   "body": {
+    "en": "Dai said 4Paradigm aims to cut enterprise AI deployment costs from the tens-of-millions to the thousands range, and voiced optimism about the company's future profitability.",
+    "zh": "戴文渊表示第四范式希望将企业AI落地成本从“千万级”降到“千元级”，并对公司未来盈利前景表示乐观。"
+   },
+   "source": "Sing Tao Daily 星島日報加拿大",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU0ZDaU5TRjM1VFItRXM3UnhHaV9hb3daOGVaNUFBMkxvQndidTNicklERkl0NUJ1ZG1CR3EyYVk2bFFHaTZ3bW9QQllXZ09rTVJVSmpaUHNIZ2dWaUx0aTJsQkR1WkVIeWEzVlpEc05RV1ZEdVNKRnFBU3VxNlV3aVRZZGtZTkhuWlHSAYoBQVVfeXFMTVNGQ2lOU0YzNVRSLUVzN1J4R2lfYW93WjhlWjVBQTJMb0J3YnUzYnJJREZJdDVCdWRtQkdxMmFZNmxRR2k2d21vUEJZV2dPa01SVUpqWlBzSGdnVmlMdGkybEJEdVpFSHlhM1ZaRHNOUVdWRHVTSkZxQVN1cTZVd2lUWWRrWU5IblpR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-04-28",
+   "ts": "2026-04-28T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "对话范式智能戴文渊：Token调用量季度猛增400%，不做“淘金者”，做Token时代最好的“卖铲人”",
+    "zh": "对话范式智能戴文渊：Token调用量季度猛增400%，不做“淘金者”，做Token时代最好的“卖铲人”"
+   },
+   "body": {
+    "en": "In an interview, Dai Wenyuan said 4Paradigm's quarterly token usage grew 400% and positioned the company as an AI-era infrastructure ('shovel seller') provider rather than an application builder.",
+    "zh": "戴文渊在采访中表示范式智能的Token调用量单季猛增400%，并将公司定位为AI时代的基础设施（“卖铲人”）提供商，而非应用开发者。"
+   },
+   "source": "Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UTElzbmJTUy1xNE1yemVHNTRPMFp4SEtBZE1NZ3M5LVcxczNNUGVHSURlQ09nTVQ5VDdLLTJGNXBIUW9xc2ZlWUVuOWRjaFcwX2tRZHlLdVJPUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-03-26",
    "ts": null,
    "level": "major",
@@ -559,15 +593,15 @@
  },
  "cat": "product",
  "score": {
-  "total": 9.9,
+  "total": 13.1,
   "attention": null,
   "centrality": 14,
-  "momentum": 5,
+  "momentum": 12,
   "stature": null,
   "pageviews": 0,
   "citations": 4662,
   "hIndex": 20,
-  "events": 2,
+  "events": 4,
   "posts": 19,
   "wikiEn": null,
   "wikiZh": null

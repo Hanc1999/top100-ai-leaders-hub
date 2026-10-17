@@ -817,6 +817,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2025-12-11",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Der Vater der KI: „2029 wird ALLES verändern!” Singularität, Roboter & Zukunft (Jürgen Schmidhuber Interview mit Leonard Schmedding) #262",
+    "zh": "Der Vater der KI: „2029 wird ALLES verändern!” Singularität, Roboter & Zukunft (Jürgen Schmidhuber Interview mit Leonard Schmedding) #262"
+   },
+   "source": "KI REVOLUTION - Der Business Podcast v…",
+   "url": "https://podcasts.apple.com/us/podcast/der-vater-der-ki-2029-wird-alles-ver%C3%A4ndern-singularit%C3%A4t/id1813711715?i=1000740876946&uo=4",
+   "note": {
+    "en": "Schmidhuber is interviewed, discussing the singularity, robots and the future ahead of 2029.",
+    "zh": "施米德胡贝接受采访，谈及奇点、机器人以及2029年前的未来走向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2025-10-24",
    "ts": null,
    "kind": "paper",
@@ -1121,6 +1140,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2018-03-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#46 mit KI-Experte Jürgen Schmidhuber (LIVE)",
+    "zh": "#46 mit KI-Experte Jürgen Schmidhuber (LIVE)"
+   },
+   "source": "On the Way to New Work - Der Podcast ü…",
+   "url": "https://podcasts.apple.com/us/podcast/46-mit-ki-experte-j%C3%BCrgen-schmidhuber-live/id1231392085?i=1000405900040&uo=4",
+   "note": {
+    "en": "Schmidhuber appears as a live guest discussing AI's impact on how work will change.",
+    "zh": "施米德胡贝作为嘉宾现场出席，谈论AI将如何改变未来的工作方式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2017-08-28",
    "ts": null,
    "kind": "podcast",
@@ -1208,7 +1246,7 @@
   "citations": 185831,
   "hIndex": 89,
   "events": 2,
-  "posts": 54,
+  "posts": 56,
   "wikiEn": "Jürgen Schmidhuber",
   "wikiZh": "于尔根·施密德胡伯"
  },

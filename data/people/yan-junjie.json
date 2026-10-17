@@ -1,5 +1,5 @@
 {
- "rank": 37,
+ "rank": 38,
  "id": "yan-junjie",
  "name": {
   "en": "Yan Junjie",
@@ -741,6 +741,23 @@
    "judged": true
   },
   {
+   "date": "2026-08-27",
+   "ts": "2026-08-27T07:00:00Z",
+   "level": "minor",
+   "title": {
+    "en": "MiniMax CEO闫俊杰：模型发布周期将显著缩短",
+    "zh": "MiniMax CEO闫俊杰：模型发布周期将显著缩短"
+   },
+   "body": {
+    "en": "MiniMax CEO Yan Junjie said the company's model release cycle will shorten significantly going forward.",
+    "zh": "MiniMax CEO闫俊杰表示，公司未来的模型发布周期将显著缩短。"
+   },
+   "source": "证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SV01XZ2VyNHVpRFFHYVMtQmo5VFVWemRHUVA5WVo4alVGNnJxMWlaSkVPdEt4TXBpMTFsbUpfZGRVdGh6YnhCLUotajZUNHNMR29jZ1pNQXJ5N1BFNVdsQw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-08-26",
    "ts": null,
    "level": "minor",
@@ -1377,15 +1394,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 57.0,
+  "total": 57.2,
   "attention": 54,
   "centrality": 58,
-  "momentum": 67,
+  "momentum": 68,
   "stature": 44,
   "pageviews": 106853,
   "citations": 32186,
   "hIndex": 86,
-  "events": 49,
+  "events": 50,
   "posts": 19,
   "wikiEn": "MiniMax (company)",
   "wikiZh": "MiniMax"

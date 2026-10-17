@@ -217,6 +217,25 @@
    }
   },
   {
+   "date": "2026-10-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Can Visual Generation Expand What Unified Multimodal Models Know?",
+    "zh": "Can Visual Generation Expand What Unified Multimodal Models Know?"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.21459v1",
+   "note": {
+    "en": "Co-authored with Zhipu AI colleagues Wenyi Hong and Zhuoyi Yang, this paper studies whether training unified multimodal models to generate images expands what they know beyond text.",
+    "zh": "该论文由唐杰与智谱AI同事洪文逸、杨卓毅合著，研究训练统一多模态模型生成图像是否能拓展其超越文本的知识边界。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-06",
    "ts": "2026-10-06T04:23:58Z",
    "kind": "x",
@@ -3497,7 +3516,7 @@
   "citations": 30390,
   "hIndex": 83,
   "events": 114,
-  "posts": 71,
+  "posts": 72,
   "wikiEn": null,
   "wikiZh": null
  },

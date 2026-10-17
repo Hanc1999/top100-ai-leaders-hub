@@ -1,5 +1,5 @@
 {
- "rank": 91,
+ "rank": 90,
  "id": "hongxia-yang",
  "name": {
   "en": "Hongxia Yang",
@@ -1032,6 +1032,40 @@
    "judged": true
   },
   {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "香港AI专家杨红霞：为什么“AI大力出奇迹”逐渐失效？因为公开数据快爬完了",
+    "zh": "香港AI专家杨红霞：为什么“AI大力出奇迹”逐渐失效？因为公开数据快爬完了"
+   },
+   "body": {
+    "en": "Yang argues that brute-force scaling is losing effectiveness because the supply of public training data is nearly exhausted.",
+    "zh": "杨红霞认为“大力出奇迹”式的暴力规模化正逐渐失效，原因是可用的公开训练数据已接近耗尽。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PdmpBOThYTEZsZ2c5TjhqNmpkT3VhZXFxb2x3b2k5bVA0TlpyMWtPLUVaVUVMVEpRU1h6NHBQTnI5NDlsOG92eHQzVWVuSXZ2Rjlr?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "杨红霞：领域模型只需几百亿参数，130亿参数鼻咽癌模型准确率超95% 远超Gemini-3",
+    "zh": "杨红霞：领域模型只需几百亿参数，130亿参数鼻咽癌模型准确率超95% 远超Gemini-3"
+   },
+   "body": {
+    "en": "Yang said a domain-specific 13-billion-parameter nasopharyngeal cancer model exceeded 95% accuracy using only tens of billions of parameters, outperforming Gemini-3, and argued specialized medical tasks don't need huge general-purpose models.",
+    "zh": "杨红霞表示，仅用百亿级参数规模打造的130亿参数鼻咽癌领域模型准确率超过95%，超越Gemini-3，主张专用医疗任务无需超大规模通用模型。"
+   },
+   "source": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RQkFOQTREWnUtVEZIeU93Z1hIZVo4LWc3WXlrZll0MmhSUjd4T0tyeHFXdldsYVdfQ1l2djZaX3lCaFRqem5tVTBqMzlyaDdLWlE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-06-14",
    "ts": null,
    "level": "notable",
@@ -1056,15 +1090,15 @@
  },
  "cat": "research",
  "score": {
-  "total": 24.3,
+  "total": 24.7,
   "attention": null,
   "centrality": 7,
-  "momentum": 52,
+  "momentum": 53,
   "stature": 8,
   "pageviews": 0,
   "citations": 7252,
   "hIndex": 40,
-  "events": 15,
+  "events": 17,
   "posts": 33,
   "wikiEn": null,
   "wikiZh": null

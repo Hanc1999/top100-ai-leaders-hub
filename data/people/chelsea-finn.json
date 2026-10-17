@@ -177,6 +177,25 @@
    }
   },
   {
+   "date": "2026-10-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries",
+    "zh": "Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.22273v1",
+   "note": {
+    "en": "Finn co-authored Librarian Agents, which trains LLMs to curate long-context workspaces that anticipate an agent's future queries.",
+    "zh": "Finn合著了论文《Librarian Agents》，训练大语言模型整理长上下文工作区以预判智能体未来的查询需求。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-13",
    "ts": "2026-10-13T21:48:51Z",
    "kind": "x",
@@ -1353,25 +1372,6 @@
    "judged": true,
    "platform": "x",
    "connector": "backfill"
-  },
-  {
-   "date": "2026-01-02",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "RoboReward: General-Purpose Vision-Language Reward Models for Robotics",
-    "zh": "RoboReward: General-Purpose Vision-Language Reward Models for Robotics"
-   },
-   "source": "arXiv (Cornell University)",
-   "url": "https://doi.org/10.48550/arxiv.2601.00675",
-   "note": {
-    "en": "Finn co-authored RoboReward, a general-purpose vision-language reward model that matches human-provided rewards in real robot reinforcement learning.",
-    "zh": "Finn合著了RoboReward，一个通用视觉-语言奖励模型，在真实机器人强化学习中的表现可媲美人工评分。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
   },
   {
    "date": "2025-12-22",

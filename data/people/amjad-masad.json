@@ -1,5 +1,5 @@
 {
- "rank": 57,
+ "rank": 56,
  "id": "amjad-masad",
  "name": {
   "en": "Amjad Masad",
@@ -885,6 +885,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2023-02-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Disenfranchised men, AI Doomerism, and the Problems with Effective Altruism, with Amjad Masad",
+    "zh": "Disenfranchised men, AI Doomerism, and the Problems with Effective Altruism, with Amjad Masad"
+   },
+   "source": "\"Moment of Zen\"",
+   "url": "https://podcasts.apple.com/us/podcast/disenfranchised-men-ai-doomerism-and-the/id1661672738?i=1000601669149&uo=4",
+   "note": {
+    "en": "Masad joined Erik Torenberg, Dan Romero, and Antonio Garcia Martinez on Moment of Zen to discuss AI doomerism and effective altruism.",
+    "zh": "Masad与Erik Torenberg、Dan Romero和Antonio Garcia Martinez在《Moment of Zen》播客上讨论AI悲观主义和有效利他主义等话题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2023-02-23",
    "ts": null,
    "kind": "podcast",
@@ -973,6 +992,25 @@
    "note": {
     "en": "Masad appeared on the FYI podcast to discuss the future of software engineering and Replit's approach.",
     "zh": "Masad在FYI播客中作客，探讨软件工程的未来以及Replit的产品理念。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2021-12-13",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#753 Bringing Coding To The Masses w/ Amjad Masad",
+    "zh": "#753 Bringing Coding To The Masses w/ Amjad Masad"
+   },
+   "source": "The Pomp Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/753-bringing-coding-to-the-masses-w-amjad-masad/id1434060078?i=1000544796370&uo=4",
+   "note": {
+    "en": "Masad discussed software development and coding education as a guest on The Pomp Podcast.",
+    "zh": "Masad作为嘉宾在The Pomp Podcast上讨论了软件开发与编程教育。"
    },
    "auto": true,
    "judged": true,
@@ -1186,6 +1224,40 @@
    "url": "https://replit.com/news/funding-announcement"
   },
   {
+   "date": "2026-10-16",
+   "ts": "2026-10-16T13:52:30Z",
+   "level": "notable",
+   "title": {
+    "en": "Amjad Masad at TechCrunch Disrupt outlines self-driving company vision",
+    "zh": "Amjad Masad at TechCrunch Disrupt outlines self-driving company vision"
+   },
+   "body": {
+    "en": "Masad told TechCrunch Disrupt that the future of work is the 'self-driving company,' where AI agents handle routine operations like support-ticket triage while humans retain judgment and strategic decisions.",
+    "zh": "马斯德在TechCrunch Disrupt上表示，未来的企业形态是“自动驾驶公司”：AI智能体处理诸如客服工单分类等常规运营工作，而人类保留判断力和战略决策权。"
+   },
+   "source": "NewsBytes",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY3RCd3pVM2pfbjdZX3dkbERxUXJTYVJndjR1Z1JsMnZwV1MxQWVPS3B2U1ZSSWtDR1JHLUVmQUFibGowakxUT1lYNGtjR05GN3ZKaFRSblhkVFNGWFFKamVWVEJNYkdMZEFJYUJWenZ1bnlxU2Y5VEprV0JCby1qXy0yclF6VTlwanpHMmdoQmRwZHgxN3hFT2w5c2FpS2diSy1MSlllcVNPXzdsbjVscV9RaldLcXg0Mmc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-16",
+   "ts": "2026-10-16T22:01:13Z",
+   "level": "notable",
+   "title": {
+    "en": "Replit CEO Amjad Masad says company has stopped working with Anthropic — TechCrunch",
+    "zh": "Replit CEO Amjad Masad says company has stopped working with Anthropic — TechCrunch"
+   },
+   "body": {
+    "en": "Replit CEO Amjad Masad said the company has stopped working with Anthropic, signaling a shift in which model providers power Replit's Agent.",
+    "zh": "Replit CEO Amjad Masad表示公司已停止与Anthropic的合作，标志着其Agent所用模型供应商关系的转变。"
+   },
+   "source": "UA.NEWS",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVk5vSGo0TFFYUzBUZ0QybFFPXzdURjFmWGV5ODh3TU1xVG5SUWRwLU5xZ0J1RkxpV0FacHM5bnI2VTZTTWs0Zl9GajBQV1VTaW5RRHh2SWhEUGh0MXlHSzN4SUgyOWZOcUhLMGRYOUhpYmlhYk5LNWVLYWI0TlVBOHJFV295aUpNZjZwOUlIUlZHbDhFMTBkQmlwdzR4dklCeFBFWU1tT1VtZF9TVnR5Q3gxMUc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-07",
    "ts": "2026-10-07T23:20:05Z",
    "level": "notable",
@@ -1295,16 +1367,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 42.3,
+  "total": 42.8,
   "attention": 49,
   "centrality": 39,
-  "momentum": 34,
+  "momentum": 36,
   "stature": null,
   "pageviews": 87011,
   "citations": 0,
   "hIndex": 0,
-  "events": 7,
-  "posts": 55,
+  "events": 9,
+  "posts": 57,
   "wikiEn": "Amjad Masad",
   "wikiZh": null
  },

@@ -171,6 +171,25 @@
    }
   },
   {
+   "date": "2026-10-16",
+   "ts": "2026-10-16T21:00:45Z",
+   "kind": "x",
+   "title": {
+    "en": "In Aisle's first year, they've shown that the system built around an LLM is highly important, and even small, cheap fast models can be boosted to do valuable se",
+    "zh": "In Aisle's first year, they've shown that the system built around an LLM is highly important, and even small, cheap fast models can be boosted to do valuable se"
+   },
+   "source": "@goodfellow_ian",
+   "url": "https://x.com/goodfellow_ian/status/2111200699128353136",
+   "note": {
+    "en": "Goodfellow notes that Aisle's first year shows a well-engineered system around an LLM lets even small, cheap, fast models do valuable security work.",
+    "zh": "古德费洛指出,Aisle成立一年的成果表明,围绕LLM构建良好的系统能让即使是小型、低成本、快速的模型也能完成有价值的安全工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-08-05",
    "ts": null,
    "kind": "x",
@@ -1138,7 +1157,7 @@
   "citations": 84073,
   "hIndex": 63,
   "events": 0,
-  "posts": 52,
+  "posts": 53,
   "wikiEn": "Ian Goodfellow",
   "wikiZh": "伊恩·古德费洛"
  },

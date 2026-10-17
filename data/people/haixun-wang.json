@@ -205,6 +205,25 @@
    }
   },
   {
+   "date": "2026-10-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DocPilot: Interactive Agent Orchestration and Training for Long Visual Document Understanding",
+    "zh": "DocPilot: Interactive Agent Orchestration and Training for Long Visual Document Understanding"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.21327v1",
+   "note": {
+    "en": "Wang co-authored DocPilot, an interactive agent framework for orchestrating and training long visual document understanding.",
+    "zh": "王海勋合著了DocPilot论文，提出一种用于编排和训练长视觉文档理解的交互式智能体框架。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-11",
    "ts": null,
    "kind": "paper",
@@ -1092,7 +1111,7 @@
   "citations": 0,
   "hIndex": 0,
   "events": 1,
-  "posts": 46,
+  "posts": 47,
   "wikiEn": null,
   "wikiZh": null
  },

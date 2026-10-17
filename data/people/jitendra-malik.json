@@ -177,6 +177,44 @@
    }
   },
   {
+   "date": "2026-10-16",
+   "ts": "2026-10-16T20:31:45Z",
+   "kind": "x",
+   "title": {
+    "en": "\"World Models\" are the rage for very good reasons, but then what is the right sensorimotor experience for training these models? With human children, it is a co",
+    "zh": "\"World Models\" are the rage for very good reasons, but then what is the right sensorimotor experience for training these models? With human children, it is a co"
+   },
+   "source": "@jitendramalikcv",
+   "url": "https://x.com/JitendraMalikCV/status/2111193400460628049",
+   "note": {
+    "en": "Malik argues that training good world models requires figuring out the right sensorimotor experience, drawing a comparison to how human children learn through observation and interaction.",
+    "zh": "马利克认为,训练好的世界模型需要找到恰当的感觉运动经验,并将其与人类儿童通过观察和互动学习的方式作类比。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Dexterity from Supervised Play",
+    "zh": "Dexterity from Supervised Play"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.22340v1",
+   "note": {
+    "en": "Malik co-authored \"Dexterity from Supervised Play,\" a framework that lets a robot autonomously collect contact-rich experience for learning dexterous manipulation.",
+    "zh": "马利克合著了《从监督式玩耍中获得灵巧性》（Dexterity from Supervised Play），该框架让机器人能自主收集丰富的接触经验以学习灵巧操作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-12",
    "ts": null,
    "kind": "paper",
@@ -1716,25 +1754,6 @@
    "connector": "x"
   },
   {
-   "date": "2024-01-23",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Want to make your photorealistic 3D avatar dance like your favorite actor? Check this out!",
-    "zh": "Want to make your photorealistic 3D avatar dance like your favorite actor? Check this out!"
-   },
-   "source": "@JitendraMalikCV",
-   "url": "https://x.com/JitendraMalikCV/status/1749685245329420658",
-   "note": {
-    "en": "Malik shared a demo letting a photorealistic 3D avatar mimic the dance moves of a favorite actor.",
-    "zh": "Malik分享了一个演示,可让照片级真实感的3D虚拟形象模仿指定演员的舞蹈动作。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
    "date": "2023-08-17",
    "ts": null,
    "kind": "podcast",
@@ -1819,16 +1838,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 30.0,
+  "total": 30.2,
   "attention": 21,
   "centrality": 14,
-  "momentum": 43,
+  "momentum": 44,
   "stature": 81,
   "pageviews": 12954,
   "citations": 168758,
   "hIndex": 144,
   "events": 0,
-  "posts": 88,
+  "posts": 89,
   "wikiEn": "Jitendra Malik",
   "wikiZh": "希特德拉·馬利克"
  },

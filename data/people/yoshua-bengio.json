@@ -169,6 +169,44 @@
    }
   },
   {
+   "date": "2026-10-16",
+   "ts": "2026-10-16T20:26:32Z",
+   "kind": "x",
+   "title": {
+    "en": "Until we solve the alignment problem at its source, AI models will continue to optimize for the wrong goals, and increasingly impactful real-world consequences",
+    "zh": "Until we solve the alignment problem at its source, AI models will continue to optimize for the wrong goals, and increasingly impactful real-world consequences"
+   },
+   "source": "@yoshua_bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2111192089681961387",
+   "note": {
+    "en": "Bengio warns that until the alignment problem is solved at its source, AI models will keep optimizing for the wrong goals with increasingly consequential real-world effects.",
+    "zh": "本吉奥警告,除非从根源上解决对齐问题,AI模型将持续优化错误的目标,并带来日益严重的现实后果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-14",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Defining and Generating Compositional Structure",
+    "zh": "Defining and Generating Compositional Structure"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.20922v1",
+   "note": {
+    "en": "Bengio co-authors a paper formalizing how to define and generate compositional structure, relevant to his broader program on systematic generalization.",
+    "zh": "Bengio合著论文，对如何定义和生成组合结构进行了形式化研究，呼应他在系统泛化方面的长期研究方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-13",
    "ts": "2026-10-13T17:33:52Z",
    "kind": "x",
@@ -1670,25 +1708,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-05-11",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Excellent explainer video by @FryRsquared on the risks of AI agents. She also raises a crucial point: we shouldn’t make the mistake of thinking current limitati",
-    "zh": "Excellent explainer video by @FryRsquared on the risks of AI agents. She also raises a crucial point: we shouldn’t make the mistake of thinking current limitati"
-   },
-   "source": "@Yoshua_Bengio",
-   "url": "https://x.com/Yoshua_Bengio/status/2053824121767596123",
-   "note": {
-    "en": "Bengio praises Hannah Fry's explainer on AI agent risks and stresses that current capability limitations should not be assumed to persist.",
-    "zh": "本吉奥称赞Hannah Fry关于AI智能体风险的解说视频,并强调不应假设当前能力局限会一直持续。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
    "date": "2026-05-07",
    "ts": null,
    "kind": "podcast",
@@ -2062,44 +2081,6 @@
    "note": {
     "en": "A large multi-author proposal, signed by Bengio, for how independent third parties could rigorously audit the safety and security claims of frontier AI companies.",
     "zh": "一份由 Bengio 参与署名的多作者提案，论述独立第三方应如何严格审计前沿人工智能公司的安全与保障承诺。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-01-15",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Discrete Feynman-Kac Correctors",
-    "zh": "Discrete Feynman-Kac Correctors"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2601.10403v1",
-   "note": {
-    "en": "Extends Feynman-Kac correctors to discrete diffusion models, improving sampling from discrete sequence generators; joint with Alán Aspuru-Guzik and Kirill Neklyudov.",
-    "zh": "将 Feynman-Kac 校正子推广到离散扩散模型，改善离散序列生成的采样质量；与 Alán Aspuru-Guzik、Kirill Neklyudov 合作完成。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-01-06",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "In-Context Reinforcement Learning through Bayesian Fusion of Context and Value Prior",
-    "zh": "In-Context Reinforcement Learning through Bayesian Fusion of Context and Value Prior"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2601.03015v1",
-   "note": {
-    "en": "With David Rolnick, fuses in-context evidence with a learned value prior so in-context RL can improve beyond its training distribution.",
-    "zh": "与 David Rolnick 合作，将上下文证据与学到的价值先验融合，使上下文强化学习能够突破训练分布的限制。"
    },
    "auto": true,
    "judged": true,
@@ -2490,6 +2471,23 @@
    },
    "source": "BetaKit",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNEFXRzhUdnNjSWQya2xZLURfRE9NdHFOOV9mbnMzaF9laXRSa0M1WWhNT0hNcDA0QzBoTWJ4aGV1cGFUSEthbzBuckVZcVg5RGJ1TzQtSEJ1U3d2Um9tWGlBMDIwSEwxVGZQeHBoSWd2M3Z2Z0VRM180cjRrbFROX0RHT3NhZ1FCV3ZuU0M1VGV6VmQ0U0JHTENvSUFKd0dxSzJDSGFRdWdlN1MyMVE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-13",
+   "ts": "2026-10-13T11:41:00Z",
+   "level": "major",
+   "title": {
+    "en": "Geoffrey Hinton, Yoshua Bengio join 400 scientists calling for global AI oversight body",
+    "zh": "Geoffrey Hinton, Yoshua Bengio join 400 scientists calling for global AI oversight body"
+   },
+   "body": {
+    "en": "Bengio joined Geoffrey Hinton and roughly 400 other scientists in calling for a global body to oversee AI safety.",
+    "zh": "本吉奥与杰弗里·辛顿等约400名科学家联合呼吁成立全球性人工智能监管机构。"
+   },
+   "source": "The News International",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVV9TbkFOZHRnVDBPVVA2ME05VWNUNHlqQzFZcmU4YUR1UW5GbVJuNU9GOGJpU2lqWEh3Rmp5QWJIZnotQmh5RzhJVm5IYk1HNEpNNkI5WTduaEp6R3YzdHZHMjEzR01sNFFTZjBhbXRrS3pCR1pyb3cwOFdhazhaOUtfTWp5NGdic2VtdXdjTEd4MjZfNW1oWXI1UVk5R0ppajNiQVotcUxJanR6U3l0TkVmNUFYYmQzNmpOM19iNU9wRmJzdXZN?oc=5",
    "auto": true,
    "judged": true
   },
@@ -3487,16 +3485,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 64.0,
+  "total": 64.2,
   "attention": 67,
   "centrality": 30,
-  "momentum": 83,
+  "momentum": 84,
   "stature": 98,
   "pageviews": 276660,
   "citations": 475043,
   "hIndex": 184,
-  "events": 62,
-  "posts": 120,
+  "events": 63,
+  "posts": 119,
   "wikiEn": "Yoshua Bengio",
   "wikiZh": "约书亚·本希奥"
  },

@@ -1,5 +1,5 @@
 {
- "rank": 63,
+ "rank": 62,
  "id": "guillermo-rauch",
  "name": {
   "en": "Guillermo Rauch",
@@ -125,6 +125,44 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-10-16",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Vercel CEO Guillermo Rauch on Building the Internet for Agents",
+    "zh": "Vercel CEO Guillermo Rauch on Building the Internet for Agents"
+   },
+   "source": "Sourcery",
+   "url": "https://podcasts.apple.com/us/podcast/vercel-ceo-guillermo-rauch-on-building-the-internet/id1738124704?i=1000796643017&uo=4",
+   "note": {
+    "en": "Rauch joined the Sourcery podcast from Vercel's San Francisco office to discuss how AI agents are reshaping software development, infrastructure and the economics of building on the web.",
+    "zh": "劳赫在Vercel旧金山办公室做客Sourcery播客，讨论AI智能体如何重塑软件开发、基础设施以及网络建设的经济模式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-10-16",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AI Will Build Most Frontend Code | Guillermo Rauch",
+    "zh": "AI Will Build Most Frontend Code | Guillermo Rauch"
+   },
+   "source": "MTS",
+   "url": "https://podcasts.apple.com/us/podcast/ai-will-build-most-frontend-code-guillermo-rauch/id1891088763?i=1000796590556&uo=4",
+   "note": {
+    "en": "On the MTS podcast, Rauch argued AI will soon write most frontend code and discussed how that shifts web architecture, deployment platforms and infrastructure economics.",
+    "zh": "劳赫在MTS播客中表示，AI将很快编写大部分前端代码，并探讨了这将如何改变网络架构、部署平台和基础设施经济模式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   },
   {
    "date": "2026-10-04",
@@ -1017,6 +1055,23 @@
    "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/"
   },
   {
+   "date": "2026-10-16",
+   "ts": "2026-10-16T05:30:59Z",
+   "level": "notable",
+   "title": {
+    "en": "Guillermo Rauch on Vercel Adding 1.5B Deployments in 10 Months｜Sourcery",
+    "zh": "Guillermo Rauch on Vercel Adding 1.5B Deployments in 10 Months｜Sourcery"
+   },
+   "body": {
+    "en": "Rauch discusses Vercel surpassing 1.5 billion deployments in 10 months, underscoring the platform's scale as infrastructure for AI-generated frontend code.",
+    "zh": "劳赫谈到Vercel在10个月内完成超过15亿次部署,凸显该平台作为AI生成前端代码基础设施的规模。"
+   },
+   "source": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YdmIycU5pVUFXcDhsV2Nwd1dGRlhLbUxMZWtHWXZObDdzaG9udEVLbEI2NEVsemp2M0FLd1dVVUhXdFJlbXZ3U0V6R2VaSXZEUUZrM2kxT3ZmRzA3SVdr?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-15",
    "ts": "2026-10-15T18:41:01Z",
    "level": "notable",
@@ -1109,16 +1164,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 36.0,
+  "total": 37.8,
   "attention": null,
   "centrality": 36,
-  "momentum": 36,
+  "momentum": 40,
   "stature": null,
   "pageviews": 0,
   "citations": 9,
   "hIndex": 1,
-  "events": 6,
-  "posts": 47,
+  "events": 7,
+  "posts": 49,
   "wikiEn": null,
   "wikiZh": null
  },

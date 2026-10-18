@@ -1176,6 +1176,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-15",
+   "ts": "2026-10-15T14:01:02Z",
+   "level": "notable",
+   "title": {
+    "en": "Yann LeCun opposes slowing AI, calls Anthropic's stance 'anti-enlightenment'",
+    "zh": "Yann LeCun opposes slowing AI, calls Anthropic's stance 'anti-enlightenment'"
+   },
+   "body": {
+    "en": "LeCun publicly opposed slowing down AI development, calling Anthropic's safety-first stance 'anti-enlightenment.'",
+    "zh": "杨立昆公开反对减缓AI发展，称Anthropic的安全优先立场是“反启蒙”的。"
+   },
+   "source": "TechGig",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOUxYRkg2ZVpZTGdtcGYwdXRwQklEZUpaSElIYnVRQ0gySGNKRWUyeWpEbDktZ3MzRWQ3M2pUb3R4bHowY2J6NDNzZmRQUGJrVUhjSUdFOXBmMXpYMnd5WllmYmZxUXNwem1Kb2loOUhkM1J4YndKRUNLSXFjdVBGb1B1RDNqRkNVLWMzeXZ3OWFCUWlzNnN3cGltVDRtTmQzUjc1N0VoUEdUZ3NlWkt1QlNtb3jSAbQBQVVfeXFMTzlMWEZINmVaWUxnbXBmMHV0cEJJRGVKWkhJSGJ1UUNIMkhjSkVlMnlqRGw5LWdzM0VkNzNqVG90eGx6MGNiejQzc2ZkUFBia1VIY0lHRTlwZjF6WDJ3eVpZZmJmcVFzcHptSm9paDlIZDNSeGJ3SkVDS0lxY3VQRm9QdUQzakZDVS1jM3l2dzlhQlFpczZzd3BpbVQ0bU5kM1I3NTdFaFBHVGdzZVpLdUJTbW94?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-14",
    "ts": "2026-10-14T05:21:08Z",
    "level": "major",
@@ -1580,6 +1597,57 @@
    },
    "source": "虎嗅网",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GdzBYNjY3ejZHVkFUeDYxeXN3MEZ2bHIwbFkwTkRKb3htVXg5dC1rU3JKV3FIQjZVRG8wVUV6Uy10UmdnSVNjbDJIMm1oUmpwRFppQw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T06:46:27Z",
+   "level": "notable",
+   "title": {
+    "en": "“AI教父”杨立昆：下一代AI须理解现实世界",
+    "zh": "“AI教父”杨立昆：下一代AI须理解现实世界"
+   },
+   "body": {
+    "en": "LeCun said the next generation of AI must understand the physical world, reiterating his case against pure autoregressive LLMs.",
+    "zh": "杨立昆表示下一代AI必须理解现实世界，重申其反对纯自回归大模型路线的观点。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sM2poZ00tM0s1ME54SExERHVYdU1jbjlWR2xtTERxTUpJQzRWOVczMUZwVUFSMVFVNzFZRmdPTXY5T25PeWJwa3UtYk93TWtvamc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T07:00:27Z",
+   "level": "minor",
+   "title": {
+    "en": "AI教父杨立昆：下一代AI须理解现实世界",
+    "zh": "AI教父杨立昆：下一代AI须理解现实世界"
+   },
+   "body": {
+    "en": "LeCun reiterated his core argument that next-generation AI must understand the physical world, not just language.",
+    "zh": "杨立昆重申其核心观点：下一代AI必须理解现实世界，而非仅仅停留在语言层面。"
+   },
+   "source": "搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWEl4ODl6aUpaQ3BSb3paaFhrc2ViaXpNX3E0T0FQTjR2cFpaa0Z0QXFnRzQyc0xUdzljbk44a2QyZUdSdTVrajRfRUpKeHlzakx3MWVydUVXWEZpWGdhOTRDb0F1bEtJYlJjSnZXakJPaWZDUzRxV19wRVI0UGNnUHJDOThYTXJ1?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T15:49:17Z",
+   "level": "notable",
+   "title": {
+    "en": "图灵奖得主杨立昆：AI下一阶段突破将来自世界模型，失控风险可通过工程技术控制",
+    "zh": "图灵奖得主杨立昆：AI下一阶段突破将来自世界模型，失控风险可通过工程技术控制"
+   },
+   "body": {
+    "en": "LeCun reiterates that the next AI breakthrough will come from world models rather than scaled-up LLMs, and argues loss-of-control risk can be managed through engineering rather than halting progress.",
+    "zh": "杨立昆重申，AI下一阶段的突破将来自世界模型而非继续扩大语言模型规模，并认为失控风险可以通过工程技术手段加以控制，而非停止研发。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRmwzckRodmpMUFNRNTlKenN1QTlEVVN1cU95R0VXeGFNNE9Gbm9mYlpTcFFoLXpCbzRYRWpJWXNySUlSMGhIZlp5TlpSMFcxVjZ2UDZLemZLWHJkT0VWVWVrWGdnWEJYMnhHUzdjZGxuMzR0UTd1RlZkWEJlMnIybV9zWkFBdjJpUXhwaEwwY1c5Um5jX0xQeXdIdl9EUjJ0YmhxVWZlSmREZw?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2264,6 +2332,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T07:00:00Z",
+   "level": "minor",
+   "title": {
+    "en": "187. 杨立昆：AI 对世界的理解水平，甚至比不上家里的猫",
+    "zh": "187. 杨立昆：AI 对世界的理解水平，甚至比不上家里的猫"
+   },
+   "body": {
+    "en": "LeCun reiterated his view that current AI systems understand the physical world worse than a cat does, underscoring his push for world models over pure LLMs.",
+    "zh": "杨立昆重申其观点：当前AI系统对物理世界的理解水平甚至不如一只家猫，凸显他推动世界模型而非纯语言模型的立场。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jaFNuU2p0clpHSGs4TUN5c195RGVUV1c2eWxBVFVmVDZXcWVDU0I1NHhCR29TU1VMcVhRS0p0Q3RkX2JfdW5CQ3BWQUlNODl4WmUwTWh3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-21",
    "ts": "2026-09-21T07:00:00Z",
    "level": "notable",
@@ -2328,6 +2413,23 @@
    },
    "source": "Morningstar",
    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPb3dGQ1JZSnpUbzFOVmE5TWsyeDY2UjhhYWlHcTlCMWtSeG1KMWpmY21EVlItWWFYNWhpWm9SSzgxSDBKcTZQM0pWTWNmcTZ1Qjd2d3A1VExwbmt4RVNkYTJ5VGhMSGdzYjNFZVNGV3RrWFAzYTNIWWN0UlQ3ak5hTlNLQXBSMkVhT01tY1M3bUxHUE5CNGpPZkdvenZENzlhSlZ3eGlxbDBmYjRGTjFjTzJ4SXBQdG1GaEZCUVdzTlJQTW54bHRrTVhvamMzZGFaVEctTExUUDhnRTdCTXNvUVk3YkR3RjlOVi1iaGhxdDJ2X2hIbXhkaQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-21",
+   "ts": "2026-09-21T07:00:00Z",
+   "level": "minor",
+   "title": {
+    "en": "Yann LeCun, Bob Langer, Jens Nielsen and Fabian Theis Join Cellular Intelligence Scientific Advisory Board",
+    "zh": "Yann LeCun, Bob Langer, Jens Nielsen and Fabian Theis Join Cellular Intelligence Scientific Advisory Board"
+   },
+   "body": {
+    "en": "LeCun joined the scientific advisory board of Cellular Intelligence alongside other scientists, a minor new affiliation outside his core AI work.",
+    "zh": "杨立昆与其他科学家一同加入了Cellular Intelligence的科学顾问委员会，这是他核心AI工作之外的一项次要新兼任。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSDhvYkxteFlFb1pwYlZKOVFmQ080a3lIU096cldIQ1gwTW5Dampqd1A1cTg1UHlRQVhKbzRtdm1PbVBJcENpR09aSXNwN200dnkycjViWUY1SzQ5dTl0LWJ3VW44VHo1YUdreXBjRW1tZlRBNk9Ob3JGNTVLcUNrRDU0SmVnMFhhcFc5R2thOGw?oc=5",
    "auto": true,
    "judged": true
   },
@@ -3369,6 +3471,23 @@
    "judged": true
   },
   {
+   "date": "2026-03-10",
+   "ts": "2026-03-10T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "APPSO独家｜杨立昆再联手谢赛宁，英伟达参投，新公司押注 LLM 之后",
+    "zh": "APPSO独家｜杨立昆再联手谢赛宁，英伟达参投，新公司押注 LLM 之后"
+   },
+   "body": {
+    "en": "LeCun teamed up again with Saining Xie to found a new company betting on a post-LLM approach, with NVIDIA among the investors.",
+    "zh": "杨立昆再度联手谢赛宁创立新公司，押注后LLM路线，英伟达参与投资。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VeTlISEVWS0FyXzROaFR2dXNVZDh3R3l1RkxlcUg0Y1VPeGNfcUU1Nlg1VHNjTC0zcTZNcUpOcVZBa0xUa0M1eFI5R3FidzMzdkhPMTdDb1VhXzhyZmV1VXRFVnhNNXM5SEhqeDh3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-03-07",
    "ts": null,
    "level": "major",
@@ -3622,7 +3741,7 @@
   "pageviews": 531264,
   "citations": 253869,
   "hIndex": 120,
-  "events": 146,
+  "events": 153,
   "posts": 52,
   "wikiEn": "Yann LeCun",
   "wikiZh": "杨立昆"

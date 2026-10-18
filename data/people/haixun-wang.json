@@ -205,6 +205,25 @@
    }
   },
   {
+   "date": "2026-10-17",
+   "ts": "2026-10-17T16:13:08Z",
+   "kind": "x",
+   "title": {
+    "en": "A classifier like Jev can look revolutionary, while one AI model writes an explanation for another. No human reads it. One turns its internal representations in",
+    "zh": "A classifier like Jev can look revolutionary, while one AI model writes an explanation for another. No human reads it. One turns its internal representations in"
+   },
+   "source": "@haixunwang",
+   "url": "https://x.com/haixunwang/status/2111490706187681886",
+   "note": {
+    "en": "Wang argues AI self-interpretation is being faked: one model translates another's internal representations into an English explanation that no human ever reads or checks.",
+    "zh": "王海勋认为AI的自我解释机制存在问题：一个模型把另一个模型的内部表征翻译成英文解释，却从没有人类真正阅读或核实这些解释。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-15",
    "ts": null,
    "kind": "paper",
@@ -1102,16 +1121,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 6.4,
+  "total": 6.8,
   "attention": null,
   "centrality": 5,
-  "momentum": 8,
+  "momentum": 9,
   "stature": null,
   "pageviews": 0,
   "citations": 0,
   "hIndex": 0,
   "events": 1,
-  "posts": 47,
+  "posts": 48,
   "wikiEn": null,
   "wikiZh": null
  },

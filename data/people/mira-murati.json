@@ -1,5 +1,5 @@
 {
- "rank": 15,
+ "rank": 16,
  "id": "mira-murati",
  "name": {
   "en": "Mira Murati",
@@ -1115,6 +1115,23 @@
    "judged": true
   },
   {
+   "date": "2026-05-07",
+   "ts": "2026-05-07T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Former OpenAI CTO Mira Murati testified in Elon Musk’s lawsuit against OpenAI on Wednesday, alleging that CEO Sam Altman created distrust among senior executives while the company rapidly expanded its AI operations. Murati, who briefly served as interi",
+    "zh": "Former OpenAI CTO Mira Murati testified in Elon Musk’s lawsuit against OpenAI on Wednesday, alleging that CEO Sam Altman created distrust among senior executives while the company rapidly expanded its AI operations. Murati, who briefly served as interi"
+   },
+   "body": {
+    "en": "Murati testified in Musk's lawsuit against OpenAI, alleging Altman's conduct created distrust among senior executives during the company's rapid growth.",
+    "zh": "Murati在马斯克起诉OpenAI的案件中作证，指控阿尔特曼的行为在公司快速扩张期间在高管间制造了不信任。"
+   },
+   "source": "Instagram",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TcTQ0STg2R2k0b1JjVDk3RW5ZYTg5UzVKN0tVRFZ5UF92MDFKdVRacDIwZ3JkOTBudGxiNkhpTmNQTW9BSzVESFFvVkFFaWszTEE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-05-06",
    "ts": "2026-05-06T07:00:00Z",
    "level": "major",
@@ -1292,19 +1309,19 @@
  },
  "cat": "lab",
  "score": {
-  "total": 74.7,
+  "total": 74.9,
   "attention": 82,
   "centrality": 72,
-  "momentum": 64,
+  "momentum": 65,
   "stature": null,
   "pageviews": 800593,
   "citations": 1653,
   "hIndex": 3,
-  "events": 33,
+  "events": 34,
   "posts": 33,
   "wikiEn": "Mira Murati",
   "wikiZh": "米拉·穆拉蒂"
  },
  "seedRank": 18,
- "tier": "t1"
+ "tier": "t2"
 }

@@ -981,6 +981,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2023-06-28",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Noam Brown: from Open AI on solving Poker and Diplomacy with AI",
+    "zh": "Noam Brown: from Open AI on solving Poker and Diplomacy with AI"
+   },
+   "source": "The Robot Brains Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/noam-brown-from-open-ai-on-solving-poker-and/id1559275284?i=1000618667699&uo=4",
+   "note": {
+    "en": "Abbeel hosts Noam Brown on The Robot Brains Podcast to discuss solving poker and Diplomacy with AI.",
+    "zh": "Pieter Abbeel在The Robot Brains Podcast节目中采访Noam Brown，讨论用AI解决扑克和外交游戏的问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2023-06-07",
    "ts": null,
    "kind": "podcast",
@@ -1315,7 +1334,7 @@
   "citations": 79473,
   "hIndex": 123,
   "events": 2,
-  "posts": 59,
+  "posts": 60,
   "wikiEn": "Pieter Abbeel",
   "wikiZh": "彼得·阿比爾"
  },

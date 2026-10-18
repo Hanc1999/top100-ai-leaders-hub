@@ -152,6 +152,25 @@
    }
   },
   {
+   "date": "2026-10-16",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ineffable Intelligence 的 David Silver 和 Lasse Espeholt：体验时代的超级学习者",
+    "zh": "Ineffable Intelligence 的 David Silver 和 Lasse Espeholt：体验时代的超级学习者"
+   },
+   "source": "AI 明白人｜全球 AI 播客中文精选",
+   "url": "https://podcasts.apple.com/us/podcast/ineffable-intelligence-%E7%9A%84-david-silver-%E5%92%8C-lasse-espeholt/id6816573231?i=1000796739598&uo=4",
+   "note": {
+    "en": "Silver and Ineffable Intelligence co-founder Lasse Espeholt discuss moving past human data toward self-play superintelligence, on Sequoia's Training Data podcast (rebroadcast in Chinese).",
+    "zh": "Silver与Ineffable Intelligence联合创始人Lasse Espeholt在红杉资本Training Data播客（中文转载版）中，讨论了从人类数据转向自我对弈式超级智能的研究路径。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-10-13",
    "ts": null,
    "kind": "podcast",
@@ -849,16 +868,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 46.0,
+  "total": 46.2,
   "attention": 39,
   "centrality": 47,
-  "momentum": 43,
+  "momentum": 44,
   "stature": 80,
   "pageviews": 52977,
   "citations": 166819,
   "hIndex": 76,
   "events": 14,
-  "posts": 25,
+  "posts": 26,
   "wikiEn": "David Silver (computer scientist)",
   "wikiZh": "戴維·西爾弗"
  },

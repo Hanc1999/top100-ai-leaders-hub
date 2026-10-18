@@ -149,6 +149,44 @@
    }
   },
   {
+   "date": "2026-10-17",
+   "ts": "2026-10-17T19:28:01Z",
+   "kind": "x",
+   "title": {
+    "en": "muse wonder full on VulcanBench pretty competitive overall with Astra, Opus 5.5, and Sol 6.1, but definitely slower which is something we’re working on ⚡️",
+    "zh": "muse wonder full on VulcanBench pretty competitive overall with Astra, Opus 5.5, and Sol 6.1, but definitely slower which is something we’re working on ⚡️"
+   },
+   "source": "@alexandr_wang",
+   "url": "https://x.com/alexandr_wang/status/2111539749022503334",
+   "note": {
+    "en": "Wang says Meta's new model is competitive with Astra, Opus 5.5 and Sol 6.1 on VulcanBench but slower, a gap he says the team is addressing.",
+    "zh": "Wang表示Meta新模型在VulcanBench上与Astra、Opus 5.5和Sol 6.1具有竞争力，但速度较慢，他说团队正在解决这一问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-16",
+   "ts": "2026-10-16T23:26:59Z",
+   "kind": "x",
+   "title": {
+    "en": "after an exciting week of launches (muse wonder [full] & muse spark open), i want to write a note of appreciation to the amazing research teams at meta superint",
+    "zh": "after an exciting week of launches (muse wonder [full] & muse spark open), i want to write a note of appreciation to the amazing research teams at meta superint"
+   },
+   "source": "@alexandr_wang",
+   "url": "https://x.com/alexandr_wang/status/2111237499083252185",
+   "note": {
+    "en": "Wang thanked Meta Superintelligence Labs' research teams after the Muse Wonder and Muse Spark model launches.",
+    "zh": "王在Muse Wonder与Muse Spark模型发布后，向Meta超级智能实验室的研究团队表达感谢。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-15",
    "ts": "2026-10-15T04:11:44Z",
    "kind": "x",
@@ -1080,44 +1118,6 @@
    "connector": null
   },
   {
-   "date": "2026-09-24",
-   "ts": "2026-09-24T00:23:24Z",
-   "kind": "x",
-   "title": {
-    "en": "MUSE FEATURE ALERT: look at all these connectors! muse can help you do (almost) anything! eep! https://t.co/bkbnuMiCUE",
-    "zh": "MUSE FEATURE ALERT: look at all these connectors! muse can help you do (almost) anything! eep! https://t.co/bkbnuMiCUE"
-   },
-   "source": "@alexandr_wang",
-   "url": "https://x.com/alexandr_wang/status/2102916777529466928",
-   "note": {
-    "en": "Wang showcased a new set of third-party connectors that expand what tasks Muse can complete for users.",
-    "zh": "Wang展示了一批新的第三方连接器，扩展了Muse能为用户完成的任务范围。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-09-24",
-   "ts": "2026-09-24T00:20:32Z",
-   "kind": "x",
-   "title": {
-    "en": "MUSE FEATURE ALERT: muse for mac now has computer use! queue up your jobs, walk away, and it keeps going. muse loves laptop ♥️ https://t.co/hQwJFBDloA",
-    "zh": "MUSE FEATURE ALERT: muse for mac now has computer use! queue up your jobs, walk away, and it keeps going. muse loves laptop ♥️ https://t.co/hQwJFBDloA"
-   },
-   "source": "@alexandr_wang",
-   "url": "https://x.com/alexandr_wang/status/2102916057006764370",
-   "note": {
-    "en": "Wang announced Muse for Mac now supports computer use, letting it complete queued tasks autonomously.",
-    "zh": "Wang宣布Mac版Muse现已支持电脑操作能力，可自动完成排队任务后再汇报。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2026-07-31",
    "ts": null,
    "kind": "podcast",
@@ -1526,6 +1526,23 @@
    },
    "source": "Axios",
    "url": "https://www.axios.com/2025/10/22/meta-superintelligence-tbd-ai-reorg"
+  },
+  {
+   "date": "2026-10-17",
+   "ts": "2026-10-17T11:55:00Z",
+   "level": "notable",
+   "title": {
+    "en": "A 44-minute call and a memo: How Alexandr Wang won Mark Zuckerberg’s trust—and a $100 billion-plus AI bet",
+    "zh": "A 44-minute call and a memo: How Alexandr Wang won Mark Zuckerberg’s trust—and a $100 billion-plus AI bet"
+   },
+   "body": {
+    "en": "Fortune profile details how Wang built Zuckerberg's trust en route to Meta's $100B+ superintelligence bet.",
+    "zh": "《财富》杂志详述了Alexandr Wang如何赢得扎克伯格的信任，并促成Meta超过1000亿美元的AI投资。"
+   },
+   "source": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ05wYnlxTldoZHNxc1RUMng3TzBIQVpiLU45U2YyRU11VjBaTXFRQTBHenkzeFhCQktRRXFWbDBuZzZTV1JsUXdYR0hlbXlXNFRrclZrSzdZcVFYZ1M1TGlHUDNxSXI5Mll0Xzc5aGliZmFLWW9GbTBReG1wTk95YVF0S3FMUTl1eXh6eXpka3BodW5KcmcxUHpIUTlCSktNZmRZczVCTTRzYS1t?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-13",
@@ -2019,7 +2036,7 @@
   "pageviews": 965908,
   "citations": 34,
   "hIndex": 3,
-  "events": 30,
+  "events": 31,
   "posts": 74,
   "wikiEn": "Alexandr Wang",
   "wikiZh": "汪滔 (程式設計師)"

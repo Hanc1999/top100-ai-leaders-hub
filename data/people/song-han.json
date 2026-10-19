@@ -646,6 +646,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2026-07-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Lightning OPD 2.0: Mitigating Style Bias in Cross-Teacher On-Policy Distillation for Large Reasoning Models",
+    "zh": "Lightning OPD 2.0: Mitigating Style Bias in Cross-Teacher On-Policy Distillation for Large Reasoning Models"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "https://arxiv.org/abs/2607.28449",
+   "note": {
+    "en": "Addresses style bias in cross-teacher on-policy distillation for large reasoning models.",
+    "zh": "解决大型推理模型跨教师在线策略蒸馏中的风格偏差问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-07-28",
    "ts": null,
    "kind": "x",
@@ -1142,25 +1161,6 @@
   {
    "date": "2026-05-14",
    "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer",
-    "zh": "SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2605.15178v1",
-   "note": {
-    "en": "SANA-WM, a 2.6B open world model that generates minute-scale 720p video with camera control.",
-    "zh": "SANA-WM：2.6B 开源世界模型，可生成分钟级、带相机控制的 720p 视频。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-05-14",
-   "ts": null,
    "kind": "x",
    "title": {
     "en": "Explore AnyFlow for any step distillation, accelerating video diffusion model inference:",
@@ -1176,25 +1176,6 @@
    "judged": true,
    "platform": "x",
    "connector": "backfill"
-  },
-  {
-   "date": "2026-05-13",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation",
-    "zh": "AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2605.13724v1",
-   "note": {
-    "en": "Any-step video diffusion model trained with on-policy flow map distillation, avoiding quality loss at larger step counts.",
-    "zh": "用同策略流映射蒸馏训练的任意步数视频扩散模型，避免步数增加时的质量退化。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
   },
   {
    "date": "2026-05-12",
@@ -1233,25 +1214,6 @@
    "judged": true,
    "platform": "x",
    "connector": "backfill"
-  },
-  {
-   "date": "2026-04-27",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence",
-    "zh": "Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2604.24954v2",
-   "note": {
-    "en": "NVIDIA Nemotron 3 Nano Omni, a compact multimodal model that adds native audio input alongside text, image and video.",
-    "zh": "英伟达 Nemotron 3 Nano Omni：在文本、图像、视频之外原生支持音频输入的小型多模态模型。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
   },
   {
    "date": "2026-04-09",
@@ -1634,16 +1596,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 22.6,
+  "total": 22.1,
   "attention": 4,
   "centrality": 18,
-  "momentum": 52,
+  "momentum": 50,
   "stature": 46,
   "pageviews": 888,
   "citations": 32832,
   "hIndex": 58,
   "events": 3,
-  "posts": 74,
+  "posts": 72,
   "wikiEn": null,
   "wikiZh": "韩松"
  },

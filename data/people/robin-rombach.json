@@ -499,61 +499,61 @@
    "connector": "arxiv"
   },
   {
-   "date": "2023-04-19",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models",
-    "zh": "NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2304.09787v1",
-   "note": {
-    "en": "NeuralField-LDM generates 3D scenes with hierarchical latent diffusion, extending latent diffusion beyond flat images.",
-    "zh": "NeuralField-LDM 用分层潜空间扩散生成三维场景，把潜空间扩散从二维图像推向三维。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2023-04-18",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models",
-    "zh": "Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2304.08818v2",
-   "note": {
-    "en": "Video LDM: turning image latent diffusion models into high-resolution video generators by learning temporal layers.",
-    "zh": "Video LDM：通过训练时间维度的网络层，把图像潜空间扩散模型变成高分辨率视频生成器。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2022-10-06",
+   "date": "2023-06-01",
    "ts": null,
    "kind": "paper",
    "title": {
     "en": "On Distillation of Guided Diffusion Models",
     "zh": "On Distillation of Guided Diffusion Models"
    },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2210.03142v3",
+   "source": "IEEE Computer Society Conference on Co…",
+   "url": "https://doi.org/10.1109/cvpr52729.2023.01374",
    "note": {
-    "en": "Distillation of classifier-free guided diffusion models into far fewer sampling steps, an early step toward fast diffusion inference.",
-    "zh": "将无分类器引导的扩散模型蒸馏到远少的采样步数，是扩散快速推理的早期工作。"
+    "en": "Paper with Chenlin Meng, Jonathan Ho and Tim Salimans distilling classifier-free guided diffusion models into faster single models.",
+    "zh": "与Chenlin Meng、Jonathan Ho、Tim Salimans合作的论文，将无分类器引导的扩散模型蒸馏为更快的单一模型。"
    },
    "auto": true,
    "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2023-06-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Align Your Latents: High-Resolution Video Synthesis with Latent Diffusion Models",
+    "zh": "Align Your Latents: High-Resolution Video Synthesis with Latent Diffusion Models"
+   },
+   "source": "IEEE Computer Society Conference on Co…",
+   "url": "https://doi.org/10.1109/cvpr52729.2023.02161",
+   "note": {
+    "en": "Paper with Andreas Blattmann, Sanja Fidler and Karsten Kreis extending latent diffusion models to high-resolution video synthesis.",
+    "zh": "与Andreas Blattmann、Sanja Fidler、Karsten Kreis合作的论文，将潜在扩散模型扩展到高分辨率视频生成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2023-06-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models",
+    "zh": "NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models"
+   },
+   "source": "IEEE Computer Society Conference on Co…",
+   "url": "https://doi.org/10.1109/cvpr52729.2023.00821",
+   "note": {
+    "en": "Paper with Seung Wook Kim and Sanja Fidler combining neural fields with hierarchical latent diffusion for 3D scene generation.",
+    "zh": "与Seung Wook Kim、Sanja Fidler合作的论文，将神经场与分层潜在扩散模型结合用于三维场景生成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2022-07-26",

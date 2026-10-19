@@ -459,6 +459,25 @@
    "connector": "openalex"
   },
   {
+   "date": "2020-01-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Transfer Learning in Natural Language Processing",
+    "zh": "Transfer Learning in Natural Language Processing"
+   },
+   "source": "Cambridge University Press eBooks",
+   "url": "https://doi.org/10.1017/9781139061773.020",
+   "note": {
+    "en": "Book chapter on transfer learning in natural language processing, drawing on Dai's foundational transfer-learning research.",
+    "zh": "一篇关于自然语言处理中迁移学习的书籍章节，延续了戴文渊在迁移学习领域的基础性研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2019-04-29",
    "ts": null,
    "kind": "paper",
@@ -602,7 +621,7 @@
   "citations": 4662,
   "hIndex": 20,
   "events": 4,
-  "posts": 19,
+  "posts": 20,
   "wikiEn": null,
   "wikiZh": null
  },

@@ -586,6 +586,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2025-10-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Democratizing AI through model fusion: A comprehensive review and future directions",
+    "zh": "Democratizing AI through model fusion: A comprehensive review and future directions"
+   },
+   "source": "Nexus",
+   "url": "https://doi.org/10.1016/j.ynexs.2025.100102",
+   "note": {
+    "en": "Co-authored review surveying model-fusion techniques as a path to more accessible AI, from her InfiX.ai/PolyU group.",
+    "zh": "合著综述论文梳理模型融合技术,作为普及AI的一条路径,出自她在InfiX.ai/理大团队的研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2025-10-17",
    "ts": null,
    "kind": "paper",
@@ -757,6 +776,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2025-06-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "CEFSW'25: The 2nd Collaboration and Evolution of Foundation and Specialized Models Workshop",
+    "zh": "CEFSW'25: The 2nd Collaboration and Evolution of Foundation and Specialized Models Workshop"
+   },
+   "source": "International Conference on Multimedia…",
+   "url": "https://doi.org/10.1145/3731715.3734510",
+   "note": {
+    "en": "Co-authored workshop paper for CEFSW'25 on the collaboration and evolution of foundation and specialized models.",
+    "zh": "合著的CEFSW'25研讨会论文,探讨基础模型与专用模型的协作与演进。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2025-05-29",
    "ts": null,
    "kind": "paper",
@@ -793,6 +831,139 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2025-05-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased Reinforcement Learning in Multimodal Small Language Models",
+    "zh": "Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased Reinforcement Learning in Multimodal Small Language Models"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "http://arxiv.org/abs/2505.23091",
+   "note": {
+    "en": "Co-authored paper on Infi-MMR, a curriculum-based reinforcement learning method that unlocks multimodal reasoning in small multimodal models.",
+    "zh": "合著论文提出Infi-MMR,一种基于课程学习的强化学习方法,用于解锁小型多模态模型的多模态推理能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-05-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "EcoAgent: An Efficient Device-Cloud Collaborative Multi-Agent Framework for Mobile Automation",
+    "zh": "EcoAgent: An Efficient Device-Cloud Collaborative Multi-Agent Framework for Mobile Automation"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "http://arxiv.org/abs/2505.05440",
+   "note": {
+    "en": "Co-authored paper on EcoAgent, a device-cloud collaborative multi-agent framework for efficient mobile automation.",
+    "zh": "合著论文提出EcoAgent,一个设备-云协同的多智能体框架,用于高效的移动端自动化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-02-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "InfiR : Crafting Effective Small Language Models and Multimodal Small Language Models in Reasoning",
+    "zh": "InfiR : Crafting Effective Small Language Models and Multimodal Small Language Models in Reasoning"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "http://arxiv.org/abs/2502.11573",
+   "note": {
+    "en": "Co-authored paper on InfiR, a line of small language and multimodal models built for reasoning.",
+    "zh": "合著论文提出InfiR,一系列面向推理能力打造的小型语言与多模态模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-01-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "InfiFusion: A Unified Framework for Enhanced Cross-Model Reasoning via LLM Fusion",
+    "zh": "InfiFusion: A Unified Framework for Enhanced Cross-Model Reasoning via LLM Fusion"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "http://arxiv.org/abs/2501.02795",
+   "note": {
+    "en": "Co-authored paper on InfiFusion, a unified framework for fusing LLMs to enhance cross-model reasoning.",
+    "zh": "合著论文提出InfiFusion,一个统一框架,通过融合多个大模型来增强跨模型推理能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-01-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Quantization Meets Reasoning: Exploring LLM Low-Bit Quantization Degradation for Mathematical Reasoning",
+    "zh": "Quantization Meets Reasoning: Exploring LLM Low-Bit Quantization Degradation for Mathematical Reasoning"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "http://arxiv.org/abs/2501.03035",
+   "note": {
+    "en": "Co-authored paper studying how low-bit quantization degrades large language models' mathematical reasoning.",
+    "zh": "合著论文研究低比特量化对大模型数学推理能力的损害程度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DavIR: Data Selection via Implicit Reward for Large Language Models",
+    "zh": "DavIR: Data Selection via Implicit Reward for Large Language Models"
+   },
+   "source": "Annual Meeting of the Association for…",
+   "url": "https://doi.org/10.18653/v1/2025.acl-long.452",
+   "note": {
+    "en": "Co-authored ByteDance-era paper on DavIR, a data-selection method for LLM training based on implicit reward.",
+    "zh": "她在字节跳动期间合著的论文,提出DavIR——一种基于隐式奖励的大模型训练数据选择方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "InfiGFusion: Graph-on-Logits Distillation via Efficient Gromov-Wasserstein for Model Fusion",
+    "zh": "InfiGFusion: Graph-on-Logits Distillation via Efficient Gromov-Wasserstein for Model Fusion"
+   },
+   "source": "neural information processing systems",
+   "url": "https://doi.org/10.52202/085713-3996",
+   "note": {
+    "en": "Co-authored paper on InfiGFusion, using graph-based distillation over logits for more effective model fusion.",
+    "zh": "合著论文提出InfiGFusion,通过基于图结构的logit蒸馏实现更有效的模型融合。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   }
  ],
  "news": [
@@ -1099,7 +1270,7 @@
   "citations": 7252,
   "hIndex": 40,
   "events": 17,
-  "posts": 33,
+  "posts": 42,
   "wikiEn": null,
   "wikiZh": null
  },

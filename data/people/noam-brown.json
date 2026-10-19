@@ -52,6 +52,12 @@
    "t": 2
   },
   {
+   "kind": "blog",
+   "label": "OpenAI News RSS",
+   "url": "https://openai.com/news/rss.xml",
+   "t": 2
+  },
+  {
    "kind": "linkedin",
    "label": "LinkedIn — search",
    "url": "https://www.linkedin.com/search/results/people/?keywords=Noam+Brown",
@@ -1596,10 +1602,10 @@
  },
  "cat": "lab",
  "score": {
-  "total": 47.6,
+  "total": 47.2,
   "attention": null,
   "centrality": 68,
-  "momentum": 23,
+  "momentum": 22,
   "stature": null,
   "pageviews": 0,
   "citations": 2196,

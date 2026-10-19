@@ -1,5 +1,5 @@
 {
- "rank": 68,
+ "rank": 69,
  "id": "ian-goodfellow",
  "name": {
   "en": "Ian Goodfellow",
@@ -627,6 +627,44 @@
    "connector": null
   },
   {
+   "date": "2024-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Generative Adversarial Nets",
+    "zh": "Generative Adversarial Nets"
+   },
+   "source": "TIB Data Manager",
+   "url": "https://doi.org/10.57702/o0ovij16",
+   "note": {
+    "en": "Catalog record for his seminal 2014 paper introducing Generative Adversarial Networks, the idea that launched a decade of generative modeling.",
+    "zh": "其2014年开创性论文《生成对抗网络》的存档记录,这一构想开启了十年的生成式建模浪潮。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2024-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "LSUN Bedrooms",
+    "zh": "LSUN Bedrooms"
+   },
+   "source": "TIB Data Manager",
+   "url": "https://doi.org/10.57702/uy1xy3ho",
+   "note": {
+    "en": "Catalog record tied to his ORCID for the LSUN Bedrooms dataset, widely used to benchmark the generative models he helped pioneer.",
+    "zh": "与其ORCID关联的LSUN Bedrooms数据集存档记录,该数据集被广泛用于评测他开创的生成模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2023-05-30",
    "ts": null,
    "kind": "x",
@@ -1157,7 +1195,7 @@
   "citations": 84073,
   "hIndex": 63,
   "events": 0,
-  "posts": 53,
+  "posts": 55,
   "wikiEn": "Ian Goodfellow",
   "wikiZh": "伊恩·古德费洛"
  },

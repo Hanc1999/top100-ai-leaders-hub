@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-10-17",
+   "ts": "2026-10-17T14:06:54Z",
+   "kind": "blog",
+   "title": {
+    "en": "Meta shakes up the frontiers, open and closed",
+    "zh": "Meta shakes up the frontiers, open and closed"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+   "note": {
+    "en": "Nathan Lambert's Interconnects post on Meta's frontier-model shakeup and the return of open-weight US models.",
+    "zh": "Nathan Lambert在Interconnects上发文，评论Meta在前沿模型上的变动以及美国开放权重模型的回归。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
    "date": "2026-10-14",
    "ts": null,
    "kind": "podcast",
@@ -1600,7 +1619,7 @@
   "citations": 720,
   "hIndex": 13,
   "events": 2,
-  "posts": 74,
+  "posts": 75,
   "wikiEn": "Nathan Lambert",
   "wikiZh": null
  },

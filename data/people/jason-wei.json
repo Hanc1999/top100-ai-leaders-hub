@@ -46,6 +46,12 @@
    "t": 1
   },
   {
+   "kind": "blog",
+   "label": "Personal site",
+   "url": "https://www.jasonwei.net/blog?format=rss",
+   "t": 1
+  },
+  {
    "kind": "github",
    "label": "GitHub @jasonwei20",
    "url": "https://github.com/jasonwei20",
@@ -55,6 +61,12 @@
    "kind": "company",
    "label": "Meta AI Research",
    "url": "https://ai.meta.com/research/",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "Meta AI Blog",
+   "url": "https://ai.meta.com/blog/",
    "t": 2
   },
   {

@@ -470,6 +470,25 @@
    "connector": "backfill"
   },
   {
+   "date": "2025-12-09",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Should You Have Kids in an AI World?! with Dr. Geoffrey Hinton",
+    "zh": "Should You Have Kids in an AI World?! with Dr. Geoffrey Hinton"
+   },
+   "source": "Smart Girl Dumb Questions",
+   "url": "https://podcasts.apple.com/us/podcast/should-you-have-kids-in-an-ai-world-with-dr-geoffrey-hinton/id1784967461?i=1000740387939&uo=4",
+   "note": {
+    "en": "Hinton appeared as the guest on this podcast's episode about having children in an AI-transformed world, part of a two-part 'Godfather of AI' interview series.",
+    "zh": "辛顿作为嘉宾出镜本期播客，讨论在AI变革的世界中要不要生孩子，是“AI教父”系列两部访谈中的一部分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2025-12-07",
    "ts": null,
    "kind": "paper",
@@ -3135,7 +3154,7 @@
   "citations": 452436,
   "hIndex": 137,
   "events": 81,
-  "posts": 85,
+  "posts": 86,
   "wikiEn": "Geoffrey Hinton",
   "wikiZh": "杰弗里·辛顿"
  },

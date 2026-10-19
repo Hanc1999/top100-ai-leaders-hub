@@ -794,6 +794,44 @@
    "connector": "arxiv"
   },
   {
+   "date": "2022-02-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Rethink e-Commerce Search",
+    "zh": "Rethink e-Commerce Search"
+   },
+   "source": "ACM International Conference on Web Se…",
+   "url": "https://doi.org/10.1145/3488560.3510005",
+   "note": {
+    "en": "WSDM paper arguing for rethinking e-commerce search architecture, based on his experience running search at Instacart.",
+    "zh": "WSDM论文主张重新思考电商搜索架构,基于他在Instacart负责搜索业务的经验。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2021-12-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Tensor-based Complementary Product Recommendation",
+    "zh": "Tensor-based Complementary Product Recommendation"
+   },
+   "source": "IEEE International Conference on Big D…",
+   "url": "https://doi.org/10.1109/bigdata52589.2021.9671938",
+   "note": {
+    "en": "Co-authored paper on a tensor-based method for recommending complementary products, from his team's work at Instacart.",
+    "zh": "合著论文提出一种基于张量的互补商品推荐方法,出自他在Instacart团队的研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2021-10-28",
    "ts": null,
    "kind": "paper",
@@ -1121,16 +1159,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 6.8,
+  "total": 6.4,
   "attention": null,
   "centrality": 5,
-  "momentum": 9,
+  "momentum": 8,
   "stature": null,
   "pageviews": 0,
   "citations": 0,
   "hIndex": 0,
   "events": 1,
-  "posts": 48,
+  "posts": 50,
   "wikiEn": null,
   "wikiZh": null
  },

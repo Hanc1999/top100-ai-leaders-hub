@@ -694,6 +694,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2026-08-31",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Visual generation and compression for world models",
+    "zh": "Visual generation and compression for world models"
+   },
+   "source": "Stanford Digital Repository",
+   "url": "https://doi.org/10.25740/hy838rm3130",
+   "note": {
+    "en": "Stanford dissertation she co-advised on visual generation and compression techniques for world models, from her lab's robotics/world-model research line.",
+    "zh": "她指导的斯坦福博士论文,研究世界模型的视觉生成与压缩技术,属于其实验室机器人与世界模型研究方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-08-25",
    "ts": null,
    "kind": "paper",
@@ -884,6 +903,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2026-07-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Why Automate This? Exploring Correlations Between Desire for Robotic Automation, Invested Time and Well-Being",
+    "zh": "Why Automate This? Exploring Correlations Between Desire for Robotic Automation, Invested Time and Well-Being"
+   },
+   "source": "Proceedings of IASEAI Conference",
+   "url": "https://doi.org/10.1609/iaseai.v2i1.43053",
+   "note": {
+    "en": "Co-authored study correlating people's desire for robotic automation with how much time a task takes and their well-being.",
+    "zh": "合著研究探讨人们对机器人自动化的需求与任务耗时、幸福感之间的关联。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-07-13",
    "ts": null,
    "kind": "x",
@@ -977,6 +1015,25 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2026-06-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Building simulation worlds for robot learning",
+    "zh": "Building simulation worlds for robot learning"
+   },
+   "source": "Stanford Digital Repository",
+   "url": "https://doi.org/10.25740/bm681rt0728",
+   "note": {
+    "en": "Stanford dissertation she co-advised on building simulated worlds for robot learning, from her lab's embodied-AI research line.",
+    "zh": "她指导的斯坦福博士论文,研究为机器人学习构建仿真世界,属于其实验室具身智能研究方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2026-06-10",
@@ -1340,63 +1397,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-01-09",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "VideoWeave: A Data-Centric Approach for Efficient Video Understanding",
-    "zh": "VideoWeave: A Data-Centric Approach for Efficient Video Understanding"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2601.06309v1",
-   "note": {
-    "en": "VideoWeave is a data-centric method that cuts the cost of training video-language models on long videos.",
-    "zh": "VideoWeave 通过以数据为中心的方法降低长视频上训练视频语言模型的开销。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-01-07",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation",
-    "zh": "PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2601.03782v1",
-   "note": {
-    "en": "PointWorld scales 3D world models for in-the-wild robotic manipulation, the geometry-grounded modelling she argues language models lack.",
-    "zh": "PointWorld 将 3D 世界模型扩展到真实场景的机器人操作，正是她所说语言模型缺失的几何基础。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2025-12-31",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow",
-    "zh": "Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2512.24766v1",
-   "note": {
-    "en": "Dream2Flow converts generated video into 3D object flow so video generation can drive open-world manipulation.",
-    "zh": "Dream2Flow 把生成视频转换为三维物体流，让视频生成模型能够驱动开放世界的机器人操作。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2025-12-23",
    "ts": null,
    "kind": "podcast",
@@ -1414,25 +1414,6 @@
    "judged": true,
    "platform": "apple-podcasts",
    "connector": "podcasts"
-  },
-  {
-   "date": "2025-12-22",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "QuantiPhy: A Quantitative Benchmark Evaluating Physical Reasoning Abilities of Vision-Language Models",
-    "zh": "QuantiPhy: A Quantitative Benchmark Evaluating Physical Reasoning Abilities of Vision-Language Models"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2512.19526v1",
-   "note": {
-    "en": "QuantiPhy is a quantitative benchmark testing whether vision-language models can reason about physical properties.",
-    "zh": "QuantiPhy 是定量评测视觉语言模型物理属性推理能力的基准。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
   },
   {
    "date": "2025-12-09",
@@ -1606,82 +1587,6 @@
    "connector": null
   },
   {
-   "date": "2025-10-21",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "MoMaGen: Generating Demonstrations under Soft and Hard Constraints for Multi-Step Bimanual Mobile Manipulation",
-    "zh": "MoMaGen: Generating Demonstrations under Soft and Hard Constraints for Multi-Step Bimanual Mobile Manipulation"
-   },
-   "source": "arXiv (Cornell University)",
-   "url": "http://arxiv.org/abs/2510.18316",
-   "note": {
-    "en": "Paper co-authored by Fei-Fei Li on generating training demonstrations for multi-step bimanual mobile manipulation under soft and hard constraints, reducing the cost of collecting robot data.",
-    "zh": "李飞飞合著的论文，提出在软硬约束下自动生成多步双臂移动操作演示数据的方法，降低机器人数据采集成本。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-10-19",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Repurposing 2D Diffusion Models with Gaussian Atlas for 3D Generation",
-    "zh": "Repurposing 2D Diffusion Models with Gaussian Atlas for 3D Generation"
-   },
-   "source": "OpenAlex",
-   "url": "https://doi.org/10.1109/iccv51701.2025.01531",
-   "note": {
-    "en": "ICCV 2025 paper co-authored by Fei-Fei Li that adapts pretrained 2D diffusion models to 3D generation via a Gaussian-splat atlas representation.",
-    "zh": "李飞飞合著的ICCV 2025论文，通过高斯泼溅图集表示，将预训练的2D扩散模型改造用于3D生成。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-10-19",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "GeT-USE: Learning Generalized Tool Usage for Bimanual Mobile Manipulation via Simulated Embodiment Extensions",
-    "zh": "GeT-USE: Learning Generalized Tool Usage for Bimanual Mobile Manipulation via Simulated Embodiment Extensions"
-   },
-   "source": "OpenAlex",
-   "url": "https://doi.org/10.1109/iros60139.2025.11245978",
-   "note": {
-    "en": "IROS 2025 paper co-authored by Fei-Fei Li on teaching bimanual mobile robots to use arbitrary objects as tools by first extending their embodiment in simulation.",
-    "zh": "李飞飞合著的IROS 2025论文，通过先在仿真中扩展机器人的具身能力，教会双臂移动机器人使用任意物体作为工具。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-10-19",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Flow to the Mode: Mode-Seeking Diffusion Autoencoders for State-of-the-Art Image Tokenization",
-    "zh": "Flow to the Mode: Mode-Seeking Diffusion Autoencoders for State-of-the-Art Image Tokenization"
-   },
-   "source": "OpenAlex",
-   "url": "https://doi.org/10.1109/iccv51701.2025.01810",
-   "note": {
-    "en": "ICCV 2025 paper co-authored by Fei-Fei Li introducing FlowMo, a convolution-free diffusion autoencoder that sets a new state of the art in image tokenization.",
-    "zh": "李飞飞合著的ICCV 2025论文，提出无需卷积的扩散自编码器FlowMo，在图像分词任务上取得新的最优效果。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
    "date": "2025-10-16",
    "ts": "2025-10-16T15:09:54Z",
    "kind": "x",
@@ -1699,25 +1604,6 @@
    "judged": true,
    "platform": "x",
    "connector": null
-  },
-  {
-   "date": "2025-09-19",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "EEG-Based Brain-Computer Interface for Robotic Assistance with User Intention Prediction",
-    "zh": "EEG-Based Brain-Computer Interface for Robotic Assistance with User Intention Prediction"
-   },
-   "source": "Research Square",
-   "url": "https://doi.org/10.21203/rs.3.rs-7359180/v1",
-   "note": {
-    "en": "Paper co-authored by Fei-Fei Li on NOIR-EEG, a non-invasive brain-computer interface letting people command household robots via EEG signals, tested across fifteen everyday tasks.",
-    "zh": "李飞飞合著的论文，提出非侵入式脑机接口系统NOIR-EEG，让用户通过脑电信号指挥家用机器人完成十五项日常任务。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
   },
   {
    "date": "2025-09-16",
@@ -1777,25 +1663,6 @@
    "connector": null
   },
   {
-   "date": "2025-07-31",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Advancing science- and evidence-based AI policy",
-    "zh": "Advancing science- and evidence-based AI policy"
-   },
-   "source": "Science",
-   "url": "https://doi.org/10.1126/science.adu8449",
-   "note": {
-    "en": "Science policy essay co-authored by Fei-Fei Li and other leading researchers arguing AI policy should be grounded in scientific evidence and should itself fund the evidence-generation needed to keep pace with the technology.",
-    "zh": "李飞飞与多位顶尖学者合著的Science政策文章，主张AI政策制定应以科学证据为基础，并应资助与技术发展同步的证据生成研究。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
    "date": "2025-07-01",
    "ts": null,
    "kind": "podcast",
@@ -1813,82 +1680,6 @@
    "judged": true,
    "platform": "apple-podcasts",
    "connector": "podcasts"
-  },
-  {
-   "date": "2025-06-11",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "An Interactive Agent Foundation Model",
-    "zh": "An Interactive Agent Foundation Model"
-   },
-   "source": "OpenAlex",
-   "url": "https://doi.org/10.1109/cvprw67362.2025.00350",
-   "note": {
-    "en": "Co-authored foundation model paper for building interactive agents spanning robotics, gaming and healthcare.",
-    "zh": "合著论文提出可用于机器人、游戏和医疗等多领域的交互式智能体基础模型。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-06-10",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces",
-    "zh": "Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces"
-   },
-   "source": "OpenAlex",
-   "url": "https://doi.org/10.1109/cvpr52734.2025.00994",
-   "note": {
-    "en": "Co-authored benchmark study probing how well multimodal LLMs perceive, remember and recall spatial layouts from video.",
-    "zh": "合著论文评测多模态大模型从视频中感知、记忆和回忆空间布局的能力。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-06-10",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Re-thinking Temporal Search for Long-Form Video Understanding",
-    "zh": "Re-thinking Temporal Search for Long-Form Video Understanding"
-   },
-   "source": "OpenAlex",
-   "url": "https://doi.org/10.1109/cvpr52734.2025.00802",
-   "note": {
-    "en": "Co-authored T* method for more efficient temporal search in long-form video understanding.",
-    "zh": "合著提出T*方法，提升长视频理解中时序搜索的效率。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-06-10",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "The Language of Motion: Unifying Verbal and Non-verbal Language of 3D Human Motion",
-    "zh": "The Language of Motion: Unifying Verbal and Non-verbal Language of 3D Human Motion"
-   },
-   "source": "OpenAlex",
-   "url": "https://doi.org/10.1109/cvpr52734.2025.00581",
-   "note": {
-    "en": "Co-authored work unifying verbal description and 3D human motion generation into one language-of-motion model.",
-    "zh": "合著论文将语言描述与3D人体动作生成统一到同一个'动作语言'模型中。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
   },
   {
    "date": "2025-06-02",
@@ -2470,6 +2261,23 @@
    },
    "source": "TechTimes",
    "url": "https://www.techtimes.com/articles/317927/20260606/feifei-lis-world-labs-splits-world-model-three-types-marble-targets-simulation-linchpin.htm"
+  },
+  {
+   "date": "2026-10-18",
+   "ts": "2026-10-18T03:30:59Z",
+   "level": "major",
+   "title": {
+    "en": "AMD Buys Fei-Fei Li's World Labs for $8.2 Billion to Chase World Models",
+    "zh": "AMD Buys Fei-Fei Li's World Labs for $8.2 Billion to Chase World Models"
+   },
+   "body": {
+    "en": "AMD acquired Fei-Fei Li's World Labs for $8.2 billion to build world models, with Li becoming AMD EVP and chief scientist under Lisa Su.",
+    "zh": "AMD以82亿美元收购李飞飞的World Labs以构建世界模型，李飞飞将在苏姿丰领导下出任AMD执行副总裁兼首席科学家。"
+   },
+   "source": "Startup Fortune",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObE1PUHI3cXU0QVMzX3NtS3BIc1lUSTkzb2R6VXM2N2xvV0RiZWU1TXNxb21qQU9BOEtNejUtajEyd2YxR25pM1phUVA1WFJVSUs5S0REV2xzUzdJaFdQNl9BRzgwUm9sdWhUQXNwc1BaU1lvZXlEOUk2Z2hsQU9pSmR5ZUItV19BeUlqeDMxclJHSk5GOHNpeW1DZ3Q?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-17",
@@ -3220,6 +3028,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-04",
+   "ts": "2026-10-04T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "李飞飞不等了",
+    "zh": "李飞飞不等了"
+   },
+   "body": {
+    "en": "Commentary on AMD's roughly $8.2B all-stock acquisition of Fei-Fei Li's World Labs, after which she becomes AMD's EVP and Chief Scientist reporting to Lisa Su.",
+    "zh": "评论文章谈及AMD以约82亿美元全股票交易收购李飞飞的World Labs，交易完成后她将出任AMD执行副总裁兼首席科学家，直接向苏姿丰汇报。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IUVJuYnNlRVdLVTZWOVZvMlJCZmRBc05KTEVrTFFBTVZSWDFwNWtudHkwN2ZhUFdNQXVKbVVPNTRhX0RGYzhGY25zMG9COGEtZXpFcnNB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-03",
    "ts": "2026-10-03T00:00:29Z",
    "level": "major",
@@ -3471,6 +3296,23 @@
    },
    "source": "虎嗅网",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wT2NYSzBxb1BnLWRDdWU2b0I1eElvemFqNjdrQ0dlS2RyQVRLTHNjSUVGQ0V0eS1nNWZnbUc1TDBsZlZGazVLNURKYjJuRl9jOF9lYg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-02",
+   "ts": "2026-10-02T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "550亿，苏姿丰买下李飞飞",
+    "zh": "550亿，苏姿丰买下李飞飞"
+   },
+   "body": {
+    "en": "AMD, led by Lisa Su, is reported to have acquired Fei-Fei Li's World Labs for roughly ¥55B (~$8B), moving her from independent startup founder into a senior role at AMD.",
+    "zh": "据报道，苏姿丰领导的AMD以约550亿元人民币（约80亿美元）收购了李飞飞的World Labs，标志着她从独立创业公司创始人转为AMD的高层角色。"
+   },
+   "source": "蓝鲸财经",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpWGMzemxUYlNUdWlsNjlIazBCTHJndXpnYzFJNXFBZldmU0NPMklEQThoY25odjBtUWw5VE1tLVp1RUJaN2o0Z2U5WXJyakdEYnprNWQzcWo2alU?oc=5",
    "auto": true,
    "judged": true
   },
@@ -5821,6 +5663,57 @@
    "judged": true
   },
   {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T02:10:00Z",
+   "level": "major",
+   "title": {
+    "en": "伸手向物理AI，AMD 82亿美元收购李飞飞创办的World Labs",
+    "zh": "伸手向物理AI，AMD 82亿美元收购李飞飞创办的World Labs"
+   },
+   "body": {
+    "en": "AMD agreed to acquire Fei-Fei Li's spatial-intelligence startup World Labs for $8.2 billion, with Li joining AMD as EVP and chief scientist under Lisa Su.",
+    "zh": "AMD以82亿美元收购李飞飞创立的空间智能公司World Labs，李飞飞将加入AMD担任执行副总裁兼首席科学家，向苏姿丰汇报。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLVc4TEplOE9WVEJWSEl5ZVlTamlzcThCZDF5czlpNDJnUlc2VFMzWndJLXRuLWhuZDBGRUJHS0NoT2J3eVRjLVgzZDB0aUNRQjBWZFlHUGN1OVA4Z1lMTHpIa0xMcG92U3RrWWwtSlhSYWFyNVBRclZCcTBrR2lxZFk1WGduamFQNFZmb25OaWV4eVdVZzEySmh3OEYwQTBRZWVZTS02YWhTVkVpa2JaYXlMRFp3RlNadGgtMU51OTJMc0NJZnl3NUYzY3FJZ3NI?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "AMD 花 82 亿美元买下李飞飞的World Labs，她直接空降成首席科学家- OSCHINA - 开源 × AI · 开发者生态社区",
+    "zh": "AMD 花 82 亿美元买下李飞飞的World Labs，她直接空降成首席科学家- OSCHINA - 开源 × AI · 开发者生态社区"
+   },
+   "body": {
+    "en": "AMD is acquiring Fei-Fei Li's World Labs for $8.2B, with Li joining AMD directly as chief scientist.",
+    "zh": "AMD以82亿美元收购李飞飞创立的World Labs，她将直接加入AMD担任首席科学家。"
+   },
+   "source": "OSCHINA",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS2tQbmxjc3RNSVduLU9JUHJOek0xenRORnVjWXJseUxJRnJ6SFN3VWRYYmRZYTFuTjZ2TjhHM2NaMHY4bnNlTTNwdGFGMS0tQVpGMWh0OC12cVZMdlF1dllfdk1Fc20tSXJuRGdjQkFUOW5rNGg2dFJaUU1RaDdEV2RDX3ljQVdZZkZDc21qZlhhWnhOVzVNRVo0djJpMHBEV1VGQ0dOVlBITEZjam5VXzhMU0FleFk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "AMD82亿美元收购WorldLabs，苏姿丰、李飞飞：AI未来在于软硬件协同进化",
+    "zh": "AMD82亿美元收购WorldLabs，苏姿丰、李飞飞：AI未来在于软硬件协同进化"
+   },
+   "body": {
+    "en": "AMD acquired Fei-Fei Li's World Labs for $8.2B; alongside Lisa Su she frames AI's future as co-evolving software and hardware.",
+    "zh": "AMD以82亿美元收购李飞飞的World Labs；她与苏姿丰共同提出AI的未来在于软硬件协同进化。"
+   },
+   "source": "ThePaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ba2Vod0p5ZlZYYnRkaFRsTTdJSTh1Mzg0WWRqa3pmVklkMm1RRGpnZW9tU2Z4SXZ3WUh5MXJ2S3VWMWE2RldkYmhKdmRITlgtdmxJZ2Q1NlEzeXkxS1FFeg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-28",
    "ts": "2026-09-28T12:53:53Z",
    "level": "notable",
@@ -8099,6 +7992,23 @@
    "judged": true
   },
   {
+   "date": "2026-02-04",
+   "ts": "2026-02-04T08:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Fei-Fei Li Says AI Progress Now Depends on Physical Context",
+    "zh": "Fei-Fei Li Says AI Progress Now Depends on Physical Context"
+   },
+   "body": {
+    "en": "Li restated her central argument that language models have no native model of physical space, and that AI progress now hinges on grounding systems in physical context.",
+    "zh": "李飞飞重申其核心观点：语言模型缺乏对物理空间的内在建模，AI的进步如今取决于让系统扎根于物理语境之中。"
+   },
+   "source": "PYMNTS.com",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEM2SDF3Tno2c2xMTXJuOEFUODBROWlxbldnZFdIYlNMNUxjWElsME5tWmVqLUVjX0NTM1dsTUN0M2xSNzlaNDdld0c1b1g2N0wxcGdIZEo4NkE2T3hzdm1lQ2Z5c2Q0WFl4dkIxMW1YeHhQdUVOOER2VnBEaW1rcWwwWUtYM01zZkktM05aSTlKeG5sUDhRWFBPX3Zjem5ETUdGbXlnbDFVampQdXFqei1NUF91b09L?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-01-23",
    "ts": "2026-01-23T08:00:00Z",
    "level": "major",
@@ -8123,16 +8033,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 77.8,
+  "total": 78.0,
   "attention": 76,
   "centrality": 58,
-  "momentum": 97,
+  "momentum": 98,
   "stature": 93,
   "pageviews": 423813,
   "citations": 222997,
   "hIndex": 137,
-  "events": 334,
-  "posts": 119,
+  "events": 341,
+  "posts": 108,
   "wikiEn": "Fei-Fei Li",
   "wikiZh": "李飛飛"
  },

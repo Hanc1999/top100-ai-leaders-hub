@@ -1,5 +1,5 @@
 {
- "rank": 71,
+ "rank": 72,
  "id": "pieter-abbeel",
  "name": {
   "en": "Pieter Abbeel",
@@ -297,6 +297,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2026-09-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "World model for robot learning: A comprehensive survey",
+    "zh": "World model for robot learning: A comprehensive survey"
+   },
+   "source": "The International Journal of Robotics…",
+   "url": "https://doi.org/10.1177/02783649261488980",
+   "note": {
+    "en": "Co-authored survey (with Jiajun Wu, Jitendra Malik, Yilun Du and others) reviewing the state of world models for robot learning.",
+    "zh": "与Jiajun Wu、Jitendra Malik、Yilun Du等合作的综述论文，系统回顾世界模型在机器人学习中的应用现状。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-09-02",
    "ts": null,
    "kind": "paper",
@@ -328,6 +347,25 @@
    "note": {
     "en": "Presents a system that lets a humanoid robot perform parkour by chaining dynamic human motion-matching skills, with Abbeel among the co-authors.",
     "zh": "提出一种让人形机器人通过链接动态人类动作匹配技能来完成跑酷动作的系统，Abbeel 是合著者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2026-07-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "ViTacFormer: Learning Cross-Modal Representation for Visuo-Tactile Dexterous Manipulation",
+    "zh": "ViTacFormer: Learning Cross-Modal Representation for Visuo-Tactile Dexterous Manipulation"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.15607/rss.2026.xxii.129",
+   "note": {
+    "en": "Paper with Jitendra Malik presenting ViTacFormer, which fuses vision and touch for dexterous manipulation.",
+    "zh": "与Jitendra Malik合作的论文，提出ViTacFormer，融合视觉与触觉信息以实现灵巧操作。"
    },
    "auto": true,
    "judged": true,
@@ -525,25 +563,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2026-04-30",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "World Model for Robot Learning: A Comprehensive Survey",
-    "zh": "World Model for Robot Learning: A Comprehensive Survey"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2605.00080v1",
-   "note": {
-    "en": "A comprehensive survey of world models in robot learning, covering their use in policy learning, planning, simulation and evaluation.",
-    "zh": "关于机器人学习中世界模型的综述，涵盖其在策略学习、规划、仿真与评估中的应用。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2026-03-10",
    "ts": null,
    "kind": "paper",
@@ -632,177 +651,6 @@
    "note": {
     "en": "D-REX is a differentiable real-to-sim-to-real engine that narrows the simulation gap for learning dexterous grasping.",
     "zh": "D-REX 是一个可微分的真实-仿真-真实引擎，用于缩小灵巧抓取学习中的仿真与现实差距。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-02-06",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos",
-    "zh": "DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2602.06949v1",
-   "note": {
-    "en": "DreamDojo trains a generalist robot world model from large-scale human video, so agents can simulate the outcomes of their actions across varied environments.",
-    "zh": "DreamDojo 利用大规模人类视频训练通用机器人世界模型，使智能体能在多样环境中预演自身动作的结果。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-02-03",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "RPL: Learning Robust Humanoid Perceptive Locomotion on Challenging Terrains",
-    "zh": "RPL: Learning Robust Humanoid Perceptive Locomotion on Challenging Terrains"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2602.03002v1",
-   "note": {
-    "en": "RPL trains robust multi-directional perceptive locomotion for humanoids on challenging terrain.",
-    "zh": "RPL 训练人形机器人在复杂地形上实现鲁棒的全方向感知式运动。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-02-02",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Flow Policy Gradients for Robot Control",
-    "zh": "Flow Policy Gradients for Robot Control"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2602.02481v1",
-   "note": {
-    "en": "Flow policy gradients drop the requirement for differentiable action likelihoods, freeing robot control policies from the constraints that likelihood-based methods impose.",
-    "zh": "流策略梯度取消了对可微动作似然的依赖，使机器人控制策略摆脱基于似然的方法所施加的限制。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-01-29",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "mjlab: A Lightweight Framework for GPU-Accelerated Robot Learning",
-    "zh": "mjlab: A Lightweight Framework for GPU-Accelerated Robot Learning"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2601.22074v2",
-   "note": {
-    "en": "mjlab is an open-source, GPU-accelerated robot learning framework built for composable environments and minimal setup.",
-    "zh": "mjlab 是一个开源的 GPU 加速机器人学习框架，强调环境可组合与极低的配置成本。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-01-19",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Contact-Aware Neural Dynamics",
-    "zh": "Contact-Aware Neural Dynamics"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2601.12796v1",
-   "note": {
-    "en": "Contact-aware neural dynamics models the discontinuous physics of contact, aiming to close the sim-to-real gap on dynamic interaction tasks.",
-    "zh": "接触感知神经动力学建模接触过程中的不连续物理，旨在缩小动态交互任务上的仿真到现实差距。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-01-16",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "SOMBRL: Scalable and Optimistic Model-Based RL",
-    "zh": "SOMBRL: Scalable and Optimistic Model-Based RL"
-   },
-   "source": "Repository for Publications and Resear…",
-   "url": "http://hdl.handle.net/20.500.11850/793059",
-   "note": {
-    "en": "Presents SOMBRL, a scalable model-based reinforcement learning algorithm built on an optimism-driven exploration principle.",
-    "zh": "提出 SOMBRL，一种基于乐观探索原则、可扩展的基于模型的强化学习算法。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-12-17",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Large Video Planner Enables Generalizable Robot Control",
-    "zh": "Large Video Planner Enables Generalizable Robot Control"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2512.15840v2",
-   "note": {
-    "en": "A large video planner used as a robot decision-making model, generalising control across tasks and environments.",
-    "zh": "将大型视频规划器用作机器人决策模型，实现跨任务、跨环境的通用控制。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2025-12-10",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "SEMDICE: Off-policy State Entropy Maximization via Stationary Distribution Correction Estimation",
-    "zh": "SEMDICE: Off-policy State Entropy Maximization via Stationary Distribution Correction Estimation"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2512.10042v1",
-   "note": {
-    "en": "SEMDICE maximises state entropy off-policy via stationary distribution correction, for unsupervised reinforcement-learning pre-training without task rewards.",
-    "zh": "SEMDICE 通过平稳分布校正在离策略设定下最大化状态熵，用于无需任务奖励的强化学习无监督预训练。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2025-12-01",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Learning Sim-to-Real Humanoid Locomotion in 15 Minutes",
-    "zh": "Learning Sim-to-Real Humanoid Locomotion in 15 Minutes"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2512.01996v1",
-   "note": {
-    "en": "Cuts sim-to-real reinforcement learning for humanoid locomotion down to fifteen minutes of training.",
-    "zh": "把人形机器人运动控制的仿真到现实强化学习训练时间压缩到 15 分钟。"
    },
    "auto": true,
    "judged": true,
@@ -1325,16 +1173,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 32.1,
+  "total": 31.0,
   "attention": 29,
   "centrality": 23,
-  "momentum": 30,
+  "momentum": 25,
   "stature": 73,
   "pageviews": 37345,
   "citations": 79473,
   "hIndex": 123,
   "events": 2,
-  "posts": 60,
+  "posts": 52,
   "wikiEn": "Pieter Abbeel",
   "wikiZh": "彼得·阿比爾"
  },

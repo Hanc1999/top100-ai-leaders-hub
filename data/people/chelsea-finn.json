@@ -1,5 +1,5 @@
 {
- "rank": 67,
+ "rank": 68,
  "id": "chelsea-finn",
  "name": {
   "en": "Chelsea Finn",
@@ -550,6 +550,25 @@
    "note": {
     "en": "Finn co-authored a study on how vision-language-action models can transfer skills learned from human video to robot execution.",
     "zh": "Finn合著了一项研究，探讨视觉-语言-动作模型如何将从人类视频中学到的技能迁移到机器人执行中。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2026-07-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "π*₀.₆: a VLA That Learns From Experience",
+    "zh": "π*₀.₆: a VLA That Learns From Experience"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.15607/rss.2026.xxii.087",
+   "note": {
+    "en": "Physical Intelligence's π*₀.₆ paper, a vision-language-action model that keeps improving by learning from its own deployment experience.",
+    "zh": "Physical Intelligence发布的π*₀.₆论文，这是一个视觉-语言-动作模型，能够通过部署中的实际经验不断学习提升。"
    },
    "auto": true,
    "judged": true,
@@ -1260,44 +1279,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-02-12",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment",
-    "zh": "Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2602.12281v2",
-   "note": {
-    "en": "Argues that scaling verification beats scaling policy learning for aligning vision-language-action models with language instructions.",
-    "zh": "论证在让视觉-语言-动作模型对齐语言指令这一问题上，扩展验证比扩展策略学习更有效。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-02-12",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model",
-    "zh": "VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2602.12063v2",
-   "note": {
-    "en": "Paper on VLAW, which improves a vision-language-action policy and a world model jointly through repeated online interaction.",
-    "zh": "论文提出 VLAW，通过反复的在线交互让视觉-语言-动作策略与世界模型相互迭代改进。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2026-02-10",
    "ts": null,
    "kind": "x",
@@ -1315,25 +1296,6 @@
    "judged": true,
    "platform": "x",
    "connector": "backfill"
-  },
-  {
-   "date": "2026-02-09",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "SteerVLA: Steering Vision-Language-Action Models in Long-Tail Driving Scenarios",
-    "zh": "SteerVLA: Steering Vision-Language-Action Models in Long-Tail Driving Scenarios"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2602.08440v2",
-   "note": {
-    "en": "Applies VLA steering to autonomous driving, joining high-level semantic reasoning about long-tail events to low-level reactive control; a Stanford–Berkeley collaboration with Levine and Sadigh.",
-    "zh": "将视觉-语言-动作模型的引导方法用于自动驾驶，把针对长尾事件的高层语义推理与低层反应式控制结合起来；这是与 Levine、Sadigh 合作的斯坦福—伯克利研究。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
   },
   {
    "date": "2026-01-24",
@@ -1894,16 +1856,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 33.7,
+  "total": 33.3,
   "attention": 22,
   "centrality": 39,
-  "momentum": 47,
+  "momentum": 45,
   "stature": 39,
   "pageviews": 14192,
   "citations": 26696,
   "hIndex": 64,
   "events": 1,
-  "posts": 91,
+  "posts": 89,
   "wikiEn": "Chelsea Finn",
   "wikiZh": null
  },

@@ -1,5 +1,5 @@
 {
- "rank": 1,
+ "rank": 2,
  "id": "sam-altman",
  "name": {
   "en": "Sam Altman",
@@ -1552,6 +1552,40 @@
    },
    "source": "CNBC",
    "url": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html"
+  },
+  {
+   "date": "2026-10-18",
+   "ts": "2026-10-18T00:01:04Z",
+   "level": "major",
+   "title": {
+    "en": "OpenAI CEO Sam Altman confirms development of a humanoid robot — Engadget",
+    "zh": "OpenAI CEO Sam Altman confirms development of a humanoid robot — Engadget"
+   },
+   "body": {
+    "en": "Altman confirmed OpenAI is developing a humanoid robot, extending the company's ambitions beyond software into physical hardware.",
+    "zh": "奥特曼证实OpenAI正在研发人形机器人，将公司的野心从软件扩展到实体硬件领域。"
+   },
+   "source": "UA.NEWS",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWWxDcVhPYVVNUFVydG5penduYTBCQ2JzVTZqa3B2WXN4VFpJcUR0UU5FTjVmR2xQVmFfaV9XUHdtYnpJOUlmMEtGV2VjcGJBQy0tUlVVSl9hWENtZHNlT2E0UWgtUVkzbTl2ZTJwQW50UVRCVC1md1IwNEM1eUhPSzFYNkF2NVN0WXdVZlpIbnZBZWhjVHpWeUlpVGJGMFR4MjY0dFRR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-18",
+   "ts": "2026-10-18T11:01:02Z",
+   "level": "notable",
+   "title": {
+    "en": "Nvidia CEO Jensen Huang rejects Sam Altman's AI cybersecurity trade-off argument",
+    "zh": "Nvidia CEO Jensen Huang rejects Sam Altman's AI cybersecurity trade-off argument"
+   },
+   "body": {
+    "en": "Altman argued AI progress requires trading off cybersecurity safeguards, a position Nvidia's Jensen Huang publicly rejected.",
+    "zh": "奥特曼提出AI发展需要在网络安全保障上做出取舍，这一观点遭到英伟达黄仁勋的公开反驳。"
+   },
+   "source": "Storyboard18",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcVRLNGl1TndKRXh0SDAteUp2M1EzN2E0ZHNlSHFsMko4dnZnS0g1VHFKV2c0aGdhRUYxWHk2b1pVZDBxcUpaeHN2ZDU0UlJta0tUSGQ1Vm9hUkpmSHB0Y1FINUt4NXpmSW5qOUNpOHo2Q1dudVhSbk41LUJwUk44VC1YTVBpdWFSZXZOM1E3MGJrbGk3RXFreEE0NUZBcGV0bDZkNllWalladHdJZHZZTUJaWjg2bE1jdGRhYUJMS2JDN3kxcU5pSExNY2ktektEc3fSAdIBQVVfeXFMUHFUSzRpdU53SkV4dEgwLXlKdjNRMzdhNGRzZUhxbDJKOHZ2Z0tINVRxSldnNGhnYUVGMVh5Nm9aVWQwcXFKWnhzdmQ1NFJSbWtLVEhkNVZvYVJKZkhwdGNRSDVLeDV6ZkluajlDaTh6NkNXbnVYUm5ONS1CcFJOOFQtWE1QaXVhUmV2TjNRNzBia2xpN0Vxa3hBNDVGQXBldGw2ZDZZVmpZWnR3SWR2WU1CWlo4NmxNY3RkYWFCTEtiQzd5MXFOaUhMTWNpLXpLRHN3?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-17",
@@ -8599,15 +8633,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 97.9,
+  "total": 97.6,
   "attention": 99,
   "centrality": 96,
-  "momentum": 98,
+  "momentum": 97,
   "stature": null,
   "pageviews": 4156896,
   "citations": 16,
   "hIndex": 1,
-  "events": 417,
+  "events": 419,
   "posts": 74,
   "wikiEn": "Sam Altman",
   "wikiZh": "萨姆·奥尔特曼"

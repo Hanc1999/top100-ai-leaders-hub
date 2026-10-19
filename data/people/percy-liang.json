@@ -380,6 +380,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2026-09-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Trustworthy oversight of machine learning via randomization",
+    "zh": "Trustworthy oversight of machine learning via randomization"
+   },
+   "source": "Stanford Digital Repository",
+   "url": "https://doi.org/10.25740/ys987nd5770",
+   "note": {
+    "en": "Paper with John Duchi and Tatsunori Hashimoto proposing randomization-based methods for trustworthy oversight of machine learning systems.",
+    "zh": "与John Duchi、Tatsunori Hashimoto合作的论文，提出通过随机化方法实现对机器学习系统的可信监督。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-09-03",
    "ts": null,
    "kind": "x",
@@ -475,6 +494,25 @@
    "connector": "backfill"
   },
   {
+   "date": "2026-08-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Multimodal Foundation Models for Healthcare",
+    "zh": "Multimodal Foundation Models for Healthcare"
+   },
+   "source": "CRC Press eBooks",
+   "url": "https://doi.org/10.1201/9781003471165-2",
+   "note": {
+    "en": "Book chapter with Michihiro Yasunaga surveying multimodal foundation models for healthcare applications.",
+    "zh": "与Michihiro Yasunaga合作的书籍章节，综述多模态基础模型在医疗领域的应用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-08-26",
    "ts": null,
    "kind": "paper",
@@ -530,6 +568,25 @@
    "judged": true,
    "platform": "x",
    "connector": "backfill"
+  },
+  {
+   "date": "2026-08-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Insights from law for building and evaluating AI systems",
+    "zh": "Insights from law for building and evaluating AI systems"
+   },
+   "source": "Stanford Digital Repository",
+   "url": "https://doi.org/10.25740/dn179pk0699",
+   "note": {
+    "en": "Paper with Neel Guha, Christopher Ré and Kunle Olukotun drawing lessons from legal evaluation practice for how AI systems should be built and assessed.",
+    "zh": "与Neel Guha、Christopher Ré、Kunle Olukotun合作的论文，借鉴法律评估实践，探讨AI系统的构建与评估方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2026-08-05",
@@ -1883,16 +1940,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 25.3,
+  "total": 25.7,
   "attention": 12,
   "centrality": 14,
-  "momentum": 49,
+  "momentum": 51,
   "stature": 56,
   "pageviews": 5245,
   "citations": 45211,
   "hIndex": 87,
   "events": 2,
-  "posts": 89,
+  "posts": 92,
   "wikiEn": "Percy Liang",
   "wikiZh": null
  },

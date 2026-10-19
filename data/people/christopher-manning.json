@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-09-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Turning Speech Language Models into Multilingual Listeners",
+    "zh": "Turning Speech Language Models into Multilingual Listeners"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "https://arxiv.org/abs/2609.33204",
+   "note": {
+    "en": "Paper co-authored by Manning adapting speech language models to understand multiple languages as listeners.",
+    "zh": "Manning合著的论文，研究如何让语音语言模型具备多语言听觉理解能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-08-12",
    "ts": null,
    "kind": "paper",
@@ -257,6 +276,25 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2025-11-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Universal Dependencies 2.17",
+    "zh": "Universal Dependencies 2.17"
+   },
+   "source": "Lindat/Clarin Repository (Lindat Clarin)",
+   "url": "http://hdl.handle.net/11234/1-6036",
+   "note": {
+    "en": "Release of Universal Dependencies 2.17, the cross-linguistic treebank standard Manning's group co-founded and continues to maintain.",
+    "zh": "Universal Dependencies 2.17版本发布，这是Manning团队共同创建并持续维护的跨语言树库标准。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2025-10-24",
@@ -791,16 +829,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 20.4,
+  "total": 20.6,
   "attention": 18,
   "centrality": 10,
-  "momentum": 8,
+  "momentum": 9,
   "stature": 85,
   "pageviews": 11749,
   "citations": 178412,
   "hIndex": 134,
   "events": 3,
-  "posts": 31,
+  "posts": 33,
   "wikiEn": "Christopher D. Manning",
   "wikiZh": null
  },

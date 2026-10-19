@@ -1,5 +1,5 @@
 {
- "rank": 69,
+ "rank": 70,
  "id": "shunyu-yao",
  "name": {
   "en": "Shunyu Yao",
@@ -79,6 +79,12 @@
    "kind": "company",
    "label": "Tencent Hunyuan Research",
    "url": "https://hunyuan.tencent.com/research",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "Tencent Newsroom",
+   "url": "https://www.tencent.com/newsroom/",
    "t": 2
   },
   {
@@ -1390,6 +1396,23 @@
    },
    "source": "QQ News",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzX091X3RJeUwtRXdhNWN5d2NMNTFGVF9vS3JLcWFRSXpRUllYNXlQeGJlRnVjeGI5OVFDQ1lQUUJlYmFadmh5QjRjV0JfRUxBZXdwVzJ3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-10",
+   "ts": "2026-10-10T16:46:02Z",
+   "level": "notable",
+   "title": {
+    "en": "马化腾和姚顺雨同框，传递了什么信号？",
+    "zh": "马化腾和姚顺雨同框，传递了什么信号？"
+   },
+   "body": {
+    "en": "Yao was photographed seated beside Tencent chairman Pony Ma, a rare public pairing read as a signal of the weight his newly merged AI unit carries inside the company.",
+    "zh": "姚顺雨被拍到与腾讯董事会主席马化腾同框而坐，这一罕见的公开亮相被解读为其新合并的AI部门在公司内部地位上升的信号。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNbEljTmQxclp5enc5SHZrbXFOQXFqY00yWE9fVUFWR2ZoY08xcDhTeFQ3Q2VCbFFVR0pHcFRzOFE2UDlxeldRbWUtZnJscVdwMjIwNUEyVG42c3kwb0JvWnJIampBVU81c295NkpkeDQ5X0Y0bWJ4OE1XOVg5OUc5VV9SV0E1Tjk3anlad1pQN3pFQk9XQWo3SlJRQjFaUDhCUkNlUWlRd2ZJME92Q0NNWXYzR2pkNkZNTEJUcmZYUEtCNkZGVTRDc0VyWnJzejNFdGxJbC1wdTcwZC1jN2J3ckdNWUt1SlREMmdyQkI4ZWhwaFVCcFU3YmRRYkQzbkpuY25DREhnV252UWx0OW4ya3B4LU8zQW0yVWZRdVhUSW9WVWRUUEE?oc=5",
    "auto": true,
    "judged": true
   },
@@ -3432,7 +3455,7 @@
   "pageviews": 93,
   "citations": 5538,
   "hIndex": 14,
-  "events": 148,
+  "events": 149,
   "posts": 37,
   "wikiEn": "Shunyu Yao",
   "wikiZh": null

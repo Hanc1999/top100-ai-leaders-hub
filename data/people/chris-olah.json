@@ -1,5 +1,5 @@
 {
- "rank": 34,
+ "rank": 32,
  "id": "chris-olah",
  "name": {
   "en": "Chris Olah",
@@ -834,6 +834,25 @@
    "connector": "openalex"
   },
   {
+   "date": "2021-01-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "High/Low frequency detectors",
+    "zh": "High/Low frequency detectors"
+   },
+   "source": "Distill",
+   "url": "https://doi.org/10.23915/distill.00024.005",
+   "note": {
+    "en": "Distill Circuits article identifying high/low frequency detector features inside vision models, part of Olah's early mechanistic-interpretability work.",
+    "zh": "Distill《Circuits》系列文章，识别出视觉模型内部的高频/低频检测器特征，是Olah早期机制可解释性研究的一部分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2016-06-21",
    "ts": null,
    "kind": "paper",
@@ -1086,19 +1105,19 @@
  },
  "cat": "lab",
  "score": {
-  "total": 59.5,
+  "total": 59.7,
   "attention": 64,
   "centrality": 96,
-  "momentum": 25,
+  "momentum": 26,
   "stature": 20,
   "pageviews": 191345,
   "citations": 14804,
   "hIndex": 20,
   "events": 10,
-  "posts": 40,
+  "posts": 41,
   "wikiEn": "Chris Olah",
   "wikiZh": null
  },
  "seedRank": 62,
- "tier": "t3"
+ "tier": "t2"
 }

@@ -321,6 +321,25 @@
    "connector": "web"
   },
   {
+   "date": "2026-10-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "pce-uncertainty-attribution: code for \"Interpretable attribution of decision-relevant uncertainty in AI\"",
+    "zh": "pce-uncertainty-attribution: code for \"Interpretable attribution of decision-relevant uncertainty in AI\""
+   },
+   "source": "Code Ocean",
+   "url": "https://doi.org/10.24433/co.3338500.v1",
+   "note": {
+    "en": "Bengio co-authors a method, with IBM Research, for attributing which sources of uncertainty actually matter to an AI system's decisions.",
+    "zh": "本吉奥与IBM研究院合著论文，提出一种方法，用于归因哪些不确定性来源真正影响AI系统的决策。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-10-05",
    "ts": "2026-10-05T14:28:22Z",
    "kind": "x",
@@ -566,25 +585,6 @@
    "judged": true,
    "platform": "x",
    "connector": null
-  },
-  {
-   "date": "2026-09-22",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "pce-uncertainty-attribution: code for \"Interpretable attribution of decision-relevant uncertainty in AI\"",
-    "zh": "pce-uncertainty-attribution: code for \"Interpretable attribution of decision-relevant uncertainty in AI\""
-   },
-   "source": "Zenodo (CERN European Organization for…",
-   "url": "https://doi.org/10.5281/zenodo.22904514",
-   "note": {
-    "en": "Code release accompanying a Nature Machine Intelligence paper Bengio co-authored with IBM Research on interpretably attributing decision-relevant uncertainty in AI systems.",
-    "zh": "本吉奥与IBM研究院合作，为其发表于《自然-机器智能》的论文发布配套代码，研究如何可解释地归因AI系统中与决策相关的不确定性。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
   },
   {
    "date": "2026-09-21",
@@ -1936,25 +1936,6 @@
    "connector": "openalex"
   },
   {
-   "date": "2026-03-14",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Extendable Planning via Multiscale Diffusion",
-    "zh": "Extendable Planning via Multiscale Diffusion"
-   },
-   "source": "Proceedings of the AAAI Conference on…",
-   "url": "https://doi.org/10.1609/aaai.v40i24.39084",
-   "note": {
-    "en": "Co-authored an AAAI 2026 paper, 'Extendable Planning via Multiscale Diffusion,' proposing a diffusion-based planning method for reinforcement learning.",
-    "zh": "合著发表于AAAI 2026的论文《Extendable Planning via Multiscale Diffusion》，提出一种基于扩散模型的强化学习规划方法。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
    "date": "2026-02-26",
    "ts": null,
    "kind": "podcast",
@@ -1974,25 +1955,6 @@
    "connector": "podcasts"
   },
   {
-   "date": "2026-02-24",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "International AI Safety Report 2026",
-    "zh": "International AI Safety Report 2026"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2602.21012v1",
-   "note": {
-    "en": "The 2026 edition of the International AI Safety Report, which Bengio chairs and leads as first author, synthesising the evidence on general-purpose AI capabilities and risks for the governments that mandated it.",
-    "zh": "由 Bengio 主持并作为第一作者领衔的《2026 国际人工智能安全报告》，为委托各国政府系统梳理通用人工智能能力与风险方面的科学证据。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2026-02-19",
    "ts": null,
    "kind": "podcast",
@@ -2010,82 +1972,6 @@
    "judged": true,
    "platform": "apple-podcasts",
    "connector": "podcasts"
-  },
-  {
-   "date": "2026-02-09",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents",
-    "zh": "When Benign Inputs Lead to Severe Harms: Eliciting Unsafe Unintended Behaviors of Computer-Use Agents"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2602.08235v2",
-   "note": {
-    "en": "With Dawn Song and Huan Sun, shows that computer-use agents can be driven into unsafe unintended behaviour by inputs that are themselves entirely benign.",
-    "zh": "与 Dawn Song、Huan Sun 合作，证明完全无害的输入也可能诱使计算机操作智能体产生不安全的非预期行为。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-02-04",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Synthesizable Molecular Generation via Soft-constrained GFlowNets with Rich Chemical Priors",
-    "zh": "Synthesizable Molecular Generation via Soft-constrained GFlowNets with Rich Chemical Priors"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2602.04119v2",
-   "note": {
-    "en": "Applies GFlowNets — the generative-search framework Bengio originated — to designing drug-like molecules that can actually be synthesised.",
-    "zh": "将 Bengio 首创的生成式搜索框架 GFlowNets 用于设计真正可合成的类药分子。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-02-01",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Imagining and building wise machines: the centrality of AI metacognition",
-    "zh": "Imagining and building wise machines: the centrality of AI metacognition"
-   },
-   "source": "Trends in Cognitive Sciences",
-   "url": "https://doi.org/10.1016/j.tics.2026.01.002",
-   "note": {
-    "en": "Co-authored a Trends in Cognitive Sciences position paper, 'Imagining and Building Wise Machines,' on the centrality of metacognition to AI safety, with Schölkopf, Mitchell, Rahwan and others.",
-    "zh": "与Schölkopf、Mitchell、Rahwan等人合著发表于《认知科学趋势》的立场论文《构想并构建智慧机器》，探讨元认知在AI安全中的核心作用。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2026-01-16",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Frontier AI Auditing: Toward Rigorous Third-Party Assessment of Safety and Security Practices at Leading AI Companies",
-    "zh": "Frontier AI Auditing: Toward Rigorous Third-Party Assessment of Safety and Security Practices at Leading AI Companies"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2601.11699v4",
-   "note": {
-    "en": "A large multi-author proposal, signed by Bengio, for how independent third parties could rigorously audit the safety and security claims of frontier AI companies.",
-    "zh": "一份由 Bengio 参与署名的多作者提案，论述独立第三方应如何严格审计前沿人工智能公司的安全与保障承诺。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
   },
   {
    "date": "2025-12-18",
@@ -3485,16 +3371,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 64.2,
+  "total": 63.8,
   "attention": 67,
   "centrality": 30,
-  "momentum": 84,
+  "momentum": 82,
   "stature": 98,
   "pageviews": 276660,
   "citations": 475043,
   "hIndex": 184,
   "events": 63,
-  "posts": 119,
+  "posts": 113,
   "wikiEn": "Yoshua Bengio",
   "wikiZh": "约书亚·本希奥"
  },

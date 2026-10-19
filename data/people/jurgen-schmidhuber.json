@@ -1,5 +1,5 @@
 {
- "rank": 65,
+ "rank": 66,
  "id": "jurgen-schmidhuber",
  "name": {
   "en": "Jürgen Schmidhuber",
@@ -36,6 +36,12 @@
    "kind": "blog",
    "label": "people.idsia.ch/~juergen",
    "url": "https://people.idsia.ch/~juergen/",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Personal site",
+   "url": "https://people.idsia.ch/~juergen/blog.html",
    "t": 1
   },
   {
@@ -169,6 +175,25 @@
     "en": "His running, heavily footnoted account of who did what first — contentious and worth reading for exactly that reason.",
     "zh": "他持续更新、脚注密集的「谁先做了什么」记述 —— 有争议，也正因如此值得一读。"
    }
+  },
+  {
+   "date": "2026-10-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Creation begins with understanding: LLMs as strategy designers for privacy-preserving tabular data synthesis",
+    "zh": "Creation begins with understanding: LLMs as strategy designers for privacy-preserving tabular data synthesis"
+   },
+   "source": "Research Square",
+   "url": "https://doi.org/10.21203/rs.3.rs-10869884/v1",
+   "note": {
+    "en": "Schmidhuber co-authored a paper on using LLMs to design synthesis strategies for privacy-preserving generation of tabular data.",
+    "zh": "Schmidhuber参与的论文研究了利用大语言模型设计策略，以生成保护隐私的合成表格数据。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2026-10-13",
@@ -435,25 +460,6 @@
    "judged": true,
    "platform": "x",
    "connector": "x"
-  },
-  {
-   "date": "2026-08-30",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Creation begins with understanding: LLMs as strategy designers for privacy-preserving tabular data synthesis",
-    "zh": "Creation begins with understanding: LLMs as strategy designers for privacy-preserving tabular data synthesis"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2608.29674v1",
-   "note": {
-    "en": "Schmidhuber co-authored a paper proposing LLMs as strategy designers for generating privacy-preserving synthetic tabular data.",
-    "zh": "Schmidhuber参与合著论文，提出用大语言模型作为策略设计者，生成具有隐私保护的合成表格数据。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
   },
   {
    "date": "2026-08-12",
@@ -1237,10 +1243,10 @@
  },
  "cat": "research",
  "score": {
-  "total": 35.5,
+  "total": 35.3,
   "attention": 42,
   "centrality": 9,
-  "momentum": 31,
+  "momentum": 30,
   "stature": 88,
   "pageviews": 60498,
   "citations": 185831,

@@ -1,5 +1,5 @@
 {
- "rank": 81,
+ "rank": 82,
  "id": "daphne-koller",
  "name": {
   "en": "Daphne Koller",
@@ -196,6 +196,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2026-10-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Exploring transcriptomic and genomic latent variable correction approaches in differential expression analysis",
+    "zh": "Exploring transcriptomic and genomic latent variable correction approaches in differential expression analysis"
+   },
+   "source": "Scientific Reports",
+   "url": "https://doi.org/10.1038/s41598-026-69619-8",
+   "note": {
+    "en": "Koller co-authors a methods paper on correcting for latent genomic and transcriptomic confounders in differential expression analysis, developed with a large ALS research consortium.",
+    "zh": "Koller与一个大型ALS研究联盟合作发表方法论文，提出在差异表达分析中纠正潜在基因组和转录组混杂因素的方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-09-01",
    "ts": null,
    "kind": "paper",
@@ -291,6 +310,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2025-12-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A pooled Cell Painting CRISPR screening platform enables de novo inference of gene function by self-supervised deep learning",
+    "zh": "A pooled Cell Painting CRISPR screening platform enables de novo inference of gene function by self-supervised deep learning"
+   },
+   "source": "Nature Communications",
+   "url": "https://doi.org/10.1038/s41467-025-66778-6",
+   "note": {
+    "en": "An insitro paper introducing a pooled Cell Painting CRISPR screening platform that uses self-supervised deep learning to infer gene function de novo, with Koller among the authors.",
+    "zh": "insitro的一篇论文提出了一个集合式Cell Painting CRISPR筛选平台，利用自监督深度学习从头推断基因功能，Koller是作者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2025-07-08",
    "ts": null,
    "kind": "podcast",
@@ -346,6 +384,25 @@
    "judged": true,
    "platform": "apple-podcasts",
    "connector": "podcasts"
+  },
+  {
+   "date": "2025-01-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Pitfalls in performing genome-wide association studies on ratio traits",
+    "zh": "Pitfalls in performing genome-wide association studies on ratio traits"
+   },
+   "source": "Human Genetics and Genomics Advances",
+   "url": "https://doi.org/10.1016/j.xhgg.2025.100406",
+   "note": {
+    "en": "Koller co-authors a statistical genetics paper warning about methodological pitfalls when running genome-wide association studies on trait ratios.",
+    "zh": "Koller与人合著一篇统计遗传学论文，警示在对比率性状进行全基因组关联研究时存在的方法学陷阱。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2024-10-17",
@@ -424,6 +481,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2024-03-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Abstract 6177: Machine learning enables prediction of ADC targets from whole slide H&E images",
+    "zh": "Abstract 6177: Machine learning enables prediction of ADC targets from whole slide H&E images"
+   },
+   "source": "Cancer Research",
+   "url": "http://dx.doi.org/10.1158/1538-7445.am2024-6177",
+   "note": {
+    "en": "An insitro abstract, co-authored by Koller, shows machine learning can predict antibody-drug-conjugate targets directly from H&E-stained whole-slide pathology images.",
+    "zh": "insitro的一篇摘要（Koller为作者之一）展示机器学习可直接从H&E染色全切片病理图像预测抗体药物偶联物（ADC）靶点。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2024-03-10",
    "ts": null,
    "kind": "podcast",
@@ -460,6 +536,82 @@
    "judged": true,
    "platform": "apple-podcasts",
    "connector": "podcasts"
+  },
+  {
+   "date": "2024-01-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Machine learning enabled prediction of digital biomarkers from whole slide histopathology images",
+    "zh": "Machine learning enabled prediction of digital biomarkers from whole slide histopathology images"
+   },
+   "source": "medRxiv",
+   "url": "http://dx.doi.org/10.1101/2024.01.06.24300926",
+   "note": {
+    "en": "Koller co-authors an insitro medRxiv preprint showing machine learning can predict digital biomarkers from routine whole-slide histopathology images.",
+    "zh": "Koller与insitro同事合著的medRxiv预印本显示，机器学习可从常规全切片组织病理图像中预测数字生物标志物。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2024-01-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Machine learning across multiple imaging and biomarker modalities in the UK Biobank improves genetic discovery for liver fat accumulation",
+    "zh": "Machine learning across multiple imaging and biomarker modalities in the UK Biobank improves genetic discovery for liver fat accumulation"
+   },
+   "source": "medRxiv",
+   "url": "https://doi.org/10.1101/2024.01.06.24300923",
+   "note": {
+    "en": "Koller co-authors an insitro study combining imaging and genetic data from UK Biobank to improve genetic discovery for liver fat accumulation, part of the company's liver-disease program.",
+    "zh": "Koller与insitro同事合著的研究结合UK Biobank的影像与基因数据，提升了肝脏脂肪堆积的遗传发现能力，是该公司肝病项目的一部分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2024-01-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Deep Learning Analysis on Images of iPSC-derived Motor Neurons Carrying fALS-genetics Reveals Disease-Relevant Phenotypes",
+    "zh": "Deep Learning Analysis on Images of iPSC-derived Motor Neurons Carrying fALS-genetics Reveals Disease-Relevant Phenotypes"
+   },
+   "source": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "url": "https://doi.org/10.1101/2024.01.04.574270",
+   "note": {
+    "en": "Koller co-authors a bioRxiv study using deep learning on images of iPSC-derived motor neurons carrying familial ALS mutations to reveal disease-relevant phenotypes, part of insitro's ALS program with the Answer ALS consortium.",
+    "zh": "Koller与人合著的bioRxiv研究对携带家族性ALS基因突变的iPSC来源运动神经元图像进行深度学习分析，揭示疾病相关表型，是insitro与Answer ALS联盟合作的ALS项目的一部分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2023-12-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Why We Support and Encourage the Use of Large Language Models in NEJM AI Submissions",
+    "zh": "Why We Support and Encourage the Use of Large Language Models in NEJM AI Submissions"
+   },
+   "source": "NEJM AI",
+   "url": "https://doi.org/10.1056/aie2300128",
+   "note": {
+    "en": "Koller is lead author of an NEJM AI editorial, with co-signers including James Zou and Isaac Kohane, arguing the journal should support and encourage authors' use of large language models in submissions.",
+    "zh": "Koller是NEJM AI一篇社论的第一作者（联合签署人包括James Zou和Isaac Kohane），主张该期刊应支持并鼓励作者在投稿中使用大语言模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2023-10-03",
@@ -1425,7 +1577,7 @@
   "citations": 61723,
   "hIndex": 122,
   "events": 1,
-  "posts": 66,
+  "posts": 74,
   "wikiEn": "Daphne Koller",
   "wikiZh": "達芙妮·科勒"
  },

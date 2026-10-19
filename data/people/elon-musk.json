@@ -156,6 +156,139 @@
    }
   },
   {
+   "date": "2026-10-18",
+   "ts": "2026-10-18T00:16:22Z",
+   "kind": "x",
+   "title": {
+    "en": "This really works! Grok @Bot can pay for itself.",
+    "zh": "This really works! Grok @Bot can pay for itself."
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2111612315204272233",
+   "note": {
+    "en": "Musk said Grok's new Bot feature is already paying for itself, an early signal of xAI's push to monetize Grok beyond chat.",
+    "zh": "马斯克表示Grok的新Bot功能已经能够自负盈亏，这是xAI推动Grok商业化变现的早期信号。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-18",
+   "ts": "2026-10-18T02:14:55Z",
+   "kind": "x",
+   "title": {
+    "en": "Our team makes around around 20 improvements per day to Grok @Bot",
+    "zh": "Our team makes around around 20 improvements per day to Grok @Bot"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2111642151138546118",
+   "note": {
+    "en": "Musk says his team is shipping around 20 improvements a day to the Grok chatbot, a concrete claim about xAI's iteration pace.",
+    "zh": "马斯克表示团队每天为Grok聊天机器人推出约20项改进，透露出xAI产品迭代的具体节奏。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-18",
+   "ts": "2026-10-18T15:16:54Z",
+   "kind": "x",
+   "title": {
+    "en": "The new Tesla Roadster accelerates faster than a fighter jet taking off from an aircraft carrier",
+    "zh": "The new Tesla Roadster accelerates faster than a fighter jet taking off from an aircraft carrier"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2111838943016833235",
+   "note": {
+    "en": "Musk claimed the new Tesla Roadster accelerates faster than a fighter jet taking off from a carrier, a specific performance claim about Tesla's next flagship vehicle.",
+    "zh": "马斯克称新款Tesla Roadster的加速度超过战斗机从航母甲板起飞，这是他对特斯拉下一代旗舰车型性能作出的具体宣称。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-18",
+   "ts": "2026-10-18T17:02:36Z",
+   "kind": "x",
+   "title": {
+    "en": "True, even SpaceX’s competitor’s FUTURE plans are behind Starship 🤣🤣",
+    "zh": "True, even SpaceX’s competitor’s FUTURE plans are behind Starship 🤣🤣"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2111865541472190881",
+   "note": {
+    "en": "Musk posted on X that even competitors' future rocket plans still lag behind the already-flying Starship.",
+    "zh": "马斯克在X上发文称，即便是竞争对手的未来火箭计划，也落后于已经投入飞行的星舰。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-18",
+   "ts": "2026-10-18T17:10:08Z",
+   "kind": "x",
+   "title": {
+    "en": "Grok @Bot can call restaurants by phone and book you a table",
+    "zh": "Grok @Bot can call restaurants by phone and book you a table"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2111867437238853726",
+   "note": {
+    "en": "Musk announced that Grok's new @Bot agent can place phone calls on a user's behalf, such as calling a restaurant to book a table — xAI's first voice-calling agent feature.",
+    "zh": "马斯克宣布Grok新推出的@Bot智能体可以代表用户拨打电话，例如致电餐厅订座，这是xAI首个具备语音通话能力的智能体功能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-18",
+   "ts": "2026-10-18T20:18:08Z",
+   "kind": "x",
+   "title": {
+    "en": "Grok @Bot is like hiring an incredibly competent employee",
+    "zh": "Grok @Bot is like hiring an incredibly competent employee"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2111914748648296655",
+   "note": {
+    "en": "Musk argued Grok's agentic bot functions like hiring a highly competent employee, a strong public endorsement of xAI's agent product that drew over 620,000 views.",
+    "zh": "马斯克称Grok的智能体机器人就像雇用了一名非常能干的员工，这是对xAI智能体产品的有力公开背书，浏览量超过62万次。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-18",
+   "ts": "2026-10-18T21:21:41Z",
+   "kind": "x",
+   "title": {
+    "en": "What it’s like trying to rent AI/SI compute https://t.co/SBdEXK31zc",
+    "zh": "What it’s like trying to rent AI/SI compute https://t.co/SBdEXK31zc"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2111930742615802163",
+   "note": {
+    "en": "Musk posted on how hard it currently is to rent AI/SI compute, a real complaint about the training-compute crunch that his own xAI/SpaceX stack competes for.",
+    "zh": "马斯克发帖吐槽如今租用AI/SI算力有多难，反映了连他自己的xAI/SpaceX也在争夺的训练算力紧张局面。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-17",
    "ts": "2026-10-17T17:20:38Z",
    "kind": "x",
@@ -973,139 +1106,6 @@
    "connector": null
   },
   {
-   "date": "2026-10-08",
-   "ts": "2026-10-08T00:55:03Z",
-   "kind": "x",
-   "title": {
-    "en": "🇧🇩 Starlink Mobile now available in Bangladesh! 🇧🇩",
-    "zh": "🇧🇩 Starlink Mobile now available in Bangladesh! 🇧🇩"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2107998173663051794",
-   "note": {
-    "en": "Announced that Starlink Mobile direct-to-cell service has launched in Bangladesh, extending satellite connectivity to a new market.",
-    "zh": "宣布Starlink Mobile（星链移动直连）服务在孟加拉国上线，将卫星通信服务扩展到新市场。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-10-08",
-   "ts": "2026-10-08T03:34:30Z",
-   "kind": "x",
-   "title": {
-    "en": "Grok @Bot is like hiring an extremely competent employee!",
-    "zh": "Grok @Bot is like hiring an extremely competent employee!"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2108038296572137792",
-   "note": {
-    "en": "Musk frames xAI's Grok bot product as comparable to hiring a highly capable employee, publicly endorsing its usefulness.",
-    "zh": "马斯克将xAI的Grok机器人产品比作雇用一名能力极强的员工，公开为其实用性背书。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-10-08",
-   "ts": "2026-10-08T03:32:44Z",
-   "kind": "x",
-   "title": {
-    "en": "Starlink connecting Bangladesh!",
-    "zh": "Starlink connecting Bangladesh!"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2108037853993439563",
-   "note": {
-    "en": "Musk announced Starlink service connecting Bangladesh, extending the satellite network into a new market.",
-    "zh": "马斯克宣布星链服务接入孟加拉国，将卫星网络拓展至新市场。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-10-08",
-   "ts": "2026-10-08T10:36:10Z",
-   "kind": "x",
-   "title": {
-    "en": "Starlink will be of great help to areas of India that have bad or no Internet and even no mobile coverage. No country has perfect coverage, including America, b",
-    "zh": "Starlink will be of great help to areas of India that have bad or no Internet and even no mobile coverage. No country has perfect coverage, including America, b"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2108144416175398920",
-   "note": {
-    "en": "Musk argued Starlink will help cover connectivity gaps in parts of India lacking internet or mobile service, framing it as a complement rather than a replacement for existing coverage.",
-    "zh": "马斯克表示星链将帮助弥补印度部分地区互联网和移动网络覆盖不足的问题，并强调星链是对现有网络的补充而非替代。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-10-08",
-   "ts": "2026-10-08T12:58:50Z",
-   "kind": "x",
-   "title": {
-    "en": "People who oppose @Starlink hurt only the least-served. The wealthy or those living in large cities already have good Internet, so they don’t understand.",
-    "zh": "People who oppose @Starlink hurt only the least-served. The wealthy or those living in large cities already have good Internet, so they don’t understand."
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2108180318842736942",
-   "note": {
-    "en": "Musk argues Starlink's critics are mostly wealthy or urban people who already have good internet — a public defense of Starlink's reach amid India's access dispute.",
-    "zh": "马斯克表示反对星链的人大多是已拥有良好网络的富裕或城市人群，这是他在印度准入争议期间为星链覆盖范围所做的公开辩护。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-10-08",
-   "ts": "2026-10-08T12:55:11Z",
-   "kind": "x",
-   "title": {
-    "en": "Starlink provides Internet connectivity to the least-served, enabling self-education and prosperity by giving people access to sell their products worldwide!",
-    "zh": "Starlink provides Internet connectivity to the least-served, enabling self-education and prosperity by giving people access to sell their products worldwide!"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2108179398700757378",
-   "note": {
-    "en": "Musk frames Starlink as enabling self-education and global market access for underserved populations, continuing his public case for the service.",
-    "zh": "马斯克称星链能让服务欠缺地区的人们实现自我教育并将产品销往全球，延续了他为该服务做的公开辩护。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-10-08",
-   "ts": "2026-10-08T12:48:25Z",
-   "kind": "x",
-   "title": {
-    "en": "🇮🇳 Starlink will help the least-served in India 🇮🇳",
-    "zh": "🇮🇳 Starlink will help the least-served in India 🇮🇳"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2108177695271948445",
-   "note": {
-    "en": "Musk singles out India, saying Starlink will help its underserved populations — a direct response amid the dispute over India's satellite-internet approval process.",
-    "zh": "马斯克特别提到印度，称星链将帮助当地服务欠缺人群，这是他针对印度卫星互联网审批争议的直接回应。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2026-07-23",
    "ts": null,
    "kind": "podcast",
@@ -1205,6 +1205,40 @@
    },
    "source": "xAI",
    "url": "https://x.ai/news"
+  },
+  {
+   "date": "2026-10-18",
+   "ts": "2026-10-18T11:11:45Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Says Optimus, Cybercab Will Be ‘the Vast Majority’ of Tesla’s Value",
+    "zh": "Elon Musk Says Optimus, Cybercab Will Be ‘the Vast Majority’ of Tesla’s Value"
+   },
+   "body": {
+    "en": "Musk said Optimus and Cybercab will make up \"the vast majority\" of Tesla's future value, signaling a strategic pivot from EVs toward robotics and autonomy.",
+    "zh": "马斯克表示，Optimus机器人和Cybercab将成为特斯拉未来价值的“绝大部分”，标志着公司战略从电动车转向机器人与自动驾驶。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaG83NFVZZ0lhZHlmREZFaHBpcENpYkNxMEVoRWxLalc0QjVmblEtcUJMb0NYbG1WLXhaalhDNjNxMWRySTEwcUdjSWg5N0x1cnFqbWN5bUY4eldFeldvT29WalRTYlJSUHZ3NnhUTktPQ2hnNG9fU3hESkpvWHJMTWYzc0V0WnhNVXppZEFNdHh6VGMxNjhURVJLa09Fb1ZlbC1aYVNlODY1QTI4U2RXMnVfUXFzY0wwVjNuZ0FfR1hvUFBw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-18",
+   "ts": "2026-10-18T07:25:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Says Optimus Is Tesla's Most Important Product. These 3 Suppliers Get Paid Before Tesla Does.",
+    "zh": "Elon Musk Says Optimus Is Tesla's Most Important Product. These 3 Suppliers Get Paid Before Tesla Does."
+   },
+   "body": {
+    "en": "Musk called Optimus Tesla's most important product, underscoring robotics as central to his AI strategy ahead of cars.",
+    "zh": "马斯克表示Optimus是特斯拉最重要的产品，凸显机器人业务已成为其AI战略的核心，优先于汽车业务。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTWJtakdwQWVZcldWQVpud295ZGlnSXZjYnFuNmY3TndBR2JmOGNBa1FfQ0o5R1UxQUh2bFEzby01Rk9ZVzlLSUpqTDI1TXd4WkRYX3NfN0NSRnJONi1UUkJsOXZid09KTGlrUGQ0Smw0bUpVaTVnQ2FDV0JBY0ZQejU2eU1iTmM2SkRHcERTV1hqWUItcElCbg?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-17",
@@ -1322,6 +1356,40 @@
    },
    "source": "13WMAZ",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRXJoVzZqRHdseGJYckhIdFBpMzVRWkU3OFRDTWMyelVvZEV1eXpHdjBrM0RLYXVZVW9DNFFKQzlFNFhPNGtPQjhuZnRUXzJZSlZlYk5HTDVwZ2Y5SjZnT1JnLWZUdnd0SDE4QUllT3J3aWlLbWlheW9PUTl2SFk4NjVnczRWeVFrMUNRYU1ENDRfY1p2ZkctUml0QnlIV0R1djcxZ0dQZnV6VFQtYUhBeGk5cWowN1ZPX0JTVkVEVQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-17",
+   "ts": "2026-10-17T03:30:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s China RAM Warning Raises Questions for Samsung, SK Hynix as South Korea Faces Potential Memory Chip Oversupply and Less Time To Diversify",
+    "zh": "Elon Musk’s China RAM Warning Raises Questions for Samsung, SK Hynix as South Korea Faces Potential Memory Chip Oversupply and Less Time To Diversify"
+   },
+   "body": {
+    "en": "Musk warns about China's RAM supply situation, a comment markets read as a signal for Samsung and SK Hynix amid potential memory-chip shortages.",
+    "zh": "Musk就中国的RAM供应局势发出警告，市场将此解读为三星和SK海力士面临潜在内存芯片短缺的信号。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcnNDV1RjMklRTVpJVFNPeDlHU1gyZDFjMFBWb1FXU3N1bThWZlNtLW01WXNrakQ0ZjVfZFd6YWI0OW83Wm9vU2RJbnBsbkwxN2piMFZjRkQ1SFBHWm8tSzNQeHpJSEtjS1hqMEZKcE5CcU9vUmdRczdPN2VHTFhUbVFmTUUwdFNBR0tsYXF6QkRldw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-17",
+   "ts": "2026-10-17T00:33:32Z",
+   "level": "notable",
+   "title": {
+    "en": "Video Elon Musk unveils Tesla's \"flying car\" more than a decade in the making - ABC News - Breaking News, Latest News and Videos",
+    "zh": "Video Elon Musk unveils Tesla's \"flying car\" more than a decade in the making - ABC News - Breaking News, Latest News and Videos"
+   },
+   "body": {
+    "en": "Musk and Tesla unveil the long-delayed Roadster with flying-car capability, powered by SpaceX thruster technology.",
+    "zh": "Musk与特斯拉发布了延期已久的Roadster，该车型搭载SpaceX推进器技术，具备\"飞行\"能力。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBiRmxuRnBrX1FOSXZjTEMyRHhKV3d4cEF5NGlxQlFaQU1yX3h5X0dlS2Z3c2JIcXF4c0w1SjNzYURaTDJ2TmVJbU9lbTU?oc=5",
    "auto": true,
    "judged": true
   },
@@ -1700,6 +1768,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-16",
+   "ts": "2026-10-16T19:17:00Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk proposed slowing Starlink in Ukraine to Trump – The Telegraph",
+    "zh": "Elon Musk proposed slowing Starlink in Ukraine to Trump – The Telegraph"
+   },
+   "body": {
+    "en": "Musk reportedly proposed to Trump that Starlink service to Ukraine be slowed, a significant and controversial stance given Starlink's role in the war.",
+    "zh": "据报道，马斯克向特朗普提议减慢对乌克兰的Starlink服务，鉴于Starlink在战争中的关键作用，这是一次重大且有争议的表态。"
+   },
+   "source": "Українська правда",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mTkxhS05UMzgyV25RT2dsZ2VadjBlNzJERFZGSUF5bGxuUU9xNzctbjZlZEVreEhNR0lCejdsWWlLem1VbmxNbW1ubHdLVFVjLW5oRWlPem5rcEtuZVN3RkZpU2bSAXBBVV95cUxNVXpJZkhsZXNrSnc4b2VZMmhkc0ExSWNrT1JZcG5rdkZNTTVSNEJveHhxYmNLVjdxOFhTX0VkMDNaQmFoeWswV01WanpFcDY5b2ZjRXhUZThmc1VCT0ExMW9yOGFDVzhYMEJ4MXhiaWxK?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-15",
    "ts": "2026-10-15T02:57:30Z",
    "level": "notable",
@@ -2002,6 +2087,23 @@
    },
    "source": "Stocktwits",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObGk2Vk03M1BLX0lCWW8yRzVybEgteHR3bHFscnBabVA0N2NDOS1RRjB3WWlvYW9acjBmQVJqT1Q1dklTUUtHYk4yOG9TeGdpa2hFOG9uTHhlUXZOV2NzdHBrZDRmaG5CaG1BMjhSa3NZM3FTN3VtLWp4NWFTNlA4cXVJdC1JQVp1NUtETUJaTFVOSFUydXA0TDdSSHdScXpVbVEzb2tFX1hDWFFDaGZKTDlvdGxHdG9tQkFUbUFNa05VcFdJeE5pMllGRW5kYU9wcmhXbE9wNXAxNzJJOVNfZGQ2eDBsZ3pL?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-15",
+   "ts": "2026-10-15T03:24:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
+    "zh": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems"
+   },
+   "body": {
+    "en": "Musk said Trump bears \"ultimate\" responsibility for any restrictions on Ukraine's access to SpaceX's Starshield satellite systems, a notable public stance on a live policy dispute involving his company.",
+    "zh": "马斯克表示，若乌克兰使用SpaceX的Starshield卫星系统受到限制，特朗普将负有\"最终\"责任——这是他在一场涉及自家公司的现实政策争议中表明的立场。"
+   },
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUldFQzNjNGFCb2x0YWdNdUFzYTNIMTM3bUQ1U1dyWUdBNExwTFI1TVBhN3FIY0ljZUtzQmhZdENybmxCUE5nNU5nTFI2QjRKZzR2TVN1TXFZZU54NGJsb3lZQzN3VkxBZE85NWlIeU1acW5OQmVRTGN2QnBFcGNxSlRaRXZfQ25LV2xvV2s0WQ?oc=5",
    "auto": true,
    "judged": true
   },
@@ -11388,7 +11490,7 @@
   "pageviews": 9295513,
   "citations": 1280,
   "hIndex": 3,
-  "events": 601,
+  "events": 607,
   "posts": 56,
   "wikiEn": "Elon Musk",
   "wikiZh": "埃隆·马斯克"

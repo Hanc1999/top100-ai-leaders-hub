@@ -1246,6 +1246,25 @@
    "connector": "web"
   },
   {
+   "date": "2020-07-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Automatic Curriculum Learning For Deep RL: A Short Survey",
+    "zh": "Automatic Curriculum Learning For Deep RL: A Short Survey"
+   },
+   "source": "International Joint Conference on Arti…",
+   "url": "https://doi.org/10.24963/ijcai.2020/671",
+   "note": {
+    "en": "Lilian Weng co-authors an IJCAI survey of automatic curriculum learning methods for deep reinforcement learning.",
+    "zh": "翁荔合著一篇IJCAI综述论文，总结深度强化学习中的自动课程学习方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2020-06-07",
    "ts": null,
    "kind": "blog",
@@ -1282,25 +1301,6 @@
    "judged": true,
    "platform": "web",
    "connector": "web"
-  },
-  {
-   "date": "2020-03-10",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Automatic Curriculum Learning For Deep RL: A Short Survey",
-    "zh": "Automatic Curriculum Learning For Deep RL: A Short Survey"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2003.04664v2",
-   "note": {
-    "en": "An IJCAI 2020 survey of automatic curriculum learning for deep RL, co-authored with the Inria Flowers group while she was at OpenAI.",
-    "zh": "发表于 IJCAI 2020 的深度强化学习自动课程学习综述，是她在 OpenAI 期间与 Inria Flowers 团队合作完成的。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
   },
   {
    "date": "2020-01-29",
@@ -2146,6 +2146,23 @@
    "judged": true
   },
   {
+   "date": "2026-07-29",
+   "ts": "2026-07-29T03:55:18Z",
+   "level": "major",
+   "title": {
+    "en": "刚刚，北大校友翁荔官宣离职，AI 时代最好的对齐是照顾好自己- 老虎证券",
+    "zh": "刚刚，北大校友翁荔官宣离职，AI 时代最好的对齐是照顾好自己- 老虎证券"
+   },
+   "body": {
+    "en": "Lilian Weng publicly announced she was stepping away from her role, around the time she moved on from Thinking Machines Lab back to OpenAI.",
+    "zh": "翁荔公开宣布离职，正值她离开Thinking Machines Lab、重新回到OpenAI之际。"
+   },
+   "source": "Tiger Brokers",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03MVQwaHNNRDF4Q0puTF9tWWs2cnBJbVpHeFhvTF9EQVF1QUFpTjhlWVFVbE81ZFNRcTd3NkZrWHhZTXJPdDFmbmJJaUhSaDZMS19yWktn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-07-28",
    "ts": null,
    "level": "major",
@@ -2773,7 +2790,7 @@
   "pageviews": 0,
   "citations": 3937,
   "hIndex": 16,
-  "events": 70,
+  "events": 71,
   "posts": 73,
   "wikiEn": "Lilian Weng",
   "wikiZh": null

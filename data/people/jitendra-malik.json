@@ -51,6 +51,12 @@
    "t": 2
   },
   {
+   "kind": "blog",
+   "label": "UC Berkeley EECS — News",
+   "url": "https://eecs.berkeley.edu/news/",
+   "t": 2
+  },
+  {
    "kind": "linkedin",
    "label": "LinkedIn — search",
    "url": "https://www.linkedin.com/search/results/people/?keywords=Jitendra+Malik",
@@ -289,6 +295,25 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "World model for robot learning: A comprehensive survey",
+    "zh": "World model for robot learning: A comprehensive survey"
+   },
+   "source": "The International Journal of Robotics…",
+   "url": "https://doi.org/10.1177/02783649261488980",
+   "note": {
+    "en": "Malik co-authored a comprehensive survey of world models for robot learning in the International Journal of Robotics Research.",
+    "zh": "Malik参与撰写了发表于《国际机器人研究期刊》的关于机器人学习中世界模型的综述文章。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2026-09-26",
@@ -804,6 +829,44 @@
    "connector": "backfill"
   },
   {
+   "date": "2026-06-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations",
+    "zh": "Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations"
+   },
+   "source": "Proceedings - IEEE International Confe…",
+   "url": "https://doi.org/10.1109/icra57385.2026.11697220",
+   "note": {
+    "en": "ICRA paper co-authored by Malik on teaching multi-fingered robot hands manipulation skills from in-the-wild human demonstrations captured via smart glasses.",
+    "zh": "Malik合著的ICRA论文研究了如何通过智能眼镜采集的真实场景人类示范，训练多指机器人手的操作技能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2026-06-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Learning Dexterous Manipulation Skills from Imperfect Simulations",
+    "zh": "Learning Dexterous Manipulation Skills from Imperfect Simulations"
+   },
+   "source": "Proceedings - IEEE International Confe…",
+   "url": "https://doi.org/10.1109/icra57385.2026.11697144",
+   "note": {
+    "en": "ICRA paper co-authored by Malik on learning dexterous manipulation skills despite imperfect physics simulation.",
+    "zh": "Malik合著的ICRA论文研究了在物理仿真不完美的情况下学习灵巧操作技能的方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-05-28",
    "ts": null,
    "kind": "paper",
@@ -878,25 +941,6 @@
    "judged": true,
    "platform": "x",
    "connector": "backfill"
-  },
-  {
-   "date": "2026-04-30",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "World Model for Robot Learning: A Comprehensive Survey",
-    "zh": "World Model for Robot Learning: A Comprehensive Survey"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2605.00080v1",
-   "note": {
-    "en": "Survey of world models in robot learning, covering their use for policy learning, planning, simulation and evaluation.",
-    "zh": "关于机器人学习中世界模型的综述，覆盖其在策略学习、规划、仿真与评测中的应用。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
   },
   {
    "date": "2026-04-12",
@@ -1847,7 +1891,7 @@
   "citations": 168758,
   "hIndex": 144,
   "events": 0,
-  "posts": 89,
+  "posts": 91,
   "wikiEn": "Jitendra Malik",
   "wikiZh": "希特德拉·馬利克"
  },

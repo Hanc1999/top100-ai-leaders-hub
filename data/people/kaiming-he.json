@@ -455,6 +455,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2025-06-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Highly Compressed Tokenizer Can Generate Without Training",
+    "zh": "Highly Compressed Tokenizer Can Generate Without Training"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "http://arxiv.org/abs/2506.08257",
+   "note": {
+    "en": "Kaiming He co-authors work showing a highly compressed visual tokenizer can generate images without any training.",
+    "zh": "何恺明合著论文，展示高度压缩的视觉分词器可以在无需训练的情况下生成图像。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2025-05-19",
    "ts": null,
    "kind": "paper",
@@ -735,6 +754,23 @@
    },
    "source": "MIT EECS",
    "url": "https://www.eecs.mit.edu/people/kaiming-he/"
+  },
+  {
+   "date": "2026-10-17",
+   "ts": "2026-10-17T06:08:24Z",
+   "level": "notable",
+   "title": {
+    "en": "何恺明团队新作：看猫片就能学会ARC挑战|训练|格子|模型|视觉|规则",
+    "zh": "何恺明团队新作：看猫片就能学会ARC挑战|训练|格子|模型|视觉|规则"
+   },
+   "body": {
+    "en": "Kaiming He's research group released new work showing a model can learn to solve ARC-style abstract reasoning puzzles after training only on cat videos.",
+    "zh": "何恺明团队发布新研究，展示模型仅通过观看猫咪视频训练即可学会解决ARC风格的抽象推理挑战。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxQSk9MeXlCaFpvVF9tWmFjOFBaVHpsTDM2Ti1HQnZfTkowT0IwcTNRZ0F3SW9uZmtUX1RhVE5FQ2ZPVDFuMk16OWpZTHhLaFlySzhadWtOLWptNVkwQUpxWTJsemJ4S05jcXVScHJUeFVlTDVuOTBaUW9Nb01TUW5CR3JsZkdDT21aeFhrc01mQ181R0JpX1p6WWZDcjNPckxrWXVjZk14MkxuR1AzUXVnWFl6STlBcloxTmVzRFMwZHhRNTMwQ19VdE1aejBjbElsQWtFZ3Nfbmw0S19rMVB2QnhVZm4yaFlaQldxUTE1N3lXZTFPMkxjUUtqcXprM3ctUXA1blR3RFNzQjVfS1RicDJoWjMzSFFwR0VNUVRtR2FUenRjSl8wNmNMSEY1WG5OMjFVaWU3eEFxV2lDRlJ5WVNtTE1KZjQwcGp5Q1NCQlRjdHU1TzR1VzYyNFFhbVV0NFNyaU43YWlKR3NPeDlHRDlEVlc1NjQxWFY1eWUxMDE4TWZKUkp6M19naGRfX1h3clhUM2s3OUlnRjRoYmhUR240OFdieGgwaXBZcnZjSXlMMFFvRk1NLUdDZFRPb095WTBxMk45TThNc2J0SFZUdWNSdFVpQzM3RWJPLWpoZDRvNk5rT0lMMVptUGNVQnVQVi1DNUZSY3lqMHFNNG5MRGVMNnpUVWtLNzg0MWVJUHIzOUt6MXBYdTRBWnM4RDVsbklTRE5vOFQyLUE?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-12",
@@ -1815,16 +1851,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 40.8,
+  "total": 40.4,
   "attention": 33,
   "centrality": 2,
-  "momentum": 74,
+  "momentum": 72,
   "stature": 100,
   "pageviews": 46828,
   "citations": 555963,
   "hIndex": 83,
-  "events": 64,
-  "posts": 29,
+  "events": 65,
+  "posts": 30,
   "wikiEn": "Kaiming He",
   "wikiZh": "何恺明"
  },

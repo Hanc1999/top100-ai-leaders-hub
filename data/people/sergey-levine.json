@@ -1,5 +1,5 @@
 {
- "rank": 82,
+ "rank": 81,
  "id": "sergey-levine",
  "name": {
   "en": "Sergey Levine",
@@ -409,6 +409,44 @@
    "connector": "openalex"
   },
   {
+   "date": "2026-07-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Steerable Vision-Language-Action Policies for Embodied Reasoning and Hierarchical Control",
+    "zh": "Steerable Vision-Language-Action Policies for Embodied Reasoning and Hierarchical Control"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.15607/rss.2026.xxii.074",
+   "note": {
+    "en": "Paper with Danny Driess and Karl Pertsch on steerable vision-language-action policies for hierarchical embodied reasoning and control.",
+    "zh": "与Danny Driess、Karl Pertsch合作的论文，研究用于层次化具身推理与控制的可引导视觉-语言-动作策略。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2026-07-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "π*₀.₆: a VLA That Learns From Experience",
+    "zh": "π*₀.₆: a VLA That Learns From Experience"
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.15607/rss.2026.xxii.087",
+   "note": {
+    "en": "Paper describing π*0.6, Physical Intelligence's vision-language-action model that learns and improves from its own real-world experience.",
+    "zh": "论文介绍π*0.6模型，是Physical Intelligence研发的能够从真实世界经验中学习改进的视觉-语言-动作模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-06-30",
    "ts": null,
    "kind": "paper",
@@ -725,25 +763,6 @@
    "note": {
     "en": "An asynchronous VLA architecture that cuts inference cost enough to run robot navigation on edge hardware.",
     "zh": "提出异步 VLA 架构，大幅降低推理开销，使机器人导航可在边缘设备上运行。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-02-13",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Steerable Vision-Language-Action Policies for Embodied Reasoning and Hierarchical Control",
-    "zh": "Steerable Vision-Language-Action Policies for Embodied Reasoning and Hierarchical Control"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2602.13193v3",
-   "note": {
-    "en": "Grounds vision-language model priors into hierarchical robot control, yielding steerable policies for embodied reasoning.",
-    "zh": "将视觉-语言模型的先验落地到分层机器人控制中，得到可引导的具身推理策略。"
    },
    "auto": true,
    "judged": true,
@@ -1686,16 +1705,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 28.3,
+  "total": 29.0,
   "attention": 11,
   "centrality": 43,
-  "momentum": 26,
+  "momentum": 29,
   "stature": 68,
   "pageviews": 4213,
   "citations": 63110,
   "hIndex": 112,
   "events": 1,
-  "posts": 79,
+  "posts": 80,
   "wikiEn": "Sergey Levine",
   "wikiZh": null
  },

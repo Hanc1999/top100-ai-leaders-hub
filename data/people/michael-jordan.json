@@ -265,6 +265,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2026-09-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "On nonlinear dimensionality reduction, linear smoothing, and boundary conditions",
+    "zh": "On nonlinear dimensionality reduction, linear smoothing, and boundary conditions"
+   },
+   "source": "Science China Information Sciences",
+   "url": "https://doi.org/10.1007/s11432-026-5134-4",
+   "note": {
+    "en": "Michael I. Jordan co-authors a theoretical paper connecting nonlinear dimensionality reduction to linear smoothing under boundary conditions.",
+    "zh": "Michael I. Jordan合著一篇理论论文，探讨非线性降维与线性平滑在边界条件下的联系。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-09-21",
    "ts": null,
    "kind": "paper",
@@ -377,6 +396,25 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2026-07-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Replication package for: \"Improved Bayes Risk Can Yield Reduced Collective Accuracy Under Competition\"",
+    "zh": "Replication package for: \"Improved Bayes Risk Can Yield Reduced Collective Accuracy Under Competition\""
+   },
+   "source": "Zenodo (CERN European Organization for…",
+   "url": "https://doi.org/10.5281/zenodo.21539793",
+   "note": {
+    "en": "Michael I. Jordan co-authors the replication package for 'Improved Bayes Risk Can Yield Reduced Collective Accuracy Under Competition,' with fellow Berkeley researchers.",
+    "zh": "Michael I. Jordan与伯克利同事合著论文《Improved Bayes Risk Can Yield Reduced Collective Accuracy Under Competition》的复现材料包。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2026-07-09",
@@ -835,44 +873,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2025-12-15",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Stopping Rules for Stochastic Gradient Descent via Anytime-Valid Confidence Sequences",
-    "zh": "Stopping Rules for Stochastic Gradient Descent via Anytime-Valid Confidence Sequences"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2512.13123v5",
-   "note": {
-    "en": "Uses anytime-valid confidence sequences to decide when to stop stochastic gradient descent from the observed trajectory alone, with Liviu Aolaritei.",
-    "zh": "与 Liviu Aolaritei 合作，用随时有效的置信序列仅凭观测到的轨迹来判断随机梯度下降何时应当停止。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2025-12-12",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Conditional Coverage Diagnostics for Conformal Prediction",
-    "zh": "Conditional Coverage Diagnostics for Conformal Prediction"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2512.11779v2",
-   "note": {
-    "en": "Diagnostics for assessing conditional coverage in conformal prediction, where standard methods guarantee only marginal coverage; with Sacha Braun and Francis Bach.",
-    "zh": "与 Sacha Braun、Francis Bach 提出评估共形预测条件覆盖率的诊断方法，而标准方法只能保证边缘覆盖率。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2020-02-24",
    "ts": null,
    "kind": "podcast",
@@ -946,10 +946,10 @@
  },
  "cat": "research",
  "score": {
-  "total": 27.9,
+  "total": 28.5,
   "attention": 31,
   "centrality": 0,
-  "momentum": 29,
+  "momentum": 32,
   "stature": 86,
   "pageviews": 40320,
   "citations": 181936,

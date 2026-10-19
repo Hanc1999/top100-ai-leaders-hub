@@ -1,5 +1,5 @@
 {
- "rank": 75,
+ "rank": 73,
  "id": "eric-xing",
  "name": {
   "en": "Eric Xing",
@@ -54,6 +54,12 @@
    "kind": "blog",
    "label": "MBZUAI News",
    "url": "https://mbzuai.ac.ae/news/",
+   "t": 2
+  },
+  {
+   "kind": "blog",
+   "label": "MBZUAI News",
+   "url": "https://mbzuai.ac.ae/news-events/news",
    "t": 2
   },
   {
@@ -161,6 +167,25 @@
     "en": "Argues the next phase will not come from scaling models larger but from redesigning AI to understand the world and plan within it.",
     "zh": "主张下一阶段不来自把模型做得更大，而来自重新设计能理解世界并在其中规划的 AI。"
    }
+  },
+  {
+   "date": "2026-10-18",
+   "ts": "2026-10-18T18:37:25Z",
+   "kind": "x",
+   "title": {
+    "en": "Time also for university leaders to reflect due process, apoliticalness, meritocracy and many many now unfashionable principles that used to make universities g",
+    "zh": "Time also for university leaders to reflect due process, apoliticalness, meritocracy and many many now unfashionable principles that used to make universities g"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2111889405216776278",
+   "note": {
+    "en": "Xing posted on X calling on university leaders to recommit to due process, apoliticism and meritocracy, arguing academia is abandoning the principles that made it great.",
+    "zh": "邢波在X上发文，呼吁大学领导人重新坚守正当程序、非政治化与精英选拔等原则，认为学术界正在抛弃曾让大学伟大的这些理念。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
   },
   {
    "date": "2026-10-13",
@@ -275,6 +300,25 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2026-10-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Protocol for tri-modal pretraining and downstream fine-tuning of protein representations using ProteinAligner",
+    "zh": "Protocol for tri-modal pretraining and downstream fine-tuning of protein representations using ProteinAligner"
+   },
+   "source": "STAR Protocols",
+   "url": "https://doi.org/10.1016/j.xpro.2026.104862",
+   "note": {
+    "en": "Xing co-authors a STAR Protocols paper detailing the tri-modal pretraining and fine-tuning pipeline for ProteinAligner, a protein representation model.",
+    "zh": "Xing合著STAR Protocols论文，详述蛋白质表征模型ProteinAligner的三模态预训练与微调流程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2026-09-28",
@@ -1704,16 +1748,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 30.6,
+  "total": 31.0,
   "attention": 25,
   "centrality": 14,
-  "momentum": 50,
+  "momentum": 52,
   "stature": 54,
   "pageviews": 21312,
   "citations": 41656,
   "hIndex": 97,
   "events": 2,
-  "posts": 80,
+  "posts": 82,
   "wikiEn": "Eric Xing",
   "wikiZh": "邢波"
  },

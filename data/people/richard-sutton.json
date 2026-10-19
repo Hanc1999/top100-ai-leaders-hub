@@ -1627,6 +1627,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2022-04-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "From eye-blinks to state construction: Diagnostic benchmarks for online representation learning",
+    "zh": "From eye-blinks to state construction: Diagnostic benchmarks for online representation learning"
+   },
+   "source": "Adaptive Behavior",
+   "url": "https://doi.org/10.1177/10597123221085039",
+   "note": {
+    "en": "Paper with Adam White and colleagues introducing diagnostic benchmarks, from eye-blink prediction to state construction, for online representation learning.",
+    "zh": "与Adam White等合作的论文，提出从预测眨眼到状态构建的一系列诊断性基准，用于评估在线表征学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2022-02-26",
    "ts": null,
    "kind": "paper",
@@ -1801,7 +1820,7 @@
   "citations": 68231,
   "hIndex": 67,
   "events": 6,
-  "posts": 81,
+  "posts": 82,
   "wikiEn": "Richard S. Sutton",
   "wikiZh": "理查德·S·薩頓"
  },

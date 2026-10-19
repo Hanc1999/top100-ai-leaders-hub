@@ -1,5 +1,5 @@
 {
- "rank": 66,
+ "rank": 65,
  "id": "emad-mostaque",
  "name": {
   "en": "Emad Mostaque",
@@ -1282,6 +1282,23 @@
  ],
  "news": [
   {
+   "date": "2026-10-17",
+   "ts": "2026-10-17T22:08:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Emad Mostaque: Robot Intelligence Costs Are Halving Every 3 Weeks. The Real Bottleneck Is Now Hardware.",
+    "zh": "Emad Mostaque: Robot Intelligence Costs Are Halving Every 3 Weeks. The Real Bottleneck Is Now Hardware."
+   },
+   "body": {
+    "en": "Mostaque argued robot intelligence costs are halving roughly every three weeks and that hardware, not software, is now the binding constraint.",
+    "zh": "Emad Mostaque表示机器人智能成本大约每三周减半一次，目前真正的瓶颈已经变成硬件而非软件。"
+   },
+   "source": "BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ieVFobEV6MmgxTGYzWTFST1RjM0dFMUVzMkItSTBMNDRIRDJ5VVJvWExpRnpieUdxcXN4cGFOcEhsbHd1UVBFcE1Sclk5N09JVXNsNTFxdXpZX3c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-05",
    "ts": null,
    "level": "notable",
@@ -1340,15 +1357,15 @@
  },
  "cat": "product",
  "score": {
-  "total": 35.1,
+  "total": 35.4,
   "attention": 43,
   "centrality": 14,
-  "momentum": 45,
+  "momentum": 46,
   "stature": null,
   "pageviews": 64219,
   "citations": 485,
   "hIndex": 2,
-  "events": 3,
+  "events": 4,
   "posts": 62,
   "wikiEn": "Emad Mostaque",
   "wikiZh": null

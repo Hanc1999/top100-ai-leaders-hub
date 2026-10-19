@@ -1,5 +1,5 @@
 {
- "rank": 52,
+ "rank": 49,
  "id": "david-silver",
  "name": {
   "en": "David Silver",
@@ -266,6 +266,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2022-10-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Discovering faster matrix multiplication algorithms with reinforcement learning",
+    "zh": "Discovering faster matrix multiplication algorithms with reinforcement learning"
+   },
+   "source": "Nature",
+   "url": "https://doi.org/10.1038/s41586-022-05172-4",
+   "note": {
+    "en": "Silver co-authors the AlphaTensor paper, showing reinforcement learning can discover faster matrix multiplication algorithms than previously known.",
+    "zh": "Silver合著AlphaTensor论文，展示强化学习可以发现比已知算法更快的矩阵乘法算法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2022-06-30",
    "ts": null,
    "kind": "paper",
@@ -283,6 +302,25 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2022-04-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Deep learning, reinforcement learning, and world models",
+    "zh": "Deep learning, reinforcement learning, and world models"
+   },
+   "source": "Neural Networks",
+   "url": "https://doi.org/10.1016/j.neunet.2022.03.037",
+   "note": {
+    "en": "Silver co-authors a review with Yann LeCun and other leading researchers surveying deep learning, reinforcement learning and world models.",
+    "zh": "Silver与Yann LeCun等顶尖研究者合著一篇综述，探讨深度学习、强化学习与世界模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2021-10-25",
@@ -304,6 +342,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2021-10-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Applying and improving AlphaFold at CASP14",
+    "zh": "Applying and improving AlphaFold at CASP14"
+   },
+   "source": "Proteins Structure Function and Bioinf…",
+   "url": "https://doi.org/10.1002/prot.26257",
+   "note": {
+    "en": "Silver appears among the DeepMind authors of the paper detailing AlphaFold's performance at CASP14, reflecting cross-team contributions beyond his core reinforcement-learning work.",
+    "zh": "Silver出现在详述AlphaFold在CASP14表现的论文的DeepMind作者名单中，体现了他在核心强化学习工作之外的跨团队贡献。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2021-09-09",
    "ts": null,
    "kind": "paper",
@@ -321,6 +378,25 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2021-09-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Author response for \"Applying and improving AlphaFold at CASP14\"",
+    "zh": "Author response for \"Applying and improving AlphaFold at CASP14\""
+   },
+   "source": "OpenAlex",
+   "url": "https://doi.org/10.1002/prot.26257/v2/response1",
+   "note": {
+    "en": "A formal author response accompanying the AlphaFold CASP14 paper, on which Silver is a co-author.",
+    "zh": "这是AlphaFold CASP14论文的正式作者回应，Silver是该论文的合著者之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2021-06-24",
@@ -674,6 +750,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-13",
+   "ts": "2026-10-13T13:53:35Z",
+   "level": "notable",
+   "title": {
+    "en": "David Silver and Lasse Espeholt of Ineffable Intelligence: A Superlearner for the Age of Experience｜Sequoia Capital",
+    "zh": "David Silver and Lasse Espeholt of Ineffable Intelligence: A Superlearner for the Age of Experience｜Sequoia Capital"
+   },
+   "body": {
+    "en": "Sequoia Capital published a feature on Silver and co-founder Lasse Espeholt laying out their 'age of experience' thesis for self-learning superintelligence at Ineffable Intelligence.",
+    "zh": "红杉资本发表了一篇专题报道，介绍Silver与联合创始人Lasse Espeholt在Ineffable Intelligence提出的自我学习超级智能'经验时代'理论。"
+   },
+   "source": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OWkw4bWFXZHpIcER0cjVzZ01SRWJlbU1TM1VlX3BVbmpLSno5d2EtOXlMY0E0bDRLRmV4eFU0bkNFdDBSVHEyd2lQd1VCc1RvVzlPOGJwVXV3NEg0bWhn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-09",
    "ts": "2026-10-09T11:30:08Z",
    "level": "notable",
@@ -810,6 +903,23 @@
    "judged": true
   },
   {
+   "date": "2026-04-28",
+   "ts": "2026-04-28T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Ex-DeepMind Researcher David Silver's Ineffable Intelligence Raises $1.1B Seed Funding",
+    "zh": "Ex-DeepMind Researcher David Silver's Ineffable Intelligence Raises $1.1B Seed Funding"
+   },
+   "body": {
+    "en": "Silver's AI research company Ineffable Intelligence raised a $1.1 billion seed round, one of the largest seed rounds ever for an AI lab.",
+    "zh": "David Silver创立的AI研究公司Ineffable Intelligence完成了11亿美元种子轮融资，是迄今为止AI实验室获得的最大种子轮融资之一。"
+   },
+   "source": "MLQ.ai",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa2s5ZnR1aFlNMTNsNmxQdkt2TzZSVWMwMW5kNl94LVdoN2hWMnc3cl9GaDdOR3M4Qm5XQ3FoT04yY1d0NmlOZl9ETnJxem9IZGp2YnZ2QjdIVmRQMEtZRUUxQmt4N0hFcGU1b3pWVnZjTnZXcjBqdmhUcmU1dmU4OGhHbzFTUzBSLWppTzVjbHFUbENDbDJiMWFYd1llZUU3emZzSU5jcUx6MHBFaXYteg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-04-27",
    "ts": null,
    "level": "major",
@@ -868,16 +978,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 46.2,
+  "total": 47.1,
   "attention": 39,
   "centrality": 47,
-  "momentum": 44,
+  "momentum": 48,
   "stature": 80,
   "pageviews": 52977,
   "citations": 166819,
   "hIndex": 76,
-  "events": 14,
-  "posts": 26,
+  "events": 16,
+  "posts": 30,
   "wikiEn": "David Silver (computer scientist)",
   "wikiZh": "戴維·西爾弗"
  },

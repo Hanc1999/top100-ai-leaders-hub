@@ -1019,6 +1019,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2023-06-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Faster sorting algorithms discovered using deep reinforcement learning",
+    "zh": "Faster sorting algorithms discovered using deep reinforcement learning"
+   },
+   "source": "Nature",
+   "url": "https://doi.org/10.1038/s41586-023-06004-9",
+   "note": {
+    "en": "Oriol Vinyals co-authors DeepMind's AlphaDev work, which used deep reinforcement learning to discover faster sorting algorithms, published in Nature.",
+    "zh": "Oriol Vinyals合著DeepMind的AlphaDev论文，利用深度强化学习发现更快的排序算法，发表于《自然》杂志。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2023-05-11",
    "ts": null,
    "kind": "paper",
@@ -1429,7 +1448,7 @@
   "citations": 175805,
   "hIndex": 95,
   "events": 2,
-  "posts": 66,
+  "posts": 67,
   "wikiEn": "Oriol Vinyals",
   "wikiZh": "奧里奧爾·維尼亞爾斯"
  },

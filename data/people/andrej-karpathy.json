@@ -1,5 +1,5 @@
 {
- "rank": 26,
+ "rank": 27,
  "id": "andrej-karpathy",
  "name": {
   "en": "Andrej Karpathy",
@@ -257,6 +257,25 @@
    "judged": true,
    "platform": "apple-podcasts",
    "connector": "podcasts"
+  },
+  {
+   "date": "2026-03-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "autoresearch: AI agents running research on single-GPU nanochat training automatically",
+    "zh": "autoresearch: AI agents running research on single-GPU nanochat training automatically"
+   },
+   "source": "Zenodo (CERN European Organization for…",
+   "url": "https://doi.org/10.5281/zenodo.19720176",
+   "note": {
+    "en": "Tool built around Karpathy's nanochat project that lets AI agents run single-GPU LLM training research automatically.",
+    "zh": "基于Karpathy的nanochat项目构建的工具，让AI代理能够在单GPU上自动运行大模型训练研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2026-02-12",
@@ -1395,7 +1414,7 @@
   "citations": 58963,
   "hIndex": 20,
   "events": 27,
-  "posts": 40,
+  "posts": 41,
   "wikiEn": "Andrej Karpathy",
   "wikiZh": "安德烈·卡帕西"
  },

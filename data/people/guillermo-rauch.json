@@ -792,6 +792,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2025-06-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Guillermo Rauch: Why Software Development Will Never Be the Same",
+    "zh": "Guillermo Rauch: Why Software Development Will Never Be the Same"
+   },
+   "source": "The MAD Podcast with Matt Turck",
+   "url": "https://podcasts.apple.com/us/podcast/guillermo-rauch-why-software-development-will-never/id1686238724?i=1000714655274&uo=4",
+   "note": {
+    "en": "Guillermo Rauch is the guest on The MAD Podcast, discussing how Vercel's v0 text-to-app platform has generated over 100 million apps and doubled Vercel's user base in under a year.",
+    "zh": "Guillermo Rauch作为嘉宾做客The MAD Podcast，谈到Vercel的文本生成应用平台v0已生成超过1亿个应用，并在不到一年内让Vercel用户数翻倍。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2025-04-13",
    "ts": null,
    "kind": "podcast",
@@ -1164,16 +1183,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 37.4,
+  "total": 36.9,
   "attention": null,
   "centrality": 36,
-  "momentum": 39,
+  "momentum": 38,
   "stature": null,
   "pageviews": 0,
   "citations": 9,
   "hIndex": 1,
   "events": 7,
-  "posts": 49,
+  "posts": 50,
   "wikiEn": null,
   "wikiZh": null
  },

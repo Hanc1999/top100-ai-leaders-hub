@@ -1,5 +1,5 @@
 {
- "rank": 50,
+ "rank": 52,
  "id": "jiang-daxin",
  "name": {
   "en": "Jiang Daxin",
@@ -989,6 +989,25 @@
    "judged": true,
    "platform": "openalex",
    "connector": "openalex"
+  },
+  {
+   "date": "2025-06-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Predictable Scale: Part II, Farseer: A Refined Scaling Law in Large Language Models",
+    "zh": "Predictable Scale: Part II, Farseer: A Refined Scaling Law in Large Language Models"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "http://arxiv.org/abs/2506.10972",
+   "note": {
+    "en": "Jiang co-authored Farseer, a refined scaling law for predicting large language model performance from smaller-scale experiments.",
+    "zh": "姜大昕参与撰写的Farseer论文提出了一种改进的扩展定律，可通过小规模实验预测大语言模型的性能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   }
  ],
  "news": [
@@ -1181,16 +1200,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 46.9,
+  "total": 46.2,
   "attention": null,
   "centrality": 55,
-  "momentum": 51,
+  "momentum": 49,
   "stature": 17,
   "pageviews": 0,
   "citations": 12459,
   "hIndex": 45,
   "events": 11,
-  "posts": 43,
+  "posts": 44,
   "wikiEn": null,
   "wikiZh": null
  },

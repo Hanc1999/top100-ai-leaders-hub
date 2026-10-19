@@ -973,6 +973,25 @@
    "connector": "backfill"
   },
   {
+   "date": "2026-05-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SmartAlert: Integrating Machine Learning and Alert Triggers into Live Electronic Medical Record Systems, Targeting Low-Yield Inpatient Lab Tests",
+    "zh": "SmartAlert: Integrating Machine Learning and Alert Triggers into Live Electronic Medical Record Systems, Targeting Low-Yield Inpatient Lab Tests"
+   },
+   "source": "medRxiv",
+   "url": "https://doi.org/10.64898/2026.04.29.26351965",
+   "note": {
+    "en": "Stanford clinical-ML paper co-authored by Ng on using alert triggers in live electronic medical record systems to flag low-value inpatient lab tests.",
+    "zh": "斯坦福临床机器学习论文（吴恩达为合著者），研究在实时电子病历系统中用警报机制识别低价值的住院化验检测。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-05-05",
    "ts": null,
    "kind": "x",
@@ -1218,6 +1237,25 @@
    "judged": true,
    "platform": "x",
    "connector": "backfill"
+  },
+  {
+   "date": "2026-02-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "MEthane Tracking Emissions Reference (METER): A global database of methane-emitting infrastructure",
+    "zh": "MEthane Tracking Emissions Reference (METER): A global database of methane-emitting infrastructure"
+   },
+   "source": "Earth System Science Data Discussions",
+   "url": "https://doi.org/10.5194/essd-2026-124",
+   "note": {
+    "en": "Paper co-authored by Ng building METER, a global database of methane-emitting infrastructure for emissions tracking.",
+    "zh": "吴恩达合著的论文，建立了用于追踪甲烷排放的全球基础设施数据库METER。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2026-02-23",
@@ -1695,6 +1733,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2024-04-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Automatic deforestation driver attribution using deep learning on satellite imagery",
+    "zh": "Automatic deforestation driver attribution using deep learning on satellite imagery"
+   },
+   "source": "Global Environmental Change",
+   "url": "https://doi.org/10.1016/j.gloenvcha.2024.102843",
+   "note": {
+    "en": "Paper co-authored by Ng applying deep learning to satellite imagery to automatically attribute the causes of deforestation.",
+    "zh": "吴恩达合著的论文，利用深度学习分析卫星图像以自动判定森林砍伐的成因。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2024-02-07",
    "ts": null,
    "kind": "podcast",
@@ -1752,6 +1809,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2024-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Right Patient, Right Specialist, Right Time: Retrieval Augmented Generation for Specialty Referral Routing.",
+    "zh": "Right Patient, Right Specialist, Right Time: Retrieval Augmented Generation for Specialty Referral Routing."
+   },
+   "source": "PubMed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41726438",
+   "note": {
+    "en": "Paper co-authored by Ng using retrieval-augmented generation to route patients to the right specialist at the right time.",
+    "zh": "吴恩达合著的论文，利用检索增强生成技术为患者匹配合适的专科医生和就诊时机。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2023-12-02",
    "ts": null,
    "kind": "paper",
@@ -1788,6 +1864,25 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2023-12-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "VetLLM: Large Language Model for Predicting Diagnosis from Veterinary Notes",
+    "zh": "VetLLM: Large Language Model for Predicting Diagnosis from Veterinary Notes"
+   },
+   "source": "Pacific Symposium on Biocomputing (PSB)",
+   "url": "http://dx.doi.org/10.1142/9789811286421_0010",
+   "note": {
+    "en": "Paper co-authored by Ng on an LLM that predicts diagnoses from veterinary clinical notes.",
+    "zh": "吴恩达合著的论文，研究利用大语言模型根据兽医临床记录预测诊断结果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2023-11-29",
@@ -1847,6 +1942,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2023-08-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Evaluating progress in automatic chest X-ray radiology report generation",
+    "zh": "Evaluating progress in automatic chest X-ray radiology report generation"
+   },
+   "source": "Patterns",
+   "url": "https://doi.org/10.1016/j.patter.2023.100802",
+   "note": {
+    "en": "Paper co-authored by Ng evaluating progress in automatically generating radiology reports from chest X-rays.",
+    "zh": "吴恩达合著的论文，评估了根据胸部X光片自动生成放射学报告的技术进展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2023-05-13",
    "ts": null,
    "kind": "paper",
@@ -1883,6 +1997,44 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2023-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Probabilistic Prediction of Laboratory Test Information Yield.",
+    "zh": "Probabilistic Prediction of Laboratory Test Information Yield."
+   },
+   "source": "PubMed",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38222438",
+   "note": {
+    "en": "Paper co-authored by Ng modeling the probability that a given lab test will yield clinically useful information.",
+    "zh": "吴恩达合著的论文，为化验检测能否产生临床有用信息建立了概率预测模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2022-11-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Improving debris flow evacuation alerts in Taiwan using machine learning",
+    "zh": "Improving debris flow evacuation alerts in Taiwan using machine learning"
+   },
+   "source": "Research Square",
+   "url": "https://doi.org/10.21203/rs.3.rs-2235385/v1",
+   "note": {
+    "en": "Paper co-authored by Ng using machine learning to improve debris-flow evacuation alerts in Taiwan.",
+    "zh": "吴恩达合著的论文，利用机器学习改进台湾地区的泥石流疏散预警系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2021-08-26",
@@ -2965,6 +3117,23 @@
    "judged": true
   },
   {
+   "date": "2026-08-04",
+   "ts": "2026-08-04T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "吴恩达：我几年前绝对猜不到，美国顶尖AI团队现在要读中国论文、学中国技术",
+    "zh": "吴恩达：我几年前绝对猜不到，美国顶尖AI团队现在要读中国论文、学中国技术"
+   },
+   "body": {
+    "en": "Ng said he didn't expect top US AI teams to now be reading Chinese papers and learning from Chinese techniques, remarking on a shift in technical influence between the US and China.",
+    "zh": "吴恩达表示，他没想到美国顶尖AI团队现在会去读中国论文、学中国技术，谈及中美之间技术影响力的转变。"
+   },
+   "source": "ThePaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsN0lWWjJpM29qWWxrSFEweDhBczFvT3pXU1N5M2pobjQwUVNWMEVOb3hPbndTa1FxWE1IcGtKYlJieldrY2xrdEREcS1SWEFOY1RsNjlUQ3E0VG1US3RKcw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-08-03",
    "ts": "2026-08-03T07:00:00Z",
    "level": "major",
@@ -3711,8 +3880,8 @@
   "pageviews": 337525,
   "citations": 131102,
   "hIndex": 124,
-  "events": 93,
-  "posts": 102,
+  "events": 94,
+  "posts": 110,
   "wikiEn": "Andrew Ng",
   "wikiZh": "吴恩达"
  },

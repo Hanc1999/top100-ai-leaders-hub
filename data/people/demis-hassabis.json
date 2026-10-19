@@ -293,6 +293,25 @@
    "connector": null
   },
   {
+   "date": "2026-10-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Designing enzymes for new-to-nature chemistry and non-natural substrates with AlphaProtein Novo",
+    "zh": "Designing enzymes for new-to-nature chemistry and non-natural substrates with AlphaProtein Novo"
+   },
+   "source": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "url": "https://doi.org/10.64898/2026.10.01.756017",
+   "note": {
+    "en": "Hassabis co-authors a DeepMind bioRxiv paper introducing AlphaProtein Novo, a model for designing enzymes for new-to-nature chemistry and non-natural substrates.",
+    "zh": "Hassabis合著DeepMind的一篇bioRxiv论文，介绍AlphaProtein Novo模型，用于设计可催化全新化学反应及非天然底物的酶。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-09-30",
    "ts": "2026-09-30T17:27:07Z",
    "kind": "x",
@@ -2709,16 +2728,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 87.5,
+  "total": 87.0,
   "attention": 89,
   "centrality": 96,
-  "momentum": 73,
+  "momentum": 71,
   "stature": 90,
   "pageviews": 1121478,
   "citations": 195503,
   "hIndex": 92,
   "events": 38,
-  "posts": 101,
+  "posts": 102,
   "wikiEn": "Demis Hassabis",
   "wikiZh": "杰米斯·哈萨比斯"
  },

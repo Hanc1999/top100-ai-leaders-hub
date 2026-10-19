@@ -411,6 +411,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2024-06-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Explaining neural scaling laws",
+    "zh": "Explaining neural scaling laws"
+   },
+   "source": "Proceedings of the National Academy of…",
+   "url": "https://doi.org/10.1073/pnas.2311878121",
+   "note": {
+    "en": "A PNAS paper offering a theoretical account of why neural scaling laws hold, following up on Kaplan's original empirical scaling-laws work.",
+    "zh": "发表于PNAS的论文，为神经网络扩展定律的成立提供了理论解释，是Kaplan最初扩展定律实证研究的后续工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2024-06-14",
    "ts": null,
    "kind": "paper",
@@ -447,6 +466,44 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2024-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Many-shot Jailbreaking",
+    "zh": "Many-shot Jailbreaking"
+   },
+   "source": "neural information processing systems",
+   "url": "https://doi.org/10.52202/079017-4121",
+   "note": {
+    "en": "NeurIPS paper on many-shot jailbreaking, showing long-context prompting can bypass safety training that holds up against short prompts.",
+    "zh": "发表于NeurIPS的论文，展示了长上下文的多样本提示方式可以绕过在短提示下有效的安全训练。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2024-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Strings2024 Conference",
+    "zh": "Strings2024 Conference"
+   },
+   "source": "CERN Document Server (European Organiz…",
+   "url": "http://cds.cern.ch/record/2900042",
+   "note": {
+    "en": "Kaplan gave an invited talk at the Strings 2024 physics conference at CERN, arguing AI progress could reach human level by 2030 — a rare crossover between his string-theory background and his current work.",
+    "zh": "Kaplan在CERN举办的Strings 2024物理会议上应邀演讲，提出AI可能在2030年达到人类水平——这是他弦理论背景与当前工作罕见的交叉。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2023-12-06",
@@ -717,6 +774,23 @@
  ],
  "news": [
   {
+   "date": "2026-10-09",
+   "ts": null,
+   "level": "minor",
+   "title": {
+    "en": "Recipient of the 2026 Alumni Trailblazer Award",
+    "zh": "Recipient of the 2026 Alumni Trailblazer Award"
+   },
+   "body": {
+    "en": "Kaplan's alma mater, the Illinois Mathematics and Science Academy, named him a 2026 Alumni Trailblazer for his scaling-laws research and work on Constitutional AI at Anthropic.",
+    "zh": "Kaplan的母校伊利诺伊数学与科学学院因其在扩展定律研究和Anthropic宪法式AI方面的工作，授予他2026年校友开拓者奖。"
+   },
+   "source": "DigitalCommons-IMSA (Illinois Mathemat…",
+   "url": "https://digitalcommons.imsa.edu/alumni_trailblazer/11",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-23",
    "ts": "2026-09-23T11:01:21Z",
    "level": "notable",
@@ -766,8 +840,8 @@
   "pageviews": 140648,
   "citations": 12394,
   "hIndex": 41,
-  "events": 2,
-  "posts": 31,
+  "events": 3,
+  "posts": 34,
   "wikiEn": "Jared Kaplan",
   "wikiZh": null
  },

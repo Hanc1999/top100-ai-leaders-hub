@@ -671,6 +671,25 @@
    "judged": true,
    "platform": "openalex",
    "connector": "openalex"
+  },
+  {
+   "date": "2005-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Video Completion with Motion Inpainting for Video Stabilization",
+    "zh": "Video Completion with Motion Inpainting for Video Stabilization"
+   },
+   "source": "OpenAlex",
+   "url": "https://research.microsoft.com/apps/pubs/default.aspx?id=149322",
+   "note": {
+    "en": "Shum co-authored this Microsoft Research paper on motion inpainting for video stabilization, from his years leading computer vision work at MSR.",
+    "zh": "沈向洋与人合作撰写了这篇微软研究院论文,研究用于视频稳定的运动修补技术,出自他在微软研究院领导计算机视觉研究期间的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   }
  ],
  "news": [
@@ -756,7 +775,7 @@
   "citations": 1500,
   "hIndex": 10,
   "events": 4,
-  "posts": 26,
+  "posts": 27,
   "wikiEn": "Harry Shum",
   "wikiZh": "沈向洋"
  },

@@ -188,6 +188,44 @@
    "connector": null
   },
   {
+   "date": "2026-10-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GCAM-Gym: A Benchmark for Agent-Based Climate Policy Search",
+    "zh": "GCAM-Gym: A Benchmark for Agent-Based Climate Policy Search"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.23569v1",
+   "note": {
+    "en": "A paper with Mila colleague Irina Rish introducing GCAM-Gym, a Gymnasium-compatible benchmark for evaluating agent-based climate policy search methods.",
+    "zh": "与Mila同事Irina Rish合著的论文，提出GCAM-Gym——一个兼容Gymnasium的基准，用于评估基于智能体的气候政策搜索方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-10-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Evaluating Predictor-Corrector Dependence in Hard-Constrained Climate Emulators",
+    "zh": "Evaluating Predictor-Corrector Dependence in Hard-Constrained Climate Emulators"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.23561v1",
+   "note": {
+    "en": "A paper with the same Mila group evaluating how predictor-corrector designs in constrained climate emulators trade off forecast skill against physical-constraint satisfaction.",
+    "zh": "与同一Mila团队合著的论文，评估在施加物理约束的气候仿真模型中，预测-校正设计如何在预测精度与约束满足之间做出权衡。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-14",
    "ts": null,
    "kind": "paper",
@@ -1898,44 +1936,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2026-03-14",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Noticing the Watcher: LLM Agents Can Infer CoT Monitoring from Blocking Feedback",
-    "zh": "Noticing the Watcher: LLM Agents Can Infer CoT Monitoring from Blocking Feedback"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2603.16928v1",
-   "note": {
-    "en": "Shows that LLM agents can work out they are under chain-of-thought monitoring purely from being blocked, which weakens CoT monitoring as an oversight method.",
-    "zh": "证明大模型智能体仅凭行动被拦截就能推断出自己正处于思维链监控之下，这削弱了思维链监控作为监督手段的可靠性。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-03-14",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Leveraging Differentiable Climate-Economy Models for Hybrid Modeling and Inverse Problems",
-    "zh": "Leveraging Differentiable Climate-Economy Models for Hybrid Modeling and Inverse Problems"
-   },
-   "source": "OpenAlex",
-   "url": "https://doi.org/10.5194/egusphere-egu26-11690",
-   "note": {
-    "en": "Contributed to an EGU General Assembly paper on differentiable climate-economy models for hybrid modeling and inverse problems, part of his climate-AI research line.",
-    "zh": "参与欧洲地球科学联合会大会论文，研究用于混合建模与逆问题求解的可微分气候-经济模型，属于其气候AI研究方向。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
    "date": "2026-02-26",
    "ts": null,
    "kind": "podcast",
@@ -2325,6 +2325,23 @@
    },
    "source": "Euronews",
    "url": "https://www.euronews.com/next/2025/06/04/godfather-of-ai-yoshua-bengio-launches-non-profit-to-make-ai-safer-and-more-trustworthy"
+  },
+  {
+   "date": "2026-10-19",
+   "ts": "2026-10-19T20:04:20Z",
+   "level": "notable",
+   "title": {
+    "en": "Yoshua Bengio and Geoffrey Hinton Call for A.I. Safeguards. Enterprise Buyers Can Help Enforce Them.",
+    "zh": "Yoshua Bengio and Geoffrey Hinton Call for A.I. Safeguards. Enterprise Buyers Can Help Enforce Them."
+   },
+   "body": {
+    "en": "Bengio and Hinton jointly called for AI safeguards, urging enterprise buyers to help enforce them, consistent with Bengio's role steering global AI safety governance.",
+    "zh": "本吉奥与辛顿联合呼吁建立AI安全防护措施，并敦促企业采购方协助执行，呼应了本吉奥在全球AI安全治理方面的角色。"
+   },
+   "source": "Observer",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHQkdad1NldVlCS0FFZlhQTFRxQVdXZW1YNmo0QTJfdTVrMmlGWG56aXgwV2hJV0tHejZTQjlXOUZrZ1FBT0owaDR4RXptUGRjZUlEMzhDU2RiODJORVZERUFQbS04MmlyRmlMT1o5azcycE1fSXc?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-13",
@@ -3379,7 +3396,7 @@
   "pageviews": 276660,
   "citations": 475043,
   "hIndex": 184,
-  "events": 63,
+  "events": 64,
   "posts": 113,
   "wikiEn": "Yoshua Bengio",
   "wikiZh": "约书亚·本希奥"

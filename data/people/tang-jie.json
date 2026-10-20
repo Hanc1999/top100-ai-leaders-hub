@@ -217,6 +217,25 @@
    }
   },
   {
+   "date": "2026-10-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "WebCoder: Scaling General Frontend Development with Artifact-Grounded Agentic Reinforcement Learning",
+    "zh": "WebCoder: Scaling General Frontend Development with Artifact-Grounded Agentic Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.23104v1",
+   "note": {
+    "en": "A paper co-authored with GLM collaborator Aohan Zeng introducing WebCoder, an agentic reinforcement-learning framework for scaling general frontend web development.",
+    "zh": "与GLM团队合作者曾奥涵合著的论文，提出WebCoder——一个用于规模化通用前端开发的、基于人工制品的智能体强化学习框架。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-15",
    "ts": null,
    "kind": "paper",
@@ -1626,6 +1645,23 @@
    },
    "source": "新浪网",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SVnI4ZHloeXp4Wl9RUmxDN19pNWpFZ0kwUEdLZDFFVnlabTBocXZVNXQ1dV9NbWVVOUlOcnRyc3VkQWFtdGJyTlBSa2NhZ3pycXRwMnppeXgxZ1ExT2ZfaG82N3o1c05Fa0llUXRFTlhuSE0?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-17",
+   "ts": "2026-10-17T06:40:00Z",
+   "level": "notable",
+   "title": {
+    "en": "智谱唐杰：以前AI从数据中学习，现在AI要向人类学习",
+    "zh": "智谱唐杰：以前AI从数据中学习，现在AI要向人类学习"
+   },
+   "body": {
+    "en": "Tang Jie argued AI's learning paradigm is shifting: it used to learn from data, now it needs to learn from humans.",
+    "zh": "唐杰提出AI的学习范式正在转变：以前AI从数据中学习，现在需要向人类学习。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00LThvZ1dQUW1UR05oQkZLcGZCMzU3MXlVMFhtbmtJMEcweDlPUUR0aVRLdkd0QU1FM3F3eHlmLWJNY29zb0NpZHpHN2VuV25RdGIxWURSVmJHWnBvalJrdFhjQ3ZvY1JWQ29jWGl1VQ?oc=5",
    "auto": true,
    "judged": true
   },
@@ -3583,8 +3619,8 @@
   "pageviews": 0,
   "citations": 30390,
   "hIndex": 83,
-  "events": 118,
-  "posts": 72,
+  "events": 119,
+  "posts": 73,
   "wikiEn": null,
   "wikiZh": null
  },

@@ -188,6 +188,25 @@
    "connector": null
   },
   {
+   "date": "2026-10-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Towards Looped Models Done Right, Part I: Topology, Input Injection, Recurrent-State Design",
+    "zh": "Towards Looped Models Done Right, Part I: Topology, Input Injection, Recurrent-State Design"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.23036v1",
+   "note": {
+    "en": "Xing co-authored a paper on 'looped' transformer architectures, disentangling recurrence placement, input injection and recurrent-state design to improve depth reuse in language models.",
+    "zh": "邢波合作撰写了一篇关于“循环”Transformer架构的论文,厘清了循环位置、输入注入与循环状态设计之间的关系,以改进语言模型的深度复用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-13",
    "ts": null,
    "kind": "paper",
@@ -1724,6 +1743,23 @@
    "url": "https://mbzuai.ac.ae/news/"
   },
   {
+   "date": "2026-08-20",
+   "ts": "2026-08-20T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "邢波/宋乐提出“AI数字生命体”，推动生命的可计算、可预测和可编程",
+    "zh": "邢波/宋乐提出“AI数字生命体”，推动生命的可计算、可预测和可编程"
+   },
+   "body": {
+    "en": "Eric Xing and Song Le proposed an \"AI digital life\" framework aimed at making biological life computable, predictable and programmable.",
+    "zh": "邢波与宋乐提出\"AI数字生命体\"框架，旨在推动生命的可计算、可预测和可编程。"
+   },
+   "source": "ThePaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41eGFQeGswbjBmR3FhdjBuQk91VzN3OWtCTGtwb3NqQVFTcHNORTd0LXhaY0Vid2VlQlNicC1nT1VjVGVFZnIwUGpITUlfRmp1bno2eEE5cHMtU1pDa1FOaQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-06-30",
    "ts": null,
    "level": "notable",
@@ -1756,8 +1792,8 @@
   "pageviews": 21312,
   "citations": 41656,
   "hIndex": 97,
-  "events": 2,
-  "posts": 82,
+  "events": 3,
+  "posts": 83,
   "wikiEn": "Eric Xing",
   "wikiZh": "邢波"
  },

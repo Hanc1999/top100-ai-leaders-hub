@@ -142,6 +142,25 @@
    }
   },
   {
+   "date": "2026-10-19",
+   "ts": "2026-10-19T13:05:44Z",
+   "kind": "x",
+   "title": {
+    "en": "I recently wrote about why we need to treat models as insider risks, with security controls sitting outside the model itself. Today, we're putting that principl",
+    "zh": "I recently wrote about why we need to treat models as insider risks, with security controls sitting outside the model itself. Today, we're putting that principl"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2112168320946634932",
+   "note": {
+    "en": "Nadella said Microsoft is expanding a program that treats AI models as insider risks, putting security controls outside the model itself rather than relying on the model to police itself.",
+    "zh": "纳德拉表示，微软正在扩展一项将AI模型视为\"内部风险\"的安全项目，将安全控制设置在模型外部，而非依赖模型自我约束。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-16",
    "ts": "2026-10-16T21:17:37Z",
    "kind": "x",
@@ -1149,25 +1168,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-04-27",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Agent Mode is here in Outlook! Copilot can now help run your inbox and calendar, triaging emails, rescheduling meetings, and helping you stay on top of what mat",
-    "zh": "Agent Mode is here in Outlook! Copilot can now help run your inbox and calendar, triaging emails, rescheduling meetings, and helping you stay on top of what mat"
-   },
-   "source": "@satyanadella",
-   "url": "https://x.com/satyanadella/status/2048882283164389661",
-   "note": {
-    "en": "Nadella announced Agent Mode in Outlook, letting Copilot triage emails and reschedule meetings automatically.",
-    "zh": "纳德拉宣布Outlook推出智能体模式,Copilot可自动分类邮件并调整会议安排。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
    "date": "2026-01-21",
    "ts": null,
    "kind": "podcast",
@@ -1500,6 +1500,23 @@
    },
    "source": "StartupHub",
    "url": "https://www.startuphub.ai/ai-news/ai-figures/2026/figure-satya-nadella-venture-portfolio-breakdown-2026-08-13"
+  },
+  {
+   "date": "2026-10-19",
+   "ts": "2026-10-19T22:50:06Z",
+   "level": "notable",
+   "title": {
+    "en": "Satya Nadella says every AI model should be treated as an insider threat",
+    "zh": "Satya Nadella says every AI model should be treated as an insider threat"
+   },
+   "body": {
+    "en": "Nadella said every AI model should be treated as a potential insider threat, a notable stance on Microsoft's approach to AI agent security.",
+    "zh": "纳德拉表示应将每个AI模型都视为潜在的内部威胁，这是微软在AI智能体安全方面值得关注的一个立场。"
+   },
+   "source": "Startup Fortune",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcEVzQ0VvQTYwU1hESjg0bFowRkVuS09uQUNYNUlKT2o0MGJIVzVVMTdqQ3FXMkxTdzRUb1FtUDJrTXN2Tjc3U3lYSHptUXdLdHhtOGtfNVVrNkt3a0xkOE5zWDZIOUtKTWZvOFVyTURYS3ZHTHktVEoybmE5cDhFaFlXWFdYMHRjMTJ0NnNHR2N5a1VRVFhRRDlLcmQwcEE4WFE?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-16",
@@ -3880,7 +3897,7 @@
   "pageviews": 828227,
   "citations": 231,
   "hIndex": 3,
-  "events": 141,
+  "events": 142,
   "posts": 72,
   "wikiEn": "Satya Nadella",
   "wikiZh": "薩蒂亞·納德拉"

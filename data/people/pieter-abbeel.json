@@ -183,6 +183,44 @@
    }
   },
   {
+   "date": "2026-10-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "StopWatch: Goal Grounding for Object-goal Navigation",
+    "zh": "StopWatch: Goal Grounding for Object-goal Navigation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.23841v1",
+   "note": {
+    "en": "Co-authored StopWatch, a paper improving goal grounding for VLM-based object-goal navigation policies in robots.",
+    "zh": "合著论文StopWatch，提升了基于视觉语言模型的物体目标导航策略中的目标定位能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-10-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scaling Online Exploration for Robot Agents",
+    "zh": "Scaling Online Exploration for Robot Agents"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.22496v1",
+   "note": {
+    "en": "Co-authored a paper on scaling online exploration for robot agents, reducing the need for dedicated teleoperation data when deploying new robot embodiments.",
+    "zh": "合著论文探讨如何扩展机器人智能体的在线探索能力，减少部署新机器人本体时对专门遥操作数据的依赖。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-06",
    "ts": null,
    "kind": "paper",
@@ -632,25 +670,6 @@
    "note": {
     "en": "Aligns fine-grained, force-sensitive manipulation such as peeling with a knife to human preference, targeting tasks robots still cannot do.",
     "zh": "将用刀削皮这类精细、对力敏感的操作与人类偏好对齐，瞄准机器人目前仍无法胜任的任务。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-03-01",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "D-REX: Differentiable Real-to-Sim-to-Real Engine for Learning Dexterous Grasping",
-    "zh": "D-REX: Differentiable Real-to-Sim-to-Real Engine for Learning Dexterous Grasping"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2603.01151v1",
-   "note": {
-    "en": "D-REX is a differentiable real-to-sim-to-real engine that narrows the simulation gap for learning dexterous grasping.",
-    "zh": "D-REX 是一个可微分的真实-仿真-真实引擎，用于缩小灵巧抓取学习中的仿真与现实差距。"
    },
    "auto": true,
    "judged": true,
@@ -1173,16 +1192,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 31.0,
+  "total": 31.2,
   "attention": 29,
   "centrality": 23,
-  "momentum": 25,
+  "momentum": 26,
   "stature": 73,
   "pageviews": 37345,
   "citations": 79473,
   "hIndex": 123,
   "events": 2,
-  "posts": 52,
+  "posts": 53,
   "wikiEn": "Pieter Abbeel",
   "wikiZh": "彼得·阿比爾"
  },

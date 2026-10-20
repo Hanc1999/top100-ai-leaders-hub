@@ -163,6 +163,44 @@
    }
   },
   {
+   "date": "2026-10-19",
+   "ts": "2026-10-19T19:24:33Z",
+   "kind": "x",
+   "title": {
+    "en": "We now have a platform for SFT &amp; RL. This is why open weight models are great",
+    "zh": "We now have a platform for SFT &amp; RL. This is why open weight models are great"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/2112263652070043733",
+   "note": {
+    "en": "Dao said Together AI now has a platform for SFT and RL, citing it as a concrete reason open-weight models are competitive.",
+    "zh": "Tri Dao表示Together AI现已拥有支持SFT和RL的平台，并以此作为开放权重模型具有竞争力的具体理由。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-19",
+   "ts": "2026-10-19T19:22:46Z",
+   "kind": "x",
+   "title": {
+    "en": "I’ve often wanted to pair a smart orchestrator / architect model with a super fast worker model. Diffusion LLM could fill the worker role",
+    "zh": "I’ve often wanted to pair a smart orchestrator / architect model with a super fast worker model. Diffusion LLM could fill the worker role"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/2112263206085554392",
+   "note": {
+    "en": "Dao floated pairing a smart orchestrator/architect model with a fast diffusion LLM worker model, a concrete architecture idea for agent systems.",
+    "zh": "Tri Dao提出将智能的编排/架构模型与快速的扩散语言模型（worker模型）搭配使用，为智能体系统提供了一个具体的架构思路。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-14",
    "ts": "2026-10-14T22:43:49Z",
    "kind": "x",
@@ -1620,7 +1658,7 @@
   "citations": 2310,
   "hIndex": 17,
   "events": 1,
-  "posts": 76,
+  "posts": 78,
   "wikiEn": null,
   "wikiZh": null
  },

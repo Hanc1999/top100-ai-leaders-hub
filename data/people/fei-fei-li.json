@@ -219,6 +219,25 @@
    }
   },
   {
+   "date": "2026-10-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "A Language-Informed Loss for Visual Generation",
+    "zh": "A Language-Informed Loss for Visual Generation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.23653v1",
+   "note": {
+    "en": "Li co-authored a paper studying whether language-informed supervision can improve pixel-space visual generation without relying on learned image tokenizers.",
+    "zh": "李飞飞合作撰写了一篇论文,研究语言引导的监督信号能否在不依赖学习型图像分词器的情况下改进像素空间的视觉生成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-15",
    "ts": null,
    "kind": "paper",
@@ -1357,25 +1376,6 @@
    "judged": true,
    "platform": "x",
    "connector": "backfill"
-  },
-  {
-   "date": "2026-02-04",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Theory of Space: Can Foundation Models Construct Spatial Beliefs through Active Exploration?",
-    "zh": "Theory of Space: Can Foundation Models Construct Spatial Beliefs through Active Exploration?"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2602.07055v1",
-   "note": {
-    "en": "Asks whether foundation models can build spatial beliefs through active exploration under partial observability.",
-    "zh": "考察基础模型能否在部分可观测条件下通过主动探索建立空间信念。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
   },
   {
    "date": "2026-01-29",
@@ -2535,6 +2535,40 @@
    "judged": true
   },
   {
+   "date": "2026-10-11",
+   "ts": "2026-10-11T03:40:00Z",
+   "level": "notable",
+   "title": {
+    "en": "AI教母李飞飞泼冷水：人形机器人融了60亿美元，连快递都不会",
+    "zh": "AI教母李飞飞泼冷水：人形机器人融了60亿美元，连快递都不会"
+   },
+   "body": {
+    "en": "Li publicly cautioned that humanoid robotics has absorbed $6B in funding yet still can't handle basic delivery tasks, a skeptical public stance on the sector's hype.",
+    "zh": "李飞飞公开表示，人形机器人行业已融资60亿美元，却连基本的快递配送都做不到，对该领域的炒作持怀疑态度。"
+   },
+   "source": "腾讯新闻",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JMUZFbE8tRGNPaGpOSlJQTDByM3NKVmc3MFpVYm5mU2RiNzVsTGtiTFBVWXo0SERnN3BySlE4MGdpMWpnbUR4MnlaLUFrOWxOQlNfQWpn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-10",
+   "ts": "2026-10-10T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李飞飞：从2D到3D还原世界：人工智能的北极星：空间智能",
+    "zh": "李飞飞：从2D到3D还原世界：人工智能的北极星：空间智能"
+   },
+   "body": {
+    "en": "Fei-Fei Li laid out spatial intelligence — rebuilding a 3D world model from 2D input — as AI's 'north star,' the thesis behind her work at World Labs.",
+    "zh": "李飞飞提出“空间智能”（从2D输入重建3D世界模型）是人工智能的“北极星”，这也是她在World Labs工作的核心理念。"
+   },
+   "source": "手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWldrUWtsX3RlZUpTYkJfaklzRTNFRE83eUxrNWZRZTExRmF1eGZ4VVdzWFczWlh4bWZNR1FocVVvR240ZlQwMS1QWHFmV1IxT3BkUnFwWVZGV2V1TGc4cEVpVzFmaVlVSnNuZFU1aThkamJhV0E1WXppSjZWVUMzQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-09",
    "ts": "2026-10-09T12:30:00Z",
    "level": "major",
@@ -2790,6 +2824,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-05",
+   "ts": "2026-10-05T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "2026-10-05 《天地．人》∶李飞飞将加盟AMD 冀「AI教母」 称谓启发女性",
+    "zh": "2026-10-05 《天地．人》∶李飞飞将加盟AMD 冀「AI教母」 称谓启发女性"
+   },
+   "body": {
+    "en": "Reports say Fei-Fei Li is joining AMD, a move framed in coverage as inspiring more women into AI leadership roles.",
+    "zh": "报道称李飞飞将加盟AMD，此举被称为将激励更多女性投身AI领导岗位。"
+   },
+   "source": "RTHK",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPem15NGJId0hYdG41YkNPX0R4dlJjQnB6Mm5xc21FZEpNUFd2dmJzeWQzZUpKVU5DUGxTQWhIX3JYTExSb1FIaG9aYzhjQVdicDRDNGtiLWhLZkJiSFNhZm1iNS1QX012empsdi1NMUJsRVV3RzFZckpET0Jva2VtOFd5a0t4UEoyMTlCQnVqaVpFM3V6eG5zUTRBRE5KMW8zRVlxZjlkdjV0N0lzTWE4cUtDQVlvZXdFV2ppZWcySUVUVUpRYVYtcjRzUHdKcGY2?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-04",
    "ts": "2026-10-04T01:06:48Z",
    "level": "notable",
@@ -3041,6 +3092,23 @@
    },
    "source": "QQ News",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IUVJuYnNlRVdLVTZWOVZvMlJCZmRBc05KTEVrTFFBTVZSWDFwNWtudHkwN2ZhUFdNQXVKbVVPNTRhX0RGYzhGY25zMG9COGEtZXpFcnNB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-04",
+   "ts": "2026-10-04T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "苏姿丰与李飞飞",
+    "zh": "苏姿丰与李飞飞"
+   },
+   "body": {
+    "en": "This ThePaper.cn piece covers AMD's $8.2B acquisition of Fei-Fei Li's World Labs, after which she becomes AMD's EVP & Chief Scientist reporting to CEO Lisa Su — a role change from founder/CEO.",
+    "zh": "澎湃新闻报道AMD以82亿美元收购李飞飞创立的World Labs，交易完成后她将担任AMD执行副总裁兼首席科学家，向CEO苏姿丰汇报——这是她从创始人兼CEO身份发生的职务变动。"
+   },
+   "source": "ThePaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pWEc3UjVwazA4YWlkMjJDMWZPbVpzN2x1UGZ4Z1RDUzJkci1Bd2RLNjl2UFFGU1hTY1ZxQU1xeGZubUFHd3ZLa1pFNGFGUTR4LUFueS1fMlVaeko0WF9WVg?oc=5",
    "auto": true,
    "judged": true
   },
@@ -3925,6 +3993,23 @@
    },
    "source": "finance.sina.com.cn",
    "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxPdlk4OFQ4bk9GWTBrSzJtYzZkT01WSkhaOWh0UWI5aHFUTnU5MG13M1B6NktRZG9MejZnUjdsMFg3ZWlfV1ZfWkwxVmY4dVF1WXB4YjY2WVJNakJoX1V3SmtLNUlPNHhQRDAwamNaRHZCS3g5OU80SGpURWdZdFZ3dDZtRlBLUUhwV19zWXBNdS14cjA4bm1XcUc4aVVTNWM0MkxubWNQcUdiVjdZbEtiSXEtbjdjMmk2bmZhY0l2UmdGTGx1Unp0Y09mWFhpM0NpaEI1QTRQWGNLbTVfQUNEZ0hIMDBLOFp1R2syc0hlNjVLcURIamZ4M243MTl2WXRTWm9XV1FSckJQenl0VVhVQ0tlMGRULXJNVnY5T1ZPNUJNblFmSnpMX1F4TDZRMzVsSmJzRTRQS1hGaFBuYVd2UjhVNzE1RDRXWDVKSnlabDY5QU1lVUVKbnJuRU5KWGVHVUM0bDE0YmF6US1hNWwtbVdWMnBCSS0wU1BYMDFsdF9oQk94YUJlLWplaFpsdExCNmJFSWVrNUVSNmdXQmRjQ21R?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-30",
+   "ts": "2026-09-30T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "AMD重磅宣布，550亿买下李飞飞公司",
+    "zh": "AMD重磅宣布，550亿买下李飞飞公司"
+   },
+   "body": {
+    "en": "AMD acquired Fei-Fei Li's World Labs for roughly ¥55 billion (~$7-8B), folding her spatial-intelligence startup into AMD as she joins as chief scientist.",
+    "zh": "AMD以约550亿元人民币（约合70-80亿美元）收购李飞飞的World Labs，将其空间智能初创公司并入AMD，她本人加入出任首席科学家。"
+   },
+   "source": "ThePaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sX0NvNDJHZXl5bC1SM3UzbmJILXh5UzY4T2J6SmJNcGpiVm1oX0VqWmlVYVI0ZzZ0eWcxWUNIM1E1bUFncmxJR09kRW90SHpGVFRPanJrcldNdGxWNXVDNA?oc=5",
    "auto": true,
    "judged": true
   },
@@ -5714,6 +5799,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "伸手向物理AI，AMD 82亿美元收购李飞飞创办的World Labs",
+    "zh": "伸手向物理AI，AMD 82亿美元收购李飞飞创办的World Labs"
+   },
+   "body": {
+    "en": "AMD acquired Fei-Fei Li's World Labs for $8.2B; she becomes AMD's EVP and chief scientist reporting to Lisa Su, a major shift from independent spatial-AI founder to big-chip insider.",
+    "zh": "AMD以82亿美元收购李飞飞创办的World Labs，她将出任AMD执行副总裁兼首席科学家并向苏姿丰汇报，这是她从独立空间智能创业者转为芯片巨头核心高管的重大角色变化。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMTlNNmxsMkRyLWxRckF1a3dFM3RvXzd1bU13Z0hKRWZxbU85NG5IR2tlTzVvSzMyUGdZVVVlNTNDaUpQYmk2UG4xSTA4SW14VThmRjMtczZNY3o3NHlldGxvZzB4amNaMEdCWlJxSnRQdEsxU0pIR1dHSFZsRkdZTU54OWdjRzNqREVGWkNER1hRMndxUmR1QjFvc3ZnRFBqeFdnNUxxbWtiNlk2QTJqU2NNSmFya1luMXhlTUlJSHh5bHd2bjdCOUU1VzZndw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-28",
    "ts": "2026-09-28T12:53:53Z",
    "level": "notable",
@@ -6067,6 +6169,23 @@
    },
    "source": "搜狐网",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54SkkyZWhCbFhBSkRqaENRMDdJOHFDdVZDOXJZTmMyVU9aZ0NWTmotY0JWa1VzY1pZdUpUWm9ZMHdvdHFwcUlqQTdQWGhKLVZ6LWo4bnBB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-28",
+   "ts": "2026-09-28T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "伸手向物理AI，AMD 82亿美元收购李飞飞创办的World Labs|世界模型|斯坦福大学|英伟达|Hugging Face|模型",
+    "zh": "伸手向物理AI，AMD 82亿美元收购李飞飞创办的World Labs|世界模型|斯坦福大学|英伟达|Hugging Face|模型"
+   },
+   "body": {
+    "en": "AMD agreed to acquire Fei-Fei Li's World Labs for $8.2 billion, with Li joining AMD as EVP and chief scientist under Lisa Su.",
+    "zh": "AMD同意以82亿美元收购李飞飞创立的World Labs，李飞飞将加入AMD出任执行副总裁兼首席科学家，向苏姿丰汇报。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNUtiUzlKRll2bmJWLXVTb3hEc0JCMWVnNWNpeWR4clF2c0NmVXQyRWZILTktZ1hLR0J1bGRfWldianN5clBKTk5hdlRkcURDQWZRTmFjZ19nd25RNnh5REdVNDZRMEdDMW9iVk5BVkpsYTA5OUxpREdxTXZYOHlYTEduSE1fTDFUSzFKZUVyLXJyZll5T091UnJyb3FVakMydzJURlU5S1YwYWtjQktUTWNnOGh2V0IyWGVPaGVJSnVVclV6VlppLVl6UjdrT2djTHhtN0ZKQTVraDJCNUJOOF82RUFfTGlzcm0wbnNzMlNGUTFFa2Y4R1lKNENVbVQ5WFl0VWhRUGRiX1c2RWVOQkVPbUNwX29MekJYS2Z4aE0yS3dOa21NRU5FYTEyTkxhNGxmTHVVdGU?oc=5",
    "auto": true,
    "judged": true
   },
@@ -8041,7 +8160,7 @@
   "pageviews": 423813,
   "citations": 222997,
   "hIndex": 137,
-  "events": 341,
+  "events": 348,
   "posts": 108,
   "wikiEn": "Fei-Fei Li",
   "wikiZh": "李飛飛"

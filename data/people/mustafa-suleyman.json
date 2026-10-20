@@ -312,6 +312,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2026-09-18",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Controlling AI with Mustafa Suleyman & Warren Buffett Steps Down as Berkshire Chair 9/18/26",
+    "zh": "Controlling AI with Mustafa Suleyman & Warren Buffett Steps Down as Berkshire Chair 9/18/26"
+   },
+   "source": "Squawk Pod",
+   "url": "https://podcasts.apple.com/us/podcast/controlling-ai-with-mustafa-suleyman-warren-buffett/id1480890290?i=1000790539230&uo=4",
+   "note": {
+    "en": "On CNBC's Squawk Pod, Suleyman said AI models must stay aligned with human interests and called it the industry's most pressing responsibility.",
+    "zh": "在CNBC的Squawk Pod节目中，苏莱曼表示AI模型必须与人类利益保持一致，并称这是业界最紧迫的责任。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-09-17",
    "ts": null,
    "kind": "podcast",
@@ -806,6 +825,25 @@
    "connector": "backfill"
   },
   {
+   "date": "2026-06-10",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Mustafa Suleyman on Microsoft’s Humanist Superintelligence Bet",
+    "zh": "Mustafa Suleyman on Microsoft’s Humanist Superintelligence Bet"
+   },
+   "source": "The Neuron: AI Explained",
+   "url": "https://podcasts.apple.com/us/podcast/mustafa-suleyman-on-microsofts-humanist-superintelligence/id1742267001?i=1000772076952&uo=4",
+   "note": {
+    "en": "At Microsoft Build 2026, Suleyman discussed Microsoft AI's seven new in-house MAI models and its push toward self-sufficiency from external model providers.",
+    "zh": "在2026年微软Build大会上，苏莱曼谈到了Microsoft AI自研的七款新MAI模型，以及公司摆脱对外部模型供应商依赖的战略。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-06-08",
    "ts": null,
    "kind": "x",
@@ -1167,6 +1205,44 @@
    "connector": "podcasts"
   },
   {
+   "date": "2025-09-25",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Microsoft AI CEO on AI Consciousness & Artificial Companionship | Mustafa Suleyman",
+    "zh": "Microsoft AI CEO on AI Consciousness & Artificial Companionship | Mustafa Suleyman"
+   },
+   "source": "I've Got Questions with Sinead Bovell",
+   "url": "https://podcasts.apple.com/us/podcast/microsoft-ai-ceo-on-ai-consciousness-artificial-companionship/id1841491246?i=1000728356797&uo=4",
+   "note": {
+    "en": "Suleyman discussed why AI consciousness will become a defining debate and the risks of AI-companionship products.",
+    "zh": "苏莱曼探讨了为何AI意识问题将成为一场决定性的辩论，以及AI陪伴类产品所带来的风险。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2025-09-24",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Mustafa Suleyman on Seemingly Conscious AI and Microsoft's Next Chapter",
+    "zh": "Mustafa Suleyman on Seemingly Conscious AI and Microsoft's Next Chapter"
+   },
+   "source": "The Neuron: AI Explained",
+   "url": "https://podcasts.apple.com/us/podcast/mustafa-suleyman-on-seemingly-conscious-ai-and/id1742267001?i=1000728273757&uo=4",
+   "note": {
+    "en": "Suleyman discussed his essay on 'Seemingly Conscious AI' and the risks of machines that convincingly mimic consciousness.",
+    "zh": "苏莱曼谈到了他关于\"看似有意识的AI\"的文章，以及那些能令人信服地模仿意识的机器所带来的风险。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2025-09-18",
    "ts": null,
    "kind": "podcast",
@@ -1519,6 +1595,23 @@
    },
    "source": "NewsBytes",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObGR1TTNrUUQ1NTQ0U3NBUkhnOUJrUjd6eDhjc05Oa2ktOXVUSmtrVTJhcWxnNVNsQjk3YmFTTDQ3R1ZOYVk5dVp4Y3lkSlVNQUpMdm12X0lWOVpwSzc3R2FEY0hTbWdiYWFMQ3BxeWlyVWpkU1VEVEJqYm91VS1Rdk1WdVJOVTVJMlJUbGxRd2tIOU1QSVpIX3B6TV95VEZsbE54SXNaZ0libnlIQmJldTNsNm5FOVZLb0VWalBBX0g?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-15",
+   "ts": "2026-10-15T19:42:56Z",
+   "level": "notable",
+   "title": {
+    "en": "Mustafa Suleyman Warns Against AI Consciousness Training",
+    "zh": "Mustafa Suleyman Warns Against AI Consciousness Training"
+   },
+   "body": {
+    "en": "Suleyman publicly warned against training AI systems to claim or simulate consciousness, extending his earlier stance on 'seemingly conscious AI'.",
+    "zh": "苏莱曼公开警告不应训练AI系统宣称或模拟具有意识，延续了他此前关于“看似有意识的AI”的立场。"
+   },
+   "source": "Wonderwall",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORXVoUWZHYjZ5WDRWVm5kckIzTmxueGhVWHhYRnl2b0JOVC02VklGaGYwdHZCUzFWWlFxOUJseDQ0dWVZaE10QnB2QTVuNUsyQlBqSm16dW1VcGxROEtfdU1TRVQwUlRyNmxzN0hKTF80blQyMkVCcGx4XzlMVnZucml4Y2U0TWNkUFljbWNXQWdIenpqRk1Icw?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2388,8 +2481,8 @@
   "pageviews": 382768,
   "citations": 18255,
   "hIndex": 20,
-  "events": 52,
-  "posts": 73,
+  "events": 53,
+  "posts": 77,
   "wikiEn": "Mustafa Suleyman",
   "wikiZh": null
  },

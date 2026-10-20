@@ -176,6 +176,44 @@
    }
   },
   {
+   "date": "2026-10-19",
+   "ts": "2026-10-19T19:09:55Z",
+   "kind": "x",
+   "title": {
+    "en": "AI will not automate radiologists like you think We have been talking for years now about AI automating jobs. Radiology has been a prime target, with Geoff Hint",
+    "zh": "AI will not automate radiologists like you think We have been talking for years now about AI automating jobs. Radiology has been a prime target, with Geoff Hint"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/2112259970108686505",
+   "note": {
+    "en": "Wei argued AI will not replace radiologists as commonly predicted, pushing back on a long-running automation narrative in medicine.",
+    "zh": "Jason Wei认为AI不会像外界普遍预测那样取代放射科医生，对医学领域长期流传的自动化叙事提出反驳。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-19",
+   "ts": "2026-10-19T19:23:52Z",
+   "kind": "blog",
+   "title": {
+    "en": "AI will not automate radiologists like you think",
+    "zh": "AI will not automate radiologists like you think"
+   },
+   "source": "Blog - Jason Wei",
+   "url": "https://www.jasonwei.net/blog/ai-will-not-automate-radiologists-like-you-think",
+   "note": {
+    "en": "Wei argued against the common claim that AI will soon automate radiologists, pushing back on predictions like Hinton's that radiology training should stop.",
+    "zh": "Jason Wei对“AI将很快取代放射科医生”这一常见说法提出反驳,回应了诸如辛顿所说的“应停止培训放射科医生”之类的预测。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
    "date": "2026-10-14",
    "ts": "2026-10-14T18:52:39Z",
    "kind": "x",
@@ -1297,25 +1335,6 @@
    "connector": "x"
   },
   {
-   "date": "2024-12-30",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Reflecting back, these were the biggest technical lessons for me in AI in the past five years: 2020: you can cast any language task as sequence prediction and l",
-    "zh": "Reflecting back, these were the biggest technical lessons for me in AI in the past five years: 2020: you can cast any language task as sequence prediction and l"
-   },
-   "source": "@_jasonwei",
-   "url": "https://x.com/_jasonwei/status/1873824593628275198",
-   "note": {
-    "en": "Wei recaps the biggest technical lessons he's drawn from AI research each year since 2020, from sequence prediction to scaling.",
-    "zh": "Wei回顾了自2020年以来他每年从AI研究中得到的最大技术心得,从序列预测到规模扩展。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
    "date": "2024-12-21",
    "ts": null,
    "kind": "paper",
@@ -1899,7 +1918,7 @@
   "citations": 4944,
   "hIndex": 19,
   "events": 1,
-  "posts": 90,
+  "posts": 91,
   "wikiEn": null,
   "wikiZh": null
  },

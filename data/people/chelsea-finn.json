@@ -196,6 +196,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2026-10-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Generative Value Classifier",
+    "zh": "Generative Value Classifier"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.22497v1",
+   "note": {
+    "en": "Finn co-authored a paper proposing a generative value classifier to improve how Q-learning predicts the value of state-action pairs for guiding policy improvement.",
+    "zh": "Finn合作撰写了一篇论文,提出用生成式价值分类器来改进Q学习对状态-动作对价值的预测,以更好地指导策略改进。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-13",
    "ts": "2026-10-13T21:48:51Z",
    "kind": "x",
@@ -1177,25 +1196,6 @@
    "note": {
     "en": "RoboMME benchmarks memory in generalist robot policies on tasks that require counting repeated actions or tracking occluded objects.",
     "zh": "RoboMME 针对需要计数重复动作或追踪被遮挡物体的任务，评测通用机器人策略的记忆能力。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-03-04",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "MEM: Multi-Scale Embodied Memory for Vision Language Action Models",
-    "zh": "MEM: Multi-Scale Embodied Memory for Vision Language Action Models"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2603.03596v2",
-   "note": {
-    "en": "Gives vision-language-action models multi-scale memory instead of a flat window of past observations, for multi-stage real-world tasks.",
-    "zh": "为视觉-语言-动作模型引入多尺度记忆，取代扁平的历史观测窗口，以应对多阶段的真实任务。"
    },
    "auto": true,
    "judged": true,

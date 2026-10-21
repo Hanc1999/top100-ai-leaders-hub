@@ -169,6 +169,25 @@
    }
   },
   {
+   "date": "2026-10-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Distribution-Based Regularization for Reward Fine-Tuning Diffusion and Flow Models",
+    "zh": "Distribution-Based Regularization for Reward Fine-Tuning Diffusion and Flow Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.24897v1",
+   "note": {
+    "en": "A new method for fine-tuning diffusion and flow-matching generative models with reward signals while avoiding mode collapse and distributional drift, co-authored by Bengio with Mila-linked collaborators.",
+    "zh": "本吉奥与Mila相关合作者共同提出的一种新方法，通过奖励信号微调扩散与流匹配生成模型，同时避免模式崩塌和分布漂移。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-16",
    "ts": "2026-10-16T20:26:32Z",
    "kind": "x",
@@ -1917,25 +1936,6 @@
    "connector": "podcasts"
   },
   {
-   "date": "2026-03-18",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "The Silent Thought: Modeling Internal Cognition in Full-Duplex Spoken Dialogue Models via Latent Reasoning",
-    "zh": "The Silent Thought: Modeling Internal Cognition in Full-Duplex Spoken Dialogue Models via Latent Reasoning"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2603.17837v5",
-   "note": {
-    "en": "Adds latent reasoning to full-duplex spoken dialogue models so they can think while listening; Bengio is senior author on the NTU collaboration.",
-    "zh": "为全双工语音对话模型加入隐式推理，使其能够边听边思考；Bengio 在这项与南洋理工大学的合作中担任通讯作者。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2026-02-26",
    "ts": null,
    "kind": "podcast",
@@ -2769,6 +2769,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-23",
+   "ts": "2026-09-23T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "AI's Dangers 'Real and Imminent,' Canadian AI Pioneer Yoshua Bengio tells UN - Centre for International Governance Innovation",
+    "zh": "AI's Dangers 'Real and Imminent,' Canadian AI Pioneer Yoshua Bengio tells UN - Centre for International Governance Innovation"
+   },
+   "body": {
+    "en": "Bengio told the UN that AI's dangers are 'real and imminent,' a significant public safety warning from the chair of the International AI Safety Report.",
+    "zh": "Bengio在联合国表示AI的危险\"真实且迫在眉睫\"，这是国际AI安全报告主席发出的重要公开安全警告。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWjRSZFpPNXRYbnVJZ04wc3pPV2RUWTdqN1Nidzl0Y3d0cGxTMjlUb0t2XzgtWFdXQjBPdXNycUlTTHBOSVZ1bkE1NGVVWXh2bDg5Q0xRTEgwSzhMTmx5QmFjQWZ5eWs3ampYYWJKOG1VVi16NDBfNjVnMktLUWFsdTI1YUxvVENtOXpWZlNYcXZNVTlWU0lXamFPU0F5QjFwY2Z1YlpWNEVoblpodGc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-18",
    "ts": "2026-09-18T15:52:00Z",
    "level": "major",
@@ -3396,7 +3413,7 @@
   "pageviews": 276660,
   "citations": 475043,
   "hIndex": 184,
-  "events": 64,
+  "events": 65,
   "posts": 113,
   "wikiEn": "Yoshua Bengio",
   "wikiZh": "约书亚·本希奥"

@@ -177,6 +177,25 @@
    }
   },
   {
+   "date": "2026-10-20",
+   "ts": "2026-10-20T17:00:40Z",
+   "kind": "x",
+   "title": {
+    "en": "We've just released a comprehensive suite of state-of-the-art voice models https://t.co/Ue1S72c9HW. Voice will be the most important interface to AI systems, an",
+    "zh": "We've just released a comprehensive suite of state-of-the-art voice models https://t.co/Ue1S72c9HW. Voice will be the most important interface to AI systems, an"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/2112589831641710797",
+   "note": {
+    "en": "Mensch announced on X that Mistral released a suite of state-of-the-art voice models, calling voice the next major interface to AI and emphasizing low-latency physical deployment.",
+    "zh": "Mensch在X上宣布Mistral发布了一套最先进的语音模型，称语音将成为AI的下一个重要交互入口，并强调就近部署以降低延迟。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-16",
    "ts": "2026-10-16T07:05:28Z",
    "kind": "x",
@@ -937,6 +956,25 @@
    "connector": "backfill"
   },
   {
+   "date": "2024-05-24",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "ARCHIVE: Open Models (with Arthur Mensch) and Video Models (with Stefano Ermon)",
+    "zh": "ARCHIVE: Open Models (with Arthur Mensch) and Video Models (with Stefano Ermon)"
+   },
+   "source": "AI + a16z",
+   "url": "https://podcasts.apple.com/us/podcast/archive-open-models-with-arthur-mensch-and-video/id1740178076?i=1000656646281&uo=4",
+   "note": {
+    "en": "Archived a16z Podcast episode featuring Mensch discussing open models, stitched together with a separate interview on video models.",
+    "zh": "a16z播客的存档节目，收录了Mensch关于开放模型的访谈内容，与另一段视频模型访谈合并播出。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2024-03-01",
    "ts": null,
    "kind": "paper",
@@ -1634,16 +1672,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 58.2,
+  "total": 58.5,
   "attention": 53,
   "centrality": 79,
-  "momentum": 44,
+  "momentum": 45,
   "stature": null,
   "pageviews": 103916,
   "citations": 3847,
   "hIndex": 10,
   "events": 14,
-  "posts": 66,
+  "posts": 68,
   "wikiEn": "Arthur Mensch",
   "wikiZh": null
  },

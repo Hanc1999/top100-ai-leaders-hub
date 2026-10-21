@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-10-20",
+   "ts": "2026-10-20T17:04:21Z",
+   "kind": "blog",
+   "title": {
+    "en": "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US & China",
+    "zh": "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US & China"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+   "note": {
+    "en": "Lambert's newsletter rounds up new open releases, including DeepSeek V4.1 Flash, and new US/China model export controls.",
+    "zh": "Lambert在newsletter中盘点了包括DeepSeek V4.1 Flash等新开源发布，以及中美两国新出台的模型出口管制措施。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
    "date": "2026-10-17",
    "ts": "2026-10-17T14:06:54Z",
    "kind": "blog",
@@ -1619,7 +1638,7 @@
   "citations": 720,
   "hIndex": 13,
   "events": 2,
-  "posts": 75,
+  "posts": 76,
   "wikiEn": "Nathan Lambert",
   "wikiZh": null
  },

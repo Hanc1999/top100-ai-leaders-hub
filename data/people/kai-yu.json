@@ -187,6 +187,25 @@
    }
   },
   {
+   "date": "2026-10-20",
+   "ts": "2026-10-20T22:53:05Z",
+   "kind": "blog",
+   "title": {
+    "en": "单月锁单超过30000台，其中90%的用户选择智驾最高配，搭载地平线J6H大算力芯片以及基于一段式端到端自动驾驶大模型HSD的酷睿程HS8智驾方案！这是中国合资品牌三...",
+    "zh": "单月锁单超过30000台，其中90%的用户选择智驾最高配，搭载地平线J6H大算力芯片以及基于一段式端到端自动驾驶大模型HSD的酷睿程HS8智驾方案！这是中国合资品牌三..."
+   },
+   "source": "余凯_地平线民工的微博",
+   "url": "https://weibo.com/1862459915/RnDURyCxU",
+   "note": {
+    "en": "Kai Yu quote-tweeted Horizon Robotics' own announcement with his own take, calling VW's ID.AURA T6 sales milestone (built on Horizon's J6H chip and HSD system) the brand's best EV result in three years.",
+    "zh": "余凯在转发地平线官方消息时加上了自己的点评，称搭载地平线J6H芯片与HSD系统的大众ID.AURA T6销量里程碑是该品牌三年来最好的电动车成绩。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "weibo",
+   "connector": "weibo"
+  },
+  {
    "date": "2026-09-30",
    "ts": null,
    "kind": "podcast",
@@ -2924,6 +2943,23 @@
    "judged": true
   },
   {
+   "date": "2026-05-15",
+   "ts": "2026-05-15T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "地平线余凯谈自动驾驶：2028年脱手开，2030年闭眼开，2035年睡觉开",
+    "zh": "地平线余凯谈自动驾驶：2028年脱手开，2030年闭眼开，2035年睡觉开"
+   },
+   "body": {
+    "en": "Yu laid out a concrete timeline for Horizon's autonomous-driving roadmap: hands-free by 2028, eyes-closed by 2030, sleep-while-driving by 2035.",
+    "zh": "余凯给出地平线自动驾驶路线图的具体时间表：2028年脱手开，2030年闭眼开，2035年睡觉开。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWZhdnhSVjZaUmFDcjhwd1pFLVJncnRVbUJQdUl2WjA2RXhTa0ZiTHk4YXlaSzN0R1hHUzlGWk5rc1NYMHZ0T3NzeGpqYjkxLWZ1di00NVAzVTN3azRlWnlPUHhfcEMxSjBCLUx3X1dzNUFOWC1JelBURF9xSW8xZnV0YUVpSjdMSVJXc08zaW1ocF9oXzUyMQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-05-07",
    "ts": "2026-05-07T07:00:00Z",
    "level": "notable",
@@ -3313,8 +3349,8 @@
   "pageviews": 700,
   "citations": 21491,
   "hIndex": 66,
-  "events": 162,
-  "posts": 20,
+  "events": 163,
+  "posts": 21,
   "wikiEn": null,
   "wikiZh": "余凯"
  },

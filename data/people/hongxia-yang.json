@@ -1,5 +1,5 @@
 {
- "rank": 90,
+ "rank": 88,
  "id": "hongxia-yang",
  "name": {
   "en": "Hongxia Yang",
@@ -218,6 +218,25 @@
    "note": {
     "en": "Yang co-authored OnlineQAT, an on-policy distillation method that recovers accuracy lost when large language models are quantized to ultra-low bit widths.",
     "zh": "杨红霞合著的OnlineQAT论文提出了一种在线策略蒸馏方法，用于恢复大语言模型在超低比特量化后损失的精度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-10-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "miniTE: Diagnosing and Bridging the Execution Gap in Native NVFP4 Reinforcement Learning",
+    "zh": "miniTE: Diagnosing and Bridging the Execution Gap in Native NVFP4 Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.23928v1",
+   "note": {
+    "en": "Yang is senior/last author on miniTE, which diagnoses and fixes stability gaps in native NVFP4-precision reinforcement learning for LLMs.",
+    "zh": "杨红霞是miniTE论文的通讯/末位作者，该论文诊断并修复了原生NVFP4精度下大模型强化学习训练中的稳定性缺口。"
    },
    "auto": true,
    "judged": true,
@@ -945,25 +964,6 @@
    "judged": true,
    "platform": "openalex",
    "connector": "openalex"
-  },
-  {
-   "date": "2025-01-01",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "InfiGFusion: Graph-on-Logits Distillation via Efficient Gromov-Wasserstein for Model Fusion",
-    "zh": "InfiGFusion: Graph-on-Logits Distillation via Efficient Gromov-Wasserstein for Model Fusion"
-   },
-   "source": "neural information processing systems",
-   "url": "https://doi.org/10.52202/085713-3996",
-   "note": {
-    "en": "Co-authored paper on InfiGFusion, using graph-based distillation over logits for more effective model fusion.",
-    "zh": "合著论文提出InfiGFusion,通过基于图结构的logit蒸馏实现更有效的模型融合。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
   }
  ],
  "news": [
@@ -1261,10 +1261,10 @@
  },
  "cat": "research",
  "score": {
-  "total": 24.7,
+  "total": 25.1,
   "attention": null,
   "centrality": 7,
-  "momentum": 53,
+  "momentum": 54,
   "stature": 8,
   "pageviews": 0,
   "citations": 7252,
@@ -1275,5 +1275,5 @@
   "wikiZh": null
  },
  "seedRank": 52,
- "tier": "t6"
+ "tier": "t5"
 }

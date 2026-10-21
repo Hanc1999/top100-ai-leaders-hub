@@ -181,6 +181,25 @@
    }
   },
   {
+   "date": "2026-10-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Measuring Empowerment from Offline Data for Intrinsically Motivated Exploration",
+    "zh": "Measuring Empowerment from Offline Data for Intrinsically Motivated Exploration"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.24461v1",
+   "note": {
+    "en": "Levine co-authors a method for measuring empowerment from offline data to drive intrinsically motivated exploration.",
+    "zh": "Levine合著论文，提出一种基于离线数据衡量“赋能”程度以驱动内在动机探索的方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-14",
    "ts": null,
    "kind": "paper",
@@ -877,25 +896,6 @@
    "note": {
     "en": "With Bowden and Listgarten, Levine explores leveraging discrete function decomposability for scientific design problems.",
     "zh": "Levine与Bowden、Listgarten合作，探讨如何利用离散函数的可分解性用于科学设计问题。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-11-03",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "RLAC: Reinforcement Learning with Adversarial Critic for Free-Form Generation Tasks",
-    "zh": "RLAC: Reinforcement Learning with Adversarial Critic for Free-Form Generation Tasks"
-   },
-   "source": "arXiv (Cornell University)",
-   "url": "http://arxiv.org/abs/2511.01758",
-   "note": {
-    "en": "Introduces RLAC, a reinforcement-learning method that uses an adversarial critic to catch and correct failure modes in open-ended generation tasks like text and code.",
-    "zh": "提出RLAC方法，通过对抗性评论模型发现并纠正文本、代码等开放式生成任务中的失败模式，从而改进强化学习训练。"
    },
    "auto": true,
    "judged": true,

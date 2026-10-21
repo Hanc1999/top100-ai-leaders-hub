@@ -963,6 +963,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2023-11-02",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "How Vercel found extreme product-market fit by focusing on simplification | Guillermo Rauch (Vercel's CEO)",
+    "zh": "How Vercel found extreme product-market fit by focusing on simplification | Guillermo Rauch (Vercel's CEO)"
+   },
+   "source": "In Depth",
+   "url": "https://podcasts.apple.com/us/podcast/how-vercel-found-extreme-product-market-fit-by-focusing/id1535886300?i=1000633446674&uo=4",
+   "note": {
+    "en": "Rauch explains on the In Depth podcast how Vercel found product-market fit by simplifying its platform.",
+    "zh": "Rauch在In Depth播客中讲述Vercel如何通过简化平台找到产品市场契合点。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2023-10-06",
    "ts": null,
    "kind": "podcast",
@@ -1013,6 +1032,25 @@
    "note": {
     "en": "No Priors interview arguing that AI development can be front-end-first, and what that gives web developers.",
     "zh": "No Priors 访谈，他提出 AI 开发也可以「前端优先」，并谈这为网页开发者带来了什么。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-06-11",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ep 61: High School Dropout to Billion-Dollar Startup; How Guillermo Rauch Built Vercel",
+    "zh": "Ep 61: High School Dropout to Billion-Dollar Startup; How Guillermo Rauch Built Vercel"
+   },
+   "source": "Joe Lonsdale: American Optimist",
+   "url": "https://podcasts.apple.com/us/podcast/ep-61-high-school-dropout-to-billion-dollar-startup/id1573141757?i=1000616495964&uo=4",
+   "note": {
+    "en": "Rauch tells his story on American Optimist, from high-school dropout to building Vercel into a multi-billion-dollar company.",
+    "zh": "Rauch在American Optimist节目中讲述自己从高中辍学到将Vercel打造成数十亿美元公司的经历。"
    },
    "auto": true,
    "judged": true,
@@ -1192,7 +1230,7 @@
   "citations": 9,
   "hIndex": 1,
   "events": 7,
-  "posts": 50,
+  "posts": 52,
   "wikiEn": null,
   "wikiZh": null
  },

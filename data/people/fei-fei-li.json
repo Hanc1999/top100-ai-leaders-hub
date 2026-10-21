@@ -219,6 +219,63 @@
    }
   },
   {
+   "date": "2026-10-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Text-to-Image Generative Modeling Without Language Pretraining",
+    "zh": "Text-to-Image Generative Modeling Without Language Pretraining"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.26863v1",
+   "note": {
+    "en": "Li co-authored a study showing strong text-to-image generation is achievable without relying on internet-scale language pretraining.",
+    "zh": "李飞飞合著研究表明，无需依赖互联网规模的语言预训练，也能实现强大的文本生成图像效果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-10-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SteerAct: Unlocking Action Models through Few-Shot Temporal Steering",
+    "zh": "SteerAct: Unlocking Action Models through Few-Shot Temporal Steering"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.25632v1",
+   "note": {
+    "en": "Li co-authored SteerAct, a method that improves pretrained robot action models at test time via activation steering from only a few demonstration rollouts.",
+    "zh": "李飞飞合著SteerAct，一种仅凭少量演示轨迹，通过激活引导在测试阶段改进预训练机器人动作模型的方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-10-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Dream What I Can: Sparse Visual Planning for Long-Horizon Robot Manipulation",
+    "zh": "Dream What I Can: Sparse Visual Planning for Long-Horizon Robot Manipulation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.24981v1",
+   "note": {
+    "en": "Li co-authored DreamCan, a hierarchical policy that grounds video-model predictions into executable actions for long-horizon robot manipulation.",
+    "zh": "李飞飞合著DreamCan，一种将视频模型预测转化为可执行动作的分层策略，用于解决长周期机器人操作任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-16",
    "ts": null,
    "kind": "paper",
@@ -1340,25 +1397,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-02-24",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs",
-    "zh": "Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2602.21198v3",
-   "note": {
-    "en": "Gives embodied LLM agents a reflective test-time planning loop so failed attempts inform later trials instead of repeating.",
-    "zh": "为具身大模型智能体加入反思式测试时规划，使失败经验能被吸收而不是反复重演。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2026-02-13",
    "ts": null,
    "kind": "x",
@@ -2263,6 +2301,40 @@
    "url": "https://www.techtimes.com/articles/317927/20260606/feifei-lis-world-labs-splits-world-model-three-types-marble-targets-simulation-linchpin.htm"
   },
   {
+   "date": "2026-10-20",
+   "ts": "2026-10-20T09:34:54Z",
+   "level": "notable",
+   "title": {
+    "en": "Walter Isaacson’s New Podcast, The Builders, Launches With Elon Musk, Peter Thiel, Fei-Fei Li, Dario and Daniela Amodei",
+    "zh": "Walter Isaacson’s New Podcast, The Builders, Launches With Elon Musk, Peter Thiel, Fei-Fei Li, Dario and Daniela Amodei"
+   },
+   "body": {
+    "en": "Fei-Fei Li is a confirmed guest on Walter Isaacson's new interview podcast 'The Builders,' launching alongside Elon Musk, Peter Thiel, and Dario and Daniela Amodei.",
+    "zh": "李飞飞确认成为沃尔特·艾萨克森新访谈播客《The Builders》的嘉宾，与埃隆·马斯克、彼得·蒂尔以及Dario和Daniela Amodei同期亮相。"
+   },
+   "source": "Podnews",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5POVdNWU1uWmRkamwtLTVtbDVWNTBSNk1lNkVzTVUyc3lTYXowQ0hKby1DWXVSYlhFMFNaOXdyZG5oekk5S0hXTENSdFZZbzl1SHNBcjVvSDNGVE9nVFNLU3lYWjBmWDR5QngwWUNHaw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-19",
+   "ts": "2026-10-19T09:15:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李飞飞团队把灵巧手数据交给 Agent，只用1条人类视频让真机成功率暴涨 3.5 倍？",
+    "zh": "李飞飞团队把灵巧手数据交给 Agent，只用1条人类视频让真机成功率暴涨 3.5 倍？"
+   },
+   "body": {
+    "en": "Li's team reported that feeding a single human demonstration video into an agent, via dexterous-hand data, boosted a real robot's task success rate 3.5x — a concrete result from her lab.",
+    "zh": "李飞飞团队报告称，将灵巧手数据交给智能体后，仅用一条人类示范视频就让真实机器人的任务成功率提升了3.5倍，这是她实验室的一项具体技术成果。"
+   },
+   "source": "CSDN博客",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03b0w3emx2QkstWGFJM2FVaTZFNWdVTDRzYWdxS1otRVB0M1p6UGlGNF93WUtHakt6UnZoQlFwNzVUaG1xVlhJU2sxUDlqYWYtSkZGRlFOQUwxdjhlNWEwQ1pZZHVVTU5tbUtmUlpB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-18",
    "ts": "2026-10-18T03:30:59Z",
    "level": "major",
@@ -2739,6 +2811,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-08",
+   "ts": "2026-10-08T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "英伟达收购AI模型平台Hugging Face；AMD收购李飞飞创立的World Labs | 2026年第三季度全球企业十大并购案",
+    "zh": "英伟达收购AI模型平台Hugging Face；AMD收购李飞飞创立的World Labs | 2026年第三季度全球企业十大并购案"
+   },
+   "body": {
+    "en": "Listed among Q3 2026's top global M&A deals: AMD acquired World Labs, the spatial-intelligence startup Li founded, bringing her into AMD's leadership.",
+    "zh": "该报道被列入2026年第三季度全球十大并购案：AMD收购了李飞飞创立的空间智能公司World Labs，她也因此加入AMD管理层。"
+   },
+   "source": "财富号",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLXzJWdWpWckVtblA1TWRFZUhENno2bEwxdE5kTDdLQktyMG55M1V2YkNKRzhkb05URTc4YjhQT1JNTnVzWUM4VTllOC1RMjA3SmhJZDIwWjlNOVBtbVdyTkRsNGVDYm1NdTNF?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-07",
    "ts": "2026-10-07T02:54:56Z",
    "level": "major",
@@ -2837,6 +2926,23 @@
    },
    "source": "RTHK",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPem15NGJId0hYdG41YkNPX0R4dlJjQnB6Mm5xc21FZEpNUFd2dmJzeWQzZUpKVU5DUGxTQWhIX3JYTExSb1FIaG9aYzhjQVdicDRDNGtiLWhLZkJiSFNhZm1iNS1QX012empsdi1NMUJsRVV3RzFZckpET0Jva2VtOFd5a0t4UEoyMTlCQnVqaVpFM3V6eG5zUTRBRE5KMW8zRVlxZjlkdjV0N0lzTWE4cUtDQVlvZXdFV2ppZWcySUVUVUpRYVYtcjRzUHdKcGY2?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-05",
+   "ts": "2026-10-05T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "2026-10-05 《天地．人》∶李飞飞将加盟AMD 冀「AI教母」 称谓启发女性",
+    "zh": "2026-10-05 《天地．人》∶李飞飞将加盟AMD 冀「AI教母」 称谓启发女性"
+   },
+   "body": {
+    "en": "Fei-Fei Li is joining AMD as part of its acquisition of World Labs, coverage framing her as an 'AI godmother' inspiring women in the field — a major shift from running an independent spatial-intelligence startup to an AMD chief-scientist role.",
+    "zh": "李飞飞将加盟AMD（作为AMD收购World Labs的一部分），报道称她被誉为激励女性的\"AI教母\"——这是她从独立运营空间智能创业公司转任AMD首席科学家的重大转变。"
+   },
+   "source": "香港電台",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNX2U2dWhNNEhjMWFNSHRVa3ZjQ0ZINkdUTllrd3pQS1piSGVqdXlRMGlmTUI2MDdpMXhfcU9hLTBCQVA5d2J1Z05mWEZFUmUxbGFPTHlWUDdDYzdOMVdxX1I2U2JfdWlCcXlNcmVUandFRXlaRnRhaUNRWEdGY21FLWJRUUxRbHlIQUZLdDJEOG9fbmtPTUp1TkVSUnR2X1p4TWJjWm9EU1d2ZE12Q0ZUMnVybTdCeDI3TnFtVTFCR2FySVJBYUthOUFUVWFQZmtVbmJRYkZhNFdlcDNuTk40YVNBWGc?oc=5",
    "auto": true,
    "judged": true
   },
@@ -8152,16 +8258,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 78.0,
+  "total": 77.8,
   "attention": 76,
   "centrality": 58,
-  "momentum": 98,
+  "momentum": 97,
   "stature": 93,
   "pageviews": 423813,
   "citations": 222997,
   "hIndex": 137,
-  "events": 348,
-  "posts": 108,
+  "events": 352,
+  "posts": 110,
   "wikiEn": "Fei-Fei Li",
   "wikiZh": "李飛飛"
  },

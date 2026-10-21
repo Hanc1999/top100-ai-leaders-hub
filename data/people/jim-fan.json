@@ -208,6 +208,25 @@
    }
   },
   {
+   "date": "2026-10-20",
+   "ts": "2026-10-20T17:31:29Z",
+   "kind": "x",
+   "title": {
+    "en": "We built a robotics data engine with Astra-level performance at 125x lower cost. And we are open-sourcing the weights today! Introducing Flora, a suite of open",
+    "zh": "We built a robotics data engine with Astra-level performance at 125x lower cost. And we are open-sourcing the weights today! Introducing Flora, a suite of open"
+   },
+   "source": "@drjimfan",
+   "url": "https://x.com/DrJimFan/status/2112597587987689912",
+   "note": {
+    "en": "Jim Fan announced Flora, an open-sourced suite of robotics data-engine models matching Astra-level performance at 125x lower cost, advancing NVIDIA's embodied-AI data pipeline.",
+    "zh": "Jim Fan发布Flora——一套开源机器人数据引擎模型，性能媲美Astra但成本降低125倍，推动了NVIDIA在具身智能数据管线上的进展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-16",
    "ts": "2026-10-16T16:15:02Z",
    "kind": "x",
@@ -1224,7 +1243,7 @@
   "citations": 0,
   "hIndex": 0,
   "events": 3,
-  "posts": 52,
+  "posts": 53,
   "wikiEn": null,
   "wikiZh": null
  },

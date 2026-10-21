@@ -1464,6 +1464,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2021-10-29",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AI isn’t as smart as you think -- but it could be | Jeff Dean",
+    "zh": "AI isn’t as smart as you think -- but it could be | Jeff Dean"
+   },
+   "source": "TED Talks Daily",
+   "url": "https://podcasts.apple.com/us/podcast/ai-isnt-as-smart-as-you-think-but-it-could-be-jeff-dean/id160904630?i=1000540160387&uo=4",
+   "note": {
+    "en": "Dean appeared on TED Talks Daily to explain how large language models work and what they can and cannot do, drawing on his role leading Google's AI efforts at the time.",
+    "zh": "迪恩在TED Talks Daily节目中讲解大语言模型的工作原理及其能力边界，内容基于他当时领导谷歌AI工作的经验。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2018-09-12",
    "ts": null,
    "kind": "podcast",
@@ -2180,7 +2199,7 @@
   "citations": 36789,
   "hIndex": 30,
   "events": 39,
-  "posts": 72,
+  "posts": 73,
   "wikiEn": "Jeff Dean",
   "wikiZh": "傑夫·迪恩"
  },

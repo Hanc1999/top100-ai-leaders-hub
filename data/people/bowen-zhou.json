@@ -211,6 +211,25 @@
    }
   },
   {
+   "date": "2026-10-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Towards Architectural-Level Safety Control: Relocating Hazardous Knowledge into Removable Experts in Mixture-of-Experts Models",
+    "zh": "Towards Architectural-Level Safety Control: Relocating Hazardous Knowledge into Removable Experts in Mixture-of-Experts Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.25791v1",
+   "note": {
+    "en": "Zhou co-authored a method for relocating hazardous knowledge into removable expert modules of mixture-of-experts models, aimed at architectural-level AI safety control.",
+    "zh": "周伯文合著论文，提出将混合专家模型中的危险知识迁移至可移除专家模块的方法，致力于实现架构层面的AI安全控制。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-15",
    "ts": null,
    "kind": "paper",
@@ -1240,6 +1259,23 @@
    "judged": true
   },
   {
+   "date": "2026-07-21",
+   "ts": "2026-07-21T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "AI能学会“爱”吗？周伯文：先别谈“爱”，先学会“安全”",
+    "zh": "AI能学会“爱”吗？周伯文：先别谈“爱”，先学会“安全”"
+   },
+   "body": {
+    "en": "In an interview, Zhou argued AI should master \"safety\" before anything resembling \"love,\" a stance consistent with his focus on AI safety governance.",
+    "zh": "周伯文在采访中表示，AI在谈论\"爱\"之前应先学会\"安全\"，这一立场体现了他在人工智能安全治理方面的关注。"
+   },
+   "source": "ThePaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41V2xQeXdBOV9iNkd1S1FBRTRuZ0xZTy00VXhEdTVveUgwejNtRmdFeElNQm14N3NSenJpR2lpcUczUHRvbnFLd2dOQzVGQlQxb1M1WlFFdUlycEhES0hSYQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-07-19",
    "ts": null,
    "level": "major",
@@ -1325,6 +1361,23 @@
    "judged": true
   },
   {
+   "date": "2026-07-17",
+   "ts": "2026-07-17T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "文汇视讯｜周伯文：AI可以代表人行动，但不能代表人负责",
+    "zh": "文汇视讯｜周伯文：AI可以代表人行动，但不能代表人负责"
+   },
+   "body": {
+    "en": "Zhou argued AI can act on a person's behalf but cannot bear responsibility in their place, a stance consistent with his push for AI safety governance frameworks.",
+    "zh": "周伯文提出AI可以代表人行动，但不能代表人承担责任，这一立场与他推动AI安全治理框架的一贯主张一致。"
+   },
+   "source": "上观新闻",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EaUhpVksyN2VfS1RrYUdOSm1sOWRDSF90YkozYTJ2ZjNZWGFMTUtRZTd0OTkzYVBSeXZNdHA4REhXVTZsSFJMU2xoYVI2d1owdUQxdUVWSUFEUWk0dmpR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-07-16",
    "ts": null,
    "level": "notable",
@@ -1391,8 +1444,8 @@
   "pageviews": 928,
   "citations": 16676,
   "hIndex": 51,
-  "events": 25,
-  "posts": 40,
+  "events": 27,
+  "posts": 41,
   "wikiEn": "Bowen Zhou",
   "wikiZh": null
  },

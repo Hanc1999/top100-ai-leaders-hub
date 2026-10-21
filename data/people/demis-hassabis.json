@@ -901,6 +901,25 @@
    "connector": "backfill"
   },
   {
+   "date": "2026-04-19",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Demis Hassabis and Sebastian Mallaby on The Quest for Artificial General Intelligence (Part One)",
+    "zh": "Demis Hassabis and Sebastian Mallaby on The Quest for Artificial General Intelligence (Part One)"
+   },
+   "source": "Intelligence Squared",
+   "url": "https://podcasts.apple.com/us/podcast/demis-hassabis-and-sebastian-mallaby-on-the-quest/id708371900?i=1000762026252&uo=4",
+   "note": {
+    "en": "Hassabis joined historian Sebastian Mallaby for an Intelligence Squared conversation on the quest for AGI, part one of a two-part interview.",
+    "zh": "Hassabis与历史学家Sebastian Mallaby在Intelligence Squared节目中对谈通用人工智能的探索之路（上集）。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-04-16",
    "ts": null,
    "kind": "x",
@@ -2754,7 +2773,7 @@
   "citations": 195503,
   "hIndex": 92,
   "events": 39,
-  "posts": 102,
+  "posts": 103,
   "wikiEn": "Demis Hassabis",
   "wikiZh": "杰米斯·哈萨比斯"
  },

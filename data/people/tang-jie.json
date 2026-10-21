@@ -217,6 +217,25 @@
    }
   },
   {
+   "date": "2026-10-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "HarnessPro: Recursive Harness Self-Improvement with Pareto Optimization for Performance-Cost Trade-offs",
+    "zh": "HarnessPro: Recursive Harness Self-Improvement with Pareto Optimization for Performance-Cost Trade-offs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.26770v1",
+   "note": {
+    "en": "Tang co-authors HarnessPro, a method for recursively self-improving AI agent harnesses under performance-cost trade-offs.",
+    "zh": "唐杰合著论文HarnessPro，提出一种在性能与成本权衡下递归自我改进AI智能体harness的方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-16",
    "ts": null,
    "kind": "paper",
@@ -3230,6 +3249,23 @@
    "judged": true
   },
   {
+   "date": "2026-08-05",
+   "ts": "2026-08-05T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "清华唐杰团队揭示大模型记忆全景",
+    "zh": "清华唐杰团队揭示大模型记忆全景"
+   },
+   "body": {
+    "en": "Tang Jie's Tsinghua team published a comprehensive study mapping how large language models form and retain memory.",
+    "zh": "唐杰清华团队发布研究，全面揭示大模型的记忆形成与保持机制。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pMVhWaEE1ckFiV2pGcnA0VVdDZndBcDZIMDQ3NGVhY1RySE5IRk1qVE5CTEs5d0IxTWN2TXVLdE41emJBWHVzazZLbVlqbS16V1dn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-07-24",
    "ts": "2026-07-24T07:00:00Z",
    "level": "notable",
@@ -3468,6 +3504,23 @@
    "judged": true
   },
   {
+   "date": "2026-07-12",
+   "ts": "2026-07-12T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "智谱创始人唐杰内部信曝光：“摸高计划”真的好有热血感啊",
+    "zh": "智谱创始人唐杰内部信曝光：“摸高计划”真的好有热血感啊"
+   },
+   "body": {
+    "en": "An internal letter from Zhipu AI founder Tang Jie about the company's 'reach high' push for frontier capability was made public.",
+    "zh": "智谱AI创始人唐杰关于公司冲击前沿能力的“摸高计划”内部信被曝光。"
+   },
+   "source": "雪球",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kWnRXeUctMUh4SS10R0pEVkVfbndxdkxGNk5jdldzTzBMWHdWZUV1dnhRaElzWllxY2FYb2x4eU0xOUdpRjBfc2owZFoyTm51?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-07-11",
    "ts": "2026-07-11T07:00:00Z",
    "level": "notable",
@@ -3619,8 +3672,8 @@
   "pageviews": 0,
   "citations": 30390,
   "hIndex": 83,
-  "events": 119,
-  "posts": 73,
+  "events": 121,
+  "posts": 74,
   "wikiEn": null,
   "wikiZh": null
  },

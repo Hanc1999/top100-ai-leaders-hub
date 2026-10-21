@@ -142,6 +142,44 @@
    }
   },
   {
+   "date": "2026-10-20",
+   "ts": "2026-10-20T09:21:33Z",
+   "kind": "x",
+   "title": {
+    "en": "Today in Paris, we announced new capabilities across Microsoft Sovereign Cloud, expanding choice and control for organizations running their most sensitive work",
+    "zh": "Today in Paris, we announced new capabilities across Microsoft Sovereign Cloud, expanding choice and control for organizations running their most sensitive work"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2112474291916910752",
+   "note": {
+    "en": "Nadella announced new Microsoft Sovereign Cloud capabilities in Paris, expanding choice and control for organizations running sensitive workloads.",
+    "zh": "Nadella在巴黎宣布微软主权云（Sovereign Cloud）新增功能，为运行敏感工作负载的组织提供更多选择和控制权。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-20",
+   "ts": "2026-10-20T10:59:13Z",
+   "kind": "x",
+   "title": {
+    "en": "Great to meet with the @saintgobain team in Paris today and learn how they’re using Microsoft Discovery to help accelerate the development of new more-efficient",
+    "zh": "Great to meet with the @saintgobain team in Paris today and learn how they’re using Microsoft Discovery to help accelerate the development of new more-efficient"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2112498869531754900",
+   "note": {
+    "en": "Nadella described meeting with Saint-Gobain in Paris to discuss how the company uses Microsoft Discovery, Microsoft's AI platform for scientific research, to speed development of more efficient construction materials.",
+    "zh": "纳德拉介绍了他在巴黎与圣戈班团队的会面，讨论该公司如何利用微软的AI科研平台Microsoft Discovery加速更高效建筑材料的研发。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-19",
    "ts": "2026-10-19T13:05:44Z",
    "kind": "x",
@@ -1123,44 +1161,6 @@
    "note": {
     "en": "Nadella announced the general availability of Agent 365, extending identity, security and governance systems to AI agents across the enterprise.",
     "zh": "纳德拉宣布Agent 365正式全面上线,将企业现有的身份、安全和治理体系扩展至各类AI智能体。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
-   "date": "2026-04-29",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Just wrapped our quarterly earnings call. We are focused on delivering AI infrastructure and solutions that empower every business to eval-max their outcomes in",
-    "zh": "Just wrapped our quarterly earnings call. We are focused on delivering AI infrastructure and solutions that empower every business to eval-max their outcomes in"
-   },
-   "source": "@satyanadella",
-   "url": "https://x.com/satyanadella/status/2049622812680409373",
-   "note": {
-    "en": "Nadella summarized Microsoft's quarterly earnings call, emphasizing AI infrastructure investment for the agentic computing era.",
-    "zh": "纳德拉总结微软季度财报电话会议,强调面向智能体计算时代的AI基础设施投入。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
-   "date": "2026-04-28",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Great example of what Foundry enables: durable, stateful agents that run across time boundaries, orchestrate tools and models, and close the loop with evaluatio",
-    "zh": "Great example of what Foundry enables: durable, stateful agents that run across time boundaries, orchestrate tools and models, and close the loop with evaluatio"
-   },
-   "source": "@satyanadella",
-   "url": "https://x.com/satyanadella/status/2048966332876828859",
-   "note": {
-    "en": "Nadella highlighted a Foundry example of durable, stateful agents that run across time boundaries and close the loop with evaluation.",
-    "zh": "纳德拉展示了一个Foundry案例:可跨时间持续运行的有状态智能体,并能通过评估形成闭环。"
    },
    "auto": true,
    "judged": true,

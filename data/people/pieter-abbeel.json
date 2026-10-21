@@ -183,6 +183,44 @@
    }
   },
   {
+   "date": "2026-10-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Self-Supervised Inertial Odometry",
+    "zh": "Self-Supervised Inertial Odometry"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.25988v1",
+   "note": {
+    "en": "Abbeel co-authors a self-supervised method for training inertial odometry models without ground-truth trajectories.",
+    "zh": "Abbeel合著论文，提出一种无需真实轨迹标注、以自监督方式训练惯性里程计模型的方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-10-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SWAP: Test-Time Steerable Humanoid Whole-Body Collision Avoidance",
+    "zh": "SWAP: Test-Time Steerable Humanoid Whole-Body Collision Avoidance"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.25711v1",
+   "note": {
+    "en": "Abbeel co-authors a test-time steerable method for whole-body collision avoidance in humanoid robots.",
+    "zh": "Abbeel合著论文，提出一种可在测试阶段调控的人形机器人全身避障方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-16",
    "ts": null,
    "kind": "paper",
@@ -651,25 +689,6 @@
    "note": {
     "en": "Reward-conditioned RL trains a single agent across reward functions instead of one fixed reward, improving robustness to reward misspecification and shifting preferences.",
     "zh": "奖励条件化强化学习让单个智能体在多种奖励函数下训练，而非固定于一个奖励，从而对奖励设定错误和偏好变化更鲁棒。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-03-03",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference",
-    "zh": "How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2603.03280v1",
-   "note": {
-    "en": "Aligns fine-grained, force-sensitive manipulation such as peeling with a knife to human preference, targeting tasks robots still cannot do.",
-    "zh": "将用刀削皮这类精细、对力敏感的操作与人类偏好对齐，瞄准机器人目前仍无法胜任的任务。"
    },
    "auto": true,
    "judged": true,
@@ -1192,16 +1211,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 31.2,
+  "total": 31.0,
   "attention": 29,
   "centrality": 23,
-  "momentum": 26,
+  "momentum": 25,
   "stature": 73,
   "pageviews": 37345,
   "citations": 79473,
   "hIndex": 123,
   "events": 2,
-  "posts": 53,
+  "posts": 54,
   "wikiEn": "Pieter Abbeel",
   "wikiZh": "彼得·阿比爾"
  },

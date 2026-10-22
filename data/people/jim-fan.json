@@ -664,6 +664,25 @@
    "connector": "backfill"
   },
   {
+   "date": "2026-02-11",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Radical Talks, Masterclass Edition: Jim Fan on The Future of Robotics and Embodied AI",
+    "zh": "Radical Talks, Masterclass Edition: Jim Fan on The Future of Robotics and Embodied AI"
+   },
+   "source": "Radical Talks",
+   "url": "https://podcasts.apple.com/us/podcast/radical-talks-masterclass-edition-jim-fan-on-the/id1524902736?i=1000749276483&uo=4",
+   "note": {
+    "en": "Jim Fan discussed what's holding back embodied AI and robotics in an interview on the Radical Talks podcast.",
+    "zh": "范麟熙在Radical Talks播客访谈中讨论了制约具身智能与机器人发展的瓶颈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-02-04",
    "ts": null,
    "kind": "x",
@@ -1243,7 +1262,7 @@
   "citations": 0,
   "hIndex": 0,
   "events": 3,
-  "posts": 53,
+  "posts": 54,
   "wikiEn": null,
   "wikiZh": null
  },

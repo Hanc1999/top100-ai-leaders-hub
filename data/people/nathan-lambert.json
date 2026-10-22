@@ -202,6 +202,25 @@
    "connector": "web"
   },
   {
+   "date": "2026-10-20",
+   "ts": null,
+   "kind": "report",
+   "title": {
+    "en": "natolambert released v0.2.4 at natolambert/colloquium",
+    "zh": "natolambert released v0.2.4 at natolambert/colloquium"
+   },
+   "source": "GitHub Public Timeline Feed",
+   "url": "https://github.com/natolambert/colloquium/releases/tag/v0.2.4",
+   "note": {
+    "en": "Lambert shipped v0.2.4 of his colloquium tool, adding slide-title and metadata handling fixes — a real, shipped update to his own open-source project.",
+    "zh": "Lambert发布了其colloquium工具的v0.2.4版本，修复了幻灯片标题和元数据处理问题——这是他自己开源项目的一次真实发布更新。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "github",
+   "connector": "github"
+  },
+  {
    "date": "2026-10-17",
    "ts": "2026-10-17T14:06:54Z",
    "kind": "blog",
@@ -1638,7 +1657,7 @@
   "citations": 720,
   "hIndex": 13,
   "events": 2,
-  "posts": 76,
+  "posts": 77,
   "wikiEn": "Nathan Lambert",
   "wikiZh": null
  },

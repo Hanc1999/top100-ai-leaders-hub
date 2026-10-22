@@ -1,5 +1,5 @@
 {
- "rank": 32,
+ "rank": 33,
  "id": "peak-ji",
  "name": {
   "en": "Peak Ji",
@@ -944,6 +944,23 @@
    "judged": true
   },
   {
+   "date": "2026-05-22",
+   "ts": "2026-05-22T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "消息称 Manus 创始人肖弘、季逸超、张涛考虑融资 10 亿美元回购公司，后续或赴港 IPO",
+    "zh": "消息称 Manus 创始人肖弘、季逸超、张涛考虑融资 10 亿美元回购公司，后续或赴港 IPO"
+   },
+   "body": {
+    "en": "Manus founders Xiao Hong, Peak Ji and Zhang Tao are reportedly considering raising $1 billion to buy back the company, with an eye toward a later Hong Kong IPO.",
+    "zh": "据报道，Manus创始人肖弘、季逸超、张涛正考虑融资10亿美元回购公司股份，后续或将推动在香港上市。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPdE54VTJ6UE5wS3VpSXV1bnc0LU9iSDVrQUUwU2xOUE5TQlAya3BsTEpnbkRhZ3N0LUd4OWo2eDU0MUJPRmlZX2xocWpqdHAtemhvcURTZ2psVHM1dDdSbmd4NDZWYnUwYWN6ZEd0cE9TRXM0WjhKX1pFXzEzbTlReGRsZV9hR2xUSmo5dkRySEdwMFdKeUdRanI4aHU5NFlBYk9MMkx4QUZySDFHOGkyem1pRjRrVmZlMkluRkxmZktDMzJjamk1ekFBTlptWHl0R2JKM3pKdTNGWkhPU0pQZGxnanlfY2F1UHB0UGFTcTJ0Wmdlb0c3eXN1VDhsS3JVZTJHSDRHSy02U0JlTXU1S3pHMUVzRG84QUItWnd5dkVqS1RQX0E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-03-28",
    "ts": "2026-03-28T07:00:00Z",
    "level": "notable",
@@ -1002,19 +1019,19 @@
  },
  "cat": "product",
  "score": {
-  "total": 59.9,
+  "total": 60.4,
   "attention": 74,
   "centrality": 52,
-  "momentum": 41,
+  "momentum": 43,
   "stature": null,
   "pageviews": 422825,
   "citations": 25,
   "hIndex": 1,
-  "events": 16,
+  "events": 17,
   "posts": 29,
   "wikiEn": "Manus (AI agent)",
   "wikiZh": "Manus"
  },
  "seedRank": 53,
- "tier": "t2"
+ "tier": "t3"
 }

@@ -211,6 +211,44 @@
    }
   },
   {
+   "date": "2026-10-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with Capability Composition",
+    "zh": "Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with Capability Composition"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.28578v1",
+   "note": {
+    "en": "Bowen Zhou co-authored Sage-A1.5, a 35B Mixture-of-Experts agentic model from Shanghai AI Lab that extends long-horizon problem solving through adaptive capability composition.",
+    "zh": "周伯文与上海人工智能实验室团队合作发布Sage-A1.5，这是一个350亿参数的混合专家智能体模型，通过自适应能力组合提升长程任务解决能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-10-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Meta Expert: Cross-Layer Expert Sharing for Storage- and Retrieval-Efficient MoE",
+    "zh": "Meta Expert: Cross-Layer Expert Sharing for Storage- and Retrieval-Efficient MoE"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.27598v1",
+   "note": {
+    "en": "Bowen Zhou co-authored a paper proposing cross-layer expert sharing to make Mixture-of-Experts models cheaper to store and retrieve.",
+    "zh": "周伯文合著论文提出跨层专家共享方法，以降低混合专家模型的存储与检索成本。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-19",
    "ts": null,
    "kind": "paper",
@@ -223,6 +261,25 @@
    "note": {
     "en": "Zhou co-authored a method for relocating hazardous knowledge into removable expert modules of mixture-of-experts models, aimed at architectural-level AI safety control.",
     "zh": "周伯文合著论文，提出将混合专家模型中的危险知识迁移至可移除专家模块的方法，致力于实现架构层面的AI安全控制。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-10-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Physical AI: Concepts, Techniques, and Challenges",
+    "zh": "Physical AI: Concepts, Techniques, and Challenges"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.27045v1",
+   "note": {
+    "en": "Bowen Zhou co-authored a wide-ranging survey on Physical AI, mapping concepts, techniques and open challenges as the field moves toward embodied, real-world systems.",
+    "zh": "周伯文合著了一篇关于“物理AI”的综述论文，系统梳理了该领域走向具身化、真实世界系统的概念、技术与挑战。"
    },
    "auto": true,
    "judged": true,
@@ -1445,7 +1502,7 @@
   "citations": 16676,
   "hIndex": 51,
   "events": 27,
-  "posts": 41,
+  "posts": 44,
   "wikiEn": "Bowen Zhou",
   "wikiZh": null
  },

@@ -1359,25 +1359,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-03-18",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Rapid Adaptation of Particle Dynamics for Generalized Deformable Object Mobile Manipulation",
-    "zh": "Rapid Adaptation of Particle Dynamics for Generalized Deformable Object Mobile Manipulation"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2603.18246v1",
-   "note": {
-    "en": "Learns to adapt particle-based dynamics models on the fly for mobile manipulation of deformable objects with unknown physics.",
-    "zh": "提出在线自适应粒子动力学模型的方法，用于物性未知的可变形物体的移动操作。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2026-03-03",
    "ts": null,
    "kind": "x",
@@ -2301,6 +2282,23 @@
    "url": "https://www.techtimes.com/articles/317927/20260606/feifei-lis-world-labs-splits-world-model-three-types-marble-targets-simulation-linchpin.htm"
   },
   {
+   "date": "2026-10-21",
+   "ts": "2026-10-21T17:31:13Z",
+   "level": "major",
+   "title": {
+    "en": "AMD’s World Labs Deal Adds Spatial AI Research and Fei-Fei Li to Its Leadership",
+    "zh": "AMD’s World Labs Deal Adds Spatial AI Research and Fei-Fei Li to Its Leadership"
+   },
+   "body": {
+    "en": "AMD acquired Fei-Fei Li's World Labs in an $8.2B deal, adding her and World Labs' spatial AI research to AMD's leadership as chief scientist.",
+    "zh": "AMD以82亿美元收购了李飞飞的World Labs，她和公司的空间人工智能研究团队加入AMD领导层，她出任首席科学家。"
+   },
+   "source": "theaisoftwarereport.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaDZwR1ZYUmRlcEJicFVfRlQwanpuV0I2c0djUUc1NjFtZ1gtMVpBX2JZS3ZuekUtQkhDdE5pY2IwLTlhUlJmNk9pS1VnaWVrZmhkQV9kMWRjUlRqMFpGSWJDaUIwN0VZUW1QLWt4U1FUY2ZJVmxqU2d6RWtZbFlLUGxELVlpSzMxOWRPdkJUQjItcW5yaTRnOXk5cUZ3cDBaMHBNaU9kbG9pdDlDSjZuZg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-20",
    "ts": "2026-10-20T09:34:54Z",
    "level": "notable",
@@ -2454,6 +2452,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-15",
+   "ts": "2026-10-15T04:07:58Z",
+   "level": "notable",
+   "title": {
+    "en": "《西部世界》开始加载，「斯坦福小镇」团队创业，李飞飞、Karpathy都投了|训练|模型|人类|个体|大佬",
+    "zh": "《西部世界》开始加载，「斯坦福小镇」团队创业，李飞飞、Karpathy都投了|训练|模型|人类|个体|大佬"
+   },
+   "body": {
+    "en": "Chinese coverage reports Fei-Fei Li and Andrej Karpathy both invested in a startup from the team behind the 'Stanford Town' AI-agent simulation project.",
+    "zh": "中文报道称，李飞飞与Andrej Karpathy共同投资了\"斯坦福小镇\"AI智能体模拟项目团队创办的公司。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxOaXZNdkgweVZyQXZRRm4xam55c2ZXZjdaSkl6Qk9HS0lwX0xpcldjS2lpM1p1NFFfY3pmSE9ad3N0UVlLX0FYWFBYOFB3aUtmUlRzcFBSYWlSdXRIeXRmZXFlRWV2dkY5MkFJTzVUVUtFTzdsVG9ENktUcHhvd3RGNWFPY3FJVUF6S1FsLXRPZVJleFFVb3ZNQ2pBZUVnd0kyNl9VTThYZzVWekZsTDB3ZWJyWWpEYlZtamdQLTJzSUg3aVFrLUVNdElkcTRjZ05Ma1QzUEtzVmZQSllXb0hQWjF0TmdmYk02T1FrTkloT19JQ0k2RlNTUzRhUndHbWJvbVVvRzNMTzRjN0xEMEtGWnNZUDBwb3Fja1dXRkhmNnNma2NSQkFPbkZUa0t2NWVxSWxISERxZ0hvUF9uR3N2RXRsdnBGNmU4LXdvSl9Sam1hUTYwSlJxQVJtMHBkd1JhWjNFbjF5TDJ6bFczYV93XzhJamtWMzU4S3lpSHdKTGo0YzdMMEo4THRVV1lZUGw0Ykpxa3MxeWRYZ1M3UVR4R25KS1RLQ2lsMXhxNzBnWUlucTZvNFVEdVkwd1Y3QUlmWkR5R0JLSDJzSzMw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-14",
    "ts": "2026-10-14T14:22:41Z",
    "level": "major",
@@ -2535,6 +2550,23 @@
    },
    "source": "www.or100.cc",
    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5OUTBuY3IyUHVOVTlLdHNtdm5IS19KVkhOak9EY1lzMUpGWW5zZVlxYjFYT2dRNXE5RFI2dmxacTgxbERp?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-13",
+   "ts": "2026-10-13T07:38:04Z",
+   "level": "major",
+   "title": {
+    "en": "“李飞飞都卖公司了，世界模型创业还有意义吗？”",
+    "zh": "“李飞飞都卖公司了，世界模型创业还有意义吗？”"
+   },
+   "body": {
+    "en": "Coverage of the sale of World Labs (to AMD) debates whether spatial-intelligence startups still make sense now that Li is no longer an independent founder.",
+    "zh": "围绕李飞飞旗下World Labs被出售（给AMD）的报道，讨论空间智能创业是否仍有意义——她也因此不再是独立公司的创始人。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kaFZGVnlTai1yOHB2UFhrbTJIS3ZIbzU5NngyaENnaXlOZHhZVmF3ckdzYzJRWkxXTmZsNVM3elZTbGY4SUJyS2ptTzRYUC1NNExyOFhCUEUzajlmUWxsdGZFX016RXNpVl82SlVB?oc=5",
    "auto": true,
    "judged": true
   },
@@ -5922,6 +5954,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "刚刚，苏妈李飞飞两大女王合体！AMD 550亿吞下世界模型",
+    "zh": "刚刚，苏妈李飞飞两大女王合体！AMD 550亿吞下世界模型"
+   },
+   "body": {
+    "en": "AMD agreed to acquire Fei-Fei Li's World Labs in an $8.2B deal, with Li joining AMD as an executive alongside CEO Lisa Su to build out world-model technology.",
+    "zh": "AMD以82亿美元收购李飞飞的World Labs，李飞飞将加入AMD，与首席执行官苏姿丰共同打造世界模型技术。"
+   },
+   "source": "搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GenFYRnlYNFBMdmVteER3WEhPVzBiRXQ3SUs0UjI1SjA1NzdYVVFhMGhWR0pfUWNtbWx3Zk1CWnQ5eTFZV3FxUmU5UGtOM2I5Smc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-28",
    "ts": "2026-09-28T12:53:53Z",
    "level": "notable",
@@ -8266,8 +8315,8 @@
   "pageviews": 423813,
   "citations": 222997,
   "hIndex": 137,
-  "events": 352,
-  "posts": 110,
+  "events": 356,
+  "posts": 109,
   "wikiEn": "Fei-Fei Li",
   "wikiZh": "李飛飛"
  },

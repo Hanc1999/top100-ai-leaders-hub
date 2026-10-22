@@ -164,6 +164,25 @@
    }
   },
   {
+   "date": "2026-10-20",
+   "ts": "2026-10-20T16:00:00Z",
+   "kind": "blog",
+   "title": {
+    "en": "Ask a Scientist: How can AI help doctors spend more time on collaborative care?",
+    "zh": "Ask a Scientist: How can AI help doctors spend more time on collaborative care?"
+   },
+   "source": "Koray Kavukcuoglu",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/",
+   "note": {
+    "en": "Google Research published findings on AMIE, an AI system that gathers patient information before doctor visits, part of the health-AI work under Kavukcuoglu's DeepMind.",
+    "zh": "谷歌研究发布了关于AMIE的成果，这是一款在就诊前为患者收集信息的AI系统，属于Kavukcuoglu所领导的DeepMind健康AI工作范畴。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
    "date": "2026-10-13",
    "ts": "2026-10-13T16:00:00Z",
    "kind": "blog",
@@ -1024,16 +1043,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 70.3,
+  "total": 70.6,
   "attention": null,
   "centrality": 87,
-  "momentum": 47,
+  "momentum": 48,
   "stature": 78,
   "pageviews": 0,
   "citations": 166549,
   "hIndex": 73,
   "events": 10,
-  "posts": 38,
+  "posts": 39,
   "wikiEn": null,
   "wikiZh": null
  },

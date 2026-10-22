@@ -149,6 +149,44 @@
    }
   },
   {
+   "date": "2026-10-21",
+   "ts": "2026-10-21T16:34:47Z",
+   "kind": "x",
+   "title": {
+    "en": "Great to sit down with @alexeheath to talk about Argon, the frontier, and our plans for personal agents!",
+    "zh": "Great to sit down with @alexeheath to talk about Argon, the frontier, and our plans for personal agents!"
+   },
+   "source": "@sundarpichai",
+   "url": "https://x.com/sundarpichai/status/2112945705757315307",
+   "note": {
+    "en": "Pichai previewed Google's work on \"Argon\" and its plans for personal AI agents in a conversation with journalist Alex Heath.",
+    "zh": "皮查伊在与记者Alex Heath的对话中，预告了Google在“Argon”项目及个人AI智能体方面的规划。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-20",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Google CEO Sundar Pichai: AI’s Infinite Possibilities, Compute Scarcity Dilemmas, Future AI Products",
+    "zh": "Google CEO Sundar Pichai: AI’s Infinite Possibilities, Compute Scarcity Dilemmas, Future AI Products"
+   },
+   "source": "Big Technology Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/google-ceo-sundar-pichai-ais-infinite-possibilities/id1522960417?i=1000797295909&uo=4",
+   "note": {
+    "en": "Pichai joined Big Technology Podcast to discuss Google's AI strategy, compute scarcity, and competing with OpenAI.",
+    "zh": "皮查伊做客Big Technology播客，谈Google的AI战略、算力稀缺问题以及与OpenAI的竞争。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-10-15",
    "ts": "2026-10-15T16:01:36Z",
    "kind": "x",
@@ -1175,25 +1213,6 @@
    "connector": "x"
   },
   {
-   "date": "2025-10-22",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "New breakthrough quantum algorithm published in @Nature today: Our Willow chip has achieved the first-ever verifiable quantum advantage. Willow ran the algorith",
-    "zh": "New breakthrough quantum algorithm published in @Nature today: Our Willow chip has achieved the first-ever verifiable quantum advantage. Willow ran the algorith"
-   },
-   "source": "@sundarpichai",
-   "url": "https://x.com/sundarpichai/status/1981013746698100811",
-   "note": {
-    "en": "Pichai announced that Google's Willow chip achieved the first verifiable quantum advantage, published in Nature.",
-    "zh": "皮查伊宣布Google的Willow芯片实现了首个可验证的量子优越性,相关成果发表于《自然》期刊。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
    "date": "2025-06-05",
    "ts": null,
    "kind": "podcast",
@@ -1412,6 +1431,40 @@
    },
    "source": "Axios",
    "url": "https://www.axios.com/2026/08/06/googles-ai-leadership-shuffle"
+  },
+  {
+   "date": "2026-10-21",
+   "ts": "2026-10-21T15:13:50Z",
+   "level": "notable",
+   "title": {
+    "en": "Sundar Pichai on Gemini 4 and the AI compute crunch",
+    "zh": "Sundar Pichai on Gemini 4 and the AI compute crunch"
+   },
+   "body": {
+    "en": "In an interview, Sundar Pichai discussed Gemini 4 and the industry-wide AI compute crunch, addressing how Google is navigating capacity constraints while pushing its model roadmap.",
+    "zh": "在一次访谈中，Sundar Pichai谈到了Gemini 4以及行业性的AI算力紧张问题，阐述了谷歌在推进模型路线图的同时如何应对产能限制。"
+   },
+   "source": "Sources | Alex Heath",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uWTJBUlNwbTJnOTBMcHc4eUpaU1gzeVl5bER3QjByTEpldmxpOUZXVnhQa2I4NmljSU9pUnI4eHF0bDE0clVVRFVVdzBDRTNvTUFiV1VnLUhTMzhka1BjdjFEOHBSTGNSb3VCcmtMLXY?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-21",
+   "ts": "2026-10-21T16:04:20Z",
+   "level": "notable",
+   "title": {
+    "en": "Why Google CEO Sundar Pichai thinks asking 'how much code AI writes' is the wrong question",
+    "zh": "Why Google CEO Sundar Pichai thinks asking 'how much code AI writes' is the wrong question"
+   },
+   "body": {
+    "en": "Pichai argued that measuring AI's impact by how much code it writes is the wrong question, pushing instead for engineering-impact metrics.",
+    "zh": "皮查伊认为用AI写了多少代码来衡量其影响是错误的问题，主张应改用工程影响力等指标。"
+   },
+   "source": "Livemint",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSUktckNUWFhSejNzNGpnVlNJVUxTV1NTSmtNcnNJSUpvZlBST2dhd3lDTjBVLU1mMzVLU3lkNXYtR1F0SWo3S0x6VGkwTWRjbm1qNktvb0xHb0dHeTUtU1NkcmVNNmNCX1FFdGd6SmxQajZNRThGS05tU1BCMDJpeE4wWjBfYkJVVXBTZUJvNE1PQ0dvRGNtanhSWXFqc182c2Z6MXJkYUhEaW5CYzlYN2lVYWljUFNUQ0tQM3VLZUVzWFZMOHJISUVnWUlOUjZ2SHfSAdcBQVVfeXFMTWFSUzJhM1llYTMzRzZGY3BQTXpoaFp5TXBSYWFXYi1JLXdlRU9qdWpwS1g4ZktXR0NzRkV3TzNUdk02QmZmeDhyeE9OMjVCM3Y5QXZFY2FGa3ZqcGhBeTQ2V2NESHNoQ1BUbVFhbWlOTG1JcVlRajdzRGhqcWZRem0yRWFpa19MeExPLU5lSTdtTWVTVXdZUUJ0b0FGQllmTzgtRmh6cGlyZ2x4VU1FS2dGVC1NZThpbGhzQUZEODE2dXRPY3BMUmluUVdjLXBGRVdoanVZcDA?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-20",
@@ -2534,8 +2587,8 @@
   "pageviews": 1299595,
   "citations": 1,
   "hIndex": 1,
-  "events": 67,
-  "posts": 68,
+  "events": 69,
+  "posts": 69,
   "wikiEn": "Sundar Pichai",
   "wikiZh": "孙达尔·皮柴"
  },

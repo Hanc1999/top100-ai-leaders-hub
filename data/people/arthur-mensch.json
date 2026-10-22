@@ -177,6 +177,25 @@
    }
   },
   {
+   "date": "2026-10-21",
+   "ts": "2026-10-21T11:57:15Z",
+   "kind": "x",
+   "title": {
+    "en": "AI for industrial engineering will bring humanity to its next technological era. This is a key pillar of our research, and we're deepening our partnership with",
+    "zh": "AI for industrial engineering will bring humanity to its next technological era. This is a key pillar of our research, and we're deepening our partnership with"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/2112875860206162322",
+   "note": {
+    "en": "Mensch posted on X that Mistral is deepening its partnership with NVIDIA to apply AI to industrial engineering.",
+    "zh": "门施在X上发文称，Mistral正深化与NVIDIA的合作，将AI应用于工业工程领域。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-20",
    "ts": "2026-10-20T17:00:40Z",
    "kind": "x",
@@ -189,6 +208,25 @@
    "note": {
     "en": "Mensch announced on X that Mistral released a suite of state-of-the-art voice models, calling voice the next major interface to AI and emphasizing low-latency physical deployment.",
     "zh": "Mensch在X上宣布Mistral发布了一套最先进的语音模型，称语音将成为AI的下一个重要交互入口，并强调就近部署以降低延迟。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-20",
+   "ts": "2026-10-20T22:11:24Z",
+   "kind": "x",
+   "title": {
+    "en": "Voxtral diarizes and detects end-of-turn on the fly. Runs on your infra or on ours (the one in the train station)",
+    "zh": "Voxtral diarizes and detects end-of-turn on the fly. Runs on your infra or on ours (the one in the train station)"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/2112668031268896866",
+   "note": {
+    "en": "Mensch previewed Voxtral's live speaker diarization and end-of-turn detection, runnable on either customer infrastructure or Mistral's own.",
+    "zh": "Mensch预告Voxtral可实时进行说话人分离和话轮结束检测，可部署在客户自有基础设施或Mistral自己的基础设施上。"
    },
    "auto": true,
    "judged": true,
@@ -1681,7 +1719,7 @@
   "citations": 3847,
   "hIndex": 10,
   "events": 14,
-  "posts": 68,
+  "posts": 70,
   "wikiEn": "Arthur Mensch",
   "wikiZh": null
  },

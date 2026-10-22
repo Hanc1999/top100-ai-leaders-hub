@@ -169,6 +169,44 @@
    }
   },
   {
+   "date": "2026-10-21",
+   "ts": "2026-10-21T18:23:50Z",
+   "kind": "x",
+   "title": {
+    "en": "Great conversation with @WalterIsaacson this week on how the U.S. and China are shaping AI differently, and why human connection will matter even more as AI tra",
+    "zh": "Great conversation with @WalterIsaacson this week on how the U.S. and China are shaping AI differently, and why human connection will matter even more as AI tra"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2112973148132093985",
+   "note": {
+    "en": "Lee tweeted about his conversation with Walter Isaacson on how the U.S. and China are shaping AI differently and why human connection matters more as AI transforms work.",
+    "zh": "李开复发推谈及与沃尔特·艾萨克森的对话，讨论中美在AI发展路径上的差异，以及AI改变工作方式后人际连接为何更加重要。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-20",
+   "ts": "2026-10-20T23:36:27Z",
+   "kind": "x",
+   "title": {
+    "en": "In most companies, official reports tell only part of the story. The rest is buried in meeting conversations, chats, code, customer tickets, and shared document",
+    "zh": "In most companies, official reports tell only part of the story. The rest is buried in meeting conversations, chats, code, customer tickets, and shared document"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2112689433942294775",
+   "note": {
+    "en": "Lee argued that official company reports only tell part of the story, with the rest buried in chats, code and tickets — AI's real value is surfacing those hidden signals.",
+    "zh": "李开复提出，公司的正式报告只能反映部分情况，其余信息则隐藏在聊天记录、代码和工单之中——AI的真正价值在于挖掘这些隐藏信号。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-14",
    "ts": "2026-10-14T17:01:19Z",
    "kind": "x",
@@ -1796,6 +1834,25 @@
    "note": {
     "en": "Interview on the publication of AI Superpowers, setting out his account of China's rise as an AI power.",
     "zh": "《AI 新世界》出版时的访谈，阐述他对中国崛起为人工智能强国的判断。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2018-08-13",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "How AI can save our humanity | Kai-Fu Lee",
+    "zh": "How AI can save our humanity | Kai-Fu Lee"
+   },
+   "source": "TED Talks Society and Culture",
+   "url": "https://podcasts.apple.com/us/podcast/how-ai-can-save-our-humanity-kai-fu-lee/id470623803?i=1000418037441&uo=4",
+   "note": {
+    "en": "Kai-Fu Lee's TED talk argues AI can transform nearly every domain except humanity's capacity to love, framing the US-China deep-learning race within a broader human story.",
+    "zh": "李开复在TED演讲中指出，AI几乎能改变一切，唯独无法替代人类爱的能力，并将中美深度学习竞赛置于更宏观的人性叙事中。"
    },
    "auto": true,
    "judged": true,
@@ -3483,7 +3540,7 @@
   "citations": 2181,
   "hIndex": 20,
   "events": 97,
-  "posts": 88,
+  "posts": 91,
   "wikiEn": "Kai-Fu Lee",
   "wikiZh": "李开复"
  },

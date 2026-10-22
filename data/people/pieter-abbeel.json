@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-10-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model",
+    "zh": "SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.28480v1",
+   "note": {
+    "en": "Abbeel co-authored SuperMimic, a paper on scaling humanoid whole-body control with a single differentiable world model, extending his robot-learning research.",
+    "zh": "Abbeel合著了论文SuperMimic，探讨利用单一可微分世界模型扩展人形机器人全身控制，延续了他在机器人学习方向的研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-19",
    "ts": null,
    "kind": "paper",
@@ -670,25 +689,6 @@
    "note": {
     "en": "Paper applying an offline model-based optimization method, CliqueFlowmer, to computational materials discovery.",
     "zh": "论文提出 CliqueFlowmer，用离线基于模型的优化方法做计算材料发现。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-03-05",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Reward-Conditioned Reinforcement Learning",
-    "zh": "Reward-Conditioned Reinforcement Learning"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2603.05066v3",
-   "note": {
-    "en": "Reward-conditioned RL trains a single agent across reward functions instead of one fixed reward, improving robustness to reward misspecification and shifting preferences.",
-    "zh": "奖励条件化强化学习让单个智能体在多种奖励函数下训练，而非固定于一个奖励，从而对奖励设定错误和偏好变化更鲁棒。"
    },
    "auto": true,
    "judged": true,

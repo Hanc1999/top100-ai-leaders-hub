@@ -1,5 +1,5 @@
 {
- "rank": 82,
+ "rank": 81,
  "id": "daphne-koller",
  "name": {
   "en": "Daphne Koller",
@@ -1543,6 +1543,25 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2012-08-01",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "What we're learning from online education | Daphne Koller",
+    "zh": "What we're learning from online education | Daphne Koller"
+   },
+   "source": "TED Talks Education",
+   "url": "https://podcasts.apple.com/us/podcast/what-were-learning-from-online-education-daphne-koller/id470623037?i=1000128651222&uo=4",
+   "note": {
+    "en": "Her 2012 TED Talk on what online education is teaching us about how people learn, given as Coursera scaled past a million users.",
+    "zh": "她2012年的TED演讲，讲述在线教育揭示的学习规律，当时Coursera用户刚突破百万。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   }
  ],
  "news": [
@@ -1577,7 +1596,7 @@
   "citations": 61723,
   "hIndex": 122,
   "events": 1,
-  "posts": 74,
+  "posts": 75,
   "wikiEn": "Daphne Koller",
   "wikiZh": "達芙妮·科勒"
  },

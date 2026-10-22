@@ -213,6 +213,25 @@
    }
   },
   {
+   "date": "2026-10-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Embodied Playground: A Long-Horizon Agentic Robotics Benchmark for Physical, Strategic, and Spatial Reasoning",
+    "zh": "Embodied Playground: A Long-Horizon Agentic Robotics Benchmark for Physical, Strategic, and Spatial Reasoning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.27039v1",
+   "note": {
+    "en": "New paper co-authored by Yi Ma introduces 'Embodied Playground', a long-horizon benchmark testing agentic robots on physical, strategic and spatial reasoning.",
+    "zh": "马毅参与撰写的新论文提出\"Embodied Playground\"，一个测试具身智能体在物理、策略与空间推理方面长时程能力的基准。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-14",
    "ts": "2026-10-14T16:23:26Z",
    "kind": "x",
@@ -1434,7 +1453,7 @@
   "citations": 46806,
   "hIndex": 81,
   "events": 16,
-  "posts": 51,
+  "posts": 52,
   "wikiEn": "Yi Ma",
   "wikiZh": null
  },

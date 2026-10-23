@@ -177,6 +177,25 @@
    }
   },
   {
+   "date": "2026-10-21",
+   "ts": "2026-10-21T22:36:07Z",
+   "kind": "x",
+   "title": {
+    "en": "How do we scale up the context of LLMs? Agentic search scales to arbitrarily large amounts of info, but can easily miss relevant info. Idea💡: Optimize organizat",
+    "zh": "How do we scale up the context of LLMs? Agentic search scales to arbitrarily large amounts of info, but can easily miss relevant info. Idea💡: Optimize organizat"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2113036636586131475",
+   "note": {
+    "en": "Finn floated a research idea for scaling LLM context by optimizing how information is organized for retrieval rather than relying on brute-force agentic search.",
+    "zh": "Chelsea Finn提出一个研究思路：与其让智能体暴力检索海量信息，不如优化信息的组织方式以提升下游可用性，从而扩展大模型的有效上下文规模。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-15",
    "ts": null,
    "kind": "paper",
@@ -1747,25 +1766,6 @@
    "note": {
     "en": "She introduces few-shot preference optimization (FSPO), letting LLM post-training personalize to individual preferences via in-context learning.",
     "zh": "她推出少样本偏好优化（FSPO），通过上下文学习让LLM后训练能够针对个体偏好进行个性化。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2025-02-26",
-   "ts": "2025-02-26T19:35:21Z",
-   "kind": "x",
-   "title": {
-    "en": "Can we prompt robots, just like we prompt language models? With hierarchy of VLA models + LLM-generated data, robots can: - reason through long-horizon tasks -",
-    "zh": "Can we prompt robots, just like we prompt language models? With hierarchy of VLA models + LLM-generated data, robots can: - reason through long-horizon tasks -"
-   },
-   "source": "@chelseabfinn",
-   "url": "https://x.com/chelseabfinn/status/1894833652145758685",
-   "note": {
-    "en": "Finn's team shows robots can be prompted like language models, using a hierarchy of VLA models plus LLM-generated data for long-horizon reasoning.",
-    "zh": "Finn 团队展示了机器人也可以像语言模型一样被提示，通过VLA模型层级结构和LLM生成的数据完成长时程推理任务。"
    },
    "auto": true,
    "judged": true,

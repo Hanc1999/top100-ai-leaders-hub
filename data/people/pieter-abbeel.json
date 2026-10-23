@@ -1,5 +1,5 @@
 {
- "rank": 72,
+ "rank": 73,
  "id": "pieter-abbeel",
  "name": {
   "en": "Pieter Abbeel",
@@ -233,6 +233,25 @@
    "note": {
     "en": "Abbeel co-authors a test-time steerable method for whole-body collision avoidance in humanoid robots.",
     "zh": "Abbeel合著论文，提出一种可在测试阶段调控的人形机器人全身避障方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-10-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SSIO: Self-Supervised Inertial Odometry",
+    "zh": "SSIO: Self-Supervised Inertial Odometry"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.25988v2",
+   "note": {
+    "en": "Co-authored SSIO, a self-supervised inertial odometry method that trains from scratch without ground-truth trajectories, using a myopic teacher-student setup for robot motion estimation.",
+    "zh": "合作发表SSIO论文，提出一种无需地面真值轨迹、通过“短视教师”自监督训练的惯性里程计方法，用于机器人运动估计。"
    },
    "auto": true,
    "judged": true,
@@ -670,25 +689,6 @@
    "note": {
     "en": "A shared latent representation that lets one vision-language-action model transfer across different robot hands.",
     "zh": "提出跨手型的共享隐空间表示，使同一个视觉-语言-动作模型能够迁移到不同的机器人手上。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-03-06",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Offline Materials Optimization with CliqueFlowmer",
-    "zh": "Offline Materials Optimization with CliqueFlowmer"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2603.06082v4",
-   "note": {
-    "en": "Paper applying an offline model-based optimization method, CliqueFlowmer, to computational materials discovery.",
-    "zh": "论文提出 CliqueFlowmer，用离线基于模型的优化方法做计算材料发现。"
    },
    "auto": true,
    "judged": true,
@@ -1225,5 +1225,5 @@
   "wikiZh": "彼得·阿比爾"
  },
  "seedRank": 78,
- "tier": "t4"
+ "tier": "t5"
 }

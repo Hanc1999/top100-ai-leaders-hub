@@ -187,6 +187,25 @@
    }
   },
   {
+   "date": "2026-10-22",
+   "ts": "2026-10-22T11:38:30Z",
+   "kind": "blog",
+   "title": {
+    "en": "恭喜捷达M6上市！今天我们和一汽-大众捷达、酷睿程一起，把行业领先的城区辅助驾驶杀进了10万元以内的国民级车型，也兑现了去年底技术生态大会的承诺。征程6M+HS...",
+    "zh": "恭喜捷达M6上市！今天我们和一汽-大众捷达、酷睿程一起，把行业领先的城区辅助驾驶杀进了10万元以内的国民级车型，也兑现了去年底技术生态大会的承诺。征程6M+HS..."
+   },
+   "source": "余凯_地平线民工的微博",
+   "url": "https://weibo.com/1862459915/RnSm2xnxA",
+   "note": {
+    "en": "Yu Kai announced Horizon Robotics' Journey 6 chip and HSD AI model now power city-area assisted driving in the sub-100k-yuan Jetta M6, pushing advanced ADAS toward a mass-market standard.",
+    "zh": "余凯宣布地平线征程6芯片和HSD AI模型已搭载于10万元级捷达M6，将城区辅助驾驶推向大众市场标配。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "weibo",
+   "connector": "weibo"
+  },
+  {
    "date": "2026-10-20",
    "ts": "2026-10-20T22:53:05Z",
    "kind": "blog",
@@ -595,6 +614,23 @@
    },
    "source": "Horizon Robotics",
    "url": "https://www.horizon.auto/news/product"
+  },
+  {
+   "date": "2026-10-22",
+   "ts": "2026-10-22T03:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "地平线余凯：智驾距离好用还要跨越若干次“太平洋”",
+    "zh": "地平线余凯：智驾距离好用还要跨越若干次“太平洋”"
+   },
+   "body": {
+    "en": "Horizon Robotics' Yu Kai says autonomous driving still has to cross several 'Pacific Oceans' of distance before it becomes genuinely easy to use, a candid read on how far the industry still has to go.",
+    "zh": "地平线创始人余凯表示，智能驾驶距离真正好用还要跨越若干次\"太平洋\"，坦言行业距离成熟还有相当长的路要走。"
+   },
+   "source": "太平洋汽车",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4V2xEdVJGUTJuZENLQjhnMkRidVB6bG9RSVFJVW1Ic2Fpd0FSVUpmTnFxYnd4MXhDZ0lBVHF3ZF9ZUVlzM1hkcFpwempqcW9taV9lb0ZULUVQd28x?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-21",
@@ -3400,8 +3436,8 @@
   "pageviews": 700,
   "citations": 21491,
   "hIndex": 66,
-  "events": 166,
-  "posts": 21,
+  "events": 167,
+  "posts": 22,
   "wikiEn": null,
   "wikiZh": "余凯"
  },

@@ -925,6 +925,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2024-03-05",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Aravind Srinivas - Building An Answer Engine - [Invest Like the Best, EP.363]",
+    "zh": "Aravind Srinivas - Building An Answer Engine - [Invest Like the Best, EP.363]"
+   },
+   "source": "Invest Like the Best with Patrick O'Sh…",
+   "url": "https://podcasts.apple.com/us/podcast/aravind-srinivas-building-an-answer-engine-invest/id6825616819?i=1000797545086&uo=4",
+   "note": {
+    "en": "Aravind Srinivas was the guest on Invest Like the Best, discussing how Perplexity built an AI-native 'answer engine.'",
+    "zh": "Aravind Srinivas作为嘉宾登上播客《Invest Like the Best》，讲述Perplexity如何打造AI原生的「答案引擎」。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2024-02-29",
    "ts": null,
    "kind": "podcast",
@@ -1526,7 +1545,7 @@
   "citations": 2909,
   "hIndex": 15,
   "events": 8,
-  "posts": 66,
+  "posts": 67,
   "wikiEn": null,
   "wikiZh": null
  },

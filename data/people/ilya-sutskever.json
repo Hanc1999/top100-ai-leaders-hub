@@ -1,5 +1,5 @@
 {
- "rank": 15,
+ "rank": 14,
  "id": "ilya-sutskever",
  "name": {
   "en": "Ilya Sutskever",
@@ -1368,6 +1368,23 @@
    "judged": true
   },
   {
+   "date": "2026-07-27",
+   "ts": "2026-07-27T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Ilya Sutskever's SSI chooses Nvidia Vera Rubin systems after earlier Google TPU partnership",
+    "zh": "Ilya Sutskever's SSI chooses Nvidia Vera Rubin systems after earlier Google TPU partnership"
+   },
+   "body": {
+    "en": "SSI chose Nvidia's Vera Rubin systems for its compute buildout, a strategic shift after an earlier partnership with Google's TPUs.",
+    "zh": "SSI选择英伟达的Vera Rubin系统用于其算力建设，这是在此前与谷歌TPU合作之后的一次战略转变。"
+   },
+   "source": "Neowin",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZGZVbzRRM2VlaFRuMWV1VGxFNGx4SzFrMXVqV0JRVV82TE9XU3dIWl8wMGdXcS1vNDRtaEtNR2UzTWQwSGo1bGZ0NnhYbGdzeEhkbXRpSi0yanEtZGpKR25ZdDN4dGY0b1dzTUdUYnRrQ05OM1dJS2JaVnk3TWVNbkpnaXgySTVZME1fQ0NtZXhtQ2Q0ZXNkeDhCSmZBcHB5YXJYT3ZMbkRaNWtyb3J1aGZXbnItdEtpR0c4?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-05-18",
    "ts": null,
    "level": "notable",
@@ -1460,15 +1477,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 77.2,
+  "total": 77.4,
   "attention": 81,
   "centrality": 79,
-  "momentum": 62,
+  "momentum": 63,
   "stature": 92,
   "pageviews": 783963,
   "citations": 219164,
   "hIndex": 62,
-  "events": 29,
+  "events": 30,
   "posts": 44,
   "wikiEn": "Ilya Sutskever",
   "wikiZh": "伊爾亞·蘇茨克維"

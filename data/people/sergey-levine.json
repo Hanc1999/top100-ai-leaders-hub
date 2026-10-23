@@ -1,5 +1,5 @@
 {
- "rank": 82,
+ "rank": 79,
  "id": "sergey-levine",
  "name": {
   "en": "Sergey Levine",
@@ -179,6 +179,25 @@
     "en": "Open-sourced February 2025; generalises across laundry, coffee-making, box assembly and vegetable peeling.",
     "zh": "2025 年 2 月开源；可泛化到叠衣服、冲咖啡、组装纸箱与削蔬菜等任务。"
    }
+  },
+  {
+   "date": "2026-10-22",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "How Close Are We to Robots That Can Do Anything? | Sergey Levine, Physical Intelligence",
+    "zh": "How Close Are We to Robots That Can Do Anything? | Sergey Levine, Physical Intelligence"
+   },
+   "source": "Minus One",
+   "url": "https://podcasts.apple.com/us/podcast/how-close-are-we-to-robots-that-can-do-anything-sergey/id1759014294?i=1000797625773&uo=4",
+   "note": {
+    "en": "Levine appeared on the Minus One podcast to discuss how close general-purpose, skill-learning robots are to reality.",
+    "zh": "莱文做客Minus One播客，探讨能够学习新技能、执行通用任务的机器人距离实现还有多远。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   },
   {
    "date": "2026-10-17",
@@ -725,6 +744,25 @@
    "note": {
     "en": "Long-form interview on building foundation models for the physical world at Physical Intelligence.",
     "zh": "长篇访谈：谈在 Physical Intelligence 为物理世界构建基础模型的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-03-31",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Sergey Levine - Building LLMs for the Physical World - [Invest Like the Best, EP.465]",
+    "zh": "Sergey Levine - Building LLMs for the Physical World - [Invest Like the Best, EP.465]"
+   },
+   "source": "Invest Like the Best with Patrick O'Sh…",
+   "url": "https://podcasts.apple.com/us/podcast/sergey-levine-building-llms-for-the-physical-world/id6825616819?i=1000797545074&uo=4",
+   "note": {
+    "en": "Levine was the guest on Invest Like the Best, discussing Physical Intelligence's work building robotic foundation models for the physical world.",
+    "zh": "莱文作为嘉宾做客播客Invest Like the Best，探讨Physical Intelligence为物理世界构建机器人基础模型的工作。"
    },
    "auto": true,
    "judged": true,
@@ -1705,16 +1743,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 28.8,
+  "total": 29.4,
   "attention": 11,
   "centrality": 43,
-  "momentum": 28,
+  "momentum": 31,
   "stature": 68,
   "pageviews": 4213,
   "citations": 63110,
   "hIndex": 112,
   "events": 1,
-  "posts": 80,
+  "posts": 82,
   "wikiEn": "Sergey Levine",
   "wikiZh": null
  },

@@ -168,6 +168,25 @@
    "connector": null
   },
   {
+   "date": "2026-10-21",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Sundar Pichai on Gemini 4 and the AI compute crunch",
+    "zh": "Sundar Pichai on Gemini 4 and the AI compute crunch"
+   },
+   "source": "Sources with Alex Heath",
+   "url": "https://podcasts.apple.com/us/podcast/sundar-pichai-on-gemini-4-and-the-ai-compute-crunch/id1840154537?i=1000797461022&uo=4",
+   "note": {
+    "en": "Pichai sits down with journalist Alex Heath shortly after the wider release of Gemini 4 Argon to discuss its early reception and the compute constraints even Google faces in pushing the model further.",
+    "zh": "Sundar Pichai在Gemini 4 Argon更大范围发布后接受记者Alex Heath专访，谈及该模型的早期反响，以及即便是Google也面临的算力瓶颈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-10-20",
    "ts": null,
    "kind": "podcast",
@@ -1433,6 +1452,91 @@
    "url": "https://www.axios.com/2026/08/06/googles-ai-leadership-shuffle"
   },
   {
+   "date": "2026-10-22",
+   "ts": "2026-10-22T04:01:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Sundar Pichai explains how a team of AI agents helps him run the company",
+    "zh": "Sundar Pichai explains how a team of AI agents helps him run the company"
+   },
+   "body": {
+    "en": "Pichai described relying on a team of AI agents to help him personally manage and run Google day to day.",
+    "zh": "皮查伊透露自己依靠一组AI智能体协助处理日常事务来管理和运营谷歌。"
+   },
+   "source": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVmRTbHFwVktUMzNmUHZxbXJEbXpRTzdkNUZYODV3SHJzTjFkeGpHWmEwcVowV1ZJWUVaZUNocXpRQkJ5STAycjUyM0VMZS1leVp1aVZjS1VLY2M3UFZOdDltUlF0amtrV0Q1aW9mZkgtRUZFSXc2ZXZHcUlXLUJkZWl3ZjdUSzA5SVZJcS1ZZGFTUGlja0xSOHpOak4?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-22",
+   "ts": "2026-10-22T09:17:18Z",
+   "level": "notable",
+   "title": {
+    "en": "Google CEO Sundar Pichai Views Search Absorbed Into Agentic Layer",
+    "zh": "Google CEO Sundar Pichai Views Search Absorbed Into Agentic Layer"
+   },
+   "body": {
+    "en": "Pichai said he expects search to be absorbed into an agentic AI layer, signaling a shift in Google's core product strategy.",
+    "zh": "皮查伊表示搜索将被纳入智能体AI层，预示着谷歌核心产品战略的转变。"
+   },
+   "source": "Search Engine Journal",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaFB5bnd4UzI3cDRxTk9RenJOck1YaXNYR3hIQXFSMEFIUU42SVpYYTMwUWJ5VmRNTF9RUzhSc1VNQmViU3NidVp4ZnZ6VXpRNnVlZE5lWWN5M0wtNDdwc0VtbmEwMF9SY0I3M3BWNFlxQVhqbjFNdGY0ZWROSE80TjVUVUdqYi1oTXRQTG04UDR5N3p6WHlpeWJaMXhtajVURnp4d3FxVTg4VTA2c0E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-22",
+   "ts": "2026-10-22T09:40:21Z",
+   "level": "notable",
+   "title": {
+    "en": "Sundar Pichai Is Using AI Agents to Track Google 24/7: 'Made All of Us... Be Better at What We Do'",
+    "zh": "Sundar Pichai Is Using AI Agents to Track Google 24/7: 'Made All of Us... Be Better at What We Do'"
+   },
+   "body": {
+    "en": "Pichai said he now uses AI agents to track Google's operations around the clock, saying it has made the team work better.",
+    "zh": "皮查伊表示他现在使用AI智能体全天候追踪谷歌的运营情况，称这让团队的工作表现更出色。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZk84OGVfZFBWNDhlNi1uNW1LMkdhZFdnX25IckF1VnpueEJOTUoxcnRPRlI0ZUJsUVRUcHFKUTFmQ1lWcVpDUllkS3VLX19YZjlsaWJnVWdVZHkwNFUxVXBlWFlsanU2dDdjbGluSXhEdm5tcjBUQlpDWTZ1anN4cF9WZXhYcjNENWhULWYxdWMzLWtiQW9ua29EMFNRQ1NOT19rWllxSWFsa29ab3VqLTdraEJ0ZExOS04yMXFWc3Z3QUhET01jUS11a2R3N3RXUE5FTDhJZ2NNRnJJclE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-22",
+   "ts": "2026-10-22T10:59:02Z",
+   "level": "notable",
+   "title": {
+    "en": "Trump asked Sundar Pichai to rename the Atlantic. Google CEO said no",
+    "zh": "Trump asked Sundar Pichai to rename the Atlantic. Google CEO said no"
+   },
+   "body": {
+    "en": "Pichai reportedly declined a request from Trump to rename the Atlantic Ocean on Google Maps, a notable stance on resisting political pressure over product decisions.",
+    "zh": "据报道，Pichai拒绝了特朗普要求谷歌地图更改「大西洋」名称的请求，这是他在产品决策上抵制政治压力的一个值得关注的公开立场。"
+   },
+   "source": "EasternEye",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZmxkb1Bpc0ZYMWQ4VjlFU1RqN1o5QzFDUHhHcmFfd0JPV3VOdVBIYmpVQWt4S1FUTWlXbGNoQkRiNmVDTlJGenhLVHl0RFUwdHVIbThoQnJINm4zN3NzeUo3ZDR5NE1vSHVFZ0NscE9HSFc4Y3I3Q05nMFBJd3VWXzhJWFI4RW1MUTVpd1VNenRuTmx3QUtLVnNLNA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-22",
+   "ts": "2026-10-22T16:00:29Z",
+   "level": "notable",
+   "title": {
+    "en": "Trump says Sundar Pichai talked him out of renaming the Atlantic Ocean",
+    "zh": "Trump says Sundar Pichai talked him out of renaming the Atlantic Ocean"
+   },
+   "body": {
+    "en": "Trump said Sundar Pichai talked him out of renaming the Atlantic Ocean after himself.",
+    "zh": "特朗普称是桑达尔·皮查伊说服他放弃了将大西洋以自己名字命名的想法。"
+   },
+   "source": "The Verge",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVTQ3ZDdJUFJDYjFzVTJXWmthdjF2UmJSV3lKNXd5UzU3UGRFTEtJM3FaUlhPMTA2YW9JLXdnNkRVYzdJZTNwRmNGbGdKSlZJc0VFMGtKLVJzekYxLTRHOC0zdzNXZTRpamktbEFTSVBYOGktRjNBdmVMT3JRUlJKVmpJM3hpWFo5dWtZbDRfcGVCQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-21",
    "ts": "2026-10-21T15:13:50Z",
    "level": "notable",
@@ -2587,8 +2691,8 @@
   "pageviews": 1299595,
   "citations": 1,
   "hIndex": 1,
-  "events": 69,
-  "posts": 69,
+  "events": 74,
+  "posts": 70,
   "wikiEn": "Sundar Pichai",
   "wikiZh": "孙达尔·皮柴"
  },

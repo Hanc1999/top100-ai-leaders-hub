@@ -142,6 +142,25 @@
    }
   },
   {
+   "date": "2026-10-22",
+   "ts": "2026-10-22T19:10:30Z",
+   "kind": "x",
+   "title": {
+    "en": "Important work from our team in @ScienceMagazine today, showing how our diagnostic orchestrator can reason through complex medical cases, achieving greater diag",
+    "zh": "Important work from our team in @ScienceMagazine today, showing how our diagnostic orchestrator can reason through complex medical cases, achieving greater diag"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2113347282469077501",
+   "note": {
+    "en": "Nadella highlighted new Microsoft research in Science showing an AI diagnostic orchestrator that reasons through complex medical cases with higher accuracy and lower testing cost.",
+    "zh": "纳德拉介绍了微软发表在《科学》杂志上的新研究，展示了一个能够推理复杂病例、兼顾更高诊断准确率与更低检测成本的AI诊断协调系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-21",
    "ts": "2026-10-21T20:45:58Z",
    "kind": "x",
@@ -1149,25 +1168,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-05-05",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "New in Copilot Cowork: mobile, skills, and plugins. Now available on iOS and Android, so you can delegate work from your phone, pick it back up on your desktop,",
-    "zh": "New in Copilot Cowork: mobile, skills, and plugins. Now available on iOS and Android, so you can delegate work from your phone, pick it back up on your desktop,"
-   },
-   "source": "@satyanadella",
-   "url": "https://x.com/satyanadella/status/2051712533174931707",
-   "note": {
-    "en": "Nadella announced new Copilot Cowork features including mobile apps for iOS and Android, skills and plugins.",
-    "zh": "纳德拉宣布Copilot Cowork新增功能,包括iOS和Android移动应用、技能和插件。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
    "date": "2026-01-21",
    "ts": null,
    "kind": "podcast",
@@ -1519,6 +1519,40 @@
    },
    "source": "StartupHub",
    "url": "https://www.startuphub.ai/ai-news/ai-figures/2026/figure-satya-nadella-venture-portfolio-breakdown-2026-08-13"
+  },
+  {
+   "date": "2026-10-22",
+   "ts": "2026-10-22T08:44:29Z",
+   "level": "major",
+   "title": {
+    "en": "Satya Nadella Says Microsoft Is Rebuilding Around AI Agents as Trump Pushes ‘Super Intelligence’ — From 1",
+    "zh": "Satya Nadella Says Microsoft Is Rebuilding Around AI Agents as Trump Pushes ‘Super Intelligence’ — From 1"
+   },
+   "body": {
+    "en": "Nadella said Microsoft is restructuring around AI agents, aligning with the push for 'superintelligence' under the Trump administration.",
+    "zh": "纳德拉表示微软正围绕AI智能体进行重组，与特朗普政府推动的“超级智能”议程保持一致。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOX3lvYnhyNzFScVp0ZDNhd29sUUVHdTB6WjMybW0tT2lmZGwyYmktZEZCZ0xDWk9XcE1kUy12bk1ILURfZWdqeUluLXF4ZzdJMzIxV0JfcGkxN3NzdC11bmVyVklyYkVCaEkyNnJydUx6MmZkRkh5aThuMXJVVlB5bGRScHMtMmVGWVFaOEZoTkF5QXB3TjFEWXhYMmMyb2ppeUVzeXF0Q0h0dDJvQVZwNngwLXpZQm5iM1NNUVA1YzFORDZ0SXNUdWk0aER5a01NaXg3bTdLV05lamFaYjVERzI3WUNkNjMyTkVITTEydGdJTDhvTEoxMndiRExSUldFc194UkZYdmZTZ1BVT3hLSzVIQWhJd3RONGFXUGN6Z0JMS1d0UXpF?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-22",
+   "ts": "2026-10-22T11:05:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Microsoft working to reduce AI costs, expand ecosystem as global adoption rises: Satya Nadella",
+    "zh": "Microsoft working to reduce AI costs, expand ecosystem as global adoption rises: Satya Nadella"
+   },
+   "body": {
+    "en": "Nadella said Microsoft is working to cut AI costs and widen its ecosystem as global adoption accelerates, reiterating the company's affordability-and-reach strategy.",
+    "zh": "纳德拉表示，随着全球AI应用加速普及，微软正致力于降低AI成本并扩大生态圈，重申了公司“降低门槛、扩大覆盖”的战略。"
+   },
+   "source": "ANI News",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMXVxbUpwN2hrQWZLWFBmOWphb0VRSDcxN3RBVEI2TGZreF9BRUxFNy1tZGJ0d2tQZzJoa0F1ZEdpbk92NmxwOFZwUmkzTm9UUEt2NEpXT3Q0Ykl1ODZTVVBQUTZmSzlPTXNVZ2JPendsUk9qWGdYVHB3TjlrR2tuenVBLVhjNFdST1JxSDJfQU1fQ1RlVmFMbFJ5M3lUeHlFeHBQWk1xbXZlQXFnZ282OXQtX0NxMDBYeEQwRF9JOG9vU1NRYjNPcFJXQmFVS2taaC0wenhnWkZ5bjA?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-19",
@@ -3933,7 +3967,7 @@
   "pageviews": 828227,
   "citations": 231,
   "hIndex": 3,
-  "events": 143,
+  "events": 145,
   "posts": 73,
   "wikiEn": "Satya Nadella",
   "wikiZh": "薩蒂亞·納德拉"

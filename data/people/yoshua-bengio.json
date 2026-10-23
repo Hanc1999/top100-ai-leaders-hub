@@ -1,5 +1,5 @@
 {
- "rank": 28,
+ "rank": 29,
  "id": "yoshua-bengio",
  "name": {
   "en": "Yoshua Bengio",
@@ -1841,82 +1841,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2026-04-18",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Local Inconsistency Resolution: The Interplay between Attention and Control in Probabilistic Models",
-    "zh": "Local Inconsistency Resolution: The Interplay between Attention and Control in Probabilistic Models"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2604.17140v1",
-   "note": {
-    "en": "A general learning and inference algorithm that repeatedly focuses on part of a probabilistic model and resolves its inconsistencies, giving attention an epistemic reading.",
-    "zh": "提出一种通用的学习与推断算法，反复聚焦于概率模型的局部并消解其中的不一致，为注意力机制赋予了认知论上的解释。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-04-06",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "General Multimodal Protein Design Enables DNA-Encoding of Chemistry",
-    "zh": "General Multimodal Protein Design Enables DNA-Encoding of Chemistry"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2604.05181v1",
-   "note": {
-    "en": "A multimodal generative model for protein design, co-authored with Frances Arnold and Alexander Tong, extending the chemistry that DNA can be made to encode.",
-    "zh": "与 Frances Arnold、Alexander Tong 合作提出的多模态蛋白质设计生成模型，拓展了 DNA 可编码的化学空间。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-04-03",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "A Discussion on “The ICML 2023 Ranking Experiment: Examining Author Self-Assessment in ML/AI Peer Review”",
-    "zh": "A Discussion on “The ICML 2023 Ranking Experiment: Examining Author Self-Assessment in ML/AI Peer Review”"
-   },
-   "source": "Journal of the American Statistical As…",
-   "url": "https://doi.org/10.1080/01621459.2025.2549338",
-   "note": {
-    "en": "With Dinghuai Zhang, published a discussion piece on the ICML 2023 ranking experiment examining how well ML/AI peer reviewers' self-assessed confidence predicts accuracy.",
-    "zh": "与张鼎怀合作发表评论文章，讨论ICML 2023排名实验，探讨机器学习/AI同行评审者对自身判断信心的自评是否准确。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2026-03-30",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "A Comparative Study of Molecular Dynamics Approaches for Simulating Ionic Conductivity in Solid Lithium Electrolytes",
-    "zh": "A Comparative Study of Molecular Dynamics Approaches for Simulating Ionic Conductivity in Solid Lithium Electrolytes"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2603.28012v1",
-   "note": {
-    "en": "A Mila–NRC benchmark of molecular-dynamics methods for predicting ionic conductivity in solid lithium electrolytes, part of Bengio's AI-for-materials work with Alex Hernandez-Garcia.",
-    "zh": "Mila 与加拿大国家研究委员会合作，对预测固态锂电解质离子电导率的分子动力学方法进行基准评测，属于 Bengio 与 Alex Hernandez-Garcia 的 AI 材料研究。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2026-03-26",
    "ts": null,
    "kind": "podcast",
@@ -3296,6 +3220,23 @@
    "judged": true
   },
   {
+   "date": "2026-07-02",
+   "ts": "2026-07-02T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "'Godfather of AI' Yoshua Bengio on why AI can behave unpredictably (and what needs to change)",
+    "zh": "'Godfather of AI' Yoshua Bengio on why AI can behave unpredictably (and what needs to change)"
+   },
+   "body": {
+    "en": "In a World Economic Forum feature, Bengio explained why advanced AI systems can behave unpredictably and what he thinks needs to change, tying directly into his role leading the International AI Safety Report.",
+    "zh": "在世界经济论坛的一篇报道中，Bengio阐述了先进AI系统为何可能表现出不可预测的行为，以及他认为需要作出哪些改变，这与他主持《国际AI安全报告》的角色密切相关。"
+   },
+   "source": "World Economic Forum",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZW9NOWZjSjZ1cWFEbmRDNXZZTHVibUQ5dGczUEJtTmNIY2I3T3d4Vl9iRXIxNnZVcWlBdVJHbENfMEpZQ3otWlJ1Nzc4aUs4Q0pHb0tBNFFubmxpN1dyazhESHFOUlJ4VHE3eUluZG53WDY4cDZ5Szkyamh1MERrdjBVOEZHMzNOTGdOWFhuR1pmbm51ZUJRc1B3MDluWDg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-05-29",
    "ts": null,
    "level": "notable",
@@ -3413,8 +3354,8 @@
   "pageviews": 276660,
   "citations": 475043,
   "hIndex": 184,
-  "events": 65,
-  "posts": 113,
+  "events": 66,
+  "posts": 109,
   "wikiEn": "Yoshua Bengio",
   "wikiZh": "约书亚·本希奥"
  },

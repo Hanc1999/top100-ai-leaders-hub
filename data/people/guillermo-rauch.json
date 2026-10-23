@@ -127,6 +127,25 @@
    }
   },
   {
+   "date": "2026-10-22",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Guillermo Rauch: One Stroke Dragon",
+    "zh": "Guillermo Rauch: One Stroke Dragon"
+   },
+   "source": "First of Kind",
+   "url": "https://podcasts.apple.com/us/podcast/guillermo-rauch-one-stroke-dragon/id1818890725?i=1000797633930&uo=4",
+   "note": {
+    "en": "Rauch appeared on the 'First of Kind' podcast discussing his path from self-taught programmer in Argentina to founding Vercel.",
+    "zh": "Rauch做客播客节目\"First of Kind\",讲述了自己从阿根廷自学编程到创立Vercel的历程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-10-16",
    "ts": null,
    "kind": "podcast",
@@ -1221,16 +1240,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 36.5,
+  "total": 36.9,
   "attention": null,
   "centrality": 36,
-  "momentum": 37,
+  "momentum": 38,
   "stature": null,
   "pageviews": 0,
   "citations": 9,
   "hIndex": 1,
   "events": 7,
-  "posts": 52,
+  "posts": 53,
   "wikiEn": null,
   "wikiZh": null
  },

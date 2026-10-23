@@ -141,6 +141,25 @@
    }
   },
   {
+   "date": "2026-10-22",
+   "ts": "2026-10-22T18:13:29Z",
+   "kind": "x",
+   "title": {
+    "en": "Our MAI Diagnostic system is now 1.7x more accurate than physicians in the ED, even when they have access to the web to look things up. It's also lower cost &am",
+    "zh": "Our MAI Diagnostic system is now 1.7x more accurate than physicians in the ED, even when they have access to the web to look things up. It's also lower cost &am"
+   },
+   "source": "@mustafasuleyman",
+   "url": "https://x.com/mustafasuleyman/status/2113332931423039945",
+   "note": {
+    "en": "Suleyman said Microsoft's MAI Diagnostic system is now 1.7x more accurate than physicians in the ED even when they can search the web, and cheaper and faster to run.",
+    "zh": "苏莱曼表示，微软的MAI诊断系统在急诊场景下的准确率已达到医生（即便可查阅网络）的1.7倍，且成本更低、检测更少。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-16",
    "ts": "2026-10-16T15:26:48Z",
    "kind": "x",
@@ -1582,6 +1601,23 @@
    "url": "https://www.geekwire.com/2026/microsoft-unveils-seven-homegrown-ai-models-in-bid-for-long-term-self-sufficiency/"
   },
   {
+   "date": "2026-10-22",
+   "ts": "2026-10-22T18:43:53Z",
+   "level": "notable",
+   "title": {
+    "en": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+    "zh": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’"
+   },
+   "body": {
+    "en": "TechCrunch covered Suleyman's claim that Microsoft's AI now outperforms doctors on hard diagnostic cases, part of his stated push toward 'medical superintelligence.'",
+    "zh": "TechCrunch报道了苏莱曼关于微软AI在高难度诊断病例上已超越医生的说法，这是他提出的迈向“医疗超级智能”目标的一部分。"
+   },
+   "source": "TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRVdXNUh5Ylc4REo4QVJUQk42eV9PS3B3UDlEdVhsREdRaG1HazZBOHVyZnFJYmhGc3hpcVM5VjRnYW02RlF6d1h3TDhDb1NqcWVyUHdDd0pQVk9GQUdnR1duUi1abGY0Y1EwTWNOaU9JbVZTMGJMVHFGSFV2Wkx6TWdZNDdmS3dnZzNWUEdZaV9KaWxNaDVoZ202ZTloaXE5bi1sam1VOXZuNkRoRHBWNFF0RVVLZTdETW5ZZXpoZGJhYXNWNkRBWEFpYlFyc2dJZmFKakp3Zkp5d29nOERSWQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-17",
    "ts": "2026-10-17T14:41:04Z",
    "level": "major",
@@ -2473,16 +2509,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 71.8,
+  "total": 71.1,
   "attention": 71,
   "centrality": 87,
-  "momentum": 75,
+  "momentum": 72,
   "stature": 29,
   "pageviews": 382768,
   "citations": 18255,
   "hIndex": 20,
-  "events": 53,
-  "posts": 77,
+  "events": 54,
+  "posts": 78,
   "wikiEn": "Mustafa Suleyman",
   "wikiZh": null
  },

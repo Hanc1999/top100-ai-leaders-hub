@@ -219,6 +219,25 @@
    }
   },
   {
+   "date": "2026-10-21",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Fei-Fei Li on Curiosity, Audacity, and the Quest for Artificial Intelligence | Only In America",
+    "zh": "Fei-Fei Li on Curiosity, Audacity, and the Quest for Artificial Intelligence | Only In America"
+   },
+   "source": "Only in America",
+   "url": "https://podcasts.apple.com/us/podcast/fei-fei-li-on-curiosity-audacity-and-the-quest/id1896902505?i=1000797425797&uo=4",
+   "note": {
+    "en": "Fei-Fei Li discusses her path from ImageNet to spatial intelligence in a long-form interview on the Only in America podcast.",
+    "zh": "李飞飞在播客节目《Only in America》的长篇访谈中，讲述了她从ImageNet到空间智能的研究历程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-10-19",
    "ts": null,
    "kind": "paper",
@@ -2282,6 +2301,23 @@
    "url": "https://www.techtimes.com/articles/317927/20260606/feifei-lis-world-labs-splits-world-model-three-types-marble-targets-simulation-linchpin.htm"
   },
   {
+   "date": "2026-10-22",
+   "ts": "2026-10-22T01:19:50Z",
+   "level": "notable",
+   "title": {
+    "en": "李飞飞Atlas内测上手 世界模型能上桌吗？_精彩视频为您呈现",
+    "zh": "李飞飞Atlas内测上手 世界模型能上桌吗？_精彩视频为您呈现"
+   },
+   "body": {
+    "en": "Hands-on coverage of the private beta for Atlas, World Labs' spatial world-model product, asking whether the technology is ready for real use.",
+    "zh": "报道了World Labs旗下世界模型产品Atlas的内测体验，探讨世界模型能否真正落地可用。"
+   },
+   "source": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YdGNYdzRsUEdXcjdWckZZaGlzY2ZoTXJ3MUt1NzFnZFo4S25MMWJFWGJ1ZEVVSDdpcmZSLTRoS0J4Tm8welNlUWFmQkt2ODlDM2ZyLWJR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-21",
    "ts": "2026-10-21T17:31:13Z",
    "level": "major",
@@ -2312,6 +2348,23 @@
    },
    "source": "Podnews",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5POVdNWU1uWmRkamwtLTVtbDVWNTBSNk1lNkVzTVUyc3lTYXowQ0hKby1DWXVSYlhFMFNaOXdyZG5oekk5S0hXTENSdFZZbzl1SHNBcjVvSDNGVE9nVFNLU3lYWjBmWDR5QngwWUNHaw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-20",
+   "ts": "2026-10-20T14:39:34Z",
+   "level": "major",
+   "title": {
+    "en": "名下公司82亿美元被收购，“AI教母”李飞飞加入英伟达对手AMD，直接向苏姿丰汇报",
+    "zh": "名下公司82亿美元被收购，“AI教母”李飞飞加入英伟达对手AMD，直接向苏姿丰汇报"
+   },
+   "body": {
+    "en": "Fei-Fei Li's World Labs was acquired by AMD for $8.2B; she joins AMD as chief scientist, reporting directly to CEO Lisa Su.",
+    "zh": "李飞飞旗下的World Labs被AMD以82亿美元收购，她将加入AMD担任首席科学家，直接向CEO苏姿丰汇报。"
+   },
+   "source": "华人头条",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORXhnTnYxbzJ2eUtvdW5tNUplN0pJY2phSXRiYmJ6S2xpRmJQdEUzazRla3BSdHZBaERWSzlpMFdHc1BENDVvVWxoVlBBVWRMbXpYZUdXQVY2a1AwekpKX2dJV3RBclhZYWxoQ3BVQkVqMWVMSUI5b2dCVHJlaGZIc1Q4eWVXZ0xV?oc=5",
    "auto": true,
    "judged": true
   },
@@ -5971,6 +6024,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "AMD以82亿美元收购李飞飞的World Labs AI公司",
+    "zh": "AMD以82亿美元收购李飞飞的World Labs AI公司"
+   },
+   "body": {
+    "en": "AMD agreed to acquire Fei-Fei Li's World Labs for $8.2B, with Li becoming EVP and chief scientist under Lisa Su.",
+    "zh": "AMD同意以82亿美元收购李飞飞创立的World Labs，李飞飞将在苏姿丰领导下担任执行副总裁兼首席科学家。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMk5VSVUtcnFTWVlScjVhV3J2ZnZLdHA4X2Vvc2g2MTJ4MHI5aDBiZkdHckd3Z0hRbkxMOW9NRG9RdHhhQ1hVQUpaUThTbktZeldWeHNUU3dnTzlGNkNuQ0xVOUNhcVcxbzFQR3IxQURFMzItRHlLR0RfV0V0Nnc5aW1Sc3hmNTRiVHlheFRjTjE3M29oRThVcXV4SjJIWjdDdEZocDVmTS1mb2FlU2tLeUlpUUR3V2JxeUw2WEx2T2Z4LXlGU2hXeFl5dGJuREx2d3U2OGpGY0lRQVdFQXc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-28",
    "ts": "2026-09-28T12:53:53Z",
    "level": "notable",
@@ -6341,6 +6411,23 @@
    },
    "source": "finance.sina.com.cn",
    "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPNUtiUzlKRll2bmJWLXVTb3hEc0JCMWVnNWNpeWR4clF2c0NmVXQyRWZILTktZ1hLR0J1bGRfWldianN5clBKTk5hdlRkcURDQWZRTmFjZ19nd25RNnh5REdVNDZRMEdDMW9iVk5BVkpsYTA5OUxpREdxTXZYOHlYTEduSE1fTDFUSzFKZUVyLXJyZll5T091UnJyb3FVakMydzJURlU5S1YwYWtjQktUTWNnOGh2V0IyWGVPaGVJSnVVclV6VlppLVl6UjdrT2djTHhtN0ZKQTVraDJCNUJOOF82RUFfTGlzcm0wbnNzMlNGUTFFa2Y4R1lKNENVbVQ5WFl0VWhRUGRiX1c2RWVOQkVPbUNwX29MekJYS2Z4aE0yS3dOa21NRU5FYTEyTkxhNGxmTHVVdGU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-28",
+   "ts": "2026-09-28T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "AMD to Buy Fei-Fei Li's World Labs for $8.2 Billion in All-Stock Deal",
+    "zh": "AMD to Buy Fei-Fei Li's World Labs for $8.2 Billion in All-Stock Deal"
+   },
+   "body": {
+    "en": "AMD agreed to acquire Fei-Fei Li's World Labs for $8.2 billion in an all-stock deal, with Li set to become AMD's EVP and chief scientist under Lisa Su.",
+    "zh": "AMD同意以82亿美元全股票交易收购李飞飞的World Labs，李飞飞将在苏姿丰领导下担任AMD执行副总裁兼首席科学家。"
+   },
+   "source": "Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV3B5X3lZUmEwUGU0UkpWTk5WLTJwUml1WXk1dXZSdjBubFp0dm9HTzBZNXdZYXJNY1QwMTMtNXd1Rll4ZFFLcl9zMjk0Q2VWYkhzU3FvcTNRejh5dUlqa1A4dTNQTjNDY19raFZzakVERVA4VWNOaklqcUNSQmo1QmF1VmhiS21KWC1VUXpZT3FRSWl3TXc?oc=5",
    "auto": true,
    "judged": true
   },
@@ -8315,8 +8402,8 @@
   "pageviews": 423813,
   "citations": 222997,
   "hIndex": 137,
-  "events": 356,
-  "posts": 109,
+  "events": 360,
+  "posts": 110,
   "wikiEn": "Fei-Fei Li",
   "wikiZh": "李飛飛"
  },

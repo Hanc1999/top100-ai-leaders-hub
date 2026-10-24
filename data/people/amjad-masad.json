@@ -999,6 +999,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2023-01-03",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Amjad Masad - The Future of Software Creation - [Invest Like the Best, EP.310]",
+    "zh": "Amjad Masad - The Future of Software Creation - [Invest Like the Best, EP.310]"
+   },
+   "source": "Invest Like the Best with Patrick O'Sh…",
+   "url": "https://podcasts.apple.com/us/podcast/amjad-masad-the-future-of-software-creation-invest/id6825616819?i=1000797553017&uo=4",
+   "note": {
+    "en": "Masad appears as the guest on Invest Like the Best, discussing Replit's mission to bring software creation to a billion people.",
+    "zh": "Amjad Masad作为嘉宾出席《Invest Like the Best》播客，谈论Replit让十亿人参与软件创作的愿景。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2022-12-08",
    "ts": null,
    "kind": "podcast",
@@ -1412,7 +1431,7 @@
   "citations": 0,
   "hIndex": 0,
   "events": 10,
-  "posts": 58,
+  "posts": 59,
   "wikiEn": "Amjad Masad",
   "wikiZh": null
  },

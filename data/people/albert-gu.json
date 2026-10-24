@@ -1,5 +1,5 @@
 {
- "rank": 89,
+ "rank": 90,
  "id": "albert-gu",
  "name": {
   "en": "Albert Gu",
@@ -161,6 +161,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-10-23",
+   "ts": "2026-10-23T17:43:36Z",
+   "kind": "x",
+   "title": {
+    "en": "to prepare for an upcoming release (👀) we dug into the pretokenizer a little more. are people aware that hand-crafted regexes are part of every frontier LLM and",
+    "zh": "to prepare for an upcoming release (👀) we dug into the pretokenizer a little more. are people aware that hand-crafted regexes are part of every frontier LLM and"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2113687798826111283",
+   "note": {
+    "en": "Gu previewed an upcoming model release, noting that hand-crafted regex pretokenizers still do heavy lifting inside every frontier LLM.",
+    "zh": "Albert Gu在预告即将发布的新模型时指出，手工编写的正则表达式预分词器至今仍在所有前沿大模型中承担着繁重的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
   },
   {
    "date": "2026-10-12",
@@ -1453,7 +1472,7 @@
   "citations": 2983,
   "hIndex": 21,
   "events": 0,
-  "posts": 68,
+  "posts": 69,
   "wikiEn": null,
   "wikiZh": null
  },

@@ -1,5 +1,5 @@
 {
- "rank": 90,
+ "rank": 88,
  "id": "hongxia-yang",
  "name": {
   "en": "Hongxia Yang",
@@ -256,6 +256,25 @@
    "note": {
     "en": "Yang co-authored TRIAGE, a method for stabilizing reinforcement learning under low-precision (NVFP4) execution in large language models.",
     "zh": "杨红霞合著了TRIAGE方法，用于在大语言模型的低精度（NVFP4）执行环境下稳定强化学习训练。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-09-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "FusionEval: Benchmarking Model Fusion for Large Language Models",
+    "zh": "FusionEval: Benchmarking Model Fusion for Large Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.30162v1",
+   "note": {
+    "en": "Yang co-authored FusionEval, a new benchmark for evaluating how well model-fusion techniques combine the capabilities of multiple expert LLMs, with a focus on long chain-of-thought reasoning and tool use.",
+    "zh": "杨红霞共同撰写了FusionEval，这是一个新基准，用于评估模型融合技术整合多个专家大模型能力的效果，重点关注长链思维推理与工具使用。"
    },
    "auto": true,
    "judged": true,
@@ -945,25 +964,6 @@
    "judged": true,
    "platform": "openalex",
    "connector": "openalex"
-  },
-  {
-   "date": "2025-01-01",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "DavIR: Data Selection via Implicit Reward for Large Language Models",
-    "zh": "DavIR: Data Selection via Implicit Reward for Large Language Models"
-   },
-   "source": "Annual Meeting of the Association for…",
-   "url": "https://doi.org/10.18653/v1/2025.acl-long.452",
-   "note": {
-    "en": "Co-authored ByteDance-era paper on DavIR, a data-selection method for LLM training based on implicit reward.",
-    "zh": "她在字节跳动期间合著的论文,提出DavIR——一种基于隐式奖励的大模型训练数据选择方法。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
   }
  ],
  "news": [
@@ -1237,6 +1237,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "香港AI专家杨红霞：如果未来所有数据被几家公司掌握是极其恐怖的",
+    "zh": "香港AI专家杨红霞：如果未来所有数据被几家公司掌握是极其恐怖的"
+   },
+   "body": {
+    "en": "Yang warned publicly that it would be \"extremely terrifying\" if all data ends up concentrated in the hands of a few companies, a stance on AI data concentration risk.",
+    "zh": "杨红霞公开警告，如果未来所有数据都被少数几家公司掌握，那将\"极其恐怖\"，表明了她对AI数据集中风险的立场。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxNzIxSFotQmFqd2Q3eXc5RGc2RlVpbGtwdWdlWDlHVkU1VkRjQ3hnUlhiUkVRTXBxSU55SFlpZXZMdXFtdDd0X0JxLXVwS2FGMFk4ZXNB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-06-14",
    "ts": null,
    "level": "notable",
@@ -1261,19 +1278,19 @@
  },
  "cat": "research",
  "score": {
-  "total": 24.7,
+  "total": 25.1,
   "attention": null,
   "centrality": 7,
-  "momentum": 53,
+  "momentum": 54,
   "stature": 8,
   "pageviews": 0,
   "citations": 7252,
   "hIndex": 40,
-  "events": 17,
+  "events": 18,
   "posts": 42,
   "wikiEn": null,
   "wikiZh": null
  },
  "seedRank": 52,
- "tier": "t6"
+ "tier": "t5"
 }

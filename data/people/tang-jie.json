@@ -217,6 +217,25 @@
    }
   },
   {
+   "date": "2026-10-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "RIDAR: Safeguarding Research Integrity in Autonomous Research Agents via Automated Detection and Runtime Intervention",
+    "zh": "RIDAR: Safeguarding Research Integrity in Autonomous Research Agents via Automated Detection and Runtime Intervention"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.31372v1",
+   "note": {
+    "en": "Tang Jie co-authored RIDAR, a system for detecting and intervening on research-integrity violations committed by autonomous AI research agents.",
+    "zh": "唐杰合著论文RIDAR，提出了一套用于检测并干预自主AI科研代理在研究过程中出现学术不端行为的系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-19",
    "ts": null,
    "kind": "paper",
@@ -1632,6 +1651,40 @@
    },
    "source": "Z.ai",
    "url": "https://z.ai/"
+  },
+  {
+   "date": "2026-10-23",
+   "ts": "2026-10-23T11:30:51Z",
+   "level": "notable",
+   "title": {
+    "en": "智谱唐杰署名RSI新成果开源！Agent自我进化成本还狂降53%",
+    "zh": "智谱唐杰署名RSI新成果开源！Agent自我进化成本还狂降53%"
+   },
+   "body": {
+    "en": "Zhipu's Tang Jie is credited as a signing author on a new open-sourced recursive self-improvement result that cuts agent self-evolution cost by 53%.",
+    "zh": "智谱唐杰署名的一项新的递归自我改进（RSI）成果已开源，将Agent自我进化的成本降低了53%。"
+   },
+   "source": "搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ094ZGxOVlowOWF5WVg5LXhBZS1PNjFzM1ROM2YtRjZBRXY4NjJTSEhRcGY0amEyYlVjSThwU0o3WEo2RWpNWVh1WU5wdFYxQXl1b0NJcFhZVG84MzdMQkJPQ1lyREM3akR3cHhrT2I4WWZ2X285Zk5WLW1oNDBHQThHWWRuRE1B?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-23",
+   "ts": "2026-10-23T11:30:51Z",
+   "level": "notable",
+   "title": {
+    "en": "智谱唐杰署名RSI新成果开源！Agent自我进化成本还狂降53%",
+    "zh": "智谱唐杰署名RSI新成果开源！Agent自我进化成本还狂降53%"
+   },
+   "body": {
+    "en": "Zhipu, under Tang Jie's byline, open-sourced new recursive self-improvement (RSI) agent research that cuts self-evolution cost by 53%.",
+    "zh": "智谱在唐杰署名下开源了新的RSI（递归自我改进）智能体研究成果，将Agent自我进化成本降低53%。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ2VlNmtLczZNVUhNYVAtWlUtX0NsaEoyY0dIdy1sS0NEcUhXa3NPYTB1Q0c1Sl9IejV4S09QM0RZdWRwVEotdmxDUEZtR1JyMmNGcGRRM2IzNnkxVmtwaEg2NEpva0JhUmZzNlpPdEpPUUVEa1N5UWY5WHZhMy1pUFdwMFRVY0dPdW5n?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-17",
@@ -3215,6 +3268,23 @@
    "judged": true
   },
   {
+   "date": "2026-08-18",
+   "ts": "2026-08-18T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "《求是》| 唐杰：以词元为引擎推动智能经济高质量发展",
+    "zh": "《求是》| 唐杰：以词元为引擎推动智能经济高质量发展"
+   },
+   "body": {
+    "en": "In an essay for the Party's flagship theory journal Qiushi, Tang argued that tokens should be treated as the engine driving high-quality growth of the intelligent economy.",
+    "zh": "唐杰在党刊《求是》发表文章，提出应以词元（token）作为引擎，推动智能经济高质量发展。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iNHgtZ2NHUDM0NnlPR0ozeUZndjNqSDJabUlfbzRJeEFhV3p5YU11a3h0M1VIQmpITFZ5S3A5T0NuUEV2Nlk4T2VVTWxtQkU5R0RJd3lfc2dxNkxVR3JGU2VDZEhDZTJvejJoMk5KZDZPako0R0E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-08-15",
    "ts": null,
    "level": "notable",
@@ -3555,6 +3625,23 @@
    "judged": true
   },
   {
+   "date": "2026-07-12",
+   "ts": "2026-07-12T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "智谱创始人唐杰内部信：未来两年，将战略性投入四大核心引擎|开源模型|ChatGPT|模型|上界|系统_手机新浪网",
+    "zh": "智谱创始人唐杰内部信：未来两年，将战略性投入四大核心引擎|开源模型|ChatGPT|模型|上界|系统_手机新浪网"
+   },
+   "body": {
+    "en": "In an internal letter, Zhipu founder Tang Jie said the company will strategically invest in four core engines over the next two years, setting its strategic direction.",
+    "zh": "智谱创始人唐杰在内部信中表示，公司未来两年将战略性投入四大核心引擎，确立了公司的战略方向。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPY0Q4VkUwUUhFUVRia215TkJLRktYTzFuVE5lbDUzZUdxR1UtR1NpYl9xaEhMRTRfRWhBenVIS3lXZ1VtNmhwQlYzRjBuT3VIdFF1SERDR2xMcmw0dGhscW54OGYxeEFJMkZ2c3dHeVFvdnNlWkZlNVh6dklIbkFfcXIwam85VWR0ZW1yNy1Sc3FheU1OLXplbjRkQnBqOWRkc3NFUEk1Z3pVUDVwTWN4bjdWXy1sRkJ3aGpuR1E0MDhLTjZ0N19vMkRIWTU5eHVicHMtcVA4WThjbDJfcGJVdGpoMXJ1UnhpLThmRzRwNW9EUkd6SjllU2tPLWRwY1o3bC13WUlld0tfN3pPQjJjOUdQYnFtNGxYNE5LYw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-07-11",
    "ts": "2026-07-11T07:00:00Z",
    "level": "notable",
@@ -3706,8 +3793,8 @@
   "pageviews": 0,
   "citations": 30390,
   "hIndex": 83,
-  "events": 123,
-  "posts": 74,
+  "events": 127,
+  "posts": 75,
   "wikiEn": null,
   "wikiZh": null
  },

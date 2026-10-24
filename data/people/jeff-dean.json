@@ -2215,6 +2215,40 @@
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTllmSFA4NEtkVXlpUGw3emZ1aEZlU2dhMnZieUpPeE1EMnpQUnUwX2RpdjhuVXI3Z3dOLUlGeTIxclhBUmJveFkxYS1fX18tVVB2bktvYURBdk5kRGdJanNvaWRtV0NQSUp4Smw4NG1Zb0ZrNkhqd0lrSDdEcEdMMEVn?oc=5",
    "auto": true,
    "judged": true
+  },
+  {
+   "date": "2026-08-05",
+   "ts": "2026-08-05T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Jeff Dean and three Google researchers launch Discovery Loop for automated research",
+    "zh": "Jeff Dean and three Google researchers launch Discovery Loop for automated research"
+   },
+   "body": {
+    "en": "Dean, joined by three former Google researchers, launched Discovery Loop, a startup aimed at automating machine-learning research itself.",
+    "zh": "迪恩与三位前谷歌研究员共同创立了Discovery Loop，一家致力于让机器学习研究本身实现自动化的初创公司。"
+   },
+   "source": "RuntimeWire",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM09CVXZYdGlxZ1NKR2dCMXNWemlWeXhTM2xlb0JJbWtDUDJoZGRLOEpmVFp6SThHNUFLMElPWlByUHlTSUcyMmRybnFxMVhKS2lKTFBDaUdSSm1WdWJvLTZocDVJWVhrSXAxSkhTU1ljVUQtdjVGREJ2aEVYWXZqOGJFX2h0MzVGNFQ0RlhudTdrWV9QQXc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-05",
+   "ts": "2026-08-05T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Former Google AI chief Jeff Dean reportedly launches Discovery Loop startup",
+    "zh": "Former Google AI chief Jeff Dean reportedly launches Discovery Loop startup"
+   },
+   "body": {
+    "en": "Confirms Jeff Dean left Google after 27 years to launch Discovery Loop, a startup aimed at automating machine-learning research.",
+    "zh": "证实Jeff Dean在谷歌工作27年后离职，创办了旨在自动化机器学习研究的初创公司Discovery Loop。"
+   },
+   "source": "Crypto Briefing",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94MWZhb0lXZG9NSnV1T0RCWnBiMEZCUEZaYlZsQXJwanBiZ1BpVUt6WjFKZmZ6bjYwQUs3OGVKS1NzNHFVM0V3Q0Qzd29pbGk3ellxWm8xMFZiaDZOYXdQZlNTZ3FVZkFTTVlvZmVIaUR0ZDJYMDdqZDNB?oc=5",
+   "auto": true,
+   "judged": true
   }
  ],
  "changed": true,
@@ -2224,15 +2258,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 65.2,
+  "total": 65.4,
   "attention": 61,
   "centrality": 72,
-  "momentum": 73,
+  "momentum": 74,
   "stature": 47,
   "pageviews": 159064,
   "citations": 36789,
   "hIndex": 30,
-  "events": 41,
+  "events": 43,
   "posts": 73,
   "wikiEn": "Jeff Dean",
   "wikiZh": "傑夫·迪恩"

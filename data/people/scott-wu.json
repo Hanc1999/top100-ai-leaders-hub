@@ -715,6 +715,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2024-12-17",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Scott Wu - Building Cognition - [Invest Like the Best, EP.402]",
+    "zh": "Scott Wu - Building Cognition - [Invest Like the Best, EP.402]"
+   },
+   "source": "Invest Like the Best with Patrick O'Sh…",
+   "url": "https://podcasts.apple.com/us/podcast/scott-wu-building-cognition-invest-like-the-best-ep-402/id6825616819?i=1000797545054&uo=4",
+   "note": {
+    "en": "Scott Wu discusses building Cognition and Devin, the AI software engineer, as the guest on Invest Like the Best.",
+    "zh": "Scott Wu作为嘉宾登上播客Invest Like the Best，谈论Cognition的创立历程及AI软件工程师Devin的打造过程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2024-08-28",
    "ts": null,
    "kind": "podcast",
@@ -903,7 +922,7 @@
   "citations": 243,
   "hIndex": 6,
   "events": 7,
-  "posts": 35,
+  "posts": 36,
   "wikiEn": "Scott Wu",
   "wikiZh": null
  },

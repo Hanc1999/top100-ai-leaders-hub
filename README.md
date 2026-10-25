@@ -4,15 +4,15 @@ An open, continuously-updated dataset of what the 100 people moving the AI
 frontier are actually publishing and what is being written about them.
 
 **Live site:** https://top100-ai-leaders.vercel.app
-**Updated:** hourly upstream, synced here daily. Data through 2026-10-23.
+**Updated:** hourly upstream, synced here daily. Data through 2026-10-24.
 
 Every item is bilingual (English / 简体中文), carries its source URL, and was
 individually judged before it entered the set — none of it is raw crawler
 output. See [How the data is made](#how-the-data-is-made).
 
 ```
-100 leaders · 4,999 first-hand outputs · 6,801 dated events
-x 1,972 · paper 1,728 · podcast 873 · blog 332 · report/talk/interview 94
+100 leaders · 5,001 first-hand outputs · 6,907 dated events
+x 1,972 · paper 1,728 · podcast 875 · blog 332 · report/talk/interview 94
 ```
 
 Exact current counts: [`data/stats.json`](data/stats.json).
@@ -23,7 +23,7 @@ Exact current counts: [`data/stats.json`](data/stats.json).
 
 | Path | What it is |
 |---|---|
-| [`data/items.csv`](data/items.csv) | **Start here.** One row per item — all 11,800. Opens in Excel or pandas. |
+| [`data/items.csv`](data/items.csv) | **Start here.** One row per item — all 11,908. Opens in Excel or pandas. |
 | [`data/index.csv`](data/index.csv) | One row per leader: rank, role, org, region, score, item counts. |
 | [`data/people/<id>.json`](data/people) | One file per leader — full record, browsable on GitHub. |
 | [`data/meta.json`](data/meta.json) | Ranking weights, tier bands, category definitions. |
@@ -133,7 +133,7 @@ The collection pipeline itself is not open source, so this repo carries no code
 
 | 路径 | 内容 |
 |---|---|
-| `data/items.csv` | **从这里开始。**一行一条,共 11,800 条,Excel / pandas 直接打开 |
+| `data/items.csv` | **从这里开始。**一行一条,共 11,908 条,Excel / pandas 直接打开 |
 | `data/index.csv` | 一行一个人:排名、职位、机构、地区、评分、条目数 |
 | `data/people/<id>.json` | 每人一个文件,完整记录,可在 GitHub 上直接浏览 |
 | `data/meta.json` | 排名权重、分层与分类定义 |

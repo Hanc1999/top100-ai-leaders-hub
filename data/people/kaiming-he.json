@@ -773,6 +773,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-15",
+   "ts": "2026-10-15T02:15:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Claude满分、GPT 99分！何恺明团队VISTA把ARC-AGI-3打穿了，动作比人类少57%",
+    "zh": "Claude满分、GPT 99分！何恺明团队VISTA把ARC-AGI-3打穿了，动作比人类少57%"
+   },
+   "body": {
+    "en": "He's MIT team released VISTA, a visual-memory harness that let Claude score perfectly across 25 public ARC-AGI-3 games while using 57% fewer actions than the human baseline.",
+    "zh": "何恺明在MIT的团队发布了视觉记忆框架VISTA，使Claude在25款ARC-AGI-3公开游戏中取得满分，所需动作数比人类基线减少57%。"
+   },
+   "source": "CSDN博客",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LSDU1X1lRX3JfVWRrMmFMVE5SYS1jVndkSU11QnVQOFpwUmJlUm94Y2NQZVk4RHFEaGNXUjZJUDZ0OG5UWllDcUJ1VnlTc0VuQ3FEam45c3hwRWxMQTNLUDlLVnM2RE16RjhxNjln?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-12",
    "ts": "2026-10-12T09:43:03Z",
    "level": "notable",
@@ -1893,7 +1910,7 @@
   "pageviews": 46828,
   "citations": 555963,
   "hIndex": 83,
-  "events": 67,
+  "events": 68,
   "posts": 30,
   "wikiEn": "Kaiming He",
   "wikiZh": "何恺明"

@@ -156,6 +156,44 @@
    }
   },
   {
+   "date": "2026-10-24",
+   "ts": "2026-10-24T00:54:17Z",
+   "kind": "x",
+   "title": {
+    "en": "Grok @Bot saves sensitive info in a vault",
+    "zh": "Grok @Bot saves sensitive info in a vault"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2113796183688982771",
+   "note": {
+    "en": "Musk described a new Grok feature that stores a user's sensitive information in a secure vault.",
+    "zh": "马斯克介绍了Grok的一项新功能：将用户的敏感信息存储在安全保险库中。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-24",
+   "ts": "2026-10-24T18:38:26Z",
+   "kind": "x",
+   "title": {
+    "en": "Correct. Using Starlink, a civilian commercial service, for offensive drone strikes to kill people has never been allowed, nor should it be. Starshield, a diffe",
+    "zh": "Correct. Using Starlink, a civilian commercial service, for offensive drone strikes to kill people has never been allowed, nor should it be. Starshield, a diffe"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2114063986744275011",
+   "note": {
+    "en": "Musk publicly drew a hard line between Starlink (civilian service, never used for lethal drone strikes) and Starshield (a separate, US-government-controlled system), clarifying SpaceX's policy on military use of its satellite network.",
+    "zh": "马斯克公开划清界限：星链（民用商业服务）从未也不应被用于致命无人机打击，Starshield是另一套由美国政府控制的系统，借此澄清SpaceX卫星网络的军事使用政策。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-23",
    "ts": "2026-10-23T01:34:55Z",
    "kind": "x",
@@ -1068,44 +1106,6 @@
    "connector": null
   },
   {
-   "date": "2026-10-13",
-   "ts": "2026-10-13T21:55:52Z",
-   "kind": "x",
-   "title": {
-    "en": "Starship 40’s return to base",
-    "zh": "Starship 40’s return to base"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2110127406258286757",
-   "note": {
-    "en": "Musk posted on Starship 40's return to base, marking progress in SpaceX's launch cadence.",
-    "zh": "马斯克发布星舰40号返回基地的消息,标志着SpaceX发射节奏的新进展。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-10-13",
-   "ts": "2026-10-13T21:50:02Z",
-   "kind": "x",
-   "title": {
-    "en": "Grok @Bot detects scam emails!",
-    "zh": "Grok @Bot detects scam emails!"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2110125937551397151",
-   "note": {
-    "en": "Musk showcased Grok's ability to detect scam emails as a new product capability.",
-    "zh": "马斯克展示了Grok识别诈骗邮件的新功能。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2026-07-23",
    "ts": null,
    "kind": "podcast",
@@ -1205,6 +1205,142 @@
    },
    "source": "xAI",
    "url": "https://x.ai/news"
+  },
+  {
+   "date": "2026-10-24",
+   "ts": "2026-10-24T00:07:00Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk Eyes SpaceX-Tesla Merger, Huang Pitches ‘Financeable’ Chips, Zuckerberg Wants More Compute: Mag 7 Voices This Week",
+    "zh": "Elon Musk Eyes SpaceX-Tesla Merger, Huang Pitches ‘Financeable’ Chips, Zuckerberg Wants More Compute: Mag 7 Voices This Week"
+   },
+   "body": {
+    "en": "Reports surfaced that Musk is exploring merging SpaceX and Tesla into a single entity valued at roughly $3.5 trillion.",
+    "zh": "有报道称马斯克正考虑将SpaceX与特斯拉合并为一家公司，估值约3.5万亿美元。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR1VDdWg4MGh5aFZpelltVXdJdUtXZ0xXZi1mN2xqa2VQNUN1T2VFQ3J5bWxTWVd2V2hHWVFoVFkwTkJnSzMyTWQ0UFNOY1dicFlqSW85R29XOXkwSzlOVVE0M2tRVWJ3WXJqMlUtdG9KemE3NkhPR1NKUnVuaDAzSG1GOFRoakZpRWxWbFdFNFhFSmZYTFE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-24",
+   "ts": "2026-10-24T01:30:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Says Tesla Cars' Value Lies in FSD Service: 'People Are Buying FSD With a Car Attached, Not the Other Way Around'",
+    "zh": "Elon Musk Says Tesla Cars' Value Lies in FSD Service: 'People Are Buying FSD With a Car Attached, Not the Other Way Around'"
+   },
+   "body": {
+    "en": "Musk argued Tesla's value now rests on its Full Self-Driving software rather than the car itself, framing FSD as the company's core AI product.",
+    "zh": "马斯克表示特斯拉的价值主要来自其完全自动驾驶（FSD）软件服务，而非汽车本身，将FSD定位为公司的核心AI产品。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT2pPQjVyNzBvbFk4OEFMTFdLaHRfU09PMzBtQnNHN0ZwOGdRTG1NdTRob05vQU1pSzhhelVLUmZKU2l6T2E2VWVLWkpuaWxoakRIVmJUeGo4TmNMRDh0TWFNSHNJNGNZZ0VIendReHZFRllZN3V3bktRVEs5YVdwVDJob0tLMkRCOXZlYldrcw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-24",
+   "ts": "2026-10-24T14:55:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk's SpaceX and Jeff Bezos' Blue Origin will face off in orbit next year, NASA confirms",
+    "zh": "Elon Musk's SpaceX and Jeff Bezos' Blue Origin will face off in orbit next year, NASA confirms"
+   },
+   "body": {
+    "en": "NASA confirmed that Musk's SpaceX and Jeff Bezos' Blue Origin will both fly competing missions in orbit next year, a concrete marker of their rivalry in the agency's launch manifest.",
+    "zh": "NASA确认马斯克的SpaceX与贝索斯的Blue Origin明年将在轨道上执行相互竞争的任务，这是两家公司在该机构发射计划中竞争关系的具体标志。"
+   },
+   "source": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPajNHRGwyekQ3YWE2RUxreXR3MWRxZ0hFbHotS3lsejRuZ2c5dVNQb2tkY0xhSEEwY1NGTHBURkVJSjlueUEtTno2b20zNUtPTnBKWVh0SkFTaEIzcktTa0FWUF8wUTlNSFcxdkpvLTFKOEl2b2YwXzZ2X01pTWFhY0R3bXRKZmFsZ2FzTnJPakF5S2NHOHVRY05IY0lzSnZaZm9ONXdiZnhhTG9UOHJWMjVNMFRqWk1kSGRBb2NuTE9wMWRrUk9lXzdB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-24",
+   "ts": "2026-10-24T13:42:55Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Cements Record As Largest Individual Political Donor In Modern American History",
+    "zh": "Elon Musk Cements Record As Largest Individual Political Donor In Modern American History"
+   },
+   "body": {
+    "en": "Musk was confirmed as the largest individual political donor in modern American history, underscoring the scale of his political spending alongside his AI and space ventures.",
+    "zh": "马斯克被确认为现代美国历史上最大的个人政治捐款人，凸显出他在AI与航天事业之外巨大的政治资金投入规模。"
+   },
+   "source": "Arise News",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ0o5OUlIdEMwOHc3cU9Ddm5GOWhkdXRMSTNiNENYbHlYZmNMU1h5RjZpSnY5U2I4VUJ3NlNJWGhzTmlwZEp0OXJ5d0Zva3NVVFZiMmdDbTdHNTdkQnVaYmdGMy1zaVZVN0JRTTNwRzFGOHV4bnBzVWk2bG5OSU5jeE9wZzhJR3JHd0dyWnJkLTUwQzJRWU50bFFhbm1fMWxxNDVyajFUTWt4VUF5encwMw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-24",
+   "ts": "2026-10-24T18:07:39Z",
+   "level": "notable",
+   "title": {
+    "en": "What I Saw Outside Elon Musk’s Massive Colossus 2 Data Center",
+    "zh": "What I Saw Outside Elon Musk’s Massive Colossus 2 Data Center"
+   },
+   "body": {
+    "en": "WSJ on-the-ground report on xAI's Colossus 2 data center, the latest expansion of the compute buildout underpinning Musk's AI ambitions.",
+    "zh": "《华尔街日报》实地报道xAI的Colossus 2数据中心，是支撑马斯克AI野心的算力扩张的最新进展。"
+   },
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ1oxbFRkLVB1Y3RHcGgtdk1TZ0swMHBxazFvZksxM2FqQmpERUhRZ3lGMWVPdncwUEZnTE03WV9xU1FZSlBBQVJCMkpFV19jTy01SEZyRXdQa3ZGcFV5RUFMa3M0S29lZmcwdnFnTEdtS2xsUk9HekJObC0wSFBSSG1Xa1dLZ1hKbjZQTFNMTklTU1dTdUxJUmFlRDM2WWk0V2hNcjZEeUFLekxBR0JITlFqdGt3dlVELXJuZUE2V3Q?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-24",
+   "ts": "2026-10-24T19:34:08Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk actually follows through on Grok AI adaptation of ' The Odyssey'",
+    "zh": "Elon Musk actually follows through on Grok AI adaptation of ' The Odyssey'"
+   },
+   "body": {
+    "en": "Musk released the first episode of an AI-generated film adaptation of Homer's Odyssey made with Grok Imagine, following through on a July promise to produce a version he called 'historically accurate and true to the art of Homer.'",
+    "zh": "马斯克发布了由Grok Imagine制作的荷马《奥德赛》AI改编电影首集，兑现了他7月的承诺——制作一部他所说的\"历史上准确、忠于荷马艺术\"的版本。"
+   },
+   "source": "Mashable",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pcmdod25lTDRmVlpaR0dGWnBfVWtLNEdPWlhHQmlvQUlMcm4wclhpR1JOcy1iWFFBMTZEZDFCZ1ZocTVZZjdYbzZVMDdvUWNQMkhNeHBEYVZPOF9uMk13c05rUGN3S0hjejRRZWJwNGFiMVU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-24",
+   "ts": "2026-10-24T21:20:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk accuses Ukraine of misusing Starlink as service returns",
+    "zh": "Elon Musk accuses Ukraine of misusing Starlink as service returns"
+   },
+   "body": {
+    "en": "Musk publicly accused Ukraine of violating Starlink's terms of service by using it to coordinate drone strikes, a dispute that briefly disrupted and then restored Starlink access in the region.",
+    "zh": "Musk公开指责乌克兰违反Starlink服务条款，将其用于协调无人机打击，此事一度导致Starlink服务中断，随后恢复。"
+   },
+   "source": "The Times",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYldKUU1iWFpjc1RtQktsVTRxcnhCVkpUSUwzY2R2eC1Femd3M1F3cS1HNHZmR1JNQ2xPSkNkMlh3dGlfdlVxMVlaVGVxOHVGTnhDZTV2Yk5qZ3JhV3NWMWJfa215RS1lVVp0RHM5NUhoNHVPaDZlSU1CSVJjMlI1d3VvY0hHcjEweDV2ZEZnd3U4djRHd0FvMG44Z3V2S3VoLVNmb29fMkNuWFE0NjZn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-24",
+   "ts": "2026-10-24T11:40:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Ukraine says Starlink speeds restored as Elon Musk admits SpaceX throttled service over drone strikes",
+    "zh": "Ukraine says Starlink speeds restored as Elon Musk admits SpaceX throttled service over drone strikes"
+   },
+   "body": {
+    "en": "Ukraine says Starlink speeds were restored after Musk admitted SpaceX had throttled the service following Russian drone strikes on infrastructure.",
+    "zh": "乌克兰称星链网速已恢复，此前马斯克承认SpaceX在俄军对基础设施发起无人机袭击后对该服务进行了限速。"
+   },
+   "source": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeExvNGNZVVZ3OUlodVQ3Y3JKUUZHSEthd0VSRWpGYmhESVdIeUhvVlhzdFplczlBbjBnUUI0WFl3WTNIbjI5VTdUMWN4QlJfU3ZlX3dRQlQ1UU1BaXJSbjIzd1ZYLXJpNTN2VUZZUk1OSS1XTnM1ejlHYTMzRlBtQUlRYm9ZdXlyeUE?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-23",
@@ -1458,6 +1594,57 @@
    },
    "source": "NDTV",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNekMyWGlmbjIzZUZkbWRSSmM1TlEyTGRUZDZfVDM0dHJtNTRhQW82NTF3ZUY5UTBGWF9JVEFkQ1Q0dHVrV0J6MmFhSFdlNFZ1bXdRV1dnUlJfVERiRHhvdWZQMlhPM0NZQ1JGd1BUdExrUXhwOFUzZ1EyeF9QQzhzbnBRcTZYQy16ZEdNLWtfS3ZfdDFsbmh1WngycF8yTTlpLVkwb3Frem5XQ3BRSUEySEtn0gG6AUFVX3lxTE9KenJ2azBOVUk2WFZkaGRjYUhpbnd0bXdrUXl3UXltNVpyM0FvVHhPV0Nodjl5THplSzVDQk84NzA5N1RHdGJhcFEwNjY5b3NaZFFWVjdjX2xYWjYyUkRKS0tBN3MwdzVwNVVhTWxnTnpQMHh6WnkyR1FOTTJqU3JPS2hOR1VsN2ZuaHJ0ay1VMlFxeVZLc3k1aDZTQk9qdnI3dlM2YWxQSVVrWDBGNWxWMkhabUV2YkZjdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-23",
+   "ts": "2026-10-23T02:01:10Z",
+   "level": "notable",
+   "title": {
+    "en": "Lawrence: Elon Musk threatens Democrats in Congress saying, ‘Live by the sword, die by the sword’",
+    "zh": "Lawrence: Elon Musk threatens Democrats in Congress saying, ‘Live by the sword, die by the sword’"
+   },
+   "body": {
+    "en": "Musk warned congressional Democrats \"live by the sword, die by the sword\" amid rising tension over his political influence.",
+    "zh": "马斯克向国会民主党人发出警告\"以剑始，以剑终\"，反映出围绕他政治影响力的紧张关系。"
+   },
+   "source": "MS NOW",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMzNGa0gzRldKd3paRDBMdDlBRE1ma3lCeFNWamhZdUxUbjVLOEJfNFJtQXVMQWJMRlJPU3hicWN1QzM3WjhqVXNrRTNIZEZqLXVyQWV6SGZRcVhHS21DdzdNR2prY0FoRDgwM0R0YzBQTERFdVpQbzQ5Y2VSWjhxbmt6Zmx5aTFqZ0N2LWl6SEI5US1kSlpsSWNlOHBubkZFOTBjN3I2WXRLVzhuVW9pSWpUSmo1dkhGdW1oNDY3WjYwQnVWWHpWSF93TUxvTnd6V2FZTm9TVGJLX0RjUlE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-23",
+   "ts": "2026-10-23T23:25:08Z",
+   "level": "notable",
+   "title": {
+    "en": "US lawmakers demand answers from Elon Musk over Ukraine Starlink restrictions",
+    "zh": "US lawmakers demand answers from Elon Musk over Ukraine Starlink restrictions"
+   },
+   "body": {
+    "en": "US lawmakers formally demanded Musk explain Starlink restrictions affecting Ukraine's war effort.",
+    "zh": "美国国会议员正式要求马斯克就影响乌克兰战事的星链限制措施作出解释。"
+   },
+   "source": "The Kyiv Independent",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcXBPWnIyYXZ2LUxZcFNIUW9KLXA2YmdqMnRmeXFNajc4SDNmSVVGckhQTHQwcDNWUFExNHNZbEVjUnVuVVdINF9pU3hoNFd4ZDVjbUpNemZXNVJMTGdTSDZPWkVyQzFLVDE5LThIbkZOSHR1Ul9vS05lYXc3eHk0b3BScWx6VHhFdUFlbmJOMThjUkNiQk1XQWVSLXZZRGIyMERoejgzR1BJUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-23",
+   "ts": "2026-10-23T19:30:07Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Says Ukraine's Elites Profit From War as Starlink Restrictions Disrupt Ukrainian Drones",
+    "zh": "Elon Musk Says Ukraine's Elites Profit From War as Starlink Restrictions Disrupt Ukrainian Drones"
+   },
+   "body": {
+    "en": "Musk said Ukraine's elites are profiting from the war while Starlink access restrictions disrupt Ukrainian drone operations.",
+    "zh": "马斯克表示乌克兰精英从战争中获利，同时星链的使用限制正在干扰乌克兰的无人机行动。"
+   },
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSTI4bTVTTmpOdzdQTnI0OThyYnhlRWgxa1E5NUZzTVR0WWd0UHR6R1BzdTR0WFNBMU1tdGJhT3FjNWZ3ay1PN2hYMjJaUFBhcjhRSVdVMF9UY05UM2ZqUjhvNm9FT3dUUkU3MUszZU9fekVhSXN4VkNwX1Z6T3pyWnVSOGp5TXRVd3I2M3dqN29nbXpE?oc=5",
    "auto": true,
    "judged": true
   },
@@ -13666,7 +13853,7 @@
   "pageviews": 9295513,
   "citations": 1280,
   "hIndex": 3,
-  "events": 735,
+  "events": 746,
   "posts": 56,
   "wikiEn": "Elon Musk",
   "wikiZh": "埃隆·马斯克"

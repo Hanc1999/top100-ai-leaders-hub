@@ -1346,6 +1346,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2022-06-02",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "HIBT Lab! Google: Sundar Pichai",
+    "zh": "HIBT Lab! Google: Sundar Pichai"
+   },
+   "source": "How I Built This with Guy Raz",
+   "url": "https://podcasts.apple.com/us/podcast/hibt-lab-google-sundar-pichai/id1150510297?i=1000564898021&uo=4",
+   "note": {
+    "en": "Pichai appeared on How I Built This to discuss building Google's product portfolio, from Search to Android.",
+    "zh": "皮查伊做客播客How I Built This，讲述他如何打造从搜索到安卓的谷歌产品版图。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2021-10-18",
    "ts": null,
    "kind": "podcast",
@@ -1450,6 +1469,23 @@
    },
    "source": "Axios",
    "url": "https://www.axios.com/2026/08/06/googles-ai-leadership-shuffle"
+  },
+  {
+   "date": "2026-10-24",
+   "ts": "2026-10-24T16:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Google CEO Sundar Pichai responds to Sam Altman’s ‘fend Google off’ remark, asks: ‘Are you bolting agents",
+    "zh": "Google CEO Sundar Pichai responds to Sam Altman’s ‘fend Google off’ remark, asks: ‘Are you bolting agents"
+   },
+   "body": {
+    "en": "Pichai publicly pushed back on Sam Altman's remark that OpenAI is trying to 'fend Google off,' spotlighting the rivalry between the two companies over AI agents.",
+    "zh": "皮查伊公开回应奥特曼所说OpenAI要\"挡住谷歌\"的言论，凸显两家公司在AI智能体领域的竞争。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWXlUYnNaQzM1b2lualRIYTFzdTZMWTVRSkVFODhaeHVrQ29hMmxySkZVbUkzSmtreGhXaWNTbTR5Yi0ya2U0bGsyQnl4WUowbE90NkVLdi1mUWFfeHBJTWJ2YmVMVklGdmN6dFpZZXZiaVBpWnQzTEQ0azE2MXJ5bmN0NGRLM3hrZWxrVTBrc0tjSk9LOThoU2taSVd5RWRxYzVtZ0c4RFdrNWNPSko5ZDRUeTdzNFdJazVIdVE5NWVtZElxZHFpNXZpRWJoeWxRLU9SRTdrTFNSeFo5WnpVZmhORWpwel8xSUHSAe8BQVVfeXFMTXQta0NMUzhDV001QkJVNTcxS3lsWElhYlJ2MFhrOVlrMzNfbjVJX3B5MmpiamhkOWtpb2RHdm9jRFpWbDlHX0dsN0dNeGRDeDg3MnlUeXVvS0ZuVlVER3Z2bnpwSF9RRzhXVW8wYTVHajlTRVduTkdjVVJRN3lsd1ZncVZIUjFTNnE0THc3X01SaXMxLWFPeEdQZGVvX0ZVVzJ6aW10ZnFoVjQzNlVyZFJlOGplRUtTUGlubGxRUnlWUmo5WXdRWTNLV181eHRnU1paR0pkQXRsWVJMRm1MRmZiZGRYR1NBVFFwWmhWY2c?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-23",
@@ -2819,16 +2855,16 @@
  },
  "cat": "platform",
  "score": {
-  "total": 87.0,
+  "total": 87.2,
   "attention": 92,
   "centrality": 87,
-  "momentum": 78,
+  "momentum": 79,
   "stature": null,
   "pageviews": 1299595,
   "citations": 1,
   "hIndex": 1,
-  "events": 82,
-  "posts": 70,
+  "events": 83,
+  "posts": 71,
   "wikiEn": "Sundar Pichai",
   "wikiZh": "孙达尔·皮柴"
  },

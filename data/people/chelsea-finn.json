@@ -177,6 +177,25 @@
    }
   },
   {
+   "date": "2026-10-24",
+   "ts": "2026-10-24T22:09:33Z",
+   "kind": "x",
+   "title": {
+    "en": "Generative value classifiers are a new parametrization of Q-functions that don't require action conditioning. We think these may combine gracefully with large,",
+    "zh": "Generative value classifiers are a new parametrization of Q-functions that don't require action conditioning. We think these may combine gracefully with large,"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2114117117813706782",
+   "note": {
+    "en": "Finn described generative value classifiers, a new way to parametrize Q-functions without action conditioning, and suggested they could combine well with large pre-trained policies.",
+    "zh": "Finn介绍了生成式价值分类器，一种无需动作条件化的Q函数新参数化方法，并认为它有望与大型预训练策略良好结合。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-21",
    "ts": "2026-10-21T22:36:07Z",
    "kind": "x",
@@ -1747,25 +1766,6 @@
    "note": {
     "en": "Finn's team shows the 7B OpenVLA model can now be fine-tuned to run at 50 Hz control frequency.",
     "zh": "Finn 团队展示了70亿参数的 OpenVLA 模型现在可以微调到50Hz的控制频率。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2025-02-27",
-   "ts": "2025-02-27T19:03:41Z",
-   "kind": "x",
-   "title": {
-    "en": "LLM post-training still optimizes for aggregate preferences. Can we optimize for individual preferences, with in-context learning? Few-shot preference optimizat",
-    "zh": "LLM post-training still optimizes for aggregate preferences. Can we optimize for individual preferences, with in-context learning? Few-shot preference optimizat"
-   },
-   "source": "@chelseabfinn",
-   "url": "https://x.com/chelseabfinn/status/1895188069214757057",
-   "note": {
-    "en": "She introduces few-shot preference optimization (FSPO), letting LLM post-training personalize to individual preferences via in-context learning.",
-    "zh": "她推出少样本偏好优化（FSPO），通过上下文学习让LLM后训练能够针对个体偏好进行个性化。"
    },
    "auto": true,
    "judged": true,

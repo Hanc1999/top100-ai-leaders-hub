@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-10-25",
+   "ts": "2026-10-25T11:49:00Z",
+   "kind": "blog",
+   "title": {
+    "en": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
+    "zh": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+   "note": {
+    "en": "Nathan Lambert's Interconnects podcast covered Kimi K3.1 Pro, cybersecurity's shifting reality, and his thoughts on Muse.",
+    "zh": "Nathan Lambert的Interconnects播客讨论了Kimi K3.1 Pro、网络安全格局的变化，以及他对Muse的看法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
    "date": "2026-10-20",
    "ts": "2026-10-20T17:04:21Z",
    "kind": "blog",
@@ -1657,7 +1676,7 @@
   "citations": 720,
   "hIndex": 13,
   "events": 2,
-  "posts": 77,
+  "posts": 78,
   "wikiEn": "Nathan Lambert",
   "wikiZh": null
  },

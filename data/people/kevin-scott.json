@@ -1152,6 +1152,44 @@
    "connector": "podcasts"
   },
   {
+   "date": "2019-04-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Reid Hoffman: Investor, author & entrepreneur",
+    "zh": "Reid Hoffman: Investor, author & entrepreneur"
+   },
+   "source": "Behind The Tech with Kevin Scott",
+   "url": "https://podcasts.apple.com/us/podcast/reid-hoffman-investor-author-entrepreneur/id1381008946?i=1000436626976&uo=4",
+   "note": {
+    "en": "Kevin Scott interviews Reid Hoffman on his own podcast, Behind The Tech, about scaling companies and blitzscaling.",
+    "zh": "Kevin Scott在他主持的播客《Behind The Tech》中采访Reid Hoffman，探讨公司规模化与闪电扩张。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2019-03-22",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Jaron Lanier: Father of Virtual Reality, Renaissance man",
+    "zh": "Jaron Lanier: Father of Virtual Reality, Renaissance man"
+   },
+   "source": "Behind The Tech with Kevin Scott",
+   "url": "https://podcasts.apple.com/us/podcast/jaron-lanier-father-of-virtual-reality-renaissance-man/id1381008946?i=1000432953404&uo=4",
+   "note": {
+    "en": "Kevin Scott interviews VR pioneer Jaron Lanier on Behind The Tech about virtual reality and humanism.",
+    "zh": "Kevin Scott在《Behind The Tech》节目中采访虚拟现实先驱Jaron Lanier，讨论虚拟现实与人文主义。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2018-06-20",
    "ts": null,
    "kind": "podcast",
@@ -1241,7 +1279,7 @@
   "citations": 38763,
   "hIndex": 96,
   "events": 1,
-  "posts": 58,
+  "posts": 60,
   "wikiEn": "Kevin Scott (businessman)",
   "wikiZh": null
  },

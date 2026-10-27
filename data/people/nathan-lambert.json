@@ -1,5 +1,5 @@
 {
- "rank": 98,
+ "rank": 97,
  "id": "nathan-lambert",
  "name": {
   "en": "Nathan Lambert",
@@ -181,6 +181,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-10-26",
+   "ts": null,
+   "kind": "report",
+   "title": {
+    "en": "natolambert released v0.3.0 at natolambert/colloquium",
+    "zh": "natolambert released v0.3.0 at natolambert/colloquium"
+   },
+   "source": "GitHub Public Timeline Feed",
+   "url": "https://github.com/natolambert/colloquium/releases/tag/v0.3.0",
+   "note": {
+    "en": "Lambert shipped v0.3.0 of his colloquium project, adding template-aware PPTX export for building presentation decks from markdown.",
+    "zh": "兰伯特发布了其colloquium项目的v0.3.0版本，新增了支持模板的PPTX导出功能，可从Markdown生成演示文稿。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "github",
+   "connector": "github"
   },
   {
    "date": "2026-10-25",
@@ -1658,6 +1677,23 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcWpJNVpHZUVTN3RiakFvMExRMEhwYk9aSmV2aEgyeDY1Rk1IclZJQ2xpN05ESjRfQnRXV2dmU3gtbDJ6WXZMbldmRUFVdVktcTIyZVlxU2Y0RkFhUG5Qb29zMkhJeVNmVHE4U3NxZ0MwcG0zVTc1V3BHSVUxMl9tWkN0SUh3MDZYMzg0LUNOcjU4OUwxaFo3ZXY3ZV9yQXB3a3MtR0tVdWhiXzhRUGc?oc=5",
    "auto": true,
    "judged": true
+  },
+  {
+   "date": "2026-07-08",
+   "ts": "2026-07-08T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Exclusive: US AI Researcher Nathan Lambert on His China Lab Tour — Catching Up, Compute Anxiety, and an 'AGI Showroom'",
+    "zh": "Exclusive: US AI Researcher Nathan Lambert on His China Lab Tour — Catching Up, Compute Anxiety, and an 'AGI Showroom'"
+   },
+   "body": {
+    "en": "Lambert gave an exclusive account of his tour of Chinese AI labs, discussing what he learned, compute anxiety in the field, and an 'AGI showroom' he encountered.",
+    "zh": "Lambert独家分享了他此次中国AI实验室之行的见闻，谈及所了解的情况、业内的算力焦虑，以及他遇到的\"AGI展厅\"。"
+   },
+   "source": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nZFRtb2toandZT1FJa1RyX3ZLVEFlQUEtOGhldV9OM1NTVFZBdTg2ODZoR1IzZF81bzZqVV9Lcjc3VXU0Qjk4cVA1aGxBYXE2cmc5ekNUa1FfdV93SUh5U2J1cVlLc3RRTy04cDRmbHpwVXZ1Wnc?oc=5",
+   "auto": true,
+   "judged": true
   }
  ],
  "changed": true,
@@ -1667,16 +1703,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 15.9,
+  "total": 16.4,
   "attention": 8,
   "centrality": 6,
-  "momentum": 42,
+  "momentum": 44,
   "stature": null,
   "pageviews": 2796,
   "citations": 720,
   "hIndex": 13,
-  "events": 2,
-  "posts": 78,
+  "events": 3,
+  "posts": 79,
   "wikiEn": "Nathan Lambert",
   "wikiZh": null
  },

@@ -401,6 +401,25 @@
    "connector": "backfill"
   },
   {
+   "date": "2026-02-24",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The AI Tsunami is Here & Society Isn't Ready | Dario Amodei x Nikhil Kamath | People by WTF",
+    "zh": "The AI Tsunami is Here & Society Isn't Ready | Dario Amodei x Nikhil Kamath | People by WTF"
+   },
+   "source": "People by WTF",
+   "url": "https://podcasts.apple.com/us/podcast/the-ai-tsunami-is-here-society-isnt-ready-dario/id1819856014?i=1000751189267&uo=4",
+   "note": {
+    "en": "Long sit-down interview with Dario Amodei in Bangalore on \"People by WTF,\" covering his path from biology to AI and his view of the industry's trajectory.",
+    "zh": "Dario Amodei在孟买湾加罗尔接受《People by WTF》专访，谈从生物学转向AI的经历及他对行业走向的看法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-02-13",
    "ts": null,
    "kind": "podcast",
@@ -1141,6 +1160,40 @@
    },
    "source": "CNBC",
    "url": "https://www.cnbc.com/2026/07/22/amd-anthropic-ai-chip-investment.html"
+  },
+  {
+   "date": "2026-10-26",
+   "ts": "2026-10-26T13:01:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Dario Amodei’s Anthropic Accused Of Using 274 Elvis Presley Songs To Train Claude AI",
+    "zh": "Dario Amodei’s Anthropic Accused Of Using 274 Elvis Presley Songs To Train Claude AI"
+   },
+   "body": {
+    "en": "Anthropic was accused of training Claude on 274 unlicensed Elvis Presley songs, a new copyright dispute over the company's training data.",
+    "zh": "Anthropic被指控使用274首未经授权的Elvis Presley歌曲训练Claude，引发了关于其训练数据版权的新纠纷。"
+   },
+   "source": "Times Now",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVXJlSGNsN0lTSTl5MGpoVEhYNVlGY3dVdTgtengzWXlOT2hIeTFMMTF3ZmNIbTNlUWYwTnVESkgycUJUNC10V3pEVXR2M1dLZGExZk9JUDI0OEJSaXptUXU3cDdDMHp0aEtJM1lPSGtVWkRqNl9CZERVNm5qUm9iREdyc1dZSVJSTTlETDk5YTA3RkZwZzYxNGlhT3JrR2NvX05SY1Z4cHBxY3FrRTdHYkt1Z3ZJV0lpcTB2NS0xQ0EzTzViazlDcFhPUDFvZUlValNYV1hVcGl1bXRNb0tTekJhSdIB6AFBVV95cUxOVzYtZnBfSm9MOEd2Y2hQRlliMVFYOUMzN3JtekM5cEd5RXczMlhhM1l1blJuemdocjlRMUpZQmI5Z1RRUGJZejhsMHI0S2x1M3lXRUlCdDMtM1VmMWlLN3JVUDctUDFoaGw3ZmpURUlXbUMtRXc1UmdBY0NzaEJNOF9JMzJZYXE4QlNuSDBTM2kxNGh6aFk4aWFDdklWeWh0SjltY0NtRW8zVzhxZEhLTnJvMWplVDREM25EUTVhOHRUNWltMmE2NjhQcnpEbThjWm9wSFg3cWFOa2I4dERXQUE2SEJFODk0?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-24",
+   "ts": "2026-10-24T21:01:32Z",
+   "level": "major",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei eyes $2T valuation in upcoming IPO",
+    "zh": "Anthropic CEO Dario Amodei eyes $2T valuation in upcoming IPO"
+   },
+   "body": {
+    "en": "Dario Amodei is reportedly eyeing a $2 trillion valuation for Anthropic ahead of an upcoming IPO.",
+    "zh": "据报道，Dario Amodei计划让Anthropic在即将进行的IPO中达到2万亿美元估值。"
+   },
+   "source": "Howl.Link",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBDeDF2Y3JGZllYU3V5eEhRcFAzclJyMmtKTFNMUTN0Y3VNVnhCeTQ5elg2S0plaklwbG4w?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-21",
@@ -4356,6 +4409,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-12",
+   "ts": "2026-09-12T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up",
+    "zh": "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up"
+   },
+   "body": {
+    "en": "Amodei said the AI industry needs more time for safety measures to catch up with capability growth, a public stance on the pace of AI safety.",
+    "zh": "阿莫代伊表示AI行业需要更多时间让安全措施跟上能力发展的速度，这是他对AI安全节奏的一次公开表态。"
+   },
+   "source": "ABC7 Bay Area",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbERIdkdPLXRqQl9QeVAwSFhtanM4Z3NPWl9YT1pXOXZRamhCdGtBXzZxZHppU0x4QldfSURGSXdOWnNON3p6MjF4QVJQemRkZnVvUkJvZEplMHNlcUhNT1JIYm9IOWNQUkg5ckNuQXRHcWtwYVVzRGtUb0J0UjFNT1VXdnhWN0Y5aUpMVzExSUZUQUswX0ZNNzh4TElUcXd0MlZwNjVybHllLVpSeEVIWFh5WTBiVkFtUGc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-10",
    "ts": "2026-09-10T10:40:00Z",
    "level": "notable",
@@ -4711,8 +4781,8 @@
   "pageviews": 2709934,
   "citations": 18904,
   "hIndex": 35,
-  "events": 213,
-  "posts": 50,
+  "events": 216,
+  "posts": 51,
   "wikiEn": "Dario Amodei",
   "wikiZh": "达里奥·阿莫代伊"
  },

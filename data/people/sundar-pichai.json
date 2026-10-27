@@ -1,5 +1,5 @@
 {
- "rank": 7,
+ "rank": 6,
  "id": "sundar-pichai",
  "name": {
   "en": "Sundar Pichai",
@@ -180,6 +180,25 @@
    "note": {
     "en": "Pichai sits down with journalist Alex Heath shortly after the wider release of Gemini 4 Argon to discuss its early reception and the compute constraints even Google faces in pushing the model further.",
     "zh": "Sundar Pichai在Gemini 4 Argon更大范围发布后接受记者Alex Heath专访，谈及该模型的早期反响，以及即便是Google也面临的算力瓶颈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-10-21",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Sundar Pichai on what's next for Google Gemini, Waymo, and data centers in space",
+    "zh": "Sundar Pichai on what's next for Google Gemini, Waymo, and data centers in space"
+   },
+   "source": "Sources with Alex Heath",
+   "url": "https://podcasts.apple.com/us/podcast/sundar-pichai-on-whats-next-for-google-gemini-waymo/id1840154537?i=1000797461022&uo=4",
+   "note": {
+    "en": "Pichai sat down with Alex Heath to discuss Gemini 4's reception, Waymo, and Google's push for data centers in space.",
+    "zh": "皮查伊接受Alex Heath专访，谈及Gemini 4的市场反响、Waymo，以及谷歌推进太空数据中心的计划。"
    },
    "auto": true,
    "judged": true,
@@ -1471,6 +1490,91 @@
    "url": "https://www.axios.com/2026/08/06/googles-ai-leadership-shuffle"
   },
   {
+   "date": "2026-10-26",
+   "ts": "2026-10-26T03:01:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Google CEO Sundar Pichai admits that cloud business is forgoing short-term revenues to make up for ...",
+    "zh": "Google CEO Sundar Pichai admits that cloud business is forgoing short-term revenues to make up for ..."
+   },
+   "body": {
+    "en": "Pichai acknowledged that Google's cloud business is sacrificing near-term revenue to keep up with surging AI infrastructure demand.",
+    "zh": "皮查伊承认谷歌云业务正在放弃短期收入，以应对AI基础设施需求的激增。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOQUpLeXNESlI4d1VuWWdJY2RtTUFXQzNaWlpIbjFUTklYbFZOQTR6a2RLR3JPT296M0pLOWpzZjhHWl9OVDEwaGVscjlBa0VrUjNScWQwbnk2akNBY3VfWEFyMTQ1U2hhUE1mQlpkeG1rOGxLeXBHTHpmclNaMjc1XzRocndyTU9BNW03b0ZRbXNkbmV3NE9LYkxpUzlTN2lyaUFZNmdkM1R6aUd3QjY0cW42VmY3X0FPdWo0Z0RaT0hCcThoTTlCT3lJUFVxM2l3Rms3dEZvVEkxc2NRQmwzekJZUlFkOTIwdDhSeGVuUUVyaVpkY0YwM1VfVDlPejdDR3RWQTF3QmpSVkxuS2JJ0gGUAkFVX3lxTFBjUnEwNllocDVhX0NITjBOQmVrUlJQTEZBYV9EU3UxMFFxTmViSXdYbUNTVlN6YkMyVFVWbWlHMkEybFpCUzdpcXMzYU41dmJvSjhjeTdveGtxTXZuN2lOYlVCdGdtRVNjTHBmM3lDWU9SSS1iblNTRlIyaGh6UkpmMzFaUmxEWE1jQ1FHNmF6dUozMUtpQ3ZkczBqYlRIY0h1U3l6VjNhSWlXT1k4VUk4TEszdWFDemxXdmlzLXJoQ0JEUkRNbU9YenQ1dDFBNS14RW5SUkdJUGhqUm5IOHBvNXdPWGRpNVlDT094a3hmdnpYcnB6b2NsNXJOcWc1QW44V2ZyVlNBeGcxQU5US3lNSkY0bA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-26",
+   "ts": "2026-10-26T02:30:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Sundar Pichai Is Using AI Agents to Track Google 24/7: 'Made All of Us... Be Better at What We Do'",
+    "zh": "Sundar Pichai Is Using AI Agents to Track Google 24/7: 'Made All of Us... Be Better at What We Do'"
+   },
+   "body": {
+    "en": "Pichai said he now uses AI agents to track Google's operations around the clock, describing how this has sharpened the whole team's work.",
+    "zh": "皮查伊表示他现在使用AI智能体全天候追踪谷歌的运营情况，并称这让整个团队的工作表现更出色。"
+   },
+   "source": "Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYno0MDd6UUtZUm53Z0FDY2Z4ZlZzN0RPRnBJbHFfNWpMLThhbmFubUNMVW54VjFPSVBjclo3XzNwQVNVUWszNDJ2WTY4RXhzWmdjdjA4LTFZM21FVjgxcVdUeE96TUdyMTJGNi1LemdYXzdHMDh3WGxFRDhqMXY5M3ZmNVZpYTc0SVVoQlUyOA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-26",
+   "ts": "2026-10-26T07:16:11Z",
+   "level": "notable",
+   "title": {
+    "en": "Google is sacrificing short-term Cloud revenue to develop advanced AI models, says Sundar Pichai",
+    "zh": "Google is sacrificing short-term Cloud revenue to develop advanced AI models, says Sundar Pichai"
+   },
+   "body": {
+    "en": "Pichai said Google is deliberately sacrificing short-term Cloud revenue to push faster on advanced AI model development.",
+    "zh": "Pichai表示，Google正主动牺牲短期云业务收入，以加快推进先进AI模型的研发。"
+   },
+   "source": "Moneycontrol.com",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVDFBTmQ0Vm4wMHI0TjFLTTlqaXpKbXRHYkhXXzZtc21DQ3RkN3FFeGpSOTFVeVJNR3YtanYtdDNWWWRaWFQxdUZJN1hXNUpTc0VQblpscDBDWGM3RFRkdTl1ZzJ4bXNGQmNldEtkTVF5bjJfRFhaUzl2YjBXM0prbzBBZDNTa2RjREtPN1J0UGxfblI5SVhmOWJzZDNRWHNNaWRkVktacXhUcEo2bnpQVmhmVWZMVmZXRmhmWkZncEJ4ZXhscWlsMkpVcTNXNXBoNkJaN0lwcnIxZ3lFY3JKVlRvaUwyV284UTdfQ3JR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-26",
+   "ts": "2026-10-26T08:09:10Z",
+   "level": "major",
+   "title": {
+    "en": "Google AI Research Over Cloud Capacity, Sundar Pichai Admits",
+    "zh": "Google AI Research Over Cloud Capacity, Sundar Pichai Admits"
+   },
+   "body": {
+    "en": "Pichai confirmed Google is sacrificing near-term Cloud revenue to prioritize compute for frontier AI research, calling DeepMind's compute needs non-negotiable and warning that securing enough capacity for 2027 demand will be difficult.",
+    "zh": "皮查伊证实谷歌正牺牲云业务的短期营收，优先保障前沿AI研究的算力，称DeepMind的算力需求不可动摇，并警告2027年的算力需求将很难满足。"
+   },
+   "source": "TelecomTalk",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcU9nRlVOalA0SWpsRjM2dzJUdEFEa2dCUGhwbW04bHNSM3dZR0d0STZSY1FORlhlalBpVkxyYWlLZWo2aHE2S2lKZVkzZXhVRzhjTUFPUjhvblNzOHZtLW9MMDZ3Tl9CS0RFTFhDT0RDUGJPQUpkQmxnVlRqeXhwcWpZTm9wamFqZFpFNUF4N1dUdzY0eHc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-26",
+   "ts": "2026-10-26T07:16:11Z",
+   "level": "notable",
+   "title": {
+    "en": "Google is sacrificing short-term Cloud revenue to develop advanced AI models, says Sundar Pichai",
+    "zh": "Google is sacrificing short-term Cloud revenue to develop advanced AI models, says Sundar Pichai"
+   },
+   "body": {
+    "en": "Pichai said Google is deliberately sacrificing near-term Cloud revenue to prioritize building more advanced AI models.",
+    "zh": "Pichai表示，谷歌正有意牺牲短期云业务收入，以优先投入开发更先进的AI模型。"
+   },
+   "source": "Moneycontrol.com",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVDFBTmQ0Vm4wMHI0TjFLTTlqaXpKbXRHYkhXXzZtc21DQ3RkN3FFeGpSOTFVeVJNR3YtanYtdDNWWWRaWFQxdUZJN1hXNUpTc0VQblpscDBDWGM3RFRkdTl1ZzJ4bXNGQmNldEtkTVF5bjJfRFhaUzl2YjBXM0prbzBBZDNTa2RjREtPN1J0UGxfblI5SVhmOWJzZDNRWHNNaWRkVktacXhUcEo2bnpQVmhmVWZMVmZXRmhmWkZncEJ4ZXhscWlsMkpVcTNXNXBoNkJaN0lwcnIxZ3lFY3JKVlRvaUwyV284UTdfQ3JR0gHzAUFVX3lxTE1PU1Y4ekJDcHY4QTQ3WkF1Qm5XX3N0ak01VUNpc1FQQUxsOW9PNDcxTmRGUUNIN3ZDbHBvYTJwSndDWk1FWEJGeFM3c0NuYVRydnRpX0gxcmdrcWVUcE9nZC04YlVNNHFCN0JFY05HVDJOUlMwTmpkTHIwWnBOdl9Zb2dMNjdSY0NoZDRXV1dxU1p6YW51ZUJuejN6YjNYSHRsOFpGYUFPWmlFSHhRV0FOeWo3ajgwRmxLNkVyU3BwcEVKbEpaM1dhYVRJUk1oYkhfa19rZzQzTHl2Qm1jUC1XZGc0UTZ6WXJCZ0p0dGE5eWxiTQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-25",
    "ts": "2026-10-25T15:29:00Z",
    "level": "major",
@@ -1501,6 +1605,23 @@
    },
    "source": "Martin Cid Magazine",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQlpJT2UwMDlDaTFJX19DUER4Nm1Da2tkQlN1MDlWMXBfRnFyWU9ZWGlrMVVjWEJ1TWc3ZmhMV2lnOFY2WXp1c1NTOUFYc3RibFZ3Ukx3RkQ5bU1vY2VQQUxDeXdOMGxVcE1WOWNaNlo5VFhFb1p6MDJRd0ZqRFMzMHZSLWlXc1puSlNwRmY0eFBTZFdBNm14ajgyZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-25",
+   "ts": "2026-10-25T16:09:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Sundar Pichai Reported Alphabet's Cloud Revenue Grew 82% Last Quarter While the Gemini App Reached 950 Million Monthly Users. Is Google Cloud Becoming a Bigger Growth Driver Than Search?",
+    "zh": "Sundar Pichai Reported Alphabet's Cloud Revenue Grew 82% Last Quarter While the Gemini App Reached 950 Million Monthly Users. Is Google Cloud Becoming a Bigger Growth Driver Than Search?"
+   },
+   "body": {
+    "en": "Pichai reported Alphabet's Cloud revenue grew 82% last quarter while the Gemini app's monthly users reached 950 million.",
+    "zh": "Pichai披露Alphabet上一季度云业务收入增长82%，同时Gemini应用的月活跃用户达到9.5亿。"
+   },
+   "source": "The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZWNVVzZCVVVIZThHWnZtX2RHa0NPcU9paWhSUjdBczRNUUJiR1RqWXZxVUtPMzFibUZabnMwWEZJZmxtYWZ5MDA4ZUN3LVBhQ3A2OWtkU1VGWXd4MW1iVGl6TG4tNDRVRmQzd2pSSVBlQ2lxaExHemZ6cWtJaWNQd3QzRnVqMThtOGZyOEsyRlQ0Zw?oc=5",
    "auto": true,
    "judged": true
   },
@@ -1620,6 +1741,23 @@
    },
    "source": "Big Technology | Alex Kantrowitz",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YUUhZNG5HTVBROWxzT0VHWTQweFlNRGgzNmZvWFh3TVR4RWJLMUYtRXV0d1FQaFNXTW02VUdLUUJTWEtoYU9pSF9RU0Y0RE91WmxOLTRoOTBENmtWWHIzam5FN3FWUjVOMDFZZTdFLXVxSjZSUm9hcw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-23",
+   "ts": "2026-10-23T07:45:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Sundar Pichai says Google is far from the ‘end state’ of self-improving AI",
+    "zh": "Sundar Pichai says Google is far from the ‘end state’ of self-improving AI"
+   },
+   "body": {
+    "en": "Pichai said Google is still far from the \"end state\" of self-improving AI, tempering expectations about near-term recursive gains.",
+    "zh": "Pichai表示Google距离自我改进AI的“终局”还很遥远，为短期内递归式进步的预期降温。"
+   },
+   "source": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM1VOU1VsSUUyZ1RRRkVqenVkd0Z0NWtZd2l6VjNadUtfbmk3VTlwNnNGRl9RV2h6d0tfcUkxVUxncDdla2Z0WmFmUXlRRUQ3R2tQQXNxdV9rekprc21HYk5FdTBTQ0hGazVocnJPc0doZzlKcTZubGpxZ2tiZElZMFpKSFBDUWRYazVsaFUxOA?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2923,16 +3061,16 @@
  },
  "cat": "platform",
  "score": {
-  "total": 87.2,
+  "total": 88.0,
   "attention": 92,
   "centrality": 87,
-  "momentum": 79,
+  "momentum": 82,
   "stature": null,
   "pageviews": 1299595,
   "citations": 1,
   "hIndex": 1,
-  "events": 87,
-  "posts": 71,
+  "events": 94,
+  "posts": 72,
   "wikiEn": "Sundar Pichai",
   "wikiZh": "孙达尔·皮柴"
  },

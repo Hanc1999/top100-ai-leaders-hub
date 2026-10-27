@@ -181,6 +181,44 @@
    }
   },
   {
+   "date": "2026-10-26",
+   "ts": "2026-10-26T16:48:35Z",
+   "kind": "x",
+   "title": {
+    "en": "We noticed some concerning behaviour in a popular open source model. It’s either an incidental relic from training or an intentional ‘call home’ mechanism. Eith",
+    "zh": "We noticed some concerning behaviour in a popular open source model. It’s either an incidental relic from training or an intentional ‘call home’ mechanism. Eith"
+   },
+   "source": "@aidangomez",
+   "url": "https://x.com/aidangomez/status/2114761118334017730",
+   "note": {
+    "en": "Gomez flagged a suspicious \"call home\" behaviour found in a popular open-source model, raising a safety concern about hidden telemetry in released weights.",
+    "zh": "Gomez指出一个流行的开源模型中存在可疑的\"回传\"行为，对已发布权重中潜藏的遥测机制提出了安全担忧。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-26",
+   "ts": "2026-10-26T17:40:19Z",
+   "kind": "x",
+   "title": {
+    "en": "One of the more disturbing things was that the model’s reasoning didn’t indicate anything about what it was about to do. Meaning that CoT monitoring would have",
+    "zh": "One of the more disturbing things was that the model’s reasoning didn’t indicate anything about what it was about to do. Meaning that CoT monitoring would have"
+   },
+   "source": "@aidangomez",
+   "url": "https://x.com/aidangomez/status/2114774136669323720",
+   "note": {
+    "en": "Gomez noted that a model's chain-of-thought gave no hint of a harmful action it was about to take, meaning CoT monitoring would have failed to catch it.",
+    "zh": "Gomez指出，某模型在采取有害行动前，其思维链完全没有流露出任何迹象，这意味着CoT监控本应能发现却失效了。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-23",
    "ts": "2026-10-23T15:42:01Z",
    "kind": "x",
@@ -1257,44 +1295,6 @@
    "note": {
     "en": "Gomez announced that Command A gained vision capability, letting the model process images alongside text.",
     "zh": "Gomez宣布Command A新增视觉能力，该模型现在可以处理图像与文本。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2025-07-23",
-   "ts": "2025-07-23T02:03:11Z",
-   "kind": "x",
-   "title": {
-    "en": "COHERE IS PRIVATELY DEPLOYABLE AND ALSO CAN EVEN GO AIR GAPPED",
-    "zh": "COHERE IS PRIVATELY DEPLOYABLE AND ALSO CAN EVEN GO AIR GAPPED"
-   },
-   "source": "@aidangomez",
-   "url": "https://x.com/aidangomez/status/1947839882795119042",
-   "note": {
-    "en": "Gomez restated Cohere's core pitch that its models can be deployed privately, even fully air-gapped, reinforcing the company's enterprise-security positioning.",
-    "zh": "Gomez重申了Cohere的核心主张——其模型可实现私有化部署，甚至完全物理隔离（air-gapped），强化了公司在企业安全方面的定位。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2025-07-15",
-   "ts": "2025-07-15T00:15:00Z",
-   "kind": "x",
-   "title": {
-    "en": "Kohere! 🇰🇷 Were very excited to be opening our first office in Asia in Seoul. 저희는 테크 및 세일즈 분야에서 채용 중이며, 한국 기업들이 AI 기술을 도입하여 성장하고 번영할 수 있도록 돕는 일에 매우 기쁩니다!",
-    "zh": "Kohere! 🇰🇷 Were very excited to be opening our first office in Asia in Seoul. 저희는 테크 및 세일즈 분야에서 채용 중이며, 한국 기업들이 AI 기술을 도입하여 성장하고 번영할 수 있도록 돕는 일에 매우 기쁩니다!"
-   },
-   "source": "@aidangomez",
-   "url": "https://x.com/aidangomez/status/1944913553640558638",
-   "note": {
-    "en": "Gomez announced Cohere's first office in Asia, opening in Seoul, as part of the company's expansion into the Korean market.",
-    "zh": "Gomez宣布Cohere在亚洲的首个办公室将在首尔开设，作为公司拓展韩国市场的一部分。"
    },
    "auto": true,
    "judged": true,

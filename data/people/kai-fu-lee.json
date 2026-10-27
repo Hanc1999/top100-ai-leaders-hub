@@ -169,6 +169,25 @@
    }
   },
   {
+   "date": "2026-10-26",
+   "ts": "2026-10-26T14:31:34Z",
+   "kind": "x",
+   "title": {
+    "en": "Fresh off the press! The AI Native hardcover is ready to go out into the world. https://t.co/81rmjKSPRD",
+    "zh": "Fresh off the press! The AI Native hardcover is ready to go out into the world. https://t.co/81rmjKSPRD"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2114726637728395506",
+   "note": {
+    "en": "Lee announced the hardcover release of his book 'AI Native'.",
+    "zh": "李开复宣布其新书《AI Native》精装版正式发售。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-21",
    "ts": "2026-10-21T18:23:50Z",
    "kind": "x",
@@ -3269,6 +3288,23 @@
    "judged": true
   },
   {
+   "date": "2026-07-07",
+   "ts": "2026-07-07T12:23:54Z",
+   "level": "notable",
+   "title": {
+    "en": "对话零一万物李开复：企业AI最好的作用是影响财报",
+    "zh": "对话零一万物李开复：企业AI最好的作用是影响财报"
+   },
+   "body": {
+    "en": "In an interview, Kai-Fu Lee argues enterprise AI's best effect is on the financial statements of the businesses adopting it, reflecting 01.AI's pivot to enterprise deployment.",
+    "zh": "李开复在采访中表示，企业AI最好的作用是影响企业的财报表现，反映出零一万物向企业级落地转型的方向。"
+   },
+   "source": "Jiemian.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CbGJuRFE3NTFveVdnOXlaYUhXU3dsU3R4dVMyTG5lRldaekNOak9jVGtQOHZ3TFpTanM1Q3BULVhScmhQZnMzZlpwaGctb19vRDBRSTh3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-07-05",
    "ts": "2026-07-05T07:00:00Z",
    "level": "major",
@@ -3452,6 +3488,23 @@
    },
    "source": "t.cj.sina.cn",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DV200QktyWHNRdlBVZU1lNXl5NlUxUkxaZ05tYnpUQXhuLXc1VExPUXh1VjRORmMzV1hjMVlCa0NRYU5kLTZSTGQzSTZaeEJfekQtRUI1ZnQ1RE4xY3Z3WjhNUVh0aDl3N1hCRFRkcXNCdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-05-26",
+   "ts": "2026-05-26T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "对话李开复：别叫我们 “六小虎”，叫 “金钱豹”",
+    "zh": "对话李开复：别叫我们 “六小虎”，叫 “金钱豹”"
+   },
+   "body": {
+    "en": "In an interview, Lee pushed back on the \"six little tigers\" label for China's AI startups, arguing they should be seen as profitable \"money leopards\" instead — a stance on the sector's maturing economics.",
+    "zh": "李开复在访谈中反驳将中国AI创业公司称为\"六小虎\"的说法，主张它们已是能盈利的\"金钱豹\"，对行业经济模式的成熟发表了立场。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92LWQ5Y2tRNzlzUTJIXzFYMVFpMEVmVTZmaWtrQlJPR05OallyMUZQcEJMUkZmYlppTVNUeEVQYlRjSi10bGFIT0xLbGEyRlRJRDdkRXU4SFJOTWNNRWRYM3JUNGF1MWozNGVoSllVYw?oc=5",
    "auto": true,
    "judged": true
   },
@@ -3650,16 +3703,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 50.0,
+  "total": 49.8,
   "attention": 46,
   "centrality": 30,
-  "momentum": 81,
+  "momentum": 80,
   "stature": null,
   "pageviews": 77041,
   "citations": 2181,
   "hIndex": 20,
-  "events": 104,
-  "posts": 91,
+  "events": 106,
+  "posts": 92,
   "wikiEn": "Kai-Fu Lee",
   "wikiZh": "李开复"
  },

@@ -251,6 +251,25 @@
    "connector": null
   },
   {
+   "date": "2026-10-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Nested Sparsity for Scalable Pretraining and Continual Learning",
+    "zh": "Nested Sparsity for Scalable Pretraining and Continual Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.31818v1",
+   "note": {
+    "en": "Yi Ma co-authors a method for structuring mixture-of-experts sparsity patterns to make pretraining and continual learning more scalable.",
+    "zh": "马毅合著的论文提出了一种构建混合专家稀疏模式的方法，以提升预训练和持续学习的可扩展性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-19",
    "ts": null,
    "kind": "paper",
@@ -1508,7 +1527,7 @@
   "citations": 46806,
   "hIndex": 81,
   "events": 17,
-  "posts": 54,
+  "posts": 55,
   "wikiEn": "Yi Ma",
   "wikiZh": null
  },

@@ -1,5 +1,5 @@
 {
- "rank": 86,
+ "rank": 87,
  "id": "percy-liang",
  "name": {
   "en": "Percy Liang",
@@ -207,6 +207,25 @@
     "en": "The course is one of the more useful public artefacts of the year — it forces the whole stack into view.",
     "zh": "这门课是这一年更有用的公共产物之一 —— 它逼着你把整个技术栈摊开来看。"
    }
+  },
+  {
+   "date": "2026-10-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Rewriting Scaling Laws for Synthetic Data with Compute and Data Constraints",
+    "zh": "Rewriting Scaling Laws for Synthetic Data with Compute and Data Constraints"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.31867v1",
+   "note": {
+    "en": "Percy Liang co-authors a study on how scaling laws for LLM-rewritten synthetic pretraining data change under realistic compute and data constraints.",
+    "zh": "Percy Liang合著的研究探讨了在真实的计算和数据限制下，大模型改写的合成预训练数据的缩放定律会如何变化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-10-14",
@@ -1684,25 +1703,6 @@
    "note": {
     "en": "The Holistic Agent Leaderboard, carrying the HELM approach to standardised evaluation over to AI agents.",
     "zh": "Holistic Agent Leaderboard 将 HELM 的标准化评测思路延伸到 AI 智能体。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2025-10-08",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "MLE-Smith: Scaling MLE Tasks with Automated Multi-Agent Pipeline",
-    "zh": "MLE-Smith: Scaling MLE Tasks with Automated Multi-Agent Pipeline"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2510.07307v1",
-   "note": {
-    "en": "MLE-Smith, an automated multi-agent pipeline that generates machine-learning-engineering tasks to train and evaluate agents on.",
-    "zh": "MLE-Smith 是一条自动化的多智能体流水线，批量生成机器学习工程任务以训练和评测智能体。"
    },
    "auto": true,
    "judged": true,

@@ -181,6 +181,25 @@
    }
   },
   {
+   "date": "2026-10-27",
+   "ts": "2026-10-27T17:17:45Z",
+   "kind": "x",
+   "title": {
+    "en": "Some great results in here!: By using Cohere Embed on Model Vault, @ada_cx achieved: * 77 ms median retrieval latency for faster, more accurate AI voice interac",
+    "zh": "Some great results in here!: By using Cohere Embed on Model Vault, @ada_cx achieved: * 77 ms median retrieval latency for faster, more accurate AI voice interac"
+   },
+   "source": "@aidangomez",
+   "url": "https://x.com/aidangomez/status/2115130845069496380",
+   "note": {
+    "en": "Gomez highlighted a customer case study: Ada's voice-AI product hit 77ms median retrieval latency and 2.7x throughput-per-dollar gains using Cohere Embed on Model Vault.",
+    "zh": "Gomez分享了一个客户案例：Ada的语音AI产品在Model Vault上使用Cohere Embed后，检索延迟中位数降至77毫秒，单位成本吞吐量提升2.7倍。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-26",
    "ts": "2026-10-26T16:48:35Z",
    "kind": "x",
@@ -1276,25 +1295,6 @@
    "note": {
     "en": "Gomez announced the launch of North, Cohere's agentic AI platform built for secure, real-world enterprise work rather than raw data exposure.",
     "zh": "Gomez宣布推出North——Cohere面向安全、真实企业工作场景打造的智能体AI平台，而非以数据暴露为代价。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2025-07-31",
-   "ts": "2025-07-31T14:14:21Z",
-   "kind": "x",
-   "title": {
-    "en": "Command A can see!!",
-    "zh": "Command A can see!!"
-   },
-   "source": "@aidangomez",
-   "url": "https://x.com/aidangomez/status/1950922990142791948",
-   "note": {
-    "en": "Gomez announced that Command A gained vision capability, letting the model process images alongside text.",
-    "zh": "Gomez宣布Command A新增视觉能力，该模型现在可以处理图像与文本。"
    },
    "auto": true,
    "judged": true,

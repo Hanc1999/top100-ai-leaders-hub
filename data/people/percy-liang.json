@@ -1691,25 +1691,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2025-10-13",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation",
-    "zh": "Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2510.11977v1",
-   "note": {
-    "en": "The Holistic Agent Leaderboard, carrying the HELM approach to standardised evaluation over to AI agents.",
-    "zh": "Holistic Agent Leaderboard 将 HELM 的标准化评测思路延伸到 AI 智能体。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2024-10-03",
    "ts": null,
    "kind": "podcast",
@@ -1949,7 +1930,7 @@
   "citations": 45211,
   "hIndex": 87,
   "events": 2,
-  "posts": 92,
+  "posts": 91,
   "wikiEn": "Percy Liang",
   "wikiZh": null
  },

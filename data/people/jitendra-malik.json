@@ -221,6 +221,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2026-10-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "PlayPolicy: Dexterity from Supervised Play",
+    "zh": "PlayPolicy: Dexterity from Supervised Play"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.22340v2",
+   "note": {
+    "en": "Co-authored PlayPolicy, a framework for teaching robots dexterous manipulation by learning from supervised play.",
+    "zh": "合著论文PlayPolicy，提出通过监督式游戏数据训练机器人掌握灵巧操作的框架。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-12",
    "ts": null,
    "kind": "paper",
@@ -1891,7 +1910,7 @@
   "citations": 168758,
   "hIndex": 144,
   "events": 0,
-  "posts": 91,
+  "posts": 92,
   "wikiEn": "Jitendra Malik",
   "wikiZh": "希特德拉·馬利克"
  },

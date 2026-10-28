@@ -1,5 +1,5 @@
 {
- "rank": 60,
+ "rank": 59,
  "id": "wang-haifeng",
  "name": {
   "en": "Wang Haifeng",
@@ -651,6 +651,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-09",
+   "ts": "2026-10-09T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "消息称百度CTO王海峰离职",
+    "zh": "消息称百度CTO王海峰离职"
+   },
+   "body": {
+    "en": "Reports say Baidu CTO Wang Haifeng has departed, following a November 2025 restructuring that had already stripped him of authority over Baidu's core large-model R&D, which now reports directly to CEO Robin Li.",
+    "zh": "有消息称百度CTO王海峰已离职，此前2025年11月的架构调整已将核心大模型研发的管理权从他手中剥离，转由CEO李彦宏直接管理。"
+   },
+   "source": "Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XWmxhb3lnTFZoMzV2YUJrbjMwTFI1TTFpM0JBeDN1RXd3YUpzV1h6a0JsNTBmN3NNTmtXMldDZ1llMGxXNFR2RlNfdFNodFlzak1iS3MyN3o4RE1s?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-03-07",
    "ts": null,
    "level": "notable",
@@ -692,15 +709,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 38.6,
+  "total": 40.5,
   "attention": null,
   "centrality": 50,
-  "momentum": 26,
+  "momentum": 31,
   "stature": 36,
   "pageviews": 0,
   "citations": 22856,
   "hIndex": 74,
-  "events": 5,
+  "events": 6,
   "posts": 22,
   "wikiEn": null,
   "wikiZh": null

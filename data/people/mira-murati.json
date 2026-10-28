@@ -1081,6 +1081,23 @@
    "judged": true
   },
   {
+   "date": "2026-05-21",
+   "ts": "2026-05-21T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "The $2B Mira Murati Mystery",
+    "zh": "The $2B Mira Murati Mystery"
+   },
+   "body": {
+    "en": "Puck's investigative piece examines what happened to Murati's $2B funding round and the churn at Thinking Machines Lab.",
+    "zh": "Puck的一篇调查报道探讨了Murati筹集的20亿美元资金去向，以及Thinking Machines Lab内部的人员流失情况。"
+   },
+   "source": "Puck",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jNjJKMlVSYXh3SzBVMlV6RGxBS1o2eXo5MFhuSUVyVGg2LUQ3OTFHSDVuZDdzbnF1NG9GclVHZ0o5dGFEcUl0VVBnYjIwZEJHdW9XTWdTaWlHckdsWkNkbUtRU2tIYnpTbUFBWGg2cjhHaUE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-05-13",
    "ts": "2026-05-13T07:00:00Z",
    "level": "notable",
@@ -1326,15 +1343,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 74.7,
+  "total": 74.9,
   "attention": 82,
   "centrality": 72,
-  "momentum": 64,
+  "momentum": 65,
   "stature": null,
   "pageviews": 800593,
   "citations": 1653,
   "hIndex": 3,
-  "events": 35,
+  "events": 36,
   "posts": 33,
   "wikiEn": "Mira Murati",
   "wikiZh": "米拉·穆拉蒂"

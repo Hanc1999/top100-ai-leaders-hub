@@ -213,6 +213,63 @@
    }
   },
   {
+   "date": "2026-10-27",
+   "ts": "2026-10-27T08:29:48Z",
+   "kind": "x",
+   "title": {
+    "en": "Introducing Nestor, a new generation of scalable architectures that generalize MoE transformers and explicitly promote sparsity in both attentions and experts,",
+    "zh": "Introducing Nestor, a new generation of scalable architectures that generalize MoE transformers and explicitly promote sparsity in both attentions and experts,"
+   },
+   "source": "@yimatweets",
+   "url": "https://x.com/YiMaTweets/status/2114997982345208105",
+   "note": {
+    "en": "Ma introduced Nestor, a new architecture family that generalizes MoE transformers and explicitly enforces sparsity in both attention and experts to learn more structured representations.",
+    "zh": "马毅介绍了Nestor，一种对MoE Transformer进行推广的新架构家族，在注意力和专家两个层面都明确促进稀疏性，以学习更具结构性的表征。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Generative Structure from Motion with Native 3D Diffusion",
+    "zh": "Generative Structure from Motion with Native 3D Diffusion"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.35522v1",
+   "note": {
+    "en": "Co-authored paper introducing a native 3D diffusion model that recovers camera motion and object structure from sparse, uncalibrated views, extending Ma's classical multi-view-geometry work into generative modeling.",
+    "zh": "与人合著的论文提出一种原生3D扩散模型，用于从稀疏、未标定的多视角图像中恢复相机运动与物体三维结构，将其在多视图几何方面的经典研究延伸到生成式建模领域。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-10-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Information-Theoretic Scaling Laws for Generative Diffusion Training",
+    "zh": "Information-Theoretic Scaling Laws for Generative Diffusion Training"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.33337v1",
+   "note": {
+    "en": "Paper with Berkeley collaborator Druv Pai deriving information-theoretic scaling laws that explain how diffusion models trained on finite data depart from the distribution they converge to with infinite data.",
+    "zh": "与伯克利合作者Druv Pai共同撰写的论文，推导出信息论意义上的扩散模型缩放定律，解释了在有限数据下训练的扩散模型如何偏离无限数据下收敛的分布。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-22",
    "ts": "2026-10-22T03:41:53Z",
    "kind": "x",
@@ -1443,6 +1500,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "刘震云、马毅谈AI时代：机器拿走共性，人更要守住个性| 《财经》客户端",
+    "zh": "刘震云、马毅谈AI时代：机器拿走共性，人更要守住个性| 《财经》客户端"
+   },
+   "body": {
+    "en": "At the Bund Summit, Yi Ma argued that large models absorb humanity's shared knowledge well but cannot grasp an individual's distinct values, urging people to hold onto their own identity in the AI era.",
+    "zh": "马毅在外滩大会上表示，大模型能很好地掌握人类共性知识，却难以理解个体独特的价值取向，并呼吁人们在AI时代更要守住自己的个性。"
+   },
+   "source": "mycaijing.com",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aU3g0N05Pd2xWVVlxTFZoc1dud1lvd2ZaaEwwdmdZeUlmTGJJN1lUTlVsa3NZT3p5UGVKWkNwZzAzSGhoa25sSExjNDdtOS1lTFB3Vk5mSm5ES1JPNHBtSGJubHY0eWNWcEl3Ug?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-09",
    "ts": "2026-09-09T18:43:00Z",
    "level": "notable",
@@ -1518,16 +1592,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 23.5,
+  "total": 24.0,
   "attention": 7,
   "centrality": 8,
-  "momentum": 58,
+  "momentum": 60,
   "stature": 58,
   "pageviews": 2604,
   "citations": 46806,
   "hIndex": 81,
-  "events": 17,
-  "posts": 55,
+  "events": 18,
+  "posts": 58,
   "wikiEn": "Yi Ma",
   "wikiZh": null
  },

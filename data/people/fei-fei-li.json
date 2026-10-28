@@ -1,5 +1,5 @@
 {
- "rank": 15,
+ "rank": 14,
  "id": "fei-fei-li",
  "name": {
   "en": "Fei-Fei Li",
@@ -217,6 +217,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-10-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Behavior Spatial Benchmark: Evaluating Spatial Understanding for Robotics",
+    "zh": "Behavior Spatial Benchmark: Evaluating Spatial Understanding for Robotics"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.34051v1",
+   "note": {
+    "en": "Li co-authors BEHAVIOR-Spatial, a new benchmark for evaluating whether robots actually follow spatial instructions rather than just completing the task some other way.",
+    "zh": "李飞飞合著了BEHAVIOR-Spatial基准，用于评估机器人是否真正遵循空间指令完成任务，而不是绕过指令另寻途径。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-10-21",
@@ -1333,25 +1352,6 @@
    "note": {
     "en": "CaP-X benchmarks and improves code-generating agents used as controllers for robot manipulation.",
     "zh": "CaP-X 用于评测并改进以代码生成方式充当机器人操作控制器的智能体。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-03-23",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "MIRAGE: The Illusion of Visual Understanding",
-    "zh": "MIRAGE: The Illusion of Visual Understanding"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2603.21687v3",
-   "note": {
-    "en": "Examines the mechanisms behind visual-language reasoning and argues much apparent visual understanding is illusory.",
-    "zh": "研究视觉语言推理的内在机制，指出多模态模型的“视觉理解”很大程度上是假象。"
    },
    "auto": true,
    "judged": true,
@@ -3572,6 +3572,23 @@
    },
    "source": "新浪财经",
    "url": "https://news.google.com/rss/articles/CBMi3ARBVV95cUxNdDM5WkkyMDlTdzZCbzQ3MmRnN2ppcUw4a2wyOUFkcVFPTzVOaHBkcXl2WnJ1OF94M0dBQXh4cXVLRmhVS0ZoVUc3aVJiR0ptTnNmSnB4NGJvS1pZMjF3eVNFbzEtOWpPajVnZW9FRVp0LWVTNEZRWDVpdWhtVDJXWldoME1WZk1KOHFSVk5RZEx1N3V3Vk16UXQxeWRNOU85amdKeDFCSHlFT2ZBNEVIYzl4TUlHcjRfNUNpai0xMG9FWGN4SGZGZWhJd09qVDhSV2dGbWo4Z1pkZFVaTHBnWTJ3dkVfU2gwbUZiOFN4TVZCVWM4Q2JLSkVELU9EbW05aGRsLTBrY0paSnJUb2VuSGF4RTBnUWFTZkhEU3F6UWNxbFg3TWpmNWp1VmRFdlpPYTZVV0o5eVhBV2xVdk1iQnV3dEtWYXlWNnV6dkdmYU4wS0Jxak5yNVFqMG13dEJyZVk4X28ySXlUbXQ0MkJWb0s2bU1qLW16R2xOT2dFSkFuTXVMS3NUVUczdXhhTWQ2Z3ZIbWh1Y0RsVHJDdlNBbjIxYTdkMHhVbFI0cUs0MHFZc1dONWdEcGFOZUNBeWpkTUlaY0JxTVBScF9ZUWRrSlh3M3pZOFVIRVZRcHZaVkprdV8tenVXLW5vcEZKcXAxTDNVN2ktQjdhSHZwN1VSbHMtbHpKTnhvV1VFSFZsUk1Tbmg2c1Z4dUpUVnZ2XzNLeWdEaDl0WW01WHdSOVpXQkhrVWh3bUpUcURFcEM4cXFhYm5FSVdHcERFMjZadmk5S1JqMVBOVS0yQnhx?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-03",
+   "ts": "2026-10-03T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "豪掷82亿美元，AMD买下“AI教母”李飞飞公司",
+    "zh": "豪掷82亿美元，AMD买下“AI教母”李飞飞公司"
+   },
+   "body": {
+    "en": "AMD agreed to acquire Li's startup World Labs for $8.2B; she becomes AMD's EVP and chief scientist under CEO Lisa Su.",
+    "zh": "AMD宣布以82亿美元收购李飞飞创立的World Labs，她将在CEO苏姿丰领导下出任AMD执行副总裁兼首席科学家。"
+   },
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Dam00Tkd6RHI1MFBxLURLNkxjUDVlc3JtZm0wTHJScDQxbWt5RW9sek5VbU1sV2RkZVFEd3pNbGJlQ0J3aFVyVnJvVkx1ZmZUNjZoNUhRMlNzMV9QbzJSaGFMVDFSNnFmWjBudmF2TEg?oc=5",
    "auto": true,
    "judged": true
   },
@@ -6891,6 +6908,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-23",
+   "ts": "2026-09-23T00:21:00Z",
+   "level": "notable",
+   "title": {
+    "en": "World Labs联合创始人李飞飞呼吁对人工智能进行独立监管",
+    "zh": "World Labs联合创始人李飞飞呼吁对人工智能进行独立监管"
+   },
+   "body": {
+    "en": "Fei-Fei Li, co-founder of World Labs, publicly called for independent regulation of artificial intelligence.",
+    "zh": "World Labs联合创始人李飞飞公开呼吁对人工智能进行独立监管。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcHJvQlM0SERrSkYzczNCRDVBVmNrZks3aC1HUkxyZE5lLVh6X1Z2WjdKTWxkckZ0YVBUblN2dE9XR0VVSUlQalpmYmNlc0NwTnlkSlNrMHFOYVJkVnlGa2J2V0tPWXNlNE1nNGNZRVZlVG9UQXBJbW9jUmduSmNsTmVGdkFwaDVfeWJaRHBtSVgyQ1VXQkV0d3dEaHU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-22",
    "ts": "2026-09-22T19:10:37Z",
    "level": "notable",
@@ -8557,6 +8591,23 @@
    "judged": true
   },
   {
+   "date": "2026-06-22",
+   "ts": "2026-06-22T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李飞飞与大卫·罗杰对话：AI时代人类能动性与空间智能是关键",
+    "zh": "李飞飞与大卫·罗杰对话：AI时代人类能动性与空间智能是关键"
+   },
+   "body": {
+    "en": "In a public dialogue on AI and human agency, Li restated her core thesis that language models lack a grounded sense of geometry, persistence and physical space, and that spatial intelligence is the missing layer — the argument behind World Labs.",
+    "zh": "在一场关于AI时代人类能动性的公开对话中，李飞飞重申了她的核心观点：语言模型缺乏对几何、持久性和物理空间的内在理解，空间智能是缺失的一层，这正是World Labs的立论基础。"
+   },
+   "source": "虎嗅网",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rZHlCQTRjU0d3aWtGMk5SZ291bDRVSUxGdUVSZG0teHBzRWVydlJhUFBSX3JVMVNOTWpGN21tQlkybTYtcmdONGZzSDNrc1FNUzZOaw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-06-04",
    "ts": "2026-06-04T07:00:00Z",
    "level": "notable",
@@ -8657,7 +8708,7 @@
   "pageviews": 423813,
   "citations": 222997,
   "hIndex": 137,
-  "events": 375,
+  "events": 378,
   "posts": 110,
   "wikiEn": "Fei-Fei Li",
   "wikiZh": "李飛飛"

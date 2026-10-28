@@ -187,6 +187,25 @@
    }
   },
   {
+   "date": "2026-10-26",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Patient-specific rubric-based evaluation of large language models across longitudinal cancer care",
+    "zh": "Patient-specific rubric-based evaluation of large language models across longitudinal cancer care"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.35847v1",
+   "note": {
+    "en": "Yang co-authors NPC-RubricBench, a benchmark testing 30 general-purpose and medical LLMs on multistage clinical reasoning across real patients' cancer care, finding strong diagnostic skill doesn't carry over to ongoing care decisions.",
+    "zh": "杨红霞合著了NPC-RubricBench基准，测试30个通用及医疗大模型在真实患者癌症全程诊疗中的多阶段临床推理能力，发现诊断能力强并不代表后续诊疗决策同样可靠。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-09",
    "ts": null,
    "kind": "paper",
@@ -940,25 +959,6 @@
    "note": {
     "en": "Co-authored paper on InfiFusion, a unified framework for fusing LLMs to enhance cross-model reasoning.",
     "zh": "合著论文提出InfiFusion,一个统一框架,通过融合多个大模型来增强跨模型推理能力。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-01-06",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Quantization Meets Reasoning: Exploring LLM Low-Bit Quantization Degradation for Mathematical Reasoning",
-    "zh": "Quantization Meets Reasoning: Exploring LLM Low-Bit Quantization Degradation for Mathematical Reasoning"
-   },
-   "source": "arXiv (Cornell University)",
-   "url": "http://arxiv.org/abs/2501.03035",
-   "note": {
-    "en": "Co-authored paper studying how low-bit quantization degrades large language models' mathematical reasoning.",
-    "zh": "合著论文研究低比特量化对大模型数学推理能力的损害程度。"
    },
    "auto": true,
    "judged": true,

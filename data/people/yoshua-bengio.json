@@ -169,6 +169,25 @@
    }
   },
   {
+   "date": "2026-10-27",
+   "ts": "2026-10-27T13:10:19Z",
+   "kind": "x",
+   "title": {
+    "en": "It was great participating in a fireside chat with @camillefrancois at the Attention Conference in Montreal last week. We discussed the ongoing technical work a",
+    "zh": "It was great participating in a fireside chat with @camillefrancois at the Attention Conference in Montreal last week. We discussed the ongoing technical work a"
+   },
+   "source": "@yoshua_bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2115068575438241888",
+   "note": {
+    "en": "Bengio recapped a fireside chat on AI misalignment and described LawZero's ongoing technical work to address it.",
+    "zh": "本吉奥回顾了一场关于AI错位风险的炉边对话，并介绍了LawZero在该问题上正在进行的技术研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-21",
    "ts": "2026-10-21T13:27:40Z",
    "kind": "x",
@@ -1689,25 +1708,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-05-21",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "I was happy to join the @ScienceBoard_UN podcast to discuss deception among frontier AI models and the need to manage its potential global impacts and risks.",
-    "zh": "I was happy to join the @ScienceBoard_UN podcast to discuss deception among frontier AI models and the need to manage its potential global impacts and risks."
-   },
-   "source": "@Yoshua_Bengio",
-   "url": "https://x.com/Yoshua_Bengio/status/2057576065611272515",
-   "note": {
-    "en": "Bengio recounts joining the Science Board UN podcast to discuss deception among frontier AI models and its global implications.",
-    "zh": "本吉奥讲述参加Science Board UN播客,探讨前沿AI模型中的欺骗行为及其全球影响。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
    "date": "2026-05-19",
    "ts": null,
    "kind": "paper",
@@ -1815,25 +1815,6 @@
    "note": {
     "en": "Measures the cost that flattening natively two-dimensional problems into 1D text imposes on language models.",
     "zh": "量化了把本质上二维的问题压平为一维文本时，语言模型所付出的代价。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-04-19",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Language models recognize dropout and Gaussian noise applied to their activations",
-    "zh": "Language models recognize dropout and Gaussian noise applied to their activations"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2604.17465v2",
-   "note": {
-    "en": "Shows that language models can detect, localise and partly verbalise perturbations applied to their own activations — an interpretability result with direct bearing on monitoring.",
-    "zh": "证明语言模型能够检测、定位并在一定程度上用语言描述施加于自身激活值的扰动，这一可解释性结果对模型监控具有直接意义。"
    },
    "auto": true,
    "judged": true,
@@ -3186,6 +3167,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "AI regulation could be nearing dramatic shift, says ‘Godfather of AI’ Yoshua Bengio",
+    "zh": "AI regulation could be nearing dramatic shift, says ‘Godfather of AI’ Yoshua Bengio"
+   },
+   "body": {
+    "en": "Bengio said AI regulation could be nearing a dramatic shift, continuing his public push for binding safety governance.",
+    "zh": "本吉奥表示AI监管可能即将迎来重大转变，延续了他推动具有约束力的安全治理的公开倡导。"
+   },
+   "source": "The News International",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUTJvVFZsOGJXZFZqaWNxMHBMRWZNdHdsQUltbWx0VWlDdl9NWHFaMG5yUTUxMVhPOVNnT2pwVTMxRTRYVElJZjQ2SE1kOHVIRTBjOTZ4WV9fNVIyYndQMS1Ra2NzQUlQcFdxRk1zaktqeElrTjhpcEd4QndWdUdxZ1ZGbGhxeWZyRXRTTVdBaENLczZ5cmlXZHBJR3B1cDVndDJ0UmkzSGh5T0h4Nk90MWlRaTVJR0xQdGh2SlBTaw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-07",
    "ts": null,
    "level": "major",
@@ -3371,8 +3369,8 @@
   "pageviews": 276660,
   "citations": 475043,
   "hIndex": 184,
-  "events": 67,
-  "posts": 109,
+  "events": 68,
+  "posts": 108,
   "wikiEn": "Yoshua Bengio",
   "wikiZh": "约书亚·本希奥"
  },

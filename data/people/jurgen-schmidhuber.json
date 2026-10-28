@@ -538,6 +538,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2026-07-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "CORAL: Learning Amyloid Fibril Ligand Docking with Cooperative Binding Rewards",
+    "zh": "CORAL: Learning Amyloid Fibril Ligand Docking with Cooperative Binding Rewards"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2607.17412v2",
+   "note": {
+    "en": "Co-authored CORAL, a cooperative-reward method for amyloid fibril ligand docking relevant to neurodegenerative-disease drug discovery.",
+    "zh": "合著论文CORAL，提出一种协同奖励方法用于淀粉样纤维配体对接研究，可用于神经退行性疾病药物研发。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-07-15",
    "ts": null,
    "kind": "podcast",
@@ -1252,7 +1271,7 @@
   "citations": 185831,
   "hIndex": 89,
   "events": 2,
-  "posts": 56,
+  "posts": 57,
   "wikiEn": "Jürgen Schmidhuber",
   "wikiZh": "于尔根·施密德胡伯"
  },

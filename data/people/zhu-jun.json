@@ -961,6 +961,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-10",
+   "ts": "2026-09-10T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "世界模型到底是什么？李飞飞、朱军等如何解读？",
+    "zh": "世界模型到底是什么？李飞飞、朱军等如何解读？"
+   },
+   "body": {
+    "en": "In an explainer on what world models actually are, Zhu Jun offered his interpretation alongside Fei-Fei Li, reflecting his shift from video generation (Vidu) toward world-model research.",
+    "zh": "在一篇解读\"世界模型到底是什么\"的文章中，朱军与李飞飞一同给出了自己的解读，体现出他从视频生成（Vidu）向世界模型研究方向的延伸。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTEZzN0lUNzBKU2dmYzZTakpyU0RHVDdEdEdWQURTeDBMejRUX1dEVnpsdUp5RHhXQm5DUUxRRlBFN3dJYmJPdEJranRROFdXMC16TDRRbXpIZWtPNjVPazZRdUpsZ1NTWi1rMGpxX2RMaHJ2NFE4OGNBd21xdUZPbk1GRUNISTQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-08-26",
    "ts": null,
    "level": "notable",
@@ -1104,15 +1121,15 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 31.6,
+  "total": 31.8,
   "attention": 19,
   "centrality": 20,
-  "momentum": 55,
+  "momentum": 56,
   "stature": 61,
   "pageviews": 12694,
   "citations": 56229,
   "hIndex": 118,
-  "events": 18,
+  "events": 19,
   "posts": 33,
   "wikiEn": "Zhu Jun",
   "wikiZh": "朱军"

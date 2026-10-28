@@ -1,5 +1,5 @@
 {
- "rank": 21,
+ "rank": 19,
  "id": "koray-kavukcuoglu",
  "name": {
   "en": "Koray Kavukcuoglu",
@@ -162,6 +162,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-10-27",
+   "ts": "2026-10-27T15:00:00Z",
+   "kind": "blog",
+   "title": {
+    "en": "8 examples of Gemini 4 Argon in action",
+    "zh": "8 examples of Gemini 4 Argon in action"
+   },
+   "source": "Koray Kavukcuoglu",
+   "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-in-action/",
+   "note": {
+    "en": "Google showcased eight real-world examples of Gemini 4 Argon, described as its most intelligent model yet, in action.",
+    "zh": "Google展示了Gemini 4 Argon（号称其迄今最智能的模型）在实际场景中的八个应用案例。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
   },
   {
    "date": "2026-10-20",
@@ -1043,16 +1062,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 69.9,
+  "total": 70.3,
   "attention": null,
   "centrality": 87,
-  "momentum": 46,
+  "momentum": 47,
   "stature": 78,
   "pageviews": 0,
   "citations": 166549,
   "hIndex": 73,
   "events": 10,
-  "posts": 39,
+  "posts": 40,
   "wikiEn": null,
   "wikiZh": null
  },

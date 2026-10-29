@@ -156,6 +156,63 @@
    }
   },
   {
+   "date": "2026-10-28",
+   "ts": "2026-10-28T06:08:02Z",
+   "kind": "x",
+   "title": {
+    "en": "Grok @Bot is like hiring an awesome employee",
+    "zh": "Grok @Bot is like hiring an awesome employee"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2115324694505337203",
+   "note": {
+    "en": "Musk described xAI's Grok @Bot feature as being like hiring a great employee, promoting it as a practical AI assistant on X.",
+    "zh": "马斯克将xAI的Grok @Bot功能比作“雇用一位出色员工”，将其作为X平台上实用的AI助手进行推广。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-28",
+   "ts": "2026-10-28T06:07:08Z",
+   "kind": "x",
+   "title": {
+    "en": "10k Starship launches/year is just from Starbase Louisiana",
+    "zh": "10k Starship launches/year is just from Starbase Louisiana"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2115324467295756543",
+   "note": {
+    "en": "Musk said Starbase Louisiana alone could support 10,000 Starship launches a year, underlining the launch-cadence scale SpaceX is targeting.",
+    "zh": "马斯克表示，仅Starbase路易斯安那基地每年就能支持1万次星舰发射，凸显SpaceX追求的发射节奏规模。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-28",
+   "ts": "2026-10-28T17:49:05Z",
+   "kind": "x",
+   "title": {
+    "en": "🇺🇸 Robotaxi Houston 🇺🇸",
+    "zh": "🇺🇸 Robotaxi Houston 🇺🇸"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2115501119296463056",
+   "note": {
+    "en": "Musk announces the expansion of Tesla's Robotaxi service to Houston.",
+    "zh": "马斯克宣布特斯拉Robotaxi无人出租车服务扩展至休斯顿。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-26",
    "ts": "2026-10-26T00:26:18Z",
    "kind": "x",
@@ -1049,63 +1106,6 @@
    "connector": null
   },
   {
-   "date": "2026-10-15",
-   "ts": "2026-10-15T06:30:12Z",
-   "kind": "x",
-   "title": {
-    "en": "Early days of OpenAI",
-    "zh": "Early days of OpenAI"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2110619230161035670",
-   "note": {
-    "en": "Musk reflects on the early days of OpenAI, a personal account from one of its founding figures.",
-    "zh": "马斯克回顾了OpenAI创立初期的经历，这是作为联合创始人之一的个人讲述。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-10-15",
-   "ts": "2026-10-15T11:34:58Z",
-   "kind": "x",
-   "title": {
-    "en": "Truth-seeking is the most important aspect of AI/SI safety",
-    "zh": "Truth-seeking is the most important aspect of AI/SI safety"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2110695927312777466",
-   "note": {
-    "en": "Musk posted that truth-seeking is the most important aspect of AI/SI safety, a post that drew over 500K views — a core tenet of how he frames Grok's design versus rival labs' alignment approaches.",
-    "zh": "马斯克发帖称“追求真相是AI/超级智能安全最重要的方面”，浏览量超过52万，体现他在Grok设计理念上与其他实验室对齐方式的不同立场。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-10-15",
-   "ts": "2026-10-15T17:48:38Z",
-   "kind": "x",
-   "title": {
-    "en": "Old friends are the best friends. Jensen rocks. The Star Mind computer being co-engineered by SpaceX and Nvidia is far better than almost anyone expects and wil",
-    "zh": "Old friends are the best friends. Jensen rocks. The Star Mind computer being co-engineered by SpaceX and Nvidia is far better than almost anyone expects and wil"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2110789964430786745",
-   "note": {
-    "en": "Musk said the SpaceX/Nvidia co-engineered 'Star Mind' computer is ahead of expectations and will reach volume production next year.",
-    "zh": "马斯克表示，SpaceX与Nvidia联合研发的\"Star Mind\"计算机表现远超预期，明年将实现量产。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2026-07-23",
    "ts": null,
    "kind": "podcast",
@@ -1205,6 +1205,193 @@
    },
    "source": "xAI",
    "url": "https://x.ai/news"
+  },
+  {
+   "date": "2026-10-28",
+   "ts": "2026-10-28T01:11:33Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Wants Every American Kid to Own a Piece of SpaceX - KROC-AM",
+    "zh": "Elon Musk Wants Every American Kid to Own a Piece of SpaceX - KROC-AM"
+   },
+   "body": {
+    "en": "Musk said he wants every American kid to be able to own a stake in SpaceX, a retail-ownership push tied to the company's approaching IPO.",
+    "zh": "马斯克表示希望让每个美国孩子都能持有SpaceX的股份，这一散户持股倡议与公司即将进行的IPO相关。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XNmw3VGZKaUJZY21NUDVNLURod25fNC1tQmNXNTdXX3RTd0pSWldfcTRxNFdSZldHdnlyNU9DRnQyX0d5YjJwdjZGejBFU2puRTJjU2xn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-28",
+   "ts": "2026-10-28T05:56:18Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk Says SpaceX Is Now a \"Super Intelligence\" Company",
+    "zh": "Elon Musk Says SpaceX Is Now a \"Super Intelligence\" Company"
+   },
+   "body": {
+    "en": "Musk declared that SpaceX itself is now a 'super intelligence' company, signaling AI is central to the rocket maker's strategy alongside xAI.",
+    "zh": "马斯克宣称SpaceX本身已成为一家“超级智能”公司，表明人工智能已与xAI一起成为这家火箭公司战略的核心。"
+   },
+   "source": "The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU29sRkpKM3NUQ1hWcWgtanZYTE8xdXBDZ2R1THJlZEZ3ZnNDU0lfaHlZaUpMZjRHUXJKZ2M5aGQwc3lOQnNFLWlCcFY4T1dtMFBxbVhMUmVMdnA5RzVFV1dJVjRISUJqVnpSOHhvbWg2UWZpUDRMei1rV2tBMWppa0NSTkk1LWR3ZUJvWm5obUVKazBhak9r?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-28",
+   "ts": "2026-10-28T05:35:20Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Says Tesla Robotaxi Expansion to Miami, Tampa Beaches Is ‘Coming Soon’ After Ron DeSantis’ Call",
+    "zh": "Elon Musk Says Tesla Robotaxi Expansion to Miami, Tampa Beaches Is ‘Coming Soon’ After Ron DeSantis’ Call"
+   },
+   "body": {
+    "en": "Musk said Tesla's robotaxi service will expand to Miami and Tampa beach areas soon, following a call with Florida Governor Ron DeSantis.",
+    "zh": "马斯克表示，在与佛罗里达州州长罗恩·德桑蒂斯通话后，特斯拉robotaxi服务即将扩展到迈阿密和坦帕海滩地区。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNeTdvWHJEdl83eGx5UXU0cWtXc2FLeTFGZDFJS2NRZENVNkMzSkNpYkp1Z2o3czd4a0VlX0RKalhuQ0N5WXVUcHVqdE96U3RrTjFIMmZDSEFrU1pGTHNyRExEdmRJUEp3Y0NjX24zY3VUekFIMmRuVUtRTHB0QTRzSGlzLTVJS2dsbmJ0NFZ0ckZqM2xBT2o4VmdfQldVbHNHR0ZPcnNtR0lZWGR0UkxIc0dTMU5QWVNRT0FNRVlXWm9DNlN6OG1IRVJpNlh1Xzc3V3RqTFBlRmJLWktVaFJ2TEdiSTJzQ1Z0MkpSS2lZQVNXSjI3ejJacUota3Q?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-28",
+   "ts": "2026-10-28T05:50:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Says SpaceX Is Now a \"Super Intelligence\" Company",
+    "zh": "Elon Musk Says SpaceX Is Now a \"Super Intelligence\" Company"
+   },
+   "body": {
+    "en": "Musk declared SpaceX is now a \"superintelligence\" company, folding its AI ambitions into the core identity of the business.",
+    "zh": "马斯克宣称SpaceX现在是一家“超级智能”公司，将AI业务纳入公司的核心定位。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMmZlNDVweVJ0Xzc3X0ZjMkExZGQ3T1c2UnoxNm5vZUN6LXc0QlZINVBudFRqV1NKM2VESVRZNEE4WGxtVHN6emhES1JRUGluS2Z4cEhJVUtzUzF2YlVLZmZabkNSVWg4TXZvSGFsQjZWVHdDakpJd0xkVVpzRzktMVJWR0J5Z21tcmw5NzJOdXlIOWc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-28",
+   "ts": "2026-10-28T11:30:00Z",
+   "level": "notable",
+   "title": {
+    "en": "‘Elonville’: Mississippi residents say Musk’s xAI is buying up homes if they don’t sue over noise",
+    "zh": "‘Elonville’: Mississippi residents say Musk’s xAI is buying up homes if they don’t sue over noise"
+   },
+   "body": {
+    "en": "The Guardian reported xAI has been buying up homes near its Mississippi data center after residents complained about noise, showing the real-world footprint of its compute buildout.",
+    "zh": "《卫报》报道，xAI在密西西比数据中心附近因居民投诉噪音而大量收购房屋，凸显其算力扩张带来的现实影响。"
+   },
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUlRSUXF5ZTFxZy1oN2lWRVFiclVxM3ppQjRfRHpmRWRzMHNzU0xMQmtidmF4dFB5WXF0UVpRMjlsSGc0cW9jc3NJOVBobUNYTThPSTcyTUUzYkk0T3NsSzhzT1pOdFkzSk9XU3c5WnMzUVBSVUgtUEgzZHVaZWxpN2ZXUXE0V2xiUDBzdjhsMFRkMjVsX1JrLXNn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-28",
+   "ts": "2026-10-28T16:00:27Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk's SpaceXAI Is Reportedly Seeking To Buy 418 Mississippi Homes Near Its Power Plant. There's One Catch For Sellers. - 24/7 Wall St.",
+    "zh": "Elon Musk's SpaceXAI Is Reportedly Seeking To Buy 418 Mississippi Homes Near Its Power Plant. There's One Catch For Sellers. - 24/7 Wall St."
+   },
+   "body": {
+    "en": "SpaceXAI is reportedly buying up homes near its Mississippi power plant as it expands the energy infrastructure behind its AI compute buildout.",
+    "zh": "据报道，SpaceXAI正在收购密西西比电厂附近的住宅，以扩建支撑其AI算力建设的能源基础设施。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOaGlNZGZ5b29GUDFvR3dnMDZNbE1GWHlvX25Vc3RJa0VzWjBKbTIyVk0tOHEwZFdEVEZWN3BDclVzMVdJeFFJY2JNVGRQSnpYNjlqRHVnLU5GUWtUMXRobVM1TkhqX1JVWjh6TUQxYkZ4UVpuM0JEVWpxZWhIQm01NG9LNUJic3FZRWlLUmZuWnhNM0Vld0Q1V19DbjdmMmdCZXdUVXl5NkRWZmFvNm9UUEhjZEh5UW1NVV9RNk5falQ5M21fLW1Uc0c1WlVDelFMMlgxV0ZCSlNoQm9zaVJZckMtdzhicHk2cDdKY1RRN3cxdEU5R3R0YmZwWUlNWWxG?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-28",
+   "ts": "2026-10-28T14:56:17Z",
+   "level": "minor",
+   "title": {
+    "en": "Elon Musk says 'Robot RAM needs will exceed everything else on Earth'",
+    "zh": "Elon Musk says 'Robot RAM needs will exceed everything else on Earth'"
+   },
+   "body": {
+    "en": "Musk predicted that memory (RAM) demand from robots will eventually exceed all other demand on Earth, underscoring his compute-and-hardware-scaling thesis.",
+    "zh": "马斯克预测机器人对内存（RAM）的需求最终将超过地球上其他一切需求，呼应他对算力与硬件规模扩张的判断。"
+   },
+   "source": "PC Gamer",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPb3BZcWlYMXZYcWtlZHRGTmZVRS1icXR4Tm9aWDktR05vZ0hPVXdWdjd6VXRIbmFhY21Xenk3MEVlZktiQUx3TVpPN2d5bFZzclBFdWtwQm51ZWNGQnRMemwzLXR6SHh6eC1mSERsdG5kOUFwckdNckg2ZHVUeWU0alh0VzM2TTVkYURISDNsZGZsVC1acU94V1BrVXU2dGN6Z2w3RC1va3ppNTZTLWpKWG5hT25OTDFfNU5JZkxZVDBrenE0d1AxMFFLYTNSTWRjSjllN2pZTHJHNVNkWWNIQWpIRHQzaHhERWd2cFlaMHpQS2l5ZWtjejZ5UQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-28",
+   "ts": "2026-10-28T17:44:50Z",
+   "level": "notable",
+   "title": {
+    "en": "SpaceX CEO Elon Musk Says Starbase Louisiana Could Handle 10,000 Starship Launches a Year",
+    "zh": "SpaceX CEO Elon Musk Says Starbase Louisiana Could Handle 10,000 Starship Launches a Year"
+   },
+   "body": {
+    "en": "Musk says SpaceX's Starbase Louisiana facility could support up to 10,000 Starship launches a year, a claim about the planned scale of Starship production and launch cadence.",
+    "zh": "马斯克表示，SpaceX位于路易斯安那州的Starbase基地未来每年可支持多达一万次星舰发射，这是对星舰生产与发射节奏规划规模的说法。"
+   },
+   "source": "Martin Cid Magazine",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeEhfbzFHRkR6UXJKT3J6OWhQV2lRT0tlMHl2aTNtVHBrZFZIaEEwRTJxZ243bkppNnp2Y1pTRDBvMTNoeGRkcUZFZkdGclR1RllaSHMwTFM1dElyWWdtMDF6QTY1RDZsU19QdTc3QlQtck5UQVJvWE9URFhkSHRwR2FHSWJWUmpFYWdsU3pEa3ZiU05kVXN3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-28",
+   "ts": "2026-10-28T18:34:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Vladimir Putin hails Elon Musk’s ‘genius’ amid plans for Russian Starlink",
+    "zh": "Vladimir Putin hails Elon Musk’s ‘genius’ amid plans for Russian Starlink"
+   },
+   "body": {
+    "en": "Putin publicly praised Musk's 'genius' and said Russia is coordinating with him on Starlink, inserting Musk into a geopolitically sensitive dispute over satellite internet in Russia.",
+    "zh": "普京公开称赞马斯克是“天才”，并表示俄罗斯正与他协调星链事宜，让马斯克卷入一场涉及俄罗斯卫星互联网的地缘政治争议。"
+   },
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSWxEZGN4WDlFNDFaZ1VvSndELThSMjVJNnBIR0wzd0NJdVY1SGdwaldYNV96c2F3b2dkOENTSEdqYkFuTmVUczNuSE5zWEhLM2F4SEx6TG9aWGdiTFZPNmt2UEEzUjVPbUQwQnVqZk9QNEwtWUtsS08teExjckVZRUFZQkp1WndUTUdReGxibDJ5OG1oQkJrbw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-28",
+   "ts": "2026-10-28T18:58:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk says he can build a wireless carrier in two to three years. Is that possible?",
+    "zh": "Elon Musk says he can build a wireless carrier in two to three years. Is that possible?"
+   },
+   "body": {
+    "en": "Musk said he could build a wireless carrier within two to three years, a claim that would extend Starlink/SpaceX into telecom infrastructure.",
+    "zh": "马斯克表示他能在两到三年内建成一家无线运营商，这一说法意味着星链/SpaceX将扩展进入电信基础设施领域。"
+   },
+   "source": "MarketWatch",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV2oxNnpyc0NscHNZWFdMd0NPYktuODBwY1IxRnNjU3dhRVV3OTl2dEdPWnBGWWhTQVB3M3FvWW02WlRZY3pPblJWVTBQbXZWZ05CaGpMT3phdXpFWk53WE5QZm1OLUhzdUtaR01oSUJ1cGRwUU1tU0dkWkdtZEVDZE9oZ1pOTTFXc2VLOHVOVlV4dWVWZGRLNFZ4VGZDVWNMemc3dnVJem1Pbm04c194M0FyYk05X0tNTEQ2NlhraGxqUzg4by1r?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-28",
+   "ts": "2026-10-28T14:46:24Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk Invests $1 Billion in Skydance After Merger",
+    "zh": "Elon Musk Invests $1 Billion in Skydance After Merger"
+   },
+   "body": {
+    "en": "Musk invests $1 billion in Skydance following its merger, extending his reach from AI, rockets and EVs into Hollywood and media.",
+    "zh": "马斯克在Skydance完成合并后向其投资10亿美元，将自己的版图从AI、火箭和电动车进一步延伸到好莱坞与媒体行业。"
+   },
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYlk2eUktcFhLRWJHdDhMX3BFc3FuOXFNVWNpVVFfcWdKUnl5dFJwdFN1WVkzUVNYbzZ5NUw2T2JVMXh1bzdMWFNXYlk2VUJxQTlPR3FNUzBXaVhHZWVjQnVYV1otNVFjR2RsWmlOek9uYXlKU20xLVo5MVlMUTJpa0ctODdTbDRCTFljRG5LTzdScXlLOTdpVnBR?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-27",
@@ -2240,6 +2427,57 @@
    },
    "source": "\"Elon Musk\" - BingNews",
    "url": "https://www.theedgesingapore.com/news/artificial-intelligence/musk-claims-us40-bil-chips-debt-closed-yet-talks-ongoing",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-25",
+   "ts": "2026-10-25T14:17:15Z",
+   "level": "notable",
+   "title": {
+    "en": "Ukraine Disputes Elon Musk's Claim That Its Military Violated Starlink's Terms of Service",
+    "zh": "Ukraine Disputes Elon Musk's Claim That Its Military Violated Starlink's Terms of Service"
+   },
+   "body": {
+    "en": "Ukraine publicly disputed Musk's claim that its military violated Starlink's terms of service, a live controversy over his control of war-critical satellite infrastructure.",
+    "zh": "乌克兰公开反驳马斯克关于其军队违反Starlink服务条款的说法，凸显他掌控战时关键卫星基础设施所引发的争议。"
+   },
+   "source": "Military.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVRHdDlwV2twcDNBMWI2QklmemtzVDZLekxWZUtOSlFQaTg4c1ZnMHdjeHdubnNoTlFJcnB1YnhQdG52MXNlQ2FXMHVhd0JkbkVDVXluNmtJNnpTVDVHTGs0Qm9DUUV6MVlRVzByN3ZIZmZqbUxHRkNWQ1M4SUlQaXlBWnllVU10RVdERzVLR3FZTHBxNUF6SV9UQjl0Yjd0VkVvOFIwMEpxQVlBSHVWN1R3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-25",
+   "ts": "2026-10-25T15:35:22Z",
+   "level": "notable",
+   "title": {
+    "en": "Ukraine disputes Elon Musk's claim that its military violated Starlink's terms of service",
+    "zh": "Ukraine disputes Elon Musk's claim that its military violated Starlink's terms of service"
+   },
+   "body": {
+    "en": "Ukraine publicly disputed Musk's claim that its military had violated Starlink's terms of service, reigniting the dispute over Starlink's role in the war.",
+    "zh": "乌克兰公开反驳马斯克关于其军方违反Starlink服务条款的说法，使Starlink在俄乌战争中角色的争议再度升温。"
+   },
+   "source": "PBS",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSzV4Qlk0OW83LXBJTXJtcXZDbk9vQlhyRUtDQmFLY0c2TnprZjFSd2NOTDk1OWdCOVBGdGcwNGJJbTZZRGRjcDZRUUVTT1lPc25qejE5OEhNMjBVbDhSdUM3S2Z0anU5VWs2SzdkZjBaRzdHNnQwX3NoYzhSVExPRTRHb2NPcDRaZkp1OXNuLWJnbUZ5dW5abTU1Ump3RXVTSEJpRTJSZUhOUUhZd251RllTWl9HNUJwQnV6T25vQdIBxAFBVV95cUxPUnhEanlZWUxoREpqVVdmbVc4bnVpbk1kbTlfQUV0eXdGb0hWR2pNMGIyX1QwOVAtdFpDSElEVlFCWVNHeDRzVFJ5NUQ2YkJZMzFOYmtycEswNjNYbDAxSmhlWTVTTUxnVjBocThsQWx1R0x3YzZNSzBCM092cjc3RkFCTHRaRXV4emFaYTNKMWhPcDBzWm1IZm42aGtGNmk1bnlXNGc4dUFNTV9WZk1OLTRoVVAwT2czM25wUUVHUGlMS1ZV?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-25",
+   "ts": "2026-10-25T13:40:01Z",
+   "level": "notable",
+   "title": {
+    "en": "Ukraine disputes Elon Musk's claim that its military violated Starlink's terms of service",
+    "zh": "Ukraine disputes Elon Musk's claim that its military violated Starlink's terms of service"
+   },
+   "body": {
+    "en": "Ukraine disputed Musk's claim that its military violated Starlink's terms of service, a public disagreement over Starlink's wartime use.",
+    "zh": "乌克兰反驳了马斯克关于其军方违反星链服务条款的说法，这是双方围绕星链战时使用的公开争议。"
+   },
+   "source": "KSAT",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYWpOd2NmTm9Pa216eWtiN2Q3VGtvLWkzMDBsV3JvR1kxSk05Ri1XMTdKOTZ6YkhvQVFzRVV0MlFGdUFpZDZ0QmNiNGQwNUdTNThHeTUweVdBM201NE9GQmtfVnliVjVrZ3FrVm9pblRHOVdtZzJCZVBXTERMM0t3X0hjZ3dQX0V3b3BnZkUwMzZ1TjZYTDZEWHJkeHdOaERJUlJKQzFZQnNhV3FsY2hDQlBOcEZaOEI1LTNwd2dldU9SS3lUb2hodllfOA?oc=5",
    "auto": true,
    "judged": true
   },
@@ -14924,7 +15162,7 @@
   "pageviews": 9295513,
   "citations": 1280,
   "hIndex": 3,
-  "events": 809,
+  "events": 823,
   "posts": 56,
   "wikiEn": "Elon Musk",
   "wikiZh": "埃隆·马斯克"

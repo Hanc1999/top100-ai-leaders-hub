@@ -1,5 +1,5 @@
 {
- "rank": 51,
+ "rank": 50,
  "id": "jiang-daxin",
  "name": {
   "en": "Jiang Daxin",
@@ -191,6 +191,63 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-10-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "LiveSearch: Questions as Executable Verifier Code for a Live Benchmark of Professional-Source Financial Search Agents",
+    "zh": "LiveSearch: Questions as Executable Verifier Code for a Live Benchmark of Professional-Source Financial Search Agents"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.37166v1",
+   "note": {
+    "en": "Co-authored LiveSearch, a benchmark that turns financial-search questions into executable verifier code to test agents retrieving time-sensitive professional data.",
+    "zh": "合著论文LiveSearch，将金融搜索问题转化为可执行的验证代码，用于评测智能体检索时效性专业数据的能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-10-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations",
+    "zh": "AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.36980v1",
+   "note": {
+    "en": "Co-authored AutoVend, a benchmark testing LLM agents on long-horizon autonomous vending-machine business operations.",
+    "zh": "合著论文AutoVend，用于评测大语言模型智能体在长周期自动售货机经营任务中的表现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-10-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "RubricAtlas: Mining Type-Level Rubrics from Expert Reports to Evaluate Deep Research Agents",
+    "zh": "RubricAtlas: Mining Type-Level Rubrics from Expert Reports to Evaluate Deep Research Agents"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.36878v1",
+   "note": {
+    "en": "Co-authored RubricAtlas, which mines type-level rubrics from expert reports to evaluate deep-research agents' analytical outputs.",
+    "zh": "合著论文RubricAtlas，从专家报告中提炼类型级评分标准，用于评估深度研究类智能体的分析产出质量。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-09-23",
@@ -989,25 +1046,6 @@
    "judged": true,
    "platform": "openalex",
    "connector": "openalex"
-  },
-  {
-   "date": "2025-06-12",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Predictable Scale: Part II, Farseer: A Refined Scaling Law in Large Language Models",
-    "zh": "Predictable Scale: Part II, Farseer: A Refined Scaling Law in Large Language Models"
-   },
-   "source": "arXiv (Cornell University)",
-   "url": "http://arxiv.org/abs/2506.10972",
-   "note": {
-    "en": "Jiang co-authored Farseer, a refined scaling law for predicting large language model performance from smaller-scale experiments.",
-    "zh": "姜大昕参与撰写的Farseer论文提出了一种改进的扩展定律，可通过小规模实验预测大语言模型的性能。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
   }
  ],
  "news": [
@@ -1200,16 +1238,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 45.8,
+  "total": 46.5,
   "attention": null,
   "centrality": 55,
-  "momentum": 48,
+  "momentum": 50,
   "stature": 17,
   "pageviews": 0,
   "citations": 12459,
   "hIndex": 45,
   "events": 11,
-  "posts": 44,
+  "posts": 46,
   "wikiEn": null,
   "wikiZh": null
  },

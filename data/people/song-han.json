@@ -1121,25 +1121,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-05-18",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation",
-    "zh": "LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2605.18739v2",
-   "note": {
-    "en": "NVFP4-based training and inference infrastructure for long video generation.",
-    "zh": "基于 NVFP4 的长视频生成训练与推理基础设施。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2026-05-15",
    "ts": null,
    "kind": "x",
@@ -1596,16 +1577,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 21.9,
+  "total": 21.7,
   "attention": 4,
   "centrality": 18,
-  "momentum": 49,
+  "momentum": 48,
   "stature": 46,
   "pageviews": 888,
   "citations": 32832,
   "hIndex": 58,
   "events": 3,
-  "posts": 72,
+  "posts": 71,
   "wikiEn": null,
   "wikiZh": "韩松"
  },

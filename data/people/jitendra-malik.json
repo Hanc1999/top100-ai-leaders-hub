@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-10-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "CARD: Contact-Anchored Retargeting for Dexterous Manipulation",
+    "zh": "CARD: Contact-Anchored Retargeting for Dexterous Manipulation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.36539v1",
+   "note": {
+    "en": "Co-authored CARD, a contact-anchored retargeting method that lets dexterous robot hands learn manipulation from human demonstrations without being bottlenecked by teleoperation.",
+    "zh": "合著论文CARD，提出一种基于接触点锚定的重定向方法，使灵巧机械手能够从人类演示中学习操作，而不受限于遥操作方式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-16",
    "ts": "2026-10-16T20:31:45Z",
    "kind": "x",
@@ -1910,7 +1929,7 @@
   "citations": 168758,
   "hIndex": 144,
   "events": 0,
-  "posts": 92,
+  "posts": 93,
   "wikiEn": "Jitendra Malik",
   "wikiZh": "希特德拉·馬利克"
  },

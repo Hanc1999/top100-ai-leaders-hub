@@ -163,6 +163,25 @@
    }
   },
   {
+   "date": "2026-10-28",
+   "ts": "2026-10-28T19:49:12Z",
+   "kind": "x",
+   "title": {
+    "en": "Super interesting result: H-Net learns to dynamically tokenize variable names in coding data as separate tokens, and it scales much better on code compared to B",
+    "zh": "Super interesting result: H-Net learns to dynamically tokenize variable names in coding data as separate tokens, and it scales much better on code compared to B"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/2115531348161028374",
+   "note": {
+    "en": "Dao highlighted that H-Net learns to dynamically tokenize variable names in code as distinct tokens, scaling notably better on code than standard BPE.",
+    "zh": "Tri Dao指出H-Net能在代码中动态地将变量名作为独立token切分，相比标准BPE在代码数据上的扩展性明显更好。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-19",
    "ts": "2026-10-19T19:24:33Z",
    "kind": "x",
@@ -1658,7 +1677,7 @@
   "citations": 2310,
   "hIndex": 17,
   "events": 1,
-  "posts": 78,
+  "posts": 79,
   "wikiEn": null,
   "wikiZh": null
  },

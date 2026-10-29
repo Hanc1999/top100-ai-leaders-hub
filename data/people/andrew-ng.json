@@ -4171,6 +4171,40 @@
    "judged": true
   },
   {
+   "date": "2026-01-15",
+   "ts": "2026-01-15T08:00:00Z",
+   "level": "minor",
+   "title": {
+    "en": "吴恩达开新课教OCR，用Agent搞定文档提取",
+    "zh": "吴恩达开新课教OCR，用Agent搞定文档提取"
+   },
+   "body": {
+    "en": "Andrew Ng launched a new short course teaching OCR, using an agent-based pipeline to extract text from documents.",
+    "zh": "吴恩达推出新课程，教授如何使用Agent完成文档OCR识别与提取。"
+   },
+   "source": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sMlpJRGlNaUdhaXBnd2tncWw1WDREdmFPS1Q3dzlpZ1g2Smw0bGY1Q2NSbzRTQUxOTmVMQXlhajZ2UmxPYmljUzUwV0pIQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-01-10",
+   "ts": "2026-01-10T08:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "吴恩达：图灵测试不够用了，我会设计一个AGI专用版",
+    "zh": "吴恩达：图灵测试不够用了，我会设计一个AGI专用版"
+   },
+   "body": {
+    "en": "Andrew Ng said the Turing test is no longer an adequate benchmark and that he plans to design an AGI-specific evaluation.",
+    "zh": "吴恩达表示图灵测试已不足以评估AI，他计划设计一个专门用于AGI的测试。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qbVVUeDNMYWl4M3o1Zzk0TDdzU1lJaDdKM0ZjQWlqX3l6aS04V0kwaTFCZ29tazI5VnNGbEJ1ck1sdGpoVXpwM2RRZFg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-01-07",
    "ts": "2026-01-07T08:00:00Z",
    "level": "notable",
@@ -4203,7 +4237,7 @@
   "pageviews": 337525,
   "citations": 131102,
   "hIndex": 124,
-  "events": 113,
+  "events": 115,
   "posts": 110,
   "wikiEn": "Andrew Ng",
   "wikiZh": "吴恩达"

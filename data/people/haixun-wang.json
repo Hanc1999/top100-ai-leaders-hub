@@ -205,6 +205,25 @@
    }
   },
   {
+   "date": "2026-10-27",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Back to the Future: The Evolving Universal Relation Model",
+    "zh": "Back to the Future: The Evolving Universal Relation Model"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.36833v1",
+   "note": {
+    "en": "Wang and co-author Nan Tang propose an evolving universal relation model for building databases on the fly as analytical queries arrive over messy document collections.",
+    "zh": "王海勋与合著者Nan Tang提出了一种动态演化的通用关系模型，可在分析查询到达时，针对合同、发票等非结构化文档集合即时构建数据库。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-17",
    "ts": "2026-10-17T16:13:08Z",
    "kind": "x",
@@ -1159,16 +1178,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 6.4,
+  "total": 7.3,
   "attention": null,
   "centrality": 5,
-  "momentum": 8,
+  "momentum": 10,
   "stature": null,
   "pageviews": 0,
   "citations": 0,
   "hIndex": 0,
   "events": 1,
-  "posts": 50,
+  "posts": 51,
   "wikiEn": null,
   "wikiZh": null
  },

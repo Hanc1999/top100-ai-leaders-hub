@@ -1777,6 +1777,25 @@
    "connector": null
   },
   {
+   "date": "2025-01-21",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Fei-Fei Li: Staying curious at the forefront of AI",
+    "zh": "Fei-Fei Li: Staying curious at the forefront of AI"
+   },
+   "source": "Tools and Weapons with Brad Smith",
+   "url": "https://podcasts.apple.com/us/podcast/fei-fei-li-staying-curious-at-the-forefront-of-ai/id1632459165?i=1000684818466&uo=4",
+   "note": {
+    "en": "Fei-Fei Li was the guest on Brad Smith's 'Tools and Weapons' podcast, discussing her path from computer vision research to founding World Labs.",
+    "zh": "李飞飞做客Brad Smith主持的播客节目《Tools and Weapons》，谈及她从计算机视觉研究到创立World Labs的历程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2024-12-22",
    "ts": "2024-12-22T17:19:58Z",
    "kind": "x",
@@ -3419,6 +3438,23 @@
    },
    "source": "ThePaper.cn",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pWEc3UjVwazA4YWlkMjJDMWZPbVpzN2x1UGZ4Z1RDUzJkci1Bd2RLNjl2UFFGU1hTY1ZxQU1xeGZubUFHd3ZLa1pFNGFGUTR4LUFueS1fMlVaeko0WF9WVg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-04",
+   "ts": "2026-10-04T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李飞飞称十年后只剩两类劳动：顶尖专家和高主动性通才，中间执行层整体出局",
+    "zh": "李飞飞称十年后只剩两类劳动：顶尖专家和高主动性通才，中间执行层整体出局"
+   },
+   "body": {
+    "en": "Li predicted that within a decade only two kinds of labor will remain — top experts and highly proactive generalists — with the entire middle layer of execution work eliminated.",
+    "zh": "李飞飞预测十年后仅剩两类劳动者：顶尖专家与高主动性通才，中间执行层将被整体淘汰。"
+   },
+   "source": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYNUo3c2Nra180ZXRONE52bDQ5SzFnS2JsTU40a2JZeUp4eWJNUF8ybTBrbHJuX3BIY2Q0cllsUFhHaFBMUHZPMFFnYm4?oc=5",
    "auto": true,
    "judged": true
   },
@@ -8708,8 +8744,8 @@
   "pageviews": 423813,
   "citations": 222997,
   "hIndex": 137,
-  "events": 378,
-  "posts": 110,
+  "events": 379,
+  "posts": 111,
   "wikiEn": "Fei-Fei Li",
   "wikiZh": "李飛飛"
  },

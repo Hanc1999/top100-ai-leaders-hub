@@ -1,5 +1,5 @@
 {
- "rank": 83,
+ "rank": 84,
  "id": "michael-jordan",
  "name": {
   "en": "Michael I. Jordan",
@@ -854,25 +854,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2026-01-08",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Anytime Detection of Strategic Deviations in Multi-Agent Systems",
-    "zh": "Anytime Detection of Strategic Deviations in Multi-Agent Systems"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2601.05427v3",
-   "note": {
-    "en": "Gives an anytime-valid test for detecting when agents in a multi-agent system drift away from stable rational behaviour, with Etienne Gauthier and Francis Bach.",
-    "zh": "与 Etienne Gauthier、Francis Bach 提出随时有效的检验方法，用于发现多智能体系统中个体何时偏离稳定的理性行为。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2020-02-24",
    "ts": null,
    "kind": "podcast",
@@ -946,16 +927,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 28.1,
+  "total": 27.4,
   "attention": 31,
   "centrality": 0,
-  "momentum": 30,
+  "momentum": 27,
   "stature": 86,
   "pageviews": 40320,
   "citations": 181936,
   "hIndex": 163,
   "events": 3,
-  "posts": 39,
+  "posts": 38,
   "wikiEn": "Michael I. Jordan",
   "wikiZh": "迈克尔·乔丹 (学者)"
  },

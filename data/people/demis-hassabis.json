@@ -217,6 +217,63 @@
    }
   },
   {
+   "date": "2026-10-28",
+   "ts": "2026-10-28T17:03:07Z",
+   "kind": "x",
+   "title": {
+    "en": "⚡Iterating at lightning speed! Gemini 4 Carbon is SOTA across key benchmarks and combines frontier capabilities with deep safety &amp; security research. https:",
+    "zh": "⚡Iterating at lightning speed! Gemini 4 Carbon is SOTA across key benchmarks and combines frontier capabilities with deep safety &amp; security research. https:"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2115489550256746502",
+   "note": {
+    "en": "Hassabis announced on X that Gemini 4 Carbon has reached state-of-the-art benchmarks with deep safety and security research built in.",
+    "zh": "哈萨比斯在X上宣布Gemini 4 Carbon在关键基准测试中达到最先进水平，并融入了深度安全与安防研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-27",
+   "ts": "2026-10-27T23:59:42Z",
+   "kind": "x",
+   "title": {
+    "en": "Very excited to share Genie 4, our incredible interactive world model, bringing together real-time physics, reasoning, and audio! Simulations within simulations",
+    "zh": "Very excited to share Genie 4, our incredible interactive world model, bringing together real-time physics, reasoning, and audio! Simulations within simulations"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2115232001275924722",
+   "note": {
+    "en": "Hassabis announced Genie 4, DeepMind's new interactive world model combining real-time physics, reasoning and audio simulation.",
+    "zh": "哈萨比斯宣布推出Genie 4，这是DeepMind新的交互式世界模型，结合了实时物理、推理与音频模拟。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-10-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Supplementary Data 2. Designed and predicted structures of all designs",
+    "zh": "Supplementary Data 2. Designed and predicted structures of all designs"
+   },
+   "source": "Zenodo (CERN European Organization for…",
+   "url": "https://doi.org/10.5281/zenodo.23500094",
+   "note": {
+    "en": "Hassabis is a co-author on a Google DeepMind/Caltech/Pittsburgh paper on AlphaProteo Novo, a diffusion model for de novo enzyme design.",
+    "zh": "哈萨比斯是Google DeepMind、加州理工学院与匹兹堡大学合作论文的共同作者，该研究提出了用于全新酶设计的扩散模型AlphaProteo Novo。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-10-13",
    "ts": "2026-10-13T01:09:37Z",
    "kind": "x",
@@ -1507,25 +1564,6 @@
    "judged": true,
    "platform": "openalex",
    "connector": "openalex"
-  },
-  {
-   "date": "2025-06-26",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Our open source Gemma models are the most powerful single GPU/TPU models out there! Our latest model Gemma 3n has amazing performance, multimodal understanding,",
-    "zh": "Our open source Gemma models are the most powerful single GPU/TPU models out there! Our latest model Gemma 3n has amazing performance, multimodal understanding,"
-   },
-   "source": "@demishassabis",
-   "url": "https://x.com/demishassabis/status/1938300323388399695",
-   "note": {
-    "en": "Claimed the open-source Gemma 3n is the most powerful single-GPU/TPU model available, running with as little as 2GB of memory.",
-    "zh": "声称开源模型Gemma 3n是目前单GPU/TPU模型中最强大的,最低仅需2GB内存即可运行。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
   },
   {
    "date": "2025-04-12",
@@ -2960,7 +2998,7 @@
   "citations": 195503,
   "hIndex": 92,
   "events": 50,
-  "posts": 103,
+  "posts": 105,
   "wikiEn": "Demis Hassabis",
   "wikiZh": "杰米斯·哈萨比斯"
  },

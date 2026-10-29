@@ -1,5 +1,5 @@
 {
- "rank": 35,
+ "rank": 34,
  "id": "chris-olah",
  "name": {
   "en": "Chris Olah",
@@ -1096,6 +1096,23 @@
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVjg2MGs1T2NldExmY1NlaTYyRnNsQW50OTNSMS1PMlZGUnI4UllIc1VDa0lkWUYwYW9yY0x5dXAtaWQ2RE5YWFhxdFI2bGdCaDE4Y0hodHUteDd6WlIybkJMLTdaN3F0dGxSMGVtZjRodTV3QzFKNTFhVjVKOThPcXlNRWFlZTVEcEdlRU9VeUNMWW1iZkFLSTVBa3YzZVNOMkc2WlJwaEx4R2pkamp0OFphSHk2S0doWk1UbW9sbEJ0bTJpWDA1U3hFTTl1THNNWnNiRHFuS2Mwdl9TdUE?oc=5",
    "auto": true,
    "judged": true
+  },
+  {
+   "date": "2026-05-25",
+   "ts": "2026-05-25T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Anthropic's Chris Olah: AI Needs Oversight Beyond Big Tech Influence",
+    "zh": "Anthropic's Chris Olah: AI Needs Oversight Beyond Big Tech Influence"
+   },
+   "body": {
+    "en": "Olah publicly argued that AI oversight needs to extend beyond the influence of major tech companies, a governance stance consistent with his interpretability-driven safety focus at Anthropic.",
+    "zh": "奥拉公开表示，AI监管应超越大型科技公司的影响范围，这一治理立场与他在Anthropic专注可解释性与安全研究的方向一致。"
+   },
+   "source": "Global Banking & Finance Review",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZmRaZl9DdU5JR01lNGVwaVU1TnRnbEw0ZGJhaElHbENwWDlVTDAyb2k2eU9NMFRTell3Y1Y3WTJyRzdFTWY2NUlRU2RIeG9NNGh5TlkzcE52bjA5dE1NWmdqSG80T0R3anByV0JMS1ZyaU1MUG1PbE5JVkNBVUNRS1hoX0Rzem9fbTRB?oc=5",
+   "auto": true,
+   "judged": true
   }
  ],
  "changed": false,
@@ -1105,15 +1122,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 59.2,
+  "total": 59.7,
   "attention": 64,
   "centrality": 96,
-  "momentum": 24,
+  "momentum": 26,
   "stature": 20,
   "pageviews": 191345,
   "citations": 14804,
   "hIndex": 20,
-  "events": 10,
+  "events": 11,
   "posts": 41,
   "wikiEn": "Chris Olah",
   "wikiZh": null

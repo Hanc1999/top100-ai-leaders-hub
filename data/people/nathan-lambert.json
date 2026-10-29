@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-10-28",
+   "ts": "2026-10-28T12:58:39Z",
+   "kind": "blog",
+   "title": {
+    "en": "Artificial Analysis v5 and the benchmarker's dilemma",
+    "zh": "Artificial Analysis v5 and the benchmarker's dilemma"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+   "note": {
+    "en": "Interconnects post critiques the benchmarking industry via Artificial Analysis v5, arguing independent evaluators face a structural dilemma between rigor and commercial incentives.",
+    "zh": "Interconnects博客借Artificial Analysis v5批评基准测试行业，认为独立评测机构在严谨性与商业激励之间面临结构性困境。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
    "date": "2026-10-26",
    "ts": null,
    "kind": "report",
@@ -1703,16 +1722,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 16.4,
+  "total": 16.6,
   "attention": 8,
   "centrality": 6,
-  "momentum": 44,
+  "momentum": 45,
   "stature": null,
   "pageviews": 2796,
   "citations": 720,
   "hIndex": 13,
   "events": 3,
-  "posts": 79,
+  "posts": 80,
   "wikiEn": "Nathan Lambert",
   "wikiZh": null
  },

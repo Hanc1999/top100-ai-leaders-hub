@@ -1508,6 +1508,25 @@
    "judged": true,
    "platform": "apple-podcasts",
    "connector": "podcasts"
+  },
+  {
+   "date": "2022-01-04",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Elizabeth Holmes’ Partially Guilty Verdict, Exclusive Interview with AMD CEO Lisa Su & A Final Send-off for Blackberry Phones",
+    "zh": "Elizabeth Holmes’ Partially Guilty Verdict, Exclusive Interview with AMD CEO Lisa Su & A Final Send-off for Blackberry Phones"
+   },
+   "source": "TechCheck",
+   "url": "https://podcasts.apple.com/us/podcast/elizabeth-holmes-partially-guilty-verdict-exclusive/id1561685780?i=1000546905637&uo=4",
+   "note": {
+    "en": "Exclusive CNBC TechCheck interview with Lisa Su as AMD CEO, recorded alongside coverage of the Theranos verdict and BlackBerry's device wind-down.",
+    "zh": "CNBC TechCheck对AMD首席执行官苏姿丰的独家专访，该期节目同时报道了Theranos判决和黑莓手机停产的消息。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   }
  ],
  "news": [
@@ -1552,6 +1571,23 @@
    },
    "source": "OpenAI",
    "url": "https://openai.com/index/openai-amd-strategic-partnership/"
+  },
+  {
+   "date": "2026-10-29",
+   "ts": "2026-10-29T11:33:25Z",
+   "level": "notable",
+   "title": {
+    "en": "苏姿丰谈AMD算力供给：2027年扩产节奏受关注 超威半导体董事长兼首席执行官*「需求甚至高于我们的供应，我们将在2027年大幅增加供应」*在2026年10月接受采访时表示",
+    "zh": "苏姿丰谈AMD算力供给：2027年扩产节奏受关注 超威半导体董事长兼首席执行官*「需求甚至高于我们的供应，我们将在2027年大幅增加供应」*在2026年10月接受采访时表示"
+   },
+   "body": {
+    "en": "Su said AMD's AI compute demand now exceeds supply and that the company will sharply increase supply in 2027, signaling continued aggressive capacity expansion.",
+    "zh": "苏姿丰表示AMD的AI算力需求已超过供应，公司将在2027年大幅增加供应，显示出持续激进的产能扩张计划。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2Q005Vm9oYzJqSE5BUFhRc2thT1I0MmxFblJ0dm1ZTm85bm9ZOF8xajhsZFBkdk1tNlp4ZjZyLWNaYVJYNlRsTWpoVGhVckQxLVV6Y1UwNjFqUVowMzNJRGZhSFhJTjg?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-28",
@@ -1686,6 +1722,40 @@
    },
    "source": "手机新浪网",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16Wm9jT3AtSVpsVDhGQjExR0dnZmJGa2UtTkRlbjFiRDg4bWU4ak43eFVUNW1fYnNHWE5HZ21aTWpUTW53SFR4cDNRcXVqQ3JHTC1yUjNHOGZfLVhPZ0FJQXFqOGxHSVpoTnJWNlJGWUE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-26",
+   "ts": "2026-10-26T09:17:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Intel’s CEO Reportedly Had A Conversation With AMD’s Lisa Su On Potential Areas Of Collaboration, Says 0.9 PDK On The 14A Process Coming Soon",
+    "zh": "Intel’s CEO Reportedly Had A Conversation With AMD’s Lisa Su On Potential Areas Of Collaboration, Says 0.9 PDK On The 14A Process Coming Soon"
+   },
+   "body": {
+    "en": "A report says Intel's CEO discussed potential collaboration areas with AMD's Lisa Su, with Intel's 14A process reportedly nearing a 0.9 PDK milestone.",
+    "zh": "报道称英特尔CEO与AMD的苏姿丰就潜在合作领域进行了交流，英特尔14A工艺的0.9版PDK据称即将推出。"
+   },
+   "source": "Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQmJEZzRQeTFnT3ZSeUEzbnAwaGM5Vko4MkpoMThiREpXdFRMdEctTEJCTTg3ZDZGaEJsYnhEQUhMNVVQcnN3MGVSV2dQN05mWGJ2d1JYVk15bjR0Ul9kUkg4dWJZMTBqd0c5YlFvNnEwZDhMa3dfeGZJQUVPRDZaajhmMW5heEx0QlYzZW92cEtxNVY1WGFHN1YwX05vSXZLS2xLVmJ2U1dLMkZONnVJdFdmTUV4UF95SGU5ODhBNWFGcGd6RUpZOS16N3JCT1ZUZ1NhRlY3WF9XeldJRHhBa0xZek1pcFpIQUhIdVBXTjk2QjBpU2xz0gH3AUFVX3lxTFBCYkRnNFB5MWdPdlJ5QTNucDBoYzlWSjgySmgxOGJESld0VEx0Ry1MQkJNODdkNkZoQmxieERBSEw1VVByc3cwZVJXZ1A3TmZYYnZ3UlhWTXluNHRSX2RSSDh1YlkxMGp3RzliUW82cTBkOExrd194ZklBRU9ENlpqOGYxbmF4THRCVjNlb3ZwS3E1VjVYYUc3VjBfTm9JdktLbEtWYnZTV0syRk42dUl0V2ZNRXhQX3lIZTk4OEE1YUZwZ3pFSlk5LXo3ckJPVlRnU2FGVjdYX1d6V0lEeEFrTFl6TWlwWkhBSEh1UFdOOTZCMGlTbHM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-26",
+   "ts": "2026-10-26T13:02:11Z",
+   "level": "notable",
+   "title": {
+    "en": "英特尔 CEO 陈立武：已经和 AMD CEO 苏姿丰就潜在合作展开对话",
+    "zh": "英特尔 CEO 陈立武：已经和 AMD CEO 苏姿丰就潜在合作展开对话"
+   },
+   "body": {
+    "en": "Intel CEO Lip-Bu Tan said he has opened talks with AMD CEO Lisa Su about potential cooperation, a notable thaw between the two historic x86 rivals as both face Nvidia's dominance in AI compute.",
+    "zh": "英特尔CEO陈立武表示，已与AMD CEO苏姿丰就潜在合作展开对话，这是两家x86领域老对手罕见的破冰信号，背景是双方都在应对英伟达在AI算力市场的主导地位。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUV9Ha3FPX3JZVXV6WlZlOGFxTFpiNkl2ci1ULUZ0NUY1a1RHMk1PRk1wcFdzZTBIS1dsenIzY3FWMnoxWVpHNVh0NWFwRDdEMUdEZVpRaEtMZGdxLUVmX2RzLXdYbVFaUDNqOGgzdEh1clFZTGZwcGd6bTQtV1ZRZ2ctbHZINHlxejlDWXN3?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2336,6 +2406,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-13",
+   "ts": "2026-10-13T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "AMD苏姿丰：2026为 “推理之年”，智能体AI驱动CPU市场爆发",
+    "zh": "AMD苏姿丰：2026为 “推理之年”，智能体AI驱动CPU市场爆发"
+   },
+   "body": {
+    "en": "Lisa Su called 2026 the 'year of inference,' saying agentic AI workloads will drive explosive growth in the CPU market.",
+    "zh": "苏姿丰称2026年为'推理之年'，表示智能体AI工作负载将推动CPU市场爆发式增长。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Pa1gwWmU5LWJ0MHExYXpyOHZJWEM2T3NwM1E0UzBOWUZKMFVBQUFaMGtPQmxSLUZpWFZ2SVJNUEhhYmV6bGtJYXhBV3lhM29uYndF?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-12",
    "ts": "2026-10-12T11:06:06Z",
    "level": "notable",
@@ -2383,6 +2470,23 @@
    },
    "source": "Stocktwits",
    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNa2U1cHpFVVlpbnpxWDAteGN2UW5seWhfaTV5M2ZaeWVYUGhQaGh0aUFjcDM3UFpCQjdGZUtmbVFxZmJSOURxdjhyVGY1SmlsWUxIb2dfQUZCMWozb3ROUlp4LTNaODNTMGVlNWNKQkh6MHNRMHJINS1ycjV0RTdiTXJMd2ZCUkx6Y0pucGoxa0lUNk0tX2Z3X1cyOU1WRnk2bzZTVTJfckZUREFQNjJtN0IxMVVaVy1qOTJ2aWhEWG5FS1VmdXNkQXRWNloxWE1oU3VWb19WdXBqQVN2OXZvYnJtelkwNkFXZ3prQzBQMklscVlnOFF3akI1a1Y?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "苏姿丰执掌AMD，市值破万亿美元，华人女性芯片领袖",
+    "zh": "苏姿丰执掌AMD，市值破万亿美元，华人女性芯片领袖"
+   },
+   "body": {
+    "en": "AMD's market capitalization passed $1 trillion under Lisa Su's leadership, a milestone widely covered as marking her as a leading Chinese-American woman in chips.",
+    "zh": "在苏姿丰的带领下，AMD市值突破万亿美元，这一里程碑被广泛报道为华人女性芯片领袖的标志性成就。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFTVBuNDdGTndCMVBwOGdPcFFyTjR3bXl3QWxPWjFReHZFdDJtVDZnRGVhS2lPWDhzVnZ5c1JtTmtjZTUyLVVQRG5lbElZTDJYZ01STGh3?oc=5",
    "auto": true,
    "judged": true
   },
@@ -5358,6 +5462,23 @@
    },
    "source": "搜狐网",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95UG1pZjBwUjNYaXkwM2pfYjV5SUgwd2FrZm5QekN5X2ZfNlhBdVhMbVFOTElEdzFyZWd5U3BNZzJZa3pTc0loczl6RWswRlFjV0E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-06",
+   "ts": "2026-10-06T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "AMD CEO Lisa Su Delivers Urgent Message on AI Chip Demand",
+    "zh": "AMD CEO Lisa Su Delivers Urgent Message on AI Chip Demand"
+   },
+   "body": {
+    "en": "Su said AI chip demand will stay 'very, very high' for years, pledged tens of billions toward expanding AMD's supply chain, and urged AI companies to cooperate on safety.",
+    "zh": "苏姿丰表示未来数年AI芯片需求仍将保持'非常高'，承诺投入数百亿美元扩充AMD供应链，并呼吁AI公司在安全问题上加强合作。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN1poVEdtSTU1dWtIcWR6bjdHcHVzUXVCRDl6Z3o0bDJPZGk3dUdrM3ZCMlU0VUtiaV9uWkI5QTFHMndicjFicUF1ZGd0Si1GRVhKUWgwSC01MzJfZW1yWjdTZEktRkMtWUdhWXZqVllIZjhTRVB0cTFrUmktN1hqU2o5dlBtNmRBV0xIbEhHYjBKdw?oc=5",
    "auto": true,
    "judged": true
   },
@@ -8964,8 +9085,8 @@
   "pageviews": 1032519,
   "citations": 236,
   "hIndex": 7,
-  "events": 438,
-  "posts": 74,
+  "events": 444,
+  "posts": 75,
   "wikiEn": "Lisa Su",
   "wikiZh": "蘇姿丰"
  },

@@ -1,5 +1,5 @@
 {
- "rank": 49,
+ "rank": 48,
  "id": "jakub-pachocki",
  "name": {
   "en": "Jakub Pachocki",
@@ -858,6 +858,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-07",
+   "ts": "2026-09-07T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "No lab has solved alignment: OpenAI Chief Scientist Jakub Pachocki’s warning about AI progress",
+    "zh": "No lab has solved alignment: OpenAI Chief Scientist Jakub Pachocki’s warning about AI progress"
+   },
+   "body": {
+    "en": "OpenAI Chief Scientist Jakub Pachocki warned that no lab, including OpenAI, has solved AI alignment.",
+    "zh": "OpenAI首席科学家Jakub Pachocki警告称，包括OpenAI在内，目前没有任何实验室真正解决了AI对齐问题。"
+   },
+   "source": "Digit",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNk5nNGNnM1NWb0xwQ3A1OHJhbnBJR2RQSThvc0U1eW14aG9Zd1FDYjNMYUxya04zVFdfcTREdmpIdFlFeFlWMUJyU0NqR2RrWUx3VDFSd1VlZlNvMkRsdTBTdDM2MnRiR1lpQ2RDOU5nOGx6LUFQeHJtZUEyR3RtVkdBUFgyQVVpenAwMUM0bk1BdnppY21IVFVhUmI4RFF4WUEwaENneTN4czNQNnRrT0VuSmlXVmxMQWVUYnRHNnBDZVFDSURacFZPMUdfbldO?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-06",
    "ts": null,
    "level": "notable",
@@ -899,15 +916,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 46.9,
+  "total": 47.4,
   "attention": 36,
   "centrality": 87,
-  "momentum": 20,
+  "momentum": 22,
   "stature": null,
   "pageviews": 51141,
   "citations": 3664,
   "hIndex": 15,
-  "events": 6,
+  "events": 7,
   "posts": 34,
   "wikiEn": "Jakub Pachocki",
   "wikiZh": "雅库布·帕霍基"

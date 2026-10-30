@@ -141,6 +141,25 @@
    }
   },
   {
+   "date": "2026-10-29",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Mustafa Suleyman: AI Should Serve Humanity, Not Replace It",
+    "zh": "Mustafa Suleyman: AI Should Serve Humanity, Not Replace It"
+   },
+   "source": "The Builders",
+   "url": "https://podcasts.apple.com/us/podcast/mustafa-suleyman-ai-should-serve-humanity-not-replace-it/id6820674378?i=1000798661628&uo=4",
+   "note": {
+    "en": "On The Builders podcast, Mustafa Suleyman argued AI should serve humanity rather than replace it, laying out his view as Microsoft AI's CEO on how the technology should be built.",
+    "zh": "在The Builders播客节目中，Mustafa Suleyman阐述了身为微软AI CEO的立场：AI应该服务于人类而非取代人类，并谈及这项技术应如何被构建。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-10-27",
    "ts": "2026-10-27T15:12:20Z",
    "kind": "x",
@@ -2590,7 +2609,7 @@
   "citations": 18255,
   "hIndex": 20,
   "events": 56,
-  "posts": 80,
+  "posts": 81,
   "wikiEn": "Mustafa Suleyman",
   "wikiZh": null
  },

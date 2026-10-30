@@ -1,5 +1,5 @@
 {
- "rank": 35,
+ "rank": 34,
  "id": "arthur-mensch",
  "name": {
   "en": "Arthur Mensch",
@@ -175,6 +175,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-10-29",
+   "ts": "2026-10-29T14:59:05Z",
+   "kind": "x",
+   "title": {
+    "en": "Good progress in the last few weeks ! And now the weights",
+    "zh": "Good progress in the last few weeks ! And now the weights"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/2115820723767783634",
+   "note": {
+    "en": "Mensch posted that recent progress has paid off and that the model weights are now being released.",
+    "zh": "Mensch发文表示近期的进展已见成效，模型权重现已发布。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
   },
   {
    "date": "2026-10-21",
@@ -1499,6 +1518,23 @@
    "url": "https://www.cnbc.com/2026/05/28/mistral-arthur-mensch-design-chips-ai-data-centers.html"
   },
   {
+   "date": "2026-10-29",
+   "ts": "2026-10-29T11:51:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Darcos Copyright Bill: Gabriel Attal Leaves the Fate of Copyright in Arthur Mensch’s Hands",
+    "zh": "Darcos Copyright Bill: Gabriel Attal Leaves the Fate of Copyright in Arthur Mensch’s Hands"
+   },
+   "body": {
+    "en": "French minister Gabriel Attal left the fate of the Darcos copyright bill in Arthur Mensch's hands, underscoring his growing influence over AI policy in France.",
+    "zh": "法国部长加布里埃尔·阿塔尔将达科斯版权法案的命运交由Arthur Mensch决定，凸显他在法国AI政策制定中日益上升的影响力。"
+   },
+   "source": "ElectronLibre",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLVVBc1hLZEF6ckpwLVJKY2FWdGVYNXBDQmNuckpYOERnSzh1ajlhMFo3NE5aX1NLOVF4N3NCTm1WZzM1MG93clZaMHFFRWZtS0pya0hiVlpvQi1rMDMzZ3h0dVJQbW90TUpwNl96N09oX1lUNzhmYmZkTW8zSWFIM2pLSTlwMUxMck1kaF9BeFV0Wm1sMjh6WUVvemZBcjZVNzRrUzdsbThfRGdLMU9xR1g1MVFiOGt4OFZWNkVvYzBtZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-22",
    "ts": "2026-10-22T06:03:27Z",
    "level": "notable",
@@ -1744,16 +1780,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 59.4,
+  "total": 59.9,
   "attention": 53,
   "centrality": 79,
-  "momentum": 49,
+  "momentum": 51,
   "stature": null,
   "pageviews": 103916,
   "citations": 3847,
   "hIndex": 10,
-  "events": 16,
-  "posts": 70,
+  "events": 17,
+  "posts": 71,
   "wikiEn": "Arthur Mensch",
   "wikiZh": null
  },

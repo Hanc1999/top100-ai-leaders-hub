@@ -1055,6 +1055,25 @@
    "connector": "backfill"
   },
   {
+   "date": "2026-07-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "\"AI 教母\"李飞飞：10 年后职场只剩两类人？",
+    "zh": "\"AI 教母\"李飞飞：10 年后职场只剩两类人？"
+   },
+   "source": "AI圆桌π",
+   "url": "https://podcasts.apple.com/us/podcast/ai-%E6%95%99%E6%AF%8D-%E6%9D%8E%E9%A3%9E%E9%A3%9E-10-%E5%B9%B4%E5%90%8E%E8%81%8C%E5%9C%BA%E5%8F%AA%E5%89%A9%E4%B8%A4%E7%B1%BB%E4%BA%BA/id1879762491?i=1000776440920&uo=4",
+   "note": {
+    "en": "In a podcast conversation with MasterClass founder David Rogier, Fei-Fei Li argued AI should amplify human agency rather than replace it, pushing back on claims that intelligence is becoming free.",
+    "zh": "在与MasterClass创始人大卫·罗吉尔的播客对谈中，李飞飞主张AI应激发人类能动性而非取代人类，并反驳“智能成本趋近于零”的说法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
    "date": "2026-06-26",
    "ts": null,
    "kind": "paper",
@@ -2207,6 +2226,25 @@
    "note": {
     "en": "Fei-Fei Li is interviewed on The Economist's Babbage podcast about how to think clearly about AI's future in the wake of ChatGPT.",
     "zh": "李飞飞在《经济学人》播客Babbage中接受采访，谈论在ChatGPT引发热潮之后应如何清醒地看待AI的未来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-11-13",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The Worlds She Sees with Godmother of AI, Fei-Fei Li",
+    "zh": "The Worlds She Sees with Godmother of AI, Fei-Fei Li"
+   },
+   "source": "The a16z Show",
+   "url": "https://podcasts.apple.com/us/podcast/the-worlds-she-sees-with-godmother-of-ai-fei-fei-li/id842818711?i=1000634600555&uo=4",
+   "note": {
+    "en": "Li joined a16z's Bio + Health podcast to discuss her perspective as a computer vision pioneer and co-director of Stanford HAI.",
+    "zh": "李飞飞做客a16z的Bio + Health播客，分享了她作为计算机视觉先驱及斯坦福HAI联合主任的观点。"
    },
    "auto": true,
    "judged": true,
@@ -3455,6 +3493,23 @@
    },
    "source": "凤凰网",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYNUo3c2Nra180ZXRONE52bDQ5SzFnS2JsTU40a2JZeUp4eWJNUF8ybTBrbHJuX3BIY2Q0cllsUFhHaFBMUHZPMFFnYm4?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-04",
+   "ts": "2026-10-04T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "#李飞飞称十年后只剩两类劳动# 第一类：垂直领域前 1% 的顶尖专家",
+    "zh": "#李飞飞称十年后只剩两类劳动# 第一类：垂直领域前 1% 的顶尖专家"
+   },
+   "body": {
+    "en": "Fei-Fei Li predicted that in ten years only two kinds of labor will remain viable, with top-1% domain experts as one category — a public stance on AI's reshaping of work.",
+    "zh": "李飞飞预测十年后只剩两类劳动可行，其中之一是各垂直领域前1%的顶尖专家——这是她对AI重塑工作的公开立场。"
+   },
+   "source": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJeHk2TFlGQTBndEFWZzFhd1FaRlUtUy1aLTA5a2tVN1NnZ1Vkb2RfcC1NNm5mZVVEUVFqVlphSXVUYTZqNEUyRWlxc3k?oc=5",
    "auto": true,
    "judged": true
   },
@@ -6281,6 +6336,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-29",
+   "ts": "2026-09-29T03:39:59Z",
+   "level": "major",
+   "title": {
+    "en": "AMD豪掷550亿元，买下李飞飞公司",
+    "zh": "AMD豪掷550亿元，买下李飞飞公司"
+   },
+   "body": {
+    "en": "AMD agreed to acquire Fei-Fei Li's company World Labs for roughly 55 billion yuan, with her joining AMD as chief scientist under CEO Lisa Su.",
+    "zh": "AMD同意以约550亿元人民币收购李飞飞的World Labs，她将加入AMD，在CEO苏姿丰麾下担任首席科学家。"
+   },
+   "source": "21财经",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcTltUWxacjZSWG8xam5ObEJZVVhIN0ttUXZQS0FtVUl1a3d5aFBPNC1IODZMdVJjTUNpbUJrMjA1d3FqbWpGLW5wYkJqWS1TYjkzRU5FUFJiY2ltLTFuUnVTT1R4LTJ0VHFneW1LT3R6R25XbnVtWjFTam41cVZ0WVBhNkd5c3YzTDU2Z2dNTQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-28",
    "ts": "2026-09-28T12:53:53Z",
    "level": "notable",
@@ -7828,6 +7900,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-03",
+   "ts": "2026-09-03T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "李飞飞发布Atlas世界模型能否撑起12亿美元的想象？｜科技观察|机器人|空间|相机|上下文|物理_手机新浪网",
+    "zh": "李飞飞发布Atlas世界模型能否撑起12亿美元的想象？｜科技观察|机器人|空间|相机|上下文|物理_手机新浪网"
+   },
+   "body": {
+    "en": "World Labs launched Atlas, a new omni-modal world model that natively handles text, image, video and 3D and can generate camera-controlled video and 3D reconstructions from a few photos.",
+    "zh": "World Labs发布新一代全模态世界模型Atlas，原生处理文本、图像、视频和3D四种模态，仅需几张照片即可生成可控视角的影片与3D重建。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN0Z1MWw4elVFcTNpYUE4Ynk2OTd2OFozSHd4M0hRZWxSMktNRlpKYzk4ZWtVaVk0UTJuQmVEb0xtZzhUWkhyNE1Fb0NUSmkyYml4eVBZcXdNazBuSVpWUFlCaEZKWDVCc1lrV0padkxhMFZEWVFXdlAyb1VaWFZ3N094ZG5lRW8?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-02",
    "ts": "2026-09-02T07:00:00Z",
    "level": "major",
@@ -8744,8 +8833,8 @@
   "pageviews": 423813,
   "citations": 222997,
   "hIndex": 137,
-  "events": 379,
-  "posts": 111,
+  "events": 382,
+  "posts": 113,
   "wikiEn": "Fei-Fei Li",
   "wikiZh": "李飛飛"
  },

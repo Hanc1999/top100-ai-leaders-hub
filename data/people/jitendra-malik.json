@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-10-29",
+   "ts": "2026-10-29T16:09:42Z",
+   "kind": "x",
+   "title": {
+    "en": "Contact is crucial for manipulation. As we master techniques for estimating contacts and forces from human action trajectories, it will further strengthen the \"",
+    "zh": "Contact is crucial for manipulation. As we master techniques for estimating contacts and forces from human action trajectories, it will further strengthen the \""
+   },
+   "source": "@jitendramalikcv",
+   "url": "https://x.com/JitendraMalikCV/status/2115838494795063510",
+   "note": {
+    "en": "Malik argued that mastering contact and force estimation from human action trajectories will further strengthen the real2sim2real paradigm for robot learning.",
+    "zh": "马利克认为，掌握从人类动作轨迹中估计接触和力的技术将进一步强化机器人学习中的real2sim2real范式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-27",
    "ts": null,
    "kind": "paper",
@@ -1810,25 +1829,6 @@
    "note": {
     "en": "Malik shared a sim-to-real success using two multi-fingered robot hands on a dexterous task, calling it representative of household manipulation challenges.",
     "zh": "Malik分享了一项使用双多指机械手完成灵巧任务的仿真到真实(sim-to-real)成果,认为其代表了家庭场景中的操作挑战。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
-   "date": "2024-03-01",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "We cast real-world humanoid control as a next token prediction problem, akin to predicting the next word in language. Check out our robot walking in San Francis",
-    "zh": "We cast real-world humanoid control as a next token prediction problem, akin to predicting the next word in language. Check out our robot walking in San Francis"
-   },
-   "source": "@JitendraMalikCV",
-   "url": "https://x.com/JitendraMalikCV/status/1763440743312752794",
-   "note": {
-    "en": "Malik's lab framed real-world humanoid control as next-token prediction, akin to language modeling, demonstrated on a robot walking in San Francisco.",
-    "zh": "Malik实验室将真实世界的人形机器人控制建模为类似语言模型的'下一步预测'任务,并在旧金山街头演示了机器人行走。"
    },
    "auto": true,
    "judged": true,

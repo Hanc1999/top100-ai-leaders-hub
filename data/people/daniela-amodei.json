@@ -114,6 +114,25 @@
    }
   },
   {
+   "date": "2026-10-28",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The Builders: Dario & Daniela Amodei",
+    "zh": "The Builders: Dario & Daniela Amodei"
+   },
+   "source": "TechStuff",
+   "url": "https://podcasts.apple.com/us/podcast/the-builders-dario-daniela-amodei/id282795787?i=1000798493563&uo=4",
+   "note": {
+    "en": "Daniela and Dario Amodei sat down with biographer Walter Isaacson for 'The Builders,' his interview series on the most consequential figures in AI and tech.",
+    "zh": "达妮埃拉与达里奥·阿莫迪接受了传记作家沃尔特·艾萨克森「The Builders」系列的采访，该系列专访AI与科技领域最具影响力的人物。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-10-27",
    "ts": null,
    "kind": "podcast",
@@ -635,7 +654,7 @@
   "citations": 244,
   "hIndex": 3,
   "events": 13,
-  "posts": 16,
+  "posts": 17,
   "wikiEn": "Daniela Amodei",
   "wikiZh": null
  },

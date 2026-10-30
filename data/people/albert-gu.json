@@ -1,5 +1,5 @@
 {
- "rank": 90,
+ "rank": 87,
  "id": "albert-gu",
  "name": {
   "en": "Albert Gu",
@@ -161,6 +161,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-10-29",
+   "ts": "2026-10-29T21:33:15Z",
+   "kind": "x",
+   "title": {
+    "en": "We build not just models but the whole stack - #1 on Speech Agent Arena!",
+    "zh": "We build not just models but the whole stack - #1 on Speech Agent Arena!"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2115919920987042199",
+   "note": {
+    "en": "Gu announced his team is #1 on the Speech Agent Arena leaderboard, highlighting Cartesia's full-stack approach to real-time voice models.",
+    "zh": "Gu宣布团队在Speech Agent Arena排行榜上排名第一，强调Cartesia在实时语音模型上采取全栈自研路线。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
   },
   {
    "date": "2026-10-28",
@@ -1482,19 +1501,19 @@
  },
  "cat": "research",
  "score": {
-  "total": 24.8,
+  "total": 25.7,
   "attention": null,
   "centrality": 30,
-  "momentum": 18,
+  "momentum": 20,
   "stature": null,
   "pageviews": 0,
   "citations": 2983,
   "hIndex": 21,
   "events": 0,
-  "posts": 70,
+  "posts": 71,
   "wikiEn": null,
   "wikiZh": null
  },
  "seedRank": 93,
- "tier": "t6"
+ "tier": "t5"
 }

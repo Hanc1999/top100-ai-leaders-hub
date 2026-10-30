@@ -161,6 +161,25 @@
    "connector": null
   },
   {
+   "date": "2026-10-28",
+   "ts": "2026-10-28T22:53:39Z",
+   "kind": "x",
+   "title": {
+    "en": "Just wrapped our earnings call. It was a fast start to our fiscal year. Microsoft Cloud revenue surpassed $63B, with growth accelerating to 30% YoY. Lots of inn",
+    "zh": "Just wrapped our earnings call. It was a fast start to our fiscal year. Microsoft Cloud revenue surpassed $63B, with growth accelerating to 30% YoY. Lots of inn"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2115577764300693644",
+   "note": {
+    "en": "Following Microsoft's earnings call, Nadella posted that Microsoft Cloud revenue surpassed $63B this quarter, with growth accelerating to 30% YoY.",
+    "zh": "在微软财报电话会议后，纳德拉发帖称本季度微软云业务收入超过630亿美元，同比增速加快至30%。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-22",
    "ts": "2026-10-22T19:10:30Z",
    "kind": "x",
@@ -1149,25 +1168,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-05-07",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Great to bring GPT 5.5 Instant to M365 Copilot today. With quicker, clearer, and more accurate responses, you can get to useful answers with less back and forth",
-    "zh": "Great to bring GPT 5.5 Instant to M365 Copilot today. With quicker, clearer, and more accurate responses, you can get to useful answers with less back and forth"
-   },
-   "source": "@satyanadella",
-   "url": "https://x.com/satyanadella/status/2052465911832171001",
-   "note": {
-    "en": "Nadella announced GPT-5.5 Instant coming to Microsoft 365 Copilot for quicker, more accurate responses.",
-    "zh": "纳德拉宣布GPT-5.5 Instant接入Microsoft 365 Copilot,带来更快更准确的响应。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
    "date": "2026-01-21",
    "ts": null,
    "kind": "podcast",
@@ -1519,6 +1519,57 @@
    },
    "source": "StartupHub",
    "url": "https://www.startuphub.ai/ai-news/ai-figures/2026/figure-satya-nadella-venture-portfolio-breakdown-2026-08-13"
+  },
+  {
+   "date": "2026-10-29",
+   "ts": "2026-10-29T05:20:09Z",
+   "level": "major",
+   "title": {
+    "en": "Microsoft posts blockbuster quarterly results riding on AI boom; CEO Satya Nadella says, ‘Never been more confident’",
+    "zh": "Microsoft posts blockbuster quarterly results riding on AI boom; CEO Satya Nadella says, ‘Never been more confident’"
+   },
+   "body": {
+    "en": "Microsoft reported blockbuster quarterly earnings driven by the AI boom, with Nadella saying he has 'never been more confident' — concrete evidence that his hedged bets across OpenAI, Anthropic, Mistral and in-house MAI models are paying off.",
+    "zh": "微软公布了受AI热潮推动的亮眼季度财报，纳德拉表示自己\"从未如此有信心\"——这为他在OpenAI、Anthropic、Mistral以及自研MAI模型上的多重押注正在见效提供了实际证据。"
+   },
+   "source": "Livemint",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOdG5rYTY3cU9kMW1FM25XZURiVVdhNDFXbDdfMWVlRTZkV0l5ZWRTNEdYRXpka2F5dHlMSzI1QzRDblBfZGpUWWxqSGFoUm00ZUlyUkVubUxDYlQ5VXZuS0dFOVNNTnpzQkIwc20zWUltTHB0YXNaQ1dTczVWNlcxNzd6UXItS0lMNVloM3ZTdGJ5d2FmYllzaGhMVC1WRGF1QU95WC05czA3Z2J5RVdLV0JoUXVWOUE5ZUtHM3ZTYWpCMWRyZkZDNFlTUnd6bFVyd1JLN282cDh2SXliMVRHdEdwVENQR2RnaXY1c09EVGhpTDhhczJJYWdTLWpFcm4ta1NtTEN1bjlwR3lKb24wZdIBlgJBVV95cUxNd2lZOVBORC1YXy1IY0xQblBQLWNXdFBWN1lHNG1XNmQ2T1F3dmwyemI1V2lRTVFiWC1zaThHcDF4OFlvSzBkcGtQU2MtWTB1R3ctVFAwMnJnYkJqdEpNWlJ1bU1aWGVteUp5V2hzOU9tWGx6TjJrMzRLRVQzUG56MkNURWNqWlRCZS14NHFBTGF1NHA1U1RiejNrSnhyU1FOWHdVeUFkWWJjaXUwWVZZeHFTNXZZWGVFSmtQVnUwVlR6TG9aV2ItaHQtT2V4YzVrUE1lQ09pV1lmd3M1VHV5Z3FnLWlDbHRaMm1oUjNvU0lzcmd2STVwT2dFcXc4TUlhZERiVkNRdnRKSEdNWGN3b3hMODZ4Zw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-29",
+   "ts": "2026-10-29T12:54:17Z",
+   "level": "notable",
+   "title": {
+    "en": "Satya Nadella Says Renting AI Capacity to a Few Big Customers Is “Not a Business” - 24/7 Wall St.",
+    "zh": "Satya Nadella Says Renting AI Capacity to a Few Big Customers Is “Not a Business” - 24/7 Wall St."
+   },
+   "body": {
+    "en": "Satya Nadella said simply renting out AI compute capacity to a handful of big customers 'is not a business,' pushing back on compute-rental-only strategies in the AI infrastructure race.",
+    "zh": "萨提亚·纳德拉表示，仅向少数大客户出租AI算力\"不是一种生意\"，这是对纯粹靠出租算力盈利策略的一种反驳。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUjJiNFRqLXRsVGdDSkc3WTR0RHJkWlF5NHRxX3ZXZkEyQ3RTS29SZWhtWEJjY0EzZzNRMTZ0S2JRS2xCQW9hZlZGV0hZTU5vOEoxckJBRTQ5ZVV4TC0zN2hpU2xqQzBEdmZZcG9Uazg2UjNJUTlKUHEteU1PSVgxdUliTUt2X1MzWWpuekdPY0EyMXI4X2p6X3FKQWd3TVg1OXdsOGlZNWZuc1otelEzbUctY1IxME1NVlU1cjlBOWo?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-29",
+   "ts": "2026-10-29T03:50:57Z",
+   "level": "notable",
+   "title": {
+    "en": "Microsoft Revenue Rises 19% To USD 92.3 Bn; Satya Nadella Says 'Fast Start To Our Fiscal Year'",
+    "zh": "Microsoft Revenue Rises 19% To USD 92.3 Bn; Satya Nadella Says 'Fast Start To Our Fiscal Year'"
+   },
+   "body": {
+    "en": "Nadella reported Microsoft revenue up 19% to $92.3B, calling it a fast start to the fiscal year on the back of AI-driven growth.",
+    "zh": "纳德拉宣布微软营收同比增长19%至923亿美元，称这是得益于AI驱动增长的新财年良好开局。"
+   },
+   "source": "ETV Bharat",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMEZJbkQzLVEyYXlueDcyOHZ2aVhaQlM2RTNlVFI4Z1BBMlRVYTZGQXF3WGJKTWk4WG82UWdVQ0hxUXRtXzVycEJ2bTU5RDE5WDJpTXYtN1NvX21PVndDeEZzcjJWTGFvTEJqa2FHV2MtcTVlOWc3RzlKc3JhbmhITS1KVkpDREpuamRoNHE5V01KNHlCYXhwd1o2cnpZT0tKbUhXd1lKVmZleWUtQnR2VnNDSnVMcXc5UFk5Z0E4WUtKdFRERTZTcHYwU1d2ZjBaSmdBS2dldXBBMzFKclA0SHhlVFU1LWgzZlJj?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-28",
@@ -4205,7 +4256,7 @@
   "pageviews": 828227,
   "citations": 231,
   "hIndex": 3,
-  "events": 159,
+  "events": 162,
   "posts": 73,
   "wikiEn": "Satya Nadella",
   "wikiZh": "薩蒂亞·納德拉"

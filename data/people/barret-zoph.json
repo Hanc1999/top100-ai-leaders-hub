@@ -1,5 +1,5 @@
 {
- "rank": 43,
+ "rank": 42,
  "id": "barret-zoph",
  "name": {
   "en": "Barret Zoph",
@@ -1145,6 +1145,23 @@
    "judged": true
   },
   {
+   "date": "2026-08-26",
+   "ts": "2026-08-26T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Barret Zoph, Mitbegründer von Thinking Machines Lab, wechselt zu Google",
+    "zh": "Barret Zoph, Mitbegründer von Thinking Machines Lab, wechselt zu Google"
+   },
+   "body": {
+    "en": "Zoph, Thinking Machines Lab co-founder and OpenAI's former post-training lead, left to join Google DeepMind as VP of Research.",
+    "zh": "Zoph是Thinking Machines Lab联合创始人、OpenAI前后训练负责人，现已加入Google DeepMind担任研究副总裁。"
+   },
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBieHEtQ3RCcXpkNTlCUnpSdDNvbHpBcDdVNHZueW0taV9fX2E0eXpsTUhnc0tSWG1LMnpxTkUtdjJUVFRjM1JrbVJXYkg3Rnc2cWRLOTNHSkh2WG8zZ0hJdDZlLU15MlNnS3FLY0hseU80TDJUSkZXVA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-06-18",
    "ts": null,
    "level": "major",
@@ -1237,15 +1254,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 50.7,
+  "total": 51.6,
   "attention": null,
   "centrality": 47,
-  "momentum": 55,
+  "momentum": 57,
   "stature": null,
   "pageviews": 0,
   "citations": 0,
   "hIndex": 0,
-  "events": 18,
+  "events": 19,
   "posts": 42,
   "wikiEn": null,
   "wikiZh": null

@@ -211,6 +211,25 @@
    }
   },
   {
+   "date": "2026-10-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Reaction precedents extend retrosynthetic prediction beyond training coverage",
+    "zh": "Reaction precedents extend retrosynthetic prediction beyond training coverage"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.40249v1",
+   "note": {
+    "en": "Co-authored with Shanghai AI Lab colleagues Dahua Lin and Conghui He, this paper shows how retrieved reaction precedents extend retrosynthesis prediction beyond the coverage of a model's training data.",
+    "zh": "周伯文与上海AI实验室同事林达华、何聪辉合著的这篇论文表明，检索到的反应先例可以让逆合成预测的能力超越训练数据的覆盖范围。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-20",
    "ts": null,
    "kind": "paper",
@@ -1502,7 +1521,7 @@
   "citations": 16676,
   "hIndex": 51,
   "events": 27,
-  "posts": 44,
+  "posts": 45,
   "wikiEn": "Bowen Zhou",
   "wikiZh": null
  },

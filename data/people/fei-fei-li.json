@@ -1359,25 +1359,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-03-23",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation",
-    "zh": "CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2603.22435v2",
-   "note": {
-    "en": "CaP-X benchmarks and improves code-generating agents used as controllers for robot manipulation.",
-    "zh": "CaP-X 用于评测并改进以代码生成方式充当机器人操作控制器的智能体。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2026-03-20",
    "ts": null,
    "kind": "x",
@@ -7917,6 +7898,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-03",
+   "ts": "2026-09-03T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "李飞飞刚发Atlas，中国开源“同款”已抢跑半年？",
+    "zh": "李飞飞刚发Atlas，中国开源“同款”已抢跑半年？"
+   },
+   "body": {
+    "en": "World Labs released its spatial world model Atlas; coverage notes a Chinese open-source equivalent had already shipped roughly six months earlier.",
+    "zh": "李飞飞旗下World Labs发布了空间世界模型Atlas，报道称中国的开源同类模型早在约半年前就已抢先发布。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41Qy1Bblp5c1gzZ2ZQTS1sa0Ezbl9hQXkwdDZrU3JlNkZvTDE5T2RkYklOdXZhUmlKWW44Vlg4YUJXd0RETEtVWlNjZnhiRWplUFE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-02",
    "ts": "2026-09-02T07:00:00Z",
    "level": "major",
@@ -8833,8 +8831,8 @@
   "pageviews": 423813,
   "citations": 222997,
   "hIndex": 137,
-  "events": 382,
-  "posts": 113,
+  "events": 383,
+  "posts": 112,
   "wikiEn": "Fei-Fei Li",
   "wikiZh": "李飛飛"
  },

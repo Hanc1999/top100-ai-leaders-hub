@@ -1283,6 +1283,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-04",
+   "ts": "2026-10-04T21:22:13Z",
+   "level": "major",
+   "title": {
+    "en": "Claude满分、GPT 99分！何恺明团队把AGI考试打穿了",
+    "zh": "Claude满分、GPT 99分！何恺明团队把AGI考试打穿了"
+   },
+   "body": {
+    "en": "Kaiming He's team published VISTA, a visual-memory framework that let Claude Opus 5 reach a perfect score and GPT score 99 on the ARC-AGI-3 benchmark, up from roughly 40 and 13 points respectively, without retraining the underlying models.",
+    "zh": "何恺明团队发表VISTA视觉记忆框架，无需重新训练模型，即可让Claude Opus 5在ARC-AGI-3基准上拿到满分、GPT拿到99分，相比此前约40分和13分大幅提升。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT0NfUlZpcHV2b29LdVZMMDNyUGtVSlNMN0tZTnZpb216OWZ6eDJSS2MxMDVLSVFtOEEwMTVlN0tMMTdWeko4ZFZnLVJJSXZNNmRmcjgyLUpLS3RCMDloc0wtaDdjMUdUbExYSVN1dTdGQURsRlRxdTFLRXc5VDNWR0NFd2U2MjA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-03",
    "ts": "2026-10-03T21:00:00Z",
    "level": "notable",
@@ -1902,15 +1919,15 @@
  },
  "cat": "research",
  "score": {
-  "total": 39.7,
+  "total": 40.1,
   "attention": 33,
   "centrality": 2,
-  "momentum": 69,
+  "momentum": 71,
   "stature": 100,
   "pageviews": 46828,
   "citations": 555963,
   "hIndex": 83,
-  "events": 68,
+  "events": 69,
   "posts": 30,
   "wikiEn": "Kaiming He",
   "wikiZh": "何恺明"

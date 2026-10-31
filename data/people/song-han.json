@@ -228,6 +228,25 @@
    }
   },
   {
+   "date": "2026-10-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Weaken to Strengthen: Weakening-Induced On-Policy Self-Distillation for Large Reasoning Models",
+    "zh": "Weaken to Strengthen: Weakening-Induced On-Policy Self-Distillation for Large Reasoning Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.38681v1",
+   "note": {
+    "en": "Han and coauthors (including frequent collaborator Han Cai) propose a self-distillation method using a deliberately weakened teacher to improve large reasoning models without external supervision.",
+    "zh": "韩松与合作者（包括常年合作者Han Cai）提出一种自蒸馏方法，利用故意削弱的“教师”模型提升大型推理模型性能，且无需外部监督。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-14",
    "ts": null,
    "kind": "paper",
@@ -1026,25 +1045,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2026-05-26",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "JetViT: Efficient High-Resolution Vision Transformer with Post-Training Attention Search",
-    "zh": "JetViT: Efficient High-Resolution Vision Transformer with Post-Training Attention Search"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2605.26636v1",
-   "note": {
-    "en": "JetViT, a hybrid vision transformer family for high-resolution inputs obtained by post-training attention search.",
-    "zh": "JetViT：通过后训练注意力搜索得到的高分辨率混合视觉 Transformer 系列。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2026-05-23",
    "ts": null,
    "kind": "x",
@@ -1062,25 +1062,6 @@
    "judged": true,
    "platform": "x",
    "connector": "backfill"
-  },
-  {
-   "date": "2026-05-22",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Fast-dDrive: Efficient Block-Diffusion VLM for Autonomous Driving",
-    "zh": "Fast-dDrive: Efficient Block-Diffusion VLM for Autonomous Driving"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2605.23163v2",
-   "note": {
-    "en": "Block-diffusion vision-language-action model for autonomous driving that trades off planning quality against inference cost.",
-    "zh": "面向自动驾驶的块扩散视觉-语言-动作模型，在规划质量与推理开销之间取得平衡。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
   },
   {
    "date": "2026-05-20",
@@ -1586,7 +1567,7 @@
   "citations": 32832,
   "hIndex": 58,
   "events": 3,
-  "posts": 71,
+  "posts": 70,
   "wikiEn": null,
   "wikiZh": "韩松"
  },

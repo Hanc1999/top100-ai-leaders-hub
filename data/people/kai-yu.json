@@ -187,6 +187,25 @@
    }
   },
   {
+   "date": "2026-10-30",
+   "ts": "2026-10-30T12:45:53Z",
+   "kind": "blog",
+   "title": {
+    "en": "今天被一些网友Q到地平线能不能推出几千TOPS算力的智驾芯片，这里我就回一下。说实话，没想到智驾芯片这么严肃的事情，我们中国科技行业都能卷到无底线的ppt算力...",
+    "zh": "今天被一些网友Q到地平线能不能推出几千TOPS算力的智驾芯片，这里我就回一下。说实话，没想到智驾芯片这么严肃的事情，我们中国科技行业都能卷到无底线的ppt算力..."
+   },
+   "source": "余凯_地平线民工的微博",
+   "url": "https://weibo.com/1862459915/Rp6dmAA4f",
+   "note": {
+    "en": "Kai Yu publicly explains how automotive chipmakers inflate 'equivalent compute' marketing numbers, using Nvidia's Orin X as an example, to defend Horizon's own TOPS figures against public confusion.",
+    "zh": "余凯公开解释汽车芯片厂商如何夸大“等效算力”的营销数字（以英伟达Orin X为例），借此回应公众对地平线自身TOPS数据的质疑。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "weibo",
+   "connector": "weibo"
+  },
+  {
    "date": "2026-10-28",
    "ts": "2026-10-28T13:53:55Z",
    "kind": "blog",
@@ -728,6 +747,23 @@
    },
    "source": "Horizon Robotics",
    "url": "https://www.horizon.auto/news/product"
+  },
+  {
+   "date": "2026-10-30",
+   "ts": "2026-10-30T13:43:17Z",
+   "level": "notable",
+   "title": {
+    "en": "地平线创始人余凯吐槽智驾芯片PPT算力虚标：英伟达按稠密算力两倍标，而业界已经吹到6-7倍",
+    "zh": "地平线创始人余凯吐槽智驾芯片PPT算力虚标：英伟达按稠密算力两倍标，而业界已经吹到6-7倍"
+   },
+   "body": {
+    "en": "Horizon Robotics founder Kai Yu publicly criticized inflated compute-power claims on autonomous-driving chip spec sheets, saying Nvidia doubles its dense-compute figures while rivals now inflate by 6-7x.",
+    "zh": "地平线创始人余凯公开批评智能驾驶芯片行业的算力虚标现象，称英伟达按稠密算力两倍标注，而业界已经吹到6-7倍。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPelE4Z1pNejlJSGF5Y215Q3Q0VkxBQkpBVVlkeTZuMDNYaE4wQmFja05fNEE5NHBTQ3lHeFI2ek5yME54THhydnZlaDJuS2xXOWRha2Z1bTZWcVY1Q2p5V2c5a0F5Q3BaTXdsVDVlb1AzbHZyaHEtTU5PMHlhUkZhbS0xcUctNWxz?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-27",
@@ -3805,8 +3841,8 @@
   "pageviews": 700,
   "citations": 21491,
   "hIndex": 66,
-  "events": 182,
-  "posts": 28,
+  "events": 183,
+  "posts": 29,
   "wikiEn": null,
   "wikiZh": "余凯"
  },

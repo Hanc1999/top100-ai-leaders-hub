@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-10-30",
+   "ts": "2026-10-30T17:36:56Z",
+   "kind": "blog",
+   "title": {
+    "en": "Was I wrong about open models & cyber risks?",
+    "zh": "Was I wrong about open models & cyber risks?"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+   "note": {
+    "en": "Lambert revisits his own prior claims about the cyber risks of open-weight models in light of a wave of critical vulnerability disclosures he dubbed 'Black October.'",
+    "zh": "针对一波他称为“黑色十月”的严重漏洞披露潮，Lambert重新审视了自己此前关于开源模型网络安全风险的判断。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
    "date": "2026-10-28",
    "ts": "2026-10-28T12:58:39Z",
    "kind": "blog",
@@ -1722,16 +1741,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 16.6,
+  "total": 17.1,
   "attention": 8,
   "centrality": 6,
-  "momentum": 45,
+  "momentum": 47,
   "stature": null,
   "pageviews": 2796,
   "citations": 720,
   "hIndex": 13,
   "events": 3,
-  "posts": 80,
+  "posts": 81,
   "wikiEn": "Nathan Lambert",
   "wikiZh": null
  },

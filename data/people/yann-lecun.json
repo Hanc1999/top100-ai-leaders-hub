@@ -198,6 +198,25 @@
    }
   },
   {
+   "date": "2026-10-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+    "zh": "Proving and Improving the Platonic Representation Hypothesis with JEPAs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.39302v1",
+   "note": {
+    "en": "LeCun and coauthors provide theoretical and empirical support for the Platonic Representation Hypothesis using JEPA-style models, his own joint-embedding predictive architecture.",
+    "zh": "LeCun及合作者使用JEPA类模型（即他本人提出的联合嵌入预测架构）为“柏拉图式表征假说”提供了理论和实证支持。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-11",
    "ts": null,
    "kind": "paper",
@@ -837,25 +856,6 @@
    "note": {
     "en": "An end-to-end JEPA trained straight from pixels, replacing the fragile multi-term losses earlier world models relied on.",
     "zh": "一种直接从像素端到端训练的 JEPA，取代了早期世界模型所依赖的脆弱多项损失。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-03-13",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Representation Learning for Spatiotemporal Physical Systems",
-    "zh": "Representation Learning for Spatiotemporal Physical Systems"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2603.13227v1",
-   "note": {
-    "en": "Moves machine learning for physical systems past next-frame prediction toward representations of the underlying dynamics.",
-    "zh": "让面向物理系统的机器学习超越下一帧预测，转向学习底层动力学的表征。"
    },
    "auto": true,
    "judged": true,
@@ -4746,6 +4746,23 @@
    "judged": true
   },
   {
+   "date": "2026-01-07",
+   "ts": "2026-01-07T08:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "杨立昆离职Meta， 怒扒三大黑料",
+    "zh": "杨立昆离职Meta， 怒扒三大黑料"
+   },
+   "body": {
+    "en": "Coverage reports LeCun's departure from Meta amid public criticism of the company, as he moves on to found AMI Labs to pursue his own approach to AI.",
+    "zh": "报道称杨立昆在公开批评Meta后离职，随后创立AMI实验室，继续推进自己的人工智能路线。"
+   },
+   "source": "虎嗅网",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kTzdXMUtoaHZpdnNtYmdldlVJc1FuVDVCY0VzTHVYRnZuNVk3a0ZOajl5a21YRGJSdVYxRnBoMWtnOWhBd1BoWnFNM2M3SlZNaGtKSw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-01-05",
    "ts": "2026-01-05T08:00:00Z",
    "level": "major",
@@ -4880,7 +4897,7 @@
   "pageviews": 531264,
   "citations": 253869,
   "hIndex": 120,
-  "events": 220,
+  "events": 221,
   "posts": 52,
   "wikiEn": "Yann LeCun",
   "wikiZh": "杨立昆"

@@ -149,6 +149,25 @@
    }
   },
   {
+   "date": "2026-10-30",
+   "ts": "2026-10-30T17:05:16Z",
+   "kind": "x",
+   "title": {
+    "en": "A ‘hello world’ milestone for Project Suncatcher 🚀 After launching our prototype satellite a few weeks ago, we’ve now successfully sent a command up to orbit, b",
+    "zh": "A ‘hello world’ milestone for Project Suncatcher 🚀 After launching our prototype satellite a few weeks ago, we’ve now successfully sent a command up to orbit, b"
+   },
+   "source": "@sundarpichai",
+   "url": "https://x.com/sundarpichai/status/2116214866444943853",
+   "note": {
+    "en": "Pichai announced a 'hello world' milestone for Project Suncatcher: Google sent a command to its orbiting prototype satellite, booted up a TPU, and ran a prompt in space.",
+    "zh": "Pichai宣布Project Suncatcher项目取得\"hello world\"里程碑：谷歌向在轨原型卫星发送指令，成功启动TPU并在太空中运行了一次推理。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-28",
    "ts": "2026-10-28T17:01:48Z",
    "kind": "x",
@@ -1215,25 +1234,6 @@
   {
    "date": "2025-11-18",
    "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Its been an exciting 7 days of shipping - New much improved Gemini Live on Android and iOS - Gemini 3.0 Pro in Gemini App and AI Studio - Search AI Mode with Ge",
-    "zh": "Its been an exciting 7 days of shipping - New much improved Gemini Live on Android and iOS - Gemini 3.0 Pro in Gemini App and AI Studio - Search AI Mode with Ge"
-   },
-   "source": "@sundarpichai",
-   "url": "https://x.com/sundarpichai/status/1990850427164979318",
-   "note": {
-    "en": "Pichai recapped a week of shipping: Gemini Live upgrades, the Gemini 3.0 Pro rollout, and an improved Search AI Mode.",
-    "zh": "皮查伊总结了一周内的多项发布:Gemini Live升级、Gemini 3.0 Pro上线,以及改进版的Search AI模式。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
-   "date": "2025-11-18",
-   "ts": null,
    "kind": "podcast",
    "title": {
     "en": "A special interview with Google CEO Sundar Pichai",
@@ -1758,6 +1758,23 @@
    },
    "source": "Livemint",
    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNd01pNGE1M0EtQVdicG5aMkMtVE1nTXA4N3ByRFc4eng4dnExT3pMZHBpVEl5UDRqRmRSd0JfRmFPOUVzSzB3dHZRdXNsbGxCYW1XUXVKcVZVTmREOHFSSzBvbGt3eUdTX1FsaGx6ZndULVZLS3hlM1ZBVHBfQ09URlY0ODZhVVFlend5R3ozaENMdXhaSjJabmxJQjRzWUwwWFFDRGJiNUpKVnpRLWd4VTN1UGdkak9fVGJUajhhdTMtUjBjdm9iLVI1QmE0ZGtLU19rdmtJVXVFSjhBUmZUcm1kU0tyUFBRcUJMWWJuR0hiSFI1VExseUhjVGRnMEhmY08w0gGIAkFVX3lxTE9PX29saE9SajZmTlBtZi1yWDJMWXZ3VHN1OVBFczJVSUlQWXdzT2txeVo0M0RKQzhKZVFvaEFpYUhKTUpfUGpGZWhiZFAwbmxEYjR6Zmh0cVBXWV9WcjBMRHFEZkJVUTNMbGhkSU9PSVBXbnRoWlQ5MUZCSVlibFdFSFpXZTV0Wks0QVl3b2NHX0xrNnhzektKSG9KNFNzc0hZY25rbDJSVnVQV0tCalhRTlRJZ045VHVfYnUtYm5mOTN6cEpoaUF6cTQ4U0VwYlI4M3U0RXhWRXIzNkJOQVA5MlFnVVZZWUdPOWZ2WE54V1NSSVE0d2Q5RDJKQkZNMko4MGxkXy1xYQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-26",
+   "ts": "2026-10-26T07:57:59Z",
+   "level": "notable",
+   "title": {
+    "en": "Sundar Pichai: 'Google Cloud Is Forgoing Short-Term Revenue To Support Frontier AI Development'",
+    "zh": "Sundar Pichai: 'Google Cloud Is Forgoing Short-Term Revenue To Support Frontier AI Development'"
+   },
+   "body": {
+    "en": "Pichai said Google Cloud is forgoing short-term revenue to prioritize investment in frontier AI development.",
+    "zh": "皮查伊表示，Google Cloud正在放弃部分短期收入，以优先投资前沿AI的发展。"
+   },
+   "source": "Times Now",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSWtTZG9aZ01UVUxzR3lOaFUzVDVmU21LcXFXcWdJUmxpbUlkU2NlZGdfYnlNemdHR1h6Y2NuQWd3R3NoR09sbDJrQ3l0UVpobEl3QlhQWXE3bGtkMVRiQ3J4UDZyNmw3cFRjc2JmZGNqbm5lSEtoTXpMN3hvakljb2FYSFo1S1hta0VuVWVxNEdlaEJsckJJV3prdXI4T19CT01PZjZNNjRKYkhoc1ctaG5mQ1hHcXBuczhlRGZsRGxsYWJpZWJiQjU2aTJSamJMTHVMeXdkS2xDSjZJR2pFYVVzUVhjekFBTlBWUDB2Wm9LUGktLWtLeFRR0gH_AUFVX3lxTE5sZk5CTkVkdm4zakh2RFdQUm5KbmFYYU8wRzNyaXp6VEI4NVZRcUZERnZMWWxNUTJRYTVZeFNlLTNjSnlBTDJuOUcxRkdTTWFHclljWXRNcVJnZGJmc2lRUmpxelYzdjkydlVMYmw2WUp4N0lJV2hPUlBPRDJCcFNaVTBPbFlRdFRnY250Z2d1RElaOGVBZHBuS09TWkRpaUtUNGFpV3NXbHVyZE52UlNOWXlSeWRaSk13WU1NUkwycEV3UHVmbUFxRnVlMUJUTFpYQ2kxeVhQV1FjX0s2YndlQ04waDBtY25ETmQzUG9qYmZjZlJNVjFrX0x6cFJWaw?oc=5",
    "auto": true,
    "judged": true
   },
@@ -3256,7 +3273,7 @@
   "pageviews": 1299595,
   "citations": 1,
   "hIndex": 1,
-  "events": 105,
+  "events": 106,
   "posts": 72,
   "wikiEn": "Sundar Pichai",
   "wikiZh": "孙达尔·皮柴"

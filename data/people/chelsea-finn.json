@@ -1,5 +1,5 @@
 {
- "rank": 70,
+ "rank": 69,
  "id": "chelsea-finn",
  "name": {
   "en": "Chelsea Finn",
@@ -175,6 +175,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-10-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Cross-Controller Transfer via In-Context Behavior Adaptation",
+    "zh": "Cross-Controller Transfer via In-Context Behavior Adaptation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.39280v1",
+   "note": {
+    "en": "With Jonathan Yang and Dorsa Sadigh, proposes in-context behavior adaptation so a single generalist robot policy can transfer across different physical controllers.",
+    "zh": "与Jonathan Yang、Dorsa Sadigh合作，提出了一种情境内行为适应方法，使单一通用机器人策略能够跨不同物理控制器迁移。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-10-24",
@@ -1215,25 +1234,6 @@
    "note": {
     "en": "Shows that organising cross-embodiment robot data by analogy makes transfer between different robots far more efficient.",
     "zh": "表明按类比关系组织跨形态机器人数据，能显著提升不同机器人之间的迁移效率。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-03-04",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies",
-    "zh": "RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2603.04639v3",
-   "note": {
-    "en": "RoboMME benchmarks memory in generalist robot policies on tasks that require counting repeated actions or tracking occluded objects.",
-    "zh": "RoboMME 针对需要计数重复动作或追踪被遮挡物体的任务，评测通用机器人策略的记忆能力。"
    },
    "auto": true,
    "judged": true,

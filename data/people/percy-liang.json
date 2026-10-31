@@ -209,6 +209,25 @@
    }
   },
   {
+   "date": "2026-10-30",
+   "ts": "2026-10-30T18:31:39Z",
+   "kind": "x",
+   "title": {
+    "en": "Synthetic data is used all the time now for LM pretraining...but can we carefully quantify the gains in compute efficiency and data efficiency?",
+    "zh": "Synthetic data is used all the time now for LM pretraining...but can we carefully quantify the gains in compute efficiency and data efficiency?"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2116236605262602604",
+   "note": {
+    "en": "Liang raised an open research question on whether the compute- and data-efficiency gains from now-ubiquitous synthetic data in LM pretraining can be rigorously quantified.",
+    "zh": "Percy Liang提出一个开放研究问题：如今在语言模型预训练中已普遍使用的合成数据，其带来的计算效率和数据效率提升能否被严格量化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-28",
    "ts": "2026-10-28T02:16:24Z",
    "kind": "x",
@@ -1949,7 +1968,7 @@
   "citations": 45211,
   "hIndex": 87,
   "events": 2,
-  "posts": 92,
+  "posts": 93,
   "wikiEn": "Percy Liang",
   "wikiZh": null
  },

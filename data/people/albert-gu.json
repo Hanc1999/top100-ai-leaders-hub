@@ -163,6 +163,25 @@
    }
   },
   {
+   "date": "2026-10-30",
+   "ts": "2026-10-30T19:42:30Z",
+   "kind": "x",
+   "title": {
+    "en": "Our opening animation and blog didn't fully show the interesting dynamics for languages like CJK that have multi-byte characters. In Chinese most characters tak",
+    "zh": "Our opening animation and blog didn't fully show the interesting dynamics for languages like CJK that have multi-byte characters. In Chinese most characters tak"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2116254436150657290",
+   "note": {
+    "en": "Albert Gu followed up on a model/tokenizer launch to explain a gap in how the opening demo handled multi-byte CJK characters like Chinese, noting each character spans multiple bytes during end-to-end learning.",
+    "zh": "Albert Gu在一次模型/分词器发布后补充说明：此前的开场动画和博客未能充分展示该系统处理像中文这类多字节CJK字符的动态过程，指出每个汉字在端到端学习中占用多个字节。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-29",
    "ts": "2026-10-29T21:33:15Z",
    "kind": "x",
@@ -1510,7 +1529,7 @@
   "citations": 2983,
   "hIndex": 21,
   "events": 0,
-  "posts": 71,
+  "posts": 72,
   "wikiEn": null,
   "wikiZh": null
  },

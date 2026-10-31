@@ -127,6 +127,25 @@
    }
   },
   {
+   "date": "2026-10-29",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Vercel CEO: How to Raise Kids Who Can Think in the AI Era | Guillermo Rauch",
+    "zh": "Vercel CEO: How to Raise Kids Who Can Think in the AI Era | Guillermo Rauch"
+   },
+   "source": "The Library of Minds",
+   "url": "https://podcasts.apple.com/us/podcast/vercel-ceo-how-to-raise-kids-who-can-think-in-the-ai/id1841750961?i=1000798732028&uo=4",
+   "note": {
+    "en": "Rauch appeared on The Library of Minds podcast to discuss how he's raising his kids to think for themselves in the AI era, drawing on his experience building developer tools at Vercel.",
+    "zh": "劳赫在播客The Library of Minds中分享了他在AI时代如何培养孩子独立思考的方式，并结合了他在Vercel打造开发者工具的经验。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-10-22",
    "ts": null,
    "kind": "podcast",
@@ -1249,7 +1268,7 @@
   "citations": 9,
   "hIndex": 1,
   "events": 7,
-  "posts": 53,
+  "posts": 54,
   "wikiEn": null,
   "wikiZh": null
  },

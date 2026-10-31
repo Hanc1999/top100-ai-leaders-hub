@@ -181,6 +181,25 @@
    }
   },
   {
+   "date": "2026-10-28",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Robotic Data Inoculation",
+    "zh": "Robotic Data Inoculation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.39054v1",
+   "note": {
+    "en": "Levine and coauthors propose injecting deliberately corrective data into robot training sets to counter distribution shift and improve policy robustness during deployment.",
+    "zh": "Levine及合作者提出在机器人训练数据中有意注入纠正性数据，以对抗分布偏移，提升策略在部署阶段的鲁棒性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-22",
    "ts": null,
    "kind": "podcast",
@@ -901,44 +920,6 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
-  },
-  {
-   "date": "2025-12-11",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Decoupled Q-Chunking",
-    "zh": "Decoupled Q-Chunking"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2512.10926v2",
-   "note": {
-    "en": "Decouples action chunking in temporal-difference learning to reduce bootstrapping bias in offline reinforcement learning.",
-    "zh": "在时序差分学习中解耦动作分块，以降低离线强化学习中的自举偏差。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2025-11-04",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Leveraging Discrete Function Decomposability for Scientific Design",
-    "zh": "Leveraging Discrete Function Decomposability for Scientific Design"
-   },
-   "source": "arXiv (Cornell University)",
-   "url": "https://arxiv.org/abs/2511.03032",
-   "note": {
-    "en": "With Bowden and Listgarten, Levine explores leveraging discrete function decomposability for scientific design problems.",
-    "zh": "Levine与Bowden、Listgarten合作，探讨如何利用离散函数的可分解性用于科学设计问题。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
   },
   {
    "date": "2025-10-11",
@@ -1752,7 +1733,7 @@
   "citations": 63110,
   "hIndex": 112,
   "events": 1,
-  "posts": 82,
+  "posts": 81,
   "wikiEn": "Sergey Levine",
   "wikiZh": null
  },

@@ -144,6 +144,25 @@
    }
   },
   {
+   "date": "2026-10-28",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Replit CEO on The Self-Driving Company: How AI Agents Learn to Operate Themselves While Humans Set the Destination | Amjad Masad | E317",
+    "zh": "Replit CEO on The Self-Driving Company: How AI Agents Learn to Operate Themselves While Humans Set the Destination | Amjad Masad | E317"
+   },
+   "source": "The Product Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/replit-ceo-on-the-self-driving-company-how-ai-agents/id1219400787?i=1000798579298&uo=4",
+   "note": {
+    "en": "Masad appears as the guest on The Product Podcast, discussing Replit's long search for product-market fit, its 100x revenue year, and his vision of AI agents operating autonomously while humans set the destination.",
+    "zh": "Masad作为嘉宾登上《The Product Podcast》节目，谈及Replit长期摸索产品市场契合、营收一年增长百倍的历程，以及让AI智能体自主运作、由人类设定方向的理念。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-10-03",
    "ts": null,
    "kind": "podcast",
@@ -1431,7 +1450,7 @@
   "citations": 0,
   "hIndex": 0,
   "events": 10,
-  "posts": 59,
+  "posts": 60,
   "wikiEn": "Amjad Masad",
   "wikiZh": null
  },

@@ -169,6 +169,25 @@
    }
   },
   {
+   "date": "2026-10-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "An ODE-based Sampler for Discrete Diffusion Models",
+    "zh": "An ODE-based Sampler for Discrete Diffusion Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.40618v1",
+   "note": {
+    "en": "Proposes an ODE-based sampler that speeds up discrete diffusion models without sacrificing sample quality.",
+    "zh": "提出了一种基于常微分方程（ODE）的采样器，可在不损失样本质量的前提下加速离散扩散模型的采样过程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-18",
    "ts": "2026-10-18T18:37:25Z",
    "kind": "x",
@@ -1793,7 +1812,7 @@
   "citations": 41656,
   "hIndex": 97,
   "events": 3,
-  "posts": 83,
+  "posts": 84,
   "wikiEn": "Eric Xing",
   "wikiZh": "邢波"
  },

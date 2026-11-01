@@ -202,6 +202,25 @@
    }
   },
   {
+   "date": "2026-10-31",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "[1hr Talk] Intro to Large Language Models",
+    "zh": "[1hr Talk] Intro to Large Language Models"
+   },
+   "source": "Andrej Karpathy",
+   "url": "https://podcasts.apple.com/us/podcast/1hr-talk-intro-to-large-language-models/id6826123776?i=1000797740357&uo=4",
+   "note": {
+    "en": "Karpathy's own hour-long lecture 'Intro to Large Language Models,' resurfacing as a podcast episode of his flagship explainer on how LLMs work.",
+    "zh": "Karpathy 本人录制的长篇讲座《大语言模型入门》，作为播客节目重新出现，是他讲解大语言模型原理的代表性教学内容。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-04-30",
    "ts": null,
    "kind": "blog",
@@ -1431,7 +1450,7 @@
   "citations": 58963,
   "hIndex": 20,
   "events": 28,
-  "posts": 41,
+  "posts": 42,
   "wikiEn": "Andrej Karpathy",
   "wikiZh": "安德烈·卡帕西"
  },

@@ -1190,6 +1190,44 @@
    "connector": "podcasts"
   },
   {
+   "date": "2018-10-29",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Danielle Feinberg: Pixar's Academy Award-winning computer scientist",
+    "zh": "Danielle Feinberg: Pixar's Academy Award-winning computer scientist"
+   },
+   "source": "Behind The Tech with Kevin Scott",
+   "url": "https://podcasts.apple.com/us/podcast/danielle-feinberg-pixars-academy-award-winning-computer/id1381008946?i=1000422792288&uo=4",
+   "note": {
+    "en": "Episode of Scott's own interview show \"Behind The Tech,\" where he talks with Pixar's Danielle Feinberg about blending computer science and art in filmmaking.",
+    "zh": "斯科特主持的访谈节目《Behind The Tech》一期，他与皮克斯的Danielle Feinberg探讨如何将计算机科学与艺术结合用于电影制作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2018-09-24",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Judy Estrin: Co-creator in developing Internet – engineer, entrepreneur & executive",
+    "zh": "Judy Estrin: Co-creator in developing Internet – engineer, entrepreneur & executive"
+   },
+   "source": "Behind The Tech with Kevin Scott",
+   "url": "https://podcasts.apple.com/us/podcast/judy-estrin-co-creator-in-developing-internet-engineer/id1381008946?i=1000420377136&uo=4",
+   "note": {
+    "en": "Episode of Scott's own interview show \"Behind The Tech,\" where he talks with internet co-creator and serial entrepreneur Judy Estrin.",
+    "zh": "斯科特主持的访谈节目《Behind The Tech》一期，他与互联网共同创造者、连续创业者Judy Estrin对谈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2018-06-20",
    "ts": null,
    "kind": "podcast",
@@ -1279,7 +1317,7 @@
   "citations": 38763,
   "hIndex": 96,
   "events": 1,
-  "posts": 60,
+  "posts": 62,
   "wikiEn": "Kevin Scott (businessman)",
   "wikiZh": null
  },

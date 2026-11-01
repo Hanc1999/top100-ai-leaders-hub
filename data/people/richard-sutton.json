@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-10-30",
+   "ts": "2026-10-30T23:42:00Z",
+   "kind": "x",
+   "title": {
+    "en": "One reason I am sanguine about the technological singularity is that I have seen it coming for over 50 years. In 1975, when I was 17, I wrote: \"Before man can m",
+    "zh": "One reason I am sanguine about the technological singularity is that I have seen it coming for over 50 years. In 1975, when I was 17, I wrote: \"Before man can m"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/2116314708101988817",
+   "note": {
+    "en": "Sutton says he has anticipated the technological singularity for 50 years, quoting his own 1975 writing on machine problem-solving.",
+    "zh": "萨顿表示他对技术奇点已有50年的预见，并引用自己1975年关于机器问题求解的文字为证。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-03",
    "ts": "2026-10-03T19:48:35Z",
    "kind": "x",
@@ -1266,25 +1285,6 @@
    "connector": null
   },
   {
-   "date": "2024-09-14",
-   "ts": "2024-09-14T22:31:43Z",
-   "kind": "x",
-   "title": {
-    "en": "The PhD thesis of my 13th PhD student, Kris De Asis (@M33pinator), is now available. Title: Explorations in the Foundations of Value-based Reinforcement Learnin",
-    "zh": "The PhD thesis of my 13th PhD student, Kris De Asis (@M33pinator), is now available. Title: Explorations in the Foundations of Value-based Reinforcement Learnin"
-   },
-   "source": "@richardssutton",
-   "url": "https://x.com/RichardSSutton/status/1835084039688274196",
-   "note": {
-    "en": "Announces the publication of his 13th PhD student Kris De Asis's thesis on the foundations of value-based reinforcement learning.",
-    "zh": "他宣布第13位博士生Kris De Asis关于基于价值的强化学习基础理论的论文已发布。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2024-09-05",
    "ts": null,
    "kind": "paper",
@@ -1811,10 +1811,10 @@
  },
  "cat": "research",
  "score": {
-  "total": 37.9,
+  "total": 38.1,
   "attention": 58,
   "centrality": 4,
-  "momentum": 25,
+  "momentum": 26,
   "stature": 69,
   "pageviews": 148658,
   "citations": 68231,

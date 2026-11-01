@@ -1521,6 +1521,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-01",
+   "ts": "2026-10-01T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "何恺明团队新作：看猫片就能学会ARC挑战",
+    "zh": "何恺明团队新作：看猫片就能学会ARC挑战"
+   },
+   "body": {
+    "en": "He's team released NAT-ARC, showing a vision model pretrained only on natural images like ImageNet can transfer to solving abstract ARC-AGI grid puzzles, nearing specialized LLM-based solvers.",
+    "zh": "何恺明团队发布NAT-ARC，证明仅在ImageNet等自然图像上预训练的视觉模型也能迁移到抽象的ARC-AGI方格推理任务，性能接近专用的大模型方案。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yR3NQMkcyVTJJbndKMUFYbC1meHBEOE1WQXJMOXYwQzhLa2hady05ZWQxWmR4S1VPQm4tWWM4Tks3Y2R6U1NRb0k5NFMzYlgtUWpYUGQ5TTlwVmxxOFRnS0hGZGktOUZWOE5kWFdwemJhQVF1?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-14",
    "ts": "2026-09-14T01:50:58Z",
    "level": "notable",
@@ -1927,7 +1944,7 @@
   "pageviews": 46828,
   "citations": 555963,
   "hIndex": 83,
-  "events": 69,
+  "events": 70,
   "posts": 30,
   "wikiEn": "Kaiming He",
   "wikiZh": "何恺明"

@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-11-01",
+   "ts": "2026-11-01T05:45:07Z",
+   "kind": "x",
+   "title": {
+    "en": "I'd like to advertise this paper in advance of CoRL 2026 where you have the opportunity to check it out. Yet another example of the power of human videos as a d",
+    "zh": "I'd like to advertise this paper in advance of CoRL 2026 where you have the opportunity to check it out. Yet another example of the power of human videos as a d"
+   },
+   "source": "@jitendramalikcv",
+   "url": "https://x.com/JitendraMalikCV/status/2116768478862757945",
+   "note": {
+    "en": "Malik previewed a CoRL 2026 paper arguing that human videos are a powerful data source for robot learning.",
+    "zh": "马利克预告了一篇CoRL 2026论文，论证人类视频是机器人学习的有力数据来源。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-29",
    "ts": "2026-10-29T16:09:42Z",
    "kind": "x",
@@ -1810,25 +1829,6 @@
    "note": {
     "en": "Malik called out new results letting robots '3D-ify' hands and objects from a single image, calling it a path toward training manipulation policies.",
     "zh": "Malik称赞一项能从单张图像'3D化'手与物体的新成果,认为这为训练操作策略提供了路径。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
-   "date": "2024-03-06",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Another success of sim-to-real for training robot policies! This task, using two multi-fingered hands, requires considerable dexterity, and is hopefully represe",
-    "zh": "Another success of sim-to-real for training robot policies! This task, using two multi-fingered hands, requires considerable dexterity, and is hopefully represe"
-   },
-   "source": "@JitendraMalikCV",
-   "url": "https://x.com/JitendraMalikCV/status/1765184895725498427",
-   "note": {
-    "en": "Malik shared a sim-to-real success using two multi-fingered robot hands on a dexterous task, calling it representative of household manipulation challenges.",
-    "zh": "Malik分享了一项使用双多指机械手完成灵巧任务的仿真到真实(sim-to-real)成果,认为其代表了家庭场景中的操作挑战。"
    },
    "auto": true,
    "judged": true,

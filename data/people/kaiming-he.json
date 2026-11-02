@@ -52,6 +52,12 @@
    "t": 2
   },
   {
+   "kind": "blog",
+   "label": "MIT News – CSAIL",
+   "url": "https://news.mit.edu/topic/mitcomputers-rss.xml",
+   "t": 2
+  },
+  {
    "kind": "x",
    "label": "X — search",
    "url": "https://x.com/search?q=%22Kaiming+He%22&f=live",
@@ -1079,6 +1085,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-08",
+   "ts": "2026-10-08T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "何恺明团队发布多模态Harness框架-yeeyi",
+    "zh": "何恺明团队发布多模态Harness框架-yeeyi"
+   },
+   "body": {
+    "en": "He's team released VISTA, a visual-native \"harness\" that lets multimodal models retain and revisit raw visual context instead of abstracting it to text, lifting Claude Opus 5.0 to a perfect score on ARC-AGI-3.",
+    "zh": "何恺明团队发布了VISTA，一种视觉原生的多模态\"harness\"，让模型保留并可随时回看原始视觉信息而非将其抽象为文字，使Claude Opus 5.0在ARC-AGI-3基准上取得满分。"
+   },
+   "source": "yeeyi",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rTXZvVm9xT2NORndZaWJkTGlpTENEZU16Mk1CbWRDYzQ4c2wwNVRwRDRXZDFPbzdSSTYyYnBaNHpMS1RuR2FNQ1JPMXUzLWZCZ0N1Ul9n?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-07",
    "ts": "2026-10-07T22:50:00Z",
    "level": "notable",
@@ -1944,7 +1967,7 @@
   "pageviews": 46828,
   "citations": 555963,
   "hIndex": 83,
-  "events": 70,
+  "events": 71,
   "posts": 30,
   "wikiEn": "Kaiming He",
   "wikiZh": "何恺明"

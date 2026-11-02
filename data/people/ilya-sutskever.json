@@ -1,5 +1,5 @@
 {
- "rank": 15,
+ "rank": 14,
  "id": "ilya-sutskever",
  "name": {
   "en": "Ilya Sutskever",
@@ -1147,6 +1147,23 @@
    "judged": true
   },
   {
+   "date": "2026-07-28",
+   "ts": "2026-07-28T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Nvidia to invest $5 billion in Ilya Sutskever’s AI startup",
+    "zh": "Nvidia to invest $5 billion in Ilya Sutskever’s AI startup"
+   },
+   "body": {
+    "en": "Nvidia committed $5 billion to Sutskever's Safe Superintelligence, a major funding milestone for the no-product AGI lab.",
+    "zh": "英伟达向Sutskever的Safe Superintelligence投资50亿美元，是这家不做产品的AGI实验室的一次重大融资里程碑。"
+   },
+   "source": "Communications Today",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcmZUeE94X1RTX2FWcGdPZFpaWDFIaGo0WkJlS2o4X0dXeExtdVQtcV9GUGZDaENSVnA0THc0Smk5MWRrMXJpS2NXbXhTUmtrTnUtUlpzUUtlNDZYOVgxcDQ3VXhWVl9EZmNSXy1Wb2ZMX2RkM1dOUDFBTU5yQVI0dVhmcXF3M2NORGN4U1U4Y2pwcWRfTkh0WEc4bw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-07-27",
    "ts": null,
    "level": "major",
@@ -1494,15 +1511,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 77.6,
+  "total": 77.8,
   "attention": 81,
   "centrality": 79,
-  "momentum": 64,
+  "momentum": 65,
   "stature": 92,
   "pageviews": 783963,
   "citations": 219164,
   "hIndex": 62,
-  "events": 31,
+  "events": 32,
   "posts": 44,
   "wikiEn": "Ilya Sutskever",
   "wikiZh": "伊爾亞·蘇茨克維"

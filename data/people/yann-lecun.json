@@ -1159,6 +1159,23 @@
    "url": "https://finance.yahoo.com/news/yann-lecun-calls-alexandr-wang-182614902.html"
   },
   {
+   "date": "2026-11-01",
+   "ts": "2026-11-01T16:16:01Z",
+   "level": "notable",
+   "title": {
+    "en": "Yann LeCun's tiny 109M model aligns with vision better than 72B LLMs",
+    "zh": "Yann LeCun's tiny 109M model aligns with vision better than 72B LLMs"
+   },
+   "body": {
+    "en": "A new paper co-authored by LeCun (arXiv:2610.39302) shows a 109M-parameter JEPA text model aligning with vision encoders better than LLMs up to 72B parameters, lending empirical support to his case against next-token prediction as the path to grounded perception.",
+    "zh": "杨立昆参与撰写的新论文（arXiv:2610.39302）显示，一个1.09亿参数的JEPA文本模型在与视觉编码器的对齐上优于高达720亿参数的大语言模型，为他反对以下一词预测作为通向具身感知之路的立场提供了实证支持。"
+   },
+   "source": "Startup Fortune",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ3NyZmViMGNWelhWMWlwZElXZnN5YWRLRjhUOTF0VE5OcnJKUEMwRkdUd19iY3B0aXJONGZXZWxpSFFTTDlGdGJDRWRxNEsyanlRZW1DR3RFNFdoc2xMZkk5Q2xXaWpSQThLLUpnN1daNTZVcGVfemo5VDQ2ZnRXci16dWx5ckRwb0NydzRZNi03V055Q3pCbkkxSQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-29",
    "ts": "2026-10-29T11:37:33Z",
    "level": "notable",
@@ -3335,6 +3352,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-01",
+   "ts": "2026-10-01T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "图灵奖双雄彻底决裂！杨立昆怒撕大模型是“高级搜索引擎”，辛顿苏茨克维绝地反杀",
+    "zh": "图灵奖双雄彻底决裂！杨立昆怒撕大模型是“高级搜索引擎”，辛顿苏茨克维绝地反杀"
+   },
+   "body": {
+    "en": "LeCun publicly reiterated that today's LLMs are little more than advanced search engines, drawing a direct rebuttal from Hinton and Sutskever in an escalating rift among deep learning's founding figures over whether autoregressive models can reach AGI.",
+    "zh": "杨立昆公开重申当前大模型本质上只是高级搜索引擎，辛顿与苏茨克维随即正面反驳，深度学习奠基人之间围绕自回归模型能否通向AGI的分歧进一步升级。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSmdjUk9MbXFvWmtlWHQxNTltUXA2NkQzVE9CUFRHZFB4WWFlUDVJWGkzWGx1Wml3Y0Vhb2ZfSVNUVEk5d25jNGxrRzBXckJPSkt1OWVyUmdPNXlOeWdvcVZ1OHVUeWVYM0hmV2NxX2dBODF1emVyWVI1aHNmZnVwdF9yZURjZmhPMWJqRVhiMjl4bUxaLVVQZzFnT3JYWnR5NG1ZSzhwNW10b0xxcnNUTGJCakgxQkdOQVoxckNSR1VhSE4xVi1fcEUza3Y2dmRYZFNEZWhVT0tKZXk1TWc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-29",
    "ts": "2026-09-29T07:00:00Z",
    "level": "minor",
@@ -4931,7 +4965,7 @@
   "pageviews": 531264,
   "citations": 253869,
   "hIndex": 120,
-  "events": 223,
+  "events": 225,
   "posts": 52,
   "wikiEn": "Yann LeCun",
   "wikiZh": "杨立昆"

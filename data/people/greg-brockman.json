@@ -266,6 +266,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2026-09-08",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Math Wars, GG Navier Stokes, Greg Brockman Joins | Dan Wright, Eric Seufert, Scott Wu, Sahir Jaggi, Andrew Borovsky, Harry Mellsop",
+    "zh": "Math Wars, GG Navier Stokes, Greg Brockman Joins | Dan Wright, Eric Seufert, Scott Wu, Sahir Jaggi, Andrew Borovsky, Harry Mellsop"
+   },
+   "source": "TBPN",
+   "url": "https://podcasts.apple.com/us/podcast/math-wars-gg-navier-stokes-greg-brockman-joins-dan/id1772360235?i=1000788540493&uo=4",
+   "note": {
+    "en": "Brockman joined the TBPN tech podcast as a guest alongside several other founders and operators for a wide-ranging conversation.",
+    "zh": "布罗克曼作为嘉宾登上科技播客TBPN节目，与其他几位创始人和行业人士展开了广泛对谈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-09-07",
    "ts": null,
    "kind": "x",
@@ -1809,7 +1828,7 @@
   "citations": 5238,
   "hIndex": 11,
   "events": 34,
-  "posts": 58,
+  "posts": 59,
   "wikiEn": "Greg Brockman",
   "wikiZh": "格雷格·布羅克曼"
  },

@@ -221,6 +221,120 @@
    "connector": "podcasts"
   },
   {
+   "date": "2026-10-31",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Building makemore Part 5: Building a WaveNet",
+    "zh": "Building makemore Part 5: Building a WaveNet"
+   },
+   "source": "Andrej Karpathy",
+   "url": "https://podcasts.apple.com/us/podcast/building-makemore-part-5-building-a-wavenet/id6826123776?i=1000797760734&uo=4",
+   "note": {
+    "en": "In his own 'makemore' lecture series, Karpathy builds a character-level WaveNet model from scratch, extending his widely used deep-learning teaching material.",
+    "zh": "在他本人讲授的'makemore'系列课程中，Karpathy从零构建了一个字符级WaveNet模型，延续了其广泛使用的深度学习教学内容。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-10-31",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The spelled-out intro to language modeling: building makemore",
+    "zh": "The spelled-out intro to language modeling: building makemore"
+   },
+   "source": "Andrej Karpathy",
+   "url": "https://podcasts.apple.com/us/podcast/the-spelled-out-intro-to-language-modeling-building/id6826123776?i=1000797746651&uo=4",
+   "note": {
+    "en": "Karpathy's introductory lecture builds a bigram character-level language model from scratch, the starting point of his 'makemore' teaching series.",
+    "zh": "Karpathy的入门课程从零构建了一个双字符语言模型，是其'makemore'教学系列的起点。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-10-31",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Building makemore Part 3: Activations and Gradients, BatchNorm",
+    "zh": "Building makemore Part 3: Activations and Gradients, BatchNorm"
+   },
+   "source": "Andrej Karpathy",
+   "url": "https://podcasts.apple.com/us/podcast/building-makemore-part-3-activations-and-gradients/id6826123776?i=1000797813192&uo=4",
+   "note": {
+    "en": "Karpathy dives into activations, gradients and batch normalization while building a multilayer perceptron from scratch.",
+    "zh": "Karpathy深入讲解激活值、梯度和批归一化，并从零构建一个多层感知机。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-10-31",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Building makemore Part 4: Becoming a Backprop Ninja",
+    "zh": "Building makemore Part 4: Becoming a Backprop Ninja"
+   },
+   "source": "Andrej Karpathy",
+   "url": "https://podcasts.apple.com/us/podcast/building-makemore-part-4-becoming-a-backprop-ninja/id6826123776?i=1000797790030&uo=4",
+   "note": {
+    "en": "Karpathy manually derives backpropagation through a multilayer network, teaching the mechanics behind autograd.",
+    "zh": "Karpathy手动推导多层网络的反向传播过程，讲解自动求导背后的原理。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-10-31",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Building makemore Part 2: MLP",
+    "zh": "Building makemore Part 2: MLP"
+   },
+   "source": "Andrej Karpathy",
+   "url": "https://podcasts.apple.com/us/podcast/building-makemore-part-2-mlp/id6826123776?i=1000797775608&uo=4",
+   "note": {
+    "en": "Karpathy extends his 'makemore' series by building a multilayer perceptron character-level language model.",
+    "zh": "Karpathy在'makemore'系列课程中构建了一个多层感知机字符级语言模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-10-31",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Let's build GPT: from scratch, in code, spelled out.",
+    "zh": "Let's build GPT: from scratch, in code, spelled out."
+   },
+   "source": "Andrej Karpathy",
+   "url": "https://podcasts.apple.com/us/podcast/lets-build-gpt-from-scratch-in-code-spelled-out/id6826123776?i=1000797740356&uo=4",
+   "note": {
+    "en": "Karpathy builds a GPT-style transformer from scratch in code, one of his most-watched deep-learning lectures.",
+    "zh": "Karpathy从零用代码构建了一个GPT风格的Transformer模型，是他观看量最高的深度学习课程之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-04-30",
    "ts": null,
    "kind": "blog",
@@ -992,6 +1106,23 @@
    "url": "https://www.startuphub.ai/ai-news/ai-figures/2026/figure-andrej-karpathy-nano-series-technical-contribution-2026-07-16"
   },
   {
+   "date": "2026-11-01",
+   "ts": "2026-11-01T20:03:28Z",
+   "level": "minor",
+   "title": {
+    "en": "Andrej Karpathy launches HackerTube, a Claude-curated YouTube alternative built from Hacker News comments",
+    "zh": "Andrej Karpathy launches HackerTube, a Claude-curated YouTube alternative built from Hacker News comments"
+   },
+   "body": {
+    "en": "Karpathy launched HackerTube, a side project that uses Claude to curate a YouTube alternative built from Hacker News comments.",
+    "zh": "卡帕西推出了个人项目「HackerTube」，用Claude从Hacker News评论中筛选内容，打造一个YouTube替代品。"
+   },
+   "source": "Crypto Briefing",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yMkVqeWRGT2k1NVdZd1I4LTV4VTEzVmV6QzlSQnh6R3JOT0M4LVpLVVoxTWowVmkxczl6VEExbGVrRUd0UXR4T2t4VHBWd2lGdGVYOXFaendIR05saFlUVkJ0ZndWWmF0Tm9xNnN3Z0s?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-29",
    "ts": "2026-10-29T16:18:33Z",
    "level": "minor",
@@ -1441,16 +1572,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 64.5,
+  "total": 64.9,
   "attention": 79,
   "centrality": 47,
-  "momentum": 58,
+  "momentum": 60,
   "stature": 63,
   "pageviews": 695645,
   "citations": 58963,
   "hIndex": 20,
-  "events": 28,
-  "posts": 42,
+  "events": 29,
+  "posts": 48,
   "wikiEn": "Andrej Karpathy",
   "wikiZh": "安德烈·卡帕西"
  },

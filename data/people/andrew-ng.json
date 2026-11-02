@@ -46,14 +46,14 @@
   },
   {
    "kind": "blog",
-   "label": "The Batch — Letters from Andrew Ng",
-   "url": "https://www.deeplearning.ai/the-batch/tag/letters/",
+   "label": "Personal site",
+   "url": "https://www.andrewng.org/writing/",
    "t": 1
   },
   {
    "kind": "blog",
    "label": "Personal site",
-   "url": "https://www.andrewng.org/writing/",
+   "url": "https://www.deeplearning.ai/the-batch/tag/letters/",
    "t": 1
   },
   {
@@ -211,6 +211,25 @@
     "en": "Argues recent tech-sector layoffs stem from pandemic-era overhiring, not automation.",
     "zh": "主张近期科技业裁员源于疫情期间的过度招聘，而非自动化。"
    }
+  },
+  {
+   "date": "2026-10-10",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Andrew Ng: Opportunities in AI - 2023",
+    "zh": "Andrew Ng: Opportunities in AI - 2023"
+   },
+   "source": "Stanford Online: University Courses &…",
+   "url": "https://podcasts.apple.com/us/podcast/andrew-ng-opportunities-in-ai-2023/id6823110045?i=1000799142920&uo=4",
+   "note": {
+    "en": "A 2023 Stanford talk by Andrew Ng on trends and opportunities in AI, surfaced via Stanford Online's podcast feed.",
+    "zh": "吴恩达在斯坦福大学发表的一次演讲（2023年），谈人工智能领域的趋势与机遇，由斯坦福在线播客节目收录。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   },
   {
    "date": "2026-09-29",
@@ -2267,6 +2286,23 @@
  ],
  "news": [
   {
+   "date": "2026-11-01",
+   "ts": "2026-11-01T21:04:06Z",
+   "level": "notable",
+   "title": {
+    "en": "吴恩达：AI风险被夸大",
+    "zh": "吴恩达：AI风险被夸大"
+   },
+   "body": {
+    "en": "In a Nikkei Chinese interview, Andrew Ng argued that AI risk is being overstated, repeating his long-standing pushback against the AI-doom narrative.",
+    "zh": "吴恩达在日经中文网的采访中表示AI风险被夸大，延续了他一贯反对“AI末日论”的立场。"
+   },
+   "source": "日经中文网",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOamo2bEV6X3ZuZnlfMWJFdXdoM3pZUmpabWJiNXo0WTBEYk9tYlNWTHFaU29HTGRlOEZFa3FtcVA1NFV4dVZ6bUd5ZmxYM0NYNnVKVlJnb1RoSWlEUEg1T1djb1hjTXo1YmlnbUJGdlVvZHN0Q3V4REFmNktvckFSM1hpUXA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-25",
    "ts": "2026-10-25T17:41:48Z",
    "level": "notable",
@@ -4254,8 +4290,8 @@
   "pageviews": 337525,
   "citations": 131102,
   "hIndex": 124,
-  "events": 116,
-  "posts": 110,
+  "events": 117,
+  "posts": 111,
   "wikiEn": "Andrew Ng",
   "wikiZh": "吴恩达"
  },

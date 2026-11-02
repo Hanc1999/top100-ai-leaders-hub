@@ -187,6 +187,25 @@
    }
   },
   {
+   "date": "2026-11-01",
+   "ts": "2026-11-01T08:20:12Z",
+   "kind": "blog",
+   "title": {
+    "en": "地平线+清华联合申报的项目《多源数据混合驱动的端到端自动驾驶关键技术及应用》 正式获得中国汽车工程学会最高奖—— 技术发明特等奖！！！这也是2026年度整个...",
+    "zh": "地平线+清华联合申报的项目《多源数据混合驱动的端到端自动驾驶关键技术及应用》 正式获得中国汽车工程学会最高奖—— 技术发明特等奖！！！这也是2026年度整个..."
+   },
+   "source": "余凯_地平线民工的微博",
+   "url": "https://weibo.com/1862459915/RpnkwktUO",
+   "note": {
+    "en": "Kai Yu announced on Weibo that a joint Horizon Robotics–Tsinghua project won China's Automotive Engineering Society's top award, one of only two special-grade technology invention prizes given industry-wide in 2026.",
+    "zh": "余凯在微博宣布，地平线与清华联合申报的项目荣获中国汽车工程学会最高奖——技术发明特等奖，是2026年度全行业仅有的两项特等奖之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "weibo",
+   "connector": "weibo"
+  },
+  {
    "date": "2026-10-30",
    "ts": "2026-10-30T12:45:53Z",
    "kind": "blog",
@@ -983,6 +1002,23 @@
    },
    "source": "finance.sina.com.cn",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jaEN6T2ItSG1zSFVWcmhXYmhrZVg5NGNnSEdSemRCbzFqWXlrcUZaMWpLbjFKNE8zY0h2V29EVVhNaHFoLVp4SXdhTE9CRXRLUHc4MW01UkcwbGw1U0ZmVEhGdWF1bldWZDBJMjIxTQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-23",
+   "ts": "2026-10-23T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "余凯：地平线不造车，也不是Tier 1",
+    "zh": "余凯：地平线不造车，也不是Tier 1"
+   },
+   "body": {
+    "en": "Kai Yu said Horizon Robotics does not build cars and is not a Tier 1 supplier — about 95% of its vehicle projects ship through partners, making it effectively a Tier 2 chip and software provider.",
+    "zh": "余凯表示地平线不造车，也不是Tier 1供应商——公司95%的车型项目都通过合作伙伴交付，实际上是专注计算芯片与软件的Tier 2企业。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05REhPV3RpRXlBb0NVcEtwc2V3NGdVbG5pYjhTSTNEbURKQUtFUW5DNjIzY0o0V21veWxwTUI0b2NKd2t6ejQ5bjNDaFlPMVljMzBuck9n?oc=5",
    "auto": true,
    "judged": true
   },
@@ -3926,8 +3962,8 @@
   "pageviews": 700,
   "citations": 21491,
   "hIndex": 66,
-  "events": 188,
-  "posts": 29,
+  "events": 189,
+  "posts": 30,
   "wikiEn": null,
   "wikiZh": "余凯"
  },

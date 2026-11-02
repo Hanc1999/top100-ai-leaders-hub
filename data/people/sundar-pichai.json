@@ -1251,6 +1251,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2025-11-18",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Google CEO: AI Will Cause Societal Disruptions",
+    "zh": "Google CEO: AI Will Cause Societal Disruptions"
+   },
+   "source": "Big Boss Interview",
+   "url": "https://podcasts.apple.com/us/podcast/google-ceo-ai-will-cause-societal-disruptions/id654973306?i=1000737196123&uo=4",
+   "note": {
+    "en": "In a BBC Big Boss Interview appearance, Pichai said AI will bring societal disruption even as it offers extraordinary benefits, and that a CEO's job could itself one day be done by AI.",
+    "zh": "在BBC《Big Boss Interview》节目的访谈中，Pichai表示AI在带来巨大效益的同时也会造成社会层面的冲击，甚至CEO这份工作未来也可能由AI完成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2025-06-05",
    "ts": null,
    "kind": "podcast",
@@ -1488,6 +1507,23 @@
    },
    "source": "Axios",
    "url": "https://www.axios.com/2026/08/06/googles-ai-leadership-shuffle"
+  },
+  {
+   "date": "2026-11-01",
+   "ts": "2026-11-01T02:37:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Two US senators write letter to Google CEO Sundar Pichai asking 9 questions as company pushes for AI in c",
+    "zh": "Two US senators write letter to Google CEO Sundar Pichai asking 9 questions as company pushes for AI in c"
+   },
+   "body": {
+    "en": "Two US senators sent Alphabet CEO Sundar Pichai a formal letter with nine questions about Google's AI practices, signaling growing congressional scrutiny.",
+    "zh": "两名美国参议员致信Alphabet首席执行官桑达尔·皮查伊，就谷歌的人工智能业务提出九个问题，显示国会对其AI举措的审查正在加强。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNSFBocFRFZU14aHVLRFVRSExaamRYcFJ5SE1NMHp5b0VxbjJHeVY4MUlYWXVDWVFOSnRIcnBDX1IxRjlNdml0eDVnR1lvZ3BJdGhlQlhvR3NnSHlWbEFuSlMzX29KdEZOWC1rcUpjekJBWTFyVWdzM2VXRjVDWVF0UHJnQkdnWUc0Wk5JYkRxLXVZR2VtX0NzNlVKdV9uc2xYNmN4b3pjZ0FCSFA5RjQwdTdPMURPWkh3V2owbURZb2lDMVBhWE8tb0lTSHd2LV9EUW1BT1lxY2VVVXFoUHNDRmpZZ1hXS0tRRFBnZGVSa1JZcjVtaUs5SDkxZ1RDNmR6UVc2RXVtcjFCVENLTjFweGtubUM5QS1XZ0h4S3NEcHV3NVXSAagCQVVfeXFMUF91WHFqcTUtUFN5MFJZWGVrSWVYR3JzblRwMUh3Y0Zycnhkei1hcVhzbzl6RVBVQ29rVExQbHl6WjJmSm1TX3pVbGRLVUgwLVlkWWFfcUdKMzBUT2pOcVlyTnN0QVB6NzA3aTg4Zm5zclRlSENBVE9RS2VVSHVlSEc1Zjg1QW50UjdTaXpNTlZVYlMyM3oyYUV0aG9mZHNSYUNFLVBnNWxjOU9VOHUtb0pqZjhVdUhNcUpLNnFzaDltakh5eVhueTJlZ3pvWmkzX05QOXl1Wk52TGthR1I4ckF1eEJBTG5PZEJfaWViQ1ZNdHpDdUpfVmN3cFdnWVhRT3cybFpYY3M4S1NEMzNQYmxobkN4aGxGQnB2N2VxVG5aZFM5Y1EtSmg?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-31",
@@ -3324,8 +3360,8 @@
   "pageviews": 1299595,
   "citations": 1,
   "hIndex": 1,
-  "events": 109,
-  "posts": 72,
+  "events": 110,
+  "posts": 73,
   "wikiEn": "Sundar Pichai",
   "wikiZh": "孙达尔·皮柴"
  },

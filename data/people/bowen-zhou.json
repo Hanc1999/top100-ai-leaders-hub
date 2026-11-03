@@ -1,5 +1,5 @@
 {
- "rank": 78,
+ "rank": 80,
  "id": "bowen-zhou",
  "name": {
   "en": "Bowen Zhou",
@@ -223,6 +223,25 @@
    "note": {
     "en": "Co-authored with Shanghai AI Lab colleagues Dahua Lin and Conghui He, this paper shows how retrieved reaction precedents extend retrosynthesis prediction beyond the coverage of a model's training data.",
     "zh": "周伯文与上海AI实验室同事林达华、何聪辉合著的这篇论文表明，检索到的反应先例可以让逆合成预测的能力超越训练数据的覆盖范围。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-10-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Safin-1.5: Safety-Native Architecture and Verifiable Reasoning for Recursive Safety Improvement",
+    "zh": "Safin-1.5: Safety-Native Architecture and Verifiable Reasoning for Recursive Safety Improvement"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.40751v1",
+   "note": {
+    "en": "Zhou co-authored Safin-1.5, a safety-native architecture for verifiable reasoning meant to stop recursive self-improvement from eroding a model's existing safeguards.",
+    "zh": "周伯文合著了Safin-1.5，一种面向可验证推理的安全原生架构，旨在防止大语言模型的递归自我改进削弱其现有的安全保障。"
    },
    "auto": true,
    "judged": true,
@@ -1512,16 +1531,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 29.3,
+  "total": 29.1,
   "attention": 6,
   "centrality": 43,
-  "momentum": 61,
+  "momentum": 60,
   "stature": 24,
   "pageviews": 928,
   "citations": 16676,
   "hIndex": 51,
   "events": 27,
-  "posts": 45,
+  "posts": 46,
   "wikiEn": "Bowen Zhou",
   "wikiZh": null
  },

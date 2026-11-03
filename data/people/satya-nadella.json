@@ -769,6 +769,25 @@
    "connector": "backfill"
   },
   {
+   "date": "2026-07-25",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Possible: Satya Nadella on making human and token capital compound",
+    "zh": "Possible: Satya Nadella on making human and token capital compound"
+   },
+   "source": "Masters of Scale",
+   "url": "https://podcasts.apple.com/us/podcast/possible-satya-nadella-on-making-human-and-token/id1227971746?i=1000778305877&uo=4",
+   "note": {
+    "en": "Nadella spoke with Reid Hoffman on Masters of Scale about compounding human and token (compute) capital, fresh off Microsoft Build 2026.",
+    "zh": "在Microsoft Build 2026之后，纳德拉与里德·霍夫曼在Masters of Scale播客中探讨了人力资本与算力资本的复合增长。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-07-24",
    "ts": null,
    "kind": "x",
@@ -1263,6 +1282,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2025-05-16",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Satya Nadella: Leading through the AI Revolution",
+    "zh": "Satya Nadella: Leading through the AI Revolution"
+   },
+   "source": "Tools and Weapons with Brad Smith",
+   "url": "https://podcasts.apple.com/us/podcast/satya-nadella-leading-through-the-ai-revolution/id1632459165?i=1000708711679&uo=4",
+   "note": {
+    "en": "Nadella sat down with Brad Smith on Tools and Weapons to discuss leading Microsoft through the AI revolution.",
+    "zh": "纳德拉在Tools and Weapons播客中与布拉德·史密斯对谈，探讨了如何带领微软度过AI革命。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2025-04-04",
    "ts": null,
    "kind": "blog",
@@ -1670,6 +1708,23 @@
    },
    "source": "Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWHV0Z0tQZ3NsRVZEcjA2d1JyWXd4WFh2QURnb3Z3QjNsbnlqRDF6X1hzY3hJOGw1c3o0X0JHRm11N2RSM3dZdU8tSEpld0ZrUUlDY3AzcjFXRmJkZUZMa3JNSWZKVXNfS0hScktHRm82U3V0RHJvNXgwdGlzSXlhcEs3ZlVlV3pSQzlhNElxcXJFWFVUdjEwbw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-29",
+   "ts": "2026-10-29T17:53:07Z",
+   "level": "major",
+   "title": {
+    "en": "Microsoft adds 24 data centers worldwide, says CEO Satya Nadella",
+    "zh": "Microsoft adds 24 data centers worldwide, says CEO Satya Nadella"
+   },
+   "body": {
+    "en": "Nadella said Microsoft is adding 24 data centers worldwide, a major expansion of its AI compute buildout.",
+    "zh": "纳德拉表示微软正在全球新增24座数据中心，是其AI算力建设的一次重大扩张。"
+   },
+   "source": "NewsBytes",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ29fRllQME1SNEgxZDd2NmNoOWYxclllbF9KSGwxQVZaZnE2UmpmeGVzdjhrNUJrU0RzR2wtMVA4OENVeUg3VVd3c2tDYXdGQjZJbmhma0RiSFgxZ2htWFJxUHdWNS1jcEZWaFZJTy0zRnhyNC1xMnk5QXpybWs5LWcyWF90bUxiaUJSekpZVUpreHQ0V2NJMVZ4REJqcHpjdTI1Y2ZRZ1BoR05UQjNv?oc=5",
    "auto": true,
    "judged": true
   },
@@ -4358,8 +4413,8 @@
   "pageviews": 828227,
   "citations": 231,
   "hIndex": 3,
-  "events": 168,
-  "posts": 73,
+  "events": 169,
+  "posts": 75,
   "wikiEn": "Satya Nadella",
   "wikiZh": "薩蒂亞·納德拉"
  },

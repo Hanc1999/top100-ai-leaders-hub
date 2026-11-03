@@ -1285,25 +1285,6 @@
   {
    "date": "2026-04-07",
    "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "RAGEN-2: Reasoning Collapse in Agentic RL",
-    "zh": "RAGEN-2: Reasoning Collapse in Agentic RL"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2604.06268v1",
-   "note": {
-    "en": "Follow-up to the RAGEN line she co-authored, analysing why reasoning collapses during multi-turn agentic RL training.",
-    "zh": "她此前参与的 RAGEN 工作的续作，分析多轮智能体强化学习训练中推理能力崩溃的原因。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-04-07",
-   "ts": null,
    "kind": "x",
    "title": {
     "en": "Making improvements one step at a time for Marble. In the case of generating bigger worlds, it's quite literal ;) 🤩🌐",
@@ -8917,7 +8898,7 @@
   "citations": 222997,
   "hIndex": 137,
   "events": 388,
-  "posts": 112,
+  "posts": 111,
   "wikiEn": "Fei-Fei Li",
   "wikiZh": "李飛飛"
  },

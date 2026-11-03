@@ -133,6 +133,25 @@
    }
   },
   {
+   "date": "2026-10-15",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The Changing Physics of Cybersecurity and Drug Development with OpenAI President Greg Brockman",
+    "zh": "The Changing Physics of Cybersecurity and Drug Development with OpenAI President Greg Brockman"
+   },
+   "source": "No Priors: Artificial Intelligence | T…",
+   "url": "https://podcasts.apple.com/us/podcast/the-changing-physics-of-cybersecurity-and/id1668002688?i=1000796472163&uo=4",
+   "note": {
+    "en": "Brockman joined the No Priors podcast to discuss how frontier models like GPT-6 are reshaping cybersecurity and drug development.",
+    "zh": "布罗克曼在No Priors播客中探讨了GPT-6等前沿模型如何重塑网络安全和药物研发领域。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-10-02",
    "ts": null,
    "kind": "podcast",
@@ -1828,7 +1847,7 @@
   "citations": 5238,
   "hIndex": 11,
   "events": 34,
-  "posts": 59,
+  "posts": 60,
   "wikiEn": "Greg Brockman",
   "wikiZh": "格雷格·布羅克曼"
  },

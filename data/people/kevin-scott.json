@@ -1228,6 +1228,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2018-08-30",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Andrew Ng: Influential leader in artificial intelligence",
+    "zh": "Andrew Ng: Influential leader in artificial intelligence"
+   },
+   "source": "Behind The Tech with Kevin Scott",
+   "url": "https://podcasts.apple.com/us/podcast/andrew-ng-influential-leader-in-artificial-intelligence/id1381008946?i=1000418801054&uo=4",
+   "note": {
+    "en": "On his own show Behind the Tech, Kevin Scott interviewed Andrew Ng about AI's influence as a general-purpose technology.",
+    "zh": "在自己的节目Behind the Tech中，Kevin Scott采访了Andrew Ng，探讨AI作为通用技术的影响力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2018-06-20",
    "ts": null,
    "kind": "podcast",
@@ -1317,7 +1336,7 @@
   "citations": 38763,
   "hIndex": 96,
   "events": 1,
-  "posts": 62,
+  "posts": 63,
   "wikiEn": "Kevin Scott (businessman)",
   "wikiZh": null
  },

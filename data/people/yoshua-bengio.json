@@ -169,6 +169,25 @@
    }
   },
   {
+   "date": "2026-11-02",
+   "ts": "2026-11-02T14:00:43Z",
+   "kind": "x",
+   "title": {
+    "en": "I was pleased to give remarks at the start of the Digital Summit in Berlin this afternoon. Frontier AI companies continue to push model capabilities further and",
+    "zh": "I was pleased to give remarks at the start of the Digital Summit in Berlin this afternoon. Frontier AI companies continue to push model capabilities further and"
+   },
+   "source": "@yoshua_bengio",
+   "url": "https://x.com/Yoshua_Bengio/status/2117255589667455421",
+   "note": {
+    "en": "Bengio warned at the Berlin Digital Summit that frontier AI companies keep pushing capabilities forward without a convincing plan to manage the risks.",
+    "zh": "Bengio在柏林数字峰会上警告，前沿AI公司不断推进模型能力，却缺乏令人信服的风险管控方案。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-27",
    "ts": "2026-10-27T13:10:19Z",
    "kind": "x",
@@ -1689,25 +1708,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2026-05-25",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "“Like nuclear energy, AI must be at the service of all and of the common good. Decisions about technology must never be separated from conscience and responsibi",
-    "zh": "“Like nuclear energy, AI must be at the service of all and of the common good. Decisions about technology must never be separated from conscience and responsibi"
-   },
-   "source": "@Yoshua_Bengio",
-   "url": "https://x.com/Yoshua_Bengio/status/2058909007918538961",
-   "note": {
-    "en": "Bengio endorses a call likening AI to nuclear energy, arguing decisions on the technology must stay tied to conscience and responsibility.",
-    "zh": "本吉奥赞同将AI比作核能的观点,认为相关技术决策须始终与良知和责任相联系。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
    "date": "2026-05-19",
    "ts": null,
    "kind": "paper",
@@ -1801,25 +1801,6 @@
    "judged": true,
    "platform": "openalex",
    "connector": "openalex"
-  },
-  {
-   "date": "2026-04-29",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "When 2D Tasks Meet 1D Serialization: On Serialization Friction in Structured Tasks",
-    "zh": "When 2D Tasks Meet 1D Serialization: On Serialization Friction in Structured Tasks"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2604.27272v2",
-   "note": {
-    "en": "Measures the cost that flattening natively two-dimensional problems into 1D text imposes on language models.",
-    "zh": "量化了把本质上二维的问题压平为一维文本时，语言模型所付出的代价。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
   },
   {
    "date": "2026-03-26",
@@ -3404,7 +3385,7 @@
   "citations": 475043,
   "hIndex": 184,
   "events": 70,
-  "posts": 108,
+  "posts": 107,
   "wikiEn": "Yoshua Bengio",
   "wikiZh": "约书亚·本希奥"
  },

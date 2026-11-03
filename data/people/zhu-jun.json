@@ -187,6 +187,25 @@
    }
   },
   {
+   "date": "2026-10-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Hierarchical Residuals: A Minimalist Decoupling of Residual Width from Compute Width",
+    "zh": "Hierarchical Residuals: A Minimalist Decoupling of Residual Width from Compute Width"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.41711v1",
+   "note": {
+    "en": "Zhu Jun's TSAIL lab, with longtime collaborator Jianfei Chen, proposes Hierarchical Residuals, which decouples residual-stream width from compute width in Transformer-style architectures.",
+    "zh": "朱军所在的清华TSAIL实验室与长期合作者陈键飞提出“分层残差”（Hierarchical Residuals）方法，将Transformer类架构中的残差流宽度与计算宽度解耦。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-09",
    "ts": null,
    "kind": "paper",
@@ -1172,16 +1191,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 31.8,
+  "total": 32.0,
   "attention": 19,
   "centrality": 20,
-  "momentum": 56,
+  "momentum": 57,
   "stature": 61,
   "pageviews": 12694,
   "citations": 56229,
   "hIndex": 118,
   "events": 22,
-  "posts": 33,
+  "posts": 34,
   "wikiEn": "Zhu Jun",
   "wikiZh": "朱军"
  },

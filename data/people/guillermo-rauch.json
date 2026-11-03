@@ -1132,6 +1132,44 @@
    "judged": true,
    "platform": "apple-podcasts",
    "connector": "podcasts"
+  },
+  {
+   "date": "2016-06-22",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "217 JSJ The Now Project with Guillermo Rauch",
+    "zh": "217 JSJ The Now Project with Guillermo Rauch"
+   },
+   "source": "JavaScript Jabber",
+   "url": "https://podcasts.apple.com/us/podcast/217-jsj-the-now-project-with-guillermo-rauch/id496893300?i=1000371189800&uo=4",
+   "note": {
+    "en": "Rauch appeared on JavaScript Jabber to discuss Now, ZEIT's early realtime Node.js deployment platform and the precursor to Vercel.",
+    "zh": "Rauch作为嘉宾在JavaScript Jabber播客中介绍了Now——ZEIT早期的实时Node.js部署平台，也是Vercel的前身。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2014-08-20",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "122 JSJ Socket.IO with Guillermo Rauch",
+    "zh": "122 JSJ Socket.IO with Guillermo Rauch"
+   },
+   "source": "JavaScript Jabber",
+   "url": "https://podcasts.apple.com/us/podcast/122-jsj-socket-io-with-guillermo-rauch/id496893300?i=1000317990630&uo=4",
+   "note": {
+    "en": "Rauch was the guest on JavaScript Jabber discussing Socket.IO, the realtime communication library he created.",
+    "zh": "Rauch作为嘉宾在JavaScript Jabber播客中讨论了他创建的实时通信库Socket.IO。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   }
  ],
  "news": [
@@ -1268,7 +1306,7 @@
   "citations": 9,
   "hIndex": 1,
   "events": 7,
-  "posts": 54,
+  "posts": 56,
   "wikiEn": null,
   "wikiZh": null
  },

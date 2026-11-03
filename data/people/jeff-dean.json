@@ -1,5 +1,5 @@
 {
- "rank": 25,
+ "rank": 26,
  "id": "jeff-dean",
  "name": {
   "en": "Jeff Dean",
@@ -1537,6 +1537,23 @@
    "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/"
   },
   {
+   "date": "2026-11-02",
+   "ts": "2026-11-02T20:18:05Z",
+   "level": "notable",
+   "title": {
+    "en": "Google Legend Jeff Dean Bets on AI That Runs Its Own Experiments",
+    "zh": "Google Legend Jeff Dean Bets on AI That Runs Its Own Experiments"
+   },
+   "body": {
+    "en": "Dean's new venture, Discovery Loop, is betting on AI systems that design and run their own scientific experiments, extending his post-Google focus on automating ML research.",
+    "zh": "Dean 的新公司 Discovery Loop 致力于让人工智能系统自主设计并执行科学实验，延续了他离开谷歌后专注于自动化机器学习研究的方向。"
+   },
+   "source": "Seoul Economic Daily",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbXRPb2Jad1ZiRjk4TC11NHNlcXNGeThVUXV2NTlSNTJCc3VEblM5RXEyUllxMEJvSW84MmVoNk84ckpoVUpGY1VtNUk1ZDNVV3NXTlRyN1NSY3RBbGo4U1hlMlhkVFdmdUU1cFBlZzdsQkZFWnZXYUpKQ0I5cVJ1VXRDWTJkMEJ6OGlfSjZzalRuZFdKUnV1aWI1aVhsUVFNanc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-29",
    "ts": "2026-10-29T16:18:33Z",
    "level": "minor",
@@ -2275,15 +2292,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 65.4,
+  "total": 65.2,
   "attention": 61,
   "centrality": 72,
-  "momentum": 74,
+  "momentum": 73,
   "stature": 47,
   "pageviews": 159064,
   "citations": 36789,
   "hIndex": 30,
-  "events": 44,
+  "events": 45,
   "posts": 73,
   "wikiEn": "Jeff Dean",
   "wikiZh": "傑夫·迪恩"

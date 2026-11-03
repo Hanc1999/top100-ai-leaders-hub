@@ -198,6 +198,25 @@
    }
   },
   {
+   "date": "2026-10-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Hierarchical World Models with Implicit Dynamics",
+    "zh": "Hierarchical World Models with Implicit Dynamics"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.42146v1",
+   "note": {
+    "en": "LeCun co-authors a new hierarchical world-model architecture with implicit dynamics for long-horizon planning in embodied agents, work that sits squarely in his push for world-model-based AI beyond autoregressive LLMs.",
+    "zh": "杨立昆参与的新论文提出了一种带隐式动力学的分层世界模型架构，用于提升具身智能体的长时程规划能力，延续了他推动基于世界模型而非自回归大模型的研究方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-29",
    "ts": null,
    "kind": "paper",
@@ -844,25 +863,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2026-03-13",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels",
-    "zh": "LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2603.19312v3",
-   "note": {
-    "en": "An end-to-end JEPA trained straight from pixels, replacing the fragile multi-term losses earlier world models relied on.",
-    "zh": "一种直接从像素端到端训练的 JEPA，取代了早期世界模型所依赖的脆弱多项损失。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2025-12-15",
    "ts": null,
    "kind": "podcast",
@@ -1157,6 +1157,40 @@
    },
    "source": "Yahoo Finance",
    "url": "https://finance.yahoo.com/news/yann-lecun-calls-alexandr-wang-182614902.html"
+  },
+  {
+   "date": "2026-11-02",
+   "ts": "2026-11-02T01:04:21Z",
+   "level": "notable",
+   "title": {
+    "en": "图灵奖得主杨立昆最新演讲：生成式AI 是一条死胡同， 世界模型才是真正的未来",
+    "zh": "图灵奖得主杨立昆最新演讲：生成式AI 是一条死胡同， 世界模型才是真正的未来"
+   },
+   "body": {
+    "en": "In a new speech, LeCun restated that generative AI/LLMs are a dead end and that world models are the real path toward advanced machine intelligence.",
+    "zh": "在最新演讲中，杨立昆重申生成式AI/大语言模型是一条死胡同，世界模型才是通向高级机器智能的真正路径。"
+   },
+   "source": "虎嗅网",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pczBoWGZ2QldkcVM3dzJlZHE4UjhNTHJHRWhJQzRJV3VUQ2ZyNUNiam0xMWFqUTRIcnBWVDhKSlJUNmZnR1B2RmNfWTU5dFJwYkZZSw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-02",
+   "ts": "2026-11-02T20:21:30Z",
+   "level": "notable",
+   "title": {
+    "en": "Yann LeCun: Silicon Valley is 'completely hypnotized by LLMs' while Asia races ahead on world models",
+    "zh": "Yann LeCun: Silicon Valley is 'completely hypnotized by LLMs' while Asia races ahead on world models"
+   },
+   "body": {
+    "en": "LeCun argued Silicon Valley is 'completely hypnotized by LLMs' while Asian labs move faster on world models, restating his core dissent from the autoregressive-LLM path to AGI.",
+    "zh": "杨立昆表示硅谷“完全被LLM催眠”，而亚洲实验室在世界模型上进展更快，重申了他对以自回归LLM路径通往AGI的核心质疑。"
+   },
+   "source": "Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOczdhVktlZzFNdzc5NW5MNUZ0VW1SUEMtOTl6eWNyNFdXSW1uX1VTZE0wWUhOY3JPU3FVd0lncWgzWGtsM2QzSXR3eHJyQ3pjX0ZSc3FVX21iQXFQQnNSRk5QUmNEWHY4V1hmZ3llOW1zaVNPM0JCNDZlV1RRQ0dNbnpnZXlJenV2Z2I2Zm5RWlVaVWNqYjNqTHdFRy1BVTlLOW4xbFIwX2NvYnNfRjF2LWlXa2tiRXVHN01faVM0ckNXYldQeEtoUzU3RQ?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-11-01",
@@ -4678,6 +4712,23 @@
    "judged": true
   },
   {
+   "date": "2026-03-09",
+   "ts": "2026-03-09T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "重磅！杨立昆再携手谢赛宁，英伟达参投，新公司押宝「LLM 之后」领域",
+    "zh": "重磅！杨立昆再携手谢赛宁，英伟达参投，新公司押宝「LLM 之后」领域"
+   },
+   "body": {
+    "en": "LeCun teamed up again with Saining Xie to launch a new company targeting 'post-LLM' approaches, with Nvidia among the investors — the founding move behind his current role at AMI Labs.",
+    "zh": "杨立昆再次与谢赛宁合作，创办一家专注“LLM之后”方向的新公司，英伟达参与投资，这正是他如今担任AMI实验室首席科学家一职的由来。"
+   },
+   "source": "eu.36kr.com",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yS3lvLWpld1h5U0s2SGJNOUhKc1VlSHl0R0VoTFJySUl3ZGktcFZpdjFkenRSUWxGSWIyVXVGc0tIeW1JTU5PTjhwTHF5dWhGREFz?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-03-07",
    "ts": null,
    "level": "major",
@@ -4965,7 +5016,7 @@
   "pageviews": 531264,
   "citations": 253869,
   "hIndex": 120,
-  "events": 225,
+  "events": 228,
   "posts": 52,
   "wikiEn": "Yann LeCun",
   "wikiZh": "杨立昆"

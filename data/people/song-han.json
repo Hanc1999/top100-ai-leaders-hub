@@ -228,6 +228,25 @@
    }
   },
   {
+   "date": "2026-10-31",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Jet-QSparse: Accelerating Agentic LLM Inference with 4-Bit Sparse Attention",
+    "zh": "Jet-QSparse: Accelerating Agentic LLM Inference with 4-Bit Sparse Attention"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.01022v1",
+   "note": {
+    "en": "Co-authored Jet-QSparse, combining 4-bit sparse attention and compact KV-cache storage to accelerate long-horizon agentic LLM inference, extending his efficient-inference research line.",
+    "zh": "与人合著Jet-QSparse，结合4比特稀疏注意力与压缩KV缓存，加速长时程智能体类LLM推理，延续其高效推理方向的研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-28",
    "ts": null,
    "kind": "paper",
@@ -1024,25 +1043,6 @@
    "judged": true,
    "platform": "x",
    "connector": "backfill"
-  },
-  {
-   "date": "2026-05-28",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "SANA-Streaming: Real-time Streaming Video Editing with Hybrid Diffusion Transformer",
-    "zh": "SANA-Streaming: Real-time Streaming Video Editing with Hybrid Diffusion Transformer"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2605.30409v1",
-   "note": {
-    "en": "Real-time streaming video-to-video editing built on a hybrid diffusion transformer.",
-    "zh": "基于混合扩散 Transformer 的实时流式视频编辑方法。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
   },
   {
    "date": "2026-05-23",

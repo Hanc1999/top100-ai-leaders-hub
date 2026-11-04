@@ -864,6 +864,25 @@
    "connector": "x"
   },
   {
+   "date": "2025-06-21",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Sam Altman: The Future of OpenAI, ChatGPT's Origins, and Building AI Hardware",
+    "zh": "Sam Altman: The Future of OpenAI, ChatGPT's Origins, and Building AI Hardware"
+   },
+   "source": "Y Combinator Startup Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/sam-altman-the-future-of-openai-chatgpts/id1236907421?i=1000713968108&uo=4",
+   "note": {
+    "en": "Fireside chat at AI Startup School where Altman discussed OpenAI's future, ChatGPT's origins, and OpenAI's push into AI hardware.",
+    "zh": "Altman在AI Startup School炉边谈话中，讨论了OpenAI的未来、ChatGPT的起源以及OpenAI进军AI硬件的计划。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2025-05-16",
    "ts": null,
    "kind": "x",
@@ -1592,6 +1611,176 @@
    "url": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html"
   },
   {
+   "date": "2026-11-03",
+   "ts": "2026-11-03T04:55:00Z",
+   "level": "major",
+   "title": {
+    "en": "Sam Altman: \"AI Has Become Smarter Than the Best Scientists... Humans Must Hold the Reins\"",
+    "zh": "Sam Altman: \"AI Has Become Smarter Than the Best Scientists... Humans Must Hold the Reins\""
+   },
+   "body": {
+    "en": "Altman claimed AI has become smarter than the best scientists while arguing humans must stay in control, a widely discussed stance on AI progress and risk.",
+    "zh": "奥特曼称AI已经比最优秀的科学家更聪明，但强调人类必须掌控主导权，这一说法引发广泛讨论。"
+   },
+   "source": "BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9na3ROM0ZQZ196d2F6SVdRRUdNZjVVaFhGMDNGbnpoZ2prYWZIU2xRNzdOV0JxQXhXY1BHTy1BUU95NHNEeEFaZ3VuQmw1anRYbHVCaWd1WWtEUWRVWk5OUEMyMWNKN1R2QkJWamxHaHI2bXFXVEE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-03",
+   "ts": "2026-11-03T07:56:14Z",
+   "level": "minor",
+   "title": {
+    "en": "OpenAI CEO Sam Altman calls UAE the world’s most forward-looking country in AI adoption",
+    "zh": "OpenAI CEO Sam Altman calls UAE the world’s most forward-looking country in AI adoption"
+   },
+   "body": {
+    "en": "Altman praised the UAE as the world's most forward-looking country on AI adoption, a notable public stance during his Gulf engagement.",
+    "zh": "Altman称阿联酋是全球在人工智能应用方面最具前瞻性的国家，这是他在海湾地区活动期间发表的公开立场。"
+   },
+   "source": "Fast Company Middle East",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFJud05ycVhGZEJNelY0R2RwbW1HYWNORjdZdU94QTNLb1ZZV1lJcWVVSFFoVGtRZl9LelRBeW1FMDMwejVSbC1MMjF2Z01GcWEzSzAzYUNnd3lSRUQwcEFQQThKUHhac19tQmNQTlJLdHY1R19OS3JSMzRERldqU0swUG1EQUVYaXR0YXl1ejFQZnZBRnA2YTMxV1pEVnhHdGkxdDN0ZE1pSGJDOXl6UXB4Wl9Kc2ttUUE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-03",
+   "ts": "2026-11-03T08:54:07Z",
+   "level": "notable",
+   "title": {
+    "en": "Sam Altman, CEO of OpenAI, wants your RAM!",
+    "zh": "Sam Altman, CEO of OpenAI, wants your RAM!"
+   },
+   "body": {
+    "en": "Altman publicly pushed for more memory-chip (RAM) production capacity, extending his drive to secure chip supply — beyond GPUs — for OpenAI's compute buildout.",
+    "zh": "奥特曼公开呼吁增加内存（RAM）芯片产能，将他为OpenAI算力扩张争取芯片供应的努力从GPU延伸到存储芯片领域。"
+   },
+   "source": "overclocking.com",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HdWVfQ1RfWlNqaXFRVWlWamNHc2pZa2d5YUxMZFExWVMzQUpxNTNwOU9JUzhfMXgtQ0VJWjY1cHdPWmR6bTB5OThrc25EbkVJTFYtZnFQSnFxWUFnaGkxcnp2cmNHMGlweDBUeW9Vamc5cVhhUHZv?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-03",
+   "ts": "2026-11-03T12:00:21Z",
+   "level": "notable",
+   "title": {
+    "en": "Sam Altman questions PC memory use, draws criticism over cloud argument",
+    "zh": "Sam Altman questions PC memory use, draws criticism over cloud argument"
+   },
+   "body": {
+    "en": "Altman said it's 'quite terrible' for home PCs to sit on idle RAM amid tight memory supply and argued for shifting inference to data centers, drawing public pushback from Musk and others.",
+    "zh": "奥特曼称在内存供应紧张的情况下，家用电脑闲置RAM是'相当糟糕'的，并主张将推理转移到数据中心，此言论引发马斯克等人的公开反驳。"
+   },
+   "source": "varindia",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMkZtUGRrc2M2enVLcG1vaURMWm9iT3lodUZkTXJsUG44VktVRzdYQWVEcHpUei1teWNpeVVGR01wQ2FLeVVhWjlzeGMxbnJVM08yU1RMQTY4Vk5XVDdNVFFGRzkxSVM1bVl5SGNSOFBVaEZqWDdJWE02OGd2Vl9HOHRKQkZGbWY5YnkxM3Z2YTZhOThvUFdGa3l4anc5ckNGU0E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-03",
+   "ts": "2026-11-03T13:42:04Z",
+   "level": "notable",
+   "title": {
+    "en": "Sam Altman thinks owning RAM in your own PC is \"terrible\"",
+    "zh": "Sam Altman thinks owning RAM in your own PC is \"terrible\""
+   },
+   "body": {
+    "en": "Altman called owning RAM in your own PC \"terrible,\" a comment on cloud/compute economics that drew swift public backlash, including mockery from Musk.",
+    "zh": "奥特曼称在自己电脑里拥有内存（RAM）是“糟糕的”，这一关于云计算经济的言论引发了强烈反弹，马斯克也借机嘲讽。"
+   },
+   "source": "PhoneArena",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaVQ1VXZXakNfUDRuSmUxVUlfelhXSjNWbnJJTFBwQzBmdkh5NHQxUDJYUFZ0UTV1bllDeDJlby1BMXppNXRvRnVCYmEyUHRYV19fczdIWENTWUJvR0RFbkFCcVdHWERMYUdQOEFpZ09WV0ttZlo5alFWZGhvYUdzb0RhczBhNzlGMTYwSHNYdDFzbFNyTFlhYk8wNTQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-03",
+   "ts": "2026-11-03T13:54:41Z",
+   "level": "notable",
+   "title": {
+    "en": "Sam Altman says he hates AI companies claiming it will cure cancer, talks about human freedom",
+    "zh": "Sam Altman says he hates AI companies claiming it will cure cancer, talks about human freedom"
+   },
+   "body": {
+    "en": "Altman said he dislikes AI companies claiming their technology will cure cancer, pushing back on hype rhetoric while discussing AI and human freedom.",
+    "zh": "奥特曼表示他反感AI公司宣称其技术能“治愈癌症”的说法，在谈论AI与人类自由时对这种夸大宣传提出批评。"
+   },
+   "source": "India Today",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQ1FsWVNkc2JVU3Rhb0xoSHJxejJRTk1nbUJyYl9vVjBlcVZqZVoxTVpBWkloRUVsdXdGWHlWRkN5eXcxWjl4bmZfTXVKZ2FubFFXVUdmSnE3UWM5QnowcW9LRkY3aVkyVld0V0hQdm5tR1J1UHhjWUd2NXQwMlpCWGFTRjF1VUJtUUdKZkdDejBiVFZKTE1CN3FDSmUzQXVQMkdjLVJWYWNNbjE3aXZwT2F4cXNKMDR3OFo3SXQxWUJjQnUwU09EaFZZX3cxR0VTek1YQW5iMG9rYzFLR2xtYTJtQ3BWWTk4aElEcUtKVnPSAfYBQVVfeXFMT19JSHhzbU1MOG1sT2FXZ3Z1YmYtTWtUNG44NTJPaDE1empfOHo1NElLeEV1NWVyTGtmTmJnQm5uLUR5eWV1OWpQVmVVWlVsYzB0djAxV3JJc3FqelhaU2U4eHJ5YU9RWFFjSW03Z3dyaVh5V2NjWndYTXdxOXJ0aE94aFZFbzJKWHhldE92dV9KZ0Q3R1hyR2pJUmI3QzJrTzJ4cW5XUS1Mem5DWEc4TXQxVWFjaWotSzNxYUdNdXBTQXMwRUFQLUZpVVZKWkNtOVRYcEpzV3FhVDVweEc2M1NzWGhOVk5KN3hPdTRVOHRzazlZQy1B?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-03",
+   "ts": "2026-11-03T15:33:28Z",
+   "level": "notable",
+   "title": {
+    "en": "OpenAI CEO Sam Altman Meets 50 Samsung Chiefs Amid RAM Shortages",
+    "zh": "OpenAI CEO Sam Altman Meets 50 Samsung Chiefs Amid RAM Shortages"
+   },
+   "body": {
+    "en": "Altman met with roughly 50 Samsung executives amid memory-chip shortages, part of OpenAI's push to secure RAM supply for its compute buildout.",
+    "zh": "在内存芯片短缺之际，阿尔特曼与约50位三星高管会面，这是OpenAI为其算力建设争取存储芯片供应的举措之一。"
+   },
+   "source": "Android Headlines",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRzdLVkF4cTFZaUhUaDZnVDBrM3pPcXQxV0RRaUFZS0F0TmZlSUIwYlcyUnEwNlZKX19CMHN1bTBQTTlQN0UwbFJfRkc5V0QtakJHUGZmTGZzSGpBV1ZmWWVoWnktS3FkSjJpck51WVRrR2xzWjJVbFNBb1ZZeGhsLVFCTVZpM2dlV2xpWk5PVQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-03",
+   "ts": "2026-11-03T00:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Sam Altman says AI can repay energy sector through gains in production and efficiency",
+    "zh": "Sam Altman says AI can repay energy sector through gains in production and efficiency"
+   },
+   "body": {
+    "en": "Altman argued AI can offset its own energy demand by driving large productivity and efficiency gains across the energy sector.",
+    "zh": "奥特曼认为，AI可以通过大幅提升能源行业的生产效率来抵消其自身的能源消耗。"
+   },
+   "source": "www.tokenpost.com",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJNkpBdmRONVhkUGFDbk1KVHlaVWFGVngwd1NhS1h5dGVvRlpsYy0zZEJ1aDdmaWwza0lHeER1UTBhTGRqMEJJVnFNOUVuWTFs?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-03",
+   "ts": "2026-11-03T19:08:33Z",
+   "level": "notable",
+   "title": {
+    "en": "Sam Altman Crows That AI Is Now Smarter Than the Brightest Human Scientists",
+    "zh": "Sam Altman Crows That AI Is Now Smarter Than the Brightest Human Scientists"
+   },
+   "body": {
+    "en": "Altman publicly claimed that AI systems now surpass the brightest human scientists, a bold stance on AI's current capability level.",
+    "zh": "Altman公开宣称人工智能系统现已超越最聪明的人类科学家，这是对当前AI能力水平的一个大胆表态。"
+   },
+   "source": "Futurism",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdEQ1TVJOMlMtODBrbl9hOHpSUDNDSkw0RlBJcVRpemFXSnltMXp2N2V4ZTZ3YXhxODRMLUJyUEJjaFNrRUFteU5aV1pxY29pS2NINUs4aHBDclh2LUxYRjNuckE1SUZIcDdqYUdSU293ckN2VUxvZXZJZ2k5LV94dDFtbFpWdU00YllPZndaQ29hVXNuaF9hTEVOdTdWSU5helA4ZGFQZjVWYlNob01XcTJ3Z2FfOWtFRnRYYQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-03",
+   "ts": "2026-11-03T15:30:06Z",
+   "level": "minor",
+   "title": {
+    "en": "Elon Musk Pushes Back Against Sam Altman’s View That Personal Computers Waste DRAM: ‘The People Deserve to Have Their RAM Too!’",
+    "zh": "Elon Musk Pushes Back Against Sam Altman’s View That Personal Computers Waste DRAM: ‘The People Deserve to Have Their RAM Too!’"
+   },
+   "body": {
+    "en": "Altman's remark that personal computers 'waste' DRAM amid AI-driven memory demand drew public pushback from Elon Musk, surfacing a real dispute over chip-supply priorities.",
+    "zh": "Altman称个人电脑在AI驱动的内存需求下“浪费”DRAM，该言论引发马斯克公开反驳，反映出芯片供应优先级上的真实争议。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbTV6RzJHUTRkbkUwM0Zpczk4bmlBc2d1X3NKUnhVYTJiRnJmSXRibnVLd0hMeXEwUklUNWpTMC1ONkhuQ3lmX09XNW5FSWg3WjlDZ24tSGNiRkhaSVFNbkdnX1lRbklybFZHdjBDSmxKc0EyeWNKSFZvSERMa0dmQWR6MDBGUmsyTEtCZUUwTFFqd0xqYkFkeA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-02",
    "ts": "2026-11-02T01:17:29Z",
    "level": "notable",
@@ -1962,6 +2151,23 @@
    },
    "source": "TradingView",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZDN5c2pTaWlwZjExSGxPMGc3RGJBVnFSU3hPN0poazVsWm5LREI0SXByNFprTEVRamhCdE5YNXE0c3BRR0JaOHQydTBEVG5LeWZEVGV1RG1ENFo0XzkyUHRDMlRibGp3RmdhV0ZMX2ZQOGhieWVEN29xNXZsUWZ3dktVYjR2eVd1MUM4WGdZQ3JGZUpDUTQ0cGVYNDJmWFVHQVRvLTRfWVRxSy11dWpQTUNndkZUb2dmUVZVTkJ1Y1B1d3NSMjhtRVMzUWRXUl9aY2gtSHV4TUFuUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-02",
+   "ts": "2026-11-02T15:54:46Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Joins Growing Backlash Over OpenAI Sam Altman's RAM Comments",
+    "zh": "Elon Musk Joins Growing Backlash Over OpenAI Sam Altman's RAM Comments"
+   },
+   "body": {
+    "en": "Altman's comments on RAM/memory-chip supply drew a public backlash joined by Elon Musk, escalating the rivalry between the two over AI infrastructure constraints.",
+    "zh": "Altman关于内存芯片（RAM）供应的言论引发公众反弹，埃隆·马斯克也加入批评，加剧了两人在AI基础设施制约问题上的对立。"
+   },
+   "source": "IGN",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbHRIQXdMdWhSUjJLXy1kWlE3S3hIMkZpZnVlTktfLXdoUU43enkwdkRWeTJPTTZhNGE4LXFPWFN2TU9JMXU1NXVLekExWC1yYS1CbTFOTXNQbllmZW9rekNNMXlQcTQwVWItY2ctQ1ZsZGwtVWxVcUlnc1g0TnU1dVFKbGVCRk9kZGNMcW00RWE0NG53UTJMdVZTZjVXQzJST3pUTVFHM0NKTjA?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2421,6 +2627,40 @@
    },
    "source": "MoneyWise.com",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GU2pOOGx5X2t6Slc2ajZPQmJ2cVZlZ3R3aXkxS3FaUGRLd3JzSWtOUHB1bk1MdmJoWFI0SmRINjduX2VLT1B3QVpiQmhzOERsTGpmdVVudnRoR0dHT0ZCSFVEbTg5UlhCT1dWWFNzY1BSdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-31",
+   "ts": "2026-10-31T04:46:11Z",
+   "level": "notable",
+   "title": {
+    "en": "Sam Altman says your PC's RAM is a 'quite terrible' use of the world's limited DRAM supply",
+    "zh": "Sam Altman says your PC's RAM is a 'quite terrible' use of the world's limited DRAM supply"
+   },
+   "body": {
+    "en": "Altman argued that putting RAM into consumer PCs is a poor use of the world's limited DRAM supply, a public stance on memory-chip scarcity amid AI's compute and memory crunch.",
+    "zh": "奥特曼表示，把内存用在普通电脑上是对全球有限DRAM供应\"相当糟糕\"的利用，这是他在AI算力与内存紧缺背景下对存储芯片稀缺性发表的公开立场。"
+   },
+   "source": "TweakTown",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPREtTYUpYRFpIenlWY1BZdUxpWGJ4RXo1a3JWeURKNDZucHcwN2ZEWWtjRDNkUVE5SnJVbVVHcmZ5eVVVaWtaYk1ReGhJQnpaZmVFNE82eGgyblN5UTdyY0tGLXVQbklValRNeGpvc2xpYTNocXFxOFFISWR2T0RuVGJVbVBBSDdVWHA3dDI4ZUd0QjFCX3pBdzZBTWVudnh2bFg5bklEdEo3YXE4Z2g4NU9xUEJVQ09valY0RTlaZXBvaXlEZ3FHcDk3RnVvWUpkdnZkckVvaWVQY2Q1ZFBrZTdteDZNa1VWOGhfYXR2akxlZnRPa3B6akZzQlFKRVA0WVN2UTFhZFpWMmlrTDEyVnh5cjV5Zw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-31",
+   "ts": "2026-10-31T10:34:32Z",
+   "level": "notable",
+   "title": {
+    "en": "Sam Altman Says It's 'Terrible' For People To Have RAM For Personal Use, Gets Ripped Apart Online",
+    "zh": "Sam Altman Says It's 'Terrible' For People To Have RAM For Personal Use, Gets Ripped Apart Online"
+   },
+   "body": {
+    "en": "Altman argued personal RAM ownership is outdated in an AI-cloud future, a stance that drew heavy online backlash.",
+    "zh": "阿尔特曼称个人配备RAM已经过时，主张转向AI云端计算，这一立场在网上引发强烈反弹。"
+   },
+   "source": "NDTV",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORTgzc1Z3RndTMUxZeUZLb1ZmQl90UFRBRERpMFplRTNfdm1teWdWYnZ3Nk15VXdIRzZoSmJGd2RtM1pSaEVEVGIwdElPcUpmaENwYlFkZmlucXZaTmRCemNHQ2lXRlBVeS1XbWZPZ1dzaGFSc0tBWGRURHBtcXpIbjd0VDFqT3lMVVlFcko0UnBtM3hvbWVsWUQwWDB2X2JienF0WDR0ZzRBX2lFenJYLXlNMWttLTNOaXBfdQ?oc=5",
    "auto": true,
    "judged": true
   },
@@ -11161,8 +11401,8 @@
   "pageviews": 4156896,
   "citations": 16,
   "hIndex": 1,
-  "events": 565,
-  "posts": 76,
+  "events": 578,
+  "posts": 77,
   "wikiEn": "Sam Altman",
   "wikiZh": "萨姆·奥尔特曼"
  },

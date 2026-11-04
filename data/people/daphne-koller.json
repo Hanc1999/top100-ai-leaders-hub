@@ -1,5 +1,5 @@
 {
- "rank": 82,
+ "rank": 79,
  "id": "daphne-koller",
  "name": {
   "en": "Daphne Koller",
@@ -823,6 +823,25 @@
    "connector": "backfill"
   },
   {
+   "date": "2021-02-18",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Daphne Koller — Digital Biology and the Next Epoch of Science",
+    "zh": "Daphne Koller — Digital Biology and the Next Epoch of Science"
+   },
+   "source": "Gradient Dissent: Conversations on AI",
+   "url": "https://podcasts.apple.com/us/podcast/daphne-koller-digital-biology-and-the-next-epoch-of-science/id1504567418?i=1000509701513&uo=4",
+   "note": {
+    "en": "Koller guests on the Gradient Dissent podcast to discuss insitro's machine-learning approach to drug discovery and her path through Stanford, Coursera and Engageli.",
+    "zh": "Koller在Gradient Dissent播客中做客，谈论insitro用机器学习进行药物发现的方法，以及她从斯坦福到Coursera、Engageli的经历。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2020-11-02",
    "ts": null,
    "kind": "podcast",
@@ -1578,6 +1597,23 @@
    },
    "source": "BusinessWire",
    "url": "https://www.businesswire.com/news/home/20260105487677/en/insitro-to-Present-at-the-44th-Annual-J.P.-Morgan-Healthcare-Conference"
+  },
+  {
+   "date": "2026-11-03",
+   "ts": "2026-11-03T16:08:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Daphne Koller says AI's drug discovery bottleneck is human data, not algorithms",
+    "zh": "Daphne Koller says AI's drug discovery bottleneck is human data, not algorithms"
+   },
+   "body": {
+    "en": "Koller said the real bottleneck in AI-driven drug discovery is the scarcity of high-quality human biological data, not algorithmic limitations — a core claim behind insitro's ML-for-drug-discovery approach.",
+    "zh": "Koller表示，AI药物发现的真正瓶颈在于高质量人类生物数据的稀缺，而非算法本身的局限，这也是insitro“AI用于药物发现”方法的核心论断。"
+   },
+   "source": "BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMWm43ekdCVW1XdzFFVmFQYlg2eExHdTlTaG9zckFWeEhGRDFvLVQyb29lZ3RralE1X2VVU0Q3cTQzWG41bU9NVkRYcnhyaTJtSW45WW9DYm02cW8?oc=5",
+   "auto": true,
+   "judged": true
   }
  ],
  "changed": false,
@@ -1587,16 +1623,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 28.7,
+  "total": 29.2,
   "attention": 32,
   "centrality": 25,
-  "momentum": 10,
+  "momentum": 12,
   "stature": 66,
   "pageviews": 41906,
   "citations": 61723,
   "hIndex": 122,
-  "events": 1,
-  "posts": 75,
+  "events": 2,
+  "posts": 76,
   "wikiEn": "Daphne Koller",
   "wikiZh": "達芙妮·科勒"
  },

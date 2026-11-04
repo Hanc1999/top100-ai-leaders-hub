@@ -1,5 +1,5 @@
 {
- "rank": 80,
+ "rank": 81,
  "id": "bowen-zhou",
  "name": {
   "en": "Bowen Zhou",
@@ -209,6 +209,25 @@
     "en": "The 'specializable generalist' thesis: a feasible path to AGI.",
     "zh": "「可专业化的通才」论点：一条通向 AGI 的可行路径。"
    }
+  },
+  {
+   "date": "2026-11-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Democratizing Robot-Use Agents: A Unified Harness with Open Models",
+    "zh": "Democratizing Robot-Use Agents: A Unified Harness with Open Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.01560v1",
+   "note": {
+    "en": "Co-authored a paper proposing a unified open-model harness for robot-use agents, aimed at making frontier manipulation research reproducible without relying on proprietary models. Co-authors include Zhiyuan Liu and Pieter Abbeel, consistent with his usual collaborators.",
+    "zh": "合著论文提出了一套统一的开源模型机器人智能体框架，旨在摆脱对闭源模型的依赖，让前沿操作研究具备可复现性，合著者包括刘知远与 Pieter Abbeel，与他一贯的合作者相符。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-10-29",
@@ -1540,7 +1559,7 @@
   "citations": 16676,
   "hIndex": 51,
   "events": 27,
-  "posts": 46,
+  "posts": 47,
   "wikiEn": "Bowen Zhou",
   "wikiZh": null
  },

@@ -2911,6 +2911,23 @@
    "judged": true
   },
   {
+   "date": "2026-05-12",
+   "ts": "2026-05-12T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "冲刺3400亿估值，翁荔亲自出镜，交出一款更像人的大模型",
+    "zh": "冲刺3400亿估值，翁荔亲自出镜，交出一款更像人的大模型"
+   },
+   "body": {
+    "en": "Weng personally demoed Thinking Machines Lab's new TML-Interaction-Small voice model — a 276B interactive model paired with an asynchronous background model for reasoning and tool use — claiming lower latency and higher interaction quality than GPT-realtime-2.0.",
+    "zh": "翁荔亲自演示了Thinking Machines Lab新推出的交互语音模型TML-Interaction-Small——由2760亿参数的交互模型与负责推理和工具调用的异步后台模型组成，宣称延迟低于、交互质量优于GPT-realtime-2.0。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTThXZGlESkJXeU4zWDlQd00tNEp0WmI4RjhVSE95eWFVaUthcEp0NU5kSVZKUzBONXdVaWgzZk9mRmxNdHlXay1zTGFlSEN3WTFhTUgwdi04akFtdWdWaWxxbU4yRm50VENBQU5DYV9lSUhjSFZDclBJdmNSdVFvbG10Z0l0eHBl?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-03-11",
    "ts": "2026-03-11T07:00:00Z",
    "level": "major",
@@ -2977,7 +2994,7 @@
   "pageviews": 0,
   "citations": 3937,
   "hIndex": 16,
-  "events": 82,
+  "events": 83,
   "posts": 73,
   "wikiEn": "Lilian Weng",
   "wikiZh": null

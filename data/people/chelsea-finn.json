@@ -1222,25 +1222,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-03-06",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Data Analogies Enable Efficient Cross-Embodiment Transfer",
-    "zh": "Data Analogies Enable Efficient Cross-Embodiment Transfer"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2603.06450v2",
-   "note": {
-    "en": "Shows that organising cross-embodiment robot data by analogy makes transfer between different robots far more efficient.",
-    "zh": "表明按类比关系组织跨形态机器人数据，能显著提升不同机器人之间的迁移效率。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2026-03-03",
    "ts": null,
    "kind": "x",
@@ -1856,16 +1837,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 32.6,
+  "total": 32.4,
   "attention": 22,
   "centrality": 39,
-  "momentum": 42,
+  "momentum": 41,
   "stature": 39,
   "pageviews": 14192,
   "citations": 26696,
   "hIndex": 64,
   "events": 1,
-  "posts": 89,
+  "posts": 88,
   "wikiEn": "Chelsea Finn",
   "wikiZh": null
  },

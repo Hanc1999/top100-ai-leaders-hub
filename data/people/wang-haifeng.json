@@ -205,6 +205,25 @@
    }
   },
   {
+   "date": "2026-11-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "PaddleMaterials: An End-to-End Deep Learning Toolkit for Materials Science",
+    "zh": "PaddleMaterials: An End-to-End Deep Learning Toolkit for Materials Science"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.03154v1",
+   "note": {
+    "en": "Co-authored a paper introducing PaddleMaterials, an end-to-end deep learning toolkit for materials science built on the PaddlePaddle platform he helped create.",
+    "zh": "与人合著论文，介绍基于其主导创建的PaddlePaddle平台构建的材料科学深度学习工具包PaddleMaterials。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-27",
    "ts": null,
    "kind": "paper",
@@ -718,7 +737,7 @@
   "citations": 22856,
   "hIndex": 74,
   "events": 6,
-  "posts": 22,
+  "posts": 23,
   "wikiEn": null,
   "wikiZh": null
  },

@@ -193,6 +193,25 @@
    }
   },
   {
+   "date": "2026-11-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "CertClaim: Towards Certified Model-Claim Verification for Coding-Agent Services",
+    "zh": "CertClaim: Towards Certified Model-Claim Verification for Coding-Agent Services"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.01950v1",
+   "note": {
+    "en": "Jiang Daxin co-authored CertClaim, a method for certifying model-claim verification in coding-agent services so users can confirm which model is actually serving their requests.",
+    "zh": "姜大昕合著论文CertClaim，提出一种对编码智能体服务中模型声明进行认证核验的方法，帮助用户确认实际为其请求服务的模型身份。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-27",
    "ts": null,
    "kind": "paper",
@@ -1022,25 +1041,6 @@
    "note": {
     "en": "Technical report for Step-Audio 2, StepFun's speech model, with Jiang listed among the senior authors.",
     "zh": "Step-Audio 2技术报告，姜大昕位列高级作者之中，介绍StepFun的语音模型。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-06-13",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Mixture-of-Experts Can Surpass Dense LLMs Under Strictly Equal Resource",
-    "zh": "Mixture-of-Experts Can Surpass Dense LLMs Under Strictly Equal Resource"
-   },
-   "source": "arXiv (Cornell University)",
-   "url": "https://arxiv.org/abs/2506.12119",
-   "note": {
-    "en": "Co-authored a paper showing sparsely activated Mixture-of-Experts models can outperform dense LLMs when compute and parameters are held strictly equal, a result that bears on StepFun's own model design choices.",
-    "zh": "合著论文表明，在严格保持计算量和参数量相等的条件下，稀疏混合专家（MoE）模型可以超越稠密大模型，这一结果与阶跃星辰自身的模型设计选择直接相关。"
    },
    "auto": true,
    "judged": true,

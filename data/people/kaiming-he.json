@@ -1017,6 +1017,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-09",
+   "ts": "2026-10-09T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "何恺明团队发布多模态Harness框架",
+    "zh": "何恺明团队发布多模态Harness框架"
+   },
+   "body": {
+    "en": "He's team released VISTA, a visual-native Harness framework that lets multimodal models store and revisit raw frames instead of retraining, achieving a perfect score across 25 ARC-AGI-3 games with Claude Opus 5.",
+    "zh": "何恺明团队发布VISTA，一个视觉原生的Harness框架，让多模态模型保存并回看原始画面而无需重新训练，使Claude Opus 5在25款ARC-AGI-3公开游戏中取得满分。"
+   },
+   "source": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9SdHM2YVhnQklDOGtwU3JLZ3FQQ2lDMUFINEpINnR5TGE5ZFh4WldEY0RnbzRTM0NWWFpqWWgtamxrZnh0RU9od3A3dWp4Zw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-08",
    "ts": "2026-10-08T13:56:53Z",
    "level": "notable",
@@ -1984,7 +2001,7 @@
   "pageviews": 46828,
   "citations": 555963,
   "hIndex": 83,
-  "events": 72,
+  "events": 73,
   "posts": 30,
   "wikiEn": "Kaiming He",
   "wikiZh": "何恺明"

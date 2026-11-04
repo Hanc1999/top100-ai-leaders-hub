@@ -557,6 +557,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2026-01-14",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Who Wins if AI Models Commoditize? — With Mistral CEO Arthur Mensch",
+    "zh": "Who Wins if AI Models Commoditize? — With Mistral CEO Arthur Mensch"
+   },
+   "source": "Big Technology Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/who-wins-if-ai-models-commoditize-with-mistral-ceo/id1522960417?i=1000745166567&uo=4",
+   "note": {
+    "en": "Mensch joined the Big Technology Podcast to discuss what happens to AI business models once leading frontier models commoditize.",
+    "zh": "门施登上Big Technology Podcast，讨论当各大前沿模型能力趋同后，AI商业模式将走向何处。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2025-12-09",
    "ts": null,
    "kind": "x",
@@ -1789,7 +1808,7 @@
   "citations": 3847,
   "hIndex": 10,
   "events": 17,
-  "posts": 71,
+  "posts": 72,
   "wikiEn": "Arthur Mensch",
   "wikiZh": null
  },

@@ -169,6 +169,25 @@
    }
   },
   {
+   "date": "2026-11-03",
+   "ts": "2026-11-03T13:00:03Z",
+   "kind": "x",
+   "title": {
+    "en": "Hardcover edition of AI Native is ready to ship today! https://t.co/MQdYtqJn3N https://t.co/B8RTOfMN9T https://t.co/DR0bIvGgCA",
+    "zh": "Hardcover edition of AI Native is ready to ship today! https://t.co/MQdYtqJn3N https://t.co/B8RTOfMN9T https://t.co/DR0bIvGgCA"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2117602707963797631",
+   "note": {
+    "en": "Kai-Fu Lee announced the hardcover edition of his book AI Native is now shipping.",
+    "zh": "李开复宣布其著作《AI Native》精装版已开始发售。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-02",
    "ts": "2026-11-02T14:00:00Z",
    "kind": "x",
@@ -1499,25 +1518,6 @@
    "connector": "x"
   },
   {
-   "date": "2023-11-06",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "https://t.co/ylJtTsF7S6 is a bold but long-awaited endeavor for my pursuit of AI over 4 decades. Proud to introduce the world's top open-source model Yi-34B as",
-    "zh": "https://t.co/ylJtTsF7S6 is a bold but long-awaited endeavor for my pursuit of AI over 4 decades. Proud to introduce the world's top open-source model Yi-34B as"
-   },
-   "source": "@kaifulee",
-   "url": "https://x.com/kaifulee/status/1721321096727994590",
-   "note": {
-    "en": "Lee introduces Yi-34B as 01.AI's first release, the culmination of four decades working on AI.",
-    "zh": "李开复发布零一万物的首个模型 Yi-34B，称其为自己四十年 AI 生涯的一个成果。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
    "date": "2022-10-27",
    "ts": null,
    "kind": "blog",
@@ -1928,6 +1928,23 @@
    "url": "https://www.01.ai/"
   },
   {
+   "date": "2026-11-02",
+   "ts": "2026-11-02T04:36:24Z",
+   "level": "notable",
+   "title": {
+    "en": "杭州临平签约零一万物总部 靠什么吸引李开复？",
+    "zh": "杭州临平签约零一万物总部 靠什么吸引李开复？"
+   },
+   "body": {
+    "en": "01.AI signed an agreement to base its headquarters in Hangzhou's Linping district, a concrete step in the company's enterprise and sovereign-model pivot.",
+    "zh": "零一万物签约落地杭州临平设立总部，是公司转向企业与主权模型路线的实际举措。"
+   },
+   "source": "中国新闻网",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS3p5bmd0UHMtYWRuQVM1SDVyUjBfWEQydUE0MDhueHBCMTRGTU42enM0alktVlhsbV85bEhHc2s2dEFIYXZJcFRZempmZHgtazUyZUVISjNTSWNGQ2QtZW5WbVJSN01kTlV1R1VVdHBmNzV1Vks0Y2pXMUNrekVOTVZR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-01",
    "ts": "2026-11-01T05:21:10Z",
    "level": "notable",
@@ -2145,6 +2162,23 @@
    },
    "source": "搜狐网",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43TnhkbFZkX21XTFBFTmFMOFZEV0FVMEJvVkZPZEkwM21UYk9IUXdmNUxleGNSbGpIb3pGbklrTU1NbUNHaWtxdnQ0NTFQSmtMNnc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-29",
+   "ts": "2026-10-29T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "带着15亿订单，李开复把总部搬到了杭州",
+    "zh": "带着15亿订单，李开复把总部搬到了杭州"
+   },
+   "body": {
+    "en": "01.AI relocated its headquarters to Hangzhou alongside a reported RMB 1.5 billion order backlog, underscoring Lee's pivot toward enterprise and sovereign-model business.",
+    "zh": "01.AI将总部迁至杭州，并据报手握15亿元订单，凸显李开复向企业级与主权大模型业务转型的战略方向。"
+   },
+   "source": "Jiemian.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYQnJqVXRwbWluV3ppbktLS0tJa25HcDJUVmZJMkRoTU9YUXdTQWJBYmZ3R2dRVDJkd0kwM0h2bHhLVHNJQkhtSEJram92dzQ3N2xnNWZB?oc=5",
    "auto": true,
    "judged": true
   },
@@ -4017,7 +4051,7 @@
   "pageviews": 77041,
   "citations": 2181,
   "hIndex": 20,
-  "events": 124,
+  "events": 126,
   "posts": 92,
   "wikiEn": "Kai-Fu Lee",
   "wikiZh": "李开复"

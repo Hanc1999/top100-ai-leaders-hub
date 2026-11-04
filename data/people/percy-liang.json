@@ -209,6 +209,25 @@
    }
   },
   {
+   "date": "2026-11-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Hinted Scaling Laws",
+    "zh": "Hinted Scaling Laws"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.02270v1",
+   "note": {
+    "en": "Percy Liang co-authored 'Hinted Scaling Laws,' addressing why scaling-law predictions fail when extrapolated from much weaker models.",
+    "zh": "Percy Liang合著论文《Hinted Scaling Laws》，探讨为何从明显较弱的模型外推时缩放定律的预测会失效。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-30",
    "ts": "2026-10-30T18:31:39Z",
    "kind": "x",
@@ -1703,25 +1722,6 @@
    "note": {
     "en": "Measures scaling laws relative to specific subpopulations instead of aggregate test sets, exposing gaps that aggregate curves hide.",
     "zh": "以特定子群体而非聚合测试集为参照测量扩展律，揭示聚合曲线所掩盖的差距。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2025-10-22",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Blackbox Model Provenance via Palimpsestic Membership Inference",
-    "zh": "Blackbox Model Provenance via Palimpsestic Membership Inference"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2510.19796v1",
-   "note": {
-    "en": "Shows an open-weight model's owner can prove that a blackbox derivative is built on their model, using membership inference on training order.",
-    "zh": "表明开放权重模型的所有者可借助基于训练顺序的成员推断，证明某个黑盒衍生模型源自自己的模型。"
    },
    "auto": true,
    "judged": true,

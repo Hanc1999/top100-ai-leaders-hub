@@ -1,5 +1,5 @@
 {
- "rank": 79,
+ "rank": 80,
  "id": "sergey-levine",
  "name": {
   "en": "Sergey Levine",
@@ -179,6 +179,25 @@
     "en": "Open-sourced February 2025; generalises across laundry, coffee-making, box assembly and vegetable peeling.",
     "zh": "2025 年 2 月开源；可泛化到叠衣服、冲咖啡、组装纸箱与削蔬菜等任务。"
    }
+  },
+  {
+   "date": "2026-11-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Value Forcing: Aligning Return Distributions at All Noise Levels",
+    "zh": "Value Forcing: Aligning Return Distributions at All Noise Levels"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.02160v1",
+   "note": {
+    "en": "Co-authored a reinforcement learning paper on aligning predicted and true return distributions across noise levels to improve value function learning.",
+    "zh": "与人合著的强化学习论文，研究在不同噪声水平下对齐预测与真实回报分布，以改进价值函数的学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-10-28",
@@ -896,25 +915,6 @@
    "note": {
     "en": "General-purpose vision-language reward models that remove the need for hand-designed or human-labeled robot rewards.",
     "zh": "提出通用的视觉-语言奖励模型，免去为机器人任务人工设计或标注奖励的负担。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2025-12-18",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning",
-    "zh": "Posterior Behavioral Cloning: Pretraining BC Policies for Efficient RL Finetuning"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2512.16911v1",
-   "note": {
-    "en": "Paper proposing posterior behavioral cloning, a pretraining scheme that makes later RL finetuning of policies more efficient.",
-    "zh": "论文提出后验行为克隆预训练方案，使策略后续的强化学习微调更高效。"
    },
    "auto": true,
    "judged": true,

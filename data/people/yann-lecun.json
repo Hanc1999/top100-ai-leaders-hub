@@ -825,44 +825,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2026-03-16",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Why AI systems don't learn and what to do about it: Lessons on autonomous learning from cognitive science",
-    "zh": "Why AI systems don't learn and what to do about it: Lessons on autonomous learning from cognitive science"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2603.15381v1",
-   "note": {
-    "en": "A position paper with Emmanuel Dupoux and Jitendra Malik on why current AI systems cannot learn autonomously, proposing an architecture drawn from human and animal cognition.",
-    "zh": "与 Emmanuel Dupoux、Jitendra Malik 合写的立场论文，论述当前 AI 系统为何无法自主学习，并提出一种借鉴人类与动物认知的架构。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-03-15",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning",
-    "zh": "V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2603.14482v3",
-   "note": {
-    "en": "The 2.1 release of V-JEPA, adding dense image and video features to his video self-supervised model family while keeping its global scene understanding.",
-    "zh": "V-JEPA 2.1 版本，在保留全局场景理解能力的同时，为其视频自监督模型系列加入稠密的图像与视频特征。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2025-12-15",
    "ts": null,
    "kind": "podcast",
@@ -1771,6 +1733,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-20",
+   "ts": "2026-10-20T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "阿联酋AI公司G42：正与杨立昆旗下的AMI Labs探索面向物理世界的人工智能技术",
+    "zh": "阿联酋AI公司G42：正与杨立昆旗下的AMI Labs探索面向物理世界的人工智能技术"
+   },
+   "body": {
+    "en": "UAE AI company G42 is exploring physical-world AI technology in collaboration with LeCun's AMI Labs.",
+    "zh": "阿联酋人工智能公司G42正与杨立昆旗下的AMI Labs探索面向物理世界的人工智能技术。"
+   },
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwd1phVU1BWHl6YURHUi01S3R5Q2pOSHRTUHU2amEwUXFjV3VlRmlONndlMVYtbFhPZksyUXZ3T01PLVBhZ3EwLXp3OVNhOW9oemxKQ09IeVVGbHF3b0llTF9NdndwQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-19",
    "ts": "2026-10-19T08:05:00Z",
    "level": "notable",
@@ -2587,6 +2566,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-12",
+   "ts": "2026-10-12T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "杨立昆：下一代AI须理解现实世界 将扩大与韩国研究合作",
+    "zh": "杨立昆：下一代AI须理解现实世界 将扩大与韩国研究合作"
+   },
+   "body": {
+    "en": "LeCun reiterated that next-generation AI must understand the physical world rather than just language, and announced plans to expand AMI Labs' research collaboration with South Korea.",
+    "zh": "杨立昆重申下一代AI必须理解真实物理世界而非仅停留于语言层面，并宣布将扩大AMI Labs与韩国研究机构的合作。"
+   },
+   "source": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtOXRmVjBDbkJuVlFXZW5xODlSV2hQeTk5TDBCQm1DcjVTbnc2VWUyNlJNajRodVVzZVFTZHllajl1MDZvLVFjZmRpT3o?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-11",
    "ts": "2026-10-11T16:13:00Z",
    "level": "major",
@@ -3399,6 +3395,23 @@
    },
    "source": "新浪财经",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSmdjUk9MbXFvWmtlWHQxNTltUXA2NkQzVE9CUFRHZFB4WWFlUDVJWGkzWGx1Wml3Y0Vhb2ZfSVNUVEk5d25jNGxrRzBXckJPSkt1OWVyUmdPNXlOeWdvcVZ1OHVUeWVYM0hmV2NxX2dBODF1emVyWVI1aHNmZnVwdF9yZURjZmhPMWJqRVhiMjl4bUxaLVVQZzFnT3JYWnR5NG1ZSzhwNW10b0xxcnNUTGJCakgxQkdOQVoxckNSR1VhSE4xVi1fcEUza3Y2dmRYZFNEZWhVT0tKZXk1TWc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-01",
+   "ts": "2026-10-01T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "图灵奖双雄彻底决裂！杨立昆怒撕大模型是“高级搜索引擎”，辛顿苏茨克维绝地反杀",
+    "zh": "图灵奖双雄彻底决裂！杨立昆怒撕大模型是“高级搜索引擎”，辛顿苏茨克维绝地反杀"
+   },
+   "body": {
+    "en": "LeCun publicly escalated his dispute with Hinton and Sutskever, calling large language models mere 'advanced search engines' incapable of reaching AGI — his sharpest public break yet with fellow Turing laureates.",
+    "zh": "杨立昆公开升级与辛顿、苏茨克维的分歧，称大模型只是无法通向AGI的“高级搜索引擎”——这是他与另两位图灵奖得主迄今最激烈的公开决裂。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSDR6T2tseWhZdFNZMHhVd2NWNFJZcW1DU05IbHhUR004TUYtU3ktSzE0Z1kwZW9NZld1TVlJdVVRRkxpWERjRmFZWU0zNUFIWlIteXh4bVNFcU02U1VHM01BUV9YbWJjdkVMa1ZPMDN0eGRKckw2a2NOLWtxWjRHNVNILWRGX2hZUEIzN0xrejNXcHl6VjRmc3g5UkZhdDR0amM0YnZrcktQa0gtcmg2eWVHS0JHd1JYdHI0bXYtY1F0bnFKZ1NaM2RXZFpETVdiZXVnX2VpVTRpOXpvc0E?oc=5",
    "auto": true,
    "judged": true
   },
@@ -5016,8 +5029,8 @@
   "pageviews": 531264,
   "citations": 253869,
   "hIndex": 120,
-  "events": 228,
-  "posts": 52,
+  "events": 231,
+  "posts": 50,
   "wikiEn": "Yann LeCun",
   "wikiZh": "杨立昆"
  },

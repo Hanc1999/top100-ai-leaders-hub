@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-11-04",
+   "ts": "2026-11-04T16:35:44Z",
+   "kind": "blog",
+   "title": {
+    "en": "How big is the open model economy today?",
+    "zh": "How big is the open model economy today?"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+   "note": {
+    "en": "Lambert's Interconnects publishes its first dedicated research note estimating the size of the open-model economy, for paid subscribers.",
+    "zh": "Lambert的Interconnects发布了首篇专门测算开放模型经济规模的付费订阅研究稿。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
    "date": "2026-10-30",
    "ts": "2026-10-30T17:36:56Z",
    "kind": "blog",
@@ -1750,7 +1769,7 @@
   "citations": 720,
   "hIndex": 13,
   "events": 3,
-  "posts": 81,
+  "posts": 82,
   "wikiEn": "Nathan Lambert",
   "wikiZh": null
  },

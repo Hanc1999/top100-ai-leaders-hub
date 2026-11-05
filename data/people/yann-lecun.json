@@ -806,25 +806,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2026-04-03",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Hierarchical Planning with Latent World Models",
-    "zh": "Hierarchical Planning with Latent World Models"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2604.03208v2",
-   "note": {
-    "en": "Attacks the compounding prediction error that breaks world-model planners on long-horizon tasks by planning hierarchically in latent space.",
-    "zh": "通过在隐空间中分层规划，解决世界模型规划器在长时程任务上误差累积的问题。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2025-12-15",
    "ts": null,
    "kind": "podcast",
@@ -1746,6 +1727,23 @@
    },
    "source": "TradingView",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwd1phVU1BWHl6YURHUi01S3R5Q2pOSHRTUHU2amEwUXFjV3VlRmlONndlMVYtbFhPZksyUXZ3T01PLVBhZ3EwLXp3OVNhOW9oemxKQ09IeVVGbHF3b0llTF9NdndwQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-20",
+   "ts": "2026-10-20T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "杨立昆吐槽特斯拉新车Roadster不实用，马斯克回怼“放屁”",
+    "zh": "杨立昆吐槽特斯拉新车Roadster不实用，马斯克回怼“放屁”"
+   },
+   "body": {
+    "en": "LeCun criticized Tesla's new Roadster as impractical, and Musk publicly fired back calling the criticism \"bullshit.\"",
+    "zh": "杨立昆批评特斯拉新款Roadster不实用，马斯克公开回怼称这是「放屁」。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lZXAxX0xLa1NNVkozb1ZHODZhcmFEREpyYlpxSzZZWWdHMzliR3Zfa2ZDUDVxbURSbGh5bGZlTndMVUIyWDctODJOdmFlY0dKTUE?oc=5",
    "auto": true,
    "judged": true
   },
@@ -4827,6 +4825,23 @@
    "judged": true
   },
   {
+   "date": "2026-01-26",
+   "ts": "2026-01-26T08:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "人形机器人生产效率不到人类一半？杨立昆泼冷水：没一个聪明的！",
+    "zh": "人形机器人生产效率不到人类一半？杨立昆泼冷水：没一个聪明的！"
+   },
+   "body": {
+    "en": "LeCun dismissed the idea that humanoid robots are intelligent, arguing their production efficiency still lags well behind humans and that 'none of them' show real intelligence.",
+    "zh": "杨立昆对人形机器人智能的说法持否定态度，指出其生产效率仍远低于人类，并称“没有一个”真正展现出智能。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNODcwZFZFOU1tNnpwOXk5ZmxZVnNyd1lfOUpmUEFyOUE2TVk5aW1BZ1RKMkNvSTBIeFNaY0o1cXdNbVcyc0FBZl9tVjNEWEVYeFhLX2diZ25TTkEzdHFSSVVKN1J6LXd3TVpIUHE1OFdzcjAyS2I0M0VnRlhzby0tT3ZKQURBRjdjaVF4XzlmRmVDOERVMmJrWUNsZVRFX1NYR1EtdnV4cmtRZGo4NkFFSkR6bDA2NVhva0JjUkJrdjZpTHV6ZEpkSkxVc2xfRTQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-01-24",
    "ts": "2026-01-24T08:00:00Z",
    "level": "major",
@@ -5029,8 +5044,8 @@
   "pageviews": 531264,
   "citations": 253869,
   "hIndex": 120,
-  "events": 231,
-  "posts": 50,
+  "events": 233,
+  "posts": 49,
   "wikiEn": "Yann LeCun",
   "wikiZh": "杨立昆"
  },

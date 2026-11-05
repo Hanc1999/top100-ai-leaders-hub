@@ -231,6 +231,25 @@
    }
   },
   {
+   "date": "2026-11-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Recursa: Toward Recursively Self-Improving Foundation Model Systems",
+    "zh": "Recursa: Toward Recursively Self-Improving Foundation Model Systems"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.04035v1",
+   "note": {
+    "en": "Co-authors Recursa, an Alibaba Research proposal for foundation model systems that recursively self-improve by generating and learning from their own training data when they encounter unfamiliar domains.",
+    "zh": "作为共同作者之一，参与阿里研究院提出的Recursa方案，该方案让基础模型系统在遇到陌生领域时，通过生成并学习自身训练数据实现递归式自我改进。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-13",
    "ts": null,
    "kind": "paper",
@@ -1883,7 +1902,7 @@
   "citations": 8558,
   "hIndex": 47,
   "events": 54,
-  "posts": 40,
+  "posts": 41,
   "wikiEn": null,
   "wikiZh": null
  },

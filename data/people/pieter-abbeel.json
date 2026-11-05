@@ -1,5 +1,5 @@
 {
- "rank": 74,
+ "rank": 73,
  "id": "pieter-abbeel",
  "name": {
   "en": "Pieter Abbeel",
@@ -181,6 +181,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-11-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Stabilizing On-Policy Targeted Guidance in Agentic Reinforcement Learning",
+    "zh": "Stabilizing On-Policy Targeted Guidance in Agentic Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.05266v1",
+   "note": {
+    "en": "Abbeel co-authors a paper with Sergey Levine on stabilizing on-policy RL for agentic LLMs by regularizing toward a base policy without over-constraining learning from new rewards.",
+    "zh": "Abbeel与Sergey Levine合著论文，研究如何在智能体强化学习中通过向基础策略正则化来稳定在线策略训练，同时不过度限制对新奖励的学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-11-02",
@@ -1230,16 +1249,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 30.8,
+  "total": 31.0,
   "attention": 29,
   "centrality": 23,
-  "momentum": 24,
+  "momentum": 25,
   "stature": 73,
   "pageviews": 37345,
   "citations": 79473,
   "hIndex": 123,
   "events": 2,
-  "posts": 55,
+  "posts": 56,
   "wikiEn": "Pieter Abbeel",
   "wikiZh": "彼得·阿比爾"
  },

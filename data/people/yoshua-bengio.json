@@ -1,5 +1,5 @@
 {
- "rank": 29,
+ "rank": 30,
  "id": "yoshua-bengio",
  "name": {
   "en": "Yoshua Bengio",
@@ -1784,25 +1784,6 @@
    "connector": "podcasts"
   },
   {
-   "date": "2026-05-02",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "A Recurrent Latent Variable Model for Sequential Data",
-    "zh": "A Recurrent Latent Variable Model for Sequential Data"
-   },
-   "source": "arXiv (Cornell University)",
-   "url": "https://arxiv.org/pdf/1506.02216.pdf",
-   "note": {
-    "en": "Co-author of the influential Variational Recurrent Neural Network (VRNN) paper, which introduced latent variables into recurrent generative models for sequential data.",
-    "zh": "合著提出变分循环神经网络（VRNN）的重要论文，将潜变量引入序列数据的循环生成模型。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
    "date": "2026-03-26",
    "ts": null,
    "kind": "podcast",
@@ -3376,16 +3357,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 63.1,
+  "total": 62.9,
   "attention": 67,
   "centrality": 30,
-  "momentum": 79,
+  "momentum": 78,
   "stature": 98,
   "pageviews": 276660,
   "citations": 475043,
   "hIndex": 184,
   "events": 70,
-  "posts": 107,
+  "posts": 106,
   "wikiEn": "Yoshua Bengio",
   "wikiZh": "约书亚·本希奥"
  },

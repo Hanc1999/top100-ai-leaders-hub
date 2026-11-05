@@ -1,5 +1,5 @@
 {
- "rank": 60,
+ "rank": 59,
  "id": "kaiming-he",
  "name": {
   "en": "Kaiming He",
@@ -881,6 +881,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-10",
+   "ts": "2026-10-10T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "何恺明团队发布多模态Harness框架",
+    "zh": "何恺明团队发布多模态Harness框架"
+   },
+   "body": {
+    "en": "Kaiming He's team released a multimodal \"Harness\" framework.",
+    "zh": "何恺明团队发布了一个多模态“Harness”框架。"
+   },
+   "source": "智源社区",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4xYXpSMDhkaWxyRElscXhuRWIzYVFuNWNEQ2QyUUM5LWJKbWlTdGtXRTZrSGdCZ0lsRW9VZXFYemRlR3BaY0RfWA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-09",
    "ts": "2026-10-09T02:41:11Z",
    "level": "notable",
@@ -1251,6 +1268,23 @@
    },
    "source": "区块周刊BlockWeeks",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBXcVFPSlVDSU8yOUdhWU9mQTBTZTA5clYxaXpKRXozOE5ZMnBnNjNvTi1pY05RTFVaZFdadzZLNTM2X2lmZHh2Skh3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-05",
+   "ts": "2026-10-05T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Claude满分、GPT 99分，何恺明团队把AGI考试打穿了",
+    "zh": "Claude满分、GPT 99分，何恺明团队把AGI考试打穿了"
+   },
+   "body": {
+    "en": "A benchmark exam devised by He's research group reportedly saw Claude score a perfect mark and GPT score 99, highlighting how far frontier models have progressed on the test.",
+    "zh": "据报道，何恺明团队设计的一项基准测试中，Claude获得满分，GPT得99分，凸显前沿模型在该测试上的进步。"
+   },
+   "source": "CSDN博客",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93bV9COXFTUXBsVl9OdW1vQmIwX1dxSkxvbUx1bUJxYUVpczJQVTJHemxGM2pFLXgxcG9mNVp5YkpQNnlKbDVwQTdkWHFmbW1oRmIwNjVMa3VmVG9KQ09FQXZhWEpVOFBNRk94NWRB?oc=5",
    "auto": true,
    "judged": true
   },
@@ -1993,15 +2027,15 @@
  },
  "cat": "research",
  "score": {
-  "total": 40.4,
+  "total": 40.6,
   "attention": 33,
   "centrality": 2,
-  "momentum": 72,
+  "momentum": 73,
   "stature": 100,
   "pageviews": 46828,
   "citations": 555963,
   "hIndex": 83,
-  "events": 73,
+  "events": 75,
   "posts": 30,
   "wikiEn": "Kaiming He",
   "wikiZh": "何恺明"

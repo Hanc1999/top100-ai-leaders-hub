@@ -1,5 +1,5 @@
 {
- "rank": 86,
+ "rank": 85,
  "id": "albert-gu",
  "name": {
   "en": "Albert Gu",
@@ -161,6 +161,44 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-11-04",
+   "ts": "2026-11-04T01:59:30Z",
+   "kind": "x",
+   "title": {
+    "en": "byte-level models are better under multi epoching (e.g. training K times over 1/K of the data). another connection between learning from raw data &lt;-&gt; impr",
+    "zh": "byte-level models are better under multi epoching (e.g. training K times over 1/K of the data). another connection between learning from raw data &lt;-&gt; impr"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2117798862186512601",
+   "note": {
+    "en": "Gu argues byte-level models benefit more from multi-epoch training over a data subset, linking raw-data learning to improved data efficiency.",
+    "zh": "Gu认为字节级模型从在数据子集上多轮训练（multi-epoching）中获益更多，这把从原始数据学习与提升数据效率联系了起来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-04",
+   "ts": "2026-11-04T17:56:25Z",
+   "kind": "x",
+   "title": {
+    "en": "in a constantly changing model landscape, faster adaptation is the biggest advantage",
+    "zh": "in a constantly changing model landscape, faster adaptation is the biggest advantage"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2118039679153102949",
+   "note": {
+    "en": "Gu argues that in a fast-changing model landscape, speed of adaptation — not raw benchmark performance — is the decisive advantage.",
+    "zh": "Albert Gu 认为，在快速变化的模型格局中，适应速度而非单纯的基准性能才是决定性优势。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
   },
   {
    "date": "2026-10-30",
@@ -1520,16 +1558,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 25.7,
+  "total": 26.6,
   "attention": null,
   "centrality": 30,
-  "momentum": 20,
+  "momentum": 22,
   "stature": null,
   "pageviews": 0,
   "citations": 2983,
   "hIndex": 21,
   "events": 0,
-  "posts": 72,
+  "posts": 74,
   "wikiEn": null,
   "wikiZh": null
  },

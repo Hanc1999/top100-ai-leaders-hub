@@ -177,6 +177,25 @@
    }
   },
   {
+   "date": "2026-11-03",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ep213: Daphne Koller on The Moment in AI Drug Discovery",
+    "zh": "Ep213: Daphne Koller on The Moment in AI Drug Discovery"
+   },
+   "source": "The Long Run with Luke Timmerman",
+   "url": "https://podcasts.apple.com/us/podcast/ep213-daphne-koller-on-the-moment-in-ai-drug-discovery/id1282838969?i=1000799616309&uo=4",
+   "note": {
+    "en": "Koller appeared as the guest on biotech podcast The Long Run with Luke Timmerman to discuss Insitro's AI-driven drug discovery work.",
+    "zh": "Koller作为嘉宾登上生物科技播客The Long Run with Luke Timmerman，讨论Insitro的AI药物研发工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-10-13",
    "ts": null,
    "kind": "podcast",
@@ -1623,16 +1642,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 29.2,
+  "total": 29.4,
   "attention": 32,
   "centrality": 25,
-  "momentum": 12,
+  "momentum": 13,
   "stature": 66,
   "pageviews": 41906,
   "citations": 61723,
   "hIndex": 122,
   "events": 2,
-  "posts": 76,
+  "posts": 77,
   "wikiEn": "Daphne Koller",
   "wikiZh": "達芙妮·科勒"
  },

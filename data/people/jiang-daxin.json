@@ -193,6 +193,25 @@
    }
   },
   {
+   "date": "2026-11-02",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "P$^2$-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors",
+    "zh": "P$^2$-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.03953v1",
+   "note": {
+    "en": "Jiang co-authors P²-MOPD, a method that speeds up multi-teacher on-policy distillation by using parameter priors instead of relying solely on training-free task arithmetic.",
+    "zh": "姜大昕参与提出P²-MOPD方法，利用参数先验加速多教师在线策略蒸馏，而非仅依赖免训练的任务算术方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-11-01",
    "ts": null,
    "kind": "paper",
@@ -1022,25 +1041,6 @@
    "note": {
     "en": "StepFun paper on SE-Agent, using self-evolving trajectory optimization to improve multi-step reasoning in LLM-based agents.",
     "zh": "StepFun团队论文提出SE-Agent，通过自我演化的轨迹优化提升基于大模型的智能体的多步推理能力。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-07-22",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Step-Audio 2 Technical Report",
-    "zh": "Step-Audio 2 Technical Report"
-   },
-   "source": "arXiv (Cornell University)",
-   "url": "http://arxiv.org/abs/2507.16632",
-   "note": {
-    "en": "Technical report for Step-Audio 2, StepFun's speech model, with Jiang listed among the senior authors.",
-    "zh": "Step-Audio 2技术报告，姜大昕位列高级作者之中，介绍StepFun的语音模型。"
    },
    "auto": true,
    "judged": true,

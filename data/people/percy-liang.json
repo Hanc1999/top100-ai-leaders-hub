@@ -209,6 +209,44 @@
    }
   },
   {
+   "date": "2026-11-04",
+   "ts": "2026-11-04T06:00:20Z",
+   "kind": "x",
+   "title": {
+    "en": "Scaling laws depend on a metric that improves gradually with scale in order to extrapolate to a large target scale. We are interested in the accuracy metric, bu",
+    "zh": "Scaling laws depend on a metric that improves gradually with scale in order to extrapolate to a large target scale. We are interested in the accuracy metric, bu"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2117859472496594965",
+   "note": {
+    "en": "Liang raised a methodological point on scaling-law metrics: an accuracy-based metric can read as zero at small scale, which breaks the extrapolation needed to forecast performance at a larger target scale.",
+    "zh": "Liang指出了scaling law度量指标的一个方法论问题：基于准确率的指标在小规模时可能读数为零，从而破坏向更大目标规模外推性能所需的条件。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-04",
+   "ts": "2026-11-04T05:46:31Z",
+   "kind": "x",
+   "title": {
+    "en": "Marin 535B-A23B now on 65K contexts... Counting down... https://t.co/2szsqMedB4",
+    "zh": "Marin 535B-A23B now on 65K contexts... Counting down... https://t.co/2szsqMedB4"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2117855995494068430",
+   "note": {
+    "en": "Liang shared progress on Marin, Stanford CRFM's open-source model project, now running the 535B-A23B checkpoint at 65K context length.",
+    "zh": "Liang分享了斯坦福CRFM开源模型项目Marin的进展：535B-A23B版本现已支持65K上下文长度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-01",
    "ts": null,
    "kind": "paper",
@@ -1959,16 +1997,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 25.5,
+  "total": 25.9,
   "attention": 12,
   "centrality": 14,
-  "momentum": 50,
+  "momentum": 52,
   "stature": 56,
   "pageviews": 5245,
   "citations": 45211,
   "hIndex": 87,
   "events": 2,
-  "posts": 93,
+  "posts": 95,
   "wikiEn": "Percy Liang",
   "wikiZh": null
  },

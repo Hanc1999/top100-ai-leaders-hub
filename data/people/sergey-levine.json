@@ -1,5 +1,5 @@
 {
- "rank": 80,
+ "rank": 78,
  "id": "sergey-levine",
  "name": {
   "en": "Sergey Levine",
@@ -179,6 +179,44 @@
     "en": "Open-sourced February 2025; generalises across laundry, coffee-making, box assembly and vegetable peeling.",
     "zh": "2025 年 2 月开源；可泛化到叠衣服、冲咖啡、组装纸箱与削蔬菜等任务。"
    }
+  },
+  {
+   "date": "2026-11-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "GSBR: Geometric Support Behavior Regularization for Online RL",
+    "zh": "GSBR: Geometric Support Behavior Regularization for Online RL"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.05295v1",
+   "note": {
+    "en": "Levine co-authors a method (GSBR) that regularizes online RL toward a pretrained base policy using geometric support constraints, improving sample efficiency without being overly restrictive.",
+    "zh": "Levine合著论文提出GSBR方法，利用几何支持约束将在线强化学习正则化到预训练基础策略，在提升样本效率的同时避免过度限制。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-11-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Stabilizing On-Policy Targeted Guidance in Agentic Reinforcement Learning",
+    "zh": "Stabilizing On-Policy Targeted Guidance in Agentic Reinforcement Learning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.05266v1",
+   "note": {
+    "en": "Levine co-authors a paper with Pieter Abbeel on stabilizing on-policy RL for agentic LLMs by regularizing toward a base policy without over-constraining learning from new rewards.",
+    "zh": "Levine与Pieter Abbeel合著论文，研究如何在智能体强化学习中通过向基础策略正则化来稳定在线策略训练，同时不过度限制对新奖励的学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-11-01",
@@ -1724,16 +1762,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 29.2,
+  "total": 29.7,
   "attention": 11,
   "centrality": 43,
-  "momentum": 30,
+  "momentum": 32,
   "stature": 68,
   "pageviews": 4213,
   "citations": 63110,
   "hIndex": 112,
   "events": 1,
-  "posts": 81,
+  "posts": 83,
   "wikiEn": "Sergey Levine",
   "wikiZh": null
  },

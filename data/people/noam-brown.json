@@ -178,6 +178,25 @@
    }
   },
   {
+   "date": "2026-11-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "LifeVal: Evaluating AI Model Performance on Personalized Agentic Consumer Tasks",
+    "zh": "LifeVal: Evaluating AI Model Performance on Personalized Agentic Consumer Tasks"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.06687v1",
+   "note": {
+    "en": "Brown co-authored LifeVal, a new OpenAI benchmark for evaluating AI model performance on personalized, agentic everyday consumer tasks.",
+    "zh": "布朗合著了LifeVal，这是OpenAI推出的新基准，用于评估AI模型在个性化、具备自主能力的日常消费任务上的表现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-09-17",
    "ts": null,
    "kind": "podcast",
@@ -1611,7 +1630,7 @@
   "citations": 2196,
   "hIndex": 19,
   "events": 5,
-  "posts": 72,
+  "posts": 73,
   "wikiEn": "Noam Brown",
   "wikiZh": null
  },

@@ -1,5 +1,5 @@
 {
- "rank": 82,
+ "rank": 79,
  "id": "tri-dao",
  "name": {
   "en": "Tri Dao",
@@ -161,6 +161,25 @@
     "en": "Designed with inference efficiency as the primary goal — a departure from Mamba-2's training-speed optimisation. Adds a more expressive recurrence formula, complex-valued state tracking, and a MIMO variant.",
     "zh": "以推理效率为首要目标设计，与 Mamba-2 优化训练速度的取向相反。引入更具表达力的递归公式、复数值状态追踪与 MIMO 变体。"
    }
+  },
+  {
+   "date": "2026-11-05",
+   "ts": "2026-11-05T19:01:00Z",
+   "kind": "x",
+   "title": {
+    "en": "Distilling most of our expertise in kernel and inference engine optimization into an agent loop that powers our production. A 2-year project that we're finally",
+    "zh": "Distilling most of our expertise in kernel and inference engine optimization into an agent loop that powers our production. A 2-year project that we're finally"
+   },
+   "source": "@tri_dao",
+   "url": "https://x.com/tri_dao/status/2118418321456660572",
+   "note": {
+    "en": "Dao shared that Together AI is releasing an agent loop distilling two years of kernel and inference-engine optimization work into production.",
+    "zh": "Dao透露Together AI将发布一个agent loop，将两年来在内核与推理引擎优化上积累的经验整合进生产系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
   },
   {
    "date": "2026-10-28",
@@ -1668,16 +1687,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 28.8,
+  "total": 29.3,
   "attention": null,
   "centrality": 27,
-  "momentum": 31,
+  "momentum": 32,
   "stature": null,
   "pageviews": 0,
   "citations": 2310,
   "hIndex": 17,
   "events": 1,
-  "posts": 79,
+  "posts": 80,
   "wikiEn": null,
   "wikiZh": null
  },

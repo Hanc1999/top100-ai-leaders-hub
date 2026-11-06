@@ -1380,6 +1380,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2025-01-14",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Nathan Lambert on the rise of \"thinking\" language models",
+    "zh": "Nathan Lambert on the rise of \"thinking\" language models"
+   },
+   "source": "AI Summer",
+   "url": "https://podcasts.apple.com/us/podcast/nathan-lambert-on-the-rise-of-thinking-language-models/id1789806997?i=1000683938552&uo=4",
+   "note": {
+    "en": "Lambert joined the AI Summer podcast to discuss the rise of \"thinking\" language models and reasoning-focused post-training.",
+    "zh": "兰伯特做客播客AI Summer，讨论了「思考型」语言模型的兴起以及以推理为重点的后训练方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2025-01-01",
    "ts": null,
    "kind": "paper",
@@ -1769,7 +1788,7 @@
   "citations": 720,
   "hIndex": 13,
   "events": 3,
-  "posts": 82,
+  "posts": 83,
   "wikiEn": "Nathan Lambert",
   "wikiZh": null
  },

@@ -169,6 +169,25 @@
    }
   },
   {
+   "date": "2026-11-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "On Turn-Level Best-of-N Sampling for Scaling LLM Agents",
+    "zh": "On Turn-Level Best-of-N Sampling for Scaling LLM Agents"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.06868v1",
+   "note": {
+    "en": "A paper from Eric Xing's MBZUAI lab evaluates turn-level best-of-N sampling as a simple inference-time scaling method for long-horizon LLM agents.",
+    "zh": "邢波所在的MBZUAI团队发表论文，评估了“逐轮最优N采样”这一简单的推理时扩展方法，用于处理长周期的大模型智能体任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-29",
    "ts": null,
    "kind": "paper",
@@ -1803,16 +1822,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 30.8,
+  "total": 31.0,
   "attention": 25,
   "centrality": 14,
-  "momentum": 51,
+  "momentum": 52,
   "stature": 54,
   "pageviews": 21312,
   "citations": 41656,
   "hIndex": 97,
   "events": 3,
-  "posts": 84,
+  "posts": 85,
   "wikiEn": "Eric Xing",
   "wikiZh": "邢波"
  },

@@ -709,6 +709,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2022-09-27",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AI's Human Factor | Stanford's Dr. Fei-Fei Li and OpenAI's Mira Murati on AI Safety",
+    "zh": "AI's Human Factor | Stanford's Dr. Fei-Fei Li and OpenAI's Mira Murati on AI Safety"
+   },
+   "source": "Greymatter",
+   "url": "https://podcasts.apple.com/us/podcast/ais-human-factor-stanfords-dr-fei-fei-li-and-openais/id1089013200?i=1000580819276&uo=4",
+   "note": {
+    "en": "Murati joined Stanford's Fei-Fei Li on the Greymatter podcast to discuss AI safety while serving as OpenAI's CTO.",
+    "zh": "Murati在担任OpenAI首席技术官期间，与斯坦福大学的李飞飞共同做客Greymatter播客，探讨人工智能安全问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2021-07-07",
    "ts": null,
    "kind": "paper",
@@ -1352,7 +1371,7 @@
   "citations": 1653,
   "hIndex": 3,
   "events": 36,
-  "posts": 33,
+  "posts": 34,
   "wikiEn": "Mira Murati",
   "wikiZh": "米拉·穆拉蒂"
  },

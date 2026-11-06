@@ -1,5 +1,5 @@
 {
- "rank": 78,
+ "rank": 80,
  "id": "sergey-levine",
  "name": {
   "en": "Sergey Levine",
@@ -941,25 +941,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2026-01-02",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "RoboReward: General-Purpose Vision-Language Reward Models for Robotics",
-    "zh": "RoboReward: General-Purpose Vision-Language Reward Models for Robotics"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2601.00675v2",
-   "note": {
-    "en": "General-purpose vision-language reward models that remove the need for hand-designed or human-labeled robot rewards.",
-    "zh": "提出通用的视觉-语言奖励模型，免去为机器人任务人工设计或标注奖励的负担。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2025-10-11",
    "ts": null,
    "kind": "x",
@@ -1762,16 +1743,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 29.7,
+  "total": 29.2,
   "attention": 11,
   "centrality": 43,
-  "momentum": 32,
+  "momentum": 30,
   "stature": 68,
   "pageviews": 4213,
   "citations": 63110,
   "hIndex": 112,
   "events": 1,
-  "posts": 83,
+  "posts": 82,
   "wikiEn": "Sergey Levine",
   "wikiZh": null
  },

@@ -990,25 +990,6 @@
   {
    "date": "2026-06-01",
    "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "LongLive-RAG: A General Retrieval-Augmented Framework for Long Video Generation",
-    "zh": "LongLive-RAG: A General Retrieval-Augmented Framework for Long Video Generation"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2606.02553v1",
-   "note": {
-    "en": "Retrieval-augmented framework for autoregressive long video generation that limits error accumulation and identity drift.",
-    "zh": "为自回归长视频生成引入检索增强框架，抑制误差累积与身份漂移。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-06-01",
-   "ts": null,
    "kind": "x",
    "title": {
     "en": "SANA Streaming: V2V on a single 5090 https://t.co/7I4sygwYGy",
@@ -1558,16 +1539,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 21.5,
+  "total": 21.0,
   "attention": 4,
   "centrality": 18,
-  "momentum": 47,
+  "momentum": 45,
   "stature": 46,
   "pageviews": 888,
   "citations": 32832,
   "hIndex": 58,
   "events": 3,
-  "posts": 70,
+  "posts": 69,
   "wikiEn": null,
   "wikiZh": "韩松"
  },

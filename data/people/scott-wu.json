@@ -126,6 +126,25 @@
    }
   },
   {
+   "date": "2026-11-05",
+   "ts": "2026-11-05T05:01:58Z",
+   "kind": "x",
+   "title": {
+    "en": "Really excited to release SWE-2 Flash. Our latest model, based on @thinkymachines Inkling-Small and optimized for real-world coding tasks. Let us know what you",
+    "zh": "Really excited to release SWE-2 Flash. Our latest model, based on @thinkymachines Inkling-Small and optimized for real-world coding tasks. Let us know what you"
+   },
+   "source": "@scottwu46",
+   "url": "https://x.com/ScottWu46/status/2118207169120375071",
+   "note": {
+    "en": "Announced SWE-2 Flash, Cognition's latest coding model, built on Thinking Machines' Inkling-Small and tuned for real-world engineering tasks.",
+    "zh": "宣布推出SWE-2 Flash，这是Cognition基于Thinking Machines的Inkling-Small打造、针对真实工程任务优化的最新编程模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-03",
    "ts": "2026-11-03T22:31:48Z",
    "kind": "x",
@@ -923,6 +942,23 @@
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWUZLbEtQR0owc1lfcmcwUzU3bzZNaFlVeGtEWmxBZWZDOGRNRmpJaWJFeDRjLXFQeG1XNi0xUmdwSkF5SzlaZDFOX0s3WVl3ZVcwNFBISUNUZVExaWRSUTFwZENQdUI0M3IyWnpuWV9xaWRaWEtNNkN6UUJIWEVBa3M2SjBUcnplUG1zdlRUQmxsd1JaUVhLU082OVh5b1ZyNXc?oc=5",
    "auto": true,
    "judged": true
+  },
+  {
+   "date": "2026-04-02",
+   "ts": "2026-04-02T07:00:00Z",
+   "level": "minor",
+   "title": {
+    "en": "Cognition CEO Scott Wu Explains Why They Let People Use As Much AI As They Like In Job Interviews",
+    "zh": "Cognition CEO Scott Wu Explains Why They Let People Use As Much AI As They Like In Job Interviews"
+   },
+   "body": {
+    "en": "Cognition CEO Scott Wu explained the company's policy of letting job candidates use AI freely during interviews.",
+    "zh": "Cognition CEO Scott Wu解释了公司允许求职者在面试中自由使用AI的政策。"
+   },
+   "source": "OfficeChai",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSlNXaEdMUEd3SkVoNHB0ZDN5dGpKU1pEV3A1X0FlTFJUZldFaWQyWldzcnpQQS1EUTd2Ykw0azh6WDYtXzJ4c3F0Sm5yaGhvQzF6WnI0V0p2MXBhZzN0eDZtcE55eVY5dGNIUFptUkVGN3lTQWxQMXMycnJndmlqV084RnVMUXNhSm1MbVlyaExJTm52WXVRbWMtMzhrTHI4WHYyY3ZsY2RLOUx6T1lOcVYzWWN0dWI4cnI3ZkkzeEVsZw?oc=5",
+   "auto": true,
+   "judged": true
   }
  ],
  "changed": false,
@@ -932,16 +968,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 52.7,
+  "total": 52.9,
   "attention": 56,
   "centrality": 63,
-  "momentum": 35,
+  "momentum": 36,
   "stature": null,
   "pageviews": 107682,
   "citations": 243,
   "hIndex": 6,
-  "events": 7,
-  "posts": 37,
+  "events": 8,
+  "posts": 38,
   "wikiEn": "Scott Wu",
   "wikiZh": null
  },

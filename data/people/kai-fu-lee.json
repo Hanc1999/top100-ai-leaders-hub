@@ -169,6 +169,25 @@
    }
   },
   {
+   "date": "2026-11-05",
+   "ts": "2026-11-05T18:49:27Z",
+   "kind": "x",
+   "title": {
+    "en": "A productive morning conversation with @SquawkCNBC @andrewrsorkin @JoeSquawk on what goes wrong when companies use AI at the superficial level, open vs. closed",
+    "zh": "A productive morning conversation with @SquawkCNBC @andrewrsorkin @JoeSquawk on what goes wrong when companies use AI at the superficial level, open vs. closed"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2118415413537055223",
+   "note": {
+    "en": "Lee discussed on CNBC what goes wrong when companies adopt AI only superficially, weighing in on the open-vs-closed model debate.",
+    "zh": "李开复在CNBC节目中谈到企业浅层次采用AI时会出现的问题，并就开源与闭源模型之争发表了看法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-04",
    "ts": "2026-11-04T17:29:15Z",
    "kind": "x",
@@ -1499,25 +1518,6 @@
    "connector": "x"
   },
   {
-   "date": "2023-11-07",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "I applaud the original openness of OpenAI, and agree with @elonmusk 's lament. But @elonmusk : When will Grok become open source like @01AI_Yi ? Please come joi",
-    "zh": "I applaud the original openness of OpenAI, and agree with @elonmusk 's lament. But @elonmusk : When will Grok become open source like @01AI_Yi ? Please come joi"
-   },
-   "source": "@kaifulee",
-   "url": "https://x.com/kaifulee/status/1721941789903577252",
-   "note": {
-    "en": "Lee publicly challenges Elon Musk to open-source Grok the way 01.AI open-sourced Yi.",
-    "zh": "李开复公开向马斯克喊话，要求像零一万物开源 Yi 那样开源 Grok。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
    "date": "2022-10-27",
    "ts": null,
    "kind": "blog",
@@ -1926,6 +1926,23 @@
    },
    "source": "01.AI",
    "url": "https://www.01.ai/"
+  },
+  {
+   "date": "2026-11-05",
+   "ts": "2026-11-05T09:59:32Z",
+   "level": "notable",
+   "title": {
+    "en": "拿下数亿元杭州国资投资， 李开复要把AI送进企业决策层- 产业链",
+    "zh": "拿下数亿元杭州国资投资， 李开复要把AI送进企业决策层- 产业链"
+   },
+   "body": {
+    "en": "01.AI secured several hundred million yuan in state-backed investment from Hangzhou's Linping district, where it will headquarter as it pushes toward a 2027 IPO and pivots to enterprise AI transformation.",
+    "zh": "零一万物获得杭州临平区市区两级国资数亿元联动投资，公司总部将落地临平，并在冲刺2027年IPO的同时转向企业AI转型业务。"
+   },
+   "source": "光通信Pro",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iVlBDemRXcjhJcDV0LWRxQXBsd1JiNzdWQzdocHdCZ3Q1U1dlRnVodlQ5SldBdXZrZlVpRE41RlFWT1FySkFReW5IWjREQ3Y3dWR1d0ZUSQ?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-11-02",
@@ -4051,7 +4068,7 @@
   "pageviews": 77041,
   "citations": 2181,
   "hIndex": 20,
-  "events": 126,
+  "events": 127,
   "posts": 92,
   "wikiEn": "Kai-Fu Lee",
   "wikiZh": "李开复"

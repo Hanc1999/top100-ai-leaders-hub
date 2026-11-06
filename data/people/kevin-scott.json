@@ -620,6 +620,25 @@
    "connector": "backfill"
   },
   {
+   "date": "2023-10-03",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Microsoft CTO Kevin Scott on how AI and art will coexist in the future",
+    "zh": "Microsoft CTO Kevin Scott on how AI and art will coexist in the future"
+   },
+   "source": "Decoder with Nilay Patel",
+   "url": "https://podcasts.apple.com/us/podcast/microsoft-cto-kevin-scott-on-how-ai-and-art-will/id1011668648?i=1000630016321&uo=4",
+   "note": {
+    "en": "Guested on Nilay Patel's Decoder podcast to discuss how Microsoft sees AI and human creativity coexisting.",
+    "zh": "做客Nilay Patel主持的播客《Decoder》，探讨微软如何看待AI与人类创造力的共存。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2023-09-19",
    "ts": null,
    "kind": "x",
@@ -1336,7 +1355,7 @@
   "citations": 38763,
   "hIndex": 96,
   "events": 1,
-  "posts": 63,
+  "posts": 64,
   "wikiEn": "Kevin Scott (businessman)",
   "wikiZh": null
  },

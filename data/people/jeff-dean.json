@@ -1,5 +1,5 @@
 {
- "rank": 27,
+ "rank": 26,
  "id": "jeff-dean",
  "name": {
   "en": "Jeff Dean",
@@ -1537,6 +1537,23 @@
    "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/"
   },
   {
+   "date": "2026-11-05",
+   "ts": "2026-11-05T07:24:53Z",
+   "level": "notable",
+   "title": {
+    "en": "\"Implausible\" That Self-Improvement Loops Will Run Infinitely Fast: Jeff Dean",
+    "zh": "\"Implausible\" That Self-Improvement Loops Will Run Infinitely Fast: Jeff Dean"
+   },
+   "body": {
+    "en": "Dean pushed back on recursive self-improvement hype, calling it implausible that AI self-improvement loops will run at ever-increasing speed.",
+    "zh": "迪恩对递归自我提升的炒作提出质疑，认为AI自我改进循环会无限加速的说法不太可信。"
+   },
+   "source": "OfficeChai",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeUR5b2syblRiQWJVSVN5dlhtM3BkcFh4N0pMVzNidTNmdjhZTEdmUmtvYmNfQXVGTWh4MmswZE92T2JWZ0xscWpHU01RYlFOS2M3X0t6eXh1cFBtLU1VMGRkNlEtWU5uRE1KWlVnQVhQSGZVcWE0SnRhSk9ubnprSlZZS0dhNTA5RkRrYlRkbURtTk15X0dUWmlQcTVlQkxtd3VZ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-02",
    "ts": "2026-11-02T20:18:05Z",
    "level": "notable",
@@ -2292,15 +2309,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 65.0,
+  "total": 65.2,
   "attention": 61,
   "centrality": 72,
-  "momentum": 72,
+  "momentum": 73,
   "stature": 47,
   "pageviews": 159064,
   "citations": 36789,
   "hIndex": 30,
-  "events": 45,
+  "events": 46,
   "posts": 73,
   "wikiEn": "Jeff Dean",
   "wikiZh": "傑夫·迪恩"

@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-11-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Social Humanoid: Socially Responsive Human-Humanoid Interaction",
+    "zh": "Social Humanoid: Socially Responsive Human-Humanoid Interaction"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.08407v1",
+   "note": {
+    "en": "Jitendra Malik co-authors a Berkeley paper on humanoid robots that physically coordinate with human partners by anticipating and adjusting to their movements, instead of acting as solitary agents.",
+    "zh": "马利克合著伯克利论文，研究如何让人形机器人像人类伙伴一样预判并调整动作，实现与人类的物理协作，而非仅作为独立个体运作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-11-01",
    "ts": "2026-11-01T05:45:07Z",
    "kind": "x",
@@ -1929,7 +1948,7 @@
   "citations": 168758,
   "hIndex": 144,
   "events": 0,
-  "posts": 93,
+  "posts": 94,
   "wikiEn": "Jitendra Malik",
   "wikiZh": "希特德拉·馬利克"
  },

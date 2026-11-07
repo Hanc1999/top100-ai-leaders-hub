@@ -1,5 +1,5 @@
 {
- "rank": 15,
+ "rank": 14,
  "id": "fei-fei-li",
  "name": {
   "en": "Fei-Fei Li",
@@ -2043,6 +2043,44 @@
    "connector": null
   },
   {
+   "date": "2024-05-09",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Fei-Fei Li: AI's new possibilities for robots",
+    "zh": "Fei-Fei Li: AI's new possibilities for robots"
+   },
+   "source": "1 big thing",
+   "url": "https://podcasts.apple.com/us/podcast/fei-fei-li-ais-new-possibilities-for-robots/id1514235382?i=1000655036002&uo=4",
+   "note": {
+    "en": "Fei-Fei Li is interviewed on Axios's \"1 big thing\" about AI's new possibilities for robots.",
+    "zh": "李飞飞在Axios播客节目「1 big thing」的访谈中探讨了AI为机器人带来的新可能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-04-22",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Fei-Fei Li: The “Godmother of AI”, Keeping Humanity at the Heart of the AI Revolution | Artificial Intelligence E285",
+    "zh": "Fei-Fei Li: The “Godmother of AI”, Keeping Humanity at the Heart of the AI Revolution | Artificial Intelligence E285"
+   },
+   "source": "Young and Profiting (YAP) with Hala Ta…",
+   "url": "https://podcasts.apple.com/us/podcast/fei-fei-li-the-godmother-of-ai-keeping-humanity-at/id1368888880?i=1000653180954&uo=4",
+   "note": {
+    "en": "Fei-Fei Li is interviewed on the Young and Profiting podcast about keeping humanity central to the AI revolution.",
+    "zh": "李飞飞在Young and Profiting播客访谈中谈到如何让人性始终处于AI革命的核心。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2024-04-03",
    "ts": "2024-04-03T00:05:16Z",
    "kind": "x",
@@ -2318,6 +2356,176 @@
    },
    "source": "TechTimes",
    "url": "https://www.techtimes.com/articles/317927/20260606/feifei-lis-world-labs-splits-world-model-three-types-marble-targets-simulation-linchpin.htm"
+  },
+  {
+   "date": "2026-11-06",
+   "ts": "2026-11-06T01:21:08Z",
+   "level": "notable",
+   "title": {
+    "en": "李飞飞World Labs团队发布“游戏掌机”Frameboy：用网页实时探索AI生成世界，每秒最高15帧",
+    "zh": "李飞飞World Labs团队发布“游戏掌机”Frameboy：用网页实时探索AI生成世界，每秒最高15帧"
+   },
+   "body": {
+    "en": "World Labs released Frameboy, a browser-based 'game console' that lets users explore AI-generated worlds in real time at up to 15 frames per second.",
+    "zh": "World Labs发布“游戏掌机”Frameboy，可在浏览器中实时探索AI生成的世界，帧率最高每秒15帧。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5SbW94WlNJa1g4OXZvclkxX3pjekNzRE9IOGFUSjVJeXVPNGxaRHg3VHFYU2xheWtVUUZyNDFTZWw0bm90ekhaRklzRmw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-06",
+   "ts": "2026-11-06T02:12:42Z",
+   "level": "notable",
+   "title": {
+    "en": "突发：李飞飞最新AI成果发布，把世界模型装进复古掌机，单张图实时跑出15帧",
+    "zh": "突发：李飞飞最新AI成果发布，把世界模型装进复古掌机，单张图实时跑出15帧"
+   },
+   "body": {
+    "en": "World Labs unveiled a real-time world model running on a retro handheld, generating a playable 15fps video stream from a single image — a concrete demo of the spatial-intelligence layer she argues language models lack.",
+    "zh": "World Labs发布了一款运行在复古掌机上的实时世界模型,仅凭单张图片即可实时生成15帧的可玩画面——这是她所主张的、语言模型所缺乏的空间智能层的一次具体演示。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xc3VTbmtGb05McVVyajh6LVNsMGtaSkFtRnJkcFFlZmpyd0NydDRva2dma215Y3BXc0xhOVRMRVRnbXpDZk4tbXlVa28?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-06",
+   "ts": "2026-11-06T02:56:00Z",
+   "level": "notable",
+   "title": {
+    "en": "把AI世界“塞进掌机”！李飞飞试验室发布新工具 可在网页实时交互",
+    "zh": "把AI世界“塞进掌机”！李飞飞试验室发布新工具 可在网页实时交互"
+   },
+   "body": {
+    "en": "World Labs released a new web-based tool that lets AI-generated 3D worlds run and be interacted with in real time on lightweight, handheld-scale hardware.",
+    "zh": "李飞飞的World Labs发布了一款新工具，把AI生成的三维世界“塞进掌机”，可在网页上实时交互运行于轻量级硬件上。"
+   },
+   "source": "财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5oS2h4Q0xmUjNQdnZCaUFGTDZqY3JDdHQtRzJTZUVyVUV1ZmJSWGlZQUt3TFRDYm85RVRjWmVTcHJlNnhlTFBObw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-06",
+   "ts": "2026-11-06T06:56:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Fei-Fei Li's Team Launches Frameboy: Real-Time World Model Roaming in the Browser, Up to 15 Frames Per Second",
+    "zh": "Fei-Fei Li's Team Launches Frameboy: Real-Time World Model Roaming in the Browser, Up to 15 Frames Per Second"
+   },
+   "body": {
+    "en": "Fei-Fei Li's World Labs team launches Frameboy, a real-time world model that lets users roam a generated scene in the browser at up to 15 frames per second.",
+    "zh": "李飞飞的 World Labs 团队发布 Frameboy，一个可在浏览器中以最高15帧每秒速度实时漫游生成场景的世界模型。"
+   },
+   "source": "BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xRUs1bkgxblJHaGhkU2JCTXYtTFp1endWakdSV0UxajVTa1liQmRnMTFfTXVvNlhmbDRmRzVHalhQc015SUdiU3JsNlpOLWF3MmkwMlVrVndreDItUEVfbTJLb08temRFU1RKWnJIYkVMaktlNHc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-06",
+   "ts": "2026-11-06T08:33:55Z",
+   "level": "notable",
+   "title": {
+    "en": "Jeff Dean对话李飞飞：RSI被硅谷过度炒作了吗？",
+    "zh": "Jeff Dean对话李飞飞：RSI被硅谷过度炒作了吗？"
+   },
+   "body": {
+    "en": "In a dialogue with Jeff Dean covered by MIT Technology Review, Li argues Silicon Valley has overhyped the risk of recursive self-improvement (RSI).",
+    "zh": "在与Jeff Dean的对谈中，李飞飞认为硅谷把递归自我改进（RSI）的风险炒作过头了，该对话被《麻省理工科技评论》报道。"
+   },
+   "source": "麻省理工科技评论",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54RVVtbGY0UWZ6UE5iSms0VzlLdE9xRGh6Q2JBaTAwT3pRdk9BQXJjcDFSajRmTVVCLUNGdTM3dlM5SWJxbWtueVZ5X0xoRDJmazVaMlRfaw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-06",
+   "ts": "2026-11-06T11:48:46Z",
+   "level": "notable",
+   "title": {
+    "en": "李飞飞世界模型再升级，云端GPU每秒15帧实时生成_精彩视频为您呈现",
+    "zh": "李飞飞世界模型再升级，云端GPU每秒15帧实时生成_精彩视频为您呈现"
+   },
+   "body": {
+    "en": "World Labs upgraded its world-model system to generate real-time video at 15 frames per second on cloud GPUs, a concrete step toward Fei-Fei Li's spatial-intelligence vision.",
+    "zh": "World Labs将其世界模型系统升级，可在云端GPU上以每秒15帧的速度实时生成视频，是李飞飞「空间智能」愿景的一项具体进展。"
+   },
+   "source": "36氪",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84cDVWQ2hNWWFOWWFhNTZMbDdZa3ViZnZ6S0ZrZ3NuUE9lWGJkRjBKUnIxbWRBcFRsUC1uaGcyRi1GS2VBRE41a0ZkQkdJT1ZvMXdURkJ3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-06",
+   "ts": "2026-11-06T05:07:45Z",
+   "level": "notable",
+   "title": {
+    "en": "把AI世界“塞进掌机”！李飞飞试验室发布新工具 可在网页实时交互",
+    "zh": "把AI世界“塞进掌机”！李飞飞试验室发布新工具 可在网页实时交互"
+   },
+   "body": {
+    "en": "Fei-Fei Li's lab released a new web-interactive tool that lets users explore AI-generated 3D worlds directly in the browser, extending World Labs' spatial-AI push to lighter devices.",
+    "zh": "李飞飞实验室发布了一款可在网页上实时交互的新工具，让用户直接在浏览器中探索AI生成的三维世界，将World Labs的空间智能布局延伸到更轻量的设备。"
+   },
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Qd2R1NHRGZmp2ZVBYemNyRmVyVzlFa1ZLUUYyaGxSNnAxZlFlYUNueWpGZnBzZ1JFWmczbGZfb0o3UFRPMDVqX0wwS3RqTFJwNlNWczRvN0Q4dVc2UjdTbFVSQkRQdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-06",
+   "ts": "2026-11-06T07:10:00Z",
+   "level": "notable",
+   "title": {
+    "en": "像玩掌机一样实时探索AI场景，李飞飞团队发布Frameboy",
+    "zh": "像玩掌机一样实时探索AI场景，李飞飞团队发布Frameboy"
+   },
+   "body": {
+    "en": "Fei-Fei Li's World Labs team released Frameboy, a real-time world model that lets users explore AI-generated scenes like a handheld game console.",
+    "zh": "李飞飞所在的World Labs团队发布了Frameboy，一款实时世界模型，可让用户像玩掌机游戏一样探索AI生成的场景。"
+   },
+   "source": "新京报",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBWkJqdE9nWE1uelM2Yk9NdWp4XzNOUE5GWThtbFpwdkFNTTVWdEJNdFVBWnFZcWQ0ZGlRc2hfTExPUWlKeE9xZm0yekhncHRRU2NaQnk2SC1FUVhHY2hCRThON3I?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-06",
+   "ts": "2026-11-06T09:52:02Z",
+   "level": "notable",
+   "title": {
+    "en": "世界模型「云游戏」问世，李飞飞World Labs出品",
+    "zh": "世界模型「云游戏」问世，李飞飞World Labs出品"
+   },
+   "body": {
+    "en": "Chinese tech media report that Fei-Fei Li's World Labs has released a cloud-based \"world model\" game product.",
+    "zh": "中国科技媒体报道，李飞飞的World Labs发布了一款基于云端的世界模型「游戏」产品。"
+   },
+   "source": "光通信Pro",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43MEhvRUtfdm1RZ01jRy1mWUlSVU1pV2xNTngwN0NheGtYMVYySzlDZ0pBVnpjSHRVdXBDR0pFQ29fdENibzdIOXNNdmp1bU8xNXUzYzMzMA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-05",
+   "ts": "2026-11-05T08:41:00Z",
+   "level": "notable",
+   "title": {
+    "en": "突发：李飞飞最新 AI 成果发布，把世界模型装进复古掌机，单张图实时跑出 15 帧",
+    "zh": "突发：李飞飞最新 AI 成果发布，把世界模型装进复古掌机，单张图实时跑出 15 帧"
+   },
+   "body": {
+    "en": "World Labs showed a new Atlas demo generating and navigating real-time 3D scenes from a single image, running at up to 15 fps on a handheld gaming device.",
+    "zh": "World Labs展示了Atlas的新Demo，可从单张图片生成并实时漫游三维场景，在掌上游戏设备上最高可达每秒15帧。"
+   },
+   "source": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZR3VVZVRZV0c4bzhhVXFYVFpKTXFvNGxLdjMtYWJLZUNjRHJHYVFIS2FSS2tlNncwb0ozXzdBYllfU2cyS0FUV3ZpdnQ3UQ?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-31",
@@ -8931,8 +9139,8 @@
   "pageviews": 423813,
   "citations": 222997,
   "hIndex": 137,
-  "events": 390,
-  "posts": 111,
+  "events": 400,
+  "posts": 113,
   "wikiEn": "Fei-Fei Li",
   "wikiZh": "李飛飛"
  },

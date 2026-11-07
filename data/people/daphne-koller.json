@@ -1600,6 +1600,25 @@
    "judged": true,
    "platform": "apple-podcasts",
    "connector": "podcasts"
+  },
+  {
+   "date": "2012-08-01",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Daphne Koller: Lo que estamos aprendiendo de la educación en línea | Daphne Koller",
+    "zh": "Daphne Koller: Lo que estamos aprendiendo de la educación en línea | Daphne Koller"
+   },
+   "source": "TEDTalks  Educación",
+   "url": "https://podcasts.apple.com/us/podcast/daphne-koller-lo-que-estamos-aprendiendo-de-la/id537255515?i=1000459434603&uo=4",
+   "note": {
+    "en": "Spanish-language TEDTalks feed of Koller's 2012 TED talk on what the project that became Coursera was teaching her about how people learn online.",
+    "zh": "西班牙语版TEDTalks播客,收录Daphne Koller 2012年的TED演讲,讲述后来发展为Coursera的项目让她了解到人们如何在线学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   }
  ],
  "news": [
@@ -1651,7 +1670,7 @@
   "citations": 61723,
   "hIndex": 122,
   "events": 2,
-  "posts": 77,
+  "posts": 78,
   "wikiEn": "Daphne Koller",
   "wikiZh": "達芙妮·科勒"
  },

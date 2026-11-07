@@ -149,6 +149,63 @@
    }
   },
   {
+   "date": "2026-11-06",
+   "ts": "2026-11-06T18:45:11Z",
+   "kind": "x",
+   "title": {
+    "en": "1/ starting today, muse and meta ai will run on new specialized models trained using muse wonder. ACTIVE MEMORY: models can reason across time and better rememb",
+    "zh": "1/ starting today, muse and meta ai will run on new specialized models trained using muse wonder. ACTIVE MEMORY: models can reason across time and better rememb"
+   },
+   "source": "@alexandr_wang",
+   "url": "https://x.com/alexandr_wang/status/2118776727912755478",
+   "note": {
+    "en": "Announced that Muse and Meta AI will run on new specialized models trained with Muse Wonder, adding an active-memory feature that lets the assistant reason across time and better remember what matters.",
+    "zh": "宣布Muse和Meta AI将采用基于Muse Wonder训练的新专用模型，并推出可跨时间推理、更好记住上下文的主动记忆功能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-06",
+   "ts": "2026-11-06T18:16:10Z",
+   "kind": "x",
+   "title": {
+    "en": "🚨 MUSE FEATURE ALERT 🚨 Spaces are live in muse! just tell muse what you want in chat and it'll build you a space and keep it up to date for you. pin it to your",
+    "zh": "🚨 MUSE FEATURE ALERT 🚨 Spaces are live in muse! just tell muse what you want in chat and it'll build you a space and keep it up to date for you. pin it to your"
+   },
+   "source": "@alexandr_wang",
+   "url": "https://x.com/alexandr_wang/status/2118769424769663009",
+   "note": {
+    "en": "Announced that Meta's Muse assistant now supports 'Spaces': users describe what they want and Muse builds and keeps a pinned, auto-updating space for it.",
+    "zh": "宣布Meta的Muse助手上线\"Spaces\"功能：用户只需描述需求，Muse即可自动创建并持续更新一个可置顶的专属空间。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-06",
+   "ts": "2026-11-06T21:11:14Z",
+   "kind": "x",
+   "title": {
+    "en": "try out spaces in muse!",
+    "zh": "try out spaces in muse!"
+   },
+   "source": "@alexandr_wang",
+   "url": "https://x.com/alexandr_wang/status/2118813482086973587",
+   "note": {
+    "en": "Alexandr Wang promoted a new \"spaces\" feature rolling out in Meta's Muse app.",
+    "zh": "Alexandr Wang宣传了Meta旗下Muse应用新上线的\"spaces\"功能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-05",
    "ts": "2026-11-05T18:33:38Z",
    "kind": "x",
@@ -1035,63 +1092,6 @@
    "note": {
     "en": "Wang detailed Meta Superintelligence Labs' internally-built evaluation framework, the Personal Superintelligence Index (PSI), used to guide Muse Wonder's development.",
     "zh": "王介绍了Meta超级智能实验室自研的评估体系——个人超级智能指数（PSI），用于指导Muse Wonder模型的研发。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-10-12",
-   "ts": "2026-10-12T19:52:54Z",
-   "kind": "x",
-   "title": {
-    "en": "with muse wonder, we aimed to build a model that is useful for real world tasks for real people, informed by our product adoption and how people use muse. we fo",
-    "zh": "with muse wonder, we aimed to build a model that is useful for real world tasks for real people, informed by our product adoption and how people use muse. we fo"
-   },
-   "source": "@alexandr_wang",
-   "url": "https://x.com/alexandr_wang/status/2109734074223140987",
-   "note": {
-    "en": "Wang explains the design philosophy behind Muse Wonder, saying Meta built it for real-world usefulness based on product-adoption signals rather than chasing benchmarks.",
-    "zh": "王阐述了Muse Wonder的设计理念：Meta基于产品采用数据而非追逐基准测试，专注于让模型在真实世界任务中真正好用。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-10-12",
-   "ts": "2026-10-12T19:31:29Z",
-   "kind": "x",
-   "title": {
-    "en": "whole team feels dumb now, but it's true, we did not explicitly train our model on 3d demo games obviously in retrospect we probably should've done a bit of tha",
-    "zh": "whole team feels dumb now, but it's true, we did not explicitly train our model on 3d demo games obviously in retrospect we probably should've done a bit of tha"
-   },
-   "source": "@alexandr_wang",
-   "url": "https://x.com/alexandr_wang/status/2109728684802523156",
-   "note": {
-    "en": "Wang admits the Muse Wonder team didn't explicitly train on 3D demo games and in hindsight should have, while still encouraging people to try the model.",
-    "zh": "王承认Muse Wonder团队没有专门针对3D演示游戏进行训练，事后看本应如此，但仍鼓励大家试用该模型。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-10-12",
-   "ts": "2026-10-12T22:31:38Z",
-   "kind": "x",
-   "title": {
-    "en": "we have identified and fixed the issue that was causing the unusually fast quota usage for muse wonder and muse wonder full. you will now see much lower usage a",
-    "zh": "we have identified and fixed the issue that was causing the unusually fast quota usage for muse wonder and muse wonder full. you will now see much lower usage a"
-   },
-   "source": "@alexandr_wang",
-   "url": "https://x.com/alexandr_wang/status/2109774017574113780",
-   "note": {
-    "en": "Wang said Meta identified and fixed the bug causing abnormally fast quota usage on Muse Wonder and Muse Wonder Full, with further fixes promised.",
-    "zh": "王表示Meta已发现并修复了导致Muse Wonder和Muse Wonder Full配额异常消耗过快的问题，并承诺后续还有更新。"
    },
    "auto": true,
    "judged": true,

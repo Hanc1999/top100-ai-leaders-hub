@@ -1,5 +1,5 @@
 {
- "rank": 29,
+ "rank": 30,
  "id": "yang-zhilin",
  "name": {
   "en": "Yang Zhilin",
@@ -251,6 +251,25 @@
     "en": "The largest open-weight model publicly available.",
     "zh": "当前公开可得的最大开放权重模型。"
    }
+  },
+  {
+   "date": "2026-11-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "TCSExam: Evaluating Frontier LLMs on the Full Range of TCS Research",
+    "zh": "TCSExam: Evaluating Frontier LLMs on the Full Range of TCS Research"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.07962v1",
+   "note": {
+    "en": "TCSExam introduces a benchmark evaluating frontier LLMs across the full range of theoretical computer science research, co-authored with Andrew Yao's group.",
+    "zh": "TCSExam提出了一个评测前沿大模型在理论计算机科学研究全领域表现的基准，与姚期智团队合作完成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-07-27",
@@ -2781,6 +2800,23 @@
    "judged": true
   },
   {
+   "date": "2026-03-26",
+   "ts": "2026-03-26T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "月之暗面杨植麟：中国有最好的人才体系来孵化智能",
+    "zh": "月之暗面杨植麟：中国有最好的人才体系来孵化智能"
+   },
+   "body": {
+    "en": "Yang Zhilin publicly argued China has the best talent pipeline system to incubate AI intelligence, staking out a stance on China's AI talent strategy.",
+    "zh": "杨植麟公开表示中国拥有孕育智能最好的人才体系，就中国的人工智能人才战略表明立场。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MRTJaVVF2eC16TE1heEJEUmdxNlEwbmtGTEtzRDQ5bDZkcjFVVllhbEduTDF5dGhZN01wd3E3eEdZVVg1bjcwZ1lPWnJMeWJ6NlVtV1d2Q095TGJQM3V4S0I1R3dEX3N4anBRdVpka3UxMnlCUDhjbQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-03-25",
    "ts": "2026-03-25T07:00:00Z",
    "level": "notable",
@@ -2898,8 +2934,8 @@
   "pageviews": 85504,
   "citations": 24757,
   "hIndex": 67,
-  "events": 127,
-  "posts": 29,
+  "events": 128,
+  "posts": 30,
   "wikiEn": "Yang Zhilin",
   "wikiZh": "楊植麟"
  },

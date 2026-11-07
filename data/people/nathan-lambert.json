@@ -1266,6 +1266,25 @@
    "connector": "huggingface"
   },
   {
+   "date": "2025-12-18",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Open models: Hot or Not with Nathan Lambert & Florian Brand",
+    "zh": "Open models: Hot or Not with Nathan Lambert & Florian Brand"
+   },
+   "source": "Interconnects",
+   "url": "https://podcasts.apple.com/us/podcast/open-models-hot-or-not-with-nathan-lambert-florian-brand/id1719552353?i=1000741908260&uo=4",
+   "note": {
+    "en": "On his own Interconnects podcast, Nathan Lambert and open-model analyst Florian Brand debate which labs gained or lost momentum in open models through 2025.",
+    "zh": "在自己主持的Interconnects播客中，Nathan Lambert与开放模型分析师Florian Brand探讨了2025年各实验室在开放模型领域的得失。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2025-11-03",
    "ts": null,
    "kind": "paper",
@@ -1788,7 +1807,7 @@
   "citations": 720,
   "hIndex": 13,
   "events": 3,
-  "posts": 83,
+  "posts": 84,
   "wikiEn": "Nathan Lambert",
   "wikiZh": null
  },

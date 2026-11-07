@@ -165,6 +165,25 @@
    }
   },
   {
+   "date": "2026-10-09",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Joe Rogan Experience #2521 - Aravind Srinivas",
+    "zh": "Joe Rogan Experience #2521 - Aravind Srinivas"
+   },
+   "source": "Mythology podcast",
+   "url": "https://podcasts.apple.com/us/podcast/joe-rogan-experience-2521-aravind-srinivas/id6829520999?i=1000799267393&uo=4",
+   "note": {
+    "en": "Srinivas appeared as a guest on The Joe Rogan Experience, episode #2521.",
+    "zh": "斯里尼瓦斯作为嘉宾登上《乔·罗根秀》（The Joe Rogan Experience）第2521期节目。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-09-08",
    "ts": "2026-09-08T17:10:38Z",
    "kind": "x",
@@ -963,6 +982,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2023-12-14",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ep 23: Perplexity CEO Aravind Srinivas on the future of Search, OpenAI Wrappers and Using AI to Talk to Loved Ones",
+    "zh": "Ep 23: Perplexity CEO Aravind Srinivas on the future of Search, OpenAI Wrappers and Using AI to Talk to Loved Ones"
+   },
+   "source": "Unsupervised Learning with Jacob Effron",
+   "url": "https://podcasts.apple.com/us/podcast/ep-23-perplexity-ceo-aravind-srinivas-on-the-future/id1672188924?i=1000638567038&uo=4",
+   "note": {
+    "en": "Srinivas joined VC Jacob Effron's podcast to discuss Perplexity's early growth, competing head-on with Google search, and the future of AI-native search.",
+    "zh": "Srinivas做客投资人Jacob Effron的播客，谈Perplexity的早期增长、与谷歌搜索的正面竞争以及AI原生搜索的未来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2023-03-23",
    "ts": null,
    "kind": "podcast",
@@ -1545,7 +1583,7 @@
   "citations": 2909,
   "hIndex": 15,
   "events": 8,
-  "posts": 67,
+  "posts": 69,
   "wikiEn": null,
   "wikiZh": null
  },

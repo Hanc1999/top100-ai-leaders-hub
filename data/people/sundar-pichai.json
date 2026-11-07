@@ -1403,6 +1403,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2022-05-13",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Vergecast: Google CEO Sundar Pichai on Google I/O 2022",
+    "zh": "Vergecast: Google CEO Sundar Pichai on Google I/O 2022"
+   },
+   "source": "Decoder with Nilay Patel",
+   "url": "https://podcasts.apple.com/us/podcast/vergecast-google-ceo-sundar-pichai-on-google-i-o-2022/id1011668648?i=1000560956835&uo=4",
+   "note": {
+    "en": "Guested on Vergecast with Nilay Patel and David Pierce to discuss Google I/O 2022 and the products announced there.",
+    "zh": "做客Vergecast播客，与Nilay Patel和David Pierce一起探讨2022年Google I/O大会及其发布的产品。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2021-10-18",
    "ts": null,
    "kind": "podcast",
@@ -1556,6 +1575,23 @@
    },
    "source": "The Hans India",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRGYzVm1tVjB6YXd5bnlmVkpoNkM3dWZiazZhMTJZb3lNREZlcUtsbXZVYlA0SWtpWmNueFVMZ2xKaGx3NnVoMklIYU5nRDlOczZPRm01T0pPNXU4YnJRTTNKdDdNMVM3T1ZlcXM0SUY2MWV0YzVqd3RXWXcwbW9SV0tWZ0k1VDBNY0VPQmtFNUJjWGJwRjYwMHUwVXB0QjZLZEV3Z3ptV20zZ1hCeGJjaFRkcUNmM2c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-03",
+   "ts": "2026-11-03T06:51:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Google CEO Sundar Pichai does not fully agree with OpenAI co-founder Greg Brockman on future of AI interface",
+    "zh": "Google CEO Sundar Pichai does not fully agree with OpenAI co-founder Greg Brockman on future of AI interface"
+   },
+   "body": {
+    "en": "Sundar Pichai publicly disagrees with OpenAI co-founder Greg Brockman over the future shape of the AI interface.",
+    "zh": "桑达尔·皮查伊就未来AI交互界面的形态，公开表达与OpenAI联合创始人格雷格·布罗克曼不同的看法。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNVU0ySG5vTDZZcW5CRE1FWVpFWm1uYktuRjJaSm5uV2NUNlphalZwNDh0SG5ROFRLTk1IUk5fcTdZQThxSlpfNmFaY3F4YUNvN3NiWmpFdzdtSHMycGk2VHJETFZqX19WdFNZX2haNVI0QVlVUmQtdjhKV2tPZXg2UW80THE1Nl9XUGI1N1Q1LUd2aGVfQUZOaU9MY1l0VDI2UFByT29UcGhnS2JfZXN5TmMzOG9DZmRqOVY2N1RoRXFlY0tqbHQ3QjU2SERnaXdHbllaUFBPdmdyMkMxUUlrVTEwdXpxYlJfbWNRNENlRGhMQ0VHS2RvSjZKWWxQNDZkNXJtLUlEWE80UWh1a1FOS1dJTlR6bmpIcVVZ?oc=5",
    "auto": true,
    "judged": true
   },
@@ -3513,8 +3549,8 @@
   "pageviews": 1299595,
   "citations": 1,
   "hIndex": 1,
-  "events": 119,
-  "posts": 73,
+  "events": 120,
+  "posts": 74,
   "wikiEn": "Sundar Pichai",
   "wikiZh": "孙达尔·皮柴"
  },

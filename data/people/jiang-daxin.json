@@ -1008,44 +1008,6 @@
    "judged": true,
    "platform": "openalex",
    "connector": "openalex"
-  },
-  {
-   "date": "2025-08-27",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "DistTrain: Addressing Model and Data Heterogeneity with Disaggregated Training for Multimodal Large Language Models",
-    "zh": "DistTrain: Addressing Model and Data Heterogeneity with Disaggregated Training for Multimodal Large Language Models"
-   },
-   "source": "OpenAlex",
-   "url": "https://doi.org/10.1145/3718958.3750472",
-   "note": {
-    "en": "StepFun paper on DistTrain, a disaggregated training system addressing model and data heterogeneity for multimodal LLMs.",
-    "zh": "StepFun团队论文提出DistTrain，一种针对多模态大模型的解耦训练系统，用于应对模型与数据的异构性。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-08-04",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "SE-Agent: Self-Evolution Trajectory Optimization in Multi-Step Reasoning with LLM-Based Agents",
-    "zh": "SE-Agent: Self-Evolution Trajectory Optimization in Multi-Step Reasoning with LLM-Based Agents"
-   },
-   "source": "arXiv (Cornell University)",
-   "url": "http://arxiv.org/abs/2508.02085",
-   "note": {
-    "en": "StepFun paper on SE-Agent, using self-evolving trajectory optimization to improve multi-step reasoning in LLM-based agents.",
-    "zh": "StepFun团队论文提出SE-Agent，通过自我演化的轨迹优化提升基于大模型的智能体的多步推理能力。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
   }
  ],
  "news": [
@@ -1247,7 +1209,7 @@
   "citations": 12459,
   "hIndex": 45,
   "events": 11,
-  "posts": 46,
+  "posts": 44,
   "wikiEn": null,
   "wikiZh": null
  },

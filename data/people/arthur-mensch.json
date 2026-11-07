@@ -1051,6 +1051,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2024-03-28",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ep 31: CEO and Co-Founder of Mistral Arthur Mensch on the Next Frontiers for LLMs, Why Open Source Will Prevail and AI Safety",
+    "zh": "Ep 31: CEO and Co-Founder of Mistral Arthur Mensch on the Next Frontiers for LLMs, Why Open Source Will Prevail and AI Safety"
+   },
+   "source": "Unsupervised Learning with Jacob Effron",
+   "url": "https://podcasts.apple.com/us/podcast/ep-31-ceo-and-co-founder-of-mistral-arthur-mensch/id1672188924?i=1000650730473&uo=4",
+   "note": {
+    "en": "Mensch discusses Mistral's open-source strategy, the next frontiers for large language models, and AI safety in a long-form interview on the Unsupervised Learning podcast.",
+    "zh": "在Unsupervised Learning播客的长篇访谈中，Mensch谈到了Mistral的开源战略、大语言模型的下一个前沿方向以及AI安全问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2024-03-01",
    "ts": null,
    "kind": "paper",
@@ -1808,7 +1827,7 @@
   "citations": 3847,
   "hIndex": 10,
   "events": 17,
-  "posts": 72,
+  "posts": 73,
   "wikiEn": "Arthur Mensch",
   "wikiZh": null
  },

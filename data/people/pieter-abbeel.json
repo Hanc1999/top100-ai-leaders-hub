@@ -867,6 +867,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2023-07-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Yaniv Altshuler: reducing cow methane emissions with AI",
+    "zh": "Yaniv Altshuler: reducing cow methane emissions with AI"
+   },
+   "source": "The Robot Brains Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/yaniv-altshuler-reducing-cow-methane-emissions-with-ai/id1559275284?i=1000622407119&uo=4",
+   "note": {
+    "en": "Abbeel hosts MIT Media Lab researcher Yaniv Altshuler on using AI to cut cattle methane emissions, on his own Robot Brains Podcast.",
+    "zh": "在他自己主持的Robot Brains Podcast节目中，Abbeel邀请MIT媒体实验室研究员Yaniv Altshuler探讨如何用AI减少牛的甲烷排放。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2023-07-12",
    "ts": null,
    "kind": "podcast",
@@ -1057,6 +1076,25 @@
    "connector": "x"
   },
   {
+   "date": "2022-02-23",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "How Wayve is teaching cars to drive",
+    "zh": "How Wayve is teaching cars to drive"
+   },
+   "source": "The Robot Brains Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/how-wayve-is-teaching-cars-to-drive/id1559275284?i=1000551975050&uo=4",
+   "note": {
+    "en": "Abbeel interviews Wayve co-founder and CEO Alex Kendall about teaching cars to drive with AI, on his Robot Brains Podcast.",
+    "zh": "在Robot Brains Podcast节目中，Abbeel采访Wayve联合创始人兼CEO Alex Kendall，探讨如何用AI教汽车驾驶。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2022-01-05",
    "ts": null,
    "kind": "podcast",
@@ -1145,6 +1183,25 @@
    "note": {
     "en": "Abbeel hosts Fei-Fei Li on his Robot Brains podcast, discussing her work bringing AI into the physical world.",
     "zh": "Abbeel在其主持的The Robot Brains Podcast节目中对谈李飞飞,探讨她将AI引入现实物理世界的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2021-07-07",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Anca Dragan on why Asimov's three laws of robotics need updating",
+    "zh": "Anca Dragan on why Asimov's three laws of robotics need updating"
+   },
+   "source": "The Robot Brains Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/anca-dragan-on-why-asimovs-three-laws-of-robotics/id1559275284?i=1000528128237&uo=4",
+   "note": {
+    "en": "Abbeel hosts UC Berkeley professor Anca Dragan to discuss updating Asimov's three laws of robotics, on his Robot Brains Podcast.",
+    "zh": "在Robot Brains Podcast节目中，Abbeel邀请加州大学伯克利分校教授Anca Dragan讨论阿西莫夫机器人三定律应如何更新。"
    },
    "auto": true,
    "judged": true,
@@ -1258,7 +1315,7 @@
   "citations": 79473,
   "hIndex": 123,
   "events": 2,
-  "posts": 56,
+  "posts": 59,
   "wikiEn": "Pieter Abbeel",
   "wikiZh": "彼得·阿比爾"
  },

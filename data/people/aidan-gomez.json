@@ -181,6 +181,25 @@
    }
   },
   {
+   "date": "2026-11-05",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Masterclass Edition: Aidan Gomez on Building Cohere",
+    "zh": "Masterclass Edition: Aidan Gomez on Building Cohere"
+   },
+   "source": "Radical Talks",
+   "url": "https://podcasts.apple.com/us/podcast/masterclass-edition-aidan-gomez-on-building-cohere/id1524902736?i=1000800086483&uo=4",
+   "note": {
+    "en": "Aidan Gomez joins Radical's Jordan Jacobs to discuss building Cohere from before there was a market for enterprise LLMs, drawing on his background as a Transformer paper co-author.",
+    "zh": "Aidan Gomez 与 Radical 联合创始人 Jordan Jacobs 对谈，讲述在企业级大模型市场尚未成形时创办 Cohere 的经历，并谈及他作为 Transformer 论文作者的背景。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-11-01",
    "ts": null,
    "kind": "podcast",
@@ -2192,16 +2211,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 43.4,
+  "total": 43.6,
   "attention": 44,
   "centrality": 43,
-  "momentum": 56,
+  "momentum": 57,
   "stature": 12,
   "pageviews": 68965,
   "citations": 8859,
   "hIndex": 15,
   "events": 14,
-  "posts": 94,
+  "posts": 95,
   "wikiEn": "Aidan Gomez",
   "wikiZh": "艾丹·高梅茲"
  },

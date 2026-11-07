@@ -1076,6 +1076,25 @@
    "connector": "backfill"
   },
   {
+   "date": "2022-10-18",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Microsoft CTO Kevin Scott | The Impact of AI on Cognitive Work",
+    "zh": "Microsoft CTO Kevin Scott | The Impact of AI on Cognitive Work"
+   },
+   "source": "Greymatter",
+   "url": "https://podcasts.apple.com/us/podcast/microsoft-cto-kevin-scott-the-impact-of-ai-on-cognitive-work/id1089013200?i=1000583054205&uo=4",
+   "note": {
+    "en": "Microsoft CTO Kevin Scott joined Greylock's Reid Hoffman to discuss AI's impact on cognitive and knowledge work.",
+    "zh": "微软CTO Kevin Scott与Greylock的Reid Hoffman对谈,探讨AI对认知类/知识型工作的影响。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2022-07-05",
    "ts": null,
    "kind": "podcast",
@@ -1107,6 +1126,44 @@
    "note": {
     "en": "Episode of Scott's own podcast, a wide-ranging conversation with science-fiction author Charles Stross on how sci-fi draws people into science and engineering.",
     "zh": "斯科特自己主持的播客中的一期，与科幻作家 Charles Stross 展开广泛对谈，谈科幻如何把人引向科学与工程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2020-04-14",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Kevin Scott and Reprogramming the American Dream",
+    "zh": "Kevin Scott and Reprogramming the American Dream"
+   },
+   "source": "Behind The Tech with Kevin Scott",
+   "url": "https://podcasts.apple.com/us/podcast/kevin-scott-and-reprogramming-the-american-dream/id1381008946?i=1000471383066&uo=4",
+   "note": {
+    "en": "Scott discussed his book 'Reprogramming the American Dream' with co-author Greg Shaw on his own podcast, Behind the Tech.",
+    "zh": "Scott在自己主持的播客Behind the Tech中,与合著者Greg Shaw探讨了他的新书《Reprogramming the American Dream》。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2020-04-07",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Microsoft CTO Kevin Scott on AI for rural America",
+    "zh": "Microsoft CTO Kevin Scott on AI for rural America"
+   },
+   "source": "The Vergecast",
+   "url": "https://podcasts.apple.com/us/podcast/microsoft-cto-kevin-scott-on-ai-for-rural-america/id430333725?i=1000470736676&uo=4",
+   "note": {
+    "en": "The Verge's Nilay Patel interviewed Microsoft CTO Kevin Scott about his book on AI and rural America.",
+    "zh": "The Verge的Nilay Patel采访了微软CTO Kevin Scott,探讨他关于AI与美国农村议题的著作。"
    },
    "auto": true,
    "judged": true,
@@ -1355,7 +1412,7 @@
   "citations": 38763,
   "hIndex": 96,
   "events": 1,
-  "posts": 64,
+  "posts": 67,
   "wikiEn": "Kevin Scott (businessman)",
   "wikiZh": null
  },

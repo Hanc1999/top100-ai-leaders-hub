@@ -734,6 +734,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2025-03-19",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Chad Byers, Car Dealership Guy, Scott Wu, Soren Monroe, Joe Weisenthal, PepsiCo, Fooling Tesla FSD",
+    "zh": "Chad Byers, Car Dealership Guy, Scott Wu, Soren Monroe, Joe Weisenthal, PepsiCo, Fooling Tesla FSD"
+   },
+   "source": "TBPN",
+   "url": "https://podcasts.apple.com/us/podcast/chad-byers-car-dealership-guy-scott-wu-soren-monroe/id1772360235?i=1000699733848&uo=4",
+   "note": {
+    "en": "Scott Wu joined TBPN alongside other tech and business guests for a wide-ranging live conversation.",
+    "zh": "Scott Wu与其他科技和商业嘉宾一同做客TBPN节目，参与了一场内容广泛的直播对谈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2024-12-17",
    "ts": null,
    "kind": "podcast",
@@ -977,7 +996,7 @@
   "citations": 243,
   "hIndex": 6,
   "events": 8,
-  "posts": 38,
+  "posts": 39,
   "wikiEn": "Scott Wu",
   "wikiZh": null
  },

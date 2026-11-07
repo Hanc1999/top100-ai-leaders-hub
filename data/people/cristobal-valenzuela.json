@@ -562,6 +562,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2023-12-07",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "The Future of Generative AI Video with Cristóbal Valenzuela, CEO and Co-Founder of Runway",
+    "zh": "The Future of Generative AI Video with Cristóbal Valenzuela, CEO and Co-Founder of Runway"
+   },
+   "source": "Founders in Arms",
+   "url": "https://podcasts.apple.com/us/podcast/the-future-of-generative-ai-video-with/id1679703534?i=1000637853370&uo=4",
+   "note": {
+    "en": "Cristóbal Valenzuela discusses the future of generative AI video and Runway's role in shaping it with hosts Immad and Rajat.",
+    "zh": "Cristóbal Valenzuela 与主持人 Immad 和 Rajat 探讨生成式AI视频的未来，以及 Runway 在其中扮演的角色。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2023-08-30",
    "ts": null,
    "kind": "podcast",
@@ -712,6 +731,25 @@
    "judged": true,
    "platform": "apple-podcasts",
    "connector": "podcasts"
+  },
+  {
+   "date": "2019-07-18",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#21: Cristóbal Valenzuela — Machine Learning for Creators",
+    "zh": "#21: Cristóbal Valenzuela — Machine Learning for Creators"
+   },
+   "source": "Getting Simple",
+   "url": "https://podcasts.apple.com/us/podcast/21-crist%C3%B3bal-valenzuela-machine-learning-for-creators/id1319158020?i=1000444752734&uo=4",
+   "note": {
+    "en": "Early interview with Cristóbal Valenzuela on using machine learning to empower creators and co-founding RunwayML.",
+    "zh": "Cristóbal Valenzuela 早期访谈，谈及用机器学习赋能创作者，以及联合创立 RunwayML 的经历。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   }
  ],
  "news": [
@@ -746,7 +784,7 @@
   "citations": 16,
   "hIndex": 2,
   "events": 1,
-  "posts": 30,
+  "posts": 32,
   "wikiEn": "Cristóbal Valenzuela",
   "wikiZh": null
  },

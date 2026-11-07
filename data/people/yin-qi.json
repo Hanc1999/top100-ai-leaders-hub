@@ -1,5 +1,5 @@
 {
- "rank": 71,
+ "rank": 70,
  "id": "yin-qi",
  "name": {
   "en": "Yin Qi",
@@ -337,6 +337,25 @@
    "judged": true,
    "platform": "apple-podcasts",
    "connector": "podcasts"
+  },
+  {
+   "date": "2021-02-10",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "BOSS说 印奇：没有一家公司能叫自己人工智能公司",
+    "zh": "BOSS说 印奇：没有一家公司能叫自己人工智能公司"
+   },
+   "source": "财经周刊：商业财经动向全掌握",
+   "url": "https://podcasts.apple.com/us/podcast/boss%E8%AF%B4-%E5%8D%B0%E5%A5%87-%E6%B2%A1%E6%9C%89%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8%E8%83%BD%E5%8F%AB%E8%87%AA%E5%B7%B1%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%AC%E5%8F%B8/id908241766?i=1000668746300&uo=4",
+   "note": {
+    "en": "In a direct interview, Yin Qi argued no company should call itself an AI company outright, a stance reflecting his approach of embedding AI into intelligent driving and hardware rather than branding around it.",
+    "zh": "印奇在一次直接访谈中提出，没有一家公司能单纯自称“人工智能公司”，这反映了他将AI嵌入智能驾驶与硬件而非单纯以AI为标签的思路。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
   },
   {
    "date": "2015-11-30",
@@ -2181,7 +2200,7 @@
   "citations": 1762,
   "hIndex": 22,
   "events": 103,
-  "posts": 13,
+  "posts": 14,
   "wikiEn": "Yin Qi",
   "wikiZh": "印奇"
  },

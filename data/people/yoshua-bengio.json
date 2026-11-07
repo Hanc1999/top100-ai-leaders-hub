@@ -1,5 +1,5 @@
 {
- "rank": 30,
+ "rank": 29,
  "id": "yoshua-bengio",
  "name": {
   "en": "Yoshua Bengio",
@@ -167,6 +167,25 @@
     "en": "A formal safety case for Scientist AI: an AI that predicts but has no hidden agenda.",
     "zh": "为「科学家 AI」给出的形式化安全论证：一个只做预测、没有隐藏议程的 AI。"
    }
+  },
+  {
+   "date": "2026-11-05",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+    "zh": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.08438v1",
+   "note": {
+    "en": "A survey co-authored by Bengio summarizing the state of mechanistic interpretability research for AI safety.",
+    "zh": "Bengio参与撰写的一篇综述，总结了面向AI安全的机制可解释性研究现状。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-11-02",
@@ -1727,25 +1746,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2026-05-18",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Interpretable epistemic uncertainty decomposition in sequential generative models via polynomial chaos surrogates",
-    "zh": "Interpretable epistemic uncertainty decomposition in sequential generative models via polynomial chaos surrogates"
-   },
-   "source": "Research Square",
-   "url": "https://doi.org/10.21203/rs.3.rs-9521261/v1",
-   "note": {
-    "en": "Co-authored paper decomposing epistemic uncertainty in sequential generative models using polynomial chaos surrogate methods.",
-    "zh": "合著论文提出用多项式混沌代理方法分解序列生成模型中的认知不确定性。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
    "date": "2026-05-16",
    "ts": null,
    "kind": "podcast",
@@ -1834,6 +1834,25 @@
    "note": {
     "en": "Bengio and Tristan Harris in conversation at Davos on the competitive race to build superintelligence and the gamble it represents.",
     "zh": "Bengio 与 Tristan Harris 在达沃斯对谈，讨论建造超级智能的竞赛，以及这场竞赛所包含的赌注。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-02-16",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Godfather of AI: AI Already Has Goals We Never Gave It — Here's What That Means for You | Yoshua Bengio",
+    "zh": "Godfather of AI: AI Already Has Goals We Never Gave It — Here's What That Means for You | Yoshua Bengio"
+   },
+   "source": "Silicon Valley Girl",
+   "url": "https://podcasts.apple.com/us/podcast/godfather-of-ai-ai-already-has-goals-we-never-gave/id1819090545?i=1000750010733&uo=4",
+   "note": {
+    "en": "Bengio told host Marina Mogilko that AI systems are already pursuing goals we never intended, and explained what that means for people today.",
+    "zh": "Bengio告诉主持人Marina Mogilko，AI系统已经在追求人类从未赋予的目标，并解释了这对当下的人们意味着什么。"
    },
    "auto": true,
    "judged": true,
@@ -3357,16 +3376,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 62.9,
+  "total": 63.1,
   "attention": 67,
   "centrality": 30,
-  "momentum": 78,
+  "momentum": 79,
   "stature": 98,
   "pageviews": 276660,
   "citations": 475043,
   "hIndex": 184,
   "events": 70,
-  "posts": 106,
+  "posts": 107,
   "wikiEn": "Yoshua Bengio",
   "wikiZh": "约书亚·本希奥"
  },

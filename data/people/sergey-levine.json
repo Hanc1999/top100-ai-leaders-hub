@@ -181,6 +181,25 @@
    }
   },
   {
+   "date": "2026-11-04",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "MAC-v2: Long-horizon model-based value expansion from pixels",
+    "zh": "MAC-v2: Long-horizon model-based value expansion from pixels"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.07245v1",
+   "note": {
+    "en": "MAC-v2 proposes long-horizon model-based value expansion for pixel-based offline reinforcement learning, extending Levine's work on model-based RL from visual inputs.",
+    "zh": "MAC-v2提出了面向基于像素的离线强化学习的长时域基于模型价值扩展方法，延续了Levine在视觉输入模型化强化学习方面的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-11-03",
    "ts": null,
    "kind": "paper",
@@ -922,25 +941,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2026-01-20",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Q-learning with Adjoint Matching",
-    "zh": "Q-learning with Adjoint Matching"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2601.14234v4",
-   "note": {
-    "en": "Q-learning with Adjoint Matching, a temporal-difference method for efficient optimization in continuous-action reinforcement learning.",
-    "zh": "提出伴随匹配 Q 学习（QAM），一种面向连续动作强化学习的高效时序差分方法。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2025-10-11",
    "ts": null,
    "kind": "x",
@@ -1492,6 +1492,25 @@
    "connector": "x"
   },
   {
+   "date": "2024-03-17",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#176 Sergey Levine: Decoding The Evolution of AI in Robotics",
+    "zh": "#176 Sergey Levine: Decoding The Evolution of AI in Robotics"
+   },
+   "source": "Eye On A.I.",
+   "url": "https://podcasts.apple.com/us/podcast/176-sergey-levine-decoding-the-evolution-of-ai-in-robotics/id1438378439?i=1000649481849&uo=4",
+   "note": {
+    "en": "Sergey Levine spoke with host Craig Smith on Eye on AI about the evolution of robot learning and how large models are reshaping manipulation policies.",
+    "zh": "Sergey Levine在Eye on AI节目中与主持人Craig Smith探讨机器人学习的演进，以及大模型如何重塑操控策略。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2024-03-12",
    "ts": null,
    "kind": "x",
@@ -1752,7 +1771,7 @@
   "citations": 63110,
   "hIndex": 112,
   "events": 1,
-  "posts": 82,
+  "posts": 83,
   "wikiEn": "Sergey Levine",
   "wikiZh": null
  },

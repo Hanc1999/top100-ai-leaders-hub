@@ -234,6 +234,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2024-05-14",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Adept CEO David Luan on Upleveling Human Work",
+    "zh": "Adept CEO David Luan on Upleveling Human Work"
+   },
+   "source": "Product-Led AI",
+   "url": "https://podcasts.apple.com/us/podcast/adept-ceo-david-luan-on-upleveling-human-work/id1743823599?i=1000655549176&uo=4",
+   "note": {
+    "en": "David Luan discusses leading Adept's engineering and product work and his thinking on AI agents that operate software to augment human work.",
+    "zh": "David Luan在节目中谈及他在Adept领导工程与产品工作的经历，以及让AI代理操作软件以提升人类工作效率的思路。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2024-03-22",
    "ts": null,
    "kind": "podcast",
@@ -450,7 +469,7 @@
   "citations": 2702,
   "hIndex": 2,
   "events": 4,
-  "posts": 13,
+  "posts": 14,
   "wikiEn": null,
   "wikiZh": null
  },

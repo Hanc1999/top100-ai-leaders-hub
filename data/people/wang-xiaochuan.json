@@ -259,6 +259,25 @@
    "connector": "podcasts_zh"
   },
   {
+   "date": "2024-04-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "S4E01 | 对话王小川：理想主义和现实主义，都只是 AGI 的二维投影",
+    "zh": "S4E01 | 对话王小川：理想主义和现实主义，都只是 AGI 的二维投影"
+   },
+   "source": "商业WHY酱",
+   "url": "https://podcasts.apple.com/us/podcast/s4e01-%E5%AF%B9%E8%AF%9D%E7%8E%8B%E5%B0%8F%E5%B7%9D-%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E5%92%8C%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89-%E9%83%BD%E5%8F%AA%E6%98%AF-agi-%E7%9A%84%E4%BA%8C%E7%BB%B4%E6%8A%95%E5%BD%B1/id1584252224?i=1000652212443&uo=4",
+   "note": {
+    "en": "Interview with Wang Xiaochuan on the 商业WHY酱 podcast, where he frames idealism and realism as two projections of the same AGI question and discusses capital's cooling enthusiasm for large-model startups.",
+    "zh": "王小川在播客「商业WHY酱」中的访谈，他将理想主义与现实主义视为AGI问题的两种投影，并谈及资本对大模型创业公司热情的降温。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
    "date": "2024-03-17",
    "ts": null,
    "kind": "podcast",
@@ -995,7 +1014,7 @@
   "citations": 6754,
   "hIndex": 46,
   "events": 37,
-  "posts": 12,
+  "posts": 13,
   "wikiEn": "Wang Xiaochuan",
   "wikiZh": "王小川"
  },

@@ -1127,6 +1127,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2019-06-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AI’s Near Future",
+    "zh": "AI’s Near Future"
+   },
+   "source": "Azeem Azhar's Exponential View",
+   "url": "https://podcasts.apple.com/us/podcast/ais-near-future/id1172218725?i=1000441306593&uo=4",
+   "note": {
+    "en": "Schmidhuber tells Azeem Azhar that AI is more than a technological revolution — a chance to transcend biology — while discussing LSTM's role in the field's progress.",
+    "zh": "Schmidhuber 在 Azeem Azhar 的节目中表示，人工智能不仅是一场技术革命，更是超越生物学限制的机会，并谈到 LSTM 在该领域发展中的作用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2018-11-01",
    "ts": null,
    "kind": "podcast",
@@ -1271,7 +1290,7 @@
   "citations": 185831,
   "hIndex": 89,
   "events": 2,
-  "posts": 57,
+  "posts": 58,
   "wikiEn": "Jürgen Schmidhuber",
   "wikiZh": "于尔根·施密德胡伯"
  },

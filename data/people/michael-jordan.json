@@ -854,6 +854,44 @@
    "connector": "arxiv"
   },
   {
+   "date": "2025-08-20",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Michael I. Jordan on a collectivist perspective on AI, humble genius, design for social welfare, and the missing middle kingdom",
+    "zh": "Michael I. Jordan on a collectivist perspective on AI, humble genius, design for social welfare, and the missing middle kingdom"
+   },
+   "source": "Humans + AI",
+   "url": "https://podcasts.apple.com/us/podcast/michael-i-jordan-on-a-collectivist-perspective-on/id1587122507?i=1000722815157&uo=4",
+   "note": {
+    "en": "Michael I. Jordan argues for a collectivist view of AI: interacting with an LLM means interacting with a collective, not a singular intelligence.",
+    "zh": "Michael I. Jordan提出AI的集体主义视角，认为与大语言模型交互本质上是在与一个集体而非单一智能互动。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2020-09-07",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "What are the Implications of Algorithmic Thinking? with Michael I. Jordan",
+    "zh": "What are the Implications of Algorithmic Thinking? with Michael I. Jordan"
+   },
+   "source": "The TWIML AI Podcast (formerly This We…",
+   "url": "https://podcasts.apple.com/us/podcast/what-are-the-implications-of-algorithmic/id1116303051?i=1000490344160&uo=4",
+   "note": {
+    "en": "Michael I. Jordan discusses the implications of algorithmic thinking on The TWIML AI Podcast.",
+    "zh": "Michael I. Jordan在TWIML AI播客中探讨了算法思维的影响。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2020-02-24",
    "ts": null,
    "kind": "podcast",
@@ -936,7 +974,7 @@
   "citations": 181936,
   "hIndex": 163,
   "events": 3,
-  "posts": 38,
+  "posts": 40,
   "wikiEn": "Michael I. Jordan",
   "wikiZh": "迈克尔·乔丹 (学者)"
  },

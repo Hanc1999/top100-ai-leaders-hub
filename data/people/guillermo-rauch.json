@@ -1134,6 +1134,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2019-08-27",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#64 Guillermo Rauch learned with communities",
+    "zh": "#64 Guillermo Rauch learned with communities"
+   },
+   "source": "Software Developers Journey",
+   "url": "https://podcasts.apple.com/us/podcast/64-guillermo-rauch-learned-with-communities/id1079113167?i=1000447879598&uo=4",
+   "note": {
+    "en": "Rauch talks about his early path into software and how community involvement shaped his career, on the Software Developers Journey podcast.",
+    "zh": "Guillermo Rauch在Software Developers Journey播客中谈及他早期进入软件行业的经历，以及社区参与如何塑造了他的职业生涯。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2016-06-22",
    "ts": null,
    "kind": "podcast",
@@ -1306,7 +1325,7 @@
   "citations": 9,
   "hIndex": 1,
   "events": 7,
-  "posts": 56,
+  "posts": 57,
   "wikiEn": null,
   "wikiZh": null
  },

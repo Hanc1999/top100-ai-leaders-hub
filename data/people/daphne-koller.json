@@ -652,6 +652,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2023-10-03",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AI Revolution with Daphne Koller",
+    "zh": "AI Revolution with Daphne Koller"
+   },
+   "source": "Raising Health",
+   "url": "https://podcasts.apple.com/us/podcast/ai-revolution-with-daphne-koller/id1529318900?i=1000630039490&uo=4",
+   "note": {
+    "en": "Daphne Koller joined the Raising Health podcast live from the AI Revolutionaries conference to discuss AI's role in drug discovery at insitro.",
+    "zh": "Daphne Koller在AI Revolutionaries大会现场做客Raising Health播客，谈论人工智能在insitro药物研发中的作用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2023-09-27",
    "ts": null,
    "kind": "podcast",
@@ -664,6 +683,44 @@
    "note": {
     "en": "Conversation with a16z's Vijay Pande on engineering drug discovery with machine learning, including what a language model for cells would mean.",
     "zh": "与 a16z 的 Vijay Pande 对谈如何用机器学习重构药物研发，包括「细胞的大语言模型」意味着什么。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-06-13",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ep 24: Insitro CEO Daphne Koller on Using ML to Change Drug Discovery",
+    "zh": "Ep 24: Insitro CEO Daphne Koller on Using ML to Change Drug Discovery"
+   },
+   "source": "Vital Signs with Jacob Effron and Nikh…",
+   "url": "https://podcasts.apple.com/us/podcast/ep-24-insitro-ceo-daphne-koller-on-using-ml-to-change/id1633120652?i=1000616877543&uo=4",
+   "note": {
+    "en": "Daphne Koller joins the Vital Signs podcast to discuss founding Coursera and how machine learning — including foundation models — can drive core drug discovery at Insitro.",
+    "zh": "Daphne Koller 做客播客 Vital Signs，谈及创立 Coursera 的经历，以及机器学习（包括基础模型）如何推动 Insitro 的核心药物发现工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2023-04-13",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AI and Actionable Insights for Drug Development with Daphne Koller",
+    "zh": "AI and Actionable Insights for Drug Development with Daphne Koller"
+   },
+   "source": "Raising Health",
+   "url": "https://podcasts.apple.com/us/podcast/ai-and-actionable-insights-for-drug-development/id1529318900?i=1000608792064&uo=4",
+   "note": {
+    "en": "Daphne Koller discussed actionable AI insights for drug development on the Raising Health podcast, drawing on her work at insitro.",
+    "zh": "Daphne Koller在Raising Health播客中结合她在insitro的工作，讨论了人工智能在药物开发中可付诸行动的洞见。"
    },
    "auto": true,
    "judged": true,
@@ -1670,7 +1727,7 @@
   "citations": 61723,
   "hIndex": 122,
   "events": 2,
-  "posts": 78,
+  "posts": 81,
   "wikiEn": "Daphne Koller",
   "wikiZh": "達芙妮·科勒"
  },

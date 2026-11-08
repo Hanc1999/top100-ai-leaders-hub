@@ -1,5 +1,5 @@
 {
- "rank": 75,
+ "rank": 74,
  "id": "kai-yu",
  "name": {
   "en": "Kai Yu",
@@ -872,6 +872,23 @@
    },
    "source": "每日经济新闻",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sRkZnZWhvRGdBSS03cUlkdV9hanJpUDJJaF9WY3lFSEh3TnVOQmlham9jX1JxTGlZXy1LNU5YMFhoSVBLSWpYTnZEV1doOU4yakRyXy1nNVY5OUZrM3NqWUh0ZEdTZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-06",
+   "ts": "2026-11-06T07:32:07Z",
+   "level": "notable",
+   "title": {
+    "en": "地平线余凯：今年与大众合作推出7款车型，DDR价格明年或继续上涨",
+    "zh": "地平线余凯：今年与大众合作推出7款车型，DDR价格明年或继续上涨"
+   },
+   "body": {
+    "en": "Kai Yu said Horizon Robotics will launch seven vehicle models with Volkswagen this year and expects DDR memory prices to keep rising next year.",
+    "zh": "余凯表示地平线今年将与大众合作推出七款车型，并预计DDR内存价格明年可能继续上涨。"
+   },
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JTmdnVmk4Y0xnblB0cWxNeHpEODAwZEhzd2NTV3FKajRCY2cxMnI4R3piZ0xoSVViVThuZUVqWTQzRUFjT1pkOEkwODY1Q2dISzFfRDhpaEdZZWZXNTRwaWstS2VlQQ?oc=5",
    "auto": true,
    "judged": true
   },
@@ -3834,6 +3851,23 @@
    "judged": true
   },
   {
+   "date": "2026-05-16",
+   "ts": "2026-05-16T07:00:00Z",
+   "level": "minor",
+   "title": {
+    "en": "地平线余凯：自动驾驶这场仗远远没有结束，甚至只是刚刚开始",
+    "zh": "地平线余凯：自动驾驶这场仗远远没有结束，甚至只是刚刚开始"
+   },
+   "body": {
+    "en": "Kai Yu said the autonomous-driving race is far from over and has only just begun.",
+    "zh": "余凯表示自动驾驶这场竞赛远未结束，甚至才刚刚开始。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU2F6ZmVnUzdoa2dtU2g0aHVQeEQ2T0p1YVJWVVNQSUpjWFVSWGY0bHZEZTg4d0pkazhDMzdqYzJ3YVM4NmIwTG5Sd1Z1THlKT0ViMW1weWROa2VZNkNfT1BjLUlhTlJXZEV0dWxZNVNwN1RNR3VibjhZSmFxSkliU0hqeGNockIyNndqQ3lCcHpOcldSUW5zeTUtbmozeHoxR1d0YlJFOTRQXzRDMS1SX2tybThfSjZSSkpzRTVXNVhCQnBRdXJlR0czRTY3ZkFJN05N?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-05-15",
    "ts": "2026-05-15T07:00:00Z",
    "level": "notable",
@@ -4249,15 +4283,15 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 30.6,
+  "total": 30.9,
   "attention": 3,
   "centrality": 25,
-  "momentum": 89,
+  "momentum": 90,
   "stature": 34,
   "pageviews": 700,
   "citations": 21491,
   "hIndex": 66,
-  "events": 203,
+  "events": 205,
   "posts": 33,
   "wikiEn": null,
   "wikiZh": "余凯"

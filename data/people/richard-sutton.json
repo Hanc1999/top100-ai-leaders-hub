@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-11-07",
+   "ts": "2026-11-07T18:57:53Z",
+   "kind": "x",
+   "title": {
+    "en": "Brute force computation is not enough for intelligence. Clever new methods are needed. The science of AI is far from finished. IMHO",
+    "zh": "Brute force computation is not enough for intelligence. Clever new methods are needed. The science of AI is far from finished. IMHO"
+   },
+   "source": "@richardssutton",
+   "url": "https://x.com/RichardSSutton/status/2119142310894334262",
+   "note": {
+    "en": "Sutton argues brute-force compute alone won't produce intelligence and new methods are still needed, reiterating his view that \"The Bitter Lesson\" is widely misread.",
+    "zh": "萨顿认为仅靠暴力计算无法产生智能，仍需新的方法，重申他认为《苦涩的教训》一文被普遍误读的观点。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-03",
    "ts": "2026-11-03T19:28:41Z",
    "kind": "x",
@@ -1266,25 +1285,6 @@
    "connector": null
   },
   {
-   "date": "2024-11-24",
-   "ts": "2024-11-24T22:51:53Z",
-   "kind": "x",
-   "title": {
-    "en": "The original RL algorithms, inspired by natural learning, were online and incremental—they were streaming in the sense that they learned from each increment of",
-    "zh": "The original RL algorithms, inspired by natural learning, were online and incremental—they were streaming in the sense that they learned from each increment of"
-   },
-   "source": "@richardssutton",
-   "url": "https://x.com/RichardSSutton/status/1860818651953463542",
-   "note": {
-    "en": "Explains how the original RL algorithms were inherently online, incremental and streaming, inspired by natural learning.",
-    "zh": "他阐述了最初的强化学习算法为何天生具有在线、增量、流式的特点,灵感来自自然学习过程。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2024-09-05",
    "ts": null,
    "kind": "paper",
@@ -1811,10 +1811,10 @@
  },
  "cat": "research",
  "score": {
-  "total": 38.1,
+  "total": 38.7,
   "attention": 58,
   "centrality": 4,
-  "momentum": 26,
+  "momentum": 29,
   "stature": 69,
   "pageviews": 148658,
   "citations": 68231,

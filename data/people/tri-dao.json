@@ -1645,6 +1645,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2023-10-24",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Generation AI Podcast Episode #3 Tri Dao",
+    "zh": "Generation AI Podcast Episode #3 Tri Dao"
+   },
+   "source": "Generation AI",
+   "url": "https://podcasts.apple.com/us/podcast/generation-ai-podcast-episode-3-tri-dao/id1701867555?i=1000632463907&uo=4",
+   "note": {
+    "en": "Guest interview on the Generation AI podcast where Tri Dao discusses FlashAttention, his fast and memory-efficient attention algorithm for Transformers developed at Stanford.",
+    "zh": "在Generation AI播客的访谈节目中，Tri Dao介绍了他在斯坦福大学开发的FlashAttention——一种快速、高效的Transformer注意力机制实现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2023-07-26",
    "ts": null,
    "kind": "podcast",
@@ -1696,7 +1715,7 @@
   "citations": 2310,
   "hIndex": 17,
   "events": 1,
-  "posts": 80,
+  "posts": 81,
   "wikiEn": null,
   "wikiZh": null
  },

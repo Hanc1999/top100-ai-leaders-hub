@@ -1754,6 +1754,25 @@
    "connector": null
   },
   {
+   "date": "2024-02-15",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Shaping the World of Robotics with Chelsea Finn",
+    "zh": "Shaping the World of Robotics with Chelsea Finn"
+   },
+   "source": "Gradient Dissent: Conversations on AI",
+   "url": "https://podcasts.apple.com/us/podcast/shaping-the-world-of-robotics-with-chelsea-finn/id1504567418?i=1000645477172&uo=4",
+   "note": {
+    "en": "Finn appears on the Gradient Dissent podcast to discuss her Stanford robotics and machine-learning research.",
+    "zh": "Chelsea Finn做客Gradient Dissent播客，探讨她在斯坦福大学的机器人与机器学习研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2023-03-22",
    "ts": null,
    "kind": "podcast",
@@ -1766,6 +1785,25 @@
    "note": {
     "en": "Finn talks with Pieter Abbeel about distribution shift, meta-learning, model editing and single-life RL.",
     "zh": "Finn 与 Pieter Abbeel 对谈分布偏移、元学习、模型编辑与单次生命强化学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2022-11-03",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Chelsea Finn, Stanford: The biggest bottlenecks in robotics and reinforcement learning",
+    "zh": "Chelsea Finn, Stanford: The biggest bottlenecks in robotics and reinforcement learning"
+   },
+   "source": "Generally Intelligent",
+   "url": "https://podcasts.apple.com/us/podcast/chelsea-finn-stanford-the-biggest-bottlenecks-in/id1544921720?i=1000584989705&uo=4",
+   "note": {
+    "en": "Finn joins the Generally Intelligent podcast to discuss the biggest bottlenecks in robotics and reinforcement learning research.",
+    "zh": "Chelsea Finn做客Generally Intelligent播客，探讨机器人学与强化学习研究中最大的瓶颈。"
    },
    "auto": true,
    "judged": true,
@@ -1792,6 +1830,63 @@
    "connector": "podcasts"
   },
   {
+   "date": "2021-10-14",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Chelsea Finn on Meta Learning & Model Based Reinforcement Learning",
+    "zh": "Chelsea Finn on Meta Learning & Model Based Reinforcement Learning"
+   },
+   "source": "The Gradient: Perspectives on AI",
+   "url": "https://podcasts.apple.com/us/podcast/chelsea-finn-on-meta-learning-model-based-reinforcement/id1569777340?i=1000538612824&uo=4",
+   "note": {
+    "en": "Finn is interviewed on The Gradient podcast about meta-learning and model-based reinforcement learning.",
+    "zh": "Chelsea Finn接受The Gradient播客采访，谈论元学习与基于模型的强化学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2020-10-15",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "[10] Chelsea Finn - Learning to Learn with Gradients",
+    "zh": "[10] Chelsea Finn - Learning to Learn with Gradients"
+   },
+   "source": "The Thesis Review",
+   "url": "https://podcasts.apple.com/us/podcast/10-chelsea-finn-learning-to-learn-with-gradients/id1518425004?i=1000494904808&uo=4",
+   "note": {
+    "en": "Finn discusses her PhD thesis on gradient-based meta-learning, 'learning to learn,' on The Thesis Review podcast.",
+    "zh": "Chelsea Finn在The Thesis Review播客中介绍她关于基于梯度的元学习（学会学习）的博士论文。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2020-01-02",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Trends in Reinforcement Learning with Chelsea Finn",
+    "zh": "Trends in Reinforcement Learning with Chelsea Finn"
+   },
+   "source": "The TWIML AI Podcast (formerly This We…",
+   "url": "https://podcasts.apple.com/us/podcast/trends-in-reinforcement-learning-with-chelsea-finn/id1116303051?i=1000461413069&uo=4",
+   "note": {
+    "en": "Finn joins the TWIML AI Podcast's year-in-review episode to discuss trends in reinforcement learning.",
+    "zh": "Chelsea Finn在TWIML AI Podcast年度回顾节目中探讨强化学习的发展趋势。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2019-07-16",
    "ts": null,
    "kind": "podcast",
@@ -1804,6 +1899,25 @@
    "note": {
     "en": "Finn appears as the guest on Eye on A.I. episode 19, discussing her path into robotics research and her work in meta-learning.",
     "zh": "Finn作为嘉宾出现在Eye on A.I.播客第19期，讲述她进入机器人研究领域的历程及元学习方面的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2017-06-23",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Robotic Perception and Control with Chelsea Finn - TWiML Talk #29",
+    "zh": "Robotic Perception and Control with Chelsea Finn - TWiML Talk #29"
+   },
+   "source": "The TWIML AI Podcast (formerly This We…",
+   "url": "https://podcasts.apple.com/us/podcast/robotic-perception-and-control-with-chelsea-finn/id1116303051?i=1000389022337&uo=4",
+   "note": {
+    "en": "As a UC Berkeley PhD student, Finn discusses robotic perception and control research on TWIML Talk #29.",
+    "zh": "作为加州大学伯克利分校博士生，Chelsea Finn在TWIML Talk第29期节目中谈论机器人感知与控制研究。"
    },
    "auto": true,
    "judged": true,
@@ -1846,7 +1960,7 @@
   "citations": 26696,
   "hIndex": 64,
   "events": 1,
-  "posts": 88,
+  "posts": 94,
   "wikiEn": "Chelsea Finn",
   "wikiZh": null
  },

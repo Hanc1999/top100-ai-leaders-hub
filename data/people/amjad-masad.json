@@ -1,5 +1,5 @@
 {
- "rank": 56,
+ "rank": 55,
  "id": "amjad-masad",
  "name": {
   "en": "Amjad Masad",
@@ -1281,6 +1281,23 @@
    "url": "https://replit.com/news/funding-announcement"
   },
   {
+   "date": "2026-11-07",
+   "ts": "2026-11-07T20:28:36Z",
+   "level": "notable",
+   "title": {
+    "en": "Paul Graham and Amjad Masad: Replit's enterprise customers replace $10M software projects for $250K",
+    "zh": "Paul Graham and Amjad Masad: Replit's enterprise customers replace $10M software projects for $250K"
+   },
+   "body": {
+    "en": "Masad says Replit's enterprise customers are replacing $10M software projects with $250K agent-built ones, a traction claim for the company's enterprise push.",
+    "zh": "Masad表示，Replit的企业客户正用25万美元的智能体项目取代耗资1000万美元的软件项目，这是公司拓展企业市场的业绩说法。"
+   },
+   "source": "Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUG5GbWJkUjdteDFVd0FWVmVQeVpwOE1sTlBycno4cWk0UVBfTExZV0twbmM3SkRyY0dLZVVKQ0JHbDl0YVhZWTRvVkI1aTUzMVRUVjFfSldnTkh3bGZiRjFkc3hrOF93emw5bDl1V0k1TnVGNW9TTXB4aGcwdjg5RzRlV1AxWmpMcXdTcS13ZHJSV2NXVFR3OHM0T2tqZnBqMENIYVFRUHhqZ2VEdGRmczJ6QkVnS3BmNXdYTmEzOVlaSWtTay14N2tB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-17",
    "ts": "2026-10-17T05:30:02Z",
    "level": "notable",
@@ -1441,15 +1458,15 @@
  },
  "cat": "product",
  "score": {
-  "total": 42.5,
+  "total": 43.2,
   "attention": 49,
   "centrality": 39,
-  "momentum": 35,
+  "momentum": 38,
   "stature": null,
   "pageviews": 87011,
   "citations": 0,
   "hIndex": 0,
-  "events": 10,
+  "events": 11,
   "posts": 60,
   "wikiEn": "Amjad Masad",
   "wikiZh": null

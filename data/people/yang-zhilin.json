@@ -272,6 +272,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2026-08-04",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "对话Kimi创始人杨植麟：K2、Agentic LLM、缸中之脑、艰难的泛化、用L4解决L3、长文本影响智商、“站在无限的开端”",
+    "zh": "对话Kimi创始人杨植麟：K2、Agentic LLM、缸中之脑、艰难的泛化、用L4解决L3、长文本影响智商、“站在无限的开端”"
+   },
+   "source": "Tracking the economy of tomorrow",
+   "url": "https://podcasts.apple.com/us/podcast/%E5%AF%B9%E8%AF%9Dkimi%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%9D%A8%E6%A4%8D%E9%BA%9F-k2-agentic-llm-%E7%BC%B8%E4%B8%AD%E4%B9%8B%E8%84%91-%E8%89%B0%E9%9A%BE%E7%9A%84%E6%B3%9B%E5%8C%96-%E7%94%A8l4%E8%A7%A3%E5%86%B3l3-%E9%95%BF%E6%96%87%E6%9C%AC%E5%BD%B1%E5%93%8D%E6%99%BA%E5%95%86/id6797723330?i=1000779809467&uo=4",
+   "note": {
+    "en": "Interview with Moonshot AI founder Yang Zhilin on K2, agentic LLM design, generalization challenges, using L4 capability to solve L3 tasks, and how long context affects model reasoning.",
+    "zh": "月之暗面创始人杨植麟访谈，谈及K2、Agentic LLM、泛化难题、用L4能力解决L3任务，以及长文本对模型智商的影响。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
    "date": "2026-07-27",
    "ts": null,
    "kind": "paper",
@@ -289,6 +308,25 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2026-03-29",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "【全程实录】Kimi杨植麟2026中关村论坛演讲",
+    "zh": "【全程实录】Kimi杨植麟2026中关村论坛演讲"
+   },
+   "source": "左兜进右兜",
+   "url": "https://podcasts.apple.com/us/podcast/%E5%85%A8%E7%A8%8B%E5%AE%9E%E5%BD%95-kimi%E6%9D%A8%E6%A4%8D%E9%BA%9F2026%E4%B8%AD%E5%85%B3%E6%9D%91%E8%AE%BA%E5%9D%9B%E6%BC%94%E8%AE%B2/id1756048463?i=1000757982739&uo=4",
+   "note": {
+    "en": "Full recording of Yang Zhilin's keynote at the 2026 Zhongguancun Forum, covering token efficiency, splitting tasks across multiple agents, and architectural changes extending attention from sequence to depth.",
+    "zh": "杨植麟在2026中关村论坛演讲的完整实录，内容涉及Token利用效率、多Agent协作拆分任务，以及将注意力机制从序列扩展到深度的架构尝试。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
   },
   {
    "date": "2026-03-16",
@@ -2935,7 +2973,7 @@
   "citations": 24757,
   "hIndex": 67,
   "events": 128,
-  "posts": 30,
+  "posts": 32,
   "wikiEn": "Yang Zhilin",
   "wikiZh": "楊植麟"
  },

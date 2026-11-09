@@ -1,5 +1,5 @@
 {
- "rank": 34,
+ "rank": 33,
  "id": "arthur-mensch",
  "name": {
   "en": "Arthur Mensch",
@@ -175,6 +175,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-11-08",
+   "ts": "2026-11-08T11:39:58Z",
+   "kind": "x",
+   "title": {
+    "en": "https://t.co/x16GD91BFB",
+    "zh": "https://t.co/x16GD91BFB"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/2119394493287833923",
+   "note": {
+    "en": "Mensch argued against France's proposed 'Darcos' bill, which would shift the burden of proof for AI training-data usage onto companies and risk exposing trade secrets, proposing a revenue-based contribution to fund creators instead.",
+    "zh": "门什反对法国拟议的“达科斯法案”——该法案将训练数据使用的举证责任转嫁给企业并可能迫使其泄露商业机密，他提议改为按收入向创作者基金缴费。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
   },
   {
    "date": "2026-10-29",
@@ -1818,16 +1837,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 59.7,
+  "total": 59.9,
   "attention": 53,
   "centrality": 79,
-  "momentum": 50,
+  "momentum": 51,
   "stature": null,
   "pageviews": 103916,
   "citations": 3847,
   "hIndex": 10,
   "events": 17,
-  "posts": 73,
+  "posts": 74,
   "wikiEn": "Arthur Mensch",
   "wikiZh": null
  },

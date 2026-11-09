@@ -127,6 +127,25 @@
    }
   },
   {
+   "date": "2026-11-07",
+   "ts": null,
+   "kind": "report",
+   "title": {
+    "en": "rauchg made this repository public",
+    "zh": "rauchg made this repository public"
+   },
+   "source": "GitHub Public Timeline Feed",
+   "url": "https://github.com/rauchg/vinyl",
+   "note": {
+    "en": "Rauch open-sourced \"vinyl\", a JavaScript side project that simulates a record player from the physical groove up.",
+    "zh": "Rauch开源了个人项目vinyl，一个用JavaScript从物理唱片沟槽原理出发模拟黑胶唱机的小项目。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "github",
+   "connector": "github"
+  },
+  {
    "date": "2026-10-29",
    "ts": null,
    "kind": "podcast",
@@ -220,25 +239,6 @@
    "judged": true,
    "platform": "apple-podcasts",
    "connector": "podcasts"
-  },
-  {
-   "date": "2026-10-04",
-   "ts": null,
-   "kind": "report",
-   "title": {
-    "en": "rauchg made this repository public",
-    "zh": "rauchg made this repository public"
-   },
-   "source": "GitHub Public Timeline Feed",
-   "url": "https://github.com/rauchg/gdp-ts",
-   "note": {
-    "en": "Rauch made his TypeScript project gdp-ts public on GitHub.",
-    "zh": "Rauch在GitHub上公开了他的TypeScript项目gdp-ts。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "github",
-   "connector": "github"
   },
   {
    "date": "2026-09-08",
@@ -1134,6 +1134,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2020-05-14",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Guillermo Rauch — NextJS 9.4, JAMStack, distributed systems, and manging eventually consistent state.",
+    "zh": "Guillermo Rauch — NextJS 9.4, JAMStack, distributed systems, and manging eventually consistent state."
+   },
+   "source": "Work In Programming",
+   "url": "https://podcasts.apple.com/us/podcast/guillermo-rauch-nextjs-9-4-jamstack-distributed-systems/id1488403795?i=1000474560140&uo=4",
+   "note": {
+    "en": "Guillermo Rauch appears as a guest on the Work In Programming podcast, discussing Next.js 9.4, the JAMstack, distributed systems, and managing eventually consistent state.",
+    "zh": "Guillermo Rauch 作为嘉宾出现在播客 Work In Programming 中，谈论了 Next.js 9.4、JAMstack、分布式系统以及如何管理最终一致状态。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2019-08-27",
    "ts": null,
    "kind": "podcast",
@@ -1325,7 +1344,7 @@
   "citations": 9,
   "hIndex": 1,
   "events": 7,
-  "posts": 57,
+  "posts": 58,
   "wikiEn": null,
   "wikiZh": null
  },

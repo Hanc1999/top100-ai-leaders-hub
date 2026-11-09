@@ -613,6 +613,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2023-02-24",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Character.ai's Noam Shazeer: \"Replacing Google - and your mom\"",
+    "zh": "Character.ai's Noam Shazeer: \"Replacing Google - and your mom\""
+   },
+   "source": "Times Tech",
+   "url": "https://podcasts.apple.com/us/podcast/character-ais-noam-shazeer-replacing-google-and-your-mom/id1233991021?i=1000601367143&uo=4",
+   "note": {
+    "en": "In this 2023 interview, Shazeer discusses founding Character.ai, his earlier years at Google, and his views on deep learning and conversational AI.",
+    "zh": "在这次2023年的访谈中，沙泽尔谈及创立Character.ai的经历、早年在谷歌的工作，以及他对深度学习和对话式AI的看法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2023-01-21",
    "ts": null,
    "kind": "podcast",
@@ -1577,7 +1596,7 @@
   "citations": 20024,
   "hIndex": 33,
   "events": 29,
-  "posts": 48,
+  "posts": 49,
   "wikiEn": "Noam Shazeer",
   "wikiZh": "諾姆·沙澤爾"
  },

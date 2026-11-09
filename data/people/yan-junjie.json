@@ -571,6 +571,40 @@
    "url": "https://kr-asia.com/minimaxs-arr-tops-usd-150-million-as-it-pivots-toward-an-ai-platform-model"
   },
   {
+   "date": "2026-11-08",
+   "ts": "2026-11-08T06:22:12Z",
+   "level": "notable",
+   "title": {
+    "en": "闫俊杰最新访谈：未来MiniMax可能拥有规模最大的后训练系统",
+    "zh": "闫俊杰最新访谈：未来MiniMax可能拥有规模最大的后训练系统"
+   },
+   "body": {
+    "en": "In a new interview, Yan Junjie says MiniMax may end up operating the largest-scale post-training system in the industry, signaling where the company is placing its technical bets.",
+    "zh": "闫俊杰在最新访谈中表示，未来MiniMax可能拥有行业内规模最大的后训练系统，透露出公司在技术方向上的投入重点。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tcHB2eTZMMjk5RDR3MUhBWEg5dE1iUC1ycEk3WGR6SUJLekpZQlY0UHlBM0tfVFQzSWZNSGpYb2h3WjFncVZ2d1gwamY?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-08",
+   "ts": "2026-11-08T07:40:00Z",
+   "level": "notable",
+   "title": {
+    "en": "闫俊杰首次英文播客采访：中美模型最后那 5%，比前 95% 更难追",
+    "zh": "闫俊杰首次英文播客采访：中美模型最后那 5%，比前 95% 更难追"
+   },
+   "body": {
+    "en": "In his first English-language podcast interview, MiniMax CEO Yan Junjie argued the final 5% gap between Chinese and US frontier models is harder to close than the preceding 95%.",
+    "zh": "在首次接受英文播客采访时，MiniMax创始人兼CEO闫俊杰表示，中美前沿模型之间最后5%的差距，比此前95%更难追赶。"
+   },
+   "source": "智源社区",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByaVpvdVVhMFVWbFQ4NjAwMVR4S1dabXV0NUozZ2NXaE1sZVU1cjVzWmZsYWFJTVNNbHZtOThvRDl4eW4tT25kSw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-06",
    "ts": "2026-11-06T07:30:00Z",
    "level": "notable",
@@ -1734,15 +1768,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 57.4,
+  "total": 57.6,
   "attention": 54,
   "centrality": 58,
-  "momentum": 69,
+  "momentum": 70,
   "stature": 44,
   "pageviews": 106853,
   "citations": 32186,
   "hIndex": 86,
-  "events": 70,
+  "events": 72,
   "posts": 19,
   "wikiEn": "MiniMax (company)",
   "wikiZh": "MiniMax"

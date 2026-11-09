@@ -224,6 +224,25 @@
    }
   },
   {
+   "date": "2026-11-07",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "姚顺雨｜AI for Science 的三次范式",
+    "zh": "姚顺雨｜AI for Science 的三次范式"
+   },
+   "source": "硅谷之声",
+   "url": "https://podcasts.apple.com/us/podcast/%E5%A7%9A%E9%A1%BA%E9%9B%A8-ai-for-science-%E7%9A%84%E4%B8%89%E6%AC%A1%E8%8C%83%E5%BC%8F/id6828283036?i=1000800425302&uo=4",
+   "note": {
+    "en": "Shunyu Yao spoke on 'the three paradigms of AI for Science' — from specialized models to general agents to tool-building agents — at the 2026 Future Science Prize Week summit.",
+    "zh": "姚顺雨在2026未来科学大奖周科学峰会上，讲述了AI for Science的三次范式：从专用模型到通用智能体，再到会造工具的智能体。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts_zh"
+  },
+  {
    "date": "2026-11-04",
    "ts": "2026-11-04T07:10:30Z",
    "kind": "x",
@@ -941,6 +960,108 @@
    },
    "source": "Yahoo Finance",
    "url": "https://finance.yahoo.com/news/tencent-restructures-ai-operations-promotes-093000045.html"
+  },
+  {
+   "date": "2026-11-08",
+   "ts": "2026-11-08T10:49:18Z",
+   "level": "notable",
+   "title": {
+    "en": "张亚勤追问大模型护城河，姚顺雨回应",
+    "zh": "张亚勤追问大模型护城河，姚顺雨回应"
+   },
+   "body": {
+    "en": "Zhang Yaqin questioned whether large models have a defensible moat, and Shunyu Yao responded — a notable public exchange on foundation-model strategy.",
+    "zh": "张亚勤追问大模型是否存在护城河，姚顺雨对此作出回应，是一次关于基础模型战略的重要公开交流。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWUVoeEd3UFl3Z3ptVmVzODF1OS02SmEwbVJhMTFnSk9EVWdLUVJiTmEzVENwYl8ySGtzOEpzby1vVWZYRVJ5LWdyWExXQl95ZUZBYlRoRG1RYlh2dkg2Ul9TejhDU2pQVDBEcUxyM012TmJpTFVzVXVsdjN5alFhMjI4eG5WSVRfQmY0TA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-08",
+   "ts": "2026-11-08T12:09:55Z",
+   "level": "notable",
+   "title": {
+    "en": "清华教授张亚勤犀利提问腾讯首席AI科学家姚顺雨：模型公司的护城河究竟是什么？姚顺雨：AI护城河更多存在于产品层。清华教授：早晚会被商业化?引笑场",
+    "zh": "清华教授张亚勤犀利提问腾讯首席AI科学家姚顺雨：模型公司的护城河究竟是什么？姚顺雨：AI护城河更多存在于产品层。清华教授：早晚会被商业化?引笑场"
+   },
+   "body": {
+    "en": "Pressed by Tsinghua professor Yidong Zhang on what moat model companies actually have, Yao argued AI's moat sits more at the product layer than the model layer.",
+    "zh": "清华教授张亚勤追问模型公司的护城河究竟是什么，姚顺雨回应称AI的护城河更多存在于产品层而非模型层。"
+   },
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOUxWVEEwbnFNNHM4WklMZmh3YTBFRTNITWhnZG9kaENFRkM2YmZfdUZCNWpvSUlrU29KbDVENm1IT2FnY3NnV1J2QkhsZk9qUklHSTVhempYQ05wVXRZV3lwSExCX1R3OGRMNlJqWjZ1Q0Y2Xzkwa2QybWhqX3dubFZHWGp0MFlR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-08",
+   "ts": "2026-11-08T13:47:58Z",
+   "level": "notable",
+   "title": {
+    "en": "腾讯姚顺雨称AI护城河更多存在于产品层，而非模型层",
+    "zh": "腾讯姚顺雨称AI护城河更多存在于产品层，而非模型层"
+   },
+   "body": {
+    "en": "Yao said in his Tencent role that AI's competitive moat increasingly sits at the product layer rather than the model layer.",
+    "zh": "姚顺雨在腾讯任内表示，AI的护城河更多存在于产品层而非模型层。"
+   },
+   "source": "风闻",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Ua2xCcy1LZ1NmdXQzS0JhWlc0VHBBaEJQOThReTFtYXd2OUJucGVfMEx6SGp1MUhVTWlueHJndkhGNUJ1ZlQwRG1YSWF2cjkwR1Fmc3dNazZ4SGktQ3FhT3NVZENycFB3cWZGcTFqODA4c3k0?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-08",
+   "ts": "2026-11-08T15:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "姚顺雨：AI 公司护城河在产品层而非模型层11 月 8 日，在 2026",
+    "zh": "姚顺雨：AI 公司护城河在产品层而非模型层11 月 8 日，在 2026"
+   },
+   "body": {
+    "en": "Yao argued at a conference that AI companies' defensible moat lies in the product layer rather than the model layer, a notable strategic stance from Tencent's chief AI scientist.",
+    "zh": "姚顺雨在会议上提出，AI公司的护城河在于产品层而非模型层，这是腾讯首席AI科学家的一次重要战略表态。"
+   },
+   "source": "禁闻网",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4Y2RqVUxhQThJcFdsQVpJZmFCWUZ4eFI4eGNOLVVjVndsRExSd0VuSWdWTVVKQ0xnM3hkU0dIYmxQUG5MX28xSzNfaUR3Rjh2MTh1RlNfMEJxcU5HR1hDT1NQNEdxbXB1bmFQSXNB0gFzQVVfeXFMTnQ0TlRPTUhZamRfX09CQWxhWjdBQzBobFhuNHZzVmM4ZG5SdVFEeFYwdnpFTlZ3VU1FR2lfWEpYd0lWLWRqRmktR0ZlbFFpLThMZ0xhU2J5R3FCSWltTE9RUUR3dzFQT2JGYkpFdHNDQUQ4QQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-08",
+   "ts": "2026-11-08T21:55:32Z",
+   "level": "notable",
+   "title": {
+    "en": "张亚勤追问大模型护城河，腾讯首席AI科学家姚顺雨：壁垒在产品层",
+    "zh": "张亚勤追问大模型护城河，腾讯首席AI科学家姚顺雨：壁垒在产品层"
+   },
+   "body": {
+    "en": "Responding to Zhang Yaqin's question about large models' competitive moat, Tencent's chief AI scientist argued the real barrier has shifted to the product layer rather than the model itself.",
+    "zh": "面对张亚勤对大模型护城河的追问，腾讯首席AI科学家姚顺雨表示，真正的壁垒已经转移到产品层面，而非模型本身。"
+   },
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MUDh3dnhMQU5Tb0NoUDhDeXJZRkkzM1NEc1VFZ05hcExPWS1iOEFFbEZfdXBlRFh2MHRmLXBYWGlVS0RFZ1BQczBjdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-08",
+   "ts": "2026-11-08T23:10:04Z",
+   "level": "notable",
+   "title": {
+    "en": "姚顺雨谈大模型护城河：竞争壁垒在产品层而非模型层",
+    "zh": "姚顺雨谈大模型护城河：竞争壁垒在产品层而非模型层"
+   },
+   "body": {
+    "en": "Yao argued that as large-model competition intensifies, the real moat is shifting from the model layer to the product layer.",
+    "zh": "姚顺雨认为，随着大模型竞争加剧，真正的竞争壁垒正从模型层转向产品层。"
+   },
+   "source": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBua0lNbTFJX1ZmSTRWLWhCR0VyazNEa2NNVmlGLThYVVJ1UllmNm1kTWFMWnZ0Rl9zRWJEQzk0UGhRV09WdXNXbngtc3U5eVJySVE?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-22",
@@ -4103,8 +4224,8 @@
   "pageviews": 93,
   "citations": 5538,
   "hIndex": 14,
-  "events": 186,
-  "posts": 38,
+  "events": 192,
+  "posts": 39,
   "wikiEn": "Shunyu Yao",
   "wikiZh": null
  },

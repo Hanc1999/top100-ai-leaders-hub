@@ -1,5 +1,5 @@
 {
- "rank": 55,
+ "rank": 54,
  "id": "amjad-masad",
  "name": {
   "en": "Amjad Masad",
@@ -847,6 +847,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2024-02-06",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ep 26: Replit Founder Amjad Masad on the 1000x Engineer, ChatBots are Overhyped and Why We Don’t Really Have True Open-Source Models",
+    "zh": "Ep 26: Replit Founder Amjad Masad on the 1000x Engineer, ChatBots are Overhyped and Why We Don’t Really Have True Open-Source Models"
+   },
+   "source": "Unsupervised Learning with Jacob Effron",
+   "url": "https://podcasts.apple.com/us/podcast/ep-26-replit-founder-amjad-masad-on-the-1000x/id1672188924?i=1000644360480&uo=4",
+   "note": {
+    "en": "Amjad Masad joins the Unsupervised Learning podcast to argue today's '1000x engineer' narrative is overhyped and that true open-source models barely exist, drawing on Replit's scale as a coding platform.",
+    "zh": "Amjad Masad做客播客Unsupervised Learning，认为当下流行的“千倍效率工程师”说法被过度炒作，真正的开源模型其实很少，并以Replit作为编程平台的发展规模为例。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2023-10-09",
    "ts": null,
    "kind": "podcast",
@@ -1068,6 +1087,25 @@
    "note": {
     "en": "Masad discussed software development and coding education as a guest on The Pomp Podcast.",
     "zh": "Masad作为嘉宾在The Pomp Podcast上讨论了软件开发与编程教育。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2020-11-04",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "2. A story of vision and persistence w/ Amjad Masad, co-founder of Repl.it",
+    "zh": "2. A story of vision and persistence w/ Amjad Masad, co-founder of Repl.it"
+   },
+   "source": "Let's Talk Product",
+   "url": "https://podcasts.apple.com/us/podcast/2-a-story-of-vision-and-persistence-w-amjad/id1538761172?i=1000497189445&uo=4",
+   "note": {
+    "en": "Amjad Masad appears on the Let's Talk Product podcast to talk about the vision and persistence behind building Replit from the early days.",
+    "zh": "Amjad Masad做客播客Let's Talk Product，讲述了他从早期开始构建Replit所依靠的愿景与坚持。"
    },
    "auto": true,
    "judged": true,
@@ -1298,6 +1336,23 @@
    "judged": true
   },
   {
+   "date": "2026-11-07",
+   "ts": "2026-11-07T17:08:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Replit CEO Amjad Masad says AI coding agents will scale from one per user to 10,000 — and the winners are infrastructure companies",
+    "zh": "Replit CEO Amjad Masad says AI coding agents will scale from one per user to 10,000 — and the winners are infrastructure companies"
+   },
+   "body": {
+    "en": "Masad predicted AI coding agents will scale from one per developer to thousands per user, and argued the infrastructure layer serving those agents — not the agents themselves — will capture most of the value.",
+    "zh": "马萨德预测AI编程智能体将从每位开发者配一个发展到每个用户配数千个，并认为为这些智能体提供支撑的基础设施层——而非智能体本身——将获取大部分价值。"
+   },
+   "source": "BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pN1dCc2Q1enU4a2htNVNEX2gxajF6dWJ6RlgwTFM2WThybmctT3JhamU1enVGNVlaV3RTdE1LSDlybk5fNFZLY0F4LTFNeTdYXy1kdUFiaG41MWc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-17",
    "ts": "2026-10-17T05:30:02Z",
    "level": "notable",
@@ -1458,16 +1513,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 43.2,
+  "total": 43.7,
   "attention": 49,
   "centrality": 39,
-  "momentum": 38,
+  "momentum": 40,
   "stature": null,
   "pageviews": 87011,
   "citations": 0,
   "hIndex": 0,
-  "events": 11,
-  "posts": 60,
+  "events": 12,
+  "posts": 62,
   "wikiEn": "Amjad Masad",
   "wikiZh": null
  },

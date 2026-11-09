@@ -1,5 +1,5 @@
 {
- "rank": 36,
+ "rank": 35,
  "id": "jim-fan",
  "name": {
   "en": "Jim Fan",
@@ -206,6 +206,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-11-08",
+   "ts": "2026-11-08T15:42:15Z",
+   "kind": "x",
+   "title": {
+    "en": "Real robot. Real time. Uncut shot. Autonomous. Tomorrow.",
+    "zh": "Real robot. Real time. Uncut shot. Autonomous. Tomorrow."
+   },
+   "source": "@drjimfan",
+   "url": "https://x.com/DrJimFan/status/2119455465910542552",
+   "note": {
+    "en": "Fan teased an upcoming live demo of an autonomous humanoid robot performing an uncut, real-time shot, previewing new GR00T-line capability.",
+    "zh": "范麟熙预告了一场即将发布的自主人形机器人实时、不剪辑演示，预示着GR00T系列的新能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
   },
   {
    "date": "2026-11-05",
@@ -1289,16 +1308,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 58.6,
+  "total": 59.5,
   "attention": null,
   "centrality": 87,
-  "momentum": 25,
+  "momentum": 27,
   "stature": null,
   "pageviews": 0,
   "citations": 0,
   "hIndex": 0,
   "events": 4,
-  "posts": 55,
+  "posts": 56,
   "wikiEn": null,
   "wikiZh": null
  },

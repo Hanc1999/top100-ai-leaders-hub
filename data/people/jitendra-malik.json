@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-11-08",
+   "ts": "2026-11-08T01:44:03Z",
+   "kind": "x",
+   "title": {
+    "en": "Robots that learn should generalize. Locomotion should show generalization across terrain; manipulation across object categories. Here is a video of “Pick Anyth",
+    "zh": "Robots that learn should generalize. Locomotion should show generalization across terrain; manipulation across object categories. Here is a video of “Pick Anyth"
+   },
+   "source": "@jitendramalikcv",
+   "url": "https://x.com/JitendraMalikCV/status/2119244528058249324",
+   "note": {
+    "en": "Posted on X about \"Pick Anything,\" a demo from his lab showing a robot manipulation policy that generalizes human-like grasps across object categories.",
+    "zh": "在X上发布关于\"Pick Anything\"的内容，展示其实验室一项机器人抓取策略的演示，该策略能像人类一样在不同物体类别间实现泛化抓取。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-05",
    "ts": null,
    "kind": "paper",
@@ -1829,25 +1848,6 @@
    "note": {
     "en": "In a technical exchange on tele-operation for robot training, Malik noted recent results are mostly limited to parallel-jaw grippers, work led in his lab.",
     "zh": "在关于遥操作训练机器人的技术讨论中,Malik指出近期成果大多局限于平行夹爪,相关工作由他实验室主导。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
-   "date": "2024-04-10",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "@jane_h_wu @geopavlakos @georgiagkioxari Exciting results on the ability to 3dfy hands and objects given only a single image. This could pave the way for traini",
-    "zh": "@jane_h_wu @geopavlakos @georgiagkioxari Exciting results on the ability to 3dfy hands and objects given only a single image. This could pave the way for traini"
-   },
-   "source": "@JitendraMalikCV",
-   "url": "https://x.com/JitendraMalikCV/status/1778115987889328447",
-   "note": {
-    "en": "Malik called out new results letting robots '3D-ify' hands and objects from a single image, calling it a path toward training manipulation policies.",
-    "zh": "Malik称赞一项能从单张图像'3D化'手与物体的新成果,认为这为训练操作策略提供了路径。"
    },
    "auto": true,
    "judged": true,

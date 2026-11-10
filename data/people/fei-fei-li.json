@@ -219,6 +219,25 @@
    }
   },
   {
+   "date": "2026-11-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "ToolDex: An Ego-Exo Human Demonstration Dataset for Creative Physical Tool Use",
+    "zh": "ToolDex: An Ego-Exo Human Demonstration Dataset for Creative Physical Tool Use"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.09036v1",
+   "note": {
+    "en": "Co-authored ToolDex, a new ego-exocentric human demonstration dataset for teaching embodied agents creative physical tool use.",
+    "zh": "合著了ToolDex论文，这是一个新的第一人称/第三人称人类示范数据集，用于教会具身智能体创造性地使用物理工具。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-25",
    "ts": null,
    "kind": "paper",
@@ -1257,25 +1276,6 @@
    "note": {
     "en": "Shows that stereo perception recovers the depth information monocular policies lack and improves robotic manipulation.",
     "zh": "论文表明立体视觉能补上单目策略缺失的深度信息，从而提升机器人操作性能。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-04-22",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "HumanScore: Benchmarking Human Motions in Generated Videos",
-    "zh": "HumanScore: Benchmarking Human Motions in Generated Videos"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2604.20157v1",
-   "note": {
-    "en": "HumanScore is a benchmark that systematically measures how realistic human motion is in generated video.",
-    "zh": "HumanScore 是一个系统评测生成视频中人体动作真实度的基准。"
    },
    "auto": true,
    "judged": true,
@@ -2356,6 +2356,23 @@
    },
    "source": "TechTimes",
    "url": "https://www.techtimes.com/articles/317927/20260606/feifei-lis-world-labs-splits-world-model-three-types-marble-targets-simulation-linchpin.htm"
+  },
+  {
+   "date": "2026-11-09",
+   "ts": "2026-11-09T06:55:00Z",
+   "level": "notable",
+   "title": {
+    "en": "AI Self-Improvement Gets a Reality Check: Jeff Dean Says RSI Has Physical Limits, Fei-Fei Li Says Silicon Valley Uses the Term Loosely",
+    "zh": "AI Self-Improvement Gets a Reality Check: Jeff Dean Says RSI Has Physical Limits, Fei-Fei Li Says Silicon Valley Uses the Term Loosely"
+   },
+   "body": {
+    "en": "Fei-Fei Li pushed back on loose Silicon Valley talk of AI recursive self-improvement, arguing the term is used too casually.",
+    "zh": "李飞飞对硅谷随意使用“递归自我提升”一词提出异议，认为这个说法被过度泛化使用。"
+   },
+   "source": "BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1eC02dV9OOFBKRzl4bXNvOXRJeXo1NXZLRTJ5aFkzRllSMjBEWXZrRkcxaDRVZWswekRFek5tUjh3YU1mRDl1c3BtU2JqVmJZNEJzWEVjc0xtOWE2VzBzamF0eXp6YkpxR2w0ZExnOVdWWkdseEE?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-11-08",
@@ -9292,7 +9309,7 @@
   "pageviews": 423813,
   "citations": 222997,
   "hIndex": 137,
-  "events": 409,
+  "events": 410,
   "posts": 113,
   "wikiEn": "Fei-Fei Li",
   "wikiZh": "李飛飛"

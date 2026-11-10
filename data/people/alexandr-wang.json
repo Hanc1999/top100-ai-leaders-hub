@@ -149,6 +149,158 @@
    }
   },
   {
+   "date": "2026-11-09",
+   "ts": "2026-11-09T06:24:57Z",
+   "kind": "x",
+   "title": {
+    "en": "i forgot about this until @ScottWu46 reminded me, but back in january 2017 when we were 19, scott and i had lunch in SF at lunch, we talked about how our IMO/IO",
+    "zh": "i forgot about this until @ScottWu46 reminded me, but back in january 2017 when we were 19, scott and i had lunch in SF at lunch, we talked about how our IMO/IO"
+   },
+   "source": "@alexandr_wang",
+   "url": "https://x.com/alexandr_wang/status/2119677603862692029",
+   "note": {
+    "en": "Wang shared a personal memory of a 2017 lunch with Cognition AI founder Scott Wu, recalling how their shared math-olympiad circle imagined building something together years before Scale AI and Cognition existed.",
+    "zh": "Alexandr Wang回忆了2017年与Cognition AI创始人Scott Wu的一次午餐，谈到当年他们那群IMO/IOI数学竞赛伙伴早在创办Scale AI和Cognition之前就曾设想一起做点什么。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-09",
+   "ts": "2026-11-09T18:03:24Z",
+   "kind": "x",
+   "title": {
+    "en": "1/ announcing our smallest, most efficient little model is here: muse ember 🔥 built for work that agents repeat all day, it gets you more intelligence per dolla",
+    "zh": "1/ announcing our smallest, most efficient little model is here: muse ember 🔥 built for work that agents repeat all day, it gets you more intelligence per dolla"
+   },
+   "source": "@alexandr_wang",
+   "url": "https://x.com/alexandr_wang/status/2119853374158032950",
+   "note": {
+    "en": "Wang announced Meta's new small efficient model, \"Muse Ember,\" pitched as delivering more intelligence per dollar than rival lightweight models for repetitive agent workloads.",
+    "zh": "Alexandr Wang宣布Meta推出新的高效小模型“Muse Ember”，面向智能体重复性工作场景，主打比同类轻量模型更高的性价比。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-09",
+   "ts": "2026-11-09T18:56:43Z",
+   "kind": "x",
+   "title": {
+    "en": "using muse ember🔥, each of these websites cost $0.04 on average back in my day, these would cost you O($10,000) in custom dev shop costs massive deflation in ni",
+    "zh": "using muse ember🔥, each of these websites cost $0.04 on average back in my day, these would cost you O($10,000) in custom dev shop costs massive deflation in ni"
+   },
+   "source": "@alexandr_wang",
+   "url": "https://x.com/alexandr_wang/status/2119866792348954839",
+   "note": {
+    "en": "Wang says Meta's new small model Muse Ember collapses costs for simple build tasks, citing $0.04 per website versus roughly $10,000 for custom development.",
+    "zh": "Wang表示Meta新推出的小模型Muse Ember大幅降低了简单构建任务的成本，称生成一个网站仅需0.04美元，而传统定制开发约需1万美元。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-09",
+   "ts": "2026-11-09T18:44:25Z",
+   "kind": "x",
+   "title": {
+    "en": "use muse ember to save millions pay $0.10 / $0.50 / Mtok and save millions of dollars on legal clerical errors",
+    "zh": "use muse ember to save millions pay $0.10 / $0.50 / Mtok and save millions of dollars on legal clerical errors"
+   },
+   "source": "@alexandr_wang",
+   "url": "https://x.com/alexandr_wang/status/2119863698349285519",
+   "note": {
+    "en": "Wang says Muse Ember's low per-token pricing ($0.10/$0.50 per million tokens) can save customers millions on tasks like legal clerical work.",
+    "zh": "Wang表示Muse Ember极低的token定价（每百万token 0.10/0.50美元）可帮助客户在法律文书等事务上节省数百万美元。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-09",
+   "ts": "2026-11-09T18:24:28Z",
+   "kind": "x",
+   "title": {
+    "en": "our teeny model muse ember is now on the efficient frontier 🤗 matching haiku at 3x cheaper cost per task, and smarter than luna",
+    "zh": "our teeny model muse ember is now on the efficient frontier 🤗 matching haiku at 3x cheaper cost per task, and smarter than luna"
+   },
+   "source": "@alexandr_wang",
+   "url": "https://x.com/alexandr_wang/status/2119858677993844911",
+   "note": {
+    "en": "Wang says Muse Ember sits on the efficiency frontier, matching Claude Haiku's quality at a third of the cost and beating Meta's own Luna model.",
+    "zh": "Wang表示Muse Ember处于效率前沿，质量与Claude Haiku相当但成本仅为其三分之一，且优于Meta自家的Luna模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-09",
+   "ts": "2026-11-09T18:21:25Z",
+   "kind": "x",
+   "title": {
+    "en": "today we released our smallest model yet: Muse Ember 🔥 Muse Ember offers nearly Muse Spark 1.3 (max) intelligence at a 17x cheaper price point (per AA) Muse Emb",
+    "zh": "today we released our smallest model yet: Muse Ember 🔥 Muse Ember offers nearly Muse Spark 1.3 (max) intelligence at a 17x cheaper price point (per AA) Muse Emb"
+   },
+   "source": "@alexandr_wang",
+   "url": "https://x.com/alexandr_wang/status/2119857909098283406",
+   "note": {
+    "en": "Wang announces Muse Ember, Meta's smallest model yet, claiming intelligence close to Muse Spark 1.3 (max) at roughly 1/17th the price — the headline release from his team.",
+    "zh": "Wang宣布推出Meta迄今最小的模型Muse Ember，称其智能水平接近Muse Spark 1.3（max），但价格仅为其约1/17，是其团队的重点发布。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-09",
+   "ts": "2026-11-09T19:45:19Z",
+   "kind": "x",
+   "title": {
+    "en": "\"[Muse Ember🔥] also finishes tests in about 15 minutes, making it the fastest model in the top 12.\" super duper fast model ⚡️",
+    "zh": "\"[Muse Ember🔥] also finishes tests in about 15 minutes, making it the fastest model in the top 12.\" super duper fast model ⚡️"
+   },
+   "source": "@alexandr_wang",
+   "url": "https://x.com/alexandr_wang/status/2119879024365469841",
+   "note": {
+    "en": "Wang promotes Muse Ember, saying it finishes tests in about 15 minutes, among the fastest models in the top 12.",
+    "zh": "Wang宣传新模型Muse Ember，称其完成测试仅需约15分钟，是目前排名前12的模型中最快的之一。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-09",
+   "ts": "2026-11-09T21:53:46Z",
+   "kind": "x",
+   "title": {
+    "en": "we’re also bringing muse ember🔥 to @googlecloud today along with muse wonder🔮 and muse spark 1.3⚡️!",
+    "zh": "we’re also bringing muse ember🔥 to @googlecloud today along with muse wonder🔮 and muse spark 1.3⚡️!"
+   },
+   "source": "@alexandr_wang",
+   "url": "https://x.com/alexandr_wang/status/2119911348360663299",
+   "note": {
+    "en": "Wang announced that Meta's Muse Ember, Muse Wonder and Muse Spark 1.3 models are now available on Google Cloud, extending Meta Superintelligence Labs' models onto a rival's infrastructure.",
+    "zh": "Wang宣布Meta的Muse Ember、Muse Wonder和Muse Spark 1.3模型现已登陆Google Cloud，将Meta超级智能实验室的模型拓展到了竞争对手的云基础设施上。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-08",
    "ts": "2026-11-08T03:00:47Z",
    "kind": "x",
@@ -940,158 +1092,6 @@
    "note": {
     "en": "A shitpost showcasing Muse Wonder Full that drew far higher engagement than his other posts in this run.",
     "zh": "一条展示 Muse Wonder Full 能力的玩笑帖，互动量远超他同期的其他发帖。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-10-13",
-   "ts": "2026-10-13T17:11:20Z",
-   "kind": "x",
-   "title": {
-    "en": "a thoughtful review of muse wonder full ♥️ to be clear, there is still a lot for us to improve and we are working on ironing a ton of kinks in how we deployed t",
-    "zh": "a thoughtful review of muse wonder full ♥️ to be clear, there is still a lot for us to improve and we are working on ironing a ton of kinks in how we deployed t"
-   },
-   "source": "@alexandr_wang",
-   "url": "https://x.com/alexandr_wang/status/2110055802090459207",
-   "note": {
-    "en": "Wang acknowledged rough edges in the Muse Wonder Full rollout, saying the team is still ironing out deployment kinks.",
-    "zh": "王承认 Muse Wonder Full 上线后仍有不足，称团队仍在解决部署中的问题。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-10-13",
-   "ts": "2026-10-13T20:12:06Z",
-   "kind": "x",
-   "title": {
-    "en": "Cheeky Muse* is back! Agrippa Zuckerberg @finkd and Euler Wang @alexandr_wang came to the pub to discuss their new frontier model, Muse Wonder. * made with Muse",
-    "zh": "Cheeky Muse* is back! Agrippa Zuckerberg @finkd and Euler Wang @alexandr_wang came to the pub to discuss their new frontier model, Muse Wonder. * made with Muse"
-   },
-   "source": "@alexandr_wang",
-   "url": "https://x.com/alexandr_wang/status/2110101291582251131",
-   "note": {
-    "en": "Wang shared an AI-generated \"Muse\" clip of him and Zuckerberg (under joke pseudonyms) discussing Meta's new frontier model, Muse Wonder.",
-    "zh": "亚历山大·王发布了一段由Meta「Muse」AI生成的搞笑短片，他与扎克伯格（化名出镜）在片中讨论Meta新发布的前沿模型Muse Wonder。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-10-12",
-   "ts": "2026-10-12T17:01:22Z",
-   "kind": "x",
-   "title": {
-    "en": "MUSE WONDER this is the culmination of over a year of research and infrastructure work in msl since we originally shipped muse spark in april, we have continued",
-    "zh": "MUSE WONDER this is the culmination of over a year of research and infrastructure work in msl since we originally shipped muse spark in april, we have continued"
-   },
-   "source": "@alexandr_wang",
-   "url": "https://x.com/alexandr_wang/status/2109690903074054598",
-   "note": {
-    "en": "Wang previewed Muse Wonder, Meta Superintelligence Labs' first major model since the group formed, describing a year of pre-training and infrastructure scaling behind it.",
-    "zh": "Wang 预告了Meta超级智能实验室（MSL）成立以来的首个重磅模型「Muse Wonder」，介绍了过去一年在预训练与基础设施扩展上的工作。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-10-12",
-   "ts": "2026-10-12T16:55:45Z",
-   "kind": "x",
-   "title": {
-    "en": "introducing muse wonder our new frontier model. state-of-the-art at personal agents and professional agents. our largest and most capable model yet—rivals the b",
-    "zh": "introducing muse wonder our new frontier model. state-of-the-art at personal agents and professional agents. our largest and most capable model yet—rivals the b"
-   },
-   "source": "@alexandr_wang",
-   "url": "https://x.com/alexandr_wang/status/2109689491300794551",
-   "note": {
-    "en": "Wang announced Muse Wonder, Meta's new frontier model positioned as its largest and most capable yet, aimed at personal and professional agents.",
-    "zh": "Wang 宣布推出 Muse Wonder，这是 Meta 迄今最大、最强的前沿模型，面向个人与专业智能体场景。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-10-12",
-   "ts": "2026-10-12T17:51:15Z",
-   "kind": "x",
-   "title": {
-    "en": "\"it is a surprising model. on every technical benchmark we ran it was neck and neck or better than astra, fable and opus.\" \"meta is going to win consumer agents",
-    "zh": "\"it is a surprising model. on every technical benchmark we ran it was neck and neck or better than astra, fable and opus.\" \"meta is going to win consumer agents"
-   },
-   "source": "@alexandr_wang",
-   "url": "https://x.com/alexandr_wang/status/2109703458278535245",
-   "note": {
-    "en": "Wang claimed Meta's new Muse Wonder model is competitive with or better than Astra, Fable and Opus on benchmarks, and predicted Meta would win consumer agents.",
-    "zh": "王透露Meta新模型Muse Wonder在基准测试中与Astra、Fable和Opus相当甚至更优，并预测Meta将在消费级智能体领域大获全胜。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-10-12",
-   "ts": "2026-10-12T17:36:13Z",
-   "kind": "x",
-   "title": {
-    "en": "MUSE WONDER 🍉 this model was developed to power personal agents. three highlights: - ACTIVE MEMORY: best memory across days/weeks/months - ACTIVE FOCUS: gets yo",
-    "zh": "MUSE WONDER 🍉 this model was developed to power personal agents. three highlights: - ACTIVE MEMORY: best memory across days/weeks/months - ACTIVE FOCUS: gets yo"
-   },
-   "source": "@alexandr_wang",
-   "url": "https://x.com/alexandr_wang/status/2109699673221169617",
-   "note": {
-    "en": "Wang detailed Muse Wonder's three capabilities — long-horizon active memory, active focus on completing tasks, and domain expertise — as Meta's new personal-agent model.",
-    "zh": "王介绍了Meta新个人智能体模型Muse Wonder的三大能力：跨数周数月的主动记忆、专注完成任务的主动聚焦，以及领域专业能力。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-10-12",
-   "ts": "2026-10-12T17:10:50Z",
-   "kind": "x",
-   "title": {
-    "en": "somehow the corposlops refused to use my video https://t.co/5PS0tyMfys",
-    "zh": "somehow the corposlops refused to use my video https://t.co/5PS0tyMfys"
-   },
-   "source": "@alexandr_wang",
-   "url": "https://x.com/alexandr_wang/status/2109693288752337109",
-   "note": {
-    "en": "A complaint about Meta's launch video for Muse Wonder drew unusually large engagement (nearly 3,000 likes, 100k+ views), well above his typical reach.",
-    "zh": "王吐槽Meta未采用他制作的Muse Wonder发布视频，引发远超其日常量级的热议（近3000点赞、超10万次浏览）。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-10-12",
-   "ts": "2026-10-12T17:05:35Z",
-   "kind": "x",
-   "title": {
-    "en": "MUSE WONDER 🍉 muse wonder is the best model in the world for personal agents and professional agents. we evaluated our model against the best models in the worl",
-    "zh": "MUSE WONDER 🍉 muse wonder is the best model in the world for personal agents and professional agents. we evaluated our model against the best models in the worl"
-   },
-   "source": "@alexandr_wang",
-   "url": "https://x.com/alexandr_wang/status/2109691967676563613",
-   "note": {
-    "en": "Wang announced Muse Wonder as the best model for personal and professional agents, claiming it beat the field on agentic and coding benchmarks.",
-    "zh": "王宣布Muse Wonder是个人与专业智能体领域最强模型，称其在智能体和编程基准测试中全面领先。"
    },
    "auto": true,
    "judged": true,

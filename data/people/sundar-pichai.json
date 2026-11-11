@@ -149,6 +149,63 @@
    }
   },
   {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T16:04:43Z",
+   "kind": "x",
+   "title": {
+    "en": "Gemini 4 Carbon is rolling out today. It’s built for sustained, long-horizon tasks, reasoning deeply through complex software engineering, cybersecurity, and sc",
+    "zh": "Gemini 4 Carbon is rolling out today. It’s built for sustained, long-horizon tasks, reasoning deeply through complex software engineering, cybersecurity, and sc"
+   },
+   "source": "@sundarpichai",
+   "url": "https://x.com/sundarpichai/status/2120185896469496180",
+   "note": {
+    "en": "Pichai announced the rollout of Gemini 4 Carbon, built for sustained long-horizon tasks like complex software engineering, cybersecurity, and scientific discovery.",
+    "zh": "皮查伊宣布推出Gemini 4 Carbon，该模型专为持续性长周期任务打造，适用于复杂软件工程、网络安全和科学发现等场景。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T16:56:02Z",
+   "kind": "x",
+   "title": {
+    "en": "Carbon made a pelican demo so you don't have to 😅 fun test of long-horizon coding and the new /swarm feature in Google @Antigravity. Builder and critic subagent",
+    "zh": "Carbon made a pelican demo so you don't have to 😅 fun test of long-horizon coding and the new /swarm feature in Google @Antigravity. Builder and critic subagent"
+   },
+   "source": "@sundarpichai",
+   "url": "https://x.com/sundarpichai/status/2120198811297694192",
+   "note": {
+    "en": "Pichai showcased Google Antigravity's new /swarm feature, running builder-and-critic subagent loops across Blender and other tools in a long-horizon coding demo.",
+    "zh": "皮查伊展示了Google Antigravity新推出的/swarm功能，在一次长周期编程演示中，让“构建者与评审者”子代理在Blender等工具间进行迭代协作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T17:28:49Z",
+   "kind": "x",
+   "title": {
+    "en": "Our teams put Gemini 4 Carbon to work on a major security challenge: mathematically proving the code underlying the Signal protocol. Using AlphaProof Code, @Goo",
+    "zh": "Our teams put Gemini 4 Carbon to work on a major security challenge: mathematically proving the code underlying the Signal protocol. Using AlphaProof Code, @Goo"
+   },
+   "source": "@sundarpichai",
+   "url": "https://x.com/sundarpichai/status/2120207062655549933",
+   "note": {
+    "en": "Announced that Google DeepMind researchers used Gemini 4 Carbon and AlphaProof Code to guide agents in formally proving the security of code underlying the Signal protocol.",
+    "zh": "宣布 Google DeepMind 研究人员使用 Gemini 4 Carbon 和 AlphaProof Code 引导智能体，对 Signal 协议底层代码进行了形式化安全证明。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-09",
    "ts": "2026-11-09T18:19:08Z",
    "kind": "x",
@@ -1137,63 +1194,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-05-19",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Just off stage at #GoogleIO, some highlights from this morning 🧵 Gemini 3.5 Flash is available today for everyone in @antigravity and across our products and AP",
-    "zh": "Just off stage at #GoogleIO, some highlights from this morning 🧵 Gemini 3.5 Flash is available today for everyone in @antigravity and across our products and AP"
-   },
-   "source": "@sundarpichai",
-   "url": "https://x.com/sundarpichai/status/2056796893951426705",
-   "note": {
-    "en": "Pichai shared Google I/O highlights, including the launch of Gemini 3.5 Flash across products and APIs.",
-    "zh": "皮查伊分享了Google I/O大会的亮点,包括Gemini 3.5 Flash在各产品和API中的发布。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
-   "date": "2026-05-12",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Today at the @Android Show (I/O edition) we announced Gemini Intelligence - bringing the best of Gemini to our most advanced devices. Automate multi-step tasks",
-    "zh": "Today at the @Android Show (I/O edition) we announced Gemini Intelligence - bringing the best of Gemini to our most advanced devices. Automate multi-step tasks"
-   },
-   "source": "@sundarpichai",
-   "url": "https://x.com/sundarpichai/status/2054255858700415005",
-   "note": {
-    "en": "Pichai announced Gemini Intelligence for Android at the I/O-edition Android Show, enabling multi-step task automation across apps and Chrome.",
-    "zh": "皮查伊在I/O特别版Android Show上宣布推出Android版Gemini智能,支持跨应用和Chrome的多步任务自动化。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
-   "date": "2026-05-11",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Today, we’re starting to roll out end-to-end encryption for RCS messaging between Android and iPhone users!",
-    "zh": "Today, we’re starting to roll out end-to-end encryption for RCS messaging between Android and iPhone users!"
-   },
-   "source": "@sundarpichai",
-   "url": "https://x.com/sundarpichai/status/2053900771947942085",
-   "note": {
-    "en": "Pichai announced Google is rolling out end-to-end encryption for RCS messaging between Android and iPhone users.",
-    "zh": "皮查伊宣布Google正在为Android与iPhone用户之间的RCS消息推出端到端加密。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
    "date": "2025-11-26",
    "ts": null,
    "kind": "podcast",
@@ -1526,6 +1526,40 @@
    },
    "source": "Axios",
    "url": "https://www.axios.com/2026/08/06/googles-ai-leadership-shuffle"
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T06:51:15Z",
+   "level": "notable",
+   "title": {
+    "en": "Sundar Pichai Welcomes Meta’s AI Models to Google Cloud",
+    "zh": "Sundar Pichai Welcomes Meta’s AI Models to Google Cloud"
+   },
+   "body": {
+    "en": "Pichai announced that Google Cloud will host Meta's AI models, a notable cross-competitor partnership that broadens Google's cloud AI offering.",
+    "zh": "皮查伊宣布Google Cloud将上线Meta的AI模型，这是一次值得关注的跨竞争对手合作，拓展了Google云端的AI产品线。"
+   },
+   "source": "The Hans India",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZzVMd0U2Z1EzVFZrLXVpZUVOYUVCemJfR3NLcXpoYkRJNE5FdTVsbnk3MEcxVHNMcmJqZ2c4Y05TbldFYkFJZElybTlzZnlVODJMVE5yMEtDQW9LUGxMSHNSQS1JNy1xNVpvZmo4TFNTLXpBYXpZLVJVUGlWZW91SjUteVB1V0RHS2g4NGJfek9BYkd5b1M3cXNod3Q?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T18:52:32Z",
+   "level": "notable",
+   "title": {
+    "en": "Meta launches Muse models to Google Cloud, Sundar Pichai praises",
+    "zh": "Meta launches Muse models to Google Cloud, Sundar Pichai praises"
+   },
+   "body": {
+    "en": "Google Cloud added Meta's new Muse model family (Wonder, Spark, Ember) to its Model Garden, with Pichai welcoming the models even though Gemini competes directly with them.",
+    "zh": "谷歌云将Meta新推出的Muse模型系列（Wonder、Spark、Ember）加入其Model Garden，皮查伊对此表示欢迎，尽管Gemini与这些模型正面竞争。"
+   },
+   "source": "NewsBytes",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQakVrSnpyQkxBZnFEcWs5MlBDZDRZdEFvN3NvNG5kb2JZNmZYODR3NzBUQnZpcVprVEt2eGk2RklCYTU4eVdMMFhob1N1dGFxekdJMzcxdklNU0YyMHpqY0R5eFZxUmZYa3NPVEFva2NUYTYtRk1vVkJKOHVjQllpVUpBMTRrcURIanJNTDhoMHhhTHlfaDBqWm9kM2lHZC1NYUxicmJoU25OalA5eWEw?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-11-03",
@@ -3549,7 +3583,7 @@
   "pageviews": 1299595,
   "citations": 1,
   "hIndex": 1,
-  "events": 120,
+  "events": 122,
   "posts": 74,
   "wikiEn": "Sundar Pichai",
   "wikiZh": "孙达尔·皮柴"

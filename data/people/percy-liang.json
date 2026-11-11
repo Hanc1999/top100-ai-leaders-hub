@@ -209,6 +209,25 @@
    }
   },
   {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T06:04:23Z",
+   "kind": "x",
+   "title": {
+    "en": "Why was Marin 535B-A23B the size it was? Why 8 of 384 experts? Why GatedNorm, sconv, XSA? Why linear learning rate? All of these factors were driven by tradeoff",
+    "zh": "Why was Marin 535B-A23B the size it was? Why 8 of 384 experts? Why GatedNorm, sconv, XSA? Why linear learning rate? All of these factors were driven by tradeoff"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2120034819291898364",
+   "note": {
+    "en": "Liang explained the design tradeoffs behind Marin 535B-A23B's architecture choices — expert count, normalization, attention variant, learning-rate schedule — driven by timeline and compute-efficiency constraints.",
+    "zh": "Percy Liang解释了Marin 535B-A23B架构选择背后的权衡——专家数量、归一化方式、注意力变体、学习率调度——这些都受时间线和算力效率的约束所驱动。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-04",
    "ts": "2026-11-04T06:00:20Z",
    "kind": "x",
@@ -2006,7 +2025,7 @@
   "citations": 45211,
   "hIndex": 87,
   "events": 2,
-  "posts": 95,
+  "posts": 96,
   "wikiEn": "Percy Liang",
   "wikiZh": null
  },

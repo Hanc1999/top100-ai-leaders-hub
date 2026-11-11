@@ -177,6 +177,25 @@
    }
   },
   {
+   "date": "2026-11-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Sampling Is Not Curiosity: Why LLM Agents Should Investigate",
+    "zh": "Sampling Is Not Curiosity: Why LLM Agents Should Investigate"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.10501v1",
+   "note": {
+    "en": "Co-authored a paper arguing that undirected sampling is not curiosity, and that LLM agents need an explicit drive to investigate in order to explore open-ended tasks well.",
+    "zh": "合著论文指出，无方向的采样并非好奇心，LLM智能体需要明确的探究驱动力才能有效探索开放式任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-15",
    "ts": null,
    "kind": "paper",
@@ -1281,16 +1300,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 34.6,
+  "total": 34.8,
   "attention": 42,
   "centrality": 9,
-  "momentum": 27,
+  "momentum": 28,
   "stature": 88,
   "pageviews": 60498,
   "citations": 185831,
   "hIndex": 89,
   "events": 2,
-  "posts": 58,
+  "posts": 59,
   "wikiEn": "Jürgen Schmidhuber",
   "wikiZh": "于尔根·施密德胡伯"
  },

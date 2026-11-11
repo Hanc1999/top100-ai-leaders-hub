@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T05:04:14Z",
+   "kind": "x",
+   "title": {
+    "en": "In future, humans and humanoids will be cohabiting in various shared spaces. This cool work from the Berkeley AI group led by PhD student Vongani Maluleke shows",
+    "zh": "In future, humans and humanoids will be cohabiting in various shared spaces. This cool work from the Berkeley AI group led by PhD student Vongani Maluleke shows"
+   },
+   "source": "@jitendramalikcv",
+   "url": "https://x.com/JitendraMalikCV/status/2120019680463081486",
+   "note": {
+    "en": "Malik highlighted research from his Berkeley AI group, led by PhD student Vongani Maluleke, on training humanoids to behave appropriately in shared human spaces.",
+    "zh": "马利克分享了其伯克利AI团队（由博士生Vongani Maluleke主导）的研究，训练人形机器人在与人类共处空间中得体行事。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-08",
    "ts": "2026-11-08T01:44:03Z",
    "kind": "x",
@@ -1836,25 +1855,6 @@
    "connector": "x"
   },
   {
-   "date": "2024-04-26",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "@ToruO_O There have been impressive recent results using tele-op trajectories for training robot policies. These are typically for hands that are parallel jaw g",
-    "zh": "@ToruO_O There have been impressive recent results using tele-op trajectories for training robot policies. These are typically for hands that are parallel jaw g"
-   },
-   "source": "@JitendraMalikCV",
-   "url": "https://x.com/JitendraMalikCV/status/1783925765840769510",
-   "note": {
-    "en": "In a technical exchange on tele-operation for robot training, Malik noted recent results are mostly limited to parallel-jaw grippers, work led in his lab.",
-    "zh": "在关于遥操作训练机器人的技术讨论中,Malik指出近期成果大多局限于平行夹爪,相关工作由他实验室主导。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
    "date": "2023-08-17",
    "ts": null,
    "kind": "podcast",
@@ -1939,10 +1939,10 @@
  },
  "cat": "research",
  "score": {
-  "total": 29.8,
+  "total": 30.0,
   "attention": 21,
   "centrality": 14,
-  "momentum": 42,
+  "momentum": 43,
   "stature": 81,
   "pageviews": 12954,
   "citations": 168758,

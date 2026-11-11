@@ -208,6 +208,25 @@
    }
   },
   {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T16:07:43Z",
+   "kind": "x",
+   "title": {
+    "en": "Introducing GR00T 2: our most advanced, open System One model for robotics. It runs entirely on your robot’s onboard compute, fully untethered, and you own ever",
+    "zh": "Introducing GR00T 2: our most advanced, open System One model for robotics. It runs entirely on your robot’s onboard compute, fully untethered, and you own ever"
+   },
+   "source": "@drjimfan",
+   "url": "https://x.com/DrJimFan/status/2120186651741655428",
+   "note": {
+    "en": "Fan announced GR00T 2, NVIDIA's most advanced open System One robotics model, which runs fully untethered on a robot's onboard compute with user-owned weights.",
+    "zh": "范麟熙宣布推出GR00T 2，这是英伟达迄今最先进的开放System One机器人模型，可完全脱离外部连接运行在机器人自身算力上，且权重归用户所有。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-08",
    "ts": "2026-11-08T15:42:15Z",
    "kind": "x",
@@ -1325,16 +1344,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 60.9,
+  "total": 61.3,
   "attention": null,
   "centrality": 87,
-  "momentum": 30,
+  "momentum": 31,
   "stature": null,
   "pageviews": 0,
   "citations": 0,
   "hIndex": 0,
   "events": 5,
-  "posts": 56,
+  "posts": 57,
   "wikiEn": null,
   "wikiZh": null
  },

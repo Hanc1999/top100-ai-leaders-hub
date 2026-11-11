@@ -228,6 +228,25 @@
    }
   },
   {
+   "date": "2026-11-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Evolving Infra: Agent-Adaptive LLM Serving at Scale",
+    "zh": "Evolving Infra: Agent-Adaptive LLM Serving at Scale"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.12304v1",
+   "note": {
+    "en": "Han co-authored 'Evolving Infra,' a serving system that lets prefill-decode disaggregated LLM infrastructure adapt compute allocation at runtime for agentic workloads.",
+    "zh": "Han共同撰写了《Evolving Infra》，提出一种可在运行时为智能体工作负载动态调整计算分配的预填充-解码分离式LLM服务系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-31",
    "ts": null,
    "kind": "paper",
@@ -962,25 +981,6 @@
    "note": {
     "en": "Sparse decoupled attention that reduces KV-cache and memory-bandwidth cost in long-context LLM inference.",
     "zh": "提出稀疏解耦注意力，降低长上下文推理中的 KV cache 与显存带宽开销。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-06-01",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Cosmos 3: Omnimodal World Models for Physical AI",
-    "zh": "Cosmos 3: Omnimodal World Models for Physical AI"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2606.02800v4",
-   "note": {
-    "en": "NVIDIA's Cosmos 3 family of omnimodal world models for physical AI, spanning language, image, video, audio and action.",
-    "zh": "英伟达 Cosmos 3 系列全模态世界模型，统一处理语言、图像、视频、音频与动作，面向物理 AI。"
    },
    "auto": true,
    "judged": true,

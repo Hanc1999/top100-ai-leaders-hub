@@ -198,6 +198,25 @@
    }
   },
   {
+   "date": "2026-11-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Self-Supervised Collapse Prevention with Score-Based Entropy Maximization",
+    "zh": "Self-Supervised Collapse Prevention with Score-Based Entropy Maximization"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.11379v1",
+   "note": {
+    "en": "LeCun co-authored a method using score-based entropy maximization to prevent representation collapse in self-supervised learning built on diffusion-style objectives.",
+    "zh": "LeCun共同撰写了一种方法，利用基于分数的熵最大化来防止基于扩散式目标的自监督学习中出现表征坍塌。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-30",
    "ts": null,
    "kind": "paper",
@@ -5096,7 +5115,7 @@
   "citations": 253869,
   "hIndex": 120,
   "events": 236,
-  "posts": 49,
+  "posts": 50,
   "wikiEn": "Yann LeCun",
   "wikiZh": "杨立昆"
  },

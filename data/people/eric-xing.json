@@ -1,5 +1,5 @@
 {
- "rank": 74,
+ "rank": 75,
  "id": "eric-xing",
  "name": {
   "en": "Eric Xing",
@@ -167,6 +167,63 @@
     "en": "Argues the next phase will not come from scaling models larger but from redesigning AI to understand the world and plan within it.",
     "zh": "主张下一阶段不来自把模型做得更大，而来自重新设计能理解世界并在其中规划的 AI。"
    }
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T19:52:52Z",
+   "kind": "x",
+   "title": {
+    "en": "Excited to share our latest edition of world model PAN 2 built on a Generative Latent Prediction (#GLP) architecture. A world model needs to operate in an \"Aris",
+    "zh": "Excited to share our latest edition of world model PAN 2 built on a Generative Latent Prediction (#GLP) architecture. A world model needs to operate in an \"Aris"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2120243313634865214",
+   "note": {
+    "en": "Xing announced PAN 2, a new world model built on a Generative Latent Prediction (GLP) architecture designed to operate in an 'Aristotelian' rather than 'Platonic' world.",
+    "zh": "邢波发布了新一代世界模型PAN 2，采用生成式潜在预测（GLP）架构，旨在让模型运行于\"亚里士多德式\"而非\"柏拉图式\"的世界。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Embodied First Exam",
+    "zh": "Embodied First Exam"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.12177v1",
+   "note": {
+    "en": "Co-authored 'Embodied First Exam,' a benchmark proposing coding agents to control robots as a step beyond visuomotor policy learning, alongside Fei-Fei Li, Jiajun Wu and other robotics researchers.",
+    "zh": "与李飞飞、吴佳俊等机器人研究者合著《Embodied First Exam》，提出用编程智能体控制机器人，作为超越视觉运动策略学习的新基准。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-11-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Jais 3: Introducing Arabic-centric Agentic AI",
+    "zh": "Jais 3: Introducing Arabic-centric Agentic AI"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.10224v1",
+   "note": {
+    "en": "Co-authored Jais 3, a family of open Arabic-centric agentic language models from 0.9B to 375B parameters built for Arabic-speaking users, reflecting his MBZUAI role.",
+    "zh": "合著Jais 3，这是一系列面向阿拉伯语用户、参数规模从9亿到3750亿的开源阿拉伯语智能体大模型，体现了他在MBZUAI的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-11-04",
@@ -1822,16 +1879,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 31.0,
+  "total": 30.8,
   "attention": 25,
   "centrality": 14,
-  "momentum": 52,
+  "momentum": 51,
   "stature": 54,
   "pageviews": 21312,
   "citations": 41656,
   "hIndex": 97,
   "events": 3,
-  "posts": 85,
+  "posts": 88,
   "wikiEn": "Eric Xing",
   "wikiZh": "邢波"
  },

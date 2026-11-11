@@ -835,25 +835,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2026-01-16",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "On Nonasymptotic Confidence Intervals for Treatment Effects in Randomized Experiments",
-    "zh": "On Nonasymptotic Confidence Intervals for Treatment Effects in Randomized Experiments"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2601.11744v2",
-   "note": {
-    "en": "Sharpens the effective sample size needed for nonasymptotic confidence intervals on treatment effects in randomized experiments, with Sivaraman Balakrishnan and Avi Feller.",
-    "zh": "与 Sivaraman Balakrishnan、Avi Feller 合作，改进随机实验中处理效应非渐近置信区间所需的有效样本量。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2025-08-20",
    "ts": null,
    "kind": "podcast",
@@ -974,7 +955,7 @@
   "citations": 181936,
   "hIndex": 163,
   "events": 3,
-  "posts": 40,
+  "posts": 39,
   "wikiEn": "Michael I. Jordan",
   "wikiZh": "迈克尔·乔丹 (学者)"
  },

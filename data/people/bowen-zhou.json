@@ -211,6 +211,25 @@
    }
   },
   {
+   "date": "2026-11-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
+    "zh": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.12762v1",
+   "note": {
+    "en": "Co-authored Sage-Taiyi, a metacognitive architecture that uses accumulated scientific understanding to guide what to investigate next, part of a large Shanghai AI Lab-affiliated collaboration on AI for scientific discovery.",
+    "zh": "周伯文是Sage-Taiyi项目的合著者之一，这是一种利用积累的科学理解来指导下一步研究方向的元认知架构，属于上海人工智能实验室相关团队在AI驱动科学发现方向上的大型合作成果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-11-01",
    "ts": null,
    "kind": "paper",
@@ -1059,25 +1078,6 @@
    "note": {
     "en": "A few-shot continual learning method using contrastive graph-to-graph memory interaction; Zhou is a co-author via his Tsinghua Electronic Engineering affiliation.",
     "zh": "该论文提出了一种用于少样本持续学习的对比增强图到图记忆交互方法，周伯文以清华大学电子工程系身份参与合著。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-01-01",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "BrainOmni: A Brain Foundation Model for Unified EEG and MEG Signals",
-    "zh": "BrainOmni: A Brain Foundation Model for Unified EEG and MEG Signals"
-   },
-   "source": "OpenAlex",
-   "url": "https://doi.org/10.52202/085713-1375",
-   "note": {
-    "en": "BrainOmni proposes a brain foundation model that unifies EEG and MEG signal processing, co-authored by Zhou with Tsinghua and Shanghai AI Lab collaborators.",
-    "zh": "BrainOmni提出了一个统一处理脑电（EEG）和脑磁（MEG）信号的脑基础模型，周伯文与清华大学及上海人工智能实验室的合作者共同完成。"
    },
    "auto": true,
    "judged": true,

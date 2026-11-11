@@ -156,6 +156,25 @@
    }
   },
   {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T10:34:24Z",
+   "kind": "x",
+   "title": {
+    "en": "Turns out that the Starlink software, built for managing the movement of vast amounts of data through space and to the ground, is also very well suited to train",
+    "zh": "Turns out that the Starlink software, built for managing the movement of vast amounts of data through space and to the ground, is also very well suited to train"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2120102767624880364",
+   "note": {
+    "en": "Musk argued that Starlink's software for managing data flow across its satellite network is also well suited to training frontier AI models.",
+    "zh": "马斯克表示，星链用于管理卫星网络间海量数据流动的软件，同样非常适合用于训练前沿AI模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-09",
    "ts": "2026-11-09T02:25:56Z",
    "kind": "x",
@@ -1087,25 +1106,6 @@
    "connector": null
   },
   {
-   "date": "2026-10-29",
-   "ts": "2026-10-29T22:34:49Z",
-   "kind": "x",
-   "title": {
-    "en": "The fraudsters always had outsized moral outrage and the most heart-breaking stories that were … totally false",
-    "zh": "The fraudsters always had outsized moral outrage and the most heart-breaking stories that were … totally false"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2115935413882048832",
-   "note": {
-    "en": "Musk argued that fraud accusers often display outsized moral outrage even when their claims later prove false.",
-    "zh": "马斯克表示，指控欺诈的人常常表现出过度的道德愤怒，但他们的说法后来却被证明是不实的。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2026-07-23",
    "ts": null,
    "kind": "podcast",
@@ -1199,6 +1199,25 @@
    "judged": true,
    "platform": "apple-podcasts",
    "connector": "podcasts"
+  },
+  {
+   "date": "2021-02-11",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#1609 - Elon Musk",
+    "zh": "#1609 - Elon Musk"
+   },
+   "source": "The Joe Rogan Experience",
+   "url": "https://podcasts.apple.com/us/podcast/1609-elon-musk/id360084272?i=1000644539148&uo=4",
+   "note": {
+    "en": "Musk was the guest on episode #1609 of The Joe Rogan Experience.",
+    "zh": "马斯克作为嘉宾出现在《乔·罗根秀》第1609期节目中。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   }
  ],
  "news": [
@@ -1243,6 +1262,193 @@
    },
    "source": "xAI",
    "url": "https://x.ai/news"
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T00:30:07Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk forced to bring Cybertruck production to a conclusion",
+    "zh": "Elon Musk forced to bring Cybertruck production to a conclusion"
+   },
+   "body": {
+    "en": "Tesla is ending Cybertruck production, a rare full stop on one of Musk's flagship vehicle lines.",
+    "zh": "特斯拉将终止Cybertruck的生产，这是马斯克旗下旗舰车型中少有的全面停产。"
+   },
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hT3dQQTcyYWtTeTN2dVVSR2VEbTJ5eThyNjhHc2VoQnhFU3RGWkZfR0l3aWQ4YWhQRFBQSlN6VzR2Umpxd01KY2tWMkZVZUpIZ0pmbl9ablJNRUdtZUZwWE5LTnFZMHI3RHVQRzM2Y0o?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T05:00:29Z",
+   "level": "notable",
+   "title": {
+    "en": "BT cools on Starlink satellite tie-up after Elon Musk Ukraine controversy",
+    "zh": "BT cools on Starlink satellite tie-up after Elon Musk Ukraine controversy"
+   },
+   "body": {
+    "en": "UK telecom BT cooled on a planned Starlink satellite tie-up after backlash over Musk's comments on Ukraine.",
+    "zh": "英国电信运营商BT因马斯克关于乌克兰问题的言论引发争议，对与Starlink的卫星合作计划转为谨慎。"
+   },
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yOFlRYmpwWF9XR2NBRFRtcHZFQldmTEQtNU5YVzhMUXpYQTdyODdJYS1wQ01jTUQ5eGR5SjBEblFQQVk0WWlZRXphZHNjNHQ3RVJFRC14OW83bmF5Nmk5U2NOcEJZUU4xZFBFVllSWTI?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T05:07:00Z",
+   "level": "notable",
+   "title": {
+    "en": "BT Cools On Starlink Satellite Tie-Up After Elon Musk Ukraine Controversy - FT",
+    "zh": "BT Cools On Starlink Satellite Tie-Up After Elon Musk Ukraine Controversy - FT"
+   },
+   "body": {
+    "en": "UK telecom BT cooled on a planned Starlink satellite tie-up after backlash over Musk's comments on the Ukraine war, per the FT.",
+    "zh": "据FT报道，在马斯克就乌克兰战争的言论引发争议后，英国电信BT放缓了与星链的卫星合作计划。"
+   },
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQWlTYVVJYjZMSXNsdzRaYkFQQUxweWNEY0ZXUFdmVXNDd3NkdTFLa2NOTlVjQUwxQXUyRS1rLTVGUEdaOTd3TE9NcllsUUw2ZmcyLUVVRENHWmNiX1R1UUYtY3NFeFlScnpFVWlxSGZjbkZySFVaQUYyTXpydUV0Uk5BdkRuaDRMSzV6VTZCQUVDMGFFU0ZtcXVSaEJ2U1NNazM0SUpua09jVkc1Y0FBWTdqZURXS1dwR0hSM2wtcWhleWNmMEVqeHUxLWJvR1JYU1hiX0dUTjhYNm9BVU9v?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T11:23:21Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk's SpaceX Says Grok Helps Identify Foreign Object Debris In Rocket Parts Better Than Humans, Wit",
+    "zh": "Elon Musk's SpaceX Says Grok Helps Identify Foreign Object Debris In Rocket Parts Better Than Humans, Wit"
+   },
+   "body": {
+    "en": "SpaceX says Musk's Grok AI now spots foreign object debris in rocket parts more reliably than human inspectors, folding his AI model into his own rocket manufacturing line.",
+    "zh": "SpaceX表示，马斯克的Grok AI在识别火箭零件中的异物碎片方面已经比人工检测更可靠，他的AI模型由此被整合进自己的火箭制造流程。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPV3FRVkJFQ1VnZjVhZnl1Q05RamNEMnJBRjdYVjh2U21CdGhteHZGMVRDQjBIcVFiNHRDamhaWFBhay1fbnRuMmpXbTd2SW9PbEE5LXFpWXlFS0VUY3l0TkxuQWFmbG5XMmRMMlRNVzhBYzV1U1AxRkxhX3ZNUWtQTldxUXUycHhJaXNMdk5ySlNZa3R1YnBYRVZ3OWU2Z2djWlBDWW4xWlR6OUFyaEliM1BNUGZUZWFidUYtbThKZ1FUSEhrYlVDSXR3U0liX0R0d19JZlRMdmNaTy1ZREdoVElKYlh2eHhMZ3hmenJDbmJfU3dPdDJoc2syMVlzQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T11:43:37Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk's $24 billion Texas plan faces a major obstacle",
+    "zh": "Elon Musk's $24 billion Texas plan faces a major obstacle"
+   },
+   "body": {
+    "en": "SpaceX's proposed $24 billion gas-power-plant-and-data-center project in Starbase, Texas hit a political obstacle as Texas's incoming Democratic leadership pushes for a moratorium on new data-center buildouts.",
+    "zh": "SpaceX计划在德州Starbase投资240亿美元建设燃气电厂和数据中心，但德州新当选的民主党领导层推动对新建数据中心实施暂停，该项目因此遇到政治阻碍。"
+   },
+   "source": "GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa1UtU21CRHkzLUIwTEVhV2JXaVVWcmNINU9vZDV4OU9FaUxwSVYxS2RwT1p6ZkdQSUoyRXFWZlVmZGtPLVlFY0x1VFA4Q2k0ZElmNFpBWEpIMmc3QlpWUDgyX1M2ZWNzN0VmVWJIaWJzYnNieHYwNTBwN2JXeWdIYVNRME9mUU5ibm13aG5DMXNrU0w0VUFVN2hB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T12:26:30Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk's SpaceX Reportedly Plans $24 Billion Gas-Fired Power Plant and AI Data Center In Texas",
+    "zh": "Elon Musk's SpaceX Reportedly Plans $24 Billion Gas-Fired Power Plant and AI Data Center In Texas"
+   },
+   "body": {
+    "en": "SpaceX is reportedly planning a $24 billion gas-fired power plant and AI data center in Texas, a major new infrastructure bet to feed its compute buildout.",
+    "zh": "据报道,SpaceX计划在得克萨斯州投资240亿美元建设燃气发电厂和AI数据中心,为其算力扩张押下重注。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWC1NZVBxdEpaT3R6Rnd6T2ZJTmV6SDUwTXd2dVRlZV9IQV9JRjNjWGJOaUtQbzc2UXdHUU9fQkhvWXBFLWJjNE5MS1FjVHlabXhjTzV3WWNlWk8zR2FHYUdPcTE2OEhIZS05RWdJbWVYem9fS2VIeG11eTAzNS1Ua29MTVNsR3QtWlBWOEZrQXQ1THBJN1JLbEVDbTJ4ek1XQmlmLVdfNFBleG9sak10MzhJRnNkWUtFSW81Znp4WmpQQVZkeDdxMzZuSTgzVmRFVG1XMkxXR1RRM2o5VlNqRUNB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T13:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s Terafab targets 1 million wafers a month after 2032 — planned 700,000 monthly memory wafers could rival Samsung’s entire estimated DRAM production capacity",
+    "zh": "Elon Musk’s Terafab targets 1 million wafers a month after 2032 — planned 700,000 monthly memory wafers could rival Samsung’s entire estimated DRAM production capacity"
+   },
+   "body": {
+    "en": "Musk's new chip venture Terafab is targeting 1 million wafers a month after 2032, with planned memory output that could rival Samsung's entire DRAM capacity — a bid to control the memory supply chain for AI compute.",
+    "zh": "马斯克旗下的新芯片项目Terafab计划在2032年后实现每月100万片晶圆的产能,其内存产量目标可媲美三星整个DRAM产能,意图掌控AI算力所需的存储供应链。"
+   },
+   "source": "Tom's Hardware",
+   "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNOUllRG9FRnl4andMYVUyZU14WXUzM29MR2FCdzdzRUdsemgwYXR6eEp5LWZvTjZwWDk5Q0NlZEVDcmhZMjVjUC1oNEdLNmpWM0RVN2VlRTZ3TDlRQXR2Y002NU5WczZoczVMdksweEo4SE5PdUgzdHhoazJ3UVVMYzZhRm1MSE1kR3JLME1UejlNQnVvU1lXLUpkbFVIWnhBbmZlWHpZQzh0T0pzdm1uSGpUSkhlRERuNDJRbTVjME1TRGpJNWdseW1NeVZKQTI3cVVjQ1RjT1JqeUhRaFBSQzFiZVVNMzlDVDJSdHFqVFZkdmZxeWZHb0hDRmt3NDRVZFNZWHFNcUNNVENWT29qWWlkOVhjZmdObG9rZTNNVFNEUmZ5aEROT3BOWGJZeFVWSnBuclEtVE1ac0RabU1oOTFCcw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T13:11:34Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s Terafab targets 1 million wafers a month after 2032",
+    "zh": "Elon Musk’s Terafab targets 1 million wafers a month after 2032"
+   },
+   "body": {
+    "en": "Musk's new chip-manufacturing venture Terafab is targeting 1 million wafers a month by the early 2030s, extending his push to control compute supply end-to-end.",
+    "zh": "马斯克新成立的芯片制造项目Terafab计划在2030年代初实现每月100万片晶圆的产能，进一步延伸他对计算资源全链条的掌控。"
+   },
+   "source": "Mezha.net",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOemtjWVZFcU5fMjJTZUJNZzREWWpFTVpqN2o4cTF3VWpicHZtc013ZV83UkpsSnFyS2U3VE85NHotRXpiTlNFYnZ6VzZ4YkpFc2Z2MmRYaVM0aEktM3BZZUV4c2wycGpuSWd4OVFtNnRnUVhvOHh3RHZtaVlqbXMwaEdxckQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T16:15:21Z",
+   "level": "notable",
+   "title": {
+    "en": "‘Our Best Product Ever’: Elon Musk Bet Big on the Cybertruck — Now He’s Winding It Down After Sales Fell to 20,237 Against a 250,000-a-Year Goal",
+    "zh": "‘Our Best Product Ever’: Elon Musk Bet Big on the Cybertruck — Now He’s Winding It Down After Sales Fell to 20,237 Against a 250,000-a-Year Goal"
+   },
+   "body": {
+    "en": "Tesla is winding down Cybertruck production after sales fell far short of Musk's 250,000-a-year target, reaching only 20,237 units.",
+    "zh": "特斯拉正逐步停产Cybertruck，其销量远低于马斯克设定的每年25万辆目标，实际仅售出20,237辆。"
+   },
+   "source": "Barchart.com",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPNm1Wakc1RzRpX3ZlMkFuc09zX2FnNXRNMEg4X2NWQmtNanV6UFQtUzVpamR3azVQVlVMdXVXR083MTVGOWMzRG5sXzFCZ1dtOEl1RDQ1OUdlMG1vOVA1QW9Gd0VvNHZPbTJDMmdXRkhOUkE3YTRlSkM4UWNEaWxYcmJObDhjNkMwMERqV3hkSl9KLU9SQ0hFZi1hb2dHYmdlTnBKT25TektRTEtpMUx0aGVfY0QxZ0VrV0pFeTdhMkFEVHFqTDFaWjNZYUJlNEFjclJQNlcwalFXaHI5Zm9OQWotSnBBMFdXWlZ6MW9vT1pGcWI2WTNnRmliM2pNQ3I1bXU5V213REpXYzZfTGVN?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T19:46:02Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Calls Claude Opus 5.5 a 'Masterpiece', Admits Grok 4.8 Won't Match It",
+    "zh": "Elon Musk Calls Claude Opus 5.5 a 'Masterpiece', Admits Grok 4.8 Won't Match It"
+   },
+   "body": {
+    "en": "Musk publicly called Anthropic's Claude Opus 5.5 a 'masterpiece' and admitted xAI's Grok 4.8 won't match it, a rare concession about a rival's model from a competing lab head.",
+    "zh": "马斯克公开称Anthropic的Claude Opus 5.5是\"杰作\"，并承认xAI的Grok 4.8无法与之匹敌，这是一位竞争对手实验室负责人对同行模型的罕见让步。"
+   },
+   "source": "Decrypt",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSXpmLTRvZy1lUm1ySWZqbG11MDl1LVlfaGprYWxld09nd01HNkxOVTlMSnhuUEhEcVRyQkl4Y3dxLWZZeURRc1dXTkI3TEotdGlwbEV0Q0NKbTc4MElCV0xkbWs1T3l3d0hwMElnYjlQQjg5MVR6QWx3ZkUtQlJWRXJVRVZBTkplaEZGRy1n?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T19:46:02Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Calls Claude Opus 5.5 a 'Masterpiece', Admits Grok 4.8 Won't Match It",
+    "zh": "Elon Musk Calls Claude Opus 5.5 a 'Masterpiece', Admits Grok 4.8 Won't Match It"
+   },
+   "body": {
+    "en": "Musk publicly called Anthropic's Claude Opus 5.5 a 'masterpiece' and admitted his own Grok 4.8 won't match it, a rare concession of a rival's edge in the frontier-model race.",
+    "zh": "马斯克公开称Anthropic的Claude Opus 5.5是“杰作”,并承认自家的Grok 4.8无法与其匹敌,这是在前沿模型竞争中罕见的对对手领先地位的承认。"
+   },
+   "source": "Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZVh5dFNhbi13Ukc5a0c5N2UyY1JSY05MX2hPTGIwM1dBRVR6MWdwbVRFcTcxV3NOUVMxX2E4bDdsMl9sWUpRaXYxTXBTcUJ3UjFUeE5CTlJ4a2lmQlNQb1VGVDBYWG1jOVdGa1JQbXBqR0RTNllnOUU0elhtRW1VT0dPS0tfTzhrQnhtYQ?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-11-09",
@@ -1585,6 +1791,57 @@
    "judged": true
   },
   {
+   "date": "2026-11-09",
+   "ts": "2026-11-09T22:56:26Z",
+   "level": "notable",
+   "title": {
+    "en": "Tesla plans to end Cybertruck production in Texas, Elon Musk says",
+    "zh": "Tesla plans to end Cybertruck production in Texas, Elon Musk says"
+   },
+   "body": {
+    "en": "Musk said Tesla plans to end Cybertruck production at its Texas plant.",
+    "zh": "马斯克表示特斯拉计划终止得克萨斯工厂的Cybertruck生产。"
+   },
+   "source": "KHOU",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTy1IZWRSVGNLVjQyY3FJeEE3dVJNbGNlYUJrMm9HTDZpMkEyWWdlSlJWZEtRazVCWXV1UWRGTndMNXNHTjJMTWtFUy0zVHVSemZqU1JPam5EeGtKMVV1V3IxckFCVFlTODdESlRoYWUyRWdqMlNhM04yREdpbGwtMUtMOVk3UFBMb2dsTUhrd0llUlpYWGVWTGpDaGk1TXFyd0lDSG5zOTVkQVRlN20zd0psUW9GUHVnWGFnVEdGdnpJZ0llZlNxNlFWZkhReWJOb0sxdlRLNG8wVUZjZmlXMA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-09",
+   "ts": "2026-11-09T23:15:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk says Tesla must refund Cybertruck deposits to ‘a lot of people’; he touted 250K reservations back in 2019",
+    "zh": "Elon Musk says Tesla must refund Cybertruck deposits to ‘a lot of people’; he touted 250K reservations back in 2019"
+   },
+   "body": {
+    "en": "Musk said Tesla must refund Cybertruck deposits to a lot of people, acknowledging the gap between the 250K reservations touted in 2019 and actual deliveries.",
+    "zh": "马斯克表示特斯拉必须向许多人退还Cybertruck订金，承认2019年宣称的25万份预订与实际交付之间存在差距。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYkNZblZWUmZIaVAwbEs2OWQwNjBhWnN5Y2VrZUFxaXZ5dmtPSGpEcUVnWG5mMUlUR0VmTExWVGxKenZUeEZvUWtGX21Nak85OXpVQzlfcllpX0Z0d3ZkTTk4OVkzZTd1bzRtdjczM0E0OERBLXVlZUVMeTlrZ0JHLW50eFUzbHo4S1pkVTJna193QzBM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-09",
+   "ts": "2026-11-09T11:33:29Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Says Tesla Will Refund Deposits To A ‘Lot Of People’ As Cybertruck Production Winds Down – Robotaxi Makes San Antonio Debut",
+    "zh": "Elon Musk Says Tesla Will Refund Deposits To A ‘Lot Of People’ As Cybertruck Production Winds Down – Robotaxi Makes San Antonio Debut"
+   },
+   "body": {
+    "en": "Musk confirmed Tesla will refund deposits to many Cybertruck buyers as production winds down, while the Robotaxi service made its debut in San Antonio.",
+    "zh": "马斯克确认特斯拉将在Cybertruck停产之际向许多预订用户退还定金，同时Robotaxi服务在圣安东尼奥首次上线。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWDA2d3lQN2ZMVXRRT0VfcDBqbmY4X3g3bkU0OGg3cW1HcldwOEtDSzRyemlPeF9MVTJXMWV0SEsteGVpdEFINEp2VF9ubktvd0hoTVVwSjVpczUtVDdZdk1FeFNqd3BhMng4SC1aTWJxV0dTUlZycEYxVEs1TkVXTGpSVlZrT09PT082dW84Z2JheUlvdW5z?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-08",
    "ts": "2026-11-08T05:04:00Z",
    "level": "notable",
@@ -1819,6 +2076,40 @@
    },
    "source": "Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZnRuUnpocE5yaDNPdFJLOVZJTnFBZ1U0ank5V21sSzNtMEhya2k1TGI2S3g3Y3hUUFp6bzUyQkUyLTRtbzBYUThiTW1SUVlVMlgyX3Z5VnZJbWlGRjBFWnZPLVczWE1SbVhWYUt4Ylg3OU52MFBEVkZfRTlVYmNMbFhYQ2J1ZmNjZjFyeDd1YVR2cWpk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-07",
+   "ts": "2026-11-07T05:24:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Touts Terafab's Ambitious Goal to Cut Chip Development Time From a Year to a Month: ‘If You Want to Iterate Fast...’",
+    "zh": "Elon Musk Touts Terafab's Ambitious Goal to Cut Chip Development Time From a Year to a Month: ‘If You Want to Iterate Fast...’"
+   },
+   "body": {
+    "en": "Musk publicly touted Terafab's goal of cutting chip development time from a year to a month, tied to his push for faster iteration on compute.",
+    "zh": "马斯克公开力挺Terafab将芯片研发周期从一年缩短到一个月的目标，呼应他在算力迭代速度上的主张。"
+   },
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOcnJBM1BWRFdhSnQxLThkYmpod0VsclFUcDhWY1h1eFlDd1FOeXJHNllnU3E2V05tOHQtamtPZWg5OGg5MmRqYTBVN2FZQmhBeDdPenlSVkZGSTNTd3VOb24yNkItSVpPUjdjQ3BMWnR0Sk5SQ2xsTGNPelE1N2Q5aVhYVnItNnlzc3hSSGtZWmpfQl9YMU44ZkRIQ1JFbXFoUV83R2tnT0xKdU9FNTI5bVpXMzllUlVQeHQxMnZINzFqWkZldVVMWlhaX2VYR1hJQWF0aWhvSFNfYl9wZGRPclEta2JyT09YeHVSWXZsaTVOVVlPVjhZNFVQN19EeVRwZnJCcGhfaFZYZzQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-07",
+   "ts": "2026-11-07T22:07:58Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk Is Winding Down Cybertruck Production to Build Cybercabs. The Model S and Model X Already Gave Up Their Factory Space to Robots.",
+    "zh": "Elon Musk Is Winding Down Cybertruck Production to Build Cybercabs. The Model S and Model X Already Gave Up Their Factory Space to Robots."
+   },
+   "body": {
+    "en": "Tesla is winding down Cybertruck production and repurposing the factory space for Cybercab and robot manufacturing, a strategic pivot toward autonomous ride-hailing vehicles.",
+    "zh": "特斯拉正在停止Cybertruck的生产，并将该工厂产能转向Cybercab与机器人制造，标志着公司战略转向自动驾驶出租车业务。"
+   },
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNV3FrX1JWTUZOaWxtQzNKNWlWYXUzdFNfaE83WklBRUk3aFBVUktYbmRNV0RrYUJycGhIcm9mNUNIVFhIa3VPQWFWOS00YmNfS2t5THFIOE5EbjB1bFlFR09wdjFIcHFJYlZCU1NDNC02OFlzZmtYcW02ck9qcFF4VGdWMmtXdXRqZ3EzYTBwcENqWXRiLTFBR1JVRE1ZVkc4amxQalRHbkdDbXA3ekRfY0tzMks1RzNfRjY3WWJTMGdRNlFlWVBSbUF6WGVwdml3ZVRwWjE5WE04RXVnazN0U3hhQ3lPd1o1RXZtVnAtQnk2cXpTeHBPdXFHUmcwYzFKVXIzSHJNZ2dOcGtJdFFTY0VFMk1MZTl1VDA1cDdjVHR3MS1ybG4tSzdNNUFPSzdhM3l3aHJBWVVraWpYbTdqaW1TUGhWQQ?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2261,6 +2552,23 @@
    },
    "source": "KDBC",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLUloc2M1WWdGX3pOSGFSaTg4eXROZHdISXpKdnRoeGxZckJjYzVjeFRIck1WQm1hRDZqbEk5bGFhWDBTaTRpZ2tHc0lsZDI3eWdXa09KOFVIZnhzd0lGY2ljTlkyUkhUNlA2elBiNkdZc2U1YU5yNHRIWVpRamdHYTg0YVh3T1dtQ0p4YzdLNndxN0o5cW9sTWlIMGZsb1ZvUzNvTTJaWDR5R1RDeXVhY0lwVUlsenlZZXFnZnNIdkFxY3djdmxaVWxR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-06",
+   "ts": "2026-11-06T13:46:42Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Announces Cybertruck Will Officially Be Discontinued After Years of Controversy, Lawsuits and Low Sales",
+    "zh": "Elon Musk Announces Cybertruck Will Officially Be Discontinued After Years of Controversy, Lawsuits and Low Sales"
+   },
+   "body": {
+    "en": "Announced that Tesla will discontinue the Cybertruck after years of controversy, lawsuits and weak sales, shifting focus to autonomous vehicles.",
+    "zh": "宣布特斯拉将在经历多年争议、诉讼和销量不佳后停产Cybertruck，并将重心转向自动驾驶汽车。"
+   },
+   "source": "\"Elon Musk\" - BingNews",
+   "url": "https://www.msn.com/en-us/news/other/elon-musk-announces-cybertruck-will-officially-be-discontinued-after-years-of-controversy-lawsuits-and-low-sales/ar-AA2gV0KG?ocid=BingNewsVerp",
    "auto": true,
    "judged": true
   },
@@ -18022,8 +18330,8 @@
   "pageviews": 9295513,
   "citations": 1280,
   "hIndex": 3,
-  "events": 989,
-  "posts": 58,
+  "events": 1006,
+  "posts": 59,
   "wikiEn": "Elon Musk",
   "wikiZh": "埃隆·马斯克"
  },

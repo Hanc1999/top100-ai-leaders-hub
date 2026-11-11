@@ -187,6 +187,63 @@
    }
   },
   {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T05:44:57Z",
+   "kind": "blog",
+   "title": {
+    "en": "企业短期卖的是产品，长期卖的是价值观。 - 转发 @张抗抗KK:&ensp;@余凯_地平线民工 发微博吐槽 网页链接，有的智驾芯片把稠密算力乘以六七倍，叫“等效算力”【...",
+    "zh": "企业短期卖的是产品，长期卖的是价值观。 - 转发 @张抗抗KK:&ensp;@余凯_地平线民工 发微博吐槽 网页链接，有的智驾芯片把稠密算力乘以六七倍，叫“等效算力”【..."
+   },
+   "source": "余凯_地平线民工的微博",
+   "url": "https://weibo.com/1862459915/RqJ9Yo2RP",
+   "note": {
+    "en": "Quote-shared a critique of inflated 'equivalent compute' marketing in automotive AI chips, adding his own view that companies sell products short-term but values long-term.",
+    "zh": "转发并评论了对自动驾驶芯片\"等效算力\"虚高宣传的质疑，并补充自己的看法：企业短期卖产品，长期卖的是价值观。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "weibo",
+   "connector": "weibo"
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T05:39:18Z",
+   "kind": "blog",
+   "title": {
+    "en": "10月销量榜，中型SUV月销量第一名，混动轿车第一名，都搭载了地平线智驾芯片和HSD智驾基座大模型，而且都是德国大众品牌的车型，这说明了啥？[挤眼] [图片][图片...",
+    "zh": "10月销量榜，中型SUV月销量第一名，混动轿车第一名，都搭载了地平线智驾芯片和HSD智驾基座大模型，而且都是德国大众品牌的车型，这说明了啥？[挤眼] [图片][图片..."
+   },
+   "source": "余凯_地平线民工的微博",
+   "url": "https://weibo.com/1862459915/RqJ7GcUdL",
+   "note": {
+    "en": "Noted that Horizon's chips and HSD driving model power October's top-selling midsize SUV and hybrid sedan, both Volkswagen-brand models.",
+    "zh": "指出10月销量第一的中型SUV和混动轿车均搭载地平线智驾芯片与HSD智驾大模型，且均为大众品牌车型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "weibo",
+   "connector": "weibo"
+  },
+  {
+   "date": "2026-11-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Capability-Guided Iterative Online Optimization of Cascaded Spoken-Dialogue Modules",
+    "zh": "Capability-Guided Iterative Online Optimization of Cascaded Spoken-Dialogue Modules"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.11322v1",
+   "note": {
+    "en": "Co-authored a paper on iteratively optimizing the perception and response-generation modules of cascaded spoken-dialogue systems.",
+    "zh": "合著论文，研究如何对级联式语音对话系统中的感知理解与应答生成模块进行迭代式优化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-11-01",
    "ts": "2026-11-01T08:20:12Z",
    "kind": "blog",
@@ -4394,7 +4451,7 @@
   "citations": 21491,
   "hIndex": 66,
   "events": 211,
-  "posts": 33,
+  "posts": 36,
   "wikiEn": null,
   "wikiZh": "余凯"
  },

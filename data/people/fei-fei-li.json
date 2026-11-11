@@ -219,6 +219,25 @@
    }
   },
   {
+   "date": "2026-11-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Embodied First Exam",
+    "zh": "Embodied First Exam"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.12177v1",
+   "note": {
+    "en": "Co-authored 'Embodied First Exam' alongside Eric Xing, Jiajun Wu and others, proposing coding agents to control robots as a new embodied-AI benchmark.",
+    "zh": "与邢波、吴佳俊等人合著《Embodied First Exam》，提出用编程智能体控制机器人，作为具身智能的新基准。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-11-06",
    "ts": null,
    "kind": "paper",
@@ -2356,6 +2375,40 @@
    },
    "source": "TechTimes",
    "url": "https://www.techtimes.com/articles/317927/20260606/feifei-lis-world-labs-splits-world-model-three-types-marble-targets-simulation-linchpin.htm"
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T04:01:36Z",
+   "level": "notable",
+   "title": {
+    "en": "李飞飞对话Jeff Dean：AI 能加速科学，但不会无限加速",
+    "zh": "李飞飞对话Jeff Dean：AI 能加速科学，但不会无限加速"
+   },
+   "body": {
+    "en": "In a dialogue with Jeff Dean, Li argued AI can accelerate science but won't do so without limit.",
+    "zh": "李飞飞与Jeff Dean对话时表示，AI能够加速科学研究，但不会无限加速。"
+   },
+   "source": "CSDN博客",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EV1k2eUNFY3hiLTNmUkR5QVUxQ0xsWjBRUjhMSjBSMkI4LV9TQVU0ZUFZUGdMOW92em1vdzY2V0RPTmV2d0FnX19SQjRkTmRBRXBHNGUycHBTSzFWVUNCcXRPV1IzSXVyMmU4OGxB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T03:31:33Z",
+   "level": "notable",
+   "title": {
+    "en": "硅谷疯炒 AI 自我进化，李飞飞、Jeff Dean 齐泼冷水：无限加速不可信",
+    "zh": "硅谷疯炒 AI 自我进化，李飞飞、Jeff Dean 齐泼冷水：无限加速不可信"
+   },
+   "body": {
+    "en": "Fei-Fei Li joined Jeff Dean in publicly pushing back on Silicon Valley's hype around unconstrained AI self-improvement, calling claims of unlimited acceleration unreliable.",
+    "zh": "李飞飞与Jeff Dean一同公开反驳硅谷对AI无限自我进化的炒作，称“无限加速”的说法不可信。"
+   },
+   "source": "InfoQ.cn",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBa2pXcGVBZ28xbERndnk1OXFXaEFwbFN0RGcydFhHVXVMT0lpSkVNOWFjQWtsNG9NMTdFY01pbDgwRGpwUndIUGg1SG9hZ1U0N1REMWNZcDlpZzdhMmc?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-11-09",
@@ -7186,6 +7239,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-28",
+   "ts": "2026-09-28T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "AMD acquiring Fei-Fei Li's World Labs AI firm in deal worth $8.2 billion",
+    "zh": "AMD acquiring Fei-Fei Li's World Labs AI firm in deal worth $8.2 billion"
+   },
+   "body": {
+    "en": "AMD agreed to acquire Fei-Fei Li's World Labs for $8.2 billion, making her an AMD EVP and chief scientist under Lisa Su.",
+    "zh": "AMD以82亿美元收购李飞飞创立的World Labs，她将成为AMD执行副总裁兼首席科学家，向苏姿丰汇报。"
+   },
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LUjBabEQwUG1TSlBLWGJJbENYbEZXVzYxWTlGVEpXRXhvM0ZOMjhXWmdzNVdTX0dLcGF3S0Z1RDN1UDJ1aDhMbGFMZE1iNnd5SkVNVk1JY3ZXUl9FNXZiZTcwV24zVlI5dVdsNFo1VQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-24",
    "ts": "2026-09-24T10:41:00Z",
    "level": "notable",
@@ -9309,8 +9379,8 @@
   "pageviews": 423813,
   "citations": 222997,
   "hIndex": 137,
-  "events": 410,
-  "posts": 113,
+  "events": 413,
+  "posts": 114,
   "wikiEn": "Fei-Fei Li",
   "wikiZh": "李飛飛"
  },

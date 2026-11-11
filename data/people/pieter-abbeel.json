@@ -1,5 +1,5 @@
 {
- "rank": 75,
+ "rank": 74,
  "id": "pieter-abbeel",
  "name": {
   "en": "Pieter Abbeel",
@@ -181,6 +181,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-11-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Embodied First Exam",
+    "zh": "Embodied First Exam"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.12177v1",
+   "note": {
+    "en": "Abbeel co-authored 'Embodied First Exam,' a new agent-native benchmark for evaluating coding agents that control robots rather than relying solely on visuomotor policy learning.",
+    "zh": "Abbeel共同撰写了新基准测试《Embodied First Exam》，用于评估以编程智能体控制机器人（而非仅依赖视觉运动策略学习）的能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-11-03",
@@ -708,25 +727,6 @@
    "note": {
     "en": "A statistical theory for training diffusion models against several target distributions at once under semi-supervised data.",
     "zh": "为半监督数据下同时面向多个目标分布训练扩散模型建立统计理论。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-05-11",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "When Does Non-Uniform Replay Matter in Reinforcement Learning?",
-    "zh": "When Does Non-Uniform Replay Matter in Reinforcement Learning?"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2605.10236v3",
-   "note": {
-    "en": "An empirical study of when non-uniform replay sampling actually beats plain uniform replay in off-policy reinforcement learning.",
-    "zh": "实证研究离策略强化学习中非均匀回放采样究竟在什么条件下能胜过简单的均匀回放。"
    },
    "auto": true,
    "judged": true,

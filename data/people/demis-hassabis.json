@@ -223,6 +223,44 @@
    }
   },
   {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T17:41:41Z",
+   "kind": "x",
+   "title": {
+    "en": "Our latest frontier model Gemini 4 Carbon is rolling out today! Amazing progress from Gemini 3 → Gemini 4 in less than a year… Carbon reverse engineers my origi",
+    "zh": "Our latest frontier model Gemini 4 Carbon is rolling out today! Amazing progress from Gemini 3 → Gemini 4 in less than a year… Carbon reverse engineers my origi"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2120210297948696997",
+   "note": {
+    "en": "Announced the rollout of Gemini 4 Carbon, Google DeepMind's latest frontier model, less than a year after Gemini 3.",
+    "zh": "宣布 Gemini 4 Carbon 上线，这是 Google DeepMind 在 Gemini 3 发布不到一年后推出的最新前沿模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-06",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Semiprime Factorization with Discrete Diffusion and Beam Search: Scaling Laws",
+    "zh": "Semiprime Factorization with Discrete Diffusion and Beam Search: Scaling Laws"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.10202v1",
+   "note": {
+    "en": "Co-authored a DeepMind paper showing transformers trained with discrete denoising diffusion and beam search can learn to factor semiprime integers, probing the limits of learned algorithmic reasoning.",
+    "zh": "与DeepMind团队合著论文，展示了经离散去噪扩散训练并通过束搜索解码的Transformer模型能够学习分解半素数，探索了学习型算法推理能力的边界。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-28",
    "ts": "2026-10-28T17:03:07Z",
    "kind": "x",
@@ -1515,25 +1553,6 @@
    "connector": "x"
   },
   {
-   "date": "2025-07-11",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Thrilled to welcome @windsurf_ai founders @_mohansolo &amp; Douglas Chen and some of the brilliant Windsurf eng team to @GoogleDeepMind. Excited to be working w",
-    "zh": "Thrilled to welcome @windsurf_ai founders @_mohansolo &amp; Douglas Chen and some of the brilliant Windsurf eng team to @GoogleDeepMind. Excited to be working w"
-   },
-   "source": "@demishassabis",
-   "url": "https://x.com/demishassabis/status/1943794383536652309",
-   "note": {
-    "en": "Welcomed Windsurf's founders and engineering team to Google DeepMind to help accelerate Gemini's coding efforts.",
-    "zh": "欢迎Windsurf的创始人及工程团队加入Google DeepMind,以助力加速Gemini的编程能力开发。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
    "date": "2025-07-07",
    "ts": null,
    "kind": "paper",
@@ -2170,6 +2189,23 @@
    },
    "source": "Fortune",
    "url": "https://fortune.com/2026/08/10/how-stalled-models-missed-deadlines-and-staff-burnout-lead-to-the-unraveling-of-googles-deepmind/"
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T15:11:51Z",
+   "level": "notable",
+   "title": {
+    "en": "DeepMind's Demis Hassabis Warns an AI ‘Oil Spill’ Is Coming Unless the Industry Changes Course",
+    "zh": "DeepMind's Demis Hassabis Warns an AI ‘Oil Spill’ Is Coming Unless the Industry Changes Course"
+   },
+   "body": {
+    "en": "Hassabis publicly warned that the AI industry is heading toward an \"oil spill\"-scale disaster unless it changes course, a notable public stance on industry risk.",
+    "zh": "哈萨比斯公开警告，除非行业改变方向，否则AI产业将走向一场“石油泄漏”级别的灾难，这是他对行业风险的一次重要公开表态。"
+   },
+   "source": "Inc.com",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaWhzRWx6SjRvMWczeUlBUDNqVVk3WUhhakd6dndQZWpEUDdkZ18zSDVoVjdHRGRGOHdzUHAwRTZ5YUlGSGQ2dlUtaXZFb1lJbDBWRGo5My1uc0NhS1IzRFEwNXJ3UmhjeWtkNkVCelhyNWVLdkxuRWhvX0I3eXJKN2QtbW4wYVNYVWk2X2t6cjFDQVVDQUNNN3pFTHNwMHpaX1BybkZ0MlFFTjZZMEdjQzB2WEdSV21rWHBFc21MTVY3NjY3bEVZSllfZlV3WnVXTFJ3?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-23",
@@ -2971,6 +3007,23 @@
    "judged": true
   },
   {
+   "date": "2026-08-05",
+   "ts": "2026-08-05T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO",
+    "zh": "Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO"
+   },
+   "body": {
+    "en": "Google restructured its AI leadership: Demis Hassabis stepped down as DeepMind CEO in the same reshuffle that saw Jeff Dean leave the company.",
+    "zh": "谷歌对AI领导层进行重组，Demis Hassabis在这轮改组中卸任DeepMind CEO一职，同一轮改组中Jeff Dean也离开了公司。"
+   },
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVkhiNlh6LVJaNmJiWXYwZm11TFRwS3JVWWVVVkRHdzlWeGhkSk04WXhnQ1R2QjhJNmU5VXdsd3FJSG81cGVlQTlJUUdIYThaSnczYU1XbE84N09ucXRPVXBhbnlkamtWV3JhVUpUZ2NMMDE2RkJhWG1pdXlSRzljSTA0eXhRdHEybUpvOEZXcGJWQzJKWndPREFCZlBXNGZqVWc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-07-27",
    "ts": null,
    "level": "notable",
@@ -3020,8 +3073,8 @@
   "pageviews": 1121478,
   "citations": 195503,
   "hIndex": 92,
-  "events": 51,
-  "posts": 105,
+  "events": 53,
+  "posts": 106,
   "wikiEn": "Demis Hassabis",
   "wikiZh": "杰米斯·哈萨比斯"
  },

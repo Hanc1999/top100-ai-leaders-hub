@@ -989,25 +989,6 @@
    "judged": true,
    "platform": "openalex",
    "connector": "openalex"
-  },
-  {
-   "date": "2025-08-27",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "InfiniteHBD: Building Datacenter-Scale High-Bandwidth Domain for LLM with Optical Circuit Switching Transceivers",
-    "zh": "InfiniteHBD: Building Datacenter-Scale High-Bandwidth Domain for LLM with Optical Circuit Switching Transceivers"
-   },
-   "source": "OpenAlex",
-   "url": "https://doi.org/10.1145/3718958.3750468",
-   "note": {
-    "en": "StepFun paper on InfiniteHBD, a datacenter-scale high-bandwidth domain design using optical circuit switching for LLM training.",
-    "zh": "StepFun团队论文提出InfiniteHBD，利用光电路交换构建数据中心级高带宽域，用于大模型训练。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
   }
  ],
  "news": [
@@ -1209,7 +1190,7 @@
   "citations": 12459,
   "hIndex": 45,
   "events": 11,
-  "posts": 44,
+  "posts": 43,
   "wikiEn": null,
   "wikiZh": null
  },

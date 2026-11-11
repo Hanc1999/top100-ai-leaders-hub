@@ -169,6 +169,25 @@
    }
   },
   {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T18:12:22Z",
+   "kind": "x",
+   "title": {
+    "en": "In this conversation with @Reuters The Big View, I discuss why the next wave of economic value creation is shifting from AI models to industry applications. Tha",
+    "zh": "In this conversation with @Reuters The Big View, I discuss why the next wave of economic value creation is shifting from AI models to industry applications. Tha"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2120218020610207952",
+   "note": {
+    "en": "In a Reuters interview he shared on X, Lee argued that the next wave of economic value in AI is shifting from the models themselves to industry applications.",
+    "zh": "李开复在X上分享了他接受路透社采访的内容，提出AI领域下一波经济价值将从模型本身转向行业应用。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-06",
    "ts": "2026-11-06T13:33:55Z",
    "kind": "x",
@@ -1499,25 +1518,6 @@
    "connector": "x"
   },
   {
-   "date": "2023-11-15",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Thank you @ClementDelangue . Yi contributed to the open source community by standing on the shoulders of giants. GPT 2 --&gt; Gopher --&gt; Chinchilla --&gt; Ll",
-    "zh": "Thank you @ClementDelangue . Yi contributed to the open source community by standing on the shoulders of giants. GPT 2 --&gt; Gopher --&gt; Chinchilla --&gt; Ll"
-   },
-   "source": "@kaifulee",
-   "url": "https://x.com/kaifulee/status/1724673131875377465",
-   "note": {
-    "en": "Lee places Yi in an explicit open-source lineage — GPT-2 to Gopher to Chinchilla to Llama 2 to Yi — in response to Hugging Face's Clement Delangue.",
-    "zh": "李开复回应 Hugging Face 的 Clement Delangue，将 Yi 明确置于 GPT-2 → Gopher → Chinchilla → Llama 2 → Yi 的开源谱系之中。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
    "date": "2022-10-27",
    "ts": null,
    "kind": "blog",
@@ -2002,6 +2002,23 @@
    },
    "source": "01.AI",
    "url": "https://www.01.ai/"
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T01:42:29Z",
+   "level": "minor",
+   "title": {
+    "en": "全球化智库（CCG）邀请李开复博士出任资深副主席",
+    "zh": "全球化智库（CCG）邀请李开复博士出任资深副主席"
+   },
+   "body": {
+    "en": "The Center for China and Globalization (CCG) appointed Kai-Fu Lee as a senior vice chairman, an additional advisory role alongside his work at Sinovation Ventures and 01.AI.",
+    "zh": "全球化智库（CCG）邀请李开复出任资深副主席，这是他在创新工场和零一万物工作之外的又一顾问性职务。"
+   },
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3QmhUZ3NqQV9ROXpCRFRQMUZJSnkwVUdING5BSVVEbzlNR0Y1dDlnOVN2WDVhcm9CWmsxTlV6Mi1vREJmTzlJZ2dwamh2dm9mU2ozWDk2ekZ0UC1GeEkwOHZIOE9vYXItN3VjQUhWd1I?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-11-05",
@@ -4144,7 +4161,7 @@
   "pageviews": 77041,
   "citations": 2181,
   "hIndex": 20,
-  "events": 127,
+  "events": 128,
   "posts": 96,
   "wikiEn": "Kai-Fu Lee",
   "wikiZh": "李开复"

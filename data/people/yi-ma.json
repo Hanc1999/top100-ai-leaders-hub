@@ -213,6 +213,25 @@
    }
   },
   {
+   "date": "2026-11-07",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Scaling Optimization-Oriented Hypernetworks for Implicit Neural Representations",
+    "zh": "Scaling Optimization-Oriented Hypernetworks for Implicit Neural Representations"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.10509v1",
+   "note": {
+    "en": "Ma co-authored a hypernetwork that generates implicit-neural-representation parameters in a single forward pass, replacing MLP layers with attention so it scales to wider target networks without test-time optimization.",
+    "zh": "马毅合作提出了一种超网络，可通过一次前向传播生成隐式神经表示的参数，用注意力机制替代MLP层，从而在不进行测试时优化的情况下扩展到更宽的目标网络。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-30",
    "ts": "2026-10-30T07:23:59Z",
    "kind": "x",
@@ -1658,7 +1677,7 @@
   "citations": 46806,
   "hIndex": 81,
   "events": 18,
-  "posts": 61,
+  "posts": 62,
   "wikiEn": "Yi Ma",
   "wikiZh": null
  },

@@ -1,5 +1,5 @@
 {
- "rank": 89,
+ "rank": 87,
  "id": "jason-wei",
  "name": {
   "en": "Jason Wei",
@@ -174,6 +174,63 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-11-11",
+   "ts": "2026-11-11T21:31:05Z",
+   "kind": "x",
+   "title": {
+    "en": "The fall of “what you can do” and the rise of “who you know” Traditionally, many of us believe in a world where how hard you work is more important than who you",
+    "zh": "The fall of “what you can do” and the rise of “who you know” Traditionally, many of us believe in a world where how hard you work is more important than who you"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/2120630417158250953",
+   "note": {
+    "en": "Wei argues in a personal essay that career advancement is shifting from pure merit (\"what you can do\") toward relationships and access (\"who you know\").",
+    "zh": "魏在一篇个人随笔中提出，职业发展正从单纯看能力（“你能做什么”）转向更看重人脉和关系（“你认识谁”）。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-11",
+   "ts": "2026-11-11T21:35:14Z",
+   "kind": "blog",
+   "title": {
+    "en": "The fall of “what you can do” and the rise of “who you know”",
+    "zh": "The fall of “what you can do” and the rise of “who you know”"
+   },
+   "source": "Blog - Jason Wei",
+   "url": "https://www.jasonwei.net/blog/the-fall-of-what-you-can-do-and-the-rise-of-who-you-know",
+   "note": {
+    "en": "Wei argues that as technical execution becomes commoditized, professional networks and relationships are becoming more decisive for success in AI research than raw skill.",
+    "zh": "Wei认为，随着技术执行日益商品化，人际关系和职业网络正变得比单纯的技术能力更能决定AI研究领域的成功。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T22:31:55Z",
+   "kind": "x",
+   "title": {
+    "en": "Created a \"benchmark benchmark\": a frequency distribution of which benchmarks were reported by the frontier labs in 2026: https://t.co/GswjxqWz1c Some observati",
+    "zh": "Created a \"benchmark benchmark\": a frequency distribution of which benchmarks were reported by the frontier labs in 2026: https://t.co/GswjxqWz1c Some observati"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/2120283338640621826",
+   "note": {
+    "en": "Wei published a 'benchmark of benchmarks' analyzing which evaluation benchmarks frontier labs cited most often in 2026.",
+    "zh": "Jason Wei发布了一份“基准中的基准”分析，统计了2026年各前沿实验室最常引用的评测基准。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
   },
   {
    "date": "2026-10-19",
@@ -1297,44 +1354,6 @@
    "connector": "x"
   },
   {
-   "date": "2025-01-07",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Nice paper from Deepmind takes a fresh angle on factuality: https://t.co/3MDQlmNU9W While most existing factuality datasets focus on public world knowledge, thi",
-    "zh": "Nice paper from Deepmind takes a fresh angle on factuality: https://t.co/3MDQlmNU9W While most existing factuality datasets focus on public world knowledge, thi"
-   },
-   "source": "@_jasonwei",
-   "url": "https://x.com/_jasonwei/status/1876701085601341662",
-   "note": {
-    "en": "Wei highlights a DeepMind paper taking a new angle on factuality, evaluating whether model responses are grounded rather than just testing public world knowledge.",
-    "zh": "Wei推荐一篇DeepMind论文,从新角度研究事实性问题,评估模型回答是否有据可依,而非仅测试公共常识。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
-   "date": "2025-01-03",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "An underrated but occasionally make-or-break skill in AI research (that didn’t really exist ten years ago) is the ability to find a dataset that actually exerci",
-    "zh": "An underrated but occasionally make-or-break skill in AI research (that didn’t really exist ten years ago) is the ability to find a dataset that actually exerci"
-   },
-   "source": "@_jasonwei",
-   "url": "https://x.com/_jasonwei/status/1875268874859344349",
-   "note": {
-    "en": "Wei argues that finding a dataset that genuinely exercises a new method — a skill barely needed a decade ago — is an underrated, make-or-break AI research skill.",
-    "zh": "Wei认为找到真正能检验新方法的数据集,是一项十年前几乎不存在、如今却常常决定成败的被低估的AI研究技能。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
    "date": "2024-12-21",
    "ts": null,
    "kind": "paper",
@@ -1909,19 +1928,19 @@
  },
  "cat": "lab",
  "score": {
-  "total": 25.1,
+  "total": 26.0,
   "attention": null,
   "centrality": 34,
-  "momentum": 14,
+  "momentum": 16,
   "stature": null,
   "pageviews": 0,
   "citations": 4944,
   "hIndex": 19,
   "events": 1,
-  "posts": 91,
+  "posts": 92,
   "wikiEn": null,
   "wikiZh": null
  },
  "seedRank": 90,
- "tier": "t6"
+ "tier": "t5"
 }

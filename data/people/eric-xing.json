@@ -1,5 +1,5 @@
 {
- "rank": 75,
+ "rank": 74,
  "id": "eric-xing",
  "name": {
   "en": "Eric Xing",
@@ -200,6 +200,25 @@
    "note": {
     "en": "Co-authored 'Embodied First Exam,' a benchmark proposing coding agents to control robots as a step beyond visuomotor policy learning, alongside Fei-Fei Li, Jiajun Wu and other robotics researchers.",
     "zh": "与李飞飞、吴佳俊等机器人研究者合著《Embodied First Exam》，提出用编程智能体控制机器人，作为超越视觉运动策略学习的新基准。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-11-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "X Marks the Spot: Diffusion for Image Geolocalization with Location Representations",
+    "zh": "X Marks the Spot: Diffusion for Image Geolocalization with Location Representations"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.13180v1",
+   "note": {
+    "en": "Co-authored with longtime geolocalization collaborator Nathan Jacobs, this paper uses diffusion models with location representations to predict where a photo was taken.",
+    "zh": "该论文与其长期合作者Nathan Jacobs共同撰写，利用带有位置表征的扩散模型来预测照片的拍摄地点。"
    },
    "auto": true,
    "judged": true,
@@ -1879,16 +1898,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 30.8,
+  "total": 31.0,
   "attention": 25,
   "centrality": 14,
-  "momentum": 51,
+  "momentum": 52,
   "stature": 54,
   "pageviews": 21312,
   "citations": 41656,
   "hIndex": 97,
   "events": 3,
-  "posts": 88,
+  "posts": 89,
   "wikiEn": "Eric Xing",
   "wikiZh": "邢波"
  },

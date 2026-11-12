@@ -187,6 +187,25 @@
    }
   },
   {
+   "date": "2026-11-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Few-Step Streaming Video Generation via Condition Shifting",
+    "zh": "Few-Step Streaming Video Generation via Condition Shifting"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.14033v1",
+   "note": {
+    "en": "Zhu Jun co-authored a few-step streaming video generation method using condition shifting, improving on distillation approaches like Distribution Matching Distillation for cheaper diffusion sampling.",
+    "zh": "朱军合著了一种基于条件偏移的少步流式视频生成方法，改进了分布匹配蒸馏等蒸馏方案，使扩散模型采样成本更低。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-30",
    "ts": null,
    "kind": "paper",
@@ -844,6 +863,23 @@
    "url": "https://news.qq.com/rain/a/20260410A040JI00"
   },
   {
+   "date": "2026-11-11",
+   "ts": "2026-11-11T00:08:08Z",
+   "level": "notable",
+   "title": {
+    "en": "清华教授朱军的AI电影首秀，技术赢了口碑",
+    "zh": "清华教授朱军的AI电影首秀，技术赢了口碑"
+   },
+   "body": {
+    "en": "Tsinghua professor Zhu Jun's AI-generated film made its debut and drew praise for its technical quality.",
+    "zh": "清华大学朱军教授参与的AI电影首次亮相，技术水准获得好评。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOWFwc0RHeG5rUjRzcWNKSWJMOUNSUV9yNFVTRWE5aXFLT054RUluLTQzWFJZSExhZ01nT2V0VjhSVXlRTjZ4Q3pvVl9oaDZUZFd4cmZvRlVFSkE2YVlOT01pSDBMM3JZT0hzWWVJWE9BTnNjM1VyQ1pIWk9mM1FSb3ZUTGh1OUlWMHRwNA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-29",
    "ts": "2026-10-29T01:08:23Z",
    "level": "minor",
@@ -1191,16 +1227,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 31.8,
+  "total": 32.0,
   "attention": 19,
   "centrality": 20,
-  "momentum": 56,
+  "momentum": 57,
   "stature": 61,
   "pageviews": 12694,
   "citations": 56229,
   "hIndex": 118,
-  "events": 22,
-  "posts": 34,
+  "events": 23,
+  "posts": 35,
   "wikiEn": "Zhu Jun",
   "wikiZh": "朱军"
  },

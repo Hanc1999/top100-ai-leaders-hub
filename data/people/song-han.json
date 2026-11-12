@@ -228,6 +228,25 @@
    }
   },
   {
+   "date": "2026-11-10",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Deep Personalization: Continuous Context Observation for Local Proactive Agents",
+    "zh": "Deep Personalization: Continuous Context Observation for Local Proactive Agents"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.13457v1",
+   "note": {
+    "en": "Han co-authored a study on local proactive AI agents that continuously observe context to anticipate when users need help, rather than waiting to be asked.",
+    "zh": "韩松合著了一项关于本地主动式AI智能体的研究，这类智能体持续观察上下文以预判用户何时需要帮助，而非等待用户主动提问。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-11-09",
    "ts": null,
    "kind": "paper",
@@ -893,25 +912,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-06-21",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Sol Video Inference Engine: Agent-Native Full-Stack Acceleration Framework for Efficient Video Generation",
-    "zh": "Sol Video Inference Engine: Agent-Native Full-Stack Acceleration Framework for Efficient Video Generation"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2606.23743v2",
-   "note": {
-    "en": "Full-stack inference engine that combines multiple acceleration techniques for video generation.",
-    "zh": "面向视频生成的全栈推理引擎，将多种加速手段组合到统一框架中。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2026-06-15",
    "ts": null,
    "kind": "x",
@@ -967,25 +967,6 @@
    "judged": true,
    "platform": "x",
    "connector": "backfill"
-  },
-  {
-   "date": "2026-06-03",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference",
-    "zh": "SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2606.04511v1",
-   "note": {
-    "en": "Sparse decoupled attention that reduces KV-cache and memory-bandwidth cost in long-context LLM inference.",
-    "zh": "提出稀疏解耦注意力，降低长上下文推理中的 KV cache 与显存带宽开销。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
   },
   {
    "date": "2026-06-01",
@@ -1539,16 +1520,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 21.0,
+  "total": 20.8,
   "attention": 4,
   "centrality": 18,
-  "momentum": 45,
+  "momentum": 44,
   "stature": 46,
   "pageviews": 888,
   "citations": 32832,
   "hIndex": 58,
   "events": 3,
-  "posts": 69,
+  "posts": 68,
   "wikiEn": null,
   "wikiZh": "韩松"
  },

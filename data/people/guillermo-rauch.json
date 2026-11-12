@@ -127,6 +127,25 @@
    }
   },
   {
+   "date": "2026-11-10",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "HUMAN VERIFIED 003: Guillermo Rauch (Founder & CEO of Vercel) on 6 kids (and counting!), vacationing on Mars, and lessons from watching too much Anime",
+    "zh": "HUMAN VERIFIED 003: Guillermo Rauch (Founder & CEO of Vercel) on 6 kids (and counting!), vacationing on Mars, and lessons from watching too much Anime"
+   },
+   "source": "Humanagains",
+   "url": "https://podcasts.apple.com/us/podcast/human-verified-003-guillermo-rauch-founder-ceo-of/id6827723177?i=1000801033428&uo=4",
+   "note": {
+    "en": "Rauch guested on the Humanagains podcast, talking about raising six kids, building Vercel, and AI agents.",
+    "zh": "Rauch做客播客节目Humanagains，谈及养育六个孩子、打造Vercel的理念以及AI agent相关话题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-11-07",
    "ts": null,
    "kind": "report",
@@ -1096,6 +1115,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2023-03-08",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Guillermo Rauch | Clip #6 | Customers As Partners | Actionable Feedback Loop | Winning Means… | Metrics As Products | Guillermo’s Personal Evolution | Improving The World | Authenticity & Transparency",
+    "zh": "Guillermo Rauch | Clip #6 | Customers As Partners | Actionable Feedback Loop | Winning Means… | Metrics As Products | Guillermo’s Personal Evolution | Improving The World | Authenticity & Transparency"
+   },
+   "source": "Future Founder Promise",
+   "url": "https://podcasts.apple.com/us/podcast/guillermo-rauch-clip-6-customers-as-partners-actionable/id1622431816?i=1000603222989&uo=4",
+   "note": {
+    "en": "An interview with Rauch on treating customers as partners, building feedback loops, and his personal evolution as a founder.",
+    "zh": "一次对Rauch的采访，内容涉及把客户当作伙伴、建立反馈循环，以及他作为创始人的个人成长历程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2022-06-09",
    "ts": null,
    "kind": "podcast",
@@ -1127,6 +1165,25 @@
    "note": {
     "en": "Rauch discussed founding Vercel and Next.js and his path from Argentina to the US as a guest on the First Generation podcast.",
     "zh": "劳赫作为嘉宾在播客《First Generation》中讲述了创立Vercel和Next.js的经历，以及从阿根廷到美国的成长之路。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2020-12-02",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Guillermo Rauch (Vercel)",
+    "zh": "Guillermo Rauch (Vercel)"
+   },
+   "source": "TODO POR LA TARDE",
+   "url": "https://podcasts.apple.com/us/podcast/guillermo-rauch-vercel/id1473539878?i=1000501104419&uo=4",
+   "note": {
+    "en": "A Spanish-language interview with Rauch as Vercel's CEO about innovation, startups and Silicon Valley.",
+    "zh": "一次西班牙语采访，Vercel CEO Rauch在节目中谈论创新、创业与硅谷生态。"
    },
    "auto": true,
    "judged": true,
@@ -1335,16 +1392,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 36.0,
+  "total": 36.5,
   "attention": null,
   "centrality": 36,
-  "momentum": 36,
+  "momentum": 37,
   "stature": null,
   "pageviews": 0,
   "citations": 9,
   "hIndex": 1,
   "events": 7,
-  "posts": 58,
+  "posts": 61,
   "wikiEn": null,
   "wikiZh": null
  },

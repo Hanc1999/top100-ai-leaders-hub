@@ -1,5 +1,5 @@
 {
- "rank": 33,
+ "rank": 31,
  "id": "jim-fan",
  "name": {
   "en": "Jim Fan",
@@ -206,6 +206,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-11-11",
+   "ts": "2026-11-11T15:32:36Z",
+   "kind": "x",
+   "title": {
+    "en": "Autonomous, uncut, 1x speed. This is GR00T 2 controlling real dexterous hands to perform a chemistry lab experiment (and clean up after itself) end to end. Epis",
+    "zh": "Autonomous, uncut, 1x speed. This is GR00T 2 controlling real dexterous hands to perform a chemistry lab experiment (and clean up after itself) end to end. Epis"
+   },
+   "source": "@drjimfan",
+   "url": "https://x.com/DrJimFan/status/2120540201994846253",
+   "note": {
+    "en": "Fan posted a demo video of GR00T 2 autonomously controlling dexterous hands to complete a chemistry-lab experiment end to end, the first episode of a planned series.",
+    "zh": "范麟熙发布了一段演示视频，展示GR00T 2自主控制灵巧机械手端到端完成化学实验，这是计划系列视频的第一集。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
   },
   {
    "date": "2026-11-10",
@@ -1344,19 +1363,19 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 61.3,
+  "total": 61.8,
   "attention": null,
   "centrality": 87,
-  "momentum": 31,
+  "momentum": 32,
   "stature": null,
   "pageviews": 0,
   "citations": 0,
   "hIndex": 0,
   "events": 5,
-  "posts": 57,
+  "posts": 58,
   "wikiEn": null,
   "wikiZh": null
  },
  "seedRank": 98,
- "tier": "t3"
+ "tier": "t2"
 }

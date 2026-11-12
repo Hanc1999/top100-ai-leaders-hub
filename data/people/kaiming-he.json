@@ -762,6 +762,23 @@
    "url": "https://www.eecs.mit.edu/people/kaiming-he/"
   },
   {
+   "date": "2026-11-11",
+   "ts": "2026-11-11T10:45:30Z",
+   "level": "notable",
+   "title": {
+    "en": "何恺明团队新作：看猫片就能学会ARC挑战|训练|格子|模型|视觉|规则_手机新浪网",
+    "zh": "何恺明团队新作：看猫片就能学会ARC挑战|训练|格子|模型|视觉|规则_手机新浪网"
+   },
+   "body": {
+    "en": "He's MIT group released NAT-ARC, a vision-only approach to the ARC reasoning benchmark pretrained on ordinary image data (e.g. ImageNet cats) rather than language models, scoring 70.2% ensembled on ARC-1.",
+    "zh": "何恺明在MIT的团队发布NAT-ARC，一种纯视觉方案用于解决ARC推理基准测试，仅用普通图像数据（如ImageNet中的猫图）进行预训练而非依赖语言模型，集成后在ARC-1上取得70.2%的成绩。"
+   },
+   "source": "新浪财经_金融信息服务商",
+   "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNb0d1RV9IMlhleVQyZWNJU3A3ODhlRnFsdXhGcl95OXNzTGhLamdSQ01lTHl3d0ZDRDk5TWF1MXlLRkRsVmFnaTQ1NGhHX2lHWUljUW1STW8zM19RUjhlSlZOeEZaRnpLZUpGbkx2Qkg2TElGRlYzTTZnRmh2cmlPOUdVTzF6UDgzNUVnQnRGVmhLZG50R3VyR1BwSTFOWGEwNVN6ekZfanR1a3BvNFN2X01hVDFOdnA2OFhCblF4X3dBY0ZZMWl6TWZsRE9Ed2pwU21pTVRhMjBPX3Ixcm95NVdhNDVZaGNkQ1JkRl9fNVJteG9zSENHM2dsZ2I2cHdzMzNlQUtKTHRFajFjUFBFcFI2dlk4ZUpNVC14VDFwTTZmcnBwZUd0NDVlRldMT3dMTUJMalBTeERIZFF5emE5Q2FETFZ6TGRRczVweVZaY1NaeXE3dEZhSUZJQk0yLWN1UGJvOEJiUEJZdGJP?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-17",
    "ts": "2026-10-17T06:08:24Z",
    "level": "notable",
@@ -2035,7 +2052,7 @@
   "pageviews": 46828,
   "citations": 555963,
   "hIndex": 83,
-  "events": 75,
+  "events": 76,
   "posts": 30,
   "wikiEn": "Kaiming He",
   "wikiZh": "何恺明"

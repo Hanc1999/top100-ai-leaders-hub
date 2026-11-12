@@ -149,6 +149,44 @@
    }
   },
   {
+   "date": "2026-11-11",
+   "ts": "2026-11-11T16:23:46Z",
+   "kind": "x",
+   "title": {
+    "en": "AlphaGenome 2 is helping uncover the cellular drivers of disease, giving scientists a powerful tool to predict how DNA variants impact specific cell types. Ever",
+    "zh": "AlphaGenome 2 is helping uncover the cellular drivers of disease, giving scientists a powerful tool to predict how DNA variants impact specific cell types. Ever"
+   },
+   "source": "@sundarpichai",
+   "url": "https://x.com/sundarpichai/status/2120553080232329324",
+   "note": {
+    "en": "Pichai posted on X about AlphaGenome 2, DeepMind's tool for predicting how DNA variants affect specific cell types to uncover disease drivers.",
+    "zh": "皮查伊在X上发帖介绍AlphaGenome 2，这是DeepMind用于预测DNA变异如何影响特定细胞类型、从而揭示疾病成因的工具。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-11",
+   "ts": "2026-11-11T18:15:20Z",
+   "kind": "x",
+   "title": {
+    "en": "Today we’re launching the Gemini Decisions API, powered by our new Gemini Decision 1 model in @GoogleAIStudio. Instead of generating text token by token, it’s b",
+    "zh": "Today we’re launching the Gemini Decisions API, powered by our new Gemini Decision 1 model in @GoogleAIStudio. Instead of generating text token by token, it’s b"
+   },
+   "source": "@sundarpichai",
+   "url": "https://x.com/sundarpichai/status/2120581155078729728",
+   "note": {
+    "en": "Pichai announced the launch of the Gemini Decisions API with a new Gemini Decision 1 model, built to score closed-set choices rather than generate text token by token.",
+    "zh": "皮查伊宣布推出Gemini Decisions API及全新的Gemini Decision 1模型，该模型专为对封闭选项打分而设计，而非逐词生成文本。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-10",
    "ts": "2026-11-10T16:04:43Z",
    "kind": "x",
@@ -1137,25 +1175,6 @@
    "connector": "podcasts"
   },
   {
-   "date": "2026-05-22",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Excited to see what you are building with Antigravity, We just 3xed the Antigravity limits again, but this time, the weekly quotas. Don't stop building!",
-    "zh": "Excited to see what you are building with Antigravity, We just 3xed the Antigravity limits again, but this time, the weekly quotas. Don't stop building!"
-   },
-   "source": "@sundarpichai",
-   "url": "https://x.com/sundarpichai/status/2057658091831996593",
-   "note": {
-    "en": "Pichai announced Google tripled the weekly usage quotas for Antigravity in response to developer demand.",
-    "zh": "皮查伊宣布Google将Antigravity的每周使用配额再度提高至三倍,以满足开发者需求。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
    "date": "2026-05-21",
    "ts": null,
    "kind": "podcast",
@@ -1173,25 +1192,6 @@
    "judged": true,
    "platform": "apple-podcasts",
    "connector": "podcasts"
-  },
-  {
-   "date": "2026-05-19",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Gemini Omni doesn't just build scenes that look real, it reasons about what should happen next. It combines an intuitive understanding of physics with Gemini's",
-    "zh": "Gemini Omni doesn't just build scenes that look real, it reasons about what should happen next. It combines an intuitive understanding of physics with Gemini's"
-   },
-   "source": "@sundarpichai",
-   "url": "https://x.com/sundarpichai/status/2056816915717443862",
-   "note": {
-    "en": "Pichai described Gemini Omni's ability to reason about physics and generate realistic scenes drawing on history, science and culture.",
-    "zh": "皮查伊介绍Gemini Omni具备物理推理能力,能结合历史、科学和文化知识生成逼真场景。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
   },
   {
    "date": "2025-11-26",
@@ -1526,6 +1526,125 @@
    },
    "source": "Axios",
    "url": "https://www.axios.com/2026/08/06/googles-ai-leadership-shuffle"
+  },
+  {
+   "date": "2026-11-11",
+   "ts": "2026-11-11T02:28:43Z",
+   "level": "notable",
+   "title": {
+    "en": "Sundar Pichai: AI will disrupt almost every profession, including doctors, writers, accountants, architects, and even software engineers. “AI will impact everything.” “Five to ten years from now, a radiologist will have an AI collaborator working alongside them.” “It",
+    "zh": "Sundar Pichai: AI will disrupt almost every profession, including doctors, writers, accountants, architects, and even software engineers. “AI will impact everything.” “Five to ten years from now, a radiologist will have an AI collaborator working alongside them.” “It"
+   },
+   "body": {
+    "en": "Pichai said AI will disrupt nearly every profession within five to ten years, including doctors, writers, accountants, architects and software engineers.",
+    "zh": "皮查伊表示，未来五到十年内，人工智能将颠覆几乎所有职业，包括医生、作家、会计师、建筑师和软件工程师。"
+   },
+   "source": "LinkedIn",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ28xLTJLbmhra01DczVheTBYelpzN2phQkp6UXpTTnA2c0lQQTA4enZoZ0R0dTFWcHJhOUh3Q0RRNFpuVVNsSTVIWDU0REdzYU5qWDlraGJnOUM1YkVGcGU2VW1Kclg5akdHSnhwV25oWVVOSzVGaGREREs1WGJPZ1NCRFlIQ012ZzF0ZzFSY0FwUlNUTlhHUURPczBTSUoxUFJnMGV5THZ4azk5T1BwV3hHVndaNjB1ajd2ZE0zQTRDeUtoMVFQUmdFTzBaY3ptc0E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-11",
+   "ts": "2026-11-11T04:42:09Z",
+   "level": "notable",
+   "title": {
+    "en": "Sundar Pichai Welcomes Mark Zuckerberg's AI Models To Google Cloud: \"Excited To Serve\"",
+    "zh": "Sundar Pichai Welcomes Mark Zuckerberg's AI Models To Google Cloud: \"Excited To Serve\""
+   },
+   "body": {
+    "en": "Sundar Pichai welcomed Meta's AI models onto Google Cloud, opening Google's infrastructure to a rival lab's models.",
+    "zh": "桑达尔·皮查伊欢迎Meta的AI模型入驻Google Cloud，向竞争实验室的模型开放了谷歌的基础设施。"
+   },
+   "source": "NDTV",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeGpham5ESWY3dlF2S0ZsODE2a2Q3YVRJU3dYVktHSjBoVXU5ZzAxMmR6WHBEZExGNlZaXzliMFZ6bjlsRndkakdlcU5ERnVncFFXM2ZhMTZqREVXd1NXSHZJei1IUlByQWlUeW1DWnEtQUl4YWJWYU81Ty1LZzQyNlAwU3BPNVBTem5jNUNQVjY1cHB5X0d6Zk82SkpIZkxFZWRkRGtkTHdRWUxwRDh3MWZKUnRObXRCVVJ1RtIBxAFBVV95cUxQXzBlSzZITHZSOHFIVlZWUnFZQkR3RGo1R0ZuT1NiekRhdDFJQVdLdzNaazR0SV9hei1DOWNPRWR1dmRENjVFOWNtbVJremN5bnJleVVpMGxXd1JwUW84SWpTc2EtRFRNQk5zZk5nZy1SZzkxQ1RObFI1RC1xcG5JQjljMHF6TFc5Vi1GMWxIWEpab1g0dEVQcGJJTnpkSFphejJsR19PbFJxUUN6dEJOQS1kLXpGT21PYkppV3o4QzA1WXM4?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-11",
+   "ts": "2026-11-11T05:12:32Z",
+   "level": "notable",
+   "title": {
+    "en": "Sundar Pichai pens welcome note to Mark Zuckerberg, says 'excited to serve Google Cloud customers'",
+    "zh": "Sundar Pichai pens welcome note to Mark Zuckerberg, says 'excited to serve Google Cloud customers'"
+   },
+   "body": {
+    "en": "Pichai publicly welcomed Meta as a Google Cloud customer, marking Meta's move to run AI workloads on Google's cloud infrastructure.",
+    "zh": "皮查伊公开欢迎Meta成为Google Cloud客户，标志着Meta将在谷歌云基础设施上运行AI工作负载。"
+   },
+   "source": "The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPbXlnMXBrenpJV2pJamdZZkxKaE5Ha1U2TXJ4X0hqMXMwc25fbW1RSmRNVFFLNXhwVVNZTzNTb1A5cHkzc0lYbGk3WGE5dVpOS3QtUlllMUd1aF9EaHV6VEZpUkJiem5JWG14cGk1UGIxcGE4cnZkalBfZ1E0M0tMbV9XcXBLaUZneEZ0NWhtejJ2bXlabGYyT3U4ZU5zTmdiaWZ5bzg5c2luRkVDaV9yTHlBZ2xBT19nNkRXeXV1M20wcFJPTEdIRnZFX1hGNkFjNHltMzBLQXcySTJ0T2JsdzgyRUNjRlgzanAwZUNTZFZBb1RSV1FMekI3WDlqeHNiREs5MVB5Tzl1UTJHVE9F0gGUAkFVX3lxTE9SalNxWjZwOTZNd292X0I4cXFVS0ZlTElqN3piYnRmV1U2M3UtWmFrdmhuT2ZwcHl6N0NINC1vZ3hGNm95TXVGSEhZekg1RHFSTTlmRHBXelgxVmFKQ0RzOGJJb1RFTXAwaU9fOXVHbmFEWV9RVWxEdHdhLXp1V1lOR2FGNmJYTW9QMVkyY1FmYjMyQ2JOdm9QcjFZNzBzTDYtQlQ2Y0dzRHNBaWF3ZWlHbXFXc0pJUGI2SXZaZ2N1YlgxZ0FtQnZqQjRTako2NmY1enpmWEdpUmNiYzNEWW5NQlltekVPUGw2bmx0M0pFcHlZLUhOdlVQSTc1UWRHWnRteXE3WHR0Sm85ZjNNSXZEVUxTdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-11",
+   "ts": "2026-11-11T07:09:41Z",
+   "level": "notable",
+   "title": {
+    "en": "Sundar Pichai And Mark Zuckerberg Join Hands As Meta’s AI Models Come To Google Cloud",
+    "zh": "Sundar Pichai And Mark Zuckerberg Join Hands As Meta’s AI Models Come To Google Cloud"
+   },
+   "body": {
+    "en": "Google Cloud began hosting Meta's AI models, with Pichai and Zuckerberg publicly aligning as two of the largest AI labs cross-distribute on each other's infrastructure.",
+    "zh": "谷歌云开始托管Meta的AI模型，Pichai与Zuckerberg公开结盟，两大AI实验室开始在彼此的基础设施上交叉分发模型。"
+   },
+   "source": "Mashable India",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLW9Ja1J3ZmlqelZXZnJVN2xaYlJHT0t0SVlxTEhqZlJseHpXYnBsaEFrQkQwdzRkdi1iQ19kdVZ3cXNYWHI2YzY1T1FSUkw5SGYwQlZXOTVfZWV4Qk9COUhNRTZEVXZGdzRmUXFvNzM5R0dycHVoajNVUy1PMkdPY3FBQUdPNWtkOHNvai1MMkFUaXJ1clphdGRJTGZQUjFMdUdjZFJoQzFQZ25aQ1RCS0ZTY0NwdXRXU2FFZQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-11",
+   "ts": "2026-11-11T08:34:55Z",
+   "level": "notable",
+   "title": {
+    "en": "Sundar Pichai Welcomes Meta AI Models to Google Cloud, Says “Excited to Serve”",
+    "zh": "Sundar Pichai Welcomes Meta AI Models to Google Cloud, Says “Excited to Serve”"
+   },
+   "body": {
+    "en": "Pichai publicly welcomed Meta's Muse AI models onto Google Cloud, a notable cross-rival alliance between two competing AI labs.",
+    "zh": "皮查伊公开欢迎Meta的Muse AI模型登陆Google Cloud，这是两家互相竞争的AI实验室之间一次值得关注的跨公司合作。"
+   },
+   "source": "News Mobile",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVDlPRm8xUm56N2JFd3c4Yk45ZjA0RVZRWG11VGRISFBSSHBRZEhSVlZoeTJKTkw2SE15N0tzTmNOVVRmbjMzcTBWeHAzbVBmblpkN0JzRWJyX1FqOTd3QU9hbEc5RHo4bFVEcjk1d05vdDl5X21yRVBmd19nZ3Jub2VkZzMxNkJqNVhTVjFoYlhiX1pUdDBuWk5kNFJvbHp4NmNtYVAtWFF5dHNFc3FnSlNRVVdiMVhWUzFKZWJRQ1VQOWtLeTR0dQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-11",
+   "ts": "2026-11-11T12:53:56Z",
+   "level": "major",
+   "title": {
+    "en": "Sundar Pichai Welcomes Meta’s AI Models to Google Cloud - Artificial Intelligence News & Cryptocurrency News: Latest Trends | Analytics Insight",
+    "zh": "Sundar Pichai Welcomes Meta’s AI Models to Google Cloud - Artificial Intelligence News & Cryptocurrency News: Latest Trends | Analytics Insight"
+   },
+   "body": {
+    "en": "Sundar Pichai announced that Google Cloud will host Meta's AI models, a cross-company partnership that broadens Google's cloud AI offering.",
+    "zh": "桑达尔·皮查伊宣布Google Cloud将托管Meta的AI模型，这一跨公司合作拓展了谷歌云的AI产品布局。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcGFPdFNFaFJCZXVEelNFWFpzOVl5cU4zckI1TlMweTVjMlI1Q2JDQ1NIY0Zzek80alFvYVdxRVJIQkN3aGFIVTk3LUo0MThPTkIxRmNfMTJvWkNLdGpTc2cyR29qclltTDJYek5tU1RvQ3gxemMyQmdfNmY2VC1RdUNJWHhlYTlEeUkxNFhzSnlaMXdORHo3Q2VnVnptQjZ4RWRxVENMd3pTbkk3UzFXTlViNmtUTFRqWnY0c3V4d9IBvwFBVV95cUxPcGFPdFNFaFJCZXVEelNFWFpzOVl5cU4zckI1TlMweTVjMlI1Q2JDQ1NIY0Zzek80alFvYVdxRVJIQkN3aGFIVTk3LUo0MThPTkIxRmNfMTJvWkNLdGpTc2cyR29qclltTDJYek5tU1RvQ3gxemMyQmdfNmY2VC1RdUNJWHhlYTlEeUkxNFhzSnlaMXdORHo3Q2VnVnptQjZ4RWRxVENMd3pTbkk3UzFXTlViNmtUTFRqWnY0c3V4dw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-11",
+   "ts": "2026-11-11T21:30:07Z",
+   "level": "notable",
+   "title": {
+    "en": "Sundar Pichai welcomes Mark Zuckerberg's Meta AI models to Google Cloud with a special message",
+    "zh": "Sundar Pichai welcomes Mark Zuckerberg's Meta AI models to Google Cloud with a special message"
+   },
+   "body": {
+    "en": "Google Cloud began hosting Meta's Muse AI models, with Pichai publicly welcoming Zuckerberg's models onto Google's cloud infrastructure — a notable cross-company alliance.",
+    "zh": "谷歌云开始托管Meta的Muse AI模型，皮查伊公开欢迎扎克伯格的模型进入谷歌云基础设施——这是一次值得关注的跨公司联盟。"
+   },
+   "source": "Business Today",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZmZ2bXFFQmpfNzE3aDFadVRrZENjRU5CeUVBbTYwOGNUUUJLR1ZUcXpOQk1oMlc4WWtUMHhzOEVkV3Y0dk5EN25WWFRfRzZMR0daT2JURy1rX0dyZzd2UTBKcUpvQk9DU09QRlJfUDNZOXVBQ1V2ZENENHZJRzFITjdjaTVBR3JrYlJlQ0NkTkdrbWlzTDBXeGZjZWozaXJ1ZjBDc0R1Wm9ySGpZanVMdlR0RW1BUEJ6ejR3MUNVemNnUmlFY1phajl4UzVLdUFtSVl2SktYcEl2VWcxalptaDBuWjlKeExLQ0JxTUV3LTRZWGZm0gH6AUFVX3lxTE1SZ3ZtYnZkSW41blVkOEFZZVBEX0xkU3JYM2hFN2hPZXgzOExHanRwQi1uV1g3TXRfcFRrV05McmRpYWo1ekg4c3JFcVBjZnhfMFl4TGwzbUk1ZkU1cDBCbGtRcXZXWGpRU3BRVURXclc5aFZLYm9vaHNmSUpqVjhIYjVHc19qWGVvbkdvUUhkOHNxX3ZESC1fUUJxUXZSaEpVR3E1WjlQTWR0aXNDVnJSOVdZV3dGdG5zQlk2QVhZSHpVTEZfNXE4b1dkOUNRRmFta1JRTzZxS3Ntb29OTHlwS1FtMXdveWhlbEgxbFlPc0hwNnhlb19hamc?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-11-10",
@@ -3575,15 +3694,15 @@
  },
  "cat": "platform",
  "score": {
-  "total": 88.7,
+  "total": 88.9,
   "attention": 92,
   "centrality": 87,
-  "momentum": 85,
+  "momentum": 86,
   "stature": null,
   "pageviews": 1299595,
   "citations": 1,
   "hIndex": 1,
-  "events": 122,
+  "events": 129,
   "posts": 74,
   "wikiEn": "Sundar Pichai",
   "wikiZh": "孙达尔·皮柴"

@@ -177,6 +177,25 @@
    }
   },
   {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T16:16:09Z",
+   "kind": "x",
+   "title": {
+    "en": "Can robots approach human-speed manipulation? Teleop yields slower data, while UMI tracking degrades with higher speeds. Flash ALOHA has people directly guide t",
+    "zh": "Can robots approach human-speed manipulation? Teleop yields slower data, while UMI tracking degrades with higher speeds. Flash ALOHA has people directly guide t"
+   },
+   "source": "@chelseabfinn",
+   "url": "https://x.com/chelseabfinn/status/2120913548284936306",
+   "note": {
+    "en": "Finn discussed the speed/accuracy tradeoff in collecting robot manipulation data, comparing teleoperation, UMI tracking and the Flash ALOHA method for capturing faster, more accurate demonstrations.",
+    "zh": "Finn讨论了采集机器人操作数据时速度与精度的权衡，比较了遥操作、UMI跟踪方法与Flash ALOHA方法在获取更快更准确示教数据方面的表现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-29",
    "ts": null,
    "kind": "paper",
@@ -441,6 +460,25 @@
    "judged": true,
    "platform": "x",
    "connector": null
+  },
+  {
+   "date": "2026-09-02",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Physical Intelligence's Chelsea Finn on robot models that handle the unknown",
+    "zh": "Physical Intelligence's Chelsea Finn on robot models that handle the unknown"
+   },
+   "source": "Possible with Reid Hoffman",
+   "url": "https://podcasts.apple.com/us/podcast/physical-intelligences-chelsea-finn-on-robot-models/id1677184070?i=1000787337955&uo=4",
+   "note": {
+    "en": "Finn joined Reid Hoffman's Possible podcast to explain how Physical Intelligence's general-purpose robot models learn to act in messy, unfamiliar physical environments.",
+    "zh": "Finn做客Reid Hoffman的播客节目Possible，解释了Physical Intelligence的通用机器人模型如何在混乱陌生的真实物理环境中学习行动。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   },
   {
    "date": "2026-08-31",
@@ -1735,25 +1773,6 @@
    "connector": "podcasts"
   },
   {
-   "date": "2025-02-28",
-   "ts": "2025-02-28T18:17:22Z",
-   "kind": "x",
-   "title": {
-    "en": "We can now fine-tune the 7B OpenVLA model for 50 Hz control! 🤖 Paper: https://t.co/TxQJ42lYi8 Code: https://t.co/u5nzhytzRA",
-    "zh": "We can now fine-tune the 7B OpenVLA model for 50 Hz control! 🤖 Paper: https://t.co/TxQJ42lYi8 Code: https://t.co/u5nzhytzRA"
-   },
-   "source": "@chelseabfinn",
-   "url": "https://x.com/chelseabfinn/status/1895538801742930041",
-   "note": {
-    "en": "Finn's team shows the 7B OpenVLA model can now be fine-tuned to run at 50 Hz control frequency.",
-    "zh": "Finn 团队展示了70亿参数的 OpenVLA 模型现在可以微调到50Hz的控制频率。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2024-02-15",
    "ts": null,
    "kind": "podcast",
@@ -1960,7 +1979,7 @@
   "citations": 26696,
   "hIndex": 64,
   "events": 1,
-  "posts": 94,
+  "posts": 95,
   "wikiEn": "Chelsea Finn",
   "wikiZh": null
  },

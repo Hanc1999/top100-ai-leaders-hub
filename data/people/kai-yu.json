@@ -1,5 +1,5 @@
 {
- "rank": 73,
+ "rank": 74,
  "id": "kai-yu",
  "name": {
   "en": "Kai Yu",
@@ -185,6 +185,44 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T11:10:32Z",
+   "kind": "blog",
+   "title": {
+    "en": "谢谢对HSD的鼓励，希望好产品自己会说话！ - 转发 @汉堡杨_:&ensp;前段时间去深圳试了试HSD V2.1这也是俺第一次体验地平线的辅助驾驶但真没想到的是已经做得介么...",
+    "zh": "谢谢对HSD的鼓励，希望好产品自己会说话！ - 转发 @汉堡杨_:&ensp;前段时间去深圳试了试HSD V2.1这也是俺第一次体验地平线的辅助驾驶但真没想到的是已经做得介么..."
+   },
+   "source": "余凯_地平线民工的微博",
+   "url": "https://weibo.com/1862459915/Rr497lnpk",
+   "note": {
+    "en": "Yu Kai thanked users for positive feedback on Horizon Robotics' HSD V2.1 driver-assistance system, saying he hopes the product speaks for itself.",
+    "zh": "余凯感谢网友对地平线HSD V2.1智能驾驶系统的好评，表示希望好产品能够自己说话。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "weibo",
+   "connector": "weibo"
+  },
+  {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T11:05:38Z",
+   "kind": "blog",
+   "title": {
+    "en": "雄关漫道真如铁，而今迈步从头越 - 转发 @何先生CarEngineer:&ensp;#搭载hsd的车型越来越多了# 从今年开始，地平线HSD智驾方案认可度逐渐上升，已经有好几个人私...",
+    "zh": "雄关漫道真如铁，而今迈步从头越 - 转发 @何先生CarEngineer:&ensp;#搭载hsd的车型越来越多了# 从今年开始，地平线HSD智驾方案认可度逐渐上升，已经有好几个人私..."
+   },
+   "source": "余凯_地平线民工的微博",
+   "url": "https://weibo.com/1862459915/Rr478h46X",
+   "note": {
+    "en": "Yu Kai reposted a driver's account of HSD V2.1 handling a tricky U-turn scenario, framing rising HSD adoption as hard-won progress for Horizon Robotics.",
+    "zh": "余凯转发一位车主关于HSD V2.1应对掉头决策等复杂场景的体验，将HSD智驾方案采用率的提升视为地平线来之不易的进展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "weibo",
+   "connector": "weibo"
   },
   {
    "date": "2026-11-10",
@@ -880,6 +918,23 @@
    },
    "source": "Horizon Robotics",
    "url": "https://www.horizon.auto/news/product"
+  },
+  {
+   "date": "2026-11-11",
+   "ts": "2026-11-11T12:23:47Z",
+   "level": "notable",
+   "title": {
+    "en": "地平线余凯：智驾现在是“可用”，距离“好用”还要跨越几次“太平洋”",
+    "zh": "地平线余凯：智驾现在是“可用”，距离“好用”还要跨越几次“太平洋”"
+   },
+   "body": {
+    "en": "Horizon Robotics' Kai Yu said autonomous driving has reached 'usable' but still has several 'oceans' to cross before it is truly 'good to use,' a candid read on where the industry stands.",
+    "zh": "地平线余凯表示，智能驾驶目前已达到「可用」水平，但距离真正「好用」还要跨越几次「太平洋」，是对行业现状的坦率评估。"
+   },
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81U2I4c1pwMFM1b29ZNEZNczB6NGtPT0Z4OWpEYldpVlhSTUg5YkVSN20tMFhleXBlMVdwUld6ZVYtblcxWnZHd3Q2dkFCVXViLXZaV2JncXBjS2FxQ2wwaw?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-11-08",
@@ -4459,16 +4514,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 31.1,
+  "total": 30.9,
   "attention": 3,
   "centrality": 25,
-  "momentum": 91,
+  "momentum": 90,
   "stature": 34,
   "pageviews": 700,
   "citations": 21491,
   "hIndex": 66,
-  "events": 212,
-  "posts": 36,
+  "events": 213,
+  "posts": 38,
   "wikiEn": null,
   "wikiZh": "余凯"
  },

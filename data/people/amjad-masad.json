@@ -144,6 +144,25 @@
    }
   },
   {
+   "date": "2026-11-07",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "How To Build The Future: Paul Graham & Amjad Masad",
+    "zh": "How To Build The Future: Paul Graham & Amjad Masad"
+   },
+   "source": "Y Combinator Startup Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/how-to-build-the-future-paul-graham-amjad-masad/id1236907421?i=1000800436121&uo=4",
+   "note": {
+    "en": "Masad joined Paul Graham on the Y Combinator Startup Podcast to discuss building the AI coding era, from Replit Agent's 2024 launch to today.",
+    "zh": "Masad与Paul Graham在Y Combinator Startup Podcast对谈，回顾了从2024年Replit Agent发布以来AI编程时代的构建过程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-10-28",
    "ts": null,
    "kind": "podcast",
@@ -1438,6 +1457,23 @@
    "judged": true
   },
   {
+   "date": "2026-08-19",
+   "ts": "2026-08-19T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Amjad Masad and Sam Altman: Replit Free Mode powered by @OpenAI GPT-5.6 Luna",
+    "zh": "Amjad Masad and Sam Altman: Replit Free Mode powered by @OpenAI GPT-5.6 Luna"
+   },
+   "body": {
+    "en": "Masad and Sam Altman announced Replit's new Free Mode, powered by OpenAI's GPT-5.6 Luna model, deepening Replit's reliance on OpenAI.",
+    "zh": "Masad与Sam Altman宣布Replit推出由OpenAI GPT-5.6 Luna模型驱动的免费模式（Free Mode），进一步深化Replit与OpenAI的合作。"
+   },
+   "source": "YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aUDVteEVadDRMLWNrYmZRaHpkeW5QMGo2WW1WdDhQNlhWUEpIWlJQRHFkMlBKOEtCcTRHaks1S2VMVmZNMnIyZGdTcG5Ibzk4V29ic0IwUi02T0lv?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-05-02",
    "ts": "2026-05-02T07:00:00Z",
    "level": "notable",
@@ -1513,16 +1549,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 43.5,
+  "total": 43.7,
   "attention": 49,
   "centrality": 39,
-  "momentum": 39,
+  "momentum": 40,
   "stature": null,
   "pageviews": 87011,
   "citations": 0,
   "hIndex": 0,
-  "events": 12,
-  "posts": 62,
+  "events": 13,
+  "posts": 63,
   "wikiEn": "Amjad Masad",
   "wikiZh": null
  },

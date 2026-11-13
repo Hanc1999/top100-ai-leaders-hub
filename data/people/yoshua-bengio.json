@@ -2164,6 +2164,25 @@
    "connector": "web"
   },
   {
+   "date": "2020-03-30",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Consciousness and COVID-19 with Yoshua Bengio",
+    "zh": "Consciousness and COVID-19 with Yoshua Bengio"
+   },
+   "source": "The TWIML AI Podcast (formerly This We…",
+   "url": "https://podcasts.apple.com/us/podcast/consciousness-and-covid-19-with-yoshua-bengio/id1116303051?i=1000469930765&uo=4",
+   "note": {
+    "en": "Bengio joined the TWIML AI Podcast to discuss consciousness and the early impact of COVID-19 on research and society.",
+    "zh": "本吉奥在TWIML AI Podcast节目中探讨了意识问题，以及新冠疫情早期对研究和社会的影响。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2018-10-20",
    "ts": null,
    "kind": "podcast",
@@ -2211,6 +2230,23 @@
    },
    "source": "Euronews",
    "url": "https://www.euronews.com/next/2025/06/04/godfather-of-ai-yoshua-bengio-launches-non-profit-to-make-ai-safer-and-more-trustworthy"
+  },
+  {
+   "date": "2026-11-09",
+   "ts": "2026-11-09T11:06:00Z",
+   "level": "notable",
+   "title": {
+    "en": "AI pioneer Yoshua Bengio implores Europe to build frontier models",
+    "zh": "AI pioneer Yoshua Bengio implores Europe to build frontier models"
+   },
+   "body": {
+    "en": "Bengio publicly urged European governments to build their own frontier AI models rather than depend on US and Chinese labs, a sovereignty-focused policy stance.",
+    "zh": "本吉奥公开呼吁欧洲各国政府自主研发前沿人工智能模型，而非依赖美国和中国的实验室，这是一项聚焦科技主权的政策主张。"
+   },
+   "source": "POLITICO.eu",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc2VtSnZ4eDdiWEo2UlVSQ0E2LXRJMklITXVVZ0dua2Jpc2lQUWlPYnpJVTRUWDNLOTNaaHM4WHdyXzhRUTU0R1N3Rlh0dzJleFdGb0ZyTkpobkJ2aFRpVmYyZGlYVVBEd1VOSXNJdVdQVlVlMTRDZGlDb1A4LWxZQXRrdWl5NHo4ZjQyRzV6Yw?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-10-19",
@@ -3384,8 +3420,8 @@
   "pageviews": 276660,
   "citations": 475043,
   "hIndex": 184,
-  "events": 70,
-  "posts": 107,
+  "events": 71,
+  "posts": 108,
   "wikiEn": "Yoshua Bengio",
   "wikiZh": "约书亚·本希奥"
  },

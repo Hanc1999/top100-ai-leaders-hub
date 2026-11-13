@@ -223,6 +223,25 @@
    }
   },
   {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T18:11:37Z",
+   "kind": "x",
+   "title": {
+    "en": "Very excited to release Gemini 4 Hydrogen! Incredible speed and intelligence for everyday coding, agentic work and all-round use. I think you'll love this model",
+    "zh": "Very excited to release Gemini 4 Hydrogen! Incredible speed and intelligence for everyday coding, agentic work and all-round use. I think you'll love this model"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2120942605466800374",
+   "note": {
+    "en": "Hassabis announced the release of Gemini 4 Hydrogen, a new model built for fast, everyday coding and agentic work.",
+    "zh": "哈萨比斯宣布发布Gemini 4 Hydrogen，一款面向日常编程和智能体任务的高速新模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-11",
    "ts": "2026-11-11T17:12:24Z",
    "kind": "x",
@@ -1534,25 +1553,6 @@
    "connector": "podcasts"
   },
   {
-   "date": "2025-07-21",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Official results are in - Gemini achieved gold-medal level in the International Mathematical Olympiad! 🏆 An advanced version was able to solve 5 out of 6 proble",
-    "zh": "Official results are in - Gemini achieved gold-medal level in the International Mathematical Olympiad! 🏆 An advanced version was able to solve 5 out of 6 proble"
-   },
-   "source": "@demishassabis",
-   "url": "https://x.com/demishassabis/status/1947337615054671882",
-   "note": {
-    "en": "Announced Gemini achieved gold-medal-level performance at the International Mathematical Olympiad, solving 5 of 6 problems.",
-    "zh": "宣布Gemini在国际数学奥林匹克竞赛中达到金牌水平,解出6道题中的5道。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
    "date": "2025-07-07",
    "ts": null,
    "kind": "paper",
@@ -2189,6 +2189,23 @@
    },
    "source": "Fortune",
    "url": "https://fortune.com/2026/08/10/how-stalled-models-missed-deadlines-and-staff-burnout-lead-to-the-unraveling-of-googles-deepmind/"
+  },
+  {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T15:10:27Z",
+   "level": "major",
+   "title": {
+    "en": "Nobel Laureate Demis Hassabis Unveils Groundbreaking AlphaGenome 2: Decodes 98% of Human Genetic \"Dark Matter\"",
+    "zh": "Nobel Laureate Demis Hassabis Unveils Groundbreaking AlphaGenome 2: Decodes 98% of Human Genetic \"Dark Matter\""
+   },
+   "body": {
+    "en": "DeepMind unveiled AlphaGenome 2, an upgraded genomics model said to decode 98% of human non-coding ('dark matter') DNA, extending Hassabis's push from AlphaFold into genomic AI.",
+    "zh": "DeepMind发布AlphaGenome 2，这款升级版基因组模型据称可解析98%的人类非编码（“暗物质”）DNA，延续了哈萨比斯从AlphaFold以来在基因组AI领域的推进。"
+   },
+   "source": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rdXBrTXpqMkNpZTFhcU9KVW5ObWs4RFVHLU01bTRjNkdsWmM0ZVFNZkdGbk1IZDVfX3FicV9sQUVxYnk0UVh1dXBYY1VaODllUHlF?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-11-10",
@@ -3073,7 +3090,7 @@
   "pageviews": 1121478,
   "citations": 195503,
   "hIndex": 92,
-  "events": 53,
+  "events": 54,
   "posts": 106,
   "wikiEn": "Demis Hassabis",
   "wikiZh": "杰米斯·哈萨比斯"

@@ -815,6 +815,23 @@
    "url": "https://www.cnn.com/2026/07/23/tech/china-ai-moonshot-kimi-explainer-intl-hnk"
   },
   {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T09:09:00Z",
+   "level": "notable",
+   "title": {
+    "en": "姚期智杨植麟首次联手给 AI 出的博士级题目，Kimi 多画出了「关键一条边」",
+    "zh": "姚期智杨植麟首次联手给 AI 出的博士级题目，Kimi 多画出了「关键一条边」"
+   },
+   "body": {
+    "en": "Andrew Yao and Yang Zhilin jointly devised a PhD-level test problem for AI, and Kimi managed to find an extra key step that other models missed.",
+    "zh": "姚期智与杨植麟首次联手为AI出了一道博士级测试题，Kimi比其他模型多画出了“关键一条边”。"
+   },
+   "source": "雷峰网",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOQ010cENseUhXbDBmQ1NNanFtbkdKYmNMM01MeGNuVi1RYWMwU2JkQTVtZDk4WGlYMy1scDNjV1RlVHNWRFpNOWlTaXFmY0pUT19mYkVCOVg4ZHVtRVZxQVJvS1F3Ukszcnc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-11",
    "ts": "2026-11-11T04:00:00Z",
    "level": "notable",
@@ -2991,6 +3008,23 @@
    "judged": true
   },
   {
+   "date": "2026-01-29",
+   "ts": "2026-01-29T08:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "月之暗面创始人杨植麟为Kimi锁定系统智能主赛道",
+    "zh": "月之暗面创始人杨植麟为Kimi锁定系统智能主赛道"
+   },
+   "body": {
+    "en": "Yang said Moonshot AI is committing Kimi's strategy to 'system intelligence' as its primary technical bet.",
+    "zh": "杨植麟表示月之暗面将把“系统智能”确定为Kimi的主要技术方向。"
+   },
+   "source": "每日经济新闻",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiYVJoQ0ZOR3hPdlc4RGZTWXk0VlJUUDMwZWE4aFo4cDFwRXgtczcwS1FoZGpBai1sZ2hYWHU4djJsNFFGQ2ZDWjNvdDgtOEFQcHRlOWpJSDJ4akdkWVNCQ2haNWtWZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-01-11",
    "ts": "2026-01-11T08:00:00Z",
    "level": "minor",
@@ -3032,15 +3066,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 62.8,
+  "total": 62.6,
   "attention": 47,
   "centrality": 79,
-  "momentum": 85,
+  "momentum": 84,
   "stature": 37,
   "pageviews": 85504,
   "citations": 24757,
   "hIndex": 67,
-  "events": 132,
+  "events": 134,
   "posts": 32,
   "wikiEn": "Yang Zhilin",
   "wikiZh": "楊植麟"

@@ -176,6 +176,44 @@
    }
   },
   {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T17:49:40Z",
+   "kind": "x",
+   "title": {
+    "en": "Turns out my initial version missed a lot of evals. Claude searched harder and found 36% more mentions of benchmarks: https://t.co/ONtgbBuwEs It still misses bl",
+    "zh": "Turns out my initial version missed a lot of evals. Claude searched harder and found 36% more mentions of benchmarks: https://t.co/ONtgbBuwEs It still misses bl"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/2120937085515510234",
+   "note": {
+    "en": "Wei noted that a more thorough search with Claude surfaced 36% more benchmark mentions than his initial pass, flagging blind spots like blog posts with complex UI elements.",
+    "zh": "Wei指出用Claude更深入搜索后，发现的基准测试提及数比他最初版本多出36%，并指出仍会漏掉含复杂UI元素的博客文章等内容。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T17:36:38Z",
+   "kind": "x",
+   "title": {
+    "en": "This is a pretty cool benchmark of actual long-horizon tasks, with Fable 5.2 spending more than 200M tokens to try to solve each problem!",
+    "zh": "This is a pretty cool benchmark of actual long-horizon tasks, with Fable 5.2 spending more than 200M tokens to try to solve each problem!"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/2120933804638613581",
+   "note": {
+    "en": "Wei highlighted a new long-horizon task benchmark where Fable 5.2 spends over 200M tokens attempting to solve each problem.",
+    "zh": "Wei推荐了一个长时域任务基准测试，其中Fable 5.2为解决每个问题会消耗超过2亿个token。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-11",
    "ts": "2026-11-11T21:31:05Z",
    "kind": "x",
@@ -1314,44 +1352,6 @@
    "judged": true,
    "platform": "web",
    "connector": "web"
-  },
-  {
-   "date": "2025-01-21",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Somewhat meta but there is a dopamine cycle in doing AI research that is pretty interesting Every day you wake up and you think about what experiment to run. Yo",
-    "zh": "Somewhat meta but there is a dopamine cycle in doing AI research that is pretty interesting Every day you wake up and you think about what experiment to run. Yo"
-   },
-   "source": "@_jasonwei",
-   "url": "https://x.com/_jasonwei/status/1881793091486802180",
-   "note": {
-    "en": "Wei describes the daily dopamine cycle of AI research: waking up, picking an experiment, and living with the uncertainty of whether it will pan out.",
-    "zh": "Wei描述AI研究中每日的\"多巴胺循环\":醒来后决定要做什么实验,并承受实验是否成功的不确定性。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
-   "date": "2025-01-15",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Magic is what happens when an unstoppable RL optimization algorithm powered by sufficient compute meets an unhackable RL environment",
-    "zh": "Magic is what happens when an unstoppable RL optimization algorithm powered by sufficient compute meets an unhackable RL environment"
-   },
-   "source": "@_jasonwei",
-   "url": "https://x.com/_jasonwei/status/1879610551703413223",
-   "note": {
-    "en": "Wei offers a pithy definition of AI 'magic': an unstoppable RL optimization algorithm with sufficient compute meeting an unhackable RL environment.",
-    "zh": "Wei用一句话定义AI的\"魔法\":拥有充足算力、无法被攻破的强化学习优化算法遇上不可被作弊的强化学习环境。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
   },
   {
    "date": "2024-12-21",

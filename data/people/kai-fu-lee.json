@@ -1,5 +1,5 @@
 {
- "rank": 42,
+ "rank": 44,
  "id": "kai-fu-lee",
  "name": {
   "en": "Kai-Fu Lee",
@@ -167,6 +167,25 @@
     "en": "Extended into Boss AI, Investor AI and TopSales AI; the pivot from frontier models to enterprise full-stack.",
     "zh": "延伸出 Boss AI、Investor AI 与 TopSales AI；从前沿模型转向企业全栈的转身。"
    }
+  },
+  {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T20:30:01Z",
+   "kind": "x",
+   "title": {
+    "en": "My conversation with Bloomberg @business covered soaring AI valuations, how China’s open models are creating opportunities for builders around the world, and en",
+    "zh": "My conversation with Bloomberg @business covered soaring AI valuations, how China’s open models are creating opportunities for builders around the world, and en"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2120977435005235542",
+   "note": {
+    "en": "In a Bloomberg interview, Lee discussed surging AI valuations and how China's open models are creating opportunities for builders worldwide.",
+    "zh": "李开复在接受彭博社采访时谈到AI估值飙升，以及中国开源模型如何为全球开发者创造机会。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
   },
   {
    "date": "2026-11-11",
@@ -1499,25 +1518,6 @@
    "connector": "zhihu"
   },
   {
-   "date": "2024-05-13",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "On Bloomberg @business earlier today w @DavidInglesTV, @YvonneManTV and @jenzhuscott 30 min before @01AI_Yi team debuted our most powerful Yi-Large LLM to the w",
-    "zh": "On Bloomberg @business earlier today w @DavidInglesTV, @YvonneManTV and @jenzhuscott 30 min before @01AI_Yi team debuted our most powerful Yi-Large LLM to the w"
-   },
-   "source": "@kaifulee",
-   "url": "https://x.com/kaifulee/status/1790026808836104291",
-   "note": {
-    "en": "Lee marks the debut of 01.AI's Yi-Large, its most powerful LLM at the time, alongside a Bloomberg appearance the same day.",
-    "zh": "李开复记录零一万物当时最强模型 Yi-Large 的发布，以及同日的彭博访谈。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
    "date": "2022-10-27",
    "ts": null,
    "kind": "blog",
@@ -2004,6 +2004,40 @@
    "url": "https://www.01.ai/"
   },
   {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T06:51:40Z",
+   "level": "notable",
+   "title": {
+    "en": "Kai-Fu Lee Says China AI Makes Money; Zhipu Revenue Rose 5x",
+    "zh": "Kai-Fu Lee Says China AI Makes Money; Zhipu Revenue Rose 5x"
+   },
+   "body": {
+    "en": "Kai-Fu Lee argued China's AI industry is now profitable, citing Zhipu's revenue growing 5x as evidence.",
+    "zh": "李开复认为中国AI行业已经开始盈利，并以智谱收入增长5倍为例加以说明。"
+   },
+   "source": "FourWeekMBA",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOEtyRU9KZll1dHdTMDNRREhndElJb1FGb0t3cGE3UWtmRk9xZEE1TDNfSDlYN0pyQXVlUEZCVEdBb2dwNjdKdzRZcDNZeUxuc21fanAtcjJMVTNEbWR0U2F0Y242SG1VOTByNDlnejF0LWFMcmU4d29VbFU1d2ZrZ1Zad0FzdnlEeFJKaDlRYw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T03:16:38Z",
+   "level": "notable",
+   "title": {
+    "en": "美股AI板块震荡加剧，李开复称AI企业股价或腰斩但非泡沫",
+    "zh": "美股AI板块震荡加剧，李开复称AI企业股价或腰斩但非泡沫"
+   },
+   "body": {
+    "en": "Lee said US AI stocks could fall by half amid market turbulence but argued this reflects a correction, not a bubble bursting.",
+    "zh": "李开复表示，在市场震荡加剧之际，美股AI企业股价可能腰斩，但他认为这是调整而非泡沫破裂。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcnJHZkJ3Y3ZoNXR1MjJJR1E1WXdjYUxNWElVS2VjRE8tbXFDUkxvYWRxS1RIejRtNUdFZGRET0VHdnMySW9YZ0ZNLTRBQ0lEUmxBN25ua3ZmRERoN2FuSnZ0bWVickNtZ0p1clRBOHBJYlN6WWV5OTgzYUVwZVViVWRNUmozNE0?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-11",
    "ts": "2026-11-11T11:11:23Z",
    "level": "notable",
@@ -2034,6 +2068,23 @@
    },
    "source": "yeeyi",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CLWxYV1FuYkZfTkIxRFRqNHJhbmcyNV8wNmExUGJrQTVvMzBWX0VGd1BBcUw0elUtOVpvMS16RDBUdWVKaXI2M0M1R0ZpVDFHRUtZREN3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-11",
+   "ts": "2026-11-11T11:10:05Z",
+   "level": "notable",
+   "title": {
+    "en": "Kai-Fu Lee Questions Soaring AI Valuations",
+    "zh": "Kai-Fu Lee Questions Soaring AI Valuations"
+   },
+   "body": {
+    "en": "Kai-Fu Lee publicly questioned whether current AI company valuations have run ahead of fundamentals.",
+    "zh": "李开复公开质疑当前AI公司的估值是否已经脱离基本面。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSU5QNkFrYjFHb1BGQmw5RUJ6TWF5Y1VaaWdiQ3B1ZTNXRjlqSkJFMWNsREd5Um54ZkRUQ2Jjb2k3bTkzeDFTVmxmTDV1S01DQzFfMlRNemItX0VaT2VCM05JRTBfODNUTHlzTUtMdHZuVDMzQm41OEtObUF2UkZaaQ?oc=5",
    "auto": true,
    "judged": true
   },
@@ -4204,15 +4255,15 @@
  },
  "cat": "product",
  "score": {
-  "total": 50.7,
+  "total": 50.5,
   "attention": 46,
   "centrality": 30,
-  "momentum": 84,
+  "momentum": 83,
   "stature": null,
   "pageviews": 77041,
   "citations": 2181,
   "hIndex": 20,
-  "events": 131,
+  "events": 134,
   "posts": 96,
   "wikiEn": "Kai-Fu Lee",
   "wikiZh": "李开复"

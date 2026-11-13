@@ -149,6 +149,25 @@
    }
   },
   {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T18:02:12Z",
+   "kind": "x",
+   "title": {
+    "en": "Following Carbon + Argon, Gemini 4 Hydrogen brings cutting-edge intelligence to everyone. Built for speed and efficiency for everyday tasks, coding and agentic",
+    "zh": "Following Carbon + Argon, Gemini 4 Hydrogen brings cutting-edge intelligence to everyone. Built for speed and efficiency for everyday tasks, coding and agentic"
+   },
+   "source": "@sundarpichai",
+   "url": "https://x.com/sundarpichai/status/2120940236805169182",
+   "note": {
+    "en": "Pichai announced Gemini 4 Hydrogen, the latest entry after Carbon and Argon, built for speed and efficiency in everyday, coding and agentic tasks.",
+    "zh": "Pichai宣布推出Gemini 4 Hydrogen，这是继Carbon和Argon之后的最新版本，专为日常任务、编程和智能体工作流的速度与效率而设计。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-11",
    "ts": "2026-11-11T16:23:46Z",
    "kind": "x",
@@ -1137,25 +1156,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-06-03",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "On Monday we announced an equity offering for Alphabet - part of our multi-year investment strategy to meet the AI opportunity ahead and support the demand we’r",
-    "zh": "On Monday we announced an equity offering for Alphabet - part of our multi-year investment strategy to meet the AI opportunity ahead and support the demand we’r"
-   },
-   "source": "@sundarpichai",
-   "url": "https://x.com/sundarpichai/status/2062203848673161267",
-   "note": {
-    "en": "Pichai discussed Alphabet's equity offering as part of a multi-year investment strategy to meet AI demand from enterprises and consumers.",
-    "zh": "皮查伊谈及Alphabet的股票增发计划,称其为满足企业和消费者AI需求的多年期投资战略的一部分。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
    "date": "2026-05-26",
    "ts": null,
    "kind": "podcast",
@@ -1526,6 +1526,40 @@
    },
    "source": "Axios",
    "url": "https://www.axios.com/2026/08/06/googles-ai-leadership-shuffle"
+  },
+  {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T08:29:42Z",
+   "level": "notable",
+   "title": {
+    "en": "Sundar Pichai Says ‘Every Cell In Our Body Shares the Same DNA Blueprint’ as Google DeepMind Unveils Alph",
+    "zh": "Sundar Pichai Says ‘Every Cell In Our Body Shares the Same DNA Blueprint’ as Google DeepMind Unveils Alph"
+   },
+   "body": {
+    "en": "Pichai commented on Google DeepMind's unveiling of a new biology-focused AI model, drawing an analogy to shared genetic blueprints across cells.",
+    "zh": "在谷歌DeepMind发布一款新的生物学AI模型之际，皮查伊将其类比为细胞共享相同的基因蓝图。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOVzhQc1E2aFhaYUVIM0YxLXVUUUEzeDVicnFGc0VsSTd0SVRjdXFMOUtOeU9iamV5VjNXWnViTHkxajc0UEpmYTlpX0NxcFlKU3JGVXJuUEJBLVdyXzZZZmx6b1FDUGZvb0RaVDVJLVJEUmUyaV9BaUdxQ19wQWpSNUtORG9GU3Fxc0haOHFXUDM5b1VrU3YtdTRHUFZsUUpoa0FYTFh0bFkxNVFzeVhCRWkxQVprV0dONUdCU1gtRnplUGpEWHFlVFlDQTJZcmUxYnhpT0ZUYU0yOWhyZkRHNHBLX05UZ19aMUNKcnowcGMxU25WaWRybjB1N1lvYW4zWm1LTWVGc3FpZXFXZUpGSnJuYkYwRzBPRGhiUllELUE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T19:22:12Z",
+   "level": "major",
+   "title": {
+    "en": "Google’s Flash-Class Gemini 4 Hydrogen Is Now The Cheapest, Fastest Model In Vals AI’s Top 6, As Sundar Pichai Touts Its 2.5x Faster Response Times",
+    "zh": "Google’s Flash-Class Gemini 4 Hydrogen Is Now The Cheapest, Fastest Model In Vals AI’s Top 6, As Sundar Pichai Touts Its 2.5x Faster Response Times"
+   },
+   "body": {
+    "en": "Google's new flash-class Gemini 4 Hydrogen became the cheapest and fastest model in Vals AI's top rankings, with Pichai highlighting its 2.5x faster response times.",
+    "zh": "Google推出的闪电版Gemini 4 Hydrogen成为Vals AI排行榜中最便宜、最快的模型，皮查伊强调其响应速度提升了2.5倍。"
+   },
+   "source": "Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQOVdhZHJWbVZ0YWpmbkRma0tHNjRuN3VHZG5OcUxfeFVHbnRrT0pYOTg5MXA2MHlnUTFjM191WnFjNDVBYlo3akNLa3ppdVNGUm9ISmhtTWc5bFZaelFFOFo2dUx2R2VFU3ZaeGtyR2otMk9vNFJ0dUZhSHVEQXlEbTBUQno4RlJCdjdpZHQwUXBReGJrbWl0U0Z0YW90QXRFWTIwNXVHRmlkMFQ1WENQejNPV0hfMWdiaktndFRwb3BqNWpzQ19Mc1lCZ2lvQko4eFpqV3BFYXlNdXhkVUFEa2V0WHVTVlZOZFhPaFBvMkhHTHZQY1ZXZdIB_gFBVV95cUxOVlB1bTFVaVBQQkNLUTF0VjlraVlIV2VXRDE2OU1wVnFlaHgyNllsam1sM05rcm9SS1NRS2dsZGhqSTg2TU13QVFldW9TeWpqZEF0VFlSYW5ZZ0FiU0JldnhzVGFBT0EwWHVOYnl2Vzk2U1owQlFoREN5cVpjS0tiamlJZnpDa2s1emNHOHdUdnJKU1d5bzBRM1g1YjZjMGV6aXlwYzRJTzA3YXdTSHB1ZFpXX3RTanZSTjduMDF0YVptUFRfQmZOT1Q2dU5HZ19DMG5MNHpoSW0xMWFBYkJpaHRkVXZWUS05dlc2Vy02QkVaSU9TQ0RDVVlnc2xFUQ?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-11-11",
@@ -3694,15 +3728,15 @@
  },
  "cat": "platform",
  "score": {
-  "total": 88.9,
+  "total": 88.7,
   "attention": 92,
   "centrality": 87,
-  "momentum": 86,
+  "momentum": 85,
   "stature": null,
   "pageviews": 1299595,
   "citations": 1,
   "hIndex": 1,
-  "events": 129,
+  "events": 131,
   "posts": 74,
   "wikiEn": "Sundar Pichai",
   "wikiZh": "孙达尔·皮柴"

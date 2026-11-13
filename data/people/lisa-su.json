@@ -1546,6 +1546,25 @@
    "judged": true,
    "platform": "apple-podcasts",
    "connector": "podcasts"
+  },
+  {
+   "date": "2020-01-21",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AMD CEO Dr. Lisa Su talks new Ryzen 4000 chips and out-performing Intel",
+    "zh": "AMD CEO Dr. Lisa Su talks new Ryzen 4000 chips and out-performing Intel"
+   },
+   "source": "The Vergecast",
+   "url": "https://podcasts.apple.com/us/podcast/amd-ceo-dr-lisa-su-talks-new-ryzen-4000-chips-and-out/id430333725?i=1000463232137&uo=4",
+   "note": {
+    "en": "Lisa Su discussed AMD's new Ryzen 4000 laptop chips and the company's competition with Intel in a Vergecast interview at CES 2020.",
+    "zh": "苏姿丰在2020年CES期间接受The Vergecast采访，谈及AMD新款Ryzen 4000笔记本芯片以及与英特尔的竞争。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   }
  ],
  "news": [
@@ -1590,6 +1609,210 @@
    },
    "source": "OpenAI",
    "url": "https://openai.com/index/openai-amd-strategic-partnership/"
+  },
+  {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T00:43:25Z",
+   "level": "notable",
+   "title": {
+    "en": "547亿元收购后首次同台！李飞飞对话苏姿丰，详解统一世界模型Atlas",
+    "zh": "547亿元收购后首次同台！李飞飞对话苏姿丰，详解统一世界模型Atlas"
+   },
+   "body": {
+    "en": "Lisa Su appeared alongside Fei-Fei Li for their first joint public appearance since AMD's $54.7B acquisition of World Labs, discussing the Atlas unified world model.",
+    "zh": "苏姿丰与李飞飞在AMD以547亿元收购World Labs后首次同台亮相，共同介绍了统一世界模型Atlas。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VaXNoRkR0NHhvaGNHVTZDT1J5RzFKaXBvYmxHSmw4eXN2VzZuMFZOcTFCeFh3QzFQSDY2bi14V2x5UkdJQjVMck15NlY?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T06:49:03Z",
+   "level": "notable",
+   "title": {
+    "en": "李飞飞对话苏姿丰：机器人将推动计算能力进入下一发展阶段",
+    "zh": "李飞飞对话苏姿丰：机器人将推动计算能力进入下一发展阶段"
+   },
+   "body": {
+    "en": "Lisa Su discussed with Fei-Fei Li how robotics will push compute into its next stage, linking AMD's hardware roadmap to the physical-AI wave.",
+    "zh": "苏姿丰与李飞飞对话，探讨机器人将如何把算力推向下一发展阶段，将AMD的硬件路线图与物理AI浪潮联系起来。"
+   },
+   "source": "富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeWc4V2hVZ1Utc0RiTFpWLTFRcDZPNUg1eENBaTlKekFheVNLNFRsNk5fUlVaVTF5X3gySUgtZHcxTHNQM3g0aEVrdVJGUUNpLUlDMFhEVEduS1FiX09jTEZfaWR4SGFwSEx5X2lFRnYzczhBZEhqU2g3Qm1ZMmI4VFkxTGRVaUhaekcxcGdhSmRFQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T06:28:50Z",
+   "level": "notable",
+   "title": {
+    "en": "苏姿丰称AMD已组建机器人研究团队，预计物理AI市场规模或达数千亿美元",
+    "zh": "苏姿丰称AMD已组建机器人研究团队，预计物理AI市场规模或达数千亿美元"
+   },
+   "body": {
+    "en": "Su said AMD has formed a dedicated robotics research team, projecting the physical-AI market could reach hundreds of billions of dollars.",
+    "zh": "苏姿丰表示AMD已组建专门的机器人研究团队，并预计物理AI市场规模或达数千亿美元。"
+   },
+   "source": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PWU1TS1NGTXJQOHZnSE5WTzhtck1taU1ZbnYzUTdyeUthQmRtTTBVcldBME9sWDJQcGR5ODJVel9zeTBmMW1xV0M2OFZXb2k5Z1E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T08:25:15Z",
+   "level": "notable",
+   "title": {
+    "en": "AMD收购World Labs后李飞飞首次与苏姿丰同台对话：机器人将成为“算力新引擎”，未来几年市场规模或达数千亿美元",
+    "zh": "AMD收购World Labs后李飞飞首次与苏姿丰同台对话：机器人将成为“算力新引擎”，未来几年市场规模或达数千亿美元"
+   },
+   "body": {
+    "en": "Su and Fei-Fei Li appeared on stage together for the first time since AMD's acquisition of World Labs, saying the physical-AI and robotics market could reach hundreds of billions of dollars within a few years.",
+    "zh": "苏姿丰与李飞飞在AMD收购World Labs后首次同台对话，称未来几年物理AI与机器人市场规模可能达到数千亿美元。"
+   },
+   "source": "金融界",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5STUNsODhUelFrM011YXR1cVpoQmxvUHhpUlFvX2tFc0EwaW03cTZ5QnRaN1cwcEtqMHBkc01LNGpSaU9xYnE1YkMxaFhEMmdHUTVtRlFtMEN3a1ZMQzhkWm1xc2xIbF9HUEV5bGQ2OXdVYWZz?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T04:40:20Z",
+   "level": "major",
+   "title": {
+    "en": "First Joint Public Appearance Post 54.7 Billion Yuan Acquisition: Fei-Fei Li & Lisa Su Exclusive Dialogue Unveiling the Unified World Model Atlas in Depth",
+    "zh": "First Joint Public Appearance Post 54.7 Billion Yuan Acquisition: Fei-Fei Li & Lisa Su Exclusive Dialogue Unveiling the Unified World Model Atlas in Depth"
+   },
+   "body": {
+    "en": "In their first joint public appearance since AMD's acquisition of World Labs, Su and Fei-Fei Li unveiled the combined 'Unified World Model Atlas' product direction.",
+    "zh": "这是AMD收购World Labs后苏姿丰与李飞飞首次联合公开露面，两人揭晓了合并后的“统一世界模型图谱”产品方向。"
+   },
+   "source": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLclNWb2w4b010Sjhab1ZpaVpORHNtQnRRTFZxQVlpMC01RW4wZFNBR0Y0UGJKUjVpNU1icngxZ2d6SXhOZW9FNDRtVllNdDhfSWNV?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T12:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Why AMD CEO Lisa Su is Yahoo Finance's 'CEO of the Year'",
+    "zh": "Why AMD CEO Lisa Su is Yahoo Finance's 'CEO of the Year'"
+   },
+   "body": {
+    "en": "Yahoo Finance named Lisa Su its 'CEO of the Year,' recognizing AMD's rise as a credible second source for datacenter AI silicon.",
+    "zh": "雅虎财经将苏姿丰评为“年度CEO”，肯定了AMD在数据中心人工智能芯片领域成长为可靠第二供应商的地位。"
+   },
+   "source": "Yahoo Finance Singapore",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVlhwYzd6dFVCTlY2U1VoM0VPUUVGdDhraG0tWk0ta3M5NlNNSHFpemY4V3BLWmRiVkdZUmJoSWprRnFYWURxekxNNFFVRm5Da2Y4TVJaU1RVQXlpb1dUYnNvWHJfYXF1XzhsUi1aeUptcHV4VW1uWWU1TUEydm9ySDAtMG5BMzR1NWIzcVAzTnRURi1RNlRkdlMxdkl4UEo4Wk9BSw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T07:05:38Z",
+   "level": "notable",
+   "title": {
+    "en": "李飞飞对话AMD苏姿丰：机器人将成为“算力新引擎”，未来几年市场规模或达数千亿美元",
+    "zh": "李飞飞对话AMD苏姿丰：机器人将成为“算力新引擎”，未来几年市场规模或达数千亿美元"
+   },
+   "body": {
+    "en": "In a public conversation with Fei-Fei Li, Lisa Su discussed robotics becoming a new 'compute engine,' projecting a market worth hundreds of billions of dollars within a few years.",
+    "zh": "苏姿丰与李飞飞公开对话，谈到机器人将成为新的\"算力新引擎\"，预计相关市场未来几年规模可达数千亿美元。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5GNldlNDNHajMyaDVRMDdVX1Nvc1BybFdfTFVTNjloT0FKWllTb2hrOTgxYUx4OEY1Wl8wa2VlUWd3VjJEV25Fc0hTeUs?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T12:59:22Z",
+   "level": "notable",
+   "title": {
+    "en": "李飞飞与苏姿丰在CoRL 2026对谈：AMD收购World Labs进行中，机器人将把计算推向下一个层级",
+    "zh": "李飞飞与苏姿丰在CoRL 2026对谈：AMD收购World Labs进行中，机器人将把计算推向下一个层级"
+   },
+   "body": {
+    "en": "At CoRL 2026, Su and Fei-Fei Li discussed the progress of AMD's acquisition of World Labs and the role robotics will play in driving the next level of compute demand.",
+    "zh": "在CoRL 2026大会上，苏姿丰与李飞飞对谈，介绍了AMD收购World Labs的进展，并谈到机器人技术将把算力需求推向新的层级。"
+   },
+   "source": "虎嗅",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VMy1qZlR3UW9xc0hPcGkwWFZiR21RbVFOZVBscjVhRTdhcUpsdURJbUNGamtfTW01NzcwVUZ0aVhmaktiM003Tk5pbGFLbDUxWERTMA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T16:26:04Z",
+   "level": "notable",
+   "title": {
+    "en": "AMD CEO Lisa Su on data center backlash: Tech has to sell the vision",
+    "zh": "AMD CEO Lisa Su on data center backlash: Tech has to sell the vision"
+   },
+   "body": {
+    "en": "Su addressed public backlash over data-center buildouts, saying the industry needs to do a better job selling the vision behind the infrastructure boom.",
+    "zh": "针对数据中心大规模建设引发的公众反弹，苏姿丰表示行业需要更好地向公众阐释这一基础设施热潮背后的愿景。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMnBKdFVsOHFmN1p1WlV6LVdyS21ySXRqZzVUWWFqQUg4Wmp5WklwZ0Z0ZHlJMFJwVmRxYWlmakNZU0MwWC1scmxyRDBKSE40Yl9IVld0Wl9CTmNfaEdyTnBDMVBudjVScjNkQW0wODVXX0ZSS0NUQm9iNjY2X2VVY2F3NkN5MlhCR2toMGZ3dnlxMDZpZzVYZGVxN3lEUTdJeXlZNERyWkhEclo2NnJVWlVBRDJZSkhkdjQxUWhlekN5aGRwZmc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T18:05:00Z",
+   "level": "notable",
+   "title": {
+    "en": "AMD and World Labs Share a Stage for the First Time Since Acquisition: Lisa Su and Fei-Fei Li Say Robots Will Become the Next Engine of Compute Growth",
+    "zh": "AMD and World Labs Share a Stage for the First Time Since Acquisition: Lisa Su and Fei-Fei Li Say Robots Will Become the Next Engine of Compute Growth"
+   },
+   "body": {
+    "en": "Su appeared with Fei-Fei Li in AMD and World Labs' first joint public event since the acquisition, discussing robotics as the next driver of compute growth.",
+    "zh": "苏姿丰与李飞飞在AMD收购World Labs后首次联合公开亮相，探讨机器人将成为算力增长的下一引擎。"
+   },
+   "source": "BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iVHRqWlFPUVNIWWd4OGx1dTFrNmx4eXplUklEckZTWFBxUnZDbmtBMDZtcUducm4wY0NYT19tcWpqUEdOTy1YcnQzak9nSDhhaWpBRHNtSk4xZVZoU1dwYk5icTZlRXpqSGtDRWtVN2ZjRDk3d0E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T20:10:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Lisa Su Receives Yahoo Finance’s CEO of the Year Award for 2026 · Clash Report",
+    "zh": "Lisa Su Receives Yahoo Finance’s CEO of the Year Award for 2026 · Clash Report"
+   },
+   "body": {
+    "en": "Lisa Su received Yahoo Finance's CEO of the Year award for 2026, recognition of AMD's rise as a serious datacenter AI silicon competitor.",
+    "zh": "苏姿丰获得雅虎财经2026年度最佳CEO奖，表彰AMD在数据中心AI芯片领域成长为有力竞争者。"
+   },
+   "source": "Howl.Link",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9HVGhRQi05WHhVeko1RmlaVFczazc4Y1RlNTRMc016WW5yZmVPWmg5Q2VhYVltdmhxMXI4?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-11",
+   "ts": "2026-11-11T06:48:26Z",
+   "level": "notable",
+   "title": {
+    "en": "资本市场短视，AMD苏姿丰：我依然看好AI",
+    "zh": "资本市场短视，AMD苏姿丰：我依然看好AI"
+   },
+   "body": {
+    "en": "Su pushed back on short-termism in capital markets, saying she remains confident in AI's long-term trajectory despite skepticism.",
+    "zh": "苏姿丰反驳了资本市场的短视态度，表示尽管市场存在质疑，她仍然对AI的长期发展前景保持信心。"
+   },
+   "source": "虎嗅",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tRDU5SXlSRVRNVmJmOEtFU1RYRV90MlRJbDh2RGhVa0E2NEhTUU82QVV5Z2k5VGQ3S1Y3bUhBTnB3ZElnZWFOcXVCSW9PazFCVm9UOQ?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-11-10",
@@ -10005,8 +10228,8 @@
   "pageviews": 1032519,
   "citations": 236,
   "hIndex": 7,
-  "events": 497,
-  "posts": 76,
+  "events": 509,
+  "posts": 77,
   "wikiEn": "Lisa Su",
   "wikiZh": "蘇姿丰"
  },

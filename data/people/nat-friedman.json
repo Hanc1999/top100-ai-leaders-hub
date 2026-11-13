@@ -1265,6 +1265,25 @@
    "judged": true,
    "platform": "apple-podcasts",
    "connector": "podcasts"
+  },
+  {
+   "date": "2011-08-30",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Nat Friedman and Miguel de Icaza Start Xamarin",
+    "zh": "Nat Friedman and Miguel de Icaza Start Xamarin"
+   },
+   "source": ".NET Rocks!",
+   "url": "https://podcasts.apple.com/us/podcast/nat-friedman-and-miguel-de-icaza-start-xamarin/id1578528873?i=1000530188815&uo=4",
+   "note": {
+    "en": "Friedman and Miguel de Icaza discuss founding Xamarin to continue the Mono open-source .NET project, an early chapter in his developer-tools career before GitHub.",
+    "zh": "弗里德曼与米格尔·德伊卡萨在节目中讨论了创办Xamarin、延续Mono开源.NET项目的经历，这是他在加入GitHub之前开发者工具生涯的早期篇章。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   }
  ],
  "news": [
@@ -1333,7 +1352,7 @@
   "citations": 8,
   "hIndex": 2,
   "events": 3,
-  "posts": 61,
+  "posts": 62,
   "wikiEn": "Nat Friedman",
   "wikiZh": "奈特·弗里德曼"
  },

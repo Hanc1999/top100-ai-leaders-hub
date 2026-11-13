@@ -120,6 +120,25 @@
    }
   },
   {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T20:55:24Z",
+   "kind": "x",
+   "title": {
+    "en": "As promised, we’re releasing Inkling 2 Small’s weights, thanks to the hard work of our team and safety testing partners",
+    "zh": "As promised, we’re releasing Inkling 2 Small’s weights, thanks to the hard work of our team and safety testing partners"
+   },
+   "source": "@miramurati",
+   "url": "https://x.com/miramurati/status/2120983826407268458",
+   "note": {
+    "en": "Thinking Machines Lab released the weights for Inkling 2 Small, delivering on an earlier open-release promise.",
+    "zh": "Thinking Machines Lab发布了Inkling 2 Small的模型权重，履行了此前开放发布的承诺。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-05",
    "ts": "2026-11-05T23:45:03Z",
    "kind": "x",
@@ -796,6 +815,23 @@
    "url": "https://www.neowin.net/news/thinking-machines-lab-cto-barret-zoph-returns-to-openai-in-surprise-move/"
   },
   {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T19:40:42Z",
+   "level": "major",
+   "title": {
+    "en": "OpenAI Ex-CTO Mira Murati’s Thinking Machines Lab Targets $40B Valuation In Accel Led Round Amid Nvidia Alliance",
+    "zh": "OpenAI Ex-CTO Mira Murati’s Thinking Machines Lab Targets $40B Valuation In Accel Led Round Amid Nvidia Alliance"
+   },
+   "body": {
+    "en": "Thinking Machines Lab is reportedly raising a new round at a $40 billion valuation led by Accel, alongside a new Nvidia alliance.",
+    "zh": "据报道，Mira Murati创立的Thinking Machines Lab正在进行新一轮融资，由Accel领投，估值达400亿美元，并与Nvidia达成新的合作关系。"
+   },
+   "source": "Crowdfund Insider",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbVFTU3l4Q05lNVZ2X21PN3NNNjlZNzJsVmpZeGZlaWV1Uk5WcHM5dUhjTno4NjFyb3VzYl9VTkV4VTIxbFRvVnZ4MmZSUmM1SHExdFEwZ3ZsaHdXcmRIc19KZS1UUXh4dEcyaWpXcFg3MllYbmQyZDI2X0FqSExXZ2dMcDZvYVpJUWFLYUZoUGlrQnNid1NjRXJmSmFtV2d3eTM5NzYwUEd4ZEt2cnZEMjdTWkFIajJxVnlVVHlqdGlPYWtva1E2UWstdld6Tk42TkJJYmpxNWJRX1JQNEF0VkE1WHRLUnZiNFgtNWhNZGk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-07",
    "ts": null,
    "level": "major",
@@ -1398,16 +1434,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 74.4,
+  "total": 74.7,
   "attention": 82,
   "centrality": 72,
-  "momentum": 63,
+  "momentum": 64,
   "stature": null,
   "pageviews": 800593,
   "citations": 1653,
   "hIndex": 3,
-  "events": 37,
-  "posts": 35,
+  "events": 38,
+  "posts": 36,
   "wikiEn": "Mira Murati",
   "wikiZh": "米拉·穆拉蒂"
  },

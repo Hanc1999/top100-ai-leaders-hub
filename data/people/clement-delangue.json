@@ -132,6 +132,44 @@
    }
   },
   {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T14:18:24Z",
+   "kind": "x",
+   "title": {
+    "en": "This whole thing sucks, and I wish none of it had happened. It’s a really sad day! But I want to make one thing clear: we’ll keep fighting for open-source AI, h",
+    "zh": "This whole thing sucks, and I wish none of it had happened. It’s a really sad day! But I want to make one thing clear: we’ll keep fighting for open-source AI, h"
+   },
+   "source": "@clementdelangue",
+   "url": "https://x.com/ClementDelangue/status/2120883918119592037",
+   "note": {
+    "en": "Reacting to a setback for open-source AI, Delangue called it \"a really sad day\" but vowed to keep fighting for open-source AI harder than ever — a stance post that drew outsized engagement for his account.",
+    "zh": "针对开源人工智能遭遇的一次挫折，Delangue称这是“非常悲伤的一天”，但承诺将比以往更努力地为开源AI继续奋斗，该表态帖获得了远超其平时量级的互动。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T21:17:28Z",
+   "kind": "x",
+   "title": {
+    "en": "Sad but still bullish on @nvidia! I’m seeing a lot of people criticizing its structure and the lack of a clear CEO successor. Having seen it from up close, I th",
+    "zh": "Sad but still bullish on @nvidia! I’m seeing a lot of people criticizing its structure and the lack of a clear CEO successor. Having seen it from up close, I th"
+   },
+   "source": "@clementdelangue",
+   "url": "https://x.com/ClementDelangue/status/2120989376855638308",
+   "note": {
+    "en": "Delangue posted on X defending Nvidia's leadership and succession plans after Jensen Huang's exit, arguing most of the criticism was ill-informed; the post drew strong engagement (~12k views, ~400 likes).",
+    "zh": "黄仁勋离职后，Delangue在X上发文为英伟达的领导层和继任安排辩护，认为外界的批评多属误解；该帖获得约1.2万次浏览、约400个赞的较高互动。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-10",
    "ts": "2026-11-10T17:32:31Z",
    "kind": "x",
@@ -1188,16 +1226,16 @@
  },
  "cat": "platform",
  "score": {
-  "total": 49.3,
+  "total": 49.7,
   "attention": null,
   "centrality": 58,
-  "momentum": 53,
+  "momentum": 54,
   "stature": 19,
   "pageviews": 0,
   "citations": 13168,
   "hIndex": 5,
   "events": 15,
-  "posts": 43,
+  "posts": 45,
   "wikiEn": null,
   "wikiZh": null
  },

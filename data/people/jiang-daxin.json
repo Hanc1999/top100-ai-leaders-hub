@@ -193,6 +193,25 @@
    }
   },
   {
+   "date": "2026-11-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon",
+    "zh": "Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.17294v1",
+   "note": {
+    "en": "Co-authored 'Metal Sandbox', a system for isolated execution and GPU command scheduling for coding agents on Apple Silicon, with former Step/MEGVII collaborators.",
+    "zh": "与前同事合作发表论文《Metal Sandbox》，提出一套面向Apple芯片平台、服务GPU编程智能体的隔离执行与指令调度系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-11-02",
    "ts": null,
    "kind": "paper",
@@ -965,25 +984,6 @@
    "note": {
     "en": "StepFun paper proposing a dual-brain architecture for real-time reasoning in spoken language models.",
     "zh": "StepFun团队论文提出“心智步速说话”双脑架构，用于语音语言模型的实时推理。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-09-11",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "LAVa: Layer-wise KV Cache Eviction with Dynamic Budget Allocation",
-    "zh": "LAVa: Layer-wise KV Cache Eviction with Dynamic Budget Allocation"
-   },
-   "source": "arXiv (Cornell University)",
-   "url": "http://arxiv.org/abs/2509.09754",
-   "note": {
-    "en": "StepFun paper on LAVa, a layer-wise KV cache eviction method with dynamic budget allocation for efficient LLM inference.",
-    "zh": "StepFun团队论文提出LAVa，一种按层动态分配预算的KV缓存淘汰方法，以提升大模型推理效率。"
    },
    "auto": true,
    "judged": true,

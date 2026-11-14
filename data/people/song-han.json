@@ -228,6 +228,25 @@
    }
   },
   {
+   "date": "2026-11-13",
+   "ts": "2026-11-13T18:39:26Z",
+   "kind": "x",
+   "title": {
+    "en": "Zero demonstrations, a 27B model, 0 → 18/30 on a real robot it had never touched. We present PEAR: Post-training Engine for Agentic Robotics. VLM + reasoning +",
+    "zh": "Zero demonstrations, a 27B model, 0 → 18/30 on a real robot it had never touched. We present PEAR: Post-training Engine for Agentic Robotics. VLM + reasoning +"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2121311994871435740",
+   "note": {
+    "en": "Song Han's group introduced PEAR, a post-training engine that got a 27B VLM+RL robotics agent working zero-shot on a real robot it had never touched, scoring 18/30.",
+    "zh": "韩松团队发布了PEAR，一种后训练框架，使一个270亿参数的VLM+强化学习机器人智能体在从未接触过的真实机器人上零样本完成任务，得分18/30。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-10",
    "ts": null,
    "kind": "paper",
@@ -848,25 +867,6 @@
    "note": {
     "en": "Language model that unifies autoregressive, diffusion and self-speculation decoding in a single architecture for faster generation.",
     "zh": "在单一架构中统一自回归、扩散与自推测解码三种模式的语言模型，用于加速生成。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-07-07",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "FourTune: Towards Fully 4-Bit Efficient Post-Training for Diffusion Models",
-    "zh": "FourTune: Towards Fully 4-Bit Efficient Post-Training for Diffusion Models"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2607.05711v1",
-   "note": {
-    "en": "Fully 4-bit post-training pipeline for diffusion models, extending his line of low-bit quantization work.",
-    "zh": "面向扩散模型的全 4-bit 后训练方案，延续其低比特量化研究路线。"
    },
    "auto": true,
    "judged": true,
@@ -1520,10 +1520,10 @@
  },
  "cat": "research",
  "score": {
-  "total": 20.8,
+  "total": 20.4,
   "attention": 4,
   "centrality": 18,
-  "momentum": 44,
+  "momentum": 42,
   "stature": 46,
   "pageviews": 888,
   "citations": 32832,

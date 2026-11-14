@@ -1,5 +1,5 @@
 {
- "rank": 74,
+ "rank": 75,
  "id": "kai-yu",
  "name": {
   "en": "Kai Yu",
@@ -218,6 +218,25 @@
    "note": {
     "en": "Yu Kai reposted a driver's account of HSD V2.1 handling a tricky U-turn scenario, framing rising HSD adoption as hard-won progress for Horizon Robotics.",
     "zh": "余凯转发一位车主关于HSD V2.1应对掉头决策等复杂场景的体验，将HSD智驾方案采用率的提升视为地平线来之不易的进展。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "weibo",
+   "connector": "weibo"
+  },
+  {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T23:56:15Z",
+   "kind": "blog",
+   "title": {
+    "en": "心里还是挺难过的。Jensen是一位时代英雄，致敬！ [图片]",
+    "zh": "心里还是挺难过的。Jensen是一位时代英雄，致敬！ [图片]"
+   },
+   "source": "余凯_地平线民工的微博",
+   "url": "https://weibo.com/1862459915/Rr99VhSzC",
+   "note": {
+    "en": "Posted on Weibo mourning Jensen Huang's downfall amid the NVIDIA CEO scandal, calling him 'a hero of this era'.",
+    "zh": "在微博上就黄仁勋陷入争议发声，称其为\"时代英雄\"，表达惋惜与致敬。"
    },
    "auto": true,
    "judged": true,
@@ -4514,16 +4533,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 30.9,
+  "total": 30.6,
   "attention": 3,
   "centrality": 25,
-  "momentum": 90,
+  "momentum": 89,
   "stature": 34,
   "pageviews": 700,
   "citations": 21491,
   "hIndex": 66,
   "events": 213,
-  "posts": 38,
+  "posts": 39,
   "wikiEn": null,
   "wikiZh": "余凯"
  },

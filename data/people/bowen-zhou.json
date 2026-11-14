@@ -211,6 +211,25 @@
    }
   },
   {
+   "date": "2026-11-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+    "zh": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.17332v1",
+   "note": {
+    "en": "Co-authored ArchSpace, a Shanghai AI Lab platform for recording, reviewing and benchmarking LLM architecture innovations against scaling-law baselines.",
+    "zh": "周伯文合著ArchSpace，上海人工智能实验室用于记录、评审大模型架构创新并基于scaling law基线进行预测的平台。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-11-09",
    "ts": null,
    "kind": "paper",
@@ -1059,25 +1078,6 @@
    "note": {
     "en": "A survey from his Shanghai AI Laboratory-linked team on efficient reasoning for large reasoning models across language and multimodal settings.",
     "zh": "其上海AI实验室相关团队撰写的综述，探讨大型推理模型在语言与多模态场景下的高效推理。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-01-14",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning",
-    "zh": "Contrastive Augmented Graph2Graph Memory Interaction for Few Shot Continual Learning"
-   },
-   "source": "IEEE Transactions on Circuits and Syst…",
-   "url": "https://doi.org/10.1109/tcsvt.2025.3529423",
-   "note": {
-    "en": "A few-shot continual learning method using contrastive graph-to-graph memory interaction; Zhou is a co-author via his Tsinghua Electronic Engineering affiliation.",
-    "zh": "该论文提出了一种用于少样本持续学习的对比增强图到图记忆交互方法，周伯文以清华大学电子工程系身份参与合著。"
    },
    "auto": true,
    "judged": true,

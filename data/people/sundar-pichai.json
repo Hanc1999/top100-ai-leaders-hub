@@ -149,6 +149,25 @@
    }
   },
   {
+   "date": "2026-11-13",
+   "ts": "2026-11-13T20:23:09Z",
+   "kind": "x",
+   "title": {
+    "en": "What we shipped this week @google Monday: Two new 8th-gen TPUs Tuesday: Gemini 4 Carbon - AlphaProof Code verified Signal protocol - Gemini Robotics 2.5 Wednesd",
+    "zh": "What we shipped this week @google Monday: Two new 8th-gen TPUs Tuesday: Gemini 4 Carbon - AlphaProof Code verified Signal protocol - Gemini Robotics 2.5 Wednesd"
+   },
+   "source": "@sundarpichai",
+   "url": "https://x.com/sundarpichai/status/2121338095664808238",
+   "note": {
+    "en": "Pichai's weekly recap of what Google shipped: two new 8th-gen TPUs, Gemini 4 Carbon, AlphaProof code verification, Gemini Robotics 2.5, and AlphaGenome 2 for disease research.",
+    "zh": "皮查伊发布本周Google发布动态汇总：两款新一代第8代TPU、Gemini 4 Carbon、AlphaProof代码验证、Gemini Robotics 2.5，以及用于疾病研究的AlphaGenome 2。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-12",
    "ts": "2026-11-12T18:02:12Z",
    "kind": "x",
@@ -1137,25 +1156,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-06-03",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Our new Gemma 4 12B model hits a sweet spot between size + performance: it can run locally on a laptop, while enabling powerful multi-step reasoning and agentic",
-    "zh": "Our new Gemma 4 12B model hits a sweet spot between size + performance: it can run locally on a laptop, while enabling powerful multi-step reasoning and agentic"
-   },
-   "source": "@sundarpichai",
-   "url": "https://x.com/sundarpichai/status/2062257242645393889",
-   "note": {
-    "en": "Pichai introduced the Gemma 4 12B model, sized to run locally on a laptop while supporting multi-step reasoning and agentic workflows.",
-    "zh": "皮查伊发布了Gemma 4 12B模型,体积小到可在笔记本电脑本地运行,同时支持多步推理和智能体工作流。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
    "date": "2026-05-26",
    "ts": null,
    "kind": "podcast",
@@ -1526,6 +1526,57 @@
    },
    "source": "Axios",
    "url": "https://www.axios.com/2026/08/06/googles-ai-leadership-shuffle"
+  },
+  {
+   "date": "2026-11-13",
+   "ts": "2026-11-13T08:33:29Z",
+   "level": "notable",
+   "title": {
+    "en": "Sundar Pichai backs Elon Musk’s Grok assessment of Gemini 4 Hydrogen, highlights cost efficiency",
+    "zh": "Sundar Pichai backs Elon Musk’s Grok assessment of Gemini 4 Hydrogen, highlights cost efficiency"
+   },
+   "body": {
+    "en": "Pichai publicly endorsed Grok's assessment ranking Gemini 4 Hydrogen favorably, emphasizing the model's cost efficiency.",
+    "zh": "皮查伊公开认可了Grok对Gemini 4 Hydrogen给出的有利评价，并强调该模型的成本效益。"
+   },
+   "source": "Moneycontrol.com",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTnhVSUg2U1RFcXlTUnhrdTkzVzhpdlhPOVpFanAxcF83WnVCNGpTS3RwOTduY2NNdHpQeUdsZHg5eVpyQU5tUE5USmpuM0E5U1h5UEJsOGJFOFg1MmZSXzdoQ1hVd0Q0NXN2STlOWFVDZ2U1eDRTRk1WMzE3VW14eEhCd0lmdkgySmJaX0didDVrZ3pDeHc4a2FzeE94blBGWHZ0V1hZSEF6cmJneThmUENZZkZ4MndjcHZMWVlaRHk0YU9qN0lKdExJRzlHcWFhYm1kcHk0SV9abmM1MUNnbWFZYTRBOEhGQXpEaTU3T3lETWvSAfMBQVVfeXFMTk54VUlINlNURXF5U1J4a3U5M1c4aXZYTzlaRWpwMXBfN1p1QjRqU0t0cDk3bmNjTXR6UHlHbGR4OXlackFObVBOVEpqbjNBOVNYeVBCbDhiRThYNTJmUl83aENYVXdENDVzdkk5TlhVQ2dlNXg0U0ZNVjMxN1VteHhIQndJZnZIMkpiWl9HYnQ1a2d6Q3h3OGthc3hPeG5QRlh2dFdYWUhBenJiZ3k4ZlBDWWZGeDJ3Y3B2TFlZWkR5NGFPajdJSnRMSUc5R3FhYWJtZHB5NElfWm5jNTFDZ21hWWE0QThIRkF6RGk1N095RE1r?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-13",
+   "ts": "2026-11-13T16:00:05Z",
+   "level": "notable",
+   "title": {
+    "en": "Sundar Pichai Says ‘Every Cell In Our Body Shares the Same DNA Blueprint’ as Google DeepMind Unveils AlphaGenome 2 Amid Drugmakers' AI Skepticism",
+    "zh": "Sundar Pichai Says ‘Every Cell In Our Body Shares the Same DNA Blueprint’ as Google DeepMind Unveils AlphaGenome 2 Amid Drugmakers' AI Skepticism"
+   },
+   "body": {
+    "en": "Commented that 'every cell in our body shares the same DNA blueprint' as Google DeepMind unveiled AlphaGenome 2.",
+    "zh": "在谷歌DeepMind发布AlphaGenome 2之际，皮查伊表示\"我们身体里的每个细胞都共享同一份DNA蓝图\"。"
+   },
+   "source": "Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOXzE4cjR2enNRVkRiRnhweEowcjFzWDFqUk1RQll6bXphZU9aejZKcGxXUGMzX21BeDVmenpUUVRNelhJYk9UQlBaX0hWUkFLTmpuOGEwNmc1ZkwxOURGZlRvTHV0eUoxOFZUNF9wMVl1Z1dIdWVxaXRGWm9zYTZaYXBiMlF4TWFJME9zOXhmRQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-13",
+   "ts": "2026-11-13T08:33:29Z",
+   "level": "notable",
+   "title": {
+    "en": "Sundar Pichai backs Elon Musk’s Grok assessment of Gemini 4 Hydrogen, highlights cost efficiency",
+    "zh": "Sundar Pichai backs Elon Musk’s Grok assessment of Gemini 4 Hydrogen, highlights cost efficiency"
+   },
+   "body": {
+    "en": "Publicly agreed with Elon Musk's assessment of Gemini 4 Hydrogen, highlighting the model's cost efficiency.",
+    "zh": "公开认同埃隆·马斯克对Gemini 4 Hydrogen的评价，并强调该模型的成本效益。"
+   },
+   "source": "Moneycontrol.com",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQlFuRnY1SjctRlMxaDY3TFNRVGRHdlMzanZadmk2NkpKLVlXZGNoUW16ekN1d25qdFhJc09SQi1xSm5vT0prR25GZEF4YmQ0cFc3OGtOQkFYUVZTQUZ3VmtISmVqbVZMRVFNMkFVZEY4cTNFWF81VEticW1VYnFCUHdDclpreGhnMEZCaG03TGxScW5OVmt3QWI1X3JlTHV0MjFKVGNmNnBCMDFwM3RCakVta0xGaTNLWm1HVFdOZGZpM0Ywc2lfWlI5YnROb1NMVjlLMEZOZE43ZTgzOU14QmZFU3Z3a0lhdTZnTmh30gHzAUFVX3lxTE5OeFVJSDZTVEVxeVNSeGt1OTNXOGl2WE85WkVqcDFwXzdadUI0alNLdHA5N25jY010elB5R2xkeDl5WnJBTm1QTlRKam4zQTlTWHlQQmw4YkU4WDUyZlJfN2hDWFV3RDQ1c3ZJOU5YVUNnZTV4NFNGTVYzMTdVbXh4SEJ3SWZ2SDJKYlpfR2J0NWtnekN4dzhrYXN4T3huUEZYdnRXWFlIQXpyYmd5OGZQQ1lmRngyd2NwdkxZWVpEeTRhT2o3SUp0TElHOUdxYWFibWRweTRJX1puYzUxQ2dtYVlhNEE4SEZBekRpNTdPeURNaw?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-11-12",
@@ -3736,7 +3787,7 @@
   "pageviews": 1299595,
   "citations": 1,
   "hIndex": 1,
-  "events": 131,
+  "events": 134,
   "posts": 74,
   "wikiEn": "Sundar Pichai",
   "wikiZh": "孙达尔·皮柴"

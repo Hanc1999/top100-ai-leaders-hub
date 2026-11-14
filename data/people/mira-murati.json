@@ -120,6 +120,25 @@
    }
   },
   {
+   "date": "2026-11-13",
+   "ts": "2026-11-13T21:44:47Z",
+   "kind": "x",
+   "title": {
+    "en": "Today on Connectionism: how we trained Inkling 2 Small with a native 4-bit forward pass on @nvidia GB300s, from the first pretraining step through the final RL",
+    "zh": "Today on Connectionism: how we trained Inkling 2 Small with a native 4-bit forward pass on @nvidia GB300s, from the first pretraining step through the final RL"
+   },
+   "source": "@miramurati",
+   "url": "https://x.com/miramurati/status/2121358640418635989",
+   "note": {
+    "en": "Murati described how the Thinking Machines team trained Inkling 2 Small with a native 4-bit forward pass on Nvidia GB300s, from pretraining through final RL.",
+    "zh": "Murati介绍了Thinking Machines团队如何在Nvidia GB300上以原生4比特前向传播训练Inkling 2 Small，涵盖从预训练到最终强化学习的全过程。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-12",
    "ts": "2026-11-12T20:55:24Z",
    "kind": "x",
@@ -1443,7 +1462,7 @@
   "citations": 1653,
   "hIndex": 3,
   "events": 38,
-  "posts": 36,
+  "posts": 37,
   "wikiEn": "Mira Murati",
   "wikiZh": "米拉·穆拉蒂"
  },

@@ -1,5 +1,5 @@
 {
- "rank": 19,
+ "rank": 18,
  "id": "koray-kavukcuoglu",
  "name": {
   "en": "Koray Kavukcuoglu",
@@ -162,6 +162,44 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-11-13",
+   "ts": "2026-11-13T20:30:00Z",
+   "kind": "blog",
+   "title": {
+    "en": "Claim your Google Cloud Credits in Google AI Studio",
+    "zh": "Claim your Google Cloud Credits in Google AI Studio"
+   },
+   "source": "Koray Kavukcuoglu",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/",
+   "note": {
+    "en": "Announced on Google's blog that developers can now claim Google Cloud credits directly inside Google AI Studio.",
+    "zh": "在谷歌官方博客宣布，开发者现可直接在Google AI Studio中领取Google Cloud额度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2026-11-13",
+   "ts": "2026-11-13T17:00:00Z",
+   "kind": "blog",
+   "title": {
+    "en": "Connect Google Wallet to Gemini for personal finance insights",
+    "zh": "Connect Google Wallet to Gemini for personal finance insights"
+   },
+   "source": "Koray Kavukcuoglu",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
+   "note": {
+    "en": "Announced that US Gemini app users can connect Google Wallet so Gemini can give spending-informed personal finance insights.",
+    "zh": "宣布美国用户可在Gemini应用中关联Google Wallet，让Gemini基于消费数据给出个人理财建议。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
   },
   {
    "date": "2026-10-27",
@@ -1088,7 +1126,7 @@
   "citations": 166549,
   "hIndex": 73,
   "events": 11,
-  "posts": 40,
+  "posts": 42,
   "wikiEn": null,
   "wikiZh": null
  },

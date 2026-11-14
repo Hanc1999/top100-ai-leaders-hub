@@ -1955,6 +1955,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2018-08-13",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Cómo la inteligencia artificial salvará a la humanidad | Kai-Fu Lee",
+    "zh": "Cómo la inteligencia artificial salvará a la humanidad | Kai-Fu Lee"
+   },
+   "source": "TEDTalks Sociedad y Cultura",
+   "url": "https://podcasts.apple.com/us/podcast/c%C3%B3mo-la-inteligencia-artificial-salvar%C3%A1-a-la/id537450035?i=1000459426815&uo=4",
+   "note": {
+    "en": "Spanish-language replay of Kai-Fu Lee's TED talk on how AI could threaten or help humanity, arguing love is the one thing machines can't replicate.",
+    "zh": "李开复TED演讲的西班牙语版本，探讨AI对人类的威胁与帮助，认为爱是机器无法复制的唯一事物。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2018-03-19",
    "ts": null,
    "kind": "podcast",
@@ -2002,6 +2021,40 @@
    },
    "source": "01.AI",
    "url": "https://www.01.ai/"
+  },
+  {
+   "date": "2026-11-13",
+   "ts": "2026-11-13T08:04:52Z",
+   "level": "notable",
+   "title": {
+    "en": "李开复在访谈里，给人划了一道标尺 | 未来真正值钱的是这两种人",
+    "zh": "李开复在访谈里，给人划了一道标尺 | 未来真正值钱的是这两种人"
+   },
+   "body": {
+    "en": "In a new interview, Kai-Fu Lee argued that as AI commoditizes technical skill, the people who remain most valuable are those with strong interpersonal judgment and taste.",
+    "zh": "在最新访谈中，李开复提出，随着AI使技术能力日趋普及，未来真正稀缺、值钱的将是具备良好人际判断力和品味的人。"
+   },
+   "source": "ThePaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oOGViTWdQZVZiWUlMNXRKdTJKN3hWSjRrYlN1bmlFM1pLQmtiQmpkd01uN1VVTldpNERGNVNsNnVxc2xEWDA1Uld0bzBqNWg0ZzFpUWhJQ1hVOTNsdm45Rg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-13",
+   "ts": "2026-11-13T21:53:00Z",
+   "level": "notable",
+   "title": {
+    "en": "‘Chinese companies are born to make money’: AI pioneer Kai-Fu Lee on 3 myths about China’s AI race",
+    "zh": "‘Chinese companies are born to make money’: AI pioneer Kai-Fu Lee on 3 myths about China’s AI race"
+   },
+   "body": {
+    "en": "In a Fortune interview, Lee laid out his view on three misconceptions about China's AI industry, arguing Chinese AI firms are built to monetize quickly.",
+    "zh": "在接受《财富》杂志采访时，李开复阐述了他对中国AI产业三大误解的看法，并提出中国AI企业\"生而为赚钱\"的观点。"
+   },
+   "source": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb29mM2F1UkdjRWlRTVhoekg3eXJMMzlQQ3JOZGZRQ1Q5ejVKZDBfSVp5VmQ3NTl3WEpFQnFHWmZrODVtem10a1k0UXJhY2YzQ09vQXJReFlfd1MtaDZaTVFPQ2Y5eUVILTBMQmJDUDU0bFNqTldJbWU2MjNXYVpMS1owb0ljT0JjbXA1ZXNWTExYLUtiUC03a3JUSE8xbFVfS0JhSmp3M0pBWktrdDBNV2lDdC1ZUjJpamhDY3J3QzMtdVY5OHpJWG00UWd5SldZUl9aeUY4c0o?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-11-12",
@@ -4263,8 +4316,8 @@
   "pageviews": 77041,
   "citations": 2181,
   "hIndex": 20,
-  "events": 134,
-  "posts": 96,
+  "events": 136,
+  "posts": 97,
   "wikiEn": "Kai-Fu Lee",
   "wikiZh": "李开复"
  },

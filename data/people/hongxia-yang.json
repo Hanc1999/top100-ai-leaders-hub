@@ -945,25 +945,6 @@
    "judged": true,
    "platform": "openalex",
    "connector": "openalex"
-  },
-  {
-   "date": "2025-02-17",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "InfiR : Crafting Effective Small Language Models and Multimodal Small Language Models in Reasoning",
-    "zh": "InfiR : Crafting Effective Small Language Models and Multimodal Small Language Models in Reasoning"
-   },
-   "source": "arXiv (Cornell University)",
-   "url": "http://arxiv.org/abs/2502.11573",
-   "note": {
-    "en": "Co-authored paper on InfiR, a line of small language and multimodal models built for reasoning.",
-    "zh": "合著论文提出InfiR,一系列面向推理能力打造的小型语言与多模态模型。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
   }
  ],
  "news": [
@@ -1287,7 +1268,7 @@
   "citations": 7252,
   "hIndex": 40,
   "events": 18,
-  "posts": 42,
+  "posts": 41,
   "wikiEn": null,
   "wikiZh": null
  },

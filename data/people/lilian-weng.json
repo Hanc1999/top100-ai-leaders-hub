@@ -1,5 +1,5 @@
 {
- "rank": 32,
+ "rank": 31,
  "id": "lilian-weng",
  "name": {
   "en": "Lilian Weng",
@@ -2129,6 +2129,23 @@
    "judged": true
   },
   {
+   "date": "2026-07-30",
+   "ts": "2026-07-30T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "啊哈？翁荔又回 OpenAI 了？",
+    "zh": "啊哈？翁荔又回 OpenAI 了？"
+   },
+   "body": {
+    "en": "Chinese financial media reported that Lilian Weng has left Thinking Machines Lab and returned to OpenAI.",
+    "zh": "中国财经媒体报道翁荔已离开Thinking Machines Lab，重返OpenAI。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrS1MzM0I5UkNRNmlsOERjdUVMRy1PNXpiYkF1TmRQTXJWYkZOb3MtWTRmSnNPRXpJdVlGLUZURWhSZjVqdko4MUVmMDlzV0hKbjBEM3hzT0tHOExIQVdhbmNxQjU4czB4SUM1WmNaQ09jOHBOeGFfbQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-07-29",
    "ts": null,
    "level": "major",
@@ -3071,15 +3088,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 61.7,
+  "total": 62.1,
   "attention": null,
   "centrality": 47,
-  "momentum": 79,
+  "momentum": 80,
   "stature": null,
   "pageviews": 0,
   "citations": 3937,
   "hIndex": 16,
-  "events": 88,
+  "events": 89,
   "posts": 73,
   "wikiEn": "Lilian Weng",
   "wikiZh": null

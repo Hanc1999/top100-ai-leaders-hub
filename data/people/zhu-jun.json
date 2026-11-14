@@ -1,5 +1,5 @@
 {
- "rank": 70,
+ "rank": 69,
  "id": "zhu-jun",
  "name": {
   "en": "Zhu Jun",
@@ -185,6 +185,44 @@
     "en": "Delivered alongside the release of Vidu S1.",
     "zh": "与 Vidu S1 发布同场。"
    }
+  },
+  {
+   "date": "2026-11-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models",
+    "zh": "SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.17110v1",
+   "note": {
+    "en": "Proposes latent action models trained on egocentric human video to scale embodied foundation models without costly robot data collection, co-authored with his regular TSAIL-lab collaborators.",
+    "zh": "提出利用第一视角人类视频训练潜在动作模型，以低成本扩展具身基础模型，合著者为他在清华TSAIL实验室的常规合作者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-11-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SS-HSDP: Efficient and Flexible Sharded Data Parallelism via Runtime-Update Decoupling",
+    "zh": "SS-HSDP: Efficient and Flexible Sharded Data Parallelism via Runtime-Update Decoupling"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.16467v1",
+   "note": {
+    "en": "Introduces SS-HSDP, a sharded data-parallel training method that decouples runtime weight updates for more efficient and flexible large-model training, co-authored with his lab's systems researchers.",
+    "zh": "提出SS-HSDP分片数据并行训练方法，通过解耦运行时参数更新实现更高效灵活的大模型训练，合著者为其实验室的系统研究者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-11-10",
@@ -1236,7 +1274,7 @@
   "citations": 56229,
   "hIndex": 118,
   "events": 23,
-  "posts": 35,
+  "posts": 37,
   "wikiEn": "Zhu Jun",
   "wikiZh": "朱军"
  },

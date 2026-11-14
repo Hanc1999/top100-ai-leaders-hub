@@ -156,6 +156,25 @@
    }
   },
   {
+   "date": "2026-11-13",
+   "ts": "2026-11-13T14:33:54Z",
+   "kind": "x",
+   "title": {
+    "en": "Starship 42 preparing for launch",
+    "zh": "Starship 42 preparing for launch"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2121250205806772283",
+   "note": {
+    "en": "Musk posted that Starship vehicle 42 is being prepped for launch, a status update on SpaceX's next-generation rocket program.",
+    "zh": "马斯克发布动态称星舰42号正在准备发射，这是对SpaceX下一代旗舰火箭项目的进展更新。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-12",
    "ts": "2026-11-12T05:12:04Z",
    "kind": "x",
@@ -1087,25 +1106,6 @@
    "connector": null
   },
   {
-   "date": "2026-10-30",
-   "ts": "2026-10-30T04:06:05Z",
-   "kind": "x",
-   "title": {
-    "en": "Neuralink’s first product is called Telepathy. It enables high-speed communication with computers or humans simply by thinking. Output bandwidth will vastly exc",
-    "zh": "Neuralink’s first product is called Telepathy. It enables high-speed communication with computers or humans simply by thinking. Output bandwidth will vastly exc"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2116018780111597911",
-   "note": {
-    "en": "Musk described Neuralink's first product, Telepathy, which lets users communicate with computers or other people by thought alone at a bandwidth exceeding speech or typing.",
-    "zh": "马斯克介绍了Neuralink首款产品Telepathy，用户仅凭思维即可与计算机或他人交流，带宽超过语音或打字速度。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2026-07-23",
    "ts": null,
    "kind": "podcast",
@@ -1262,6 +1262,261 @@
    },
    "source": "xAI",
    "url": "https://x.ai/news"
+  },
+  {
+   "date": "2026-11-13",
+   "ts": "2026-11-13T01:47:00Z",
+   "level": "notable",
+   "title": {
+    "en": "What's next for Jensen Huang? Elon Musk says hiring ex-Nvidia CEO an honour; Microsoft 365 outage hits Singapore users overnight as servers go offline: Singapore live news",
+    "zh": "What's next for Jensen Huang? Elon Musk says hiring ex-Nvidia CEO an honour; Microsoft 365 outage hits Singapore users overnight as servers go offline: Singapore live news"
+   },
+   "body": {
+    "en": "Replying to a post urging him to hire the just-resigned Jensen Huang, Musk said it \"would be an honor\" — no job offer was confirmed, but it was a notable public reaction to Huang's Nvidia exit.",
+    "zh": "在有人建议他雇用刚辞职的黄仁勋后，马斯克回应称\"那将是一种荣幸\"——目前并无确认的职位邀约，但这是对黄仁勋离开英伟达一事引人关注的公开回应。"
+   },
+   "source": "Yahoo News Singapore",
+   "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPbTMyTVN4U0hJV2JTQnN3T3RCX0FYZDVNc0d0M1VOWXRhVWo5OVZMRjJYTFY2QXBQVjdfdTNCZkYxSTNvcUpVSWRnVjV6VVdKYTdkOHY2aHJ1cHl2Uy1JYnM2UERuNm9uRVdoVWJDMnQyNjBZMkYzUC1pdTJlZ2NQQ3hmLXlSY0VnT21uNThzenFqNXJLdXlsOFBRb3dDc3lWSDdJWXJTdEFvaGcwd0xka09kaUs4Y2l3LXNBa2tNTEVydGk4cmxYaHFUNHdESlVlYmQ0cEtDSUdpamJadTBMLVlsTlNYUGFtSUM0SllRUlYxcnhjRW1TYXdLcVh2QmV5dUJNWk40WFl4M1dwTll3SHAtOXZWYWo0R2VObGdyd05jZEVEdDdxakl3VzJCdDg4TzJGcV9OZzA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-13",
+   "ts": "2026-11-13T04:40:00Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk's SpaceX plans over $74 billion in AI computing campuses across Texas and Arizona, including a",
+    "zh": "Elon Musk's SpaceX plans over $74 billion in AI computing campuses across Texas and Arizona, including a"
+   },
+   "body": {
+    "en": "SpaceX announced plans for over $74 billion in AI computing campuses across Texas and Arizona, extending Musk's push to control the model-to-compute stack.",
+    "zh": "SpaceX宣布计划在得克萨斯州和亚利桑那州建设价值超740亿美元的AI计算园区，进一步扩大马斯克对模型与算力一体化布局的掌控。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxPbjAxdG83WVI5OHZEcEhsQkJUWVRxRGlVWnhheTNhZ2xsWlFHOGYzXzZpaFh2NWNDbnBBVUI0aVk0S3d4eTVtQnlNUzFxMmsyaEdwRXZ6ODJlUldyNGFHdGlYWEVTanNJYlBXWllUTWp2ZmFPMUtFOF8zTEFtUk9GQ1FnZzlfLWhrekZhQVJKdlM0ZDJBTnZJSWJWUEI4amRDZ0pkaEl6b1FJUW9yc090ZmZWOGctd3JBU2FWb3lIc09LTTBkVGlRSklPcXZHak5Bd1FJVEVFeW5INktaMmRKNUVoV1c4TG5PQ2g4MWU2MzFYcHZyMmpPbUxwRjI4UWFNV3VQUDR0NjY3d296RG9QMk1sTDRsb1F6OExQUmxVLXZwcldvcWpYQ29XQUNzdTJEdGpRRUhYLWRuRl9WMDNqbzZHNUczLUhkQnNmdUE4MXBudkVFWF9wVXI2QVF3RU0wTjNGSkdEamd2Z2ZFYm9CbVRGTzJhRHkyYzVoc3E4cmQ2aUZqY09ZVlNNblpSQ0IwOEFyV9IBmgNBVV95cUxQU3RIR2lGRms0N1dLRGhrckx0VGh1M1hweGRraHppZXpwZnUxVGk0Z25ZYnlsN2RoNzdEanpJMFRqMFFMSnlWcm5pRExUUURnR04wZTluTG9LbTZUSWpaUUtuTExYdGdoSUVZaVRaYlY0dnJoc05fSWl4MTREdGQtWXFRUXZKT0t4QndkRVZvX21qek9USEdMMmNlLVNERzVlTHlBTVNQV1J4X2Z4UUtYVlRabE14SC02MTVRbXJaRnVNY2R2S0NhQmFJRThfbmhjZWU5WGVjR0hiYXlYMzNqS3Z3REhONzJCX2Q2MV9TdlZDS3llN29tN0FRV2hrUmlPdElLX29fdDlyb2sxcVZRUGFtWkh3VWtGRlp6WDNsckFUMktmbXZjdEpMamRIU0tFTlNNWk9EeWVnZUpWR2RnRFZPUHpwZjVYT2lnMW53SWpfbkpuREp0Qk5VN1hXTlkycHBKX0ltYW52TWZyTHZqRndTbE0xT3o0WFEtMlpKZnYtbFV1Y1ZkZ0xLUWN0ZndDaGFGVWR3YWwyQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-13",
+   "ts": "2026-11-13T05:46:54Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Warns Against Pushing Founders Out — Steve Jobs and Travis Kalanick Lessons Resurface as Jensen",
+    "zh": "Elon Musk Warns Against Pushing Founders Out — Steve Jobs and Travis Kalanick Lessons Resurface as Jensen"
+   },
+   "body": {
+    "en": "Musk publicly warned against pushing founders out of their own companies, citing Steve Jobs and Travis Kalanick as precedents amid the fallout from Jensen Huang's forced exit at NVIDIA.",
+    "zh": "马斯克公开警告不要把创始人赶出自己创办的公司，援引史蒂夫·乔布斯和特拉维斯·卡兰尼克的先例，并联系到黄仁勋在英伟达被迫离职事件的后续影响。"
+   },
+   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaUdBTWJydXZkbTA2QjBSMUZFOFdrQUhCTHVPSm4yVExwbTBUUXRMY0RrOXZTbGZNXzVmdHQwSDFQcGlzT21ETGVBUWsyY3JaanRZcW5DWkRVamhsYVdMLTkxSVNQWkhnYnNIRVhoVVVyYkpGRllkaXZ5NFBDMHItSmJscUZGRFJZdDRfel9YMXZSNVZzSDhOV2lIMWRmYXlqdkNwZTI0MkkyWTg4UUNxSVR1NG9UNnV2eHRwMUZZX243cEtkdl95STQ0cTNZUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-13",
+   "ts": "2026-11-13T06:59:00Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk's SpaceX and Tesla move closer to historic merger deal",
+    "zh": "Elon Musk's SpaceX and Tesla move closer to historic merger deal"
+   },
+   "body": {
+    "en": "Reports say SpaceX and Tesla are moving toward a historic merger that would combine Musk's rocket and car companies into a single entity.",
+    "zh": "报道称SpaceX和特斯拉正朝着历史性合并迈进，这将把马斯克的火箭公司与汽车公司合并为一个实体。"
+   },
+   "source": "Interesting Engineering",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ2hYX0FvOEM1cUtjblltbEFwSEdFVk9icTg4VVVlMUFtOVVYN1FqbkF1bkpCVXdWc2hYd1FEMkc3cmprYVVyMm5CT1FzMmY2cTkzSmtvdTROYXBxOXZ6LTl6V2pUSGhDY19Cc25aelFUQk1SUGFBaGJld095aVZNcGtWTVJZZWM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-13",
+   "ts": "2026-11-13T08:03:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Jensen Huang is out at Nvidia. Elon Musk says hiring him would be ‘an honor’",
+    "zh": "Jensen Huang is out at Nvidia. Elon Musk says hiring him would be ‘an honor’"
+   },
+   "body": {
+    "en": "Musk publicly said it would be 'an honor' to hire ousted NVIDIA CEO Jensen Huang, a notable reaction from a rival compute/AI leader to the industry's biggest leadership shake-up.",
+    "zh": "马斯克公开表示，若能聘请离职的英伟达CEO黄仁勋将是\"一种荣幸\"，这是这位竞争对手级算力/AI领袖对业内最大高层变动作出的引人注目的回应。"
+   },
+   "source": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rTVBpYjB5SW45Z01FbGxPWDN3ZUhNMzFfakIxZFpSVjE5UDV1akZxQUFzU3lsMXhFU21QNHRfWDlRMjdLUTNGb0xOR21MMDMyRDFIcHowWHlKdThzQ0JITmItaWYzY2xzZU80UDR5T1IyTzBPbXVIS0lkbks?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-13",
+   "ts": "2026-11-13T13:41:02Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk’s Tesla-SpaceX Merger Draws ‘Tremendous Scrutiny’ Pledge From Texas AG",
+    "zh": "Elon Musk’s Tesla-SpaceX Merger Draws ‘Tremendous Scrutiny’ Pledge From Texas AG"
+   },
+   "body": {
+    "en": "Texas's attorney general pledged close regulatory scrutiny of the proposed Tesla-SpaceX merger, a sign of pushback against Musk's consolidation of his companies into one stack.",
+    "zh": "德克萨斯州总检察长宣布将对特斯拉与SpaceX的合并计划进行严格审查，这是对马斯克将旗下公司整合为单一体系举措的监管回应。"
+   },
+   "source": "The Crypto Times",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUQyaThta0pxT3Q0UWVXZGZLWUE0dnBqNlVUSWw4dTJsdnozSGl0ZVNyRG9UM1FyT29xbnlkdGkwaWhLUHVlSC1RQXRZaVZRT3F0UDhOaXVYTDJOR0g4ZTFQZ01vUDBiQkgyazl6WVhQUHZkZGt5RWZoSXdPVEdjRlBnaTFzandPbHFWelpCYzBIOUROV0QxWUQ3TGlxbGUwNE44QkxnR2hXY3NfQmVJYWFndU92eXc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-13",
+   "ts": "2026-11-13T14:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s AI Group Guts Grok Video Generation Team",
+    "zh": "Elon Musk’s AI Group Guts Grok Video Generation Team"
+   },
+   "body": {
+    "en": "xAI, now folded into Musk's SpaceX-led stack, cut its Grok video-generation team, a restructuring move inside the group building Grok's video tools.",
+    "zh": "并入马斯克SpaceX体系的xAI裁撤了Grok视频生成团队，这是该团队内部的一次组织调整。"
+   },
+   "source": "The Information",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSHVlMmkxWGNtSXFvTWktZzFWV1BfTUo3ZnVTck54QmtjOWRTaVNpQjJKLWF4TmZJN1ZpRjhDNUphTUcydHBJQ29ZWWxvN2dfV1R6eXR0d0NTTWdvNmhwWG1hQThURWcydDVkdURKLWd5bk13d0VNQnMyN2o0OUlldDBKR2JSZ2l6NTAzcmJNQ0k3dDdlaXc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-13",
+   "ts": "2026-11-13T15:26:02Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk could merge SpaceX and Tesla by December, but deal may slip to 2027",
+    "zh": "Elon Musk could merge SpaceX and Tesla by December, but deal may slip to 2027"
+   },
+   "body": {
+    "en": "Reports say Musk is working toward merging SpaceX and Tesla as soon as December, though the deal could slip into 2027.",
+    "zh": "报道称马斯克正推动在12月前完成SpaceX与特斯拉的合并，但交易可能推迟到2027年。"
+   },
+   "source": "The American Bazaar",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaHdsYkhCN09jSVBqUnBSVmZVMmxsWjB2NlV6QkpHZHR6WTZETjFScVRVM2lIWk1EQkV5amtjaXFyczdzWjUxTUpDWmNmYV9iUzdzVGxKRktmTkxRMU9fczNrTHh3QXlVNGtiZVRsamdWSjdidDFJYW5MTXZNRWxiODR6ZVpMWEtQb3RHV1FuSmpmYjFJMTJXTWxWa1BUOS1kUnRJdDVmNmtsdmVRVXJnU2t1VHIxQmlIQWVkZFJCanVPUjBWOVZR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-13",
+   "ts": "2026-11-13T08:03:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Jensen Huang is out at Nvidia. Elon Musk says hiring him would be ‘an honor’",
+    "zh": "Jensen Huang is out at Nvidia. Elon Musk says hiring him would be ‘an honor’"
+   },
+   "body": {
+    "en": "Musk said it would be \"an honor\" to hire Jensen Huang after Huang's ouster as Nvidia CEO, floating a possible move in the AI chip race.",
+    "zh": "在黄仁勋被迫辞去英伟达CEO一职后，马斯克表示聘用他将是一种\"荣幸\"，暗示了AI芯片竞赛中可能出现的人事变动。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRjhlOW81RHhZX2JVd3N6VS1Pb2NQWGo5dzNuTFZ5aGZ5Tm5YbDJBd3JEZEtIMHBLTS1fdzd1eU5vVGNLQ2hZaWFkcGFqWGxPSGVTLUFWNVBrRFNlamhvM3B4MnJsUndUdUpQVjBzQmVLSVJaN1REQnctTmhkcnFnWDBDSDFtQjlwS1RIUUNYMWUtNTVl?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-13",
+   "ts": "2026-11-13T17:21:48Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s SpaceX Has Spent $15 Billion on Starship. Tonight Could Change Everything",
+    "zh": "Elon Musk’s SpaceX Has Spent $15 Billion on Starship. Tonight Could Change Everything"
+   },
+   "body": {
+    "en": "SpaceX has spent $15 billion on Starship ahead of a closely watched test flight, underscoring the program's scale and stakes.",
+    "zh": "SpaceX已在星舰项目上投入150亿美元，即将迎来备受关注的试飞，凸显该项目的规模与风险。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2x2VTNHU01WVWlMNFk1NG9FR0RVOEdEUVZXZlBvd0N1UGtEU3BVSllwTGY1X1I3ZGZTVnUzbl9sNnhtMGxLR3VmZUU0bTRwTzZsV3ZBZEFBZVJqeV80NFRnbzlTdm9VdGFLcXdIWFEzem1NZjdjTFFyUjh5MzVPRHdHUVhWZU54WHR0Wkl1UQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-13",
+   "ts": "2026-11-13T18:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "American billionaire Elon Musk's SpaceX pressed by EU to restore Ukraine satellite service",
+    "zh": "American billionaire Elon Musk's SpaceX pressed by EU to restore Ukraine satellite service"
+   },
+   "body": {
+    "en": "The EU pressed Musk's SpaceX to restore Starlink satellite service to Ukraine, a real diplomatic friction point over the company's infrastructure role.",
+    "zh": "欧盟向Musk旗下SpaceX施压，要求恢复向乌克兰提供星链卫星服务，反映该公司基础设施角色引发的外交摩擦。"
+   },
+   "source": "Billionaires.Africa",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObkxkOEZIaDRmM3cwa0NNZm5yNU9EczhQTkFONTlFbHNNYndlakU2S1c4aHQ5b055TW5xNEdWXzBQS2JHUVJXa1FDMEpzU2VrclJrVVR3MGN6QXpqWjd2Z2FXbTBnckhtVXhxMlFpSVFEc2h6eHhwOWxxUHN2dEx4c3lSTFhZUFNteHd5LVZ1YzBHbnJsOXJoeGl5anlKaURZb3hrVXhUcER6emo5RmhYcG9sZWZIZnQ4TE1Xd3hmemd1Z2xPVjBEZVpBSFEyZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-13",
+   "ts": "2026-11-13T09:14:01Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Wants to Move the Internet’s Backbone From the Seabed to Orbit",
+    "zh": "Elon Musk Wants to Move the Internet’s Backbone From the Seabed to Orbit"
+   },
+   "body": {
+    "en": "Musk argued the internet's backbone should move from undersea cables to orbit, a stance that frames Starlink's strategic ambitions.",
+    "zh": "Musk主张互联网骨干网应从海底电缆转向轨道卫星，这一立场勾勒出星链的战略野心。"
+   },
+   "source": "mediasat.info",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDBSeGc3bloxNFdTUGdkRkt0d2tyQmd4a0hSYUUzT3RnQ21HbWdmR1hnLUVSZVlDTFR1anR4QVNBdDBHUWVqU1owOFVQaDN0NDgwMTVsamt6Tm0tNHVCMjlrZmVTT3RzVkNQbm15eTFyX3REdERMMF9ULXlMT0lka1liTk9oZVoxOTI3TElWZ0drNnVOeXlldWstZVhwelBvNjZBVnBVb08zWEZn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-13",
+   "ts": "2026-11-13T18:56:42Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk's Biggest Rocket Launch Yet Could Change the Economics of Space Travel—If It Works",
+    "zh": "Elon Musk's Biggest Rocket Launch Yet Could Change the Economics of Space Travel—If It Works"
+   },
+   "body": {
+    "en": "Coverage of SpaceX's next Starship test flight (Flight 15) framed it as a launch that could reshape the economics of space travel.",
+    "zh": "报道聚焦SpaceX下一次星舰试飞（Flight 15），称这次发射可能改变太空旅行的经济模式。"
+   },
+   "source": "Inc.com",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSWJSRjBPSDhNek4tRGFKVVlJZ3NvWTFnNE9BRFRHUEZKZG43MVVZTW5FWHRKcEs0Y1VpcmxETHl5LUpyS1F4MHFEVnN1Q1JrbExheGItMXY4XzBMcnNHV3k1RFhlSzhJUjBMbVU0dkk0TXY5bE0taFZhZVJuTWE5akxLTGFiVlhkNzIyc0dEOWZKRW9LZlJocmxjQVg4dEFXZEJOeGpjTzl4MnBBdVl2R3F3ZjdrMHdGZmpHVEl0TnQ1MUxNTFZJWVR3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-13",
+   "ts": "2026-11-13T13:08:21Z",
+   "level": "major",
+   "title": {
+    "en": "‘This is for Starmind to create a sentient sun’: Elon Musk just revealed his next move for a space-based data center as SpaceX’s $3tn mega-merger with Tesla is now just weeks away",
+    "zh": "‘This is for Starmind to create a sentient sun’: Elon Musk just revealed his next move for a space-based data center as SpaceX’s $3tn mega-merger with Tesla is now just weeks away"
+   },
+   "body": {
+    "en": "Musk announced plans for a space-based data center as SpaceX's roughly $3 trillion merger with Tesla nears completion.",
+    "zh": "在SpaceX与特斯拉约3万亿美元的合并即将完成之际，马斯克宣布了建设太空数据中心的计划。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaW42bnlHQVlRdkJrbHpucUZ2Nlg4eVNMUWlncDdkR2lfOXU0TTBnYTR5eGFpT2tBamVFdEdiLUpzU1RlYnBVRGk0dGc2Ul9aTHdiQi1fX3FtT1RRdFIwV0oxS1NXUlk0R0JXX0pIeW43MTB4RFNwVHlVYVg5MktzM0Q3UWpXejE5NERMOEZOcDVST2wyNlI1NzVR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-13",
+   "ts": "2026-11-13T17:30:07Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Isn’t Worried About Anthropic Walking Away From SpaceX’s $120 Billion AI Deal: ‘The Opposite Is Going To Happen’",
+    "zh": "Elon Musk Isn’t Worried About Anthropic Walking Away From SpaceX’s $120 Billion AI Deal: ‘The Opposite Is Going To Happen’"
+   },
+   "body": {
+    "en": "Musk dismissed concerns that Anthropic would back out of SpaceX's $120 billion AI deal, saying the opposite would happen.",
+    "zh": "马斯克驳斥了Anthropic将退出SpaceX价值1200亿美元AI协议的担忧，称情况将恰恰相反。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObHF3TkVKRjFYekF1RkUtMlV3eFRmalJwSVlZQXZ0dUxmaEgzanVuUkp2ZTg4UFlTenFmYkl0SGlBNWZvWXc2RW80TjdQQ2gzMUQ4bE9LU3EzSUdGLWtWZHhjbUtDOUFVVnQ3VkZOdFNodjFMRmhadkNqd18tRkJfWHk0Q1ZwRldrbXpEb2pqUk0?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-11-12",
@@ -1549,6 +1804,40 @@
    },
    "source": "Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcFotWXozcjVWZTFNUWNtS3MwVkd5dmZOUmthUm5GLVJOdlVhTjM3OHd5NGFSMW5valZXYjZaa2VtUmJUWER4NTlQakNJYVpuUWJpWUg4OEswNGNTcTQ2Uk12d3N4elFRbHprMkROYkVSNjVIZ3FlYm9NZXhYcUxjSkxFRWVUQU0tekRPQ3JjS3NyaDI4SVF5YzNn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T22:45:07Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk's SpaceX is building a $24 billion data center in South Texas",
+    "zh": "Elon Musk's SpaceX is building a $24 billion data center in South Texas"
+   },
+   "body": {
+    "en": "SpaceX unveiled plans for a $24B gas-powered data center and supercomputer site in Starbase, Texas, extending Musk's compute buildout beyond Colossus.",
+    "zh": "SpaceX公布在德州星际基地建设造价240亿美元、配套燃气电厂的数据中心与超级计算设施的计划，是马斯克在Colossus之外的又一次算力扩张。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMjBsV3FMbGhoMl9mZXB3VTUxWWc3XzVRYm9lLUVELXNIcmR0V0ZfbkpiUFpXd2Rmb2J3NmlRNWY4czhFbzBJTkFxeHVOd0s0SlVhenJPdG15dk5HdkhCVE9SYWw4YkRNQVVyRUVTS2tWb0Jvdjc4MFAtalpfcWx1SmEwQW9DR0hiOHpySTNpeXVSTVdBMk02bkpn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T10:07:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Open To Hiring Nvidia CEO Jensen Huang - 100.7 WZLX",
+    "zh": "Elon Musk Open To Hiring Nvidia CEO Jensen Huang - 100.7 WZLX"
+   },
+   "body": {
+    "en": "Musk said it would be 'an honor' to hire Jensen Huang as reports swirled that NVIDIA's board was moving to replace him, a remark that quickly spread across major outlets.",
+    "zh": "在有报道称英伟达董事会正考虑换掉黄仁勋之际，马斯克表示聘用黄仁勋将是“莫大的荣幸”，这一表态被多家主流媒体广泛报道。"
+   },
+   "source": "Boston's Classic Rock",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSmg0MVpMSm12YTRZeUJYMnZhUjRMaUZGdDNhLWtlamFWVzVPQnd6Q2hlSDE3OEtMMGZZV0ZPREFZdUlPanp0SUV2WmhZeU4xZWhoeFpZYU05N1Q3Q2dMc2VzOUdGMmJiRTRWelJibzBraWlKSExmQ2RLaVplY3lHUUVWcW85QVd1ZDRscmdLZ25DRHl3WENB?oc=5",
    "auto": true,
    "judged": true
   },
@@ -1859,6 +2148,23 @@
    "judged": true
   },
   {
+   "date": "2026-11-11",
+   "ts": "2026-11-11T16:30:22Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk's SpaceX Says Grok Helps Identify Foreign Object Debris In Rocket Parts Better Than Humans, With 99.9% Accuracy",
+    "zh": "Elon Musk's SpaceX Says Grok Helps Identify Foreign Object Debris In Rocket Parts Better Than Humans, With 99.9% Accuracy"
+   },
+   "body": {
+    "en": "SpaceX says its Grok model now identifies foreign object debris in rocket hardware with 99.9% accuracy, beating human inspectors — a concrete use of Musk's AI stack inside the rocket business.",
+    "zh": "SpaceX表示其Grok模型识别火箭零件异物碎片（FOD）的准确率达99.9%，超过人工检测，是马斯克AI技术栈在火箭业务中的具体应用。"
+   },
+   "source": "Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZjFTVWJjR19zcWkxMm9Tbi10SS1WcEE4dEdGbXd1RnRMdHFjR0FTaEp3blN6RkVFSUdvT2RaamoyQmRrazU2b3pmY3ZXNUtnNmFsYjRYZHVCNkd4eVBRdzFzWlNzSF84TWVJc3BsbS0wN0gyQ0Jka0tpNjdrblRTSXk1MDFoVkRubWhoeVFR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-10",
    "ts": "2026-11-10T00:30:07Z",
    "level": "notable",
@@ -2076,6 +2382,23 @@
    },
    "source": "Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcnljSi1Ba0syWV9uTjNkVHVPMWdlV1luTFdGcWN1eUYyMVhaRFhfc1RJcjRIUWdGSEIxY3ZwNVhzclp0c2J5Nk03VjJfVGlIdnRUaVczMnhNMDI5MmRaeDRLYmtDeEVJUXBEYVFnRHJjdTNkaTNycVpta3NBd2FDTllETWZkTVk4Nno1UlRwWF91T2s?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-10",
+   "ts": "2026-11-10T00:43:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Just Gave the Top End of His SpaceX Revenue Forecast About a 2% Chance. His Best Guess Sits at the Bottom End.",
+    "zh": "Elon Musk Just Gave the Top End of His SpaceX Revenue Forecast About a 2% Chance. His Best Guess Sits at the Bottom End."
+   },
+   "body": {
+    "en": "On SpaceX's earnings call Musk forecast annual recurring revenue of $500B-$1T by end of 2027, saying the top end has only about a 2% chance, a forecast tied largely to SpaceX's AI compute-rental business.",
+    "zh": "马斯克在SpaceX财报电话会上预测，到2027年底公司年化经常性收入将达到5000亿至1万亿美元，但表示触及上限的概率仅约2%，该预测主要基于SpaceX的AI算力租赁业务。"
+   },
+   "source": "AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FbTQzaUdPR3hoR2VQVnpYUVdieUh3SnphOURLYWxnU1Bpa2YyYUhsQU56RnBxVEVJd2Jxb1V3d2QxckU5MmtGRU1Uc1J5ZjFkQlpJd3hUeGxNa1RfNFVRc2FxQjd3MHRFNXNJX1E4SXJaUjdpMkE?oc=5",
    "auto": true,
    "judged": true
   },
@@ -18959,7 +19282,7 @@
   "pageviews": 9295513,
   "citations": 1280,
   "hIndex": 3,
-  "events": 1043,
+  "events": 1062,
   "posts": 59,
   "wikiEn": "Elon Musk",
   "wikiZh": "埃隆·马斯克"

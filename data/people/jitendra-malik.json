@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-11-14",
+   "ts": "2026-11-14T22:02:41Z",
+   "kind": "x",
+   "title": {
+    "en": "Sometime ago I had proposed an antidote to the hype in robotics demo tapes released on X - a live challenge where a child competes with a robot to finish a task",
+    "zh": "Sometime ago I had proposed an antidote to the hype in robotics demo tapes released on X - a live challenge where a child competes with a robot to finish a task"
+   },
+   "source": "@jitendramalikcv",
+   "url": "https://x.com/JitendraMalikCV/status/2121725533876806115",
+   "note": {
+    "en": "Malik revived his proposal for a live 'child vs. robot' challenge as an antidote to hype-driven robotics demo videos, arguing real-world task speed should be measured directly.",
+    "zh": "马利克重提他提出的“儿童对机器人”现场挑战设想，以对抗充满炒作的机器人演示视频，主张应直接测量真实任务中的完成速度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-10",
    "ts": "2026-11-10T05:04:14Z",
    "kind": "x",
@@ -1836,25 +1855,6 @@
    "connector": "x"
   },
   {
-   "date": "2024-09-25",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Autoregressive modeling is not just for language, it can equally be used to model human behavior. This paper shows how..",
-    "zh": "Autoregressive modeling is not just for language, it can equally be used to model human behavior. This paper shows how.."
-   },
-   "source": "@JitendraMalikCV",
-   "url": "https://x.com/JitendraMalikCV/status/1838776529524027868",
-   "note": {
-    "en": "Malik pointed to a paper showing autoregressive modeling, the technique behind LLMs, can also be used to model human behavior.",
-    "zh": "Malik介绍了一篇论文,展示自回归建模(语言模型背后的技术)同样可用于建模人类行为。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
    "date": "2023-08-17",
    "ts": null,
    "kind": "podcast",
@@ -1939,10 +1939,10 @@
  },
  "cat": "research",
  "score": {
-  "total": 29.5,
+  "total": 30.0,
   "attention": 21,
   "centrality": 14,
-  "momentum": 41,
+  "momentum": 43,
   "stature": 81,
   "pageviews": 12954,
   "citations": 168758,

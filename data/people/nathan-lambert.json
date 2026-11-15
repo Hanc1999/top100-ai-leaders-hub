@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-11-14",
+   "ts": "2026-11-14T12:23:15Z",
+   "kind": "blog",
+   "title": {
+    "en": "Open-source AI without Jensen",
+    "zh": "Open-source AI without Jensen"
+   },
+   "source": "Interconnects AI",
+   "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+   "note": {
+    "en": "In an Interconnects post following Jensen Huang's exit as NVIDIA CEO, Nathan Lambert argues the open-model community now has to rebuild its hardware alliance from scratch.",
+    "zh": "在Interconnects的一篇文章中，Nathan Lambert认为，黄仁勋卸任NVIDIA CEO后，开源模型社区需要重新搭建其硬件联盟。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
    "date": "2026-11-04",
    "ts": "2026-11-04T16:35:44Z",
    "kind": "blog",
@@ -1807,7 +1826,7 @@
   "citations": 720,
   "hIndex": 13,
   "events": 3,
-  "posts": 84,
+  "posts": 85,
   "wikiEn": "Nathan Lambert",
   "wikiZh": null
  },

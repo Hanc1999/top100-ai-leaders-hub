@@ -169,6 +169,25 @@
    }
   },
   {
+   "date": "2026-11-13",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Kai-Fu Lee: Why America's AI Strategy Backfired | The Extended Cut",
+    "zh": "Kai-Fu Lee: Why America's AI Strategy Backfired | The Extended Cut"
+   },
+   "source": "Fortune Daily",
+   "url": "https://podcasts.apple.com/us/podcast/kai-fu-lee-why-americas-ai-strategy-backfired-the/id6797703940?i=1000801783505&uo=4",
+   "note": {
+    "en": "In a full-length Fortune Daily interview, Lee argues America's AI strategy backfired, laying out his read on the US-China AI competition.",
+    "zh": "李开复在《财富日报》播客的完整专访中，阐述了他对美国AI战略为何适得其反及中美AI竞争格局的看法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-11-12",
    "ts": "2026-11-12T20:30:01Z",
    "kind": "x",
@@ -4317,7 +4336,7 @@
   "citations": 2181,
   "hIndex": 20,
   "events": 136,
-  "posts": 97,
+  "posts": 98,
   "wikiEn": "Kai-Fu Lee",
   "wikiZh": "李开复"
  },

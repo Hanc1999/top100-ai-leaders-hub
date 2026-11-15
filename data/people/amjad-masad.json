@@ -1113,6 +1113,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2021-08-27",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Amjad Masad: Replit",
+    "zh": "Amjad Masad: Replit"
+   },
+   "source": "Feeling of Computing",
+   "url": "https://podcasts.apple.com/us/podcast/amjad-masad-replit/id1265527976?i=1000533347528&uo=4",
+   "note": {
+    "en": "Masad discussed Replit's origin story and his path as founder and first programmer in a long-form interview on the Feeling of Computing podcast.",
+    "zh": "Masad在Feeling of Computing播客的长篇访谈中讲述了作为创始人兼首位程序员打造Replit的背景故事。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2020-11-04",
    "ts": null,
    "kind": "podcast",
@@ -1575,7 +1594,7 @@
   "citations": 0,
   "hIndex": 0,
   "events": 14,
-  "posts": 63,
+  "posts": 64,
   "wikiEn": "Amjad Masad",
   "wikiZh": null
  },

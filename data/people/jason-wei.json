@@ -176,6 +176,25 @@
    }
   },
   {
+   "date": "2026-11-14",
+   "ts": "2026-11-14T19:47:00Z",
+   "kind": "x",
+   "title": {
+    "en": "Given that there are only 66 problems in TerminalBench v4.1 and literally every frontier lab tracks TerminalBench performance, at some point it will be more pre",
+    "zh": "Given that there are only 66 problems in TerminalBench v4.1 and literally every frontier lab tracks TerminalBench performance, at some point it will be more pre"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/2121691386043089133",
+   "note": {
+    "en": "Wei argued that with only 66 problems in TerminalBench v4.1, it will soon be more prestigious to author benchmark problems than to top the leaderboard.",
+    "zh": "魏俊认为，由于TerminalBench v4.1仅有66道题，未来撰写基准测试题目将比登上排行榜榜首更具声望。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-12",
    "ts": "2026-11-12T17:49:40Z",
    "kind": "x",
@@ -1309,25 +1328,6 @@
    "note": {
     "en": "Wei shares a chart made for an upcoming talk showing how quickly AI benchmarks get saturated, and looks ahead to Humanity's Last Exam.",
     "zh": "Wei分享一张为演讲准备的图表,展示AI基准测试被迅速刷满的速度,并展望\"人类终极考试\"基准。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
-   "date": "2025-02-03",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Very excited to finally share OpenAI's \"deep research\" model, which achieves twice the score of o3-mini on Humanity's Last Exam, and can even perform some tasks",
-    "zh": "Very excited to finally share OpenAI's \"deep research\" model, which achieves twice the score of o3-mini on Humanity's Last Exam, and can even perform some tasks"
-   },
-   "source": "@_jasonwei",
-   "url": "https://x.com/_jasonwei/status/1886213911906504950",
-   "note": {
-    "en": "Wei announces OpenAI's 'deep research' model, which doubles o3-mini's score on Humanity's Last Exam and can complete some tasks that would take PhD experts over ten hours.",
-    "zh": "Wei宣布OpenAI的\"深度研究\"模型上线,其在\"人类终极考试\"上的得分是o3-mini的两倍,并能完成部分需要博士专家耗时十余小时的任务。"
    },
    "auto": true,
    "judged": true,

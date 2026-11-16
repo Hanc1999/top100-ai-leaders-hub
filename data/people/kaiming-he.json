@@ -1323,6 +1323,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-05",
+   "ts": "2026-10-05T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "何恺明团队新作：给大模型加上“视觉记忆”，AGI基准测试从40分升到100分",
+    "zh": "何恺明团队新作：给大模型加上“视觉记忆”，AGI基准测试从40分升到100分"
+   },
+   "body": {
+    "en": "Kaiming He's team published VISTA, a visual-memory framework that let Claude Opus 5 jump from roughly 40 to a perfect 100 on the ARC-AGI-3 benchmark without retraining the base model.",
+    "zh": "何恺明团队发布VISTA视觉记忆框架，无需重新训练基础模型，就让Claude Opus 5在ARC-AGI-3基准测试中的得分从约40分跃升至满分100分。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeXdQR0J4VnZtdHlaU1FmTDY1ZEJSOWREN0NmbmNYSDNORmVEOC1lWGF0OWRzRXFHbmRIS2J3bWo3NWdmd0dBaWZWYWo1YlBhZkowa3VUMzB0R25fQ2RhdndWazRRY0pxQUwxMmpxNTk1UXhkcmxXWTl3TXVKcHh1aHJGdjI1dGc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-04",
    "ts": "2026-10-04T04:53:29Z",
    "level": "notable",
@@ -2069,7 +2086,7 @@
   "pageviews": 46828,
   "citations": 555963,
   "hIndex": 83,
-  "events": 77,
+  "events": 78,
   "posts": 30,
   "wikiEn": "Kaiming He",
   "wikiZh": "何恺明"

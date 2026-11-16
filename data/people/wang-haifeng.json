@@ -57,6 +57,12 @@
    "t": 2
   },
   {
+   "kind": "blog",
+   "label": "Baidu official newsroom",
+   "url": "https://home.baidu.com/home/index/news_list",
+   "t": 2
+  },
+  {
    "kind": "x",
    "label": "X — search",
    "url": "https://x.com/search?q=%22Wang+Haifeng%22&f=live",
@@ -728,10 +734,10 @@
  },
  "cat": "lab",
  "score": {
-  "total": 40.2,
+  "total": 39.8,
   "attention": null,
   "centrality": 50,
-  "momentum": 30,
+  "momentum": 29,
   "stature": 36,
   "pageviews": 0,
   "citations": 22856,

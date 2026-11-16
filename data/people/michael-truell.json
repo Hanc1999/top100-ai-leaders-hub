@@ -1,5 +1,5 @@
 {
- "rank": 51,
+ "rank": 49,
  "id": "michael-truell",
  "name": {
   "en": "Michael Truell",
@@ -30,6 +30,12 @@
    "kind": "x",
    "label": "@mntruell",
    "url": "https://x.com/mntruell",
+   "t": 1
+  },
+  {
+   "kind": "blog",
+   "label": "Personal site",
+   "url": "http://mntruell.com",
    "t": 1
   },
   {
@@ -561,6 +567,23 @@
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90OWFBdUFKZWpEbm1XNXJPS1BWYkt4VzZDU1dLUUlRVEFkb0ZEeWFYalNfVk00YmYwZTl2WC1MT2VKWG5ZQlVCb2FIMG1xTUcxTXp0Rm81N0hVQURu?oc=5",
    "auto": true,
    "judged": true
+  },
+  {
+   "date": "2026-06-16",
+   "ts": "2026-06-16T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Meet 25-year-old CEO Michael Truell who sold his company Cursor to SpaceX for $60 billion",
+    "zh": "Meet 25-year-old CEO Michael Truell who sold his company Cursor to SpaceX for $60 billion"
+   },
+   "body": {
+    "en": "Cursor-maker Anysphere, led by 25-year-old CEO Michael Truell, was acquired by SpaceX for $60 billion, one of the largest venture-backed startup acquisitions ever.",
+    "zh": "Cursor 的开发公司 Anysphere，由25岁的CEO Michael Truell领导，被SpaceX以600亿美元收购，是史上最大的风投支持初创公司收购案之一。"
+   },
+   "source": "Moneycontrol.com",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNUp2RnB2SU9Cd2NFSThTbW96Wmg2c2tCeFJkb0xaOUZFcy12ZDFjQmhIRDJvTmR6WDdTdjk0TE5LdWNiVUZOYm9PMUJfTlpYT2JCVUJ4dHZfcWVVM1pyTlQzS0xLaFdUalN5ZDY2a3ZBeEo4Tk5Va1RMOWVGelVDdEpmMmR2YTQ5MW5wMDZHYWZNSFBiNGNWRzV4cVVNRXpyTlZCbTVPRnZhMXphcHFQZi1FZTZpVzJBVXY2dTBmMXpCQV9udmtsSmRvUk1PalZmR01zeXpXOFp6OHM?oc=5",
+   "auto": true,
+   "judged": true
   }
  ],
  "changed": true,
@@ -570,15 +593,15 @@
  },
  "cat": "product",
  "score": {
-  "total": 45.4,
+  "total": 46.4,
   "attention": 35,
   "centrality": 79,
-  "momentum": 26,
+  "momentum": 30,
   "stature": null,
   "pageviews": 50879,
   "citations": 0,
   "hIndex": 0,
-  "events": 9,
+  "events": 10,
   "posts": 16,
   "wikiEn": "Michael Truell",
   "wikiZh": null

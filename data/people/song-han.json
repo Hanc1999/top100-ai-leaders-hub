@@ -1,5 +1,5 @@
 {
- "rank": 95,
+ "rank": 94,
  "id": "song-han",
  "name": {
   "en": "Song Han",
@@ -1479,6 +1479,23 @@
    "url": "https://hanlab.mit.edu/"
   },
   {
+   "date": "2026-11-15",
+   "ts": "2026-11-15T06:34:54Z",
+   "level": "notable",
+   "title": {
+    "en": "逼近GPT-6 Astra！韩松团队让Qwen3.8-27B在5090上操作机械臂，现已开源",
+    "zh": "逼近GPT-6 Astra！韩松团队让Qwen3.8-27B在5090上操作机械臂，现已开源"
+   },
+   "body": {
+    "en": "Song Han's lab got a 27B-parameter Qwen3.8 model to control a robotic arm running on a single RTX 5090, and open-sourced the system.",
+    "zh": "韩松团队让270亿参数的Qwen3.8模型在单张RTX 5090上操控机械臂，并已将该系统开源。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EeGFPQnhLTWlwZjc2Nk9wY2ZSN2NCbUxRUGVZMDlVUnF0ZTJnZHFUUkE1amFBWERzdVBRVkJ3djhJa2FGaTRkdzUycEY?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-10",
    "ts": "2026-10-10T11:08:00Z",
    "level": "notable",
@@ -1520,15 +1537,15 @@
  },
  "cat": "research",
  "score": {
-  "total": 20.2,
+  "total": 21.0,
   "attention": 4,
   "centrality": 18,
-  "momentum": 41,
+  "momentum": 45,
   "stature": 46,
   "pageviews": 888,
   "citations": 32832,
   "hIndex": 58,
-  "events": 3,
+  "events": 4,
   "posts": 68,
   "wikiEn": null,
   "wikiZh": "韩松"

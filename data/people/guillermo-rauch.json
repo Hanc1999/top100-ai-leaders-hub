@@ -127,6 +127,25 @@
    }
   },
   {
+   "date": "2026-11-14",
+   "ts": null,
+   "kind": "report",
+   "title": {
+    "en": "rauchg made this repository public",
+    "zh": "rauchg made this repository public"
+   },
+   "source": "GitHub Public Timeline Feed",
+   "url": "https://github.com/rauchg/winamp-ui-sdk",
+   "note": {
+    "en": "Rauch open-sourced a Winamp 5 UI recreation built with Vercel's UI SDK web components, a concrete demo of the frontend toolkit his company ships.",
+    "zh": "Rauch开源了一个使用Vercel UI SDK的Web组件复刻Winamp 5界面的项目，是其公司前端工具包的一次具体演示。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "github",
+   "connector": "github"
+  },
+  {
    "date": "2026-11-10",
    "ts": null,
    "kind": "podcast",
@@ -144,25 +163,6 @@
    "judged": true,
    "platform": "apple-podcasts",
    "connector": "podcasts"
-  },
-  {
-   "date": "2026-11-07",
-   "ts": null,
-   "kind": "report",
-   "title": {
-    "en": "rauchg made this repository public",
-    "zh": "rauchg made this repository public"
-   },
-   "source": "GitHub Public Timeline Feed",
-   "url": "https://github.com/rauchg/vinyl",
-   "note": {
-    "en": "Rauch open-sourced \"vinyl\", a JavaScript side project that simulates a record player from the physical groove up.",
-    "zh": "Rauch开源了个人项目vinyl，一个用JavaScript从物理唱片沟槽原理出发模拟黑胶唱机的小项目。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "github",
-   "connector": "github"
   },
   {
    "date": "2026-10-29",

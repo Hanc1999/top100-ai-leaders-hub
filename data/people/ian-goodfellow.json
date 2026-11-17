@@ -171,6 +171,25 @@
    }
   },
   {
+   "date": "2026-11-16",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "deeplearning.ai's Heroes of Deep Learning: Ian Goodfellow",
+    "zh": "deeplearning.ai's Heroes of Deep Learning: Ian Goodfellow"
+   },
+   "source": "DeepLearningAI",
+   "url": "https://podcasts.apple.com/us/podcast/deeplearning-ais-heroes-of-deep-learning-ian-goodfellow/id6832622364?i=1000802022505&uo=4",
+   "note": {
+    "en": "Episode of deeplearning.ai's \"Heroes of Deep Learning\" series in which Andrew Ng interviews Ian Goodfellow.",
+    "zh": "deeplearning.ai「深度学习英雄」系列节目中，Andrew Ng对Ian Goodfellow的访谈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-10-16",
    "ts": "2026-10-16T21:00:45Z",
    "kind": "x",
@@ -1195,7 +1214,7 @@
   "citations": 84073,
   "hIndex": 63,
   "events": 0,
-  "posts": 55,
+  "posts": 56,
   "wikiEn": "Ian Goodfellow",
   "wikiZh": "伊恩·古德费洛"
  },

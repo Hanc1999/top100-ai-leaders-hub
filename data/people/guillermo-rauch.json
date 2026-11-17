@@ -127,7 +127,7 @@
    }
   },
   {
-   "date": "2026-11-14",
+   "date": "2026-11-15",
    "ts": null,
    "kind": "report",
    "title": {
@@ -135,10 +135,10 @@
     "zh": "rauchg made this repository public"
    },
    "source": "GitHub Public Timeline Feed",
-   "url": "https://github.com/rauchg/winamp-ui-sdk",
+   "url": "https://github.com/rauchg/xeet",
    "note": {
-    "en": "Rauch open-sourced a Winamp 5 UI recreation built with Vercel's UI SDK web components, a concrete demo of the frontend toolkit his company ships.",
-    "zh": "Rauch开源了一个使用Vercel UI SDK的Web组件复刻Winamp 5界面的项目，是其公司前端工具包的一次具体演示。"
+    "en": "Rauch open-sourced xeet, a new project that renders X posts to PNG images without a browser, built in Rust and WebAssembly.",
+    "zh": "Rauch开源了新项目xeet，该项目基于Rust和WebAssembly实现，无需浏览器即可将X帖子渲染为PNG图片。"
    },
    "auto": true,
    "judged": true,

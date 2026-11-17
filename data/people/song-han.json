@@ -228,6 +228,25 @@
    }
   },
   {
+   "date": "2026-11-16",
+   "ts": "2026-11-16T18:45:00Z",
+   "kind": "x",
+   "title": {
+    "en": "Deep personalization locally on your device:",
+    "zh": "Deep personalization locally on your device:"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2122400558505923059",
+   "note": {
+    "en": "Han shared a demo of deep personalization running locally on-device, continuing his efficient-AI research on compact, on-device models.",
+    "zh": "韩松展示了一个可在设备本地运行的深度个性化演示，延续了他在高效AI、紧凑型设备端模型方面的研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-13",
    "ts": "2026-11-13T18:39:26Z",
    "kind": "x",
@@ -245,6 +264,25 @@
    "judged": true,
    "platform": "x",
    "connector": null
+  },
+  {
+   "date": "2026-11-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+    "zh": "Training Reasoning Models in Simulation to Natively Use Real Robots"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.18562v1",
+   "note": {
+    "en": "Han and MIT/NVIDIA collaborators, including longtime co-author Zhijian Liu, propose training robot-control reasoning models in simulation so they transfer natively to real robots.",
+    "zh": "韩松与MIT/NVIDIA的合作者（包括长期合作者刘志坚）提出在仿真环境中训练机器人控制推理模型，使其能够原生迁移到真实机器人上。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-11-10",
@@ -848,25 +886,6 @@
    "note": {
     "en": "Long-context extension method for LLMs based on a dynamic bifocal RoPE scheme.",
     "zh": "提出基于动态双焦 RoPE 的大模型长上下文扩展方法。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-07-07",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding",
-    "zh": "Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2607.05722v1",
-   "note": {
-    "en": "Language model that unifies autoregressive, diffusion and self-speculation decoding in a single architecture for faster generation.",
-    "zh": "在单一架构中统一自回归、扩散与自推测解码三种模式的语言模型，用于加速生成。"
    },
    "auto": true,
    "judged": true,
@@ -1546,7 +1565,7 @@
   "citations": 32832,
   "hIndex": 58,
   "events": 4,
-  "posts": 68,
+  "posts": 69,
   "wikiEn": null,
   "wikiZh": "韩松"
  },

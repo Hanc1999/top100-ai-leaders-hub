@@ -1045,44 +1045,6 @@
    "judged": true,
    "platform": "openalex",
    "connector": "openalex"
-  },
-  {
-   "date": "2025-05-13",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Efficient Diffusion Models: A Comprehensive Survey From Principles to Practices",
-    "zh": "Efficient Diffusion Models: A Comprehensive Survey From Principles to Practices"
-   },
-   "source": "IEEE Transactions on Pattern Analysis…",
-   "url": "https://doi.org/10.1109/tpami.2025.3569700",
-   "note": {
-    "en": "A comprehensive IEEE TPAMI survey he co-authored on efficient diffusion models, from principles to practice.",
-    "zh": "他参与撰写的IEEE TPAMI综述，系统梳理高效扩散模型的原理与实践。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-03-27",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond",
-    "zh": "A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond"
-   },
-   "source": "arXiv (Cornell University)",
-   "url": "http://arxiv.org/abs/2503.21614",
-   "note": {
-    "en": "A survey from his Shanghai AI Laboratory-linked team on efficient reasoning for large reasoning models across language and multimodal settings.",
-    "zh": "其上海AI实验室相关团队撰写的综述，探讨大型推理模型在语言与多模态场景下的高效推理。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
   }
  ],
  "news": [
@@ -1099,6 +1061,23 @@
    },
    "source": "Shanghai AI Lab",
    "url": "https://shanghaiopen.org.cn/en/blog/2026/02/05/towards-ai4s-2-0-shanghai-ai-lab-open-sources-intern-s1-pro-the-1-trillion-parameter-moe-scientific-large-model/"
+  },
+  {
+   "date": "2026-11-15",
+   "ts": "2026-11-15T20:19:58Z",
+   "level": "notable",
+   "title": {
+    "en": "上海人工智能实验室主任周伯文：科学研究是下一个编程",
+    "zh": "上海人工智能实验室主任周伯文：科学研究是下一个编程"
+   },
+   "body": {
+    "en": "Shanghai AI Lab director Zhou Bowen argued that scientific research is becoming 'the next programming,' framing AI as a tool for discovery rather than just software production.",
+    "zh": "上海人工智能实验室主任周伯文提出，科学研究正成为“下一个编程”，将AI视为推动科学发现而非仅是软件生产的工具。"
+   },
+   "source": "新浪财经_金融信息服务商",
+   "url": "https://news.google.com/rss/articles/CBMi1AlBVV95cUxQMWR3N1ZxRmFwUUZ0bk1VNzRwOG5TSjM4WnIteERRUHo3NGh6NE5JenBvcWxpVzdKWV9NVkdjNERfbldvT1V6dE9LeU0xNTN1bHFBZFBxVUdzMlJhY1N6VDBQbzUyamZONWdrMVBuY0xUT2dJUkVHRTBMUTA0blgzSU9Db2lpal9vVkhZa2xrZzFsYlNVODViWmdXcE91T09zZ2ZHbHR4Z3JsUUZnbFJ2VFhkb2hiSmlVWFRETUZyVllHcFl5VXV5V2pIU2FRaF9sTERrWDZIVTd6VF8xMmw5N0g1ZVBfQjRad3hUQnBZZE1EMmhpc3NsQjdqMW50Uk5pWThtWVVFYVpzMURqNVBDYUxhSGxYRTl0RHY5dEd2ZnZaRUZienBuRXZhMTNJNFF0elZ2dWNaQkRRWjFhRmtkcmFVN0FoM1NfSHAzSTc2ellJcWpaMk1KbFg3ZnhPZjRjUjZRQ1NySHh5NGVncXdualAwOVBMRVItR0paOGtMRnNjN09QczlPRkVRSGlEaURKekFObjUyLWFzZXFCbzVfMGxHTnRoYmN0ZDdkNUJKQWJLNExKSlg0UGhmb01DTFg2S3BjU3pVN01tN25QdnF2WFR0ZVE2OHZ2M2lzcTJPOTBYVjN6cTRYaDdJbFdNWnpBelRmMXFZZDJZbVNaMUhISWtyRWJJS0luNzdjN091YlhVaHVmZmxEZmpGQzZQZzFNTVgyXy1jemRxcjFZMTc3WV9ERE1fQXBzQ3I3S0dyYnI4TlBTOHI4eVhCYmdyRmVJOW5oV2tPeURtaEk4OFh5cWxaOVJoMkUzaFg3NElOVVN6RkFIQXNES25HaDA1LXdFZjVrLU05R1M2VmtPdkV5YndDM3VOY19jYzdhZ2wwVTNSYnBwWG1zRTY2ZUM3YzRFRTlWVmxlVFp2a05pRXRzUVRQTTdKc3BybFRSMzdhTnVDcEEybTRXVEt2Z1BBUXg3R3RnU3RkZ2NIUGRyWDI5TU9fakJwczYxLXZ2bzlMNVJCVlNiblMwUXJwUmxiYUtoeGh0Q0UxUzZ2bnFYYXdmNzhVdTBZRlBEXzZwdWZMVUY1SG1PYUZ5M3lYQXh6ZUFhOWQxOWFZMFVZY29hc1huSE0zcVhsN3dEVHppOG5vYmtZUDMyXzl2ZkRmS3FfaDBpLUFkYmFYSERaamttOTltcUhiNmpwaFVzWmNfbkxnUEVzazJJQzk1WC1ZWThOdFAtcFd5N1Vjd2szVWFfT0lNVVM0eUNRYjhaT0p1d0ZxUUozQ1QxVHYzaEVFaFVBMndTQXFpLW9lWnBMMGlCcmw2RUNiRXJwYzFpUXBtd3lpMHlrX3oydFp6RU1Bd0dHSWhDRHd3ejEybE5hLUZmNFZURzFpcE52SDdUVkR2SE5zYWhWUjZpa0dBcjJZa3BZQWJZYk9aMmdfdDlISlY3SWxnUUprdTI2SjI3cXVkUjFOQUEyRWw2SVh6MVN0QXhkWW4wUm00M1Z3RlFRRjU5MG9tR0QtYnZtLW5HYzNlMVRMcGU1TDQ0dFJBU0hoeTYtRnB4RzBCLVhhRTI1S2JsZnNZNW1xQlFnOUlYQ3BnRGJ2RG9WM19OWHlLNUdsZ1djRWFyQ0prd1RQWWFHRW1lWmVzQkJDRnM?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-11-11",
@@ -1592,8 +1571,8 @@
   "pageviews": 928,
   "citations": 16676,
   "hIndex": 51,
-  "events": 29,
-  "posts": 47,
+  "events": 30,
+  "posts": 45,
   "wikiEn": "Bowen Zhou",
   "wikiZh": null
  },

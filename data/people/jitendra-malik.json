@@ -202,6 +202,25 @@
    "connector": null
   },
   {
+   "date": "2026-11-12",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Racing the Clock: Teaching VLNs Budget-Conditioned Object Search",
+    "zh": "Racing the Clock: Teaching VLNs Budget-Conditioned Object Search"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.17442v1",
+   "note": {
+    "en": "Malik co-authors a Berkeley robotics paper proposing that search robots adapt how broadly they explore based on the time budget they're given, alongside longtime collaborators Sastry and Tomlin.",
+    "zh": "马利克与长期合作者萨斯特里、汤姆林共同发表论文，提出搜索机器人应根据给定的时间预算调整探索范围的广度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-11-10",
    "ts": "2026-11-10T05:04:14Z",
    "kind": "x",
@@ -1939,16 +1958,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 29.8,
+  "total": 30.0,
   "attention": 21,
   "centrality": 14,
-  "momentum": 42,
+  "momentum": 43,
   "stature": 81,
   "pageviews": 12954,
   "citations": 168758,
   "hIndex": 144,
   "events": 0,
-  "posts": 94,
+  "posts": 95,
   "wikiEn": "Jitendra Malik",
   "wikiZh": "希特德拉·馬利克"
  },

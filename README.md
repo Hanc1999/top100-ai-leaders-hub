@@ -1,4 +1,69 @@
-# Top 100 AI Leaders — Open Data
+# Top 100 AI Leaders — News MCP & Open Data
+
+[![Connect the MCP server](https://img.shields.io/badge/MCP-Connect_now-087f5b?style=for-the-badge)](https://top100-ai-leaders.vercel.app/developers)
+[![Public service, no API key](https://img.shields.io/badge/Public-No_API_key-222222?style=for-the-badge)](https://top100-ai-leaders.vercel.app/developers)
+
+**Give your AI assistant the latest published AI news and first-hand X posts —
+by person, time window, topic or source.**
+
+[Connect in minutes](#connect-your-ai-assistant) · [Browse the news](https://top100-ai-leaders.vercel.app/#/news) · [中文说明](#chinese)
+
+## Connect your AI assistant
+
+**MCP endpoint · Streamable HTTP · public, read-only · no API key**
+
+```text
+https://top100-ai-leaders.vercel.app/mcp
+```
+
+**Codex — one command:**
+
+```bash
+codex mcp add ai100 --url https://top100-ai-leaders.vercel.app/mcp
+```
+
+**Cursor — add this to your MCP configuration** ([official setup guide](https://cursor.com/docs/mcp)):
+
+```json
+{
+  "mcpServers": {
+    "ai100": {
+      "url": "https://top100-ai-leaders.vercel.app/mcp"
+    }
+  }
+}
+```
+
+For other clients, add a remote MCP server using the endpoint above and select
+**Streamable HTTP**. No account, token or local server is needed.
+
+Then ask your assistant:
+
+> “What happened in AI today? Include first-hand X posts and link the sources.”
+>
+> “Find Jensen Huang's news from the last seven days about chips or compute.”
+>
+> “Show recent funding news, exclude items containing “rumor” or “传闻”, and group them by person.”
+
+| What you want | MCP tools |
+|---|---|
+| Today's news or a recent time window | `get_today_news`, `get_recent_news` |
+| News about one person | `get_person_news` |
+| Combine people, topics, kinds, keywords and source filters | `search_news` |
+| Find a person or read one item | `list_people`, `get_person`, `get_news_item` |
+| Check how fresh the data is | `get_feed_status` |
+
+**[Connection guide, filter reference and live query explorer →](https://top100-ai-leaders.vercel.app/developers)**
+
+The website collects, reviews and publishes about **hourly**. MCP queries use
+the latest **published website data**; they do not trigger a fresh crawl.
+The files in this GitHub repository are a separate **daily** snapshot.
+Check `get_feed_status` for collection and publication timestamps. “Today”
+defaults to `Asia/Singapore`; you can choose another timezone.
+
+---
+
+## Download the open dataset
 
 An open, continuously-updated dataset of what the 100 people moving the AI
 frontier are actually publishing and what is being written about them.
@@ -121,7 +186,39 @@ The collection pipeline itself is not open source, so this repo carries no code
 
 <a name="chinese"></a>
 
-# Top 100 AI Leaders — 开放数据
+# Top 100 AI Leaders — 新闻 MCP 与开放数据
+
+**让你的 AI 助手直接查询最新已发布的 AI 新闻与 X 一手消息。**
+支持按人物、今天、最近几小时、主题、类型、关键词和来源组合筛选。
+
+**接入地址：** `https://top100-ai-leaders.vercel.app/mcp`
+
+**协议：** Streamable HTTP；公开只读，无需账号或 API key。
+
+Codex 一条命令接入：
+
+```bash
+codex mcp add ai100 --url https://top100-ai-leaders.vercel.app/mcp
+```
+
+Cursor 配置见[上方快速接入](#connect-your-ai-assistant)；其他支持远程 MCP 的客户端，
+添加上述地址并选择 Streamable HTTP 即可。
+
+接入后可以直接问：
+
+> “今天 AI 圈有哪些新消息？包含 X 一手消息，附上原始来源。”
+>
+> “查黄仁勋最近七天关于芯片和算力的新闻。”
+>
+> “找最近 24 小时的融资消息，排除含“rumor”或“传闻”的内容，按人物整理。”
+
+**[完整接入教程、筛选参数与在线查询 →](https://top100-ai-leaders.vercel.app/developers)**
+
+网站约每小时采集、审核并发布；MCP 查询的是**最新已发布的网站数据**，
+每次调用不会重新抓取上游。此 GitHub 仓库的数据文件每日同步。
+可用 `get_feed_status` 检查采集与发布时间；“今天”默认按 `Asia/Singapore` 计算，可指定其他时区。
+
+## 下载开放数据
 
 推动 AI 前沿的 100 个人**实际在发表什么**、以及**外界在报道他们什么**的持续更新数据集。
 

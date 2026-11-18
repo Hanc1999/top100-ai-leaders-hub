@@ -177,6 +177,25 @@
    }
   },
   {
+   "date": "2026-11-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Evaluation-Free Recursive Self-Improvement for Coding Agents",
+    "zh": "Evaluation-Free Recursive Self-Improvement for Coding Agents"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.21056v1",
+   "note": {
+    "en": "Schmidhuber co-authors a paper on evaluation-free recursive self-improvement for coding agents, extending his long-running self-improving-systems research.",
+    "zh": "Schmidhuber合著了一篇关于编码智能体免评估递归自我改进的论文，延续他对自我改进系统的长期研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-11-07",
    "ts": null,
    "kind": "paper",
@@ -1309,7 +1328,7 @@
   "citations": 185831,
   "hIndex": 89,
   "events": 2,
-  "posts": 59,
+  "posts": 60,
   "wikiEn": "Jürgen Schmidhuber",
   "wikiZh": "于尔根·施密德胡伯"
  },

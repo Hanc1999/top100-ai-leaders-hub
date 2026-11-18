@@ -1498,6 +1498,23 @@
    "url": "https://hanlab.mit.edu/"
   },
   {
+   "date": "2026-11-16",
+   "ts": "2026-11-16T07:48:33Z",
+   "level": "notable",
+   "title": {
+    "en": "MIT韩松团队新作！让Qwen3.8-27B操作机械臂，临摹梵高大作、还会做化学实验",
+    "zh": "MIT韩松团队新作！让Qwen3.8-27B操作机械臂，临摹梵高大作、还会做化学实验"
+   },
+   "body": {
+    "en": "Song Han's MIT team unveiled a new system letting the Qwen3.8-27B model control a robotic arm to paint a Van Gogh-style work and run chemistry experiments, demonstrating embodied multimodal control.",
+    "zh": "MIT韩松团队发布新系统，让Qwen3.8-27B模型操控机械臂临摹梵高风格画作并完成化学实验，展示了具身多模态控制能力。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9acWl0WFYySTZZQWdiTU4ydmd4dXFpYU0ya0dRWjl1Ykx5U3RUM01yVVV3UnF2M1FNdk5vVFF1TzNnTnJRRW1jaS1fV3g?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-15",
    "ts": "2026-11-15T06:34:54Z",
    "level": "notable",
@@ -1556,15 +1573,15 @@
  },
  "cat": "research",
  "score": {
-  "total": 21.0,
+  "total": 21.3,
   "attention": 4,
   "centrality": 18,
-  "momentum": 45,
+  "momentum": 46,
   "stature": 46,
   "pageviews": 888,
   "citations": 32832,
   "hIndex": 58,
-  "events": 4,
+  "events": 5,
   "posts": 69,
   "wikiEn": null,
   "wikiZh": "韩松"

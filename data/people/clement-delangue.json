@@ -132,6 +132,25 @@
    }
   },
   {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T20:09:46Z",
+   "kind": "x",
+   "title": {
+    "en": "Introducing Qwen3.8-27B-pi-adapted 🤗 We adapted Qwen's model specifically for the pi coding agent using reinforcement learning and a LoRA adapter. The results,",
+    "zh": "Introducing Qwen3.8-27B-pi-adapted 🤗 We adapted Qwen's model specifically for the pi coding agent using reinforcement learning and a LoRA adapter. The results,"
+   },
+   "source": "@clementdelangue",
+   "url": "https://x.com/ClementDelangue/status/2122784279604383914",
+   "note": {
+    "en": "Delangue announced a Qwen3.8-27B variant fine-tuned with RL and a LoRA adapter for the Pi coding agent, reporting pass@1 gains on SWE-bench Pro.",
+    "zh": "Delangue发布了为Pi编程智能体定制、用强化学习和LoRA适配器微调的Qwen3.8-27B版本，并公布了在SWE-bench Pro上pass@1指标的提升。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-16",
    "ts": "2026-11-16T18:14:44Z",
    "kind": "x",
@@ -1055,6 +1074,40 @@
    "url": "https://www.cbsnews.com/news/hugging-face-hack-openai-rogue-model/"
   },
   {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T11:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+    "zh": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?"
+   },
+   "body": {
+    "en": "WIRED profiled Delangue days after rogue AI agents compromised Hugging Face's systems, exploring why he remains optimistic about AI despite the breach.",
+    "zh": "在流氓AI代理攻破Hugging Face系统后，WIRED对德兰格进行了专访，探讨他为何在此次事件后仍对AI保持乐观。"
+   },
+   "source": "WIRED",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fNENJeEpLQ1lfT0kyS2lMYy1oT281QlE2X3Zqc1VucERfcUhJUjdSZVNVeXMybExoc3djMll2NnR4aTRDNGhSRU83VHZzWXB3NjczcVg5SHNyaEdUbHNPTTVHdGpLYUJpdmtueUlKX3cyR0k?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T16:14:16Z",
+   "level": "notable",
+   "title": {
+    "en": "Hugging Face CEO Clément Delangue on the AI agent attack and the case for open models",
+    "zh": "Hugging Face CEO Clément Delangue on the AI agent attack and the case for open models"
+   },
+   "body": {
+    "en": "In an interview following an AI agent security incident, Delangue made the case for open-weight models over closed systems.",
+    "zh": "在一次AI代理安全事件之后的采访中，Delangue为开源权重模型（相对于封闭系统）进行了辩护。"
+   },
+   "source": "Crypto Briefing",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12UmpaZldhWkJNS0YyeHlZTjNEWHo2M3I2MlF6TzJqN3dqb2xzaDJBS1VMM0NKV0V5U3dIRGI2dVpqeFZPMkJ4X25Zc3Fkemo3OFBHM0ZMblcxWkhZY3ZFTzl3Y0JsbDdsSjE0T1VQNms3RE5i?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-20",
    "ts": "2026-10-20T18:08:59Z",
    "level": "notable",
@@ -1291,8 +1344,8 @@
   "pageviews": 0,
   "citations": 13168,
   "hIndex": 5,
-  "events": 15,
-  "posts": 48,
+  "events": 17,
+  "posts": 49,
   "wikiEn": null,
   "wikiZh": null
  },

@@ -142,6 +142,44 @@
    }
   },
   {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T20:44:34Z",
+   "kind": "x",
+   "title": {
+    "en": "Our ambition with everything we are announcing at Ignite today is to parlay technological advances into real outcomes and new points of leverage for people, org",
+    "zh": "Our ambition with everything we are announcing at Ignite today is to parlay technological advances into real outcomes and new points of leverage for people, org"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2122793040058442116",
+   "note": {
+    "en": "Nadella framed Microsoft's Ignite announcements as aimed at turning technological advances into concrete outcomes and new leverage for people and organizations.",
+    "zh": "纳德拉将微软Ignite大会上的发布定位为把技术进步转化为切实成果，为个人与组织创造新的发展空间。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T21:14:57Z",
+   "kind": "x",
+   "title": {
+    "en": "With Meta’s latest models coming to Foundry, we’re giving developers and enterprises even more choice and flexibility!",
+    "zh": "With Meta’s latest models coming to Foundry, we’re giving developers and enterprises even more choice and flexibility!"
+   },
+   "source": "@satyanadella",
+   "url": "https://x.com/satyanadella/status/2122800683867082960",
+   "note": {
+    "en": "Nadella announced that Meta's latest models are coming to Azure AI Foundry, expanding model choice for developers and enterprises.",
+    "zh": "纳德拉宣布Meta最新模型将上线Azure AI Foundry，为开发者和企业提供更多模型选择。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-10-28",
    "ts": "2026-10-28T17:08:18Z",
    "kind": "x",
@@ -1149,44 +1187,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-05-13",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Our new multi-model agentic security system brings together more than 100 specialized agents across frontier and custom models to find exploitable bugs, deliver",
-    "zh": "Our new multi-model agentic security system brings together more than 100 specialized agents across frontier and custom models to find exploitable bugs, deliver"
-   },
-   "source": "@satyanadella",
-   "url": "https://x.com/satyanadella/status/2054351354156794163",
-   "note": {
-    "en": "Nadella announced a new multi-model agentic security system combining over 100 specialized agents to find exploitable bugs, achieving top results on the CyberGym benchmark.",
-    "zh": "纳德拉宣布推出新的多模型智能体安全系统,集合逾100个专用智能体寻找可利用漏洞,并在CyberGym基准测试中取得领先成绩。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
-   "date": "2026-05-10",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Excel has quietly been Turing complete for a long time. Nice to see it now edging toward \"AI complete\"—SGD, attention, next-token prediction… all in cells.",
-    "zh": "Excel has quietly been Turing complete for a long time. Nice to see it now edging toward \"AI complete\"—SGD, attention, next-token prediction… all in cells."
-   },
-   "source": "@satyanadella",
-   "url": "https://x.com/satyanadella/status/2053334532666081624",
-   "note": {
-    "en": "Nadella observed that Excel has long been Turing complete and is now edging toward 'AI complete,' citing SGD, attention and next-token prediction running in cells.",
-    "zh": "纳德拉指出Excel长期以来一直是图灵完备的,如今正逐渐迈向\"AI完备\",称随机梯度下降、注意力机制、下一个词预测等都能在单元格中运行。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
    "date": "2026-01-21",
    "ts": null,
    "kind": "podcast",
@@ -1557,6 +1557,278 @@
    },
    "source": "StartupHub",
    "url": "https://www.startuphub.ai/ai-news/ai-figures/2026/figure-satya-nadella-venture-portfolio-breakdown-2026-08-13"
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T00:07:41Z",
+   "level": "notable",
+   "title": {
+    "en": "Satya Nadella says cheap code shifts software engineering to verification and control",
+    "zh": "Satya Nadella says cheap code shifts software engineering to verification and control"
+   },
+   "body": {
+    "en": "Nadella said cheap, AI-generated code is shifting software engineering's focus toward verification and control, a substantive stance on how AI is reshaping the profession.",
+    "zh": "纳德拉表示，低成本的AI生成代码正在把软件工程的重心转向验证与控制，这是他对AI如何重塑这一行业的一次实质性表态。"
+   },
+   "source": "news.lavx.hu",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZE1GMDhxYWJ2ZEVXX1ZXa2RPcGdlN1FkY0t6MkVrQWUyenFSNWw3bHNaYnJVdTVoMjhaR1RHc1d4TnBFd2FmbzcwazVnWXhpM1Y4Tk9obmtwVzZNV0R1UHVKWmFHdFI5YmN0a1Y3NWRKZU5SOGVjUVNGNE5mS2p5VGd4VGM2ZDgzeDh3a0RZTDZ3TVExNjNCRkxLUHV1YjdKSVc3VmZ1UVgxLS1iaWdEY0x2czY?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T06:23:12Z",
+   "level": "notable",
+   "title": {
+    "en": "'I wish I could say it'll all be the same. I cannot': Satya Nadella on Microsoft's voluntary exit offer",
+    "zh": "'I wish I could say it'll all be the same. I cannot': Satya Nadella on Microsoft's voluntary exit offer"
+   },
+   "body": {
+    "en": "Satya Nadella addressed Microsoft's voluntary exit offer directly, saying he cannot promise things will stay the same for employees who remain.",
+    "zh": "萨提亚·纳德拉就微软的自愿离职方案发表看法，表示他无法保证留下的员工一切都会保持原样。"
+   },
+   "source": "Moneycontrol.com",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObC1kaDdRcmlaYm9yZU5Wa0d2ZEN3VDdHZ0dRclpyUkV5Rk05X1BWY25UcTJMeW9aaDQ0dDloUVlQRnZ6VDBXN2FMT2ZYNmEzWUVTbTdUUXc1THVEdk1GSmM1aHkwWDluZzhIZzdkTVFqRGhCSDhFYVAwQldQVHVfMU1Kd0ZIcUswNlBiM2k4ajM3N3RVRE0ySG1aaV96N2FFSjFIelp0TlhhdkxyNmdXeVJoNllQaEVfNDF6bDlEMGZxQnhJZ1RobEZRWjRqa0lwZ1VmOVVibFJKd3lMeWNHMDVTWGVERFJSZ29VRNIB8gFBVV95cUxNak95VjF0T0s1cERBT0drN2dBZ0VmblhJdFJjQU9MdmNZWUU2ZVF4bXdrcWtMYTZKMjg2RVlrYnVnYkhFajN1RXdiSm4zNl9EMm1sM1gxb2JJQlYtWGVRcEZuNU1Vc05uSlJ3bVVSRlczblpwMkxaT192NTliTHl1ZDViQUxVNF9nM05aSFhBN19ELXBadkNvRUVOaUE2VmRTSEcteEF3VVU3d3AxdkdSVTdPczNuY09yTDFVMDdZVldLNlBBa2d3aGYtMU1HNmJ0V2xRanEzVGxjemtHT0FBMHM4SzhaNVhEb2Y5YXpRaWZqQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T08:16:03Z",
+   "level": "major",
+   "title": {
+    "en": "'Want to create new opportunities': Microsoft CEO Satya Nadella explains voluntary buyouts to 60,000 employees | World News",
+    "zh": "'Want to create new opportunities': Microsoft CEO Satya Nadella explains voluntary buyouts to 60,000 employees | World News"
+   },
+   "body": {
+    "en": "Satya Nadella explained Microsoft's voluntary buyout offer to 60,000 employees, a major workforce restructuring move.",
+    "zh": "萨提亚·纳德拉就微软向6万名员工提供自愿买断方案作出解释，这是一次重大的人员结构调整。"
+   },
+   "source": "Hindustan Times",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOeGFHQlI3ZUVzcy1udTUyWDlmcEVWMGlDNlFFM25sQW5BSkVLWENHSERQSnBZN05iajBKYXF2a3hVWHE5bTJZVEt4REtibjJqYWIzVUVxTzVSTlYyaEw3VGZBa2xKTWtCX1pqbjBJMlMyV2VaSk9zam5hbVRsLVVrYTJnUFB3U0JWTTZ4TTZ1SkpLdUxSVDJMNVNfN2dnVnYtX1Nmc3RzQ0s2dDRIZlVScy00RXFvZUd5STdHR0dxX0hNZGR4RWtSLWlmVTl4MGwxdFk0YlA5ek1DZU1WTDl2NHNueDVSbjdWaU1zaUFSano2NW1Mc2NyX1M0TGs1cnBxUmd5YWgzWWg5eXV40gGSAkFVX3lxTE5lQWtkTW1PdC04TndvczF1Ym96aXd1dF9mNklCVzRjOUtFV1g5RjFkU1k4T1FHVkFWcDdtQ0RfeDMtdGI2dHNzVEVva0U3dGZMRU45Mm5HRGhSTlZVM1NyS3BrNnJjTTVJVmdhRDJHaFJnYXhPVlRKWjdOTlZTZ1dHUXQ1OEpBdU9pdGIzamdyNml6dWZHTk4ySk0ydDFmRlpudlFwUUN1ZzNPR1UzZ3dpMTBvUTUyRzk0bHFCTENUM3FCNFVvVFBDNFd3WXpxdVo3QkpJV29MbFRJRFYtSzlIRkhzaGYyeFpkbDZ3anNmaEVvUFl2T0Nhbjc2QjZwLWVNUEpUVE5YQzRHVDhHdkhSR2c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T09:45:55Z",
+   "level": "notable",
+   "title": {
+    "en": "Satya Nadella Defends Microsoft’s Massive Voluntary Exit Offer, Citing Career Agency",
+    "zh": "Satya Nadella Defends Microsoft’s Massive Voluntary Exit Offer, Citing Career Agency"
+   },
+   "body": {
+    "en": "Nadella defended Microsoft's large voluntary-exit offer to employees, framing it as a matter of career agency.",
+    "zh": "纳德拉为微软大规模的员工自愿离职方案进行辩护，将其定位为员工职业自主权的体现。"
+   },
+   "source": "Pragativadi",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSUlnVTdtLXZaNklRR2hOOHNqbmZLcHVsUWRLTHhEYTBHRGhHRUNpZVd2dk1fZGg4UHByMmVxZlJaYVpIbFQwVlo1cEcyeGtON3dSaFYwWUpUM1hobFJHQ3k1c2tUMDI5cl9mS19Kb0tkT1BlZUxXc1htVlpGU3pHNUE2c2xJdWVuQVF0TEp3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T10:05:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Plenty Opportunities Going Forward: Microsoft CEO Satya Nadella Defends Voluntary Buyouts For 60,000 Staff",
+    "zh": "Plenty Opportunities Going Forward: Microsoft CEO Satya Nadella Defends Voluntary Buyouts For 60,000 Staff"
+   },
+   "body": {
+    "en": "Satya Nadella defended Microsoft's voluntary exit offer affecting 60,000 staff, saying there are still plenty of opportunities ahead.",
+    "zh": "萨提亚·纳德拉为微软涉及6万名员工的自愿离职计划进行辩护，称未来仍有大量机会。"
+   },
+   "source": "Free Press Journal",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVHpCa0steENFcmVVdGhUVzZDcFFBbDM5VzJab3ZrcWVoTzZZVmNfVXhzZ1RIdlBIWXJWYm5JQXBPUTJDdzdQdFVWX2FHMVRURjZ1bEFxWFBtd1VRMGVoZUxRWjJoMWV3N0hKYi15R1V5MmpfQWlDUks1OVRLTjNXdFdObWxleUdBVHhWVUJkRE9xeGZpNGdKamdfUk9LV1FSYzJONk5QdkVrMVJVNTlJdnEzYWFCSk9HY1p1dG1fUTN2aVA2SnhCSXdlLU5ZaEcyOURHS05ocWVQcWhMdFdNeHVaLTZERmFtaDB5U24zT0JCWmfSAfgBQVVfeXFMTUdRcTc0T2FIU3c1ZkpWbzFUZ2xXckQ1MW1LM1BfU190ZW13aHFfVmVTaXJGNUpHMjdfZVI4bkp5V3hVRFpqbVRkdjFKSGhkbFVSLWtRU2k1bklHWEpSdXUxX3M0UXlMZWNndDZFODlPUk1CTmJpVHFLWWdRM1BJb1paeUtoTDhlM0h1MXdsbEJ0blAxUWlOcHJRVTlmdzBWbHE3UkozOTZmUWJ3YmFod0p0NzVXRkNVR1AzT0ZrSHpMV3g4UjF1aXRlQ0FFbGpYbEFMaWpOMWxZT3o1MEZ2aWN0SXQyOG4xTzFpVmNKcDNMRU05WHoxdVU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T11:51:00Z",
+   "level": "major",
+   "title": {
+    "en": "After Microsoft offers buyouts to 60,000 employees, CEO Satya Nadella explains the decision; says: I wish",
+    "zh": "After Microsoft offers buyouts to 60,000 employees, CEO Satya Nadella explains the decision; says: I wish"
+   },
+   "body": {
+    "en": "Nadella explained Microsoft's decision to offer buyouts to 60,000 employees, a major workforce restructuring amid its AI pivot.",
+    "zh": "纳德拉解释了微软向6万名员工提供买断方案的决定，这是其AI转型过程中的一次重大人员结构调整。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNVW0wQ1k1dmt2aXd2U0xPRjUzRVlGeldYbXdqc2ZQb1FaNl9lWUZqblpyTUFwU1cxN3c0alNmTkRKM29tQWFRVnZVZ1pkNHYxV3l5b0lHMXg4QkFWaWJFclhrMTJKM2ktMlFwUEZZTllUSlg1TjdJT1BNcFRfa3BpbXV5bWxBcjMwRmpTY01QQVdLanYxTWRKSDZuM0tYeWRidUotTkw1c09pS2ROZWFzZzBsYmJxRmFhSWF5ZVY3NE50NmFVSUNnLVFBcjBwMDJZRnAxQmlRblhkQ2JVYWNtQmtEYTZVay13SmtfVFBRcmtkcTVGTk1rM1BVMWxFWWJCdG1ZRENBbGxnTm5PVzNQaC1qX3MxX1h5VXlpU2Nid0hIMWtBMDA5dVFnZ3pZM3BsbW5BTVhR0gG7AkFVX3lxTE44bzk4ZHlGT3Q1YWZKUFExRXprNVJ1V19KdXRmYzBnQTFDNWJtLTJnZDB0VHdub3N6M3ZtTDlRR2FEV1l4VUpibGhwa2pQN0RTaGljcmVKeUJ4UC1ySmVZRTctOTUyZmNpYnJ5ZUtZN0xqOVJib1lDTTMtUHV1R0I3d2ZtSWV6cVdJay1PSHY1enBnenZQNmtPZHAzSE5rZzhWaG5iQm0ydkVfajFPdFRPY0RlanB2TTU0RnRXemxKX2pnNkpKZWZJY1drT0JYTzhuQXpTTUdVZ0dWQUxncmJkOFhiZWF5TjVId2FJT0g3Qk1uVm1BbmJqa0oydEJSM0QxbHhwQkMwZ2pwdUFOYXI5WG9kanRWeGZ0alo3U2dVRnVWb2duTi04aTA4bTBGSm51SDEyQlZTMnpucw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T12:48:43Z",
+   "level": "notable",
+   "title": {
+    "en": "Satya Nadella explains why Microsoft is offering voluntary exits",
+    "zh": "Satya Nadella explains why Microsoft is offering voluntary exits"
+   },
+   "body": {
+    "en": "Nadella explained the reasoning behind Microsoft's voluntary-exit program for employees.",
+    "zh": "纳德拉解释了微软为员工提供自愿离职方案的原因。"
+   },
+   "source": "Indian Television Dot Com",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeWh3UUNBRG5JNzZsTlMxZEtMQ0pESkxxVktTb0h3SEo1MFFEZmo0bGszU0JiOW5MRFFfaDFWbmdQdUhmUVRPYmczOEZXX3QzU2VjX08wMHllT2lYbW9UeXpLcXNEam9XSEJJakt2SGUzdktRVG85eTFyVFMtMjg1UC1ta2FrV2NCcjg0cFRadFpSMnA3SW5xRVE5Q1NReGs?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T13:43:11Z",
+   "level": "major",
+   "title": {
+    "en": "Don't feel stuck: Satya Nadella reveals why Microsoft is asking 60,000 employees to leave voluntarily",
+    "zh": "Don't feel stuck: Satya Nadella reveals why Microsoft is asking 60,000 employees to leave voluntarily"
+   },
+   "body": {
+    "en": "Nadella explained Microsoft's decision to offer roughly 60,000 employees a voluntary buyout, a major workforce restructuring tied to the AI shift.",
+    "zh": "纳德拉解释了微软向约6万名员工提供自愿离职方案的决定，这是与AI转型相关的一次重大裁员重组。"
+   },
+   "source": "India Today",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNb2VLVW5fS2loYlFNZ05DSHhrZkRCZEJjU1UzVXZya3ZKVFlzemdSVFk5SDNpM05WVWtxdjRuaHRDQjh2Q09IN19FSi1IUVFFd2pic3FlZlg0WUZpUWZsRUFIZlpWUzUwODdFR052X21wWENDNEhtajZiRDNPYmVCSzFyMmVlV0MwazR5SjAyYWtBR2lSQmg1ZzBoTm84djdtZ2NvNkdoSkRySjcwRFlyeUl5REF1UjF5cmFNUWtWbFF2bkcwSm02S1QwcDA3ZENPa0Y0R3Jfc0V1YWVSMG5LNFdpUlNGOEc2UldySzNrTFdKRXBxYTQ1SVgya9IBgAJBVV95cUxQcHlDQ3ExYm1qc1BWaHBSa1ZGNDNiRGJBZmdhRElsZkdXVmNJXzB2aGxDaUEtZ2JiRUxGc21TTDRPUTBlNnJNSmlyTWV5X1NHT1ZCaklLbmc5STVVTU5DUkIzNkhwTmdXT2l1eGdvZGpBSmFvUzJtQktHNTZYRjBYeTRMZ0R4N0FMajVPNDFNV0RraXhQdWhfSlE2X1NrNlJ6NkljWXF5NE9MOUMxLWEySnJVdEQyN0R6eDJ1Slg2bzNtd3BqZTJWblJWVGpoQXQ0cjljR2V3YU0weUZWcmF1UU93YUJBY1QzcEtYTndhdWpkcDdsM3k0QnRrd3htdUIx?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T14:05:22Z",
+   "level": "notable",
+   "title": {
+    "en": "Satya Nadella On Microsoft's Big Buyout: 'Wish I Could Say It'll All Be The Same. I Cannot'",
+    "zh": "Satya Nadella On Microsoft's Big Buyout: 'Wish I Could Say It'll All Be The Same. I Cannot'"
+   },
+   "body": {
+    "en": "Nadella said Microsoft's major acquisition will bring real change, acknowledging he can't promise everything will stay the same.",
+    "zh": "纳德拉表示微软的这次重大收购将带来实质性改变，他承认无法保证一切都会维持原样。"
+   },
+   "source": "NDTV Profit",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQVVJajkwN01Vd25wdmljUTJaLXNFSy1IU08xci1nTmVvckFhcV90U2h3TEdWUFRmYjBvb3R1ZmRNZGNkZEdJd2RvTjhZakc1MmF5N2t4UUJSRG56NkdqU0JaT1VJdzd2RXU1dlkyVzM4QmkyaHc2VXVVNG91MXp4VnpVTnZ1anRqWGx3M09Ea1NxR05oWUJIZWZfaDJ0X0xzem9uTUFSY2cxYkpTcHlyMGZmR3lUVHpGY3c4Nl83YUVvcDZ2QVI3RGlDcXLSAdQBQVVfeXFMUGlpdjJNeEdDS1Z2Mk1Da1cxUnZWVktFaDlDY1l5YndyOUpGZFQxU0gwUjZocFhYUE5zc21FQm5FYWpIVm8zbW0xc29iSm1KWG9GelQtNFVBZk1aZGxzZDBmUmtTaURlVUtCYXlNYjU4em1BZy10T2JUYlVjTXB3QS1PUXJvdnplT3NhVTNoZ0xPaVlKLWJLWTlGem45a3NKMGc5Q3daWlpJeVpVckJCdmV3MDJ2VWNENmpNVVRQWlJEU1hLNnRfdFBsVGF4Z3RCUzJ4MUs?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T17:45:40Z",
+   "level": "notable",
+   "title": {
+    "en": "Microsoft Ignite 2026: Satya Nadella predicts rise of the ‘software factory’",
+    "zh": "Microsoft Ignite 2026: Satya Nadella predicts rise of the ‘software factory’"
+   },
+   "body": {
+    "en": "At Microsoft Ignite 2026, Nadella laid out his vision of the 'software factory,' describing how AI reshapes how software gets built and run.",
+    "zh": "在2026年微软Ignite大会上，纳德拉提出了\"软件工厂\"的愿景，阐述AI将如何重塑软件的构建与运行方式。"
+   },
+   "source": "Technology Record",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWZzT1pmRTAzNHFGa1pJQXdXQ01jYUdfNkRnR2xETUJUb0lsRWJndkV5dDhYTkRoSmtncXhDM1VNT09pQTdmaHpXbWd4TnFIclZZNEFBMTh1X3pDSzdmYWo5YTQ5S3VzaDQ0QWxQdnpPdjZpMndXanFRZ0h1Q2d4ZEQwblhLalV3WnJTWUpzWHh2aGJhb01ZTzZPUHl4eFo3ZzBoRGxXa0tGV2FCbHBUS1dEcUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T17:17:13Z",
+   "level": "major",
+   "title": {
+    "en": "'Plenty of opportunity, but...': Satya Nadella's warning to Microsoft employees as 60,000 get buyout option",
+    "zh": "'Plenty of opportunity, but...': Satya Nadella's warning to Microsoft employees as 60,000 get buyout option"
+   },
+   "body": {
+    "en": "Nadella warned Microsoft employees of a tougher environment even as the company offers a buyout to roughly 60,000 workers.",
+    "zh": "纳德拉向微软员工发出警告，称尽管公司向约6万名员工提供买断离职方案，但前路仍充满挑战。"
+   },
+   "source": "Livemint",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSnZ6elBvWlVxbURvQXRoZXd5VXo4bTJBZXBFUVBDcnNkTm5XbmxQdTg4ZXFTV0hBZjBJUWRrU2FnMFoyazJ3TFhLNWJUYU52R1pqbnFnTnpWNGtTSGQ2UVpSdHljV3JISlFiX21oSDdHZDU4M1lJX3N2QmRGU01wcGNheW5zNTdUbGRBWUZ1ZnlUUVR0aEtxSnladWVYSUx4WDhPVEQyZ2lKbVpTcHZJVkZ2ejdkQ0Nic1UzR2Q4VFNVR2dadGU2Zi1ydC1ISTZsN0xudG8zMlJ4c05TTmpYVEtkUTl0bkNsbi1kU0VXd3LSAfYBQVVfeXFMUHEzbGZFZ19sd0xZN09IM3k4Zmx0cjdnc19xVnJWci1PYW9uWnRLdTNsVGpVeGhjaFFMU1FZSFBLOC04MjJ0cXdHalhqNXNoSWhLbG5GT3F2WDJvcnNsTlVwckNEbDg4UjNjZDVlQUNaZEs1V2Y2eS00MGl0c01xbTRQeXVqN2pvVlhNZW8yQy1CcW01bUFwT3MzWUFCM1dlaV8xOTA0MTl0dU5SeS02OVcwWUtUVmpzYWN5dDRPYlZQU0RkZWFxNFlWYkNYckZucFZwS25vMFVUZHc4RWhuc0dWUzgzNGp5SUtlT2RtVVNzcTQtSEpB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T18:23:37Z",
+   "level": "notable",
+   "title": {
+    "en": "Satya Nadella kicks off Microsoft Ignite with an Outlook outage mea culpa: ‘We have work to do’",
+    "zh": "Satya Nadella kicks off Microsoft Ignite with an Outlook outage mea culpa: ‘We have work to do’"
+   },
+   "body": {
+    "en": "Nadella opened Microsoft Ignite by publicly apologizing for a recent Outlook outage, saying 'we have work to do.'",
+    "zh": "纳德拉在微软Ignite大会开场时公开为近期Outlook宕机事件致歉，表示“我们还有工作要做”。"
+   },
+   "source": "GeekWire",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSW8wQUlsNmpxcThFY1pIVkx3X3hRUWpMWXRyRjA1SlRxTFhzVnU2NUJxQlZLYk5FVzhiNmtJUGlNc2JUQ0RLQ3R2RWYxaGF3bWo0RjVzNEdXZEhsZTN3VFlxNEZyeUh5YzFTS2hZaS1kWnhPMmtKQ1pTSzNxZ2xCbjV0Zk5LVThSeTFiRHpWOUZwSDVuYkQzWVhZc085VjI3YkdlbVhHdnJtY0ZSa3ZMMTNIaE9QTDIzbUFCcUlUcHQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T19:58:00Z",
+   "level": "minor",
+   "title": {
+    "en": "Microsoft's Satya Nadella: Jensen Huang 'a singular person' but Nvidia must decide his fate",
+    "zh": "Microsoft's Satya Nadella: Jensen Huang 'a singular person' but Nvidia must decide his fate"
+   },
+   "body": {
+    "en": "Nadella called Huang 'a singular person' while saying it is NVIDIA's board, not Microsoft, that must decide his fate — a notable comment from one of NVIDIA's biggest customers.",
+    "zh": "纳德拉称黄仁勋是\"独一无二的人物\"，但表示黄的去留应由NVIDIA董事会决定——这是来自NVIDIA最大客户之一的一次值得关注的表态。"
+   },
+   "source": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM3hQcmp5dXFNdGJ0QXpoamFyLWp4RnlRMWpQbklaVkEybXE4b09XNG5HQ1VKSEtGMXYyaEZfTk1fYmZQR21JRGs1S1laSWZPLXVVWElwVVBrd3NteTREZUtFeTNvdzRWZ19ydjdtWW5zYXhwYnRZb3dPOW84VU5IdW9oSWpLVFFNeWE2TWRTb19IY1RjV2VxS1FxcTBKTm5HNDZ1NjVPQzZOMm5YYXR1UjlEQ0hvRC1sbEZDd2hNczRINU1uWmlDQi1XUkRGV0ZjWEZBVDQyaUVZM1NCMzlIekY1MXdwUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T19:58:45Z",
+   "level": "notable",
+   "title": {
+    "en": "Microsoft's Satya Nadella: Jensen Huang 'a singular…",
+    "zh": "Microsoft's Satya Nadella: Jensen Huang 'a singular…"
+   },
+   "body": {
+    "en": "Satya Nadella called Jensen Huang \"a singular\" leader, offering his own public read on NVIDIA's CEO as the industry watched the fallout.",
+    "zh": "萨提亚·纳德拉公开称黄仁勋是\"独一无二\"的领导者，对英伟达CEO风波发表了自己的看法。"
+   },
+   "source": "inkl",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTExxTmZSc2RXLXVhWWtTSGdmcVdndGFvRkVRTFBrd09rTHA0d1BwNE9NOFdvdGxEXzlIMTI5eWQzeU5SdTgxeU9wMTg2YXBUZHhJQU41aENCUk5LdkktQmdZUGRNZjIwSEFGSHJRM2cwTzR2YjNaeE9CTnBoNHFwLUtsUm9GcUZqU2F4V1FZTU5wZXZvcU9Yd2pZck9iZzZtazdZeWkyM0lkMmkyNGZPdk1lUVZXQWhxMWFlMk5qMzFNZDdDVVJ4c1N4YWs5REFzWHRvX3Y2MnZLd3c0NUE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T11:01:02Z",
+   "level": "notable",
+   "title": {
+    "en": "'I cannot say it'll all be the same': Satya Nadella on Microsoft's voluntary exit offer",
+    "zh": "'I cannot say it'll all be the same': Satya Nadella on Microsoft's voluntary exit offer"
+   },
+   "body": {
+    "en": "Nadella addressed Microsoft's voluntary buyout offer extended to more than 60,000 employees, acknowledging the company's workforce will look different going forward.",
+    "zh": "纳德拉就微软向超过6万名员工提供的自愿买断方案发表评论，承认公司未来的员工构成将不再相同。"
+   },
+   "source": "Storyboard18",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTjVxM2xSdnVuaTlKd0paam42dk1qbUZfSGxsaUU3bzVwSkNGazVDSUJzX1NfSmg4bUNyb0I1QXpFc2hzbHF6bHc3bGNRMnVtYmpWT0pYM25aY0tnTVpvTTBrRmVZYnctZUJ2blFzdDIxM09MYlVULXl2Zl9JQ18yS3VBak9qRU0wTVZmNE4wN01tamd6QUI0VUFuWkdoREQ4cTFaMkRaUEpOdkI3VlpsaHJ2c3ltYmNON3diclFUSk9meTFRTFhBc1ZFbE0wME4w0gHWAUFVX3lxTE00blBjUXNOUloyQ1hpV3Yyekc2Y3lRWHZjNWF4UFI1cEViZFk5WkMxcGVRckpXT1U5WE9IdDUwQkE0STlJOFU3THVGR215cEhOODVoS1ZrV3RzcjlKQjVFLTZReHR6NXh5ZTdDWUd3NngwOG1tS1FaNHIyOVVfV1BpZzB1d2V1TF96ZUpvSm9oMU9QMExPZUF0UHo3NUN0aFViVmwxQ1RpNDFKaU9BUERfeWdEZEljaVZmZ0NQeWFBenNHYUMxMjB6M0czbUFVSDhIVWRBS0E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-16",
+   "ts": "2026-11-16T22:10:28Z",
+   "level": "minor",
+   "title": {
+    "en": "‘AI-first product building is unforgiving’, says Satya Nadella",
+    "zh": "‘AI-first product building is unforgiving’, says Satya Nadella"
+   },
+   "body": {
+    "en": "Satya Nadella said building AI-first products is 'unforgiving,' underscoring the pressure facing Microsoft's AI strategy.",
+    "zh": "萨提亚·纳德拉表示，打造AI优先的产品\"不容有失\"，凸显微软AI战略面临的压力。"
+   },
+   "source": "The Next Web",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZE9vT0UyNm5CVUprMXc1S21xS0FlSE5MMEdGUl81bV9MVnZSaUl0U3RpbV84MTlOZnZZNjVSeV9iYnRpWHJKTURzZXJEd1lHaVl6U2xSMlRpbGxxMTUzbUEyNjZ2UFdfRGd4dDd0WngySm15bjVpdnJfdGFEQkc3RG1B?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-11-11",
@@ -4473,15 +4745,15 @@
  },
  "cat": "platform",
  "score": {
-  "total": 85.5,
+  "total": 86.0,
   "attention": 83,
   "centrality": 87,
-  "momentum": 88,
+  "momentum": 90,
   "stature": null,
   "pageviews": 828227,
   "citations": 231,
   "hIndex": 3,
-  "events": 173,
+  "events": 189,
   "posts": 75,
   "wikiEn": "Satya Nadella",
   "wikiZh": "薩蒂亞·納德拉"

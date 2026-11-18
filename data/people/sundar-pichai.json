@@ -149,6 +149,25 @@
    }
   },
   {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T17:20:41Z",
+   "kind": "x",
+   "title": {
+    "en": "Knowing things → doing things → finding ways to save you time and money We’re expanding Tasks in Gemini free of charge to hundreds of millions of people in six",
+    "zh": "Knowing things → doing things → finding ways to save you time and money We’re expanding Tasks in Gemini free of charge to hundreds of millions of people in six"
+   },
+   "source": "@sundarpichai",
+   "url": "https://x.com/sundarpichai/status/2122741728247738688",
+   "note": {
+    "en": "Pichai announced Gemini's Tasks feature is expanding free to hundreds of millions of users across six countries, powered by Gemini 4 Hydrogen.",
+    "zh": "皮查伊宣布Gemini的Tasks功能将免费扩展至六个国家的数亿用户，由Gemini 4 Hydrogen驱动。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-13",
    "ts": "2026-11-13T20:23:09Z",
    "kind": "x",
@@ -1137,25 +1156,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-06-10",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "DiffusionGemma is an open, experimental model that brings our text diffusion research to Gemma 4. It’s a racehorse 🏇achieving up to 4x faster inference by gener",
-    "zh": "DiffusionGemma is an open, experimental model that brings our text diffusion research to Gemma 4. It’s a racehorse 🏇achieving up to 4x faster inference by gener"
-   },
-   "source": "@sundarpichai",
-   "url": "https://x.com/sundarpichai/status/2064744343743922189",
-   "note": {
-    "en": "Pichai introduced DiffusionGemma, an experimental open model bringing text diffusion research to Gemma 4 for up to 4x faster inference.",
-    "zh": "皮查伊发布了DiffusionGemma,这是一款将文本扩散研究引入Gemma 4的实验性开放模型,推理速度最高提升4倍。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
    "date": "2026-05-26",
    "ts": null,
    "kind": "podcast",
@@ -1609,6 +1609,23 @@
    },
    "source": "The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcnhHbENNM0g3ZVpYcW9xczlBMkpXUzItNWp4WTF4QkJzbjZVbFA3dS04em91RU9EREsyN2ZTdVphSjZTYnFBdmM4YnF0dG5FaHNTNzNHYXJhWF9LM0pua1o3bl9zYjFqODQxU3Y4bzNRTnJYQnRaVkRJamV6NXRINFQ1VDd4Zl9JQmx5TkEwbTcwS2QxTkFWLQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-14",
+   "ts": "2026-11-14T10:53:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Sundar Pichai Reported Alphabet's Cloud Revenue Grew 103% Last Quarter While the Gemini App Reached 1 Billion Monthly Users. Is Google Cloud Becoming a Bigger Growth Driver Than Search?",
+    "zh": "Sundar Pichai Reported Alphabet's Cloud Revenue Grew 103% Last Quarter While the Gemini App Reached 1 Billion Monthly Users. Is Google Cloud Becoming a Bigger Growth Driver Than Search?"
+   },
+   "body": {
+    "en": "Pichai reported Alphabet's cloud revenue grew 103% last quarter and that the Gemini app passed 1 billion monthly users.",
+    "zh": "皮查伊宣布Alphabet云业务上季度营收增长103%，Gemini应用月活跃用户已突破10亿。"
+   },
+   "source": "AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaU5CLVZITXJDX0x5UHY0c0NEVFBaU01aNzAzYjg3Q0VNVGo5TlZlYnVKMFd3a0lWTXFTUTV4dThXQk5HaEhOaFo0YmRFbmFpRGtxeTJ4Wkp5VUFaVjdDZ3IwYWV6WTVQZWRlU2ZQV2VYZzRpdDVHdGZuN3ZrSENMVU9hRjdsYkR5S1E?oc=5",
    "auto": true,
    "judged": true
   },
@@ -3889,7 +3906,7 @@
   "pageviews": 1299595,
   "citations": 1,
   "hIndex": 1,
-  "events": 140,
+  "events": 141,
   "posts": 74,
   "wikiEn": "Sundar Pichai",
   "wikiZh": "孙达尔·皮柴"

@@ -198,6 +198,25 @@
    }
   },
   {
+   "date": "2026-11-16",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Stanford Seminar - Microsoft's Harry Shum on the Bing Dialog Model",
+    "zh": "Stanford Seminar - Microsoft's Harry Shum on the Bing Dialog Model"
+   },
+   "source": "Stanford Online: University Courses &…",
+   "url": "https://podcasts.apple.com/us/podcast/stanford-seminar-microsofts-harry-shum-on-the-bing/id6823110045?i=1000802352104&uo=4",
+   "note": {
+    "en": "Archival Stanford seminar talk by Harry Shum on Microsoft's Bing Dialog Model, covering intent, knowledge and interaction design.",
+    "zh": "沈向洋在斯坦福研讨会上关于微软Bing对话模型的演讲存档，内容涉及意图理解、知识与交互设计。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-02-11",
    "ts": null,
    "kind": "x",
@@ -809,7 +828,7 @@
   "citations": 1500,
   "hIndex": 10,
   "events": 6,
-  "posts": 27,
+  "posts": 28,
   "wikiEn": "Harry Shum",
   "wikiZh": "沈向洋"
  },

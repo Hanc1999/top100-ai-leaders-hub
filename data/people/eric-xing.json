@@ -169,6 +169,25 @@
    }
   },
   {
+   "date": "2026-11-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
+    "zh": "K2-Horizon: A Frontier Fleet of Open Source Language Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.21003v1",
+   "note": {
+    "en": "Eric Xing co-authored K2-Horizon, a fleet of six fully open language models from 0.9B to a 375B-parameter MoE for agentic and scientific reasoning.",
+    "zh": "邢波合著了K2-Horizon，这是一套从9亿到3750亿参数MoE的六款全开源语言模型，面向智能体与科学推理任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-11-10",
    "ts": "2026-11-10T19:52:52Z",
    "kind": "x",
@@ -1701,25 +1720,6 @@
    "note": {
     "en": "Uses in-context learning in large tabular models to handle streaming continual learning, bridging concept drift adaptation and catastrophic forgetting.",
     "zh": "利用大型表格模型的上下文内学习处理流式持续学习，将概念漂移适应与灾难性遗忘两类问题连接起来。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2025-12-11",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Beyond the Black Box: Identifiable Interpretation and Control in Generative Models via Causal Minimality",
-    "zh": "Beyond the Black Box: Identifiable Interpretation and Control in Generative Models via Causal Minimality"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2512.10720v2",
-   "note": {
-    "en": "With Kun Zhang's causality group, shows that causal minimality yields identifiable and controllable interpretations of generative models.",
-    "zh": "与张坤的因果推断团队合作，论证因果最小性可为生成模型带来可识别、可控制的解释。"
    },
    "auto": true,
    "judged": true,

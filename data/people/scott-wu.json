@@ -126,6 +126,25 @@
    }
   },
   {
+   "date": "2026-11-18",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "🤠 LIVE from TomorrowX Day 2 | Jon Gray, Scott DeBoer, Jed Finn, Scott Wu, Travis Kalanick",
+    "zh": "🤠 LIVE from TomorrowX Day 2 | Jon Gray, Scott DeBoer, Jed Finn, Scott Wu, Travis Kalanick"
+   },
+   "source": "TBPN",
+   "url": "https://podcasts.apple.com/us/podcast/live-from-tomorrowx-day-2-jon-gray-scott-deboer-jed/id1772360235?i=1000802761240&uo=4",
+   "note": {
+    "en": "Scott Wu joined a live multi-guest panel at TomorrowX discussing AI infrastructure and compute demand.",
+    "zh": "Scott Wu参加了TomorrowX现场多嘉宾对谈节目，讨论AI基础设施与算力需求。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-11-17",
    "ts": "2026-11-17T19:39:22Z",
    "kind": "x",
@@ -1006,16 +1025,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 52.7,
+  "total": 52.9,
   "attention": 56,
   "centrality": 63,
-  "momentum": 35,
+  "momentum": 36,
   "stature": null,
   "pageviews": 107682,
   "citations": 243,
   "hIndex": 6,
   "events": 8,
-  "posts": 40,
+  "posts": 41,
   "wikiEn": "Scott Wu",
   "wikiZh": null
  },

@@ -1,5 +1,5 @@
 {
- "rank": 77,
+ "rank": 78,
  "id": "jitendra-malik",
  "name": {
   "en": "Jitendra Malik",
@@ -181,6 +181,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-11-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DreamFAR: Real-Time and Long-Horizon Interaction with Diverse Objects",
+    "zh": "DreamFAR: Real-Time and Long-Horizon Interaction with Diverse Objects"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.22001v1",
+   "note": {
+    "en": "Malik co-authors DreamFAR, a world-model approach for real-time, long-horizon robot interaction with diverse objects.",
+    "zh": "马利克合著论文DreamFAR，提出了一种让机器人与多样物体进行实时长时程交互的世界模型方法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-11-14",
@@ -1967,7 +1986,7 @@
   "citations": 168758,
   "hIndex": 144,
   "events": 0,
-  "posts": 95,
+  "posts": 96,
   "wikiEn": "Jitendra Malik",
   "wikiZh": "希特德拉·馬利克"
  },

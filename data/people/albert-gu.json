@@ -1,5 +1,5 @@
 {
- "rank": 85,
+ "rank": 86,
  "id": "albert-gu",
  "name": {
   "en": "Albert Gu",
@@ -161,6 +161,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-11-18",
+   "ts": "2026-11-18T20:00:37Z",
+   "kind": "x",
+   "title": {
+    "en": "glad to see independent reproductions of 2D H-Net from our blog post so fast!",
+    "zh": "glad to see independent reproductions of 2D H-Net from our blog post so fast!"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2123144364100911286",
+   "note": {
+    "en": "Gu noted that independent reproductions of the 2D H-Net architecture from his and Cartesia's blog post appeared within days of publication.",
+    "zh": "Gu提到，他和Cartesia博客文章中介绍的2D H-Net架构，发布几天内就出现了独立复现版本。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
   },
   {
    "date": "2026-11-07",
@@ -1577,16 +1596,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 26.6,
+  "total": 26.1,
   "attention": null,
   "centrality": 30,
-  "momentum": 22,
+  "momentum": 21,
   "stature": null,
   "pageviews": 0,
   "citations": 2983,
   "hIndex": 21,
   "events": 0,
-  "posts": 75,
+  "posts": 76,
   "wikiEn": null,
   "wikiZh": null
  },

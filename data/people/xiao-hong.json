@@ -943,6 +943,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-01",
+   "ts": "2026-09-01T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Manus宣布正式恢复独立运营，创始人肖弘及团队留任",
+    "zh": "Manus宣布正式恢复独立运营，创始人肖弘及团队留任"
+   },
+   "body": {
+    "en": "Manus announced it has resumed fully independent operations, with founder Xiao Hong and the team staying on.",
+    "zh": "Manus宣布正式恢复独立运营，创始人肖弘及团队留任。"
+   },
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tRkVIblJRd0JGZ2dNX29oeDF1a0NPampEVjZvTURfRDRMaHY4OGxxLXdaMkZpeTl0MTFvWGwwc29zdzVtTmlYemFhU1Y5RFp3UkV0R0ln?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-08-27",
    "ts": null,
    "level": "notable",
@@ -1249,6 +1266,23 @@
    "judged": true
   },
   {
+   "date": "2026-01-08",
+   "ts": "2026-01-08T08:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Meta收购Manus AI公司，创始人肖弘曾为2013年比特币媒体实习生",
+    "zh": "Meta收购Manus AI公司，创始人肖弘曾为2013年比特币媒体实习生"
+   },
+   "body": {
+    "en": "Meta acquired Manus AI in a deal reportedly worth over $2 billion; founder Xiao Hong will join Meta reporting to COO Javier Olivan, a major change in his role and the company's ownership.",
+    "zh": "Meta以逾20亿美元收购Manus AI，创始人肖弘将加入Meta并向首席运营官Javier Olivan汇报，这是他角色及公司归属的一次重大变化。"
+   },
+   "source": "虎嗅",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92a0NWSEdaeW1VeUhhdU5mWkM1ZkZrOGhCTDdqenU2SFVGcXY3VmxBbmJWWmdDV3VSYlN5SUFPQW5TUTJmWHJsNGRXRjFDelBEWFQtMA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-01-02",
    "ts": null,
    "level": "major",
@@ -1273,15 +1307,15 @@
  },
  "cat": "product",
  "score": {
-  "total": 66.7,
+  "total": 66.9,
   "attention": 74,
   "centrality": 52,
-  "momentum": 70,
+  "momentum": 71,
   "stature": 64,
   "pageviews": 422825,
   "citations": 60154,
   "hIndex": 121,
-  "events": 61,
+  "events": 63,
   "posts": 5,
   "wikiEn": "Manus (AI agent)",
   "wikiZh": "Manus"

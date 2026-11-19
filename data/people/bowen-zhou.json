@@ -1,5 +1,5 @@
 {
- "rank": 79,
+ "rank": 80,
  "id": "bowen-zhou",
  "name": {
   "en": "Bowen Zhou",
@@ -209,6 +209,25 @@
     "en": "The 'specializable generalist' thesis: a feasible path to AGI.",
     "zh": "「可专业化的通才」论点：一条通向 AGI 的可行路径。"
    }
+  },
+  {
+   "date": "2026-11-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Sage S2.1 Flash Technical Report",
+    "zh": "Sage S2.1 Flash Technical Report"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.21072v2",
+   "note": {
+    "en": "Zhou is senior/corresponding author on the Sage S2.1 Flash technical report, a 320B-parameter mixture-of-experts model for scientific reasoning and agentic tasks, built with a large consortium of Chinese NLP labs.",
+    "zh": "周伯文是Sage S2.1 Flash技术报告的高级/通讯作者之一,该模型是一个3200亿参数的混合专家模型,面向科学推理与智能体任务,由多家中国自然语言处理实验室联合完成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-11-12",
@@ -1021,25 +1040,6 @@
    "note": {
     "en": "Less is More, an efficient model-merging method using binary task switches, from his Shanghai AI Laboratory-affiliated group.",
     "zh": "Less is More，其上海AI实验室关联团队提出的高效模型融合方法，采用二值任务开关。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-06-05",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Guest Editorial: Introduction to the Special Section on Large-Scale Multimodal Learning: Universality, Robustness, Efficiency, and Beyond",
-    "zh": "Guest Editorial: Introduction to the Special Section on Large-Scale Multimodal Learning: Universality, Robustness, Efficiency, and Beyond"
-   },
-   "source": "IEEE Transactions on Pattern Analysis…",
-   "url": "https://doi.org/10.1109/tpami.2025.3562938",
-   "note": {
-    "en": "Guest editorial he co-wrote introducing an IEEE TPAMI special section on large-scale multimodal learning.",
-    "zh": "他参与撰写的IEEE TPAMI特刊客座编辑导言，主题为大规模多模态学习。"
    },
    "auto": true,
    "judged": true,

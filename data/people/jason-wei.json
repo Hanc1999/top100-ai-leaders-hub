@@ -1,5 +1,5 @@
 {
- "rank": 87,
+ "rank": 67,
  "id": "jason-wei",
  "name": {
   "en": "Jason Wei",
@@ -174,6 +174,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T22:57:57Z",
+   "kind": "x",
+   "title": {
+    "en": "After an amazing year at Meta’s TBD lab, I am very excited to join Mercor as Chief Scientist. Data will shape the next frontier as more companies train AI model",
+    "zh": "After an amazing year at Meta’s TBD lab, I am very excited to join Mercor as Chief Scientist. Data will shape the next frontier as more companies train AI model"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/2122826605362127094",
+   "note": {
+    "en": "Jason Wei announced he is leaving Meta's TBD Lab to join Mercor as Chief Scientist.",
+    "zh": "Jason Wei宣布离开Meta的TBD Lab，加入Mercor担任首席科学家。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
   },
   {
    "date": "2026-11-14",
@@ -1316,25 +1335,6 @@
    "connector": "x"
   },
   {
-   "date": "2025-02-10",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Made this plot for an upcoming talk---crazy how quickly benchmarks get saturated these days. Looking forward to seeing how things play out for Humanity's Last E",
-    "zh": "Made this plot for an upcoming talk---crazy how quickly benchmarks get saturated these days. Looking forward to seeing how things play out for Humanity's Last E"
-   },
-   "source": "@_jasonwei",
-   "url": "https://x.com/_jasonwei/status/1889096555254456397",
-   "note": {
-    "en": "Wei shares a chart made for an upcoming talk showing how quickly AI benchmarks get saturated, and looks ahead to Humanity's Last Exam.",
-    "zh": "Wei分享一张为演讲准备的图表,展示AI基准测试被迅速刷满的速度,并展望\"人类终极考试\"基准。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
    "date": "2025-01-22",
    "ts": null,
    "kind": "blog",
@@ -1919,6 +1919,74 @@
    },
    "source": "TechTimes",
    "url": "https://www.techtimes.com/articles/311364/20250716/meta-hires-jason-wei-hyung-won-chung-openai-boost-superintelligence-research.htm"
+  },
+  {
+   "date": "2026-11-18",
+   "ts": "2026-11-18T04:02:37Z",
+   "level": "major",
+   "title": {
+    "en": "Chain-of-Thought Paper First Author Jason Wei Leaves Meta: Why Did He Quit After Only 1 Year?",
+    "zh": "Chain-of-Thought Paper First Author Jason Wei Leaves Meta: Why Did He Quit After Only 1 Year?"
+   },
+   "body": {
+    "en": "Jason Wei, first author of the chain-of-thought paper, is reported to have left Meta Superintelligence Labs after only about a year there.",
+    "zh": "思维链论文第一作者Jason Wei据报道在加入Meta超级智能实验室仅一年后便离职。"
+   },
+   "source": "eu.36kr.com",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VUU8tcHl1cE91TVN6d0Y5Ql94MVNjaTZ1X0VMcThETi1jTWdlVTB1Qk9RdTM3XzRpellIZEZab1M1Y3M4R1EwWEhyOFhzYWJCOFJ3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-18",
+   "ts": "2026-11-18T03:46:00Z",
+   "level": "major",
+   "title": {
+    "en": "Mercor Names Jason Wei Chief Scientist to Expand AI Research",
+    "zh": "Mercor Names Jason Wei Chief Scientist to Expand AI Research"
+   },
+   "body": {
+    "en": "Wei left Meta's TBD lab to become chief scientist at Mercor, leading training-data and model-evaluation research after the startup's $750M round at a $20B valuation.",
+    "zh": "Wei离开Meta的TBD实验室，加入Mercor担任首席科学家，在该公司完成7.5亿美元融资（估值200亿美元）后负责训练数据与模型评测研究。"
+   },
+   "source": "TOKENPOST",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBbzU1RnV5Y1hRWEh2OUt1Z0Z4T2VnbVRmYUpJQnVjQ2JlVHJkVVBKSlRyRkxiaHducUxVcTJGVUt6ZTdHS0pPZjNIWlZKSGFWX3BkaWJR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-18",
+   "ts": "2026-11-18T09:12:46Z",
+   "level": "major",
+   "title": {
+    "en": "Chain-of-Thought Father Jason Wei Exits Meta to Join $20 Billion Valued AI Unicorn",
+    "zh": "Chain-of-Thought Father Jason Wei Exits Meta to Join $20 Billion Valued AI Unicorn"
+   },
+   "body": {
+    "en": "Jason Wei, known for chain-of-thought prompting, left Meta Superintelligence Labs after about a year to become chief scientist at Mercor, the $20 billion AI data/evaluation startup.",
+    "zh": "以提出思维链提示著称的Jason Wei在Meta超级智能实验室工作约一年后离职，加入估值200亿美元的AI数据与评测初创公司Mercor，担任首席科学家。"
+   },
+   "source": "eu.36kr.com",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBua1VEQnQ3VGh2NmhxdFVibVZzOE9WRGhlX2QyUGdpUHpRcWRFS1FQRS1fdUE0aGJXaTZBWHJJZjFWVG9wejVDYzFlaHhFcjMwZFBz?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-18",
+   "ts": "2026-11-18T13:26:00Z",
+   "level": "major",
+   "title": {
+    "en": "'Father of Chain-of-Thought' Jason Wei Departs, Meta's Sky-High Poaching Fails to Break the 'One-Year Curse'",
+    "zh": "'Father of Chain-of-Thought' Jason Wei Departs, Meta's Sky-High Poaching Fails to Break the 'One-Year Curse'"
+   },
+   "body": {
+    "en": "Jason Wei is reported to be leaving Meta Superintelligence Labs roughly a year after joining from OpenAI.",
+    "zh": "据报道，Jason Wei在从OpenAI加入Meta超级智能实验室约一年后即将离职。"
+   },
+   "source": "BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uTE1raUFEazVWWkFkODdaeUVWWHBwTnM1T1Q4ZDg1Z1VHbDNHdS13Wl9KeE5NcFZFcEg3RlVSdkUxcElIdGg4UlRkeHJEd1VMTno1Z3BpRDg1Tk1rdXlqaS1ZSy1xMTRxVm9uejdVTkxYa05kMnc?oc=5",
+   "auto": true,
+   "judged": true
   }
  ],
  "changed": true,
@@ -1928,19 +1996,19 @@
  },
  "cat": "lab",
  "score": {
-  "total": 26.0,
+  "total": 33.4,
   "attention": null,
   "centrality": 34,
-  "momentum": 16,
+  "momentum": 32,
   "stature": null,
   "pageviews": 0,
   "citations": 4944,
   "hIndex": 19,
-  "events": 1,
+  "events": 5,
   "posts": 92,
   "wikiEn": null,
   "wikiZh": null
  },
  "seedRank": 90,
- "tier": "t5"
+ "tier": "t4"
 }

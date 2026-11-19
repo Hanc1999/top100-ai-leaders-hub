@@ -1,5 +1,5 @@
 {
- "rank": 70,
+ "rank": 73,
  "id": "chelsea-finn",
  "name": {
   "en": "Chelsea Finn",
@@ -175,6 +175,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-11-16",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "ALOHA Lightning: Learning Fast and Precise Manipulation",
+    "zh": "ALOHA Lightning: Learning Fast and Precise Manipulation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.21919v1",
+   "note": {
+    "en": "Finn co-authored ALOHA Lightning, a bimanual manipulation system that learns from as few as 50 demonstrations to reach near-human execution speed on tasks like folding clothes and tossing balls.",
+    "zh": "Finn合著了ALOHA Lightning,这是一套双臂机器人操作系统,仅需约50次示范即可学习,在叠衣服、抛接球等任务上达到接近人类的执行速度。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-11-12",
@@ -1186,25 +1205,6 @@
   {
    "date": "2026-03-30",
    "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Meta-Harness: End-to-End Optimization of Model Harnesses",
-    "zh": "Meta-Harness: End-to-End Optimization of Model Harnesses"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2603.28052v1",
-   "note": {
-    "en": "Optimises the harness around a language model — what it stores, retrieves and shows the model — end to end, rather than tuning weights.",
-    "zh": "端到端地优化语言模型外围的执行框架——它存储、检索并呈现给模型的内容——而非调整模型权重。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-03-30",
-   "ts": null,
    "kind": "x",
    "title": {
     "en": "Agents like Claude Code do amazing things relying critically on hand-engineered harnesses We show how agents can optimize the harness w.r.t. end performance Key",
@@ -1970,10 +1970,10 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 32.0,
+  "total": 31.7,
   "attention": 22,
   "centrality": 39,
-  "momentum": 39,
+  "momentum": 38,
   "stature": 39,
   "pageviews": 14192,
   "citations": 26696,
@@ -1984,5 +1984,5 @@
   "wikiZh": null
  },
  "seedRank": 79,
- "tier": "t4"
+ "tier": "t5"
 }

@@ -223,6 +223,44 @@
    }
   },
   {
+   "date": "2026-11-18",
+   "ts": "2026-11-18T19:05:57Z",
+   "kind": "x",
+   "title": {
+    "en": "Genie 4 is available! Looks like it is turtles all the way down then… Eligible Ultra subs can try it in Project Genie - excited to see what you’ll build with it",
+    "zh": "Genie 4 is available! Looks like it is turtles all the way down then… Eligible Ultra subs can try it in Project Genie - excited to see what you’ll build with it"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2123130606162985350",
+   "note": {
+    "en": "Hassabis announced the release of Genie 4, DeepMind's world model, now available to Google AI Ultra subscribers via Project Genie.",
+    "zh": "Hassabis宣布DeepMind的世界模型Genie 4正式发布，Google AI Ultra订阅用户可通过Project Genie体验。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-18",
+   "ts": "2026-11-18T21:35:24Z",
+   "kind": "x",
+   "title": {
+    "en": "Excited to launch Gemini 4 Neon: frontier-level intelligence, super fast task completion, and available to Pro &amp; Ultra users now!! We think you’ll enjoy thi",
+    "zh": "Excited to launch Gemini 4 Neon: frontier-level intelligence, super fast task completion, and available to Pro &amp; Ultra users now!! We think you’ll enjoy thi"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2123168218743554465",
+   "note": {
+    "en": "Hassabis announced the launch of Gemini 4 Neon, pitched as frontier-level and fast, now rolling out to Pro and Ultra subscribers.",
+    "zh": "Hassabis宣布推出Gemini 4 Neon,称其具备前沿级智能和极快的任务完成速度,现已向Pro和Ultra用户开放。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-17",
    "ts": "2026-11-17T12:06:19Z",
    "kind": "x",
@@ -1496,44 +1534,6 @@
    "connector": "x"
   },
   {
-   "date": "2025-07-30",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Introducing AlphaEarth Foundations an AI model that integrates petabytes of satellite data into a single digital representation of Earth. It'll give scientists",
-    "zh": "Introducing AlphaEarth Foundations an AI model that integrates petabytes of satellite data into a single digital representation of Earth. It'll give scientists"
-   },
-   "source": "@demishassabis",
-   "url": "https://x.com/demishassabis/status/1950667643771326784",
-   "note": {
-    "en": "Introduced AlphaEarth Foundations, a model that fuses petabytes of satellite data into a single digital representation of Earth.",
-    "zh": "推出AlphaEarth Foundations,该模型将海量卫星数据整合为地球的统一数字表征。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
-   "date": "2025-07-25",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "You know what's cool... a quadrillion tokens. We processed almost 1,000,000,000,000,000 tokens last month, more than double the amount from May. 📈",
-    "zh": "You know what's cool... a quadrillion tokens. We processed almost 1,000,000,000,000,000 tokens last month, more than double the amount from May. 📈"
-   },
-   "source": "@demishassabis",
-   "url": "https://x.com/demishassabis/status/1948579654790774931",
-   "note": {
-    "en": "Reported Google processed nearly a quadrillion tokens in a month, more than double May's volume.",
-    "zh": "报告称Google一个月内处理了近一千万亿个token,是5月份的两倍多。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
    "date": "2025-07-23",
    "ts": null,
    "kind": "podcast",
@@ -2189,6 +2189,23 @@
    },
    "source": "Fortune",
    "url": "https://fortune.com/2026/08/10/how-stalled-models-missed-deadlines-and-staff-burnout-lead-to-the-unraveling-of-googles-deepmind/"
+  },
+  {
+   "date": "2026-11-18",
+   "ts": "2026-11-18T09:13:48Z",
+   "level": "major",
+   "title": {
+    "en": "Demis Hassabis Raises $5 Billion in His Quest to Solve All Disease",
+    "zh": "Demis Hassabis Raises $5 Billion in His Quest to Solve All Disease"
+   },
+   "body": {
+    "en": "Isomorphic Labs, the AI drug-discovery company Hassabis leads as CEO, raised a $5 billion Series C led by Sequoia and Greenoaks, pushing its valuation to roughly $50 billion just months after he stepped back as Google DeepMind CEO.",
+    "zh": "Hassabis担任CEO的AI药物发现公司Isomorphic Labs完成50亿美元C轮融资，由红杉和Greenoaks领投，估值约500亿美元——这距他卸任Google DeepMind CEO仅几个月。"
+   },
+   "source": "AIM Media House",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUWp3UU1NMVp4bEtabUY1S3UybThuN1M3SVZ1by1iU3pTbzBpUzNMTUV3YVlvYlF2MUktVGVLUFRxa0wwMVQzSkdMMGhJZ3lTM21iQ09uZlhRWFRrSWEwaW1XWHB2dTQxOWxLc3VSa3BneDJBWHZwcGdXS0V6LXBzVDZleTh0cDJLQ1JZc3QzQlVsUWFpNGhNa2pCaGJWYmc?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-11-17",
@@ -3209,7 +3226,7 @@
   "pageviews": 1121478,
   "citations": 195503,
   "hIndex": 92,
-  "events": 61,
+  "events": 62,
   "posts": 106,
   "wikiEn": "Demis Hassabis",
   "wikiZh": "杰米斯·哈萨比斯"

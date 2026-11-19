@@ -1,5 +1,5 @@
 {
- "rank": 55,
+ "rank": 56,
  "id": "mark-chen",
  "name": {
   "en": "Mark Chen",
@@ -1060,6 +1060,23 @@
    "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"
   },
   {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T18:08:00Z",
+   "level": "notable",
+   "title": {
+    "en": "OpenAI's Mark Chen: AI Is 80% of the Way to AGI but Only 25-50% Toward Building Itself",
+    "zh": "OpenAI's Mark Chen: AI Is 80% of the Way to AGI but Only 25-50% Toward Building Itself"
+   },
+   "body": {
+    "en": "Mark Chen said AI is about 80% of the way to AGI but only 25-50% of the way to being able to build itself, a specific stance on timelines.",
+    "zh": "Mark Chen表示AI实现AGI的进度已达80%，但在AI自我构建能力上仅完成25%-50%，这是他对时间线的具体判断。"
+   },
+   "source": "BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02UXVFbG5DeXBHSmlNZE50aUl2R1lib0p0dnFRZkhZclFKakRQQlpjLWczRVVOTVZIcGRGZHF5MU1UNTJUZm5fWWo1VTMxSkw5VmlPTU9hNGNMSDg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-08-27",
    "ts": null,
    "level": "notable",
@@ -1084,15 +1101,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 43.1,
+  "total": 42.9,
   "attention": 28,
   "centrality": 87,
-  "momentum": 17,
+  "momentum": 16,
   "stature": 51,
   "pageviews": 30671,
   "citations": 38393,
   "hIndex": 64,
-  "events": 2,
+  "events": 3,
   "posts": 48,
   "wikiEn": "Mark Chen",
   "wikiZh": "陳唐山"

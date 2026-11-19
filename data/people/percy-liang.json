@@ -209,6 +209,44 @@
    }
   },
   {
+   "date": "2026-11-18",
+   "ts": "2026-11-18T01:55:46Z",
+   "kind": "x",
+   "title": {
+    "en": "Marin 535B-A23B checkpoints...go get 'em!",
+    "zh": "Marin 535B-A23B checkpoints...go get 'em!"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2122871353690992824",
+   "note": {
+    "en": "Liang announced the release of checkpoints for the Marin 535B-A23B model.",
+    "zh": "Percy Liang宣布发布Marin 535B-A23B模型的检查点（checkpoints）。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-18",
+   "ts": "2026-11-18T15:35:49Z",
+   "kind": "x",
+   "title": {
+    "en": "1) Companies have an insane amount of information on you. 2) An AI that has this insane amount of information can feel like magic. We are heading into a world w",
+    "zh": "1) Companies have an insane amount of information on you. 2) An AI that has this insane amount of information can feel like magic. We are heading into a world w"
+   },
+   "source": "@percyliang",
+   "url": "https://x.com/percyliang/status/2123077727519674505",
+   "note": {
+    "en": "Percy Liang argued that AI systems combined with companies' vast troves of personal data can feel like magic, and that users should get a say in how that data-driven power is used.",
+    "zh": "Percy Liang 提出，公司掌握的海量个人数据与AI结合会产生类似“魔法”的体验，而用户应当对这种数据驱动能力的使用方式拥有选择权。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-10",
    "ts": "2026-11-10T06:04:23Z",
    "kind": "x",
@@ -1727,44 +1765,6 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
-  },
-  {
-   "date": "2025-11-11",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "How are OpenAI, Scale, NVIDIA, Softbank, Disney, Google, AMD, Coreweave dependent on each other? Our new AI supply chains tracks and visualizes the relationship",
-    "zh": "How are OpenAI, Scale, NVIDIA, Softbank, Disney, Google, AMD, Coreweave dependent on each other? Our new AI supply chains tracks and visualizes the relationship"
-   },
-   "source": "@percyliang",
-   "url": "https://x.com/percyliang/status/1988279964027023655",
-   "note": {
-    "en": "Liang announced a new CRFM tool that tracks and visualizes the dependencies among major AI companies such as OpenAI, NVIDIA and Google.",
-    "zh": "Liang宣布CRFM推出一款新工具,用于追踪并可视化OpenAI、英伟达、谷歌等主要AI公司之间的依赖关系。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
-   "date": "2025-10-29",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "⛵Marin 32B Base (mantis) is done training! It is the best open-source base model (beating OLMo 2 32B Base) and it’s even close to the best comparably-sized open",
-    "zh": "⛵Marin 32B Base (mantis) is done training! It is the best open-source base model (beating OLMo 2 32B Base) and it’s even close to the best comparably-sized open"
-   },
-   "source": "@percyliang",
-   "url": "https://x.com/percyliang/status/1983561556127567911",
-   "note": {
-    "en": "Liang announced that Marin 32B Base finished training and became the best fully open-source base model, close to top open-weight models like Gemma 3 27B.",
-    "zh": "Liang宣布Marin 32B Base完成训练,成为最佳完全开源基础模型,性能接近Gemma 3 27B等顶尖开放权重模型。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
   },
   {
    "date": "2025-10-28",

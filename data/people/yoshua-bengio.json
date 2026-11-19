@@ -245,6 +245,25 @@
    "connector": null
   },
   {
+   "date": "2026-10-22",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Extended generalization and improved safety with the System‐2 features of the Scientist AI",
+    "zh": "Extended generalization and improved safety with the System‐2 features of the Scientist AI"
+   },
+   "source": "AI Magazine",
+   "url": "https://doi.org/10.1002/aaai.70117",
+   "note": {
+    "en": "Bengio details how the System-2 features of his 'Scientist AI' design extend generalization and improve safety, the technical core of his LawZero project.",
+    "zh": "Bengio详细阐述了他设计的\"Scientist AI\"中System-2特性如何扩展泛化能力并提升安全性，这是其LawZero项目的技术核心。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-10-21",
    "ts": "2026-10-21T13:27:40Z",
    "kind": "x",
@@ -433,6 +452,25 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2026-10-09",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "AI Ethics and Governance",
+    "zh": "AI Ethics and Governance"
+   },
+   "source": "Springer eBooks",
+   "url": "https://doi.org/10.1007/978-981-92-1261-3_2",
+   "note": {
+    "en": "Bengio co-authors a book chapter on AI ethics and governance frameworks with Chinese and Western scholars, addressing oversight of advanced AI.",
+    "zh": "Bengio与中西方学者合著一篇关于AI伦理与治理框架的书籍章节，探讨对先进AI的监督问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2026-10-08",
@@ -1720,25 +1758,6 @@
    "note": {
     "en": "Learns the order in which masked diffusion models should unmask tokens, rather than fixing it in advance.",
     "zh": "让掩码扩散模型学习解掩码的顺序，而不是预先固定该顺序。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-05-19",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Generative Recursive Reasoning",
-    "zh": "Generative Recursive Reasoning"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2605.19376v2",
-   "note": {
-    "en": "With Sungjin Ahn and Mengye Ren, proposes recursive reasoning models as an alternative to autoregressive sequence extension for extended computation at inference time.",
-    "zh": "与 Sungjin Ahn、Mengye Ren 合作，提出以递归推理模型替代自回归序列延展，作为推理阶段延长计算的一种方案。"
    },
    "auto": true,
    "judged": true,
@@ -3421,7 +3440,7 @@
   "citations": 475043,
   "hIndex": 184,
   "events": 71,
-  "posts": 108,
+  "posts": 109,
   "wikiEn": "Yoshua Bengio",
   "wikiZh": "约书亚·本希奥"
  },

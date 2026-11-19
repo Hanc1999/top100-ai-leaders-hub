@@ -149,6 +149,25 @@
    }
   },
   {
+   "date": "2026-11-18",
+   "ts": "2026-11-18T21:33:40Z",
+   "kind": "x",
+   "title": {
+    "en": "Gemini 4 Neon: frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows. Begi",
+    "zh": "Gemini 4 Neon: frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows. Begi"
+   },
+   "source": "@sundarpichai",
+   "url": "https://x.com/sundarpichai/status/2123167780988125621",
+   "note": {
+    "en": "Pichai announced Gemini 4 Neon, a faster frontier model for end-to-end software engineering, knowledge work and science tasks rolling out via the Gemini API; the post drew strong engagement.",
+    "zh": "皮查伊宣布推出Gemini 4 Neon，这是一款面向软件工程、知识工作和科学任务的更快速前沿模型，已通过Gemini API上线，该推文获得了可观的互动。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-17",
    "ts": "2026-11-17T17:20:41Z",
    "kind": "x",
@@ -1137,25 +1156,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-06-11",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "America’s digital economy relies on our physical infrastructure and the electricians, pipefitters, welders, manufacturing workers & more who build and maintain",
-    "zh": "America’s digital economy relies on our physical infrastructure and the electricians, pipefitters, welders, manufacturing workers & more who build and maintain"
-   },
-   "source": "@sundarpichai",
-   "url": "https://x.com/sundarpichai/status/2065110608090161375",
-   "note": {
-    "en": "Pichai announced an additional grant supporting the electricians, pipefitters and other tradespeople who build and maintain America's physical infrastructure.",
-    "zh": "皮查伊宣布追加拨款,支持负责建设和维护美国物理基础设施的电工、管道工等技术工人。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
    "date": "2026-05-26",
    "ts": null,
    "kind": "podcast",
@@ -1526,6 +1526,23 @@
    },
    "source": "Axios",
    "url": "https://www.axios.com/2026/08/06/googles-ai-leadership-shuffle"
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T17:24:52Z",
+   "level": "notable",
+   "title": {
+    "en": "Sundar Pichai confirms Gemini Tasks is live with advanced actions in U.S. and more countries",
+    "zh": "Sundar Pichai confirms Gemini Tasks is live with advanced actions in U.S. and more countries"
+   },
+   "body": {
+    "en": "Pichai confirmed Gemini Tasks with advanced actions is now live in the U.S. and more countries, a concrete product launch.",
+    "zh": "皮查伊确认Gemini Tasks及其高级操作功能已在美国及更多国家上线，这是一次具体的产品发布。"
+   },
+   "source": "Traders Union",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObGlXNkc5YUF1SVJ6cEx4UXZ2VnpRQWxTN2p2VFVJbW94X2ZNLXBkOC11amRmS1FZcTZIR3JULU5qR0V6NUprMjBHWVZMMF9UVlQ5OXhvbmoyOEJxRnhGbUt3U1djNDZWNUFIR2lqYTN0MVR3enUxTDd0MHVDYmxIX1BIT2dUZw?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-11-15",
@@ -3906,7 +3923,7 @@
   "pageviews": 1299595,
   "citations": 1,
   "hIndex": 1,
-  "events": 141,
+  "events": 142,
   "posts": 74,
   "wikiEn": "Sundar Pichai",
   "wikiZh": "孙达尔·皮柴"

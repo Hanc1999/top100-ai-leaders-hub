@@ -169,6 +169,44 @@
    }
   },
   {
+   "date": "2026-11-18",
+   "ts": "2026-11-18T05:58:58Z",
+   "kind": "x",
+   "title": {
+    "en": "Full transparency and reproducibility promised and delivered, not something you can expect from coordinate LLM producers. We stand by LLM360 definition of full",
+    "zh": "Full transparency and reproducibility promised and delivered, not something you can expect from coordinate LLM producers. We stand by LLM360 definition of full"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2122932557084012618",
+   "note": {
+    "en": "Xing publicly defended LLM360's full-openness standard for model release, contrasting it with other LLM producers' limited transparency.",
+    "zh": "邢波公开为LLM360的完全开放标准发声，将其与其他大模型厂商有限的透明度做对比。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-18",
+   "ts": "2026-11-18T14:44:45Z",
+   "kind": "x",
+   "title": {
+    "en": "@nytimes covered @genbioai and its #VirtualCell work today, following a great conversation with the brilliant @carlzimmer! While companies like Isomorphic claim",
+    "zh": "@nytimes covered @genbioai and its #VirtualCell work today, following a great conversation with the brilliant @carlzimmer! While companies like Isomorphic claim"
+   },
+   "source": "@ericxing",
+   "url": "https://x.com/ericxing/status/2123064874679017633",
+   "note": {
+    "en": "Xing flagged NYT coverage of GenBio AI's VirtualCell work, pushing back on rivals like Isomorphic Labs who claim their models can 'cure all diseases.'",
+    "zh": "邢波分享了《纽约时报》对GenBio AI旗下VirtualCell项目的报道，并对Isomorphic Labs等竞争对手宣称模型能'治愈所有疾病'的说法提出异议。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-16",
    "ts": null,
    "kind": "paper",
@@ -1898,16 +1936,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 30.8,
+  "total": 31.0,
   "attention": 25,
   "centrality": 14,
-  "momentum": 51,
+  "momentum": 52,
   "stature": 54,
   "pageviews": 21312,
   "citations": 41656,
   "hIndex": 97,
   "events": 3,
-  "posts": 89,
+  "posts": 91,
   "wikiEn": "Eric Xing",
   "wikiZh": "邢波"
  },

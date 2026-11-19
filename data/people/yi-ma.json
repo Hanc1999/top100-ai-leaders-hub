@@ -213,6 +213,25 @@
    }
   },
   {
+   "date": "2026-11-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Eyes in the Update? Learning Where Rewards Land in Multimodal Reasoning",
+    "zh": "Eyes in the Update? Learning Where Rewards Land in Multimodal Reasoning"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.22438v1",
+   "note": {
+    "en": "Ma co-authors a study on multimodal reinforcement learning showing outcome-based rewards in image/video reasoning fail to reliably attribute credit to the visual tokens that actually matter.",
+    "zh": "马毅合著研究指出，在图像/视频推理的强化学习中，基于结果的奖励并不能可靠地将信用分配给真正起作用的视觉token。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-11-07",
    "ts": null,
    "kind": "paper",
@@ -1728,7 +1747,7 @@
   "citations": 46806,
   "hIndex": 81,
   "events": 21,
-  "posts": 62,
+  "posts": 63,
   "wikiEn": "Yi Ma",
   "wikiZh": null
  },

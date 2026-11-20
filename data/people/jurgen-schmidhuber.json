@@ -177,6 +177,25 @@
    }
   },
   {
+   "date": "2026-11-19",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Vater der KI: DAS kommt in den nächsten 5 Jahren! AGI, Quanten & Simulation (Jürgen Schmidhuber)",
+    "zh": "Vater der KI: DAS kommt in den nächsten 5 Jahren! AGI, Quanten & Simulation (Jürgen Schmidhuber)"
+   },
+   "source": "KI REVOLUTION - Der Business Podcast v…",
+   "url": "https://podcasts.apple.com/us/podcast/vater-der-ki-das-kommt-in-den-n%C3%A4chsten-5-jahren-agi/id1813711715?i=1000802962318&uo=4",
+   "note": {
+    "en": "Schmidhuber discusses how close we are to AGI, why he expects an AI crash, and his view that AI will go on to conquer the universe.",
+    "zh": "Schmidhuber在采访中讨论我们离AGI还有多远、为何他预计会出现AI泡沫破裂，以及他认为AI终将征服宇宙的观点。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-11-16",
    "ts": null,
    "kind": "paper",
@@ -1328,7 +1347,7 @@
   "citations": 185831,
   "hIndex": 89,
   "events": 2,
-  "posts": 60,
+  "posts": 61,
   "wikiEn": "Jürgen Schmidhuber",
   "wikiZh": "于尔根·施密德胡伯"
  },

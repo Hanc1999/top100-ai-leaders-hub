@@ -163,6 +163,44 @@
    }
   },
   {
+   "date": "2026-11-19",
+   "ts": "2026-11-19T19:14:36Z",
+   "kind": "x",
+   "title": {
+    "en": "cool experiment combining a lot of architectural ideas including differential attention, mamba-3, ssmax, and geonorm",
+    "zh": "cool experiment combining a lot of architectural ideas including differential attention, mamba-3, ssmax, and geonorm"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2123495174957576454",
+   "note": {
+    "en": "Gu shares an experiment combining differential attention, Mamba-3, SSMax and GeoNorm — his own commentary on new sequence-model architecture ideas.",
+    "zh": "Gu分享了一项结合差分注意力、Mamba-3、SSMax和GeoNorm等架构创新的实验，是他本人对新序列模型架构思路的点评。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-19",
+   "ts": "2026-11-19T21:03:42Z",
+   "kind": "x",
+   "title": {
+    "en": "Cool to see people still activelg using the original linear time-invariant SSMs. Back then I also found it to be a strong inductive bias in noisy time series li",
+    "zh": "Cool to see people still activelg using the original linear time-invariant SSMs. Back then I also found it to be a strong inductive bias in noisy time series li"
+   },
+   "source": "@_albertgu",
+   "url": "https://x.com/_albertgu/status/2123522628015267902",
+   "note": {
+    "en": "Gu notes that people are still using his original linear time-invariant SSMs, recalling his early use of them as a strong inductive bias for noisy time series like ECG data.",
+    "zh": "Albert Gu提到仍有人在使用他最初提出的线性时不变SSM，并回忆早期曾将其作为处理如心电图等嘈杂时间序列数据的强归纳偏置。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-18",
    "ts": "2026-11-18T20:00:37Z",
    "kind": "x",
@@ -1596,16 +1634,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 26.1,
+  "total": 26.6,
   "attention": null,
   "centrality": 30,
-  "momentum": 21,
+  "momentum": 22,
   "stature": null,
   "pageviews": 0,
   "citations": 2983,
   "hIndex": 21,
   "events": 0,
-  "posts": 76,
+  "posts": 78,
   "wikiEn": null,
   "wikiZh": null
  },

@@ -1628,6 +1628,23 @@
    "judged": true
   },
   {
+   "date": "2026-11-09",
+   "ts": "2026-11-09T19:16:47Z",
+   "level": "notable",
+   "title": {
+    "en": "Mistral's Arthur Mensch: energy is only 10% of compute costs, capital is the bottleneck, and Mistral can go public in Europe",
+    "zh": "Mistral's Arthur Mensch: energy is only 10% of compute costs, capital is the bottleneck, and Mistral can go public in Europe"
+   },
+   "body": {
+    "en": "Mensch argued capital, not energy, is the real bottleneck on AI compute and said Mistral could eventually list on a European exchange.",
+    "zh": "Mensch表示资本而非能源才是AI算力的真正瓶颈，并称Mistral未来有可能在欧洲上市。"
+   },
+   "source": "Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZFRjaUtKWFBiODg2NGtWOEZoQzZtXzhELWJLdHlWNzlINjR1Qzd2NHR3Ulc3RXNUSExxbkFEOWdGOThvVENIV2h3Q3ZudWJZWExRcmR6dHVWdkNEbjBJbUQxeTlSSTJnLUhNdmktWDJhYUhBX0FZS1ozWjNSc2tadThvTDctV2stMXVNY3dEbXN4b0hDem1IcVZheWY5T1hMLW5mS09MUDZ3UlpvMElOeWNJeFdzN0hFXzJSMERDSmR1QjdadmVqcEdXRHQyQXB3Z3ZsdEE0SHZxZEwySUk5RE1B?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-29",
    "ts": "2026-10-29T11:51:00Z",
    "level": "notable",
@@ -1890,15 +1907,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 59.9,
+  "total": 60.2,
   "attention": 53,
   "centrality": 79,
-  "momentum": 51,
+  "momentum": 52,
   "stature": null,
   "pageviews": 103916,
   "citations": 3847,
   "hIndex": 10,
-  "events": 19,
+  "events": 20,
   "posts": 75,
   "wikiEn": "Arthur Mensch",
   "wikiZh": null

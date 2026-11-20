@@ -2286,6 +2286,40 @@
  ],
  "news": [
   {
+   "date": "2026-11-16",
+   "ts": "2026-11-16T04:01:00Z",
+   "level": "minor",
+   "title": {
+    "en": "恶劣骗局！AI垃圾论文乱加大佬作者，Hinton、李飞飞、LeCun、吴恩达等中招",
+    "zh": "恶劣骗局！AI垃圾论文乱加大佬作者，Hinton、李飞飞、LeCun、吴恩达等中招"
+   },
+   "body": {
+    "en": "Report that junk AI papers fraudulently listed Hinton, Fei-Fei Li, LeCun and Ng as co-authors without their involvement.",
+    "zh": "报道称多篇垫脚石AI论文冒用Hinton、李飞飞、LeCun和吴恩达等人的名字作为作者，本人并未参与。"
+   },
+   "source": "腾讯新闻",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nNDlwRlhHY1dnT1dWTVNoNjlpQW9nX1FaT201RllzNnZlQV92Y1BUVG1mSWF3WGlyaHJIeVMtbFNJcVdtc1hTRS10eVFiek0waGUxajF3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-15",
+   "ts": "2026-11-15T17:59:00Z",
+   "level": "notable",
+   "title": {
+    "en": "恶劣骗局，AI垃圾论文乱加大佬作者，Hinton、李飞飞、LeCun、吴恩达等中招",
+    "zh": "恶劣骗局，AI垃圾论文乱加大佬作者，Hinton、李飞飞、LeCun、吴恩达等中招"
+   },
+   "body": {
+    "en": "Reports surfaced that a scam ring padded junk AI papers with unauthorized co-author credits from Hinton, Fei-Fei Li, LeCun and Ng, among others.",
+    "zh": "有报道称一个造假团伙在AI垃圾论文中擅自挂上Hinton、李飞飞、LeCun和吴恩达等大佬的作者名。"
+   },
+   "source": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MMVFKYU5TaFoyM3pjSVJTc3ZwcVZxSjBuMmpVTEtpVmRIaEpoS0I3ei1zQkNYa2lEZHVLek5nVTJNSW9tZl9ZcjdGMWVCZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-04",
    "ts": "2026-11-04T04:58:36Z",
    "level": "notable",
@@ -4020,6 +4054,23 @@
    "judged": true
   },
   {
+   "date": "2026-07-23",
+   "ts": "2026-07-23T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Andrew Ng launches OpenWorker, an open-source AI agent that delivers finished work",
+    "zh": "Andrew Ng launches OpenWorker, an open-source AI agent that delivers finished work"
+   },
+   "body": {
+    "en": "Ng launched OpenWorker, an open-source AI agent designed to autonomously deliver finished work.",
+    "zh": "吴恩达推出了开源AI智能体OpenWorker，可自主完成并交付工作成果。"
+   },
+   "source": "RuntimeWire",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SZkFRR003RDVzMVF6MG9ZZzJMalJTYnFvUFlFRFZTR2dtMm9ZSTd2ZktSYlpjNHR0b2psTDk3M0FQZmhMS3Vsa2loSkRTV1QxMjEwa0lEZGp4UGY2am9iclF6M1lnZ1d6YTB1WlBkQ1VSdEk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-07-07",
    "ts": "2026-07-07T07:00:00Z",
    "level": "notable",
@@ -4358,7 +4409,7 @@
   "pageviews": 337525,
   "citations": 131102,
   "hIndex": 124,
-  "events": 121,
+  "events": 124,
   "posts": 111,
   "wikiEn": "Andrew Ng",
   "wikiZh": "吴恩达"

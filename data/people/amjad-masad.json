@@ -144,6 +144,44 @@
    }
   },
   {
+   "date": "2026-11-17",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Replit’s $9B perfect storm, and the winds of “AI psychosis,” with Amjad Masad",
+    "zh": "Replit’s $9B perfect storm, and the winds of “AI psychosis,” with Amjad Masad"
+   },
+   "source": "Masters of Scale",
+   "url": "https://podcasts.apple.com/us/podcast/replits-%249b-perfect-storm-and-the-winds-of/id1227971746?i=1000802441907&uo=4",
+   "note": {
+    "en": "Masad discusses Replit's turnaround from near-flatlined revenue to a $9B valuation, and the backlash around 'AI psychosis,' on Masters of Scale.",
+    "zh": "在Masters of Scale节目中，Masad谈到Replit从几乎停滞的营收到90亿美元估值的转变，以及围绕\"AI精神病\"的争议。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-11-10",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Amjad Masad on AI and a world where anyone can build",
+    "zh": "Amjad Masad on AI and a world where anyone can build"
+   },
+   "source": "Intelligent Finance",
+   "url": "https://podcasts.apple.com/us/podcast/amjad-masad-on-ai-and-a-world-where-anyone-can-build/id6829888870?i=1000800956769&uo=4",
+   "note": {
+    "en": "Masad joins Plaid CEO Zach Perret to discuss how AI is making software creation accessible without needing to code.",
+    "zh": "Masad与Plaid首席执行官Zach Perret对谈，讨论AI如何让不懂编程的人也能创建软件。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-11-07",
    "ts": null,
    "kind": "podcast",
@@ -1594,7 +1632,7 @@
   "citations": 0,
   "hIndex": 0,
   "events": 14,
-  "posts": 64,
+  "posts": 66,
   "wikiEn": "Amjad Masad",
   "wikiZh": null
  },

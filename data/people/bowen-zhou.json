@@ -1,5 +1,5 @@
 {
- "rank": 80,
+ "rank": 78,
  "id": "bowen-zhou",
  "name": {
   "en": "Bowen Zhou",
@@ -971,6 +971,25 @@
    "connector": "openalex"
   },
   {
+   "date": "2026-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "PRISMA: A Schema-Coordinated Multi-Agent Framework for Open-Domain Multi-Hop Question Answering",
+    "zh": "PRISMA: A Schema-Coordinated Multi-Agent Framework for Open-Domain Multi-Hop Question Answering"
+   },
+   "source": "IEEE Transactions on Knowledge and Dat…",
+   "url": "https://doi.org/10.1109/tkde.2026.3752901",
+   "note": {
+    "en": "Co-authored PRISMA, a schema-coordinated multi-agent framework for open-domain multi-hop question answering.",
+    "zh": "合著论文PRISMA，提出一种基于模式协调的多智能体框架，用于开放域多跳问答。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2025-11-17",
    "ts": null,
    "kind": "paper",
@@ -1002,44 +1021,6 @@
    "note": {
     "en": "SciTS, a benchmark and method from his Shanghai AI Laboratory-linked team for scientific time-series understanding and generation with LLMs.",
     "zh": "SciTS，其上海AI实验室相关团队提出的基准与方法，用于大语言模型理解与生成科学时间序列数据。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-08-12",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "InternBootcamp: Boosting LLM Reasoning with Verifiable Task Scaling",
-    "zh": "InternBootcamp: Boosting LLM Reasoning with Verifiable Task Scaling"
-   },
-   "source": "arXiv (Cornell University)",
-   "url": "https://arxiv.org/abs/2508.08636",
-   "note": {
-    "en": "InternBootcamp, a Shanghai AI Laboratory project providing scalable verifiable tasks to boost LLM reasoning.",
-    "zh": "InternBootcamp，上海AI实验室的项目，提供可大规模验证的任务以提升大语言模型推理能力。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
-   "date": "2025-06-10",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Less is More: Efficient Model Merging with Binary Task Switch",
-    "zh": "Less is More: Efficient Model Merging with Binary Task Switch"
-   },
-   "source": "OpenAlex",
-   "url": "https://doi.org/10.1109/cvpr52734.2025.01422",
-   "note": {
-    "en": "Less is More, an efficient model-merging method using binary task switches, from his Shanghai AI Laboratory-affiliated group.",
-    "zh": "Less is More，其上海AI实验室关联团队提出的高效模型融合方法，采用二值任务开关。"
    },
    "auto": true,
    "judged": true,
@@ -1178,6 +1159,23 @@
    },
    "source": "新浪财经",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JX2lRa3ZENUFhcEhwSm84a2U5SEJHeWd3V0RzS2tCQTVYSGNvRXBaT3Vid2c3SUF4eUotamVxQTZBUEdFa0dyWjdUU3JFU29XVGNsZjRYNWZRd0FVYlFGMUptdzJ3NDZRNE9WdTZiVHVzZXpGRWJmWA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-09-13",
+   "ts": "2026-09-13T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "上海人工智能实验室主任周伯文：科学研究是下一个编程",
+    "zh": "上海人工智能实验室主任周伯文：科学研究是下一个编程"
+   },
+   "body": {
+    "en": "Zhou argued that scientific research is becoming AI's 'next programming' frontier, laying out his view of where AI capability is headed.",
+    "zh": "周伯文提出科学研究正在成为AI的\"下一个编程\"前沿，阐述了他对AI能力发展方向的看法。"
+   },
+   "source": "新浪财经_金融信息服务商",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KZDljQkJEbnVUYnlRdVZ4cmZrcS1pU3VqODY2ZEZRR3U5WF80aGZKX0dqZDVTNFlodUFiR0lGNWRkWUZ5T3ZPRE5VZkFDNmhrWWhnd2JWWC1BVWQyY1dHcmZyeGpvUDQ0NThheFpwYw?oc=5",
    "auto": true,
    "judged": true
   },
@@ -1563,16 +1561,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 29.1,
+  "total": 29.3,
   "attention": 6,
   "centrality": 43,
-  "momentum": 60,
+  "momentum": 61,
   "stature": 24,
   "pageviews": 928,
   "citations": 16676,
   "hIndex": 51,
-  "events": 30,
-  "posts": 45,
+  "events": 31,
+  "posts": 44,
   "wikiEn": "Bowen Zhou",
   "wikiZh": null
  },

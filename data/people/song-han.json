@@ -228,6 +228,25 @@
    }
   },
   {
+   "date": "2026-11-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "QDA: Closed-Loop LLM Quantization Design with Agents",
+    "zh": "QDA: Closed-Loop LLM Quantization Design with Agents"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.23388v1",
+   "note": {
+    "en": "Co-authored QDA, a closed-loop agent system for automatically designing LLM quantization recipes, with HAN Lab collaborator Ligeng Zhu.",
+    "zh": "与HAN Lab合作者朱立庚（Ligeng Zhu）合著QDA，一个用于自动设计大模型量化方案的闭环智能体系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-11-16",
    "ts": "2026-11-16T18:45:00Z",
    "kind": "x",
@@ -1480,6 +1499,25 @@
    "judged": true,
    "platform": "x",
    "connector": "backfill"
+  },
+  {
+   "date": "2018-05-31",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Deep Gradient Compression for Distributed Training with Song Han - TWiML Talk #146",
+    "zh": "Deep Gradient Compression for Distributed Training with Song Han - TWiML Talk #146"
+   },
+   "source": "The TWIML AI Podcast (formerly This We…",
+   "url": "https://podcasts.apple.com/us/podcast/deep-gradient-compression-for-distributed-training/id1116303051?i=1000412654065&uo=4",
+   "note": {
+    "en": "Song Han discussed his Deep Gradient Compression research for distributed training on the TWiML AI Podcast.",
+    "zh": "韩松在TWiML AI播客中讨论了他关于分布式训练的Deep Gradient Compression研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   }
  ],
  "news": [
@@ -1532,6 +1570,23 @@
    "judged": true
   },
   {
+   "date": "2026-11-15",
+   "ts": "2026-11-15T06:34:54Z",
+   "level": "notable",
+   "title": {
+    "en": "逼近GPT-6 Astra！韩松团队让Qwen3.8-27B在5090上操作机械臂，现已开源",
+    "zh": "逼近GPT-6 Astra！韩松团队让Qwen3.8-27B在5090上操作机械臂，现已开源"
+   },
+   "body": {
+    "en": "Song Han's team got Qwen3.8-27B to operate a robotic arm on an RTX 5090 and open-sourced the work.",
+    "zh": "韩松团队让Qwen3.8-27B模型在RTX 5090上操作机械臂，并已将相关成果开源。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sV201REEzaXJPTXJ5T2hma3lyWjBCb0VJTElObDY1YWlHOFFQRlIxbE03UVVXaExUa0Qxeko0OVlXYVZKVG45TlBCNEFBOG9ramFnU2x3ckJ0SWNiY1A2VUZzcmFDMXd4bXdqT3NkUXRhN2t5VmpLZ0NmX1hCbWc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-10",
    "ts": "2026-10-10T11:08:00Z",
    "level": "notable",
@@ -1573,16 +1628,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 21.3,
+  "total": 21.7,
   "attention": 4,
   "centrality": 18,
-  "momentum": 46,
+  "momentum": 48,
   "stature": 46,
   "pageviews": 888,
   "citations": 32832,
   "hIndex": 58,
-  "events": 5,
-  "posts": 69,
+  "events": 6,
+  "posts": 71,
   "wikiEn": null,
   "wikiZh": "韩松"
  },

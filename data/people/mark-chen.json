@@ -1,5 +1,5 @@
 {
- "rank": 56,
+ "rank": 55,
  "id": "mark-chen",
  "name": {
   "en": "Mark Chen",
@@ -149,6 +149,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-11-17",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Can AI Learn to Improve Itself? | Recursive Self-Improvement",
+    "zh": "Can AI Learn to Improve Itself? | Recursive Self-Improvement"
+   },
+   "source": "The a16z Show",
+   "url": "https://podcasts.apple.com/us/podcast/can-ai-learn-to-improve-itself-recursive-self-improvement/id842818711?i=1000802527156&uo=4",
+   "note": {
+    "en": "Mark Chen joined The a16z Show to discuss whether AI can recursively improve itself, describing how AI already speeds up research at frontier labs.",
+    "zh": "Mark Chen在The a16z Show节目中探讨AI能否实现递归自我提升，并介绍AI如何已在前沿实验室加速研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   },
   {
    "date": "2026-10-20",
@@ -1110,7 +1129,7 @@
   "citations": 38393,
   "hIndex": 64,
   "events": 3,
-  "posts": 48,
+  "posts": 49,
   "wikiEn": "Mark Chen",
   "wikiZh": "陳唐山"
  },

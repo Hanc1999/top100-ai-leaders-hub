@@ -1,5 +1,5 @@
 {
- "rank": 90,
+ "rank": 89,
  "id": "diogo-almeida",
  "name": {
   "en": "Diogo Almeida",
@@ -150,6 +150,44 @@
     "en": "InstructGPT. Human demonstrations, preference rankings and reinforcement learning, combined into the recipe ChatGPT shipped on eight months later.",
     "zh": "即 InstructGPT。人类示范、偏好排序与强化学习三者结合，八个月后 ChatGPT 正是照此配方发布。"
    }
+  },
+  {
+   "date": "2026-11-16",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "20VC: Jev Creator on Why Data Is More Important Than Compute | Will US Open-Source Models Catch Chinese | The Cost of Intelligence and Tokens: What No One Sees But Needs to Know with Diogo Almeida",
+    "zh": "20VC: Jev Creator on Why Data Is More Important Than Compute | Will US Open-Source Models Catch Chinese | The Cost of Intelligence and Tokens: What No One Sees But Needs to Know with Diogo Almeida"
+   },
+   "source": "The Twenty Minute VC (20VC): Venture C…",
+   "url": "https://podcasts.apple.com/us/podcast/20vc-jev-creator-on-why-data-is-more-important-than/id958230465?i=1000802199307&uo=4",
+   "note": {
+    "en": "Almeida appears on the 20VC podcast discussing the economics of data, compute and tokens as TypeSafe AI's co-founder and CEO.",
+    "zh": "Almeida作为TypeSafe AI联合创始人兼CEO，在20VC播客节目中探讨数据、算力与token成本的经济学问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-11-05",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Ep 97: Jev Creator on Decision Models, Benchmark Fatigue & Why the Labs Missed It",
+    "zh": "Ep 97: Jev Creator on Decision Models, Benchmark Fatigue & Why the Labs Missed It"
+   },
+   "source": "Unsupervised Learning with Jacob Effron",
+   "url": "https://podcasts.apple.com/us/podcast/ep-97-jev-creator-on-decision-models-benchmark-fatigue/id1672188924?i=1000800048467&uo=4",
+   "note": {
+    "en": "Almeida joins the Unsupervised Learning podcast to discuss decision models, benchmark fatigue, and why labs missed building something like Jev.",
+    "zh": "Almeida登上Unsupervised Learning播客，探讨决策模型、基准测试疲劳，以及为何各大实验室错过了打造Jev这类产品的机会。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   },
   {
    "date": "2026-10-15",
@@ -691,7 +729,7 @@
   "citations": 0,
   "hIndex": 0,
   "events": 12,
-  "posts": 18,
+  "posts": 20,
   "wikiEn": null,
   "wikiZh": null
  },

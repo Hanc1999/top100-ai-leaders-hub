@@ -2164,6 +2164,25 @@
    "connector": "web"
   },
   {
+   "date": "2023-07-04",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Munk Dialogue with AI Debaters Yann Lecun, Max Tegmark, Melanie Mitchell and Yoshua Bengio",
+    "zh": "Munk Dialogue with AI Debaters Yann Lecun, Max Tegmark, Melanie Mitchell and Yoshua Bengio"
+   },
+   "source": "The Munk Debates Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/munk-dialogue-with-ai-debaters-yann-lecun-max-tegmark/id1486184902?i=1000619287010&uo=4",
+   "note": {
+    "en": "Bengio joined Yann LeCun, Max Tegmark and Melanie Mitchell for a live Munk Dialogue debate on the risks and future of AI.",
+    "zh": "Bengio与Yann LeCun、Max Tegmark及Melanie Mitchell共同参加Munk Dialogue现场辩论，讨论AI的风险与未来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2023-06-24",
    "ts": null,
    "kind": "blog",
@@ -3440,7 +3459,7 @@
   "citations": 475043,
   "hIndex": 184,
   "events": 71,
-  "posts": 109,
+  "posts": 110,
   "wikiEn": "Yoshua Bengio",
   "wikiZh": "约书亚·本希奥"
  },

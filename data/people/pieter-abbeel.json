@@ -1,5 +1,5 @@
 {
- "rank": 75,
+ "rank": 74,
  "id": "pieter-abbeel",
  "name": {
   "en": "Pieter Abbeel",
@@ -1114,6 +1114,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2021-10-07",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Pieter Abbeel — Robotics, Startups, and Robotics Startups",
+    "zh": "Pieter Abbeel — Robotics, Startups, and Robotics Startups"
+   },
+   "source": "Gradient Dissent: Conversations on AI",
+   "url": "https://podcasts.apple.com/us/podcast/pieter-abbeel-robotics-startups-and-robotics-startups/id1504567418?i=1000537870397&uo=4",
+   "note": {
+    "en": "Pieter Abbeel discussed robotics, startups and robotic manipulation on the Gradient Dissent podcast.",
+    "zh": "彼得·阿贝尔在Gradient Dissent播客中谈论机器人技术、创业以及机器人操控方面的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2021-08-25",
    "ts": null,
    "kind": "x",
@@ -1315,7 +1334,7 @@
   "citations": 79473,
   "hIndex": 123,
   "events": 2,
-  "posts": 59,
+  "posts": 60,
   "wikiEn": "Pieter Abbeel",
   "wikiZh": "彼得·阿比爾"
  },

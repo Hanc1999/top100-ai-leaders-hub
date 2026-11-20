@@ -247,6 +247,25 @@
    "connector": null
   },
   {
+   "date": "2026-11-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
+    "zh": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.24927v1",
+   "note": {
+    "en": "Co-authored a paper mapping dependencies, vulnerabilities and market concentration across the AI supply chain.",
+    "zh": "合著论文，绘制了AI供应链中的依赖关系、脆弱性与市场集中度图谱。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-11-10",
    "ts": "2026-11-10T06:04:23Z",
    "kind": "x",
@@ -1767,25 +1786,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2025-10-28",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Relative Scaling Laws for LLMs",
-    "zh": "Relative Scaling Laws for LLMs"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2510.24626v2",
-   "note": {
-    "en": "Measures scaling laws relative to specific subpopulations instead of aggregate test sets, exposing gaps that aggregate curves hide.",
-    "zh": "以特定子群体而非聚合测试集为参照测量扩展律，揭示聚合曲线所掩盖的差距。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2024-10-03",
    "ts": null,
    "kind": "podcast",
@@ -2016,10 +2016,10 @@
  },
  "cat": "research",
  "score": {
-  "total": 25.5,
+  "total": 25.3,
   "attention": 12,
   "centrality": 14,
-  "momentum": 50,
+  "momentum": 49,
   "stature": 56,
   "pageviews": 5245,
   "citations": 45211,

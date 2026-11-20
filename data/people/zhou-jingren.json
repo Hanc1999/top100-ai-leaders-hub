@@ -1,5 +1,5 @@
 {
- "rank": 37,
+ "rank": 38,
  "id": "zhou-jingren",
  "name": {
   "en": "Zhou Jingren",
@@ -839,6 +839,25 @@
    "connector": "openalex"
   },
   {
+   "date": "2026-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Qwen-Image-Layered 1.5: Unified Image Generation and Editing with Native Transparency Awareness",
+    "zh": "Qwen-Image-Layered 1.5: Unified Image Generation and Editing with Native Transparency Awareness"
+   },
+   "source": "Conference on Empirical Methods in Nat…",
+   "url": "https://doi.org/10.18653/2026.emnlp-main.2409",
+   "note": {
+    "en": "Co-authored Qwen-Image-Layered, a unified image generation and editing model with native layer/transparency decomposition, extending Alibaba's Qwen-Image line.",
+    "zh": "合著论文《Qwen-Image-Layered》，提出具备原生透明图层分解能力的统一图像生成与编辑模型，是阿里Qwen-Image系列的延伸。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2025-12-29",
    "ts": null,
    "kind": "paper",
@@ -965,6 +984,25 @@
    "note": {
     "en": "Paper co-authored by Zhou Jingren on WebResearcher, a framework for unbounded reasoning in long-horizon web agents.",
     "zh": "周靖人参与撰写的论文，介绍面向长程网络智能体、具备无限推理能力的框架WebResearcher。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-09-15",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Fun-ASR Technical Report",
+    "zh": "Fun-ASR Technical Report"
+   },
+   "source": "arXiv (Cornell University)",
+   "url": "http://arxiv.org/abs/2509.12508",
+   "note": {
+    "en": "Co-authored the Fun-ASR technical report, Alibaba's large-scale speech recognition system built under the Tongyi speech team he oversees.",
+    "zh": "合著《Fun-ASR技术报告》，这是他所领导的通义语音团队开发的大规模语音识别系统。"
    },
    "auto": true,
    "judged": true,
@@ -1919,7 +1957,7 @@
   "citations": 8558,
   "hIndex": 47,
   "events": 55,
-  "posts": 41,
+  "posts": 43,
   "wikiEn": null,
   "wikiZh": null
  },

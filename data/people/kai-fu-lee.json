@@ -207,6 +207,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2026-11-13",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "How Companies Are Getting AI Wrong (ft. Kai-Fu Lee)",
+    "zh": "How Companies Are Getting AI Wrong (ft. Kai-Fu Lee)"
+   },
+   "source": "Brew Markets",
+   "url": "https://podcasts.apple.com/us/podcast/how-companies-are-getting-ai-wrong-ft-kai-fu-lee/id1833544764?i=1000801793063&uo=4",
+   "note": {
+    "en": "Kai-Fu Lee guested on Brew Markets to discuss where companies are getting AI adoption wrong.",
+    "zh": "李开复在播客Brew Markets做客，讨论企业在采用AI时常犯的错误。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-11-12",
    "ts": "2026-11-12T20:30:01Z",
    "kind": "x",
@@ -224,6 +243,25 @@
    "judged": true,
    "platform": "x",
    "connector": null
+  },
+  {
+   "date": "2026-11-12",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Kai-Fu Lee on How AI Can Help Grow a Company’s Earnings",
+    "zh": "Kai-Fu Lee on How AI Can Help Grow a Company’s Earnings"
+   },
+   "source": "At Barron's",
+   "url": "https://podcasts.apple.com/us/podcast/kai-fu-lee-on-how-ai-can-help-grow-a-companys-earnings/id1707393487?i=1000801550310&uo=4",
+   "note": {
+    "en": "Kai-Fu Lee spoke with Barron's about how AI can help grow a company's earnings.",
+    "zh": "李开复在Barron's播客中谈论AI如何帮助企业提升盈利。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   },
   {
    "date": "2026-11-11",
@@ -2042,6 +2080,40 @@
    "url": "https://www.01.ai/"
   },
   {
+   "date": "2026-11-19",
+   "ts": "2026-11-19T08:58:04Z",
+   "level": "notable",
+   "title": {
+    "en": "李开复：企业AI转型只看智能体数量是荒谬笑话，应看收入利润现金流",
+    "zh": "李开复：企业AI转型只看智能体数量是荒谬笑话，应看收入利润现金流"
+   },
+   "body": {
+    "en": "Lee argued enterprise AI transformation shouldn't be judged by how many agents a company deploys but by revenue, profit and cash flow.",
+    "zh": "李开复认为，企业AI转型不应只看部署了多少智能体，而应看收入、利润和现金流。"
+   },
+   "source": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kRXUybjVlSklHdVpkblN4bEFCOHlIc1Z4TWNFVUZtM3VBLVQ0b0ZOTndVUWdUWVgyRnBXR19VY2sxb1VhZXp4alN4YnY2elZXZXc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-19",
+   "ts": "2026-11-19T08:58:04Z",
+   "level": "notable",
+   "title": {
+    "en": "李开复：企业AI转型只看智能体数量是荒谬笑话，应看收入利润现金流",
+    "zh": "李开复：企业AI转型只看智能体数量是荒谬笑话，应看收入利润现金流"
+   },
+   "body": {
+    "en": "Kai-Fu Lee argued that judging enterprise AI transformation purely by the number of deployed agents is misguided — revenue, profit and cash flow are the real measures.",
+    "zh": "李开复表示，企业AI转型仅看智能体数量是荒谬的，真正该看的是收入、利润和现金流。"
+   },
+   "source": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90Qk9pd1lUU3RDTVVIZnV2V3cxRlM0RjRNaHhVZTB3ek1EbFF6QjlFbUtvR1VBa2xCR0RnVEFDMWVqc29RdHN0eg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-17",
    "ts": "2026-11-17T15:12:17Z",
    "level": "notable",
@@ -2242,6 +2314,23 @@
    },
    "source": "光通信Pro",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5iVlBDemRXcjhJcDV0LWRxQXBsd1JiNzdWQzdocHdCZ3Q1U1dlRnVodlQ5SldBdXZrZlVpRE41RlFWT1FySkFReW5IWjREQ3Y3dWR1d0ZUSQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-05",
+   "ts": "2026-11-05T09:50:42Z",
+   "level": "major",
+   "title": {
+    "en": "Kai-Fu Lee Secures Hundreds of Millions Yuan Investment from Hangzhou State-Owned Capital to Elevate AI to Corporate Decision-Making Levels",
+    "zh": "Kai-Fu Lee Secures Hundreds of Millions Yuan Investment from Hangzhou State-Owned Capital to Elevate AI to Corporate Decision-Making Levels"
+   },
+   "body": {
+    "en": "Kai-Fu Lee's venture secured a funding round worth hundreds of millions of yuan from Hangzhou state-owned capital to push AI into corporate decision-making.",
+    "zh": "李开复旗下项目获得杭州国资数亿元人民币投资，用于推动AI进入企业决策层面。"
+   },
+   "source": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ydkFpRWpERkQxY3ZTNmxyaGoyWVRhdkRlSm9ISUl3X0dDUWpoeGZTNXNya1oxVWRKb0ZVSGRJbm9WWmFpTk5vSU5XSWJQZ1paOWhr?oc=5",
    "auto": true,
    "judged": true
   },
@@ -4386,8 +4475,8 @@
   "pageviews": 77041,
   "citations": 2181,
   "hIndex": 20,
-  "events": 139,
-  "posts": 98,
+  "events": 142,
+  "posts": 100,
   "wikiEn": "Kai-Fu Lee",
   "wikiZh": "李开复"
  },

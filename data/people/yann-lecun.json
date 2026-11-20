@@ -198,6 +198,25 @@
    }
   },
   {
+   "date": "2026-11-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Counterfactual World Models: JEPAs That Reason About \"What If\"",
+    "zh": "Counterfactual World Models: JEPAs That Reason About \"What If\""
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.24778v1",
+   "note": {
+    "en": "Co-authored a paper on Counterfactual World Models, extending JEPA-style world models to reason about hypothetical \"what if\" interventions.",
+    "zh": "合著关于反事实世界模型的论文，将JEPA式世界模型扩展至对假设性\"如果\"干预的推理。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-11-08",
    "ts": null,
    "kind": "paper",
@@ -799,25 +818,6 @@
    "note": {
     "en": "The technical report for the third generation of TabPFN, Prior Labs' foundation model for tabular data, on which he is a co-author.",
     "zh": "Prior Labs 表格数据基础模型 TabPFN 第三代的技术报告，他是共同作者之一。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-05-07",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "On Training in Imagination",
-    "zh": "On Training in Imagination"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2605.06732v2",
-   "note": {
-    "en": "Examines model-based reinforcement learning that trains policies on imagined rollouts from a learned dynamics model.",
-    "zh": "研究基于模型的强化学习——用学到的动力学模型生成的想象轨迹来训练策略。"
    },
    "auto": true,
    "judged": true,
@@ -5174,10 +5174,10 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 80.9,
+  "total": 80.7,
   "attention": 78,
   "centrality": 72,
-  "momentum": 91,
+  "momentum": 90,
   "stature": 95,
   "pageviews": 531264,
   "citations": 253869,

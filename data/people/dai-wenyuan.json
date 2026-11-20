@@ -1,5 +1,5 @@
 {
- "rank": 100,
+ "rank": 99,
  "id": "dai-wenyuan",
  "name": {
   "en": "Dai Wenyuan",
@@ -537,6 +537,40 @@
  ],
  "news": [
   {
+   "date": "2026-11-19",
+   "ts": "2026-11-19T07:03:04Z",
+   "level": "notable",
+   "title": {
+    "en": "戴文渊下场做基模！范式发布Phai系双模型：推理快10倍，AI视频告别塑料感",
+    "zh": "戴文渊下场做基模！范式发布Phai系双模型：推理快10倍，AI视频告别塑料感"
+   },
+   "body": {
+    "en": "4Paradigm, led personally by Dai, released the Phai dual-model system, claiming 10x faster inference and improved AI video realism.",
+    "zh": "戴文渊亲自带队，范式发布Phai系双模型系统，宣称推理速度提升10倍，AI视频效果更逼真。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWHRKWWZBczFKYTFmcXdtWXJqaVplWVJCZkEtS3VjU2RnMVM4VlBaN2syaTZFVHoyRUhFOUZOcHo5Q2pRNU5iakNPVmlBdDJZaWZSb1NXS0lTRDFLS2xRd01sZmprcFJoUTJ5cFVHS2NZMGt6bC1kb1J2Sy1KSXFFYWFsRWs4RjEyZlVQcA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-08-21",
+   "ts": "2026-08-21T07:00:00Z",
+   "level": "minor",
+   "title": {
+    "en": "第四范式冀解决AI落地贵 降企业建构成本「千万变数千」 创始人戴文渊对将来利润乐观",
+    "zh": "第四范式冀解决AI落地贵 降企业建构成本「千万变数千」 创始人戴文渊对将来利润乐观"
+   },
+   "body": {
+    "en": "4Paradigm says it has cut enterprise AI deployment costs from tens of millions to thousands of yuan, with Dai Wenyuan voicing optimism about the company's future profitability.",
+    "zh": "第四范式称已将企业AI落地成本从千万级降至数千元，戴文渊对公司未来盈利表示乐观。"
+   },
+   "source": "Sing Tao Daily 星島日報加拿大",
+   "url": "https://news.google.com/rss/articles/CBMiygRBVV95cUxON3AtcU5NZG9FR1VXcU84N0Z1YVBVY3RTN1RaUk82NjE2Ym1WVXNxQU1rMndvd3UwME9tLXdJa2IzYjdQbHlhbzkxdDVaOHh6TEdNR1g5ZHYtamxGbjhVZ01PNFBxYWM0NVVycDJwcGNBNnl1MmtyYWpaZlVHN0xYNnNiMTFyeS1YVkt6MWdzazViRDNMc0w2TjU2a1JVNUNkbF9VU2Y3cDRNdFoxaklrTmc0amFMek5lTVZvVWRHWGx0ZTRyLTNZX3BmdUhFLWRSNVlXOG1GcHhTRXl2SThQNFlaZGNCTllJUWt1WEUwYjdSTjVRYnIzeVB0MzNiLWNQYnVtSktTMG5Vb1lGTm0wMWNSYm85LWhMaVNIUVUwbHpwTVV2UkhPRGFKNW9TZkJhVG9sb1F6Q0lKN3REcXBRNDN3RDBWUnJCYl9kWjM3SHJkVW5QMkEwZk5sTHZqdS1PZDZDNVU5YlZuNWI5WEYxdkY2eVQyem1OQll2bnhsV3paTTZZamlPVUJwLXBsU0haV3pZejFfejFmbUZzR3NmOUpxcVJQc251c0dIVGd3bklPclJ4SHVNZFd2MWdkZDJTSFdMVlJBc3hmb0EtLXloV0VWaHdSOEQ5NGFEcWVLR0JhWXk5Um5lVkZxQnJtNmU2WkNXYTFsR1BxcjZvMF82SDAyTFRFelctckM5czlCTWI0M09OdERhWGJPSkdsSDMzajV5Y2djUElPa1hwVXRuSVhMOEJzT29mVVhlRk11RHZHQllndXVSVkxR0gGKAUFVX3lxTE1TRkNpTlNGMzVUUi1FczdSeEdpX2Fvd1o4ZVo1QUEyTG9Cd2J1M2JySURGSXQ1QnVkbUJHcTJhWTZsUUdpNndtb1BCWVdnT2tNUlVKalpQc0hnZ1ZpTHRpMmxCRHVaRUh5YTNWWkRzTlFXVkR1U0pGcUFTdXE2VXdpVFlka1lOSG5aUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-08-20",
    "ts": "2026-08-20T07:00:00Z",
    "level": "notable",
@@ -612,15 +646,15 @@
  },
  "cat": "product",
  "score": {
-  "total": 12.2,
+  "total": 13.5,
   "attention": null,
   "centrality": 14,
-  "momentum": 10,
+  "momentum": 13,
   "stature": null,
   "pageviews": 0,
   "citations": 4662,
   "hIndex": 20,
-  "events": 4,
+  "events": 6,
   "posts": 20,
   "wikiEn": null,
   "wikiZh": null

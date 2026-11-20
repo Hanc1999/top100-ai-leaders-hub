@@ -272,6 +272,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2026-11-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Planetoid",
+    "zh": "Planetoid"
+   },
+   "source": "TIB Data Manager",
+   "url": "https://doi.org/10.57702/ez5di4nf",
+   "note": {
+    "en": "Catalog entry for Planetoid, the citation-network benchmark dataset he introduced with Cohen and Salakhutdinov in his 2016 semi-supervised graph-embedding work.",
+    "zh": "Planetoid数据集的目录条目，这一引文网络基准数据集由他与Cohen、Salakhutdinov在2016年的半监督图嵌入研究中提出。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-08-04",
    "ts": null,
    "kind": "podcast",
@@ -849,6 +868,23 @@
    "judged": true
   },
   {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T07:34:55Z",
+   "level": "notable",
+   "title": {
+    "en": "AI到底会不会做科研？杨植麟姚期智联手出100题 姚期智与杨植麟团队推出TCSExam，用100道真实科研任务检验AI。结果显示，模型已经能证明部分命题、改进数学构造，甚至推进猜想，但距离独立解决开放问题仍有明显差距。#Kimi #姚期智 #GPT #AI #科研",
+    "zh": "AI到底会不会做科研？杨植麟姚期智联手出100题 姚期智与杨植麟团队推出TCSExam，用100道真实科研任务检验AI。结果显示，模型已经能证明部分命题、改进数学构造，甚至推进猜想，但距离独立解决开放问题仍有明显差距。#Kimi #姚期智 #GPT #AI #科研"
+   },
+   "body": {
+    "en": "Yang Zhilin and Andrew Yao jointly released TCSExam, a 100-question benchmark of real research tasks; Kimi could prove some propositions and advance conjectures but still falls short of solving open problems independently.",
+    "zh": "杨植麟与姚期智联合推出TCSExam基准测试，用100道真实科研任务检验AI，结果显示Kimi已能证明部分命题、推进猜想，但距离独立解决开放问题仍有明显差距。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BeVdyVEZ4ZHlsZ09vNXN5bHZqWXQ2RWtveEEzN0ZxdU9yTUkycmQtWTNYUlhrRFFnMktPNWtaUjNqTElrbjJvekE1Z0ZuUTIzX3BrUA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-14",
    "ts": "2026-11-14T00:27:31Z",
    "level": "notable",
@@ -1066,6 +1102,23 @@
    },
    "source": "每日经济新闻",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vVDRtcC1wcTNKdE54b1pWdXJ3aUtuVC15MFNvTmFVY1ZmNUtKNDF1OGx4QzBnLURDcG9jTV96clJOR0FReFJRdURfOTlPdXlONW9NcG1aMWxKRHd5U1l3UFJfel9CUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-10-26",
+   "ts": "2026-10-26T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Kimi估值冲上500亿美金，杨植麟、朱啸虎算“旧账”",
+    "zh": "Kimi估值冲上500亿美金，杨植麟、朱啸虎算“旧账”"
+   },
+   "body": {
+    "en": "Moonshot AI's valuation jumped to $50 billion, a major milestone that also saw Yang Zhilin and investor Zhu Xiaohu publicly settle past friction.",
+    "zh": "月之暗面估值跃升至500亿美元，这是一个重要里程碑，杨植麟也借此与投资人朱啸虎公开化解了此前的\"旧账\"。"
+   },
+   "source": "腾讯新闻",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5za0ticy1IWWlzNGhjcDZrQ0dLTDdKZi1LbDJOdjFvUFZ2VENHOXNMeFhEOUxuc1U0b1pPTU1MY19ibTBWYl9rTUF1S3R5cjMxWnNIWWxn?oc=5",
    "auto": true,
    "judged": true
   },
@@ -3244,8 +3297,8 @@
   "pageviews": 85504,
   "citations": 24757,
   "hIndex": 67,
-  "events": 144,
-  "posts": 32,
+  "events": 146,
+  "posts": 33,
   "wikiEn": "Yang Zhilin",
   "wikiZh": "楊植麟"
  },

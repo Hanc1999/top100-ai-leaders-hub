@@ -1,5 +1,5 @@
 {
- "rank": 55,
+ "rank": 56,
  "id": "aidan-gomez",
  "name": {
   "en": "Aidan Gomez",
@@ -179,6 +179,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-11-19",
+   "ts": "2026-11-19T17:59:18Z",
+   "kind": "x",
+   "title": {
+    "en": "Congrats to @AnthropicAI and the whole Anthropic team on a very successful IPO. You've built an incredible set of models and business. A rising tide lifts all b",
+    "zh": "Congrats to @AnthropicAI and the whole Anthropic team on a very successful IPO. You've built an incredible set of models and business. A rising tide lifts all b"
+   },
+   "source": "@aidangomez",
+   "url": "https://x.com/aidangomez/status/2123476222218756591",
+   "note": {
+    "en": "Gomez publicly congratulated Anthropic on its IPO, calling it good for the whole AI industry rather than a zero-sum rival event.",
+    "zh": "Gomez公开祝贺Anthropic成功IPO，称这对整个AI行业都是好事，而非零和的竞争对手事件。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
   },
   {
    "date": "2026-11-18",
@@ -1321,25 +1340,6 @@
    "connector": "openalex"
   },
   {
-   "date": "2025-08-21",
-   "ts": "2025-08-21T15:02:40Z",
-   "kind": "x",
-   "title": {
-    "en": "Weights on HF, check it out and give us feedback!",
-    "zh": "Weights on HF, check it out and give us feedback!"
-   },
-   "source": "@aidangomez",
-   "url": "https://x.com/aidangomez/status/1958545294267654409",
-   "note": {
-    "en": "Gomez announced that new model weights were released on Hugging Face, inviting the community to try them and give feedback.",
-    "zh": "Gomez宣布新模型权重已在Hugging Face上发布，并邀请社区试用并提供反馈。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2025-06-05",
    "ts": null,
    "kind": "podcast",
@@ -2211,10 +2211,10 @@
  },
  "cat": "product",
  "score": {
-  "total": 43.1,
+  "total": 42.9,
   "attention": 44,
   "centrality": 43,
-  "momentum": 55,
+  "momentum": 54,
   "stature": 12,
   "pageviews": 68965,
   "citations": 8859,

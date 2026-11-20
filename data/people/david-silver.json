@@ -1,5 +1,5 @@
 {
- "rank": 52,
+ "rank": 51,
  "id": "david-silver",
  "name": {
   "en": "David Silver",
@@ -221,6 +221,44 @@
    "note": {
     "en": "DeepMind's own podcast, where he sets out the \"era of experience\" argument that agents must learn beyond the ceiling of human data.",
     "zh": "DeepMind 官方播客，他在其中阐述\"经验时代\"的主张：智能体必须突破人类数据的上限自行学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-08-28",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "David Silver 2 - Discussion after Keynote @ RCL 2024",
+    "zh": "David Silver 2 - Discussion after Keynote @ RCL 2024"
+   },
+   "source": "TalkRL: The Reinforcement Learning Pod…",
+   "url": "https://podcasts.apple.com/us/podcast/david-silver-2-discussion-after-keynote-rcl-2024/id1478198107?i=1000666876926&uo=4",
+   "note": {
+    "en": "Second part of a TalkRL recording of the discussion following David Silver's keynote at RLC 2024.",
+    "zh": "TalkRL播客录制的大卫·席尔瓦在2024年强化学习大会（RLC）主题演讲后讨论环节的第二部分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2024-08-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "David Silver @ RCL 2024",
+    "zh": "David Silver @ RCL 2024"
+   },
+   "source": "TalkRL: The Reinforcement Learning Pod…",
+   "url": "https://podcasts.apple.com/us/podcast/david-silver-rcl-2024/id1478198107?i=1000666664298&uo=4",
+   "note": {
+    "en": "TalkRL interviewed David Silver at RLC 2024, where he discussed his work at DeepMind and as a UCL professor.",
+    "zh": "TalkRL播客在2024年强化学习大会（RLC）上采访了大卫·席尔瓦，谈及他在DeepMind的工作及其UCL教授身份。"
    },
    "auto": true,
    "judged": true,
@@ -733,6 +771,23 @@
    "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/"
   },
   {
+   "date": "2026-11-19",
+   "ts": "2026-11-19T06:38:38Z",
+   "level": "notable",
+   "title": {
+    "en": "Ineffable’s David Silver on the race to superintelligence — and how to keep it safe",
+    "zh": "Ineffable’s David Silver on the race to superintelligence — and how to keep it safe"
+   },
+   "body": {
+    "en": "Silver discussed Ineffable Intelligence's position in the race to superintelligence and how he intends to keep that race safe.",
+    "zh": "David Silver谈及Ineffable Intelligence在通向超级智能竞赛中的定位，以及他打算如何确保这场竞赛的安全性。"
+   },
+   "source": "Sifted",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVWtlZnBDUVJONUloMmJESmlIeTFTT2hNZ21wZFNmMm9yZWtuMEcxOVdpcFpuTkZYYlFSMDlZejVoRzJPMTdncTVXUkg5WU1aQ0NBdnRnc052ZW5pclNpYndWUVdnTzhRbDhHa2NGSV9henJYOWx0NV83ajdsbW16WGM5Tjg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-13",
    "ts": "2026-10-13T10:13:45Z",
    "level": "notable",
@@ -978,16 +1033,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 45.1,
+  "total": 45.5,
   "attention": 39,
   "centrality": 47,
-  "momentum": 39,
+  "momentum": 41,
   "stature": 80,
   "pageviews": 52977,
   "citations": 166819,
   "hIndex": 76,
-  "events": 16,
-  "posts": 30,
+  "events": 17,
+  "posts": 32,
   "wikiEn": "David Silver (computer scientist)",
   "wikiZh": "戴維·西爾弗"
  },

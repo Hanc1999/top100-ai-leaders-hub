@@ -149,6 +149,25 @@
    }
   },
   {
+   "date": "2026-11-20",
+   "ts": "2026-11-20T20:02:33Z",
+   "kind": "x",
+   "title": {
+    "en": "Somewhere Euler, Gauss and Riemann in awe today! https://t.co/DDb0Da4rNh",
+    "zh": "Somewhere Euler, Gauss and Riemann in awe today! https://t.co/DDb0Da4rNh"
+   },
+   "source": "@sundarpichai",
+   "url": "https://x.com/sundarpichai/status/2123869629164786137",
+   "note": {
+    "en": "Pichai posted that Euler, Gauss and Riemann would be in awe today, celebrating a notable mathematical result linked in the post.",
+    "zh": "皮查伊发文称欧拉、高斯和黎曼今天都会为之惊叹，庆祝帖子中提到的一项重要数学成果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-19",
    "ts": "2026-11-19T02:25:37Z",
    "kind": "x",
@@ -1137,25 +1156,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-07-22",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Excited to see our first @Android Gemini Intelligence features rolling out to @SamsungMobile foldable devices. That includes task automation now expanding to 40",
-    "zh": "Excited to see our first @Android Gemini Intelligence features rolling out to @SamsungMobile foldable devices. That includes task automation now expanding to 40"
-   },
-   "source": "@sundarpichai",
-   "url": "https://x.com/sundarpichai/status/2079980789450555753",
-   "note": {
-    "en": "Pichai announced the first Android Gemini Intelligence features rolling out to Samsung foldable devices, including task automation across 40+ apps.",
-    "zh": "皮查伊宣布首批Android Gemini智能功能登陆三星折叠屏设备,支持跨40多款应用的任务自动化。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
    "date": "2026-05-26",
    "ts": null,
    "kind": "podcast",
@@ -1526,6 +1526,23 @@
    },
    "source": "Axios",
    "url": "https://www.axios.com/2026/08/06/googles-ai-leadership-shuffle"
+  },
+  {
+   "date": "2026-11-20",
+   "ts": "2026-11-20T13:35:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Days after Sundar Pichai congratulated Elon Musk’s space company, Google picks SpaceX-rival to launch AI",
+    "zh": "Days after Sundar Pichai congratulated Elon Musk’s space company, Google picks SpaceX-rival to launch AI"
+   },
+   "body": {
+    "en": "Days after Pichai publicly congratulated Elon Musk's space venture, Google turned to a SpaceX rival to launch its own AI infrastructure — a split between Pichai's public diplomacy and Google's procurement choices.",
+    "zh": "在Pichai公开祝贺马斯克的航天公司后不久，Google却选择了SpaceX的竞争对手来发射自家AI基础设施——Pichai的公开表态与Google实际采购决策出现了分歧。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNbXF6SmxkQTVKQ0hTVm1tODBQS3V0QUVpSDJLc2d2bm83MG52TmhBR2U0UHJoWHJpaG4wTTktU1BtTzE2SGtoQ2hfM1BzOTRjUHViWFA4SDhEQ2lWS1VlSy1MYng5TndHYWdselFGRV92TmhvWko1akFTaF8xYjlkTWtYZHhtUkhBLWtfb3NtM1VHY19JbHF2UnZqRDdxbXFja3BSR2FYR05uMGVSbFowRTByY2JBb1FXRHR1WjdfclRWMVhCOGc4U2x2Z1dHOUNUeFVlYllUVlJzSzhKRV9IUDhtZFg4RFpWbjNaM1lFLWw1ejJZdVdlanN6SkxLR0xzcjBodFAwWjkwaVM4VmtMTnpSTloyNnp4WEdVNVBzLWducGxUM1I4YnJ0R2hvV0Vyam90RnRvNXYtQdIBvwJBVV95cUxQSktKMjNidUQ4cXAybHc0XzA0TnQzbkhtMzBXeHVxRTBMNG5VWWV3cEd3dk83Ukd2VVBzc3JoTVBldlFNVW5Oa3JUVjFPNktaZFhkUmI3SjIyazdFVGl4UEx2bl9OVXJ6d2xSSFh3RzFpV2FUel8yaXBhWkpoT05vNnAxeUt6RnBLUG9pR0dxbmtBdTZEVXVuRzZFcWZZdEtFME9ycTllSkhyODgtV240bno0ZHdORTctRzIzclZIRGNQQmFuY25FM1NVWklxUUNLOE9zUUJKTldiZjR6T2V3TDVPSWdLNUhHM2RDTmV5WmFKY3FxX0EyNk1NRDJKMHd0ZlVzTjBTX1ZGQ0w3Tlk4MHh0M05wQ2p5aWJqckRZRmlPdVJKRndSRXo0QzVVbjVJdDRCSWhyRUtJMmpCSjVJ?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-11-17",
@@ -3923,7 +3940,7 @@
   "pageviews": 1299595,
   "citations": 1,
   "hIndex": 1,
-  "events": 142,
+  "events": 143,
   "posts": 74,
   "wikiEn": "Sundar Pichai",
   "wikiZh": "孙达尔·皮柴"

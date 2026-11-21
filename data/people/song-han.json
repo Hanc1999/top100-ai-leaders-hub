@@ -228,6 +228,63 @@
    }
   },
   {
+   "date": "2026-11-20",
+   "ts": "2026-11-20T03:35:13Z",
+   "kind": "x",
+   "title": {
+    "en": "With the success of KDA (kernel design agent), we release QDA (quantization design agent):",
+    "zh": "With the success of KDA (kernel design agent), we release QDA (quantization design agent):"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2123621155756036191",
+   "note": {
+    "en": "Han announced QDA, a quantization design agent, following up on the earlier KDA kernel design agent.",
+    "zh": "韩松发布了量化设计智能体QDA，延续此前核设计智能体KDA的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming",
+    "zh": "TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.26619v1",
+   "note": {
+    "en": "Song Han co-authored TideCache, a hybrid LLM serving system with transparent cache management and layer-wise streaming for long-context inference, with regular collaborators Zhijian Liu and Qinghao Hu.",
+    "zh": "韩松与常年合作者Zhijian Liu、Qinghao Hu等人合著了TideCache，一套面向混合架构大模型长上下文推理的透明缓存管理与分层流式加载服务系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-11-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "VR-SparseQuant: Accurate FP4 Quantization with 2:4 Sparsity on Vera Rubin",
+    "zh": "VR-SparseQuant: Accurate FP4 Quantization with 2:4 Sparsity on Vera Rubin"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.25717v1",
+   "note": {
+    "en": "Song Han co-authored VR-SparseQuant, combining accurate FP4 quantization with 2:4 sparsity on NVIDIA's Vera Rubin architecture, extending his AWQ-era quantization work with lab collaborator Hanrui Wang.",
+    "zh": "韩松与实验室合作者Hanrui Wang合著了VR-SparseQuant，在NVIDIA Vera Rubin架构上结合FP4量化与2:4稀疏化，延续了他在AWQ方向的量化研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-11-17",
    "ts": null,
    "kind": "paper",
@@ -855,25 +912,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2026-07-23",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation",
-    "zh": "SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2607.21553v1",
-   "note": {
-    "en": "SANA-Video 2.0, a 5B/14B hybrid linear-attention video diffusion transformer that generates 720p video on a single GPU.",
-    "zh": "SANA-Video 2.0：5B/14B 规模的混合线性注意力视频扩散模型，单卡即可生成 720p 视频。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2026-07-21",
    "ts": null,
    "kind": "x",
@@ -891,25 +929,6 @@
    "judged": true,
    "platform": "x",
    "connector": "backfill"
-  },
-  {
-   "date": "2026-07-08",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE",
-    "zh": "Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2607.07740v2",
-   "note": {
-    "en": "Long-context extension method for LLMs based on a dynamic bifocal RoPE scheme.",
-    "zh": "提出基于动态双焦 RoPE 的大模型长上下文扩展方法。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
   },
   {
    "date": "2026-07-02",
@@ -1637,7 +1656,7 @@
   "citations": 32832,
   "hIndex": 58,
   "events": 6,
-  "posts": 71,
+  "posts": 72,
   "wikiEn": null,
   "wikiZh": "韩松"
  },

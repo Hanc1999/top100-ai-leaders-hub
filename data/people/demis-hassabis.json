@@ -223,6 +223,25 @@
    }
   },
   {
+   "date": "2026-11-20",
+   "ts": "2026-11-20T20:11:26Z",
+   "kind": "x",
+   "title": {
+    "en": "Fantastic to be collaborating with Merck on designing a new cancer drug - another important proof point of the rapid progress we’re making at Iso on reimagining",
+    "zh": "Fantastic to be collaborating with Merck on designing a new cancer drug - another important proof point of the rapid progress we’re making at Iso on reimagining"
+   },
+   "source": "@demishassabis",
+   "url": "https://x.com/demishassabis/status/2123871861843075099",
+   "note": {
+    "en": "Hassabis announced Isomorphic Labs is collaborating with Merck to design a new cancer drug, a concrete proof point for the company's AI-driven drug discovery work.",
+    "zh": "哈萨比斯宣布Isomorphic Labs与默克（Merck）合作设计一款新型抗癌药物，为该公司的AI药物研发工作提供了一个具体的成果印证。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-18",
    "ts": "2026-11-18T19:05:57Z",
    "kind": "x",
@@ -1515,25 +1534,6 @@
    "connector": "x"
   },
   {
-   "date": "2025-08-01",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Gemini 2.5 Deep Think now available for Ultra subscribers! Great at tackling problems that require creativity &amp; planning, it finds the best answer by consid",
-    "zh": "Gemini 2.5 Deep Think now available for Ultra subscribers! Great at tackling problems that require creativity &amp; planning, it finds the best answer by consid"
-   },
-   "source": "@demishassabis",
-   "url": "https://x.com/demishassabis/status/1951249130275127424",
-   "note": {
-    "en": "Announced Gemini 2.5 Deep Think became available to Ultra subscribers, a reasoning mode for complex problems.",
-    "zh": "宣布Gemini 2.5 Deep Think正式向Ultra订阅用户开放,这是一种面向复杂问题的推理模式。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
    "date": "2025-07-23",
    "ts": null,
    "kind": "podcast",
@@ -2189,6 +2189,23 @@
    },
    "source": "Fortune",
    "url": "https://fortune.com/2026/08/10/how-stalled-models-missed-deadlines-and-staff-burnout-lead-to-the-unraveling-of-googles-deepmind/"
+  },
+  {
+   "date": "2026-11-20",
+   "ts": "2026-11-20T14:25:00Z",
+   "level": "minor",
+   "title": {
+    "en": "‘Apology accepted’: Google chief scientist Demis Hassabis after research company says sorry for Google De",
+    "zh": "‘Apology accepted’: Google chief scientist Demis Hassabis after research company says sorry for Google De"
+   },
+   "body": {
+    "en": "Hassabis publicly and lightheartedly accepted SemiAnalysis's mock apology for underestimating DeepMind after Gemini 4's reception, while crediting his team's work.",
+    "zh": "在Gemini 4获得好评后，SemiAnalysis以调侃方式为此前低估DeepMind道歉，Hassabis公开、轻松地\"接受道歉\"，并肯定了团队的努力。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOazBDLTkxZHQzZ3UzREtIM19qSG9YRlpYdFBjVHEyR0FHM0NKWmZHR0VEVDBQUXZIZU95b0NzTkdqR2RvMU5aQWF3RThoZi11V1FkT2l0aGpuZFR3YXdBanV5LVFQZVItOHBsaDMxU3pwUjlMNnVkYnM1OVB2cjdtRHhiTEFzWlNBcnJ1em1LTm5SZFVNajU0U3FjVVJMSGl4aXpwdXc1UGZFR1dfYjBCM29sd3NpREw3QjFnd1JtNEZ6SFFrS2ZXRmdvYXZVODhOZi1uRkM2Mlltd1lNVmQ3YmZpa2JBVkZaTWEzbS1hank0VVZOV0VWNS0yRjlDOHhYLURpaFE2cWZJOUJUZXI3OGhzZ3RwUnBrdHJGc0RQNGRnX0xlRzl6WGJB0gGvAkFVX3lxTE0tWGdwZk5BS001STJyNkRTYkh2X2RZOWwxRWQ4c3pJdGNDbTBtblJjZXRnUWM2dWVwT1FqRndCc3Myb1hqYnJZNm5wWEhCMzZOWk5rd1RJaWo5YW5oRXllb1JBS0ctNm81Y3pwYkFuR21NZkFLSklXT1FXRFpJejQxTzRKc0hiY0tiSm5NazBSbHdfRC13cXFQNXgzbkhkR2pZWnd4TTI3Y28wZm0xbGFFRW9ZbFNDRlpDR1dGSHFGYUZkUmRvRTF1MWstZ2tsajgyZWN0bmtDaWxNSkdfY2ljT0p6NVowV0dYMHZtQ0tDV19xWEg4UUZWNl9FMFdnZFVDOVNCUzA0Y202QWtJbk1LVFFwUVp1ZXlEWmU0V2N5eG5xX2ZwMV9LTHVQbk53bw?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-11-18",
@@ -3226,7 +3243,7 @@
   "pageviews": 1121478,
   "citations": 195503,
   "hIndex": 92,
-  "events": 62,
+  "events": 63,
   "posts": 106,
   "wikiEn": "Demis Hassabis",
   "wikiZh": "杰米斯·哈萨比斯"

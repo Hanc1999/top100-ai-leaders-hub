@@ -120,6 +120,25 @@
    }
   },
   {
+   "date": "2026-11-20",
+   "ts": "2026-11-20T20:14:06Z",
+   "kind": "x",
+   "title": {
+    "en": "Inkling 2 Mini is a looped transformer that runs on a laptop. Looping lets a model think more and write less. At this scale, its thought process remains monitor",
+    "zh": "Inkling 2 Mini is a looped transformer that runs on a laptop. Looping lets a model think more and write less. At this scale, its thought process remains monitor"
+   },
+   "source": "@miramurati",
+   "url": "https://x.com/miramurati/status/2123872534970208421",
+   "note": {
+    "en": "Murati described Thinking Machines Lab's new Inkling 2 Mini, a looped transformer small enough to run on a laptop, noting its reasoning stays monitorable at this scale but may not as it's scaled up.",
+    "zh": "Murati介绍了Thinking Machines Lab推出的Inkling 2 Mini——一款可在笔记本电脑上运行的循环（looped）Transformer模型，并指出目前其思考过程仍可被监控，但规模扩大后可能不再如此。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-13",
    "ts": "2026-11-13T21:44:47Z",
    "kind": "x",
@@ -802,6 +821,25 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2019-07-31",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Envisioning safe, human-centered AI with OpenAI’s Mira Murati",
+    "zh": "Envisioning safe, human-centered AI with OpenAI’s Mira Murati"
+   },
+   "source": "Bistrocast",
+   "url": "https://podcasts.apple.com/us/podcast/envisioning-safe-human-centered-ai-with-openais-mira/id1440348671?i=1000445838282&uo=4",
+   "note": {
+    "en": "A 2019 interview with Murati, then OpenAI's CTO, on building safe, human-centered AI — newly surfaced by the connector but a genuine appearance by her.",
+    "zh": "2019年对时任OpenAI CTO的Mira Murati的一次访谈，讨论如何构建安全、以人为本的AI——该内容为连接器新近发现，但确系她本人的真实访谈。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   }
  ],
  "news": [
@@ -1034,6 +1072,23 @@
    },
    "source": "Yahoo Tech",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3BISDdfcnNTNDJvaF8tN29Ycml1eEZpei1GRmlhcWd2LUZsT3Aybndkc1ZoQmVrUmcxeERVTWFnQlRGd194cnJodnVDbGw0M2h2ZC1iYUd6cFpYQ0pab2NzNWxoNDJaNUFWXzVOU1hLbVBfcVQtaVRXRU9oOVh2ZVZSVHpUbGt0aG16TmpzMA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-07-17",
+   "ts": "2026-07-17T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Former OpenAI CTO Mira Murati Unveils AI Model Inkling",
+    "zh": "Former OpenAI CTO Mira Murati Unveils AI Model Inkling"
+   },
+   "body": {
+    "en": "Thinking Machines Lab shipped Inkling, its first in-house model — a 975B-parameter open-weight mixture-of-experts system released under an Apache license.",
+    "zh": "Thinking Machines Lab发布首款自研模型Inkling，这是一个拥有9750亿参数、以Apache许可开源发布的混合专家模型。"
+   },
+   "source": "ForkLog",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNi10UWxFV2tacTVPcm5JU0NiSUd3VVNJcmJNUHRhcUJnRUZhRURjVVZyLUw4UGZEQW9OQ015MUN5VEJTd0FRMUZFWXdqS0xGbm1UUEhsa1IwbkhWMEs0c2FIMURJQTExTDhISDRjcTVNZ3V3Q293VEhCNDFCdE96ZVdLdGk?oc=5",
    "auto": true,
    "judged": true
   },
@@ -1453,16 +1508,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 74.4,
+  "total": 74.9,
   "attention": 82,
   "centrality": 72,
-  "momentum": 63,
+  "momentum": 65,
   "stature": null,
   "pageviews": 800593,
   "citations": 1653,
   "hIndex": 3,
-  "events": 38,
-  "posts": 37,
+  "events": 39,
+  "posts": 39,
   "wikiEn": "Mira Murati",
   "wikiZh": "米拉·穆拉蒂"
  },

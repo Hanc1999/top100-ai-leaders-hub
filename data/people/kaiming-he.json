@@ -1,5 +1,5 @@
 {
- "rank": 60,
+ "rank": 59,
  "id": "kaiming-he",
  "name": {
   "en": "Kaiming He",
@@ -1459,6 +1459,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-04",
+   "ts": "2026-10-04T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "何恺明VISTA框架助Claude满分通关ARC-AGI-3",
+    "zh": "何恺明VISTA框架助Claude满分通关ARC-AGI-3"
+   },
+   "body": {
+    "en": "He's team released VISTA, a visual-memory harness that lifted Claude Opus 5.0's action-efficiency score from 40.68 to a perfect 100 across all 25 public ARC-AGI-3 games, the first system to reach that without program synthesis.",
+    "zh": "何恺明团队发布视觉记忆框架VISTA，使Claude Opus 5.0在全部25款公开ARC-AGI-3游戏中的动作效率得分从40.68提升至满分100，是首个无需程序合成即达到满分的系统。"
+   },
+   "source": "zgeo.net",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9odUk3VTVuQkNWc0RUVFV1R1NiZ3pGb3Fsd0g4dDQ5enc3OW5aVWp4NWw0MU1ZcFN5c3BLVkpTTjN5dXNkdzZnRHQ0M0tycGFxQm92Um5aQ3B6OWIwcmJ0WW5fTGg5Zw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-03",
    "ts": "2026-10-03T21:00:00Z",
    "level": "notable",
@@ -1710,6 +1727,23 @@
    },
    "source": "新浪网",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQblJrRERzNVlPN3E1ck1kMTVSZXJxWUQ2UFA3YTVmT1RiTGVNOWpxMXNXd3pXWGJ0QzRfYmJEUmJ2R2VDRWxvY0RqckFlWHFLODlxWVlTeTg5bVY5SS1oYkRQcGFHc1lfTUhEQk5mclg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-06-24",
+   "ts": "2026-06-24T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "何恺明团队新作MiniT2I：砍掉VAE，文生图更强了！",
+    "zh": "何恺明团队新作MiniT2I：砍掉VAE，文生图更强了！"
+   },
+   "body": {
+    "en": "Kaiming He's group released MiniT2I, a text-to-image model that removes the VAE component to simplify and strengthen generation.",
+    "zh": "何恺明团队发布了MiniT2I，一个去掉VAE组件的文生图模型，使生成效果更强、流程更简化。"
+   },
+   "source": "腾讯云",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyTjNlSks5YTZlSVlsV1p0bnRmVGF3WGxvXzFOMnNnVktzcTVhZWlNc1VZb0VfTHB4eE8xUWpVVnRMWXZEdW9Tb0VjcmI4MVdzTVdZNHpaajVtMGstM3BZcg?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2095,15 +2129,15 @@
  },
  "cat": "research",
  "score": {
-  "total": 40.1,
+  "total": 40.4,
   "attention": 33,
   "centrality": 2,
-  "momentum": 71,
+  "momentum": 72,
   "stature": 100,
   "pageviews": 46828,
   "citations": 555963,
   "hIndex": 83,
-  "events": 79,
+  "events": 81,
   "posts": 30,
   "wikiEn": "Kaiming He",
   "wikiZh": "何恺明"

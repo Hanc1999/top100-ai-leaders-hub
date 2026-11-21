@@ -638,6 +638,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2023-03-29",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "S8E1: Cristóbal Valenzuela Brings Us into the Future of Creative Editing with Runway and their Generative AI-powered Suite",
+    "zh": "S8E1: Cristóbal Valenzuela Brings Us into the Future of Creative Editing with Runway and their Generative AI-powered Suite"
+   },
+   "source": "The Room Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/s8e1-crist%C3%B3bal-valenzuela-brings-us-into-the-future/id1539670094?i=1000606510187&uo=4",
+   "note": {
+    "en": "Season 8 premiere interview of The Room Podcast built entirely around Valenzuela, covering Runway's generative AI editing suite.",
+    "zh": "The Room Podcast 第八季首播专访，整期聚焦 Valenzuela 与 Runway 的生成式 AI 编辑套件。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2023-03-21",
    "ts": null,
    "kind": "podcast",
@@ -784,7 +803,7 @@
   "citations": 16,
   "hIndex": 2,
   "events": 1,
-  "posts": 32,
+  "posts": 33,
   "wikiEn": "Cristóbal Valenzuela",
   "wikiZh": null
  },

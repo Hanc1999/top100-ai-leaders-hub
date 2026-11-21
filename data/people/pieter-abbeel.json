@@ -1,5 +1,5 @@
 {
- "rank": 74,
+ "rank": 77,
  "id": "pieter-abbeel",
  "name": {
   "en": "Pieter Abbeel",
@@ -715,25 +715,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2026-05-24",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Multi-Objective Learning for Diffusion Models: A Statistical Theory under Semi-Supervised Learning",
-    "zh": "Multi-Objective Learning for Diffusion Models: A Statistical Theory under Semi-Supervised Learning"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2605.25210v1",
-   "note": {
-    "en": "A statistical theory for training diffusion models against several target distributions at once under semi-supervised data.",
-    "zh": "为半监督数据下同时面向多个目标分布训练扩散模型建立统计理论。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2025-05-29",
    "ts": null,
    "kind": "x",
@@ -1325,16 +1306,16 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 30.6,
+  "total": 30.1,
   "attention": 29,
   "centrality": 23,
-  "momentum": 23,
+  "momentum": 21,
   "stature": 73,
   "pageviews": 37345,
   "citations": 79473,
   "hIndex": 123,
   "events": 2,
-  "posts": 60,
+  "posts": 59,
   "wikiEn": "Pieter Abbeel",
   "wikiZh": "彼得·阿比爾"
  },

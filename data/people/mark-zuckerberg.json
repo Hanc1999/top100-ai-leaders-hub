@@ -508,6 +508,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2022-06-22",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Meta Founder & CEO Mark Zuckerberg And Off The Charts: Bitcoin 6/22/22",
+    "zh": "Meta Founder & CEO Mark Zuckerberg And Off The Charts: Bitcoin 6/22/22"
+   },
+   "source": "Mad Money w/ Jim Cramer",
+   "url": "https://podcasts.apple.com/us/podcast/meta-founder-ceo-mark-zuckerberg-and-off-the/id147247199?i=1000567438412&uo=4",
+   "note": {
+    "en": "Zuckerberg sat down with Jim Cramer on Mad Money for a two-part interview on Meta's business, from June 2022.",
+    "zh": "扎克伯格在2022年6月接受吉姆·克莱默《Mad Money》节目的两部分专访，谈及Meta的业务状况。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2022-02-26",
    "ts": null,
    "kind": "podcast",
@@ -4738,7 +4757,7 @@
   "citations": 891,
   "hIndex": 15,
   "events": 247,
-  "posts": 22,
+  "posts": 23,
   "wikiEn": "Mark Zuckerberg",
   "wikiZh": "马克·扎克伯格"
  },

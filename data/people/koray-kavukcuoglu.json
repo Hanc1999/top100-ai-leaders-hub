@@ -164,6 +164,25 @@
    }
   },
   {
+   "date": "2026-11-19",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Gemini and the path to AGI with Koray Kavukcuoglu",
+    "zh": "Gemini and the path to AGI with Koray Kavukcuoglu"
+   },
+   "source": "Google DeepMind: The Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/gemini-and-the-path-to-agi-with-koray-kavukcuoglu/id1476316441?i=1000802991291&uo=4",
+   "note": {
+    "en": "Koray Kavukcuoglu returned to Google DeepMind's own podcast to discuss Gemini and the path to AGI with host Hannah Fry.",
+    "zh": "Koray Kavukcuoglu重新做客Google DeepMind自家播客，与主持人Hannah Fry探讨Gemini与通向AGI之路。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-11-13",
    "ts": "2026-11-13T20:30:00Z",
    "kind": "blog",
@@ -1126,7 +1145,7 @@
   "citations": 166549,
   "hIndex": 73,
   "events": 11,
-  "posts": 42,
+  "posts": 43,
   "wikiEn": null,
   "wikiZh": null
  },

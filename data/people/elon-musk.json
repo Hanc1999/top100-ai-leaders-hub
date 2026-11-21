@@ -156,6 +156,44 @@
    }
   },
   {
+   "date": "2026-11-20",
+   "ts": "2026-11-20T10:34:05Z",
+   "kind": "x",
+   "title": {
+    "en": "Tesla’s AI, running on our little AI4 computer, can now reach Torment II in Diablo",
+    "zh": "Tesla’s AI, running on our little AI4 computer, can now reach Torment II in Diablo"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2123726569206415815",
+   "note": {
+    "en": "Musk said Tesla's AI4 inference chip, the same silicon line used in its cars, can now run a modded Diablo II far enough to reach the hard 'Torment II' difficulty, a stunt demo of the chip's compute headroom.",
+    "zh": "马斯克表示，特斯拉汽车所用的AI4推理芯片现在已经能够运行经过改装的《暗黑破坏神II》并打到高难度的“痛苦II”等级，这是展示该芯片算力余量的一次噱头演示。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-20",
+   "ts": "2026-11-20T16:34:21Z",
+   "kind": "x",
+   "title": {
+    "en": "Neuralink’s Blindsight product is now just waiting for regulatory approval",
+    "zh": "Neuralink’s Blindsight product is now just waiting for regulatory approval"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2123817232849567933",
+   "note": {
+    "en": "Musk says Neuralink's Blindsight vision-restoration implant is now awaiting regulatory approval, a concrete product-status update.",
+    "zh": "马斯克表示，Neuralink的视觉恢复植入设备Blindsight目前正在等待监管批准，这是一个具体的产品进展更新。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-19",
    "ts": "2026-11-19T01:04:44Z",
    "kind": "x",
@@ -1068,44 +1106,6 @@
    "connector": null
   },
   {
-   "date": "2026-11-09",
-   "ts": "2026-11-09T07:20:37Z",
-   "kind": "x",
-   "title": {
-    "en": "The Cybertruck order rate far exceeds our production rate. We will try to make as many as possible before shutting down the line in about 8 months, but will hav",
-    "zh": "The Cybertruck order rate far exceeds our production rate. We will try to make as many as possible before shutting down the line in about 8 months, but will hav"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2119691615774146614",
-   "note": {
-    "en": "Musk said Cybertruck demand now exceeds production and the line will shut down in about 8 months, with some deposits refunded.",
-    "zh": "马斯克称Cybertruck订单量已超过产能，生产线将在约8个月后停产，部分订金将被退还。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-11-08",
-   "ts": "2026-11-08T13:17:51Z",
-   "kind": "x",
-   "title": {
-    "en": "Grok Bot fixes for improved token efficiency and smarter behavior are underway",
-    "zh": "Grok Bot fixes for improved token efficiency and smarter behavior are underway"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2119419126045454531",
-   "note": {
-    "en": "Musk said fixes to Grok Bot are underway to improve token efficiency and overall behavior.",
-    "zh": "马斯克表示正在修复Grok Bot，以提升其token使用效率并改善整体表现。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2026-07-23",
    "ts": null,
    "kind": "podcast",
@@ -1262,6 +1262,210 @@
    },
    "source": "xAI",
    "url": "https://x.ai/news"
+  },
+  {
+   "date": "2026-11-20",
+   "ts": "2026-11-20T05:46:42Z",
+   "level": "notable",
+   "title": {
+    "en": "Texas Officials Reject SpaceX Tax Break for Elon Musk's $24 Billion Project",
+    "zh": "Texas Officials Reject SpaceX Tax Break for Elon Musk's $24 Billion Project"
+   },
+   "body": {
+    "en": "Texas officials rejected a tax break for Musk's $24 billion SpaceX project, a setback for the company's expansion plans.",
+    "zh": "德州官员拒绝为马斯克240亿美元的SpaceX项目提供税收优惠，这对公司的扩张计划是一次打击。"
+   },
+   "source": "Law Commentary",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQXZnRFFNSjRkc2wxTVNOMkxObGM3SVJSeW5nLXNHWEo1UktJN0tCZ0JkUGdRemd1Mnk2TjFVYzY0YWJhV3lXYld3ZldDd1A3SHl3LTQ4UFBLR3lDZmZsMWdHbFVQZ1dQVWU5U1ZxeHVndWtWbGR3bXQxSFIzYWd2WEJidk5Ibmtpd00wb0gwVFZ0aTBjWC03Sw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-20",
+   "ts": "2026-11-20T05:38:49Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk reveals Tesla’s next vehicle without a steering wheel",
+    "zh": "Elon Musk reveals Tesla’s next vehicle without a steering wheel"
+   },
+   "body": {
+    "en": "Musk unveiled Tesla's next vehicle with no steering wheel at all, signaling a full bet on autonomous driving.",
+    "zh": "马斯克公布了特斯拉下一款车型，完全取消了方向盘，表明公司在全自动驾驶上的押注。"
+   },
+   "source": "Teslarati",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZXBVWGVObk5VcEo4UnE1QUVNSlJMWlNwaV9nQWZTMHFTRURxdzIwN0FFMXVla2ZFSThZd2lvQjVLZk1yODdObjQtWVRHWHJHNUI1TVhZNUgtblVBNHYtbnM2eUlabnNCWVNzNzVwMUQwS2RfTU43d2tQSTZiMjVLSGMwUXU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-20",
+   "ts": "2026-11-20T06:24:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s Dream Meets Wall Street Reality: SpaceX Lenders Don’t Want Nvidia Chips Leaving Earth",
+    "zh": "Elon Musk’s Dream Meets Wall Street Reality: SpaceX Lenders Don’t Want Nvidia Chips Leaving Earth"
+   },
+   "body": {
+    "en": "Reporting reveals SpaceX's loan covenants restrict moving Nvidia chips off-site, a financing constraint on Musk's compute buildout for xAI/SpaceX.",
+    "zh": "报道披露SpaceX的贷款条款限制将Nvidia芯片运出场外，这是马斯克为xAI/SpaceX扩充算力所面临的融资约束。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczIyMEUtSUxFRnpWWlFQNXl3VzhFeXJBNXlLdTRVem82aDBJYXdKcXFRTlhnN0JhMnVIQUFxbTNCNFpoTEdBUm5JV3AtSWZZZTBIMThfNXhNdHBfMDZFU1lDSU5QSWlaMWNfQjA5ei1PUUZWb3hHY2UtRU44Y2labzRTU3padVJBbGFOS0hWMEJnTEEzSVE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-20",
+   "ts": "2026-11-20T10:28:57Z",
+   "level": "minor",
+   "title": {
+    "en": "Elon Musk Claims Sean Duffy Rejected Free Starlink Terminals For FAA - Aero-News Network",
+    "zh": "Elon Musk Claims Sean Duffy Rejected Free Starlink Terminals For FAA - Aero-News Network"
+   },
+   "body": {
+    "en": "Musk said Transportation Secretary Sean Duffy turned down free Starlink terminals for the FAA, a new flashpoint in his push to get SpaceX hardware into U.S. air-traffic-control modernization.",
+    "zh": "马斯克称交通部长肖恩·达菲拒绝了SpaceX为联邦航空管理局（FAA）提供的免费星链终端，这是他推动将SpaceX设备用于美国空管系统现代化的最新争议点。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeWpaNEozeF8zM0paelZNZVNyR09ma0VuM2pveXVqbExkN0FraXFkS2N3bE9YTmQ1QUR2aERnMzdSWGRnb2hndTlJbUEtMEJmd2p1VWZqVVhWMjlwTVZ3QllLYzBsYXkwN3V4TFh1S3ZUZnYybi1hQmk5cUVSWkgzaXo2Y1hVZGw5RHlEUXlqNEFGZ3BIS0tJ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-20",
+   "ts": "2026-11-20T02:38:12Z",
+   "level": "major",
+   "title": {
+    "en": "Skydance CEO David Ellison Confirms Elon Musk's Investment in Paramount and Warner Bros. Discovery Megamerger",
+    "zh": "Skydance CEO David Ellison Confirms Elon Musk's Investment in Paramount and Warner Bros. Discovery Megamerger"
+   },
+   "body": {
+    "en": "Skydance CEO David Ellison confirmed Musk is investing in the Paramount–Warner Bros. Discovery megamerger, a significant move beyond his AI/auto/rocket businesses.",
+    "zh": "Skydance首席执行官David Ellison证实马斯克投资派拉蒙与华纳兄弟探索合并案，这是他在AI、汽车、火箭业务之外的一次重大投资动作。"
+   },
+   "source": "Hypebeast",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVzZ0MzJxdEFXbW5JMV9JYXRHc2Vkdkk4UWY3T19lRVNocGtKb3VVeDFLeXJhWFhCamNKY3NKb0hRb2pTZk1NTVpGeXRFS3c5bEdLYUtwTFBBSjVwV211MWRBbGNLYl9Pa1FaU2JLTEprNmxRVV9LQUJjNVR5ZjU1MHBNTkNVQ050MTdBVXFocnBFcmpFY2VuSzFkUVhPQXRTZC1pTzRpM2ZnSlRVc2d4QjBmV0h6LU1uc2puOW5mODV0dzd3UVJGNA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-20",
+   "ts": "2026-11-20T14:20:59Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk, CEO of SpaceX and Tesla, says ‘I’m not MAGA’",
+    "zh": "Elon Musk, CEO of SpaceX and Tesla, says ‘I’m not MAGA’"
+   },
+   "body": {
+    "en": "Musk publicly stated 'I'm not MAGA,' a notable political positioning statement.",
+    "zh": "马斯克公开表示“我不是MAGA”，这是一次值得关注的政治立场表态。"
+   },
+   "source": "Washington Times",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbVFNSU1zUG95TFFOU1QtdXZSeVhVZE84TjhFYkUyakdXSzlBeWVKM0JFS2Vrb0M4Y3kzZWIxN1A1UVZaUEVENDVBRTdOOUVwaEYxVWIxd25ZY0FoYXBsWVN5aGZ0SnZGVnJ5LW9zX0NhdkdYbTJYbV81TnY3LS02X0V5NjVhZ29JUzRjZGJfY2paNU9MWTBfQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-20",
+   "ts": "2026-11-20T17:28:02Z",
+   "level": "major",
+   "title": {
+    "en": "SpaceX Just Raised $32 Billion for AI Chips. Lenders Want Elon Musk to Keep Them on Earth.",
+    "zh": "SpaceX Just Raised $32 Billion for AI Chips. Lenders Want Elon Musk to Keep Them on Earth."
+   },
+   "body": {
+    "en": "SpaceX sold $32 billion in bonds to fund a five-year lease of Nvidia AI chips for its data centers, part of a $40B+ financing package that is drawing scrutiny from lenders over the debt load.",
+    "zh": "SpaceX发行320亿美元债券，为其数据中心五年期租赁英伟达AI芯片提供资金，这是总额超400亿美元融资计划的一部分，债权人对其债务水平表示担忧。"
+   },
+   "source": "The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMXMyTHFaQ0I1OHJMOWxUeV9zU1Q2S09MN3YzMzE1Y0I5aHlSeXlrNW8yb3NGR0V0b1NQTkpYSGp6eXJSbzRaMzVaRW5KWllJYXdwYVlNUDJJdk1ncU03SGtCeEpYcjlIU0Z0STZxX3lqS1kzZTV2a2xiOTYtOUl6a3l5aWVVc1Nobnp3b0dqdmNURnBWaUN6aGp6LTlfTHpSSW5Gd3JqTnlGbzBJR3RLNUhKa3hIYlEtYkdwZEI3czBhWk43VTlQZHpR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-20",
+   "ts": "2026-11-20T19:34:21Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Wants to Remove the Steering Wheel From Tesla's Model Y. That’s Not the Riskiest Part",
+    "zh": "Elon Musk Wants to Remove the Steering Wheel From Tesla's Model Y. That’s Not the Riskiest Part"
+   },
+   "body": {
+    "en": "Musk said Tesla plans to remove the steering wheel from the Model Y, a step toward full autonomy for the vehicle.",
+    "zh": "马斯克表示特斯拉计划在Model Y上取消方向盘，这是迈向车辆完全自动驾驶的一步。"
+   },
+   "source": "Inc.com",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN3BxQTA4NFFucVF4LVVaSHVjVVVwRnZNQU04WkxLS1Z5REdEZDdHNEwtUVl5b0JfX0xNSTVMZVBkVGxJYk8wZ3NzbEp3Q2NvbUJ2ZDRPTG9vV0dKaUZNbHNHSGZKSG9PbndmMEhaLThiR3FYRHVWcVp3Mm10eGhYNzJEUzBtVFU4dlZLUFl6Y0d5Z1d4TXZqNmI3Zw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-20",
+   "ts": "2026-11-20T17:12:52Z",
+   "level": "minor",
+   "title": {
+    "en": "Elon Musk says micro cell towers will bring Starlink Mobile indoors",
+    "zh": "Elon Musk says micro cell towers will bring Starlink Mobile indoors"
+   },
+   "body": {
+    "en": "Musk said Starlink plans to use micro cell towers to bring Starlink Mobile connectivity indoors.",
+    "zh": "马斯克表示星链计划通过微型蜂窝基站将星链手机服务覆盖延伸至室内。"
+   },
+   "source": "Fierce Network",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMWQ0SF9oOUpzVm5XV216eVJuSmJkLXg2OVVCdzFEZFdWMnJtbGN1Mm1xSHl2aDU4d0ZMbjk2UDBsQTdjcGJjNEtkd25rZmtPM240SkJuWW5EVlB6Q3VwV0xZcVE5aEVtbVhhYzczbDY0SUh1NTlOeHJnOW9scFhYNy1BcWNBaXZSajhqcl96eUUtSnh2UHZna204VGVkemhQNllfTzUzNGJLUVk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-20",
+   "ts": "2026-11-20T14:30:07Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Says SpaceX, Tesla Would Be ‘Better Together,’ But Decision Lies With Shareholders: ‘So Many Areas of Convergence’",
+    "zh": "Elon Musk Says SpaceX, Tesla Would Be ‘Better Together,’ But Decision Lies With Shareholders: ‘So Many Areas of Convergence’"
+   },
+   "body": {
+    "en": "Musk said SpaceX and Tesla would be 'better together' but left any combination decision to shareholders, raising the prospect of merging his two biggest companies.",
+    "zh": "马斯克表示SpaceX和特斯拉\"合并会更好\"，但决定权留给股东，这让外界开始讨论他两家最大公司合并的可能性。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcm5qZWNXSmRHcEtmNFZOS0w1Q2tuWkhLZWZ6OXhpdTNPSkxWdGp2ZGt5XzZYVUx2VldQbWlucFlvbnRpdlRnb0FkalRQb2JxMy1BR0RxQWNLaXJxSkh3aTBnRXUtazkwS2U1STJyZXJHS183SVl5eHF2TGZhSWNGUk1mbnpYUm14Zzg1U0ZBdWZpOG1kMGc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-20",
+   "ts": "2026-11-20T19:30:05Z",
+   "level": "notable",
+   "title": {
+    "en": "Trouble For Elon Musk's SpaceX In Texas? Proposed $24 Billion Data Center and Power Plant Face Uncertainty After Local Officials Reject Tax Break",
+    "zh": "Trouble For Elon Musk's SpaceX In Texas? Proposed $24 Billion Data Center and Power Plant Face Uncertainty After Local Officials Reject Tax Break"
+   },
+   "body": {
+    "en": "Local officials in Texas rejected a tax break for SpaceX's proposed $24 billion data center and power plant, putting the project's timeline in question.",
+    "zh": "德克萨斯州地方官员拒绝为SpaceX计划中的240亿美元数据中心和发电厂项目提供税收优惠，令该项目的进度存疑。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbUJWM2N4bGE5VVdfYm4yNXFadUI5S29wMlZCek1JYlRxdS1oRHJIRmVvMVFjcWxvLVRoYnh4UG52dV9TM0lBN0k4VDBWMFFOUzVlaHRaS3JWU05lTVdDLThhWGk1ZUJYTk12aUdUbkh6TGVQTXphcU05YVZHSHVHdTF6REpDck1iQW9pR1BLa3NLakFWZXlB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-20",
+   "ts": "2026-11-20T04:30:00Z",
+   "level": "minor",
+   "title": {
+    "en": "Elon Musk Says Grok Can ‘Do Your Accounting’ as SpaceXSI Adds Five Full-Time AI Bots, Cutting Invoice Processing From 24 Hours to Minutes",
+    "zh": "Elon Musk Says Grok Can ‘Do Your Accounting’ as SpaceXSI Adds Five Full-Time AI Bots, Cutting Invoice Processing From 24 Hours to Minutes"
+   },
+   "body": {
+    "en": "Musk said Grok can now handle accounting tasks, with SpaceXSI deploying five full-time AI bots that cut invoice processing from 24 hours to minutes.",
+    "zh": "马斯克表示Grok现在可以处理会计任务，SpaceXSI部署了五个全职AI机器人，将发票处理时间从24小时缩短到几分钟。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNUs3bnJRUWY2NUh6RXpTVEJtUUV3VHJObm9tS2RfcnN3dUNYS2x4dGRqVFRRVGI4R1c3d3hEdzlvSmo3QmFpVzRZVGZyaUswdV9uYlpvSHZOdU5Sd0phMGlpRzBLbHNDZzR6ZzdSbEFzQjJnVUhzLVZIRUZDbWQ1bWltU0REYU9mV3pzTUdoMXBuYVlaZnZXdXJB?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-11-19",
@@ -1651,6 +1855,74 @@
    },
    "source": "Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeW9HYUVkTGdEYmNtZW9JR2RJZTh2WGtPVWoxejZYa09lemdRVlAxalpvZVZIU0J2eEhqUUFiMFBKbTZxdzV5THlfOGtQUW1EdnlLSS1JY29xZTJPZDlhRmhfRWZDbjl6V3lfbjB2QmFhQ0FRdmVveHhrQ0JhdGdjYlYyS3ZfVG8xaHZWSW9Kdk4xRFFhemFrbA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-19",
+   "ts": "2026-11-19T23:37:56Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+    "zh": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones"
+   },
+   "body": {
+    "en": "Musk said SpaceX has a plan to eliminate cell phone dead zones, a new business initiative tied to Starlink's direct-to-cell ambitions.",
+    "zh": "马斯克表示SpaceX有计划消除手机信号死区，这与Starlink直连手机的业务野心相关，是一项新举措。"
+   },
+   "source": "TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWlc3STdaQVNsOF95bHVKSEpWVHR6aFZMWEd0UG42bHNyYmZpS1F0MEk4bWhrdWdPa3BQR1lNcjJjZjNseTZMSnE3cjZwdG45YzRUM2M3c0ViMlpOdTd6VWVEbHZmUEdUdzlqcHRHUS1DVnFlbElaYUMyaXBUN0NJR3g3T0tlNFc2QXg1TFBVV1JheWF6WURmQ1Mzc2JYaEgwV3cwNg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-19",
+   "ts": "2026-11-19T23:31:46Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Backs Away From MAGA and the Trump Presidency He Shaped",
+    "zh": "Elon Musk Backs Away From MAGA and the Trump Presidency He Shaped"
+   },
+   "body": {
+    "en": "In a DealBook Summit interview with the New York Times, Musk said he regrets his roughly $442M in midterm election spending and declared \"I'm not MAGA,\" a reversal from his 2024 campaign branding.",
+    "zh": "在接受《纽约时报》DealBook峰会采访时，马斯克表示对中期选举中约4.42亿美元的政治支出感到后悔，并称\"我不是MAGA\"，与他2024年竞选时的立场相反。"
+   },
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BSUMwY3g4RFBLTWl4LTBNd2t4YjZ1aVJqR05IT3lOWmZOUHR2d21jSkFWMkxmVV9FVEtHejBWLWQ2WlI1R3E0NzhzUVJCNXFkM1lCeDhhaHVWN043bzRDN1lGMFdYZVFid0VvZS12VjJ0N2hUbGxBcmpMVWU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-19",
+   "ts": "2026-11-19T17:24:29Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Moves Step Closer to Creating Phone Service After Verizon and T-Mobile Shut Out",
+    "zh": "Elon Musk Moves Step Closer to Creating Phone Service After Verizon and T-Mobile Shut Out"
+   },
+   "body": {
+    "en": "Musk's companies moved a step closer to launching a direct-to-phone satellite service after deals with Verizon and T-Mobile fell through, a concrete step in the satellite-connectivity push.",
+    "zh": "在与Verizon和T-Mobile的合作谈崩后，马斯克旗下公司在推出直连手机的卫星通信服务上又迈进一步，是其卫星连接计划的具体进展。"
+   },
+   "source": "Yahoo Finance Singapore",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX1k3Wklfdy1jN3JVZU93Sk1jOE9MZnB6UlJJMDY5c2pkNjBLSjFVdlVnRFRGMWJXSlRGc3FTVTctSUlCVFNSYXAzb1MySkFzVjI5RW1XN1lJblZvdU1SNmtOYjRrdWM4OEFQZG5adnlYSlBiRUtkdTNpellkU0hXcjRR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-19",
+   "ts": "2026-11-19T14:45:00Z",
+   "level": "major",
+   "title": {
+    "en": "‘Misanthropic and evil’: Elon Musk’s SpaceX may get up to $120.5 billion from Anthropic, the AI lab he once slammed",
+    "zh": "‘Misanthropic and evil’: Elon Musk’s SpaceX may get up to $120.5 billion from Anthropic, the AI lab he once slammed"
+   },
+   "body": {
+    "en": "Anthropic — the AI lab Musk once called 'misanthropic and evil' — may pay his SpaceX up to $120.5 billion, a deal that puts his company at the center of a rival's infrastructure spending.",
+    "zh": "马斯克曾批评Anthropic\"虚伪而邪恶\"，但该实验室如今可能向其SpaceX支付高达1205亿美元，这笔交易让他的公司成为竞争对手基础设施支出的核心受益方。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM0lGVFhlQVBORHg5b090RXNlemRxTWViVTFYXzhmRWFzWm15STByUXNScmhHcjl1alo2Z3cwbWRlaWJFam5Fb3NmTzVET1RmOS1ua3ZmZFlTYUgwVUs1cjAxQUJiRUpJcjRidGxMcXpZZXRKenZNTklYR2RfOG16eExGWXlFVWtIS1RUUzZhSTBpMGJ0cl9XVkVoWWN2OE0?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2297,6 +2569,57 @@
    },
    "source": "Yahoo Tech",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQck5wR0ZTRTdWaVJUNmVabkRrZ3hCVlJ1dDVBMWlhbS1COEFka1hGRFdjN0hOcHN6dHlxZ1BQWFk0ZWVsN3N4UFc1OG1KNUlnVFVmckJlbEVXbFYxWFpOQW5DV2pKYWs4RXdUMVBQNjBwQjRHeWtFNXRiUVV5cm56M3dXSFN4VHl2dlhqSE16WTlTTUFrOFhieVpB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T05:46:00Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk’s Cybercab Ambitions Get a $3.3 Billion Boost — Tesla Plans 1 Million Units a Year at Berlin Factory",
+    "zh": "Elon Musk’s Cybercab Ambitions Get a $3.3 Billion Boost — Tesla Plans 1 Million Units a Year at Berlin Factory"
+   },
+   "body": {
+    "en": "Tesla's Cybercab program secured a $3.3 billion boost, with plans to build 1 million units a year at its Berlin factory.",
+    "zh": "特斯拉Cybercab项目获得33亿美元增资，计划在柏林工厂实现每年百万辆的产能。"
+   },
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMHJuSGkxNmdWYTZDaFh0QllQVDZrdjltOHp6U1NXOWo1alpXdWtqemtac1h2LTVkaXNZcFdwaG1zdTZ5cFpMXzVoeG5SLW01ZWdkalFHN0ZIQkdrUzV6YzI2MXF0ZDhqRlN6VWtfMmFxWFNoQk1ReXQ3T2NLLVNEUVR5TGNTVWp0Mzd6amlZcTJfZXBnX2RYRjM3QmpscnRCWVBiTU5ON3E3T3JGOEljT3h0Sk9Ka3Z4SmZlQTlHNmZvbVUyNkZObHlOejhaOENFNm9qU09pZXRzREk3bDVTMUN3ZEJCaDhyc0lDRjgwclIzLXNTNUduTEZB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T09:07:58Z",
+   "level": "notable",
+   "title": {
+    "en": "'Coming Soon': Elon Musk Hints Tesla Owners Could Put Their Model Ys to Work as Robotaxis Without Driving",
+    "zh": "'Coming Soon': Elon Musk Hints Tesla Owners Could Put Their Model Ys to Work as Robotaxis Without Driving"
+   },
+   "body": {
+    "en": "Musk said Tesla owners may eventually be able to put their Model Ys to work as robotaxis, signaling a planned expansion of the robotaxi fleet model.",
+    "zh": "马斯克表示特斯拉车主未来或可让自己的 Model Y 加入机器人出租车队运营，预示着其机器人出租车模式的扩张计划。"
+   },
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRkpwUXA3WS1LU0MtbFdvQkROcG1VaDlQand3WGdSZVNHd1prQXkzMldGbXdMRi1NbWZYN0pyX0M0ajZHMDJ4V2pYUGs1RHpyOGxwRDlfamE0Wm03SmNBSjBRRVozckM5ekVDWU9CcDl6bjkyaS13dDliTng1VEVwdlh0OGgwbjlocDFoZDZsb2swU2ZCU2NoX0ZsbTRzTmpHQkZ0SEhyYmhSUm0tNy1mLXIyOWxyZnNFOEUyMzZ6TkJZQkpJOXFOOG5aVjR2X3lRTl9qNm50czRRa2MtdVdOcjdsUGN0TnZDTnN6aDc1d2ZjS1U?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T09:27:29Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk Plans $10.1 Billion “Project Crystal Sun” Tesla Factory Near Houston. Says the Math on Solar Power Is “Obvious and Trivial”",
+    "zh": "Elon Musk Plans $10.1 Billion “Project Crystal Sun” Tesla Factory Near Houston. Says the Math on Solar Power Is “Obvious and Trivial”"
+   },
+   "body": {
+    "en": "Musk announced a planned $10.1 billion Tesla factory ('Project Crystal Sun') near Houston, a major manufacturing investment tied to solar power economics.",
+    "zh": "马斯克宣布计划在休斯顿附近投资101亿美元建设特斯拉工厂（“水晶太阳计划”），这是与太阳能经济性相关的重大制造业投资。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQk5DOThVZHgyczZDczdnLW9mbkZ2SzZoczF6ZVBIRGc0Z0hPYldGMl81X09JcERmdXVkRGkwRFpCOGhSQXRWNjhJSk85YVc3aGItM2FacjgtUS1CdzE4T241QW1oNHNwZ2VDcFZsVk03dFNuRVh6bWRqeTVjbHdibTRGZw?oc=5",
    "auto": true,
    "judged": true
   },
@@ -21628,7 +21951,7 @@
   "pageviews": 9295513,
   "citations": 1280,
   "hIndex": 3,
-  "events": 1200,
+  "events": 1219,
   "posts": 59,
   "wikiEn": "Elon Musk",
   "wikiZh": "埃隆·马斯克"

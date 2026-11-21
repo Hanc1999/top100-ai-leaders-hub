@@ -1,5 +1,5 @@
 {
- "rank": 67,
+ "rank": 63,
  "id": "jason-wei",
  "name": {
   "en": "Jason Wei",
@@ -1921,6 +1921,23 @@
    "url": "https://www.techtimes.com/articles/311364/20250716/meta-hires-jason-wei-hyung-won-chung-openai-boost-superintelligence-research.htm"
   },
   {
+   "date": "2026-11-19",
+   "ts": "2026-11-19T11:12:44Z",
+   "level": "major",
+   "title": {
+    "en": "Mercor Names Jason Wei Chief Scientist",
+    "zh": "Mercor Names Jason Wei Chief Scientist"
+   },
+   "body": {
+    "en": "Jason Wei left Meta Superintelligence Labs to become Chief Scientist at Mercor, which just raised $750M at a $20B valuation.",
+    "zh": "Jason Wei离开Meta超级智能实验室，加入估值200亿美元、刚完成7.5亿美元融资的Mercor，担任首席科学家。"
+   },
+   "source": "Wisevoter",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSFZQYkhJUDFIUlh5RWp4dGJFWDd4ZlNnbzFabnpkanJoNjkxM29SSm9wd1JQMzl1MHd1bHZZRmhHazlXX1c3RElEaXFJcWNGcUg2V2NlTnQ5eVR5ajhvUWg3ZmsxalVUcnpSUWdWQVpVZl9WS3Yta0VxbzRmUklnbUM1Y0xMUXc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-18",
    "ts": "2026-11-18T04:02:37Z",
    "level": "major",
@@ -1987,6 +2004,40 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uTE1raUFEazVWWkFkODdaeUVWWHBwTnM1T1Q4ZDg1Z1VHbDNHdS13Wl9KeE5NcFZFcEg3RlVSdkUxcElIdGg4UlRkeHJEd1VMTno1Z3BpRDg1Tk1rdXlqaS1ZSy1xMTRxVm9uejdVTkxYa05kMnc?oc=5",
    "auto": true,
    "judged": true
+  },
+  {
+   "date": "2026-11-18",
+   "ts": "2026-11-18T00:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Chain-of-Thought Author Jason Wei → Mercor CSO",
+    "zh": "Chain-of-Thought Author Jason Wei → Mercor CSO"
+   },
+   "body": {
+    "en": "Jason Wei, first author of chain-of-thought prompting, left Meta Superintelligence Labs to become Chief Scientific Officer at Mercor.",
+    "zh": "思维链提示的第一作者Jason Wei离开Meta超级智能实验室，加入Mercor担任首席科学官。"
+   },
+   "source": "explainx.ai",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tWmI3ZkVZOHY0QldpeV9WU3VpbDhUSFlNZDlvLWx1Ui00MDgwcjRXcnJYVHg1WXRWRzFlMUV6bTYwb1BOZEs3UU1KWjVyQTVkcERzU2MwOENUWFc5OVVxLThSSDd1NUtqanc0WURmajRDcUVJcV80NEZLRQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T22:53:59Z",
+   "level": "major",
+   "title": {
+    "en": "Jason Wei is joining Mercor as chief scientist. He knows the customer side.",
+    "zh": "Jason Wei is joining Mercor as chief scientist. He knows the customer side."
+   },
+   "body": {
+    "en": "Jason Wei is reportedly joining Mercor as chief scientist, a new role following his recent move to Meta Superintelligence Labs.",
+    "zh": "据报道，Jason Wei将加入Mercor担任首席科学家，这是他此前加入Meta超级智能实验室之后的新职位变动。"
+   },
+   "source": "Digg",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1rbzIyYV85eTJMXzNmNktHcUloa1ZYZktiYllyV1JxUjhXd3NRSVRqVzFpSkgxNWZDSjE0QnNzTjBhZw?oc=5",
+   "auto": true,
+   "judged": true
   }
  ],
  "changed": true,
@@ -1996,15 +2047,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 33.4,
+  "total": 36.1,
   "attention": null,
   "centrality": 34,
-  "momentum": 32,
+  "momentum": 38,
   "stature": null,
   "pageviews": 0,
   "citations": 4944,
   "hIndex": 19,
-  "events": 5,
+  "events": 8,
   "posts": 92,
   "wikiEn": null,
   "wikiZh": null

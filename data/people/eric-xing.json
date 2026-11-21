@@ -1,5 +1,5 @@
 {
- "rank": 75,
+ "rank": 74,
  "id": "eric-xing",
  "name": {
   "en": "Eric Xing",
@@ -167,6 +167,25 @@
     "en": "Argues the next phase will not come from scaling models larger but from redesigning AI to understand the world and plan within it.",
     "zh": "主张下一阶段不来自把模型做得更大，而来自重新设计能理解世界并在其中规划的 AI。"
    }
+  },
+  {
+   "date": "2026-11-19",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Point Dynamics as Proxy for Robotic World Models",
+    "zh": "Point Dynamics as Proxy for Robotic World Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.25946v1",
+   "note": {
+    "en": "Eric Xing co-authored 'Point Dynamics as Proxy for Robotic World Models,' proposing point-based dynamics to stop manipulated objects from collapsing in video-based robot world models.",
+    "zh": "邢波合著了论文《Point Dynamics as Proxy for Robotic World Models》，提出用基于点的动力学方法，防止机器人视频世界模型中被操纵物体的形态坍塌。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-11-18",
@@ -1746,25 +1765,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2025-12-12",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Bridging Streaming Continual Learning via In-Context Large Tabular Models",
-    "zh": "Bridging Streaming Continual Learning via In-Context Large Tabular Models"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2512.11668v1",
-   "note": {
-    "en": "Uses in-context learning in large tabular models to handle streaming continual learning, bridging concept drift adaptation and catastrophic forgetting.",
-    "zh": "利用大型表格模型的上下文内学习处理流式持续学习，将概念漂移适应与灾难性遗忘两类问题连接起来。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2025-12-08",
    "ts": null,
    "kind": "x",
@@ -1936,10 +1936,10 @@
  },
  "cat": "research",
  "score": {
-  "total": 30.6,
+  "total": 30.8,
   "attention": 25,
   "centrality": 14,
-  "momentum": 50,
+  "momentum": 51,
   "stature": 54,
   "pageviews": 21312,
   "citations": 41656,

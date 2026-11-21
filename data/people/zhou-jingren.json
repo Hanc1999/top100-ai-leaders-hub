@@ -1,5 +1,5 @@
 {
- "rank": 38,
+ "rank": 37,
  "id": "zhou-jingren",
  "name": {
   "en": "Zhou Jingren",
@@ -229,6 +229,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-11-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Piccolo: Co-Evolving Decision Models and Data through Recursive Self-Improvement",
+    "zh": "Piccolo: Co-Evolving Decision Models and Data through Recursive Self-Improvement"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.24651v1",
+   "note": {
+    "en": "Zhou Jingren co-authored Piccolo, a family of multimodal decision models (0.8B-27B) from Alibaba's data-centric AI group that co-evolve model capability and training data via agentic data engineering and recursive self-improvement.",
+    "zh": "周靖人与阿里巴巴数据智能团队合著了Piccolo，这是一系列多模态决策模型（0.8B至27B），通过智能体式数据工程与递归自我改进实现模型能力与训练数据的协同演化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-11-02",
@@ -1957,7 +1976,7 @@
   "citations": 8558,
   "hIndex": 47,
   "events": 55,
-  "posts": 43,
+  "posts": 44,
   "wikiEn": null,
   "wikiZh": null
  },

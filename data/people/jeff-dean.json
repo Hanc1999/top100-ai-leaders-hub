@@ -1,5 +1,5 @@
 {
- "rank": 25,
+ "rank": 26,
  "id": "jeff-dean",
  "name": {
   "en": "Jeff Dean",
@@ -176,6 +176,25 @@
     "en": "The long-running survey posts he anchored for a decade — still the best single map of how Google's stack was assembled.",
     "zh": "他主持了十年的长篇综述文章 —— 至今仍是理解 Google 技术栈如何搭起来的最佳单一地图。"
    }
+  },
+  {
+   "date": "2026-11-20",
+   "ts": "2026-11-20T15:00:45Z",
+   "kind": "x",
+   "title": {
+    "en": "Detaining a PhD student on her way back to Princeton from presenting scientific work at a conference is not how we get the best and brightest scientists in the",
+    "zh": "Detaining a PhD student on her way back to Princeton from presenting scientific work at a conference is not how we get the best and brightest scientists in the"
+   },
+   "source": "@jeffdean",
+   "url": "https://x.com/JeffDean/status/2123793677860696070",
+   "note": {
+    "en": "Dean criticized the detention of a PhD student returning from a conference, a direct stance on how immigration enforcement affects scientific talent.",
+    "zh": "Jeff Dean批评一名博士生在参加学术会议返美途中被拘留，表明了他对移民执法影响科研人才问题的立场。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
   },
   {
    "date": "2026-11-06",
@@ -2402,16 +2421,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 65.0,
+  "total": 64.8,
   "attention": 61,
   "centrality": 72,
-  "momentum": 72,
+  "momentum": 71,
   "stature": 47,
   "pageviews": 159064,
   "citations": 36789,
   "hIndex": 30,
   "events": 50,
-  "posts": 74,
+  "posts": 75,
   "wikiEn": "Jeff Dean",
   "wikiZh": "傑夫·迪恩"
  },

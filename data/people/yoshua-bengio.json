@@ -2202,6 +2202,25 @@
    "connector": "web"
   },
   {
+   "date": "2022-11-21",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Yoshua Bengio: The Past, Present, and Future of Deep Learning",
+    "zh": "Yoshua Bengio: The Past, Present, and Future of Deep Learning"
+   },
+   "source": "The Gradient: Perspectives on AI",
+   "url": "https://podcasts.apple.com/us/podcast/yoshua-bengio-the-past-present-and-future-of-deep-learning/id1569777340?i=1000586997584&uo=4",
+   "note": {
+    "en": "Bengio joined The Gradient podcast for its 50th episode to discuss the past, present and future of deep learning.",
+    "zh": "本吉奥做客播客节目The Gradient第50期，畅谈深度学习的过去、现在与未来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2020-03-30",
    "ts": null,
    "kind": "podcast",
@@ -3459,7 +3478,7 @@
   "citations": 475043,
   "hIndex": 184,
   "events": 71,
-  "posts": 110,
+  "posts": 111,
   "wikiEn": "Yoshua Bengio",
   "wikiZh": "约书亚·本希奥"
  },

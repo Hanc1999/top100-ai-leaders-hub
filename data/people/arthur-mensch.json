@@ -1,5 +1,5 @@
 {
- "rank": 34,
+ "rank": 33,
  "id": "arthur-mensch",
  "name": {
   "en": "Arthur Mensch",
@@ -177,6 +177,25 @@
    }
   },
   {
+   "date": "2026-11-20",
+   "ts": "2026-11-20T14:01:22Z",
+   "kind": "x",
+   "title": {
+    "en": "I am confident humanity will ensure that powerful AI models are returned to the commons",
+    "zh": "I am confident humanity will ensure that powerful AI models are returned to the commons"
+   },
+   "source": "@arthurmensch",
+   "url": "https://x.com/arthurmensch/status/2123778731646885894",
+   "note": {
+    "en": "Mensch states his confidence that powerful AI models will ultimately return to the commons, reaffirming his push for open, sovereign AI over closed frontier labs.",
+    "zh": "Mensch表示他相信强大的AI模型最终会回归公共领域，重申他对开放、主权AI路线（而非封闭前沿实验室）的坚持。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-13",
    "ts": "2026-11-13T16:00:01Z",
    "kind": "x",
@@ -194,6 +213,25 @@
    "judged": true,
    "platform": "x",
    "connector": null
+  },
+  {
+   "date": "2026-11-09",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "20VC: Mistral CEO on Why Energy Is Not the Bottleneck to AI | Why OpenAI and Anthropic Will Come for Your Business | The Future of the Inference Market | Are Chinese Open-Source Models Truly Safe?",
+    "zh": "20VC: Mistral CEO on Why Energy Is Not the Bottleneck to AI | Why OpenAI and Anthropic Will Come for Your Business | The Future of the Inference Market | Are Chinese Open-Source Models Truly Safe?"
+   },
+   "source": "The Twenty Minute VC (20VC): Venture C…",
+   "url": "https://podcasts.apple.com/us/podcast/20vc-mistral-ceo-on-why-energy-is-not-the-bottleneck/id958230465?i=1000800718748&uo=4",
+   "note": {
+    "en": "Arthur Mensch appeared on The Twenty Minute VC to discuss why energy isn't AI's bottleneck, the future of the inference market, and the safety of Chinese open-source models, as Mistral's CEO.",
+    "zh": "Arthur Mensch作为Mistral首席执行官登上20VC播客，讨论能源为何不是AI发展的瓶颈、推理市场的未来，以及中国开源模型的安全性问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   },
   {
    "date": "2026-11-08",
@@ -1832,6 +1870,23 @@
    "judged": true
   },
   {
+   "date": "2026-06-19",
+   "ts": "2026-06-19T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Mistral AI CEO Arthur Mensch discusses sovereign AI partnership with PM Modi",
+    "zh": "Mistral AI CEO Arthur Mensch discusses sovereign AI partnership with PM Modi"
+   },
+   "body": {
+    "en": "Mensch discussed a sovereign-AI partnership for Mistral with India's PM Modi, extending his push for non-US/non-China AI infrastructure.",
+    "zh": "门施与印度总理莫迪讨论了Mistral的主权AI合作，延续其在非美非中AI基础设施路线上的布局。"
+   },
+   "source": "irishsun.com",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTklWMlc0d2hULXdKbVBaS08yajhBOU9SaU5fUy1mN3p4U2VxYXJtckxQcGl2VkF3aXNXaW9XLXl3VmZJRkxlMzAtendhUGs1YnNVV2llVDZKZHNJV3Q1OXVyRVlfQ3IycTZ6UDY5Z3ZpUHo1dldqOEt2cjU4a25JaXlfNk9SSTFZZXpFc1JWRTN1VUFtTERYUnVJM09NSmZQTi1IcjkwcDB0Q1lEVGVHN2FTaTlIQnc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-06-18",
    "ts": null,
    "level": "notable",
@@ -1915,8 +1970,8 @@
   "pageviews": 103916,
   "citations": 3847,
   "hIndex": 10,
-  "events": 20,
-  "posts": 75,
+  "events": 21,
+  "posts": 77,
   "wikiEn": "Arthur Mensch",
   "wikiZh": null
  },

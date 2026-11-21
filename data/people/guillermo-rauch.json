@@ -1,5 +1,5 @@
 {
- "rank": 64,
+ "rank": 65,
  "id": "guillermo-rauch",
  "name": {
   "en": "Guillermo Rauch",
@@ -125,6 +125,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-11-19",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Inside TomorrowX: Brian Armstrong, Gavin Baker, Guillermo Rauch, Andrew Feldman & More",
+    "zh": "Inside TomorrowX: Brian Armstrong, Gavin Baker, Guillermo Rauch, Andrew Feldman & More"
+   },
+   "source": "Sourcery",
+   "url": "https://podcasts.apple.com/us/podcast/inside-tomorrowx-brian-armstrong-gavin-baker-guillermo/id1738124704?i=1000802936006&uo=4",
+   "note": {
+    "en": "Rauch appeared as one of the founders interviewed on-site at the TomorrowX conference in Austin, discussing AI, Nvidia and crypto trends.",
+    "zh": "劳赫作为受访嘉宾之一出现在奥斯汀TomorrowX大会的现场访谈节目中，讨论AI、Nvidia和加密货币等趋势。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   },
   {
    "date": "2026-11-15",
@@ -1401,7 +1420,7 @@
   "citations": 9,
   "hIndex": 1,
   "events": 7,
-  "posts": 61,
+  "posts": 62,
   "wikiEn": null,
   "wikiZh": null
  },

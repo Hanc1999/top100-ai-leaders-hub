@@ -178,6 +178,25 @@
    }
   },
   {
+   "date": "2026-11-21",
+   "ts": "2026-11-21T07:35:23Z",
+   "kind": "x",
+   "title": {
+    "en": "I just saw the paper as a result of @martin_casado's tweet (didn't see the paper when it was originally posted in Feb). Indeed, the analysis is great and the fi",
+    "zh": "I just saw the paper as a result of @martin_casado's tweet (didn't see the paper when it was originally posted in Feb). Indeed, the analysis is great and the fi"
+   },
+   "source": "@jeffdean",
+   "url": "https://x.com/JeffDean/status/2124043983878066407",
+   "note": {
+    "en": "Dean praised a paper's analysis and figures after a colleague's tweet surfaced it to him, months after it was first posted.",
+    "zh": "Jeff Dean在同事的推文让他注意到一篇论文后，称赞了该论文的分析与图表，而这篇论文其实在数月前就已发布。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-20",
    "ts": "2026-11-20T15:00:45Z",
    "kind": "x",
@@ -1938,6 +1957,23 @@
    "judged": true
   },
   {
+   "date": "2026-08-07",
+   "ts": "2026-08-07T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Jeff Dean Shares Farewell Email Detailing Decades at Google",
+    "zh": "Jeff Dean Shares Farewell Email Detailing Decades at Google"
+   },
+   "body": {
+    "en": "Jeff Dean sent a farewell email marking the end of his 27-year career at Google as he departs to co-found Discovery Loop.",
+    "zh": "Jeff Dean发布告别邮件，标志着他在谷歌27年职业生涯的结束，随后他离职联合创立了Discovery Loop。"
+   },
+   "source": "Digg",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1HX1JRRjJxSnY4d3F5WTFZTG8tUHJHTTN5cndRVFhLRjRPR195Vm9uaHZiNmtydEVzVTdYZUR6bVBjZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-08-06",
    "ts": null,
    "level": "major",
@@ -2412,6 +2448,23 @@
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVkhiNlh6LVJaNmJiWXYwZm11TFRwS3JVWWVVVkRHdzlWeGhkSk04WXhnQ1R2QjhJNmU5VXdsd3FJSG81cGVlQTlJUUdIYThaSnczYU1XbE84N09ucXRPVXBhbnlkamtWV3JhVUpUZ2NMMDE2RkJhWG1pdXlSRzljSTA0eXhRdHEybUpvOEZXcGJWQzJKWndPREFCZlBXNGZqVWc?oc=5",
    "auto": true,
    "judged": true
+  },
+  {
+   "date": "2026-08-05",
+   "ts": "2026-08-05T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Jeff Dean Leaves Google to Co-Found AI for Science Startup",
+    "zh": "Jeff Dean Leaves Google to Co-Found AI for Science Startup"
+   },
+   "body": {
+    "en": "Jeff Dean left Google after 27 years to co-found an AI-for-science startup.",
+    "zh": "Jeff Dean在谷歌工作27年后离职，共同创办了一家专注于AI驱动科学研究的创业公司。"
+   },
+   "source": "HPCwire",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUnJNYXFfdTlsT080bzRVVmtycENrc2hZekFfNWdqZ0MtRUkyRW14Q0o4bkZHcXZ3dDFsR0xvUHM5aE1kSDU2UEFPak00aVJsRUJ6R2NaZnZ1Z2FpM1J6bnFXYjdSNFBYLVo1R3lYdlE5ckFFS25uZkstbFZZaG44X0h1ekNjWGxvbHBxd09yeWRFazBVX045YXRn?oc=5",
+   "auto": true,
+   "judged": true
   }
  ],
  "changed": true,
@@ -2421,16 +2474,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 64.8,
+  "total": 65.0,
   "attention": 61,
   "centrality": 72,
-  "momentum": 71,
+  "momentum": 72,
   "stature": 47,
   "pageviews": 159064,
   "citations": 36789,
   "hIndex": 30,
-  "events": 50,
-  "posts": 75,
+  "events": 52,
+  "posts": 76,
   "wikiEn": "Jeff Dean",
   "wikiZh": "傑夫·迪恩"
  },

@@ -1222,6 +1222,25 @@
    "connector": "backfill"
   },
   {
+   "date": "2014-08-25",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Daphne Koller on Education, Coursera, and MOOCs",
+    "zh": "Daphne Koller on Education, Coursera, and MOOCs"
+   },
+   "source": "EconTalk",
+   "url": "https://podcasts.apple.com/us/podcast/daphne-koller-on-education-coursera-and-moocs/id135066958?i=1000446952831&uo=4",
+   "note": {
+    "en": "Koller discusses Coursera and the future of online education in a long-form interview on EconTalk.",
+    "zh": "Koller在EconTalk访谈节目中与主持人探讨Coursera及在线教育的未来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2013-07-09",
    "ts": null,
    "kind": "paper",
@@ -1727,7 +1746,7 @@
   "citations": 61723,
   "hIndex": 122,
   "events": 2,
-  "posts": 81,
+  "posts": 82,
   "wikiEn": "Daphne Koller",
   "wikiZh": "達芙妮·科勒"
  },

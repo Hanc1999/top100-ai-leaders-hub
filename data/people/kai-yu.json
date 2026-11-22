@@ -1,5 +1,5 @@
 {
- "rank": 75,
+ "rank": 76,
  "id": "kai-yu",
  "name": {
   "en": "Kai Yu",
@@ -1003,6 +1003,23 @@
    },
    "source": "东方财富",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81U2I4c1pwMFM1b29ZNEZNczB6NGtPT0Z4OWpEYldpVlhSTUg5YkVSN20tMFhleXBlMVdwUld6ZVYtblcxWnZHd3Q2dkFCVXViLXZaV2JncXBjS2FxQ2wwaw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-11",
+   "ts": "2026-11-11T12:48:19Z",
+   "level": "notable",
+   "title": {
+    "en": "地平线余凯炮轰智驾芯片算力虚标乱象",
+    "zh": "地平线余凯炮轰智驾芯片算力虚标乱象"
+   },
+   "body": {
+    "en": "Horizon Robotics founder Kai Yu publicly criticized the industry practice of inflating compute specs on autonomous-driving chips.",
+    "zh": "地平线机器人创始人余凯公开批评智能驾驶芯片算力虚标的行业乱象。"
+   },
+   "source": "汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pQlVnWDJhWGpfNHl5WVJsbGdiUXlpc002U3BNd1BHVGNwalVYczhGTFV4eE9jSDJ6RVZLT3pIWHZKemt5YmZvR0xicjR0UVFtZW5CM0xzOE9jdHRFTnc?oc=5",
    "auto": true,
    "judged": true
   },
@@ -4101,6 +4118,23 @@
    "judged": true
   },
   {
+   "date": "2026-08-16",
+   "ts": "2026-08-16T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "地平线CEO余凯：J7会是全球最强悍自动驾驶芯片|英伟达|特斯拉|智驾|AI5芯片|大众_手机新浪网",
+    "zh": "地平线CEO余凯：J7会是全球最强悍自动驾驶芯片|英伟达|特斯拉|智驾|AI5芯片|大众_手机新浪网"
+   },
+   "body": {
+    "en": "Kai Yu said Horizon's upcoming J7 chip will be the world's most powerful autonomous-driving chip, previewing the company's next flagship silicon.",
+    "zh": "余凯表示地平线即将推出的J7芯片将是全球最强悍的自动驾驶芯片，预告了公司下一代旗舰芯片。"
+   },
+   "source": "新浪财经_金融信息服务商",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BdWZodmRwY0FqUnQzQTBJYmFyOEtRQ3ZDTzhGM2FBMDdJcU1aUC1PUUF1bW9sNEFsUWFOSzhaZVF6MGFEdFd2anByS2tMTDhYNVNoOWNGN1dtRk1SSW5wSllJZ0hvcUE2emxxamxpQmxvcHNicmZBbEgtSzJhTVk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-07-29",
    "ts": null,
    "level": "notable",
@@ -4686,15 +4720,15 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 30.4,
+  "total": 30.2,
   "attention": 3,
   "centrality": 25,
-  "momentum": 88,
+  "momentum": 87,
   "stature": 34,
   "pageviews": 700,
   "citations": 21491,
   "hIndex": 66,
-  "events": 222,
+  "events": 224,
   "posts": 39,
   "wikiEn": null,
   "wikiZh": "余凯"

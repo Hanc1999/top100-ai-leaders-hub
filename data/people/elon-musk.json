@@ -156,6 +156,25 @@
    }
   },
   {
+   "date": "2026-11-21",
+   "ts": "2026-11-21T07:30:56Z",
+   "kind": "x",
+   "title": {
+    "en": "SFT is more like getting a haircut with a chainsaw than it is “fine-tuning”! Should just be built into primary training. And having a “system prompt” is silly!",
+    "zh": "SFT is more like getting a haircut with a chainsaw than it is “fine-tuning”! Should just be built into primary training. And having a “system prompt” is silly!"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2124042864891982292",
+   "note": {
+    "en": "Musk argues supervised fine-tuning is a crude patch for behavior that should be built into pretraining itself, and calls system prompts unnecessary.",
+    "zh": "马斯克认为监督微调（SFT）只是对本该在预训练阶段就具备的行为打的粗糙补丁，并认为“系统提示词”也没有必要存在。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-20",
    "ts": "2026-11-20T10:34:05Z",
    "kind": "x",
@@ -1087,25 +1106,6 @@
    "connector": null
   },
   {
-   "date": "2026-11-09",
-   "ts": "2026-11-09T03:15:20Z",
-   "kind": "x",
-   "title": {
-    "en": "Excited to be working with @Qualcomm on breakthrough technologies for 5G &amp; beyond",
-    "zh": "Excited to be working with @Qualcomm on breakthrough technologies for 5G &amp; beyond"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2119629886377607546",
-   "note": {
-    "en": "Musk announced a partnership with Qualcomm on next-generation 5G and beyond wireless technology.",
-    "zh": "马斯克宣布与高通合作开发下一代5G及更先进的无线技术。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2026-07-23",
    "ts": null,
    "kind": "podcast",
@@ -1262,6 +1262,142 @@
    },
    "source": "xAI",
    "url": "https://x.ai/news"
+  },
+  {
+   "date": "2026-11-21",
+   "ts": "2026-11-21T00:33:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk's SpaceX faces funding threat over Ukraine satellite dispute",
+    "zh": "Elon Musk's SpaceX faces funding threat over Ukraine satellite dispute"
+   },
+   "body": {
+    "en": "Newsweek reports SpaceX's satellite business faces a funding threat tied to a dispute over service to Ukraine.",
+    "zh": "《新闻周刊》报道，SpaceX因围绕对乌克兰卫星服务的争议，其业务面临资金方面的威胁。"
+   },
+   "source": "Newsweek",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSFRONmNaNzBLV0RST1hacEZzTzBYaWFHUUlQLVRyYld4aVMtcFZLWUV5dVh6VktseEh6QjhOX2VxWnNYMTh4OVZISmt0WDh0V09hUFNmZndZWHJMTGwzUzE1dEpSbVZ3cEFhUXc2bm1UbUtjOEZJYlRZNi0xVE5mR1dUWkJMS0ZU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-21",
+   "ts": "2026-11-21T11:30:00Z",
+   "level": "minor",
+   "title": {
+    "en": "Elon Musk Calls Anthropic’s Models ‘Great Products,’ Jassy Says ‘We’re Big Believers’: Mag 7 Voices This Week",
+    "zh": "Elon Musk Calls Anthropic’s Models ‘Great Products,’ Jassy Says ‘We’re Big Believers’: Mag 7 Voices This Week"
+   },
+   "body": {
+    "en": "Musk called Anthropic's models 'great products' in a roundup of Big Tech leaders' remarks, a notable compliment toward a rival lab.",
+    "zh": "在一篇汇总科技巨头高管言论的报道中，马斯克称Anthropic的模型是“很棒的产品”，这是对竞争对手实验室一次值得注意的称赞。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ1VPcHI3RnAzMEVuZF9lOEQwMUZka19KWndaYW1ndkd6UG5rWC1GVTd5cW1CMTJWZTlKREkwMEF1R0xZVm9heEFMYmpsckE0eFJRZTFhUHRTcmVpNXRSbGxxOTlRSkh0TzdlVkVDUUlkYzBCc2NzOFZHU3IxQVN4RzBxVGFURU9kUGdYa1AzUmV3T09DdzNhVFYyanE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-21",
+   "ts": "2026-11-21T13:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "SpaceX will retire 1st Starship upper stage ever caught by 'chopsticks,' Elon Musk says",
+    "zh": "SpaceX will retire 1st Starship upper stage ever caught by 'chopsticks,' Elon Musk says"
+   },
+   "body": {
+    "en": "Musk said SpaceX will retire the first Starship upper stage ever recovered by the launch tower's 'chopsticks' arms, a milestone test vehicle in the booster-catch program.",
+    "zh": "马斯克表示，SpaceX将退役首个被发射塔“筷子”机械臂成功回收的“星舰”上面级，这是助推器回收项目中的一个里程碑测试飞行器。"
+   },
+   "source": "Space",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVFVrdHE3QlZ1OHpJZXFMdDgwTjZVdFZyNjFmNVcydnlUODZlTDFIek5hNGpJMXBLUEhsREVTaGF6T0pueFRWZWZvVzAzTG81TjJncTVtZHI3c0pBLW1zbHI5ME9IZTdHX3VJY0xLUFN1UnktVEpPWUtuRlY5TXo2M09yWFZVYlB2aTFsczlZczZqUGF5WUszMS1oYkY4Y3NOX0k5NkdXZnJSNkcyczM4MkZuN3dTOVA5NlZZOEF0OFVQLUtQc1p1UTZGaG9qWTV4SnpSS3RWNzZrdU1l?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-21",
+   "ts": "2026-11-21T02:30:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk hires lobbyists as Democrats plan investigation into Starshield restrictions in Ukraine – Fox News",
+    "zh": "Elon Musk hires lobbyists as Democrats plan investigation into Starshield restrictions in Ukraine – Fox News"
+   },
+   "body": {
+    "en": "Musk's SpaceX hired lobbyists as Democrats plan to investigate restrictions tied to Starshield satellite use in Ukraine.",
+    "zh": "随着民主党计划调查Starshield卫星在乌克兰使用的相关限制，马斯克旗下SpaceX聘请了说客。"
+   },
+   "source": "Українська правда",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85Sm1NZHV0THVGWTBmank4TFBsaDYzTWdrUVFQRXNSajZkRHh6UmZlRTlrMW5lT2RWdTh4RVp2X3Jta2RHNVZnQ1NHQnE5M0NVZ0N2VjhJOU5iaC1hNFU0a0RwdFfSAXBBVV95cUxNNFdmUVFudUppeGg0dy03VW1uU090WWhzclpFTEplb1h1SzJzVnI3SndRVkxHeWY1TVBqR2FVUnVXZ0JGZF9xN3E3cDI0cEtpcElQRWpsZE5XTWY3YXVTWlU3LUhZLXlDbXdyQ3VfWWdf?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-21",
+   "ts": "2026-11-21T13:00:06Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk on His Politics, a Potential Merger and Ukraine",
+    "zh": "Elon Musk on His Politics, a Potential Merger and Ukraine"
+   },
+   "body": {
+    "en": "Musk gave The New York Times an on-record interview covering his political views, talk of a potential corporate merger, and his stance on the Ukraine war.",
+    "zh": "马斯克接受《纽约时报》采访，谈及其政治立场、潜在的公司合并传闻以及他对乌克兰战争的看法。"
+   },
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWElwNnd4QTdUTEZMWjVXVnMzSGhnMTN0cUU0RUJpV2syVlhoR2tIRWJtQUV4ZHdVN1FWa1M0NFRHaURnU2VlTk5zbThXeC1FVmk0dGtlN2xWRWtTR1BjbGZadzl2YW5EdUR3TFFxS19Eb1ItTWdQVW40emg0Xzl4OHNscGJjSkpvamNr?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-21",
+   "ts": "2026-11-21T14:06:06Z",
+   "level": "notable",
+   "title": {
+    "en": "Tesla Full Self-Driving v15 gets release date from Elon Musk",
+    "zh": "Tesla Full Self-Driving v15 gets release date from Elon Musk"
+   },
+   "body": {
+    "en": "Musk announced a release date for Tesla's Full Self-Driving v15, the next major update to the company's autonomy stack.",
+    "zh": "马斯克宣布了特斯拉Full Self-Driving v15的发布日期，这是公司自动驾驶系统的下一个重大更新。"
+   },
+   "source": "Teslarati",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN1dxdkNMT2dLU0FyYzdqUjhGU0Q3NlAzVGRmZHdnR2p1QlhMck5aVVJWejJSc3JDaUJRdDdNWWp6aFRPaVpSSFEwVXNZZkRWd3BCTUVmbzB5b3pfMmRzZV94b1VoNkIzWXRXYVJGNFVZMTJ3NndjZ0N0eGI0Z3c0NUFKRms4QWRpRlE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-21",
+   "ts": "2026-11-21T16:48:17Z",
+   "level": "major",
+   "title": {
+    "en": "Google Is Paying Elon Musk’s SpaceX $30 Billion. Jim Cramer Just Revealed Why",
+    "zh": "Google Is Paying Elon Musk’s SpaceX $30 Billion. Jim Cramer Just Revealed Why"
+   },
+   "body": {
+    "en": "Google agreed to pay Musk's SpaceX $30 billion under a newly reported deal, a major financial tie-up between the two companies.",
+    "zh": "据报道，谷歌同意向马斯克的SpaceX支付300亿美元，双方达成一项重大资金合作。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWEp2cFJpSnJhdDRCOGRqY3VoRzBpRXptZHdlUk8wLTJBZG82WGJIRWlLNEFMQTY2bU5IVFIxSUM3VzY0ckFlMHlfQkNHamwzLUZFVWxrODJxbGZhNXRHWm95aGl2ZWU1MDFIMEJ3OVpmVE5PeWNLcm1qTTRmTW9LN3owMzdNdTZTMXk5SGxxckNNcVcyNTY5V01n?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-21",
+   "ts": "2026-11-21T21:30:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk’s government funding for SpaceX is on the line, top Democrat warns",
+    "zh": "Elon Musk’s government funding for SpaceX is on the line, top Democrat warns"
+   },
+   "body": {
+    "en": "A senior Democratic lawmaker warned that federal government funding for SpaceX could be at risk, a notable escalation in political scrutiny of Musk's rocket contracts.",
+    "zh": "一位民主党高级议员警告称，联邦政府对SpaceX的资助可能面临风险，这是对马斯克火箭合同政治审查的显著升级。"
+   },
+   "source": "The Independent",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNDFKUmVXZER2dUhxOTVjTUMwdnh3Y2RtNENrbm50NlY3VmNRMkVpN1RDcFFuUW42T0NhUTFJT3ZQVnVqdE1nN2JlVHNvNmVFOFE0VlZCTUxUa0FlR1dVdS1PNTZyS0VFTG5nR2trWEF0Z1huUVpkWTk3dXJ2UlZOUndVRU1GNXVFYjkteG41Z0pMX3lBLVdUdWxwYktNdFBKWXcwZmhhZ0lQZlRjQ3pyNWx2RmdnOUNX?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-11-20",
@@ -1464,6 +1600,23 @@
    },
    "source": "Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNUs3bnJRUWY2NUh6RXpTVEJtUUV3VHJObm9tS2RfcnN3dUNYS2x4dGRqVFRRVGI4R1c3d3hEdzlvSmo3QmFpVzRZVGZyaUswdV9uYlpvSHZOdU5Sd0phMGlpRzBLbHNDZzR6ZzdSbEFzQjJnVUhzLVZIRUZDbWQ1bWltU0REYU9mV3pzTUdoMXBuYVlaZnZXdXJB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-20",
+   "ts": "2026-11-20T23:07:41Z",
+   "level": "notable",
+   "title": {
+    "en": "House Intelligence Committee Presses Elon Musk For Answers On Starshield Service In Ukraine",
+    "zh": "House Intelligence Committee Presses Elon Musk For Answers On Starshield Service In Ukraine"
+   },
+   "body": {
+    "en": "The House Intelligence Committee pressed Musk for answers on SpaceX's Starshield satellite service in Ukraine, signaling growing government scrutiny of his satellite business.",
+    "zh": "美国众议院情报委员会就SpaceX的Starshield卫星服务在乌克兰的使用向马斯克追问细节，显示政府对其卫星业务的审查正在加强。"
+   },
+   "source": "Yahoo News Singapore",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRENiNVZFem5JTnF2aWZGcEdQN29fbnp4TGJONjdNWHBEOGNyYjFiQVNXTTdmZ3NiSHZuckZoc3BSQURPNlZrWHZHRFdsX0dwaG9iVUpjWUNHa1hDbHRiS0F3N3NKbm14dFJHRGtVOGM3cTZvdlg1em81Zk5lamt5N2tuTDBEdVRHYlE?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2161,6 +2314,57 @@
    },
    "source": "Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcFFqTm14a0IzRmtvcXFmbVVSck56Qm5PZnhIVm8xYTZuaGR5ZkVzRmVOTjk5U2NUb24zMDExbzlfaUlGaGp3VXhuWDRJWFAzWnRsaGY3aHJBR0Z5V2Q0djdpNDAtQUNpb1VIZDFHQ3F6NTBfR2J4VFpkX3E2OG8tNGxVekVjTzE3NDRZT1dTYWdPZkVy?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-18",
+   "ts": "2026-11-18T17:30:17Z",
+   "level": "minor",
+   "title": {
+    "en": "Elon Musk Has Invested in Skydance, David Ellison Confirms: ‘To Have Him as a Shareholder Is an Honor’",
+    "zh": "Elon Musk Has Invested in Skydance, David Ellison Confirms: ‘To Have Him as a Shareholder Is an Honor’"
+   },
+   "body": {
+    "en": "Musk has taken an investment stake in David Ellison's Skydance Media, confirmed publicly by Ellison.",
+    "zh": "大卫·埃里森公开证实马斯克已入股其Skydance Media公司。"
+   },
+   "source": "IMDb",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mZHJsdVROYnpHazcwbVI2aUt2Ui1ZUFota3JXeGdVYUpSems1ZV9tTkFXV0xLS0Z2Z1VpVTlPUHoxQ1I3OXJ3SjE0TmVCYXNhaWVsd2dqNnp1VWZidTFJTjBNQjctLTAtbXc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-18",
+   "ts": "2026-11-18T20:47:25Z",
+   "level": "minor",
+   "title": {
+    "en": "Elon Musk Has Invested in Skydance, David Ellison Confirms: ‘To Have Him as a Shareholder Is an Honor’",
+    "zh": "Elon Musk Has Invested in Skydance, David Ellison Confirms: ‘To Have Him as a Shareholder Is an Honor’"
+   },
+   "body": {
+    "en": "Elon Musk has taken a stake in Skydance Media, with CEO David Ellison publicly confirming and welcoming him as a shareholder.",
+    "zh": "埃隆·马斯克已入股Skydance影业，公司CEO David Ellison公开确认并欢迎他成为股东。"
+   },
+   "source": "IMDb",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUcVBSOUVnWkZmYkNvLUh3Z3RTazhiWUQ2eVBtSU5HM3A0VGRDZFJ0YjJmeUtQaEtyQlk1T3FacnZGRktKcXJ1WE5LUGlKRVcwMlVMM3FJVFJHRnpJUjJfSTVZWGdhdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-18",
+   "ts": "2026-11-18T21:04:02Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Says Earth’s Data Centers Are “Peanuts” Next to SpaceX’s Orbital Plans. Here’s the Math to Run Before Believing Him",
+    "zh": "Elon Musk Says Earth’s Data Centers Are “Peanuts” Next to SpaceX’s Orbital Plans. Here’s the Math to Run Before Believing Him"
+   },
+   "body": {
+    "en": "Musk argued that Earth-based data centers are trivial compared to SpaceX's orbital compute ambitions, underscoring his bet on space-based infrastructure for AI.",
+    "zh": "马斯克表示，与SpaceX的轨道计算计划相比，地球上的数据中心微不足道，凸显了他押注太空基础设施发展AI的战略。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQzk1cWdXZlRmQmIzZ0FtdlRlVDhQYzFEY1JpakNpVGoyaVFKVGdWRWpKZkxvVlg2WTBhajhENlFYVFYzY21Janh5OUxnRTZtQTJVaFRISnZTUmJVMm1KVk5fMk90a05JYjFhMFZyNFU3WGJRQ25ncndFbk5HRUZ5RmpjUk9ScDhTV1JubEh5bFFNVzQ?oc=5",
    "auto": true,
    "judged": true
   },
@@ -21951,7 +22155,7 @@
   "pageviews": 9295513,
   "citations": 1280,
   "hIndex": 3,
-  "events": 1219,
+  "events": 1231,
   "posts": 59,
   "wikiEn": "Elon Musk",
   "wikiZh": "埃隆·马斯克"

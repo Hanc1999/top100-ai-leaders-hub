@@ -221,6 +221,25 @@
    }
   },
   {
+   "date": "2026-11-21",
+   "ts": "2026-11-21T21:39:59Z",
+   "kind": "x",
+   "title": {
+    "en": "Coming soon, a Fields Medal citation: “For posing a problem that took the world’s best AI a trillion tokens to solve.”",
+    "zh": "Coming soon, a Fields Medal citation: “For posing a problem that took the world’s best AI a trillion tokens to solve.”"
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/2124256534448468304",
+   "note": {
+    "en": "Zhou jokes that a future Fields Medal citation will credit AI with solving a hard problem only after a trillion tokens — a dig at current reasoning models' inefficiency.",
+    "zh": "周登勇以调侃语气设想未来的菲尔兹奖颁奖词会写道：AI用了一万亿个token才解出这道难题——暗讽当前推理模型效率低下。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-19",
    "ts": "2026-11-19T17:36:19Z",
    "kind": "x",
@@ -1496,16 +1515,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 25.7,
+  "total": 26.1,
   "attention": null,
   "centrality": 34,
-  "momentum": 17,
+  "momentum": 18,
   "stature": 22,
   "pageviews": 0,
   "citations": 15010,
   "hIndex": 31,
   "events": 2,
-  "posts": 68,
+  "posts": 69,
   "wikiEn": null,
   "wikiZh": null
  },

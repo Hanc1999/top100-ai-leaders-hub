@@ -709,6 +709,101 @@
    "judged": true,
    "platform": "openalex",
    "connector": "openalex"
+  },
+  {
+   "date": "2002-04-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Statistical Learning of Multi-view Face Detection",
+    "zh": "Statistical Learning of Multi-view Face Detection"
+   },
+   "source": "Lecture notes in computer science",
+   "url": "https://doi.org/10.1007/3-540-47979-1_5",
+   "note": {
+    "en": "Co-authored with Stan Z. Li and colleagues at Microsoft Research Asia, this ECCV 2002 paper developed a statistical, boosting-based method for detecting faces across varying head poses and viewpoints.",
+    "zh": "这篇与李子青等微软亚洲研究院同事合作的ECCV 2002论文,提出了一种基于统计学习(boosting)的方法,用于在不同头部姿态和视角下检测人脸。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2001-11-20",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "E-Partner: A Photo-Realistic Conversation Agent",
+    "zh": "E-Partner: A Photo-Realistic Conversation Agent"
+   },
+   "source": "Lecture notes in computer science",
+   "url": "https://doi.org/10.1007/3-540-45453-5_34",
+   "note": {
+    "en": "An MSRA paper describing a photo-realistic virtual conversation agent that renders lifelike talking-head responses, part of Shum's early image-based rendering research.",
+    "zh": "这篇微软亚洲研究院论文介绍了一个逼真的虚拟对话代理,能够渲染逼真的说话人头像响应,是沈向洋早期基于图像渲染研究的一部分。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2001-10-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "ARTISTIC IMAGE GENERATION BY DEVIATION MAPPING",
+    "zh": "ARTISTIC IMAGE GENERATION BY DEVIATION MAPPING"
+   },
+   "source": "International Journal of Image and Gra…",
+   "url": "https://doi.org/10.1142/s0219467801000396",
+   "note": {
+    "en": "A 2001 paper proposing a deviation-mapping technique to generate stylized, artistic renderings from source images.",
+    "zh": "2001年的一篇论文,提出了一种偏差映射技术,可从原始图像生成风格化的艺术渲染效果。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2001-01-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Principal Component Analysis with Missing Data and Its Application to Polyhedral Object Modeling",
+    "zh": "Principal Component Analysis with Missing Data and Its Application to Polyhedral Object Modeling"
+   },
+   "source": "Springer eBooks",
+   "url": "https://doi.org/10.1007/978-1-4615-0797-0_1",
+   "note": {
+    "en": "Extends PCA to handle missing data and applies the method to reconstructing 3D polyhedral object models from images, a foundational computer-vision technique from Shum's Microsoft Research work.",
+    "zh": "将主成分分析(PCA)扩展到可处理缺失数据的情形,并将该方法应用于从图像重建三维多面体物体模型,是沈向洋在微软研究院计算机视觉工作中的基础性技术。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2000-05-30",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Real-time stereo rendering of concentric mosaics with linear interpolation",
+    "zh": "Real-time stereo rendering of concentric mosaics with linear interpolation"
+   },
+   "source": "Proceedings of SPIE, the International…",
+   "url": "https://doi.org/10.1117/12.386643",
+   "note": {
+    "en": "Built on Shum's concentric mosaics technique — his signature contribution to image-based rendering — this paper demonstrates real-time stereo rendering using linear interpolation.",
+    "zh": "基于沈向洋在基于图像渲染领域的标志性成果——同心马赛克(concentric mosaics)技术,该论文展示了利用线性插值实现实时立体渲染。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   }
  ],
  "news": [
@@ -828,7 +923,7 @@
   "citations": 1500,
   "hIndex": 10,
   "events": 6,
-  "posts": 28,
+  "posts": 33,
   "wikiEn": "Harry Shum",
   "wikiZh": "沈向洋"
  },

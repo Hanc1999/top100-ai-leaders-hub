@@ -63,6 +63,12 @@
    "t": 2
   },
   {
+   "kind": "blog",
+   "label": "World Labs Blog",
+   "url": "https://worldlabs.ai/blog",
+   "t": 2
+  },
+  {
    "kind": "linkedin",
    "label": "LinkedIn — search",
    "url": "https://www.linkedin.com/search/results/people/?keywords=Fei-Fei+Li",
@@ -217,6 +223,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-11-21",
+   "ts": "2026-11-21T17:51:53Z",
+   "kind": "x",
+   "title": {
+    "en": "Week One at AMD accomplished! As I have always said, AI is compute, compute is AI. LFG!🚀 @AMD @theworldlabs https://t.co/YQ6PSA7l2l",
+    "zh": "Week One at AMD accomplished! As I have always said, AI is compute, compute is AI. LFG!🚀 @AMD @theworldlabs https://t.co/YQ6PSA7l2l"
+   },
+   "source": "@drfeifei",
+   "url": "https://x.com/drfeifei/status/2124199134118948957",
+   "note": {
+    "en": "Li marks her first week at AMD, reiterating her 'AI is compute, compute is AI' framing following AMD's acquisition of World Labs.",
+    "zh": "李飞飞庆祝自己加入AMD的第一周，并在AMD收购World Labs后重申她\"AI就是算力，算力就是AI\"的理念。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
   },
   {
    "date": "2026-11-16",
@@ -2415,6 +2440,23 @@
    "url": "https://www.techtimes.com/articles/317927/20260606/feifei-lis-world-labs-splits-world-model-three-types-marble-targets-simulation-linchpin.htm"
   },
   {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T06:39:38Z",
+   "level": "major",
+   "title": {
+    "en": "AMD以82亿美元股票收购World Labs，李飞飞出任执行副总裁兼首席科学家",
+    "zh": "AMD以82亿美元股票收购World Labs，李飞飞出任执行副总裁兼首席科学家"
+   },
+   "body": {
+    "en": "AMD is acquiring Fei-Fei Li's World Labs for $8.2B in stock; she becomes AMD's Executive Vice President and Chief Scientist.",
+    "zh": "AMD以82亿美元股票收购李飞飞创立的World Labs，她将出任AMD执行副总裁兼首席科学家。"
+   },
+   "source": "虎嗅网",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzbDNERjFHN0UxN21seXRUcjZVVHF6ejdPRi1rVzdvMHNna1hjdDh4cnlrZnF2c3dadnVxR2xqNnRBd0gxemVHQWVWTnRLNEdBdDlMcA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-18",
    "ts": "2026-11-18T01:20:00Z",
    "level": "major",
@@ -2870,6 +2912,57 @@
    },
    "source": "新浪财经_金融信息服务商",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PY0VZaWhJZzhOZ1dVdlJ2Sy1oc21mT21udHg3aVhfWHBmeFRwWEVMRzJIMnloOV9FZnpHQmJOMG5scktCM3Bud05pTnpoQ09qLUhTOE5VWlRDa2k1dVg1VTIzWlJocU9HSXNGdGRB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T02:45:02Z",
+   "level": "major",
+   "title": {
+    "en": "李飞飞正式加入AMD，担任执行副总裁兼首席科学家，CEO苏姿丰亲自欢迎",
+    "zh": "李飞飞正式加入AMD，担任执行副总裁兼首席科学家，CEO苏姿丰亲自欢迎"
+   },
+   "body": {
+    "en": "Fei-Fei Li formally joined AMD as Executive Vice President and Chief Scientist, with CEO Lisa Su welcoming her in person.",
+    "zh": "李飞飞正式加入AMD，担任执行副总裁兼首席科学家，CEO苏姿丰亲自表示欢迎。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mQUNfZGdCYnN0cHhoa0c2WHpDVFp3aUtORFpDN0o4amxNMWpLQWFlNmFjSFNfOUxCNFltMUw3MTJxV0kycjE3MDVPYnBzZ2dDeVhiQ21yUE9MVVNvcnl0Y0x6VVlvaTFud3BLMUVobw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T04:40:00Z",
+   "level": "major",
+   "title": {
+    "en": "AMD以82亿美元收购World Labs，李飞飞出任首席科学家",
+    "zh": "AMD以82亿美元收购World Labs，李飞飞出任首席科学家"
+   },
+   "body": {
+    "en": "AMD acquired Fei-Fei Li's World Labs for $8.2 billion, with Li becoming the company's chief scientist.",
+    "zh": "AMD以82亿美元收购李飞飞创立的World Labs，李飞飞出任公司首席科学家。"
+   },
+   "source": "手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCUUxlcUJhejkyVlBMNnp2aGNGb3pvWnVQZzNRa2ttaGdzbkN3WFZKVFYwazZzLWQ2Q3F5a1VKd3VfNzZLb1ZhTWYySkxjTHM0QlpRMWd6THc5cGMtSnA2Y296Z0F4V0VOejE3b2E0NVZ0dzc1bjNxRWZsTTBNZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T05:59:02Z",
+   "level": "major",
+   "title": {
+    "en": "李飞飞正式加入AMD 苏姿丰亲自欢迎",
+    "zh": "李飞飞正式加入AMD 苏姿丰亲自欢迎"
+   },
+   "body": {
+    "en": "Fei-Fei Li formally joined AMD as part of its acquisition of her startup World Labs, with CEO Lisa Su personally welcoming her into the company as chief scientist.",
+    "zh": "李飞飞正式加入AMD，这是AMD收购其创业公司World Labs的后续动作，AMD CEO苏姿丰亲自欢迎她加入并担任首席科学家。"
+   },
+   "source": "cnBeta.COM",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCMnh2bEZ6TVJmUHpheVNQQ2dTOHBmX25kT21qOGFVeHp4dUNHRVFOT0pEOW1Rajd6TWdiUF9Mdk53ZWhFQkRDMnJTNlhCUGwwYVE?oc=5",
    "auto": true,
    "judged": true
   },
@@ -3673,6 +3766,40 @@
    "judged": true
   },
   {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T08:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "547亿元收购后首次同台！李飞飞对话苏姿丰，详解统一世界模型Atlas",
+    "zh": "547亿元收购后首次同台！李飞飞对话苏姿丰，详解统一世界模型Atlas"
+   },
+   "body": {
+    "en": "In their first joint public appearance since AMD's $5.47B acquisition of World Labs, Li and Lisa Su detailed the unified world model Atlas.",
+    "zh": "在AMD收购World Labs后首次同台亮相，李飞飞与苏姿丰详细介绍了统一世界模型Atlas。"
+   },
+   "source": "智东西",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvZXJTUkRST3JZQ09lV0I5R3VTWEIyMC16UG5rUWpqelBqeGlhUFRtdlB3ZDFyOUp3R0EwYnVFdUZrbTR1U3M1Tg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-12",
+   "ts": "2026-11-12T09:56:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李飞飞对话苏姿丰：机器人将成为“算力新引擎”",
+    "zh": "李飞飞对话苏姿丰：机器人将成为“算力新引擎”"
+   },
+   "body": {
+    "en": "Fei-Fei Li discussed robotics as a new engine for compute demand in a public dialogue with AMD CEO Lisa Su, shortly before AMD's acquisition of her company World Labs.",
+    "zh": "李飞飞与AMD首席执行官苏姿丰公开对话，提出机器人将成为算力需求的新引擎，这场对话发生在AMD收购其公司World Labs之前。"
+   },
+   "source": "砍柴网",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xblRQWTRveUNFUU9yUmRuOGlGempBVHZIbWJxRFloV1ViWDh1YUZJNlZGWWRQeU5uWGd6WmF0V09LVGxaT3lxdGFreGdYaWdR?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-11",
    "ts": "2026-11-11T11:50:00Z",
    "level": "notable",
@@ -4077,6 +4204,23 @@
    },
    "source": "36Kr",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ISW1wNXMxekt4a3NyM0VvSElQVlJwMG5OZ0YxZVBSRVJHazdHVE1uQk5jcF9TbldVX0d2Ym40dWlkX0hxME9wZG1obWVmQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-06",
+   "ts": "2026-11-06T08:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李飞飞World Labs团队发布Frameboy：AI生成世界可实时探索，最高每秒15帧",
+    "zh": "李飞飞World Labs团队发布Frameboy：AI生成世界可实时探索，最高每秒15帧"
+   },
+   "body": {
+    "en": "Li's World Labs team released Frameboy, a real-time explorable AI-generated world model running at up to 15 frames per second.",
+    "zh": "李飞飞的World Labs团队发布了Frameboy，一款可实时探索的AI生成世界模型，最高可达每秒15帧。"
+   },
+   "source": "腾讯新闻",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ONzVTWWdGWElIUzJBTDdtZzQyTlQ2dzl3NlNXYzNrQUtPbTdDSDlBeHBIYTdqRlgyNE9OcWprSFR3WFNLLWFWdFlXVWJsVlNVYW1PLVZn?oc=5",
    "auto": true,
    "judged": true
   },
@@ -10828,8 +10972,8 @@
   "pageviews": 423813,
   "citations": 222997,
   "hIndex": 137,
-  "events": 496,
-  "posts": 116,
+  "events": 503,
+  "posts": 117,
   "wikiEn": "Fei-Fei Li",
   "wikiZh": "李飛飛"
  },

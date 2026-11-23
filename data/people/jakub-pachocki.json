@@ -33,12 +33,6 @@
    "t": 1
   },
   {
-   "kind": "github",
-   "label": "GitHub @merettm",
-   "url": "https://github.com/merettm",
-   "t": 1
-  },
-  {
    "kind": "company",
    "label": "OpenAI Research",
    "url": "https://openai.com/research/",
@@ -96,6 +90,12 @@
    "kind": "podcast",
    "label": "小宇宙 — 搜索",
    "url": "https://www.xiaoyuzhoufm.com/search?q=Jakub+Pachocki",
+   "t": 3
+  },
+  {
+   "kind": "github",
+   "label": "GitHub — search",
+   "url": "https://github.com/search?q=Jakub+Pachocki&type=users",
    "t": 3
   },
   {
@@ -807,6 +807,23 @@
    "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"
   },
   {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T21:34:07Z",
+   "level": "notable",
+   "title": {
+    "en": "OpenAI's Jakub Pachocki urges measuring perplexity to slow AI",
+    "zh": "OpenAI's Jakub Pachocki urges measuring perplexity to slow AI"
+   },
+   "body": {
+    "en": "Proposed in an OpenAI post that perplexity — a measure of how well a model predicts text — could serve as a shared benchmark letting AI labs agree on common development limits tied to concrete safety milestones.",
+    "zh": "在OpenAI的一篇文章中提出，困惑度（perplexity，衡量模型预测文本准确程度的指标）可以作为一个共享基准，让各AI实验室就与具体安全里程碑绑定的通用发展上限达成一致。"
+   },
+   "source": "NewsBytes",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSERGdWcxT3ZTZXJ4bHdXSkI5NF9od1Y4emNQY0FiUWZ1U0hITFFDRFp6N25vdWZ6T1BsUl9hUkQ2QkVGLWZRN2JmQVB5WHpVcUlLUGw1RFVDWWhRT3E4ckZJUUVveVQ2MnhtZU9OV0dFSXNlM0x4Y2pELWItOV9kUUNLNlM5MnY2enpHSHFubDBmZ2hsWlYxSmpmYTNPazZzM29GVUVQQVBrSTQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-08",
    "ts": "2026-09-08T12:11:29Z",
    "level": "major",
@@ -916,15 +933,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 46.9,
+  "total": 47.4,
   "attention": 36,
   "centrality": 87,
-  "momentum": 20,
+  "momentum": 22,
   "stature": null,
   "pageviews": 51141,
   "citations": 3664,
   "hIndex": 15,
-  "events": 7,
+  "events": 8,
   "posts": 34,
   "wikiEn": "Jakub Pachocki",
   "wikiZh": "雅库布·帕霍基"

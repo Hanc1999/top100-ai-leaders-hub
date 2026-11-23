@@ -58,6 +58,12 @@
    "t": 2
   },
   {
+   "kind": "blog",
+   "label": "NVIDIA Blog — Jensen Huang Author Archive",
+   "url": "https://blogs.nvidia.com/blog/author/jen-hsun-huang/",
+   "t": 2
+  },
+  {
    "kind": "linkedin",
    "label": "LinkedIn — search",
    "url": "https://www.linkedin.com/search/results/people/?keywords=Jensen+Huang",
@@ -836,6 +842,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2026-03-10",
+   "ts": "2026-03-10T10:00:03Z",
+   "kind": "blog",
+   "title": {
+    "en": "AI Is a 5-Layer Cake",
+    "zh": "AI Is a 5-Layer Cake"
+   },
+   "source": "Jensen Huang Author Page | NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/ai-5-layer-cake/",
+   "note": {
+    "en": "Huang's own essay framing AI as foundational infrastructure built in five layers, from chips to applications.",
+    "zh": "黄仁勋撰文将AI描述为由芯片到应用共五层构成的基础设施，而非一款应用或单一模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
    "date": "2026-01-23",
    "ts": null,
    "kind": "podcast",
@@ -1005,6 +1030,120 @@
    "judged": true,
    "platform": "apple-podcasts",
    "connector": "podcasts"
+  },
+  {
+   "date": "2021-11-12",
+   "ts": "2021-11-12T14:00:59Z",
+   "kind": "blog",
+   "title": {
+    "en": "NVIDIA to Build Earth-2 Supercomputer to See Our Future",
+    "zh": "NVIDIA to Build Earth-2 Supercomputer to See Our Future"
+   },
+   "source": "Jensen Huang Author Page | NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/earth-2-supercomputer/",
+   "note": {
+    "en": "Huang announces NVIDIA's Earth-2 initiative, a supercomputer-scale digital twin of the planet for climate simulation.",
+    "zh": "黄仁勋宣布NVIDIA的Earth-2计划，用超级计算规模的数字孪生地球来模拟气候变化。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2020-09-13",
+   "ts": "2020-09-13T23:00:50Z",
+   "kind": "blog",
+   "title": {
+    "en": "Letter From Jensen: Creating a Premier Company for the Age of AI",
+    "zh": "Letter From Jensen: Creating a Premier Company for the Age of AI"
+   },
+   "source": "Jensen Huang Author Page | NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/jensen-employee-letter-arm/",
+   "note": {
+    "en": "Huang's letter to employees announcing NVIDIA's agreement to acquire Arm.",
+    "zh": "黄仁勋致员工的信，宣布NVIDIA已签署收购Arm的协议。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2020-09-13",
+   "ts": "2020-09-13T23:00:28Z",
+   "kind": "blog",
+   "title": {
+    "en": "NVIDIA and Arm to Create World-Class AI Research Center in Cambridge",
+    "zh": "NVIDIA and Arm to Create World-Class AI Research Center in Cambridge"
+   },
+   "source": "Jensen Huang Author Page | NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/arm-ai-research-center-cambridge-uk/",
+   "note": {
+    "en": "NVIDIA and Arm announce a joint AI research center in Cambridge, UK, tied to the Arm acquisition.",
+    "zh": "NVIDIA与Arm宣布在英国剑桥共建AI研究中心，与收购Arm交易相关联。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2020-04-30",
+   "ts": "2020-04-30T17:40:18Z",
+   "kind": "blog",
+   "title": {
+    "en": "Letter From Jensen: Building the New NVIDIA Together",
+    "zh": "Letter From Jensen: Building the New NVIDIA Together"
+   },
+   "source": "Jensen Huang Author Page | NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/building-the-new-nvidia-together/",
+   "note": {
+    "en": "Huang's letter to employees marking the close of NVIDIA's acquisition of Mellanox.",
+    "zh": "黄仁勋致员工的信，宣布NVIDIA收购Mellanox的交易正式完成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2016-10-24",
+   "ts": "2016-10-24T13:00:50Z",
+   "kind": "blog",
+   "title": {
+    "en": "The Intelligent Industrial Revolution",
+    "zh": "The Intelligent Industrial Revolution"
+   },
+   "source": "Jensen Huang Author Page | NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/intelligent-industrial-revolution/",
+   "note": {
+    "en": "Huang lays out his vision of AI-powered machines driving a new industrial revolution.",
+    "zh": "黄仁勋阐述AI驱动的智能机器将引领新一轮工业革命的愿景。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
+  },
+  {
+   "date": "2016-01-12",
+   "ts": "2016-01-12T17:30:44Z",
+   "kind": "blog",
+   "title": {
+    "en": "Accelerating AI with GPUs: A New Computing Model",
+    "zh": "Accelerating AI with GPUs: A New Computing Model"
+   },
+   "source": "Jensen Huang Author Page | NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/accelerating-ai-artificial-intelligence-gpus/",
+   "note": {
+    "en": "Huang's early essay arguing GPUs represent a new computing model built for AI.",
+    "zh": "黄仁勋早期撰文，提出GPU代表了专为AI打造的新计算模式。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "web",
+   "connector": "web"
   }
  ],
  "news": [
@@ -1063,6 +1202,159 @@
    },
    "source": "NVIDIA Newsroom",
    "url": "https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership"
+  },
+  {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T03:35:38Z",
+   "level": "notable",
+   "title": {
+    "en": "亚马逊执行董事长贝索斯：如果不让黄仁勋回英伟达，不要聘用外人",
+    "zh": "亚马逊执行董事长贝索斯：如果不让黄仁勋回英伟达，不要聘用外人"
+   },
+   "body": {
+    "en": "Amazon chairman Jeff Bezos says that if NVIDIA won't bring Jensen Huang back, it shouldn't hire an outsider to replace him — a public stance from a major tech figure on Huang's ouster.",
+    "zh": "亚马逊执行董事长贝索斯表示，如果英伟达不让黄仁勋回归，就不应该聘请外部人士接任——这是一位重量级科技人物就黄仁勋离职风波作出的公开表态。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmFaU3lxU2QxXzhLVmpadkVzV2t3RlprcTRiTlZSTFpLU1d2VTdNWlNkSGNxblpweWViV0t0QVU0UTJXYW9NYkNVQXVsUzlVUDFZSXhZeFQ4MWd2eDdQdFdLOUVxNHNjTkdMZWpaLUI2YmQxcUFPYmw2eDctSTZKb3VXcm1YemRUTS16cQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T02:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "特朗普敦促英伟达让黄仁勋复任CEO",
+    "zh": "特朗普敦促英伟达让黄仁勋复任CEO"
+   },
+   "body": {
+    "en": "Donald Trump publicly urges NVIDIA to reinstate Jensen Huang as CEO, adding presidential pressure to the campaign for his return.",
+    "zh": "特朗普公开敦促英伟达让黄仁勋复任CEO，为要求他回归的呼声增添了总统层面的压力。"
+   },
+   "source": "IDNFinancials",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPeXhBLUtncGFjQUo3RTBjbko0VEhwZUNTVGhfYmpZYW1vcndwMmxQeS1FYktRNFhVanlzc3o4ck5GbVpQc0pIcDdyUGxGYUhVcWNrU2NRelVXVWtZMFI4ZjQ3WEpuQnFzTVdVaXFiRGxXSXhZNE1Ya09kbk02empCbFhwc3ljWm1mb0xQaTFlZC0wMHpEdmxqRVlwTkdjWW4tRVQtbjhFdkdlXzNZS05pWmRSd3lPOWNCTldZNjRPVkh3YkFXNUJtckVNdE4zWWNHWDByOXRzT2pWVk9pLXQ2bV9lU1R0SjhqQWhtMWZESzFkRHZpYWhnNmw3Q1o0c013bU9V?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T00:41:00Z",
+   "level": "notable",
+   "title": {
+    "en": "AI周报|英伟达董事会不打算恢复黄仁勋职务；DeepSeek千亿融资落地",
+    "zh": "AI周报|英伟达董事会不打算恢复黄仁勋职务；DeepSeek千亿融资落地"
+   },
+   "body": {
+    "en": "NVIDIA's board has signaled it does not intend to reinstate Jensen Huang to his former role, confirming his departure stands.",
+    "zh": "英伟达董事会表示不打算恢复黄仁勋的原职务，确认他离任的结果维持不变。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYnkzT1RXRWE5WS1TcFIwc2R1OE85MEEzMURGREFieE1mcW51RE5Pb2VBU3FRWGw2dEY2dmRhejdMcWhkVHpZVlNrc3JmdUo2WnFwOUs1ZjNFcktRVFRzRWt5Uzl2UFcxTDFSVTUyUklObHlhNEFYOGtJdmRNcUEyVVpaRExLMU5L?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T01:33:58Z",
+   "level": "notable",
+   "title": {
+    "en": "特朗普呼吁黄仁勋在“重大道歉”后重返英伟达出任CEO",
+    "zh": "特朗普呼吁黄仁勋在“重大道歉”后重返英伟达出任CEO"
+   },
+   "body": {
+    "en": "Trump publicly called for Jensen Huang to return as NVIDIA CEO after a \"major apology,\" a new, concrete development in the pressure campaign around his ouster.",
+    "zh": "特朗普公开呼吁黄仁勋在作出\"重大道歉\"后重返英伟达出任CEO，为其去职风波中的声援压力增添了新的具体进展。"
+   },
+   "source": "news.qq.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CaDVqTG9CZ0VKcTFoQzlheGhDVDk5bnAtRnRTWW5LaU9ENjdnU09Ra0JpVnhGblJPZ09aeGFscUplOG5FMnIxWmRrU0xBc3Y4SThDa013?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T11:07:09Z",
+   "level": "major",
+   "title": {
+    "en": "Nvidia (NVDA) CEO Jensen Huang Resigned As The SEC Opened An Accounting Probe",
+    "zh": "Nvidia (NVDA) CEO Jensen Huang Resigned As The SEC Opened An Accounting Probe"
+   },
+   "body": {
+    "en": "Reports tied Jensen Huang's resignation as Nvidia CEO to a newly opened SEC civil probe into the company's accounting and disclosures, deepening the fallout from his exit.",
+    "zh": "报道将黄仁勋辞任英伟达CEO一事与美国证券交易委员会（SEC）针对公司财务披露新展开的民事调查联系在一起，使其离职事件进一步发酵。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOXN0TUVMd3I0Sy1tTVg2RkdxSjlaSzRqS0h5VEFab1VmajZ3Z2xTWUhOSjN3TDIzSWZpOGRnclc2NXFaRGdjT25TNzhlZ09pN05KeDF6SEhFMkpXWEI4THRZa2NDc011TjhlRTc1ZENkU3dTTjRNS3RMOTluaUY1MmhIRHRLVnRyVDFUZkhqcGM4YmZMem45cg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T07:42:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Report says false explanations led to Jensen Huang's Nvidia departure",
+    "zh": "Report says false explanations led to Jensen Huang's Nvidia departure"
+   },
+   "body": {
+    "en": "New reporting says Nvidia's board accepted Huang's resignation primarily over his dishonest explanations and lack of candor, not the extramarital affair alone — a substantive update on why he actually left.",
+    "zh": "新报道称，英伟达董事会接受黄仁勋辞职的主要原因是他不诚实的解释和缺乏坦诚，而非仅仅是婚外情本身——这是关于他离职真正原因的实质性新进展。"
+   },
+   "source": "Chosunbiz",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Hc2ZkdExYUlRMV1VvQ0kzdng0TWxTQ0YtU3VTalBiZ0xRR3lGOE96ajNrcHFaeUYxaVRvQkdFcy1HbHk1bVpMVEd0ZDcyc3NxS0FweUc0aHRqWm9aMlIxVFF5U2Y5bktRRUZPa3Z2eDRmVF9maEtXRVJB0gGOAUFVX3lxTE9LRTlRMG9sNkZnRlljRHBlYUFuVzZCT0dEQmhhM0xuQlllbGlSTlpnTlp3QWxFTjFuazRQendrYXJ6WkdZX2VLQzFNalNSWnk1UWgzVFNKbGEtRWloTHltenlBeXh1MU9CMDU0WnhnNHdpTFluQmlOdnJHQnl1TTQwcUdhSG1wdDNZTWRuQkE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T00:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Watch Rep. McCaul Seeks Answers From Jensen Huang",
+    "zh": "Watch Rep. McCaul Seeks Answers From Jensen Huang"
+   },
+   "body": {
+    "en": "Huang faced questions from Rep. McCaul in a congressional hearing, a real public-accountability moment amid scrutiny of NVIDIA's export controls.",
+    "zh": "黄仁勋在国会听证会上接受麦考尔议员的质询，这是在NVIDIA出口管制审查背景下的一次真实的公开问责场合。"
+   },
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc1BxaUpURXdxMUdQT1kwX3g1Y0J4MGMxTmVVODR2V2h4QjhpZm5VQkRLckZKWExnbDZzMjY0ZEpKOUh1cGVpREM1OFVGUENRTmc0bkUwSncwelVCZDhRUUlCSUlMY0tqekdBVUJGc3pBaHFtVlY0bXlsS3RRRGFhZ1dLcUUyQmRXSHRDS29jSDRDeHJ6TXhDZ1czTzhwdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T17:42:57Z",
+   "level": "notable",
+   "title": {
+    "en": "Sen. Kennedy calls for officials to testify over Jensen Huang scandal",
+    "zh": "Sen. Kennedy calls for officials to testify over Jensen Huang scandal"
+   },
+   "body": {
+    "en": "Senator John Kennedy called for officials to testify before Congress over the Jensen Huang scandal, escalating the political fallout from his NVIDIA exit.",
+    "zh": "参议员约翰·肯尼迪要求官员就黄仁勋丑闻在国会作证，使他离开NVIDIA后的政治余波进一步升级。"
+   },
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3Blb21LRmJHa3hxVWJtYXRzbGVqZ1NVdERLblVtczdNRm84WlZCc0xGUTZ6a05ubldpQzBNLVFmcEZzeTE2OFN1blRwemtUSVNSZktBb2FtOFlvdDhvVi1URmlSM2Y4bVZMQk9SbFBmU1JqWEFCNVJSY0FsR1BLLUttSmZfTlVYUzBtUU1HNkJRbnpFaFUyS0hkZ2VNYTYxUU5FdnJfNXh4aTRZeEVTNG5oeXh1a1lYeWc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T17:17:03Z",
+   "level": "notable",
+   "title": {
+    "en": "彭博记者当习近平面提问黄仁勋 随后被拒入场",
+    "zh": "彭博记者当习近平面提问黄仁勋 随后被拒入场"
+   },
+   "body": {
+    "en": "A Bloomberg reporter was denied re-entry to an event after asking Jensen Huang a question in front of Xi Jinping, a notable incident amid his ongoing scandal fallout.",
+    "zh": "一名彭博社记者在习近平面前向黄仁勋提问后被拒绝再次入场，这是他丑闻余波期间一个引人关注的事件。"
+   },
+   "source": "文学城",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lb2hyelhPdkhZbHhHRWhSZjhhY2tycUhyV1Y4WTFBZ0o1SGFWb0JwMHRTMGFLUGNuRFVGaF8zQk5OeDRtcjB0MzUyRURKcW5YU2xDaHZEVlJSSG9sTnAxeFF3TlJVOGU1?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-11-21",
@@ -1609,6 +1901,23 @@
    "judged": true
   },
   {
+   "date": "2026-11-21",
+   "ts": "2026-11-21T08:39:00Z",
+   "level": "notable",
+   "title": {
+    "en": "特朗普：期待黄仁勋回英伟达",
+    "zh": "特朗普：期待黄仁勋回英伟达"
+   },
+   "body": {
+    "en": "Trump said he hopes Jensen Huang returns to lead NVIDIA, weighing in publicly on the fallout from Huang's departure as CEO.",
+    "zh": "特朗普公开表示期待黄仁勋重返英伟达掌舵，就黄仁勋辞任CEO后的局势发表公开立场。"
+   },
+   "source": "京报网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxU3Rmc1NMN1pnT25sQ2pVcTdfejFjRWlNVk9CXzgyMzRVMmpScS03RFpRSjRwMFdyX3BFM2dMRi1GSDJhR2t3UVlhaEpjVVFsRTFCSVM2STZuVUhjU0pGdnhwM190ZGlxX1VDYWNVeVpmUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-20",
    "ts": "2026-11-20T01:31:56Z",
    "level": "notable",
@@ -2013,6 +2322,23 @@
    },
    "source": "新浪财经",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNG04cnZ6dVNveXdiRkUyc0w5bUNvcEFRdi1meXpuWGFVZHhudlJuaUJQTHRuMERwZmFrZDJHNXJvRGtwemxaNjBoQngyMkYxb2NPbjRsU1RzN0dpLURLTnM1ZGZqaWFnRm5GTWMzSEdmam1fYzRNcXJ6bkM3eFc0czZiSWhEdmdNMjJBWHZBeENhajIxSVRody1RczE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-20",
+   "ts": "2026-11-20T06:59:39Z",
+   "level": "notable",
+   "title": {
+    "en": "“这是AMD的巨大机遇”：苏姿丰首谈黄仁勋离任英伟达CEO，他是杰出领袖",
+    "zh": "“这是AMD的巨大机遇”：苏姿丰首谈黄仁勋离任英伟达CEO，他是杰出领袖"
+   },
+   "body": {
+    "en": "AMD CEO Lisa Su gave her first public comments on Huang's exit as NVIDIA CEO, calling him an outstanding leader and noting the opportunity it creates for AMD.",
+    "zh": "AMD首席执行官苏姿丰首次公开谈及黄仁勋辞任英伟达CEO，称他是杰出领袖，并指出这为AMD带来了巨大机遇。"
+   },
+   "source": "东方财富网",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WlhrUzJGZ2FLM3VmaDZlZlYtX0p0bzZmQWlOVEt4dTlzWmxUQk91eGoza1g3elhjTVMtU19aOFl4U1l3U2tYQUdWb1dITm1VczRDbTFXVk9YRFliOGE5dy1HeG13UQ?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2591,6 +2917,23 @@
    },
    "source": "Politico",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRE12YmtGajhpbVZiODA4UDdpeTVhNmFCV1BLVEhYUTZIQWlXbE42NkJESGR2OXpNRGhMUWhxOGpjLWxSZEEtQk5FQ01qS21ZbFpaZVU3djVacmQxUDR6cmJ1VnRKLXpGNnhDdGtWcEk2VkFTWmI1d0hEVWR3RHMxMk5zZUM5dGJOanlRRk9Wdkw2WVRJZlpQdmxVYVNyTUF0?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-19",
+   "ts": "2026-11-19T03:45:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Grant Cardone Called Jensen Huang 'Shameful' — 4 Days Later He Told Nvidia Employees 'You Know Better Than the Board' After a $600 Billion Wipeout",
+    "zh": "Grant Cardone Called Jensen Huang 'Shameful' — 4 Days Later He Told Nvidia Employees 'You Know Better Than the Board' After a $600 Billion Wipeout"
+   },
+   "body": {
+    "en": "Amid criticism over NVIDIA's $600B market-cap wipeout, Huang told NVIDIA employees 'You know better than the board,' a rare direct rebuttal during the leadership controversy.",
+    "zh": "面对英伟达市值蒸发6000亿美元引发的批评，黄仁勋对员工说“你们比董事会更清楚”，这是他在这场领导层争议中罕见的正面回应。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYVhVcE5qX1FSWUw5M3ZfX28yaWxWeVF1VDU4M1IxOS1KSjNPUmZ2ZEZTcGVFZU92N1pMNm5oOWxfTlZ5Z3JXSkZXQUVwc1R3UkN1cExGTmVrMW9zcTZfb1QwN0VsSmxkekpHMWx2MzQ4SmVpLWI3YklfV1BCbVk0RGd0b0VjbkdyMlBkOUVyUjhWTVpKa2pOSmE1aXFvRFE?oc=5",
    "auto": true,
    "judged": true
   },
@@ -30762,8 +31105,8 @@
   "pageviews": 3963246,
   "citations": 0,
   "hIndex": 0,
-  "events": 1750,
-  "posts": 48,
+  "events": 1762,
+  "posts": 55,
   "wikiEn": "Jensen Huang",
   "wikiZh": "黃仁勳"
  },

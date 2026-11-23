@@ -156,6 +156,120 @@
    }
   },
   {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T00:15:59Z",
+   "kind": "x",
+   "title": {
+    "en": "This is so fun that it’s worth just having your car drive you around for the sake of driving around",
+    "zh": "This is so fun that it’s worth just having your car drive you around for the sake of driving around"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2124295793280450870",
+   "note": {
+    "en": "Musk says Tesla's self-driving is now enjoyable enough that riding along for its own sake is worthwhile, a personal endorsement of the latest FSD experience.",
+    "zh": "马斯克表示特斯拉的自动驾驶已经好到可以单纯为了体验而乘坐，这是他对最新FSD体验的个人认可。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T00:11:51Z",
+   "kind": "x",
+   "title": {
+    "en": "Tesla FSD V15 is a banger release! Completely new architecture that deserves being called “super” intelligence, as it drives better than human intelligence.",
+    "zh": "Tesla FSD V15 is a banger release! Completely new architecture that deserves being called “super” intelligence, as it drives better than human intelligence."
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2124294755316310346",
+   "note": {
+    "en": "Musk calls Tesla FSD V15 a 'completely new architecture' that drives better than human intelligence, framing it as a 'super intelligence' milestone for the car.",
+    "zh": "马斯克称特斯拉FSD V15是\"全新架构\"，驾驶表现超越人类智能，并将其定位为汽车领域的\"超级智能\"里程碑。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T11:21:27Z",
+   "kind": "x",
+   "title": {
+    "en": "Some people thought we meant 25% improvement, no we mean 25 times! Welcome to the singularity. Hope you’re enjoying your stay.",
+    "zh": "Some people thought we meant 25% improvement, no we mean 25 times! Welcome to the singularity. Hope you’re enjoying your stay."
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2124463264037769352",
+   "note": {
+    "en": "Musk clarified that a recent capability claim was a 25x improvement, not 25%, framing it as a step toward 'the singularity.'",
+    "zh": "马斯克澄清此前的能力提升说法是25倍而非25%，并将其描述为迈向“奇点”的一步。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T19:42:06Z",
+   "kind": "x",
+   "title": {
+    "en": "32 hour launch pad recycle. Great work by SpaceX team.",
+    "zh": "32 hour launch pad recycle. Great work by SpaceX team."
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2124589255565680900",
+   "note": {
+    "en": "Musk touted SpaceX's 32-hour launch pad turnaround as a new operational milestone.",
+    "zh": "马斯克称SpaceX实现32小时发射台周转，创下新的运营纪录。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T20:52:13Z",
+   "kind": "x",
+   "title": {
+    "en": "Tesla super intelligence software, chip design &amp; Terafab are fun places to work",
+    "zh": "Tesla super intelligence software, chip design &amp; Terafab are fun places to work"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2124606900553863466",
+   "note": {
+    "en": "Musk named Tesla's super-intelligence software team, chip design group, and the Terafab project as current focus areas.",
+    "zh": "马斯克提到特斯拉的超级智能软件团队、芯片设计团队以及Terafab项目是当前的重点工作方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T21:42:40Z",
+   "kind": "x",
+   "title": {
+    "en": "Consciousness is either an illusion or ubiquitous on a gradient. Difficult to argue that carbon is conscious, but silicon is not.",
+    "zh": "Consciousness is either an illusion or ubiquitous on a gradient. Difficult to argue that carbon is conscious, but silicon is not."
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2124619599882920139",
+   "note": {
+    "en": "Argued on X that consciousness is either an illusion or exists on a gradient shared by carbon and silicon alike, a notable public stance on AI sentience that drew strong engagement.",
+    "zh": "在X上发文称，意识要么是一种幻觉，要么以某种梯度普遍存在，碳具有意识而硅没有这一说法难以成立——这是他对AI是否具有意识这一问题的公开表态，获得了大量互动。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-21",
    "ts": "2026-11-21T07:30:56Z",
    "kind": "x",
@@ -168,6 +282,63 @@
    "note": {
     "en": "Musk argues supervised fine-tuning is a crude patch for behavior that should be built into pretraining itself, and calls system prompts unnecessary.",
     "zh": "马斯克认为监督微调（SFT）只是对本该在预训练阶段就具备的行为打的粗糙补丁，并认为“系统提示词”也没有必要存在。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-21",
+   "ts": "2026-11-21T18:49:42Z",
+   "kind": "x",
+   "title": {
+    "en": "Simple explanation of the usefulness of the Riemann proof (so far) is that it removes the conditional nature of other math theorems dependent upon it. And, of c",
+    "zh": "Simple explanation of the usefulness of the Riemann proof (so far) is that it removes the conditional nature of other math theorems dependent upon it. And, of c"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2124213680422387741",
+   "note": {
+    "en": "Musk explains the significance of the (claimed) Riemann Hypothesis proof: it removes the conditional caveat from every other theorem that depended on it.",
+    "zh": "马斯克解释了（据称已被证明的）黎曼猜想的意义：它消除了所有依赖该猜想的定理中的条件限制。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-21",
+   "ts": "2026-11-21T20:26:59Z",
+   "kind": "x",
+   "title": {
+    "en": "In FSD V15, the Tesla AI computer re-renders reality with chevrons in the sky for turns like a video game. You can tap any point on the reality revisualizer to",
+    "zh": "In FSD V15, the Tesla AI computer re-renders reality with chevrons in the sky for turns like a video game. You can tap any point on the reality revisualizer to"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2124238164512714925",
+   "note": {
+    "en": "Musk details a new FSD V15 feature: the car's AI re-renders the road with sky chevrons and a tappable 'reality revisualizer' to set driving destinations.",
+    "zh": "马斯克详细介绍了FSD V15的新功能：车载AI会在天空中渲染转向箭头，并提供可点击的\"现实重构可视化\"界面来设定行驶目的地。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-21",
+   "ts": "2026-11-21T22:35:11Z",
+   "kind": "x",
+   "title": {
+    "en": "This is real-time AI video generation (no gaming engine!) using just half of one AI4 TRIP accelerator. Let that sink in …",
+    "zh": "This is real-time AI video generation (no gaming engine!) using just half of one AI4 TRIP accelerator. Let that sink in …"
+   },
+   "source": "@elonmusk",
+   "url": "https://x.com/elonmusk/status/2124270426402836626",
+   "note": {
+    "en": "Musk claims real-time AI video generation — without a game engine — running on just half of one AI4 TRIP accelerator chip.",
+    "zh": "马斯克宣称仅用半块AI4 TRIP加速芯片，就实现了无需游戏引擎的实时AI视频生成。"
    },
    "auto": true,
    "judged": true,
@@ -935,177 +1106,6 @@
    "connector": null
   },
   {
-   "date": "2026-11-13",
-   "ts": "2026-11-13T23:43:30Z",
-   "kind": "x",
-   "title": {
-    "en": "Live Starship video from space https://t.co/PSFPxivC0z",
-    "zh": "Live Starship video from space https://t.co/PSFPxivC0z"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2121388517540716839",
-   "note": {
-    "en": "Musk posted a live video of Starship filmed from space, which drew over a million views.",
-    "zh": "马斯克发布了一段从太空拍摄的星舰直播视频，浏览量超过百万。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-11-12",
-   "ts": "2026-11-12T05:12:04Z",
-   "kind": "x",
-   "title": {
-    "en": "Robotaxi works 168 hours a week",
-    "zh": "Robotaxi works 168 hours a week"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2120746428720988408",
-   "note": {
-    "en": "Musk claimed Tesla's Robotaxi service now operates 168 hours a week, i.e. around the clock, touting its scale-up.",
-    "zh": "马斯克称特斯拉Robotaxi服务现已实现每周168小时运营，即全天候不间断，借此宣传其规模扩张。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-11-11",
-   "ts": "2026-11-11T17:11:51Z",
-   "kind": "x",
-   "title": {
-    "en": "Tesla self-driving now approved in Finland",
-    "zh": "Tesla self-driving now approved in Finland"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2120565179276832797",
-   "note": {
-    "en": "Musk said Tesla's self-driving software has now been approved for use in Finland, extending its rollout in Europe.",
-    "zh": "马斯克宣布特斯拉的自动驾驶软件已获芬兰批准使用，进一步扩大其在欧洲的推广。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-11-11",
-   "ts": "2026-11-11T17:11:22Z",
-   "kind": "x",
-   "title": {
-    "en": "In order to work through more of the Cybertruck order backlog, production will be extended through the end of summer 2027",
-    "zh": "In order to work through more of the Cybertruck order backlog, production will be extended through the end of summer 2027"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2120565056429814073",
-   "note": {
-    "en": "Musk said Cybertruck production will be extended through summer 2027 to work through the order backlog.",
-    "zh": "马斯克表示，为消化订单积压，Cybertruck的生产将延长至2027年夏末。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-11-11",
-   "ts": "2026-11-11T18:52:33Z",
-   "kind": "x",
-   "title": {
-    "en": "Starship Super Heavy rocket booster moved to launch pad",
-    "zh": "Starship Super Heavy rocket booster moved to launch pad"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2120590521253126183",
-   "note": {
-    "en": "Musk announced that SpaceX's Starship Super Heavy booster had been rolled out to the launch pad, a concrete step toward the next test flight.",
-    "zh": "马斯克宣布SpaceX的「超重型」助推器已运至发射台，这是迈向下一次试飞的实质性进展。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-11-11",
-   "ts": "2026-11-11T18:28:46Z",
-   "kind": "x",
-   "title": {
-    "en": "Hire Grok @Bot as a colleague and give it your hardest tasks!",
-    "zh": "Hire Grok @Bot as a colleague and give it your hardest tasks!"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2120584535423565889",
-   "note": {
-    "en": "Musk promoted Grok's bot feature as a hireable AI colleague for hard tasks, part of xAI/SpaceX's push into agentic AI products.",
-    "zh": "马斯克宣传Grok的机器人功能，将其定位为可「雇用」来完成高难度任务的AI同事，是xAI/SpaceX推进智能体AI产品的一部分。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-11-10",
-   "ts": "2026-11-10T10:34:24Z",
-   "kind": "x",
-   "title": {
-    "en": "Turns out that the Starlink software, built for managing the movement of vast amounts of data through space and to the ground, is also very well suited to train",
-    "zh": "Turns out that the Starlink software, built for managing the movement of vast amounts of data through space and to the ground, is also very well suited to train"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2120102767624880364",
-   "note": {
-    "en": "Musk argued that Starlink's software for managing data flow across its satellite network is also well suited to training frontier AI models.",
-    "zh": "马斯克表示，星链用于管理卫星网络间海量数据流动的软件，同样非常适合用于训练前沿AI模型。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-11-10",
-   "ts": "2026-11-10T23:47:57Z",
-   "kind": "x",
-   "title": {
-    "en": "SpaceX has ordered 100 GW/year of HJT solar manufacturing equipment from Singulus in Germany. This is for Starmind to create a sentient sun.",
-    "zh": "SpaceX has ordered 100 GW/year of HJT solar manufacturing equipment from Singulus in Germany. This is for Starmind to create a sentient sun."
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2120302471210033426",
-   "note": {
-    "en": "Musk said SpaceX ordered 100 GW/year of HJT solar manufacturing equipment from Germany's Singulus, intended for the Starmind project.",
-    "zh": "马斯克表示SpaceX已向德国Singulus订购每年100GW的HJT太阳能制造设备，用于Starmind项目。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
-   "date": "2026-11-09",
-   "ts": "2026-11-09T02:25:56Z",
-   "kind": "x",
-   "title": {
-    "en": "Just did a round table review with the Grok @Bot engineering team. Fixes are being implemented overnight and you should notice a dramatic improvement by tomorro",
-    "zh": "Just did a round table review with the Grok @Bot engineering team. Fixes are being implemented overnight and you should notice a dramatic improvement by tomorro"
-   },
-   "source": "@elonmusk",
-   "url": "https://x.com/elonmusk/status/2119617455102333206",
-   "note": {
-    "en": "Musk says xAI's engineering team is rolling out overnight fixes to Grok after a round-table review, with improvements expected by the next day.",
-    "zh": "马斯克表示，在与Grok工程团队召开圆桌会议后，团队将连夜修复问题，预计次日就能看到明显改善。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": null
-  },
-  {
    "date": "2026-07-23",
    "ts": null,
    "kind": "podcast",
@@ -1264,6 +1264,142 @@
    "url": "https://x.ai/news"
   },
   {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T02:30:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Says Anthropic 'Extremely Likely' to Expand SpaceX Compute Deal, Could Seek 10 Gigawatts More: 'That’s a Big Number'",
+    "zh": "Elon Musk Says Anthropic 'Extremely Likely' to Expand SpaceX Compute Deal, Could Seek 10 Gigawatts More: 'That’s a Big Number'"
+   },
+   "body": {
+    "en": "Musk said Anthropic is \"extremely likely\" to expand its SpaceX compute deal, potentially seeking 10 more gigawatts of capacity.",
+    "zh": "马斯克表示Anthropic\"极有可能\"扩大与SpaceX的算力合作，可能再寻求10吉瓦的算力规模。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkU0N25PUzUwTWlsM1NUeFFaZXphS19wdDBNbWNFNjBmRzNheDRKRkxRb1N1ajBSeDdSeGVISmNUbHV3WThYZEF2ZEVwb2ZoMzlfNGJHQVhVX051Q1dIMk5ycTFoRUIwMTZ1Z2FPbE1lRENRWHU4cFlVeGphM2ljYWpaaUhNR0xDT0paZmJQMXFTZVFBcWw3cFQzbjZJcXM?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T10:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk's Tesla and SpaceX Each Formed a Special Committee to Explore a Merger as His AI Spending Accelerates. Here's Why Combining Them Could Reshape How Investors Value Tesla's Robotaxi Business.",
+    "zh": "Elon Musk's Tesla and SpaceX Each Formed a Special Committee to Explore a Merger as His AI Spending Accelerates. Here's Why Combining Them Could Reshape How Investors Value Tesla's Robotaxi Business."
+   },
+   "body": {
+    "en": "Tesla and SpaceX each formed special committees to explore a merger of the two companies as Musk's AI spending accelerates.",
+    "zh": "随着马斯克在AI上的支出加速，特斯拉和SpaceX各自成立特别委员会，探讨两家公司合并的可能性。"
+   },
+   "source": "The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNWVxWWtWekRNWDZBeENKWDdwYjRraEZXQWIwRGpYMXAwX2VRcS1iTGNWcEo5Mm5sU0dIM0VHODZVM3RKZlREd3g1VE1IV0d0Si1jR2lvazFMazZqNFdmTnFyWmlqR1ZMel9kX1ItTTdob0phY2hNLTVNbzNDVkZqVE4yWnB1VXpuSXhocFBWR0w?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T11:25:00Z",
+   "level": "major",
+   "title": {
+    "en": "Elon Musk's SpaceX is betting $74 billion on AI data centers. Texas and Arizona want to know who pays for the power",
+    "zh": "Elon Musk's SpaceX is betting $74 billion on AI data centers. Texas and Arizona want to know who pays for the power"
+   },
+   "body": {
+    "en": "SpaceX/xAI committed $74 billion to build AI supercomputing data center campuses in Texas and Arizona, among the largest such buildouts in the US, raising local questions over who funds the power infrastructure.",
+    "zh": "SpaceX/xAI宣布投入740亿美元在德克萨斯州和亚利桑那州建设AI超算数据中心园区，规模位居美国同类项目前列，也引发了当地关于电力基础设施由谁出资的讨论。"
+   },
+   "source": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdloySTJONWxBb2FZbXlwLVJaLU1ocUV6dzZjWU1pV2NUZEFaOEJBVFB6cjhxZWhvbE9jUi1XMWRNYXd2T0MwLTJMam1zUlJTZjZ6aU01bGpfVG9lZVlHRE1mNlNfWmdweHZMb2FyVUt5OERDd2xweW5kWkRUUWt1dzI5bnZ6VHVkTGx0d0ZlVlFQUQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T17:49:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk warns data center delays could leave AI companies short on cash: 'Going to be nuts'",
+    "zh": "Elon Musk warns data center delays could leave AI companies short on cash: 'Going to be nuts'"
+   },
+   "body": {
+    "en": "Elon Musk warned that data center construction delays could leave AI companies short on cash, a notable public statement on the economics of the AI infrastructure buildout.",
+    "zh": "埃隆·马斯克警告称，数据中心建设延误可能导致AI公司资金短缺，这是他对AI基础设施建设经济状况的一次重要公开表态。"
+   },
+   "source": "Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVHlWLTdIcTV3OGZTb1Bpb1phbGJwXzdGQmRtc2MxSnZPaEgyN3ZaZmt2OHIxQ3k4OUdCQU1DLUhQTnRmNGxkVWJSU0hWdWVvSWF6R21ZbTh4Q1owZC1USFhiTlFMLVBZN2Z6Y3g5WXdxRHZuYkViRlFsVENOZzZMdTNMVTdiSjdkUDI1QTFnNVJBR213Qml6OUMzME53YkRo?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T19:00:06Z",
+   "level": "notable",
+   "title": {
+    "en": "‘Do Not Ask Me to Make Kill Decisions’: Elon Musk Defends Starlink Restrictions on Ukraine",
+    "zh": "‘Do Not Ask Me to Make Kill Decisions’: Elon Musk Defends Starlink Restrictions on Ukraine"
+   },
+   "body": {
+    "en": "Musk publicly defended SpaceX's restrictions on Starlink use in Ukraine, saying he will not be asked to make lethal targeting decisions — a stance on the limits of his infrastructure in active conflict.",
+    "zh": "马斯克公开为SpaceX限制星链在乌克兰的使用进行辩护，表示自己不会被要求做出致命打击决策，就其基础设施在冲突中的使用边界表明立场。"
+   },
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVB4bjUwNTBCUFYtalRneG5IVHVLUWpJMko2ZkxoMW5qdEZWQWd6d19Tbnk4elZmcGJMZGh4U2JIajNiZTlxbHlfelBWLXJXUUJuc2pCU0dFYm5hRFBtQzJCVFJqaDl6al9lRGxZbmoyNlFrSDd3YVBzSDVHLTRtdkNzQ09nN3FyNmFmdzFNaTU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T19:33:07Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk says singularity has begun, sparking debate",
+    "zh": "Elon Musk says singularity has begun, sparking debate"
+   },
+   "body": {
+    "en": "Musk claimed the technological singularity has already begun, a provocative timeline claim that sparked debate among AI commentators.",
+    "zh": "马斯克声称技术奇点已经开始，这一颇具争议的时间线判断在AI评论界引发讨论。"
+   },
+   "source": "Ticker News",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRDhhWmZxbXJ5WHRwXy1OT2NZYVlMOFJRVldKVUVSU2h2R2lSc0hLa0t6eTBRT1JrMDlfdGJ1RVRqanJZS3pfUnZPSDZiV1NfejhBc0c3czVkWTJibGNFQkJUR2hXMHliWDZiMGF6WXlNNVFucEJlN1RqLU9GTUxCWg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T21:30:07Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Doubles Down On Autonomy: Tesla Plans Wheel-Less, Pedal-Less Model Y To Sit Alongside Two-Seat Cybercab",
+    "zh": "Elon Musk Doubles Down On Autonomy: Tesla Plans Wheel-Less, Pedal-Less Model Y To Sit Alongside Two-Seat Cybercab"
+   },
+   "body": {
+    "en": "Musk outlined plans for a wheel-less, pedal-less autonomous Model Y alongside the two-seat Cybercab, doubling down on Tesla's full-autonomy bet.",
+    "zh": "马斯克公布了无方向盘、无踏板的自动驾驶Model Y计划，与双座Cybercab并行推出，进一步加码特斯拉的全自动驾驶战略。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdlc4TmNiei12NXpkczRjUEZROWhtU0NBa3EzOUVyRVJvRUg0QW5qd0ttVVpUSW9DeWFzV3FJU1JadHIyeERMT3djVXlwX2x3UlFZUHlRdlFsT2tOR2J4cnVhZTRON1NhWTNwb18tQlpJUm5rOXZ5MDQ3ZDh2d0tRVkxoUTl2UkYtUlBDUjNlV011RXZZYXpB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T21:43:34Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk's $74 Billion AI Bet Runs Into a Problem Money Can't Easily Solve",
+    "zh": "Elon Musk's $74 Billion AI Bet Runs Into a Problem Money Can't Easily Solve"
+   },
+   "body": {
+    "en": "Reporting that Musk's $74 billion AI investment (xAI/SpaceXAI) is running into problems that funding alone can't fix, a check on the pace of the compute buildout.",
+    "zh": "报道称马斯克740亿美元的人工智能投资（xAI/SpaceXAI）遇到了资金无法轻易解决的问题，为其算力扩张速度敲响警钟。"
+   },
+   "source": "The Wealth Advisor",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS181bGFEdmMwSHhESGpBVVB0SjNvWlJIUTY4V01UaDYtd2U3dU5aUlFCVHpZTWs3a2F5M2R0UFlqeVdQNXFSWDdrZE5qRjY5Vm0xZUEtV2ctN21lcVUySHFlQ1N4Y1NDNll1N0NuQks4ektmYUlsNTR0S1BaeHUxeWRNb2U4RkhTb3dYSldlWVlMTzBYaFI3bzhISGFuYzU3a3FkLUYtT0M0QQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-21",
    "ts": "2026-11-21T00:33:00Z",
    "level": "notable",
@@ -1396,6 +1532,40 @@
    },
    "source": "The Independent",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNDFKUmVXZER2dUhxOTVjTUMwdnh3Y2RtNENrbm50NlY3VmNRMkVpN1RDcFFuUW42T0NhUTFJT3ZQVnVqdE1nN2JlVHNvNmVFOFE0VlZCTUxUa0FlR1dVdS1PNTZyS0VFTG5nR2trWEF0Z1huUVpkWTk3dXJ2UlZOUndVRU1GNXVFYjkteG41Z0pMX3lBLVdUdWxwYktNdFBKWXcwZmhhZ0lQZlRjQ3pyNWx2RmdnOUNX?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-21",
+   "ts": "2026-11-21T18:57:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk seeks influence with Democrats amid possible probe into Starlink limits in Ukraine",
+    "zh": "Elon Musk seeks influence with Democrats amid possible probe into Starlink limits in Ukraine"
+   },
+   "body": {
+    "en": "Musk is lobbying Democratic lawmakers for influence as Congress weighs a probe into Starlink's service restrictions in Ukraine.",
+    "zh": "马斯克正寻求与民主党议员建立联系，以应对国会对Starlink在乌克兰服务限制问题的潜在调查。"
+   },
+   "source": "The New Voice of Ukraine",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVGJJMDQyMV9WU3JzN1VONWpURWg2QnJCcm5hRDBUNWM5eHhGQldZUldVbm5hY1JUQ0pPM3Y5V0JZcGZGVkE2SVAwRTlubm9wLTdZRE1zdWZMT1ZYT25GUnNSZV9reEpkNXFhVGRTQUtib05aTTFrd1hnLUx4NEwzRjdnaFBiUUdYXzM5cHprSUpZd1pDV1BlbjVKVmJOYTFhczJ1VzRkZGxNWDJWdEHSAaoBQVVfeXFMTkpHRHYwbHNZNHdndDUyLUFmRmVKNTVlS2Rxdl9Kb01oVjE5WWxLcXNmZ1lwemN5cktmWUNHR0NWWGw3V1pYZ0pKZEFsd3JwQ2VqNFJvTWFGdE1mRzMwYXhDRlFtQ0d1SzhBUW5xV3RISmZnN3JSR2NaU1NLajZ1VE9HamZXVFdRN2lqV1NreWpYMUhnMTJ4T3BLT1liZGJ4c0xYOEdTNWN5Ync?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-21",
+   "ts": "2026-11-21T20:24:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk warns AI industry faces a massive cash crunch in 2027 over compute delays. Why?",
+    "zh": "Elon Musk warns AI industry faces a massive cash crunch in 2027 over compute delays. Why?"
+   },
+   "body": {
+    "en": "Musk warned that the AI industry faces a severe cash crunch in 2027 driven by compute delivery delays, as industrywide capex approaches $1 trillion.",
+    "zh": "马斯克警告，受算力交付延迟影响，AI行业将在2027年面临严重的现金紧张，而全行业资本支出已逼近1万亿美元。"
+   },
+   "source": "\"Elon Musk\" - BingNews",
+   "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/elon-musk-warns-ai-industry-faces-a-massive-cash-crunch-in-2027-over-compute-delays-why-568922-2026-11-22",
    "auto": true,
    "judged": true
   },
@@ -1617,6 +1787,23 @@
    },
    "source": "Yahoo News Singapore",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRENiNVZFem5JTnF2aWZGcEdQN29fbnp4TGJONjdNWHBEOGNyYjFiQVNXTTdmZ3NiSHZuckZoc3BSQURPNlZrWHZHRFdsX0dwaG9iVUpjWUNHa1hDbHRiS0F3N3NKbm14dFJHRGtVOGM3cTZvdlg1em81Zk5lamt5N2tuTDBEdVRHYlE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-20",
+   "ts": "2026-11-20T23:30:06Z",
+   "level": "notable",
+   "title": {
+    "en": "David Ellison Calls Elon Musk’s $1 Billion Investment ‘an Honor and a Privilege,’ Open to Future Starlink Collaboration",
+    "zh": "David Ellison Calls Elon Musk’s $1 Billion Investment ‘an Honor and a Privilege,’ Open to Future Starlink Collaboration"
+   },
+   "body": {
+    "en": "Paramount Skydance CEO David Ellison called Elon Musk's $1 billion investment \"an honor and a privilege\" and said he's open to future Starlink collaboration.",
+    "zh": "派拉蒙聚帆（Skydance）CEO大卫·埃里森称埃隆·马斯克的10亿美元投资\"是一种荣幸与特权\"，并表示未来愿与星链展开合作。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR3VKUzUzQW5XaFFPNmhlQ1BWZEdJcC1PNElSZFBJZ2hrZ1J0Zm9VTjlwN2kydV9iSkpIMFdOd2lMWjE0S2xia3k0WUNJaE5DYlRPamU2M3RHb0cwQTJQTjVJMHZjMnlUeVVHRWYyYlFkTU4yZ200bktkRjFIR25yUlpYaHMtdThsVkVWblBpbmQ1dl9ZOGVvZThBZTY5Zw?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2076,6 +2263,57 @@
    },
    "source": "Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM0lGVFhlQVBORHg5b090RXNlemRxTWViVTFYXzhmRWFzWm15STByUXNScmhHcjl1alo2Z3cwbWRlaWJFam5Fb3NmTzVET1RmOS1ua3ZmZFlTYUgwVUs1cjAxQUJiRUpJcjRidGxMcXpZZXRKenZNTklYR2RfOG16eExGWXlFVWtIS1RUUzZhSTBpMGJ0cl9XVkVoWWN2OE0?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-19",
+   "ts": "2026-11-19T07:32:00Z",
+   "level": "notable",
+   "title": {
+    "en": "David Ellison Calls Elon Musk’s $1 Billion Investment ‘an Honor and a Privilege,’ Open to Future Starlink Collaboration",
+    "zh": "David Ellison Calls Elon Musk’s $1 Billion Investment ‘an Honor and a Privilege,’ Open to Future Starlink Collaboration"
+   },
+   "body": {
+    "en": "Paramount Skydance CEO David Ellison praised Musk's $1 billion investment in the company as \"an honor and a privilege\" and said he's open to future Starlink collaboration.",
+    "zh": "派拉蒙天空华纳CEO大卫·埃里森称赞马斯克向该公司投资10亿美元是\"一种荣幸和特权\"，并表示未来愿意在Starlink上展开合作。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOVJZekZoQXBGQmJGWnpfQjFGRnoyZ1RaRng2akx5ZVpxLUU0RFB2QWg2VS11RVpoREVibXJDRk9pZkI1bFh6UndXU0otMFpST2lERUxwUGMtME91UFpDWFNsSkFiSkZDTzg3anp2RUsyRGxmRkdmbTIyUzVBeVF0bEFmTDA4VTJEbFBwaE92bWpTN19JZVFkLW04WEFsZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-19",
+   "ts": "2026-11-19T11:16:23Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk Says SpaceX, Tesla Would Be ‘Better Together,’ But Decision Lies With Shareholders: ‘So Many Areas of Convergence’",
+    "zh": "Elon Musk Says SpaceX, Tesla Would Be ‘Better Together,’ But Decision Lies With Shareholders: ‘So Many Areas of Convergence’"
+   },
+   "body": {
+    "en": "Musk said SpaceX and Tesla would be 'better together' given many areas of convergence, but said any combination decision rests with shareholders, not him.",
+    "zh": "马斯克表示SpaceX和特斯拉在许多领域存在协同，“合并会更好”，但强调是否真正整合的决定权在股东手中，而非他本人。"
+   },
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPcEw4MC1uVVRmaXdFNWo0dW9NdFFkdzRfS05iYXhSU3hzRXVmSldFaXhOcXJSWl9xTDZnNkluMHJKSFhVX3o3YlFHMXZLNkhTZ1hwaDQ5M2poTmUtOWZPckxwVEVzZnlmSm9yTnBEWHY0N01hSlgyY3NGMG9kTlo5Tklwak9SOUstZVJBQXlfNWNNUE1qdTN3a0FYNzdzRmRjRkFSc25uTy00VlJKVEJpYXNoMlN5U1lJcmZZWWdSUmR1N19qeGpaS2RGc0hnUXA3dndyVlFRcHlBeE5tUjczWWl6eGFmbDVlN1NJdzhWd0VlMVd5RTNIWXFoajNBcjVTMGxuLWNYNA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-19",
+   "ts": "2026-11-19T15:34:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Elon Musk blasts ‘pro-Russia’ label, explains why he restricted Starlink | RISING",
+    "zh": "Elon Musk blasts ‘pro-Russia’ label, explains why he restricted Starlink | RISING"
+   },
+   "body": {
+    "en": "Musk pushed back on being labeled 'pro-Russia' and explained his reasoning for restricting Starlink access, a public defense of a consequential policy decision.",
+    "zh": "Musk反驳了'亲俄'的标签，并解释了他限制Starlink接入的原因，公开为这一具有重大影响的政策决定进行辩护。"
+   },
+   "source": "The Hill",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ0xCWjdXTDA3cG41WVc5UzVkR3EzWW1oLVdMZWZfaGNtQk54d3VvUEFGbmsxaWhGdGRJRmQwc0Z0WnhvVW9ieWRCNmdmNVpURlZ4dzlMai0wdmtYLXUxSnFzTllHTFVoNEZ6bnhjU1N5X0NWZ01uR0tKMHFGQmdzanFvMldweUJ4a2lUTGFhcDNFN0x3T1FtRnZpbnE1WVlfbjQwV2U3Zk5uS3o0YnhadTI0aGJaZWJDV2J6cTFR0gHDAUFVX3lxTE40elBQM0xEUFhzMTF0ZlFLWkNXSV9lQ2x5bVczSDFLazE2WFJSZ1VMU0g4TExJR3dsWkxwU1V3MmpKbHFRWk93ei1kZzVra05mMEk3RGVxaV8xWjhiMFVXZE91ZlB1TC1UclJPQTB5Mm9reGtWazZ1aVdyUHhubmJUN010MVJVd2w3ZGtWdHU0azdlUHBJZno0NXp2aXMtUDlkeDFnTzhra1dZZDFORGRwR3UzcEl1X0dWUkhqckRKVGJpWQ?oc=5",
    "auto": true,
    "judged": true
   },
@@ -22155,7 +22393,7 @@
   "pageviews": 9295513,
   "citations": 1280,
   "hIndex": 3,
-  "events": 1231,
+  "events": 1245,
   "posts": 59,
   "wikiEn": "Elon Musk",
   "wikiZh": "埃隆·马斯克"

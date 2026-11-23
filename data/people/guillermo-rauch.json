@@ -1,5 +1,5 @@
 {
- "rank": 65,
+ "rank": 64,
  "id": "guillermo-rauch",
  "name": {
   "en": "Guillermo Rauch",
@@ -1020,6 +1020,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2024-02-14",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "#169 Guillermo Rauch: How To Use AI to Improve Web Development",
+    "zh": "#169 Guillermo Rauch: How To Use AI to Improve Web Development"
+   },
+   "source": "Eye On A.I.",
+   "url": "https://podcasts.apple.com/us/podcast/169-guillermo-rauch-how-to-use-ai-to-improve-web-development/id1438378439?i=1000645316070&uo=4",
+   "note": {
+    "en": "Rauch appeared as the guest on Eye on A.I. to discuss how Vercel is using AI to speed up web development.",
+    "zh": "Rauch作为嘉宾登上播客Eye on A.I.，讨论Vercel如何利用人工智能加速网页开发。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2023-11-08",
    "ts": null,
    "kind": "podcast",
@@ -1302,6 +1321,23 @@
    "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/"
   },
   {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T14:08:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Vercel CEO Guillermo Rauch: AI Hacking Tools Found 1,000 Critical Flaws in Customer Code in 24 Hours",
+    "zh": "Vercel CEO Guillermo Rauch: AI Hacking Tools Found 1,000 Critical Flaws in Customer Code in 24 Hours"
+   },
+   "body": {
+    "en": "Guillermo Rauch said AI-powered hacking tools uncovered 1,000 critical vulnerabilities in customer code within 24 hours, highlighting both AI's offensive security power and the exposure Vercel's customers face.",
+    "zh": "Guillermo Rauch表示，AI驱动的黑客工具在24小时内发现了客户代码中的1000个关键漏洞，凸显了AI在攻击性安全方面的能力以及Vercel客户面临的风险规模。"
+   },
+   "source": "BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nUUFyYVU1eW9LeGpIVlE4TjlkaDhWWnJIekMtbC0xY3BNcHlDM09KSWMwYnB4R3YwWXFnZS1CWkJMWmdDdUY2QXBaRm5mTm01VDR2ZEFCWG1mX2s?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-29",
    "ts": "2026-10-29T16:24:42Z",
    "level": "notable",
@@ -1428,16 +1464,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 35.5,
+  "total": 36.0,
   "attention": null,
   "centrality": 36,
-  "momentum": 35,
+  "momentum": 36,
   "stature": null,
   "pageviews": 0,
   "citations": 9,
   "hIndex": 1,
-  "events": 8,
-  "posts": 62,
+  "events": 9,
+  "posts": 63,
   "wikiEn": null,
   "wikiZh": null
  },

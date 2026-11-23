@@ -217,6 +217,44 @@
    "connector": "arxiv"
   },
   {
+   "date": "2026-11-18",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "The Content–Geometry Tradeoff in World Models: When JEPA Learns Latent Maps",
+    "zh": "The Content–Geometry Tradeoff in World Models: When JEPA Learns Latent Maps"
+   },
+   "source": "Zenodo (CERN European Organization for…",
+   "url": "https://doi.org/10.5281/zenodo.24356796",
+   "note": {
+    "en": "Identifies a tradeoff between preserving task-relevant content and smooth latent geometry in JEPA world models, and proposes a regularizer to balance both.",
+    "zh": "指出JEPA世界模型中“内容保真”与“几何平滑”之间的权衡，并提出正则化方法兼顾两者。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2026-11-13",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "World models: Enabling the next AI revolution",
+    "zh": "World models: Enabling the next AI revolution"
+   },
+   "source": "AI Magazine",
+   "url": "https://doi.org/10.1002/aaai.70110",
+   "note": {
+    "en": "LeCun's own published case, in AI Magazine, for why world models rather than larger LLMs are the path to the next leap in AI capability.",
+    "zh": "杨立昆在《AI Magazine》上发表的论述，阐述为何世界模型而非更大的语言模型才是通向下一代AI能力的关键路径。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-11-08",
    "ts": null,
    "kind": "paper",
@@ -348,6 +386,25 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2026-10-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "World Models for Learning Dexterous Hand-Object Interactions from Human Videos",
+    "zh": "World Models for Learning Dexterous Hand-Object Interactions from Human Videos"
+   },
+   "source": "Lecture notes in computer science",
+   "url": "https://doi.org/10.1007/978-3-032-37138-6_33",
+   "note": {
+    "en": "Learns a world model from human videos to train robot hands for dexterous object manipulation.",
+    "zh": "从人类视频中学习世界模型，用于训练机器人灵巧手完成物体操作任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2026-09-30",
@@ -635,139 +692,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2026-06-22",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "SkyJEPA: Learning Long-Horizon World Models for Zero-Shot Sim-to-Real Control of Quadrotors",
-    "zh": "SkyJEPA: Learning Long-Horizon World Models for Zero-Shot Sim-to-Real Control of Quadrotors"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2606.23444v2",
-   "note": {
-    "en": "Applies JEPA world models to quadrotor control, transferring long-horizon predictions from simulation to real flight without fine-tuning.",
-    "zh": "把 JEPA 世界模型用于四旋翼控制，将长时程预测零样本地从仿真迁移到真实飞行。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-06-17",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "S-JEPA : Soft Clustering Anchors for Self-Supervised Speech Representation Learning",
-    "zh": "S-JEPA : Soft Clustering Anchors for Self-Supervised Speech Representation Learning"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2606.19398v1",
-   "note": {
-    "en": "Replaces hard cluster-ID prediction in self-supervised speech encoders with soft clustering anchors, which stops acoustic ambiguity being collapsed at category boundaries.",
-    "zh": "在自监督语音编码器中用软聚类锚点取代硬聚类 ID 预测，避免在类别边界上抹掉声学上的模糊性。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-06-14",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "You Don't Need Strong Assumptions: Visual Representation Learning via Temporal Differences",
-    "zh": "You Don't Need Strong Assumptions: Visual Representation Learning via Temporal Differences"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2606.15956v1",
-   "note": {
-    "en": "Learns visual representations with a temporal-difference objective, arguing that as compute grows the methods assuming least tend to win.",
-    "zh": "用时序差分目标学习视觉表征，并论证随着算力增长，假设越少的方法往往越占优势。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-06-07",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Unifying Object-Centric World Models and Diffusion Policy: A Hierarchical Framework for Multi-Stage Robotic Tasks",
-    "zh": "Unifying Object-Centric World Models and Diffusion Policy: A Hierarchical Framework for Multi-Stage Robotic Tasks"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2606.08775v1",
-   "note": {
-    "en": "Combines object-centric world models with a diffusion policy in a hierarchical controller for multi-stage robotic tasks.",
-    "zh": "把以物体为中心的世界模型与扩散策略结合成一个分层控制器，用于多阶段机器人任务。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-05-25",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "When Does LeJEPA Learn a World Model?",
-    "zh": "When Does LeJEPA Learn a World Model?"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2605.26379v1",
-   "note": {
-    "en": "Analyses under what conditions LeJEPA, his joint-embedding predictive architecture line, actually learns a usable world model.",
-    "zh": "分析在什么条件下 LeJEPA（他主张的联合嵌入预测架构路线）才真正学到可用的世界模型。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-05-20",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "stable-worldmodel: A Platform for Reproducible World Modeling Research and Evaluation",
-    "zh": "stable-worldmodel: A Platform for Reproducible World Modeling Research and Evaluation"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2605.21800v1",
-   "note": {
-    "en": "An open platform that standardises codebases, datasets and evaluation for world-model research, which the paper argues is currently fragmented.",
-    "zh": "一个开放平台，为世界模型研究统一代码库、数据集与评测；论文认为该领域目前过于碎片化。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-05-20",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Multi-modal AI for comprehensive breast cancer prognostication",
-    "zh": "Multi-modal AI for comprehensive breast cancer prognostication"
-   },
-   "source": "Nature Communications",
-   "url": "https://doi.org/10.1038/s41467-026-73088-y",
-   "note": {
-    "en": "A large multi-institution study, with LeCun among the authors, building multi-modal AI models to predict breast cancer outcomes from imaging and clinical data.",
-    "zh": "一项多机构合作研究，杨立昆参与其中，构建结合影像与临床数据的多模态AI模型以预测乳腺癌预后。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
-  },
-  {
    "date": "2026-05-15",
    "ts": null,
    "kind": "podcast",
@@ -785,44 +709,6 @@
    "judged": true,
    "platform": "apple-podcasts",
    "connector": "podcasts"
-  },
-  {
-   "date": "2026-05-14",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Crys-JEPA: Accelerating Crystal Discovery via Embedding Screening and Generative Refinement",
-    "zh": "Crys-JEPA: Accelerating Crystal Discovery via Embedding Screening and Generative Refinement"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2605.14759v2",
-   "note": {
-    "en": "Uses JEPA embeddings to screen candidate crystals before generative refinement, aiming at materials that are stable and novel rather than merely realistic.",
-    "zh": "先用 JEPA 嵌入筛选候选晶体，再做生成式精修，目标是稳定且新颖的材料，而不只是看起来合理的材料。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-05-13",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "TabPFN-3: Technical Report",
-    "zh": "TabPFN-3: Technical Report"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2605.13986v2",
-   "note": {
-    "en": "The technical report for the third generation of TabPFN, Prior Labs' foundation model for tabular data, on which he is a co-author.",
-    "zh": "Prior Labs 表格数据基础模型 TabPFN 第三代的技术报告，他是共同作者之一。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
   },
   {
    "date": "2025-12-15",
@@ -5319,7 +5205,7 @@
   "citations": 253869,
   "hIndex": 120,
   "events": 248,
-  "posts": 50,
+  "posts": 44,
   "wikiEn": "Yann LeCun",
   "wikiZh": "杨立昆"
  },

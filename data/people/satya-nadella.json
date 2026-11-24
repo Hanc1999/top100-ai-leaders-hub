@@ -845,6 +845,25 @@
    "connector": "backfill"
   },
   {
+   "date": "2026-07-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Exclusive Interview with Microsoft CEO Satya Nadella; Prospects for Democracy in Venezuela",
+    "zh": "Exclusive Interview with Microsoft CEO Satya Nadella; Prospects for Democracy in Venezuela"
+   },
+   "source": "Fareed Zakaria GPS",
+   "url": "https://podcasts.apple.com/us/podcast/exclusive-interview-with-microsoft-ceo-satya-nadella/id377785090?i=1000778425982&uo=4",
+   "note": {
+    "en": "Nadella sat down with Fareed Zakaria for an exclusive interview on the dangers and benefits AI poses to people and companies.",
+    "zh": "纳德拉接受法里德·扎卡里亚的独家专访，谈及AI对个人和企业的风险与益处。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-07-25",
    "ts": null,
    "kind": "podcast",
@@ -1578,6 +1597,57 @@
    "url": "https://www.startuphub.ai/ai-news/ai-figures/2026/figure-satya-nadella-venture-portfolio-breakdown-2026-08-13"
   },
   {
+   "date": "2026-11-23",
+   "ts": "2026-11-23T16:12:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Microsoft CEO Satya Nadella Just Revealed 50 Million AI Agents. His Next Move Could Be Even Bigger. - 24/7 Wall St.",
+    "zh": "Microsoft CEO Satya Nadella Just Revealed 50 Million AI Agents. His Next Move Could Be Even Bigger. - 24/7 Wall St."
+   },
+   "body": {
+    "en": "Nadella disclosed Microsoft's Agent 365 registry has surpassed 50 million AI agents, up 30% quarter over quarter, and previewed new analytics to track their cost and ROI.",
+    "zh": "纳德拉透露微软Agent 365注册的AI代理数量已突破5000万，环比增长30%，并预告了用于追踪其成本和投资回报的新分析功能。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSW1FblpKblg1c3FfTERwNWVqUldHU0l1LUxXOHhLTDlZLTJKSFhrNlVtYXFiRW5NTmxXcTY0X3RMa3owcmhjYUQ3WGl2RnRXQUpXVDBQckxkTmNhelQ1cUN1OTlWVkFhb3VJU1A5RXdlTkRJc2ZoR2oxLVNoR3g1TXBFYm81WE5VWXBkeUhEc2tWQmdJZUFEbE1wVjFfYk55Q2RhalJTRkQ1MTluN2ZpR3pGeU12aXpQUzBwcjk5WEktald3RFhBU2h2eHdaMzVxNWlNX2NLMzI?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-23",
+   "ts": "2026-11-23T17:45:09Z",
+   "level": "major",
+   "title": {
+    "en": "Satya Nadella Explains Why He Told 60,000 Microsoft Employees to Leave",
+    "zh": "Satya Nadella Explains Why He Told 60,000 Microsoft Employees to Leave"
+   },
+   "body": {
+    "en": "Nadella publicly explained the reasoning behind a sweeping directive affecting 60,000 Microsoft employees.",
+    "zh": "纳德拉公开解释了那项影响微软6万名员工的重大决定背后的原因。"
+   },
+   "source": "Gadget Review",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNEk1OTdBaVNyaVpKc294QWdGNU1HdklqODQ5cFNlZVFQbW5yaGlvcFlpSWFjSGhkUEtHQmhLREEwb1p5ZzFWMzdsTmR3aWRNNW40eTMtMUJ5elBhQVdXSmIwRThfeE9JTTBPc0RXNVpfbzdBRFJJQldSMk5ESnpGZXRXNkhMQjhKalNSaUgwcGlOUm9uRTNJR2xNbXNTZ2c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-23",
+   "ts": "2026-11-23T16:12:18Z",
+   "level": "notable",
+   "title": {
+    "en": "Microsoft CEO Satya Nadella Just Revealed 50 Million AI Agents. His Next Move Could Be Even Bigger.",
+    "zh": "Microsoft CEO Satya Nadella Just Revealed 50 Million AI Agents. His Next Move Could Be Even Bigger."
+   },
+   "body": {
+    "en": "Nadella revealed Microsoft now has 50 million AI agents in active use, with reporting suggesting his next strategic move could be even bigger.",
+    "zh": "纳德拉透露微软目前有5000万个AI代理在实际使用中，报道称他的下一步战略动作可能更具规模。"
+   },
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb09Nb2stNzBfWWFlNXBkWmlLWmNvenM1UmFCM01jSEtwdnhyOXB5U2VkRFFtYkZqVEZPNEtyZVVwMmlHWVEzZ0pLdFZuc0VQaXU4bzR4a2FvVFc1WDh0R3dpNERjNjZSTVExUUk4RHNTYWQ2WnhLbU00dUtYTUQwckU1VlJmNkNHSjJESlNzU2ZpSng4Unp1Wl8yR20?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-22",
    "ts": "2026-11-22T03:22:00Z",
    "level": "major",
@@ -1693,6 +1763,23 @@
    },
    "source": "The Next Web",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVFp2MjRnRXpwY0VTd19nNVdsU3gtLU43aGQwdWZpWDEyYy1zVWtTbVNRNjBHSjFJbHZvNnNGWEl6TTRmbjRvdTR3dkRIc29panZQNjhJaGpNZGNCMm9PaTBSdTh3SGI2NnZSTnJBUHl4Qko3RTRfbldmNndCaXB1ZEJSRVVTTkdIdWw1OWlDQ29za1dB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-21",
+   "ts": "2026-11-21T12:31:02Z",
+   "level": "notable",
+   "title": {
+    "en": "'They're not gods': Microsoft CEO Satya Nadella says founders are not irreplaceable amid Nvidia leadership turmoil",
+    "zh": "'They're not gods': Microsoft CEO Satya Nadella says founders are not irreplaceable amid Nvidia leadership turmoil"
+   },
+   "body": {
+    "en": "Amid the turmoil around Nvidia's leadership, Nadella said publicly that founders are not irreplaceable, pushing back on tech's founder mythology.",
+    "zh": "在英伟达领导层动荡之际，纳德拉公开表示创始人并非不可替代，反驳了科技界对创始人的神话式看法。"
+   },
+   "source": "Storyboard18",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQnozSGN2NEdyWHlOV2RYenh2bmVwNTBacHlXeEx5TTdBM0NFVU52bUNtUlpseVRaLUhEZXY5VHBTeUVPd3FTVEE3RWNBUDl4MGFSOHdHX3dOY1NjODR4RlNkUmhlaE9UYnV0ZUhOQkNUNXhPUm9EMzVqYk9VYU5ra1FMcEhFenFxZFRvSFJMMUJIUXNjMndCSmZwMHc5eTdrX25lSVhSRXRyVFViSm1XZ0h3M1hOckxiYU81blZueVJKVHRHaUpzTmo3UDluRXVJNzZ6Y3BDYVp5ZFQ2S3lna2g3eFFaS1BKTk54QVVzbmRFM1prWkHSAfsBQVVfeXFMT29xaFFIRXZ1MGFyMjUydVJfRkVZb0IzNEpVRWtjaUVlNS1kSXEwb2NQalVMUVRpWWxEWldpa2phdXE3V0otS25rWURBbFlhWGlMUnVYM3RGcjRqdVdsa2NXZExOSW92QjdmWms4SVZvUmF0QkNTUExxbGtrVU1LZVd2bGlraHBUcXBxZjZXX0ZuMmpFLTZ0aHVSUmFPOEx5c1ktQkFlWTcxVGloekE5M1Z0Njk5ZWpQVGhrVFBzX1NCbHJtM1ozWFJodV93RHplZTF6NW1CUVlJZ09Kc3hFc2duSXRCWEhBclBJb1F4ZU1LS2dRRkVQbjhDODA?oc=5",
    "auto": true,
    "judged": true
   },
@@ -1829,6 +1916,23 @@
    },
    "source": "Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaTNxQlNMSGxZMnBZWTZza3FsVFRlQ2l4R0RkME9zb00yTUNYeDc4VzdObEVvel9NUFVnM3ZMZlEtc1AzYXo2Q0p6WHRkNUFWd1A1VnQ3RzFBTHVKaWhKeFpsTHZBb2NsdFhwVzdMUVh6ZjBZMFlWSV8xckhhbWd3RDJyYUwxb3VSbDlLekpnUzVUTFU?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-20",
+   "ts": "2026-11-20T07:31:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Microsoft CEO Satya Nadella addresses buyout offers - Puget Sound Business Journal",
+    "zh": "Microsoft CEO Satya Nadella addresses buyout offers - Puget Sound Business Journal"
+   },
+   "body": {
+    "en": "Nadella addressed employee buyout offers tied to Microsoft's ongoing workforce restructuring.",
+    "zh": "纳德拉就微软持续人员重组中涉及的员工买断方案作出回应。"
+   },
+   "source": "Howl.Link",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1QeTN5STFZYTFZS0hRcUV6ODhmcEZpV3dHV09rdzU5emRxdm91bU41Q05KZGpQTGl5TXg0?oc=5",
    "auto": true,
    "judged": true
   },
@@ -5843,8 +5947,8 @@
   "pageviews": 828227,
   "citations": 231,
   "hIndex": 3,
-  "events": 252,
-  "posts": 76,
+  "events": 257,
+  "posts": 77,
   "wikiEn": "Satya Nadella",
   "wikiZh": "薩蒂亞·納德拉"
  },

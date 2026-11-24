@@ -893,25 +893,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-07-27",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Sol-Attn: Accelerating Video Generation Inference via On-the-Fly Attention Sparsification",
-    "zh": "Sol-Attn: Accelerating Video Generation Inference via On-the-Fly Attention Sparsification"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2607.24027v1",
-   "note": {
-    "en": "Training-free dynamic attention sparsification that cuts the attention bottleneck in video diffusion inference.",
-    "zh": "提出免训练的动态注意力稀疏化方法，缓解视频扩散模型推理中的注意力瓶颈。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2026-07-21",
    "ts": null,
    "kind": "x",
@@ -1572,6 +1553,23 @@
    "judged": true
   },
   {
+   "date": "2026-11-16",
+   "ts": "2026-11-16T07:48:33Z",
+   "level": "notable",
+   "title": {
+    "en": "MIT韩松团队新作！让Qwen3.8-27B操作机械臂，临摹梵高大作、还会做化学实验",
+    "zh": "MIT韩松团队新作！让Qwen3.8-27B操作机械臂，临摹梵高大作、还会做化学实验"
+   },
+   "body": {
+    "en": "Song Han's MIT team released new work enabling a Qwen3.8-27B-based model to control a robotic arm, replicate Van Gogh paintings, and run chemistry experiments.",
+    "zh": "韩松在MIT的团队发布新成果，让基于Qwen3.8-27B的模型操作机械臂、临摹梵高画作并完成化学实验。"
+   },
+   "source": "智东西",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5pNXFNUXB2bU9KMzE0dGNoZWxmYlhIVldrNWJZbS05dWRMa2ZMWDdTWjV4cVA1ZjM0XzdOSTQtREZVeE80RXFLeA?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-15",
    "ts": "2026-11-15T06:34:54Z",
    "level": "notable",
@@ -1647,16 +1645,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 21.5,
+  "total": 21.7,
   "attention": 4,
   "centrality": 18,
-  "momentum": 47,
+  "momentum": 48,
   "stature": 46,
   "pageviews": 888,
   "citations": 32832,
   "hIndex": 58,
-  "events": 6,
-  "posts": 72,
+  "events": 7,
+  "posts": 71,
   "wikiEn": null,
   "wikiZh": "韩松"
  },

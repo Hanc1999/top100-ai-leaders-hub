@@ -1,5 +1,5 @@
 {
- "rank": 87,
+ "rank": 86,
  "id": "denny-zhou",
  "name": {
   "en": "Denny Zhou",
@@ -219,6 +219,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T23:02:24Z",
+   "kind": "x",
+   "title": {
+    "en": "the world’s next great divide is already here: between those with access to the best AI and everyone else",
+    "zh": "the world’s next great divide is already here: between those with access to the best AI and everyone else"
+   },
+   "source": "@denny_zhou",
+   "url": "https://x.com/denny_zhou/status/2124639665894605078",
+   "note": {
+    "en": "Zhou argues the real AI divide ahead will be between those with access to the best models and everyone else.",
+    "zh": "周登勇认为，AI领域真正的分界线将是能否用上最好的模型，而非其他。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
   },
   {
    "date": "2026-11-21",
@@ -1515,16 +1534,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 26.1,
+  "total": 26.5,
   "attention": null,
   "centrality": 34,
-  "momentum": 18,
+  "momentum": 19,
   "stature": 22,
   "pageviews": 0,
   "citations": 15010,
   "hIndex": 31,
   "events": 2,
-  "posts": 69,
+  "posts": 70,
   "wikiEn": null,
   "wikiZh": null
  },

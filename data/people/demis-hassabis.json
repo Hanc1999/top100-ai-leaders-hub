@@ -381,6 +381,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2026-11-05",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Demis Hassabis says society is “not ready” for the AI future",
+    "zh": "Demis Hassabis says society is “not ready” for the AI future"
+   },
+   "source": "Masters of Scale",
+   "url": "https://podcasts.apple.com/us/podcast/demis-hassabis-says-society-is-not-ready-for-the-ai-future/id1227971746?i=1000800019587&uo=4",
+   "note": {
+    "en": "On Masters of Scale, Hassabis told Reid Hoffman that society isn't ready for what's coming in AI and discussed how to govern frontier models.",
+    "zh": "在Masters of Scale节目中，哈萨比斯对话Reid Hoffman，称社会尚未为即将到来的AI发展做好准备，并讨论了如何治理前沿模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-10-28",
    "ts": "2026-10-28T17:03:07Z",
    "kind": "x",
@@ -3250,7 +3269,7 @@
   "citations": 195503,
   "hIndex": 92,
   "events": 63,
-  "posts": 106,
+  "posts": 107,
   "wikiEn": "Demis Hassabis",
   "wikiZh": "杰米斯·哈萨比斯"
  },

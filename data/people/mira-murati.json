@@ -872,6 +872,23 @@
    "url": "https://www.neowin.net/news/thinking-machines-lab-cto-barret-zoph-returns-to-openai-in-surprise-move/"
   },
   {
+   "date": "2026-11-23",
+   "ts": "2026-11-23T07:01:02Z",
+   "level": "notable",
+   "title": {
+    "en": "Inkling 2 Mini: Mira Murati's Looped AI Model Runs on Laptops",
+    "zh": "Inkling 2 Mini: Mira Murati's Looped AI Model Runs on Laptops"
+   },
+   "body": {
+    "en": "Thinking Machines Lab, under Murati, released Inkling 2 Mini, a looped AI model designed to run on laptops.",
+    "zh": "在Mira Murati领导下，Thinking Machines Lab发布了Inkling 2 Mini，一款专为笔记本电脑设计的循环式AI模型。"
+   },
+   "source": "TechJuice",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObWZnOE1FOVFIMndMTm1BZTFZTVNEUXlKRWF1dEhsa19DSmF6NEVqeFRldm41NnlXempYWUppUGhObHk0R2JrdVhzcXlNM29IS1daTzRKU3c1YXNLSGdyNW9xSjcyRWV6VVlTRGFQRUg2b0xsdWJVMm9ZdDFYNDBJOEFueWVZOGx0cXc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-12",
    "ts": "2026-11-12T19:40:42Z",
    "level": "major",
@@ -1525,15 +1542,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 75.2,
+  "total": 74.9,
   "attention": 82,
   "centrality": 72,
-  "momentum": 66,
+  "momentum": 65,
   "stature": null,
   "pageviews": 800593,
   "citations": 1653,
   "hIndex": 3,
-  "events": 40,
+  "events": 41,
   "posts": 39,
   "wikiEn": "Mira Murati",
   "wikiZh": "米拉·穆拉蒂"

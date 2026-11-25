@@ -160,6 +160,25 @@
    "connector": null
   },
   {
+   "date": "2026-11-23",
+   "ts": "2026-11-23T18:30:06Z",
+   "kind": "x",
+   "title": {
+    "en": "Rocket is our in-house RL infrastructure for climbing from the bottom with no shortcuts. Lots of details in our technical blog post. https://t.co/g36elJ9aHx Awe",
+    "zh": "Rocket is our in-house RL infrastructure for climbing from the bottom with no shortcuts. Lots of details in our technical blog post. https://t.co/g36elJ9aHx Awe"
+   },
+   "source": "@mustafasuleyman",
+   "url": "https://x.com/mustafasuleyman/status/2124933527066325243",
+   "note": {
+    "en": "Suleyman announces Rocket, Microsoft AI's new in-house reinforcement-learning infrastructure for training models.",
+    "zh": "Suleyman宣布Rocket——微软AI自研的新强化学习训练基础设施。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-22",
    "ts": "2026-11-22T16:53:30Z",
    "kind": "x",
@@ -1205,25 +1224,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-06-03",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "It’s time to move from renting intelligence to truly controlling your AI. Microsoft Frontier Tuning lets you take our models and make them uniquely your own, tu",
-    "zh": "It’s time to move from renting intelligence to truly controlling your AI. Microsoft Frontier Tuning lets you take our models and make them uniquely your own, tu"
-   },
-   "source": "@mustafasuleyman",
-   "url": "https://x.com/mustafasuleyman/status/2062275417378041957",
-   "note": {
-    "en": "Suleyman launched Microsoft Frontier Tuning, letting customers fine-tune Microsoft's models into their own custom versions.",
-    "zh": "Suleyman发布了Microsoft Frontier Tuning,让客户可以对微软模型进行微调,打造专属定制版本。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
    "date": "2026-03-09",
    "ts": null,
    "kind": "paper",
@@ -1751,6 +1751,23 @@
    },
    "source": "GeekWire",
    "url": "https://www.geekwire.com/2026/microsoft-unveils-seven-homegrown-ai-models-in-bid-for-long-term-self-sufficiency/"
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24T06:40:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Microsoft AI CEO Mustafa Suleyman says that he is really, really nervous; calls last three months a water",
+    "zh": "Microsoft AI CEO Mustafa Suleyman says that he is really, really nervous; calls last three months a water"
+   },
+   "body": {
+    "en": "Suleyman said he is \"really, really nervous\" about AI's trajectory, calling the last three months a watershed moment.",
+    "zh": "苏莱曼表示他对AI的发展\"非常非常紧张\"，称过去三个月是一个分水岭时刻。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNbEU0cWd2ZUV1QXh6OVhtYWZ3NzF1TkNvdDRPRGFDUEZjY3lTTUZvaDB1UUJPSFBYNy1PQV92Wkt0R2VQZ1BzNlA3eGVwSHpIbExndzBQSk9DZDdxRC03SUVpcVc2amtzSXFrUHpoRENPVzRVUTh3T3BuRENyd09fUHBiVGNTU0gtWDVNbDlEQVUyUkhKU09Zc3RmQ19NaUhCaS1yTHprZm5MQzRuSkFNenNEMnRSVE9UUk51ODZkSWZDNVI5bXYwcXE5RUl5SzQ2UFdrOGQ3LUFSLUNXV0E5QnpkN2RocEcxNnRaTTZJcnoxaFVJLXZfMjVQcFJFM2dUV2k3ejZpeXVlZ0lsZkZuOW1JV3VjSS14UVc3YWpHY2xFaGMxZUVUbjlHTWN6WVphOGI3bVFBVkx2RU9LcGFjWHVVR1VwMVlMVkJzZUVuMm5oRUhrak54MU5jbDV3TVJTRjE1M2hIV3YyYWdZZ3RR0gH0AkFVX3lxTE9qazVFc1BaOWl1OWpZMzNjT2tLT1N0X3htQVpjZ25obTRqbW85YUp5YUY0aXRwZE13TDhBbm5DdHg1OU9QcXNuUWxTWkQxWi1ZdDVJREdTUjNzUjJEZm5OR0JFVU01Mlg1MUlfVUtaY1g5aWxrV3h0b0Myem5zZHZaaWZjU1lQeTZjUWdyS2liMlEyQnVTWWNnaTBUMjVqUElLa3J3TlY5V0JSRVkxNDBGdnhPX3NtUGVjbmIzbWE3ZVlLZUFIYXBKU3hOSkpidWFPWTQ5Z2hxazhiYWQ4bnJkaTJKQkJhTVRrSkw4QzhMZC1RN3ZOVlBuYWF3VDIwUF9QaEE5anRmbXhJaDZtVTF0VURWcWRjMnUtejN5bUQ3cWZKejBNbmtsZXFjQjliWmh4Y3JuV2JpSmduT0Z1Q20tcXp2VVlsM21aSGxRQ0wtYXNkMEk0QnVfR054WWtYMVNER2tyQWlDRHVlVTRlSl93UElDdA?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-11-09",
@@ -3060,7 +3077,7 @@
   "pageviews": 382768,
   "citations": 18255,
   "hIndex": 20,
-  "events": 77,
+  "events": 78,
   "posts": 86,
   "wikiEn": "Mustafa Suleyman",
   "wikiZh": null

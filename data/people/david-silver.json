@@ -1,5 +1,5 @@
 {
- "rank": 51,
+ "rank": 50,
  "id": "david-silver",
  "name": {
   "en": "David Silver",
@@ -975,6 +975,23 @@
    "judged": true
   },
   {
+   "date": "2026-04-28",
+   "ts": "2026-04-28T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "DeepMind’s David Silver Raises $1.1B for Ineffable Intelligence to Build AI That Learns Without Human Data",
+    "zh": "DeepMind’s David Silver Raises $1.1B for Ineffable Intelligence to Build AI That Learns Without Human Data"
+   },
+   "body": {
+    "en": "Silver's post-DeepMind venture Ineffable Intelligence raised $1.1B to build AI that learns without human-generated data, extending the self-play philosophy behind AlphaZero and MuZero.",
+    "zh": "Silver离开DeepMind后创立的Ineffable Intelligence获得11亿美元融资，致力打造无需人类数据即可学习的AI系统，延续了AlphaZero和MuZero背后的自我对弈理念。"
+   },
+   "source": "AI Insider",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaUk5OWIyY3BZaUJWNWJkQ1pJSDl3WW5rN29Ca0hXYW92Y25PdnQ5OXMxc2pGaTZ6aUo1bzdZekJpWXhucEg2QlJRazAwb0ZUX1VLeXN5dEFwXzRIZEJXVGNORURtWVAyVFk1cWlMYllSdUVQUUVHWXVtSXVkNXQwTXhwaEJHNEVxSWRWNDlxQ2NyeER3MzNPQndjSWNoMk0wR203Tkpka2xzcDBBczNuci1wbDZRRkt3UFdCczJYZzVXa0pCcll0Vl9KcV85TTJyZnJtcDZRRnY3QQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-04-27",
    "ts": null,
    "level": "major",
@@ -1033,15 +1050,15 @@
  },
  "cat": "embodied",
  "score": {
-  "total": 45.3,
+  "total": 46.0,
   "attention": 39,
   "centrality": 47,
-  "momentum": 40,
+  "momentum": 43,
   "stature": 80,
   "pageviews": 52977,
   "citations": 166819,
   "hIndex": 76,
-  "events": 17,
+  "events": 18,
   "posts": 32,
   "wikiEn": "David Silver (computer scientist)",
   "wikiZh": "戴維·西爾弗"

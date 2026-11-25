@@ -816,6 +816,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-04",
+   "ts": "2026-10-04T15:44:00Z",
+   "level": "major",
+   "title": {
+    "en": "Sergey Brin Takes Direct Oversight of Gemini",
+    "zh": "Sergey Brin Takes Direct Oversight of Gemini"
+   },
+   "body": {
+    "en": "Brin took direct oversight of the Gemini program, formalizing the hands-on role he had been playing informally at Google.",
+    "zh": "布林正式接管Gemini项目的直接监督权，将他此前在谷歌非正式承担的角色制度化。"
+   },
+   "source": "Digg",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BSGRSOGV3SjZuamhucUlBRmxvbDNOUDNITHZZQVVLZlJoX29KNjVRckpYV2lUWnVUeFdxVnRZN2RFQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-03",
    "ts": "2026-10-03T13:18:00Z",
    "level": "notable",
@@ -1282,15 +1299,15 @@
  },
  "cat": "platform",
  "score": {
-  "total": 80.5,
+  "total": 80.7,
   "attention": 93,
   "centrality": 87,
-  "momentum": 63,
+  "momentum": 64,
   "stature": 49,
   "pageviews": 1423098,
   "citations": 38377,
   "hIndex": 23,
-  "events": 48,
+  "events": 49,
   "posts": 17,
   "wikiEn": "Sergey Brin",
   "wikiZh": "谢尔盖·布林"

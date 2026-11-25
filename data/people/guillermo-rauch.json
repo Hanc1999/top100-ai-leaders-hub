@@ -1153,6 +1153,25 @@
    "connector": "podcasts"
   },
   {
+   "date": "2023-04-10",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "How Vercel found product-market fit: Guillermo Rauch on dynamic web app development",
+    "zh": "How Vercel found product-market fit: Guillermo Rauch on dynamic web app development"
+   },
+   "source": "Startup Field Guide by Unusual Venture…",
+   "url": "https://podcasts.apple.com/us/podcast/how-vercel-found-product-market-fit-guillermo-rauch/id1634078837?i=1000608182004&uo=4",
+   "note": {
+    "en": "Rauch discusses how Vercel found product-market fit and how Jamstack-based dynamic web apps took shape.",
+    "zh": "劳赫在访谈中讲述了Vercel如何找到产品市场契合点，以及基于Jamstack的动态网页应用是如何发展起来的。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2023-03-08",
    "ts": null,
    "kind": "podcast",
@@ -1473,7 +1492,7 @@
   "citations": 9,
   "hIndex": 1,
   "events": 9,
-  "posts": 63,
+  "posts": 64,
   "wikiEn": null,
   "wikiZh": null
  },

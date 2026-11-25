@@ -331,6 +331,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2026-10-11",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "LeHami: Symplectic Latent Dynamics Toward Long-Horizon Rollouts in World Models",
+    "zh": "LeHami: Symplectic Latent Dynamics Toward Long-Horizon Rollouts in World Models"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2610.15267v2",
+   "note": {
+    "en": "A new paper (LeHami) extends LeCun's JEPA world-model line, introducing symplectic latent dynamics to keep long-horizon rollouts from collapsing.",
+    "zh": "一篇新论文（LeHami）延续了LeCun的JEPA世界模型路线，引入辛几何潜在动力学，防止长时程推演时潜在分布坍缩。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-10-06",
    "ts": null,
    "kind": "paper",
@@ -673,25 +692,6 @@
    "connector": "arxiv"
   },
   {
-   "date": "2026-06-30",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "AdaJEPA: An Adaptive Latent World Model",
-    "zh": "AdaJEPA: An Adaptive Latent World Model"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2606.32026v1",
-   "note": {
-    "en": "An adaptive latent world model that keeps updating at test time instead of staying frozen when its predictions start to degrade.",
-    "zh": "一种自适应的隐空间世界模型，在测试阶段预测开始变差时继续更新，而不是保持冻结。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2026-05-15",
    "ts": null,
    "kind": "podcast",
@@ -1024,6 +1024,74 @@
    },
    "source": "Yahoo Finance",
    "url": "https://finance.yahoo.com/news/yann-lecun-calls-alexandr-wang-182614902.html"
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24T10:15:00Z",
+   "level": "notable",
+   "title": {
+    "en": "图灵奖得主杨立昆锐评Anthropic掌门人：中世纪邪教！",
+    "zh": "图灵奖得主杨立昆锐评Anthropic掌门人：中世纪邪教！"
+   },
+   "body": {
+    "en": "Yann LeCun sharply criticized Anthropic's leadership, calling it a 'medieval cult.'",
+    "zh": "图灵奖得主杨立昆尖锐批评Anthropic的掌门人，称其为“中世纪邪教”。"
+   },
+   "source": "观察者网",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOd3lCMzBrenVKZ182Qy10MFUtM2VtNWRZc1lBVWZRVW0waXZRYWZjdkxvZmtxT2FrOXcxbGU4dkM4M0Ftb2RBN1AydmlwYlpDRjBYdFlrenVpY0h3eEpKZm0tOVNYYm9wOW1XNnlNTk1ZVUk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24T11:30:08Z",
+   "level": "notable",
+   "title": {
+    "en": "Yann LeCun Criticises Dario Amodei Over Open AI",
+    "zh": "Yann LeCun Criticises Dario Amodei Over Open AI"
+   },
+   "body": {
+    "en": "LeCun publicly criticised Dario Amodei's stance on open AI development.",
+    "zh": "杨立昆公开批评了Dario Amodei在开放AI发展问题上的立场。"
+   },
+   "source": "News Karnataka",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObWhWT0VSR25kUmh1OTQ1dDAwd2FHd2ZxVXNRZnVkbzIxT2MzR2FFdUZBWXN5SXdTMlU1RTRTWEtiRUduRXRDTlVFUThGUjNfSTRWZ0dNMDRpVE9jV3RkenJZYVpZa2FsUzFKNmhHRDFuYWRSTFRTU0duZzB5NnVTRTd4M05iNmkyLUc5b19qOTRqRzZYTjh4RHRn?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24T16:08:55Z",
+   "level": "notable",
+   "title": {
+    "en": "图灵奖得主杨立昆开炮Anthropic：新的中世纪蒙昧主义！",
+    "zh": "图灵奖得主杨立昆开炮Anthropic：新的中世纪蒙昧主义！"
+   },
+   "body": {
+    "en": "Yann LeCun publicly blasted Anthropic's approach as a \"new medieval obscurantism,\" sharpening his ongoing dissent against the dominant LLM-safety paradigm.",
+    "zh": "杨立昆公开抨击Anthropic的路线是“新的中世纪蒙昧主义”，进一步表明了他对当前主流大模型安全范式的持续反对立场。"
+   },
+   "source": "haiwaiwai.com",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1leE5ac3hBR3JHVlJBVVhqODMyN3UxYmdicEpZMjV6bmRQelVQei1va0loZ2JVV09CdU9teVRYRE5RMDY1N2Z5Zg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24T20:57:08Z",
+   "level": "notable",
+   "title": {
+    "en": "AI godfather Yann LeCun torches Anthropic CEO over AI gatekeeping",
+    "zh": "AI godfather Yann LeCun torches Anthropic CEO over AI gatekeeping"
+   },
+   "body": {
+    "en": "LeCun publicly criticized Anthropic's CEO over what he called AI 'gatekeeping,' sharpening his public disagreement with the AI-safety-focused camp of the field.",
+    "zh": "杨立昆公开批评Anthropic首席执行官所谓的AI“守门”做法，进一步表明他与业界注重AI安全阵营的公开分歧。"
+   },
+   "source": "The Register",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeGMyZ0prdjVoQTlEU1lsM0k2dnk5OFVOeXV4dEthVzdzSFBsVG1zYnItanhLSi1lNFNGcjRhZ1lOLUR2STk1WFdQMTI2Z0hJZURjYTFpaWtDRE0tYkxyV2JQb3VKbm9NRHhHOW0zY2JPdmxqdVpxSUhuWEhHeUpnUnAzM0huQ2dvVmhWYnV6VUpOTFFjQngybWtxUkI0ZndwUXBiX0VnaVZXTzNvZVBVY1ZrZ1hDUjVRZE85b0FxZw?oc=5",
+   "auto": true,
+   "judged": true
   },
   {
    "date": "2026-11-23",
@@ -5359,7 +5427,7 @@
   "pageviews": 531264,
   "citations": 253869,
   "hIndex": 120,
-  "events": 256,
+  "events": 260,
   "posts": 45,
   "wikiEn": "Yann LeCun",
   "wikiZh": "杨立昆"

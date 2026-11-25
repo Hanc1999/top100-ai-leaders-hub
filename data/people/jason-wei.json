@@ -176,6 +176,44 @@
    }
   },
   {
+   "date": "2026-11-24",
+   "ts": "2026-11-24T18:26:25Z",
+   "kind": "x",
+   "title": {
+    "en": "In \"Perplexity and Intelligence\", Jakub argues for perplexity as a shared metric for intelligence. The post showed how the perplexity of OpenAI's models improve",
+    "zh": "In \"Perplexity and Intelligence\", Jakub argues for perplexity as a shared metric for intelligence. The post showed how the perplexity of OpenAI's models improve"
+   },
+   "source": "@_jasonwei",
+   "url": "https://x.com/_jasonwei/status/2125294984949809309",
+   "note": {
+    "en": "Commenting on Jakub's \"Perplexity and Intelligence,\" Jason Wei highlighted the argument that perplexity could serve as a shared metric for model intelligence, though no dataset was released to test it.",
+    "zh": "针对Jakub的《困惑度与智能》，Jason Wei强调了将困惑度（perplexity）作为评估模型智能的通用指标这一观点，但该研究并未发布可供验证的数据集。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "OWE-Bench: A long-horizon benchmark for measuring real-world engineering",
+    "zh": "OWE-Bench: A long-horizon benchmark for measuring real-world engineering"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.30017v1",
+   "note": {
+    "en": "Co-authored OWE-Bench, a 26-task benchmark for evaluating long-horizon real-world engineering ability in AI systems, continuing his focus on rigorous evals.",
+    "zh": "合著了OWE-Bench，一个包含26项任务的长时程真实工程能力评测基准，延续了他在严格评测方向上的工作。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-11-19",
    "ts": "2026-11-19T19:15:03Z",
    "kind": "x",
@@ -1316,25 +1354,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2025-02-26",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "In today’s competitive product landscape, scientific understanding of models often lags behind speed of model deployment. If the goal is to train a deployable m",
-    "zh": "In today’s competitive product landscape, scientific understanding of models often lags behind speed of model deployment. If the goal is to train a deployable m"
-   },
-   "source": "@_jasonwei",
-   "url": "https://x.com/_jasonwei/status/1894821797000028357",
-   "note": {
-    "en": "Wei argues scientific understanding of models often lags behind the speed of product deployment, a tension in training deployable models under compute constraints.",
-    "zh": "Wei指出对模型的科学理解常常落后于产品部署的速度,这在算力受限下训练可部署模型时形成矛盾。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
    "date": "2025-01-22",
    "ts": null,
    "kind": "blog",
@@ -2056,7 +2075,7 @@
   "citations": 4944,
   "hIndex": 19,
   "events": 8,
-  "posts": 92,
+  "posts": 93,
   "wikiEn": null,
   "wikiZh": null
  },

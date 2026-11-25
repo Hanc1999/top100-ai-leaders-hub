@@ -1,5 +1,5 @@
 {
- "rank": 50,
+ "rank": 48,
  "id": "noam-brown",
  "name": {
   "en": "Noam Brown",
@@ -176,6 +176,25 @@
     "en": "Urges the field to move from single-score evaluation to a performance curve plotting cost, tokens and time against performance.",
     "zh": "呼吁业界从单一分数评测转向以成本、token 数与时间为横轴、性能为纵轴的性能曲线。"
    }
+  },
+  {
+   "date": "2026-11-24",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "OpenAI’s Noam Brown: Why Game Theory Didn’t Lead to General Intelligence (Live at No Limit Finals)",
+    "zh": "OpenAI’s Noam Brown: Why Game Theory Didn’t Lead to General Intelligence (Live at No Limit Finals)"
+   },
+   "source": "Training Data",
+   "url": "https://podcasts.apple.com/us/podcast/openais-noam-brown-why-game-theory-didnt-lead-to-general/id1750736528?i=1000803758654&uo=4",
+   "note": {
+    "en": "Noam Brown guested on the podcast Training Data, discussing why the game-theory techniques behind his poker-AI work didn't translate directly into general intelligence, recorded live at the No Limit poker finals.",
+    "zh": "Noam Brown做客播客Training Data，在No Limit扑克总决赛现场录制的节目中，谈到支撑他扑克AI研究的博弈论技术为何未能直接转化为通用智能。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   },
   {
    "date": "2026-11-04",
@@ -1529,6 +1548,57 @@
  ],
  "news": [
   {
+   "date": "2026-11-24",
+   "ts": "2026-11-24T17:58:44Z",
+   "level": "notable",
+   "title": {
+    "en": "OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a \"very steep rate of progress\" - the-decoder.com",
+    "zh": "OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a \"very steep rate of progress\" - the-decoder.com"
+   },
+   "body": {
+    "en": "Brown said AI progress is moving so fast that promising students should consider dropping out of school to work on it now.",
+    "zh": "Noam Brown表示AI进步速度极快，建议有潜力的学生现在就考虑退学投身其中。"
+   },
+   "source": "News",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaDNPNkZETTN0UWt4dERZbTBKYzZZdmJWWlFnaUZnMGdLTlFEMHhDQXNQSG1pSWhNOHNXaWx5Tk1GNTZ2eGhqOTVoalZzUGgwckR1eGpQSWlCbTJwamRNTGZ0Yi1pU3ZHSTdIcEIxWUFFc2tleWxsYm1lNXQwel90QVBiLXJQNTJOU1E2X2N0ZjdsMTFVeFZtOWhRWElpQWNaRWdsVEJIRk04MTZuUFpiMm81dWxtNWNKYzV4aXpDVHpXU0UwVTRWcHVaTldHbjBTT1E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24T11:08:00Z",
+   "level": "notable",
+   "title": {
+    "en": "OpenAI's Noam Brown says game theory was a dead end — and calls a 6-order-of-magnitude gap the reason o1 happened",
+    "zh": "OpenAI's Noam Brown says game theory was a dead end — and calls a 6-order-of-magnitude gap the reason o1 happened"
+   },
+   "body": {
+    "en": "Brown said he came to see game theory as a dead end for reasoning models, and pointed to a six-order-of-magnitude compute gap as the real reason behind o1's breakthrough.",
+    "zh": "Noam Brown表示他认为博弈论对推理模型是条死路，并指出正是六个数量级的算力差距才是o1取得突破的真正原因。"
+   },
+   "source": "BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BWVp2SDBNR3RnTk9YRHdoVXFCczFfa0N1dmwzRE1mTnNsQXpwZTkta2RwVTExVkJQY2w1X2tjUHBBN2hSSEUtZ1NJdThMbEFEa253OUt5eU56clk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24T19:03:05Z",
+   "level": "notable",
+   "title": {
+    "en": "OpenAI’s Noam Brown: Why Game Theory Didn’t Lead to General Intelligence (Live at No Limit Finals)",
+    "zh": "OpenAI’s Noam Brown: Why Game Theory Didn’t Lead to General Intelligence (Live at No Limit Finals)"
+   },
+   "body": {
+    "en": "In a talk at the No Limit poker/AI finals, Noam Brown argued that game theory alone didn't lead to general intelligence and laid out what he thinks actually did.",
+    "zh": "Noam Brown在No Limit扑克/AI峰会的演讲中指出，博弈论本身并未带来通用智能，并阐述了他认为真正推动通用智能发展的因素。"
+   },
+   "source": "Sequoia Capital",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcmRtVHRPNFZhdHVJaUpTWG02ZDAtOE1wSmxkeTZnVHhpWW9UWjlJcHlUeThHdTFkQVBSdkJPY2J5SVE0QUJGcTZBZFZxTTJXLWpKMkprVWxoU2F5M1VWZ1pVUC0tU0lqQ0oxUzhzTUVVLVQ5T2JWZXJnSExGOVh3M1RjY0J6WHFTM2VjZ0tqeFRsSlRsNmNNcjRYR2RnbDhiZjhjWFA0Z2tvcE9WeUZ0dmFONUJRX21DeW1qRmFnSmxJNE1xUHQxcFM1dFd3cFFQcHdIcjFOZU9wQ1dr?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-20",
    "ts": "2026-09-20T08:13:06Z",
    "level": "notable",
@@ -1621,16 +1691,16 @@
  },
  "cat": "lab",
  "score": {
-  "total": 45.4,
+  "total": 48.6,
   "attention": null,
   "centrality": 68,
-  "momentum": 18,
+  "momentum": 25,
   "stature": null,
   "pageviews": 0,
   "citations": 2196,
   "hIndex": 19,
-  "events": 5,
-  "posts": 73,
+  "events": 8,
+  "posts": 74,
   "wikiEn": "Noam Brown",
   "wikiZh": null
  },

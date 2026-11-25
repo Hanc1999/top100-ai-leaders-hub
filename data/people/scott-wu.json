@@ -126,6 +126,25 @@
    }
   },
   {
+   "date": "2026-11-24",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Scott Wu on Cybersecurity, Compute, and the Future of Engineering",
+    "zh": "Scott Wu on Cybersecurity, Compute, and the Future of Engineering"
+   },
+   "source": "Invest Like the Best with Patrick O'Sh…",
+   "url": "https://podcasts.apple.com/us/podcast/scott-wu-on-cybersecurity-compute-and-the/id1154105909?i=1000803809365&uo=4",
+   "note": {
+    "en": "Scott Wu guested on Invest Like the Best to discuss Cognition's trajectory from Devin to a company whose own AI agent now writes most of its code, plus his views on cybersecurity and compute.",
+    "zh": "Scott Wu做客播客Invest Like the Best，谈到Cognition从Devin发展到如今自家AI智能体编写大部分代码的历程，以及他对网络安全和算力的看法。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-11-18",
    "ts": null,
    "kind": "podcast",
@@ -916,6 +935,23 @@
    "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/"
   },
   {
+   "date": "2026-11-24",
+   "ts": "2026-11-24T15:08:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Cognition CEO Scott Wu Says Fortune 100 Breaches Are ’Almost Inevitable’ Within 12 Months",
+    "zh": "Cognition CEO Scott Wu Says Fortune 100 Breaches Are ’Almost Inevitable’ Within 12 Months"
+   },
+   "body": {
+    "en": "Cognition CEO Scott Wu said Fortune 100 companies suffering AI-related security breaches is 'almost inevitable' within the next 12 months, a notable public stance on AI security risk.",
+    "zh": "Cognition CEO Scott Wu表示，财富100强企业在未来12个月内遭遇与AI相关的安全漏洞“几乎不可避免”，这是他对AI安全风险的重要表态。"
+   },
+   "source": "BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pU3NiN0VNdHh4eldja05TLVRURTU2d19vMWRrVVMxZTlmeHJJbENIeWdYNzM3OHI5R2hwY1BBODg5QXdOVDl5QTR4bVNkRF80MGUzbnFtVTE3cEk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-22",
    "ts": "2026-11-22T17:27:42Z",
    "level": "minor",
@@ -1042,16 +1078,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 51.9,
+  "total": 52.4,
   "attention": 56,
   "centrality": 63,
-  "momentum": 32,
+  "momentum": 34,
   "stature": null,
   "pageviews": 107682,
   "citations": 243,
   "hIndex": 6,
-  "events": 9,
-  "posts": 41,
+  "events": 10,
+  "posts": 42,
   "wikiEn": "Scott Wu",
   "wikiZh": null
  },

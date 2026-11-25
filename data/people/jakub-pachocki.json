@@ -1,5 +1,5 @@
 {
- "rank": 46,
+ "rank": 47,
  "id": "jakub-pachocki",
  "name": {
   "en": "Jakub Pachocki",
@@ -807,6 +807,23 @@
    "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"
   },
   {
+   "date": "2026-11-24",
+   "ts": "2026-11-24T07:41:48Z",
+   "level": "notable",
+   "title": {
+    "en": "OpenAI’s Jakub Pachocki Proposes Perplexity as a Shared Measure for Pacing AI Progress",
+    "zh": "OpenAI’s Jakub Pachocki Proposes Perplexity as a Shared Measure for Pacing AI Progress"
+   },
+   "body": {
+    "en": "Pachocki proposes using perplexity as a shared benchmark for measuring the pace of AI progress across labs.",
+    "zh": "Pachocki提议将困惑度（perplexity）作为衡量各实验室AI进展速度的共同指标。"
+   },
+   "source": "AI Insider",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcHNVdzNmZ191c2s5MFlzckVNb0tUN0dGSTdIdFg4eEdKejBaMzZ5Rkc0LUFHVGVLSk5hUkxfU3BmNjl4eVZ0VmtjVWh2b3IxYUJMSEdhX2d0T0MwTFkwN0NTaDIzUGRXRHdrLUx3cldzb2lSYWxIY3RsOTZCTHBGS2tfblA1ZjQxV2RSUzNXUkUxWnRYNGd5VzB0SDdkTm9JU0Q0bEs3UjJJcTNuNlQzdVFfcEUzZ0hWUEdLQ2FGQ3U?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-23",
    "ts": "2026-11-23T02:16:21Z",
    "level": "notable",
@@ -1018,15 +1035,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 49.6,
+  "total": 49.8,
   "attention": 36,
   "centrality": 87,
-  "momentum": 31,
+  "momentum": 32,
   "stature": null,
   "pageviews": 51141,
   "citations": 3664,
   "hIndex": 15,
-  "events": 13,
+  "events": 14,
   "posts": 34,
   "wikiEn": "Jakub Pachocki",
   "wikiZh": "雅库布·帕霍基"

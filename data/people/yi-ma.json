@@ -1,5 +1,5 @@
 {
- "rank": 90,
+ "rank": 91,
  "id": "yi-ma",
  "name": {
   "en": "Yi Ma",
@@ -211,6 +211,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-11-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "ViewPACT: Multi-View Geometric Augmentation and Pose-Action Co-Training for Viewpoint-Robust Manipulation",
+    "zh": "ViewPACT: Multi-View Geometric Augmentation and Pose-Action Co-Training for Viewpoint-Robust Manipulation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.29068v1",
+   "note": {
+    "en": "Yi Ma co-authors ViewPACT, which identifies proprioception as a shortcut that makes vision-based robot manipulation policies brittle to camera viewpoint changes, and proposes geometric augmentation plus pose-action co-training to fix it.",
+    "zh": "马毅参与的ViewPACT论文指出，本体感觉信息是导致基于视觉的机器人操作策略对相机视角变化脆弱的「捷径」根源，并提出几何增强与姿态-动作联合训练加以改进。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-11-17",
@@ -1374,6 +1393,23 @@
  ],
  "news": [
   {
+   "date": "2026-11-24",
+   "ts": "2026-11-24T14:51:47Z",
+   "level": "notable",
+   "title": {
+    "en": "香港大学院长马毅，成顺丰控股独董候选人",
+    "zh": "香港大学院长马毅，成顺丰控股独董候选人"
+   },
+   "body": {
+    "en": "HKU dean Yi Ma was named a candidate for an independent director seat on logistics giant SF Holding's board.",
+    "zh": "港大学院院长马毅被提名为物流巨头顺丰控股的独立董事候选人。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VN3NRWTNMSkFIMnoxSjJWQzFuNXlaaVdPZGgwejlzMzFvWnk0V0xJNjI5eUNFNmtGc0JlTmd4NnRENUJXNG50bXN6MGFMVjlYQ3Rtbk82OWdGUFhxOUtQODdLdGtJQmVnLUo3bUdqaE5iTHN0dmFTbg?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-22",
    "ts": "2026-11-22T06:44:38Z",
    "level": "notable",
@@ -1789,16 +1825,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 23.7,
+  "total": 23.5,
   "attention": 7,
   "centrality": 8,
-  "momentum": 59,
+  "momentum": 58,
   "stature": 58,
   "pageviews": 2604,
   "citations": 46806,
   "hIndex": 81,
-  "events": 24,
-  "posts": 63,
+  "events": 25,
+  "posts": 64,
   "wikiEn": "Yi Ma",
   "wikiZh": null
  },

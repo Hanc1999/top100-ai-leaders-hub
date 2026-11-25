@@ -149,6 +149,25 @@
    }
   },
   {
+   "date": "2026-11-24",
+   "ts": "2026-11-24T19:33:30Z",
+   "kind": "x",
+   "title": {
+    "en": "Neon set a new Day-1 usage record on our paid APIs and @Antigravity tokens/day are ⬆️ 82% since Argon launched (only) 6 weeks ago. It's been great to see the re",
+    "zh": "Neon set a new Day-1 usage record on our paid APIs and @Antigravity tokens/day are ⬆️ 82% since Argon launched (only) 6 weeks ago. It's been great to see the re"
+   },
+   "source": "@sundarpichai",
+   "url": "https://x.com/sundarpichai/status/2125311868168515603",
+   "note": {
+    "en": "Pichai announced that Gemini's Neon set a new Day-1 usage record and that Antigravity token usage is up 82% since Argon's launch, touting strong adoption of Google's latest AI releases.",
+    "zh": "Pichai宣布Gemini的Neon创下首日使用量新纪录，且自Argon发布以来Antigravity的token用量增长了82%，强调谷歌最新AI产品的强劲采用情况。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-20",
    "ts": "2026-11-20T20:02:33Z",
    "kind": "x",
@@ -1137,25 +1156,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-07-22",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Q2 was an amazing quarter, with our AI investments redefining what’s possible across every part of our business. Alphabet revenue grew 24% YoY and Google Cloud",
-    "zh": "Q2 was an amazing quarter, with our AI investments redefining what’s possible across every part of our business. Alphabet revenue grew 24% YoY and Google Cloud"
-   },
-   "source": "@sundarpichai",
-   "url": "https://x.com/sundarpichai/status/2080021408856293584",
-   "note": {
-    "en": "Pichai reported a strong Q2, with Alphabet revenue up 24% year-over-year and Google Cloud growth accelerating to 82%.",
-    "zh": "皮查伊公布强劲的第二季度财报,Alphabet营收同比增长24%,Google Cloud增速加快至82%。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
    "date": "2026-05-26",
    "ts": null,
    "kind": "podcast",
@@ -1575,6 +1575,23 @@
    },
    "source": "Moneycontrol.com",
    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQZ1NGc2pNdDNBRVVHYU05bEhVN2RNa0JoNEZuV1IzT3d5TF91d0k0bVd3bE9mM19mRXAxdW81MTNaUW1WUll6QUFuT00xUllBUjByOWdLbFZXYjY4X3R4NF9mai16WjZjNzdvWjhnanYweGJnZE5DWkRLNk51X0l0cHhuUXRnd1FFTk4zMUFQVVM2c1NJdzlhVmVtV2NoaVFPM01yYjByLUFtV1R0Zjk4ZG4yWFFYZHpqRUtaMGx0SjBoa2xTVFpzRFZWX2w1eGhta3E5NXkwQ0JVTmpfTkJJRzRvNGFQeUNBbk5DVGFuWVlybzR4Vjg2OFVUTnprYUV5MHBjVXhRelNwTW1fZFVuUFQ2T2w1d9IBmwJBVV95cUxQby1wRnJxUXNHLWtiTl85WTV2Um5fQWZFVDJmZ0VWOWVPTVVMNVNoYXBrRDZtNzJ4SHg0RTlOQWtzRXZTUG5MYnd3RUw0WFlPSkZnTmFteTJFZEttbEQ0SVRGME9uTnNodkxqbjhfY2NwOVhWaUR4SjhLSEJ4bU12UUhDOUx5ckJaTFRUdVIyRENZckl3MlY0UlNsRmtQUW5MeU1oem0tU2N0T0habV9HVUJpRVNzaXNKY09Ob01GeXRoWW9OXzJFUjBLOS1vZG5VRVFENkJvb1dCSWppamNiMVpKSWE2ZFZ6WFFnbXFndERBZS1wOXNyX1N2UGE0QWZuNGp5LWxoNDZuZ0ZmUFRiZFVZeE1yNUVGMFBN?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-22",
+   "ts": "2026-11-22T11:37:00Z",
+   "level": "minor",
+   "title": {
+    "en": "AI just cracked math’s most famous problem, says Anthropic mathematician; here’s how Google CEO Sundar Pichai reacted",
+    "zh": "AI just cracked math’s most famous problem, says Anthropic mathematician; here’s how Google CEO Sundar Pichai reacted"
+   },
+   "body": {
+    "en": "Pichai publicly reacted after an Anthropic mathematician said AI had cracked a famous unsolved math problem, a small but notable instance of Google's CEO responding to a rival's claimed breakthrough.",
+    "zh": "在一位Anthropic数学家宣称AI攻克了一个著名数学难题后，Pichai公开作出回应——这是谷歌CEO对竞争对手所称突破的一次虽小但值得记录的表态。"
+   },
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNeHFPWU9icWctcUE2eE13VVF5ODJhOTJmNTdtRjVDN3F2MDBFUnR1OWppS1BTYnRVZzFLaW9sQ3NaRjc1aWRLYlFJdmVtYlhBSTBUVFJhdGFxSVU2UUF2ZkVwOXZpUGoyalBoOUx5bURQbDNsYTlQTXZGQnpPdTVIbE81VlFscFhiN3NaMFN1Vks1eklJM1ZmZGNxdFoyREFkSzVsS0lKR1VqdFY1TzlBUWUteW5LVHJscldoUkZnc3VwNklnYlkzWmtwTFRWRGZJeC1SdEFoUEF0VGtwWmlfV0RzaVpBSnE4U1dzSmxQUVd4aFVNR19ZVWRRQWhxQzdwQjdoXy1aTXc4NGxkMFkwelExXzZMSWx0TF9INHBnV3pPQQ?oc=5",
    "auto": true,
    "judged": true
   },
@@ -2939,6 +2956,23 @@
    "judged": true
   },
   {
+   "date": "2026-10-21",
+   "ts": "2026-10-21T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Sundar Pichai explains how a team of AI agents helps him run the company",
+    "zh": "Sundar Pichai explains how a team of AI agents helps him run the company"
+   },
+   "body": {
+    "en": "Sundar Pichai described in a LinkedIn piece how a team of AI agents now helps him personally run Google day to day.",
+    "zh": "Sundar Pichai在LinkedIn文章中讲述了一组AI智能体如何在日常工作中协助他管理谷歌。"
+   },
+   "source": "LinkedIn",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR0RQRnZIUUZKaVlob2lTTkJab0xOanoxUlpUbklrM1B0THhZRHBpSUhTbFJoNkxhYk9OZ2U2NE9WYmZJX2FlMl8yUld4ei1PdzBsZ1NBRDBER2hwS3QxaDdHODNxMVJDaWUxMWgwWnRzV0dvcnhjNldEUnFnbkFUYWZXVFB0YURJbmNDdWVQc2hKU1FJOTNrVFd1Tnd4QlBfZ0d4b3BIc2p4QTgyTTVBZmFYa0h1QWNsdm1HSjFzNWxCdWg0M2c?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-10-20",
    "ts": "2026-10-20T17:47:40Z",
    "level": "notable",
@@ -4076,7 +4110,7 @@
   "pageviews": 1299595,
   "citations": 1,
   "hIndex": 1,
-  "events": 151,
+  "events": 153,
   "posts": 74,
   "wikiEn": "Sundar Pichai",
   "wikiZh": "孙达尔·皮柴"

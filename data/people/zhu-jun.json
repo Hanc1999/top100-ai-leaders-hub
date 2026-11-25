@@ -187,6 +187,63 @@
    }
   },
   {
+   "date": "2026-11-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "LiveAudio: From Bidirectional to Autoregressive Diffusion for Real-Time Streaming Video-to-Audio Generation",
+    "zh": "LiveAudio: From Bidirectional to Autoregressive Diffusion for Real-Time Streaming Video-to-Audio Generation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.30714v1",
+   "note": {
+    "en": "Zhu Jun co-authors LiveAudio, which turns bidirectional video-to-audio diffusion into an autoregressive model for real-time streaming sound generation matched to video.",
+    "zh": "朱军参与的LiveAudio论文将双向视频到音频扩散模型改造为自回归模型，实现与视频实时匹配的流式声音生成。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-11-23",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Speculate in the Right Order: Efficient Self-Speculative Decoding for Autoregressive Image Generation",
+    "zh": "Speculate in the Right Order: Efficient Self-Speculative Decoding for Autoregressive Image Generation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.30704v1",
+   "note": {
+    "en": "Zhu Jun co-authors a self-speculative decoding method that speeds up autoregressive image generation by reordering drafting and verification, without needing a separate draft model.",
+    "zh": "朱军参与的论文提出一种自推测解码方法，通过调整起草与验证的顺序加速自回归图像生成，且无需额外的草稿模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-11-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Entangle: Scaling Human-Video In-Context World-Action Models across Unseen Tasks and Contexts",
+    "zh": "Entangle: Scaling Human-Video In-Context World-Action Models across Unseen Tasks and Contexts"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.28732v1",
+   "note": {
+    "en": "Zhu Jun co-authors Entangle, which scales in-context learning from human demonstration videos so robots can generalize world-action models to unseen tasks and contexts.",
+    "zh": "朱军参与的Entangle论文扩展了基于人类示范视频的上下文学习方法，使世界-动作模型能够泛化到未见过的任务和场景。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-11-12",
    "ts": null,
    "kind": "paper",
@@ -1308,7 +1365,7 @@
   "citations": 56229,
   "hIndex": 118,
   "events": 25,
-  "posts": 37,
+  "posts": 40,
   "wikiEn": "Zhu Jun",
   "wikiZh": "朱军"
  },

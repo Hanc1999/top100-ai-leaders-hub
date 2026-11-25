@@ -228,6 +228,25 @@
    }
   },
   {
+   "date": "2026-11-21",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "SANA-Robot: Efficient World Action Model with Hybrid Memory",
+    "zh": "SANA-Robot: Efficient World Action Model with Hybrid Memory"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.28943v1",
+   "note": {
+    "en": "New paper from Song Han's group, SANA-Robot, extends the efficient SANA model line into a world-action model for robotics with hybrid memory to cut prediction overhead.",
+    "zh": "Song Han团队新论文SANA-Robot将高效的SANA模型系列扩展为面向机器人的世界-动作模型，采用混合记忆机制降低预测开销。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-11-20",
    "ts": "2026-11-20T03:35:13Z",
    "kind": "x",
@@ -853,25 +872,6 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
-  },
-  {
-   "date": "2026-07-30",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Lightning OPD 2.0: Mitigating Style Bias in Cross-Teacher On-Policy Distillation for Large Reasoning Models",
-    "zh": "Lightning OPD 2.0: Mitigating Style Bias in Cross-Teacher On-Policy Distillation for Large Reasoning Models"
-   },
-   "source": "arXiv (Cornell University)",
-   "url": "https://arxiv.org/abs/2607.28449",
-   "note": {
-    "en": "Addresses style bias in cross-teacher on-policy distillation for large reasoning models.",
-    "zh": "解决大型推理模型跨教师在线策略蒸馏中的风格偏差问题。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "openalex",
-   "connector": "openalex"
   },
   {
    "date": "2026-07-28",

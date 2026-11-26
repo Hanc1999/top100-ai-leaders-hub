@@ -1548,6 +1548,23 @@
  ],
  "news": [
   {
+   "date": "2026-11-25",
+   "ts": "2026-11-25T07:12:17Z",
+   "level": "notable",
+   "title": {
+    "en": "Noam Brown: why game theory didn't lead to general intelligence, and reasoning did",
+    "zh": "Noam Brown: why game theory didn't lead to general intelligence, and reasoning did"
+   },
+   "body": {
+    "en": "Brown laid out his view that test-time reasoning, not game-theoretic search, is what pushed language models toward general intelligence — the thesis behind OpenAI's o-series.",
+    "zh": "布朗阐述了他的观点：推动语言模型迈向通用智能的是测试时推理，而非博弈论式搜索——这正是OpenAI o系列模型背后的核心理念。"
+   },
+   "source": "Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmNNSzBGamlHZHlfcEd4dDdTUjhZdVRnMXpuT05ZZGIxczB0WnV1ZmJoQzk1U2xEd0s5clRMb3hGYTN4QTgwNmZOR1UyVUJxMUlCaWtTUXdITWl3M1hxNE02RVRxYXBxalJhc2xIR256S1BrSFVhcThYd1BiU1gwTGFKT0ZBajJZUFNxN01vcm0yX3ByMjI0XzRId0R1U2NvRk05TmhOUjFTb2VKZWhyYVZzS3A?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-24",
    "ts": "2026-11-24T17:58:44Z",
    "level": "notable",
@@ -1691,15 +1708,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 48.6,
+  "total": 49.5,
   "attention": null,
   "centrality": 68,
-  "momentum": 25,
+  "momentum": 27,
   "stature": null,
   "pageviews": 0,
   "citations": 2196,
   "hIndex": 19,
-  "events": 8,
+  "events": 9,
   "posts": 74,
   "wikiEn": "Noam Brown",
   "wikiZh": null

@@ -141,6 +141,63 @@
    }
   },
   {
+   "date": "2026-11-25",
+   "ts": "2026-11-25T04:27:10Z",
+   "kind": "x",
+   "title": {
+    "en": "We are crossing a threshold. Safety and alignment work is the only thing that matters.",
+    "zh": "We are crossing a threshold. Safety and alignment work is the only thing that matters."
+   },
+   "source": "@mustafasuleyman",
+   "url": "https://x.com/mustafasuleyman/status/2125446171909136630",
+   "note": {
+    "en": "Suleyman posted that the field is crossing a threshold where safety and alignment work is the only thing that matters.",
+    "zh": "苏莱曼发帖称行业正迈向一个临界点，安全与对齐工作是当下唯一重要的事。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-25",
+   "ts": "2026-11-25T19:31:17Z",
+   "kind": "x",
+   "title": {
+    "en": "@DarioAmodei is right, there's too much rhetoric and too much vibes in this debate. Slogans aren't guardrails. That's why we wrote the Humanist AI Code of Condu",
+    "zh": "@DarioAmodei is right, there's too much rhetoric and too much vibes in this debate. Slogans aren't guardrails. That's why we wrote the Humanist AI Code of Condu"
+   },
+   "source": "@mustafasuleyman",
+   "url": "https://x.com/mustafasuleyman/status/2125673700032905321",
+   "note": {
+    "en": "Suleyman backed Amodei's push to move past rhetoric on AI safety, citing Microsoft's Humanist AI Code of Conduct as a concrete step toward guardrails.",
+    "zh": "苏莱曼支持阿莫代伊提出的摆脱AI安全空谈的主张，并以微软的《人本AI行为准则》作为建立防护机制的具体举措。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-25",
+   "ts": "2026-11-25T21:53:57Z",
+   "kind": "x",
+   "title": {
+    "en": "For all those people who keep predicting we're overbuilding chips / we aren't seeing jevon's paradox etc. Things are just getting started.",
+    "zh": "For all those people who keep predicting we're overbuilding chips / we aren't seeing jevon's paradox etc. Things are just getting started."
+   },
+   "source": "@mustafasuleyman",
+   "url": "https://x.com/mustafasuleyman/status/2125709603275243636",
+   "note": {
+    "en": "Suleyman pushed back on claims that AI chip buildout is outpacing demand, arguing Jevons paradox hasn't kicked in and growth is still accelerating.",
+    "zh": "苏莱曼反驳了AI芯片建设过度的说法，认为杰文斯悖论尚未显现，增长势头仍在加速。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-23",
    "ts": "2026-11-23T00:37:29Z",
    "kind": "x",
@@ -1150,25 +1207,6 @@
   {
    "date": "2026-06-08",
    "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "Had a great chat with Nilay Patel / Decoder about 7 new models we launched last week. Covered lots of important topics, from growing social angst, to whether AI",
-    "zh": "Had a great chat with Nilay Patel / Decoder about 7 new models we launched last week. Covered lots of important topics, from growing social angst, to whether AI"
-   },
-   "source": "@mustafasuleyman",
-   "url": "https://x.com/mustafasuleyman/status/2064014591214977118",
-   "note": {
-    "en": "Suleyman discussed Microsoft AI's seven newly launched models and whether AI is delivering enough value in a Decoder interview with Nilay Patel.",
-    "zh": "Suleyman在与Nilay Patel的Decoder访谈中讨论了微软AI新发布的七款模型,以及AI是否创造了足够的价值。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
-   "date": "2026-06-08",
-   "ts": null,
    "kind": "podcast",
    "title": {
     "en": "Microsoft AI chief thinks superintelligence is near, but won't take your job",
@@ -1184,44 +1222,6 @@
    "judged": true,
    "platform": "apple-podcasts",
    "connector": "podcasts"
-  },
-  {
-   "date": "2026-06-06",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": ".@ArtificialAnalysis’ graph shows that MAI-Transcribe-1.5 is in a league of its own https://t.co/BNNswVyIYe",
-    "zh": ".@ArtificialAnalysis’ graph shows that MAI-Transcribe-1.5 is in a league of its own https://t.co/BNNswVyIYe"
-   },
-   "source": "@mustafasuleyman",
-   "url": "https://x.com/mustafasuleyman/status/2063170571966222383",
-   "note": {
-    "en": "Suleyman shared an Artificial Analysis chart showing MAI-Transcribe-1.5 leading the transcription benchmark by a wide margin.",
-    "zh": "Suleyman分享了Artificial Analysis的图表,显示MAI-Transcribe-1.5在转录基准测试中大幅领先。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
-  },
-  {
-   "date": "2026-06-04",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "There are no shortcuts to the frontier. Disciplined, patient, meticulous attention to detail is critical. To give everyone a good sense of our progress we've pu",
-    "zh": "There are no shortcuts to the frontier. Disciplined, patient, meticulous attention to detail is critical. To give everyone a good sense of our progress we've pu"
-   },
-   "source": "@mustafasuleyman",
-   "url": "https://x.com/mustafasuleyman/status/2062609054405447785",
-   "note": {
-    "en": "Suleyman said there are 'no shortcuts to the frontier,' pointing to a detailed technical report published on Microsoft AI's progress.",
-    "zh": "Suleyman表示“通往前沿没有捷径”,并提及微软AI发布的一份详细技术进展报告。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "backfill"
   },
   {
    "date": "2026-03-09",
@@ -2960,6 +2960,23 @@
    "judged": true
   },
   {
+   "date": "2026-05-17",
+   "ts": "2026-05-17T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "Microsoft AI CEO Mustafa Suleyman predicts full automation of white-collar work in 18 months",
+    "zh": "Microsoft AI CEO Mustafa Suleyman predicts full automation of white-collar work in 18 months"
+   },
+   "body": {
+    "en": "Suleyman publicly predicted full automation of white-collar work within 18 months, a bold timeline claim from Microsoft AI's CEO.",
+    "zh": "微软AI CEO穆斯塔法·苏莱曼公开预测白领工作将在18个月内实现全面自动化，这是一个大胆的时间预测。"
+   },
+   "source": "Crypto Briefing",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84ZVFjQWZXZnlCUjQxNmpqUmpxRlN0NEdablk4SzZ5V3FVUnQyOVdYUUlIOVN6THlzZ2Rzb2dvb2ZMN1NSTl8xSmVMdTZIS1FhUkFXOGhNX3U1UHZGN1Y3Vk5pOGJ4QU9wYjhHU1FyNENQN2NnUjJBQnpoZ2ZCdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-04-08",
    "ts": null,
    "level": "notable",
@@ -3077,7 +3094,7 @@
   "pageviews": 382768,
   "citations": 18255,
   "hIndex": 20,
-  "events": 78,
+  "events": 79,
   "posts": 86,
   "wikiEn": "Mustafa Suleyman",
   "wikiZh": null

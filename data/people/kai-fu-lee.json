@@ -169,6 +169,44 @@
    }
   },
   {
+   "date": "2026-11-25",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Kai-Fu Lee on the US-China AI Race, the Quest for AGI, and What Humans Still Do Best",
+    "zh": "Kai-Fu Lee on the US-China AI Race, the Quest for AGI, and What Humans Still Do Best"
+   },
+   "source": "The Most Interesting Thing in AI",
+   "url": "https://podcasts.apple.com/us/podcast/kai-fu-lee-on-the-us-china-ai-race-the-quest-for-agi/id1783154139?i=1000803955556&uo=4",
+   "note": {
+    "en": "Kai-Fu Lee discussed the US-China AI race, the path to AGI, and what humans still do best in a long-form interview.",
+    "zh": "李开复在一次长篇访谈中探讨了中美AI竞赛、通往AGI的路径，以及人类目前仍擅长做的事情。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
+   "date": "2026-11-25",
+   "ts": "2026-11-25T21:16:34Z",
+   "kind": "x",
+   "title": {
+    "en": "Many people ask me about US vs. China AI. @nxthompson definitely took the conversation to another level. I thoroughly enjoyed our wide-ranging discussion on ent",
+    "zh": "Many people ask me about US vs. China AI. @nxthompson definitely took the conversation to another level. I thoroughly enjoyed our wide-ranging discussion on ent"
+   },
+   "source": "@kaifulee",
+   "url": "https://x.com/kaifulee/status/2125700194293670355",
+   "note": {
+    "en": "Kai-Fu Lee shared highlights of his wide-ranging discussion with journalist Nicholas Thompson on US-China AI competition and enterprise AI transformation.",
+    "zh": "李开复分享了他与记者Nicholas Thompson就中美AI竞争及企业AI转型展开的广泛讨论。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-16",
    "ts": "2026-11-16T20:50:00Z",
    "kind": "x",
@@ -1423,25 +1461,6 @@
    "connector": "zhihu"
   },
   {
-   "date": "2024-11-16",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "https://t.co/tq9WCFxkLe trained the #6 model in the world for $3M pre-train cost. And the inference price is $0.14/million tokens! https://t.co/a60oSfIBeR",
-    "zh": "https://t.co/tq9WCFxkLe trained the #6 model in the world for $3M pre-train cost. And the inference price is $0.14/million tokens! https://t.co/a60oSfIBeR"
-   },
-   "source": "@kaifulee",
-   "url": "https://x.com/kaifulee/status/1857577138133893516",
-   "note": {
-    "en": "Lee reports 01.AI trained the world's #6-ranked model for a $3M pre-training cost with inference at $0.14 per million tokens.",
-    "zh": "李开复披露零一万物以 300 万美元预训练成本做出全球排名第六的模型，推理价格为每百万 token 0.14 美元。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
    "date": "2024-11-10",
    "ts": null,
    "kind": "podcast",
@@ -2080,6 +2099,23 @@
    "url": "https://www.01.ai/"
   },
   {
+   "date": "2026-11-25",
+   "ts": "2026-11-25T11:17:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李开复谈企业AI转型是“一把手工程”：谁先用好AI，谁就会胜出",
+    "zh": "李开复谈企业AI转型是“一把手工程”：谁先用好AI，谁就会胜出"
+   },
+   "body": {
+    "en": "Lee argued enterprise AI transformation is a \"top-leader project\" — whichever company's leadership adopts AI first will win, a stated position on how incumbents should approach the technology.",
+    "zh": "李开复表示企业AI转型是“一把手工程”，谁先用好AI谁就能胜出，这是他对传统企业应如何拥抱AI给出的立场表态。"
+   },
+   "source": "川观新闻",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hT0MycURqX3JUTFUxTGFuTW94MjgzdXlQY1J2RnJVMGszQVdlWWN6V0VjUUw1U3ZXM0N3a1BBY0dFOWhGQXJ5Z1BKQ0cyQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-24",
    "ts": "2026-11-24T02:21:00Z",
    "level": "notable",
@@ -2263,6 +2299,23 @@
    },
    "source": "Sohu",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wNXZfQ1FNR29TYzQ4Y3c0UVZ5NEZuM0xqOE90MDFjdGZCczQxMjc3MVIzMExBczZ3cTZRbS1wb3kwWnk5dlNVdGx6SmFza3FHQWpfOWdlcFJOZWlkM0MtSw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-17",
+   "ts": "2026-11-17T15:12:00Z",
+   "level": "notable",
+   "title": {
+    "en": "李开复「2026云桥大会」最新发声：AI不是工业4.0，未来公司将诞生一大批“微型CEO”",
+    "zh": "李开复「2026云桥大会」最新发声：AI不是工业4.0，未来公司将诞生一大批“微型CEO”"
+   },
+   "body": {
+    "en": "At the 2026 Cloud Bridge Conference, Kai-Fu Lee argued AI is not a fourth industrial revolution and predicted a wave of 'micro-CEO' companies.",
+    "zh": "李开复在2026云桥大会上提出AI不是工业4.0，并预测未来将涌现大批“微型CEO”公司。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iMU5Qa3djSXVxaWZoaE1qUS01eGkzT3VPYmJNVmx2dG8zV0RJcEg5eEFsUTlzLWY0QndlLVNBMEdBSnRGLXI5LVMybGdybTUya3Y4?oc=5",
    "auto": true,
    "judged": true
   },
@@ -4781,8 +4834,8 @@
   "pageviews": 77041,
   "citations": 2181,
   "hIndex": 20,
-  "events": 160,
-  "posts": 100,
+  "events": 162,
+  "posts": 101,
   "wikiEn": "Kai-Fu Lee",
   "wikiZh": "李开复"
  },

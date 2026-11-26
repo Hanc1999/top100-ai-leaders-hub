@@ -185,6 +185,25 @@
    }
   },
   {
+   "date": "2026-11-14",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Godfather of AI Geoffrey Hinton: If superintelligence wants humanity gone, ‘we’re toast’",
+    "zh": "Godfather of AI Geoffrey Hinton: If superintelligence wants humanity gone, ‘we’re toast’"
+   },
+   "source": "Firing Line with Margaret Hoover",
+   "url": "https://podcasts.apple.com/us/podcast/godfather-of-ai-geoffrey-hinton-if-superintelligence/id1570432345?i=1000801826980&uo=4",
+   "note": {
+    "en": "Hinton told Firing Line that if a superintelligence decided humanity should go, \"we're toast,\" restating his existential-risk warnings.",
+    "zh": "Hinton在Firing Line节目中表示，如果超级智能决定让人类消失，\"我们就完了\"，重申了他对生存风险的警告。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-10-16",
    "ts": "2026-10-16T14:05:07Z",
    "kind": "x",
@@ -4072,7 +4091,7 @@
   "citations": 452436,
   "hIndex": 137,
   "events": 135,
-  "posts": 86,
+  "posts": 87,
   "wikiEn": "Geoffrey Hinton",
   "wikiZh": "杰弗里·辛顿"
  },

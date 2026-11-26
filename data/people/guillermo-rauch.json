@@ -1,5 +1,5 @@
 {
- "rank": 64,
+ "rank": 63,
  "id": "guillermo-rauch",
  "name": {
   "en": "Guillermo Rauch",
@@ -125,6 +125,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-11-24",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AI Expert: You're Using AI Wrong (Here's Where the REAL Money Is) | Guillermo Rauch",
+    "zh": "AI Expert: You're Using AI Wrong (Here's Where the REAL Money Is) | Guillermo Rauch"
+   },
+   "source": "BigDeal",
+   "url": "https://podcasts.apple.com/us/podcast/ai-expert-youre-using-ai-wrong-heres-where-the-real/id1736593333?i=1000803754440&uo=4",
+   "note": {
+    "en": "Rauch guests on the BigDeal podcast to discuss where AI's real money is being made and how people are using AI wrong today.",
+    "zh": "劳赫作为嘉宾做客BigDeal播客，谈论AI真正的盈利点在哪里，以及人们如今使用AI的误区。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   },
   {
    "date": "2026-11-19",
@@ -1340,6 +1359,23 @@
    "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/"
   },
   {
+   "date": "2026-11-25",
+   "ts": "2026-11-25T12:07:47Z",
+   "level": "major",
+   "title": {
+    "en": "Vercel hit $700M in annualized revenue, growing 180% a year, with 1.25 billion deployments every four months, says Guillermo Rauch",
+    "zh": "Vercel hit $700M in annualized revenue, growing 180% a year, with 1.25 billion deployments every four months, says Guillermo Rauch"
+   },
+   "body": {
+    "en": "Rauch disclosed Vercel has crossed $700M in annualized revenue, growing 180% a year with 1.25 billion deployments every four months — a major scale milestone for the infrastructure layer much AI-generated frontend code runs on.",
+    "zh": "Rauch透露Vercel年化收入已突破7亿美元，同比增长180%，每四个月完成12.5亿次部署——这是大量AI生成前端代码所依赖的基础设施层的重要规模里程碑。"
+   },
+   "source": "Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdVJGWmVSYzJfc1lLX1dObHZ2ekdLWHRVN3NOYkpNVkxOb0RjMW90M01tRmxwN0dqeU45VHFTYzZSU1BwRjdkc19SZXVORzBYdE9yU3lDbVNQZk5zTEVqTE5PSy0xcGdta3hvT0JMSjF6VjNuczgyeXA0X2Z4OGtBeUlucldSMWw0MFhmcjdGMm5GSnh1QXpESFEyM3FZXzBtWHZia3hYSGdKRXNhUmg4S3hlaUhlOWhKYkVZaTVNanFYY1RDdjRjNm0xekJ0QlFEdUpTSzNvbjNSVlVwYV84a1M3RTI3WE13VUJiZ2pvaHc?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-22",
    "ts": "2026-11-22T14:08:00Z",
    "level": "notable",
@@ -1483,16 +1519,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 36.0,
+  "total": 36.5,
   "attention": null,
   "centrality": 36,
-  "momentum": 36,
+  "momentum": 37,
   "stature": null,
   "pageviews": 0,
   "citations": 9,
   "hIndex": 1,
-  "events": 9,
-  "posts": 64,
+  "events": 10,
+  "posts": 65,
   "wikiEn": null,
   "wikiZh": null
  },

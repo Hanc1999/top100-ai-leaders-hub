@@ -1,5 +1,5 @@
 {
- "rank": 48,
+ "rank": 46,
  "id": "noam-brown",
  "name": {
   "en": "Noam Brown",
@@ -1548,6 +1548,23 @@
  ],
  "news": [
   {
+   "date": "2026-11-26",
+   "ts": "2026-11-26T11:08:00Z",
+   "level": "notable",
+   "title": {
+    "en": "OpenAI's Noam Brown Says AI Still Can't Build a Poker Bot — And That Gap Is Where Your Job Is",
+    "zh": "OpenAI's Noam Brown Says AI Still Can't Build a Poker Bot — And That Gap Is Where Your Job Is"
+   },
+   "body": {
+    "en": "Brown argued AI still cannot build a working poker bot, pointing to competitive game-playing as an area where human skill still has an edge.",
+    "zh": "布朗表示AI目前仍无法构建出能打牌的扑克机器人，指出博弈类任务仍是人类技能占优的领域。"
+   },
+   "source": "BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13d1VpN0d4N0ttSGY0ajFWY1FVQllUV2NwU0xhSFN4MTEwektKV3dfbTAtelJZaFBlM3czajJGanRyblRGV0d2eHgxcG1ud0JiQlpaSzdkbEt2Slk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-25",
    "ts": "2026-11-25T07:12:17Z",
    "level": "notable",
@@ -1708,15 +1725,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 49.5,
+  "total": 50.4,
   "attention": null,
   "centrality": 68,
-  "momentum": 27,
+  "momentum": 29,
   "stature": null,
   "pageviews": 0,
   "citations": 2196,
   "hIndex": 19,
-  "events": 9,
+  "events": 10,
   "posts": 74,
   "wikiEn": "Noam Brown",
   "wikiZh": null

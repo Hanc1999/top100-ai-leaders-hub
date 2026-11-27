@@ -360,23 +360,42 @@
    "connector": "arxiv"
   },
   {
-   "date": "2025-05-14",
+   "date": "2025-09-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning",
+    "zh": "DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning"
+   },
+   "source": "Nature",
+   "url": "https://doi.org/10.1038/s41586-025-09422-z",
+   "note": {
+    "en": "Liang Wenfeng co-authors the peer-reviewed Nature version of the DeepSeek-R1 paper, showing that reasoning can be incentivized in LLMs purely through reinforcement learning.",
+    "zh": "梁文锋是DeepSeek-R1论文《Nature》同行评审版本的共同作者，该文展示了纯通过强化学习即可激励大语言模型的推理能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2025-06-20",
    "ts": null,
    "kind": "paper",
    "title": {
     "en": "Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures",
     "zh": "Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures"
    },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2505.09343v2",
+   "source": "Proceedings - International Symposium…",
+   "url": "https://doi.org/10.1145/3695053.3731412",
    "note": {
-    "en": "DeepSeek's account of the hardware limits hit while training V3 — memory, compute efficiency and interconnect — and what it implies for future AI hardware design.",
-    "zh": "DeepSeek 复盘训练 V3 时遇到的硬件瓶颈——显存、算力效率与互联带宽——并讨论其对未来 AI 硬件设计的启示。"
+    "en": "Liang Wenfeng co-authors a systems paper detailing DeepSeek-V3's scaling challenges and the hardware-architecture choices behind training it at low cost.",
+    "zh": "梁文锋是论文《Insights into DeepSeek-V3》的共同作者，该文详述了DeepSeek-V3训练中的扩展难题及支撑低成本训练的硬件架构选择。"
    },
    "auto": true,
    "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2025-02-16",
@@ -556,6 +575,40 @@
    "url": "https://decodethefuture.org/en/deepseek-r2-explained/"
   },
   {
+   "date": "2026-11-26",
+   "ts": "2026-11-26T10:06:59Z",
+   "level": "major",
+   "title": {
+    "en": "蜜雪冰城，悄悄投了梁文锋",
+    "zh": "蜜雪冰城，悄悄投了梁文锋"
+   },
+   "body": {
+    "en": "Bubble-tea chain Mixue Bingcheng put roughly 500 million yuan into DeepSeek's latest funding round, part of a ~100 billion yuan raise that pushed the company's valuation past 600 billion yuan.",
+    "zh": "蜜雪冰城向DeepSeek最新一轮融资投入约5亿元，该轮融资总规模约1000亿元，使公司估值超过6000亿元。"
+   },
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM3EwckVKX1h3U1AtclJwRW9RZmdENXM4YXBGVTc3dDRNQTRZVzNqZjJJcFg1ZklXVmlTeV9mSnVTNmhFeTh3eVRMX1o0Yjlfc3JURTVLbzFrWkpWOFNhN3g4eEpnMmxYckJBTlhzOG02TzVIeUcwcWRJREFkY0FoZEtvSHNPN3ky?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-26",
+   "ts": "2026-11-26T16:13:05Z",
+   "level": "notable",
+   "title": {
+    "en": "蜜雪冰城，悄悄投了梁文锋",
+    "zh": "蜜雪冰城，悄悄投了梁文锋"
+   },
+   "body": {
+    "en": "Bubble-tea chain Mixue quietly invested in Liang Wenfeng's ventures, a sign of capital interest reaching beyond the AI industry.",
+    "zh": "奶茶品牌蜜雪冰城悄然投资梁文锋相关企业，显示AI行业之外的资本也在关注他。"
+   },
+   "source": "创业邦",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PcDkyRHE5eWRFUVR5Zjk2STROY1htNDZYaFRfSkNLUUE4dEE1RXN4Wk1PSFpQZ0ZoN1JpdXJFSVFJSmhLeWk5WmVudnllSTJk?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-25",
    "ts": "2026-11-25T02:09:56Z",
    "level": "notable",
@@ -573,6 +626,23 @@
    "judged": true
   },
   {
+   "date": "2026-11-25",
+   "ts": "2026-11-25T16:17:00Z",
+   "level": "notable",
+   "title": {
+    "en": "河南养猪首富，投了梁文锋",
+    "zh": "河南养猪首富，投了梁文锋"
+   },
+   "body": {
+    "en": "Qin Yinglin, the pig-farming magnate behind Muyuan Foods, is reported to have invested in Liang Wenfeng.",
+    "zh": "牧原食品创始人、养猪首富秦英林被曝投资了梁文锋。"
+   },
+   "source": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nMW5FM1JlZTFfTnBxR0xEQzZ3MlFwZWRqb1lFMElsZnFiYUxhY0tIQWcxQVFJdW1QYkpxRXU0dGtLQUlEYmctaVJTTzI1UQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-24",
    "ts": "2026-11-24T02:02:09Z",
    "level": "major",
@@ -586,6 +656,23 @@
    },
    "source": "KuCoin",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdmRUUnFaT1FuWWk2dVp1dE01ellJRDQteHhDbHZBd3dZcUIzQ3VkQ2JGZHN5NHBXT3JGUzBqOG93TEltblJJLVJhUlRaQzJBYm5ESUx0UXdxWWM3dVlvU013V2x6N3B2V2MtWXh0Ykhxa3F1SmZfRVNXMGpNdi14VnB1TTh3YXlaVVhWS2RqQUFqbUZGdkVqejNfaV9wS2dYYjBydDdER1pjYjZBbl9qbWNsVmpza0R6cVg0b1hMenJObGRxdVhv?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24T09:46:07Z",
+   "level": "major",
+   "title": {
+    "en": "DeepSeek创始人梁文锋身家在完成融资后增至550亿美元",
+    "zh": "DeepSeek创始人梁文锋身家在完成融资后增至550亿美元"
+   },
+   "body": {
+    "en": "DeepSeek completes a financing round that lifts founder Liang Wenfeng's net worth to roughly $55 billion, underscoring investor confidence in the company's trajectory.",
+    "zh": "DeepSeek完成一轮融资，创始人梁文锋的身家因此升至约550亿美元，显示出投资者对公司发展前景的信心。"
+   },
+   "source": "金融界",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SVlVfZDIzY3lwaTJJNEdESnp2YnRsNzRSY2Z3ZlpkMFY2enNSSnRkc3NTazhQN1cxQTFucW53Ny1fNlZWTDlqMzYxb25XWmhGSXctU0VORFBrMkFsLVcyMDVZNA?oc=5",
    "auto": true,
    "judged": true
   },
@@ -977,6 +1064,40 @@
    },
    "source": "凤凰网",
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwU3gxUEFVNzNTSHZ2b0Zwb1N2WlY2eGpYTmR5cWZuTmlwVUNJbTgxc0RPZk5SdGdjbUkyY1FkYWZVM0FtU2VxZQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-19",
+   "ts": "2026-11-19T22:12:00Z",
+   "level": "major",
+   "title": {
+    "en": "DeepSeek1050亿元融资落定！梁文锋“挑”投资人：腾讯、宁德时代挤进第一梯队",
+    "zh": "DeepSeek1050亿元融资落定！梁文锋“挑”投资人：腾讯、宁德时代挤进第一梯队"
+   },
+   "body": {
+    "en": "DeepSeek closed a RMB 105 billion funding round, with Liang Wenfeng selecting investors including Tencent and CATL among the lead backers.",
+    "zh": "DeepSeek完成1050亿元人民币融资，梁文锋\"挑选\"投资人，腾讯、宁德时代等跻身第一梯队。"
+   },
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52d3JmYTQ1cUkzWThaeWgyWUI2Z1RSUzVyT0xOUU9jQTdBV3VDOVBsdjB0eHppU0tDbWpEWEtrXzVITU5JRzhmUlp0MGQ2M0NvNEhBTnE5S2R3WE5kNmJULURzdnRpNEppWmlBaDJ3?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-19",
+   "ts": "2026-11-19T13:41:34Z",
+   "level": "major",
+   "title": {
+    "en": "DeepSeek1050亿元融资落定！梁文锋“挑”投资人：腾讯、宁德时代挤进第一梯队，有人拿着钱被拒之门外，有人却主动放弃",
+    "zh": "DeepSeek1050亿元融资落定！梁文锋“挑”投资人：腾讯、宁德时代挤进第一梯队，有人拿着钱被拒之门外，有人却主动放弃"
+   },
+   "body": {
+    "en": "DeepSeek closed a roughly ¥105 billion funding round with Tencent and CATL as top-tier investors, while Liang Wenfeng retained majority control.",
+    "zh": "DeepSeek完成约1050亿元人民币融资，腾讯和宁德时代成为第一梯队投资方，梁文锋保留了控制权。"
+   },
+   "source": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5WdXJPNF8yZWJLMnVXbnU5ZkstaElqSnlfb19fVVJOTXVZZVFDNjBxQ2lydko0d2Y5V2YyQTFsRWhhbHZBZTBPc251SFM?oc=5",
    "auto": true,
    "judged": true
   },
@@ -7218,8 +7339,8 @@
   "pageviews": 186365,
   "citations": 5692,
   "hIndex": 37,
-  "events": 394,
-  "posts": 18,
+  "events": 400,
+  "posts": 19,
   "wikiEn": "Liang Wenfeng",
   "wikiZh": "梁文锋"
  },

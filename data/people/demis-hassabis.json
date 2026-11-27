@@ -305,6 +305,25 @@
    "connector": null
   },
   {
+   "date": "2026-11-17",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "AlphaGenome 2 predicts regulatory activity and variant effects across cell states",
+    "zh": "AlphaGenome 2 predicts regulatory activity and variant effects across cell states"
+   },
+   "source": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "url": "https://doi.org/10.64898/2026.11.11.765857",
+   "note": {
+    "en": "A DeepMind paper introduced AlphaGenome 2, which predicts regulatory activity and the effects of genetic variants across cell states.",
+    "zh": "DeepMind发布论文介绍AlphaGenome 2，可预测不同细胞状态下的基因调控活动及变异影响。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-11-12",
    "ts": "2026-11-12T18:11:37Z",
    "kind": "x",
@@ -2760,6 +2779,23 @@
    "judged": true
   },
   {
+   "date": "2026-09-16",
+   "ts": "2026-09-16T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Demis Hassabis Launches DeepMind Institute for AGI Debate",
+    "zh": "Demis Hassabis Launches DeepMind Institute for AGI Debate"
+   },
+   "body": {
+    "en": "Hassabis co-launched the DeepMind Institute with Shane Legg and James Manyika as a public forum for AGI debate, and used it to propose a US-led standards body—potentially including a coordinated slowdown—for evaluating frontier models.",
+    "zh": "哈萨比斯与沙恩·莱格、詹姆斯·曼伊卡共同创立DeepMind研究院，作为公开讨论AGI的平台，并借此提出由美国主导建立评估前沿模型的标准机构，必要时甚至协调放缓研发进度。"
+   },
+   "source": "Superpower Daily",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY1NNVDRyRDVrSEc0NmxZX3VnQ0VzWGZzaGNfRnJxeEV4SFdKZU5QMXhreW9tY2RYWWZRcGxXRV95WG94R0NiUEQ4OEN6QzhWNGt3T0hHbEs3TTVxN3ZJeDNPd0x4VlhnN3o5ejRZbU5iU2Iwa1BIVjczTnhrenh6YU1rQWthdjktcVNqSkhRRXVpeGM1a1E?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-09-14",
    "ts": "2026-09-14T08:45:00Z",
    "level": "notable",
@@ -3268,8 +3304,8 @@
   "pageviews": 1121478,
   "citations": 195503,
   "hIndex": 92,
-  "events": 63,
-  "posts": 107,
+  "events": 64,
+  "posts": 108,
   "wikiEn": "Demis Hassabis",
   "wikiZh": "杰米斯·哈萨比斯"
  },

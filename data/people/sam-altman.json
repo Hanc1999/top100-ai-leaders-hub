@@ -161,6 +161,25 @@
    }
   },
   {
+   "date": "2026-11-03",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Sam Altman On AI Revolution, Superintelligence & Future Of Humanity | FO583 Raj Shamani",
+    "zh": "Sam Altman On AI Revolution, Superintelligence & Future Of Humanity | FO583 Raj Shamani"
+   },
+   "source": "Figuring Out with Raj Shamani",
+   "url": "https://podcasts.apple.com/us/podcast/sam-altman-on-ai-revolution-superintelligence-future/id1501941375?i=1000799625772&uo=4",
+   "note": {
+    "en": "Altman guested on 'Figuring Out with Raj Shamani' to discuss AI's trajectory, superintelligence, and the future of humanity.",
+    "zh": "奥特曼做客播客《Figuring Out with Raj Shamani》，谈论AI发展趋势、超级智能与人类未来。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-10-21",
    "ts": null,
    "kind": "podcast",
@@ -1630,6 +1649,23 @@
    "url": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html"
   },
   {
+   "date": "2026-11-26",
+   "ts": "2026-11-26T04:35:28Z",
+   "level": "notable",
+   "title": {
+    "en": "OpenAI tests Private Inference with select customers, says Sam Altman",
+    "zh": "OpenAI tests Private Inference with select customers, says Sam Altman"
+   },
+   "body": {
+    "en": "Altman said OpenAI is testing a Private Inference feature with select customers, a new privacy-focused product push.",
+    "zh": "奥特曼表示OpenAI正在与部分客户测试\"隐私推理\"（Private Inference）功能，这是其面向隐私保护的新产品举措。"
+   },
+   "source": "Storyboard18",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcVRmRmlNVmtzelF6ZDc3NlRPZ0ZyS3JYMTZWNFlEYkpDR01SMHNxV2lGQVFEYnVyM0FFSzZXMnFIbmpsVGJuenZmMF9jaWgtLU1BWDFPYXFNVjc0Rmh5R21FZzZmTUNDYkZyNzZCdnRvWWVNM3lxLW9MNllkQVBlSE1MUWYtZXprT08xYW9iVkRCMDFuUkJsQWs2VG10U09DMmd4RDBXR3JETEpYVTdMM2lFdU5OZ9IBuwFBVV95cUxQeUJ4N0x0eWROeTlUbjQ3b2xlUS0yM2gyTjJ5UG9vMlhRcU41REVrcWxwRGtTVjJkVy05b3lFSWdvYjd0LUdHOUR3Sy1HUnpiQUZ0X2lJaFI5clM3eVBFYlAyMmNxUVdsUzJlTHUzeHd3SWIxOHc1QU1ZYU5ZTWpKR1lvR0dBZW9HMTVpS0taa2Q2NW9RalBMRHJxWTlfNUdwNUhSZlV1Sy1yd0RFUjFxd2VaVXhZQzR2RU00?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-25",
    "ts": "2026-11-25T11:19:47Z",
    "level": "notable",
@@ -1660,6 +1696,23 @@
    },
    "source": "WSJ",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYTZPNGJNMDJNdHlEdjdHUGJPa0d6b2U4c0FJZ1lQdW5nWF9EUElsWkxaeXVlcU9YaExWc3B5QXNOM3ZaME9mX0ZURkpqdEt6VThEZVJJQWFETTFvYjROSWZDSlp0RU1aTlBaay0yVFBUdFV6bjhlaDZCM1pJYnl1TTZIZEhCQzA1M3ZhNHA2cXdFUmVsU0ZuVEg3bE5GQ0MwdFdOZkNBRnphV1RmVE5DSERNOWw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-25",
+   "ts": "2026-11-25T15:47:05Z",
+   "level": "notable",
+   "title": {
+    "en": "Sam Altman Says It’s “an Ill-Advised Moment to Go Public.” That’s a Big Risk for Oracle",
+    "zh": "Sam Altman Says It’s “an Ill-Advised Moment to Go Public.” That’s a Big Risk for Oracle"
+   },
+   "body": {
+    "en": "Altman said this is 'an ill-advised moment' for a company to go public, a stance with direct bearing on OpenAI's own path toward a public listing.",
+    "zh": "阿尔特曼表示现在是公司上市'考虑不周'的时机，这一表态与OpenAI自身的上市计划密切相关。"
+   },
+   "source": "TIKR.com",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMU1kTUE2Vk5EaVJoNG5EYkJZWkpFaF9kWUZrZm82Y3hUQ0hmZjVSTVU0QU1fVWJPVDdNa0poTHktQ3N2Uy1GMFZhQ2hEcFJPeFZmT2YxU3dRS2xyandwb1g4WWFsTzFMeFFIY3gyTEVKc0hfYWhLSmJ4SG1aZEhaN0R1VWQ0N1pQa2hiVW1IR2VkS1BHR01Bdw?oc=5",
    "auto": true,
    "judged": true
   },
@@ -13358,8 +13411,8 @@
   "pageviews": 4156896,
   "citations": 16,
   "hIndex": 1,
-  "events": 692,
-  "posts": 78,
+  "events": 694,
+  "posts": 79,
   "wikiEn": "Sam Altman",
   "wikiZh": "萨姆·奥尔特曼"
  },

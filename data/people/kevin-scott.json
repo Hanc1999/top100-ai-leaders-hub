@@ -468,6 +468,25 @@
    "connector": "backfill"
   },
   {
+   "date": "2024-01-08",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Lisa Su, Chair and CEO, AMD",
+    "zh": "Lisa Su, Chair and CEO, AMD"
+   },
+   "source": "Behind The Tech with Kevin Scott",
+   "url": "https://podcasts.apple.com/us/podcast/lisa-su-chair-and-ceo-amd/id1381008946?i=1000640916839&uo=4",
+   "note": {
+    "en": "Scott hosted AMD chair and CEO Lisa Su on his own podcast, Behind The Tech, discussing her strategy leading the semiconductor company.",
+    "zh": "斯科特在自己主持的播客《Behind The Tech》中采访了AMD董事长兼CEO苏姿丰，探讨她领导这家半导体公司的战略。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2023-12-20",
    "ts": null,
    "kind": "x",
@@ -1412,7 +1431,7 @@
   "citations": 38763,
   "hIndex": 96,
   "events": 1,
-  "posts": 67,
+  "posts": 68,
   "wikiEn": "Kevin Scott (businessman)",
   "wikiZh": null
  },

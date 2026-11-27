@@ -213,6 +213,25 @@
    }
   },
   {
+   "date": "2026-11-26",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Yann LeCun and Andrew Ng: Why the 6-month AI Pause is a Bad Idea",
+    "zh": "Yann LeCun and Andrew Ng: Why the 6-month AI Pause is a Bad Idea"
+   },
+   "source": "DeepLearningAI",
+   "url": "https://podcasts.apple.com/us/podcast/yann-lecun-and-andrew-ng-why-the-6-month-ai-pause-is-a-bad-idea/id6832622364?i=1000804237260&uo=4",
+   "note": {
+    "en": "Andrew Ng and Yann LeCun discuss on Ng's own DeepLearning.AI podcast why they believe the proposed 6-month AI development pause would be a bad idea.",
+    "zh": "吴恩达与杨立昆在吴恩达自己的DeepLearning.AI播客中探讨，为何他们认为所提议的人工智能六个月暂停研发是个坏主意。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2026-10-10",
    "ts": null,
    "kind": "podcast",
@@ -1847,6 +1866,25 @@
    "connector": "openalex"
   },
   {
+   "date": "2023-12-20",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "AI Is Transforming Businesses (with Andrew Ng)",
+    "zh": "AI Is Transforming Businesses (with Andrew Ng)"
+   },
+   "source": "Azeem Azhar's Exponential View",
+   "url": "https://podcasts.apple.com/us/podcast/ai-is-transforming-businesses-with-andrew-ng/id1172218725?i=1000639216377&uo=4",
+   "note": {
+    "en": "Ng joined Azeem Azhar's Exponential View podcast to discuss how AI is transforming businesses.",
+    "zh": "吴恩达做客Azeem Azhar的播客Exponential View，讨论AI如何改变企业经营。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2023-12-02",
    "ts": null,
    "kind": "paper",
@@ -2149,6 +2187,25 @@
    "judged": true,
    "platform": "medium",
    "connector": "personal"
+  },
+  {
+   "date": "2018-08-30",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Andrew Ng: Influential leader in artificial intelligence",
+    "zh": "Andrew Ng: Influential leader in artificial intelligence"
+   },
+   "source": "Behind The Tech with Kevin Scott",
+   "url": "https://podcasts.apple.com/us/podcast/andrew-ng-influential-leader-in-artificial-intelligence/id1381008946?i=1000418801054&uo=4",
+   "note": {
+    "en": "Ng was interviewed by Kevin Scott on the Behind The Tech podcast about his influence on AI and deep learning.",
+    "zh": "吴恩达接受Kevin Scott主持的播客Behind The Tech采访，谈及他在AI与深度学习领域的影响力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   },
   {
    "date": "2018-05-07",
@@ -4546,7 +4603,7 @@
   "citations": 131102,
   "hIndex": 124,
   "events": 132,
-  "posts": 111,
+  "posts": 114,
   "wikiEn": "Andrew Ng",
   "wikiZh": "吴恩达"
  },

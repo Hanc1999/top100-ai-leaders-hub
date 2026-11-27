@@ -232,6 +232,25 @@
    "connector": null
   },
   {
+   "date": "2026-11-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Recursive Collective Intelligence: Emergence on an Equal-Budget Ladder in Multi-Agent LLM Systems",
+    "zh": "Recursive Collective Intelligence: Emergence on an Equal-Budget Ladder in Multi-Agent LLM Systems"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.32606v1",
+   "note": {
+    "en": "Yi Ma co-authored a paper with Li Fei-Fei, Leonidas Guibas and others studying whether multi-agent LLM teams given equal compute budgets can recursively improve collective problem-solving beyond what any single agent achieves.",
+    "zh": "马毅与李飞飞、Leonidas Guibas等人合作撰写论文，研究在同等算力预算下，多智能体LLM团队能否通过递归方式实现超越单个智能体的集体问题求解能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-11-21",
    "ts": null,
    "kind": "paper",
@@ -1853,7 +1872,7 @@
   "citations": 46806,
   "hIndex": 81,
   "events": 25,
-  "posts": 65,
+  "posts": 66,
   "wikiEn": "Yi Ma",
   "wikiZh": null
  },

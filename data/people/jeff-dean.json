@@ -1318,23 +1318,23 @@
    "connector": "openalex"
   },
   {
-   "date": "2023-05-29",
+   "date": "2023-07-03",
    "ts": null,
    "kind": "paper",
    "title": {
     "en": "Brainformers: Trading Simplicity for Efficiency",
     "zh": "Brainformers: Trading Simplicity for Efficiency"
    },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2306.00008v2",
+   "source": "International Conference on Machine Le…",
+   "url": "https://proceedings.mlr.press/v202/zhou23c.html",
    "note": {
-    "en": "Shows that searched, non-uniform transformer blocks train and serve more efficiently than the standard uniform stack.",
-    "zh": "论证经搜索得到的非均匀 Transformer 模块，在训练与推理效率上优于标准的均匀堆叠结构。"
+    "en": "Co-authored \"Brainformers,\" a Google paper on sparse, heterogeneous transformer blocks that trade a simpler architecture for better efficiency.",
+    "zh": "合著论文《Brainformers》，这是谷歌的一项研究，提出稀疏异构的Transformer模块设计，以更简单的架构换取更高效率。"
    },
    "auto": true,
    "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2022-11-09",

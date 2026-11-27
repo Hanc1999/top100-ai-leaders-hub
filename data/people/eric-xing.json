@@ -169,6 +169,44 @@
    }
   },
   {
+   "date": "2026-11-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Simulator-as-Proxy World Model for Robot Manipulation",
+    "zh": "Simulator-as-Proxy World Model for Robot Manipulation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.32786v1",
+   "note": {
+    "en": "A paper co-authored by Xing proposes a simulator-as-proxy world model for testing robot manipulation policies.",
+    "zh": "邢波合著论文提出以模拟器作为代理世界模型，用于测试机器人操作策略。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
+   "date": "2026-11-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Sparse Adaptation for In-Context Learning on Data Streams",
+    "zh": "Sparse Adaptation for In-Context Learning on Data Streams"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.33325v1",
+   "note": {
+    "en": "Xing co-authors a paper on sparse adaptation methods that let tabular foundation models do in-context learning on streaming IoT/edge data.",
+    "zh": "Xing合著论文，提出稀疏自适应方法，使表格基础模型能在IoT/边缘流数据上进行上下文学习。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-11-19",
    "ts": null,
    "kind": "paper",
@@ -1651,25 +1689,6 @@
    "connector": "backfill"
   },
   {
-   "date": "2026-01-04",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "LAPS: A Length-Aware-Prefill LLM Serving System",
-    "zh": "LAPS: A Length-Aware-Prefill LLM Serving System"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2601.11589v2",
-   "note": {
-    "en": "LLM serving system that disaggregates requests by prompt length to cut time-to-first-token, from his systems group with Qirong Ho.",
-    "zh": "与何奇龙团队合作的大模型服务系统，按提示长度拆分请求以降低首字延迟。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
    "date": "2026-01-01",
    "ts": null,
    "kind": "x",
@@ -1945,7 +1964,7 @@
   "citations": 41656,
   "hIndex": 97,
   "events": 3,
-  "posts": 91,
+  "posts": 92,
   "wikiEn": "Eric Xing",
   "wikiZh": "邢波"
  },

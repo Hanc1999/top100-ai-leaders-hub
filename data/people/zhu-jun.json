@@ -187,6 +187,25 @@
    }
   },
   {
+   "date": "2026-11-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "EgoMyo: Physical Hand State Estimation from Egocentric Video and Wrist Electromyography",
+    "zh": "EgoMyo: Physical Hand State Estimation from Egocentric Video and Wrist Electromyography"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.34224v1",
+   "note": {
+    "en": "New paper from Zhu Jun's Tsinghua TSAIL group (with longtime collaborator Hang Su) estimating physical hand contact and force from egocentric video and wrist EMG, aimed at robotic manipulation.",
+    "zh": "朱军清华TSAIL团队（与长期合作者苏航共同完成）的新论文，研究如何从第一视角视频和腕部肌电信号估计手部的接触状态与施力，服务于机器人操作任务。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-11-23",
    "ts": null,
    "kind": "paper",
@@ -1365,7 +1384,7 @@
   "citations": 56229,
   "hIndex": 118,
   "events": 25,
-  "posts": 40,
+  "posts": 41,
   "wikiEn": "Zhu Jun",
   "wikiZh": "朱军"
  },

@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-11-24",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Emerging International Best Practices for AI Model Specs",
+    "zh": "Emerging International Best Practices for AI Model Specs"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.32768v1",
+   "note": {
+    "en": "Nathan Lambert co-authors a paper surveying emerging international best practices for AI model specifications, the documents labs use to describe how their models should behave.",
+    "zh": "Nathan Lambert合著一篇论文，梳理了国际上关于AI模型规范(model specs)的新兴最佳实践，这类文档用于描述模型应如何表现。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-11-14",
    "ts": "2026-11-14T12:23:15Z",
    "kind": "blog",
@@ -1851,16 +1870,16 @@
  },
  "cat": "product",
  "score": {
-  "total": 16.4,
+  "total": 16.6,
   "attention": 8,
   "centrality": 6,
-  "momentum": 44,
+  "momentum": 45,
   "stature": null,
   "pageviews": 2796,
   "citations": 720,
   "hIndex": 13,
   "events": 5,
-  "posts": 85,
+  "posts": 86,
   "wikiEn": "Nathan Lambert",
   "wikiZh": null
  },

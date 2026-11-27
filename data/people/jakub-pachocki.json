@@ -1,5 +1,5 @@
 {
- "rank": 47,
+ "rank": 44,
  "id": "jakub-pachocki",
  "name": {
   "en": "Jakub Pachocki",
@@ -183,6 +183,25 @@
    }
   },
   {
+   "date": "2026-09-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Monitoring Monitorability",
+    "zh": "Monitoring Monitorability"
+   },
+   "source": "International Conference on Machine Le…",
+   "url": "https://proceedings.mlr.press/v306/guan26h.html",
+   "note": {
+    "en": "Co-authored \"Monitoring Monitorability,\" an OpenAI safety paper on keeping chain-of-thought reasoning legible enough to monitor as models get more capable.",
+    "zh": "合著论文《Monitoring Monitorability》，这是OpenAI的一项安全研究，探讨在模型能力提升的同时如何保持思维链推理的可监控性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-09-28",
    "ts": null,
    "kind": "paper",
@@ -276,25 +295,6 @@
    "judged": true,
    "platform": "apple-podcasts",
    "connector": "podcasts"
-  },
-  {
-   "date": "2025-12-20",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Monitoring Monitorability",
-    "zh": "Monitoring Monitorability"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2512.18311v1",
-   "note": {
-    "en": "Asks whether the monitorability of a reasoning model's chain of thought can itself be measured and tracked, continuing the chain-of-thought oversight line he backs at OpenAI.",
-    "zh": "探讨推理模型思维链的可监控性本身能否被度量与追踪，延续了他在 OpenAI 主推的思维链监督方向。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
   },
   {
    "date": "2025-12-19",
@@ -892,6 +892,23 @@
    "judged": true
   },
   {
+   "date": "2026-11-23",
+   "ts": "2026-11-23T08:12:56Z",
+   "level": "major",
+   "title": {
+    "en": "Jakub Pachocki Calls for Common Standards for AI",
+    "zh": "Jakub Pachocki Calls for Common Standards for AI"
+   },
+   "body": {
+    "en": "Pachocki proposed that frontier AI labs adopt shared capability limits based on log-perplexity until monitoring tools mature, a plan Altman called one of OpenAI's most important publications.",
+    "zh": "帕霍茨基提出，前沿AI实验室应采用基于对数困惑度的共同能力上限，直到监测工具成熟为止，奥特曼称这是OpenAI发表过的最重要内容之一。"
+   },
+   "source": "Brief IA",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS0lNR1BzMW80eUJDOFV6MmVhelRxVmhEWWtDekZHQTdndTkyanA4MmR5SHRvV3h1cVBFa3lnelhTdE12aFlONlBUcERhbGY2MlFweUdDQ3pMV0duYnNRa21ibHZKbXNiMnNnaG1ySEhTYWFGS1E0aE9FN0tBcTRVVWJZM2d6WHNPbFE?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-22",
    "ts": "2026-11-22T21:34:07Z",
    "level": "notable",
@@ -1035,15 +1052,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 49.8,
+  "total": 50.5,
   "attention": 36,
   "centrality": 87,
-  "momentum": 32,
+  "momentum": 35,
   "stature": null,
   "pageviews": 51141,
   "citations": 3664,
   "hIndex": 15,
-  "events": 14,
+  "events": 15,
   "posts": 34,
   "wikiEn": "Jakub Pachocki",
   "wikiZh": "雅库布·帕霍基"

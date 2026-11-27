@@ -228,6 +228,44 @@
    }
   },
   {
+   "date": "2026-11-26",
+   "ts": "2026-11-26T17:22:45Z",
+   "kind": "x",
+   "title": {
+    "en": "Explore QDA: quantization design agents",
+    "zh": "Explore QDA: quantization design agents"
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2126003739655901637",
+   "note": {
+    "en": "Song Han shared QDA, a quantization design agent project, continuing his work on efficient-inference tooling.",
+    "zh": "韩松分享了QDA（量化设计智能体）项目，延续其在高效推理工具方面的研究。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-25",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Agentic LongLive: Asynchronous Agentic Memory for Long Video Generation",
+    "zh": "Agentic LongLive: Asynchronous Agentic Memory for Long Video Generation"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.34907v1",
+   "note": {
+    "en": "Song Han co-authored a new agentic memory system for keeping long, interactive AI-generated videos consistent over time.",
+    "zh": "韩松合著了一套新的智能体记忆系统，用于让长时间交互式AI视频生成保持角色、物体与场景的一致性。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
+  },
+  {
    "date": "2026-11-21",
    "ts": null,
    "kind": "paper",
@@ -1654,7 +1692,7 @@
   "citations": 32832,
   "hIndex": 58,
   "events": 7,
-  "posts": 71,
+  "posts": 73,
   "wikiEn": null,
   "wikiZh": "韩松"
  },

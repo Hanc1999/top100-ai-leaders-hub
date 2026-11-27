@@ -483,6 +483,44 @@
    "connector": "arxiv"
   },
   {
+   "date": "2026-09-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Learning Latent Action World Models In The Wild",
+    "zh": "Learning Latent Action World Models In The Wild"
+   },
+   "source": "International Conference on Machine Le…",
+   "url": "https://proceedings.mlr.press/v306/garrido26a.html",
+   "note": {
+    "en": "LeCun co-authored an ICML paper on learning latent-action world models from in-the-wild video, part of his push toward JEPA-style world models as an alternative to autoregressive LLMs.",
+    "zh": "杨立昆共同撰写了一篇ICML论文，研究如何从真实场景视频中学习潜在动作世界模型，延续他以JEPA式世界模型替代自回归大模型的研究方向。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2026-09-29",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Parallel Stochastic Gradient-Based Planning for World Models",
+    "zh": "Parallel Stochastic Gradient-Based Planning for World Models"
+   },
+   "source": "International Conference on Machine Le…",
+   "url": "https://proceedings.mlr.press/v306/psenka26a.html",
+   "note": {
+    "en": "LeCun co-authored an ICML paper proposing a parallel stochastic-gradient planning method for world models, aimed at making model-based planning more efficient.",
+    "zh": "杨立昆共同撰写了一篇ICML论文，提出一种基于并行随机梯度的世界模型规划方法，旨在提升基于模型规划的效率。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2026-09-28",
    "ts": null,
    "kind": "paper",
@@ -666,25 +704,6 @@
    "note": {
     "en": "With NYU's robot learning group, shows that dense per-patch vision-transformer features make robot policies more effective than compressing each observation into one global vector.",
     "zh": "与纽约大学机器人学习团队合作，证明使用 ViT 的稠密图块特征比把每帧观测压缩成单个全局向量更有效。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2026-07-04",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Separating Representation from Reconstruction Enables Scalable Text Encoders",
-    "zh": "Separating Representation from Reconstruction Enables Scalable Text Encoders"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2607.04011v1",
-   "note": {
-    "en": "Argues that BERT-style encoders conflate representation with reconstruction, and separates the two to make text encoders scale.",
-    "zh": "指出 BERT 式编码器把表征和重建混为一谈，将两者分离后文本编码器才得以扩展规模。"
    },
    "auto": true,
    "judged": true,
@@ -1026,6 +1045,23 @@
    "url": "https://finance.yahoo.com/news/yann-lecun-calls-alexandr-wang-182614902.html"
   },
   {
+   "date": "2026-11-26",
+   "ts": "2026-11-26T01:31:01Z",
+   "level": "notable",
+   "title": {
+    "en": "AI Compute Is Getting Expensive. Yann LeCun Says We’re Scaling the Wrong Thing",
+    "zh": "AI Compute Is Getting Expensive. Yann LeCun Says We’re Scaling the Wrong Thing"
+   },
+   "body": {
+    "en": "LeCun argued the industry is scaling the wrong thing as AI compute costs balloon, reiterating his skepticism of pure scaling.",
+    "zh": "LeCun认为，随着AI算力成本飙升，行业正在扩展错误的方向，重申了他对单纯扩大规模路线的质疑。"
+   },
+   "source": "Medium",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc2Z4b1YwVHJwSndwa0dJRi05b3g1U19SS0pZRUhhOW9aN20xTGNQaWtiMk1TaGh3MF9ZXy1tT056V1hpcUllQU43aFFDYm11U2JYdFQzVFdqZG51WUhKek9YMVF3Mmk1dTJ2Q2lyX3hmdml6RnlOUmZLakI5ZFRwTEgwVGVrT1VyQnh4SVhnbGVlVVRwYktlR2xOLU80aS11Z3V1c2tVcGdLa2NRaFRkbUNYQU5hc2M?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-25",
    "ts": "2026-11-25T02:19:24Z",
    "level": "notable",
@@ -1145,6 +1181,57 @@
    "judged": true
   },
   {
+   "date": "2026-11-25",
+   "ts": "2026-11-25T02:16:31Z",
+   "level": "notable",
+   "title": {
+    "en": "“AI教父”杨立昆怒怼Anthropic CEO阿莫迪：炒作AI危险论，只是让自己掌握控制权",
+    "zh": "“AI教父”杨立昆怒怼Anthropic CEO阿莫迪：炒作AI危险论，只是让自己掌握控制权"
+   },
+   "body": {
+    "en": "LeCun publicly pushed back on Anthropic CEO Dario Amodei, arguing Amodei's warnings about AI danger are aimed at keeping control over the technology rather than genuine safety concern.",
+    "zh": "杨立昆公开反驳Anthropic CEO达里奥·阿莫迪，称其渲染AI危险论只是为了让自己掌握对该技术的控制权，而非出于真正的安全考量。"
+   },
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jQzlxMUtTZS11Y1c3Umt5ZlZ6NjJrS3Q3UEoyNXNDOGFneG5lV3ZBSDZrNFRaeS1EcGVQV0hMOUgzQXkybjY3Smh2X2I?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-25",
+   "ts": "2026-11-25T00:05:21Z",
+   "level": "notable",
+   "title": {
+    "en": "Open Models: Yann LeCun Critiques Dario Amodei",
+    "zh": "Open Models: Yann LeCun Critiques Dario Amodei"
+   },
+   "body": {
+    "en": "Yann LeCun publicly critiqued Dario Amodei's views on open models, continuing his role as the field's leading dissenting voice on the path to AGI.",
+    "zh": "杨立昆公开批评达里奥·阿莫代伊关于开放模型的观点，延续了他作为业界在通往AGI路径上主要反对声音的角色。"
+   },
+   "source": "Brief IA",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbUJRSjUwbVlOaVl2ODVQTndRYU04emVnUk5MZG9OWHV5d1d0UExGZ3FVX2p6V1ZuazJTN01tbkV2ODhHQmRUZGRscmRBTzFEWVliLTVPeHA1NmNQRDFMOUdab2hyWGVCcUlORHZlX2IxNDNGQXpfd3c5SFM2SkNYcktaVnNDdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-25",
+   "ts": "2026-11-25T09:14:21Z",
+   "level": "notable",
+   "title": {
+    "en": "杨立昆批评Dario Amodei：渲染AI危险是为让开源模型非法化",
+    "zh": "杨立昆批评Dario Amodei：渲染AI危险是为让开源模型非法化"
+   },
+   "body": {
+    "en": "Yann LeCun criticized Dario Amodei, arguing that hyping AI danger is really an attempt to get open-source models outlawed.",
+    "zh": "杨立昆批评Dario Amodei，称渲染AI危险论实质是想让开源模型被定为非法。"
+   },
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zbFpaeDZGWDBINERhTjdMZHprUlZXaUtnR1dKTGN0aXR6QTk5blJCbFd5MDUzazVZUjY5YklfcTNJdXpGN1N4ZzJiOTB2akRNRUYwblktTXgyVjI1MnRvOEtueUpqQQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-24",
    "ts": "2026-11-24T10:15:00Z",
    "level": "notable",
@@ -1226,6 +1313,23 @@
    },
    "source": "36Kr",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvNDRrcGRacDN2NDB5S25mZ2c1dEh0MzJiSC1aaWl3THVaTUE5MUU4MGtjWFFIcUQ4T3pXRk1uZERJTWZjYzh5dl9RRFlDZw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-24",
+   "ts": "2026-11-24T03:36:35Z",
+   "level": "notable",
+   "title": {
+    "en": "Yann LeCun criticises Dario Amodei on open-weight AI models",
+    "zh": "Yann LeCun criticises Dario Amodei on open-weight AI models"
+   },
+   "body": {
+    "en": "LeCun publicly criticized Dario Amodei's stance on open-weight AI models, extending his public dissent from closed-lab orthodoxy.",
+    "zh": "杨立昆公开批评Dario Amodei在开源权重AI模型上的立场，延续了他对封闭实验室主流观点的公开异议。"
+   },
+   "source": "TechGig",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ0tfQ0JBOTg5Q2RJVkRja3IyZ3czMkM0bUJPSjhEOElmU3MzU19IbWRxbjNldjc4eExDMklSd01rdUNNTTM5V0ZiS3psQlVwaEg4elpfTlpFbEhOZVdObjZfbEVheTdoWnpYZmppQi1ZYzZHeTZDNU9aaFFiWjBWbDM0SU1LTXpaSko5NEs2OGluVkoycGNybVpiU3czRWdTT19qSHd3?oc=5",
    "auto": true,
    "judged": true
   },
@@ -1328,6 +1432,23 @@
    },
    "source": "Times Now",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPV3RFM1pGZDZMb0hJWjlzU3FkWTljWWwydVNWamNXb0kzZkl5UzJsRTRLX0NlVlpyY3FzQXAzQkw4ZUZrdE9SbVBndmx6Q2JSa3lNbVNaTEdDUHNyeTVFdkNmVU9mdDkxc0R5ckZQdEt5Yi1JUFE3MnhjZlVoQTRGQ1A5TXNiWnp0VmVDLVAzUjlEdURlUlJ2X0p6bDFFUF9qU2ZLa3dyeWRad0cwd2VjckQweFRzVEVBdVBCNDlJSGV6bnYzallCb05JTkhsOW1iSjZmVkpNVjFXbWRkV2NUR0pTbGtxM0XSAewBQVVfeXFMTi1LNU9Wc0h6ZXRrSDJJak1PVnhDYnlFYjRWUzRWYmFkMEdTdm40aFpIaGZHSW8tZ0FDUW9QbnY3WTdFMmNiSV9RcFRNUERyYUR3d3h6VTRFTnUwYVpZTUV3S0tQV2k4ekRPVDZZbzRYMGpiMVFad2lCNG92aE1naVNvOXVHakFmZmx3TnZ1Q2ZGbXVrOG82VGREVnhidndUUEpGaHZHQVZrOFNQU0lXV3VPNDRrSUEzbkl0RHdER3BzdVFLT0Q3X1BLNm5jY0oxWWVhMmZ6V2VSZ2NRLUVjTm1rengwVDd2cXoyOXI?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
+   "date": "2026-11-23",
+   "ts": "2026-11-23T08:56:29Z",
+   "level": "major",
+   "title": {
+    "en": "Yann LeCun criticises Anthropic's Dario Amodei stance on open-weight AI models; says restricting AI...",
+    "zh": "Yann LeCun criticises Anthropic's Dario Amodei stance on open-weight AI models; says restricting AI..."
+   },
+   "body": {
+    "en": "LeCun publicly criticized Dario Amodei's stance on restricting open-weight AI models, sharpening the open-vs-closed debate between the two labs.",
+    "zh": "杨立昆公开批评阿莫迪限制开源权重AI模型的立场，使两家实验室之间关于开放与封闭的争论进一步升级。"
+   },
+   "source": "Moneycontrol.com",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQWE11SFZ0TGpNSXZieEtzMEdYZ000SlMtYWhXaWpzbU9TNUJ2MlZMSzQ4TW9BUnlIUVpCYVhWdXpIc2tSTE1zRVRTQUhSMnFUVVVtbXNzbVM2My1mVXhPenRrUDVUTXpTaVJJcFFzX1JXTkFoSUI2ekhNdjBWZmxob2p5dzhfS1JlOExDb0R0aFl0ZTR6QmUwTlVucnRJb2pWSXJRUjNmMHFVbVFwaVJCQjJxM2lMVmhSSWtCVUF3M1g4S0s1Tl9Kb3djM05qbVkzZE9xYmhYMTRoVmJncC1kNGt6WU1wX0FTb2RNNHM4NzBXT2EyV182TWN1SDcwNXhNZWJGeWozZ2VEMGphOTFONm9sSGFOMk5rT2lMenBmTdIBnwJBVV95cUxQWE11SFZ0TGpNSXZieEtzMEdYZ000SlMtYWhXaWpzbU9TNUJ2MlZMSzQ4TW9BUnlIUVpCYVhWdXpIc2tSTE1zRVRTQUhSMnFUVVVtbXNzbVM2My1mVXhPenRrUDVUTXpTaVJJcFFzX1JXTkFoSUI2ekhNdjBWZmxob2p5dzhfS1JlOExDb0R0aFl0ZTR6QmUwTlVucnRJb2pWSXJRUjNmMHFVbVFwaVJCQjJxM2lMVmhSSWtCVUF3M1g4S0s1Tl9Kb3djM05qbVkzZE9xYmhYMTRoVmJncC1kNGt6WU1wX0FTb2RNNHM4NzBXT2EyV182TWN1SDcwNXhNZWJGeWozZ2VEMGphOTFONm9sSGFOMk5rT2lMenBmTQ?oc=5",
    "auto": true,
    "judged": true
   },
@@ -4528,6 +4649,23 @@
    "judged": true
   },
   {
+   "date": "2026-06-27",
+   "ts": "2026-06-27T07:00:00Z",
+   "level": "notable",
+   "title": {
+    "en": "图灵奖得主杨立昆给世界模型补上了数学证明",
+    "zh": "图灵奖得主杨立昆给世界模型补上了数学证明"
+   },
+   "body": {
+    "en": "LeCun and collaborators supplied a mathematical proof underpinning world models, reinforcing his research bet against pure autoregressive LLMs.",
+    "zh": "杨立昆与合作者为世界模型提供了数学证明，进一步支撑他押注世界模型而非纯自回归大模型的研究方向。"
+   },
+   "source": "news.qq.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ncjg2TzhjVlFta1BlSjZoZXBtME5VSkxQNEdiQjltOEJZUFQ2aXpVYWpUZGVLOWhscXhodGZRWW9qWXBnNmw0Wlk1d3BJU1Q3emo0MnFB?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-06-22",
    "ts": null,
    "level": "notable",
@@ -5597,8 +5735,8 @@
   "pageviews": 531264,
   "citations": 253869,
   "hIndex": 120,
-  "events": 270,
-  "posts": 45,
+  "events": 277,
+  "posts": 46,
   "wikiEn": "Yann LeCun",
   "wikiZh": "杨立昆"
  },

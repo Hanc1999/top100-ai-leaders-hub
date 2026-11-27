@@ -299,6 +299,25 @@
    "connector": "arxiv"
   },
   {
+   "date": "2024-07-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision",
+    "zh": "Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision"
+   },
+   "source": "International Conference on Machine Le…",
+   "url": "https://proceedings.mlr.press/v235/burns24b.html",
+   "note": {
+    "en": "Co-authored \"Weak-to-Strong Generalization,\" an OpenAI alignment paper studying whether a weak model's supervision can elicit a strong model's full capabilities.",
+    "zh": "合著论文《Weak-to-Strong Generalization》，这是OpenAI的一项对齐研究，探讨弱模型的监督信号能否激发强模型的全部能力。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2024-06-19",
    "ts": null,
    "kind": "x",
@@ -373,25 +392,6 @@
    "judged": true,
    "platform": "x",
    "connector": "x"
-  },
-  {
-   "date": "2023-12-14",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision",
-    "zh": "Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2312.09390v1",
-   "note": {
-    "en": "The superalignment team's weak-to-strong generalization paper, which asks whether a weak supervisor can elicit the full capability of a stronger model — his central bet on how to supervise systems smarter than humans.",
-    "zh": "超级对齐团队的「弱到强泛化」论文，探讨弱监督者能否激发更强模型的全部能力，这是他对如何监督超越人类的系统所下的核心赌注。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
   },
   {
    "date": "2023-11-23",
@@ -508,6 +508,44 @@
    "connector": "x"
   },
   {
+   "date": "2023-07-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Robust Speech Recognition via Large-Scale Weak Supervision",
+    "zh": "Robust Speech Recognition via Large-Scale Weak Supervision"
+   },
+   "source": "International Conference on Machine Le…",
+   "url": "https://proceedings.mlr.press/v202/radford23a.html",
+   "note": {
+    "en": "Co-authored the Whisper paper, \"Robust Speech Recognition via Large-Scale Weak Supervision,\" OpenAI's large-scale multilingual speech recognition system.",
+    "zh": "合著Whisper论文《Robust Speech Recognition via Large-Scale Weak Supervision》，这是OpenAI的大规模多语言语音识别系统。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
+   "date": "2023-07-03",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Consistency Models",
+    "zh": "Consistency Models"
+   },
+   "source": "International Conference on Machine Le…",
+   "url": "https://proceedings.mlr.press/v202/song23a.html",
+   "note": {
+    "en": "Co-authored \"Consistency Models,\" a new class of generative models that produce high-quality samples in a single step instead of iterative diffusion.",
+    "zh": "合著论文《Consistency Models》，提出一类新的生成模型，无需迭代式扩散即可一步生成高质量样本。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
+  },
+  {
    "date": "2023-05-31",
    "ts": null,
    "kind": "paper",
@@ -525,6 +563,25 @@
    "judged": true,
    "platform": "arxiv",
    "connector": "arxiv"
+  },
+  {
+   "date": "2023-05-01",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Formal Mathematics Statement Curriculum Learning",
+    "zh": "Formal Mathematics Statement Curriculum Learning"
+   },
+   "source": "International Conference on Learning R…",
+   "url": "https://openreview.net/forum?id=-P7G-8dmSh4",
+   "note": {
+    "en": "Co-authored \"Formal Mathematics Statement Curriculum Learning,\" showing expert iteration lets a model solve a curriculum of increasingly hard formal math problems without ground-truth proofs.",
+    "zh": "合著论文《Formal Mathematics Statement Curriculum Learning》，证明专家迭代方法可让模型在没有真实证明的情况下，逐步解决难度递增的形式化数学问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2023-04-26",
@@ -584,80 +641,23 @@
    "connector": "arxiv"
   },
   {
-   "date": "2023-03-02",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Consistency Models",
-    "zh": "Consistency Models"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2303.01469v2",
-   "note": {
-    "en": "Consistency models, which generate images in one or a few steps instead of a long iterative diffusion sampling loop.",
-    "zh": "一致性模型论文，用一步或少数几步生成图像，取代扩散模型漫长的迭代采样过程。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2022-12-06",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Robust Speech Recognition via Large-Scale Weak Supervision",
-    "zh": "Robust Speech Recognition via Large-Scale Weak Supervision"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2212.04356v1",
-   "note": {
-    "en": "The Whisper paper: speech recognition trained on 680,000 hours of weakly supervised multilingual audio, which generalises without fine-tuning.",
-    "zh": "Whisper 论文：用 68 万小时弱监督多语言音频训练的语音识别模型，无需微调即可泛化。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2022-02-03",
-   "ts": null,
-   "kind": "paper",
-   "title": {
-    "en": "Formal Mathematics Statement Curriculum Learning",
-    "zh": "Formal Mathematics Statement Curriculum Learning"
-   },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2202.01344v1",
-   "note": {
-    "en": "Applies expert iteration to formal theorem proving, showing a model can build its own curriculum of statements to learn from.",
-    "zh": "将专家迭代应用于形式化定理证明，表明模型可以自行构建可学习的命题课程。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
-  },
-  {
-   "date": "2021-12-20",
+   "date": "2022-06-28",
    "ts": null,
    "kind": "paper",
    "title": {
     "en": "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models",
     "zh": "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models"
    },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2112.10741v3",
+   "source": "International Conference on Machine Le…",
+   "url": "https://proceedings.mlr.press/v162/nichol22a.html",
    "note": {
-    "en": "GLIDE, OpenAI's text-guided diffusion model for photorealistic image generation and editing.",
-    "zh": "GLIDE，OpenAI 用于照片级图像生成与编辑的文本引导扩散模型。"
+    "en": "Co-authored \"GLIDE,\" an OpenAI text-guided diffusion model for photorealistic image generation and editing, a direct precursor to DALL-E 2.",
+    "zh": "合著论文《GLIDE》，这是OpenAI用于照片级图像生成与编辑的文本引导扩散模型，是DALL-E 2的直接前身。"
    },
    "auto": true,
    "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2021-12-01",
@@ -1528,10 +1528,10 @@
  },
  "cat": "lab",
  "score": {
-  "total": 77.2,
+  "total": 76.9,
   "attention": 81,
   "centrality": 79,
-  "momentum": 62,
+  "momentum": 61,
   "stature": 92,
   "pageviews": 783963,
   "citations": 219164,

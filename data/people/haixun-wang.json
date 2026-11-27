@@ -243,6 +243,44 @@
    "connector": null
   },
   {
+   "date": "2026-10-17",
+   "ts": "2026-10-17T12:49:12Z",
+   "kind": "blog",
+   "title": {
+    "en": "Let Machines Be Machines",
+    "zh": "Let Machines Be Machines"
+   },
+   "source": "Stories by Haixun Wang on Medium",
+   "url": "https://medium.com/data-science-collective/let-machines-be-machines-f1a1f957bc96?source=rss-ea8c5af70e3------2",
+   "note": {
+    "en": "Wang explores why AI models are developing internal representations and inter-model \"languages\" that no human ever reads.",
+    "zh": "Wang探讨了AI模型为何会发展出人类从不阅读的内部表征与模型间\"语言\"。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
+   "date": "2026-10-17",
+   "ts": "2026-10-17T12:44:50Z",
+   "kind": "blog",
+   "title": {
+    "en": "What’s Inside Jev?",
+    "zh": "What’s Inside Jev?"
+   },
+   "source": "Stories by Haixun Wang on Medium",
+   "url": "https://medium.com/data-science-collective/whats-inside-jev-ac0fe9124e99?source=rss-ea8c5af70e3------2",
+   "note": {
+    "en": "Wang examines \"Jev,\" a new model from a ChatGPT co-inventor that refuses to generate text and drew 140,000 waitlist signups within 36 hours.",
+    "zh": "Wang分析了\"Jev\"——一位ChatGPT共同发明者推出的新模型，它拒绝生成文本，却在36小时内吸引了14万人加入候补名单。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "medium",
+   "connector": "personal"
+  },
+  {
    "date": "2026-10-15",
    "ts": null,
    "kind": "paper",
@@ -1187,7 +1225,7 @@
   "citations": 0,
   "hIndex": 0,
   "events": 1,
-  "posts": 51,
+  "posts": 53,
   "wikiEn": null,
   "wikiZh": null
  },

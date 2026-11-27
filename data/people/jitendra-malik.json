@@ -1,5 +1,5 @@
 {
- "rank": 81,
+ "rank": 80,
  "id": "jitendra-malik",
  "name": {
   "en": "Jitendra Malik",
@@ -181,6 +181,25 @@
     "en": "",
     "zh": ""
    }
+  },
+  {
+   "date": "2026-11-26",
+   "ts": "2026-11-26T05:07:53Z",
+   "kind": "x",
+   "title": {
+    "en": "At CoRL 2026, we did a live demonstration of \"PIck Anything\" from the Dex-Hands team at Amazon FAR (details in my X post on Nov. 7). This was meant to be a stre",
+    "zh": "At CoRL 2026, we did a live demonstration of \"PIck Anything\" from the Dex-Hands team at Amazon FAR (details in my X post on Nov. 7). This was meant to be a stre"
+   },
+   "source": "@jitendramalikcv",
+   "url": "https://x.com/JitendraMalikCV/status/2125818806706806880",
+   "note": {
+    "en": "Malik shared a live CoRL 2026 demo of \"Pick Anything\" from Amazon FAR's Dex-Hands team, run as an open stress test for any booth visitor.",
+    "zh": "马利克分享了亚马逊FAR的Dex-Hands团队在CoRL 2026上的\"Pick Anything\"现场演示，这是一项面向任何展台访客的开放压力测试。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
   },
   {
    "date": "2026-11-16",
@@ -1874,25 +1893,6 @@
    "connector": "x"
   },
   {
-   "date": "2024-11-12",
-   "ts": null,
-   "kind": "x",
-   "title": {
-    "en": "@animesh_garg @corl_conf I am honored to be accepted into the robotics community. Many of the central problems on the way to \"AGI\" lie in the space of robotics",
-    "zh": "@animesh_garg @corl_conf I am honored to be accepted into the robotics community. Many of the central problems on the way to \"AGI\" lie in the space of robotics"
-   },
-   "source": "@JitendraMalikCV",
-   "url": "https://x.com/JitendraMalikCV/status/1856368804034687408",
-   "note": {
-    "en": "Accepting a robotics community honor, Malik argued many of the central problems on the path to AGI lie in robotics and embodied AI.",
-    "zh": "在接受机器人学界的一项认可时,Malik表示通往AGI的许多核心问题其实在于机器人学与具身智能。"
-   },
-   "auto": true,
-   "judged": true,
-   "platform": "x",
-   "connector": "x"
-  },
-  {
    "date": "2023-08-17",
    "ts": null,
    "kind": "podcast",
@@ -1977,10 +1977,10 @@
  },
  "cat": "research",
  "score": {
-  "total": 28.4,
+  "total": 28.9,
   "attention": 21,
   "centrality": 14,
-  "momentum": 36,
+  "momentum": 38,
   "stature": 81,
   "pageviews": 12954,
   "citations": 168758,

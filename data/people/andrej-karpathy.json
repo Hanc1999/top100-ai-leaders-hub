@@ -1106,6 +1106,23 @@
    "url": "https://www.startuphub.ai/ai-news/ai-figures/2026/figure-andrej-karpathy-nano-series-technical-contribution-2026-07-16"
   },
   {
+   "date": "2026-11-26",
+   "ts": "2026-11-26T08:52:54Z",
+   "level": "notable",
+   "title": {
+    "en": "Andrej Karpathy Builds Playable U.S. Strategy Map With Claude",
+    "zh": "Andrej Karpathy Builds Playable U.S. Strategy Map With Claude"
+   },
+   "body": {
+    "en": "Karpathy spent seven hours with Claude Opus 5.5 turning 31 public US datasets into a playable, county-level Civilization-style strategy map, a vivid demo of 'vibe coding' at scale.",
+    "zh": "Karpathy用Claude Opus 5.5花了七个小时，把31个美国公开数据集整合成一张可玩的、精确到县级的《文明》式战略地图，是对大规模“vibe coding”的生动演示。"
+   },
+   "source": "www.tokenpost.com",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ncl8yRllqMXRpMV91ZWdWdkpzS1pydGxZdHlybEs4UFQ5amZrSkE1YngxYUhPNmVfV3RSTThMX1J6YmFvMG1TdGFudV85OW81QmZOZWhheEhBZ28?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-08",
    "ts": "2026-11-08T14:28:35Z",
    "level": "notable",
@@ -1742,15 +1759,15 @@
  },
  "cat": "lab",
  "score": {
-  "total": 65.2,
+  "total": 65.4,
   "attention": 79,
   "centrality": 47,
-  "momentum": 61,
+  "momentum": 62,
   "stature": 63,
   "pageviews": 695645,
   "citations": 58963,
   "hIndex": 20,
-  "events": 39,
+  "events": 40,
   "posts": 48,
   "wikiEn": "Andrej Karpathy",
   "wikiZh": "安德烈·卡帕西"

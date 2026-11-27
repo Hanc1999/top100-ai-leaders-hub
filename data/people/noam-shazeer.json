@@ -746,23 +746,23 @@
    "connector": "openalex"
   },
   {
-   "date": "2021-09-17",
+   "date": "2021-12-06",
    "ts": null,
    "kind": "paper",
    "title": {
     "en": "Primer: Searching for Efficient Transformers for Language Modeling",
     "zh": "Primer: Searching for Efficient Transformers for Language Modeling"
    },
-   "source": "arXiv",
-   "url": "https://arxiv.org/abs/2109.08668v2",
+   "source": "neural information processing systems",
+   "url": "https://proceedings.neurips.cc/paper_files/paper/2021/hash/2f3c6a4cd8af177f6456e7e51a916ff3-Abstract.html",
    "note": {
-    "en": "Primer uses architecture search to find Transformer variants that reach the same quality at substantially lower training cost.",
-    "zh": "Primer 通过架构搜索寻找 Transformer 变体，以显著更低的训练成本达到同等质量。"
+    "en": "Noam Shazeer co-authors \"Primer,\" a NeurIPS paper searching for more efficient transformer architectures for language modeling.",
+    "zh": "Noam Shazeer是NeurIPS论文《Primer》的共同作者，该文探索了更高效的语言建模Transformer架构。"
    },
    "auto": true,
    "judged": true,
-   "platform": "arxiv",
-   "connector": "arxiv"
+   "platform": "openalex",
+   "connector": "openalex"
   },
   {
    "date": "2021-05-10",

@@ -1,5 +1,5 @@
 {
- "rank": 29,
+ "rank": 30,
  "id": "yoshua-bengio",
  "name": {
   "en": "Yoshua Bengio",
@@ -205,6 +205,25 @@
    "judged": true,
    "platform": "x",
    "connector": null
+  },
+  {
+   "date": "2026-11-08",
+   "ts": null,
+   "kind": "paper",
+   "title": {
+    "en": "Chain-of-Thought Is Not Explainability",
+    "zh": "Chain-of-Thought Is Not Explainability"
+   },
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.31271v1",
+   "note": {
+    "en": "Bengio co-authored a paper arguing that chain-of-thought text, despite looking like a model's reasoning, is not a reliable explanation of how it actually reached its answer.",
+    "zh": "本吉奥合著论文指出，思维链文本看似展示了模型的推理过程，但并不能可靠地解释模型实际是如何得出答案的。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "arxiv",
+   "connector": "arxiv"
   },
   {
    "date": "2026-11-05",
@@ -2289,6 +2308,23 @@
    "url": "https://www.euronews.com/next/2025/06/04/godfather-of-ai-yoshua-bengio-launches-non-profit-to-make-ai-safer-and-more-trustworthy"
   },
   {
+   "date": "2026-11-26",
+   "ts": "2026-11-26T04:38:00Z",
+   "level": "major",
+   "title": {
+    "en": "Yoshua Bengio and LawZero Advocate for Regulating Compute to Slow AI Development",
+    "zh": "Yoshua Bengio and LawZero Advocate for Regulating Compute to Slow AI Development"
+   },
+   "body": {
+    "en": "Bengio and LawZero called for regulating compute access to slow the pace of AI development, a concrete policy proposal from one of the field's leading AI-safety voices.",
+    "zh": "本吉奥与LawZero呼吁对算力获取进行监管以减缓AI发展速度，这是这位AI安全领域领军人物提出的具体政策主张。"
+   },
+   "source": "PravdaReport",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNFI0d2RHdy1VZURHTS1SanI2T2loMklnUGZ3NFl0VGdWZ255bEtoQmt5NjRzWHRPS2hHTDZuMS1BOExPUE1rVlBKZDVoRHd1a0dzUm4teUdwbTlHLVAyNkJibjctRVhhNXdkOGdYMWlqbWhWUWUzTndOdHRzVHJxYWtBclphRDVvLUNOZWtZdzNwdw?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-11-24",
    "ts": "2026-11-24T14:50:33Z",
    "level": "major",
@@ -3377,6 +3413,23 @@
    "judged": true
   },
   {
+   "date": "2026-08-15",
+   "ts": "2026-08-15T07:00:00Z",
+   "level": "major",
+   "title": {
+    "en": "Yoshua Bengio: \"We are already seeing AIs lie, cheat, blackmail and try to escape. With more powerful systems, the risk of losing control becomes real\"",
+    "zh": "Yoshua Bengio: \"We are already seeing AIs lie, cheat, blackmail and try to escape. With more powerful systems, the risk of losing control becomes real\""
+   },
+   "body": {
+    "en": "Bengio warned that advanced AI systems are already showing deceptive and self-preserving behavior, and that losing control becomes a real risk as systems grow more powerful.",
+    "zh": "Bengio警告称，先进AI系统已经出现欺骗、自我保护等行为，随着系统愈发强大，失控风险正变为现实。"
+   },
+   "source": "Le Temps",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxORlA0OVMxblRqalZCM3pzVmk0VGVxYTNDUnZENDlOWXlWWFVWS05tbk9iUWNaYndvckZJN0IxeWstSTM0VkZ0Tkp1ZnhMcmRLVkN2T3N5bGgwSjZ1SlBRT3FmR1JiSFNSTVhTa2p0by13M1phbm5ZOFhnNDlIVWNsbDZnS09rNU5oaDZmMUtPSmttRHdzaWwwbFNzTHJzaGRZZ0ZzcGE3MUpYZ2N6a3R5aFFOMGVGd3VLcVhvR184UjFkTU04a0J2ekxsOFdSZHVqZ2g1eXYtZkxQcHNwT2tWQ191NnRPUkdDODQ2R2hrNWpma2JtRDJUb1lXTEtLdG01bEI2OGhvRQ?oc=5",
+   "auto": true,
+   "judged": true
+  },
+  {
    "date": "2026-07-14",
    "ts": null,
    "level": "major",
@@ -3545,8 +3598,8 @@
   "pageviews": 276660,
   "citations": 475043,
   "hIndex": 184,
-  "events": 75,
-  "posts": 111,
+  "events": 77,
+  "posts": 112,
   "wikiEn": "Yoshua Bengio",
   "wikiZh": "约书亚·本希奥"
  },

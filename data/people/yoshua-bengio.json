@@ -2221,6 +2221,25 @@
    "connector": "web"
   },
   {
+   "date": "2023-03-15",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "Yoshua Bengio: equipping AI with higher level cognition and creativity",
+    "zh": "Yoshua Bengio: equipping AI with higher level cognition and creativity"
+   },
+   "source": "The Robot Brains Podcast",
+   "url": "https://podcasts.apple.com/us/podcast/yoshua-bengio-equipping-ai-with-higher-level-cognition/id1559275284?i=1000604293586&uo=4",
+   "note": {
+    "en": "Yoshua Bengio joined The Robot Brains Podcast to discuss large language models, higher-level cognition, causality and responsible AI.",
+    "zh": "Yoshua Bengio做客The Robot Brains播客，探讨了大语言模型、高阶认知、因果关系与负责任的人工智能等话题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
+  },
+  {
    "date": "2022-11-21",
    "ts": null,
    "kind": "podcast",
@@ -3599,7 +3618,7 @@
   "citations": 475043,
   "hIndex": 184,
   "events": 77,
-  "posts": 112,
+  "posts": 113,
   "wikiEn": "Yoshua Bengio",
   "wikiZh": "约书亚·本希奥"
  },

@@ -163,6 +163,25 @@
    }
   },
   {
+   "date": "2026-11-27",
+   "ts": null,
+   "kind": "report",
+   "title": {
+    "en": "tridao released v0.2.2 at tridao/gpubox",
+    "zh": "tridao released v0.2.2 at tridao/gpubox"
+   },
+   "source": "GitHub Public Timeline Feed",
+   "url": "https://github.com/tridao/gpubox/releases/tag/v0.2.2",
+   "note": {
+    "en": "Tri Dao released v0.2.2 of gpubox, his GPU-rental tool, adding a filter that skips rental offers too short to cover a requested minimum runtime.",
+    "zh": "Tri Dao发布了其GPU租赁工具gpubox的v0.2.2版本，新增功能可跳过剩余时长不足所需最短运行时间的租赁报价。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "github",
+   "connector": "github"
+  },
+  {
    "date": "2026-11-05",
    "ts": "2026-11-05T19:01:00Z",
    "kind": "x",
@@ -1715,7 +1734,7 @@
   "citations": 2310,
   "hIndex": 17,
   "events": 1,
-  "posts": 81,
+  "posts": 82,
   "wikiEn": null,
   "wikiZh": null
  },

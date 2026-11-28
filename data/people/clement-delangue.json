@@ -132,6 +132,44 @@
    }
   },
   {
+   "date": "2026-11-27",
+   "ts": "2026-11-27T14:28:04Z",
+   "kind": "x",
+   "title": {
+    "en": "Distillation is good and healthy in AI. It's one of the few things limiting extreme concentration of power, capabilities and wealth (and very similar to how AI",
+    "zh": "Distillation is good and healthy in AI. It's one of the few things limiting extreme concentration of power, capabilities and wealth (and very similar to how AI"
+   },
+   "source": "@clementdelangue",
+   "url": "https://x.com/ClementDelangue/status/2126322165364719677",
+   "note": {
+    "en": "Delangue argues distillation helps prevent runaway concentration of AI capability and wealth, framing Hugging Face's open distribution model as a check on closed labs.",
+    "zh": "德朗格认为蒸馏技术有助于防止AI能力和财富的过度集中，将Hugging Face的开放分发模式视为对闭源实验室的制衡。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
+   "date": "2026-11-27",
+   "ts": "2026-11-27T14:56:50Z",
+   "kind": "x",
+   "title": {
+    "en": "There's something happening with post-training! People are starting to realize you can post-train open-source model to frontier on your tasks and constraints at",
+    "zh": "There's something happening with post-training! People are starting to realize you can post-train open-source model to frontier on your tasks and constraints at"
+   },
+   "source": "@clementdelangue",
+   "url": "https://x.com/ClementDelangue/status/2126329405093867686",
+   "note": {
+    "en": "Delangue flags a shift toward post-training open models to frontier performance on specific tasks at a fraction of generalist-model cost.",
+    "zh": "德朗格指出一个新趋势：针对特定任务对开源模型进行后训练即可达到前沿水平，成本远低于通用大模型。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-25",
    "ts": "2026-11-25T20:51:40Z",
    "kind": "x",
@@ -1533,7 +1571,7 @@
   "citations": 13168,
   "hIndex": 5,
   "events": 18,
-  "posts": 58,
+  "posts": 60,
   "wikiEn": null,
   "wikiZh": null
  },

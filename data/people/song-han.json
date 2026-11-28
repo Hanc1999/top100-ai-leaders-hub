@@ -228,6 +228,25 @@
    }
   },
   {
+   "date": "2026-11-27",
+   "ts": "2026-11-27T02:46:24Z",
+   "kind": "x",
+   "title": {
+    "en": "explore Agentic LongLive: solving the forgetting and consistency issue in long video generation by adding memory to it.",
+    "zh": "explore Agentic LongLive: solving the forgetting and consistency issue in long video generation by adding memory to it."
+   },
+   "source": "@songhan_mit",
+   "url": "https://x.com/songhan_mit/status/2126145586886009294",
+   "note": {
+    "en": "Song Han highlighted Agentic LongLive, a method adding memory to long video generation to fix forgetting and consistency problems.",
+    "zh": "韩松介绍了 Agentic LongLive，通过为长视频生成加入记忆机制来解决遗忘和一致性问题。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "x",
+   "connector": null
+  },
+  {
    "date": "2026-11-26",
    "ts": "2026-11-26T17:22:45Z",
    "kind": "x",
@@ -1683,16 +1702,16 @@
  },
  "cat": "research",
  "score": {
-  "total": 21.7,
+  "total": 21.9,
   "attention": 4,
   "centrality": 18,
-  "momentum": 48,
+  "momentum": 49,
   "stature": 46,
   "pageviews": 888,
   "citations": 32832,
   "hIndex": 58,
   "events": 7,
-  "posts": 73,
+  "posts": 74,
   "wikiEn": null,
   "wikiZh": "韩松"
  },

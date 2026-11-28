@@ -2339,6 +2339,25 @@
    "judged": true,
    "platform": "apple-podcasts",
    "connector": "podcasts"
+  },
+  {
+   "date": "2008-07-23",
+   "ts": null,
+   "kind": "podcast",
+   "title": {
+    "en": "2. Machine Learning Lecture 2",
+    "zh": "2. Machine Learning Lecture 2"
+   },
+   "source": "Machine Learning",
+   "url": "https://podcasts.apple.com/us/podcast/2-machine-learning-lecture-2/id384233048?i=1000085092482&uo=4",
+   "note": {
+    "en": "Recording of Andrew Ng's CS229 Machine Learning lecture 2 at Stanford, early first-hand teaching material from the course that built his reputation as an ML educator.",
+    "zh": "吴恩达在斯坦福CS229《机器学习》课程第二讲的录音，是他早年作为机器学习教育者积累声誉的第一手教学材料。"
+   },
+   "auto": true,
+   "judged": true,
+   "platform": "apple-podcasts",
+   "connector": "podcasts"
   }
  ],
  "news": [
@@ -4603,7 +4622,7 @@
   "citations": 131102,
   "hIndex": 124,
   "events": 132,
-  "posts": 114,
+  "posts": 115,
   "wikiEn": "Andrew Ng",
   "wikiZh": "吴恩达"
  },
